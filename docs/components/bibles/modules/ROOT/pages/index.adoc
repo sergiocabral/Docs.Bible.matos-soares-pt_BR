@@ -1,4 +1,56 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla   |matos-soares
+|🌐 Idioma  |Português (Brasil)
+|📅 Ano     |1956
+|📖 Título  |Bíblia Sagrada – Tradução Matos Soares
+|===
+
+A tradução de **Padre Manuel de Matos Soares** é uma das versões católicas clássicas da Bíblia em português, elaborada inicialmente a partir da *Vulgata Latina* em **1932**, com revisão profunda em **1956**, quando o autor revisou diretamente dos manuscritos hebraicos e gregos disponíveis. Edições modernas foram relançadas entre 2019 e 2024 no Brasil, em formato impresso e digital.
+
+== 📜 Base textual
+
+* Versão de 1932: baseada na *Vulgata Latina*.
+* Revisão de 1956: “Versão segundo os textos originais” — traduziu diretamente do hebraico e grego, complementando com a Vulgata quando necessário.
+
+== Método de tradução
+
+* **Equivalência formal**, com influência da tradição católica.
+* Linguagem literária clássica.
+* Devota de notas explicativas de cunho catequético.
+* Usa “Senhor” em lugar do tetragrama YHWH.
+
+== 🗓️ Histórico e edições
+
+* **1932** – 1ª edição traduzida da Vulgata.
+* **1934, 1940, 1946, 1952** – edições sucessivas a partir da mesma base
+* **1956** – sexta edição, revisada diretamente dos textos originais — Matos Soares adaptou Hebraico e Grego
+* **2019** – reedição moderna do Novo Testamento pela **Ecclesiae**, mantendo 1956 como base
+* **2022** – relançamento da Bíblia completa (Ecclesiae) e de edições da Realeza com textos ilustrados
+* **2024** – 2ª edição reimpressa pela Realeza da Vulgata de 1932
+
+== Características principais
+
+* Texto comentado: contém notas e comentários do próprio tradutor.
+* Inclui livros deuterocanônicos segundo o cânon católico.
+* Projetado para uso litúrgico, devocional e acadêmico.
+* Versões modernas mantêm fidelidade ao estilo autoral de 1956.
+
+== Fontes
+
+* Bíblia Católica: https://www.bibliacatolica.com.br/biblia-matos-soares-1956
+* Wikipédia – Matos Soares: https://pt.wikipedia.org/wiki/Manuel_de_Matos_e_Silva_Soares_de_Almeida
+* Amazon – Bíblia Matos Soares (edição 1956): https://www.amazon.com.br/B%C3%ADblia-Sagrada-Tradu%C3%A7%C3%A3o-Manuel-Fire-OS/dp/B092CRC4MF
+* Ecclesiae – relançamento: https://ecclesiae.com.br/biblia-sagrada-traducao-do-pe-manuel-de-matos-soares
+* Loja Obras Católicas – edições de 1932 e 2ª edição: https://www.loja.obrascatolicas.com/biblia-2a-edicao
+
+== Observações finais
+
+A **Tradução Matos Soares** é uma referência católica tradicional, com texto revisado de 1956 baseado nos manuscritos originais, atualmente reeditada no Brasil para leitores que buscam fidelidade doutrinária e textual.
+
+:include: https://www.raciocinios.com.br/support-projects.adoc

@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Bíblia Sagrada – Tradução Matos Soares (matos-soares, pt_BR, 1956)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://matos-soares-pt-br.bible.raciocinios.com.br/
 
 ---
 
