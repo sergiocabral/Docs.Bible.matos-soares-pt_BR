@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v40-2-0]]
+=== Miquéias, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Miquéias 2 é um capítulo que denuncia a injustiça e a opressão dos líderes e governantes de Judá e Israel. O profeta acusa essas autoridades de acumularem riquezas e bens à custa do povo e de oprimirem os pobres e necessitados. Abaixo, seguem cinco versículos relacionados com esses temas:
+* Isaías 10:1-2: "Ai dos que decretam leis injustas, dos que escrevem leis opressivas para privar os pobres dos seus direitos e roubar dos necessitados do meu povo, fazendo das viúvas a sua presa e dos órfãos a sua presa fácil!" Este versículo é uma condenação àqueles que criam leis injustas que favorecem os ricos e poderosos em detrimento dos pobres e necessitados.
+* Ezequiel 22:29: "O povo da terra tem usado de opressão, cometido roubo e oprimido o pobre e necessitado, maltratando o estrangeiro sem justiça." Este versículo mostra como a opressão e a injustiça eram práticas comuns na época de Ezequiel e como isso desagradava a Deus.
+* Isaías 3:14-15: "O Senhor entra em julgamento, e coloca-se para julgar os anciãos do seu povo e seus líderes. Vocês destruíram a vinha; o despojo dos pobres está em suas casas." Este versículo retrata a ação de Deus contra aqueles que exploram o povo e destroem sua economia.
+* Provérbios 14:31: "Aquele que oprime o pobre insulta aquele que o criou, mas quem tem compaixão dos pobres honra-o." Este versículo destaca a importância de tratar o povo com justiça e compaixão, como uma forma de honrar a Deus.
+* Amós 8:4-6: "Ouçam isto, vocês que pisam os pobres e destroem os necessitados da terra, dizendo: Quando vai passar a lua nova para que possamos vender trigo, e o sábado para que possamos oferecer trigo à venda? Diminuiremos a medida, aumentaremos o preço, e usaremos balanças falsas para enganar." Este versículo expõe a ganância e a exploração dos ricos em relação aos pobres e mostra como isso é abominável diante de Deus.
+****
+
+[[v40-2-1]]
+
+^<<v40-2-1,1>>^ Ai dos que planeiam a iniquidade, dos que maquinam o mal em seus leitos e o executam logo que amanhece, porque têm o poder em sua mão.
+
+[[v40-2-2]]
+
+^<<v40-2-2,2>>^ Cobiçam as terras (dos seus vizinhos) e roubam-nas, as casas, e apoderam-se delas; lançam a mão ao homem e à sua casa, aos donos e aos seus bens.
+
+[[v40-2-3]]
+
+^<<v40-2-3,3>>^ Portanto isto diz o Senhor: Eis que faço tenção de enviar sobre este povo uma calamidade, de que não livrareis o vosso pescoço; não andareis mais com um passo soberbo, porque o tempo será calamitoso.
+
+[[v40-2-4]]
+
+^<<v40-2-4,4>>^ Naquele dia será composta sobre vós uma sátira e cantar-se-á uma elegia: Estamos inteiramente devastados; a parte do meu povo passa a outros! Como ma arrebatam? Os nossos campos foram repartidos entre os infiéis.
+
+[[v40-2-5]]
+
+^<<v40-2-5,5>>^ Por isso dão terás (ó Israel) quem meça com cordel as porções na assembleia do Senhor.
+
+[[v40-2-6]]
+
+^<<v40-2-6,6>>^ Não profetizeis, dizem eles, não se profetize mais assim; isto não afastará o opróbrio porque não receberão, nem lhes causarão confusão alguma.
+
+[[v40-2-7]]
+
+^<<v40-2-7,7>>^ A casa de Jacob diz: Acaso o Senhor é pronto para a cólera? E esta a sua forma de agir? Não são as minhas palavras (responde o Senhor) cheias de bondade para com aquele que caminha com rectidão?
+
+[[v40-2-8]]
+
+^<<v40-2-8,8>>^ O meu povo, pelo contrário, levanta-se como inimigo; com a túnica (ó Israelitas) tirais a capa, e tratais como inimigos aqueles que passam (ou viviam) em paz. (ver nota)
+
+[[v40-2-9]]
+
+^<<v40-2-9,9>>^ Lançais fora dos seus amados lares as mulheres do meu povo; tirais para sempre a minha glória aos seus filhinhos.
+
+[[v40-2-10]]
+
+^<<v40-2-10,10>>^ Levantai-vos e parti (para o exílio), porque não tereis aqui descanso. Por causa da vossa imundície, ser-vos-á infligido um cruel tormento.
+
+[[v40-2-11]]
+
+^<<v40-2-11,11>>^ Se houvesse um homem que lançasse palavras ao vento e dissesse mentiras (assim): Vou profetizar-te vinho e cerveja— tal homem seria o profeta deste povo.
+
+[[v40-2-12]]
+
+^<<v40-2-12,12>>^ (Porém, por fim) eu te congregarei, ó Jacob, todo inteiro; reunirei as relíquias de Israel Porei tudo junto como ovelhas no aprisco, como rebanho no seu redil: será uma ruidosa multidão de homens.
+
+[[v40-2-13]]
+
+^<<v40-2-13,13>>^ Aquele (bom Pastor) que lhes há-de abrir o caminho Irá adiante deles; forçarão e passarão em turmas a porta e sairão por ela; o seu rei passará diante deles, e o Senhor estará à sua frente.
+
+'''
+
+xref:040-miqueias/040-miqueias-001.adoc#v40-1-0[&#60; Capítulo Anterior] | <<v40-2-0,Topo>> | xref:040-miqueias/040-miqueias-003.adoc#v40-3-0[Próximo Capítulo &#62;]

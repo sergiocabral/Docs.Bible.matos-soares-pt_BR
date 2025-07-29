@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v33-35-0]]
+=== Ezequiel, 35
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 35 de Ezequiel trata da condenação de Edom, um antigo inimigo do povo de Israel. O profeta anuncia a destruição de Edom e a punição de seus líderes, que se alegraram com a queda de Jerusalém. Abaixo seguem cinco versículos relacionados com os temas abordados em Ezequiel 35:
+* Obadias 1:10-11: "Por causa da violência contra teu irmão Jacó, cobrir-te-á a vergonha, e serás exterminado para sempre. No dia em que te postaste de longe, no dia em que estranhos levaram cativo o seu exército, quando estranhos entravam pelas suas portas, e lançavam sortes sobre Jerusalém, também tu eras como um deles." Este trecho do livro de Obadias profetiza a punição de Edom por sua violência contra o povo de Israel, incluindo a alegria com a queda de Jerusalém.
+* Isaías 34:5-6: "Porque será uma matança de Jeová em Edom, e um grande matar na terra deles. E os unicórnios descerão com eles, e os bois com os touros; e a sua terra embriagar-se-á de sangue, e o seu pó será engrossado de gordura." Este versículo do livro de Isaías anuncia a destruição de Edom e a abundância de sangue derramado em sua terra.
+* Jeremias 49:7-8: "Quanto a Edom, assim diz Jeová dos exércitos: Acaso não há mais sabedoria em Temã? Perdeu-se o conselho dos entendidos? Corrompeu-se a sua sabedoria? Fugi, voltai-vos para trás, habitai em profundezas, ó moradores de Dedã; porque trarei sobre ele a calamidade de Esaú, no tempo em que o castigarei." Neste trecho de Jeremias, Deus ameaça punir Edom por sua arrogância e alegria com a queda de Jerusalém.
+* Salmos 137:7: "Lembra-te, Jeová, dos filhos de Edom, no dia de Jerusalém, que diziam: Descobri, descobri até os seus alicerces." Este salmo registra as palavras de lamento do povo de Israel durante seu exílio na Babilônia, lembrando da crueldade de Edom em sua hora de aflição.
+* Amós 1:11-12: "Assim diz Jeová: Por três transgressões de Edom, e por quatro, não revogarei o castigo, porque perseguiu a seu irmão à espada, e suprimiu toda a compaixão, e a sua ira lhe arrebatou continuamente, e conservou perpetuamente a sua fúria. Por isso enviarei um fogo sobre Temã, que consumirá os palácios de Bozra." Nesta passagem do livro de Amós, Deus condena a violência de Edom contra o povo de Israel e anuncia sua punição.
+****
+
+[[v33-35-1]]
+
+^<<v33-35-1,1>>^ Foi-me dirigida a palavra do Senhor, nestes termos:
+
+[[v33-35-2]]
+
+^<<v33-35-2,2>>^ Filho de homem, volta o teu rosto para o monte de Seir e profetiza contra ele. Dize-lhe:
+
+[[v33-35-3]]
+
+^<<v33-35-3,3>>^ Assim fala o Senhor Deus; Eis que venho contra ti, ó monte de Seir, estenderei a minha mão sobre ti e tornar-te-ei desolado e deserto.
+
+[[v33-35-4]]
+
+^<<v33-35-4,4>>^ Reduzirei a ruínas as tuas cidades, ficarás devastado e saberás que eu sou o Senhor.
+
+[[v33-35-5]]
+
+^<<v33-35-5,5>>^ Porque nutriste um ódio eterno aos filhos de Israel e os entregaste à espada no tempo da sua aflição, quando a sua iniquidade tinha chegado ao extremo,
+
+[[v33-35-6]]
+
+^<<v33-35-6,6>>^ por isso (juro) pela minha vida. diz o Senhor Deus, que te entregarei ao sangue, e que o sangue te perseguirá; porque pecaste, derramando o sangue, o sangue te perseguirá.
+
+[[v33-35-7]]
+
+^<<v33-35-7,7>>^ Tornarei o monte de Seir desolado e deserto, e desviarei dele todos os (transeuntes) que vão e vêm.
+
+[[v33-35-8]]
+
+^<<v33-35-8,8>>^ Encherei os seus montes de mortos: cairão passados à espada sobre os teus outeiros e nos teus vales e nas tuas torrentes.
+
+[[v33-35-9]]
+
+^<<v33-35-9,9>>^ Reduzir-te-ei a solidões eternas: as tuas cidades não serão mais habitadas. Assim sabereis que eu sou o Senhor Deus.
+
+[[v33-35-10]]
+
+^<<v33-35-10,10>>^ Porque disseste: Duas nações e dois países serão meus eu os possuirei como minha herança quando o Senhor estava lá presente
+
+[[v33-35-11]]
+
+^<<v33-35-11,11>>^ por essa razão, juro, diz o Senhor Deus, que te hei-de tratar conforme a ira e o ciúme que sempre mostraste no teu ódio contra eles (os Israelitas) e que me farei conhecer por meio deles, quando te julgar.
+
+[[v33-35-12]]
+
+^<<v33-35-12,12>>^ Saberás que eu, o Senhor, ouvi todos os insultos que proferiste contra os montes de Israel, dizendo: São uns montes desertos, que nos foram dados para nós os devorarmos (como uma presa).
+
+[[v33-35-13]]
+
+^<<v33-35-13,13>>^ Postes desbocados contra mim, multiplicastes contra mim as vossas palavras; eu as ouvi.
+
+[[v33-35-14]]
+
+^<<v33-35-14,14>>^ Isto diz o Senhor Deus: Com júbilo de toda a terra, reduzir-te-ei a uma solidão.
+
+[[v33-35-15]]
+
+^<<v33-35-15,15>>^ Assim como te regozijaste acerca da herança da casa de Israel, porque foi destruída, assim eu te tratarei a ti; serás arruinado, monte de Seir. bem como toda a Idumeia. Assim se saberá que eu sou o Senhor.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-034.adoc#v33-34-0[&#60; Capítulo Anterior] | <<v33-35-0,Topo>> | xref:033-ezequiel/033-ezequiel-036.adoc#v33-36-0[Próximo Capítulo &#62;]

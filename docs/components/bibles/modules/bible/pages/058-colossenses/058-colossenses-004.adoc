@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v58-4-0]]
+=== Colossenses, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Colossenses contém as instruções finais de Paulo aos colossenses e saudações a várias pessoas. Paulo exorta os colossenses a serem sábios no trato com os não-cristãos, a aproveitarem todas as oportunidades de testemunho e a orarem para que Deus abra portas para a pregação do evangelho. Ele também envia saudações pessoais a diversos colaboradores e pede que a carta seja lida na igreja de Laodicéia. Seguem cinco versículos que se relacionam com os temas abordados em Colossenses 4:
+* 1 Tessalonicenses 5:17: "Orai sem cessar." Esse versículo enfatiza a importância da oração, um tema que também é abordado em Colossenses 4.
+* 2 Coríntios 5:20: "De sorte que somos embaixadores da parte de Cristo, como se Deus por nós rogasse. Rogamo-vos, pois, da parte de Cristo, que vos reconcilieis com Deus." Esse versículo destaca a missão de testemunho e reconciliação que os cristãos têm, um tema que também é enfatizado em Colossenses 4.
+* Efésios 6:18-20: "Orem no Espírito em todas as ocasiões, com toda oração e súplica; tendo isso em mente, estejam alertas e perseverem na oração por todos os santos. Orem também por mim, para que, quando eu falar, seja-me dada a mensagem a fim de que, destemidamente, torne conhecido o mistério do evangelho, pelo qual sou embaixador preso em correntes. Orem para que, permanecendo nele, eu possa falar sem medo." Esse versículo destaca a importância da oração, da perseverança e da coragem na pregação do evangelho, temas que também são enfatizados em Colossenses 4.
+* Romanos 12:11: "Não sejam negligentes na devoção, sejam fervorosos no espírito, sirvam ao Senhor com alegria." Esse versículo destaca a importância da devoção, da alegria e do fervor espiritual, temas que também são enfatizados em Colossenses 4.
+* 1 Pedro 3:15: "Antes, santifiquem Cristo como Senhor em seu coração. Estejam sempre preparados para responder a qualquer pessoa que lhes pedir a razão da esperança que há em vocês." Esse versículo destaca a importância de estar preparado para dar testemunho da fé e de santificar Cristo em nossos corações, temas que também são enfatizados em Colossenses 4.
+****
+
+[[v58-4-1]]
+
+^<<v58-4-1,1>>^ Vós, senhores, tratai os vossos servos com justiça e equidade, sabendo que também tendes um Senhor no céu.
+
+[[v58-4-2]]
+
+^<<v58-4-2,2>>^ Perseverai na oração, velando nela com ação de graças.
+
+[[v58-4-3]]
+
+^<<v58-4-3,3>>^ Orai também por nós, para que Deus nos abra a porta à palavra, para anunciar o mistério de Cristo, pelo qual estou preso, (ver nota)
+
+[[v58-4-4]]
+
+^<<v58-4-4,4>>^ para que eu o manifeste, como me cumpre manifestar.
+
+[[v58-4-5]]
+
+^<<v58-4-5,5>>^ Procedei com sabedoria com aqueles que estão fora (da Igreja), aproveitando as circunstâncias favoráveis.
+
+[[v58-4-6]]
+
+^<<v58-4-6,6>>^ A vossa conversação seja sempre amável, condimentada com sal (de sabedoria), para que saibais responder a cada um, como é preciso.
+
+[[v58-4-7]]
+
+^<<v58-4-7,7>>^ Sobre o estado de todas as minhas coisas, vos informará Tíquico, muito amado irmão, fiel ministro e companheiro no serviço do Senhor,
+
+[[v58-4-8]]
+
+^<<v58-4-8,8>>^ o qual vos enviei expressamente, para vos contar o estado das nossas coisas e consolar os vossos corações,
+
+[[v58-4-9]]
+
+^<<v58-4-9,9>>^ juntamente com Onésimo, irmão caríssimo e fiel, que é dos vossos. Eles vos informarão de tudo o que aqui se passa.
+
+[[v58-4-10]]
+
+^<<v58-4-10,10>>^ Saúda-vos Aristarco, meu companheiro na prisão. Igualmente Marcos, primo de Barnabé, sobre o qual recebestes recomendações; se ele for ter convosco, recebei-o.
+
+[[v58-4-11]]
+
+^<<v58-4-11,11>>^ Também Jesus, que se chama Justo, vos saúda. De todos os da circuncisão, são estes os meus únicos cooperadores (que tenho tido aqui em Roma, a trabalhar) pelo reino de Deus; foram para mim uma consolação.
+
+[[v58-4-12]]
+
+^<<v58-4-12,12>>^ Saúda-vos Epafras, que é dos vossos, servo de Jesus Cristo, o qual combate por vós nas suas orações, para que permaneçais firmes e na plena observância de toda a vontade de Deus. (ver nota)
+
+[[v58-4-13]]
+
+^<<v58-4-13,13>>^ Sim, eu dou testemunho de que ele trabalha muito por vós, pelos de Laodiceia e pelos de Hierápolis.
+
+[[v58-4-14]]
+
+^<<v58-4-14,14>>^ Saúda-vos o muito amado Lucas, médico, e Demas.
+
+[[v58-4-15]]
+
+^<<v58-4-15,15>>^ Saudai os irmãos que estão em Laodiceia, assim como (saudai) Ninfas e a igreja que reúne em sua casa.
+
+[[v58-4-16]]
+
+^<<v58-4-16,16>>^ Lida que for esta carta entre vós, fazei que seja lida também na Igreja de Laodiceia, e vós lede, por vossa parte, a de Laodiceia.
+
+[[v58-4-17]]
+
+^<<v58-4-17,17>>^ Dizei a Arquipo: "Considera o ministério que recebeste do Senhor, para bem o cumprires."
+
+[[v58-4-18]]
+
+^<<v58-4-18,18>>^ Esta saudação escrevo-a eu, Paulo, por meu próprio punho. Lembrai-vos das minhas cadeias. A graça seja convosco.
+
+'''
+
+xref:058-colossenses/058-colossenses-003.adoc#v58-3-0[&#60; Capítulo Anterior] | <<v58-4-0,Topo>> | xref:059-i-tessalonicenses/059-i-tessalonicenses-001.adoc#v59-1-0[Próximo Capítulo &#62;]

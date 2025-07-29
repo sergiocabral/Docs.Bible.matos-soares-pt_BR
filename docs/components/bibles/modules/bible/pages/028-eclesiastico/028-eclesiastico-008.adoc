@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v28-8-0]]
+=== Eclesiástico, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 8 contém uma série de conselhos sobre como agir diante de situações delicadas, especialmente no que diz respeito à justiça e à prudência. O capítulo enfatiza a importância de não se envolver em conflitos desnecessários e de evitar se associar com pessoas que possam corromper nosso comportamento. A seguir estão cinco versículos relacionados com esses temas:
+* Provérbios 14:16: "O sábio teme e evita o mal, mas o insensato é impetuoso e descuidado." Este versículo fala sobre a importância de ter cautela e evitar o mal, o que é um tema importante em Eclesiástico 8.
+* Provérbios 22:24-25: "Não se associe com pessoas iracundas; não ande com quem vive dando gritos. Porque você pode aprender os maus costumes deles, e assim a sua alma será destruída." Esse versículo adverte contra se associar com pessoas que têm mau temperamento ou que podem levar você a comportamentos destrutivos, o que é um tema presente em Eclesiástico 8.
+* Provérbios 26:17: "Aquele que se envolve numa briga alheia é como alguém que agarra um cachorro pelas orelhas." Este versículo ilustra a imprudência de se envolver em conflitos desnecessários, outro tema presente em Eclesiástico 8.
+* Provérbios 29:8: "Zombadores causam tumulto na cidade, mas os sábios acalmam a ira." Esse versículo fala sobre a importância de manter a calma e evitar conflitos, especialmente em situações de tensão, um tema importante em Eclesiástico 8.
+* Eclesiastes 7:9: "Não se apresse em ficar com raiva, porque a raiva se aloja no coração dos tolos." Esse versículo fala sobre a importância de controlar a raiva, o que é um tema presente em Eclesiástico 8, onde a prudência é enfatizada como um valor importante na tomada de decisões.
+****
+
+[[v28-8-1]]
+
+^<<v28-8-1,1>>^ Não litigues com um homem poderoso, para que não suceda que lhe caias nas mãos.
+
+[[v28-8-2]]
+
+^<<v28-8-2,2>>^ Não contendas com o homem rico, para que não suceda que te mova algum processo, (ver nota)
+
+[[v28-8-3]]
+
+^<<v28-8-3,3>>^ porque o ouro e a prata têm perdido muitos, e o seu poder chega até a desencaminhar o coração dos reis.
+
+[[v28-8-4]]
+
+^<<v28-8-4,4>>^ Não disputes com o grande falador, e não meterás mais lenha no seu fogo.
+
+[[v28-8-5]]
+
+^<<v28-8-5,5>>^ Não tenhas trato com o homem mal educado, para que não suceda falar mal dos teus antepassados. (ver nota)
+
+[[v28-8-6]]
+
+^<<v28-8-6,6>>^ Não desprezes o homem que se retira do pecado, não o censures (pelo mal que fez antes): lembra-te que todos nós somos dignos de castigo.
+
+[[v28-8-7]]
+
+^<<v28-8-7,7>>^ Não desprezes nenhum homem na sua velhice, porque alguns de entre nós envelhecerão também.
+
+[[v28-8-8]]
+
+^<<v28-8-8,8>>^ Não te regozijes com a morte do teu inimigo; considera que todos nós havemos de morrer e que não queremos que haja regozijo por isso.
+
+[[v28-8-9]]
+
+^<<v28-8-9,9>>^ Não desprezes o que contarem os velhos sábios, mas faze com que te sejam familiares as suas sentenças :
+
+[[v28-8-10]]
+
+^<<v28-8-10,10>>^ deles aprenderás a sabedoria, os ensinamentos da inteligência e a arte de servir os grandes de um modo irrepreensível.
+
+[[v28-8-11]]
+
+^<<v28-8-11,11>>^ Não deixes de ouvir o que contam os velhos, porque eles o aprenderam de seus pais;
+
+[[v28-8-12]]
+
+^<<v28-8-12,12>>^ deles aprenderás a inteligência e a arte de responder oportunamente.
+
+[[v28-8-13]]
+
+^<<v28-8-13,13>>^ Não acendas os carvões dos pecadores, arguindo-os. para que não sejas abrasado na chama do fogo dos seus pecados. (ver nota)
+
+[[v28-8-14]]
+
+^<<v28-8-14,14>>^ Não resistas, cara a cara, a um homem insolente, para que não suceda que ele se ponha a armar laços às tuas palavras,
+
+[[v28-8-15]]
+
+^<<v28-8-15,15>>^ Não emprestes a um homem mais poderoso do que tu, porque, se lhe emprestares, faze de conta que o perdeste.
+
+[[v28-8-16]]
+
+^<<v28-8-16,16>>^ Não fiques por fiador em mais do que podem as tuas forças, porque, se ficares, considera-te obrigado a pagar.
+
+[[v28-8-17]]
+
+^<<v28-8-17,17>>^ Não arrazoes contra um juiz, porque ele julga o que supõe ser justo.
+
+[[v28-8-18]]
+
+^<<v28-8-18,18>>^ Não te metas a uma viagem com homem temerário, para que não suceda que ele faça recair sobre ti os seus males; com efeito, ele anda segundo a sua (caprichosa) vontade, e tu perecerás com ele pela sua loucura.
+
+[[v28-8-19]]
+
+^<<v28-8-19,19>>^ Não tenhas rixas com o homem colérico, e com o temerário não vás a um lugar solitário, porque para ele nada vale o sangue, e, longe de todo o socorro, te esmagará.
+
+[[v28-8-20]]
+
+^<<v28-8-20,20>>^ Não te aconselhes com loucos, porque eles não poderão amar senão o que lhes apraz.
+
+[[v28-8-21]]
+
+^<<v28-8-21,21>>^ Não deliberes diante dum estranho, porque não sabes o que ele poderá conceber.
+
+[[v28-8-22]]
+
+^<<v28-8-22,22>>^ Não descubras o teu coração a qualquer homem, para que não suceda que te mostre uma falsa amizade e te ultraje.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-007.adoc#v28-7-0[&#60; Capítulo Anterior] | <<v28-8-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-009.adoc#v28-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v35-3-0]]
+=== Oséias, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de Oséias trata da reconciliação entre Deus e Israel após a infidelidade de Israel ter levado à sua destruição e dispersão. O profeta é instruído a amar uma mulher adúltera e trazê-la de volta para casa como um símbolo do amor de Deus por Israel e da sua disposição para perdoar e trazer o povo de volta à aliança. Abaixo estão cinco versículos da Bíblia relacionados aos temas abordados em Oséias 3:
+* Isaías 54:7-8: "Por um breve momento te deixei, mas com grandes misericórdias te recolherei; com um pouco de ira escondi a minha face de ti por um momento; mas com benignidade eterna me compadecerei de ti, diz o Senhor, o teu Redentor." Este versículo fala da misericórdia e compaixão de Deus em relação ao seu povo, mesmo quando Ele esconde o Seu rosto por um tempo. Isso é semelhante ao que aconteceu em Oséias, onde Deus escondeu o Seu rosto de Israel, mas estava disposto a trazê-lo de volta.
+* Jeremias 3:22: "Voltai, filhos rebeldes, eu curarei as vossas rebeliões. Eis-nos aqui, vimos a ti, porque tu és o Senhor nosso Deus." Este versículo mostra a disposição de Deus em curar as rebeliões do Seu povo e trazê-lo de volta a Ele. Isso é semelhante ao que aconteceu em Oséias, onde Deus estava disposto a perdoar e trazer de volta o povo de Israel.
+* Ezequiel 36:25-26: "Então aspergirei água pura sobre vós, e ficareis purificados; de todas as vossas imundícias e de todos os vossos ídolos vos purificarei. Também vos darei um coração novo, e porei dentro de vós um espírito novo; e tirarei da vossa carne o coração de pedra, e vos darei um coração de carne." Este versículo fala da purificação e transformação do povo de Deus, quando Ele lhes dá um novo coração e um novo espírito. Isso é semelhante ao que aconteceu em Oséias, onde Deus estava disposto a perdoar e trazer de volta o povo de Israel.
+* Isaías 54:5: "Porque o teu Criador é o teu marido; o Senhor dos Exércitos é o seu nome; e o Santo de Israel é o teu Redentor; que é chamado o Deus de toda a terra." Este versículo retrata Deus como marido e redentor do Seu povo, o que é semelhante à história de Oséias, que foi instruído por Deus a casar com uma mulher infiel como uma representação do Seu amor por Israel.
+* Joel 2:13: "E rasgai o vosso coração, e não as vossas vestes, e convertei-vos ao Senhor vosso Deus; porque ele é misericordioso e compassivo, tardio em irar-se e grande em benignidade, e se arrepende do mal." Este versículo fala da necessidade de um arrependimento verdadeiro e de voltar para o Senhor. Isso é semelhante ao que aconteceu em Oséias, onde o povo de Israel precisava se arrepender e voltar para Deus.
+****
+
+[[v35-3-1]]
+
+^<<v35-3-1,1>>^ O Senhor disse-me: Vai, ainda, e ama uma mulher (que foi) amada dum amante e adúltera: é assim que o Senhor ama os filhos de Israel, ainda quando eles põem os olhos em deuses estranhos e gostam de tortas de uvas. (ver nota)
+
+[[v35-3-2]]
+
+^<<v35-3-2,2>>^ Comprei a (tal) mulher por quinze ciclos de prata, e por homer e meio de cevada.
+
+[[v35-3-3]]
+
+^<<v35-3-3,3>>^ E disse-lhe: Tu me esperarás largos dias, durante os quais não te portarás mal, não te entregarás a homem algum, e também eu esperarei por ti. (ver nota)
+
+[[v35-3-4]]
+
+^<<v35-3-4,4>>^ Porque os filhos de Israel estarão durante muitos dias sem rei e sem chefe, sem sacrifício, sem esteia, sem éfode e sem terafins; (ver nota)
+
+[[v35-3-5]]
+
+^<<v35-3-5,5>>^ depois disto, os filhos de Israel voltarão a buscar o Senhor seu Deus, e (o descendente de) Davide, seu rei; e, no fim dos tempos, olharão com respeitoso temor para o Senhor e para os bens (que ele lhes terá feito).
+
+'''
+
+xref:035-oseias/035-oseias-002.adoc#v35-2-0[&#60; Capítulo Anterior] | <<v35-3-0,Topo>> | xref:035-oseias/035-oseias-004.adoc#v35-4-0[Próximo Capítulo &#62;]

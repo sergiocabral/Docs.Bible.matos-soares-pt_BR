@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v14-35-0]]
+=== II Crônicas, 35
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 35 narra a celebração da Páscoa pelo rei Josias e pelo povo de Judá. O capítulo descreve como Josias instruiu os sacerdotes a preparar o cordeiro pascal e a realização da cerimônia religiosa. Em seguida, o capítulo relata a morte de Josias em batalha contra o faraó Neco.
+* Deuteronômio 16:1: "Celebra o mês de Abibe e guarda a Páscoa ao SENHOR teu Deus; porque no mês de Abibe o SENHOR teu Deus te tirou do Egito, de noite." Esse versículo estabelece a ordem divina para a celebração da Páscoa, enfatizando a importância de honrar o evento que marcou a libertação do povo hebreu do Egito.
+* Êxodo 12:14: "E este dia vos será por memória, e celebrá-lo-eis por festa ao SENHOR; nas vossas gerações o celebrareis por estatuto perpétuo." Nesse versículo, Deus ordena que a celebração da Páscoa seja observada de geração em geração como uma festa em honra da libertação do povo hebreu.
+* Levítico 23:5-6: "No mês primeiro, aos catorze do mês, pela tarde, é a Páscoa do SENHOR. E aos quinze dias deste mês é a festa dos pães ázimos do SENHOR; sete dias comereis pães ázimos." Esse versículo estabelece a data da celebração da Páscoa e da Festa dos Pães Ázimos, que eram observadas pelos judeus como parte de sua tradição religiosa.
+* 1 Coríntios 5:7: "Purificai-vos, pois, do fermento velho, para que sejais uma nova massa, assim como estais sem fermento. Porque Cristo, nossa páscoa, foi sacrificado por nós." Esse versículo faz uma conexão entre a Páscoa judaica e o sacrifício de Cristo na cruz, destacando a importância da purificação e renovação para os seguidores de Cristo.
+* João 19:36: "Porque isto aconteceu para que se cumprisse a Escritura, que diz: Nenhum dos seus ossos será quebrado." Esse versículo é uma referência ao cordeiro pascal, que era um tipo de sacrifício que simbolizava a redenção do povo hebreu. Através do sacrifício de Cristo, a promessa de redenção se cumpre.
+****
+
+[[v14-35-1]]
+
+^<<v14-35-1,1>>^ Josias celebrou em Jerusalém a Páscoa do Senhor, a qual foi imolada no décimo quarto dia do primeiro mês.
+
+[[v14-35-2]]
+
+^<<v14-35-2,2>>^ Estabeleceu os sacerdotes nos seus ministérios e exortou-os a servirem na casa do Senhor,
+
+[[v14-35-3]]
+
+^<<v14-35-3,3>>^ Aos Levitas, por cujas instruções todo o Israel estava santificado ao Senhor, disse: Ponde a arca no santuário do templo que edificou Salomão, filho de David, rei de Israel. (Posta aí) não tereis mais de a transportar (de uma para outra parte). Agora servi ao Senhor vosso Deus e ao seu povo de Israel.
+
+[[v14-35-4]]
+
+^<<v14-35-4,4>>^ Preparai-vos, pois, pelas vossas casas e pelas vossas famílias, segundo a distribuição de cada um de vós, como o ordenou David, rei de Israel, e como o escreveu Salomão, seu filho.
+
+[[v14-35-5]]
+
+^<<v14-35-5,5>>^ Servi no santuário, segundo a distribuição das famílias e das turmas levíticas.
+
+[[v14-35-6]]
+
+^<<v14-35-6,6>>^ Depois de santificados, imolai a Páscoa e disponde também vossos irmãos para que a possam celebrar, segundo o que o Senhor ordenou por meio de Moisés.
+
+[[v14-35-7]]
+
+^<<v14-35-7,7>>^ Deu Josias a todo o povo, que se tinha juntado na solenidade da Páscoa, trinta mil cabeças de gado miúdo, cordeiros e cabritos, e, além disso, três mil bois; tudo isto era da fazenda do rei.
+
+[[v14-35-8]]
+
+^<<v14-35-8,8>>^ Os seus oficiais também ofereceram o que tinham prometido voluntàriamente, tanto ao povo, como aos sacerdotes e aos Levitas. Helcias, Zacarias e Jaiel, príncipes da casa do Senhor, deram aos sacerdotes, para celebrar a Páscoa, duas mil e seiscentas cabeças de gado miúdo e trezentos bois.
+
+[[v14-35-9]]
+
+^<<v14-35-9,9>>^ Conenias, Semeias e Natanael, seus irmãos, como também Hasabias, Jeiel e Josabad, chefes dos Levitas, deram aos outros Levitas, para celebrarem a Páscoa, cinco mil cordeiros e quinhentos bois.
+
+[[v14-35-10]]
+
+^<<v14-35-10,10>>^ Preparou-se tudo para a função e puseram-se os sacerdotes no seu posto, assim como os Levitas, divididos por turmas, segundo a ordem do rei.
+
+[[v14-35-11]]
+
+^<<v14-35-11,11>>^ Foi imolada a Páscoa: os sacerdotes com as suas mãos derramavam o sangue, e os Levitas esfolavam as vítimas.
+
+[[v14-35-12]]
+
+^<<v14-35-12,12>>^ Separavam-nas para as distribuírem pelas casas e famílias de cada um, a fim de que fossem oferecidas ao Senhor, (pelas famílias do povo) conforme o que está escrito no livro de Moisés; fizeram o mesmo aos bois.
+
+[[v14-35-13]]
+
+^<<v14-35-13,13>>^ Depois assaram os cordeiros pascais sobre o lume, como está escrito na lei; as hóstias pacíficas, porém, cozeram-nas em marmitas, caldeirões e panelas, e distribuíram-nas imediatamente por todo o povo.
+
+[[v14-35-14]]
+
+^<<v14-35-14,14>>^ Depois prepararam-nas para si e para os sacerdotes, porque os sacerdotes estiveram ocupados até à noite na oblação dos holocaustos e das gorduras; por isso os Levitas prepararam o comer para si e para os sacerdotes, filhos de Aarão.
+
+[[v14-35-15]]
+
+^<<v14-35-15,15>>^ Os cantores, filhos de Asaf, também estavam no seu posto, conforme o preceito de David, de Asaf, de Heman e de Iditun, profetas do rei; os porteiros guardavam cada uma das portas, sem se apartarem um só momento do seu ministério; por isso também os Levitas, seus irmãos, lhes prepararam o comer.
+
+[[v14-35-16]]
+
+^<<v14-35-16,16>>^ Desta sorte todo o culto do Senhor foi cumprido segundo o rito, naquele dia, celebrando-se a Páscoa e oferecendo-se os holocaustos sobre o altar do Senhor, conforme a ordem do rei Josias.
+
+[[v14-35-17]]
+
+^<<v14-35-17,17>>^ Os filhos de Israel, que ali se acharam naquele tempo, celebraram a Páscoa e a solenidade dos ázimos durante sete dias.
+
+[[v14-35-18]]
+
+^<<v14-35-18,18>>^ Não houve Páscoa semelhante a esta em Israel, desde o tempo do profeta Samuel; dentre todos os reis de Israel, não houve nenhum que celebrasse uma Páscoa como a que celebrou Josias com os sacerdotes, com os Levitas, com todo o povo de Judá, com todos os que se achavam ali de Israel e com os habitantes de Jerusalém.
+
+[[v14-35-19]]
+
+^<<v14-35-19,19>>^ Foi celebrada esta Páscoa no ano décimo oitavo do reinado de Josias.
+
+[[v14-35-20]]
+
+^<<v14-35-20,20>>^ Depois que Josias reparou o templo, foi Necau, rei do Egito, fazer guerra em Carcames, junto ao Eufrates. Josias marchou ao seu encontro.
+
+[[v14-35-21]]
+
+^<<v14-35-21,21>>^ Aquele príncipe, porém, mandando-lhe mensageiros, disse-lhe: por que te embaraças tu comigo, ó rei de Judá? Não venho contra ti hoje, mas contra uma casa, contra a qual me mandou Deus que marchasse a toda a pressa; cessa, pois, de te opores aos desígnios de Deus, o qual é comigo, não suceda que ele te mate.
+
+[[v14-35-22]]
+
+^<<v14-35-22,22>>^ Josias não quis tornar atrás, mas preparou-se para lhe dar batalha; não esteve pelo que Necau lhe disse da parte de Deus, mas avançou para lhe dar batalha no campo do Magedo.
+
+[[v14-35-23]]
+
+^<<v14-35-23,23>>^ Ali, sendo ferido pelos frecheiros, disse para os seus criados: Tirai-me da peleja, porque estou gravemente ferido.
+
+[[v14-35-24]]
+
+^<<v14-35-24,24>>^ Eles passaram-no dum carro para outro, que o seguia de reserva, segundo o costume dos reis, e levaram-no para Jerusalém. Morreu e foi sepultado no mausoléu de seus pais. Todos os habitantes de Judá e Jerusalém o prantearam,
+
+[[v14-35-25]]
+
+^<<v14-35-25,25>>^ sobretudo Jeremias, cujas lamentações sobre Josias são repetidas até hoje por todos os cantores e cantoras, costume que ficou em Israel como lei. Encontram-se escritas estas coisas no livro das Lamentações.
+
+[[v14-35-26]]
+
+^<<v14-35-26,26>>^ O resto das ações de Josias, as suas boas obras, segundo o que ordena a lei do Senhor,
+
+[[v14-35-27]]
+
+^<<v14-35-27,27>>^ as suas façanhas, tanto as primeiras como as últimas, estão escritas no livro dos reis de Israel e de Judá.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-034.adoc#v14-34-0[&#60; Capítulo Anterior] | <<v14-35-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-036.adoc#v14-36-0[Próximo Capítulo &#62;]

@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v60-0-0]]
+== II Tessalonicenses
+
+[cols="8*^"]
+|===
+| xref:060-ii-tessalonicenses/060-ii-tessalonicenses-001.adoc#v60-1-0[1]
+| xref:060-ii-tessalonicenses/060-ii-tessalonicenses-002.adoc#v60-2-0[2]
+| xref:060-ii-tessalonicenses/060-ii-tessalonicenses-003.adoc#v60-3-0[3]
+|
+|
+|
+|
+|
+|===

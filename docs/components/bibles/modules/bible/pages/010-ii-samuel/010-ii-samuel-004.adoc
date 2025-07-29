@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v10-4-0]]
+=== II Samuel, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 4 descreve a morte de Is-Bosete, o filho de Saul, que havia sido proclamado rei de Israel após a morte de seu pai. Dois dos comandantes de Is-Bosete, Baaná e Recabe, conspiram contra ele e o matam enquanto ele descansa em sua casa. A seguir estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Provérbios 26:27: "Quem faz uma cova, nela cairá; se alguém rola uma pedra, esta rolará de volta sobre ele". Este verso destaca a ideia de que a violência e a conspiração contra outros acabam voltando contra aqueles que as cometem, como foi o caso de Baaná e Recabe.
+* Salmo 55:23: "Mas tu, ó Deus, farás descer à cova da destruição; homens sanguinários e enganadores não viverão metade dos seus dias; mas eu em ti confio". Este verso fala sobre a confiança em Deus para lidar com aqueles que são violentos e enganadores, como os assassinos de Is-Bosete.
+* Provérbios 21:30: "Não há sabedoria, nem inteligência, nem conselho contra o Senhor". Este verso destaca a soberania de Deus sobre todas as coisas e a futilidade daqueles que conspiram contra os planos de Deus.
+* Salmos 31:15: "Nas tuas mãos estão os meus dias; livra-me das mãos dos meus inimigos e dos que me perseguem". Este verso expressa a confiança em Deus para proteger aqueles que são perseguidos e atacados pelos seus inimigos, algo que Is-Bosete certamente teria desejado.
+* Provérbios 24:17: "Não se alegre quando o seu inimigo cai; não se regozije o seu coração quando ele tropeça". Este verso adverte contra a alegria diante da desgraça dos outros e destaca a importância da empatia, mesmo em relação aos inimigos.
+****
+
+[[v10-4-1]]
+
+^<<v10-4-1,1>>^ Quando Isboset, filho de Saul, soube que Abner tinha sido morto em Hebron, perdeu a força de suas mãos, e todo o Israel ficou perturbado.
+
+[[v10-4-2]]
+
+^<<v10-4-2,2>>^ Tinha o filho de Saul a seu serviço dois capitães de ladrões, um dos quais se chamava Baana, e outro Recab, filhos de Remon de Berot, da tribo de Benjamim, pois Berot era contada (entre as cidades) de Benjamim.
+
+[[v10-4-3]]
+
+^<<v10-4-3,3>>^ Os Berotitas haviam fugido para Getaim, e moraram lá com o forasteiros até àquele tempo.
+
+[[v10-4-4]]
+
+^<<v10-4-4,4>>^ Jónatas, filho de Saul, tinha um filho aleijado dos pés, porque, aos cinco anos, quando chegou de Jezrnel a nova (da morte) de Saul e de Jónatas, sua ama, tomando-o e fugindo, na precipitação da fuga o deixou cair, e, assim ele ficou coxo. Chamava-se Mifiboset.
+
+[[v10-4-5]]
+
+^<<v10-4-5,5>>^ Vindo os filhos de Remon, Berotita, Recab e Baana, entraram em casa de Isboset no maior calor do dia. Ele estava no seu leito, dormindo a sesta. A porteira da casa, estando a limpar trigo, tinha adormecido.
+
+[[v10-4-6]]
+
+^<<v10-4-6,6>>^ Entraram, pois, na casa sem ser sentidos, Recab e Baana, a tomar umas espigas de trigo; feriram Isboset no ventre e fugiram.
+
+[[v10-4-7]]
+
+^<<v10-4-7,7>>^ Quando eles entraram em casa, Isboset dormia em cima do seu leito no quarto; ferindo-o, mataram-no e, cortando-lhe a cabeça, andaram toda a noite pelo caminho do deserto.
+
+[[v10-4-8]]
+
+^<<v10-4-8,8>>^ Levaram a cabeça de Isboset a Davide, a Hebron, e disseram ao rei: Eis a cabeça de Isboset, filho de Saul, teu inimigo, que procurava tirar-te a vida. O Senhor vingou hoje o rei, meu senhor, de Saul e da sua linhagem
+
+[[v10-4-9]]
+
+^<<v10-4-9,9>>^ Todavia Davide, respondendo a Recab e a Baana, seu irmão, filhos de Remon Berotlta, disse-lhe: Viva o Senhor, que livrou a minha alma de toda a angústia!
+
+[[v10-4-10]]
+
+^<<v10-4-10,10>>^ Àquele que me anunciou: Morreu Saul cuidando que me trazia uma boa nova, fiz que o prendessem e matassem em Siceleg, quando ele julgava ter merecido alvíçaras pela nova;
+
+[[v10-4-11]]
+
+^<<v10-4-11,11>>^ quanto mais agora que homens malvados mataram um homem Inocente dentro da sua casa, sobre o seu leito, não vingarei eu o sangue derramado pelas vossas mãos, exterminando-vos da terra?
+
+[[v10-4-12]]
+
+^<<v10-4-12,12>>^ Davide deu ordem aos seus criados e eles os mataram e, cortando-lhes as mãos e os pés, penduraram-nos sobre a piscina de Hebron. Depois, tomando a cabeça de Isboset, sepultaram-na do sepulcro de Abner, em Hebron.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-003.adoc#v10-3-0[&#60; Capítulo Anterior] | <<v10-4-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-005.adoc#v10-5-0[Próximo Capítulo &#62;]

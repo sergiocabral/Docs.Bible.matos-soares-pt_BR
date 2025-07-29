@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v65-7-0]]
+=== Hebreus, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Hebreus 7 trata principalmente do sacerdócio de Melquisedeque e como ele se relaciona com o sacerdócio de Jesus. O capítulo destaca a superioridade do sacerdócio de Jesus em relação ao sacerdócio levítico, bem como a importância de sua morte e ressurreição para a salvação dos pecados. Aqui estão cinco versículos que se relacionam com os temas abordados em Hebreus 7, em ordem de proximidade com o capítulo:
+* Salmos 110:4: "O SENHOR jurou e não se arrependerá: Tu és sacerdote eterno, segundo a ordem de Melquisedeque." Este versículo é citado várias vezes em Hebreus 7 para enfatizar a superioridade do sacerdócio de Melquisedeque sobre o sacerdócio levítico.
+* Hebreus 5:6: "Como também diz em outro lugar: Tu és sacerdote eterno, segundo a ordem de Melquisedeque." Aqui, o autor de Hebreus cita novamente o Salmo 110:4 para apoiar seu argumento de que Jesus é o sumo sacerdote perfeito, segundo a ordem de Melquisedeque.
+* Hebreus 2:17: "Por isso convinha que em tudo fosse semelhante aos irmãos, para ser misericordioso e fiel sumo sacerdote naquilo que é de Deus, para expiar os pecados do povo." Este versículo destaca a importância da humanidade de Jesus para sua função como sumo sacerdote.
+* Hebreus 9:15: "E por isso é Mediador de um novo testamento, para que, intervindo a morte para remissão das transgressões que havia debaixo do primeiro testamento, os chamados recebam a promessa da herança eterna." Aqui, o autor de Hebreus enfatiza a importância da morte de Jesus para a remissão dos pecados e a inauguração de um novo pacto.
+* Hebreus 10:10: "Na qual vontade temos sido santificados pela oblação do corpo de Jesus Cristo, feita uma vez." Este versículo destaca a importância da morte de Jesus como uma oferta única e suficiente para a santificação dos crentes.
+****
+
+[[v65-7-1]]
+
+^<<v65-7-1,1>>^ Este Melquisedeque, rei de Salém, sacerdote de Deus Altíssimo, saiu ao encontro de Abraão, quando ele voltava de destroçar os (quatro) reis, e o abençoou;
+
+[[v65-7-2]]
+
+^<<v65-7-2,2>>^ a ele deu Abraão o dízimo de todos os despojos; (o seu nome) primeiramente se interpreta rei de justiça, e depois rei de Salém, que quer dizer rei de paz;
+
+[[v65-7-3]]
+
+^<<v65-7-3,3>>^ (aparecendo) sem pai nem mãe, sem genealogia, sem princípio de dias, sem fim de vida, tornado assim semelhante ao Filho do Deus, (Melquisedeque) permanece sacerdote para sempre. (ver nota)
+
+[[v65-7-4]]
+
+^<<v65-7-4,4>>^ Ora considerai quão grande devia ser ele, a quem até o patriarca Abraão deu dízimos das melhores coisas.
+
+[[v65-7-5]]
+
+^<<v65-7-5,5>>^ Certamente os que dentre os filhos de Levi recebem o sacerdócio, têm ordem, segundo a lei, de recolher os dízimos do povo, isto é, de seus irmãos, ainda que eles tenham saído também do sangue de Abraão,
+
+[[v65-7-6]]
+
+^<<v65-7-6,6>>^ Mas este (Melquisedeque), cuja linhagem não é contada entre eles, recebeu os dízimos de Abraão e abençoou-o a ele, que tinha as promessas (de Deus).
+
+[[v65-7-7]]
+
+^<<v65-7-7,7>>^ Ora, sem dúvida alguma, o inferior é que recebe a bênção do superior.
+
+[[v65-7-8]]
+
+^<<v65-7-8,8>>^ E aqui (no sacerdócio levítico) evidentemente são homens mortais que recebem os dízimos; mas ali (em Melquisedeque) recebe-os um homem de quem se afirma (na Escritura) que vive (não se falando da sua morte).
+
+[[v65-7-9]]
+
+^<<v65-7-9,9>>^ E Levi, que recebe dízimos, ele mesmo, por assim dizer, os pagou (a Melquisedeque) na pessoa de Abraão;
+
+[[v65-7-10]]
+
+^<<v65-7-10,10>>^ porque, ainda ele estava em gérmen, no seu antepassado, quando Melquisedeque saiu ao encontro deste.
+
+[[v65-7-11]]
+
+^<<v65-7-11,11>>^ Portanto, se a perfeição tivesse podido ser realizada pelo sacerdócio levítico (porque, sob este, é que o povo recebeu a lei), que necessidade havia de que surgisse depois outro sacerdote, segundo a ordem de Melquisedeque, e não segundo a ordem de Aarão?
+
+[[v65-7-12]]
+
+^<<v65-7-12,12>>^ Pois, mudado o sacerdócio, é necessário que mude também a lei.
+
+[[v65-7-13]]
+
+^<<v65-7-13,13>>^ Ora (Cristo), aquele de quem isto se diz, pertence a outra tribo, da qual ninguém serviu ao altar,
+
+[[v65-7-14]]
+
+^<<v65-7-14,14>>^ porque é notório que Nosso Senhor nasceu na tribo de Judá, tribo à qual Moisés nunca atribuiu o sacerdócio.
+
+[[v65-7-15]]
+
+^<<v65-7-15,15>>^ E isto ainda é mais manifesto, se se levanta outro sacerdote à semelhança de Melquisedeque,
+
+[[v65-7-16]]
+
+^<<v65-7-16,16>>^ o qual não foi feito (sacerdote) segundo a lei de um mandamento carnal, mas segundo o poder de uma vida imperecível. (ver nota)
+
+[[v65-7-17]]
+
+^<<v65-7-17,17>>^ Com efeito, (Deus) declara: Tu és sacerdote para sempre, segundo a ordem de Melquisedeque.
+
+[[v65-7-18]]
+
+^<<v65-7-18,18>>^ Assim é abolido o mandamento precedente (relativo ao sacerdócio levítico), por causa da sua fraqueza e inutilidade;
+
+[[v65-7-19]]
+
+^<<v65-7-19,19>>^ de facto, a lei nenhuma coisa levou à perfeição, mas foi introdutora de melhor esperança, pela qual nos aproximamos de Deus.
+
+[[v65-7-20]]
+
+^<<v65-7-20,20>>^ E, como isto não foi feito sem juramento, porque, enquanto os outros foram feitos sacerdotes sem juramento, (ver nota)
+
+[[v65-7-21]]
+
+^<<v65-7-21,21>>^ este foi-o com juramento (feito) por aquele que lhe disse: O Senhor jurou e não se arrependerá: Tu és sacerdote eternamente (ver nota)
+
+[[v65-7-22]]
+
+^<<v65-7-22,22>>^ Jesus tornou-se por isso mesmo o fiador de uma aliança melhor.
+
+[[v65-7-23]]
+
+^<<v65-7-23,23>>^ Demais, entre aqueles foram feitos sacerdotes em grande número, porque a morte não lhes permitia durar (sempre)
+
+[[v65-7-24]]
+
+^<<v65-7-24,24>>^ mas este, porque permanece para sempre, tem um sacerdócio que não passa.
+
+[[v65-7-25]]
+
+^<<v65-7-25,25>>^ Por isso pode salvar perpetuamente os que por ele mesmo se aproximam de Deus, vivendo sempre para interceder em seu favor.
+
+[[v65-7-26]]
+
+^<<v65-7-26,26>>^ Porque convinha que tivéssemos um tal pontífice, santo, inocente, imaculado, segregado dos pecadores e elevado acima dos céus. (ver nota)
+
+[[v65-7-27]]
+
+^<<v65-7-27,27>>^ que não tem necessidade, com os (outros) sumos sacerdotes, de oferecer todos os dias sacrifícios, primeiramente pelos seus pecados, depois pelos do povo; fez isto, uma só vez por todas, oferecendo-se a si mesmo.
+
+[[v65-7-28]]
+
+^<<v65-7-28,28>>^ Porquanto a lei constituiu sumos sacerdotes a homens sujeitos à fraqueza, mas a palavra do juramento, que é posterior à lei, constitui (pontífice) o Filho (de Deus, que é) perfeito eternamente.
+
+'''
+
+xref:065-hebreus/065-hebreus-006.adoc#v65-6-0[&#60; Capítulo Anterior] | <<v65-7-0,Topo>> | xref:065-hebreus/065-hebreus-008.adoc#v65-8-0[Próximo Capítulo &#62;]

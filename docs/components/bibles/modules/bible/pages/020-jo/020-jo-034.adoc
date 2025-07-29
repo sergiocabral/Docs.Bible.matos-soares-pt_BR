@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v20-34-0]]
+=== Jó, 34
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 34 apresenta as palavras de Eliú, que continua a refletir sobre o sofrimento de Jó e a justiça de Deus. Ele argumenta que Deus é justo e que todos são responsáveis por suas ações diante dEle. Eliú enfatiza que Deus não é injusto, mas que muitas vezes as pessoas não entendem suas ações. Para fornecer cinco versículos relacionados com os temas abordados em Jó 34, os versículos de Jó 34 serão excluídos dos resultados.
+* Romanos 2:6-8: "Ele retribuirá a cada um segundo o seu procedimento: a vida eterna aos que, persistindo em fazer o bem, buscam glória, honra e imortalidade; mas ira e indignação aos que são egoístas, que rejeitam a verdade e seguem a injustiça." Este versículo de Romanos destaca que Deus retribuirá a cada um segundo suas ações e escolhas, tanto no bem como no mal.
+* Salmos 33:5: "Ele ama a justiça e o direito; a terra está cheia da bondade do Senhor." Este versículo de Salmos destaca que Deus ama a justiça e a retidão, e que sua bondade é evidente em toda a terra.
+* Provérbios 24:12: "Se disseres: Eis que não o sabemos; porventura não o considerará aquele que pondera os corações? Não o saberá aquele que atenta para a tua alma? Não dará ele ao homem conforme a sua obra?" Este versículo de Provérbios destaca que Deus conhece o coração das pessoas e retribuirá a cada um segundo suas ações.
+* Isaías 59:1-2: "Eis que a mão do Senhor não está encolhida, para que não possa salvar; nem surdo o seu ouvido, para que não possa ouvir; mas as vossas iniqüidades fazem separação entre vós e o vosso Deus; e os vossos pecados encobrem o seu rosto de vós, para que vos não ouça." Este versículo de Isaías destaca que Deus não é incapaz de agir, mas que o pecado das pessoas pode afastá-las dEle.
+* Salmos 11:7: "Porque o Senhor é justo, ele ama a justiça; os retos, pois, contemplarão o seu rosto." Este versículo de Salmos enfatiza que Deus é justo e ama a justiça, e que aqueles que vivem com retidão terão a oportunidade de contemplar a face de Deus.
+****
+
+[[v20-34-1]]
+
+^<<v20-34-1,1>>^ Continuando, pois, Eliú o seu discurso, disse:
+
+[[v20-34-2]]
+
+^<<v20-34-2,2>>^ Ouvi, sábios, as minhas palavras, eruditos, prestai-me atenção,
+
+[[v20-34-3]]
+
+^<<v20-34-3,3>>^ porque o ouvido julga as palavras, assim como o paladar distingue os manjares pelo gosto.
+
+[[v20-34-4]]
+
+^<<v20-34-4,4>>^ Examinemos entre nós a causa, e vejamos de comum acordo o que seja melhor.
+
+[[v20-34-5]]
+
+^<<v20-34-5,5>>^ Job disse: Eu sou justo, e Deus recusa-me justiço, (ver nota)
+
+[[v20-34-6]]
+
+^<<v20-34-6,6>>^ Padeço, contra o meu direito, atroz é a minha chaga, sem eu ter pecado algum.
+
+[[v20-34-7]]
+
+^<<v20-34-7,7>>^ Que homem há (pois) semelhante a Job, que bebe o escárnio como água,
+
+[[v20-34-8]]
+
+^<<v20-34-8,8>>^ que anda com os que cometem a iniquidade, que caminha com os homens impios?
+
+[[v20-34-9]]
+
+^<<v20-34-9,9>>^ Porque ele disse: Não aproveita ao homem estar de bem com Deus. (ver nota)
+
+[[v20-34-10]]
+
+^<<v20-34-10,10>>^ Vós, pois, ó homens sensatos, ouvi-me: Longe de Deus a iniquidade! Longe do Omnipotente a injustiça!
+
+[[v20-34-11]]
+
+^<<v20-34-11,11>>^ Em verdade ele dá ao homem segundo as suas obras, recompensa cada um segundo o seu proceder.
+
+[[v20-34-12]]
+
+^<<v20-34-12,12>>^ De certo Deus não condena sem razão, nem o Omnipotente atropela a justiça.
+
+[[v20-34-13]]
+
+^<<v20-34-13,13>>^ Quem lhe deu a terra para ele a governar? Quem fez o mundo inteiro?
+
+[[v20-34-14]]
+
+^<<v20-34-14,14>>^ Se ele(Deus) chamasse a si_ o seu espírito, se retraísse o seu sopro e o seu alento;
+
+[[v20-34-15]]
+
+^<<v20-34-15,15>>^ toda a carne perecera num instante, e o homem voltaria ao pó.
+
+[[v20-34-16]]
+
+^<<v20-34-16,16>>^ Portanto, se tens entendimento, ouve isto, escuta o som das minhas palavras.
+
+[[v20-34-17]]
+
+^<<v20-34-17,17>>^ Acaso poderia governar, aquele que não ama a justiça? Como condenas tu, pois, afoutamente aquele que é sumamente justo?
+
+[[v20-34-18]]
+
+^<<v20-34-18,18>>^ Ele diz a um rei: Malvado! E aos grandes: Celerados!
+
+[[v20-34-19]]
+
+^<<v20-34-19,19>>^ Não faz aceitação da pessoa dos poderosos, não antepõe o rico ao pobre, porque todos são obra das suas mãos. (ver nota)
+
+[[v20-34-20]]
+
+^<<v20-34-20,20>>^ Eles morrerão de improviso, desaparecerão; no meio da noite os povos se sublevarão, e derrubarão o tirano sem esforço.
+
+[[v20-34-21]]
+
+^<<v20-34-21,21>>^ Com efeito os olhos de Deus estão Sobre os caminhos dos homens, ele considera todos os seus passos.
+
+[[v20-34-22]]
+
+^<<v20-34-22,22>>^ Não há trevas, e não bá sombra de morte, onde possam esconder-se os que praticam a iniquidade.
+
+[[v20-34-23]]
+
+^<<v20-34-23,23>>^ (Deus) não precisa de olhar um homem duas vezes, para o citar a comparecer no seu tribunal.
+
+[[v20-34-24]]
+
+^<<v20-34-24,24>>^ Abate os poderosos, sem andar em averiguações, e põe outros em seu lugar.
+
+[[v20-34-25]]
+
+^<<v20-34-25,25>>^ Conhecedor das suas obras, derruba-os numa noite, e eles ficam aniquilados.
+
+[[v20-34-26]]
+
+^<<v20-34-26,26>>^ Fere-os como ímpios, à vista de todos,
+
+[[v20-34-27]]
+
+^<<v20-34-27,27>>^ porque se apartaram dele, não quiseram conhecer os seus caminhos,
+
+[[v20-34-28]]
+
+^<<v20-34-28,28>>^ de sorte que fizeram com que chegasse até ele o clamor do oprimido, e lhe fizeram ouvir a voz dos pobres.
+
+[[v20-34-29]]
+
+^<<v20-34-29,29>>^ Se ele se cala, quem há que o condene? Se esconde o seu rosto, quem o poderá contemplar, quer se trate das nações, quer de um particular?
+
+[[v20-34-30]]
+
+^<<v20-34-30,30>>^ Ele não deixa que o impio reine, que o povo fique sujeito a tropeçar.
+
+[[v20-34-31]]
+
+^<<v20-34-31,31>>^ E, já que falei de Deus, também te não estorvarei a ti de falar.
+
+[[v20-34-32]]
+
+^<<v20-34-32,32>>^ Se eu errei, corrigi-me, se falei com iniquidade, não direi mais nada.
+
+[[v20-34-33]]
+
+^<<v20-34-33,33>>^ Porventura pedir-te-á Deus conta do que eu falei, que te desagradou? mas tu foste o primeiro a falar, e não eu; e, se sabes coisa melhor, dize-a.
+
+[[v20-34-34]]
+
+^<<v20-34-34,34>>^ Falem-me homens atilados, assim conto o homem sábio que me escuta.
+
+[[v20-34-35]]
+
+^<<v20-34-35,35>>^ Job falou nèsciamente, as sua palavras não foram acertadas.
+
+[[v20-34-36]]
+
+^<<v20-34-36,36>>^ Oxalá que seja provado Job até ao fim, pelas suas respostas de homem iníquo,
+
+[[v20-34-37]]
+
+^<<v20-34-37,37>>^ porque ao seu pecado junta a revolta; bate palmas contra nós, e multiplica queixas contra Deus.
+
+'''
+
+xref:020-jo/020-jo-033.adoc#v20-33-0[&#60; Capítulo Anterior] | <<v20-34-0,Topo>> | xref:020-jo/020-jo-035.adoc#v20-35-0[Próximo Capítulo &#62;]

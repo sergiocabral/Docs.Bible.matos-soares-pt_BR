@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v45-13-0]]
+=== Zacarias, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Zacarias 13 é um capítulo profético que fala sobre a purificação do povo de Deus e a eliminação dos falsos profetas. O capítulo começa com uma profecia sobre uma fonte que será aberta para purificar o povo de seus pecados. Em seguida, fala sobre a eliminação dos falsos profetas e como seus pais e parentes os rejeitarão por suas falsas palavras. O capítulo termina com a profecia sobre a morte do pastor e a dispersão do rebanho. Aqui estão cinco versículos relacionados aos temas abordados em Zacarias 13, em ordem de proximidade:
+* Isaías 1:16: "Lavai-vos, purificai-vos, tirai a maldade de vossos atos de diante dos meus olhos; cessai de fazer o mal." Este versículo fala sobre a importância da purificação e remoção da maldade para se aproximar de Deus. Ele se relaciona com a profecia sobre a fonte que será aberta para a purificação do povo.
+* Jeremias 23:16: "Assim diz o SENHOR dos Exércitos: Não deis ouvidos às palavras dos profetas que entre vós profetizam; fazem-vos desvanecer; falam da visão dos seus corações, não da boca do SENHOR." Este versículo adverte contra os falsos profetas que falam de suas próprias visões e não da palavra de Deus. Ele se relaciona com a eliminação dos falsos profetas em Zacarias 13.
+* Mateus 7:15: "Acautelai-vos, porém, dos falsos profetas, que vêm até vós vestidos como ovelhas, mas, interiormente, são lobos devoradores." Este versículo também adverte contra os falsos profetas e sua habilidade de enganar os outros. Ele se relaciona com a profecia em Zacarias 13 sobre a rejeição dos falsos profetas pelos seus pais e parentes.
+* Ezequiel 34:5: "E andam dispersos, por falta de pastor, e tornam-se pasto para todas as feras do campo, porquanto andam dispersos." Este versículo fala sobre a dispersão do rebanho quando não há um pastor para guiá-los. Ele se relaciona com a profecia em Zacarias 13 sobre a morte do pastor e a dispersão do rebanho.
+* João 10:11: "Eu sou o bom Pastor; o bom Pastor dá a sua vida pelas ovelhas." Este versículo fala sobre Jesus como o bom Pastor que dá sua vida pelas ovelhas. Ele se relaciona com a profecia em Zacarias 13 sobre a morte do pastor e como isso afetará o rebanho.
+****
+
+[[v45-13-1]]
+
+^<<v45-13-1,1>>^ Naquele dia haverá uma fonte aberta para a casa de Davide e para os habitantes de Jerusalém, para se lavarem as manchas do pecado e da impureza.
+
+[[v45-13-2]]
+
+^<<v45-13-2,2>>^ Naquele dia, diz o Senhor dos exércitos, exterminarei do pais (até) os nomes dos ídolos, de forma que deles não haverá mais memória; tirarei dele os falsos profetas e o espírito de impureza.
+
+[[v45-13-3]]
+
+^<<v45-13-3,3>>^ Se alguém intentar ainda inculcar-se por profeta, seu pai e sua mãe, que os geraram, lhe dirão: Tu não viverás, pois que disseste mentira em nome do Senhor.— E seu pai e sua mãe, que o geraram, o traspassarão, quando se tiver metido a profetizar.
+
+[[v45-13-4]]
+
+^<<v45-13-4,4>>^ Naquele dia serão confundidos os (falsos) profetas, cada um pela sua visão, quando profetizarem ; não mais se cobrirão (hipócritamente) com o manto de pêlos para mentirem,
+
+[[v45-13-5]]
+
+^<<v45-13-5,5>>^ mas (cada um deles) dirá: Eu não sou profeta, sou um agricultor, emprego em que me ocupo desde a minha mocidade.
+
+[[v45-13-6]]
+
+^<<v45-13-6,6>>^ Se alguém lhe disser: Que ferimentos São esses entres os teus braços? — responderá: Recebi estes ferimentos na casa dos meus amigos. (ver nota)
+
+[[v45-13-7]]
+
+^<<v45-13-7,7>>^ Ó gládio, levanta-te contra o meu pastor, contra o homem da minha intimidade, diz o Senhor dos exércitos! Fere o pastor, e serão dispersas as ovelhas; voltarei a minha mão mesmo contra os pequeninos.
+
+[[v45-13-8]]
+
+^<<v45-13-8,8>>^ Em todo o país, diz o Senhor, haverá dois terços que serão exterminados, que perecerão, e um terço que ficará nele.
+
+[[v45-13-9]]
+
+^<<v45-13-9,9>>^ Farei passar este terço pelo fogo e purificá-lo-ei como se purifica a prata, prová-lo-ei como se prova o ouro. Ele invocará o meu nome, e eu o ouvirei. Dirlhe-ei: Tu és o meu povo — e ele dirá: lavé é o meu Deus. (ver nota)
+
+'''
+
+xref:045-zacarias/045-zacarias-012.adoc#v45-12-0[&#60; Capítulo Anterior] | <<v45-13-0,Topo>> | xref:045-zacarias/045-zacarias-014.adoc#v45-14-0[Próximo Capítulo &#62;]

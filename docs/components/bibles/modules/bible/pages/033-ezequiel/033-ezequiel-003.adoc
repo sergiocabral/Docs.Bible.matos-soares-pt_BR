@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v33-3-0]]
+=== Ezequiel, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No terceiro capítulo de Ezequiel, o profeta recebe uma comissão de Deus para se tornar um "sentinela" para a casa de Israel, e é instruído a comer um rolo de livro que representa a palavra de Deus. Ele é então enviado para pregar a mensagem de Deus ao povo de Israel, mesmo que eles não o ouçam. Aqui estão cinco versículos relacionados com os temas abordados em Ezequiel 3:
+* Jeremias 1:7-8: "Mas o Senhor me disse: Não digas: Eu sou uma criança; porque a todos a quem eu te enviar, irás; e tudo quanto te mandar, falarás. Não temas diante deles; porque estou contigo para te livrar, diz o Senhor." Assim como Ezequiel, Jeremias foi chamado por Deus para ser um profeta e enviado para pregar a palavra de Deus, mesmo que ele fosse jovem e inexperiente. Deus prometeu estar com ele e protegê-lo.
+* Mateus 10:16: "Eis que vos envio como ovelhas ao meio de lobos; portanto, sede prudentes como as serpentes e simples como as pombas." Jesus instrui seus discípulos a pregar a palavra de Deus ao mundo, mesmo que eles enfrentem oposição e perseguição. Ele lhes diz para serem prudentes e sábios em sua pregação.
+* Atos 20:26-27: "Portanto, vos dou testemunho neste dia de que estou limpo do sangue de todos, pois nunca deixei de vos anunciar todo o conselho de Deus." O apóstolo Paulo também foi chamado por Deus para pregar a palavra de Deus, e ele se considerava livre da culpa de qualquer pessoa que se recusasse a ouvir sua mensagem, pois ele sempre pregou todo o conselho de Deus.
+* 2 Timóteo 4:2: "Prega a palavra, insta a tempo e fora de tempo, admoesta, repreende, exorta, com toda a paciência e ensino." Paulo exorta Timóteo a pregar a palavra de Deus em todas as ocasiões, mesmo quando não é popular ou fácil. Ele deve ser paciente e firme em sua pregação.
+* Hebreus 4:12: "Porque a palavra de Deus é viva e eficaz, e mais cortante do que qualquer espada de dois gumes, e penetra até à divisão da alma e do espírito, e das juntas e medulas, e é apta para discernir os pensamentos e intenções do coração." A palavra de Deus é poderosa e eficaz, e tem o poder de penetrar até os pensamentos e intenções do coração humano. Ezequiel foi chamado para pregar essa palavra, e nós também somos chamados a compartilhá-la com o mundo.
+****
+
+[[v33-3-1]]
+
+^<<v33-3-1,1>>^ Disse-me: Filho de homem, come tudo o que achares; come esse livro, e depois, vai falar aos filhos de Israel. (ver nota)
+
+[[v33-3-2]]
+
+^<<v33-3-2,2>>^ Então abri a minha boca, e ele deu-me a comer o livro,
+
+[[v33-3-3]]
+
+^<<v33-3-3,3>>^ dizendo-me: Filho de homem, alimenta o teu ventre, enche as tuas entranhas deste livro que te dou. Comi-o, e ele na minha boca era doce como mel.
+
+[[v33-3-4]]
+
+^<<v33-3-4,4>>^ Então disse-me: Filho de homem, vai à casa de Israel anunciar as minhas palavras,
+
+[[v33-3-5]]
+
+^<<v33-3-5,5>>^ Não és enviado a nenhum povo de linguagem obscura, nem de língua bárbara, mas à casa de Israel;
+
+[[v33-3-6]]
+
+^<<v33-3-6,6>>^ não a povos numeroso linguagem obscura, de língua bárbara, cujas palavras não poderias entender; se a esses fosses enviado, eles te ouviriam.
+
+[[v33-3-7]]
+
+^<<v33-3-7,7>>^ Mas a casa de Israel não te quer ouvir a ti, porque me não quer ouvir a mim, pois a casa de Israel tem uma fronte obstinada e um coração endurecido.
+
+[[v33-3-8]]
+
+^<<v33-3-8,8>>^ Porém vou tornar o teu rosto tão duro como o deles, a tua fronte tão dura como a sua.
+
+[[v33-3-9]]
+
+^<<v33-3-9,9>>^ Vou tornar o teu rosto (tão duro) como o diamante, mais duro que a pederneira. Não os temas não tenhas medo diante deles, porque é uma casa rebelde.
+
+[[v33-3-10]]
+
+^<<v33-3-10,10>>^ Depois acrescentou: Filho de homem, recebe no teu coração todas as palavras que eu te disser ouve-as com os teus ouvidos,
+
+[[v33-3-11]]
+
+^<<v33-3-11,11>>^ e vai até junto dos deportados, filhos do teu povo, para lhes falar. Dir-lhes-ás: Assim fala o Senhor Iavé — quer eles escutem, quer não.
+
+[[v33-3-12]]
+
+^<<v33-3-12,12>>^ Então o espírito me tomou, e ouvi atrás de mim um grande ruído tumultuoso (que dizia): Abençoada a glória do Senhor, no lugar da sua morada.
+
+[[v33-3-13]]
+
+^<<v33-3-13,13>>^ Ouvi também o ruído das asas dos seres vivos, que batiam uma contra a outra, e o ruído das rodas junto deles, grande ruído tumultuoso.
+
+[[v33-3-14]]
+
+^<<v33-3-14,14>>^ E o espírito levantou-me e levou-me consigo, e eu me fui, com o espírito cheio de amargura e indignação; e a mão do Senhor segurava-me fortemente.
+
+[[v33-3-15]]
+
+^<<v33-3-15,15>>^ Fui ter com os deportados, a Tel-Abib, onde estavam instalados, junto do rio Cobar, e permaneci estupefacto, durante sete dias, no meio deles.
+
+[[v33-3-16]]
+
+^<<v33-3-16,16>>^ Passados os sete dias, foi-me dirigida a palavra do Senhor, a qual dizia;
+
+[[v33-3-17]]
+
+^<<v33-3-17,17>>^ Filho de homem, eu dei-te por sentinela à casa de Israel. Quando ouvires da minha boca uma palavra, anunciá-la-ás a eles da minha parte.
+
+[[v33-3-18]]
+
+^<<v33-3-18,18>>^ Se eu disser ao ímpio; Vais morrer e tu lho não anunciares, não lhe falares, para que ele se retire do seu caminho ímpio e viva — este ímpio morrerá na sua iniquidade, mas eu requererei da tua mão o seu sangue (ou perdição).
+
+[[v33-3-19]]
+
+^<<v33-3-19,19>>^ Se, porém, avisares o ímpio, e ele se não converter da sua impiedade e do seu mau caminho, morrerá ele por certo na sua iniquidade, mas tu salvar-te-ás.
+
+[[v33-3-20]]
+
+^<<v33-3-20,20>>^ Do mesmo modo, se o justo deixar a sua justiça e cometer a iniquidade, e se eu puser diante dele um tropeço, ele morrerá; porque tu lho não advertiste, morrerá no seu pecado, apagar-se-á a lembrança de todas as acções de justiça que praticou, mas eu requererei da tua mão o seu sangue.
+
+[[v33-3-21]]
+
+^<<v33-3-21,21>>^ Se, porém, avisares o justo, para que não peque, e ele não pecar, viverá com certeza, porque tu o advertiste, e tu serás salvo.
+
+[[v33-3-22]]
+
+^<<v33-3-22,22>>^ Ali se fez sentir sobre mim a mão do Senhor, que me disse: Levanta-te, sai ao descampado, e lá falarei contigo.
+
+[[v33-3-23]]
+
+^<<v33-3-23,23>>^ Levantei-me, saí para o descampado, e eis que estava lá a glória do Senhor, como a glória que eu tinha visto junto do rio Cobar. Prostrei-me com o rosto por terra.
+
+[[v33-3-24]]
+
+^<<v33-3-24,24>>^ Então o espirito entrou em mim e pôs-me de pé; falou-me e disse-me: Vai-te fechar dentro da tua casa.
+
+[[v33-3-25]]
+
+^<<v33-3-25,25>>^ E tu, ó filho de homem, sabe que eles lançarão cadeias sobre ti, e te ligarão com elas, de sorte que não sairás do meio deles.
+
+[[v33-3-26]]
+
+^<<v33-3-26,26>>^ E farei que a tua língua se pegue ao teu paladar, de sorte que estejas mudo, incapaz de os repreender porque são uma casa rebelde. (ver nota)
+
+[[v33-3-27]]
+
+^<<v33-3-27,27>>^ Mas, depois que eu te tiver falado, abrirei a tua boca e tu lhes dirás: Assim fala o Senhor Deus: Quem quiser ouvir, ouça; quem não quiser ouvir, não ouça, — porque são uma casa rebelde.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-002.adoc#v33-2-0[&#60; Capítulo Anterior] | <<v33-3-0,Topo>> | xref:033-ezequiel/033-ezequiel-004.adoc#v33-4-0[Próximo Capítulo &#62;]

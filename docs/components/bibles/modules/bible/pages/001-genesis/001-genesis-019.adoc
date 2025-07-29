@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v1-19-0]]
+=== Gênesis, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 19 narra a destruição de Sodoma e Gomorra, duas cidades ímpias que foram julgadas por Deus. O capítulo aborda temas como o pecado, a justiça divina, a misericórdia de Deus e a importância de obedecer aos seus mandamentos. Abaixo estão cinco versículos relacionados com esses temas, em ordem de proximidade com o capítulo:
+* Romanos 3:23: "pois todos pecaram e estão destituídos da glória de Deus." Este versículo destaca a natureza pecaminosa da humanidade, que é evidenciada em Gênesis 19 pela perversidade dos habitantes de Sodoma e Gomorra.
+* Salmos 89:14: "A justiça e o direito são os alicerces do teu trono; o amor e a fidelidade vão à tua frente." Este versículo destaca a justiça divina, que é demonstrada em Gênesis 19 quando Deus julga Sodoma e Gomorra por causa de sua impiedade.
+* 2 Pedro 3:9: "O Senhor não demora em cumprir a sua promessa, como julgam alguns. Ao contrário, ele é paciente com vocês, não querendo que ninguém pereça, mas que todos cheguem ao arrependimento." Este versículo destaca a misericórdia de Deus, que é evidenciada em Gênesis 19 quando Deus permite que Ló e sua família escapem antes da destruição das cidades.
+* Êxodo 20:3: "Não terás outros deuses além de mim." Este versículo destaca a importância de obedecer aos mandamentos de Deus, o que é enfatizado em Gênesis 19 quando a esposa de Ló olha para trás durante sua fuga e é transformada em uma estátua de sal como punição por sua desobediência.
+* João 3:16: "Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna." Este versículo destaca o amor de Deus pela humanidade, que é evidenciado em Gênesis 19 quando Deus salva Ló e sua família da destruição das cidades.
+****
+
+[[v1-19-1]]
+
+^<<v1-19-1,1>>^ Sobre a tarde chegaram os dois anjos a Sodoma, quando Loth estava assentado às portas da cidade. Ele, tendo-os visto. levantou-se, foi ao seu encontro, prostrou-se por terra,
+
+[[v1-19-2]]
+
+^<<v1-19-2,2>>^ e disse: vinde, vos peço, senhores, para casa de vosso servo, e ficai nela: lavareis os vossos pés e, pela manhã, continuareis o vosso caminho. Eles responderam: não, nós ficaremos na praça.
+
+[[v1-19-3]]
+
+^<<v1-19-3,3>>^ Loth instou com eles para que fossem para sua casa: depois que entraram, preparou-lhes um banquete, fez cozer uns pães ázimos, e eles comeram.
+
+[[v1-19-4]]
+
+^<<v1-19-4,4>>^ Mas, antes que se fossem deitar, os homens da cidade, os homens de Sodoma, desde os meninos até aos velhos, todos, sem excepção, cercaram a casa.
+
+[[v1-19-5]]
+
+^<<v1-19-5,5>>^ Chamaram por Loth e disseram-lhe: onde estão aqueles homens que entraram em tua casa ao cair da noite? Faze-os sair para que os conheçamos.
+
+[[v1-19-6]]
+
+^<<v1-19-6,6>>^ Saiu Loth, fechando nas suas costas a porta, e disse-lhes: (ver nota)
+
+[[v1-19-7]]
+
+^<<v1-19-7,7>>^ não queirais, vos rogo, meus irmãos, não queirais fazer este mal.
+
+[[v1-19-8]]
+
+^<<v1-19-8,8>>^ Tenho duas filhas, que ainda são virgens; eu vo-las trarei, e abusai delas como vos agradar, contando que não façais mal algum a estes homens, porque se acolheram à sombra do meu telhado.
+
+[[v1-19-9]]
+
+^<<v1-19-9,9>>^ Eles, porém, disseram: retira-te para lá. E acrescentaram: tu entraste aqui como estrangeiro; será talvez para nos julgares? A ti, pois, trataremos pior do que a eles. E forçavam Loth com grande violência; e já estavam a ponto de arrombar a porta.
+
+[[v1-19-10]]
+
+^<<v1-19-10,10>>^ E eis que os (dois) homens (que estavam dentro) estenderam a mão, introduziram Loth em casa, e fecharam a porta.
+
+[[v1-19-11]]
+
+^<<v1-19-11,11>>^ E feriram de cegueira os que estavam fora, desde o mais pequeno até ao maior, de sorte que não podiam encontrar a porta.
+
+[[v1-19-12]]
+
+^<<v1-19-12,12>>^ E disseram a Loth: tens aqui alguim dos teus? genro ou filho, ou filhas, faze sair desta cidade todos os que te pertencem,
+
+[[v1-19-13]]
+
+^<<v1-19-13,13>>^ porque nós vamos destruir este, lugar, visto que o clamor (dos seus crimes) aumentou diante do Senhor, o qual nos enviou para que os exterminemos.
+
+[[v1-19-14]]
+
+^<<v1-19-14,14>>^ Loth, pois, tendo saído falou a seus (futuros) genros, que estavam para casar com suas filhas, e disse: levantai-vos. Saí deste lugar, porque o Senhor destruirá esta cidade. E pareceu-lhes que (Loth) falava zombando.
+
+[[v1-19-15]]
+
+^<<v1-19-15,15>>^ Ao amanhecer, instavam os anjos com Loth, dizendo: levanta-te, toma tua mulher e as duas filhas que tens, não suceda que também pereças na ruína da cidade.
+
+[[v1-19-16]]
+
+^<<v1-19-16,16>>^ Como ele hesitasse, pegaram pela mão a ele, a sua mulher e ás suas duas filhas, porque o Senhor queria salvá-lo,
+
+[[v1-19-17]]
+
+^<<v1-19-17,17>>^ e o tiraram de casa, e o puseram fora da cidade. Uma vez fora, falaram, dizendo: salva a tua vida, não olhes para trás e não pareis em parte alguma dos arredores deste país; mas salva-te no monte, para que não pereças com os outros.
+
+[[v1-19-18]]
+
+^<<v1-19-18,18>>^ Loth disse-lhes: rogo-te, meu Senhor,
+
+[[v1-19-19]]
+
+^<<v1-19-19,19>>^ visto que o teu servo achou graça diante de ti, e usaste comigo da grande misericórdia de salvar a minha vida, (consideres) que eu me não posso salvar no monte, sem correr o perigo de ser apanhado pelo mal e morrer.
+
+[[v1-19-20]]
+
+^<<v1-19-20,20>>^ Eis que está perto uma cidade pequena, para a qual posso fugir, e salvar-me-ei nela. Não é ela pequena, e nela não estará segura a minha vida?
+
+[[v1-19-21]]
+
+^<<v1-19-21,21>>^ E o Senhor disse-lhe: ainda nisto eu ouvi os teus rogos, para não destruir a cidade a favor da qual me falaste.
+
+[[v1-19-22]]
+
+^<<v1-19-22,22>>^ Apressa-te e salva-te lá, porque não poderei fazer nada, enquanto tu lá não tiveres entrado. Por isso puseram àquela cidade o nome de Segor.
+
+[[v1-19-23]]
+
+^<<v1-19-23,23>>^ O sol levantava-se sobre a terra, quando Loth entrou em Segor.
+
+[[v1-19-24]]
+
+^<<v1-19-24,24>>^ Fez, pois, o Senhor da parte do Senhor chover sobre Sodoma e Gomorra enxofre e fogo (vindo) do céu.
+
+[[v1-19-25]]
+
+^<<v1-19-25,25>>^ e destruiu estas cidades, todo o pais em roda, todos os habitantes das cidades e toda a verdura da terra.
+
+[[v1-19-26]]
+
+^<<v1-19-26,26>>^ A mulher de Loth, tendo olhado para trás, ficou convertida numa estátua de sal.
+
+[[v1-19-27]]
+
+^<<v1-19-27,27>>^ Ora Abraão, tendo-se levantado de manhã, foi ao lugar onde antes tinha estado com o Senhor,
+
+[[v1-19-28]]
+
+^<<v1-19-28,28>>^ e olhou para Sodoma e Gomorra, e para toda a terra daquela região, e viu que se elevavam da terra cinzas infamadas, como o fumo duma fornalha.
+
+[[v1-19-29]]
+
+^<<v1-19-29,29>>^ Quando destruía as cidades daquela região, lembrou-se de Abraão e livrou Loth da ruína destas cidades, em que tinha habitado.
+
+[[v1-19-30]]
+
+^<<v1-19-30,30>>^ Loth partiu de Segor e retirou-se para o monte com suas duas filhas (porque temia ficar em Segor), e habitou em uma caverna com as suas duas filhas.
+
+[[v1-19-31]]
+
+^<<v1-19-31,31>>^ A mais velha disse à mais nova: nosso pai está velho, e na terra não ficou homem algum com quem nos possamos casar, segundo o costume de todos os países. (ver nota)
+
+[[v1-19-32]]
+
+^<<v1-19-32,32>>^ Vem, embriaguêmo-lo com vinho, e durmamos com ele, para que possamos conservar a linhagem de nosso pai.
+
+[[v1-19-33]]
+
+^<<v1-19-33,33>>^ Deram, pois, a beber vinho a seu pai naquela noite, e a mais velha entrou e dormiu com o pai: ele, porém, não sentiu nem quando ela se deitou, nem quando se levantou.
+
+[[v1-19-34]]
+
+^<<v1-19-34,34>>^ No dia seguinte disse a mais velha para a mais nova: eis que leu ontem dormi com meu pai: demos-lhe também esta noite a beber vinho e dormirás tu com ele, para salvarmos a linhagem de nosso pai.
+
+[[v1-19-35]]
+
+^<<v1-19-35,35>>^ Também, naquela noite deram a beber vinho a seu pai, e a filha mais nova entrou e dormiu com ele: nem então ele sentiu quando ela se deitou, nem quando se levantou.
+
+[[v1-19-36]]
+
+^<<v1-19-36,36>>^ E as duas filhas de Loth conceberam de teu pai.
+
+[[v1-19-37]]
+
+^<<v1-19-37,37>>^ A mais velha deu à luz um filho e pôs-lhe o nome de Moab: este é o pai dos moabitas (que existem) até ao dia de hoje.
+
+[[v1-19-38]]
+
+^<<v1-19-38,38>>^ A mais nova também deu à luz um filho e pôs-lhe o nome de Amon, que quer dizer filho do meu povo: este é o pai dos amonitas, (que existem) até ao dia de hoje.
+
+'''
+
+xref:001-genesis/001-genesis-018.adoc#v1-18-0[&#60; Capítulo Anterior] | <<v1-19-0,Topo>> | xref:001-genesis/001-genesis-020.adoc#v1-20-0[Próximo Capítulo &#62;]

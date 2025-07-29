@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v23-3-0]]
+=== II Macabeus, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de 2 Macabeus narra a história de um homem rico chamado Simão, que havia emprestado uma grande quantia de dinheiro ao Tesoureiro Público Heliodoro, para que este a entregasse ao rei. Heliodoro, no entanto, tentou roubar o dinheiro do Templo e foi impedido por uma aparição divina. Os versículos abaixo são relacionados com os temas do capítulo:
+* Êxodo 20:15: "Não furtarás." Este é um dos mandamentos dados por Deus a Moisés no Monte Sinai, que condena o roubo de propriedade alheia. Heliodoro desobedeceu a esse mandamento ao tentar roubar o dinheiro do Templo.
+* Levítico 19:11: "Não furtareis, nem mentireis, nem usareis de falsidade cada um com o seu próximo." Este versículo reforça a proibição de roubar e acrescenta a proibição de mentir e usar falsidade. A tentativa de Heliodoro de roubar o dinheiro do Templo envolveu uma mentira, já que ele afirmou estar agindo por ordem do rei.
+* Provérbios 11:1: "O peso falso é abominação para o Senhor, mas o peso justo é o seu prazer." Este versículo se refere à prática de usar pesos e medidas justos na compra e venda de mercadorias, mas pode ser aplicado ao roubo de dinheiro também. Heliodoro tentou usar um peso falso para pesar o dinheiro do Templo, o que é uma abominação para o Senhor.
+* Isaías 56:7: "Também os levarei ao meu santo monte, e os alegrarei na minha casa de oração; os seus holocaustos e os seus sacrifícios serão aceitos sobre o meu altar; porque a minha casa será chamada casa de oração para todos os povos." Este versículo fala sobre a importância do Templo como uma casa de oração para todos os povos, onde os sacrifícios e holocaustos são oferecidos a Deus. Heliodoro desrespeitou a santidade do Templo ao tentar roubá-lo.
+* Malaquias 3:10: "Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa, e depois fazei prova de mim, diz o Senhor dos Exércitos, se eu não vos abrir as janelas do céu e não derramar sobre vós uma bênção tal, que dela vos advenha a maior abastança." Este versículo fala sobre a importância de trazer os dízimos e ofertas para a casa do tesouro, para que haja mantimento na casa de Deus. A tentativa de roubo de Heliodoro foi uma ameaça à manutenção do Templo.
+****
+
+[[v23-3-1]]
+
+^<<v23-3-1,1>>^ Enquanto gozava a cidade santa duma paz perfeita e se observavam exactamente as leis, por causa da piedade do sumo pontífice Onias e do seu ódio a todo o mal,
+
+[[v23-3-2]]
+
+^<<v23-3-2,2>>^ acontecia que os próprios reis consideravam o, (santo) lugar como digno de grande veneração e enriqueciam o templo com grandíssimos donativos,
+
+[[v23-3-3]]
+
+^<<v23-3-3,3>>^ de tal sorte que até Seleuco, rei da Ásia, pagava das suas rendas toda a despesa que pertencia ao ministério dos sacrifícios.
+
+[[v23-3-4]]
+
+^<<v23-3-4,4>>^ Porém, um tal Simão, da tribo de Benjamim, que estava constituído prefeito do templo, entrou em luta com o sumo pontífice, por causa da inspeeção do mercado público.
+
+[[v23-3-5]]
+
+^<<v23-3-5,5>>^ Vendo que não podia vencer Onias, foi ter com Apolónio, filho de Traseias, que naquele tempo era governador da Celesíria e da Fenícia,
+
+[[v23-3-6]]
+
+^<<v23-3-6,6>>^ e declarou-lhe que o erário de Jerusalém estava cheio de imensas somas de dinheiro, que nele se achavam incalculáveis riquezas, que não se destinavam aos gastos dos sacrifícios, e que se poderia descobrir meio de tudo isto cair em poder do rei.
+
+[[v23-3-7]]
+
+^<<v23-3-7,7>>^ Tendo, pois, Apolónio avisado o rei das riquezas que lhe foram referidas, este mandou chamar Heliodoro, seu primeiro ministro, e enviou-o com ordem de trazer as ditas riquezas.
+
+[[v23-3-8]]
+
+^<<v23-3-8,8>>^ Heliodoro pôs-se logo a caminho, com o pretexto de visitar as cidades da Cealesíria e da Fenícia, mas na realidade para executar a ordem do rei.
+
+[[v23-3-9]]
+
+^<<v23-3-9,9>>^ Chegado a Jerusalém e recebido na cidade com amabilidade pelo sumo sacerdote, Heliodoro declarou-lhe as informações recebidas e qual a verdadeira causa da sua vinda, perguntando, todavia, se era verdade o que tinha sido dito.
+
+[[v23-3-10]]
+
+^<<v23-3-10,10>>^ Então o sumo sacerdote representou-lhe que se tratava de depósitos das viúvas e dos órfãos.
+
+[[v23-3-11]]
+
+^<<v23-3-11,11>>^ que parte pertencia a Hircano, filho de Tobias, varão muito eminente; que as declarações de Simão eram caluniosas, pois toda a soma era de quatrocentos talentos de prata e duzentos de ouro;
+
+[[v23-3-12]]
+
+^<<v23-3-12,12>>^ que de nenhum modo se podia defraudar os que tinham depositado confiança na santidade do lugar e na inviolabilidade e majestade do templo, que por todo o mundo era honrado.
+
+[[v23-3-13]]
+
+^<<v23-3-13,13>>^ Mas Heliodoro, em cumprimento das ordens recebidas do rei, sustentava que, em todo o caso, devia aquele dinheiro ser levado para o tesouro real.
+
+[[v23-3-14]]
+
+^<<v23-3-14,14>>^ No dia marcado para isso, dispôs-se a entrar no templo para executar o seu desígnio. Entretanto havia uma grande consternação por toda a cidade.
+
+[[v23-3-15]]
+
+^<<v23-3-15,15>>^ Os sacerdotes prostraram-se diante do altar com as suas vestes sacerdotais, clamavam ao céu, invocando aquele que fez a lei sobre os depósitos, rogando-lhe que os conservasse salvos para aqueles que os tinham confiado.
+
+[[v23-3-16]]
+
+^<<v23-3-16,16>>^ Ninguém podia olhar para o semblante do sumo sacerdote, sem ficar com o coração traspassado, porque a mudança do seu semblante e da sua cor mostrava agonia da sua alma.
+
+[[v23-3-17]]
+
+^<<v23-3-17,17>>^ A consternação que o invadia e o tremor do seu corpo declaravam bem, aos que olhavam para ele, a dor do seu coração.
+
+[[v23-3-18]]
+
+^<<v23-3-18,18>>^ Os habitantes saíram em bandos de suas casas, para preces públicas, ao pensarem na iminente profanação do templo.
+
+[[v23-3-19]]
+
+^<<v23-3-19,19>>^ As mulheres, cobertos os peitos com cilícios, enchiam as ruas; as donzelas, que se conservavam encerradas em suas casas, corriam, umas para as portas, outras para os muros, e algumas olhavam pelas janelas;
+
+[[v23-3-20]]
+
+^<<v23-3-20,20>>^ todas, porém, levantando as mãos para o céu, dirigiam a Deus as suas súplicas.
+
+[[v23-3-21]]
+
+^<<v23-3-21,21>>^ Causava pena ver o abatimento de toda esta confusa multidão de povo e a angústia do sumo sacerdote.
+
+[[v23-3-22]]
+
+^<<v23-3-22,22>>^ Enquanto invocavam a Deus omnipotente para que conservasse invioláveis os depósitos daqueles que os tinham confiado,
+
+[[v23-3-23]]
+
+^<<v23-3-23,23>>^ Heliodoro executava o seu plano. Já estava com os seus guardas junto à porta do erário,
+
+[[v23-3-24]]
+
+^<<v23-3-24,24>>^ quando o Senhor dos espíritos e soberano dominador de todo o poder se manifestou tão magnificamente, que todos os que tinham ousado vir ali, foram lançados em terra pelo poder de Deus e ficaram num total desfalecimento e em grande terror.
+
+[[v23-3-25]]
+
+^<<v23-3-25,25>>^ Apareceu-lhes um cavalo, Sobre que estava montado um homem terrível, ajaezado com os melhores arreios, o qual, investindo contra Heliodoro o molestou com as patas dianteiras. O cavaleiro parecia ter uma armadura de ouro.
+
+[[v23-3-26]]
+
+^<<v23-3-26,26>>^ Ao mesmo tempo apareceram outros dois jovens, cheios de força, de resplandecente beleza, ricamente vestidos, os quais rodearam Heliodoro e o açoutavam nas costas, cada um da sua banda, descarregando sobre ele muitos golpes.
+
+[[v23-3-27]]
+
+^<<v23-3-27,27>>^ Caiu Heliodoro de repente por terra, envolvido numa grande escuridão. Pegaram nele, e, posto numa cadeira de mão, o levaram dali para fora.
+
+[[v23-3-28]]
+
+^<<v23-3-28,28>>^ Deste modo, o que tinha entrado no erário com uma grande comitiva e escolta de guardas, era levado sem se poder socorrer, depois de experimentar claramente o poder de Deus.
+
+[[v23-3-29]]
+
+^<<v23-3-29,29>>^ Heliodoro, por efeito deste divino poder, jazia sem fala e sem esperança alguma de vida.
+
+[[v23-3-30]]
+
+^<<v23-3-30,30>>^ Pelo contrário, (os Judeus) bem-diziam o Senhor, por engrandecer o seu (santo) lugar; o templo, que pouco antes estava cheio de confusão e de tumulto, logo que o Senhor manifestou a sua omnipotência, encheu-se de regozijo e de alegria.
+
+[[v23-3-31]]
+
+^<<v23-3-31,31>>^ Então alguns amigos de Heliodoro foram a toda a pressa suplicar a Onias que invocasse o Altíssimo, para que desse vida ao que estava reduzido a dar o último suspiro.
+
+[[v23-3-32]]
+
+^<<v23-3-32,32>>^ Então o sumo sacerdote, considerando que o rei poderia talvez suspeitar algum atentado urdido pelos Judeus contra Heliodoro, ofereceu um sacrifício pela vida deste homem.
+
+[[v23-3-33]]
+
+^<<v23-3-33,33>>^ Quando o sumo sacerdote oferecia o sacrifício expiatório, os mesmos dois jovens, vestidos dos mesmos trajos, apresentando-se a Heliodoro, disseram-lhe: Dá graças ao sacerdote Onias, porque o Senhor concede-te a vida por seu respeito.
+
+[[v23-3-34]]
+
+^<<v23-3-34,34>>^ Tu, pois, que assim foste açoutado por Deus, anuncia a todos o seu grande poder. Ditas estas palavras, desapareceram.
+
+[[v23-3-35]]
+
+^<<v23-3-35,35>>^ Heliodoro, depois de ter oferecido um sacrifício a Deus e feito grandes promessas ao que lhe tinha concedido a vida, agradeceu a Onias e voltou com as suas tropas para o rei.
+
+[[v23-3-36]]
+
+^<<v23-3-36,36>>^ A todos testificava Heliodoro as obras do grande Deus, que ele vira com os próprios olhos.
+
+[[v23-3-37]]
+
+^<<v23-3-37,37>>^ Tendo perguntado o rei a Heliodoro quem lhe parecia apto para ser mandado outra vez a Jerusalém, respondeu:
+
+[[v23-3-38]]
+
+^<<v23-3-38,38>>^ Se tens algum inimigo, ou adversário da tua governação, manda-o lá, e tu o verás voltar açoutado— se escapar— porque verdadeiramente naquele sitio há uma virtude divina.
+
+[[v23-3-39]]
+
+^<<v23-3-39,39>>^ Aquele que tem habitação nos céus, está vigilante e protege esse lugar, e fere e mata os que lá vão para fazer algum mal.
+
+[[v23-3-40]]
+
+^<<v23-3-40,40>>^ Eis o que se passou a respeito de Heliodoro e da conservação do erário.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-002.adoc#v23-2-0[&#60; Capítulo Anterior] | <<v23-3-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-004.adoc#v23-4-0[Próximo Capítulo &#62;]

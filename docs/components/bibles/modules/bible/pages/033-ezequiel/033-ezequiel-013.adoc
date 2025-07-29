@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v33-13-0]]
+=== Ezequiel, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 13 fala sobre as falsas profecias que estão sendo pregadas em Israel e adverte sobre a punição que virá sobre os falsos profetas. Os versículos escolhidos em ordem de proximidade com o tema do capítulo são:
+* Jeremias 23:16: "Assim diz o Senhor dos Exércitos: Não deis ouvidos às palavras dos profetas que entre vós profetizam, ensinando-vos vaidades; falam da visão do seu próprio coração, não da boca do Senhor." Este versículo aborda o mesmo tema de Ezequiel 13, alertando as pessoas para não ouvirem os falsos profetas que falam apenas de si mesmos, sem a orientação de Deus.
+* Mateus 24:24: "Porque se levantarão falsos cristos e falsos profetas, e farão sinais e prodígios para enganar, se for possível, até os escolhidos." Jesus também alertou sobre falsos profetas que enganariam as pessoas com milagres e sinais, o que é semelhante ao que Ezequiel 13 descreve.
+* 2 Pedro 2:1: "Assim como, no meio do povo, surgiram falsos profetas, assim também haverá entre vós falsos mestres, os quais introduzirão, dissimuladamente, heresias destruidoras, até ao ponto de renegarem o Soberano Senhor que os resgatou, trazendo sobre si mesmos repentina destruição." Pedro também alerta sobre a presença de falsos profetas e mestres que introduzem ensinamentos errados e heresias entre as pessoas, levando à destruição.
+* 1 João 4:1: "Amados, não creiais em todo espírito, mas provai se os espíritos vêm de Deus, porque muitos falsos profetas têm saído pelo mundo fora." João também aconselha as pessoas a testarem os espíritos e discernirem se eles são de Deus, porque há muitos falsos profetas no mundo que tentam enganar as pessoas.
+* Mateus 7:15: "Acautelai-vos dos falsos profetas, que se vos apresentam disfarçados em ovelhas, mas por dentro são lobos roubadores." Jesus novamente alerta sobre falsos profetas, que podem parecer inofensivos, mas são perigosos e enganadores por dentro.
+****
+
+[[v33-13-1]]
+
+^<<v33-13-1,1>>^ Foi-me dirigida a palavra do Senhor, nestes termos;
+
+[[v33-13-2]]
+
+^<<v33-13-2,2>>^ Filho de homem, profetiza contra os (falsos) profetas de Israel, que se metem a profetizar, dize a esses que profetizam por sua cabeça: Ouvi a palavra do Senhor:
+
+[[v33-13-3]]
+
+^<<v33-13-3,3>>^ Assim fala o Senhor Deus: Ai dos profetas insensatos, que seguem o seu próprio espírito e não vêem nada!
+
+[[v33-13-4]]
+
+^<<v33-13-4,4>>^ Os teus profetas, ó Israel, são como raposas nos escombros.
+
+[[v33-13-5]]
+
+^<<v33-13-5,5>>^ Vós não subistes às brechas, não construístes um muro em defesa da casa de Israel, para resistir no combate, no dia do Senhor.
+
+[[v33-13-6]]
+
+^<<v33-13-6,6>>^ Têm visões inanes, profetizam a mentira, dizendo: Oráculo do Senhor sendo certo que o Senhor não os enviou: apesar disso, ainda esperam a realização da sua palavra.
+
+[[v33-13-7]]
+
+^<<v33-13-7,7>>^ Porventura não são vãs as visões que tendes mentirosos os oráculos que proferis, quando dizeis: Assim falou o Senhor sendo certo que eu não falei?
+
+[[v33-13-8]]
+
+^<<v33-13-8,8>>^ Por cuja causa assim fala o Senhor Deus: Porque dizeis coisas vãs e tendes visões mentirosas, por isso eis que venho contra vós, diz o Senhor Deus.
+
+[[v33-13-9]]
+
+^<<v33-13-9,9>>^ A minha mão descarregará sobre os profetas que têm visões vãs e que profetizam a mentira: não serão admitidos na assembleia do meu povo. não serão inscritos no censo da casa de Israel, não entrarão na terra de Israel e vós sabereis que eu sou o Senhor Deus.
+
+[[v33-13-10]]
+
+^<<v33-13-10,10>>^ Porque eles enganaram o meu povo. dizendo: Paz! e paz não havia. Quando o meu povo levanta uma parede, eles cobrem-na de barro.
+
+[[v33-13-11]]
+
+^<<v33-13-11,11>>^ Dize (pois) a esses, que rebocam a parede com barro, que ela cairá; porque virá uma chuva de inundação, e farei cair do céu pedras grandes, e (enviarei) um vento tempestuoso que tudo destruirá.
+
+[[v33-13-12]]
+
+^<<v33-13-12,12>>^ E, quando a muralha tiver caído, não vos será dito (por zombaria): Onde está o reboco que fizestes?
+
+[[v33-13-13]]
+
+^<<v33-13-13,13>>^ Por cuja causa isto diz o Senhor Deus: Farei sair impetuosamente um vento de tempestade na minha indignação, e sobrevirá uma chuva que tudo inunde no meu furor, e arrojarei pedras enormes com ira para total destruição.
+
+[[v33-13-14]]
+
+^<<v33-13-14,14>>^ Destruirei a muralha que vós rebocastes com o barro, arrasá-la-ei, descobrir-se-ão os seus fundamentos, e ela cairá; e o que a rebocou será destruído com ela. Assim sabereis que eu sou o Senhor.
+
+[[v33-13-15]]
+
+^<<v33-13-15,15>>^ E satisfarei a minha indignação contra a muralha e contra aqueles que a rebocaram com barro, e vos direi então: Já não existe a muralha, nem existem os que a rebocaram,
+
+[[v33-13-16]]
+
+^<<v33-13-16,16>>^ esses profetas de Israel que profetizavam sobre Jerusalém, e que tinham acerca dela visões de paz, quando tal paz não havia, diz o Senhor Deus.
+
+[[v33-13-17]]
+
+^<<v33-13-17,17>>^ Tu, filho de homem, volta o teu rosto contra as filhas do teu povo, que se põem a profetizar por sua cabeça, e profetiza contra elas.
+
+[[v33-13-18]]
+
+^<<v33-13-18,18>>^ dizendo-lhes: Isto diz o Senhor Deus: Ai daqueles que cosem ligaduras para todas as junturas das mãos e que fabricam véus para as cabeças das pessoas de todas as estaturas, a fim de lhes apanharem as almas! Acaso pretendeis atentar contra a vida do meu povo e poupar a vossa própria vida? (ver nota)
+
+[[v33-13-19]]
+
+^<<v33-13-19,19>>^ Vós profanais-me diante do meu povo por um punhado de cevada e por um pedaço de pão, matando as almas que não deviam morrer, e prometendo a vida às que não deviam viver, mentindo ao meu povo, que acredita nestas mentiras.
+
+[[v33-13-20]]
+
+^<<v33-13-20,20>>^ Por cuja causa isto diz o Senhor Deus: Eis que vou contra as vossas ligaduras, com que apanhais as almas como a pássaros; arrancá-las-ei dos vossos braços e deixarei fugir as almas que vós apanhastes, como a pássaros.
+
+[[v33-13-21]]
+
+^<<v33-13-21,21>>^ Romperei os vossos véus e livrarei o meu povo do vosso poder, e eles não serão mais expostos à presa entre as vossas mãos, e sabereis que eu sou o Senhor.
+
+[[v33-13-22]]
+
+^<<v33-13-22,22>>^ Porque contristastes o coração do justo com as vossas mentiras, quando eu mesmo o não contristei, e porque fortificastes as mãos do ímpio, para que ele se não convertesse do seu mau caminho e vivesse,
+
+[[v33-13-23]]
+
+^<<v33-13-23,23>>^ por isso não tomareis mais a ter visões vãs, nem a pronunciar oráculos, porque livrarei o meu povo das vossas mãos, e vós sabereis que eu sou o Senhor.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-012.adoc#v33-12-0[&#60; Capítulo Anterior] | <<v33-13-0,Topo>> | xref:033-ezequiel/033-ezequiel-014.adoc#v33-14-0[Próximo Capítulo &#62;]

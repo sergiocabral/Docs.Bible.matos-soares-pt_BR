@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v31-4-0]]
+=== Lamentações, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Lamentações 4 fala sobre a destruição de Jerusalém e a punição que o povo sofreu por causa de seus pecados. O capítulo também descreve a situação desesperadora dos habitantes da cidade, que passaram fome e sofreram outras formas de violência. Aqui estão cinco versículos relacionados com os temas abordados em Lamentações 4:
+* Salmos 137:7: "Lembra-te, Senhor, dos filhos de Edom, no dia de Jerusalém, que diziam: Descobri-a, descobri-a até aos seus alicerces." Este salmo é uma lamentação dos judeus que foram levados cativos para a Babilônia, e ele lembra do sofrimento dos habitantes de Jerusalém. O verso citado pede que Deus se lembre daqueles que contribuíram para a destruição da cidade.
+* Isaías 3:8: "Jerusalém está arruinada, e Judá caiu; porque a sua língua e as suas obras são contra o Senhor, para provocarem os olhos da sua glória." Este verso descreve a queda de Jerusalém e Judá, e atribui a culpa aos seus habitantes por causa de suas ações pecaminosas.
+* Ezequiel 5:10: "Portanto, os pais comerão a seus filhos no meio de ti, e os filhos comerão a seus pais; e executarei em ti juízos, e tudo o que restar de ti espalharei a todos os ventos." Este verso descreve a fome extrema que ocorreu durante o cerco de Jerusalém, que levou as pessoas a recorrerem ao canibalismo.
+* Lamentações 4:9: "Os que foram mortos à espada foram mais felizes do que os que morreram de fome; porque estes, esgotados pelos efeitos da fome, iam desfalecendo aos poucos, até expirarem, ao passo que aqueles, atravessados pela espada, morriam subitamente." Este verso descreve a diferença entre as mortes que ocorreram durante o cerco, e afirma que morrer pela espada era preferível à morte lenta e agonizante por causa da fome.
+* Jeremias 19:9: "Farei com que comam a carne de seus filhos e a carne de suas filhas, e comerão cada um a carne do seu próximo, durante o cerco e no aperto com que os apertarão os seus inimigos, e os que procuram tirar-lhes a vida." Este verso é uma profecia da destruição de Jerusalém, e afirma que o povo sofrerá tanto durante o cerco que recorrerá ao canibalismo para sobreviver.
+****
+
+[[v31-4-1]]
+
+^<<v31-4-1,1>>^ ALEF. Como se escureceu o ouro, (como) perdeu o seu brilho o ouro fino? (Como) foram espalhadas as pedras sagradas pelos ângulos de todas as ruas?
+
+[[v31-4-2]]
+
+^<<v31-4-2,2>>^ BET. Os ilustres filhos de Sião, tidos por ouro fino, como foram considerados vasos de terra, obras de mãos de oleiro?
+
+[[v31-4-3]]
+
+^<<v31-4-3,3>>^ CHIMEL. Até as fêmeas dos chacais oferecem os seus peitos, dão leite às suas crias; porém a filha do meu povo tornou-se cruel, como as avestruzes no deserto.
+
+[[v31-4-4]]
+
+^<<v31-4-4,4>>^ DALET. A língua do menino de peito por causa da sede, ficou pegada ao seu paladar: os pequeninos pediram pão, e não havia quem lho repartisse.
+
+[[v31-4-5]]
+
+^<<v31-4-5,5>>^ HÉ. Os que comiam manjares esquisitos, morreram (de fome) nos caminhos; os que tinham sido criados entre púrpuras, abraçaram o esterco.
+
+[[v31-4-6]]
+
+^<<v31-4-6,6>>^ VAU. A iniquidade da filha do meu povo foi maior que o pecado de Sodoma, subvertida num momento, sem que mãos (humanas) se levantassem contra ela.
+
+[[v31-4-7]]
+
+^<<v31-4-7,7>>^ ZAIN. Os seus príncipes eram mais brilhante que a neve, mais brancos que o leite; mais vermelho que o coral, era o seu corpo; o seu aspecto era duma safira.
+
+[[v31-4-8]]
+
+^<<v31-4-8,8>>^ HET. (Porém agora) o seu rosto está mais negro que os carvões; já não se reconhecem nas ruas; a sua pele pegou-se aos ossos, seca como lenha.
+
+[[v31-4-9]]
+
+^<<v31-4-9,9>>^ TET. Foram mais felizes os mortos à espada que os mortos de fome, pois estes definham (lentamente), consumidos pela falta de frutos dos campos.
+
+[[v31-4-10]]
+
+^<<v31-4-10,10>>^ JOD. Mulheres ternas cozinharam, com as suas mãos, os próprios filhos os quais lhes serviram de mantimento na ruína da filha do meu povo.
+
+[[v31-4-11]]
+
+^<<v31-4-11,11>>^ CAP. Deu O Senhor satisfação ao seu furor, derramou o ardor da sua indignação, ateou um fogo em Sião, que devorou os seus fundamentos.
+
+[[v31-4-12]]
+
+^<<v31-4-12,12>>^ LAMED. Nunca acreditaram os reis da terra, nem quaisquer moradores do mundo, que entraria o inimigo, o adversário, pelas portas de Jerusalém.
+
+[[v31-4-13]]
+
+^<<v31-4-13,13>>^ MEM. (Mas entrou) por causa dos pecados dos seus profetas, por causa das iniquidades dos seus sacerdotes, que derramaram no meio dela o sangue dos justos.
+
+[[v31-4-14]]
+
+^<<v31-4-14,14>>^ NUN. Erravam como cegos nas praças, manchados de sangue, de forma que se não podia tocar nas suas vestes.
+
+[[v31-4-15]]
+
+^<<v31-4-15,15>>^ SAMEC. Apartai-vos, imundos — lhes gritavam; retirai-vos, ide-vos, não nos toqueis. Quando partiam e andavam errantes, disseram entre as gentes: Não continuem a habitar aqui.
+
+[[v31-4-16]]
+
+^<<v31-4-16,16>>^ FE. A face (irritada) do Senhor os dispersou, não torna a olhar para eles. Não respeitam a pessoa dos sacerdotes, nem se compadecem dos anciães.
+
+[[v31-4-17]]
+
+^<<v31-4-17,17>>^ .AIN. Consumiam-se os nossos olhos na esperança dum vão socorro, olhando atentos para uma nação, que nos não podia salvar. (ver nota)
+
+[[v31-4-18]]
+
+^<<v31-4-18,18>>^ SAEE. (Os inimigos) observavam os nossoss passos, não podíamos andar pelas ruas. Está chegado o nosso fim, os nossos dias estão cumpridos. Sim, chegou o nosso termo.
+
+[[v31-4-19]]
+
+^<<v31-4-19,19>>^ COF. Os nossos perseguidores foram mais velozes que as águias do céu; perseguiram-nos sobre os montes, armaram-nos ciladas no deserto.
+
+[[v31-4-20]]
+
+^<<v31-4-20,20>>^ RES. O sopro das nossas narinas, o ungido do Senhor, foi apanhado nas suas armadilhas, esse de quem dizíamos: À sua sombra viveremos entre as nações. (ver nota)
+
+[[v31-4-21]]
+
+^<<v31-4-21,21>>^ SIN. Alegra-te, regozija-te, ó filha de Edom, que habitas na terra de Hus: a ti também será passado o copo (da tribulação): serás dele embriagada e desnudar-te-ás.
+
+[[v31-4-22]]
+
+^<<v31-4-22,22>>^ THAU. Chegou ao seu termo o castigo da tua maldade, ó filha de Sião: (o Senhor) não te tornará mais a deportar. Castigará a tua iniquidade, ó filha de Edom, descobrirá os teus pecados.
+
+'''
+
+xref:031-lamentacoes/031-lamentacoes-003.adoc#v31-3-0[&#60; Capítulo Anterior] | <<v31-4-0,Topo>> | xref:031-lamentacoes/031-lamentacoes-005.adoc#v31-5-0[Próximo Capítulo &#62;]

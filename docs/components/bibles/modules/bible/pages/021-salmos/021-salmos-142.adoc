@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v21-142-0]]
+=== Salmos, 142
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 142 é uma oração de um homem em aflição, que clama a Deus por ajuda e livramento. O salmista se sente sozinho e perseguido, mas confia que Deus é seu refúgio e sua porção na terra dos vivos. Aqui estão cinco versículos relacionados aos temas abordados no Salmo 142:
+* Salmos 55:6 - "Disse eu no meu espanto: Oh! quem me dera asas como de pomba! Voaria e encontraria refúgio." Assim como o salmista de Salmo 142, o autor deste salmo clama por ajuda em momentos de aflição e deseja escapar de seus perseguidores.
+* Salmos 143:3-4 - "Pois o inimigo tem me perseguido a alma; tem esmagado no chão a minha vida; tem me feito habitar na escuridão, como os que morreram há muito tempo. Pelo que dentro de mim desfalece o meu espírito; dentro de mim está desolado o meu coração." Estes versículos descrevem a angústia e a solidão que o salmista de Salmo 142 sente em sua aflição.
+* Salmos 27:9 - "Não escondas de mim o teu rosto, não rejeites com ira o teu servo, tu que tens sido a minha ajuda; não me deixes nem me desampares, ó Deus da minha salvação!" Este verso mostra a confiança do salmista de Salmo 142 na ajuda de Deus, mesmo quando se sente abandonado.
+* Salmos 31:2-3 - "Inclina os teus ouvidos para mim, livra-me depressa; sê para mim uma rocha de refúgio, uma fortaleza poderosa para me salvar. Pois tu és a minha rocha e a minha fortaleza; por amor do teu nome, guia-me e conduz-me." Estes versículos enfatizam a confiança do salmista em Deus como sua fortaleza e rocha de refúgio.
+* Salmos 143:11 - "Por amor do teu nome, Senhor, conserva-me a vida; por tua justiça, tira-me da angústia." Este verso reflete o desejo do salmista de Salmo 142 de ser salvo por Deus e viver para glorificar seu nome.
+****
+
+[[v21-142-1]]
+
+^<<v21-142-1,1>>^ Salmo. De Davide. Senhor, ouve a minha oração, presta ouvidos à minha súplica por tua fidelidade, atende-me por tua justiça.
+
+[[v21-142-2]]
+
+^<<v21-142-2,2>>^ Não chames a juízo o teu servo, porque nenhum vivente é justo na tua presença.
+
+[[v21-142-3]]
+
+^<<v21-142-3,3>>^ O inimigo persegue a minha alma: prostrou por terra a minha vida, colocou-me nas trevas, como os mortos de muito tempo.
+
+[[v21-142-4]]
+
+^<<v21-142-4,4>>^ O meu espírito desfalece em mim; dentro de mim se gelou o meu coração,
+
+[[v21-142-5]]
+
+^<<v21-142-5,5>>^ (Mas) lembro-me (logo) dos dias antigos, medito em todas as tuas obras, considero as obras das tuas mãos.
+
+[[v21-142-6]]
+
+^<<v21-142-6,6>>^ Estendo as minhas mãos para ti; a minha alma tem sede de ti, como terra sequiosa.
+
+[[v21-142-7]]
+
+^<<v21-142-7,7>>^ Atende-me, Senhor, com presteza, porque o meu espírito desfalece. Não escondas de mim a tua face, para que não me torne como os (mortos) que descem à cova.
+
+[[v21-142-8]]
+
+^<<v21-142-8,8>>^ Faz-me sentir já a tua bondade, porque em ti confio. Faz-me conhecer o caminho em que devo andar, porque a ti elevo a minha alma.
+
+[[v21-142-9]]
+
+^<<v21-142-9,9>>^ Livra-me dos meus inimigos, Senhor: em ti espero.
+
+[[v21-142-10]]
+
+^<<v21-142-10,10>>^ Ensina-me a fazer a tua vontade, porque tu és o meu Deus. O teu espírito é bom: conduza-me por terra plana.
+
+[[v21-142-11]]
+
+^<<v21-142-11,11>>^ Por causa do teu nome, Senhor, conserva-me vivo; por tua clemência, tira a minha alma da angústia.
+
+[[v21-142-12]]
+
+^<<v21-142-12,12>>^ Pela tua bondade, destrói os meus inimigos, extermina todos os que atribulam a minha alma, porque eu sou teu servo.
+
+'''
+
+xref:021-salmos/021-salmos-141.adoc#v21-141-0[&#60; Capítulo Anterior] | <<v21-142-0,Topo>> | xref:021-salmos/021-salmos-143.adoc#v21-143-0[Próximo Capítulo &#62;]

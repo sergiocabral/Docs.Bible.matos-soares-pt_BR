@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v30-21-0]]
+=== Jeremias, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 21 apresenta uma mensagem de Deus ao rei de Judá, Zedequias, sobre o julgamento que estava prestes a acontecer sobre o povo de Judá. Deus avisou o rei de que o exército babilônico viria para destruir a cidade e levar o povo cativo. Aqui estão cinco versículos relacionados com os temas abordados em Jeremias 21:
+* Isaías 1:15-17: "Quando vocês estenderem as mãos em oração, esconderei de vocês os meus olhos; mesmo que multipliquem as suas orações, não as ouvirei! As suas mãos estão cheias de sangue! Lavem-se! Limpem-se! Removam suas más obras para longe da minha vista! Parem de fazer o mal, aprendam a fazer o bem! Busquem a justiça, acabem com a opressão. Lutem pelos direitos do órfão, defendam a causa da viúva". Deus pede que seu povo pare de fazer o mal e comece a fazer o bem, buscando a justiça e acabando com a opressão.
+* Jeremias 22:3: "Assim diz o Senhor: Pratiquem a justiça e o direito. Livrem o oprimido da mão do opressor. Não oprimam o estrangeiro, o órfão nem a viúva. Não derramem sangue inocente neste lugar". Deus instrui o povo de Judá a praticar a justiça e o direito, libertando os oprimidos e evitando a opressão, além de não derramar sangue inocente.
+* Ezequiel 33:11: "Juro pela minha vida, palavra do Soberano, o Senhor, que não tenho prazer na morte dos ímpios, mas sim em que eles se afastem dos seus caminhos e vivam. Voltem! Voltem dos seus maus caminhos! Por que vocês haveriam de morrer, ó nação de Israel?" Deus não tem prazer na morte dos ímpios, mas deseja que eles se arrependam e voltem para Ele.
+* Salmo 91:15: "Ele me invocará, e eu lhe responderei; estarei com ele na angústia, livrá-lo-ei e o glorificarei". Deus promete estar presente com seus filhos durante suas angústias, livrando-os e glorificando-os.
+* João 16:33: "Eu lhes disse estas coisas para que em mim vocês tenham paz. Neste mundo vocês terão aflições; contudo, tenham ânimo! Eu venci o mundo". Jesus avisa seus discípulos que neste mundo eles teriam aflições, mas que Ele os havia vencido, trazendo paz e esperança.
+****
+
+[[v30-21-1]]
+
+^<<v30-21-1,1>>^ Palavra que foi dirigida pelo Senhor a Jeremias, quando o rei Sedecias lhe enviou Fassur, filho de Melcias, e o sacerdote Sofonias, filho de Maasias a dizer-lhe:
+
+[[v30-21-2]]
+
+^<<v30-21-2,2>>^ Consulta o Senhor por nós, porque Nabucodonosor, rei de Babilônia, nos faz guerra; (sabe) se porventura obrará o Senhor connosco segundo todas as suas maravilhas, de forma que aquele inimigo se retire de nós.
+
+[[v30-21-3]]
+
+^<<v30-21-3,3>>^ Jeremias respondeu-lhes: Assim direis a Sedecias:
+
+[[v30-21-4]]
+
+^<<v30-21-4,4>>^ Isto diz o Senhor, o Deus de Israel: Vou fazer voltar atrás as armas de guerra, que tendes nas vossas mãos, e com as quais combateis o rei de Babilônia e os Caldeus, que vos têm cercados ao redor dos muros, e vou juntá-las no meio da cidade.
+
+[[v30-21-5]]
+
+^<<v30-21-5,5>>^ Depois eu mesmo vos combaterei com mão alçada e com braço forte, com indignação, cólera e grande furor.
+
+[[v30-21-6]]
+
+^<<v30-21-6,6>>^ Ferirei os habitantes desta cidade, tanto homens como animais, que morrerão duma grande peste.
+
+[[v30-21-7]]
+
+^<<v30-21-7,7>>^ Além disto, diz o Senhor: Entregarei Sedecias, rei de Judá e os seus servos, o seu povo e quantos nesta cidade escaparem da peste, da espada e da fome, na mão de Nabucodonosor rei de Babilônia, na mão dos seus inimigos e na mão dos que procuram tirar-lhes a vida. (Nabucodonosor) passá-los-á ao fio da espada, sem se aplacar, não perdoará, não terá compaixão.
+
+[[v30-21-8]]
+
+^<<v30-21-8,8>>^ E dirás a este povo: Assim fala o Senhor: Eis que ponho diante de vós o caminho da vida e o caminho da morte.
+
+[[v30-21-9]]
+
+^<<v30-21-9,9>>^ O que ficar nesta cidade morrerá à espada, de fome e de peste; o que sair dela e for para os Caldeus, que vos cercam, viverá, e a sua vida salva será para ele como um despojo.
+
+[[v30-21-10]]
+
+^<<v30-21-10,10>>^ Voltei o meu rosto sobre esta cidade para lhe fazer mal, e não bem, diz o Senhor; ela será entregue nas mãos do rei de Babilônia, e este a consumirá pelo fogo.
+
+[[v30-21-11]]
+
+^<<v30-21-11,11>>^ Dirás também à casa do rei de Judá: Ouvi a palavra do Senhor, (vós que pertenceis à)
+
+[[v30-21-12]]
+
+^<<v30-21-12,12>>^ casa de Davide: Assim fala o Senhor: Fazei justiça desde manhã, livrai o oprimido das mãos do opressor para que não suceda sair a minha indignação, como um fogo, e queimar sem haver quem o apague por causa da malícia das vossas ações.
+
+[[v30-21-13]]
+
+^<<v30-21-13,13>>^ Eis-me aqui contra ti (ó Jerusalém), moradora do vale, rochedo da planura, diz o Senhor, contra vós que dizeis: Quem será capaz de nos ferir e de entrar em nossas casas?
+
+[[v30-21-14]]
+
+^<<v30-21-14,14>>^ Castigar-vos-ei segundo o fruto das vossas obras, diz o Senhor; lançarei fogo ao seu bosque, o qual devorará tudo em roda.
+
+'''
+
+xref:030-jeremias/030-jeremias-020.adoc#v30-20-0[&#60; Capítulo Anterior] | <<v30-21-0,Topo>> | xref:030-jeremias/030-jeremias-022.adoc#v30-22-0[Próximo Capítulo &#62;]

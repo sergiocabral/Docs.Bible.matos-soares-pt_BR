@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v3-17-0]]
+=== Levítico, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 17 é um capítulo que trata da santidade do sangue e de como os israelitas devem oferecer sacrifícios ao Senhor. Os versículos selecionados estão em ordem de proximidade com os temas abordados em Levítico 17:
+* Deuteronômio 12:23: "Tão-somente sê firme em não comer o sangue, pois o sangue é a vida, e não comerás a vida junto com a carne." Este versículo reforça a ideia central de Levítico 17, que é a santidade do sangue e a proibição de consumi-lo.
+* Hebreus 9:22: "E quase todas as coisas, segundo a lei, se purificam com sangue; e sem derramamento de sangue não há remissão." Este versículo destaca a importância do sacrifício e do derramamento de sangue na expiação dos pecados, que é um dos temas principais de Levítico 17.
+* Atos 15:20: "Mas escrever-lhes que se abstenham das contaminações dos ídolos, da prostituição, do que é sufocado e do sangue." Este versículo mostra como os ensinamentos de Levítico 17 sobre a santidade do sangue foram aplicados aos cristãos do primeiro século.
+* Levítico 7:26: "Não comereis nenhum sangue, quer de ave, quer de animal, em qualquer das vossas habitações." Este versículo é uma repetição da proibição de consumir sangue encontrada em Levítico 17, reforçando a importância do tema na lei mosaica.
+* Levítico 4:7: "E o sacerdote porá do sangue sobre as pontas do altar do incenso aromático, perante o SENHOR, que está na tenda da congregação, e todo o sangue do bezerro derramará à base do altar do holocausto, que está à porta da tenda da congregação." Este versículo mostra como o derramamento de sangue era parte integrante do ritual de sacrifício no tabernáculo, conforme prescrito em Levítico 17.
+****
+
+[[v3-17-1]]
+
+^<<v3-17-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-17-2]]
+
+^<<v3-17-2,2>>^ Fala a Aarão e aos seus, filhos, e a todos os filhos de Israel e dize-lhes: Eis o que o Senhor ordenou:
+
+[[v3-17-3]]
+
+^<<v3-17-3,3>>^ Qualquer homem da casa de Israel que matar um boi, ou uma ovelha, ou uma cabra nos acampamentos ou fora dos acampamentos,
+
+[[v3-17-4]]
+
+^<<v3-17-4,4>>^ sem os apresentar à porta do tabernáculo, em oferta ao Senhor, será réu de sangue; e, como tendo derramado sangue, será eliminado do seu povo.
+
+[[v3-17-5]]
+
+^<<v3-17-5,5>>^ Por isso os filhos de Israel devem apresentar ao sacerdote as suas vítimas, que matam no campo, para que sejam consagradas ao Senhor diante da porta do tabernáculo da reunião, e eles as ofereçam ao Senhor em sacrifício pacífico.
+
+[[v3-17-6]]
+
+^<<v3-17-6,6>>^ O sacerdote derramará o seu sangue sobre o altar do Senhor à porta do tabernáculo da reunião, e queimará a gordura em odor de suavidade ao Senhor.
+
+[[v3-17-7]]
+
+^<<v3-17-7,7>>^ Nunca mais imolarão as suas hóstias aos demônios, aos quais idolatraram. Esta será uma lei eterna para eles e para os seus descendentes.
+
+[[v3-17-8]]
+
+^<<v3-17-8,8>>^ Tu lhes dirás: O homem da casa de Israel e de entre os estrangeiros que habitam entre vós, que oferecer um holocausto ou uma vítima,
+
+[[v3-17-9]]
+
+^<<v3-17-9,9>>^ e não a levar à porta do tabernáculo da reunião, para ser oferecida ao Senhor, será eliminado do seu povo.
+
+[[v3-17-10]]
+
+^<<v3-17-10,10>>^ Qualquer homem da casa de Israel ou de entre os estrangeiros que peregrinam entre eles, se comer sangue, voltarei o meu rosto contra ele, e exterminá-lo-ei do meio do seu povo,
+
+[[v3-17-11]]
+
+^<<v3-17-11,11>>^ porque a vida da carne está no sangue, e eu dei-o a vós, para que com ele façais expiações sobre o altar pelas vossas almas: o sangue expia, por ser vida. (ver nota)
+
+[[v3-17-12]]
+
+^<<v3-17-12,12>>^ Por isso disse aos filhos de Israel: Nenhum de vós comerá sangue, nem nenhum dos estrangeiros, que moram entre vós.
+
+[[v3-17-13]]
+
+^<<v3-17-13,13>>^ Se algum homem dos filhos de Israel ou dos estrangeiros que habitam entre vós tomar à caça ou ao laço um animal ou ave, daquelas que é lícito comer, derrame o seu sangue, e cubra-o com terra,
+
+[[v3-17-14]]
+
+^<<v3-17-14,14>>^ porque a vida de toda a carne está no sangue. Por isso disse aos filhos de Israel: Não comereis o sangue de nenhum animal, porque a vida da carne está no sangue; todo o que comer dele, será posto fora.
+
+[[v3-17-15]]
+
+^<<v3-17-15,15>>^ Qualquer, tanto dos naturais como dos estrangeiros, que comer dum animal morto, por si, ou dilacerado por uma fera, lavará as suas vestes e o seu corpo em água, e será impuro até à tarde; deste modo se purificará.
+
+[[v3-17-16]]
+
+^<<v3-17-16,16>>^ Se não lavar as suas vestes e o seu corpo, lavará a sua iniquidade.
+
+'''
+
+xref:003-levitico/003-levitico-016.adoc#v3-16-0[&#60; Capítulo Anterior] | <<v3-17-0,Topo>> | xref:003-levitico/003-levitico-018.adoc#v3-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v1-47-0]]
+=== Gênesis, 47
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 47 narra a continuação da história de José e como ele ajudou o Faraó a salvar o Egito da fome, por meio da administração da venda de grãos. José também ajuda sua família a estabelecer-se no Egito, fornecendo-lhes terra e alimento. Os cinco versículos abaixo foram selecionados por sua relevância com os temas abordados neste capítulo.
+* Provérbios 13:11: "A fazenda que procede da vaidade diminuirá, mas quem a ajunta pelo trabalho terá aumento." O exemplo de José no capítulo 47 de trabalhar duro e administrar com sabedoria a venda de grãos para salvar o Egito da fome é uma ilustração de como o trabalho árduo e a sabedoria podem resultar em prosperidade.
+* Salmo 111:5: "Deu mantimento aos que o temem; lembrar-se-á sempre da sua aliança." A ajuda de José para sua família é um exemplo da fidelidade de Deus em cumprir suas promessas de proteção e bênção para a descendência de Abraão.
+* Eclesiastes 3:1: "Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu." O momento em que José foi levado para o Egito, sua ascensão ao poder e a oportunidade de salvar o Egito da fome são exemplos de como Deus pode usar os tempos e circunstâncias para cumprir seus propósitos.
+* 1 Timóteo 5:8: "Mas, se alguém não tem cuidado dos seus, e principalmente dos da sua família, negou a fé, e é pior do que o infiel." José cuidou de sua família, fornecendo-lhes terra e alimento, mesmo depois de terem sido vendidos como escravos e sofrido muitas dificuldades.
+* Filipenses 4:19: "O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória, por Cristo Jesus." A provisão de alimento e terra para a família de Jacó é um exemplo da fidelidade de Deus em suprir todas as nossas necessidades.
+****
+
+[[v1-47-1]]
+
+^<<v1-47-1,1>>^ José foi, pois, levar a nova a Faraó, dizendo: Meu pai e meus irmãos, com as suas ovelhas, rebanhos e com tudo o que possuem, vieram da terra de Canaan: e eis que estão parados na terra de Gessen.
+
+[[v1-47-2]]
+
+^<<v1-47-2,2>>^ Apresentou também ao rei os cinco últimos de seus irmãos.
+
+[[v1-47-3]]
+
+^<<v1-47-3,3>>^ (Faraó) perguntou-lhes: Que ocupação tendes? Eles responderam: Nós, teus servos, somos proprietários de gado, (como o foram) nossos pais.
+
+[[v1-47-4]]
+
+^<<v1-47-4,4>>^ Viemos habitar como peregrinos na tua terra, porque não há erva para os rebanhos dos teus servos, e a fome vai crescendo; suplicamos-te que ordenes que nós, teus servos, habitemos na terra de Gessen.
+
+[[v1-47-5]]
+
+^<<v1-47-5,5>>^ O rei disse, pois, a José: Teu pai e teus irmãos vieram ter contigo.
+
+[[v1-47-6]]
+
+^<<v1-47-6,6>>^ A terra do Egito está diante de ti: faze-os habitar no melhor lugar: entrega-lhes a terra de Gessen. Se sabes que há entre eles homens de capacidade, constitui-os superintendentes dos meus rebanhos.
+
+[[v1-47-7]]
+
+^<<v1-47-7,7>>^ Depois disto José conduziu seu pai ao rei, e apresentou-lho. Jacob abençoou o rei, (ver nota)
+
+[[v1-47-8]]
+
+^<<v1-47-8,8>>^ que lhe perguntou: Quantos são os teus anos?
+
+[[v1-47-9]]
+
+^<<v1-47-9,9>>^ Respondeu: Os dias da minha peregrinação são cento e trinta anos; poucos e trabalhosos, não chegaram aos dias da peregrinação de meus pais.
+
+[[v1-47-10]]
+
+^<<v1-47-10,10>>^ Abençoado o rei, retirou-se.
+
+[[v1-47-11]]
+
+^<<v1-47-11,11>>^ José deu a seu pai e a seus irmãos uma propriedade, em um ótimo lugar do país, em Ramsés, como Faraó tinha ordenado,
+
+[[v1-47-12]]
+
+^<<v1-47-12,12>>^ e sustentava-os a eles e a toda a família de seu paí, dando a cada um o seu sustento.
+
+[[v1-47-13]]
+
+^<<v1-47-13,13>>^ Ora o pão faltava em toda aquela terra, a fome muito grande, principalmente no Egito e em Canaan.
+
+[[v1-47-14]]
+
+^<<v1-47-14,14>>^ (José) recolheu destes países todo o dinheiro pela venda do trigo, e meteu-o no erário do rei.
+
+[[v1-47-15]]
+
+^<<v1-47-15,15>>^ Faltando o dinheiro aos compradores, todo o Egito foi ter com José, dizendo: Dá-nos pão; por que razão morreremos nós na tua presença, por falta de dinheiro?
+
+[[v1-47-16]]
+
+^<<v1-47-16,16>>^ Ele respondeu-lhes: Trazei os vossos gados, e eu vos darei por eles de comer, se não tendes (mais) dinheiro.
+
+[[v1-47-17]]
+
+^<<v1-47-17,17>>^ Trouxeram-nos a José e ele deu-lhes alimento em troca de cavalos, de ovelhas, de bois e de jumentos, e sustentou-os aquele ano pela troca de gados.
+
+[[v1-47-18]]
+
+^<<v1-47-18,18>>^ Voltaram também no ano seguinte e disseram-lhe: Não encobriremos ao nosso senhor, que, faltando o dinheiro, nos faltaram juntamente os gados; nem tu ignoras que não temos mais nada, além dos (nossos) corpos e da (nossa) terra.
+
+[[v1-47-19]]
+
+^<<v1-47-19,19>>^ Por que morreremos, pois, à tua vista? Nós e a nossa terra seremos teus; compra-nos para sermos escravos do rei, dá-nos sementes, para que não morramos e a terra se não reduza a um deserto.
+
+[[v1-47-20]]
+
+^<<v1-47-20,20>>^ Portanto José comprou toda a terra do Egito, vendendo cada um deles as suas possessões por causa do rigor da fome: assim a sujeitou a Faraó,
+
+[[v1-47-21]]
+
+^<<v1-47-21,21>>^ com todos os seus povos, desde uma extremidade do Egito até à outra.
+
+[[v1-47-22]]
+
+^<<v1-47-22,22>>^ Sòmente não comprou a terra dos sacerdotes, porque os sacerdotes tinham uma determinada provisão de Faraó, e comiam a provisão que lhes dava Faraó. Por isso não venderam as suas terras,
+
+[[v1-47-23]]
+
+^<<v1-47-23,23>>^ (Depois disto) disse José aos povos: como vedes, Faraó é o Senhor de vós e da vossa terra: tomai sementes e semeai os campos,
+
+[[v1-47-24]]
+
+^<<v1-47-24,24>>^ para que possais colher frutos. Dareis ao rei a quinta parte: as outras quatro deixo-os a vós para semente e para sustento das vossas famílias e filhos.
+
+[[v1-47-25]]
+
+^<<v1-47-25,25>>^ Eles responderam: A nossa conservação está nas tuas mãos: que o nosso senhor apenas volva para nós o seu olhar, e alegres serviremos o rei.
+
+[[v1-47-26]]
+
+^<<v1-47-26,26>>^ Desde aquele tempo até ao dia de hoje, em toda a terra do Egito, se paga aos reis a quinta parte; isto tornou-se lei (para todos) excetuada a terra sacerdotal, que ficou livre desta sujeição.
+
+[[v1-47-27]]
+
+^<<v1-47-27,27>>^ Israel habitou, pois, no Egito, na terra do Gessen, e adquiriu, ali, bens, aumentando e multiplicando-se extraordinariamente.
+
+[[v1-47-28]]
+
+^<<v1-47-28,28>>^ Viveu nela dezassete anos; e todo o tempo da sua vida foi de cento e quarenta e sete anos.
+
+[[v1-47-29]]
+
+^<<v1-47-29,29>>^ Vendo que se aproximava o dia da sua morte, chamou seu filho José e disse-lhe: Se achei graça diante de ti, põe a tua mão debaixo da minha coxa; usarás comigo de bondade e fidelidade, e não me sepultarás no Egito. (ver nota)
+
+[[v1-47-30]]
+
+^<<v1-47-30,30>>^ Quando for dormir com os meus pais, tu me tirarás desta terra e me sepultarás no túmulo dos meus antepassados. José respondeu-lhe: Farei o que mandaste.
+
+[[v1-47-31]]
+
+^<<v1-47-31,31>>^ Ele acrescentou: Jura-mo. José fez o juramento e Israel (adorou a Deus) prostrado sobre a cabeceira do leito.
+
+'''
+
+xref:001-genesis/001-genesis-046.adoc#v1-46-0[&#60; Capítulo Anterior] | <<v1-47-0,Topo>> | xref:001-genesis/001-genesis-048.adoc#v1-48-0[Próximo Capítulo &#62;]

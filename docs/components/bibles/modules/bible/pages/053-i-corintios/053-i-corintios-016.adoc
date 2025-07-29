@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v53-16-0]]
+=== I Coríntios, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 16 de 1 Coríntios trata de algumas questões práticas relacionadas à coleta de ofertas para os santos em Jerusalém, planos de viagem e saudações finais. Além disso, há uma exortação final sobre a importância de fazer tudo com amor. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Atos 20:35: "Em tudo vos tenho mostrado que, trabalhando assim, é necessário auxiliar os enfermos e recordar as palavras do Senhor Jesus, que disse: Mais bem-aventurada coisa é dar do que receber." Esse versículo destaca a importância de ajudar os necessitados e reforça a ideia da coleta de ofertas para os santos em Jerusalém, mencionada em 1 Coríntios 16:1-4.
+* 2 Coríntios 8:4: "Pedindo-nos, com muitos rogos, que aceitássemos a graça e a comunicação deste serviço, que se fazia para com os santos." Este versículo também se relaciona com a coleta de ofertas para os santos em Jerusalém e enfatiza a generosidade dos cristãos em ajudar os necessitados.
+* Romanos 15:25-26: "Mas agora vou a Jerusalém, para ministrar aos santos. Porque pareceu bem à Macedônia e à Acaia fazerem uma coleta para os pobres dentre os santos que estão em Jerusalém." Esse versículo faz referência à mesma coleta de ofertas para os santos em Jerusalém mencionada em 1 Coríntios 16:1-4 e destaca como essa ajuda era vista como uma responsabilidade de toda a igreja.
+* 2 Timóteo 4:20: "Erasto ficou em Corinto, e deixei Trófimo doente em Mileto." Este versículo se relaciona com a seção de planos de viagem em 1 Coríntios 16:5-9 e mostra que as pessoas mencionadas nesses versículos eram reais e atuavam no ministério.
+* 1 Coríntios 16:14: "Todas as vossas coisas sejam feitas com amor." Esse é o último versículo do capítulo e destaca a importância de fazer todas as coisas com amor, uma exortação que perpassa todo o livro de 1 Coríntios.
+****
+
+[[v53-16-1]]
+
+^<<v53-16-1,1>>^ Quanto, porém, à colecta que se faz em beneficio dos santos, fazei também vós o mesmo que eu ordenei às igrejas da Galácia.
+
+[[v53-16-2]]
+
+^<<v53-16-2,2>>^ No primeiro dia da semana, cada um de vós ponha de parte o que tiver podido poupar, para que se não faça a colecta na própria ocasião em que eu chegar.
+
+[[v53-16-3]]
+
+^<<v53-16-3,3>>^ Quando eu estiver presente, mandarei com cartas os que vós tíverdes escolhido para levar a Jerusalém a vossa liberalidade.
+
+[[v53-16-4]]
+
+^<<v53-16-4,4>>^ E, se a coisa merecer que eu vá também, irão comigo.
+
+[[v53-16-5]]
+
+^<<v53-16-5,5>>^ Ora irei ter convosco, quando tiver passado pela Macedónia, porque tenho de atravessar a Macedónia.
+
+[[v53-16-6]]
+
+^<<v53-16-6,6>>^ Talvez ficarei convosco e passarei também o inverno, para que me acompanheis aonde eu tiver de ir.
+
+[[v53-16-7]]
+
+^<<v53-16-7,7>>^ Não quero agora ver-vos só de passagem, mas espero demorar-me algum tempo convosco, se o Senhor o permitir.
+
+[[v53-16-8]]
+
+^<<v53-16-8,8>>^ Todavia ficarei em Éfeso até ao Pentecostes.
+
+[[v53-16-9]]
+
+^<<v53-16-9,9>>^ Em verdade, se me abriu uma porta grande à minha actividade, e os adversários são muitos. (ver nota)
+
+[[v53-16-10]]
+
+^<<v53-16-10,10>>^ Se Timóteo for ter convosco, procurai que esteja sem temor entre vós, porque trabalha na obra do Senhor, como eu próprio.
+
+[[v53-16-11]]
+
+^<<v53-16-11,11>>^ Portanto, nenhum o despreze, mas acompanhai-o em paz, para que venha ter comigo, porque o espero com os irmãos.
+
+[[v53-16-12]]
+
+^<<v53-16-12,12>>^ Quanto ao irmão Apolo, faço-vos saber que lhe roguei muito que fosse ter convosco com os irmãos, mas não quis absolutamente ir agora; irá, porém, quando tiver oportunidade. (ver nota)
+
+[[v53-16-13]]
+
+^<<v53-16-13,13>>^ Vigiai, permanecei firmes na fé, portai-vos varonilmente, sede fortes.
+
+[[v53-16-14]]
+
+^<<v53-16-14,14>>^ Todas as vossas obras sejam feitas em caridade.
+
+[[v53-16-15]]
+
+^<<v53-16-15,15>>^ Mais uma recomendação. Irmãos: sabeis que a família de Estéfanas é as primícias da Acaia e se consagrou ao serviço dos santos.
+
+[[v53-16-16]]
+
+^<<v53-16-16,16>>^ Sede atenciosos para com estes e para com todo aquele que trabalha e pena com eles.
+
+[[v53-16-17]]
+
+^<<v53-16-17,17>>^ Alegro-me com a presença de Estéfanas, de Fortunato e de Acaico, porque encheram o vazio da vossa ausência
+
+[[v53-16-18]]
+
+^<<v53-16-18,18>>^ e tranquilizaram assim o meu espírito, como o vosso. Tende, pois, consideração com tais pessoas.
+
+[[v53-16-19]]
+
+^<<v53-16-19,19>>^ As igrejas da Asia saúdam-vos. Muito vos saúdam no Senhor Âquila e Priscila, com a igreja de sua casa.
+
+[[v53-16-20]]
+
+^<<v53-16-20,20>>^ Todos os irmãos vos saúdam. Saudai-vos uns aos outros num ósculo santo.
+
+[[v53-16-21]]
+
+^<<v53-16-21,21>>^ A saudação de mim, Paulo, é de meu próprio punho.
+
+[[v53-16-22]]
+
+^<<v53-16-22,22>>^ Se alguém não ama a Nosso Senhor Jesus Cristo, seja anátema! Maran Atha. (ver nota)
+
+[[v53-16-23]]
+
+^<<v53-16-23,23>>^ A graça de Nosso Senhor Jesus Cristo seja convosco.
+
+[[v53-16-24]]
+
+^<<v53-16-24,24>>^ O meu amor é com todos vós, em Jesus Cristo. Amen.
+
+'''
+
+xref:053-i-corintios/053-i-corintios-015.adoc#v53-15-0[&#60; Capítulo Anterior] | <<v53-16-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-001.adoc#v54-1-0[Próximo Capítulo &#62;]

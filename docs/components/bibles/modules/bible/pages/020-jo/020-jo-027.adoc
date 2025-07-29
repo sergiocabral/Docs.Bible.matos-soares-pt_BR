@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v20-27-0]]
+=== Jó, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 27 é um capítulo em que Jó continua a falar sobre sua retidão e a injustiça que lhe aconteceu, enquanto seus amigos o acusam de ter feito algo errado para merecer tais aflições. Jó afirma sua inocência e acredita que Deus é justo e irá punir os maus. Abaixo estão cinco versículos relacionados com os temas abordados em Jó 27:
+* Provérbios 11:18: "O ímpio recebe salário enganoso, mas quem semeia justiça colherá verdadeira recompensa." Este versículo enfatiza a crença de Jó na justiça divina, que Deus irá punir os ímpios e recompensar os justos.
+* Salmos 34:21: "O mal matará o ímpio, e os que odeiam o justo serão condenados." Jó acredita que aqueles que o acusam são ímpios e Deus irá puni-los.
+* Salmos 37:28: "Pois o Senhor ama a justiça e não abandona os seus fiéis; eles sempre serão protegidos, mas a descendência dos ímpios será exterminada." Jó acredita que Deus irá proteger os justos e punir os ímpios.
+* Provérbios 10:25: "Como a tempestade repentina, que passa e logo se vai, assim é o ímpio que prospera, sem que se saiba de onde vem a desgraça." Jó acredita que a prosperidade dos ímpios é temporária e que a desgraça os atingirá.
+* Salmos 9:16: "O Senhor é conhecido pela justiça que exerce; os ímpios caem em suas próprias armadilhas." Este versículo enfatiza a crença de Jó de que Deus é justo e que os ímpios serão punidos por suas más ações.
+****
+
+[[v20-27-1]]
+
+^<<v20-27-1,1>>^ Em seguida Job, continuando a sua parábola, acrescentou:
+
+[[v20-27-2]]
+
+^<<v20-27-2,2>>^ Por Deus (o qual parece) que abandonou a minha causa (ao juízo dos homens), pelo Omnipotente, que submergiu a minha alma na amargura,
+
+[[v20-27-3]]
+
+^<<v20-27-3,3>>^ (juro que) enquanto em mim houver alento, enquanto Deus me conservar a respiração,
+
+[[v20-27-4]]
+
+^<<v20-27-4,4>>^ os meus lábios não dirão uada de injusto, nem a minha língua proferirá mentira.
+
+[[v20-27-5]]
+
+^<<v20-27-5,5>>^ Longe de mim o eu ter-vos por justos; enquanto eu viver, defenderei a minha inocência,
+
+[[v20-27-6]]
+
+^<<v20-27-6,6>>^ não abandonarei a justificação que comecei a fazer, porque o meu coração nada me reprova em toda a minha vida.
+
+[[v20-27-7]]
+
+^<<v20-27-7,7>>^ Seja tido como culpado o meu inimigo, e o meu adversário seja como o iníquo.
+
+[[v20-27-8]]
+
+^<<v20-27-8,8>>^ Qual é a esperança do ímpio, quando Deus lhe arrancar a vida?
+
+[[v20-27-9]]
+
+^<<v20-27-9,9>>^ Porventura ouvirá Deus o seu clamor, quando lhe sobrevier a tribulação?
+
+[[v20-27-10]]
+
+^<<v20-27-10,10>>^ Poderá ele deleitar-se no Omnipotente, e invocar a Deus em todo o tempo?
+
+[[v20-27-11]]
+
+^<<v20-27-11,11>>^ Eu vos ensinarei, com o auxilio de Deus, o que faz o Omnipotente, não vo-lo esconderei.
+
+[[v20-27-12]]
+
+^<<v20-27-12,12>>^ Mas todos vós já o sabeis; porque proferia inútilmente palavras vãs?
+
+[[v20-27-13]]
+
+^<<v20-27-13,13>>^ Esta é a sorte do homem ímpio diante de Deus, esta a herança que os violentos receberão da Omnipotente.
+
+[[v20-27-14]]
+
+^<<v20-27-14,14>>^ Se os teus filhos se multiplicarem, serão para a espada, e os seus netos não serão fartos de pão.
+
+[[v20-27-15]]
+
+^<<v20-27-15,15>>^ Os que ficarem da sua linhagem serão sepultados na sua ruína. e as suas viúvas não chorarão.
+
+[[v20-27-16]]
+
+^<<v20-27-16,16>>^ Se ele amontoar prata como terra, e se juntar vestidos como pó,
+
+[[v20-27-17]]
+
+^<<v20-27-17,17>>^ ele sim os juntará, mas o justo se vestirá com eles,
+
+[[v20-27-18]]
+
+^<<v20-27-18,18>>^ Fabricou como a traça a sua casa, e como o guarda fez a sua choupana. (ver nota)
+
+[[v20-27-19]]
+
+^<<v20-27-19,19>>^ O rico deita-se: é pela última vez; abre os olhos, e já não existe.
+
+[[v20-27-20]]
+
+^<<v20-27-20,20>>^ O terror o surpreenderá como uma inundação, de noite o arrastará a tempestade.
+
+[[v20-27-21]]
+
+^<<v20-27-21,21>>^ Um vento abrasador o tirará e levará, e como fim redemoinho o arrebatará do seu lugar.
+
+[[v20-27-22]]
+
+^<<v20-27-22,22>>^ Deus mandará sobre ele (estas coisas), e não o poupará, e ele se esforçará por fugir da sua mão.
+
+[[v20-27-23]]
+
+^<<v20-27-23,23>>^ Quem vir o seu lugar, baterá palmas (contra ele) e assobiará sobre ele _(escarnecendo)_.
+
+'''
+
+xref:020-jo/020-jo-026.adoc#v20-26-0[&#60; Capítulo Anterior] | <<v20-27-0,Topo>> | xref:020-jo/020-jo-028.adoc#v20-28-0[Próximo Capítulo &#62;]

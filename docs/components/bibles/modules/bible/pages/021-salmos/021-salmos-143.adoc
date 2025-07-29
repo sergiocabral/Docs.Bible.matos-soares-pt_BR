@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v21-143-0]]
+=== Salmos, 143
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 143 é um clamor de angústia e pedido de ajuda ao Senhor em meio a uma situação difícil. O salmista expressa sua confiança em Deus como sua única esperança e roga por sua orientação e livramento. Abaixo estão cinco versículos relacionados com os temas abordados neste Salmo:
+* Salmos 18:2: "O Senhor é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Este versículo destaca a confiança do salmista em Deus como sua rocha e fortaleza, como alguém que lhe dá proteção e salvação.
+* Salmos 142:5: "A ti, Senhor, clamo, dizendo: Tu és o meu refúgio; és tudo o que tenho na terra dos viventes." O salmista reconhece que Deus é seu refúgio e única esperança em meio à adversidade.
+* Salmos 139:23-24: "Sonda-me, ó Deus, e conhece o meu coração; prova-me, e conhece as minhas inquietações. Vê se em minha conduta algo te ofende, e dirige-me pelo caminho eterno." Este versículo destaca o desejo do salmista por orientação divina e por ser purificado de quaisquer pensamentos ou atitudes que possam ofender a Deus.
+* Salmos 34:18: "O Senhor está perto dos que têm o coração quebrantado e salva os de espírito abatido." Este versículo traz consolo para o salmista, lembrando que Deus está próximo dos que estão em sofrimento e se sentem desamparados.
+* Salmos 25:4-5: "Mostra-me, Senhor, os teus caminhos, ensina-me as tuas veredas; guia-me com a tua verdade e ensina-me, pois tu és Deus, meu Salvador, e a minha esperança está em ti o tempo todo." O salmista pede a orientação de Deus em sua vida, reconhecendo que somente Ele é capaz de guiá-lo no caminho da verdade e ser sua esperança constante.
+****
+
+[[v21-143-1]]
+
+^<<v21-143-1,1>>^ De Davide. Bendito seja o Senhor, minha Rocha, que adestra as minhas mãos para a batalha, os meus dedos para a guerra,
+
+[[v21-143-2]]
+
+^<<v21-143-2,2>>^ minha misericórdia e minha cidadela, meu presídio e meu libertador, meu escudo e meu refúgio, que me submete os povos.
+
+[[v21-143-3]]
+
+^<<v21-143-3,3>>^ Senhor, que é o homem, para que cuides dele, o filho do homem, para que penses nele?
+
+[[v21-143-4]]
+
+^<<v21-143-4,4>>^ O homem é semelhante a um sopro de brisa, os seus dias como a sombra que passa.
+
+[[v21-143-5]]
+
+^<<v21-143-5,5>>^ Senhor, inclina os teus céus, e desce, toca os montes, e fumegarão:
+
+[[v21-143-6]]
+
+^<<v21-143-6,6>>^ despede um raio, e dispersa-os, lança as tuas setas, e conturba-os;
+
+[[v21-143-7]]
+
+^<<v21-143-7,7>>^ estende a tua mão lá do alto, tira-me e livra-me das muitas águas (da tribulação), da mão dos estranhos,
+
+[[v21-143-8]]
+
+^<<v21-143-8,8>>^ cuja boca fala mentira, cuja direita jura falso.
+
+[[v21-143-9]]
+
+^<<v21-143-9,9>>^ Ó Deus, eu te cantarei um cântico novo, com o saltério de dez cordas te entoarei salmos,
+
+[[v21-143-10]]
+
+^<<v21-143-10,10>>^ a ti, que aos reis concedes vitória, que livraste Davide, teu servo.
+
+[[v21-143-11]]
+
+^<<v21-143-11,11>>^ Tira-me da espada maligna, e livra-me da mão dos estranhos, cuja boca fala mentira cuja direita jura falso.
+
+[[v21-143-12]]
+
+^<<v21-143-12,12>>^ Sejam os nossos filhos como plantas, que crescem na sua juventude; as nossas filhas sejam como colunas angulares, esculpidas como as colunas dum templo.
+
+[[v21-143-13]]
+
+^<<v21-143-13,13>>^ Estejam cheios os nossos celeiros, abundantes em todos os frutos; as nossas ovelhas, mil vezes fecundas, multipliquem-se por miríades em nossos campos;
+
+[[v21-143-14]]
+
+^<<v21-143-14,14>>^ os nossos jumentos andem carregados. Não haja brecha nas muralhas, nem exílio, nem pranto nas nossas praças.
+
+[[v21-143-15]]
+
+^<<v21-143-15,15>>^ Ditoso o povo que goza tais coisas; ditoso o povo, cujo Deus é o Senhor.
+
+'''
+
+xref:021-salmos/021-salmos-142.adoc#v21-142-0[&#60; Capítulo Anterior] | <<v21-143-0,Topo>> | xref:021-salmos/021-salmos-144.adoc#v21-144-0[Próximo Capítulo &#62;]

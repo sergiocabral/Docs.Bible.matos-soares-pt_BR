@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v1-36-0]]
+=== Gênesis, 36
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 36 de Gênesis é dedicado à genealogia de Esaú e seus descendentes, apresentando uma lista de nomes e linhagens. Entre os temas abordados no capítulo, destacam-se a descendência de Esaú, a formação de nações a partir dessas linhagens e a relação entre os edomitas e outros povos.
+* Deuteronômio 2:12 - "Haviam morado nela os horeus, povo grande, e numeroso, e alto como os anaquins." Este versículo faz referência aos horeus, um dos povos que habitavam a região de Seir antes da chegada dos edomitas, como mencionado em Gênesis 36:20.
+* Isaías 34:5-6 - "Porque será o meu gládio embriagado nos céus; eis que sobre Edom descerá, e sobre o povo do meu anátema para exercer juízo. A espada do Senhor está cheia de sangue, está engordurada da gordura do sangue de carneiros e de bodes, da gordura dos rins de carneiros cordeiros; porque o Senhor tem sacrifício em Bozra, e grande matança na terra de Edom." Esse versículo fala da destruição iminente de Edom pelas mãos de Deus, apresentando um contraponto à glória dos edomitas apresentada no capítulo 36 de Gênesis.
+* Ezequiel 25:12-14 - "Assim diz o Senhor Deus: Porquanto Edom se houve vingativamente para com a casa de Judá, e se culpou grandemente vingando-se dela; portanto assim diz o Senhor Deus: Também estenderei a minha mão sobre Edom, e dela eliminarei homens e animais; e a transformarei em desolação; desde Temã até Dedã cairão à espada." Esse versículo apresenta a punição de Deus sobre Edom por ter se vingado de Judá, uma referência aos conflitos entre esses dois povos mencionados em Gênesis 36.
+* Obadias 1:8 - "Não naquele dia, diz o Senhor, destruirei os sábios de Edom, e o entendimento do monte de Esaú?" Esse versículo faz referência aos sábios de Edom e sua sabedoria, algo que é destacado em Gênesis 36:15-19.
+* Malaquias 1:2-3 - "Eu vos amei, diz o Senhor; mas vós dizeis: Em que nos amaste? Não era Esaú irmão de Jacó? disse o Senhor; todavia amei a Jacó, e aborreci a Esaú; e fiz dos seus montes uma desolação, e dei a sua herança aos chacais do deserto." Esse versículo apresenta o amor de Deus por Jacó e sua descendência, em contraste com a rejeição de Esaú e sua descendência, como apresentado em Gênesis 36.
+****
+
+[[v1-36-1]]
+
+^<<v1-36-1,1>>^ Esta é a descendência de Esaú chamado tambem Edom.
+
+[[v1-36-2]]
+
+^<<v1-36-2,2>>^ Esaú tomou (as suas) mulheres entre as filhas de Canaan: Ada, filha de Elon Heteu, e Oolibama, filha de Ana, filha de Sebeon Heveu:
+
+[[v1-36-3]]
+
+^<<v1-36-3,3>>^ (tomou) também Basemath, filha de Ismael, irmã de Nabajoth.
+
+[[v1-36-4]]
+
+^<<v1-36-4,4>>^ Ada deu à luz Elifás; Basemath gerou Rauel;
+
+[[v1-36-5]]
+
+^<<v1-36-5,5>>^ Oolibama gerou Jeus, Jelon e Coré. Estes são os filhos de Esaú, que lhe nasceram na terra de Canaan.
+
+[[v1-36-6]]
+
+^<<v1-36-6,6>>^ Depois Esaú tomou suas mulheres, filhos e filhas, toda a gente da sua casa, rebanhos e gados, e tudo o que tinha na terra de Canaan, e foi para outro país, e apartou-se do seu irmão Jacob.
+
+[[v1-36-7]]
+
+^<<v1-36-7,7>>^ Com efeito, eram muito ricos e não podiam habitar juntamente, nem os podia sustentar a terra em que eram peregrinos, por causa da multidão dos rebanhos.
+
+[[v1-36-8]]
+
+^<<v1-36-8,8>>^ Esaú, por outro nome Edom, habitou sobre o monte de Seir.
+
+[[v1-36-9]]
+
+^<<v1-36-9,9>>^ Estes são os descendentes de Esaú, pai dos Idumeus, no monte Seir,
+
+[[v1-36-10]]
+
+^<<v1-36-10,10>>^ estes os nomes de seus filhos: Elifás, filho de Ada, mulher de Esaú; Rauel, filho de Basemath, mulher de Esaú.
+
+[[v1-36-11]]
+
+^<<v1-36-11,11>>^ Os filhos de Elifás foram: Teman, Omar, Sefo, Catam e Cenez.
+
+[[v1-36-12]]
+
+^<<v1-36-12,12>>^ Tamna era mulher secundária de Efifás, filho de Esaú, e ela deu-lhe à luz Amalech. Estes são os filhos de Ada, mulher de Esaú.
+
+[[v1-36-13]]
+
+^<<v1-36-13,13>>^ Os filhos de Rauel foram: Nabath, Zara, Sama e Meza. Estes foram os filhos de Basemath, mulher de Esaú.
+
+[[v1-36-14]]
+
+^<<v1-36-14,14>>^ Os filhos de Oolibama, filha de Ana, filha de Sebeon, mulher de Esaú, foram: Jeus, Jelon e Coré.
+
+[[v1-36-15]]
+
+^<<v1-36-15,15>>^ Estes são os chefes (das tribos oriundas) dos filhos de Esaú: filhos de Elifás, primogénito de Esaú, foram o chefe Teman, o chefe Omar, o chefe Sefo, o chefe Cenez,
+
+[[v1-36-16]]
+
+^<<v1-36-16,16>>^ o chefe Coré, o chefe Gatem, o chefe Amalech. Estes (são) os filhos de Elifás, na terra de Edom, e estes os filhos de Ada.
+
+[[v1-36-17]]
+
+^<<v1-36-17,17>>^ Estes (são) os filhos de Rauel, filho de Esaú: o chefe Naath, o chefe Zara, o chefe Sama, o chefe Meza; estes (são) os chefes (descendentes) de Rauel, na terra de Edom; estes (são) os filhos de Basemath, mulher de Esaú.
+
+[[v1-36-18]]
+
+^<<v1-36-18,18>>^ E estes são os filhos de Oolibama, mulher de Esaú: o chefe Jeus, o chefe Jelon, o chefe Coré; estes os chefes que procederam de Oolibama, filha de Ana, mulher de Esaú.
+
+[[v1-36-19]]
+
+^<<v1-36-19,19>>^ Estes são os filhos de Esaú, isto é, de Edom; e estes os seus chefes.
+
+[[v1-36-20]]
+
+^<<v1-36-20,20>>^ Estes são os filhas de Seir Horreu, que habitavam aquela terra: Lotan, Sobal, Sebeon, Ana,
+
+[[v1-36-21]]
+
+^<<v1-36-21,21>>^ Dison, Eser e Disan; estes os chefes Horreus, filhos de Seir, na terra de Edom.
+
+[[v1-36-22]]
+
+^<<v1-36-22,22>>^ Os filhos de Lotan foram: Hori e Hemon. Tamna era irmã de Lotan.
+
+[[v1-36-23]]
+
+^<<v1-36-23,23>>^ Estes (foram) os filhos de Sobal: Alvau, Manaath, Ebal, Sefo e Onam.
+
+[[v1-36-24]]
+
+^<<v1-36-24,24>>^ E estes os filhos de Sebeon: Aía e Ana. Este Ana é o que achou umas águas quentes no deserto, enquanto apascentava os jumentos de seu pai Sebeon:
+
+[[v1-36-25]]
+
+^<<v1-36-25,25>>^ teve um filho (chamado) Dison, e uma filha (chamada) Oolibama.
+
+[[v1-36-26]]
+
+^<<v1-36-26,26>>^ E estes (são) os filhos de Dison: Hamdan, Eseban, Jetrão e Charão.
+
+[[v1-36-27]]
+
+^<<v1-36-27,27>>^ Do mesmo modo estes (são) os filhos de Eser: Balaão, Zavan e Acan.
+
+[[v1-36-28]]
+
+^<<v1-36-28,28>>^ Disan teve estes filhos: Hus e Arão.
+
+[[v1-36-29]]
+
+^<<v1-36-29,29>>^ Estes são os chefes dos Hoireus: o chefe Lotan, o chefe Sobal, o chefe Sebeon, o chefe Ana,
+
+[[v1-36-30]]
+
+^<<v1-36-30,30>>^ o chefe Dison, o chefe Eser, o chefe Disan; estes os chefes dos Horreus, que governaram na terra de Seir.
+
+[[v1-36-31]]
+
+^<<v1-36-31,31>>^ Os reis, porém, que reinaram na terra de Edom, antes que os filhos de Israel tivessem rei, foram estes:
+
+[[v1-36-32]]
+
+^<<v1-36-32,32>>^ Bela, filho de Beor, reinou em Edom, e o nome da sua cidade (foi) Denaba.
+
+[[v1-36-33]]
+
+^<<v1-36-33,33>>^ Morreu, porém, Bela, e reinou em seu lugar Jobab, filho de Zara de Bosra.
+
+[[v1-36-34]]
+
+^<<v1-36-34,34>>^ Tendo falecido Jobab, reinou em seu lugar Husão, da terra dos Temanitas.
+
+[[v1-36-35]]
+
+^<<v1-36-35,35>>^ Morto também este, reinou em seu lugar Adad, filho de Badad, o qual derrotou os Madianitas no país de Moab; o nome da sua cidade era Avith.
+
+[[v1-36-36]]
+
+^<<v1-36-36,36>>^ Tendo falecido Adad, reinou em seu lugar Semla de Masreca.
+
+[[v1-36-37]]
+
+^<<v1-36-37,37>>^ Morto este também, reinou em seu lugar Saul, de Rooboth, que está perto do rio.
+
+[[v1-36-38]]
+
+^<<v1-36-38,38>>^ Tendo este também falecido, sucedeu no reino Balanan, filho de Acobor.
+
+[[v1-36-39]]
+
+^<<v1-36-39,39>>^ Morto também teste, reinou em seu lugar Adar: o nome da sua cidade era Fau, e sua mulher chamava-se Meetabel, filha de Matred, (que era) filha de Mezaab.
+
+[[v1-36-40]]
+
+^<<v1-36-40,40>>^ Estes são, pois, os nomes dos chefes que procederam de Esaú, segundo suas estirpes, seus lugares e seus nomes: o chefe Tamna, o chefe Alva, o chefe Jeteth,
+
+[[v1-36-41]]
+
+^<<v1-36-41,41>>^ o chefe Oolibama, o chefe Ela, o chefe Fincai,
+
+[[v1-36-42]]
+
+^<<v1-36-42,42>>^ o chefe Cenez, o chefe Teman, o chefe Malsa,
+
+[[v1-36-43]]
+
+^<<v1-36-43,43>>^ o chefe Magdiel, o chefe Hirão. Estes (são) os chefes de Edom (isto é, de Esaú, pai dois Idumeus) segundo a residência dos mesmos, na terra que ocupavam.
+
+'''
+
+xref:001-genesis/001-genesis-035.adoc#v1-35-0[&#60; Capítulo Anterior] | <<v1-36-0,Topo>> | xref:001-genesis/001-genesis-037.adoc#v1-37-0[Próximo Capítulo &#62;]

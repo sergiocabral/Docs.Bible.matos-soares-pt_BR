@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v7-17-0]]
+=== Juízes, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 17 de Juízes relata a história de um homem chamado Mica que fez para si mesmo um ídolo e uma casa de deuses. Ele também contratou um levita para ser seu sacerdote particular. Essa história ilustra a falta de liderança espiritual na época dos juízes, quando cada um fazia o que achava certo aos seus próprios olhos.
+* Provérbios 14:12: "Há caminho que ao homem parece direito, mas ao cabo dá em caminhos de morte." Este versículo alerta sobre a ilusão de seguir nossas próprias vontades e desejos, o que pode levar a consequências desastrosas.
+* Provérbios 3:5-6: "Confia no SENHOR de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo enfatiza a importância de confiar em Deus e de buscar Sua vontade em nossas vidas, em vez de seguir nossos próprios caminhos.
+* Jeremias 10:14: "Todo homem é estúpido, sem conhecimento; todo ourives é envergonhado pela imagem esculpida; porque as suas imagens são falsas, e nelas não há espírito." Este versículo condena a adoração de ídolos e enfatiza a importância de reconhecer a verdadeira natureza de Deus.
+* Atos 17:24-25: "O Deus que fez o mundo e tudo o que nele há, sendo Senhor do céu e da terra, não habita em templos feitos por mãos de homens; nem é servido por mãos humanas, como se de alguma coisa precisasse; pois ele mesmo é quem a todos dá vida, respiração e tudo mais;" Este versículo destaca a natureza transcendente de Deus e a inutilidade de tentar limitá-Lo a objetos ou locais físicos.
+* Salmos 81:9: "Não terás outros deuses diante de mim. Não farás para ti imagem de escultura, nem semelhança alguma do que há em cima no céu, nem embaixo na terra, nem nas águas debaixo da terra." Este versículo é um lembrete da proibição da adoração de ídolos e da importância de colocar Deus em primeiro lugar em nossas vidas.
+****
+
+[[v7-17-1]]
+
+^<<v7-17-1,1>>^ Naquele tempo houve um homem do monte de Efraim, chamado Micas,
+
+[[v7-17-2]]
+
+^<<v7-17-2,2>>^ o qual disse a sua mãe: Os mil e cem siclos de prata, que te roubaram, e pelos quais lançaste uma maldição que eu tive de ouvir..., estão em meu poder: fui eu que os roubei. Ela respondeu-lhe: Abençoado seja o meu filho pelo Senhor.
+
+[[v7-17-3]]
+
+^<<v7-17-3,3>>^ Entregou-os pois a sua mãe, a qual lhe tinha dito: Quero consagrar este dinheiro ao Senhor, para que meu filho o receba da minha mão, e faça com ele uma imagem de escultura e outra de fundição; e agora to dou.
+
+[[v7-17-4]]
+
+^<<v7-17-4,4>>^ Quando ele entregou (o dinheiro) a sua mãe, ela tomou duzentos siclos de prata e deu-os a um ourives, para fazer deles uma imagem de escultura e outra de fundição, que ficaram em casa de Micas.
+
+[[v7-17-5]]
+
+^<<v7-17-5,5>>^ Este reservou na casa uma edícula para Deus, fez um éfode e uns terafins, isto é, uma vestidura sacerdotal, e ídolos, e consagrou um de seus filhos, o qual lhe serviu de sacerdote. (ver nota)
+
+[[v7-17-6]]
+
+^<<v7-17-6,6>>^ Naquele tempo não havia rei em Israel, mas cada um fazia e que lhe parecia melhor.
+
+[[v7-17-7]]
+
+^<<v7-17-7,7>>^ Houve também outro jovem de Belém de Judá, da mesma parentela, o qual era Levita, e habitava ali.
+
+[[v7-17-8]]
+
+^<<v7-17-8,8>>^ Tendo saído da cidade de Belém, quis ir para onde achasse maior comodidade. Chegado ao monte Efraim, seguindo o seu caminho, foi ter à casa de Micas.
+
+[[v7-17-9]]
+
+^<<v7-17-9,9>>^ Este perguntou-lhe donde vinha. Ele respondeu: Sou um Levita de Belém de Judá, e vou habitar onde puder, onde vir que me faz conta.
+
+[[v7-17-10]]
+
+^<<v7-17-10,10>>^ Micas disse-lhe: Fica comigo, sê para mim pai e sacerdote, e dar-te-ei cada ano dez siclos de prata, duas vestes e o que te for necessário para sustento.
+
+[[v7-17-11]]
+
+^<<v7-17-11,11>>^ Condescendeu e ficou em casa dele, que o tratou como um de seus filhos.
+
+[[v7-17-12]]
+
+^<<v7-17-12,12>>^ Micas encheu a mão do levita, e teve consigo este jovem como sacerdote,
+
+[[v7-17-13]]
+
+^<<v7-17-13,13>>^ dizendo: Agora sei que Deus me fará bem, tendo eu um sacerdote da linhagem de Levi.
+
+'''
+
+xref:007-juizes/007-juizes-016.adoc#v7-16-0[&#60; Capítulo Anterior] | <<v7-17-0,Topo>> | xref:007-juizes/007-juizes-018.adoc#v7-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v51-22-0]]
+=== Atos dos Apóstolos, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Atos dos Apóstolos 22 relata a defesa de Paulo diante da multidão em Jerusalém após ter sido preso pelo sumo sacerdote. Nessa defesa, Paulo narra sua conversão ao cristianismo e a missão que lhe foi dada por Jesus. Alguns temas abordados nesse capítulo são o chamado divino, a conversão e o testemunho.
+* Romanos 8:30: "E aos que predestinou, a estes também chamou; e aos que chamou, a estes também justificou; e aos que justificou, a estes também glorificou." Esse versículo fala sobre a predestinação divina e o chamado que Deus faz aos escolhidos. Isso se relaciona com o chamado de Paulo narrado em sua defesa em Atos 22.
+* João 3:3: "Respondeu-lhe Jesus: Em verdade, em verdade te digo que se alguém não nascer de novo, não pode ver o reino de Deus." Esse versículo fala sobre a necessidade de conversão para entrar no reino de Deus. Paulo narra sua própria conversão em Atos 22, por isso esse versículo se relaciona com o tema abordado nesse capítulo.
+* Filipenses 3:7-8: "Mas o que para mim era lucro passei a considerá-lo como perda por amor de Cristo. E, mais do que isso, considero tudo como perda, comparado com a suprema grandeza do conhecimento de Cristo Jesus, meu Senhor, por quem perdi todas as coisas. Eu as considero como esterco para poder ganhar a Cristo." Esse versículo fala sobre o testemunho de Paulo e sua disposição em sacrificar tudo por amor a Cristo. Isso se relaciona com o testemunho que Paulo dá em sua defesa em Atos 22.
+* Atos dos Apóstolos 1:8: "Mas recebereis poder ao descer sobre vós o Espírito Santo, e sereis minhas testemunhas tanto em Jerusalém como em toda a Judeia e Samaria e até aos confins da terra." Esse versículo fala sobre o poder dado pelo Espírito Santo para ser testemunha de Jesus. Isso se relaciona com o testemunho de Paulo em Atos 22, que é a narrativa de como ele se tornou uma testemunha de Cristo.
+* Efésios 4:1: "Rogo-vos, pois, eu, o prisioneiro no Senhor, que andeis de modo digno da vocação a que fostes chamados." Esse versículo fala sobre a responsabilidade de viver de acordo com o chamado de Deus. Isso se relaciona com a defesa de Paulo em Atos 22, onde ele narra como tem vivido de acordo com a vocação que recebeu de Cristo.
+****
+
+[[v51-22-1]]
+
+^<<v51-22-1,1>>^ "Irmãos e pais, ouvi o que agora tenho a dizer-vos para minha defesa." (ver nota)
+
+[[v51-22-2]]
+
+^<<v51-22-2,2>>^ Quando ouviram que lhes falava em língua hebraica, escutaram-no com maior atenção.
+
+[[v51-22-3]]
+
+^<<v51-22-3,3>>^ Disse: "Eu sou judeu nascido em Tarso da Cilicia, mas educado nesta cidade, aos pés de Gamaliel, instruído, a fundo, na lei de nossos pais, cheio de zelo de Deus, como todos vós também o sois hoje.
+
+[[v51-22-4]]
+
+^<<v51-22-4,4>>^ Persegui de morte esta doutrina, prendendo e metendo em cárceres homens e mulheres,
+
+[[v51-22-5]]
+
+^<<v51-22-5,5>>^ como o príncipe dos sacerdotes e todos os anciães me são testemunhas, dos quais tendo recebido cartas para os irmãos, caminhava para Damasco, com o fim de os trazer dali presos a Jerúsalem, para que fossem castigados.
+
+[[v51-22-6]]
+
+^<<v51-22-6,6>>^ Mas aconteceu que, indo eu no caminho, encontrando-me perto de Damasco, ao meio-dia, de repente resplandeceu em volta de mim uma grande luz do céu.
+
+[[v51-22-7]]
+
+^<<v51-22-7,7>>^ Caindo por terra, ouvi uma voz que dizia: Saulo, Saulo, por que me persegues?
+
+[[v51-22-8]]
+
+^<<v51-22-8,8>>^ Respondi: Quem és tu, Senhor? Disse-me: Sou Jesus Nazareno, a quem tu persegues.
+
+[[v51-22-9]]
+
+^<<v51-22-9,9>>^ Os que estavam comigo, viram luz, mas não ouviram a voz daquele que me falava.
+
+[[v51-22-10]]
+
+^<<v51-22-10,10>>^ Eu disse: Senhor, que devo fazer? E o Senhor disse-me: Levanta-te, vai a Damasco, e lá te será dito tudo o que deves fazer.
+
+[[v51-22-11]]
+
+^<<v51-22-11,11>>^ Não vendo eu nada pelo intenso clarão daquela luz, levado pela mão dos companheiros, cheguei a Damasco.
+
+[[v51-22-12]]
+
+^<<v51-22-12,12>>^ Um certo Ananias, homem segundo a lei, que tinha o bom testemunho de todos os Judeus que ali viviam,
+
+[[v51-22-13]]
+
+^<<v51-22-13,13>>^ vindo ter comigo e pondo-se-me diante, disse-me: Saulo, irmão, recupera a vista. E eu, no mesmo instante, o vi a ele.
+
+[[v51-22-14]]
+
+^<<v51-22-14,14>>^ Ele disse: O Deus de nossos pais te predestinou para que conhecesses a sua vontade, visses o Justo e ouvisses a voz da sua boca, (ver nota)
+
+[[v51-22-15]]
+
+^<<v51-22-15,15>>^ porque tu serás sua testemunha, diante de todos os homens, das coisas que viste e ouviste.
+
+[[v51-22-16]]
+
+^<<v51-22-16,16>>^ Agora que esperas tu? Levanta-te, recebe o baptismo e lava os teus pecados, invocando o seu nome.
+
+[[v51-22-17]]
+
+^<<v51-22-17,17>>^ Voltando eu a Jerusalém e orando no templo, fui arrebatado fora de mim
+
+[[v51-22-18]]
+
+^<<v51-22-18,18>>^ e vi o Senhor que me dizia: Apressa-te e sai, o mais depressa possível, de Jerusalém, porque não receberão o testemunho que darás de mim.
+
+[[v51-22-19]]
+
+^<<v51-22-19,19>>^ Eu disse: Senhor, eles sabem que era eu o que metia na prisão e açoutava pelas sinagogas os que criam em ti.
+
+[[v51-22-20]]
+
+^<<v51-22-20,20>>^ E, enquanto se derramava o sangue de Estêvão, tua testemunha, eu estava presente, aprovava e guardava as vestes dos que o matavam.
+
+[[v51-22-21]]
+
+^<<v51-22-21,21>>^ Mas ele disse-me: Vai, porque te enviarei a nações remotas."
+
+[[v51-22-22]]
+
+^<<v51-22-22,22>>^ (Os Judeus) tinham-no ouvido até esta palavra, mas levantaram então a sua voz, dizendo: "Tira do mundo tal homem; não é justo que viva."
+
+[[v51-22-23]]
+
+^<<v51-22-23,23>>^ Como eles gritassem e arrojassem de si as suas vestes e lançassem poeira ao ar,
+
+[[v51-22-24]]
+
+^<<v51-22-24,24>>^ o tribuno mandou metê-lo na fortaleza, ordenando que o submetessem ao tormento dos açoites para saber por que motivo clamavam assim contra ele.
+
+[[v51-22-25]]
+
+^<<v51-22-25,25>>^ Tendo-o ligado com correias, disse Paulo ao centurião, que estava presente: "É vos permitido açoitar um cidadão romano, que nem mesmo foi condenado?"
+
+[[v51-22-26]]
+
+^<<v51-22-26,26>>^ Tendo ouvido isto, o centurião foi ter com o tribuno e avisou-o, dizendo: "Que vais fazer? Este homem é cidadão romano."
+
+[[v51-22-27]]
+
+^<<v51-22-27,27>>^ Vindo o tribuno, disse-lhe: "Dize-me se és cidadão romano?" Ele respondeu: "Sim".
+
+[[v51-22-28]]
+
+^<<v51-22-28,28>>^ O tribuno replicou: "A mim custou-me uma grande soma de dinheiro alcançar este foro de cidadão." Paulo disse: "Pois eu sou-o de nascimento."
+
+[[v51-22-29]]
+
+^<<v51-22-29,29>>^ imediatamente afastaram-se dele os que o haviam de pôr a tormento. Também o tribuno teve medo, depois que soube que era cidadão romano, e porque o tinha mandado algemar.
+
+[[v51-22-30]]
+
+^<<v51-22-30,30>>^ No dia seguinte, querendo saber com mais exactidão a causa que tinham os Judeus para o acusar, mandou soltá-lo e ordenou que se juntassem os chefes dos sacerdotes e todo o Sinédrio, e, trazendo Paulo, colocou-o diante deles.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-021.adoc#v51-21-0[&#60; Capítulo Anterior] | <<v51-22-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-023.adoc#v51-23-0[Próximo Capítulo &#62;]

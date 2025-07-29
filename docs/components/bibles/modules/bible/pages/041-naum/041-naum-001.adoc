@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v41-1-0]]
+=== Naum, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Naum 1 trata da justiça e ira divina contra os inimigos de Judá. Deus é apresentado como um Deus zeloso e vingativo, mas também como um refúgio seguro para aqueles que confiam nele. Abaixo estão cinco versículos relacionados com os temas abordados em Naum 1:
+* Salmos 7:11 - "Deus é juiz justo, um Deus que se ira todos os dias contra os ímpios." Este versículo mostra que Deus é justo em sua ira contra os ímpios, como retratado em Naum 1.
+* Salmos 46:1 - "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Este versículo mostra que, apesar da ira divina, Deus é um refúgio seguro para aqueles que confiam nele.
+* Provérbios 21:15 - "Fazer justiça é alegria para o justo, mas terror para os que praticam o mal." Este versículo destaca a importância da justiça divina, que é tema central em Naum 1.
+* Isaías 63:4 - "Porque o dia da vingança estava no meu coração, e o ano dos meus remidos é chegado." Este versículo retrata a vingança divina contra os inimigos de Judá, que é tema central em Naum 1.
+* Hebreus 10:30-31 - "Porque conhecemos aquele que disse: Minha é a vingança, eu darei a recompensa, diz o Senhor. E outra vez: O Senhor julgará o seu povo. Horrenda coisa é cair nas mãos do Deus vivo." Este versículo destaca a natureza da ira divina e como é temido pelos ímpios.
+****
+
+[[v41-1-1]]
+
+^<<v41-1-1,1>>^ Oráculo sobre Nínive. Livro de visão de Naum, de Elcos.
+
+[[v41-1-2]]
+
+^<<v41-1-2,2>>^ O Senhor é um Deus zeloso e vingador: O Senhor é vingador e ardente na sua cólera. O Senhor toma vingança dos seus adversários, ira-se contra seus inimigos.
+
+[[v41-1-3]]
+
+^<<v41-1-3,3>>^ O Senhor é paciente e grande em fortaleza, não deixa impune (o pecador). O Senhor anda entre a tempestade e o torvelinho, e as nuvens são a poeira dos seus pés.
+
+[[v41-1-4]]
+
+^<<v41-1-4,4>>^ Ele ameaça o mar e torna-o seco, e extingue (quando quer) todos os rios. Basan e o Carmelo feneceram, e a flor do Líbano murchou.
+
+[[v41-1-5]]
+
+^<<v41-1-5,5>>^ Os montes são por ele abalados, e as colinas dissolvidas; a terra, o mundo inteiro, e todos os que habitam nele tremem diante da sua face.
+
+[[v41-1-6]]
+
+^<<v41-1-6,6>>^ Diante da sua indignação quem poderá subsistir? Quem resistirá ao ardor da sua ira? A sua indignação derrama-se como um fogo e destrói as (mesmas) pedras.
+
+[[v41-1-7]]
+
+^<<v41-1-7,7>>^ O Senhor é bom, é um refúgio (para seus filhos) no dia da tribulação; conhece (e protege) os que esperam nele.
+
+[[v41-1-8]]
+
+^<<v41-1-8,8>>^ Com uma inundação impetuosa (de inimigos) aniquilará este lugar (de Nínive) e lançará os seus inimigos para as trevas.
+
+[[v41-1-9]]
+
+^<<v41-1-9,9>>^ Que projectos formais contra o Senhor? É ele mesmo que aniquilará (Nínive); esta inimiga não surgirá duas vezes.
+
+[[v41-1-10]]
+
+^<<v41-1-10,10>>^ Como espinhos entrelaçados uns nos outros, ébrios do seu vinho generoso, serão consumidos como palha completamente seca.
+
+[[v41-1-11]]
+
+^<<v41-1-11,11>>^ De ti saiu (ó Nínive) quem pensa mal (ou impiamente) contra o Senhor, quem trama desígnios perversos.
+
+[[v41-1-12]]
+
+^<<v41-1-12,12>>^ Isto diz o Senhor: Por mais fortes e numerosos que (os Assirios) sejam, ainda assim serão ceifados e desaparecerão. Eu te afligi (ó meu povo), mas não te afligirei mais (por meio deles).
+
+[[v41-1-13]]
+
+^<<v41-1-13,13>>^ Agora vou quebrar o seu jugo, que pesa sobre ti, e desfazer as tuas cadeias.
+
+[[v41-1-14]]
+
+^<<v41-1-14,14>>^ Eis o que o Senhor ordenou sobre ti (ó Nínive): Não haverá mais posteridade com o teu nome; destruirei as estátuas esculpidas e fundidas da casa do teu deus; prepararei o teu sepulcro, porque és desprezível
+
+[[v41-1-15]]
+
+^<<v41-1-15,15>>^ Eis já sobre os montes os pés do que traz a boa nova, do que anuncia a paz. Celebra, é Judá, as tuas festividades, cumpre os teus votos, porque o ímpio não passará mais por ti: está completamente destruído.
+
+'''
+
+xref:040-miqueias/040-miqueias-007.adoc#v40-7-0[&#60; Capítulo Anterior] | <<v41-1-0,Topo>> | xref:041-naum/041-naum-002.adoc#v41-2-0[Próximo Capítulo &#62;]

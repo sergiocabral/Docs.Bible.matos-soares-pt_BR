@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v28-32-0]]
+=== Eclesiástico, 32
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 32 de Eclesiástico trata da sabedoria e da orientação que devemos buscar em Deus para viver bem e evitar o erro. É um convite à humildade e à prudência na busca da verdade. Os versículos selecionados estão em ordem de proximidade com esses temas:
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; em todos os seus caminhos, reconheça-o, e ele endireitará[a] as suas veredas." Este versículo nos ensina a confiar em Deus e buscar sua orientação, em vez de confiar apenas em nossa própria sabedoria.
+* Salmos 25:9: "Ele guia os humildes na justiça e lhes ensina o seu caminho." Este verso fala sobre a humildade e a disposição de aprender, que são enfatizadas no capítulo 32 de Eclesiástico.
+* Provérbios 16:20: "Quem dá ouvidos à palavra, nela encontra felicidade, e como é grande a felicidade de quem confia no Senhor!" Este versículo enfatiza a importância de ouvir a Palavra de Deus e confiar Nele para encontrar a verdadeira felicidade.
+* Provérbios 18:15: "O coração do sábio adquire o conhecimento; o ouvido dos sábios busca conhecimento." Este verso fala sobre a importância de buscar conhecimento e orientação de pessoas sábias e experientes.
+* Provérbios 19:20: "Ouça conselho e aceite instruções, e acabará sendo sábio de verdade." Este versículo nos ensina a buscar conselho e orientação de outros para se tornar mais sábio e prudente.
+****
+
+[[v28-32-1]]
+
+^<<v28-32-1,1>>^ Puseram-te a presidir? Não te ensoberbeças por isso; sê entre os outros como um deles.
+
+[[v28-32-2]]
+
+^<<v28-32-2,2>>^ Tem cuidado deles, e depois disso assenta-te; cumpridas todas as tuas obrigações, põe-te a comer,
+
+[[v28-32-3]]
+
+^<<v28-32-3,3>>^ a fim de que te causem alegria, e recebas a coroa, como um ornamento gracioso, e mostres que eras digno de ser escolhido.
+
+[[v28-32-4]]
+
+^<<v28-32-4,4>>^ Fala, tu que és o mais velho, pois é a ti que pertence falar primeiro.
+
+[[v28-32-5]]
+
+^<<v28-32-5,5>>^ (mas fala) com conhecimento e acerto, e não impeças a música.
+
+[[v28-32-6]]
+
+^<<v28-32-6,6>>^ Não desperdices palavras, onde não há quem as ouça, e não te glories despropositadamente do teu saber.
+
+[[v28-32-7]]
+
+^<<v28-32-7,7>>^ Correm igual paralelo uma pedrinha de carbúnculo, em engaste de ouro, e um concerto de músicos em festim de vinho.
+
+[[v28-32-8]]
+
+^<<v28-32-8,8>>^ Como um camafeu de esmeralda encastoado em ouro, assim é uma melodia musical entre um alegre e moderado vinho.
+
+[[v28-32-9]]
+
+^<<v28-32-9,9>>^ Ouve em silêncio, e a tua modéstia conciliar-te-á a simpatia (de todos).
+
+[[v28-32-10]]
+
+^<<v28-32-10,10>>^ Tu, jovem, fala com dificuldade no que te diz respeito.
+
+[[v28-32-11]]
+
+^<<v28-32-11,11>>^ Se fores interrogado duas vezes, tenha concisão a tua resposta.
+
+[[v28-32-12]]
+
+^<<v28-32-12,12>>^ Porta-te em muitas coisas como se as ignorasses, e ouve, já calando, já também perguntando.
+
+[[v28-32-13]]
+
+^<<v28-32-13,13>>^ No meio dos grandes não tomes demasiada liberdade, e onde estão os velhos não fales muito.
+
+[[v28-32-14]]
+
+^<<v28-32-14,14>>^ Antes do trovão aparece o relâmpago e diante da modéstia vai a graça; pela tua circunspecção serás bem-quisto.
+
+[[v28-32-15]]
+
+^<<v28-32-15,15>>^ Chegada a hora de te levantares, não te detenhas; sê o primeiro a retirar-te para tua casa, e lá diverte-te e recreia o teu espírito.
+
+[[v28-32-16]]
+
+^<<v28-32-16,16>>^ Faze o que te aprouver, contanto que seja sem pecar e sem palavras soberbas.
+
+[[v28-32-17]]
+
+^<<v28-32-17,17>>^ Por todas estas coisas bem-dize ao Senhor, que te criou e que te cumula de todos os seus bens.
+
+[[v28-32-18]]
+
+^<<v28-32-18,18>>^ Aquele que teme o Senhor abraçará a sua doutrina, e os que velarem para o buscar receberão a sua bênção.
+
+[[v28-32-19]]
+
+^<<v28-32-19,19>>^ Aquele que busca a lei será cheio dela, e o que procede com hipocrisia tropeçará nela.
+
+[[v28-32-20]]
+
+^<<v28-32-20,20>>^ Aqueles que temem o Senhor encontrarão um juízo justo, e farão brilhar as suas justiças como uma luz.
+
+[[v28-32-21]]
+
+^<<v28-32-21,21>>^ O homem pecador evitará a repreensão, e encontrará interpretações (da lei) segundo o seu desejo.
+
+[[v28-32-22]]
+
+^<<v28-32-22,22>>^ O homem prudente não desprezará o instruir-se, o estranho, ou o soberbo, não tem nenhum temor;
+
+[[v28-32-23]]
+
+^<<v28-32-23,23>>^ mas quando opera por si e sem conselho, as suas próprias empresas o condenarão.
+
+[[v28-32-24]]
+
+^<<v28-32-24,24>>^ Filho, não faças coisa alguma sem conselho, e não te arrependerás depois dela feita.
+
+[[v28-32-25]]
+
+^<<v28-32-25,25>>^ Não vás pelo caminho da ruína, e não tropeçarás nas pedras; nem te metas num caminho escabroso, para que não dês à tua alma ocasião de queda.
+
+[[v28-32-26]]
+
+^<<v28-32-26,26>>^ Guarda-te dos teus próprios filhos e acautela-te dos teus domésticos.
+
+[[v28-32-27]]
+
+^<<v28-32-27,27>>^ Em todas as tuas obras guarda a tua alma, porque é assim que se guardam os mandamentos.
+
+[[v28-32-28]]
+
+^<<v28-32-28,28>>^ Aquele que crê em Deus, atende aos seus mandamentos, e o que confia nele não será danificado.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-031.adoc#v28-31-0[&#60; Capítulo Anterior] | <<v28-32-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-033.adoc#v28-33-0[Próximo Capítulo &#62;]

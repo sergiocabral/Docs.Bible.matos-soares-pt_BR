@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v11-21-0]]
+=== I Reis, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Reis 21 relata a história de Nabote, um homem que possuía uma vinha desejada pelo rei Acabe. Quando Nabote recusou vender sua propriedade, a esposa de Acabe, Jezabel, conspirou para que ele fosse condenado à morte por blasfêmia. Depois que Nabote foi executado, Acabe tomou posse da vinha. A seguir, estão cinco versículos relacionados aos temas abordados em 1 Reis 21:
+* Provérbios 22:22-23: "Não roube o pobre, porque é pobre, nem oprima o necessitado no tribunal, pois o SENHOR defenderá a causa deles e tirará a vida dos que os tiram." Esse versículo se relaciona com a injustiça cometida contra Nabote, que foi morto injustamente para que Acabe pudesse tomar posse de sua propriedade.
+* Isaías 5:8: "Ai daqueles que ajuntam casa a casa, reúnem campo a campo, até que não haja mais lugar, e vocês fiquem morando sozinhos no meio da terra!" Essa passagem se relaciona com a ganância de Acabe, que desejava a vinha de Nabote mesmo sem precisar dela.
+* Jeremias 22:13-14: "Ai daquele que constrói a sua casa com injustiça, e os seus aposentos superiores sem direito; que se serve do trabalho do seu próximo sem remunerá-lo, e não lhe dá o salário do seu trabalho. Ai daquele que diz a um pedaço de madeira: 'Desperta!', ou a uma pedra muda: 'Acorde!'" Esse versículo se relaciona com a conspiração de Jezabel para que Nabote fosse condenado à morte, mostrando que Deus se opõe àqueles que usam a injustiça para ganhar poder.
+* Miquéias 2:1-2: "Ai daqueles que planejam a iniquidade, que inventam o mal em suas camas! Quando o dia amanhece, eles o executam, porque têm poder em suas mãos. Cobiçam campos e os roubam, casas, e as tomam; oprimem o dono e a sua casa, o homem e a sua herança." Essa passagem se relaciona com a ganância de Acabe e a forma como ele usou seu poder para tomar a vinha de Nabote.
+* Mateus 6:19-21: "Não acumulem para vocês tesouros na terra, onde a traça e a ferrugem destroem, e onde os ladrões arrombam e furtam. Mas acumulem para vocês tesouros nos céus, onde a traça e a ferrugem não destroem, e onde os ladrões não arrombam nem furtam. Pois onde estiver o seu tesouro, aí também estará o seu coração." Essa passagem se relaciona com a ganância de Acabe, mostrando que a busca por riquezas terrenas pode levar a atitudes injustas e cruéis.
+****
+
+[[v11-21-1]]
+
+^<<v11-21-1,1>>^ Depois destas coisas, naquele tempo Nabot de Jezrael possuia uma vinha que estava em Jezrael, junto do palácio de Acab, rei de Samaria.
+
+[[v11-21-2]]
+
+^<<v11-21-2,2>>^ Acab falou a Nabot, dizendo: Dá-me a tu a vinha, a fim de eu fazer uma horta para mim, porque está junto de minha casa, e dar-te-ei por e la uma vinha melhor, ou, se te faz mais conta, o seu justo preço em dinheiro.
+
+[[v11-21-3]]
+
+^<<v11-21-3,3>>^ Nabot respondeu-lhe: Deus me livre de te dar a herança de meus pais!
+
+[[v11-21-4]]
+
+^<<v11-21-4,4>>^ Foi Acab para sua casa, mal disposto e encolerizado, por causa da resposta que Nabot Jezraelita lhe dera: Eu não te entregarei a herança de meus pais. Deitando-se sobre a sua cama, voltou o rosto para a parede e não quis comer nada.
+
+[[v11-21-5]]
+
+^<<v11-21-5,5>>^ Jezabel, sua mulher, foi ter com ele e disse-lhe: Que é isto? Donde te vem esta tristeza? Por que não comes?
+
+[[v11-21-6]]
+
+^<<v11-21-6,6>>^ Ele respondeu-lhe: Falei a Nabot de Jezrael e propus-lhe: Vende-me a tu a vinha, ou se te faz mais conta, dar-te-ei por ela outra vinha melhor. Ele respondeu-me: Eu não te cederei a minha vinha.
+
+[[v11-21-7]]
+
+^<<v11-21-7,7>>^ Disse-lhe então Jezabel, sua mulher: Não és tu o rei de Israel? Levanta-te, come e sossega o teu espírito; eu te darei a vinha de Nabot de Jezrael.
+
+[[v11-21-8]]
+
+^<<v11-21-8,8>>^ Escreveu ela, pois, uma carta em nome de Acab, selou-a com o selo do rei, e enviou-a aos anciães e aos principais, que habitavam na cidade de Nabot.
+
+[[v11-21-9]]
+
+^<<v11-21-9,9>>^ O assunto da carta era este: Promulgai um jejum, fazei sentar Nabot entre os primeiros do povo,
+
+[[v11-21-10]]
+
+^<<v11-21-10,10>>^ e subornai contra ele dois homens, filhos de Belial, que profiram contra ele este falso testemunho: Nabot blasfemou contra Deus e contra o rei; depois, levai-o fora da cidade e apedrejai-o até que morra.
+
+[[v11-21-11]]
+
+^<<v11-21-11,11>>^ Os seus concidadãos, anciães e os que viviam com ele na cidade, fizeram como Jezabel lhes tinha mandado, como estava escrito na carta que ela lhes enviara.
+
+[[v11-21-12]]
+
+^<<v11-21-12,12>>^ Promulgaram o jejum e fizeram sentar Nabot entre os primeiros do povo.
+
+[[v11-21-13]]
+
+^<<v11-21-13,13>>^ Tendo mandado vir dois homens, filhos do demônio, fizeram-nos sentar defronte dele; eles, como homens diabólicos, deram testemunho contra Nabot, diante do povo, dizendo: Nabot blasfemou contra Deus e contra o rei. Em virtude deste testemunho (falso) conduziram-no fora da cidade, e mataram-no às pedradas.
+
+[[v11-21-14]]
+
+^<<v11-21-14,14>>^ Depois mandaram dizer a Jezabel: Nabot foi apedrejado e morreu.
+
+[[v11-21-15]]
+
+^<<v11-21-15,15>>^ Quando Jezabel ouviu que Nabot fora apedrejado e morrera, foi dizer a Acab: Vai e torna-te senhor da vinha de Nabot de Jezrael, que te não quis fazer a vontade, cedendo-ta, pelo devido preço, porque Nabot foi lapidado e morreu.
+
+[[v11-21-16]]
+
+^<<v11-21-16,16>>^ Acab, tendo ouvido dizer que Nabot tinha morrido, levantou-se e ia para a vinha de Nabot de Jezrael, a fim de se apossar dela.
+
+[[v11-21-17]]
+
+^<<v11-21-17,17>>^ Então o Senhor dirigiu a sua palavra a Elias Tesbita, dizendo:
+
+[[v11-21-18]]
+
+^<<v11-21-18,18>>^ Levanta-te e sai ao encontro de Acab, rei de Israel, que está em Samaria: ele vai à vinha de Nabot, para tomar posse dela.
+
+[[v11-21-19]]
+
+^<<v11-21-19,19>>^ Tu lhe falarás assim: Eis o que diz o Senhor: Mataste-lo e, além disso, tomas agora posse (da vinha do assassinado). Depois acrescentarás: Isto diz o Senhor: Neste lugar, em que os cães lamberam o sangue de Nabot, lamberão eles também o teu sangue.
+
+[[v11-21-20]]
+
+^<<v11-21-20,20>>^ Acab disse a Elias: Porventura tens-me por teu Inimigo (para que assim profetizes contra mim)? Elias respondeu-lhe: Sim, tenho-te por tal, porque te vendeste, para fazeres o mal aos olhos do Senhor.
+
+[[v11-21-21]]
+
+^<<v11-21-21,21>>^ Farei cair o mal sobre ti, varrer-te-ei, exterminarei da família de Acab, em Israel, todo o varão, escravo ou livre.
+
+[[v11-21-22]]
+
+^<<v11-21-22,22>>^ Tornarei a tua casa como a casa de Jeroboão, filho de Nabat, e como a casa de Baasa, filho de Ala, porque procedeste de modo que me provocaste à ira, e fizeste pecar Israel.
+
+[[v11-21-23]]
+
+^<<v11-21-23,23>>^ E o Senhor falou também de Jezabel, assim: Os cães comerão Jezabel no campo de Jezrael.
+
+[[v11-21-24]]
+
+^<<v11-21-24,24>>^ Todo o que, da casa de Acab, morrer na cidade, comê-lo-ão os cães; o que morrer no campo, comê-lo-ão as aves do céu.
+
+[[v11-21-25]]
+
+^<<v11-21-25,25>>^ Não houve outro semelhante a Acab, que se vendeu para fazer o mal aos olhos do Senhor, porque Jezabel, sua mulher, o incitou.
+
+[[v11-21-26]]
+
+^<<v11-21-26,26>>^ Ele tornou-se tão abominável, que seguia os ídolos dos Amorreus, que o Senhor tinha exterminado da face dos filhos de Israel.
+
+[[v11-21-27]]
+
+^<<v11-21-27,27>>^ Quando Acab ouviu estas palavras, rasgou as suas vestes, cobriu a sua carne de um cilício, jejuou, dormiu envolto no saco e andou de cabeça baixa.
+
+[[v11-21-28]]
+
+^<<v11-21-28,28>>^ Então o Senhor dirigiu a sua palavra a Elias Tesbita, nestes termos:
+
+[[v11-21-29]]
+
+^<<v11-21-29,29>>^ Não viste Acab humilhado diante mim? Porque ele, pois, se humilhou, em atenção a mim, não farei vir aquele mal enquanto ele viver, mas nos dias de seu filho o farei vir sobre a sua casa.
+
+'''
+
+xref:011-i-reis/011-i-reis-020.adoc#v11-20-0[&#60; Capítulo Anterior] | <<v11-21-0,Topo>> | xref:011-i-reis/011-i-reis-022.adoc#v11-22-0[Próximo Capítulo &#62;]

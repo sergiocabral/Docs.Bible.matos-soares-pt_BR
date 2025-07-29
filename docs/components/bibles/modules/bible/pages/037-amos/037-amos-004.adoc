@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v37-4-0]]
+=== Amós, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 do livro de Amós é uma mensagem de repreensão a Israel por sua desobediência e falta de arrependimento. Deus traz várias acusações contra o povo, mostrando que Ele os havia disciplinado de diversas formas para que se voltassem para Ele, mas eles persistiram em seus caminhos perversos. Abaixo estão cinco versículos relacionados com os temas abordados em Amós 4:
+* Amós 4:6- "Eu lhes dei cereal escasso em todas as cidades, falta de pão em todas as suas aldeias, e mesmo assim vocês não voltaram para mim", Deus mostra como Ele havia tentado chamar a atenção de Israel por meio da escassez de alimento, mas mesmo assim o povo não se arrependeu de seus caminhos.
+* Amós 4:8- "Mas ainda assim vocês não voltaram para mim", Deus continua a mostrar como havia enviado pestes e pragas sobre o povo, mas ainda assim eles não se arrependeram e voltaram para Ele.
+* Amós 4:12- "Portanto, assim te farei, ó Israel! E porque te farei isso, apronta-te, ó Israel, para te encontrares com o teu Deus", Deus adverte o povo de Israel que, se eles continuarem em seus caminhos perversos, Ele os disciplinará ainda mais severamente.
+* Amós 4:13- "Pois é ele quem forma os montes, quem cria o vento, e quem declara ao ser humano qual é o seu pensamento; quem faz a aurora e as trevas, e quem caminha sobre as alturas da terra. O Senhor Deus dos Exércitos é o seu nome", Deus mostra seu poder e autoridade sobre todas as coisas, incluindo a vida e destino de Israel.
+* Amós 4:14- "Buscai o bem e não o mal, para que vivais; e assim o Senhor, o Deus dos Exércitos, estará convosco, como dizeis", Deus exorta Israel a buscar o bem e evitar o mal, mostrando que somente assim Ele estará com eles e abençoará suas vidas.
+****
+
+[[v37-4-1]]
+
+^<<v37-4-1,1>>^ Ouvi esta palavra, vacas de Basan, que estais sobre a montanha de Samaria, vós que oprimis os fracos, que vexais os pobres, vós que dizeis a vossos maridos: Trazei, e bebamos.
+
+[[v37-4-2]]
+
+^<<v37-4-2,2>>^ O Senhor Deus jurou pela sua santidade: Eis que virão dias para vós, em que vos arrastarão com ganchos, e à vossa posteridade com arpões.
+
+[[v37-4-3]]
+
+^<<v37-4-3,3>>^ Saireis pelas brechas, todas a direito, e sereis lançadas para Armon, diz o Senhor.
+
+[[v37-4-4]]
+
+^<<v37-4-4,4>>^ Ide a Betei e cometei impiedades: (Ide) a Gálgala e amontoai prevaricações. Levai lá as vossas vítimas (para os ídolos) cada manhã, e os vossos dízimos todos os três dias. (ver nota)
+
+[[v37-4-5]]
+
+^<<v37-4-5,5>>^ Queimai com pão lêvedo, as vossas oferendas de ação de graças, proclamai e publicai oblações voluntárias, porque isto é o que amais, filhos de Israel, diz o Senhor Deus.
+
+[[v37-4-6]]
+
+^<<v37-4-6,6>>^ Por esta causa deixei-vos ficar os dentes sem nada, em todas as vossas cidades, e minguados de pão em, todas as vossas localidades. (Contudo) não vos voltastes para mim, diz o Senhor.
+
+[[v37-4-7]]
+
+^<<v37-4-7,7>>^ Também vos suspendi a chuva, quando ainda faltavam três meses para a colheita; fiz que chovesse sobre uma cidade, e sobre outra cidade não chovesse; uma região ficou regada com a chuva, e outra sobre a qual não caiu chuva, secou.
+
+[[v37-4-8]]
+
+^<<v37-4-8,8>>^ Duas e três (e mais) cidades foram a uma outra cidade para beber água, e não apagaram a sede; (apesar disso) não voltastes a mim, diz o Senhor.
+
+[[v37-4-9]]
+
+^<<v37-4-9,9>>^ Eu vos feri com ferrugem e arejo; o gafanhoto devorou grande número dos vossos jardins e das vossas vinhas, dos vossos olivais e dos vossos figueirais, mas (apesar disso) não voltastes para mim, diz o Senhor.
+
+[[v37-4-10]]
+
+^<<v37-4-10,10>>^ Enviei a mortandade contra vós semelhante à (de outrora) do Egito, feri com a espada os vossos jovens e deixei tomar os vossos cavalos; fiz chegar ao vosso nariz o cheiro infecto dos cadáveres do vosso exército, mas (apesar disso) não voltastes para mim, diz o Senhor.
+
+[[v37-4-11]]
+
+^<<v37-4-11,11>>^ Destruí-vos como Deus destruiu Sodoma e Gomorra, e ficastes como um tição que se tira dum incêndio, mas (apesar disso) não voltastes para mim, diz o Senhor.
+
+[[v37-4-12]]
+
+^<<v37-4-12,12>>^ Portanto executarei contra ti estas coisas (que eu predisse), ó Israel. Visto que, pois, te tratarei assim, prepara-te, ó Israel, para sair ao encontro do teu Deus.
+
+[[v37-4-13]]
+
+^<<v37-4-13,13>>^ É ele (Deus) que forma os montes e cria o vento, que descobre ao homem o seu próprio pensamento, que faz trevas da aurora e anda por cima das alturas da terra! O seu nome é Senhor Deus dos exércitos.
+
+'''
+
+xref:037-amos/037-amos-003.adoc#v37-3-0[&#60; Capítulo Anterior] | <<v37-4-0,Topo>> | xref:037-amos/037-amos-005.adoc#v37-5-0[Próximo Capítulo &#62;]

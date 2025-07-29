@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v21-67-0]]
+=== Salmos, 67
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 67 é um hino de louvor que clama pela bênção de Deus sobre o povo e o louva por sua bondade e fidelidade. O salmista pede a Deus que conceda a Sua graça e Sua salvação a todas as nações da Terra. O Salmo 67 reflete a visão universalista da salvação em que todas as nações são abençoadas por Deus. Abaixo estão cinco versículos relacionados aos temas abordados no Salmo 67:
+* Salmo 22:27: "Todos os limites da terra se lembrarão e se voltarão para o Senhor, e todas as famílias das nações se prostrarão perante ele." Este versículo fala sobre a universalidade da adoração ao Senhor, que é semelhante ao tema do Salmo 67, onde o salmista pede a bênção de Deus para todas as nações da Terra.
+* Salmo 47:1: "Batei palmas, todos os povos; aclamai a Deus com voz de triunfo." Este versículo enfatiza a adoração universal a Deus, que é semelhante ao tema do Salmo 67, onde o salmista pede a bênção de Deus para todas as nações da Terra.
+* Salmo 117:1-2: "Louvai ao Senhor, todas as nações; louvai-o, todos os povos. Porque a sua benignidade é grande para conosco, e a verdade do Senhor dura para sempre. Louvai ao Senhor." Este versículo destaca a universalidade do amor de Deus por todas as nações e povos, que é semelhante ao tema do Salmo 67.
+* Salmo 145:9: "O Senhor é bom para todos, e as suas misericórdias são sobre todas as suas obras." Este versículo destaca a bondade universal de Deus e sua misericórdia sobre todas as suas obras, que é semelhante ao tema do Salmo 67, onde o salmista pede a bênção de Deus para todas as nações da Terra.
+* Isaías 49:6: "E disse-me: É pouco que sejas o meu servo, para restaurares as tribos de Jacó e tornares a trazer os preservados de Israel; também te dei para luz dos gentios, para seres a minha salvação até à extremidade da terra." Este versículo fala sobre a missão universal do servo do Senhor, que é semelhante ao tema do Salmo 67, onde o salmista pede a bênção de Deus para todas as nações da Terra.
+****
+
+[[v21-67-1]]
+
+^<<v21-67-1,1>>^ Ao mestre do coro. De Davide. Salmo. Cântico.
+
+[[v21-67-2]]
+
+^<<v21-67-2,2>>^ Levanta-se Deus, e são dispersos os seus inimigos, e fogem da sua presença os que o aborrecem.
+
+[[v21-67-3]]
+
+^<<v21-67-3,3>>^ Como se desvanece o fumo, assim eles se desvanecem; como se derrete a cera diante do fogo, assim perecem os pecadores diante de Deus.
+
+[[v21-67-4]]
+
+^<<v21-67-4,4>>^ Os justos, porém, regozijam-se, exultam na presença de Deus, e deleitam-se na alegria.
+
+[[v21-67-5]]
+
+^<<v21-67-5,5>>^ Cantai a Deus, entoai salmos ao seu nome; aplanai o caminho àquele que avança pelo deserto, cujo nome é "Senhor", e regozijai-vos diante dele.
+
+[[v21-67-6]]
+
+^<<v21-67-6,6>>^ Ele é o pai dos órfãos e o tutor das viúvas, é Deus em sua santa morada.
+
+[[v21-67-7]]
+
+^<<v21-67-7,7>>^ Deus prepara a casa para os desamparados, leva os cativos à prosperidade: só os rebeldes ficam na terra ardente.
+
+[[v21-67-8]]
+
+^<<v21-67-8,8>>^ Ó Deus, quando saiste à frente do teu povo, quando avançaste pelo deserto,
+
+[[v21-67-9]]
+
+^<<v21-67-9,9>>^ a terra tremeu e até os céus dissolveram perante Deus, tremeu o Sinai diante de Deus, Deus de Israel.
+
+[[v21-67-10]]
+
+^<<v21-67-10,10>>^ Ó Deus, tu enviaste uma chuva abundante sobre a tua herança, e, estando ela extenuada, a reanimaste.
+
+[[v21-67-11]]
+
+^<<v21-67-11,11>>^ Nela habitou a tua grei, na tua bondade, ó Deus, preparaste-la para o pobre.
+
+[[v21-67-12]]
+
+^<<v21-67-12,12>>^ O Senhor pronuncia uma palavra (de grande eficácia); é grande a multidão dos mensageiros de novas alegres:
+
+[[v21-67-13]]
+
+^<<v21-67-13,13>>^ "Os reis dos exércitos fogem, fogem; e as (mulheres) que estão em casa repartem os despojos.
+
+[[v21-67-14]]
+
+^<<v21-67-14,14>>^ Quando descansáveis nos apriscos, as asas da pomba brilhavam como prata, e como um amarelo de ouro as suas penas. (ver nota)
+
+[[v21-67-15]]
+
+^<<v21-67-15,15>>^ Enquanto o Omnipotente dispersava os reis da terra, caíam as neves sobre o Salmon."
+
+[[v21-67-16]]
+
+^<<v21-67-16,16>>^ Os montes de Basan são elevados, os montes de Basan são escarpados: (ver nota)
+
+[[v21-67-17]]
+
+^<<v21-67-17,17>>^ ó montes escarpados, por que olhais com inveja o monte, no qual aprouve a Deus morar e no qual o Senhor habitará perpetuamente?
+
+[[v21-67-18]]
+
+^<<v21-67-18,18>>^ Os carros de Deus são miríades, milhares e milhares, são milhares (de anjos) que se alegram; o Senhor vem do Sinai ao Santuário.
+
+[[v21-67-19]]
+
+^<<v21-67-19,19>>^ Subiste (ó Senhor) ao alto, levaste contigo cativos, recebeste homens em tributo mesmo aqueles que não querem habitar com o Senhor Deus.
+
+[[v21-67-20]]
+
+^<<v21-67-20,20>>^ Bendito seja o Senhor em toda a série dos dias; Deus, nossa salvação, leva as nossas cargas!
+
+[[v21-67-21]]
+
+^<<v21-67-21,21>>^ O nosso Deus é um Deus que salva, o Senhor Deus consegue escapar da morte.
+
+[[v21-67-22]]
+
+^<<v21-67-22,22>>^ Sim, Deus quebra a cabeça dos seus inimigos, o crânio cabeludo do que caminha nos seus delitos.
+
+[[v21-67-23]]
+
+^<<v21-67-23,23>>^ O Senhor diz; "De Basan os farei voltar, eu os reconduzirei do fundo do mar,
+
+[[v21-67-24]]
+
+^<<v21-67-24,24>>^ para que possas banhar o teu pé no sangue (dos teus inimigos), e a língua dos teus cães tenha também a sua parte dos inimigos."
+
+[[v21-67-25]]
+
+^<<v21-67-25,25>>^ Eles contemplam a tua entrada (triunfal), ó Deus a entrada do meu Deus, do meu rei, no santuário.
+
+[[v21-67-26]]
+
+^<<v21-67-26,26>>^ Vão adiante os cantores, atrás os tocadores de cítara, no meio as donzelas tocam címbalos.
+
+[[v21-67-27]]
+
+^<<v21-67-27,27>>^ "Bendizei Deus nas assembleias festivas, bendizei o Senhor, (os que sois da) estirpe de Israel."
+
+[[v21-67-28]]
+
+^<<v21-67-28,28>>^ Ali está (a tribo de) Benjamim, o mais novo, que as precede, os príncipes de Judá, com numeroso séquito, os príncipes de Zambulon, os príncipes de Neftali.
+
+[[v21-67-29]]
+
+^<<v21-67-29,29>>^ Ó Deus mostra o teu poder, o teu poder, ó Deus, que operas por nós!
+
+[[v21-67-30]]
+
+^<<v21-67-30,30>>^ Por causa do teu templo que está em Jerusalém, te ofereçam dons os reis.
+
+[[v21-67-31]]
+
+^<<v21-67-31,31>>^ Reprime a fera do canavial, a manada dos touros com os novilhos dos povos; prostrem-se com lingotes de prata (como tributo): dissipa as nações que gostam de fazer guerra.
+
+[[v21-67-32]]
+
+^<<v21-67-32,32>>^ Venham os magnates do Egipto, estenda a Etiópia as suas mãos para Deus.
+
+[[v21-67-33]]
+
+^<<v21-67-33,33>>^ Reinos da terra, cantai a Deus, entoai salmos ao Senhor,
+
+[[v21-67-34]]
+
+^<<v21-67-34,34>>^ que é levado pelos céus, pelos céus antigos! Eis que faz ressoar a sua voz potente:
+
+[[v21-67-35]]
+
+^<<v21-67-35,35>>^ "Reconhecei o poder de Deus!" Sobre Israel está a sua majestade, e sobre as nuvens o seu poder,
+
+[[v21-67-36]]
+
+^<<v21-67-36,36>>^ Temível é Deus, do seu santuário, o Deus de Israel; ele mesmo dá ao seu povo poderio e força. Bendito seja Deus!
+
+'''
+
+xref:021-salmos/021-salmos-066.adoc#v21-66-0[&#60; Capítulo Anterior] | <<v21-67-0,Topo>> | xref:021-salmos/021-salmos-068.adoc#v21-68-0[Próximo Capítulo &#62;]

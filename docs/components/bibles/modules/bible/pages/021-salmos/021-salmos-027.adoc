@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-27-0]]
+=== Salmos, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 27 é um salmo de confiança em Deus em meio às dificuldades da vida. O salmista expressa sua confiança no Senhor como seu protetor e salvador, mesmo quando enfrenta inimigos e perseguições. Abaixo estão cinco versículos relacionados aos temas abordados neste salmo:
+* Salmos 9:9-10: "O Senhor é um refúgio para o oprimido, uma fortaleza em tempos de angústia. Aqueles que conhecem o teu nome confiam em ti, pois tu, Senhor, nunca abandonas os que te buscam." Este versículo enfatiza a confiança no Senhor em meio às dificuldades, como o salmista expressa em Salmo 27.
+* Salmos 23:4: "Mesmo quando eu andar por um vale de trevas e morte, não temerei perigo algum, pois tu estás comigo; a tua vara e o teu cajado me protegem." Este versículo mostra que mesmo em meio às dificuldades, Deus está presente para proteger e guiar aqueles que confiam nele.
+* Salmos 31:24: "Sejam fortes e corajosos, todos vocês que esperam no Senhor!" Este versículo encoraja os fiéis a permanecerem fortes em sua confiança em Deus, como o salmista faz em Salmo 27.
+* Salmos 46:1-2: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade. Por isso não temeremos, ainda que a terra trema e os montes afundem no coração do mar." Este versículo mostra que Deus é sempre presente para ajudar e proteger aqueles que confiam nele.
+* Salmos 62:5-6: "Somente em Deus achamos descanso, pois nele está a nossa salvação. Somente ele é a rocha que nos salva; ele é a nossa torre alta e segura." Este versículo destaca a importância de confiar somente em Deus para proteção e salvação, como o salmista faz em Salmo 27.
+****
+
+[[v21-27-1]]
+
+^<<v21-27-1,1>>^ De Davide. A ti clamo. Senhor; minha rocha, não sejas surdo para mim, não suceda que, não me ouvindo tu, eu seja semelhante àqueles que descem à cova.
+
+[[v21-27-2]]
+
+^<<v21-27-2,2>>^ Ouve, Senhor, a voz da minha súplica, quando chamo por ti, quando levanto as minhas mãos para o teu santo templo.
+
+[[v21-27-3]]
+
+^<<v21-27-3,3>>^ Não me arrebates juntamente com os pecadores, com os que praticam a iniquidade, os quais falam de paz com o seu próximo, mas no seu coração têm a maldade.
+
+[[v21-27-4]]
+
+^<<v21-27-4,4>>^ Dá-lhes segundo as suas obras e segundo a malícia dos seus delitos. Dá-lhes segundo as obras das suas mãos, dá-lhes aquilo que fizeram.
+
+[[v21-27-5]]
+
+^<<v21-27-5,5>>^ Porque não atendem aos feitos do Senhor, nem à obra das suas mãos, ele os destrua, e não os restabeleça.
+
+[[v21-27-6]]
+
+^<<v21-27-6,6>>^ Bendito seja o Senhor, porque ouviu a voz da minha súplica,
+
+[[v21-27-7]]
+
+^<<v21-27-7,7>>^ o Senhor, minha força e meu escudo! Nele confiou o meu coração, e fui ajudado; por isso o meu coração exulta, e o louvo com o meu cântico.
+
+[[v21-27-8]]
+
+^<<v21-27-8,8>>^ O Senhor é a força do seu povo, e uma fortaleza de salvação para o seu ungido.
+
+[[v21-27-9]]
+
+^<<v21-27-9,9>>^ Salva, Senhor, o teu povo, e abençoa a tua herança, apascenta-os e sustenta-os eternamente.
+
+'''
+
+xref:021-salmos/021-salmos-026.adoc#v21-26-0[&#60; Capítulo Anterior] | <<v21-27-0,Topo>> | xref:021-salmos/021-salmos-028.adoc#v21-28-0[Próximo Capítulo &#62;]

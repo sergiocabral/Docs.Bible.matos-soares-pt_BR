@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v29-29-0]]
+=== Isaías, 29
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 29 de Isaías começa com uma advertência contra Jerusalém, que é descrita como uma cidade cercada e oprimida, mas que não percebe sua condição de cegueira espiritual. A partir daí, o profeta fala sobre a restauração da cidade e do povo, prometendo um tempo de redenção e renovação. Os versículos relacionados com os temas abordados em Isaías 29 são:
+* Jeremias 5:21: "Ouvi agora isto, ó povo insensato e sem entendimento, que tendes olhos e não vedes, que tendes ouvidos e não ouvis." Assim como Isaías advertiu Jerusalém sobre sua cegueira espiritual, Jeremias também fala sobre a insensatez do povo que não consegue ver nem ouvir a verdade.
+* Ezequiel 36:26: "Dar-vos-ei um coração novo e porei dentro de vós um espírito novo; e tirarei de vós o coração de pedra e vos darei um coração de carne." Assim como Isaías fala sobre a restauração de Jerusalém e do povo, Ezequiel também promete uma renovação do coração e do espírito.
+* Joel 2:28-29: "E há de ser que, depois, derramarei o meu Espírito sobre toda a carne, e vossos filhos e vossas filhas profetizarão, os vossos velhos terão sonhos, os vossos jovens terão visões. E também sobre os servos e sobre as servas naqueles dias derramarei o meu Espírito." Isaías fala sobre um tempo de renovação e restauração, e Joel também profetiza sobre a efusão do Espírito de Deus sobre todo o povo.
+* Salmos 126:1-3: "Quando o Senhor trouxe do cativeiro os que voltaram a Sião, estávamos como os que sonham. Então a nossa boca se encheu de riso e a nossa língua de cânticos; então se dizia entre os gentios: Grandes coisas fez o Senhor a estes. Grandes coisas fez o Senhor por nós; por isso estamos alegres." Este salmo fala sobre o retorno do exílio babilônico e a alegria que o povo experimentou. Isaías também fala sobre a restauração e renovação de Jerusalém e do povo.
+* Apocalipse 21:5: "E aquele que estava assentado sobre o trono disse: Eis que faço novas todas as coisas. E disse-me: Escreve; porque estas palavras são verdadeiras e fiéis." Assim como Isaías fala sobre a restauração e renovação de Jerusalém, Apocalipse fala sobre a nova Jerusalém e a renovação de todas as coisas.
+****
+
+[[v29-29-1]]
+
+^<<v29-29-1,1>>^ Ai de Ariel, da cidade de Ariel, em que Davide acampou! Juntar-se-á um ano a outro ano, completarse-á o ciclo das solenidades.
+
+[[v29-29-2]]
+
+^<<v29-29-2,2>>^ Depois cercarei Ariel, e nela só haverá prantos e gemidos. Serás para mim como Ariel.
+
+[[v29-29-3]]
+
+^<<v29-29-3,3>>^ Estabelecerei ao redor de ti um círculo fechado, levantarei contra ti trincheiras, porei baluartes para te sitiar.
+
+[[v29-29-4]]
+
+^<<v29-29-4,4>>^ Serás humilhada; falarás da terra (em que estarás abatida), e do chão será ouvida a tua voz abafada; será como dum espectro a tua voz saindo da terra, e do pó murmurarás as tuas palavras.
+
+[[v29-29-5]]
+
+^<<v29-29-5,5>>^ Será como poeira fina a multidão dos teus opressores, e como a palha arrebatada pelo vento a multidão daqueles que te subjugarão.
+
+[[v29-29-6]]
+
+^<<v29-29-6,6>>^ Mas de repente, num instante, do Senhor dos exércitos virá o castigo (dos Assírios) no meio de trovões, tremores de terra, com grande estrondo de torvelinhos e de tempestade, e chamas dum fogo devorador.
+
+[[v29-29-7]]
+
+^<<v29-29-7,7>>^ Como se dissipa um sonho, uma visão noturna, assim se dissipará a multidão de todas as nações que tomam armas contra Ariel, que a combatem, que a sitiam apertadamente. (ver nota)
+
+[[v29-29-8]]
+
+^<<v29-29-8,8>>^ O que sucede ao faminto que sonha que come, mas desperta com o estômago vazio, ou ao sequioso que sonha que bebe, mas, ao acordar, se sente ainda fatigado e com sede, isso mesmo acontecerá à multidão de todas as nações que tiverem pelejado contra o monte Sião.
+
+[[v29-29-9]]
+
+^<<v29-29-9,9>>^ Pasmai, espantai-vos, cegai-vos, ficai cegos, embriagai-vos, mas não de vinho, cambaleai mas não de embriaguez,
+
+[[v29-29-10]]
+
+^<<v29-29-10,10>>^ porque o Senhor espalhou sobre vós um espírito de adormecimento, fechou os vossos olhos, - os profetas - velou as vossas cabeças - os videntes.
+
+[[v29-29-11]]
+
+^<<v29-29-11,11>>^ A visão de todos eles será para vós como as palavras dum livro selado. Quando o derem a um homem que sabe ler e lhe disserem: Lê esse livro - ele responderá: Não posso, porque está selado.
+
+[[v29-29-12]]
+
+^<<v29-29-12,12>>^ Quando o derem a um homem que não sabe ler e lhe disserem: Lê - ele responderá: Não sei ler.
+
+[[v29-29-13]]
+
+^<<v29-29-13,13>>^ O Senhor disse: Visto que este povo se aproxima de mim (só) com a sua boca, (só) com os seus lábios me glorifica, enquanto que o seu coração está longe de mim, visto que me presta culto segundo ritos e ensinamentos humanos, (ver nota)
+
+[[v29-29-14]]
+
+^<<v29-29-14,14>>^ por causa disto, continuarei a usar com este povo de prodígios estranhos, de forma que perecerá a sabedoria dos seus sábios e se obscurecerá o entendimento dos seus doutores.
+
+[[v29-29-15]]
+
+^<<v29-29-15,15>>^ Ai dos que querem ocultar ao Senhor os seus desígnios, que fazem as suas obras no meio das trevas e dizem: Quem nos vê, quem nos conhece?
+
+[[v29-29-16]]
+
+^<<v29-29-16,16>>^ Perverso é este vosso pensamento! Acaso pode-se tratar como barro o oleiro, pode a obra dizer ao seu artífice: Tu não me fizeste? ou o vaso ao que o fez: Tu não entendes nada disto?
+
+[[v29-29-17]]
+
+^<<v29-29-17,17>>^ Porventura dentro de pouco tempo, em breve espaço, não se converterá o Líbano em vergel, e o vergel não passará por um bosque?
+
+[[v29-29-18]]
+
+^<<v29-29-18,18>>^ Nesse dia os surdos ouvirão as palavras do livro (da lei), e dentre as trevas e a escuridão verão os olhos dos cegos.
+
+[[v29-29-19]]
+
+^<<v29-29-19,19>>^ Os humildes alegrar-se-ão cada vez mais no Senhor, e exultarão os mais pobres no Santo de Israel,
+
+[[v29-29-20]]
+
+^<<v29-29-20,20>>^ porque desaparecerá o opressor, acabará o escarnecedor, serão destruídos todos os que pensam em fazer mal,
+
+[[v29-29-21]]
+
+^<<v29-29-21,21>>^ aqueles que por uma palavra, acusam os outros, que armam laços ao que os repreende à porta (da cidade, nos julgamentos), que, por suas mentiras, perdem o justo.
+
+[[v29-29-22]]
+
+^<<v29-29-22,22>>^ Por esta causa, o Senhor, que resgatou Abraão, diz isto à casa de Jacob: Agora não será mais confundido Jacob, nem jamais se envergonhará o seu rosto.
+
+[[v29-29-23]]
+
+^<<v29-29-23,23>>^ Quando se vir a minha obra nele, abençoar-se-á o meu nome. Glorificar-se-á o Santo de Jacob, temer-se-á o Deus de Israel.
+
+[[v29-29-24]]
+
+^<<v29-29-24,24>>^ Então aqueles, cujo espírito vivia no erro, terão a sabedoria (da salvação), e aprenderão a lei (do Senhor) os que murmuravam (dela).
+
+'''
+
+xref:029-isaias/029-isaias-028.adoc#v29-28-0[&#60; Capítulo Anterior] | <<v29-29-0,Topo>> | xref:029-isaias/029-isaias-030.adoc#v29-30-0[Próximo Capítulo &#62;]

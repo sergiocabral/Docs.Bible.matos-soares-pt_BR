@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v14-8-0]]
+=== II Crônicas, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 8 relata como Salomão construiu várias cidades e fortalezas, além de estabelecer rotas comerciais e tributos para o reino de Israel. Ele também construiu um palácio para si mesmo e um para a filha do faraó, que se tornou sua esposa. Aqui estão cinco versículos relacionados aos temas abordados em 2 Crônicas 8:
+* 1 Reis 9:10-11: "Ao fim de vinte anos, em que Salomão edificou as duas casas, a saber, a casa do SENHOR e a casa do rei, Hirão, rei de Tiro, fornecia a Salomão madeira de cedro e de pinho e ouro, segundo todo o seu desejo; então, deu o rei Salomão a Hirão vinte cidades na terra da Galileia." Este versículo fala sobre o acordo entre Salomão e o rei Hirão para fornecer madeira e ouro para a construção do templo e do palácio, bem como a doação de cidades por Salomão a Hirão.
+* 1 Reis 9:14: "E Hirão mandou ao rei cento e vinte talentos de ouro." Este versículo descreve a contribuição do rei Hirão de Tiro para a construção do templo e do palácio.
+* 2 Crônicas 9:23: "E todos os reis da terra procuravam ver a face de Salomão, para ouvirem a sabedoria que Deus lhe tinha posto no coração." Este versículo fala sobre a fama e a reputação de Salomão como um sábio rei que era respeitado por outros governantes.
+* 1 Reis 9:28: "E vieram seus servos, os que sabiam navegar no mar, juntamente com os servos de Salomão, a Ofir, e tomaram de lá quatrocentos e vinte talentos de ouro e os trouxeram ao rei Salomão." Este versículo descreve uma das expedições comerciais de Salomão para Obir, de onde ele trouxe uma grande quantidade de ouro.
+* 1 Reis 10:26: "Também ajuntou Salomão carros e cavaleiros; tinha mil e quatrocentos carros e doze mil cavaleiros; e os distribuiu pelas cidades dos carros e junto ao rei em Jerusalém." Este versículo fala sobre a expansão militar de Salomão, que acumulou uma grande quantidade de carros e cavaleiros para proteger seu reino.
+****
+
+[[v14-8-1]]
+
+^<<v14-8-1,1>>^ Passados vinte anos, depois que Salomão edificou a casa do Senhor e o seu palácio,
+
+[[v14-8-2]]
+
+^<<v14-8-2,2>>^ reedificou as cidades que Hirão lhe tinha dado, e fez habitar nelas os filhos de Israel.
+
+[[v14-8-3]]
+
+^<<v14-8-3,3>>^ Foi também a Emat de Suba, e ocupou-a.
+
+[[v14-8-4]]
+
+^<<v14-8-4,4>>^ Fundou Palmira, no deserto, e edificou outras cidades fortíssimas em Emat.
+
+[[v14-8-5]]
+
+^<<v14-8-5,5>>^ Restaurou Betoron, tanto a alta como a baixa, cidades muradas, que tinham portas, ferrolhos e fechaduras.
+
+[[v14-8-6]]
+
+^<<v14-8-6,6>>^ Restaurou também Balaat e todas as cidades fortes, que pertenciam a Salomão, cidades para carros e cidades para cavalaria. Salomão edificou tudo o que quis e ideou, assim em Jerusalém, como no Líbano, e em todo o país do seu domínio.
+
+[[v14-8-7]]
+
+^<<v14-8-7,7>>^ A todos os que tinham ficado dos Heteus, dos Amorreus, dos Ferezeus, dos Heveus e dos Jebuseus, que não eram da linhagem de Israel,
+
+[[v14-8-8]]
+
+^<<v14-8-8,8>>^ - descendentes daqueles que as filhas de Israel tinham deixado com vida - Salomão a todos impôs a condição de trabalhadores, (escravos) em que ainda hoje se encontram.
+
+[[v14-8-9]]
+
+^<<v14-8-9,9>>^ Porém, dos filhos de Israel não lançou mão para trabalharem, como escravos, nas obras do rei: estes eram homens de guerra, primeiros oficiais e comandantes dos seus carros e da sua cavalaria.
+
+[[v14-8-10]]
+
+^<<v14-8-10,10>>^ Todos os chefes dos inspetores do rei Salomão chegavam ao número de duzentos e cinquenta, os quais exerciam vigilância sobre o povo.
+
+[[v14-8-11]]
+
+^<<v14-8-11,11>>^ Salomão mudou a filha de Faraó da cidade de Davide para a casa que lhe tinha edificado, porque, disse: Não habitará minha mulher na casa de Davide, rei de Israel, porquanto foi santificada, quando entrou nela a arca do Senhor.
+
+[[v14-8-12]]
+
+^<<v14-8-12,12>>^ Então Salomão ofereceu holocaustos ao Senhor sobre o altar do Senhor, que tinha levantado diante do pórtico,
+
+[[v14-8-13]]
+
+^<<v14-8-13,13>>^ com o fim de se oferecerem nele todos os dias sacrifícios, conforme a ordenação de Moisés, e nos sábados, nas Neoménias e nos dias de festa, três vezes no ano, a saber: na festa dos ázimos, na festa das semanas e na festa dos tabernáculos.
+
+[[v14-8-14]]
+
+^<<v14-8-14,14>>^ Distribuiu, segundo as disposições de Davide, seu pai, as funções aos sacerdotes nos seus ministérios, assim como aos Levitas, que cantavam louvores ao Senhor e serviam aos sacerdotes, segundo o rito de cada dia; distribuiu também os porteiros por cada uma das portas, porque assim o tinha mandado Davide, homem de Deus.
+
+[[v14-8-15]]
+
+^<<v14-8-15,15>>^ E não transgrediram a ordem do rei, tanto os sacerdotes como os Levitas, em tudo o que lhes tinha mandado, (principalmente) na guarda dos tesouros.
+
+[[v14-8-16]]
+
+^<<v14-8-16,16>>^ Salomão teve preparadas todas as coisas necessárias, desde o dia em que começou a lançar os fundamentos da casa do Senhor, até ao dia em que acabou.
+
+[[v14-8-17]]
+
+^<<v14-8-17,17>>^ Então foi Salomão a Asiongaber, e a Ailat, no litoral do mar Vermelho, terra de Edom.
+
+[[v14-8-18]]
+
+^<<v14-8-18,18>>^ O rei Hirão mandou-lhe, por meio dos seus servos, naus e marinheiros práticos do mar, que foram com a gente de Salomão a Ofir, e de lá trouxeram ao rei Salomão quatrocentos e cinquenta talentos de ouro.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-007.adoc#v14-7-0[&#60; Capítulo Anterior] | <<v14-8-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-009.adoc#v14-9-0[Próximo Capítulo &#62;]

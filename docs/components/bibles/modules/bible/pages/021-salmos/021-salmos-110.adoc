@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v21-110-0]]
+=== Salmos, 110
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 110 é um dos mais citados no Novo Testamento e é um hino de louvor a Cristo, apresentando-o como rei e sacerdote eterno. Os versículos selecionados abaixo estão relacionados com a soberania e autoridade de Cristo e seu papel como sacerdote.
+* Hebreus 5:6: "Como também diz noutro lugar: Tu és sacerdote eterno, Segundo a ordem de Melquisedeque." Este verso cita o Salmo 110:4 e mostra como Cristo é o sacerdote eterno de acordo com a ordem de Melquisedeque.
+* Hebreus 7:17: "Porque dele assim se testifica: Tu és sacerdote eternamente, Segundo a ordem de Melquisedeque." Este verso é uma repetição do Salmo 110:4, reforçando a ideia de que Cristo é o sacerdote eterno de acordo com a ordem de Melquisedeque.
+* 1 Coríntios 15:25: "Porque convém que reine até que haja posto a todos os inimigos debaixo de seus pés." Este verso se refere ao Salmo 110:1, que apresenta Cristo como rei e mostra sua soberania sobre todos os inimigos.
+* Efésios 1:20-22: "Que manifestou em Cristo, ressuscitando-o dentre os mortos, e pondo-o à sua direita nos céus, acima de todo o principado, e poder, e potestade, e domínio, e de todo o nome que se nomeia, não só neste século, mas também no vindouro; E sujeitou todas as coisas a seus pés, e sobre todas as coisas o constituiu como cabeça da igreja." Esses versículos mostram como Cristo está acima de todos os principados e poderes e como ele foi exaltado à direita de Deus, de acordo com o Salmo 110:1.
+* Atos 2:34-35: "Porque Davi não subiu aos céus, mas ele próprio diz: Disse o Senhor ao meu Senhor: Assenta-te à minha direita, até que ponha os teus inimigos por escabelo de teus pés." Pedro cita o Salmo 110:1 para mostrar que Davi não estava se referindo a si mesmo, mas a Cristo, que foi exaltado à direita de Deus.
+****
+
+[[v21-110-1]]
+
+^<<v21-110-1,1>>^ Aleluia. Louvarei o Senhor com todo o meu coração, na reunião dos justos e na assembleia. (ver nota)
+
+[[v21-110-2]]
+
+^<<v21-110-2,2>>^ Grandes são as obras do Senhor, dignas de estudo para todos os que as amam.
+
+[[v21-110-3]]
+
+^<<v21-110-3,3>>^ A sua obra é majestade e magnificência; a sua justiça permanece para sempre:
+
+[[v21-110-4]]
+
+^<<v21-110-4,4>>^ Instituiu um memorial das suas maravilhas; o Senhor é misericordioso e compassivo.
+
+[[v21-110-5]]
+
+^<<v21-110-5,5>>^ Deu alimento aos que o temem; lembrar-se-á eternamente da sua aliança.
+
+[[v21-110-6]]
+
+^<<v21-110-6,6>>^ Manifestou ao seu povo o poder das suas obras, dando-lhe a herança das nações.
+
+[[v21-110-7]]
+
+^<<v21-110-7,7>>^ As obras das suas mãos são rectas e justas; todos os seus preceitos são imutáveis,
+
+[[v21-110-8]]
+
+^<<v21-110-8,8>>^ estáveis pelos séculos, para sempre, dados com firmeza e equidade.
+
+[[v21-110-9]]
+
+^<<v21-110-9,9>>^ Enviou a redenção ao seu povo; estabeleceu para sempre a sua aliança; santo e venerável é o seu nome.
+
+[[v21-110-10]]
+
+^<<v21-110-10,10>>^ O temor do Senhor é o princípio da sabedoria: procedem com prudência todos os quê o adoram; o seu louvor permanece para sempre.
+
+'''
+
+xref:021-salmos/021-salmos-109.adoc#v21-109-0[&#60; Capítulo Anterior] | <<v21-110-0,Topo>> | xref:021-salmos/021-salmos-111.adoc#v21-111-0[Próximo Capítulo &#62;]

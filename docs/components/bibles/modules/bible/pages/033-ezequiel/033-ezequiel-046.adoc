@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v33-46-0]]
+=== Ezequiel, 46
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 46 de Ezequiel descreve as leis e regulamentos relacionados à adoração no templo que será reconstruído no futuro. As instruções detalhadas incluem as portas que devem ser abertas e fechadas, quando as ofertas devem ser apresentadas e as atividades dos príncipes. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* 1 Crônicas 23:30 - "Eles deviam ficar em pé todas as manhãs para agradecer e louvar ao Senhor. E faziam o mesmo à tarde." Esta passagem descreve a adoração diária que ocorria no templo, semelhante às instruções detalhadas em Ezequiel 46.
+* Levítico 19:30 - "Guardem os meus sábados e reverenciem o meu santuário. Eu sou o Senhor." Esta passagem enfatiza a importância de guardar o sábado e reverenciar o santuário de Deus, princípios que são destacados em Ezequiel 46.
+* Êxodo 29:38-39 - "Eis o que terão de oferecer regularmente no altar: dois cordeiros de um ano, um pela manhã e outro ao entardecer. Com o primeiro cordeiro, ofereçam também dois litros de farinha misturada com um litro de azeite de oliva, e uma oferta de bebida de dois litros de vinho." Esta passagem fala sobre as ofertas que eram apresentadas regularmente no altar do templo, um tema que é abordado em Ezequiel 46.
+* 2 Crônicas 33:15-16 - "E removeu os deuses estrangeiros e o ídolo do templo do Senhor, e todos os altares que tinha construído no monte do templo. Depois reparou o altar do Senhor e ofereceu sacrifícios de paz e de ação de graças." Esta passagem descreve a restauração da adoração no templo de Jerusalém, semelhante ao que é descrito em Ezequiel 46.
+* Malaquias 1:14 - "Maldito seja o enganador que, tendo um macho em seu rebanho, faz um voto e depois oferece ao Senhor um animal defeituoso! Pois eu sou o grande Rei, diz o Senhor dos Exércitos, e o meu nome é temido entre as nações." Esta passagem enfatiza a importância de oferecer a Deus sacrifícios de qualidade e apropriados, um princípio que é destacado em Ezequiel 46.
+****
+
+[[v33-46-1]]
+
+^<<v33-46-1,1>>^ Assim fala o Senhor Deus: O pórtico do átrio interior, que olha para o oriente, estará fechado durante os seis dias de trabalho, mas abrir-se-á no dia de sábado, assim como no primeiro dia de cada mês.
+
+[[v33-46-2]]
+
+^<<v33-46-2,2>>^ O príncipe, vindo de fora para o vestíbulo do pórtico, parará no limiar da porta; os sacerdotes oferecerão então o holocausto e os sacrifícios pacíficos; ele fará adoração sobre o limiar do pórtico e depois sairá; porém o pórtico não se fechará até à tarde.
+
+[[v33-46-3]]
+
+^<<v33-46-3,3>>^ O povo do país fará sua adoração à entrada deste pórtico, nos sábados e nos primeiros dias de cada mês, diante do Senhor.
+
+[[v33-46-4]]
+
+^<<v33-46-4,4>>^ O príncipe oferecerá ao Senhor este holocausto: No dia de sábado, seis cordeiros sem defeito, um carneiro também sem defeito,
+
+[[v33-46-5]]
+
+^<<v33-46-5,5>>^ e a oblação dum efa (de farinha) com o carneiro; com os cordeiros, fará a oblação que quiser, juntando um hin de azeite por cada efa.
+
+[[v33-46-6]]
+
+^<<v33-46-6,6>>^ No primeiro dia de cada mês (oferecerá) um novilho sem defeito, e seis cordeiros e seis carneiros igualmente sem defeito.
+
+[[v33-46-7]]
+
+^<<v33-46-7,7>>^ Fará a oblação dum efa (de farinha) com o novilho, e (também) dum efa com cada carneiro; juntando por cada cordeiro a oblação que quiser, juntando um hin de azeite por cada efa.
+
+[[v33-46-8]]
+
+^<<v33-46-8,8>>^ Quando o príncipe houver de entrar, entre pelo vestíbulo do pórtico e saia pelo mesmo caminho.
+
+[[v33-46-9]]
+
+^<<v33-46-9,9>>^ Quando o povo da terra entrar, para se pôr na presença do Senhor nos dias solenes, aquele que entrar pelo pórtico do aquilão para adorar, saia pelo pórtico do meio-dia; aquele que entrar pelo pórtico do meio-dia, saia pelo pórtico do aquilão. Ninguém voltará pela porta por que entrou, mas sairá pela que lhe é oposta.
+
+[[v33-46-10]]
+
+^<<v33-46-10,10>>^ O príncipe estará também no meio deles, entrará como os que entram e sairá como os que saem.
+
+[[v33-46-11]]
+
+^<<v33-46-11,11>>^ Nos dias de festa e nas solenidades, far-se-á a oblação de um efa (de farinha) com cada novilho, de um efa com cada carneiro; com os cordeiros, porém, oferecerá cada um o que quiser. juntando um hin de azeite a cada efa.
+
+[[v33-46-12]]
+
+^<<v33-46-12,12>>^ Quando o príncipe oferecer ao Senhor um holocausto voluntário, ou sacrifícios pacíficos voluntários, abrir-se-lhe-á o pórtico que olha para o oriente, e ele oferecerá o seu holocausto e os seus sacrifícios pacíficos, como o faz no dia de sábado; em seguida sairá; fechar-se -á o pórtico, depois que tiver saldo.
+
+[[v33-46-13]]
+
+^<<v33-46-13,13>>^ Oferecerá todos os dias em holocausto ao Senhor um cordeiro dum ano, sem defeito; oferecê-lo-á sempre de manhã.
+
+[[v33-46-14]]
+
+^<<v33-46-14,14>>^ Todas as manhãs dará como oblação com este cordeiro a sexta parte dum efa (de farinha) e a terça parte dum hin de azeite, para ser misturado com a farinha; esta é a oblação a fazer ao Senhor lei perpétua, para sempre.
+
+[[v33-46-15]]
+
+^<<v33-46-15,15>>^ Oferecer-se-á o cordeiro, a oblação (da farinha) e o azeite, todas as manhãs como holocausto perpétuo.
+
+[[v33-46-16]]
+
+^<<v33-46-16,16>>^ Isto diz O Senhor Deus: Se o principe fizer qualquer doação a algum de seus filhos, passará para seus filhos, os quais a possuirão como bem de herança.
+
+[[v33-46-17]]
+
+^<<v33-46-17,17>>^ Porém, se ele oferecer um dom da sua própria fazenda a um dos seus servos, pertencer-lhe-á até o ano do jubileu, e então voltará para o príncipe. Apenas a seus filhos pertencerá o que lhe foi dado, como herança.
+
+[[v33-46-18]]
+
+^<<v33-46-18,18>>^ O príncipe não tomará nada por violência da herança do povo. despojando quem quer que seja dos seus bens, mas dará da sua fazenda própria o patrimônio a seus filhos, a fim de que ninguém do meu povo seja esbulhado da sua propriedade.
+
+[[v33-46-19]]
+
+^<<v33-46-19,19>>^ Depois introduziu-me por uma entrada, que estava ao lado do pórtico, nas câmaras do santuário, destinadas aos sacerdotes, as quais olhavam para o norte; ali havia um lugar voltado para o ocidente.
+
+[[v33-46-20]]
+
+^<<v33-46-20,20>>^ Então disse-me ele: Este é o lugar em que os sacerdotes cozerão as vítimas pelo pecado e pelo delito, onde cozerão as oblações. a fim de que as não levem ao átrio exterior, e (aconteça que) fique o povo santificado. (ver nota)
+
+[[v33-46-21]]
+
+^<<v33-46-21,21>>^ Depois fez-me sair para o átrio exterior e levou-me à roda pelos quatro cantos do átrio; em cada um dos quatro cantos deste átrio havia um recinto.
+
+[[v33-46-22]]
+
+^<<v33-46-22,22>>^ Estes recintos pequenos, assim dispostos pelos quatro cantos do átrio, tinham quarenta côvados de comprido e trinta de largo; todos os quatro tinham a mesma medida.
+
+[[v33-46-23]]
+
+^<<v33-46-23,23>>^ Uma parede ao redor cercava estes quatro pequenos recintos; viam-se também cozinhas edificadas ao fundo da parede, em toda a volta.
+
+[[v33-46-24]]
+
+^<<v33-46-24,24>>^ E disse-me: Estas são as cozinhas nas quais os ministros da casa do Senhor cozerão as vitimas oferecidas pelo povo.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-045.adoc#v33-45-0[&#60; Capítulo Anterior] | <<v33-46-0,Topo>> | xref:033-ezequiel/033-ezequiel-047.adoc#v33-47-0[Próximo Capítulo &#62;]

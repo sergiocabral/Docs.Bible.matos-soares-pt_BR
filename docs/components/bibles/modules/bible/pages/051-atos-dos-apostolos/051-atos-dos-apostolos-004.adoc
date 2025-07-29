@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v51-4-0]]
+=== Atos dos Apóstolos, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Atos dos Apóstolos narra a prisão de Pedro e João após eles realizarem um milagre e pregarem sobre Jesus na praça do templo. Eles são levados perante o Sinédrio, a mais alta corte judaica, e interrogados sobre sua autoridade e ensinamentos. Os líderes religiosos ficam perplexos com a coragem e sabedoria de Pedro e João e, depois de ameaçá-los, os libertam. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* João 14:6: "Jesus respondeu: 'Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim.'" Pedro e João foram presos por pregar sobre Jesus, que afirmava ser o caminho para a salvação e a vida eterna. Esse versículo reforça a mensagem que eles estavam compartilhando.
+* Atos dos Apóstolos 4:12: "Não há salvação em nenhum outro, pois, debaixo do céu não há nenhum outro nome dado aos homens pelo qual devamos ser salvos". Pedro declara isso quando questionado pelo Sinédrio sobre a cura que realizaram em nome de Jesus. Ele afirma que Jesus é o único meio de salvação.
+* Atos dos Apóstolos 4:19-20: "Porém, Pedro e João responderam: 'Julguem vocês mesmos se é certo aos olhos de Deus obedecer a vocês mais do que a ele. Pois não podemos deixar de falar do que vimos e ouvimos'". Mesmo diante da ameaça de prisão e perseguição, Pedro e João se recusam a parar de pregar sobre Jesus e a verdade que testemunharam.
+* 2 Timóteo 1:7: "Pois Deus não nos deu espírito de covardia, mas de poder, de amor e de equilíbrio". A coragem de Pedro e João diante da perseguição reflete a força que Deus dá aos seus seguidores. Eles não se envergonham do evangelho e não se deixam intimidar pelos líderes religiosos.
+* Atos dos Apóstolos 4:31: "Depois de orarem, tremeu o lugar em que estavam reunidos; todos ficaram cheios do Espírito Santo e anunciavam corajosamente a palavra de Deus". Depois de serem libertados, Pedro e João se unem aos outros discípulos e oram juntos. Esse versículo mostra que a oração e a comunhão com outros crentes são importantes para fortalecer a fé e a coragem de enfrentar a perseguição.
+****
+
+[[v51-4-1]]
+
+^<<v51-4-1,1>>^ Enquanto eles falavam ao povo, sobrevieram os sacerdotes, o oficial do templo e os saduceus,
+
+[[v51-4-2]]
+
+^<<v51-4-2,2>>^ descontentes de que eles ensinassem o povo, e anunciassem, na pessoa de Jesus, a ressurreição dos mortos,
+
+[[v51-4-3]]
+
+^<<v51-4-3,3>>^ Lançaram mão deles e meteram-nos na prisão até ao outro dia, porque era já tarde.
+
+[[v51-4-4]]
+
+^<<v51-4-4,4>>^ Porém, muitos daqueles que tinham ouvido a palavra, creram, e o número de homens elevou-se a cerca de cinco mil.
+
+[[v51-4-5]]
+
+^<<v51-4-5,5>>^ Aconteceu que, no dia seguinte, se reuniram os seus chefes, os anciães e os escribas de Jerusalém,
+
+[[v51-4-6]]
+
+^<<v51-4-6,6>>^ e Anás, príncipe dos sacerdotes, Caifás, João, Alexandre e todos os que eram da linhagem pontifical.
+
+[[v51-4-7]]
+
+^<<v51-4-7,7>>^ Mandando-os vir à sua presença, interrogavam-nos: "Com que poder e em nome de quem fizeste isto?"
+
+[[v51-4-8]]
+
+^<<v51-4-8,8>>^ Então Pedro, cheio do Espírito Santo, disse-lhes: "Príncipes do povo e anciães, ouvi-me:
+
+[[v51-4-9]]
+
+^<<v51-4-9,9>>^ Já que hoje somos interrogados sobre um benefício feito a um homem enfermo, (para saber) de que modo este homem foi curado,
+
+[[v51-4-10]]
+
+^<<v51-4-10,10>>^ seja notório a todos vós e a todo o povo de Israel, que é em nome de Jesus Cristo Nazareno, que vós crucificastes, e a quem Deus ressuscitou dos mortos, é por ele que este está são diante de vós.
+
+[[v51-4-11]]
+
+^<<v51-4-11,11>>^ Ele é a pedra que foi rejeitada por vós que edificais, a qual foi posta por pedra angular (Ps. 117, 22).
+
+[[v51-4-12]]
+
+^<<v51-4-12,12>>^ Não há salvação em nenhum outro, porque, sob o céu, nenhum outro nome foi dado aos homens, pelo qual devamos ser salvos."
+
+[[v51-4-13]]
+
+^<<v51-4-13,13>>^ Vendo eles a firmeza de Pedro e de João, sabendo que eram homens sem letras e do povo, admiravam-se e reconheciam ser os que andavam com Jesus;
+
+[[v51-4-14]]
+
+^<<v51-4-14,14>>^ e vendo também em pé junto deles o homem que tinha sido curado, não podiam dizer nada em contrário.
+
+[[v51-4-15]]
+
+^<<v51-4-15,15>>^ Mandaram, pois, que saíssem para fora da assembleia e deliberaram entre si,
+
+[[v51-4-16]]
+
+^<<v51-4-16,16>>^ dizendo: "Que faremos destes homens? Porquanto foi feito por eles um grande milagre, notório a todos os habitantes de Jerusalém; é manifesto, e não o podemos negar.
+
+[[v51-4-17]]
+
+^<<v51-4-17,17>>^ Mas para que não se divulgue mais entre o povo, proibamos-lhes com graves ameaças que, para o futuro, não falem mais a homem algum neste nome."
+
+[[v51-4-18]]
+
+^<<v51-4-18,18>>^ Chamando-os, intimaram-lhes que absolutamente não falassem mais, nem ensinassem em nome de Jesus.
+
+[[v51-4-19]]
+
+^<<v51-4-19,19>>^ Mas Pedro e João replicaram-lhes: "Se é justo diante de Deus obedecer antes a vós que a Deus, julgai-o vós mesmos;
+
+[[v51-4-20]]
+
+^<<v51-4-20,20>>^ não podemos, pois, deixar de falar das coisas que vimos e ouvimos."
+
+[[v51-4-21]]
+
+^<<v51-4-21,21>>^ Eles então, ameaçando-os novamente, deixaram-nos ir livres, não encontrando pretexto para os castigar, por causa do povo, porque todos glorificavam a Deus pelo que tinha acontecido.
+
+[[v51-4-22]]
+
+^<<v51-4-22,22>>^ Já tinha mais de quarenta anos o homem, em quem tinha sido operada aquela cura miraculosa.
+
+[[v51-4-23]]
+
+^<<v51-4-23,23>>^ Postos com liberdade, foram ter com os seus, e referiram-lhes quanto lhes tinham dito os príncipes dos sacerdotes e os anciães.
+
+[[v51-4-24]]
+
+^<<v51-4-24,24>>^ Eles, tendo-os ouvido, levantaram unânimes a voz a Deus e disseram: "Senhor, tu és o Deus que fizeste o céu, a terra, o mar e tudo o que há neles (Ps. 146, 6) ;
+
+[[v51-4-25]]
+
+^<<v51-4-25,25>>^ que, mediante o Espirito Santo, pela boca do nosso pai David, teu servo, disseste: Por que se agitaram as gentes, e os povos fizeram vãos projectos?
+
+[[v51-4-26]]
+
+^<<v51-4-26,26>>^ Concertaram-se os reis da terra, e os príncipes se coligaram contra o Senhor e contra o seu Cristo (Ps. 2, 1-2).
+
+[[v51-4-27]]
+
+^<<v51-4-27,27>>^ Porque verdadeiramente se coligaram nesta cidade contra o teu santo servidor Jesus, ao qual ungiste, Herodes e Pôncio Pilatos, com os gentios e com os povos de Israel,
+
+[[v51-4-28]]
+
+^<<v51-4-28,28>>^ para executarem o que a tua mão e a tua sabedoria determinaram que se fizesse.
+
+[[v51-4-29]]
+
+^<<v51-4-29,29>>^ Agora, Senhor, olha para as suas ameaças, e concede aos teus servos que, com toda a confiança, anunciem a tua palavra,
+
+[[v51-4-30]]
+
+^<<v51-4-30,30>>^ estendendo a tua mão para que se façam curas, milagres e prodígios por meio do nome do teu santo servidor Jesus."
+
+[[v51-4-31]]
+
+^<<v51-4-31,31>>^ Tendo eles assim orado, tremeu o lugar onde estavam reunidos; ficaram todos cheios do Espírito Santo e anunciavam com firmeza a palavra de Deus.
+
+[[v51-4-32]]
+
+^<<v51-4-32,32>>^ A multidão dos que criam tinha um só coração e uma só alma, e nenhum dizia ser sua coisa alguma daquelas que possuía, mas tudo entre eles era comum.
+
+[[v51-4-33]]
+
+^<<v51-4-33,33>>^ Os Apóstolos, com grande coragem, davam testemunho da ressurreição do Senhor Jesus, e era grande em todos eles a graça (de Deus).
+
+[[v51-4-34]]
+
+^<<v51-4-34,34>>^ Não havia nenhum necessitado entre eles, porque todos os que possuíam campos ou casas, vendendo-os, traziam o preço do que vendiam
+
+[[v51-4-35]]
+
+^<<v51-4-35,35>>^ e depunham-no aos pés dos Apóstolos; e distribuía-se por cada um segundo a sua necessidade.
+
+[[v51-4-36]]
+
+^<<v51-4-36,36>>^ Ora José, a quem os Apóstolos davam o sobrenome de Barnabé (que quer dizer Filho de consolação), levita, natural de Chipre,
+
+[[v51-4-37]]
+
+^<<v51-4-37,37>>^ tendo um campo, vendeu-o, levou o preço e o depôs aos pés dos Apóstolos.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-003.adoc#v51-3-0[&#60; Capítulo Anterior] | <<v51-4-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-005.adoc#v51-5-0[Próximo Capítulo &#62;]

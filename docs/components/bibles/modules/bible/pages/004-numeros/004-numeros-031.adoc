@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v4-31-0]]
+=== Números, 31
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 31 de Números narra a vitória dos israelitas sobre os midianitas e a captura de seu povo, animais e despojos. Alguns temas presentes neste capítulo são guerra, vitória, despojo de guerra e dedicação ao Senhor.
+* Deuteronômio 20:4 - "Pois o Senhor, o seu Deus, os acompanha e lutará por vocês contra os seus inimigos, para dar-lhes a vitória". Este versículo fala sobre como Deus luta junto com seu povo e lhes dá a vitória, um tema importante em Números 31.
+* Josué 6:19 - "Tudo o que é de prata, ouro, bronze ou ferro é consagrado ao Senhor e deve ir para o tesouro do Senhor". Após a vitória na guerra, os israelitas ficaram com o despojo de guerra, mas este versículo ensina que tudo que é capturado deve ser consagrado ao Senhor, algo que também ocorreu em Números 31.
+* Salmo 68:12 - "O Senhor dá a ordem e muitos anunciam boas novas". Este versículo destaca a autoridade de Deus e como ele dá as ordens para suas batalhas. Em Números 31, Deus ordena que Israel lute contra os midianitas.
+* 2 Crônicas 20:25 - "Josafá e seu exército foram para saquear os despojos dos mortos. E encontraram muito mais do que podiam carregar". Este versículo descreve como o exército de Josafá encontrou muitos despojos de guerra e não podiam carregá-los todos. Em Números 31, os israelitas também capturaram muitos despojos de guerra.
+* 1 Samuel 15:3 - "Vá agora, ataque os amalequitas e destrua tudo o que lhes pertence. Não poupe nada; mate homens, mulheres, crianças e recém-nascidos, bois, ovelhas, camelos e jumentos". Este versículo mostra como Deus ordenou que os amalequitas fossem completamente destruídos, sem deixar nada. Em Números 31, os israelitas foram ordenados a matar todos os homens midianitas e as mulheres que haviam tido relações sexuais, bem como a destruir seus bens.
+****
+
+[[v4-31-1]]
+
+^<<v4-31-1,1>>^ O Senhor falou a Moisés, dizendo;
+
+[[v4-31-2]]
+
+^<<v4-31-2,2>>^ Vinga primeiro os filhos de Israel dos Madianitas, e depois serás unido ao teu povo. (ver nota)
+
+[[v4-31-3]]
+
+^<<v4-31-3,3>>^ Moisés disse logo: Armem-se para a batalha alguns homens de entre vós, que possam executar a vingança do Senhor sobre os Madianitas.
+
+[[v4-31-4]]
+
+^<<v4-31-4,4>>^ Escolham-se mil homens de cada tribo de Israel, para serem mandados a esta guerra.
+
+[[v4-31-5]]
+
+^<<v4-31-5,5>>^ Eles deram mil homens por cada tribo, isto é, doze mil homens prontos a combater,
+
+[[v4-31-6]]
+
+^<<v4-31-6,6>>^ os quais Moisés enviou com Fineias, filho do sacerdote Eleázaro, que levou também os vasos santos e as trombetas para tocar.
+
+[[v4-31-7]]
+
+^<<v4-31-7,7>>^ Tendo pelejado contra os Madianitas e tendo-os vencido, mataram todos os varões,
+
+[[v4-31-8]]
+
+^<<v4-31-8,8>>^ e os seus reis Evi, Recem, Sur, Hur e Rebe, cinco reis de Madian; mataram também com a espada a Balaão, filho de Beor.
+
+[[v4-31-9]]
+
+^<<v4-31-9,9>>^ Tomaram as suas mulheres, os seus filhinhos, todos os seus gados, todos os seus bens.
+
+[[v4-31-10]]
+
+^<<v4-31-10,10>>^ Incendiaram as cidades e as aldeias em que eles habitavam, assim como os seus acampamentos.
+
+[[v4-31-11]]
+
+^<<v4-31-11,11>>^ E levaram a presa, tudo o que tinham tomado, tanto de homens como de animais,
+
+[[v4-31-12]]
+
+^<<v4-31-12,12>>^ e apresentaram-no a Moisés, ao sacerdote Eleázaro, e a toda a multidão dos filhos de Israel; tudo o mais que podia servir-lhes levaram-no aos acampamentos nas planícies de Moab, junto do Jordão defronte de Jericó.
+
+[[v4-31-13]]
+
+^<<v4-31-13,13>>^ Saíram a recebê-los fora dos acampamentos Moisés e o sacerdote Eleázaro, e todos os príncipes da sinagoga.
+
+[[v4-31-14]]
+
+^<<v4-31-14,14>>^ Moisés, irado contra os chefes do exército, contra os tribunos e centuriões, que voltavam da batalha, (ver nota)
+
+[[v4-31-15]]
+
+^<<v4-31-15,15>>^ disse: Por que poupastes as mulheres?
+
+[[v4-31-16]]
+
+^<<v4-31-16,16>>^ Não são elas que, por sugestão de Balaão, seduziram os filhos de Israel, e vos fizeram prevaricar contra o Senhor com o pecado de Fogor, pelo qual também o povo foi castigado?
+
+[[v4-31-17]]
+
+^<<v4-31-17,17>>^ Matai, pois, todos os varões, mesmo os de tenra idade, e degolai as mulheres que tiveram comércio com homens; (ver nota)
+
+[[v4-31-18]]
+
+^<<v4-31-18,18>>^ reservai para vós as donzelas e todas as mulheres virgens. (ver nota)
+
+[[v4-31-19]]
+
+^<<v4-31-19,19>>^ Permanecei fora dos acampamentos sete dias. Quem tiver morto um homem, ou tocado um morto, purificar-se-á no dia terceiro e no sétimo.
+
+[[v4-31-20]]
+
+^<<v4-31-20,20>>^ Purificar-se-á também da presa toda a veste ou vaso, e todo o objecto feito de pele de cabra, ou de pelos, ou de madeira.
+
+[[v4-31-21]]
+
+^<<v4-31-21,21>>^ O sacerdote Eleázaro também falou assim aos soldados, que tinham pelejado: Este é o preceito da lei, que o Senhor deu a Moisés:
+
+[[v4-31-22]]
+
+^<<v4-31-22,22>>^ O ouro, a prata, o cobre, o ferro, o chumbo, o estanho,
+
+[[v4-31-23]]
+
+^<<v4-31-23,23>>^ e tudo o que pode passar pelas chamas, será purificado no fogo; porém tudo o que não pode sofrer o fogo, será purificado com água da expiação;
+
+[[v4-31-24]]
+
+^<<v4-31-24,24>>^ lavareis as vossas vestes no sétimo dia, e, depois de purificados, entrareis nos acampamentos.
+
+[[v4-31-25]]
+
+^<<v4-31-25,25>>^ O Senhor disse a Moisés:
+
+[[v4-31-26]]
+
+^<<v4-31-26,26>>^ Fazei o inventário de tudo o que foi tomado, desde os homens até aos animais, tu e o sacerdote Eleázaro e os príncipes do povo.
+
+[[v4-31-27]]
+
+^<<v4-31-27,27>>^ Repartirás a presa em partes iguais entre os que pelejaram e saíram à batalha, e entre todo o resto da multidão.
+
+[[v4-31-28]]
+
+^<<v4-31-28,28>>^ Daqueles que pelejaram e foram à guerra, separarás uma parte para o Senhor: de cada quinhentos uma cabeça, assim de homens como de bois, asnos e ovelhas,
+
+[[v4-31-29]]
+
+^<<v4-31-29,29>>^ e darás ao sacerdote Eleázaro, porque são as primícias do Senhor.
+
+[[v4-31-30]]
+
+^<<v4-31-30,30>>^ Da outra metade (da presa), que pertence aos filhos de Israel, de cada cinquenta homens, ou bois, ou asnos, ou ovelhas, ou outros quaisquer animais, tomarás um, e darás aos Levitas, que têm a guarda do tabernáculo do Senhor.
+
+[[v4-31-31]]
+
+^<<v4-31-31,31>>^ Moisés e Eleázaro fizeram como o Senhor tinha mandado.
+
+[[v4-31-32]]
+
+^<<v4-31-32,32>>^ Ora a presa que o exército tinha tomado foi de seiscentas e setenta e cinco mil ovelhas,
+
+[[v4-31-33]]
+
+^<<v4-31-33,33>>^ setenta e dois mil bois,
+
+[[v4-31-34]]
+
+^<<v4-31-34,34>>^ sessenta e um mil asnos,
+
+[[v4-31-35]]
+
+^<<v4-31-35,35>>^ trinta e duas mil pessoas do sexo feminino, que não tinham conhecido homem.
+
+[[v4-31-36]]
+
+^<<v4-31-36,36>>^ Foi dada metade aos que tinham ido ao combate: trezentas e trinta e sete mil e quinhentas ovelhas,
+
+[[v4-31-37]]
+
+^<<v4-31-37,37>>^ dás quais se puseram à parte para o Senhor seiscentas e setenta e cinco ovelhas.
+
+[[v4-31-38]]
+
+^<<v4-31-38,38>>^ Dos trinta e seis mil bois, (puseram-se à parte) setenta e dois;
+
+[[v4-31-39]]
+
+^<<v4-31-39,39>>^ dos trinta mil e quinhentos asnos, sessenta e um.
+
+[[v4-31-40]]
+
+^<<v4-31-40,40>>^ Das dezasseis mil pessoas, foram reservadas trinta e duas para o Senhor.
+
+[[v4-31-41]]
+
+^<<v4-31-41,41>>^ Moisés entregou ao sacerdote Eleázaro a conta das primícias do Senhor, como lhe tinha sido mandado,
+
+[[v4-31-42]]
+
+^<<v4-31-42,42>>^ (tomada) daquela metade que tinha sido separada para os filhos de Israel que tinham estado no combate.
+
+[[v4-31-43]]
+
+^<<v4-31-43,43>>^ Da outra metade, que tinha tocado ao resto da multidão, isto é, das trezentas e trinta e sete mil e quinhentas ovelhas,
+
+[[v4-31-44]]
+
+^<<v4-31-44,44>>^ dos trinta e seis mil bois,
+
+[[v4-31-45]]
+
+^<<v4-31-45,45>>^ dos trinta mil e quinhentos asnos,
+
+[[v4-31-46]]
+
+^<<v4-31-46,46>>^ das dezasseis mil pessoas,
+
+[[v4-31-47]]
+
+^<<v4-31-47,47>>^ Moisés tirou uma cabeça por cada cinquenta, e deu-as aos Levitas que velavam no tabernáculo do Senhor, como o Senhor tinha ordenado.
+
+[[v4-31-48]]
+
+^<<v4-31-48,48>>^ Os chefes do exército, os chefes dos milhares e os chefes das centenas, tendo-se aproximado de Moisés, disseram:
+
+[[v4-31-49]]
+
+^<<v4-31-49,49>>^ Nós, teus servos, fizemos a resenha dos combatentes, que comandávamos, e nem um faltou.
+
+[[v4-31-50]]
+
+^<<v4-31-50,50>>^ Por esta causa cada um de nós oferece por donativo ao Senhor o ouro que pudemos achar na presa, ligas, braceletes, anéis, arrecadas e colares, para que rogues por nós ao Senhor
+
+[[v4-31-51]]
+
+^<<v4-31-51,51>>^ Moisés e o sacerdote Eleázaro receberam todo o ouro em diversas espécies,
+
+[[v4-31-52]]
+
+^<<v4-31-52,52>>^ com o peso de dezasseis mil e setecentos e cinquenta siclos, (oferecido) pelos chefes dos milhares e das centenas,
+
+[[v4-31-53]]
+
+^<<v4-31-53,53>>^ porque o que cada um tinha tomado no saque, era seu.
+
+[[v4-31-54]]
+
+^<<v4-31-54,54>>^ E receberam-no e puseram-no no tabernáculo da reunião, como memória dos filhos de Israel diante do Senhor.
+
+'''
+
+xref:004-numeros/004-numeros-030.adoc#v4-30-0[&#60; Capítulo Anterior] | <<v4-31-0,Topo>> | xref:004-numeros/004-numeros-032.adoc#v4-32-0[Próximo Capítulo &#62;]

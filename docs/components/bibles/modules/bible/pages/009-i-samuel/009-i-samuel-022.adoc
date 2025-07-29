@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v9-22-0]]
+=== I Samuel, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 22 narra a fuga de Davi para Adulão, onde ele se encontra com outros descontentes e oprimidos que se juntam a ele. O capítulo também destaca a traição de Doeg, o edomita, que informa a Saul sobre a presença de Davi e seus seguidores em Adulão, resultando em um massacre. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Samuel 22:
+* Salmos 57:1 - "Tem misericórdia de mim, ó Deus, tem misericórdia de mim, porque a minha alma confia em ti; e à sombra das tuas asas me abrigo, até que passem as calamidades." Este salmo foi escrito por Davi durante sua fuga de Saul, e demonstra sua confiança em Deus para protegê-lo durante esse tempo de perigo e aflição.
+* Provérbios 18:10 - "O nome do Senhor é uma torre forte; os justos correm para ela e estão seguros." Esse versículo destaca a segurança que vem ao confiar no nome do Senhor e buscar refúgio nele.
+* João 15:18-19 - "Se o mundo vos odeia, sabei que, primeiro do que a vós, me odiou a mim. Se vós fôsseis do mundo, o mundo amaria o que era seu, mas porque não sois do mundo, antes eu vos escolhi do mundo, por isso é que o mundo vos odeia." Jesus falou essas palavras para seus discípulos, e elas se aplicam a Davi e seus seguidores, que foram perseguidos e odiados por Saul e seus homens.
+* Mateus 10:23 - "Quando, pois, vos perseguirem nesta cidade, fugi para outra; porque em verdade vos digo que não acabareis de percorrer as cidades de Israel antes que venha o Filho do homem." Essas palavras de Jesus instruem seus discípulos a fugir e se refugiar em outro lugar quando são perseguidos, o que é exatamente o que Davi e seus seguidores fizeram ao fugir para Adulão.
+* Hebreus 13:5-6 - "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele mesmo disse: Não te deixarei, nem te desampararei. E assim com confiança ousemos dizer: O Senhor é o meu ajudador, e não temerei o que me possa fazer o homem." Esses versículos encorajam os crentes a não cederem à ganância e a confiarem no Senhor como seu ajudador e protetor, assim como Davi fez durante sua fuga de Saul.
+****
+
+[[v9-22-1]]
+
+^<<v9-22-1,1>>^ Davide partiu dali e fugiu para a cova de Odolão. Tendo sabido isto os seus Irmãos e toda a casa de seu pai, foram lá ter com ele.
+
+[[v9-22-2]]
+
+^<<v9-22-2,2>>^ Todos os que se viam em aperto e se encontravam oprimidos de dívidas e de desgostos, juntaram-se a ele, e (Davide) tornou-se seu chefe. Estiveram com ele cerca, de quatrocentos homens.
+
+[[v9-22-3]]
+
+^<<v9-22-3,3>>^ Dali Davide foi para Masfa, que está (na terra) de Moab, e disse ao rei de Moab: Peço-te que meu pai e minha mãe fiquem convosco, até eu saber o que o Senhor fará de mim.
+
+[[v9-22-4]]
+
+^<<v9-22-4,4>>^ E deixou-os junto do rei de Moab, com quem ficaram durante todo o tempo que Davide esteve na fortaleza.
+
+[[v9-22-5]]
+
+^<<v9-22-5,5>>^ O profeta Gad disse a Davide: Não fiques nesta fortaleza: parte e vai para terra de Judá. Davide partiu e foi para o bosque de Haret.
+
+[[v9-22-6]]
+
+^<<v9-22-6,6>>^ Saul soube que Davide tinha aparecido com a gente que o acompanhava. Estando Saul em Gabaa, encontrando-se (um dia) num bosque, que há em Rama, tendo a lança na mão e estando rodeado de todos os seus servos,
+
+[[v9-22-7]]
+
+^<<v9-22-7,7>>^ disse para os seus servos, que lhe assistiam: Ouvi-me agora, filhos de Jeminl; porventura o filho de Isaí dará, a vós todos, campos e vinhas, e farvos-á a todos chefes de milhar e chefes de centena,
+
+[[v9-22-8]]
+
+^<<v9-22-8,8>>^ para que todos vós vos tenhais conjurado contra mim e não haja ninguém que me dê algum aviso de que meu filho fez aliança com o filho de Isaí? Não há entre vós quem se lastime da minha sorte, nem quem me avise de que meu filho sublevou contra mim um dos meus servos, que não cessa até ao dia de hoje de me armar traições.
+
+[[v9-22-9]]
+
+^<<v9-22-9,9>>^ Respondendo então Doeg, Idumeu, que estava presente e era o primeiro dos criados de Saul, disse: Eu vi o filho de Isaí em Nobe, em casa do sacerdote Aquimelec, filho de Aquitob,
+
+[[v9-22-10]]
+
+^<<v9-22-10,10>>^ o qual consultou o Senhor por ele, e lhe deu víveres, entregando-lhe também a espada do Filisteu Golias.
+
+[[v9-22-11]]
+
+^<<v9-22-11,11>>^ Mandou o rei chamar o sacerdote Aquimelec, filho de Aquitob, e todos os sacerdotes da casa de seu pai, que estavam em Nobe, os quais se apresentaram ao rei.
+
+[[v9-22-12]]
+
+^<<v9-22-12,12>>^ Saul disse a Aquimelec: Ouve, filho de Aquitob. Ele respondeu: Aqui me tens, senhor.
+
+[[v9-22-13]]
+
+^<<v9-22-13,13>>^ Saul disse-lhe: Por que vos conjurastes contra mim, tu e o filho de Isaí, e lhe deste pães e uma espada, e consultaste a Deus por ele, para se levantar contra mim, armando-me traições até hoje?
+
+[[v9-22-14]]
+
+^<<v9-22-14,14>>^ Aquimelec, respondendo ao rei, disse: E quem há entre todos os teus servos (que te seja tão) leal como Davide, genro do rei, submisso às tuas ordens e respeitado na tua casa?
+
+[[v9-22-15]]
+
+^<<v9-22-15,15>>^ Porventura é de hoje que eu comecei a consultar a Deus por ele? Longe de mim tal coisa: não suspeite o rei semelhante coisa, nem de mim seu servo, nem de toda a casa de meu pai, porque o teu servo não soube, nesse particular (de conjuração), nem pouco nem muito. (ver nota)
+
+[[v9-22-16]]
+
+^<<v9-22-16,16>>^ O rei disse: Morrerás sem falta. Aquimelec, tu e toda a casa de teu pai.
+
+[[v9-22-17]]
+
+^<<v9-22-17,17>>^ E o rei disse para os guardas que o rodeavam: Voltai-vos e matai os sacerdotes do Senhor, porque a mão deles está com Davide: sabendo que ele tinha fugido, não me avisaram. Porém, os criados do rei não quiseram estender as suas mãos contra os sacerdotes do Senhor.
+
+[[v9-22-18]]
+
+^<<v9-22-18,18>>^ Então o rei disse a Doeg: Vai tu, e lança-te sobre os sacerdotes. Doeg, Idumeu, voltando-se, lançou-se sobre os sacerdotes e trucidou naquele dia oitenta e cinco homens, que estavam vestidos do éfode de linho.
+
+[[v9-22-19]]
+
+^<<v9-22-19,19>>^ Saul passou, também, ao fio da espada, Nobe, cidade sacerdotal, (matando) homens e mulheres, crianças e meninos de leite, bois, jumentos e ovelhas.
+
+[[v9-22-20]]
+
+^<<v9-22-20,20>>^ e participou-lhe que Saul tinha matado os sacerdotes do Senhor.
+
+[[v9-22-21]]
+
+^<<v9-22-21,21>>^ Davide disse a Abiatar: Eu logo vi, naquele dia, que, estando lá Doeg, Idumeu, certamente o havia de dizer a Saul: eu sou o culpado da morte de toda a casa de teu pai.
+
+[[v9-22-22]]
+
+^<<v9-22-22,22>>^ Fica comigo, não temas; se alguém buscar a minha vida, buscará também a tua; comigo estarás bem guardado.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-021.adoc#v9-21-0[&#60; Capítulo Anterior] | <<v9-22-0,Topo>> | xref:009-i-samuel/009-i-samuel-023.adoc#v9-23-0[Próximo Capítulo &#62;]

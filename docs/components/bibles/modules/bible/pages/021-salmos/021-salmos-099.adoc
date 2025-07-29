@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v21-99-0]]
+=== Salmos, 99
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 99 celebra a majestade e a santidade de Deus. O salmista proclama a Deus como Rei supremo, que é exaltado acima de todas as nações e que é digno de adoração e louvor. Ele também destaca a justiça de Deus e como Ele castiga o pecado e exalta a retidão. Abaixo estão cinco versículos que se relacionam com os temas deste Salmo:
+* Salmos 47:2: "Porque o Senhor Altíssimo é tremendo, é grande Rei sobre toda a terra." Este versículo destaca a grandeza de Deus como Rei sobre toda a terra, semelhante à descrição de Deus no Salmo 99.
+* Isaías 6:3: "E clamavam uns para os outros, dizendo: Santo, Santo, Santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória." Este versículo retrata a santidade de Deus, um tema importante no Salmo 99.
+* Salmos 97:2: "Nuvens e escuridão estão ao redor dele; justiça e juízo são a base do seu trono." Este versículo destaca a justiça de Deus, um tema proeminente no Salmo 99.
+* Êxodo 15:11: "Quem é como tu, ó Senhor, entre os deuses? Quem é como tu glorificado em santidade, terrível em louvores, operando maravilhas?" Este versículo reconhece a santidade de Deus, que é também um tema destacado no Salmo 99.
+* Salmos 48:1: "Grande é o Senhor e mui digno de louvor, na cidade do nosso Deus, no seu monte santo." Este versículo destaca a grandeza de Deus, um tema proeminente no Salmo 99, onde Ele é retratado como Rei supremo acima de todas as nações.
+****
+
+[[v21-99-1]]
+
+^<<v21-99-1,1>>^ Salmo. Para acção de graças. Aclamai o Senhor, todas as terras,
+
+[[v21-99-2]]
+
+^<<v21-99-2,2>>^ servi o Senhor com alegria, vinde à sua presença com alvoroço.
+
+[[v21-99-3]]
+
+^<<v21-99-3,3>>^ Sabei que o Senhor é Deus; ele nos fez, e somos seus, seu povo e ovelhas do seu pasto.
+
+[[v21-99-4]]
+
+^<<v21-99-4,4>>^ Transponde as suas portas com louvor, os seus átrios com hinos; exaltai-o, bendizei o seu nome.
+
+[[v21-99-5]]
+
+^<<v21-99-5,5>>^ Porque o Senhor é bom, a sua misericórdia é eterna, e a sua fidelidade permanece de geração em geração.
+
+'''
+
+xref:021-salmos/021-salmos-098.adoc#v21-98-0[&#60; Capítulo Anterior] | <<v21-99-0,Topo>> | xref:021-salmos/021-salmos-100.adoc#v21-100-0[Próximo Capítulo &#62;]

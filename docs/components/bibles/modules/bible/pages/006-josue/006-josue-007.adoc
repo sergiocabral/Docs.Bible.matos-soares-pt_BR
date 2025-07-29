@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v6-7-0]]
+=== Josué, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Josué 7 aborda o episódio em que Israel é derrotado pelos habitantes da cidade de Ai. Isso ocorre porque Acã, um dos soldados israelitas, havia desobedecido às ordens de Deus de não tomar nenhum dos despojos da cidade de Jericó para si. Por causa dessa transgressão, Deus retira sua proteção sobre o povo de Israel, permitindo que eles sejam derrotados. Abaixo estão cinco versículos relacionados com os temas abordados em Josué 7.
+* Gênesis 3:11: "E Deus perguntou: 'Quem lhe disse que você estava nu? Você comeu da árvore da qual eu lhe proibi comer?'" Esse versículo fala da importância da obediência às ordens de Deus. Da mesma forma que Deus havia proibido Adão e Eva de comer do fruto da árvore do conhecimento do bem e do mal, ele havia proibido os israelitas de tomarem para si os despojos de Jericó.
+* Deuteronômio 7:26: "Não tragam coisa abominável para a sua casa, ou vocês serão amaldiçoados como ela. Detestem-nas completamente e as considerem imundas, pois são coisas dedicadas à destruição." Esse versículo fala da importância de se evitar a aquisição de objetos amaldiçoados. Acã havia desobedecido a essa ordem ao tomar para si alguns dos despojos de Jericó.
+* Salmos 66:18: "Se eu tivesse guardado iniquidade no meu coração, o Senhor não me teria ouvido." Esse versículo fala da importância da confissão e do arrependimento dos pecados. Acã só é descoberto e punido após confessar seu pecado.
+* Isaías 59:2: "As suas iniquidades separaram vocês do seu Deus; os seus pecados esconderam de vocês o rosto dele, e por isso ele não os ouvirá." Esse versículo fala da importância da obediência a Deus para manter sua proteção. A desobediência de Acã havia levado a retirada da proteção divina sobre o povo de Israel.
+* 1 Coríntios 15:33: "Não se deixem enganar: as más companhias corrompem os bons costumes." Esse versículo fala da importância de se manter afastado daqueles que praticam o mal. Acã foi punido não apenas por seu próprio pecado, mas também porque sua ação afetou toda a comunidade de Israel.
+****
+
+[[v6-7-1]]
+
+^<<v6-7-1,1>>^ Porém os filhos de Israel violaram o mandamento, a respeito do anátema. Achan, filho de Charmi, filho de Zabdi, filho de Zaré, da tribo de Judá, tomou alguma coisa dada ao anátema, e o Senhor irou-se contra os filhos de Israel. (ver nota)
+
+[[v6-7-2]]
+
+^<<v6-7-2,2>>^ Josué, enviando de Jericó homens contra Hai, que está junto de Betaven, ao nascente da cidade de Betel, disse-lhes: Ide e reconhecei o país. Eles, cumprindo com as ordens, reconheceram Hai.
+
+[[v6-7-3]]
+
+^<<v6-7-3,3>>^ A o voltarem disseram-lhe: Não suba todo o povo, mas vão só dois ou três mil homens e destruam a cidade; porque se há-de fatigar inùtilmente todo o povo contra tão poucos inimigos?
+
+[[v6-7-4]]
+
+^<<v6-7-4,4>>^ Subiram pois três mil combatentes, os quais, voltando logo as costas,
+
+[[v6-7-5]]
+
+^<<v6-7-5,5>>^ foram batidos pelos homens da cidade de Hai, caindo mortos trinta e seis homens; os inimigos perseguiram-nos, desde a porta (de Hai ) até Sabarim, e mataram-nos enquanto fugiam pela encosta; e o coração do povo desmaiou e perdeu toda a coragem.
+
+[[v6-7-6]]
+
+^<<v6-7-6,6>>^ Então Josué rasgou as suas vestes e prostrou-se com o rosto por terra diante da arca do Senhor (e assim esteve) até à tarde, tanto ele como todos os anciãos de Israel, e lançaram cinza sobre as suas cabeças.
+
+[[v6-7-7]]
+
+^<<v6-7-7,7>>^ Josué disse: Ah! Senhor Javé, porque quiseste que este povo passasse o rio Jordão, para nos entregares nas mãos do Amorreu e para nos perderes? Oxalá nós tivéssemos ficado da outra banda do Jordão, como tínhamos começado.
+
+[[v6-7-8]]
+
+^<<v6-7-8,8>>^ Que direi eu, Senhor Deus meu, vendo Israel voltar costas aos seus inimigos?
+
+[[v6-7-9]]
+
+^<<v6-7-9,9>>^ Os Cananeus, e todos os habitantes da terra o ouvirão, e, unindo-se todos, nos cercarão, e apagarão o nosso nome da terra; e que farás tu ao teu grande nome?
+
+[[v6-7-10]]
+
+^<<v6-7-10,10>>^ O Senhor disse a Josué: Levanta-te; por que jazes tu prostrado por terra?
+
+[[v6-7-11]]
+
+^<<v6-7-11,11>>^ Israel pecou, a ponto de violar o meu pacto, até tomar das coisas dadas ao anátema, roubá-las, mentir, escondê-las entre as bagagens.
+
+[[v6-7-12]]
+
+^<<v6-7-12,12>>^ Israel não pode ter-se diante dos seus inimigos, e foge deles, porque se manchou com o anátema; eu não serei mais convosco, enquanto não exterminardes aquele que é réu desta maldade.
+
+[[v6-7-13]]
+
+^<<v6-7-13,13>>^ Levanta-te, santifica o povo e diz-lhes: Santificai-vos para amanhã, porque isto diz o Senhor Deus de Israel: O anátema está no meio de ti, ó Israel; tu não poderás fazer frente aos teus inimigos, até que seja exterminado do meio de ti o que se acha manchado deste crime.
+
+[[v6-7-14]]
+
+^<<v6-7-14,14>>^ Amanhã apresentar-vos-eis (diante do Senhor) cada um nas vossas tribos; a tribo sobre que cair a sorte, se apresentará pelas suas tribos, e caiu a sorte sobre a tribo de Judá, suas casas; a casa (sobre que cair a sorte), pelos seus homens.
+
+[[v6-7-15]]
+
+^<<v6-7-15,15>>^ O que for tomado como atingido pelo anátema será queimado com todas as suas coisas, porque violou o pacto do Senhor, e cometeu uma coisa detestável em Israel.
+
+[[v6-7-16]]
+
+^<<v6-7-16,16>>^ Josué, levantando-se pela manhã, fez juntar Israel pelas suas famílias; a família (sobre que cair a sorte), pelas
+
+[[v6-7-17]]
+
+^<<v6-7-17,17>>^ Tendo-se apresentado esta pelas suas famílias, caiu a sorte sobre a família de Zaré. Apresentando-se também esta pelas suas casas, caiu sobre (a casa de) Zabdi;
+
+[[v6-7-18]]
+
+^<<v6-7-18,18>>^ sorteados os indivíduos varões desta casa, um por um, descobriu-se ser Achan, filho de Charmi, filho de Zabdi, filho de Zaré, da tribo de Judá.
+
+[[v6-7-19]]
+
+^<<v6-7-19,19>>^ Josué disse a Achan: Ó meu filho, dá glória ao Senhor Deus de Israel, e confessa-me, declara-me o que fizeste, não o ocultes.
+
+[[v6-7-20]]
+
+^<<v6-7-20,20>>^ Achan respondeu a Josué: Na verdade eu pequei contra o Senhor Deus de Israel. Eis o que fiz:
+
+[[v6-7-21]]
+
+^<<v6-7-21,21>>^ Vi entre os despojos uma capa de escarlate muito boa, duzentos siclos de prata e uma barra de ouro de cinquenta siclos, e, cobiçando, tirei (estas coisas), escondi-as na terra, no meio da minha tenda, e enterrei o dinheiro numa cova.
+
+[[v6-7-22]]
+
+^<<v6-7-22,22>>^ Mandou pois Josué investigadores, os quais, correndo à tenda de Achan, acharam tudo escondido no mesmo lugar, e debaixo, o dinheiro.
+
+[[v6-7-23]]
+
+^<<v6-7-23,23>>^ Tirando-o da tenda, levaram-no a Josué e a todos os filhos de Israel, e lançaram-no fora diante do Senhor.
+
+[[v6-7-24]]
+
+^<<v6-7-24,24>>^ Então Josué, e todo o Israel com ele, pegando em Achan, filho de Zaré, e na prata e na capa, e na barra de ouro, e em seus filhos e filhas, nos seus bois, jumentos, ovelhas, na própria tenda, e em tudo quanto tinha, levaram-nos ao vale de Achor, (ver nota)
+
+[[v6-7-25]]
+
+^<<v6-7-25,25>>^ onde Josué disse: Pois que tu nos turbaste, o Senhor te conturbe neste dia. E todo o Israel o apedrejou, e tudo o que lhe pertencia foi consumido no fogo.
+
+[[v6-7-26]]
+
+^<<v6-7-26,26>>^ E juntaram sobre ele um grande montão de pedras, o qual permanece até ao dia de hoje. (Com isto) apartou-se deles o furor do Senhor. Por isso, até ao dia de hoje, se chama aquele lugar Vale de Achor.
+
+'''
+
+xref:006-josue/006-josue-006.adoc#v6-6-0[&#60; Capítulo Anterior] | <<v6-7-0,Topo>> | xref:006-josue/006-josue-008.adoc#v6-8-0[Próximo Capítulo &#62;]

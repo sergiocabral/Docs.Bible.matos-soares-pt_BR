@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v33-42-0]]
+=== Ezequiel, 42
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Ezequiel 42, o profeta recebe uma visão de um templo e do seu santuário. O capítulo descreve medidas precisas para as salas e corredores do templo, bem como para a área ao redor dele. A seguir estão cinco versículos relacionados com os temas abordados em Ezequiel 42:
+* Êxodo 26:33: "E pendurarás o véu debaixo dos colchetes, e levarás para dentro do véu a arca do testemunho; e o véu vos fará separação entre o santuário e o lugar santíssimo." Este versículo descreve como o véu separava o santuário do lugar santíssimo, e é relevante para a descrição do templo em Ezequiel 42, que também tem uma área separada para o santuário e para o lugar santíssimo.
+* 1 Reis 6:5: "E contra a parede da casa, que estava por dentro, edificou andares em redor contra as paredes da casa, em redor do templo e do santuário; e fez câmaras em redor." Este versículo fala sobre a construção do templo de Salomão, que pode ser visto como um precedente para a visão do templo descrita em Ezequiel 42.
+* Ezequiel 41:13: "Assim mediu a casa, a saber, seis côvados de largura para um lado, e seis côvados de largura para o outro lado, que era a largura do tabernáculo." Este versículo é uma continuação da descrição do templo que começa em Ezequiel 40 e se estende até Ezequiel 42, incluindo as medidas precisas para a largura do templo.
+* Ezequiel 43:7: "E disse-me: Filho do homem, este é o lugar do meu trono, e o lugar das plantas dos meus pés, onde habitarei no meio dos filhos de Israel para sempre; e a casa de Israel não contaminará mais o meu santo nome, nem eles nem os seus reis, com as suas prostituições e com os cadáveres dos seus reis nos seus altos." Este versículo é importante porque estabelece o propósito do templo descrito em Ezequiel, como o lugar onde Deus habitará no meio dos filhos de Israel para sempre.
+* Hebreus 9:24: "Porque Cristo não entrou num santuário feito por mãos, figura do verdadeiro, mas no mesmo céu, para agora comparecer por nós perante a face de Deus;" Este versículo aponta para a diferença entre o templo físico descrito em Ezequiel 42 e o verdadeiro santuário celestial que Cristo entrou, e destaca a importância da relação do templo físico com a realidade espiritual.
+****
+
+[[v33-42-1]]
+
+^<<v33-42-1,1>>^ (Depois) fez-me sair para o átrio exterior, ao norte; e introduziu-me nas câmaras, que estavam em frente do espaço livre e em frente da casa que olhava para o norte.
+
+[[v33-42-2]]
+
+^<<v33-42-2,2>>^ (Este edifício) tinha na fachada cem côvados de comprimento, do lado da porta setentrional, e cinqüenta côvados de largura.
+
+[[v33-42-3]]
+
+^<<v33-42-3,3>>^ Tinha vista para o átrio interior, que era de vinte côvados, e para o pavimento do átrio exterior, onde estava uma galeria defronte da galeria de três planos.
+
+[[v33-42-4]]
+
+^<<v33-42-4,4>>^ Diante das câmaras havia um passeio de dez côvados de largo, e para ir ao interior um caminho dum côvado. As suas portas estavam ao norte.
+
+[[v33-42-5]]
+
+^<<v33-42-5,5>>^ Estas câmaras eram mais estreitas no plano superior que as inferiores e as médias, porque as galerias lhes tiraram espaço.
+
+[[v33-42-6]]
+
+^<<v33-42-6,6>>^ Havia três andares, mas não tinham colunas como as colunas do átrio; por isso as câmaras superiores eram mais estreitas que as inferiores e as do meio.
+
+[[v33-42-7]]
+
+^<<v33-42-7,7>>^ O muro exterior ao longo das câmaras, no caminho do átrio exterior, tinha, diante das câmaras, cinqüenta côvados de comprido.
+
+[[v33-42-8]]
+
+^<<v33-42-8,8>>^ Com efeito, o comprimento das câmaras do átrio exterior era de cinqüenta côvados ao passo que a extensão defronte do templo, era de cem côvados.
+
+[[v33-42-9]]
+
+^<<v33-42-9,9>>^ Por baixo destas câmaras havia uma entrada ao oriente, para os que entravam nelas do átrio exterior.
+
+[[v33-42-10]]
+
+^<<v33-42-10,10>>^ Na largura do muro do átrio, que estava defronte da porta oriental do espaço livre e do edifício, havia câmaras.
+
+[[v33-42-11]]
+
+^<<v33-42-11,11>>^ Existia também um caminho ao longo destas câmaras, couro havia um ao longo das câmaras que estavam ao norte; o seu comprimento e a sua largura eram os mesmos, assim como eram as mesmas as saídas, a disposição e as portas;
+
+[[v33-42-12]]
+
+^<<v33-42-12,12>>^ estas entradas eram como as portas das câmaras, que estavam ao meio-dia; havia uma porta no topo do caminho, ao longo do muro correspondente, para servir aos que entravam pela parte do oriente.
+
+[[v33-42-13]]
+
+^<<v33-42-13,13>>^ Disse-me: As câmaras que ficam ao setentrião e as que ficam ao meio-dia, diante do espaço livre, são câmaras santas;, aqui é onde os sacerdotes, que se aproximam do Senhor, comem coisas santíssimas; aqui é que eles porão coisas sacrossantas, a oblação e a oferenda pelo pecado e pelo delito, porque este lugar é santo.
+
+[[v33-42-14]]
+
+^<<v33-42-14,14>>^ Quando os sacerdotes tiverem entrado, não sairão do lugar santo para o átrio exterior sem deixarem lá as vestimentas com que exercem o seu ministério, porque são santas. Tomarão outras vestes, para ir ter aos lugares do povo.
+
+[[v33-42-15]]
+
+^<<v33-42-15,15>>^ Quando ele acabou de tomar as medidas do interior da casa, fez-me sair. pelo pórtico oriental e mediu a casa em toda a volta.
+
+[[v33-42-16]]
+
+^<<v33-42-16,16>>^ Mediu o lado do oriente com a cana de medir: quinhentos côvados (medidos) com a cana de medir, ao redor.
+
+[[v33-42-17]]
+
+^<<v33-42-17,17>>^ Mediu o lado do setentrião; quinhentos côvado.s, com a cana de medir, ao redor.
+
+[[v33-42-18]]
+
+^<<v33-42-18,18>>^ Mediu o lado do meio-dia: quinhentos côvados, com a cana de medir, ao redor.
+
+[[v33-42-19]]
+
+^<<v33-42-19,19>>^ Mediu o lado do ocidente; quinhentos côvados. com a cana de medir (ao redor).
+
+[[v33-42-20]]
+
+^<<v33-42-20,20>>^ Mediu assim a parede de cintura, pelos quatro lados, andando á roda, achando o comprimento de quinhentos côvados e a largura de quinhentos côvados; (essa parede) separava o (lugar) sagrado do profano.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-041.adoc#v33-41-0[&#60; Capítulo Anterior] | <<v33-42-0,Topo>> | xref:033-ezequiel/033-ezequiel-043.adoc#v33-43-0[Próximo Capítulo &#62;]

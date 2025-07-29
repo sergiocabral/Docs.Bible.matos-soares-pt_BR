@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v28-20-0]]
+=== Eclesiástico, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 20 aborda o tema da sabedoria em relação aos comportamentos humanos, enfatizando a importância da humildade e da autocontenção. O capítulo começa com uma discussão sobre a hipocrisia e a imprudência, mostrando como elas podem levar a situações desastrosas. Em seguida, o autor enfatiza a importância de ouvir e aprender com os outros, bem como a necessidade de manter a modéstia e a humildade em todas as situações.
+* Provérbios 17:27: "Quem tem conhecimento é comedido em suas palavras; quem tem entendimento é de espírito sereno." Este versículo destaca a importância da autocontenção e da moderação no discurso, um tema abordado em Eclesiástico 20.
+* Tiago 1:19: "Meus amados irmãos, cada um deve ser pronto para ouvir, tardio para falar e tardio para se irar." Esse versículo destaca a importância de ouvir e aprender com os outros, um tema que também é abordado em Eclesiástico 20.
+* Provérbios 22:4: "O fruto da humildade é o temor do Senhor, riquezas, honra e vida." Este versículo destaca a importância da humildade e da modéstia, um tema central em Eclesiástico 20.
+* Provérbios 13:10: "Com arrogância, só se provoca rixas, mas com os que sabem ouvir se evita a contenda." Este versículo enfatiza a importância de evitar a arrogância e a imprudência, temas abordados em Eclesiástico 20.
+* Provérbios 19:20: "Ouve o conselho e aceita a correção, para que te tornes sábio no futuro." Este versículo enfatiza a importância de ouvir e aprender com os outros, um tema importante em Eclesiástico 20.
+****
+
+[[v28-20-1]]
+
+^<<v28-20-1,1>>^ Quanto melhor é repreender do que irritar-se, e não impedir de falar aquele que confessa a sua falta!
+
+[[v28-20-2]]
+
+^<<v28-20-2,2>>^ Como o eunuco que, concupiscentemente, procura desonrar a donzela,
+
+[[v28-20-3]]
+
+^<<v28-20-3,3>>^ assim é o que, por violência, faz um julgamento injusto.
+
+[[v28-20-4]]
+
+^<<v28-20-4,4>>^ Como é bom que o corrigido manifeste o seu arrependimento! Assim evitarás o pecado voluntário.
+
+[[v28-20-5]]
+
+^<<v28-20-5,5>>^ Há quem, estando calado, seja tido por sábio, e quem se torne odioso por ser descomedido no falar.
+
+[[v28-20-6]]
+
+^<<v28-20-6,6>>^ Há tal que se cala por não saber falar; e há tal que se cala, porque sabe qual é a ocasião oportuna.
+
+[[v28-20-7]]
+
+^<<v28-20-7,7>>^ O homem sábio está em silêncio até um certo tempo, mas o leviano e o imprudente não esperam a ocasião.
+
+[[v28-20-8]]
+
+^<<v28-20-8,8>>^ Aquele que fala muito prejudica a sua alma, e aquele que injustamente se excede será detestado.
+
+[[v28-20-9]]
+
+^<<v28-20-9,9>>^ O homem sem disciplina pode ser bem sucedido no mal, porém aquilo que ele inventa pode converter-se em sua própria ruína.
+
+[[v28-20-10]]
+
+^<<v28-20-10,10>>^ Há dom que não é útil, e há dom que é duplamente recompensado.
+
+[[v28-20-11]]
+
+^<<v28-20-11,11>>^ Há glória que leva à ruína, e há humilhação seguida de exaltação.
+
+[[v28-20-12]]
+
+^<<v28-20-12,12>>^ Há quem compre muitas coisas por baixo prego, mas que (de facto) as paga pelo séptuplo do seu valor. (ver nota)
+
+[[v28-20-13]]
+
+^<<v28-20-13,13>>^ O sábio torna-se amável pelas suas palavras; porém as graças dos insensatos perder-se-ão.
+
+[[v28-20-14]]
+
+^<<v28-20-14,14>>^ O donativo do insensato não te será útil, porque ele tem sete olhos para te considerar. (ver nota)
+
+[[v28-20-15]]
+
+^<<v28-20-15,15>>^ Ele dará pouco, e lançá-lo-á muitas vezes em rosto; quando a sua boca se abre, é como um incêndio.
+
+[[v28-20-16]]
+
+^<<v28-20-16,16>>^ Um empresta hoje, e torna-o a pedir amanhã: homem assim torna-se odioso.
+
+[[v28-20-17]]
+
+^<<v28-20-17,17>>^ O insensato não terá amigo, e o bem que ele faz não será agradecido,
+
+[[v28-20-18]]
+
+^<<v28-20-18,18>>^ porque os que comem o seu pão têm língua falsa. Quantas vezes e quantos homens escarnecerão dele?
+
+[[v28-20-19]]
+
+^<<v28-20-19,19>>^ De facto dá, sem discernimento, o que devia reservar, e também aquilo que não devia guardar.
+
+[[v28-20-20]]
+
+^<<v28-20-20,20>>^ A falta duma língua enganadora é como uma queda sobre o pavimento; assim a ruína dos maus virá de súbito.
+
+[[v28-20-21]]
+
+^<<v28-20-21,21>>^ O homem desagradável é como um conto vão, que anda sempre na boca de gente mal educada. (ver nota)
+
+[[v28-20-22]]
+
+^<<v28-20-22,22>>^ Será mal recebida a máxima procedente da boca do insensato, porque não a diz a seu tempo.
+
+[[v28-20-23]]
+
+^<<v28-20-23,23>>^ Há quem se abstenha de pecar por falta de meios, e sofra por ter de estar na inacção.
+
+[[v28-20-24]]
+
+^<<v28-20-24,24>>^ Há quem perca a sua alma por causa do respeito humano; perde-a, cedendo a uma pessoa imprudente, a si mesmo se perde, por atender demasiadamente a uma pessoa.
+
+[[v28-20-25]]
+
+^<<v28-20-25,25>>^ Tal há que, por falsa vergonha, promete ao seu amigo, e arranja gratuitamente nele um inimigo. (ver nota)
+
+[[v28-20-26]]
+
+^<<v28-20-26,26>>^ A mentira é no homem uma vergonhosa mancha, e ela encontra-se habitualmente na boca da gente sem educação.
+
+[[v28-20-27]]
+
+^<<v28-20-27,27>>^ Melhor é um ladrão do que um homem que mente de contínuo, mas ambos terão por herança a perdição.
+
+[[v28-20-28]]
+
+^<<v28-20-28,28>>^ Os costumes dos homens mentirosos são sem honra, e a sua confusão acompanha-os sempre.
+
+[[v28-20-29]]
+
+^<<v28-20-29,29>>^ O sábio atrai a si a estima com as suas palavras, e o homem prudente agradará aos grandes.
+
+[[v28-20-30]]
+
+^<<v28-20-30,30>>^ Aquele que cultiva a sua terra, tornará mais alto o monte dos seus frutos, o que pratica obras de justiça será exaltado, e o que agrada aos grandes fugirá da iniquidade.
+
+[[v28-20-31]]
+
+^<<v28-20-31,31>>^ Os presentes e as dádivas cegam os olhos dos juízes, são como uma mordaça na sua boca, que os torna mudos e os impede de castigar.
+
+[[v28-20-32]]
+
+^<<v28-20-32,32>>^ Sabedoria escondida é tesouro invisível; que utilidade haverá em ambas estas coisas?
+
+[[v28-20-33]]
+
+^<<v28-20-33,33>>^ Melhor é o homem que encobre a sua insipiência do que aquele que esconde a sua sabedoria.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-019.adoc#v28-19-0[&#60; Capítulo Anterior] | <<v28-20-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-021.adoc#v28-21-0[Próximo Capítulo &#62;]

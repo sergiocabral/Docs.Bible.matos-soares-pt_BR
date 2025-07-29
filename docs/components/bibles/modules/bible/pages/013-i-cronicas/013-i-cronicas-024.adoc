@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v13-24-0]]
+=== I Crônicas, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 24 descreve a organização dos sacerdotes em 24 turmas e como elas foram distribuídas para servir no templo. Os versículos abaixo se relacionam com esse tema:
+* Êxodo 28:1 - "Chame a si Arão, seu irmão, e seus filhos Nadabe, Abiú, Eleazar e Itamar para que sejam meus sacerdotes." Esse versículo é importante porque estabelece que apenas os descendentes de Arão poderiam servir como sacerdotes, e a organização em turmas era uma forma de garantir que cada sacerdote tivesse a oportunidade de servir no templo.
+* Números 3:5-10 - "O Senhor disse a Moisés: Traga a tribo de Levi e apresente-a ao sacerdote Arão para que a ajudem. Eles cuidarão das tarefas do tabernáculo, fazendo tudo o que precisa ser feito ali." Esses versículos mostram que os levitas foram escolhidos para ajudar os sacerdotes no serviço do templo e que havia uma divisão clara de tarefas.
+* 1 Crônicas 23:13 - "Arão foi separado para ser consagrado como o mais sagrado dos sacerdotes, ele e seus filhos para sempre, a fim de que oferecessem incenso diante do Senhor, para que o servissem e para que invocassem o seu nome." Esse versículo destaca a importância da consagração dos sacerdotes e a centralidade do serviço de adoração no templo.
+* 1 Crônicas 28:13 - "Escolha você também, diante do Senhor, o seu Deus, líderes para o seu povo: homens que sejam sábios, entendidos e experientes, de cada tribo, para que os coloque como chefes sobre o povo." Esse versículo destaca a importância da organização e liderança no serviço religioso, algo que se reflete na organização em turmas dos sacerdotes.
+* Neemias 12:1 - "Estes são os sacerdotes e os levitas que voltaram com Zorobabel, filho de Sealtiel, e com Jesua: Seraías, Jeremias, Esdras." Esse versículo destaca a continuidade da organização dos sacerdotes e levitas ao longo do tempo, mostrando como essa estrutura continuou a ser importante mesmo após o exílio babilônico.
+****
+
+[[v13-24-1]]
+
+^<<v13-24-1,1>>^ Os filhos de Aarão foram repartidos nestas classes (que se vão enumerar). Os filhos de Aarão foram: Nadab, Ablu, Eleazar e Itamar.
+
+[[v13-24-2]]
+
+^<<v13-24-2,2>>^ Nadab e Ablu morreram antes de seu pai, sem deixar filhos; Eleazar e Itamar exerceram as funções do sacerdócio.
+
+[[v13-24-3]]
+
+^<<v13-24-3,3>>^ Davide repartiu os filhos de Aarão, isto é, Sadoc dos filhos de Eleazar, Abimelec dos filhos de Itamar, em turnos para o serviço.
+
+[[v13-24-4]]
+
+^<<v13-24-4,4>>^ Porém achou-se que entre os chefes de famílias eram muitos mais os filhos de Eleazar, do que os de Itamar. Fez-se esta divisão: Dezasseis chefes de família para os filhos de Eleazar, e oito chefes de família para os filhos de Itamar.
+
+[[v13-24-5]]
+
+^<<v13-24-5,5>>^ Fez-se, por sorte, a repartição de ambas as famílias entre si, porque havia príncipes do santuário e príncipes de Deus, tanto dos filhos de Eleazar como dos filhos de Itamar,
+
+[[v13-24-6]]
+
+^<<v13-24-6,6>>^ Semeias, filho de Natanael, da tribo de Levi, secretário, fez o rol deles na presença do rei, dos príncipes, do sacerdote Sadoc, de Aimelec, filho de Abiatar, e diante dos chefes das famílias sacerdotais e levíticas, tirando-se, à sorte, uma família para Eleazar e outra para Itamar.
+
+[[v13-24-7]]
+
+^<<v13-24-7,7>>^ A primeira sorte saiu a Joiarib, a segunda a Jedei,
+
+[[v13-24-8]]
+
+^<<v13-24-8,8>>^ a terceira a Harim, a quarta a Seorim,
+
+[[v13-24-9]]
+
+^<<v13-24-9,9>>^ a quinta a Melquia, a sexta a Maiman,
+
+[[v13-24-10]]
+
+^<<v13-24-10,10>>^ a sétima a Acos, a oitava a Abia,
+
+[[v13-24-11]]
+
+^<<v13-24-11,11>>^ a nona a Jesua, a décima a Sequenias,
+
+[[v13-24-12]]
+
+^<<v13-24-12,12>>^ a undécima a Eliasib, a duodécima a Jacim,
+
+[[v13-24-13]]
+
+^<<v13-24-13,13>>^ a décima terceira a Hota, a décima quarta a Isbaab,
+
+[[v13-24-14]]
+
+^<<v13-24-14,14>>^ a décima quinta a Belga, a décima sexta a Emer,
+
+[[v13-24-15]]
+
+^<<v13-24-15,15>>^ a décima sétima a Hezir, a décima oitava a Afses,
+
+[[v13-24-16]]
+
+^<<v13-24-16,16>>^ a décima nona a Feteia, a vigésima a Hezequiel,
+
+[[v13-24-17]]
+
+^<<v13-24-17,17>>^ a vigésima primeira a Jaquim, a vigésima segunda a Gamul,
+
+[[v13-24-18]]
+
+^<<v13-24-18,18>>^ a vigésima terceira a Dalaiau, a vigésima quarta a Maaziau.
+
+[[v13-24-19]]
+
+^<<v13-24-19,19>>^ Assim se fez a sua distribuição segundo os seus ministérios, para servirem na casa do Senhor, de acordo com as regras estabelecidas por Aarão, seu pai, como tinha mandado o Senhor Deus de Israel.
+
+[[v13-24-20]]
+
+^<<v13-24-20,20>>^ Os outros filhos de Levi eram: Subael, dos filhos de Amrão, e Jeedeia dos filhos de Subael;
+
+[[v13-24-21]]
+
+^<<v13-24-21,21>>^ dos filhos de Roobia era chefe Jesias;
+
+[[v13-24-22]]
+
+^<<v13-24-22,22>>^ de Isaari era filho Salemot, e de Salemot era filho Jaat;
+
+[[v13-24-23]]
+
+^<<v13-24-23,23>>^ de Jaat foi filho primogênito Jeriau, Amaria o segundo, Jaaziel o terceiro, Jacmaan o quarto;
+
+[[v13-24-24]]
+
+^<<v13-24-24,24>>^ filho de Oziel foi Mica; filho de Mica foi Samir;
+
+[[v13-24-25]]
+
+^<<v13-24-25,25>>^ irmão de Mica foi Jesia; filho de Jesia foi Zacarias.
+
+[[v13-24-26]]
+
+^<<v13-24-26,26>>^ filhos de Meari: Mooli e Musi; filho de Oziau foi Beno;
+
+[[v13-24-27]]
+
+^<<v13-24-27,27>>^ filhos de Merari, por Oziau, foram: Soão, Zacur e Hebri;
+
+[[v13-24-28]]
+
+^<<v13-24-28,28>>^ Mooli teve um filho, isto é, Eleazar, o qual não teve filhos;
+
+[[v13-24-29]]
+
+^<<v13-24-29,29>>^ filho de Cis foi Jerameel;
+
+[[v13-24-30]]
+
+^<<v13-24-30,30>>^ filhos de Musi foram: Mooli, Edei e Jerimot. Estes são os filhos de Levi, segundo as casas de suas famílias.
+
+[[v13-24-31]]
+
+^<<v13-24-31,31>>^ Estes também foram tirados à sorte, com seus irmãos, filhos de Aarão em presença do rei Davide, de Sadoc, de Aimelec e dos chefes das famílias sacerdotais e levíticas, sendo todos, tanto os mais velhos como os mais novos, colocados no mesmo pé de igualdade.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-023.adoc#v13-23-0[&#60; Capítulo Anterior] | <<v13-24-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-025.adoc#v13-25-0[Próximo Capítulo &#62;]

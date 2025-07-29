@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v4-11-0]]
+=== Números, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 de Números apresenta a queixa do povo de Israel no deserto, que se cansaram de comer maná e desejam ter carne para comer. Moisés reclama com Deus sobre o peso de liderar o povo e pede ajuda para governar. Deus então envia um vento que traz codornizes ao acampamento e permite que setenta anciãos ajudem Moisés a governar. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Gênesis 18:14: "Porventura há coisa demasiadamente difícil ao Senhor? Na hora determinada tornarei a ti, por este tempo da vida, e Sara terá um filho." Assim como Deus proveu carne para o povo de Israel no deserto, Ele também cumpriu sua promessa de dar um filho a Sara, mesmo quando ela era velha demais para ter filhos.
+* Salmos 78:18: "E tentaram a Deus nos seus corações, pedindo comida segundo o seu apetite." Este versículo se relaciona com a queixa do povo de Israel no deserto, que desejavam ter carne para comer, mesmo depois de Deus ter providenciado maná para eles.
+* Êxodo 18:18: "Certamente desfalecerás, assim tu como este povo que está contigo; porque este negócio é mui difícil para ti; tu só não o podes fazer." Assim como Moisés se sentiu sobrecarregado com a tarefa de liderar o povo de Israel, Jetro, seu sogro, também reconheceu que ele precisava de ajuda para governar o povo.
+* Deuteronômio 1:9-13: "E naqueles dias eu disse a vocês: 'Não posso, sozinho, carregar todo o peso deste povo; o fardo é pesado demais para mim. Como posso eu, sozinho, enfrentar suas disputas e problemas? Escolham homens sábios, criteriosos e experientes de cada uma de suas tribos para colocar como líderes sobre vocês.' " Este versículo também se relaciona com o pedido de Moisés para ter ajuda na liderança do povo de Israel.
+* Mateus 11:28-30: "Venham a mim, todos os que estão cansados e sobrecarregados, e eu os aliviarei. Tomem sobre vocês o meu jugo e aprendam de mim, pois sou manso e humilde de coração, e vocês encontrarão descanso para as suas almas. Pois o meu jugo é suave e o meu fardo é leve." Este versículo se relaciona com o peso que Moisés sentiu na liderança do povo de Israel e a ajuda que Deus providenciou através dos setenta anciãos e do vento que trouxe codornizes. Ele também é uma promessa de descanso e alívio para todos aqueles que se sentem sobrecarregados e cansados.
+****
+
+[[v4-11-1]]
+
+^<<v4-11-1,1>>^ Entretanto levantou-se uma murmuração do povo contra o Senhor. O Senhor, tendo ouvido isto, irou-se, e o fogo do Senhor, aceso contra eles, (já) devorava uma extremidade do acampamento.
+
+[[v4-11-2]]
+
+^<<v4-11-2,2>>^ O povo clamou a Moisés; Moisés orou ao Senhor, e o fogo extinguiu-se.
+
+[[v4-11-3]]
+
+^<<v4-11-3,3>>^ (Moisés) pôs àquele lugar o nome de Incêndio, porque ali se tinha acendido contra eles o fogo do Senhor.
+
+[[v4-11-4]]
+
+^<<v4-11-4,4>>^ A populaça que tinha vindo com eles ardeu em desejos, sentando-se e chorando, unindo-se-lhe também os filhos de Israel. Diziam: Quem nos dará carnes para comer?
+
+[[v4-11-5]]
+
+^<<v4-11-5,5>>^ Lembramo-nos dos peixes que comiamos de graça no Egito; vem-nos à memória os pepinos e os melões, e os alhos bravos, e as cebolas, e os alhos.
+
+[[v4-11-6]]
+
+^<<v4-11-6,6>>^ Falta-nos o apetite, pois os nossos olhos não vêem senão maná.
+
+[[v4-11-7]]
+
+^<<v4-11-7,7>>^ Ora o maná era como os grãos de coentro, da cor do bdélio.
+
+[[v4-11-8]]
+
+^<<v4-11-8,8>>^ O povo ia ao redor do campo, e, colhendo-o, o moía numa mó, ou o pisava num gral, cozendo-o numa panela, fazia dele tortas dum sabor como de pão amassado com azeite.
+
+[[v4-11-9]]
+
+^<<v4-11-9,9>>^ Enquanto de noite caía o orvalho no campo caia também o maná.
+
+[[v4-11-10]]
+
+^<<v4-11-10,10>>^ Ouviu, pois, Moisés chorar o povo nas suas famílias, cada um à porta da sua tenda. A cólera do Senhor acendeu-se fortemente. Moisés entristeceu-se
+
+[[v4-11-11]]
+
+^<<v4-11-11,11>>^ e disse ao Senhor: Por que afligiste o teu servo? Por que não acho eu graça diante de ti? Por que puseste sobre mim o peso de todo este povo?
+
+[[v4-11-12]]
+
+^<<v4-11-12,12>>^ Porventura concebi eu toda esta multidão, ou gerei-a, para me dizeres: Traze-os no teu seio, como a ama costuma trazer uma criança, e leva-os à terra que com juramento prometi a seus pais?
+
+[[v4-11-13]]
+
+^<<v4-11-13,13>>^ Donde me virão carnes para dar a tão grande multidão? Eles choram contra mim, dizendo: Dá-nos carnes para comermos.
+
+[[v4-11-14]]
+
+^<<v4-11-14,14>>^ Eu só não posso suportar todo este povo, porque se me torna pesado.
+
+[[v4-11-15]]
+
+^<<v4-11-15,15>>^ Se te parece outra coisa, peço-te que me tires a vida, e que ache eu graça diante dos teus olhos, para me não ver oprimido de tão grandes males.
+
+[[v4-11-16]]
+
+^<<v4-11-16,16>>^ O Senhor disse a Moisés: Junta-me setenta homens entre os anciães de Israel, que tu saibas serem anciães do povo e seus principais; conduzi-los-ás à porta do tabernáculo da reunião, e ali os farás esperar contigo,
+
+[[v4-11-17]]
+
+^<<v4-11-17,17>>^ para que eu desça, te fale, tome do seu Espírito e Iho dê a eles, para que sustentem contigo o peso do povo, e não sejas tu só o agravado. (ver nota)
+
+[[v4-11-18]]
+
+^<<v4-11-18,18>>^ Dirás também ao povo: Santificai-vos, que amanhã comereis carnes, pois vos ouvi dizer. Quem nos dará a comer carnes? Nós estávamos bem no Egito. Assim o Senhor vos dará carnes que comais,
+
+[[v4-11-19]]
+
+^<<v4-11-19,19>>^ não só um dia, nem dois, nem cinco ou dez, nem mesmo vinte,
+
+[[v4-11-20]]
+
+^<<v4-11-20,20>>^ mas um mês inteiro, até elas vos saírem pela boca, até vos causarem enjôo, visto que rejeitastes o Senhor, que está no meio de vós, e chorastes no meio dele, dizendo: Por que saímos nós do Egito?
+
+[[v4-11-21]]
+
+^<<v4-11-21,21>>^ Moisés disse: É um povo de seiscentos mil homens de pé, e tu dizes: Dar-lhes-ei carne a comer durante um mês inteiro?
+
+[[v4-11-22]]
+
+^<<v4-11-22,22>>^ Porventura matar-se-á tanta quantidade de ovelhas e bois, que possa bastar para a sua comida? Ou juntar-se-ão todos os peixes do mar, para os fartarem?
+
+[[v4-11-23]]
+
+^<<v4-11-23,23>>^ O Senhor respondeu-lhe: Porventura é impotente a mão do Senhor? Agora mesmo verás se a minha palavra se põe por obra.
+
+[[v4-11-24]]
+
+^<<v4-11-24,24>>^ Foi Moisés e referiu ao povo as palavras do Senhor, e, juntando-se setenta homens dos anciães de Israel, fê-los estar de pé junto do tabernáculo.
+
+[[v4-11-25]]
+
+^<<v4-11-25,25>>^ O Senhor desceu na nuvem, falou-lhe, e, tirando do Espírito que havia em Moisés, deu dele aos setenta homens. Tendo repousado neles o Espírito, profetizaram e não cessaram mais (de o fazer).
+
+[[v4-11-26]]
+
+^<<v4-11-26,26>>^ Ora tinham ficado no campo dois homens, um dos quais se chamava Eldad, e o outro Medad, e o Espírito pousou (também) sobre eles porque também eles tinham sido alistados, mas não tinham saído para ir ao tabernáculo.
+
+[[v4-11-27]]
+
+^<<v4-11-27,27>>^ Como profetizassem no acampamento, um jovem correu e deu a notícia a Moisés, dizendo: Eldad e Medad profetizam nos acampamentos,
+
+[[v4-11-28]]
+
+^<<v4-11-28,28>>^ Imediatamente Josué, filho die Nun, ministro de Moisés e escolhido entre muitos, disse: Moisés, meu senhor, impede-os (de profetizar).
+
+[[v4-11-29]]
+
+^<<v4-11-29,29>>^ Moisés respondeu-lhe; Por que és tão zeloso por mim? Quem dera que todo o povo profetizasse, e que o Senhor lhe desse o seu Espírito!
+
+[[v4-11-30]]
+
+^<<v4-11-30,30>>^ E Moisés voltou para os acampamentos com os anciães de Israel.
+
+[[v4-11-31]]
+
+^<<v4-11-31,31>>^ Um vento mandado pelo Senhor, trazendo codornizes das bandas do mar, arrebatou-as consigo e fê-las descer sobre os acampamentos ao redor do campo por tanto espaço, quanto se pode andar num dia e voavam pelo ar à altura de dois covados sobre a terra.
+
+[[v4-11-32]]
+
+^<<v4-11-32,32>>^ Levantando-se então o povo, apanhou todo aquele dia e a noite e o outro dia tantas codornizes, que aquele que menos (recolheu), tinha dez gomores delas, e puseram-nas a secar à roda dos acampamentos.
+
+[[v4-11-33]]
+
+^<<v4-11-33,33>>^ Ainda as carnes estavam nos seus dentes, e ainda se lhes não tinha acabado este manjar, quando a cólera do Senhor se acendeu contra o povo, e o feriu com uma grandíssima praga.
+
+[[v4-11-34]]
+
+^<<v4-11-34,34>>^ Aquele lugar foi chamado o Sepulcro da Concupiscência, porque ali sepultaram o povo, que tinha tido os desejos. E tendo partido dos Sepulcros da Concupiscência, foram a Haseroth, e ali ficaram.
+
+'''
+
+xref:004-numeros/004-numeros-010.adoc#v4-10-0[&#60; Capítulo Anterior] | <<v4-11-0,Topo>> | xref:004-numeros/004-numeros-012.adoc#v4-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v10-10-0]]
+=== II Samuel, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 10 de 2 Samuel relata uma guerra entre os amonitas e os israelitas, após a morte do rei amonita. O capítulo também menciona a lealdade de Hanum, o novo rei amonita, para com Davi. Os versículos a seguir estão relacionados com temas abordados no capítulo:
+* Deuteronômio 20:1 - "Quando saíres à peleja contra os teus inimigos, e vires cavalos, e carros, e povo mais numeroso do que tu, não os temerás; pois o SENHOR teu Deus, que te fez sair da terra do Egito, está contigo." Esse versículo trata da confiança que o povo de Deus deve ter ao enfrentar seus inimigos, mesmo que estes sejam mais poderosos.
+* Salmos 60:12 - "Com Deus faremos proezas; pois ele é que pisará aos pés os nossos inimigos." Davi, líder do exército de Israel, confiava em Deus para ajudá-lo a vencer seus inimigos.
+* Provérbios 20:18 - "Com conselhos prudentes tu farás a guerra; e há vitória na multidão de conselheiros." Esse versículo destaca a importância de buscar conselhos sábios antes de tomar decisões importantes, incluindo as relacionadas à guerra.
+* Isaías 41:10 - "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Esse versículo transmite uma mensagem semelhante ao Deuteronômio 20:1, encorajando o povo de Deus a confiar em Deus em tempos de guerra.
+* 1 Coríntios 16:13 - "Vigiai, estai firmes na fé; portai-vos varonilmente, e fortalecei-vos." Esse versículo fala sobre a importância de permanecer forte e firme em tempos difíceis, confiando na força que vem de Deus. Isso também se aplica a situações de guerra, onde a perseverança e a coragem são essenciais.
+****
+
+[[v10-10-1]]
+
+^<<v10-10-1,1>>^ Aconteceu, depois disto, morrer o rei dos Amonitas, sucedendo-lhe, no reino, Hanon, seu filho,
+
+[[v10-10-2]]
+
+^<<v10-10-2,2>>^ Davide disse: Eu mostrarei benevolência a Hanon, filho de Naas, como seu pai me mostrou a mim. Enviou, pois, Davide em baixadores, para o consolar na morte de seu pai. Todavia, quando os enviados de Davide chegaram ás terras dos Amonitas,
+
+[[v10-10-3]]
+
+^<<v10-10-3,3>>^ os príncipes dos Amonitas disseram a Hanon, seu senhor: Tu cuidas que é em honra de teu pai, que Davide te enviou estes homens para te consolar? Não te enviou, antes, os seus servos para investigarem e reconhecerem a cidade, e para a destruirem?
+
+[[v10-10-4]]
+
+^<<v10-10-4,4>>^ Prendeu, então, Hanon os servos de Davide, mandou-lhes rapar metade da barba e cortar-lhes metade dos seus vestidos, até cerca da cintura, e despediu-os.
+
+[[v10-10-5]]
+
+^<<v10-10-5,5>>^ Davide, quando isto lhe foi referido, mandou enviados ao seu encontro porque aqueles homens estavam sobremaneira, envergonhados com a afronta que lhes dissessem: Deixai-vos estar em Jericó, até que vos cresça a barba, e depois voltareis.
+
+[[v10-10-6]]
+
+^<<v10-10-6,6>>^ Considerando os Amonitas que tinham injuriado Davide, mandaram aos Sírios de Rood e aos Sírios de Soba, e tomaram deles a seu soldo vinte mil homens de pé, mais de mil homens dos do rei de Maaca e doze mil dos de Tob.
+
+[[v10-10-7]]
+
+^<<v10-10-7,7>>^ Advertido disto Davide, mandou Joab (contra eles) com todas as suas tropas.
+
+[[v10-10-8]]
+
+^<<v10-10-8,8>>^ Os Amonitas saíram à campanha, dispondo o seu exército em batalha em frente à entrada da porta (da cidade); os Sírios de Soba, os de Roob, os de Istob e os de Maaca, estavam a parte no campo.
+
+[[v10-10-9]]
+
+^<<v10-10-9,9>>^ Joab, vendo que estava preparada batalha contra ele, assim pela frente como pela retaguarda, escolheu entre os melhores de Israel, e formou em linha de batalha contra os Sírios.
+
+[[v10-10-10]]
+
+^<<v10-10-10,10>>^ O resto do exército entregou-o a seu Irmão Abisai, que dirigiu o combate contra os Amonitas.
+
+[[v10-10-11]]
+
+^<<v10-10-11,11>>^ Joab disse-lhe: Se os Sírios prevalecerem contra mim, virás em meu socorro: se os Amonitas prevalecerem contra ti, eu te socorrerei.
+
+[[v10-10-12]]
+
+^<<v10-10-12,12>>^ Mostra-te como homem de coragem, e pelejemos pelo nosso povo e pela cidade do nosso Deus. O Senhor fará como bem lhe parecer.
+
+[[v10-10-13]]
+
+^<<v10-10-13,13>>^ Joab, com a gente que estava com ele, travou o combate contra os Sírios, os quais fugiram logo diante dele.
+
+[[v10-10-14]]
+
+^<<v10-10-14,14>>^ Os Amonitas, vendo que os Sírios tinham fugido, fugiram também eles, diante de Abisai, e entraram na cidade. Joab voltou dos filhos de Amon, e foi para Jerusalém
+
+[[v10-10-15]]
+
+^<<v10-10-15,15>>^ Os Sírios, vendo que tinham sido derrotados por Israel, tornaram a refazer-se.
+
+[[v10-10-16]]
+
+^<<v10-10-16,16>>^ Adadezer mandou vir os Sírios, que estavam da outra banda do rio, e conduziu as suas tropas; Sobac, general do exército de Adadezer, comandava-as.
+
+[[v10-10-17]]
+
+^<<v10-10-17,17>>^ Davide, informado disto, juntou todo o Israel, passou o Jordão e foi até Helam. Os Sírios ordenaram o seu exército contra Davide e combateram contra ele,
+
+[[v10-10-18]]
+
+^<<v10-10-18,18>>^ mas puseram-se em fuga à vista de Israel; Davide destroçou setecentos carros dos Sírios e quarenta mil homens de cavalo, e feriu Sobac, general do exército, o qual morreu logo.
+
+[[v10-10-19]]
+
+^<<v10-10-19,19>>^ Todos os reis, que tinham ido em auxílio de Adadezer, vendo que estavam vencidos pelos Israelitas, tiveram medo e fugiram à vista dos Israelitas, em número de cinqüenta e oito mil homens, e fizeram pazes com os Israelitas ficando-lhes sujeitos. De então por diante os Sírios não ousaram mais dar socorro aos Amonitas.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-009.adoc#v10-9-0[&#60; Capítulo Anterior] | <<v10-10-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-011.adoc#v10-11-0[Próximo Capítulo &#62;]

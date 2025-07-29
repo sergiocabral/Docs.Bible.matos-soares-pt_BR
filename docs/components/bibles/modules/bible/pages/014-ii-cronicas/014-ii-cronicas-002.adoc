@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v14-2-0]]
+=== II Crônicas, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 2 descreve a preparação de Salomão para a construção do templo do Senhor em Jerusalém. Ele envia uma mensagem ao rei de Tiro, Hirão, pedindo ajuda na obtenção de madeira de cedro e cipreste do Líbano, além de artesãos para trabalharem na construção. Hirão concorda em fornecer os materiais e os trabalhadores, e Salomão faz os preparativos para receber e pagar por eles. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Crônicas 2:
+* Isaías 60:13: "Para a glória de meu santuário farei crescer a faixa de terra" Este verso fala sobre a expansão da terra para a glória do santuário do Senhor. A construção do templo de Salomão também foi feita para glorificar o Senhor e aumentar a expansão da terra.
+* 1 Reis 5:6: "O meu povo tomou sobre si o jugo pesado e a madeira de cedro que lhe vou dar será uma leveza." Este verso mostra como Salomão estava preocupado com o bem-estar do seu povo. Ele queria construir o templo sem sobrecarregá-los e, por isso, pediu ajuda a Hirão para obter madeira de cedro.
+* 2 Crônicas 3:1: "Salomão começou a construir o templo do Senhor em Jerusalém no monte Moriá, onde o Senhor havia aparecido a seu pai Davi" Este verso descreve o início da construção do templo do Senhor. Salomão escolheu o monte Moriá porque foi lá que o Senhor apareceu a Davi.
+* 2 Crônicas 4:1: "Ele fez um altar de bronze, vinte côvados de comprimento, vinte de largura e dez de altura." Este verso descreve a construção do altar de bronze para o templo. O altar foi feito para os sacrifícios e ofertas que seriam oferecidos ao Senhor.
+* 1 Reis 7:13-14: "Ele o enviou a trabalhar em ouro, prata e bronze, em corte, em pedras de engaste, e em carpintaria, e em todo tipo de obra artística. E foi encontrado em sua arte uma grande habilidade em trabalhar com ouro, prata e bronze." Estes versos descrevem Hirão, o artesão enviado por Hirão, rei de Tiro, para trabalhar na construção do templo. Ele tinha habilidades em trabalhar com ouro, prata, bronze e outros materiais, o que seria importante para a construção do templo de Salomão.
+****
+
+[[v14-2-1]]
+
+^<<v14-2-1,1>>^ Resolveu Salomão edificar uma casa ao nome do Senhor, e um palácio para si.
+
+[[v14-2-2]]
+
+^<<v14-2-2,2>>^ Para este fim, destinou setenta mil homens, que, às costas, acarretassem os materiais, oitenta mil para cortar pedra nos montes, e três mil e seiscentos para seus inspetores.
+
+[[v14-2-3]]
+
+^<<v14-2-3,3>>^ Mandou dizer a Hirão, rei de Tiro: Do mesmo modo que fizeste com Davide, meu pai, a quem enviaste madeira de cedro, a fim de edificar para si o palácio em que ele habitou,
+
+[[v14-2-4]]
+
+^<<v14-2-4,4>>^ faze o mesmo comigo para que eu edifique uma casa ao nome do Senhor meu Deus, e a consagre para queimar o incenso na sua presença, espalhar o fumo dos aromas, ter sempre expostos os pães da proposição, oferecer os holocaustos da manhã e da tarde, nos sábados, neoménias e solenidades do Senhor nosso Deus, perpètuamente, como foi ordenado a Israel.
+
+[[v14-2-5]]
+
+^<<v14-2-5,5>>^ A casa que eu pretendo edificar, deve ser grande, visto que o nosso Deus é grande sobre todos os deuses.
+
+[[v14-2-6]]
+
+^<<v14-2-6,6>>^ Quem poderá ser capaz de Ihe edificar uma casa digna dele, se o céu e os céus dos céus o não podem conter? Quem sou eu que possa edificar-lhe uma casa? Mas (faço-o) sòmente para que se queime incenso na sua presença.
+
+[[v14-2-7]]
+
+^<<v14-2-7,7>>^ Envia-me, pois, um homem hábil, que saiba trabalhar em ouro e em prata, em bronze e em ferro, em obras de púrpura, de escarlate e de jacinto, e que saiba esculpir entalhes (a fim de que trabalhe) com os oficiais que eu tenho junto de mim na Judeia e em Jerusalém, os quais David e meu pai tinha escolhido.
+
+[[v14-2-8]]
+
+^<<v14-2-8,8>>^ Manda-me também madeira de cedro, cipreste e sândalo, porque sei que os teus servos são hábeis em cortar madeiras do Líbano, e os meus servos trabalharão com os teus,
+
+[[v14-2-9]]
+
+^<<v14-2-9,9>>^ para que se aparelhem madeiras em grande quantidade. Com efeito, a casa, que eu desejo edificar, deve ser muito grandiosa e magnífica.
+
+[[v14-2-10]]
+
+^<<v14-2-10,10>>^ Darei para o sustento dos operários teus servos, que hão-de cortar as madeiras, vinte mil coros de trigo e outros tantos de cevada, e vinte mil batos de vinho, e vinte mil batos de azeite.
+
+[[v14-2-11]]
+
+^<<v14-2-11,11>>^ Hirão, rei de Tiro, na carta que enviou a Salomão, disse: Porque o Senhor amou o seu povo, por isso te constituiu a ti rei sobre ele.
+
+[[v14-2-12]]
+
+^<<v14-2-12,12>>^ E acrescentava: Bem-dito seja o Senhor Deus de Israel, que fez o céu e a terra, que deu ao rei Davide um filho sábio, entendido, judicioso e prudente, para edificar um templo ao Senhor, e um palácio para si.
+
+[[v14-2-13]]
+
+^<<v14-2-13,13>>^ Eu te envio, pois, um homem sábio e inteligente, que é mestre Hirão,
+
+[[v14-2-14]]
+
+^<<v14-2-14,14>>^ filho duma mulher das filhas de Dan, cujo pai foi Tírio, que sabe trabalhar em ouro e em prata, em bronze e em ferro, em mármore, em madeira, em púrpura, em jacinto, em linho fino, em escarlate, que sabe lavrar todo o gênero de figuras e inventar engenhosamente tudo o que é necessário para qualquer trabalho; ele trabalhará com os teus artistas e com os artistas do teu pai Davide, meu senhor.
+
+[[v14-2-15]]
+
+^<<v14-2-15,15>>^ Nós mandaremos cortar no Líbano as madeiras de que tiveres necessidade, e faremos pôr jangadas para irem por mar até Jope, donde tu as mandarás transportar a Jerusalém.
+
+[[v14-2-16]]
+
+^<<v14-2-16,16>>^ Salomão, pois, mandou tomar nota de todos os estrangeiros, que havia na terra, de Israel, depois do recenseamento que tinha mandado fazer Davide, seu pai, e achou-se que eram cento e cinquenta e três mil e seiscentos.
+
+[[v14-2-17]]
+
+^<<v14-2-17,17>>^ Destes escolheu setenta mil, que levassem as cargas às costas, oitenta mil que cortassem pedras nos montes, e três mil e seiscentos para inspetores dos trabalhos desta gente.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-001.adoc#v14-1-0[&#60; Capítulo Anterior] | <<v14-2-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-003.adoc#v14-3-0[Próximo Capítulo &#62;]

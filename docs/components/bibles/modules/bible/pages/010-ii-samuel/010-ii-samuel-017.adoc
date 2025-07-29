@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v10-17-0]]
+=== II Samuel, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 17 descreve o plano de Aitofel para atacar Davi e seus seguidores enquanto estão em fuga. No entanto, o conselho de Husai, que se juntou a Davi, prevalece e o plano de Aitofel é frustrado. Em seguida, Davi e seus seguidores atravessam o rio Jordão e se preparam para enfrentar Absalão e seus seguidores. A seguir, são apresentados cinco versículos relacionados com os temas abordados em 2 Samuel 17:
+* Salmos 3:6: "Não temerei dez milhares de pessoas que se puseram contra mim e me cercam." Este salmo, escrito por Davi, expressa sua confiança em Deus diante da ameaça representada por Absalão e seus seguidores, mesmo que sejam muitos.
+* Salmos 27:1: "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a fortaleza da minha vida; a quem temerei?" Davi reconhece a proteção e a ajuda de Deus em meio à adversidade e à conspiração de Absalão.
+* Salmos 41:11: "Por isto conheço que tu te agradas de mim, que o meu inimigo não triunfa de mim." Davi se alegra na certeza de que Deus está do seu lado e não permitirá que seus inimigos triunfem sobre ele.
+* Salmos 55:22: "Lança o teu cuidado sobre o Senhor, e ele te susterá; nunca permitirá que o justo seja abalado." Davi encoraja seus seguidores a confiarem em Deus e a lançarem suas preocupações sobre ele, confiantes de que ele os sustentará.
+* Salmos 62:1-2: "Somente em Deus espera silenciosa a minha alma; dele vem a minha salvação. Só ele é a minha rocha e a minha salvação; é a minha defesa; não serei grandemente abalado." Este salmo expressa a confiança de Davi em Deus como sua salvação e proteção em meio à adversidade e aos ataques de seus inimigos.
+****
+
+[[v10-17-1]]
+
+^<<v10-17-1,1>>^ Disse pois Aquitofel a Absalão: Farei para mim escolha de doze mil homens, e sairei a perseguir Davide esta noite.
+
+[[v10-17-2]]
+
+^<<v10-17-2,2>>^ Dando sobre ele, (pois que está cansado e frouxo das mãos), o derrotarei, e, logo que fugir todo o povo que está com ele, matarei o rei abandonado.
+
+[[v10-17-3]]
+
+^<<v10-17-3,3>>^ E reconduzirei todo o povo, como se faz voltar um só homem; pois que tu a um só homem buscas; e (morto ele) todo o povo ficará em paz.
+
+[[v10-17-4]]
+
+^<<v10-17-4,4>>^ E o seu parecer agradou a Absalão e a todos os anciães de Israel.
+
+[[v10-17-5]]
+
+^<<v10-17-5,5>>^ Todavia Absalão disse: Chamai Chusai Araquita, e ouçamos também o que ele diz.
+
+[[v10-17-6]]
+
+^<<v10-17-6,6>>^ Chegado Chusai à presença de Absalão, Absalão disse-lhe: Eis o conselho que Aquitofel deu; devemo-lo nós seguir ou não? Que nos aconselhas tu?
+
+[[v10-17-7]]
+
+^<<v10-17-7,7>>^ Chusai disse a Absalão: Não é bom o conselho que Aquitofel deu esta vez.
+
+[[v10-17-8]]
+
+^<<v10-17-8,8>>^ E Chusai acrescentou mais: Tu sabes que teu pai e a gente que está com ele, são uns homens valentíssimos, e que estão com o coração amargurado, como uma ursa que discorre enfurecida pelo bosque, por lhe terem roubado os cachorrinhos. Além disso teu pai é homem guerreiro, e com certeza não passará a noite com os seus.
+
+[[v10-17-9]]
+
+^<<v10-17-9,9>>^ Talvez agora esteja ele escondido nas cavernas, ou em outro qualquer lugar que tenha escolhido; se no princípio perecerem alguns (dos teus), publicar-se-á isto, e, quem ouvir, dirá: Foi derrotado o povo que seguia Absalão.
+
+[[v10-17-10]]
+
+^<<v10-17-10,10>>^ (Ao ouvir isto) mesmo os mais fortes, cujos corações são como de leões, desfalecerão de medo, porque todo o povo de Israel sabe que teu pai é valente, e que todos os que estão com ele são esforçados.
+
+[[v10-17-11]]
+
+^<<v10-17-11,11>>^ O conselho, pois, que me parece acertado, é este: Junte-se a ti todo o Israel, desde Dan até Bersabéa, que será inumerável como a areia do mar; e tu irás pessoalmente ao combate.
+
+[[v10-17-12]]
+
+^<<v10-17-12,12>>^ Então daremos sobre eles, em qualquer lugar em que for achado, e (sendo tantos) cobri-lo-emos, como o orvalho costuma cobrir a terra; não deixaremos nem um só homem dos que estão com ele.
+
+[[v10-17-13]]
+
+^<<v10-17-13,13>>^ Porém , se ele se retirar para alguma cidade, todo o Israel cingirá aquela cidade com cordas, e trazê-la-emos arrastando até à torrente, para que não fique dela nem uma pedra. (ver nota)
+
+[[v10-17-14]]
+
+^<<v10-17-14,14>>^ Absalão e todos os anciães de Israel disseram: O conselho de Chusai Araquita é melhor do que o conselho de Aquitofel. Por disposição do Senhor, foi abandonado o útil conselho de Aquitofel, para que o Senhor fizesse cair o mal sobre Absalão.
+
+[[v10-17-15]]
+
+^<<v10-17-15,15>>^ Chusai disse aos pontífices Sadoc e Abiatar: Deste e deste modo aconselhou Aquitofel a Absalão e aos anciães de Israel, e eu aconselhei assim e assim.
+
+[[v10-17-16]]
+
+^<<v10-17-16,16>>^ Agora, pois, mandai a toda a pressa avisar Davide, dizendo-lhe: Não fiques esta noite nas planícies do deserto, mas passa sem demora à outra banda; não seja que fique destroçado o rei com todo o povo que está com ele.
+
+[[v10-17-17]]
+
+^<<v10-17-17,17>>^ Ora Jónatas e Aquimaas estavam esperando junto à fonte de Rogel; uma escrava foi-lhes dar o aviso, e eles partiram a dar parte ao rei Davide, porque não deviam ser vistos, entrando na cidade.
+
+[[v10-17-18]]
+
+^<<v10-17-18,18>>^ Viu-os, todavia, um jovem, e avisou Absalão. Mas eles, apressando o passo, entraram em casa dum homem de Baurim, que tinha uma cisterna à entrada da casa, dentro da qual se esconderam.
+
+[[v10-17-19]]
+
+^<<v10-17-19,19>>^ A mulher da casa tomou uma coberta, e estendeu-a sobre a boca da cisterna, como quem queria secar cevada pilada, e assim a coisa ficou oculta.
+
+[[v10-17-20]]
+
+^<<v10-17-20,20>>^ Tendo chegado àquela casa os servos de Absalão, disseram à mulher: Onde estão Aquimaas e Jónatas? A mulher respondeu-lhe: Foram-se apressadamente, depois de beberem um pouco de água. Eles procuraram-nos, mas, não os tendo encontrado, voltaram para Jerusalém .
+
+[[v10-17-21]]
+
+^<<v10-17-21,21>>^ Logo que se retiraram, Aquimaas e Jónatas saíram da cisterna e, continuando o seu caminho, avisaram o rei Davide, dizendo-lhe: Marchai e passai depressa o rio, porque Aquitofel deu este conselho contra vós.
+
+[[v10-17-22]]
+
+^<<v10-17-22,22>>^ Davide levantou-se e toda a sua gente que estava com ele, e passaram o Jordão antes de amanhecer; não ficou nem um só, que não passasse o rio.
+
+[[v10-17-23]]
+
+^<<v10-17-23,23>>^ Aquitofel porém, vendo que se não tinha seguido o seu conselho, aparelhou o seu jumento, levantou-se, foi para sua casa e para a sua cidade, e, tendo disposto todos os negócios da sua casa, enforcou-se; morto, foi sepultado no sepulcro de seu pal.
+
+[[v10-17-24]]
+
+^<<v10-17-24,24>>^ Davide chegou aos acampamentos, e Absalão passou o Jordão, com todos os homens de Israel. (ver nota)
+
+[[v10-17-25]]
+
+^<<v10-17-25,25>>^ Absalão tinha dado o mando do exército a Amasa, lugar que era de Joab. Amasa era filho de um homem de Jezrael, chamado Jetra, que era casado com Abigail, filha de Naás, irmã de Sarvia, que foi mãe de Joab.
+
+[[v10-17-26]]
+
+^<<v10-17-26,26>>^ Israel acampou com Absalão no país de Galaad.
+
+[[v10-17-27]]
+
+^<<v10-17-27,27>>^ Tendo Davide chegado ao acampamento, Sobi, filho de Naás, de Raba dos Amonitas, e Maquir, filho de Amiel de Lodabar, e Berzelai Galaadita de Rogelim,
+
+[[v10-17-28]]
+
+^<<v10-17-28,28>>^ ofereceram-lhe camas, tapetes, louça de barro, trigo e cevada, farinha, grão torrado, favas, lentilhas,
+
+[[v10-17-29]]
+
+^<<v10-17-29,29>>^ mel, manteiga, ovelhas e novilhos gordos; deram (tudo isto) a Davide e ao povo que estava com ele, para que comessem, persuadidos de que o povo estaria quebrantado de fome e de sede no deserto.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-016.adoc#v10-16-0[&#60; Capítulo Anterior] | <<v10-17-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-018.adoc#v10-18-0[Próximo Capítulo &#62;]

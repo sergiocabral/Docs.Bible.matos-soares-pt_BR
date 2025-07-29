@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v24-15-0]]
+=== Provérbios, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 15 aborda a importância das palavras que proferimos e seu impacto em nossas vidas. O capítulo destaca a sabedoria de falar com gentileza, humildade e com discernimento, em contraposição ao falar de forma desdenhosa e arrogante. Além disso, destaca a importância de ouvir a sabedoria dos outros e buscar conselho antes de agir impulsivamente.
+* Salmos 34:13: "Preserva a tua língua do mal, e os teus lábios de falarem o engano." Este verso destaca a importância de controlar nossas palavras e falar a verdade em vez de enganar ou mentir.
+* Provérbios 18:13: "Quem responde antes de ouvir comete insensatez e passa vergonha." Este verso enfatiza a importância de ouvir antes de falar e não agir impulsivamente sem considerar todas as informações.
+* Tiago 1:19: "Sabeis estas coisas, meus amados irmãos. Todo homem, pois, seja pronto para ouvir, tardio para falar, tardio para se irar." Este verso destaca a importância de sermos pacientes e controlarmos nossas emoções ao ouvir e falar com os outros.
+* Provérbios 12:18: "Há palavras que ferem como espada, mas a língua dos sábios traz a cura." Este verso destaca o poder das palavras e como elas podem ser usadas para ferir ou curar, enfatizando a importância de falar com sabedoria e gentileza.
+* Provérbios 19:20: "Ouve o conselho, e recebe a correção, para que no fim sejas sábio." Este verso destaca a importância de buscar o conselho e correção dos outros para nos tornarmos mais sábios e evitar agir impulsivamente.
+****
+
+[[v24-15-1]]
+
+^<<v24-15-1,1>>^ A resposta branda aquieta a ira; a palavra dura excita o furor.
+
+[[v24-15-2]]
+
+^<<v24-15-2,2>>^ A língua dos sábios torna amável a ciência; da boca dos insensatos derrama-se a loucura.
+
+[[v24-15-3]]
+
+^<<v24-15-3,3>>^ Em todo o lugar estão os olhos do Senhor, contemplando os bons e os maus.
+
+[[v24-15-4]]
+
+^<<v24-15-4,4>>^ A palavra mansa é uma árvore de vida; a língua áspera despedaça o coração.
+
+[[v24-15-5]]
+
+^<<v24-15-5,5>>^ O insensato despreza a correcção de seu pai; o que faz caso das repreensões tornar-se-á mais avisado.
+
+[[v24-15-6]]
+
+^<<v24-15-6,6>>^ Na casa do justo há grande abundância; nos ganhos do ímpio há turbação.
+
+[[v24-15-7]]
+
+^<<v24-15-7,7>>^ Os lábios dos sábios difundirão a ciência; não assim o coração dos insensatos.
+
+[[v24-15-8]]
+
+^<<v24-15-8,8>>^ As vítimas dos ímpios são abomináveis ao Senhor; porém agrada-lhe a oração dos justos. (ver nota)
+
+[[v24-15-9]]
+
+^<<v24-15-9,9>>^ O caminho do ímpio é abominação para o Senhor; o que segue a justiça é amado por ele.
+
+[[v24-15-10]]
+
+^<<v24-15-10,10>>^ Severo é o castigo para o transviado; aquele que odeia as repreensões, morrerá,
+
+[[v24-15-11]]
+
+^<<v24-15-11,11>>^ As profundezas, o abismo, estão patentes diante do Senhor; quanto mais o estarão os corações dos filhos dos homens!
+
+[[v24-15-12]]
+
+^<<v24-15-12,12>>^ O mofador não ama quem o repreende, não vai para junto dos sábios.
+
+[[v24-15-13]]
+
+^<<v24-15-13,13>>^ O coração contente alegra o semblante; a tristeza da alma abate o espírito.
+
+[[v24-15-14]]
+
+^<<v24-15-14,14>>^ O coração do sábio busca a instrução; a boca dos insensatos apascenta-se de loucura.
+
+[[v24-15-15]]
+
+^<<v24-15-15,15>>^ Todos os dias do pobre são tristes; (mas) a alma tranquila é como um perene festim. (ver nota)
+
+[[v24-15-16]]
+
+^<<v24-15-16,16>>^ Mais vale o pouco, com o temor do Senhor, que um grande tesouro com inquietação.
+
+[[v24-15-17]]
+
+^<<v24-15-17,17>>^ Mais vale comer legumes com amizade, do que um gordo novilho com ódio.
+
+[[v24-15-18]]
+
+^<<v24-15-18,18>>^ O homem iracundo provoca rixas; o que é paciente acalma as disputas.
+
+[[v24-15-19]]
+
+^<<v24-15-19,19>>^ O caminho dos preguiçosos é como uma sebe de espinhos; o caminho dos justos é aplanado.
+
+[[v24-15-20]]
+
+^<<v24-15-20,20>>^ O filho sábio alegra seu pai; o insensato envergonha sua mãe.
+
+[[v24-15-21]]
+
+^<<v24-15-21,21>>^ A loucura é gosto para o insensato; porém o varão prudente segue caminho direito.
+
+[[v24-15-22]]
+
+^<<v24-15-22,22>>^ Os projectos malogram-se onde não há conselho, mas onde há muitos conselheiros (bons) realizam-se com êxito.
+
+[[v24-15-23]]
+
+^<<v24-15-23,23>>^ Cada um compraz-se em saber dar uma (boa) resposta. E quanto bem faz uma palavra oportuna!
+
+[[v24-15-24]]
+
+^<<v24-15-24,24>>^ Pela vereda da vida chega ao alto o homem inteligente, desviando-se assim da habitação dos mortos.
+
+[[v24-15-25]]
+
+^<<v24-15-25,25>>^ O Senhor demolirá a casa dos soberbos, e firmará os limites da viúva. (ver nota)
+
+[[v24-15-26]]
+
+^<<v24-15-26,26>>^ As intenções más são a abominação do Senhor; a palavra pura ser-lhe-á multo agradável.
+
+[[v24-15-27]]
+
+^<<v24-15-27,27>>^ Aquele que vai atrás da avareza perturba a sua casa; o que porém aborrece os subornos viverá (feliz). (ver nota)
+
+[[v24-15-28]]
+
+^<<v24-15-28,28>>^ A alma do justo medita o que deve responder, porém a boca dos ímpios despeja maldades.
+
+[[v24-15-29]]
+
+^<<v24-15-29,29>>^ O Senhor está longe dos ímpios, mas atende às orações dos justos.
+
+[[v24-15-30]]
+
+^<<v24-15-30,30>>^ A luz dos olhos é a alegria do coração; uma boa notícia conforma os ossos.
+
+[[v24-15-31]]
+
+^<<v24-15-31,31>>^ O ouvido que escuta as repreensões salutares, terá o seu posto entre os sábios.
+
+[[v24-15-32]]
+
+^<<v24-15-32,32>>^ Aquele que rejeita a correcção despreza a sua alma; o que se submete às repreensões adquire a sabedoria.
+
+[[v24-15-33]]
+
+^<<v24-15-33,33>>^ O temor do Senhor é a escola da sabedoria, e a humildade precede a glória.
+
+'''
+
+xref:024-proverbios/024-proverbios-014.adoc#v24-14-0[&#60; Capítulo Anterior] | <<v24-15-0,Topo>> | xref:024-proverbios/024-proverbios-016.adoc#v24-16-0[Próximo Capítulo &#62;]

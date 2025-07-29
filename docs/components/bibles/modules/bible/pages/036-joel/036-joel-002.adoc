@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v36-2-0]]
+=== Joel, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Joel descreve um chamado à penitência para toda a nação de Israel e uma promessa de restauração e bênçãos caso eles se arrependam sinceramente. Também há uma descrição de um exército devastador que Deus enviará como julgamento sobre o povo, mas há esperança de que aqueles que se voltam para Deus serão salvos. Abaixo estão cinco versículos relacionados com os temas deste capítulo:
+* Salmos 51:17: "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus." Este versículo fala sobre o que agrada a Deus em termos de sacrifícios. Joel também chama o povo para se arrepender sinceramente de seus pecados e voltar-se para Deus.
+* Isaías 58:6: "Porventura não é este o jejum que escolhi, que soltes as ligaduras da impiedade, que desfaças as ataduras do jugo e que deixes livres os oprimidos, e despedaces todo o jugo?" O jejum mencionado neste versículo não é apenas uma abstinência de comida, mas um compromisso de se livrar da injustiça e da opressão. Isso se relaciona com a chamada de Joel para o povo se arrepender de seus caminhos maus.
+* 2 Crônicas 7:14: "E se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se converter dos seus maus caminhos, então, eu ouvirei dos céus, e perdoarei os seus pecados, e sararei a sua terra." Este versículo fala sobre a promessa de Deus de perdoar e curar aqueles que se arrependem e buscam sua face. É uma promessa semelhante à que Joel faz ao povo de Israel.
+* Jeremias 31:18: "Eu tenho visto os seus caminhos, mas eu os sararei; e eu os guiarei, e lhes darei consolação, a saber, aos que choram." Este versículo fala sobre a compaixão de Deus pelos que se arrependem e se voltam para Ele. Joel também fala sobre Deus restaurando a nação de Israel se eles se voltarem para Ele com corações sinceros.
+* Apocalipse 9:3-4: "E da fumaça saíram gafanhotos sobre a terra; e foi-lhes dado poder, como o poder que têm os escorpiões da terra. E foi-lhes dito que não fizessem dano à erva da terra, nem a verdura alguma, nem a árvore alguma, mas somente aos homens que não têm o selo de Deus na testa." Este versículo descreve uma praga de gafanhotos que destrói apenas aqueles que não têm o selo de Deus. Isso é semelhante à descrição do exército de Joel que destruirá a terra, mas poupará aqueles que se voltarem para Deus.
+****
+
+[[v36-2-1]]
+
+^<<v36-2-1,1>>^ Tocai a trombeta em Sião, soltai gritos sobre o meu santo monte! Estremeçam todos os habitantes da terra, porque se aproxima o dia do Senhor, está perto,
+
+[[v36-2-2]]
+
+^<<v36-2-2,2>>^ Dia de trevas e de escuridão, dia de nublados e de sombras! Como a luz da aurora se espalha sobre os montes, assim um povo numeroso e possante (se difundirá por toda a vossa terra de Israel), semelhante ao qual não houve desde o princípio, nem depois haverá outro no decorrer dos séculos.
+
+[[v36-2-3]]
+
+^<<v36-2-3,3>>^ Diante dele (virá) um fogo devorador, e atrás uma chama abrasadora; a terra que, antes dele (chegar), era um jardim de Eden, depois dele ficará sendo a desolação dum deserto, sem haver nada que Ihe escape.
+
+[[v36-2-4]]
+
+^<<v36-2-4,4>>^ O seu aspecto é como o aspecto de cavalos; avançam como corcéis.
+
+[[v36-2-5]]
+
+^<<v36-2-5,5>>^ (O seu ruído é) como o estrondo de carros a saltar sobre os cumes dos montes, como o crepitar da chama que queima a palha seca; dir-se-ia uma multidão de gente armada para o combate.
+
+[[v36-2-6]]
+
+^<<v36-2-6,6>>^ A sua vista ficam atormentados os povos; todos os rostos empalidecem,
+
+[[v36-2-7]]
+
+^<<v36-2-7,7>>^ Correm como valentes, escalam as muralhas como homens de guerra; cada um segue a sua via, sem confusão de caminhos.
+
+[[v36-2-8]]
+
+^<<v36-2-8,8>>^ Não se embaraçam uns aos outros, cada um marcha no seu lugar; ainda mesmo quando atingidos por golpes, não cessam de avançar.
+
+[[v36-2-9]]
+
+^<<v36-2-9,9>>^ Entram nas cidades, correm por cima dos muros, sobem às casas, entram pelas janelas como um ladrão.
+
+[[v36-2-10]]
+
+^<<v36-2-10,10>>^ A terra treme diante deles, os céus se abalam, o sol e a lua se escurecem, as estrelas retiram o seu resplendor.
+
+[[v36-2-11]]
+
+^<<v36-2-11,11>>^ Porque o Senhor faz ouvir a sua voz ante a face do seu exército; são inúmeros e fortes os seus batalhões, poderoso o executor da sua palavra. O dia do Senhor é grande e sobremaneira terrível. Quem o poderá suportar?
+
+[[v36-2-12]]
+
+^<<v36-2-12,12>>^ Mas agora ainda, diz o Senhor, convertei-vos a mim de todo o vosso coração, com jejuns, com lágrimas e com gemidos.
+
+[[v36-2-13]]
+
+^<<v36-2-13,13>>^ Rasgai os vossos corações, e não as vossas vestes, e (contritos no vosso inferior) convertei-vos ao Senhor vosso Deus, porque ele é benigno e compassivo, paciente e de muita misericórdia. Inclinado a arrepender-se do castigo que inflige.
+
+[[v36-2-14]]
+
+^<<v36-2-14,14>>^ Quem sabe se ele quererá voltar atrás, mudando de conselho, e deixar após si alguma bênção, (alguma, coisa de que possais fazer) oferenda e libação ao Senhor vosso Deus?
+
+[[v36-2-15]]
+
+^<<v36-2-15,15>>^ Tocai a trombeta em Sião, ordenai um jejum sagrado, convocai uma assembleia,
+
+[[v36-2-16]]
+
+^<<v36-2-16,16>>^ fazei vir o povo, determinai uma santa reunião, juntai os velhos, congregai os pequeninos e os meninos de peito; saia o esposo da sua câmara, e a esposa do seu leito.
+
+[[v36-2-17]]
+
+^<<v36-2-17,17>>^ Chorem os sacerdotes, ministros do Senhor, postos entre o pórtico e o altar, e digam; Perdoa, Senhor, ao teu povo, e não deixes cair a tua herança em opróbrio, de sorte que as nações a escarneçam. Porque os povos diriam; Onde está o seu Deus?
+
+[[v36-2-18]]
+
+^<<v36-2-18,18>>^ O Senhor, tomado de zelo pela sua terra, perdoou ao seu povo.
+
+[[v36-2-19]]
+
+^<<v36-2-19,19>>^ O Senhor, respondendo, disse ao seu povo; Vou enviar-vos trigo, vinho novo e azeite, e ficareis saciados destes géneros; não vos entregarei mais ao insulto das nações.
+
+[[v36-2-20]]
+
+^<<v36-2-20,20>>^ Afastarei de vós aquele (inimigo) que vem da parte do Aquilão, e lançá-lo-ei para uma terra árida e deserta; a sua vanguarda para a banda do mar oriental, e a sua rectaguarda para o mar ocidental; (ali) exalar-se-á um cheiro infecto um cheiro de podridão, porque (o Senhor, castigando) fez grandes coisas.
+
+[[v36-2-21]]
+
+^<<v36-2-21,21>>^ Não temas, terra (de Judá), exulta e alegra-te, porque o Senhor fez grandes coisas (em teu favor).
+
+[[v36-2-22]]
+
+^<<v36-2-22,22>>^ Não temais, animais do campo, porque as pastagens do deserto reverdecerão, porque toda a árvore dará o seu fruto, a figueira e a vinha produzirão abundantemente.
+
+[[v36-2-23]]
+
+^<<v36-2-23,23>>^ Filhos de Sião, exultai e alegrai-vos no Senhor vosso Deus, porque ele vos dará a primeira chuva, mandar-vos-á chuvas copiosas, fará descer sobre vós, como no princípio, chuvas do outono e da primavera.
+
+[[v36-2-24]]
+
+^<<v36-2-24,24>>^ As vossas eiras se encherão de trigo, e os vossos lagares trasbordarão de vinho e de azeite.
+
+[[v36-2-25]]
+
+^<<v36-2-25,25>>^ Recompensar-vos-ei dos anos, cujos frutos foram devorados pelo gafanhoto, pelo yeleg, pelo hasil e pelo gazam, esse poderoso exército que mandei contra vós.
+
+[[v36-2-26]]
+
+^<<v36-2-26,26>>^ Comereis e saciar-vos-eis destes bens, e louvareis o nome do Senhor vosso Deus, que fez em vosso favor maravilhas; e o meu povo jamais tornará a cair na confusão.
+
+[[v36-2-27]]
+
+^<<v36-2-27,27>>^ Sabereis então que estou no meio de Israel, que sou o Senhor vosso Deus e que não há outro. E o meu povo jamais tornará a cair na confusão.
+
+[[v36-2-28]]
+
+^<<v36-2-28,28>>^ Depois disto, acontecerá que derramarei o meu espírito sobre toda a carne; os vossos filhos e as vossas filhas profetizarão, os vossos velhos terão (comunicações por melo de) sonhos, e os vossos jovens terão visões. (ver nota)
+
+[[v36-2-29]]
+
+^<<v36-2-29,29>>^ Derramarei também naqueles dias o meu espírito sobre os escravos e as escravas.
+
+[[v36-2-30]]
+
+^<<v36-2-30,30>>^ Farei aparecer prodígios no céu e na terra, sangue, fogo e turbilhões de fumo.
+
+[[v36-2-31]]
+
+^<<v36-2-31,31>>^ O sol converter-se-á em trevas, e a lua em sangue, antes que venha o grande e terrível dia do Senhor.
+
+[[v36-2-32]]
+
+^<<v36-2-32,32>>^ Todo o que invocar o nome do Senhor será salvo, porque um resto escapado se achará, como o Senhor disse, sobre o monte Sião e em Jerusalém; e entre os sobreviventes, estarão os que o Senhor tiver chamado. (ver nota)
+
+'''
+
+xref:036-joel/036-joel-001.adoc#v36-1-0[&#60; Capítulo Anterior] | <<v36-2-0,Topo>> | xref:036-joel/036-joel-003.adoc#v36-3-0[Próximo Capítulo &#62;]

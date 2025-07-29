@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v1-12-0]]
+=== Gênesis, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 12 narra a história de como Deus chamou Abrão para sair de sua terra natal e ir para uma terra que Ele lhe mostraria. Abrão obedeceu a Deus e, como resultado, Deus prometeu abençoá-lo e fazer dele uma grande nação. Além disso, Deus prometeu abençoar aqueles que abençoassem Abrão e amaldiçoar aqueles que o amaldiçoassem. Aqui estão cinco versículos relacionados com os temas abordados em Gênesis 12:
+* Gênesis 15:6: "Abrão creu no Senhor, e isso lhe foi creditado como justiça." Este versículo fala da fé de Abrão em Deus e como essa fé lhe foi creditada como justiça. Essa fé é uma parte fundamental da história de Abrão, que deixou sua terra natal e seguiu as ordens de Deus.
+* Gênesis 17:1-2: "Quando Abrão tinha noventa e nove anos, o Senhor apareceu-lhe e disse: Eu sou o Deus todo-poderoso; anda na minha presença e sê íntegro. Estabelecerei a minha aliança contigo e multiplicar-te-ei extraordinariamente". Neste versículo, Deus reafirma a aliança que fez com Abrão, prometendo abençoá-lo e fazer dele uma grande nação.
+* Êxodo 23:22: "Se escutares com atenção a sua voz e fizeres tudo o que eu disser, serei inimigo dos teus inimigos e adversário dos teus adversários." Este versículo fala da promessa de Deus de proteger Abrão e seus descendentes, e de lutar em favor deles contra seus inimigos.
+* Deuteronômio 1:8: "Veja, eu lhe dei esta terra. Entre e tome posse da terra que o Senhor jurou dar aos seus antepassados, Abraão, Isaque e Jacó, e aos seus descendentes depois deles." Este versículo fala da promessa de Deus a Abrão de uma terra que Ele mostraria a ele, e como essa promessa foi cumprida quando seus descendentes entraram na Terra Prometida.
+* Hebreus 11:8: "Pela fé Abraão, quando chamado, obedeceu e saiu para um lugar que ia receber como herança. Ele saiu, sem saber para onde ia." Este versículo fala da fé de Abrão em Deus e de como ele obedeceu às ordens de Deus, mesmo sem saber para onde estava indo. Essa fé é uma das principais características de Abrão em toda a Bíblia.
+****
+
+[[v1-12-1]]
+
+^<<v1-12-1,1>>^ Ora o Senhor disse a Abrão: saí da tua terra, da tua parentela, da casa de teu pai, e vem para a terra que eu te mostrar.
+
+[[v1-12-2]]
+
+^<<v1-12-2,2>>^ Farei (sair) de ti um grande povo, e te abençoarei, engrandecerei o teu nome e serás bendito.
+
+[[v1-12-3]]
+
+^<<v1-12-3,3>>^ Abençoarei os que te abençoarem, amaldiçoarei os que te amaldiçoarem; em ti serão benditas todas as nações da terra.
+
+[[v1-12-4]]
+
+^<<v1-12-4,4>>^ Partiu, pois, Abrão, como o Senhor lhe tinha ordenado, e foi com ele Loth. Tinha Abrão setenta e cinco anos, quando saiu de Haran
+
+[[v1-12-5]]
+
+^<<v1-12-5,5>>^ Levou consigo Sarai, sua mulher, Loth, filho de seu irmão, todos os bens que possuíam e as pessoas que tinham adquirido em Haran. Partiram, a caminho da terra de Canaan, e lá chegaram.
+
+[[v1-12-6]]
+
+^<<v1-12-6,6>>^ Abrão atravessou este pais até ao lugar de Siquém, até à cadeia de Moré. Os Cananeus estavam então naquela terra.
+
+[[v1-12-7]]
+
+^<<v1-12-7,7>>^ O Senhor apareceu a Abrão e disse-lhe: darei esta terra aos teus descendentes. Naquele lugar, (Abrão) edificou um altar ao Senhor, que lhe tinha aparecido.
+
+[[v1-12-8]]
+
+^<<v1-12-8,8>>^ Passando dali ao monte, que estava ao oriente de Betel, ai levantou a sua tenda, tendo Betel ao ocidente, e Hai ao oriente. Aí edificou também um altar ao Senhor, e invocou o seu nome.
+
+[[v1-12-9]]
+
+^<<v1-12-9,9>>^ Abrão continuou a sua viagem, andando e avançando para o meio-dia.
+
+[[v1-12-10]]
+
+^<<v1-12-10,10>>^ Sobreveio, porém, uma fome no país, e Abrão desceu ao Egito, para ai viver algum tempo, porque a fome era muita no (seu) pais.
+
+[[v1-12-11]]
+
+^<<v1-12-11,11>>^ Quando estava perto de entrar no Egito disse a Sarai, sua mulher: conheço que és uma mulher formosa
+
+[[v1-12-12]]
+
+^<<v1-12-12,12>>^ e que, quando os Egípcios te virem, dirão: é sua mulher - e matar-me-ão, conservando-te a ti.
+
+[[v1-12-13]]
+
+^<<v1-12-13,13>>^ Dize, pois, te peço, que és minha irmã, para que eu seja bem tratado por causa de ti, e me conservem a vida, em atenção a ti.
+
+[[v1-12-14]]
+
+^<<v1-12-14,14>>^ Tendo pois Abrão entrado no Egito, viram os Egípcios que aquela mulher era muito formosa.
+
+[[v1-12-15]]
+
+^<<v1-12-15,15>>^ Os grandes de Faraó, vendo-a, gabaram-na muito diante dele: e a mulher foi levada ao palácio do Faraó.
+
+[[v1-12-16]]
+
+^<<v1-12-16,16>>^ Trataram bem Abrão, por causa dela, e ele teve ovelhas, bois, jumentos, servos, servas, jumentas e camelos.
+
+[[v1-12-17]]
+
+^<<v1-12-17,17>>^ O Senhor, porém, feriu Faraó e a sua casa com grandíssimas pragas, por causa de Sanai, mulher de Abrão.
+
+[[v1-12-18]]
+
+^<<v1-12-18,18>>^ Então Faraó chamou Abrão e disse-lhe: por que te houveste comigo desta sorte? Por que não declaraste que ela era tua mulher?
+
+[[v1-12-19]]
+
+^<<v1-12-19,19>>^ Por que disseste que ela era tua irmã, para que eu a tomasse por minha mulher? Agora, pois, aí tens a tua mulher, toma-a e vai-te.
+
+[[v1-12-20]]
+
+^<<v1-12-20,20>>^ E Faraó deu ordens a seus homens para cuidarem de Abrão, e feles o acompanharam (até à saída do Egito) com sua mulher e com tudo o que possuía.
+
+'''
+
+xref:001-genesis/001-genesis-011.adoc#v1-11-0[&#60; Capítulo Anterior] | <<v1-12-0,Topo>> | xref:001-genesis/001-genesis-013.adoc#v1-13-0[Próximo Capítulo &#62;]

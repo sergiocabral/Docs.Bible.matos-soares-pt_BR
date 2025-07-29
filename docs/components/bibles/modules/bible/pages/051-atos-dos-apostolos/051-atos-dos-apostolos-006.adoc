@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v51-6-0]]
+=== Atos dos Apóstolos, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Atos dos Apóstolos 6 descreve a escolha e a ordenação dos sete diáconos, que seriam responsáveis por servir às mesas dos crentes gregos e, assim, resolver um problema de distribuição de alimentos na igreja. Os versículos a seguir estão relacionados com os temas abordados nesse capítulo:
+* Filipenses 1:1 - "Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos." Este versículo destaca que a igreja primitiva tinha uma ordem estabelecida, com diáconos entre seus líderes.
+* 1 Timóteo 3:8 - "Da mesma forma, os diáconos sejam dignos, não de língua dobre, não dados a muito vinho, não cobiçosos de desonesto lucro." Aqui, Paulo dá instruções específicas sobre as qualidades que os diáconos devem ter.
+* Atos dos Apóstolos 6:5 - "E este parecer contentou a toda a multidão, e elegeram Estêvão, homem cheio de fé e do Espírito Santo, e Filipe, e Prócoro, e Nicanor, e Timão, e Parmenas e Nicolau, prosélito de Antioquia." Este versículo mostra a escolha dos sete diáconos e suas qualidades.
+* 1 Pedro 4:10-11 - "Servi uns aos outros conforme o dom que cada um recebeu, como bons despenseiros da multiforme graça de Deus. Se alguém fala, fale segundo as palavras de Deus; se alguém serve, faça-o na força que Deus supre, para que em todas as coisas Deus seja glorificado por meio de Jesus Cristo, a quem pertence a glória e o poder para todo o sempre. Amém." Este versículo destaca a importância do serviço na igreja e como ele deve ser realizado.
+* Romanos 16:1-2 - "Recomendo-vos a nossa irmã Febe, a qual está servindo na igreja que está em Cencréia; para que a recebais no Senhor, como convém aos santos, e a ajudeis em tudo em que necessitar de vós; porque ela tem sido protetora de muitos, e de mim em particular." Este versículo destaca o papel das mulheres na igreja e sua contribuição para o serviço e ministério.
+****
+
+[[v51-6-1]]
+
+^<<v51-6-1,1>>^ Naqueles dias, crescendo o número dos discípulos, levantou-se uma murmuração dos Helenistas contra os hebreus, porque as suas viúvas eram desatendidas na distribuição quotidiana (dos socorros).
+
+[[v51-6-2]]
+
+^<<v51-6-2,2>>^ Então os doze, convocando a multidão dos discípulos, disseram: "Não é conveniente que deixemos a palavra de Deus para servir às mesas.
+
+[[v51-6-3]]
+
+^<<v51-6-3,3>>^ Portanto, irmãos, escolhei dentre vós sete varões de boa reputação, cheios de Espírito Santo e de sabedoria, aos quais encarreguemos desta obra.
+
+[[v51-6-4]]
+
+^<<v51-6-4,4>>^ Nós, porém, ocupar-nos-emos totalmente na oração e no ministério da palavra."
+
+[[v51-6-5]]
+
+^<<v51-6-5,5>>^ Agradou esta proposta a toda a assembleia e escolheram Estêvão, homem cheio de fé e do Espírito Santo, Filipe, Prócoro, Nicanor, Timão, Parmenas e Nicolau, prosélito de Antioquia.
+
+[[v51-6-6]]
+
+^<<v51-6-6,6>>^ Apresentaram-nos diante dos Apóstolos, e estes, depois de terem orado, impuseram-lhes as mãos.
+
+[[v51-6-7]]
+
+^<<v51-6-7,7>>^ A palavra do Senhor ia-se espalhando cada vez mais, multiplicava-se muito o número dos discípulos em Jerusalém, e também uma grande multidão de sacerdotes aderia à fé.
+
+[[v51-6-8]]
+
+^<<v51-6-8,8>>^ Estêvão, cheio de graça e de fortaleza, fazia grandes prodígios e milagres entre o povo.
+
+[[v51-6-9]]
+
+^<<v51-6-9,9>>^ Porém alguns da sinagoga, chamada dos Libertos, dos Cirenenses, dos Alexandrinos e dos que eram da Cilícia e da Asia, levantaram-se a disputar com Estêvão,
+
+[[v51-6-10]]
+
+^<<v51-6-10,10>>^ mas não podiam resistir à sabedoria e ao Espírito que inspirava as suas palavras.
+
+[[v51-6-11]]
+
+^<<v51-6-11,11>>^ Então subornaram alguns que disseram: "Ouvimos dizer palavras de blasfêmia contra Moisés e contra Deus."
+
+[[v51-6-12]]
+
+^<<v51-6-12,12>>^ Amotinaram assim o povo, os anciães e os escribas; e, avançando contra ele, o arrebataram e levaram ao Sinédrio,
+
+[[v51-6-13]]
+
+^<<v51-6-13,13>>^ e apresentaram falsas testemunhas que diziam: "Este homem não cessa de proferir palavras contra o lugar santo e contra a lei;
+
+[[v51-6-14]]
+
+^<<v51-6-14,14>>^ ouvimos-lhe dizer que esse Jesus de Nazaré há-de destruir este lugar e há-de mudar as tradições que Moisés nos deixou."
+
+[[v51-6-15]]
+
+^<<v51-6-15,15>>^ E, fixando nele os olhos todos os que estavam sentados no Sinédrio, viram o seu rosto como o rosto de um anjo.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-005.adoc#v51-5-0[&#60; Capítulo Anterior] | <<v51-6-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-007.adoc#v51-7-0[Próximo Capítulo &#62;]

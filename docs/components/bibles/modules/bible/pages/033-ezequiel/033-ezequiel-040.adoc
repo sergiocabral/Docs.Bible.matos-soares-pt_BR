@@ -1,0 +1,215 @@
+include::./index.adoc[]
+
+[[v33-40-0]]
+=== Ezequiel, 40
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 40 descreve a visão que Ezequiel teve do templo durante o exílio babilônico. O capítulo descreve a visão detalhada das medidas e das especificações do templo e dos seus arredores. Os versículos abaixo são relacionados com os temas abordados nesse capítulo:
+* Isaías 2:2 - "No futuro, o monte do templo do Senhor será o mais alto de todos os montes e o mais importante de todos os morros. As pessoas de todas as nações irão para lá para adorar." Esse versículo é uma profecia sobre a glória e a importância do templo e como ele seria reverenciado pelas nações.
+* Ezequiel 47:1-2 - "O homem me levou de volta à entrada do templo, e eu vi água saindo debaixo da soleira do templo e correndo para o leste. A água corria para o lado sul do templo, ao sul do altar." Esse versículo descreve a visão de uma torrente de água que flui do templo, simbolizando a bênção e a purificação que o templo traz.
+* 1 Reis 6:2 - "O templo que o rei Salomão construiu para o Senhor era de vinte e sete metros de comprimento, nove metros de largura e quinze metros de altura." Esse versículo é uma referência às medidas do templo de Salomão, o qual foi o antecessor do templo que Ezequiel viu em sua visão.
+* 2 Crônicas 29:3 - "No primeiro ano do seu reinado, no primeiro mês, Ezequias abriu as portas do templo do Senhor e as reparou." Esse versículo é uma referência à restauração do templo durante o reinado de Ezequias, o qual foi um importante momento na história do templo.
+* Neemias 3:1 - "Então Eliasibe, o sumo sacerdote, e os seus irmãos sacerdotes começaram a reconstruir a porta das Ovelhas. Eles a consagraram e a colocaram em posição, com as suas dobradiças. Consagraram também as torres até a Torre dos Cem e as torres de Hananel." Esse versículo é uma referência à reconstrução das portas do templo durante o período pós-exílico, mostrando como o templo era valorizado e mantido.
+****
+
+[[v33-40-1]]
+
+^<<v33-40-1,1>>^ No ano vinte e cinco do nosso cativeiro, no princípio do ano- no décimo dia do mês, no ano décimo quarto depois que a cidade foi destruída, neste mesmo dia veio a mão do Senhor sobre mim e conduziu-me lá (a Jerusalém). (ver nota)
+
+[[v33-40-2]]
+
+^<<v33-40-2,2>>^ Em visões divinas levou-me à terra de Israel e deixou-me sobre um monte muito alto, sobre o qual parecia construída uma cidade, ao sul.
+
+[[v33-40-3]]
+
+^<<v33-40-3,3>>^ Quando me introduziu lá, vi um homem, cujo aspecto era como de (lucidíssimo) bronze, o qual, tendo na mão um cordel de linho e uma cana de medir, estava à porta.
+
+[[v33-40-4]]
+
+^<<v33-40-4,4>>^ Este homem disse-me: Pilho de homem., vê com os teus olhos, ouve com os teus ouvidos e põe no teu coração todas as coisas que te vou mostrar porque para elas te serem mostradas é que tu foste aqui trazido. Anuncia à casa de Israel todas as coisas que vais ver.
+
+[[v33-40-5]]
+
+^<<v33-40-5,5>>^ Um muro exterior por todas as partes cercava a casa. O homem tinha na mão uma cana de medir, de seis côvados, sendo cada côvado equivalente a um côvado (ordinário) e um palmo, e mediu a largura do muro que era duma cana, e a altura, que era também duma cana.
+
+[[v33-40-6]]
+
+^<<v33-40-6,6>>^ Depois foi ao pórtico voltado para o oriente, subiu pelos degraus e mediu o limiar da porta, que tinha uma oriental cana de largo;
+
+[[v33-40-7]]
+
+^<<v33-40-7,7>>^ cada câmara tinha uma cana de comprido e uma cana de largo; entre as câmaras havia cinco côvados.
+
+[[v33-40-8]]
+
+^<<v33-40-8,8>>^ O limiar do pórtico, do lado do vestíbulo do pórtico, para o interior, media uma cana.
+
+[[v33-40-9]]
+
+^<<v33-40-9,9>>^ Mediu o vestíbulo do pórtico, o qual tinha oito côvados, e as suas pilastras (que tinham) dois côvados; o vestíbulo do pórtico estava para a parte de dentro (do edifício).
+
+[[v33-40-10]]
+
+^<<v33-40-10,10>>^ As câmaras do pórtico do oriente eram três dum lado e três do outro as três câmaras tinham a mesma medida, e a mesma medida tinham as pilastras de ambas as partes.
+
+[[v33-40-11]]
+
+^<<v33-40-11,11>>^ Mediu a largura do limiar da porta, que era de dez côvados, e o comprimento do pórtico, que era de treze côvados.
+
+[[v33-40-12]]
+
+^<<v33-40-12,12>>^ Havia diante das câmaras o espaço dum côvado, de cada lado; cada câmara, tanto de uma parte como da outra, tinha seis côvados.
+
+[[v33-40-13]]
+
+^<<v33-40-13,13>>^ E mediu o pórtico, desde o tecto duma câmara até ao tecto da outra: a largura era de vinte e cinco côvados de porta a porta.
+
+[[v33-40-14]]
+
+^<<v33-40-14,14>>^ Para as pilastras, contou sessenta côvados; junto delas se achava o átrio que cercava o pórtico por todos os lados,
+
+[[v33-40-15]]
+
+^<<v33-40-15,15>>^ Desde a porta de entrada até à face do vestíbulo da porta interior, havia cinqüenta côvados.
+
+[[v33-40-16]]
+
+^<<v33-40-16,16>>^ Havia janelas gradeadas nas câmaras, entre as suas pilastras, para o interior do pórtico, ao redor; havia também nos vestíbulos janelas à roda, dando para o interior, e, nas pilastras, havia palmas.
+
+[[v33-40-17]]
+
+^<<v33-40-17,17>>^ Depois conduziu-me ao átrio exterior, e vi ali câmaras e um pavimento que circundava o átrio; ao redor do pavimento havia trinta câmaras.
+
+[[v33-40-18]]
+
+^<<v33-40-18,18>>^ O pavimento estendia-se ao longo dos pórticos, com a mesma extensão deles; era o pavimento inferior.
+
+[[v33-40-19]]
+
+^<<v33-40-19,19>>^ Mediu a largura, desde a frente do pórtico inferior até à frente do átrio interior: tinha cem côvados-ao oriente e (outros tantos) ao norte.
+
+[[v33-40-20]]
+
+^<<v33-40-20,20>>^ Mediu também o pórtico setentrional do átrio exterior, tanto no comprimento como na largura,
+
+[[v33-40-21]]
+
+^<<v33-40-21,21>>^ e as suas câmaras., que eram três dum lado e três do outro, e as suas pilastras e o seu vestíbulo, que tinham a mesma medida dos do primeiro pórtico, a saber, cinqüenta côvados de comprimento, e vinte e cinco de largura.
+
+[[v33-40-22]]
+
+^<<v33-40-22,22>>^ As suas janelas, o vestíbulo e as palmas tinham a mesma medida que os do pórtico que olha para o oriente; subia-se até lá por sete degraus diante dos quais havia um vestíbulo.
+
+[[v33-40-23]]
+
+^<<v33-40-23,23>>^ Para o átrio interior havia uma porta em frente do pórtico setentrional e dó oriental; dum pórtico ao outro mediu cem côvados.
+
+[[v33-40-24]]
+
+^<<v33-40-24,24>>^ Levou-me em seguida na direcção do meio-dia onde havia um pórtico que olhava para o meio-dia; mediu as suas pilastras e o seu vestíbulo, que tinham as mesmas dimensões.
+
+[[v33-40-25]]
+
+^<<v33-40-25,25>>^ Havia janelas em torno deste pórtico e do vestíbulo, como as outras janelas, ao longo de cinqüenta côvados de comprido e vinte e cinco côvados de largo.
+
+[[v33-40-26]]
+
+^<<v33-40-26,26>>^ Subia-se até aí por sete degraus, diante dos quais estava um vestíbulo; nas suas pilastras, havia palmas, uma dum lado e outra do outro.
+
+[[v33-40-27]]
+
+^<<v33-40-27,27>>^ O átrio interior tinha também um pórtico do lado do meio-dia; mediu, dum pórtico ao outro, na direcção do meio-dia, cem côvados.
+
+[[v33-40-28]]
+
+^<<v33-40-28,28>>^ Introduziu-me no átrio interior pelo pórtico do meio-dia, o qual tinha as mesmas medidas.
+
+[[v33-40-29]]
+
+^<<v33-40-29,29>>^ As suas câmaras, as suas pilastras e o seu vestíbulo tinham as mesmas medidas; havia janelas, em torno deste pórtico e do seu vestíbulo, ao longo de cinqüenta côvados de comprimento e vinte e cinco côvados de largura.
+
+[[v33-40-30]]
+
+^<<v33-40-30,30>>^ Os vestíbulos, que havia ao redor, tinham, cada um, vinte e cinco côvados de comprido, e cinco côvados de largo.
+
+[[v33-40-31]]
+
+^<<v33-40-31,31>>^ O seu vestíbulo dava para o átrio exterior; havia palmas nas pilastras e oito degraus por onde se subia.
+
+[[v33-40-32]]
+
+^<<v33-40-32,32>>^ Depois introduziu-me no átrio interior, do lado do oriente, e mediu o pórtico que tinha as medidas precedentes.
+
+[[v33-40-33]]
+
+^<<v33-40-33,33>>^ (Mediu também) as suas câmaras, as suas pilastras e o seu vestíbulo que tinham as dimensões ditas acima; havia janelas, em torno do pórtico e do seu vestibulo. ao longo de cinqüenta côvados de comprido e vinte e cinco côvados de largo.
+
+[[v33-40-34]]
+
+^<<v33-40-34,34>>^ E (mediu) o seu vestíbulo, que dava para o átrio exterior; tinha palmas nas suas pilastras, dum lado e do outro, e uma escada de oito degraus.
+
+[[v33-40-35]]
+
+^<<v33-40-35,35>>^ Conduziu-me em seguida ao pórtico setentrional, que mediu, sendo as dimensões as mesmas (dos outros).
+
+[[v33-40-36]]
+
+^<<v33-40-36,36>>^ (Mediu também) as suas câmaras, as suas pilastras e o seu vestíbulo, com janelas em roda; (as medidas eram) cinqüenta côvados de comprido e vinte e cinco côvados de largo.
+
+[[v33-40-37]]
+
+^<<v33-40-37,37>>^ O seu vestíbulo olhava para o átrio exterior; nas suas pilastras havia palmas, dum lado e dó outro, e uma escada de oito degraus.
+
+[[v33-40-38]]
+
+^<<v33-40-38,38>>^ Havia uma câmara, cuja porta ficava perto das pilastras dos pórticos; era lá que lavavam os holocaustos.
+
+[[v33-40-39]]
+
+^<<v33-40-39,39>>^ No vestíbulo do pórtico havia duas mesas dum lado, e duas nelas do outro, para nelas se imolarem (as vitimas para) os holocaustos, pelo pecado e pelo delito.
+
+[[v33-40-40]]
+
+^<<v33-40-40,40>>^ No lado de fora do vestíbulo., á entrada setentrional do pórtico, havia duas mesas, e do outro lado do vestíbulo do pórtico havia também duas mesas;
+
+[[v33-40-41]]
+
+^<<v33-40-41,41>>^ assim havia quatro mesas dum lado e quatro mesas do outro, ao todo oito mesas, sobre as quais imolavam (as vitimas).
+
+[[v33-40-42]]
+
+^<<v33-40-42,42>>^ Além disso, havia mais quatro mesas para o holocausto, feitas de pedras de silharia, de côvado e meio de comprido, de côvado e meio de largo, e dum côvado de altura, para porem sobre elas os instrumentos que se empregavam na imolação das vítimas dos holocaustos e sacrifícios.
+
+[[v33-40-43]]
+
+^<<v33-40-43,43>>^ Tinham umas bordas dum palmo, dispostas interiormente, em toda a roda; sobre as mesas punham-se as carnes dos sacrifícios.
+
+[[v33-40-44]]
+
+^<<v33-40-44,44>>^ Fora do pórtico interior, estavam as câmaras dos cantores, no átrio interior, uma ao lado do pórtico setentrional, voltada para o sul,, outra ao lado do pórtico oriental, voltada para o norte.
+
+[[v33-40-45]]
+
+^<<v33-40-45,45>>^ O homem disse-me: Esta câmara, que olha para o meio-dia. será para os sacerdotes que vigiam na guarda do templo;
+
+[[v33-40-46]]
+
+^<<v33-40-46,46>>^ a câmara que o-lha para o aquilão será para os sacerdotes que cuidam de servir ao altar. São os filhos de Sadoc, dentre os filhos de Ieví, aqueles que se aproximam do Senhor para o servirem.
+
+[[v33-40-47]]
+
+^<<v33-40-47,47>>^ Mediu também o átrio, que era um quadrado de cem côvados de comprimento e cem côvados de largo; o altar estava diante do templo.
+
+[[v33-40-48]]
+
+^<<v33-40-48,48>>^ Introduziu-me no vestíbulo do templo e mediu as pilastras do vestíbulo, que tinham cinco côvados dum lado e cinco côvados do outro; a medida do pórtico era de três côvados dum lado e três côvados do outro.
+
+[[v33-40-49]]
+
+^<<v33-40-49,49>>^ O comprimento do vestíbulo era de vinte côvados, a largura de onze côvados; subia-se a ele por dez degraus. Perto das pilastras, havia duas colunas, uma dum lado e outra do outro.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-039.adoc#v33-39-0[&#60; Capítulo Anterior] | <<v33-40-0,Topo>> | xref:033-ezequiel/033-ezequiel-041.adoc#v33-41-0[Próximo Capítulo &#62;]

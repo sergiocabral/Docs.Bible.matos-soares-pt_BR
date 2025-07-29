@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v27-3-0]]
+=== Sabedoria, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O livro de Sabedoria 3 fala sobre a vida dos justos após a morte e sobre como Deus os acolhe em sua misericórdia. É um capítulo que traz consolo para aqueles que sofrem, afirmando que o fim dos justos é a paz e a felicidade eterna. Os versículos escolhidos, em ordem de proximidade com os temas do capítulo, são:
+* Isaías 57:1-2: "O justo perece, e ninguém reflete nisso em seu coração; homens piedosos são arrebatados, e ninguém entende que os justos são arrebatados para serem poupados do mal. Os que andam retamente entrarão na paz; encontrarão descanso nas suas camas." O versículo reforça a ideia de que os justos são poupados do mal e encontram a paz após a morte.
+* Apocalipse 7:16-17: "Nunca mais terão fome, nunca mais terão sede; não os afligirá o sol, nem qualquer calor abrasador. Pois o Cordeiro que está no trono será o seu Pastor; Ele os guiará às fontes de água viva. E Deus enxugará dos seus olhos toda lágrima." Esse trecho do Apocalipse descreve a vida eterna como um lugar de saciedade, proteção e conforto para os justos.
+* João 14:2-3: "Na casa de meu Pai há muitos aposentos; se não fosse assim, Eu lhes teria dito. Vou preparar-lhes lugar. E se Eu for e preparar-lhes lugar, voltarei e os levarei comigo para que vocês estejam onde Eu estiver." Essa passagem de João 14 fala sobre a promessa de Jesus de preparar um lugar no céu para aqueles que o seguem.
+* 1 Coríntios 15:42-43: "Assim também é a ressurreição dos mortos. O corpo é semeado na corrupção, mas ressuscita na incorrupção. É semeado em desonra, mas ressuscita em glória. É semeado em fraqueza, mas ressuscita em poder." Esse trecho de 1 Coríntios descreve a transformação do corpo dos justos após a ressurreição.
+* Salmos 23:6: "Certamente a bondade e a misericórdia me seguirão todos os dias da minha vida, e habitarei na casa do Senhor para todo o sempre." O Salmo 23 é um salmo de confiança e esperança no cuidado de Deus, que leva os justos a habitar com Ele para sempre.
+****
+
+[[v27-3-1]]
+
+^<<v27-3-1,1>>^ Mas as almas dos justos estão na mão de Deus, e não os tocará nenhum tormento.
+
+[[v27-3-2]]
+
+^<<v27-3-2,2>>^ Aos olhos dos insensatos parece que morreram, a sua saída deste mundo é considerada como uma infelicidade.
+
+[[v27-3-3]]
+
+^<<v27-3-3,3>>^ e a sua separação de nós como um aniquilamento, mas eles estão em paz (no céu).
+
+[[v27-3-4]]
+
+^<<v27-3-4,4>>^ Se eles sofreram tormentos aos olhos dos homens, a sua esperança está cheia de imortalidade.
+
+[[v27-3-5]]
+
+^<<v27-3-5,5>>^ Depois duma leve tribulação, receberão uma grande recompensa, porque Deus, que os provou, achou-os dignos de si.
+
+[[v27-3-6]]
+
+^<<v27-3-6,6>>^ Ele os provou como ouro na fornalha, e aceitou-os como um holocausto.
+
+[[v27-3-7]]
+
+^<<v27-3-7,7>>^ Os justos resplandecerão no tempo da recompensa, propagar-se-ão como centelhas sobre o colmo.
+
+[[v27-3-8]]
+
+^<<v27-3-8,8>>^ Julgarão as nações, dominarão os povos, e o Senhor reinará sobre eles para sempre.
+
+[[v27-3-9]]
+
+^<<v27-3-9,9>>^ Aqueles que confiam nele compreenderão a verdade, e os que são fiéis habitarão com ele no amor, porque a graça e a misericórdia são para os seus escolhidos.
+
+[[v27-3-10]]
+
+^<<v27-3-10,10>>^ Mas os ímpios terão o castigo segundo (a iniquidade) dos seus pensamentos, eles que não fizeram caso do justo e se afastaram do Senhor.
+
+[[v27-3-11]]
+
+^<<v27-3-11,11>>^ Porque é desgraçado aquele que rejeita a sabedoria e a disciplina. A esperança destes maus é vã, os seus esforços infrutíferos, e inúteis as suas obras.
+
+[[v27-3-12]]
+
+^<<v27-3-12,12>>^ As suas mulheres são insensatas, malvados os seus filhos, maldita a sua posteridade.
+
+[[v27-3-13]]
+
+^<<v27-3-13,13>>^ Feliz a estéril e sem mancha, que não conheceu um tálamo pecaminoso; ela terá o seu fruto, quando Deus visitar as almas. (ver nota)
+
+[[v27-3-14]]
+
+^<<v27-3-14,14>>^ (Feliz) também o eunuco cujas mãos não cometeram a iniquidade, que não teve pensamentos criminosos contra Deus, porque receberá uma recompensa de eleição devida à sua fidelidade, e uma sorte muito desejável no templo do Senhor,
+
+[[v27-3-15]]
+
+^<<v27-3-15,15>>^ Porque o fruto dos bons trabalhos é glorioso, e a raiz da prudência é imperecível.
+
+[[v27-3-16]]
+
+^<<v27-3-16,16>>^ Porém os filhos dos adúlteros não atingirão o seu fim, e a descendência dum tálamo iníquo será exterminada.
+
+[[v27-3-17]]
+
+^<<v27-3-17,17>>^ Ainda que tenham larga vida, serão reputados por nada, e a sua velhice finalmente será sem honra.
+
+[[v27-3-18]]
+
+^<<v27-3-18,18>>^ Se morrerem mais depressa, não terão esperança, nem consolação no dia do juízo.
+
+[[v27-3-19]]
+
+^<<v27-3-19,19>>^ porque os fins duma raça iníqua são funestos.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-002.adoc#v27-2-0[&#60; Capítulo Anterior] | <<v27-3-0,Topo>> | xref:027-sabedoria/027-sabedoria-004.adoc#v27-4-0[Próximo Capítulo &#62;]

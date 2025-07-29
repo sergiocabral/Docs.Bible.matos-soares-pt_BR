@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v28-7-0]]
+=== Eclesiástico, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 7 contém uma série de conselhos práticos e morais sobre como viver uma vida justa e virtuosa, incluindo a importância de ter temor a Deus, evitar o orgulho e a inveja, e buscar a sabedoria. Abaixo estão cinco versículos relacionados com esses temas:
+* Provérbios 22:4: "A recompensa da humildade e do temor do Senhor é riqueza, honra e vida." Este versículo destaca a importância do temor a Deus e da humildade, que são temas abordados em Eclesiástico 7.
+* Tiago 3:13: "Quem dentre vós é sábio e inteligente? Mostre em mansidão de conduta as suas obras, em sabedoria." Esse verso incentiva as pessoas a demonstrarem sabedoria através de suas ações e comportamento.
+* Provérbios 27:4: "O furor é cruel, a ira é como uma inundação, mas quem é capaz de resistir à inveja?" Este verso adverte contra a inveja, um tema abordado em Eclesiástico 7.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; em todos os seus caminhos, reconheça-o, e ele endireitará as suas veredas." Esse versículo destaca a importância de confiar em Deus e buscar sua orientação em todos os aspectos da vida.
+* Provérbios 4:7: "A sabedoria é a coisa principal, adquire, pois, a sabedoria, emprega tudo o que possuis na aquisição de entendimento." Este verso incentiva a busca pela sabedoria, um tema central em Eclesiástico 7.
+****
+
+[[v28-7-1]]
+
+^<<v28-7-1,1>>^ Não faças o mal, e o mal não cairá, sobre ti.
+
+[[v28-7-2]]
+
+^<<v28-7-2,2>>^ Retira-te da injustiça, e a injustiça se afastará de ti.
+
+[[v28-7-3]]
+
+^<<v28-7-3,3>>^ Filho, não semeies males nos sulcos da injustiça, para não recolheres sete vezes mais.
+
+[[v28-7-4]]
+
+^<<v28-7-4,4>>^ Não peças ao Senhor o cargo de conduzir outros, nem ao rei um posto de honra. (ver nota)
+
+[[v28-7-5]]
+
+^<<v28-7-5,5>>^ Não te tenhas por justo diante de Deus, porque ele conhece o (fundo do) coração, e não pretendas parecer sábio diante do rei.
+
+[[v28-7-6]]
+
+^<<v28-7-6,6>>^ Não procures ser juiz, se não tens coragem para despedaçar as injustiças, não vá acontecer que temas à vista do poderoso, e te exponhas a proceder contra a equidade.
+
+[[v28-7-7]]
+
+^<<v28-7-7,7>>^ Não ofendas a multidão duma cidade; não te metas entre o tumulto do povo;
+
+[[v28-7-8]]
+
+^<<v28-7-8,8>>^ não ates um segundo pecado ao primeiro, porque, nem ainda por um só, ficarás impune.
+
+[[v28-7-9]]
+
+^<<v28-7-9,9>>^ Não te deixes cair no desânimo.
+
+[[v28-7-10]]
+
+^<<v28-7-10,10>>^ nem te descuides de fazer oração e dar esmola.
+
+[[v28-7-11]]
+
+^<<v28-7-11,11>>^ Não digas: Deus atenderá à multidão das minhas dádivas, e, oferecendo eu os meus dons ao Deus altíssimo, ele os receberá com agrado. (ver nota)
+
+[[v28-7-12]]
+
+^<<v28-7-12,12>>^ Não escarneças do homem cuja alma está em amargura; porque Deus, que tudo vê, é quem humilha e exalta.
+
+[[v28-7-13]]
+
+^<<v28-7-13,13>>^ Não inventes mentiras contra teu irmão, nem tampouco o faças contra o teu amigo.
+
+[[v28-7-14]]
+
+^<<v28-7-14,14>>^ Não queiras proferir mentira alguma; porque o acostumar-se a isso é mau.
+
+[[v28-7-15]]
+
+^<<v28-7-15,15>>^ Não sejas verboso na assembleia dos anciães nem multipliques as palavras nas tuas orações. (ver nota)
+
+[[v28-7-16]]
+
+^<<v28-7-16,16>>^ Não aborreças as obras penosas, nem o trabalho do campo, criado pelo Altíssimo.
+
+[[v28-7-17]]
+
+^<<v28-7-17,17>>^ Não te alistes entre a turba das pessoas indisciplinadas.
+
+[[v28-7-18]]
+
+^<<v28-7-18,18>>^ Lembra-te da ira (de Deus) que não tardará.
+
+[[v28-7-19]]
+
+^<<v28-7-19,19>>^ Humilha profundamente o teu espírito, porque a carne do ímpio será castigada com o fogo e com o verme.
+
+[[v28-7-20]]
+
+^<<v28-7-20,20>>^ Não faças mal a um teu amigo, porque difere dar-te o dinheiro, nem desprezes pelo ouro um teu irmão querido.
+
+[[v28-7-21]]
+
+^<<v28-7-21,21>>^ Não te separes da mulher sensata e virtuosa. que recebeste por sorte no temor do Senhor, porque a graça da sua modéstia é mais preciosa que o ouro.
+
+[[v28-7-22]]
+
+^<<v28-7-22,22>>^ Não trates mal o servo que trabalha com fidelidade, nem o mercenário que todo se dá a servir-te.
+
+[[v28-7-23]]
+
+^<<v28-7-23,23>>^ O servo sensato seja querido de ti como a tua alma, não lhe negues a liberdade (que ele merece), e não o deixes cair na pobreza.
+
+[[v28-7-24]]
+
+^<<v28-7-24,24>>^ Tens gados? Cuida deles; se te são úteis, conserva-os.
+
+[[v28-7-25]]
+
+^<<v28-7-25,25>>^ Tens filhos? Educa-os e acostuma-os à sujeição desde a sua infância.
+
+[[v28-7-26]]
+
+^<<v28-7-26,26>>^ Tens filhas? Vela pela pureza dos seus corpos, e não lhes mostres o teu rosto demasiado jovial.
+
+[[v28-7-27]]
+
+^<<v28-7-27,27>>^ Casa a tua filha, e terás arrumado um assunto importante; dá-a a um homem de bom senso. (ver nota)
+
+[[v28-7-28]]
+
+^<<v28-7-28,28>>^ Se tens mulher segundo o teu coração, não a repudies; e não confies na que é odiosa.
+
+[[v28-7-29]]
+
+^<<v28-7-29,29>>^ De todo o teu coração honra teu pai, e não te esqueças dos gemidos de tua mãe.
+
+[[v28-7-30]]
+
+^<<v28-7-30,30>>^ Lembra-te que não terias nascido sem eles, e faze por eles o que eles fizeram por ti.
+
+[[v28-7-31]]
+
+^<<v28-7-31,31>>^ Teme o Senhor com toda a tua alma, e venera os seus sacerdotes.
+
+[[v28-7-32]]
+
+^<<v28-7-32,32>>^ Ama com todas as tuas forças aquele que te criou, e não desampares os seus ministros.
+
+[[v28-7-33]]
+
+^<<v28-7-33,33>>^ Honra a Deus de toda a tua alma, respeita os sacerdotes, e purifica-te, oferecendo as espáduas. (ver nota)
+
+[[v28-7-34]]
+
+^<<v28-7-34,34>>^ Dá-lhes a sua parte das primícias e das vítimas de expiação, como te é mandado: purifica-te das tuas negligências com pequenas ofertas;
+
+[[v28-7-35]]
+
+^<<v28-7-35,35>>^ oferece ao Senhor as espáduas das vítimas, os sacrifícios de santificação e as primícias das coisas santas.
+
+[[v28-7-36]]
+
+^<<v28-7-36,36>>^ Estende a tua mão para o pobre, a fim de que o teu sacrifício de expiação e a tua oferta sejam perfeitos.
+
+[[v28-7-37]]
+
+^<<v28-7-37,37>>^ Dá graciosamente a todos os vivos, e não recuses os teus dons aos mortos.
+
+[[v28-7-38]]
+
+^<<v28-7-38,38>>^ Não deixes de consolar os que choram, e acompanha (na sua dor) os aflitos.
+
+[[v28-7-39]]
+
+^<<v28-7-39,39>>^ Não sejas preguiçoso em visitar os enfermos, porque é assim que tu te fortificarás na caridade,
+
+[[v28-7-40]]
+
+^<<v28-7-40,40>>^ Em todas as tuas obras lembra-te do teu fim, e nunca jamais pecarás.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-006.adoc#v28-6-0[&#60; Capítulo Anterior] | <<v28-7-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-008.adoc#v28-8-0[Próximo Capítulo &#62;]

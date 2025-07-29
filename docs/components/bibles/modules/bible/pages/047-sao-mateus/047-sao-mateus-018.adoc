@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v47-18-0]]
+=== São Mateus, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 18 do Evangelho de Mateus aborda temas relacionados à vida em comunidade e ao perdão. Jesus ensina sobre a importância da humildade, da correção fraterna e do perdão mútuo. Ele também fala sobre a importância de tratar com amor e misericórdia aqueles que erram.
+* Colossenses 3:13: "Suportai-vos uns aos outros, perdoai-vos mutuamente, caso alguém tenha motivo de queixa contra outrem. Assim como o Senhor vos perdoou, assim também perdoai vós" Este versículo destaca a importância do perdão mútuo e de seguir o exemplo de Cristo em perdoar.
+* Efésios 4:32: "Antes, sede bondosos uns para com os outros, compassivos, perdoando-vos uns aos outros, como também Deus, em Cristo, vos perdoou" Este versículo também enfatiza a importância do perdão mútuo e de seguir o exemplo de Deus em perdoar.
+* Provérbios 17:9: "Quem encobre uma ofensa busca amor, mas quem a lança em rosto separa bons amigos." Esse versículo destaca a importância de abordar as ofensas com amor e misericórdia, em vez de se apegar a elas e destruir relacionamentos.
+* Romanos 12:10: "Amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos outros." Este versículo destaca a importância de amar e respeitar uns aos outros na comunidade cristã.
+* Gálatas 6:1: "Irmãos, se alguém for surpreendido em algum pecado, vós que sois espirituais, corrigi-o com espírito de brandura; e guarda-te para que não sejas também tentado." Esse versículo destaca a importância da correção fraterna com amor e gentileza, em vez de julgamento e condenação.
+****
+
+[[v47-18-1]]
+
+^<<v47-18-1,1>>^ Naquela mesma ocasião aproximaram-se de Jesus os discípulos, dizendo: "Quem é o maior no reino dos céus?
+
+[[v47-18-2]]
+
+^<<v47-18-2,2>>^ Jesus, chamando um menino, pô-lo no meio deles,
+
+[[v47-18-3]]
+
+^<<v47-18-3,3>>^ e disse: "Na verdade vos digo que, se vos não converterdes e vos não tornardes como meninos, não entrareis" no reino dos céus.
+
+[[v47-18-4]]
+
+^<<v47-18-4,4>>^ Aquele, pois, que se fizer pequeno, como este menino, esse será o maior no reino dos céus.
+
+[[v47-18-5]]
+
+^<<v47-18-5,5>>^ E o que receber em meu nome um menino como este, é a mim que recebe.
+
+[[v47-18-6]]
+
+^<<v47-18-6,6>>^ Porém, o que escandalizar um destes pequeninos, que crêem em mim, melhor lhe fora que se lhe pendurasse ao pescoço a mó de um moinho, e que o lançassem ao fundo do mar.
+
+[[v47-18-7]]
+
+^<<v47-18-7,7>>^ Ai do mundo por causa dos escândalos! Eles são inevitáveis, mas ai daquele homem por quem vem o escândalo!
+
+[[v47-18-8]]
+
+^<<v47-18-8,8>>^ Por isso, se a tua mão ou o teu pé te escandaliza, corta-o e lança-o fora de ti; melhor te é entrar na vida com um pé ou mão a menos, do que, tendo duas mãos e dois pés, ser lançado no fogo eterno.
+
+[[v47-18-9]]
+
+^<<v47-18-9,9>>^ E, se o teu olho te escandaliza, arranca-o e lança-o fora de ti; melhor te é entrar na vida com um só olho, do que, tendo dois, ser lançado no fogo da geena.
+
+[[v47-18-10]]
+
+^<<v47-18-10,10>>^ Vede, não desprezeis um só destes pequeninos, pois vos declaro que os seus anjos nos céus vêem incessantemente a face de meu Pai, que está nos céus.
+
+[[v47-18-11]]
+
+^<<v47-18-11,11>>^ Porque o filho do homem veio salvar o que tinha perecido.
+
+[[v47-18-12]]
+
+^<<v47-18-12,12>>^ Que vos parece? Se alguém tiver cem ovelhas, e uma delas se desgarrar, porventura não deixa as outras noventa e nove no monte, e vai em busca daquela que se desgarrou?
+
+[[v47-18-13]]
+
+^<<v47-18-13,13>>^ E, se acontecer encontrá-la, digo-vos em verdade que se alegra mais por esta, do que pelas noventa e nove que não se desgarraram.
+
+[[v47-18-14]]
+
+^<<v47-18-14,14>>^ Assim, não é a vontade de vosso Pai que está nos céus, que pereça um só destes pequeninos.
+
+[[v47-18-15]]
+
+^<<v47-18-15,15>>^ Se teu irmão pecar contra ti, vai, corrige-o entre ti e ele só. Se te ouvir, ganhaste o teu irmão.
+
+[[v47-18-16]]
+
+^<<v47-18-16,16>>^ Se, porém, te não ouvir, toma ainda contigo uma ou duas pessoas, para que pela palavra de duas ou três testemunhas se decida toda a questão.
+
+[[v47-18-17]]
+
+^<<v47-18-17,17>>^ Se os não ouvir, dize-o à Igreja. Se não ouvir a Igreja, considera-o como um gentio e um publicano.
+
+[[v47-18-18]]
+
+^<<v47-18-18,18>>^ Em verdade vos digo: Tudo o que ligardes sobre a terra, será ligado no céu; e tudo o que desatardes sobre a terra, será desatado no céu. (ver nota)
+
+[[v47-18-19]]
+
+^<<v47-18-19,19>>^ Ainda vos digo que, se dois de vós se unirem entre si sobre a terra a pedir qualquer coisa, esta Ihes será concedida por meu Pai, que está nos céus.
+
+[[v47-18-20]]
+
+^<<v47-18-20,20>>^ Porque onde se acham dois ou três congregados em meu nome, aí estou eu no nome deles."
+
+[[v47-18-21]]
+
+^<<v47-18-21,21>>^ Então, aproximando-se dele Pedro, disse: "Senhor, até quantas vezes poderá pecar meu irmão contra mim, que eu lhe perdoe? Até sete vezes?"
+
+[[v47-18-22]]
+
+^<<v47-18-22,22>>^ Jesus respondeu-lhe: "Não te digo que até sete vezes, mas até setenta vezes sete.
+
+[[v47-18-23]]
+
+^<<v47-18-23,23>>^ Por isso o reino dos céus é comparado a um rei que quis fazer as contas com os seus servos.
+
+[[v47-18-24]]
+
+^<<v47-18-24,24>>^ Tendo começado a fazer as contas, foi-lhe apresentado um que lhe devia dez mil talentos.
+
+[[v47-18-25]]
+
+^<<v47-18-25,25>>^ Como não tivesse com que pagar, mandou o seu senhor que fosse vendido ele, sua mulher, seus filhos e tudo o que tinha, e se saldasse a dívida.
+
+[[v47-18-26]]
+
+^<<v47-18-26,26>>^ Porém o servo, lançando-se-lhe aos pés, lhe suplicou. Tem paciência comigo, eu te pagarei tudo.
+
+[[v47-18-27]]
+
+^<<v47-18-27,27>>^ E o senhor, compadecido daquele servo, deixou-o ir livre, e perdoou-lhe a dívida.
+
+[[v47-18-28]]
+
+^<<v47-18-28,28>>^ Mas este servo, tendo saído, encontrou um dos seus companheiros, que lhe devia cem dinheiros, e, lançando-lhe a mão, o sufocava dizendo: Paga o que me deves.
+
+[[v47-18-29]]
+
+^<<v47-18-29,29>>^ O companheiro, lançando-se-lhe aos pés, lhe suplicou: Tem paciência comigo, eu te pagarei.
+
+[[v47-18-30]]
+
+^<<v47-18-30,30>>^ Porém ele recusou e foi mandá-lo meter na prisão, até pagar a dívida.
+
+[[v47-18-31]]
+
+^<<v47-18-31,31>>^ Os outros servos seus companheiros, vendo isto, ficaram muito contristados, e foram referir ao seu senhor tudo o que tinha acontecido.
+
+[[v47-18-32]]
+
+^<<v47-18-32,32>>^ Então o senhor chamou-o, e disse-lhe: Servo mau, eu perdoei-te a dívida toda, porque me suplicaste.
+
+[[v47-18-33]]
+
+^<<v47-18-33,33>>^ Não devias tu logo compadecer-te também do teu companheiro, como eu me compadeci de ti?
+
+[[v47-18-34]]
+
+^<<v47-18-34,34>>^ E o seu senhor, irado, entregou-o aos algozes, até que pagasse toda a dívida.
+
+[[v47-18-35]]
+
+^<<v47-18-35,35>>^ Assim também vos fará meu Pai celestial, se cada um não perdoar do íntimo do seu coração a seu irmão."
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-017.adoc#v47-17-0[&#60; Capítulo Anterior] | <<v47-18-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-019.adoc#v47-19-0[Próximo Capítulo &#62;]

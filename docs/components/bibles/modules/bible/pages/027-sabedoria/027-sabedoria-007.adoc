@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v27-7-0]]
+=== Sabedoria, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Sabedoria 7 apresenta a oração do rei Salomão pedindo sabedoria a Deus. Ele reflete sobre a importância da sabedoria e como ela é essencial para a vida humana. Os versículos relacionados com os temas abordados nesse capítulo são:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento; os tolos desprezam a sabedoria e a disciplina." Salomão reconhece que a sabedoria começa com o temor a Deus, e aqueles que a desprezam são tolos.
+* Provérbios 2:6-7: "Porque o Senhor dá a sabedoria; da sua boca vêm o conhecimento e o entendimento. Ele reserva a sensatez para o justo; como um escudo protege quem anda com integridade." Salomão afirma que a sabedoria vem de Deus e é reservada para os justos.
+* Provérbios 3:13-14: "Como é feliz o homem que acha a sabedoria, o homem que obtém entendimento, pois a sabedoria é mais proveitosa do que a prata e rende mais do que o ouro." Salomão destaca a felicidade e os benefícios de encontrar a sabedoria e o entendimento.
+* Provérbios 4:7: "A sabedoria é a principal coisa; adquire, pois, a sabedoria; sim, com tudo o que possuis, adquire o entendimento." Salomão enfatiza a importância de buscar a sabedoria acima de todas as coisas e de adquirir o entendimento.
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é compreender." Salomão reafirma que a sabedoria começa com o temor a Deus e que o conhecimento dele é fundamental para compreendê-la.
+****
+
+[[v27-7-1]]
+
+^<<v27-7-1,1>>^ Também eu por certo sou um homem mortal, semelhante a todos os outros, e da descendência daquele que primeiro foi formado de terra.
+
+[[v27-7-2]]
+
+^<<v27-7-2,2>>^ O meu corpo foi formado no seio de minha mãe, no espaço de dez meses coagulado no sangue, feito do semen do homem e do prazer conjugal. (ver nota)
+
+[[v27-7-3]]
+
+^<<v27-7-3,3>>^ E eu, tendo nascido, respirei o ar comum (a todos) e caí sobre a mesma terra (que os outros), e soltei a primeira voz, como todos, chorando. (ver nota)
+
+[[v27-7-4]]
+
+^<<v27-7-4,4>>^ Envolto em faixas fui criado, e com grandes cuidados.
+
+[[v27-7-5]]
+
+^<<v27-7-5,5>>^ Nenhum rei teve outro gênero de nascimento.
+
+[[v27-7-6]]
+
+^<<v27-7-6,6>>^ Há para todos o mesmo modo de entrar na vida e de sair dela.
+
+[[v27-7-7]]
+
+^<<v27-7-7,7>>^ Por isso pedi a prudência, e ela me foi dada; invoquei (o Senhor) e veio a mira o espírito da sabedoria. (ver nota)
+
+[[v27-7-8]]
+
+^<<v27-7-8,8>>^ Preferia-a aos ceptros e aos tronos, e julguei que as riquezas nada valiam em sua comparação. (ver nota)
+
+[[v27-7-9]]
+
+^<<v27-7-9,9>>^ Nem pus em paralelo com ela as pedras mais preciosas, porque todo o ouro em sua comparação é um pouco de areia, e a prata será considerada como lodo à sua vista.
+
+[[v27-7-10]]
+
+^<<v27-7-10,10>>^ Eu amei-a mais do que a saúde e que a formosura, e antes a quis ter que a luz, porque a sua claridade é inextinguível.
+
+[[v27-7-11]]
+
+^<<v27-7-11,11>>^ Todos os bens me vieram juntamente com ela, e inumeráveis riquezas estão nas suas mãos.
+
+[[v27-7-12]]
+
+^<<v27-7-12,12>>^ Regozijei-me com todos (estes bens) porque os conduz a sabedoria: contudo eu ignorava que ela é a mãe de todos estes bens. (ver nota)
+
+[[v27-7-13]]
+
+^<<v27-7-13,13>>^ Eu a aprendi sem intenções reservadas, reparto-a com os outros sem inveja, e não escondo as suas riquezas.
+
+[[v27-7-14]]
+
+^<<v27-7-14,14>>^ Porque ela é um tesouro inesgotável para os homens; os que usam dela tornam-se participantes da amizade de Deus, recomendáveis (a ele) pelos dons da doutrina.
+
+[[v27-7-15]]
+
+^<<v27-7-15,15>>^ Que Deus me conceda a graça de falar segundo desejo, e ter pensamentos dignos dos dons que recebi, porque ele é o guia da sabedoria e o director dos sábios. (ver nota)
+
+[[v27-7-16]]
+
+^<<v27-7-16,16>>^ Estamos na mão dele, nós e as nossas palavras, e toda a vossa sabedoria e habilidade no agir.
+
+[[v27-7-17]]
+
+^<<v27-7-17,17>>^ Foi ele que me deu a verdadeira ciência das coisas que existem, para eu conhecer a constituição do universo, as propriedades dos elementos,
+
+[[v27-7-18]]
+
+^<<v27-7-18,18>>^ o princípio, o fim e o meio dos tempos, as mudanças dos solstícios e as vicissitudes das estações,
+
+[[v27-7-19]]
+
+^<<v27-7-19,19>>^ os ciclos dos anos e a posição das estrelas,
+
+[[v27-7-20]]
+
+^<<v27-7-20,20>>^ a natureza dos animais e os instintos dos brutos, a força dos espíritos e os raciocínios dos homens, as variedades das plantas e as propriedades das raízes.
+
+[[v27-7-21]]
+
+^<<v27-7-21,21>>^ (Em suma) aprendi tudo o que há escondido ou descoberto, porque a sabedoria, que tudo criou, mo ensinou.
+
+[[v27-7-22]]
+
+^<<v27-7-22,22>>^ Efectivamente há nela um espírito inteligente, santo, único, multipllce, subtil, ágil, penetrante, imaculado, claro, impassível, amigo do bem, agudo, a quem nada pode impedir, benéfico,
+
+[[v27-7-23]]
+
+^<<v27-7-23,23>>^ amigo dos homens, estável, seguro, tranquilo, que tudo pode, tudo vê, e que penetra todos os espíritos, os inteligentes, os puros, os mais subtis.
+
+[[v27-7-24]]
+
+^<<v27-7-24,24>>^ A sabedoria é mais ágil que todo o movimento; tudo atravessa e penetra por causa da sua pureza.
+
+[[v27-7-25]]
+
+^<<v27-7-25,25>>^ Ela é um sopro do poder de Deus, uma pura emanação da glória do Omnipotente: por isso não se pode encontrar nela a menor Impureza. (ver nota)
+
+[[v27-7-26]]
+
+^<<v27-7-26,26>>^ Ela é o resplendor da luz eterna, o espelho sem mácula da actividade de Deus, a imagem da sua bondade.
+
+[[v27-7-27]]
+
+^<<v27-7-27,27>>^ Sendo única, pode tudo; permanecendo a mesma, renova tudo; através das gerações, transfunde-se nas almas santas, e forma os amigos de Deus e os profetas.
+
+[[v27-7-28]]
+
+^<<v27-7-28,28>>^ Com efeito. Deus sòmente ama aquele que habita com a sabedoria.
+
+[[v27-7-29]]
+
+^<<v27-7-29,29>>^ Ela é mais formosa do que o sol, supera o conjunto dos astros. Comparada com a luz, ela vence,
+
+[[v27-7-30]]
+
+^<<v27-7-30,30>>^ porque à luz sucede a noite, mas a malícia nada pode contra a sabedoria.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-006.adoc#v27-6-0[&#60; Capítulo Anterior] | <<v27-7-0,Topo>> | xref:027-sabedoria/027-sabedoria-008.adoc#v27-8-0[Próximo Capítulo &#62;]

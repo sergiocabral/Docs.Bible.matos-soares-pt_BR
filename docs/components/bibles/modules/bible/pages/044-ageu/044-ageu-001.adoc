@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v44-1-0]]
+=== Ageu, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 de Ageu começa com uma repreensão de Deus ao povo de Judá por terem negligenciado a reconstrução do templo, enquanto trabalhavam em suas próprias casas e negócios. O profeta exorta o povo a voltar a sua atenção para o templo e para o serviço de Deus, prometendo que a bênção de Deus virá sobre eles. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Ageu 1:
+* Malaquias 3:10: "Tragam o dízimo todo ao depósito do templo, para que haja comida em minha casa. Ponham-me à prova", diz o Senhor dos Exércitos, "e vejam se não vou abrir as comportas dos céus e derramar sobre vocês tantas bênçãos que nem terão onde guardá-las." Este verso fala da importância de trazer o dízimo e as ofertas para o templo de Deus, assim como Ageu exorta o povo a reconstruir o templo.
+* Esdras 6:14: "E os líderes dos judeus continuaram a construir e tiveram sucesso, encorajados pela mensagem dos profetas Ageu e Zacarias, filho de Ido. Terminaram a construção conforme a ordem do Deus de Israel e conforme o decreto de Ciro, Dario e Artaxerxes, reis da Pérsia." Este verso fala sobre a reconstrução do templo que Ageu está exortando o povo a realizar.
+* 1 Crônicas 29:3: "Além disso, porque tenho o meu coração no templo do meu Deus, dou do meu próprio tesouro ouro e prata para a construção do templo do meu Deus, além de tudo o que preparei para o santuário." Este verso fala sobre a dedicação pessoal que é necessária para a construção do templo, assim como Ageu exorta o povo a voltar sua atenção para o templo de Deus.
+* Neemias 13:10: "Eu descobri que os quinhões dos levitas não estavam sendo entregues, de modo que os levitas e os cantores que realizavam o trabalho tinham fugido cada um para sua terra." Este verso fala sobre a negligência do povo em cuidar das necessidades do templo e dos servos de Deus, assim como Ageu exorta o povo a se arrepender da sua negligência.
+* Isaías 55:2: "Por que gastar dinheiro naquilo que não é pão, e o seu trabalho árduo naquilo que não satisfaz? Escutem-me com atenção e comam o que é bom, e vocês terão prazer na mais fina das comidas." Este verso fala sobre a importância de colocar as prioridades corretas e se concentrar nas coisas que realmente importam, assim como Ageu exorta o povo a priorizar a reconstrução do templo e o serviço a Deus.
+****
+
+[[v44-1-1]]
+
+^<<v44-1-1,1>>^ No segundo ano do reinado de Dario, no sexto mês, no primeiro dia do mês, foi dirigida a palavra do Senhor, por intermédio do profeta Agen, a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, sumo sacerdote, filho de Josedec, nestes termos:
+
+[[v44-1-2]]
+
+^<<v44-1-2,2>>^ Assim fala o Senhor dos exércitos; Este povo diz: Ainda não é chegado o tempo de reedificar a casa do Senhor.
+
+[[v44-1-3]]
+
+^<<v44-1-3,3>>^ E foi dirigida a palavra do Senhor, por intermédio do profeta Ageu, nestes termos:
+
+[[v44-1-4]]
+
+^<<v44-1-4,4>>^ Então é tempo oportuno para vós habitardes em casas forradas, enquanto esta casa (do Senhor) está em ruína?
+
+[[v44-1-5]]
+
+^<<v44-1-5,5>>^ Eis, pois, o que diz o Senhor dos exércitos: Aplicai os vossos corações a considerar os vossos caminhos.
+
+[[v44-1-6]]
+
+^<<v44-1-6,6>>^ Semeastes muito e recolhestes pouco; comestes e não ficastes fartos; bebestes e não matastes a sede; cobristes-vos e não ficastes quentes; e o que ajuntou muitos ganhos, meteu-os num saco roto.
+
+[[v44-1-7]]
+
+^<<v44-1-7,7>>^ Assim fala o Senhor dos exércitos; Considerai atentamente os vossos caminhos.
+
+[[v44-1-8]]
+
+^<<v44-1-8,8>>^ Subi ao monte, levai madeira e reedificai a minha casa; ela me será agradável, e eu serei nela glorificado, diz o Senhor.
+
+[[v44-1-9]]
+
+^<<v44-1-9,9>>^ Vós esperastes o mais, e eis que vos veio o menos; o que vós queríeis enceleirar, eu o dissipei com um sopro. E porquê? diz o Senhor dos exércitos. Porque a minha casa está destruída, enquanto que cada um de vós se apressa a cuidar da sua casa.
+
+[[v44-1-10]]
+
+^<<v44-1-10,10>>^ Por isso é que os céus vos recusaram orvalho (ou chuva), e a terra os seus produtos.
+
+[[v44-1-11]]
+
+^<<v44-1-11,11>>^ Chamei a seca sobre a terra, sobre os montes, sobre o trigo, sobre o vinho, sobre o azeite, sobre tudo o que a terra produz, sobre os homens, sobre os animais e sobre todo o trabalho das vossas mãos.
+
+[[v44-1-12]]
+
+^<<v44-1-12,12>>^ Então Zorobabel, filho de Salatiel, e Josué, sumo exortação, sacerdote, filho de Josedec, e todas os que tinham restado do povo, ouviram a voz do Senhor seu Deus e as palavras do profeta Ageu, que o Senhor seu Deus lhes tinha enviado. E o povo temeu diante da face do Senhor.
+
+[[v44-1-13]]
+
+^<<v44-1-13,13>>^ Ageu, enviado do Senhor, falou ao povo nestes termos: Eu sou convosco, diz o Senhor.
+
+[[v44-1-14]]
+
+^<<v44-1-14,14>>^ (Ao mesmo tempo) o Senhor suscitou o espirito de Zorobabel, filho de Salatiel, governador de Judá, e o espírito de Josué sumo sacerdote, filho de Josedec e o espírito do resto de todo o povo: puseram-se todos a trabalhar na casa do Senhor dos exércitos, seu Deus.
+
+'''
+
+xref:043-sofonias/043-sofonias-003.adoc#v43-3-0[&#60; Capítulo Anterior] | <<v44-1-0,Topo>> | xref:044-ageu/044-ageu-002.adoc#v44-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v70-1-0]]
+=== II São João, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 São João 1 é uma carta escrita por João dirigida a uma comunidade cristã específica, na qual ele adverte sobre falsos professores e pede que eles continuem seguindo os ensinamentos de Jesus Cristo. Seguem abaixo cinco versículos de outros livros da Bíblia relacionados com os temas abordados nessa carta:
+* 1 João 4:1 - "Amados, não creiais a todo espírito, mas provai se os espíritos vêm de Deus, porque muitos falsos profetas têm saído pelo mundo." João também alerta para a presença de falsos profetas e a importância de discernir entre o que vem de Deus e o que não vem.
+* Mateus 24:24 - "Porque se levantarão falsos cristos e falsos profetas, e farão tão grandes sinais e prodígios, que, se possível fora, enganariam até os escolhidos." Jesus Cristo também prevê a presença de falsos profetas e a capacidade deles de enganar muitos.
+* 2 Pedro 2:1 - "E também houve entre o povo falsos profetas, como entre vós haverá também falsos doutores que introduzirão encobertamente heresias de perdição, e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina perdição." Pedro também alerta sobre falsos doutores e suas heresias.
+* João 8:31-32 - "Disse, pois, Jesus aos judeus que haviam crido nele: Se vós permanecerdes na minha palavra, verdadeiramente sereis meus discípulos; e conhecereis a verdade, e a verdade vos libertará." João destaca a importância de permanecer nos ensinamentos de Jesus Cristo para conhecer a verdade.
+* 1 João 2:24 - "Portanto, o que desde o princípio ouvistes permaneça em vós. Se em vós permanecer o que desde o princípio ouvistes, também permanecereis no Filho e no Pai." João reforça a ideia de permanecer nos ensinamentos de Jesus Cristo e do Pai.
+****
+
+[[v70-1-1]]
+
+^<<v70-1-1,1>>^ O Ancião à Senhora eleita e a seus filhos que eu amo na verdade — e não somente eu, mas também todos os que têm conhecido a verdade —
+
+[[v70-1-2]]
+
+^<<v70-1-2,2>>^ por causa da verdade que permanece em nós e que será connosco eternamente.
+
+[[v70-1-3]]
+
+^<<v70-1-3,3>>^ Connosco serão a graça, a misericórdia, a paz, da parte de Deus Pai, e da de Jesus Cristo, Filho do Pai, em verdade e em caridade.
+
+[[v70-1-4]]
+
+^<<v70-1-4,4>>^ Muito me alegrei por ter encontrado alguns de teus filhos que seguem o caminho da verdade, segundo o mandamento que recebemos do Pai.
+
+[[v70-1-5]]
+
+^<<v70-1-5,5>>^ E agora rogo-te, Senhora, não como se te escrevesse um novo mandamento, mas o que tivemos desde o principio, que nos amemos uns aos outros.
+
+[[v70-1-6]]
+
+^<<v70-1-6,6>>^ A caridade consiste em que andemos segundo os seus mandamentos. Este é o mandamento, segundo o qual deveis caminhar, como ouvistes desde o princípio.
+
+[[v70-1-7]]
+
+^<<v70-1-7,7>>^ Porque muitos sedutores se têm levantado no mundo, que não confessam que Jesus Cristo tenha vindo em carne: eis o sedutor e o Anticristo.
+
+[[v70-1-8]]
+
+^<<v70-1-8,8>>^ Estai alerta sobre vós, para que não percais o fruto de vossos trabalhos, mas recebais uma plena recompensa.
+
+[[v70-1-9]]
+
+^<<v70-1-9,9>>^ Todo o que se aparta e não permanece na doutrina de Cristo, não tem Deus; o que permanece na doutrina, este tem o Pai e o Filho.
+
+[[v70-1-10]]
+
+^<<v70-1-10,10>>^ Se alguém vem a vós e não traz esta doutrina, não o recebais em vossa casa, nem o saudeis, (ver nota)
+
+[[v70-1-11]]
+
+^<<v70-1-11,11>>^ porque, quem o saúda, participa (em certo modo) das suas obras más.
+
+[[v70-1-12]]
+
+^<<v70-1-12,12>>^ Embora eu tivesse muitas coisas a escrever-vos, não quis fazê-lo por papel e tinta, porque espero ir ter convosco e falar-vos de viva voz, para que a nossa alegria seja perfeita.
+
+[[v70-1-13]]
+
+^<<v70-1-13,13>>^ Saúdam-te os filhos de tua irmã Eleita.
+
+'''
+
+xref:069-i-sao-joao/069-i-sao-joao-005.adoc#v69-5-0[&#60; Capítulo Anterior] | <<v70-1-0,Topo>> | xref:071-iii-sao-joao/071-iii-sao-joao-001.adoc#v71-1-0[Próximo Capítulo &#62;]

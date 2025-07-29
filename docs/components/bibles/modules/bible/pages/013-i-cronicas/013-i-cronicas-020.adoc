@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v13-20-0]]
+=== I Crônicas, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 20 de 1 Crônicas registra as vitórias do rei Davi sobre os filisteus e outros inimigos de Israel. Davi liderou o exército de Israel em diversas batalhas e conquistou várias cidades. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* 2 Samuel 21:15 - "Ainda os filisteus fizeram guerra a Israel; e desceu Davi, e com ele os seus servos, e pelejaram contra os filisteus; e Davi se cansou." Este versículo mostra a continuação da luta contra os filisteus, mencionada em 1 Crônicas 20.
+* Salmos 60:12 - "Em Deus faremos proezas; porque ele é que pisará aos pés os nossos inimigos." Este salmo é atribuído a Davi e expressa a sua confiança em Deus para vencer seus inimigos.
+* Salmos 108:13 - "Em Deus faremos proezas; porque ele é que calcará aos pés os nossos adversários." Este salmo é semelhante ao anterior e também expressa a confiança em Deus para vencer os inimigos.
+* Isaías 25:8 - "Aniquilará a morte para sempre, e assim enxugará o Senhor DEUS as lágrimas de todos os rostos, e tirará o opróbrio do seu povo de toda a terra; porque o SENHOR o disse." Este versículo fala sobre a promessa de Deus de acabar com o sofrimento do seu povo e remover a vergonha que eles experimentaram em suas batalhas.
+* Romanos 8:37 - "Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou." Este versículo fala sobre a vitória dos cristãos em Jesus Cristo, que é maior do que qualquer vitória terrena. Embora não seja diretamente relacionado às batalhas de Davi, ele expressa uma verdade espiritual relevante para qualquer pessoa que esteja lutando contra as adversidades.
+****
+
+[[v13-20-1]]
+
+^<<v13-20-1,1>>^ Ora aconteceu que, tendo decorrido um ano, no tempo em que os reis costumam ir para a guerra, Joab juntou o exército e a flor das tropas, assolou o pais dos Amonitas e pôs cerco a Raba. Davide, porém, ficou em Jerusalém, enquanto Joab bateu Jelaba e a destruiu.
+
+[[v13-20-2]]
+
+^<<v13-20-2,2>>^ Davide tirou a coroa de cima da cabeça de Melcom, e encontrou nela o peso dum talento de ouro e pedras preciosíssimas, de que fez para si um diadema; levou também muitos despojos da cidade.
+
+[[v13-20-3]]
+
+^<<v13-20-3,3>>^ Mandou sair o povo, que havia nela, e empregou-o em serrar, em afiar ferros, em serviços com machados. O mesmo fez em todas as cidades dos Amonitas. (Depois) voltou para Jerusalém com todo o seu povo.
+
+[[v13-20-4]]
+
+^<<v13-20-4,4>>^ Depois disto, travou uma batalha em Gazer contra os Filisteus, durante a qual Sobocai de Husat matou Safai da raça dos Refaim. Os Filisteus ficaram humiIhados.
+
+[[v13-20-5]]
+
+^<<v13-20-5,5>>^ Houve ainda outra guerra contra os Filisteus, na qual Adeodato, filho de Salto de Belém, matou um irmão de Golias, de Get, que tinha uma lança cuja haste era como um órgão dos tecelões.
+
+[[v13-20-6]]
+
+^<<v13-20-6,6>>^ E ainda houve outra batalha em Get, onde foi encontrado um homem de grandíssima estatura, que tinha seis dedos nos pés e nas mãos, isto é, vinte e quatro ao todo, o qual descendia também da raça de Rafa.
+
+[[v13-20-7]]
+
+^<<v13-20-7,7>>^ Este insultava Israel, mas Jonatan, filho de Samaa, irmão de Davide, matou-o. Estes são os filhos de Rafa em Get, que foram mortos pelas mãos de Davide e das suas tropas.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-019.adoc#v13-19-0[&#60; Capítulo Anterior] | <<v13-20-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-021.adoc#v13-21-0[Próximo Capítulo &#62;]

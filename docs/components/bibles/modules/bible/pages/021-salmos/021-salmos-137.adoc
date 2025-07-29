@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-137-0]]
+=== Salmos, 137
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 137 é uma lamentação do povo de Israel, que se encontra exilado na Babilônia, longe de sua terra natal e do Templo de Jerusalém. Eles expressam sua tristeza e saudade de Sião, a cidade santa de Deus, que agora está arrasada. Abaixo estão cinco versículos relacionados aos temas abordados no Salmo 137:
+* Isaías 52:8: "Vozes dos seus atalaias! Eles levantam a voz, juntos exultam, porque veem com os próprios olhos o retorno do SENHOR a Sião." Este versículo fala do retorno do povo de Israel a Sião e da restauração de sua terra.
+* Lamentações 1:4: "As estradas de Sião estão tristes porque ninguém vem para as festas. Todas as suas portas estão desertas; seus sacerdotes suspiram, suas jovens estão tristes, e ela mesma está em amargura." Este versículo descreve a tristeza e a solidão de Sião depois de ter sido destruída pelos babilônios.
+* Jeremias 51:50: "Ouvi, exilados, que estão longe da minha terra! O SENHOR julgou a Babilônia e a fará calar." Este versículo fala da vingança de Deus contra a Babilônia, que destruiu Jerusalém e levou o povo de Israel para o exílio.
+* Salmos 126:1: "Quando o SENHOR trouxe os cativos de volta a Sião, éramos como os que sonham." Este versículo fala da alegria e do espanto do povo de Israel quando foram libertados do exílio e puderam retornar a Sião.
+* Ezequiel 11:17: "Portanto, diga: Assim diz o SENHOR Deus: Eu ajuntarei vocês dentre os povos e os recolherei das terras em que vocês estão espalhados, e lhes darei a terra de Israel." Este versículo fala da promessa de Deus de trazer seu povo de volta para sua terra e restaurá-los.
+****
+
+[[v21-137-1]]
+
+^<<v21-137-1,1>>^ De Davide. Eu te glorificarei, Senhor, de todo o meu coração, porque ouviste as palavras da minha boca; em presença dos anjos te cantarei salmos,
+
+[[v21-137-2]]
+
+^<<v21-137-2,2>>^ prostrar-me-ei no teu santo templo, e glorificarei o teu nome, por tua bondade e fidelidade, porque fizeste grande sobre todas as coisas o teu nome e a tua promessa.
+
+[[v21-137-3]]
+
+^<<v21-137-3,3>>^ Quando te invoquei, ouviste-me, multiplicaste a fortaleza na minha alma.
+
+[[v21-137-4]]
+
+^<<v21-137-4,4>>^ Celebrar-te-ão, Senhor, todos os reis da terra, quando ouvirem as palavras da tua boca;
+
+[[v21-137-5]]
+
+^<<v21-137-5,5>>^ e cantarão os caminhos (o proceder) do Senhor: "verdadeiramente é grande a glória do Senhor."
+
+[[v21-137-6]]
+
+^<<v21-137-6,6>>^ Na verdade, o Senhor é excelso, mas olha para o humilde; ao soberbo, porém, lança o seu olhar de longe.
+
+[[v21-137-7]]
+
+^<<v21-137-7,7>>^ Se eu ando no meio da tribulação (ó Senhor), tu me conservas a vida, estendes a tua mão contra a ira dos meus inimigos, a tua direita me salva.
+
+[[v21-137-8]]
+
+^<<v21-137-8,8>>^ As obras começadas, o Senhor as acabará por mim. Senhor, a tua bondade é eterna, não abandones a obra das tuas mãos.
+
+'''
+
+xref:021-salmos/021-salmos-136.adoc#v21-136-0[&#60; Capítulo Anterior] | <<v21-137-0,Topo>> | xref:021-salmos/021-salmos-138.adoc#v21-138-0[Próximo Capítulo &#62;]

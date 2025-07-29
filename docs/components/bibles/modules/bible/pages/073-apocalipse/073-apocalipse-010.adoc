@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v73-10-0]]
+=== Apocalipse, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Apocalipse 10 trata da visão de João sobre um anjo forte descendo do céu com um livro aberto em sua mão. O anjo coloca um pé sobre a terra e outro sobre o mar e clama com uma voz forte como um leão rugindo. Em seguida, sete trovões emitem suas vozes, mas João é proibido de escrever o que ouviu. Os cinco versículos relacionados aos temas abordados em Apocalipse 10 são:
+* Jeremias 25:30: "E tu, pois, lhes profetizarás todas estas palavras, e lhes dirás: O SENHOR desde o alto ruge, e dá a sua voz desde a sua santa morada; rugirá fortemente contra a sua habitação; dará um grito, como os que pisam as uvas, contra todos os moradores da terra." Este versículo fala sobre Deus rugindo como um leão, semelhante ao que o anjo forte faz em Apocalipse 10.
+* Ezequiel 2:9-10: "Então olhei, e eis que uma mão se estendia para mim, e eis que nela estava um rolo de livro. E estendeu-o diante de mim, e estava escrito por dentro e por fora; e nele estavam escritas lamentações, e suspiros e ais." Este versículo descreve um rolo de livro, semelhante ao livro aberto que o anjo forte segura em sua mão em Apocalipse 10.
+* Daniel 12:4: "Mas tu, Daniel, encerra as palavras, e sela o livro, até ao tempo do fim; muitos correrão de uma parte para outra, e a ciência se multiplicará." Este versículo fala sobre selar um livro, semelhante ao que o anjo forte faz com o livro aberto em sua mão em Apocalipse 10.
+* Salmos 29:3: "A voz do SENHOR ouve-se sobre as suas águas; o Deus da glória troveja; o SENHOR está sobre as muitas águas." Este versículo descreve Deus trovejando, semelhante ao que o anjo forte faz em Apocalipse 10.
+* Êxodo 19:18: "E todo o monte Sinai fumegava, porque o SENHOR descera sobre ele em fogo; e a sua fumaça subiu como fumaça de uma fornalha, e todo o monte tremia grandemente." Este versículo descreve o monte tremendo, semelhante à reação da terra e do mar quando o anjo forte coloca seus pés sobre eles em Apocalipse 10.
+****
+
+[[v73-10-1]]
+
+^<<v73-10-1,1>>^ Depois vi um outro anjo forte, que descia do céu, vestido de uma nuvem, e com o arco-íris sobre a sua cabeça; o seu rosto era como o sol, e as suas pernas como colunas de fogo. (ver nota)
+
+[[v73-10-2]]
+
+^<<v73-10-2,2>>^ Tinha na sua mão um livrinho aberto, e pôs o pé direito sobre o mar, o esquerdo sobre a terra,
+
+[[v73-10-3]]
+
+^<<v73-10-3,3>>^ e gritou em alta voz, como um leão quando ruge. Quando gritou, sete trovões fizeram ouvir as suas vozes.
+
+[[v73-10-4]]
+
+^<<v73-10-4,4>>^ Quando os sete trovões fizeram ouvir as suas vozes, eu dispunha-me a escrever, mas ouvi uma voz do céu que dizia: "Sela as palavras dos sete trovões, e não as escrevas." (ver nota)
+
+[[v73-10-5]]
+
+^<<v73-10-5,5>>^ E o anjo, que eu vira de pé sobre o mar e sobre a terra, levantou a sua mão direita ao céu
+
+[[v73-10-6]]
+
+^<<v73-10-6,6>>^ e jurou por aquele que vive pelos séculos dos séculos, que criou o céu e tudo o que há nele, a terra e tudo o que nela há, o mar e tudo o que há nele (jurou) que não haveria mais tempo (para fazer penitência),
+
+[[v73-10-7]]
+
+^<<v73-10-7,7>>^ mas que nos dias da voz do sétimo anjo, quando começasse a soar a trombeta, se cumpriria o mistério de Deus, como ele o anunciou pelos profetas seus servos. (ver nota)
+
+[[v73-10-8]]
+
+^<<v73-10-8,8>>^ E a voz que eu tinha ouvido do céu, novamente me falava e dizia: "Vai e toma o livrinho que está aberto na mão do anjo, que se mantém de pé sobre o mar e sobre a terra."
+
+[[v73-10-9]]
+
+^<<v73-10-9,9>>^ Fui ter com o anjo, dizendo-lhe que me desse o livrinho. Ele respondeu-me: "Toma-o e devora-o; ele fará amargar o teu ventre, mas na tua boca será doce como mel." (ver nota)
+
+[[v73-10-10]]
+
+^<<v73-10-10,10>>^ Tomei o livrinho da mão do anjo e devorei-o; na minha boca era doce como mel, mas, depois que o devorei, o meu ventre ficou amargurado.
+
+[[v73-10-11]]
+
+^<<v73-10-11,11>>^ Então disse-me: "E’ necessário que ainda profetizes a muitos povos, nações, (homens de diversas) línguas e reis."
+
+'''
+
+xref:073-apocalipse/073-apocalipse-009.adoc#v73-9-0[&#60; Capítulo Anterior] | <<v73-10-0,Topo>> | xref:073-apocalipse/073-apocalipse-011.adoc#v73-11-0[Próximo Capítulo &#62;]

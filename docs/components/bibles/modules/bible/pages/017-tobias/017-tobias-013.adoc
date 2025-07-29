@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v17-13-0]]
+=== Tobias, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Tobias 13 fala sobre a alegria e gratidão de Tobias e sua família pelo sucesso de sua jornada, o retorno de Tobias com sua esposa e a cura de seu pai cego. Os versículos relacionados com esse tema são:
+* Salmos 126:2: "Então a nossa boca se encheu de riso e a nossa língua de canções; então se disse entre as nações: Grandes coisas fez o Senhor por eles." Esse salmo expressa a alegria de um povo que retornou do exílio e foi restaurado por Deus, assim como Tobias e sua família foram restaurados por Deus após sua jornada.
+* Salmos 105:1: "Louvai ao Senhor e invocai o seu nome; fazei conhecidas as suas obras entre os povos." Este verso encoraja as pessoas a louvar e dar graças a Deus por suas obras maravilhosas, como a cura do pai de Tobias e o sucesso de sua jornada.
+* Isaías 12:4: "E direis naquele dia: Dai graças ao Senhor, invocai o seu nome, tornai manifestos os seus feitos entre os povos, proclamai que o seu nome é exaltado." Este verso também incentiva a dar graças a Deus e proclamar suas obras maravilhosas para o mundo inteiro.
+* 1 Tessalonicenses 5:18: "Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco." Este verso enfatiza a importância de dar graças a Deus em todas as circunstâncias, assim como Tobias e sua família estavam fazendo por sua cura e sucesso.
+* Filipenses 4:4: "Alegrai-vos sempre no Senhor; outra vez digo, alegrai-vos." Este verso encoraja as pessoas a encontrar alegria em Deus em todos os momentos, assim como Tobias e sua família encontraram alegria em sua restauração e sucesso.
+****
+
+[[v17-13-1]]
+
+^<<v17-13-1,1>>^ O velho Tobias, abrindo a sua boca, disse ao Senhor, assim: Tu, Senhor, es grande na eternidade, e o teu reino estende-se por todos os séculos.
+
+[[v17-13-2]]
+
+^<<v17-13-2,2>>^ Com efeito, tu castigas e salvas, conduzes até ao sepulcro e ressuscitas, e ninguém há que possa subtrair-se á tua mão.
+
+[[v17-13-3]]
+
+^<<v17-13-3,3>>^ Dai graças ao Senhor, filhos de Israel, e louvai-o diante das nações,
+
+[[v17-13-4]]
+
+^<<v17-13-4,4>>^ porque ele vos espalhou por entre os povos que o não conhecem, a fim de que vós publiqueis as suas maravilhas, e lhes façais saber que não há outro Deus omnipotente senão ele.
+
+[[v17-13-5]]
+
+^<<v17-13-5,5>>^ Ele castigou-nos por causa das nossas iniquidades, e ele mesmo nos salvará pela sua misericórdia.
+
+[[v17-13-6]]
+
+^<<v17-13-6,6>>^ Considerai, pois, o que ele fez connosco, e bendizei-o com temor e tremor, exaltai o rei dos séculos com as vossas obras.
+
+[[v17-13-7]]
+
+^<<v17-13-7,7>>^ Eu lhe darei louvor na terra do meu cativeiro, porque manifestou a sua glória sobre uma nação pecadora.
+
+[[v17-13-8]]
+
+^<<v17-13-8,8>>^ Convertei-vos, pois, ó pecadores, e sede justos diante de Deus, confiando em que ele usará convosco da sua misericórdia.
+
+[[v17-13-9]]
+
+^<<v17-13-9,9>>^ Quanto a mim, eu me regozijarei nele com toda a minha alma.
+
+[[v17-13-10]]
+
+^<<v17-13-10,10>>^ Bendizei ao Senhor, vós todos os seus escolhidos; celebrai dias de alegria e rendei-lhe louvores.
+
+[[v17-13-11]]
+
+^<<v17-13-11,11>>^ Jerusalém, cidade de Deus, o Senhor te castigou por causa das obras das tuas mãos.
+
+[[v17-13-12]]
+
+^<<v17-13-12,12>>^ Dá graças ao Senhor pelos teus bens, bendiz o Deus dos séculos, para que restabeleça em ti o seu santuário, reconduza a ti todos os cativos, e tu te alegres por todos os séculos dos séculos.
+
+[[v17-13-13]]
+
+^<<v17-13-13,13>>^ Tu brilharás com uma refulgente luz, e todos os povos da terra se prostrarão diante de ti.
+
+[[v17-13-14]]
+
+^<<v17-13-14,14>>^ As nações virão a ti de longe, e, trazendo dádivas, adorarão em teus muros o Senhor, e terão a tua terra por santa.
+
+[[v17-13-15]]
+
+^<<v17-13-15,15>>^ Eles invocarão o grande nome (do Senhor) dentro de ti.
+
+[[v17-13-16]]
+
+^<<v17-13-16,16>>^ Serão malditos os que te desprezarem, condenados os que blasfemarem contra ti, benditos os que te edificarem.
+
+[[v17-13-17]]
+
+^<<v17-13-17,17>>^ Tu alegrar-te-ás nos teus filhos, porque serão todos benditos, e se reunirão ao Senhor.
+
+[[v17-13-18]]
+
+^<<v17-13-18,18>>^ Bem-aventurados todos os que te amam e se alegram na tua paz.
+
+[[v17-13-19]]
+
+^<<v17-13-19,19>>^ Ó minha alma, bendiz ao Senhor, porque livrou a sua cidade de Jerusalém de todas as suas tribulações, ele, o Senhor nosso Deus.
+
+[[v17-13-20]]
+
+^<<v17-13-20,20>>^ Ditoso de mim, se restar ainda alguém da minha descendência, para ver o esplendor de Jerusalém.
+
+[[v17-13-21]]
+
+^<<v17-13-21,21>>^ As portas de Jerusalém serão construídas de safiras e de esmeraldas, e de pedras preciosas todo o circuito dos seus muros.
+
+[[v17-13-22]]
+
+^<<v17-13-22,22>>^ Todas as suas praças serão calçadas de pedras de brancura imaculada; em todas as suas ruas se cantará: Aleluia.
+
+[[v17-13-23]]
+
+^<<v17-13-23,23>>^ Bendito o Senhor, que a exaltou; que o seu reinado seja sobre ela pelos séculos dos séculos. Amen.
+
+'''
+
+xref:017-tobias/017-tobias-012.adoc#v17-12-0[&#60; Capítulo Anterior] | <<v17-13-0,Topo>> | xref:017-tobias/017-tobias-014.adoc#v17-14-0[Próximo Capítulo &#62;]

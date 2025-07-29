@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v21-79-0]]
+=== Salmos, 79
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 79 é outro salmo de lamentação, em que o salmista clama a Deus diante da destruição de Jerusalém e da profanação do templo pelos inimigos. Ele pede a Deus que se levante e defenda o seu povo, e lamenta a morte de muitos dos seus. A seguir, estão cinco versículos relacionados aos temas abordados em Salmo 79, em ordem de proximidade com o capítulo:
+* Salmos 74:3-4: "Levanta os teus pés para as perpétuas assolações, para tudo o que o inimigo tem feito de mal no santuário. Os teus inimigos bramam no meio dos teus lugares santos; põem neles as suas insígnias por sinais." O salmista de Salmo 74 lamenta a destruição do templo, assim como o salmista de Salmo 79.
+* Salmos 89:40-41: "Arrasaste todas as suas cercas, e fizeste em pedaços as suas fortalezas. Todos os que passam pelo caminho o despojam; tornou-se ele opróbrio para os seus vizinhos." Este versículo de Salmo 89 descreve a destruição da cidade, assim como o salmista de Salmo 79 testemunha.
+* Lamentações 5:20-22: "Por que nos rejeitas para sempre, e te indignas contra nós cada vez mais? Torna-nos a ti, SENHOR, e voltaremos; renova os nossos dias como dantes; contudo, tu nos rejeitaste e te indignaste contra nós em grande maneira." Este trecho de Lamentações também clama a Deus por socorro e pede que Ele se volte novamente para o seu povo.
+* Salmos 44:9-10: "Mas tu nos rejeitaste e nos confundiste, e não sais com os nossos exércitos. Fizeste-nos recuar diante do inimigo; e os que nos odeiam tomaram para si a presa." O salmista de Salmo 44 também se lamenta diante da aparente rejeição de Deus e da derrota diante dos inimigos.
+* Salmos 60:1: "Ó Deus, tu nos rejeitaste e nos espalhaste; tu te indignaste; oh, volta-te para nós!" Este versículo de Salmo 60 é mais uma oração de clamor a Deus, pedindo que Ele volte a atenção para o seu povo.
+****
+
+[[v21-79-1]]
+
+^<<v21-79-1,1>>^ Ao mestre do coro. Segundo a melodia de "o lírio da lei..." De Asaf. Salmo.
+
+[[v21-79-2]]
+
+^<<v21-79-2,2>>^ Tu que apascentas Israel, atende, tu que conduzes José como um rebanho. Tu que estás sentado sobre os querubins, manifesta-te com esplendor. (ver nota)
+
+[[v21-79-3]]
+
+^<<v21-79-3,3>>^ diante de Efraim, Benjamim e Manassés. Desperta o teu poder, e vem para nos salvar.
+
+[[v21-79-4]]
+
+^<<v21-79-4,4>>^ Ó Deus, restaura-nos e mostra-nos sempre o teu rosto, para que sejamos salvos.
+
+[[v21-79-5]]
+
+^<<v21-79-5,5>>^ Senhor Deus dos exércitos, até quando estarás irado, não obstante o teu povo orar?
+
+[[v21-79-6]]
+
+^<<v21-79-6,6>>^ Alimentaste-lo com pão de lágrimas, deste-lhe a beber lágrimas com abundância.
+
+[[v21-79-7]]
+
+^<<v21-79-7,7>>^ Fizeste de nós um objecto de disputa para os nossos vizinhos, e os nossos inimigos fazem escárnio de nós.
+
+[[v21-79-8]]
+
+^<<v21-79-8,8>>^ Deus dos exércitos, restaura-nos e mostra sereno o teu rosto, para que sejamos salvos.
+
+[[v21-79-9]]
+
+^<<v21-79-9,9>>^ Uma videira arrancaste do Egipto, expulsaste as gentes e a plantaste. (ver nota)
+
+[[v21-79-10]]
+
+^<<v21-79-10,10>>^ Preparaste-lhe o terreno; ela lançou raízes e encheu a terra.
+
+[[v21-79-11]]
+
+^<<v21-79-11,11>>^ A sua sombra cobriu os montes, e os seus sarmentos os cedros de Deus.
+
+[[v21-79-12]]
+
+^<<v21-79-12,12>>^ Estendeu a sua ramagem até ao mar, e até ao rio os seus rebentos.
+
+[[v21-79-13]]
+
+^<<v21-79-13,13>>^ Para que destruíste a sua cerca, de modo que a vindimem todos os que passam pelo caminho,
+
+[[v21-79-14]]
+
+^<<v21-79-14,14>>^ e a devaste o javali da selva, e se apascentem nela as bestas do campo?
+
+[[v21-79-15]]
+
+^<<v21-79-15,15>>^ Ó Deus dos exércitos, volta-te, olha do alto do céu e vê, visita esta videira.
+
+[[v21-79-16]]
+
+^<<v21-79-16,16>>^ Protege aquela que a lua dextra plantou, e o rebento que para ti fortaleceste.
+
+[[v21-79-17]]
+
+^<<v21-79-17,17>>^ Os que a incendiaram e talaram pereçam ante a ameaça do teu rosto
+
+[[v21-79-18]]
+
+^<<v21-79-18,18>>^ Esteja a tua mão sobre o homem da tua dextra, sobre o filho do homem que para ti fortaleceste.
+
+[[v21-79-19]]
+
+^<<v21-79-19,19>>^ Não nos afastaremos mais de ti; tu nos conservarás a vida, e proclamaremos o teu nome.
+
+[[v21-79-20]]
+
+^<<v21-79-20,20>>^ Senhor, Deus dos exércitos, restaura-nos e mostra-nos sereno o teu rosto, para que sejamos salvos.
+
+'''
+
+xref:021-salmos/021-salmos-078.adoc#v21-78-0[&#60; Capítulo Anterior] | <<v21-79-0,Topo>> | xref:021-salmos/021-salmos-080.adoc#v21-80-0[Próximo Capítulo &#62;]

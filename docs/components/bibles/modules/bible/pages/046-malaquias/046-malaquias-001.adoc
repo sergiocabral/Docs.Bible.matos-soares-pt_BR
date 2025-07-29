@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v46-1-0]]
+=== Malaquias, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Malaquias 1 é um capítulo que fala sobre a falta de reverência e adoração apropriada que o povo de Israel estava oferecendo a Deus. Os sacerdotes estavam trazendo animais doentes e aleijados para serem oferecidos em sacrifício, em vez de animais saudáveis e perfeitos. Deus repreendeu o povo por essa atitude e alertou sobre as consequências de sua desobediência. Aqui estão cinco versículos relacionados com os temas abordados em Malaquias 1:
+* Deuteronômio 15:21: "Mas se houver algum defeito nele, como manco ou cego, ou qualquer defeito grave, não o sacrificarás ao Senhor teu Deus." Este verso fala sobre a importância de trazer sacrifícios sem defeito para Deus, o que é um tema importante em Malaquias 1. Ele mostra que essa expectativa era conhecida e observada desde os dias de Moisés.
+* Levítico 22:21: "Quem oferecer sacrifício de comunhão ao Senhor deverá oferecê-lo de sua própria vontade e de maneira aceitável; deve ser sem defeito, sem mancha ou defeito." Este verso fala sobre a oferta de sacrifícios aceitáveis a Deus e é relevante para a repreensão que Deus fez em Malaquias 1 sobre os animais aleijados que estavam sendo trazidos para o templo.
+* Isaías 43:22-24: "Mas tu não me invocaste, ó Jacó; tu não me deste trabalho, ó Israel. Não me trouxeste cordeiros para os teus holocaustos, nem me honraste com os teus sacrifícios. Não te fiz servir com ofertas, nem te cansei com incenso." Este verso mostra a falta de adoração apropriada que o povo de Israel estava oferecendo a Deus, o que é um tema central em Malaquias 1.
+* Jeremias 33:18: "Nem faltará aos levitas homem diante de mim, para oferecer holocaustos, e queimar ofertas de cereais, e para fazer sacrifícios todos os dias." Este verso fala sobre a importância dos sacerdotes em oferecer sacrifícios apropriados a Deus e é relevante para a mensagem de Malaquias 1 sobre os sacerdotes que estavam oferecendo sacrifícios inadequados.
+* Salmo 51:17: "Os sacrifícios de Deus são o espírito quebrantado; um coração quebrantado e contrito, ó Deus, não desprezarás." Este verso fala sobre a importância do coração quebrantado e contrito em adoração a Deus. Ele é relevante para a mensagem de Malaquias 1 sobre a importância de oferecer sacrifícios que são verdadeiramente aceitáveis a Deus, e não apenas os animais saudáveis, mas o coração do adorador também.
+****
+
+[[v46-1-1]]
+
+^<<v46-1-1,1>>^ Oráculo. Palavra do Senhor contra Israel, por intermédio de Malaquias.
+
+[[v46-1-2]]
+
+^<<v46-1-2,2>>^ Eu vos amei, diz o Senhor. Entretanto dizeis: Em que nos amaste? — Porventura não era Esaú irmão de Jacob? — diz o Senhor? Contudo amei Jacob (ver nota)
+
+[[v46-1-3]]
+
+^<<v46-1-3,3>>^ e aborreci Esaú, reduzi os seus montes a uma solidão e deixei a sua herança aos chacais do deserto.
+
+[[v46-1-4]]
+
+^<<v46-1-4,4>>^ Se a Idumeia disser: Fomos destruídos, mas voltaremos para edificar o que foi destruído — isto diz o Senhor dos exércitos: Eles edificarão, e eu destruirei; serão chamados país de impiedade, povo contra o qual se irou o Senhor para sempre.
+
+[[v46-1-5]]
+
+^<<v46-1-5,5>>^ Os vossos olhos o verão e vós direis: Glorificado seja o Senhor, mesmo para além da terra de Israel.
+
+[[v46-1-6]]
+
+^<<v46-1-6,6>>^ O filho honra seu pai, e o servo o seu senhor. Se eu, pois, sou vosso pai, onde está a minha honra? E se eu sou vosso Senhor, onde está o temor que se me deve? — diz o Senhor dos exércitos. A vós, sacerdotes, (é isto dirigido, a vós) que desprezais o meu nome e que dizeis; Em que desprezamos o teu nome?
+
+[[v46-1-7]]
+
+^<<v46-1-7,7>>^ (Nisto:) Ofereceis sobre o meu altar um pão imundo. Também dizeis: Em que te profanamos? — Nisso que dizeis: A mesa do Senhor é desprezível. (ver nota)
+
+[[v46-1-8]]
+
+^<<v46-1-8,8>>^ Se ofereceis um (animal) cego para ser imolado, não é isto mau? E se ofereceis um coxo e doente, não é isto mau? Oferece (isso) ao teu governador e verás se lhe agradará, se te receberá com agrado, diz o Senhor dos exércitos.
+
+[[v46-1-9]]
+
+^<<v46-1-9,9>>^ E agora rogais a Deus que se compadeça de vós! Tudo isto foi feito por vossas mãos. (Regias circunstâncias) receber-vos-á favoravelmente?— diz o Senhor dos exércitos.
+
+[[v46-1-10]]
+
+^<<v46-1-10,10>>^ Quem há entre vós que feche as portas, para que se não acenda o lume inutilmente sobre o meu altar? O meu afecto não está em vós, diz o Senhor dos exércitos, nem aceitarei oferenda alguma da vossa mão. (ver nota)
+
+[[v46-1-11]]
+
+^<<v46-1-11,11>>^ Desde o nascente ao poente, o meu nome é grande entre as nações, e em todo o lugar se oferece ao meu nome um sacrifício fumegante e uma oblação pura, porque o meu nome é grande entre as nações, diz o Senhor dos exércitos. (ver nota)
+
+[[v46-1-12]]
+
+^<<v46-1-12,12>>^ Entretanto vós o profanais, dizendo: A mesa do Senhor está contaminada; e aquilo que se oferece em cima dela é alimento desprezível.
+
+[[v46-1-13]]
+
+^<<v46-1-13,13>>^ Dizeis ainda: Ai, que fastio! — e só mostrais desprezo pelo altar — diz o Senhor dos exércitos. Trazeis o animal roubado, o coxo, o doente, como oferta para mim. Julgais que receberei um tal presente da vossa mão? — diz o Senhor.
+
+[[v46-1-14]]
+
+^<<v46-1-14,14>>^ Maldito seja o homem enganador, que tem no seu rebanho um animal masculino (e são) do qual fez voto ao Senhor, e lhe sacrifica um doente. Porque eu sou o grande Rei, diz o Senhor dos exércitos, e o meu nome é temido entre as nações.
+
+'''
+
+xref:045-zacarias/045-zacarias-014.adoc#v45-14-0[&#60; Capítulo Anterior] | <<v46-1-0,Topo>> | xref:046-malaquias/046-malaquias-002.adoc#v46-2-0[Próximo Capítulo &#62;]

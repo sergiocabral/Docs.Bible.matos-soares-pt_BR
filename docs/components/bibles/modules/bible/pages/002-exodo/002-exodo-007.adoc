@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v2-7-0]]
+=== Êxodo, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Êxodo 7, Deus começa a mostrar seu poder diante do faraó e do povo egípcio através de Moisés e Aarão, enviando diversas pragas sobre o Egito para libertar os hebreus da escravidão. Alguns temas abordados incluem a autoridade de Deus sobre os deuses egípcios, o endurecimento do coração do faraó e a libertação dos hebreus da escravidão. Abaixo seguem cinco versículos relacionados com esses temas:
+* Êxodo 7:5 - "E os egípcios conhecerão que eu sou o Senhor, quando estender a minha mão sobre o Egito, e tirar os filhos de Israel do meio deles." Neste versículo, Deus declara seu poder e autoridade sobre os deuses egípcios e o povo, mostrando que ele é o único verdadeiro Deus.
+* Êxodo 7:13 - "E o coração do faraó se endureceu, e não os ouviu, como o Senhor tinha dito." Esse versículo ilustra a resistência do faraó à mensagem de Moisés e Aarão e como Deus permitiu que seu coração se endurecesse para cumprir sua vontade.
+* Êxodo 7:17 - "Assim diz o Senhor: Nisto saberás que eu sou o Senhor; eis que eu com esta vara que tenho na mão ferirei as águas que estão no rio, e tornar-se-ão em sangue." Aqui, Deus anuncia a primeira praga que enviará sobre o Egito, transformando as águas do rio Nilo em sangue.
+* Êxodo 7:22 - "Então os magos do Egito fizeram o mesmo com os seus encantamentos; e o coração do faraó se endureceu, e não os ouviu, como o Senhor tinha dito." Esse versículo mostra como os magos egípcios conseguiram replicar a transformação da água em sangue através de seus próprios encantamentos, mas mesmo assim o faraó não se convenceu a libertar os hebreus.
+* Êxodo 7:25 - "E sete dias se passaram, depois que o Senhor feriu o rio." Este versículo marca o fim da primeira praga, e mostra como as pragas de Deus foram progressivamente piorando e durando mais tempo, intensificando a pressão sobre o faraó para que libertasse os hebreus.
+****
+
+[[v2-7-1]]
+
+^<<v2-7-1,1>>^ O Senhor disse a Moisés: Repara que te constitui deus de Faraó; Aarão, teu irmão, será teu profeta. (ver nota)
+
+[[v2-7-2]]
+
+^<<v2-7-2,2>>^ Tu lhe dirás tudo o que eu te mando, e ele falará a Faraó, para que deixe partir do seu país os filhos de Israel.
+
+[[v2-7-3]]
+
+^<<v2-7-3,3>>^ Eu endurecerei o seu coração, e multiplicarei os meus sinais e os meus prodigios na terra do Egipto.
+
+[[v2-7-4]]
+
+^<<v2-7-4,4>>^ Faraó não vos ouvirá, mas eu estenderei a minha mão sobre o Egipto e farei sair do Egipto o meu exército, o meu povo, os filhos de Israel, por meio dos maiores juízos.
+
+[[v2-7-5]]
+
+^<<v2-7-5,5>>^ Os Egípcios saberão que eu sou o Senhor, quando eu estender a minha mão sobre o Egipto, e fizer sair do meio deles os filhos de Israel.
+
+[[v2-7-6]]
+
+^<<v2-7-6,6>>^ Fizeram, pois, Moisés e Aarão como o Senhor tinha mandado; fizeram-no exactamente.
+
+[[v2-7-7]]
+
+^<<v2-7-7,7>>^ Moisés tinha oitenta anos, e Aarão oitenta e três, quando falaram a Faraó.
+
+[[v2-7-8]]
+
+^<<v2-7-8,8>>^ O Senhor disse a Moisés e a Aarão:
+
+[[v2-7-9]]
+
+^<<v2-7-9,9>>^ Quando Faraó vos disser: Fazei um prodígio-tu dirás a Aarão: Pega na tua vara, lança-a por terra diante de Faraó, e ela se converterá em serpente.
+
+[[v2-7-10]]
+
+^<<v2-7-10,10>>^ Tendo, pois, Moisés e Aarão ido à presença de Faraó, fizeram conforme o Senhor tinha ordenado: Aarão lançou por terra a vara diante de Faraó e dos seus servos, e ela converteu-se em serpente.
+
+[[v2-7-11]]
+
+^<<v2-7-11,11>>^ Mas Faraó chamou os sábios e os magos, e eles fizeram também coisas semelhantes por meio dos encantamentos egípcios e de certos segredos.
+
+[[v2-7-12]]
+
+^<<v2-7-12,12>>^ Lançaram por terra cada um deles as suas varas, as quais se converteram em dragões, mas a vara de Aarão devorou as varas deles. (ver nota)
+
+[[v2-7-13]]
+
+^<<v2-7-13,13>>^ Endureceu-se o coração de Faraó e não os ouviu, como o Senhor tinha dito.
+
+[[v2-7-14]]
+
+^<<v2-7-14,14>>^ O Senhor disse a Moisés: Obstinou-se o coração de Faraó; não quer deixar partir o (meu) povo.
+
+[[v2-7-15]]
+
+^<<v2-7-15,15>>^ Vai ter com ele pela manhã. Ele sairá (para ir) ao rio, e tu estarás em frente dele sobre a margem do rio, tomarás na tua mão a vara, que se converteu em dragão,
+
+[[v2-7-16]]
+
+^<<v2-7-16,16>>^ e lhe dirás: o Senhor Deus dos Hebreus enviou-me a ti para (te) dizer: Deixa sair o meu povo para que me ofereça sacrifícios no deserto. Até ao presente não quiseste ouvir.
+
+[[v2-7-17]]
+
+^<<v2-7-17,17>>^ Olha, pois, o que diz o Senhor: Nisto conhecerás que eu sou o Senhor: ferirei com a vara, que tenho na minha mão, a água do rio e ela se converterá em sangue.
+
+[[v2-7-18]]
+
+^<<v2-7-18,18>>^ Os peixes que há no rio morrerão, as águas se corromperão, e os Egípcios sentirão repugnância de a beber.
+
+[[v2-7-19]]
+
+^<<v2-7-19,19>>^ O Senhor disse também a Moisés; Dize a Aarão: Toma a tua vara, e estende a tua mão sobre as águas do Egipto, sobre os seus rios, ribeiros, lagoas, e todos os reservatórios de águas, para que se convertam em sangue; e haverá sangue em toda a terra do Egipto, tanto nos vasos de madeira, como nos de pedra.
+
+[[v2-7-20]]
+
+^<<v2-7-20,20>>^ Moisés e Aarão fizeram como o Senhor lhes mandará. (Aarão), levantando a vara, feriu a água do rio, na presença de Faraó e dos seus servos, e ela converteu-se em sangue.
+
+[[v2-7-21]]
+
+^<<v2-7-21,21>>^ Os peixes, que havia no rio, morreram, e o rio, corrompeu-se, e os Egípcios não podiam beber da água do rio, e houve sangue por toda a terra do Egípto.
+
+[[v2-7-22]]
+
+^<<v2-7-22,22>>^ Porém os magos do Egipto fizeram coisas semelhantes com os seus encantamentos, e o coração de Faraó endureceu-se, e não os ouviu, como o Senhor tinha predito. (ver nota)
+
+[[v2-7-23]]
+
+^<<v2-7-23,23>>^ (Faraó) voltou-lhes as costas, entrou em sua casa e não aplicou o seu coração (a estas coisas) ainda desta vez.
+
+[[v2-7-24]]
+
+^<<v2-7-24,24>>^ Todos os Egípcios cavaram nos arredores do rio para encontrar água potável, porque não podiam beber da água do rio
+
+[[v2-7-25]]
+
+^<<v2-7-25,25>>^ Passaram-se (entretanto) sete dias, depois que o Senhor feriu o rio.
+
+'''
+
+xref:002-exodo/002-exodo-006.adoc#v2-6-0[&#60; Capítulo Anterior] | <<v2-7-0,Topo>> | xref:002-exodo/002-exodo-008.adoc#v2-8-0[Próximo Capítulo &#62;]

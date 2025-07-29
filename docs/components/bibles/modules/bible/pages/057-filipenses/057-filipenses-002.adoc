@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v57-2-0]]
+=== Filipenses, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Filipenses aborda a humildade de Cristo como exemplo para os cristãos. Paulo exorta os filipenses a terem a mesma atitude de Cristo, que se esvaziou de sua glória divina para se tornar servo e morrer na cruz pelos pecados da humanidade. Ele enfatiza a importância da unidade e da cooperação entre os cristãos, evitando a inveja, o egoísmo e a murmuração. A seguir, são apresentados cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Filipenses 2.
+* João 13:14: "Ora, se eu, Senhor e Mestre, vos lavei os pés, vós deveis também lavar os pés uns dos outros." Neste versículo, Jesus ensina seus discípulos a servirem uns aos outros, algo que Paulo também enfatiza em Filipenses 2:3-4. Ele destaca a importância da humildade e do serviço, algo que foi exemplificado pela atitude de Cristo.
+* 1 Pedro 5:5: "Semelhantemente vós jovens, sede sujeitos aos anciãos; e sede todos sujeitos uns aos outros, e revesti-vos de humildade, porque Deus resiste aos soberbos, mas dá graça aos humildes." Pedro também enfatiza a importância da humildade e da submissão mútua entre os cristãos. Ele ressalta que a humildade é uma virtude essencial para agradar a Deus e alcançar a sua graça.
+* Tiago 4:10: "Humilhai-vos perante o Senhor, e ele vos exaltará." Tiago exorta os cristãos a se humilharem diante de Deus, reconhecendo a sua dependência e necessidade do Senhor. Esta atitude de humildade é uma forma de honrar a Deus e ser exaltado por Ele, algo que Paulo também destaca em Filipenses 2:9-11.
+* 1 Coríntios 10:24: "Ninguém busque o proveito próprio, antes cada um o que é de outrem." Paulo enfatiza em Filipenses 2:3-4 a importância de não buscar o próprio interesse, mas sim o interesse dos outros. Este versículo em 1 Coríntios 10 também enfatiza a importância da cooperação e do altruísmo entre os cristãos.
+* Colossenses 3:12: "Revesti-vos, pois, como eleitos de Deus, santos e amados, de ternos afetos de misericórdia, de bondade, de humildade, de mansidão, de longanimidade." Este versículo destaca as virtudes cristãs que devem ser cultivadas pelos crentes, incluindo a humildade. Paulo enfatiza em Filipenses 2 a importância de ter a mente de Cristo, que se esvaziou de sua glória divina para se tornar servo, e a importância de seguir este exemplo em nossa própria vida.
+****
+
+[[v57-2-1]]
+
+^<<v57-2-1,1>>^ Portanto, se há alguma consolação em Cristo, se algum conforto de caridade, se alguma união de espírito, se alguma ternura e compaixão,
+
+[[v57-2-2]]
+
+^<<v57-2-2,2>>^ tornai completo o meu gozo, tendo todos o mesmo pensar, a mesma caridade, uma só alma, um mesmo sentimento;
+
+[[v57-2-3]]
+
+^<<v57-2-3,3>>^ nada façais por espírito de partido ou por vanglória, mas cada um, por humildade, considere os outros superiores a si,
+
+[[v57-2-4]]
+
+^<<v57-2-4,4>>^ não atendendo (só) aos seus próprios interesses, mas também aos dos outros.
+
+[[v57-2-5]]
+
+^<<v57-2-5,5>>^ Tende entre vós os mesmos sentimentos que se deve ter em Jesus Cristo,
+
+[[v57-2-6]]
+
+^<<v57-2-6,6>>^ o qual, existindo na forma (ou natureza) de Deus, não julgou que fosse uma usurpação o seu ser igual a Deus, (ver nota)
+
+[[v57-2-7]]
+
+^<<v57-2-7,7>>^ mas aniquilou-se a si mesmo, tomando a forma de servo, tornando-se semelhante aos homens e sendo reconhecido, por condição, como homem.
+
+[[v57-2-8]]
+
+^<<v57-2-8,8>>^ Humilhou-se a si mesmo, fazendo-se obediente até à morte, e morte da cruz.
+
+[[v57-2-9]]
+
+^<<v57-2-9,9>>^ Por isso também Deus o exaltou e lhe deu um nome que está acima de todo o nome,
+
+[[v57-2-10]]
+
+^<<v57-2-10,10>>^ de modo que, ao nome de Jesus, se dobre todo o joelho no céu, na terra e no inferno,
+
+[[v57-2-11]]
+
+^<<v57-2-11,11>>^ e toda a língua confesse que Jesus Cristo é Senhor, na glória de Deus Pai.
+
+[[v57-2-12]]
+
+^<<v57-2-12,12>>^ Portanto, meus caríssimos, como sempre tendes sido obedientes, trabalhai na vossa salvação com temor e tremor, não só na minha presença, mas muito mais agora na minha ausência. (ver nota)
+
+[[v57-2-13]]
+
+^<<v57-2-13,13>>^ Porque Deus é o que opera em vós o querer e o executar, segundo o seu beneplácito.
+
+[[v57-2-14]]
+
+^<<v57-2-14,14>>^ Fazei, pois, todas as coisas sem murmuração nem contestações,
+
+[[v57-2-15]]
+
+^<<v57-2-15,15>>^ a fim de serdes irrepreensíveis e sinceros filhos de Deus, sem culpa, no meio de uma nação depravada e corrompida, onde brilhais como astros do mundo,
+
+[[v57-2-16]]
+
+^<<v57-2-16,16>>^ conservando a palavra de vida (que vos preguei), para eu ter a glória, no dia (da segunda vinda) de Cristo, de não haver corrido nem trabalhado em vão.
+
+[[v57-2-17]]
+
+^<<v57-2-17,17>>^ Mas, ainda que o meu sangue deva servir de libação sobre o sacrifício e a oferenda da vossa fé, alegro-me e congratulo-me com todos vós.
+
+[[v57-2-18]]
+
+^<<v57-2-18,18>>^ E vós também alegrai-vos e congratulai-vos comigo.
+
+[[v57-2-19]]
+
+^<<v57-2-19,19>>^ Espero, no Senhor Jesus enviar-vos brevemente Timóteo, para que eu também fique animado, recebendo noticias de vós,
+
+[[v57-2-20]]
+
+^<<v57-2-20,20>>^ porque não tenho ninguém como ele, unido comigo em sentimentos, que se interesse por vós sinceramente:
+
+[[v57-2-21]]
+
+^<<v57-2-21,21>>^ Com efeito, todos buscam os seus próprios interesses, e não os que são de Jesus Cristo.
+
+[[v57-2-22]]
+
+^<<v57-2-22,22>>^ Sabeis que ele é de uma virtude provada e que, como um filho com o pai, serviu comigo o Evangelho.
+
+[[v57-2-23]]
+
+^<<v57-2-23,23>>^ Espero, pois, mandar-vo-lo, logo que tiver visto o estado das minhas coisas.
+
+[[v57-2-24]]
+
+^<<v57-2-24,24>>^ E confio no Senhor que também eu próprio brevemente irei ter convosco.
+
+[[v57-2-25]]
+
+^<<v57-2-25,25>>^ Entretanto, julguei necessário mandar-vos Epafrodito, meu irmão, coadjutor e companheiro de luta, e vosso enviado para me socorrer nas minhas necessidades,
+
+[[v57-2-26]]
+
+^<<v57-2-26,26>>^ pois que ele desejava, por certo, ver-vos de novo a todos e tinha pena de que tivésseis notícia da sua doença.
+
+[[v57-2-27]]
+
+^<<v57-2-27,27>>^ Com efeito, esteve mortalmente enfermo, mas Deus compadeceu-se dele, e não somente dele, mas também de mim, para que eu não tivesse tristeza sobre tristeza.
+
+[[v57-2-28]]
+
+^<<v57-2-28,28>>^ Por isso o enviei mais depressa para que, vendo-o, de novo vos alegreis e eu fique com menor tristeza (sabendo que estais alegres).
+
+[[v57-2-29]]
+
+^<<v57-2-29,29>>^ Recebei-o, pois, com todo o gênero de alegria no Senhor e tratai com honra tais pessoas (que se sacrificam pelo Evangelho).
+
+[[v57-2-30]]
+
+^<<v57-2-30,30>>^ Efectivamente , pelo serviço de Cristo, chegou às portas da morte, arriscando a própria vida para vos suprir no serviço que vós me não podíeis prestar.
+
+'''
+
+xref:057-filipenses/057-filipenses-001.adoc#v57-1-0[&#60; Capítulo Anterior] | <<v57-2-0,Topo>> | xref:057-filipenses/057-filipenses-003.adoc#v57-3-0[Próximo Capítulo &#62;]

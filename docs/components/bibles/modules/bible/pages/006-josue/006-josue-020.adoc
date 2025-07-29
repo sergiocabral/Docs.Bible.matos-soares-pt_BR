@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v6-20-0]]
+=== Josué, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 20 de Josué trata da instituição das cidades de refúgio em Israel, lugares onde uma pessoa que tivesse matado alguém sem intenção poderia se refugiar e ter proteção contra a vingança da família da vítima. Essas cidades deveriam estar estrategicamente localizadas para que pudessem ser alcançadas facilmente por qualquer pessoa em busca de proteção. A seguir estão cinco versículos relacionados com o tema dos capítulos selecionados de outros livros da Bíblia:
+* Deuteronômio 4:41-42: "Então Moisés separou três cidades a leste do rio Jordão, para onde poderia fugir quem matasse alguém sem intenção. Quem tivesse matado alguém sem intenção e fugisse para uma dessas cidades viveria." Este versículo fala sobre a escolha das cidades de refúgio por Moisés antes da morte dele, como uma medida de justiça e proteção para aqueles que mataram sem intenção.
+* Números 35:6: "As seis cidades que vocês derem serão cidades de refúgio, para onde poderá fugir quem matar alguém sem intenção." Este versículo fala sobre o número de cidades de refúgio que deveriam ser estabelecidas em Israel e a importância de tê-las disponíveis em todo o território.
+* Salmo 46:1: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade." Este versículo fala sobre a proteção e o refúgio que Deus oferece em tempos difíceis e pode ser aplicado às cidades de refúgio em Israel como um símbolo da proteção divina.
+* Provérbios 18:10: "O nome do Senhor é uma torre forte; os justos correm para ela e estão seguros." Este versículo também fala sobre a proteção e a segurança oferecidas pelo nome de Deus e pode ser aplicado à instituição das cidades de refúgio em Israel.
+* Isaías 25:4: "Pois foste um refúgio para o pobre, um refúgio para o necessitado em sua aflição, um abrigo contra a tempestade e um abrigo contra o calor." Este versículo fala sobre Deus como um refúgio para aqueles que sofrem e pode ser aplicado à instituição das cidades de refúgio em Israel como um reflexo da compaixão de Deus pelos que precisam de proteção.
+****
+
+[[v6-20-1]]
+
+^<<v6-20-1,1>>^ O Senhor falou a Josué, dizendo: Fala aos filhos de Israel e diz-lhes:
+
+[[v6-20-2]]
+
+^<<v6-20-2,2>>^ Separai as cidades para os fugitivos, das quais vos falei por meio de Moisés,
+
+[[v6-20-3]]
+
+^<<v6-20-3,3>>^ a fim do que se refugie nelas todo o que matar uma pessoa, sem querer, e possa evitar a ira do vingador do sangue.
+
+[[v6-20-4]]
+
+^<<v6-20-4,4>>^ Quando ele se refugiar em uma destas cidades, apresentar-se-á à porta da cidade e exporá aos anciães dela tudo o que possa comprovar a sua inocência; deste modo o receberão, e lhe darão lugar em que habite.
+
+[[v6-20-5]]
+
+^<<v6-20-5,5>>^ Se aquele, que quer vingar o morto, o perseguir, não lho entregarão às suas mãos, porque matou por ignorância o seu próximo, sem que antes fosse seu inimigo.
+
+[[v6-20-6]]
+
+^<<v6-20-6,6>>^ Habitará nesta cidade, até que compareça em juízo, para dar conta do que fez e até que morra o sumo sacerdote, que estiver (em exercício) naquele tempo. Então voltará o homicida, e entrará na sua cidade e na sua casa, donde tinha fugido.
+
+[[v6-20-7]]
+
+^<<v6-20-7,7>>^ (Consequentemente) decretaram (que fossem cidades de refúgio) Cedes na Galileia, sobre o monte de Neftali, e Siquem sobre o monte de Efraim, e Cariatarbe, que é Hebron, sobre o monte de Judá.
+
+[[v6-20-8]]
+
+^<<v6-20-8,8>>^ Na outra banda do Jordão, para o nascente de Jericó, destinaram Bosor, que está situada na planície do deserto, da tribo de Buben, e Ramot em Galaad, da tribo de Gad, e Gaulon em Basan, da tribo de Manassés.
+
+'''
+
+xref:006-josue/006-josue-019.adoc#v6-19-0[&#60; Capítulo Anterior] | <<v6-20-0,Topo>> | xref:006-josue/006-josue-021.adoc#v6-21-0[Próximo Capítulo &#62;]

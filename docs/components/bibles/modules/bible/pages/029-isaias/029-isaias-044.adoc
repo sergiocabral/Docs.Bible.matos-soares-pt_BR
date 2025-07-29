@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v29-44-0]]
+=== Isaías, 44
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 44 de Isaías começa com uma mensagem de Deus ao povo de Israel, lembrando-os de que Ele é o seu Criador e Redentor, e que eles não devem adorar ídolos ou confiar em outros deuses. Deus promete que irá abençoar e restaurar Israel, e que eles não precisam temer, pois Ele está com eles. A seguir, cinco versículos relacionados com os temas abordados em Isaías 44:
+* Salmos 115:4-7: "Os ídolos deles são prata e ouro, obra das mãos do homem. Têm boca, mas não falam; têm olhos, mas não veem; têm ouvidos, mas não ouvem; têm nariz, mas não cheiram." Este salmo descreve os ídolos que as pessoas adoram, contrastando-os com o Deus verdadeiro, que é vivo e ativo.
+* Atos 17:24-25: "O Deus que fez o mundo e tudo o que nele há, sendo Senhor do céu e da terra, não habita em templos feitos por mãos de homens, nem é servido por mãos humanas, como se necessitasse de alguma coisa, pois ele mesmo é quem dá a todos a vida, a respiração e todas as coisas." Paulo usa esse discurso em Atenas para explicar que o Deus verdadeiro é o criador de tudo e não pode ser confinado a um templo ou imagem.
+* Jeremias 10:6-7: "Não há semelhante a ti, ó Senhor; tu és grande, e grande é o teu nome em poder. Quem não te temerá, ó Rei das nações? Pois isto só a ti se deve; por entre todos os sábios das nações, e em todo o seu reino, não há outro semelhante a ti." Jeremias fala sobre a grandeza e singularidade de Deus, que é superior a todos os outros deuses ou ídolos.
+* João 14:6: "Respondeu-lhe Jesus: Eu sou o caminho, e a verdade, e a vida. Ninguém vem ao Pai senão por mim." Jesus afirma que Ele é o único caminho para conhecer a Deus e ter a vida eterna, reforçando a mensagem de Isaías 44 sobre a necessidade de confiar em Deus e não em outros deuses.
+* Efésios 2:10: "Porque somos feitura dele, criados em Cristo Jesus para boas obras, as quais Deus antes preparou para que andássemos nelas." Paulo fala sobre a nossa identidade como criaturas de Deus, criados para fazer o bem e glorificar a Ele, em linha com a mensagem de Isaías 44 sobre a importância de reconhecer a Deus como o nosso Criador e Redentor.
+****
+
+[[v29-44-1]]
+
+^<<v29-44-1,1>>^ Agora ouve-me tu, ó Jacob, meu servo, e tu, ó Israel, a quem escolhi.
+
+[[v29-44-2]]
+
+^<<v29-44-2,2>>^ Eis o que diz o Senhor que te criou, que te formou desde o ventre de tua mãe e foi teu auxiliador; Não temas, servo meu Jacob, meu Israel a quem escolhi.
+
+[[v29-44-3]]
+
+^<<v29-44-3,3>>^ Porque derramarei águas sobre a terra sequiosa, rios sobre o solo seco; derramarei o meu espírito sobre a tua posteridade, a minha bênção sobre a tua descendência.
+
+[[v29-44-4]]
+
+^<<v29-44-4,4>>^ Eles crescerão entre a verdura, como salgueiros plantados junto das águas correntes.
+
+[[v29-44-5]]
+
+^<<v29-44-5,5>>^ Este dirá: Eu sou do Senhor; aquele se gloriará de ter o nome de Jacob; outro escreverá com o seu punho: Do Senhor - e receberá o sobrenome de Israel.
+
+[[v29-44-6]]
+
+^<<v29-44-6,6>>^ Eis o que diz o Senhor, Rei de Israel e seu Redentor, o Senhor dos exércitos: Eu sou o primeiro e o último, e fora de mim não há Deus.
+
+[[v29-44-7]]
+
+^<<v29-44-7,7>>^ Quem há semelhante a mim? Que se explique, que o declare e mo prove. Quem, desde a origem, anunciou o futuro? Que predigam o que há-de vir, as coisas que hão-de suceder.
+
+[[v29-44-8]]
+
+^<<v29-44-8,8>>^ Não temais, não vos perturbeis. Não vo-lo fiz saber, há muito tempo, não vo-lo anunciei? Vós sois as minhas testemunhas. Porventura há outro Deus fora de mim, outro Rochedo? Não conheço.
+
+[[v29-44-9]]
+
+^<<v29-44-9,9>>^ Todos os fabricantes de ídolos são nada, as suas obras tão prezadas para nada servem; as suas testemunhas, para sua confusão, não vêem, nem entendem.
+
+[[v29-44-10]]
+
+^<<v29-44-10,10>>^ Quem (a não ser um insensato) forma um deus, funde uma estátua que para nada serve?
+
+[[v29-44-11]]
+
+^<<v29-44-11,11>>^ Os seus adoradores serão confundidos, os seus artistas não são mais que homens; que se juntem todos e se apresentem (para defender os seus ídolos). Ficarão todos espavoridos e serão confundidos.
+
+[[v29-44-12]]
+
+^<<v29-44-12,12>>^ O ferreiro trabalha (no ídolo) com a lima; com brasas e a golpes de martelo o forma; lavra-o com a força do seu braço; ele terá fome e desfalecerá, não beberá água e enfraquecerá.
+
+[[v29-44-13]]
+
+^<<v29-44-13,13>>^ O escultor estende a sua régua sobre o pau, faz o esboço a lápis, desbasta-o e dá-lhe com o compasso as devidas proporções; faz dele a imagem dum homem, um homem bem parecido, para o pôr a habitar numa casa.
+
+[[v29-44-14]]
+
+^<<v29-44-14,14>>^ (Um homem) corta cedros, toma uma azinheira e um carvalho, que estavam de pé entre as árvores da floresta, planta pinheiros que a chuva faz crescer.
+
+[[v29-44-15]]
+
+^<<v29-44-15,15>>^ Esta madeira serve ao homem para queimar; toma parte dela e aquece-se, queima-a também para cozer pão; disso faz também um deus e adora-o, faz uma estátua prostra-se diante dela.
+
+[[v29-44-16]]
+
+^<<v29-44-16,16>>^ Queima no fogo metade deste pau, e com a outra metade cozinha a carne para comer; prepara os seus alimentos e sacia-se, aquece-se e diz: Bom! estou quente, sinto a chama.
+
+[[v29-44-17]]
+
+^<<v29-44-17,17>>^ Do resto (do mesmo pau) fez para si um deus, um ídolo, diante do qual se prostra adorando, e lhe roga, dizendo; Livra-me, porque tu és o meu deus.
+
+[[v29-44-18]]
+
+^<<v29-44-18,18>>^ Não sabem nem compreendem, porque os seus olhos estão cobertos para não verem, e os seus corações não compreendem.
+
+[[v29-44-19]]
+
+^<<v29-44-19,19>>^ Não refletem, não consideram, não têm o bom senso de dizer: Eu queimei no fogo metade desta madeira, cozi pães sobre as suas brasas, cozi carnes e comi-as, e então do seu resto hei-de fazer um miserável ídolo? Hei-de prostrar-me diante de um tronco de árvore?
+
+[[v29-44-20]]
+
+^<<v29-44-20,20>>^ (Este homem) alimenta-se de cinza; o seu coração seduzido transvia-o; ele não se chega a salvar, nem a dizer; Não será uma mentira o que está na minha mão direita?
+
+[[v29-44-21]]
+
+^<<v29-44-21,21>>^ Lembra-te destas coisas, ó Jacob, ó Israel, porque tu és meu servo; eu formei-te; tu és meu servo, Israel, não te posso esquecer.
+
+[[v29-44-22]]
+
+^<<v29-44-22,22>>^ Dissipei as tuas iniquidades como uma nuvem e os teus pecados como uma névoa; volta para mim, porque eu te resgatei.
+
+[[v29-44-23]]
+
+^<<v29-44-23,23>>^ Louvai o Senhor, ó céus, porque ele operou (estas coisas); exultai de júbilo, ó profundezas da terra; fazei ressoar os seus louvores, vós, montes, bosques, com todas as vossas árvores porque o Senhor resgatou Jacob, manifestou a sua glória em Israel!
+
+[[v29-44-24]]
+
+^<<v29-44-24,24>>^ Eis o que te diz o Senhor, que te remiu e que te formou no ventre da tua mãe: Eu sou o Senhor, que faço todas as coisas, que só por mim estendi os céus e firmei a terra; quem estava comigo?
+
+[[v29-44-25]]
+
+^<<v29-44-25,25>>^ Eu faço baldar os prognósticos dos falsos profetas e faço delirar os adivinhos. Faço recuar os sábios, e converto a sua ciência em loucura.
+
+[[v29-44-26]]
+
+^<<v29-44-26,26>>^ Confirmo a palavra do meu servo e cumpro os oráculos dos meus profetas. Digo a Jerusalém: Serás habitada! E às cidades de Judá: Sereis edificadas! Levantarei as suas ruínas.
+
+[[v29-44-27]]
+
+^<<v29-44-27,27>>^ Digo ao abismo: Esgota-te, secarei os teus rios.
+
+[[v29-44-28]]
+
+^<<v29-44-28,28>>^ Digo a Ciro: Tu és o pastor do meu rebanho, cumprirás em tudo a minha vontade. Digo a Jerusalém; Serás reedificada! E ao templo: Serás fundado.
+
+'''
+
+xref:029-isaias/029-isaias-043.adoc#v29-43-0[&#60; Capítulo Anterior] | <<v29-44-0,Topo>> | xref:029-isaias/029-isaias-045.adoc#v29-45-0[Próximo Capítulo &#62;]

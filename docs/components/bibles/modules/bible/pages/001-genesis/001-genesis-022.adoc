@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v1-22-0]]
+=== Gênesis, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 22 conta a história de Abraão sendo testado por Deus ao ser pedido para sacrificar seu filho Isaque como um holocausto. Abraão obedece e se prepara para fazê-lo, mas no último momento, um anjo impede o sacrifício e fornece um carneiro para ser sacrificado em vez disso. Os versículos selecionados abaixo se relacionam com os temas de confiança em Deus, obediência, sacrifício, provação e fidelidade.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este verso fala sobre a importância de confiar em Deus e segui-lo em todos os aspectos da vida, o que Abraão demonstra em Gênesis 22 ao estar disposto a sacrificar seu filho Isaque.
+* Hebreus 11:17-19: "Pela fé Abraão, sendo provado, ofereceu Isaque; sim, aquele que recebera as promessas ofereceu o seu unigênito, acerca de quem se lhe havia dito: Em Isaque será chamada a tua descendência; julgando que Deus era poderoso para até dos mortos o ressuscitar." Este verso destaca a fé de Abraão em Deus, que o leva a estar disposto a sacrificar seu filho Isaque.
+* Mateus 6:33: "Mas buscai primeiro o seu reino e a sua justiça, e todas estas coisas vos serão acrescentadas." Este verso fala sobre a importância de buscar primeiro o reino de Deus e sua justiça, o que Abraão demonstra em Gênesis 22 ao obedecer a Deus, independentemente do custo.
+* 2 Coríntios 9:6-7: "Mas digo isto: aquele que semeia pouco, pouco também ceifará; e aquele que semeia em abundância, em abundância também ceifará. Cada um contribua segundo propôs no seu coração; não com tristeza, nem por constrangimento; porque Deus ama ao que dá com alegria." Estes versículos se relacionam com o tema do sacrifício em Gênesis 22, destacando a importância de dar generosamente e com alegria.
+* 2 Timóteo 2:13: "Se somos infiéis, ele permanece fiel; pois não pode negar-se a si mesmo." Este verso destaca a fidelidade de Deus, que Abraão experimenta em Gênesis 22 ao obedecer a Deus e ver que Ele fornece o carneiro como um substituto para o sacrifício de Isaque.
+****
+
+[[v1-22-1]]
+
+^<<v1-22-1,1>>^ Passado isto, quis Deus tentar a Abraão, e disse-lhe: Abraão, Abraão! Ele respondeu: aqui estou.
+
+[[v1-22-2]]
+
+^<<v1-22-2,2>>^ (E Deus) disse-lhe: toma Isaac, teu filho único, a quem amas, vai ao país de Moriab, e aí o oferecerás em holocausto sobre um dos monteis, que eu te mostrar.
+
+[[v1-22-3]]
+
+^<<v1-22-3,3>>^ Abraão, pois, levantando-se de noite, pôs a sela ao seu jumento, levando consigo dois jóvens (severos), e Isaac, seu filho; cortou a lenha para o holocausto e partiu para o lugar que Deus lhe tinha dito.
+
+[[v1-22-4]]
+
+^<<v1-22-4,4>>^ Ao terceiro dia, levantando os olhos, viu o lugar de longe,
+
+[[v1-22-5]]
+
+^<<v1-22-5,5>>^ e disse aos seus servos; esperai aqui com o jumento: eu e o menino vamos até acolá, e, depois de adorarmos, voltaremos a vós.
+
+[[v1-22-6]]
+
+^<<v1-22-6,6>>^ Tomou também a lenha do holocausto, e pô-la sobre Isaac, seu filho: ele, porém, levava nas mãos o fogo e o cutelo. Enquanto ambos caminhavam juntos,
+
+[[v1-22-7]]
+
+^<<v1-22-7,7>>^ disse Isaac a seu pai: meu pai. Ele respondeu: que queres, filho? Eis, disse (Isaac), o fogo e a lenha, (mas) onde está a vitima para o holocousto?
+
+[[v1-22-8]]
+
+^<<v1-22-8,8>>^ Abraão respondeu: meu filho. Deus deparará a vítima para o seu holocausto. Caminhavam, pois, ambos juntos.
+
+[[v1-22-9]]
+
+^<<v1-22-9,9>>^ Chegaram (finalmente) ao lugar que Deus lhe tinha designado, no qual levantou um altar, e sobre ele preparou a lenha; tendo ligado Isaac seu filho, pô-lo no altar sobre o feixe da lenha.
+
+[[v1-22-10]]
+
+^<<v1-22-10,10>>^ Estendeu a mão e pegou no cutelo, para imolar seu filho.
+
+[[v1-22-11]]
+
+^<<v1-22-11,11>>^ Então o anjo do Senhor gritou do céu, dizendo: Abraão, Abraão. Ele respondeu: aqui estou.
+
+[[v1-22-12]]
+
+^<<v1-22-12,12>>^ E (o anjo) disse-lhe: não estendas a tua mão sobre o menino, nem lhe faças mal algum; agora conheci que temes a Deus e não perdoaste a teu filho único por amor de mim.
+
+[[v1-22-13]]
+
+^<<v1-22-13,13>>^ Abraão levantou os olhos e viu atrás de si um carneiro preso pelos chifres entre os espinhos, e, pegando nele, o ofereceu em holocausto, em lugar de seu filho.
+
+[[v1-22-14]]
+
+^<<v1-22-14,14>>^ Chamou àquele lugar o Senhor providência. Donde até ao dia de hoje se diz: o Senhor providenciará sobre o monte.
+
+[[v1-22-15]]
+
+^<<v1-22-15,15>>^ Segunda vez chamou o anjo do Senhor a Abraão Deus do céu, dizendo:
+
+[[v1-22-16]]
+
+^<<v1-22-16,16>>^ por mim mesmo jurei, diz o Senhor, que, porque fizeste tal coisa e não perdoaste a teu filho único por amor de mim,
+
+[[v1-22-17]]
+
+^<<v1-22-17,17>>^ eu te abençoarei e multiplicarei a tua estirpe como as estrelas do céu, e como a areia das praias: a tua descendência possuirá as portas de seus inimigos,
+
+[[v1-22-18]]
+
+^<<v1-22-18,18>>^ e na tua descendência serão benditas todas as nações da terra, porque obedeceste à minha voz.
+
+[[v1-22-19]]
+
+^<<v1-22-19,19>>^ Abraão voltou para (onde estavam) os seus servos, e foram juntos a Bersabeia, e aí habitou.
+
+[[v1-22-20]]
+
+^<<v1-22-20,20>>^ Depois destas coisas, foi anunciado a Abraão que Melca também tinha dado à luz filhos a Nacor, irmão dele:
+
+[[v1-22-21]]
+
+^<<v1-22-21,21>>^ Hus, o primogênito, Bus, seu irmão, Camuel, pai dos Siros,
+
+[[v1-22-22]]
+
+^<<v1-22-22,22>>^ Cased, Azau, Feldas, Jedlaph,
+
+[[v1-22-23]]
+
+^<<v1-22-23,23>>^ e Batuel, de quem nasceu Rebeca. Estes são os oito filhos que Melca deu à luz a Nacor, irmão de Abraão.
+
+[[v1-22-24]]
+
+^<<v1-22-24,24>>^ E sua mulher secundária, chamada Roma, deu à luz Tabee, Gaam, Taas e Maaca.
+
+'''
+
+xref:001-genesis/001-genesis-021.adoc#v1-21-0[&#60; Capítulo Anterior] | <<v1-22-0,Topo>> | xref:001-genesis/001-genesis-023.adoc#v1-23-0[Próximo Capítulo &#62;]

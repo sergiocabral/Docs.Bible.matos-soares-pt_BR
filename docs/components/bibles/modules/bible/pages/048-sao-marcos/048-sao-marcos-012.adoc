@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v48-12-0]]
+=== São Marcos, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em São Marcos 12, Jesus continua ensinando ao povo e confrontando os líderes religiosos. Ele conta a parábola dos inquilinos maus, onde os líderes religiosos são retratados como maus inquilinos que matam os enviados do proprietário. Jesus é questionado pelos fariseus e pelos herodianos sobre se é certo pagar impostos a César. Ele responde "Dai, pois, a César o que é de César e a Deus o que é de Deus". Um escriba questiona Jesus sobre qual é o maior mandamento, e Jesus responde "Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma, de todo o teu entendimento e de todas as tuas forças". Jesus também observa a oferta dos ricos e da viúva pobre, que deu tudo o que tinha para viver.
+* Deuteronômio 6:5 - "Amarás, pois, o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de toda a tua força." Esse versículo se relaciona com a resposta de Jesus ao escriba que perguntou qual é o maior mandamento.
+* Salmos 118:22 - "A pedra que os construtores rejeitaram tornou-se a pedra angular." Jesus cita este versículo ao falar da parábola dos inquilinos maus, onde os líderes religiosos rejeitam Jesus, que se torna a pedra angular.
+* Isaías 5:1-2 - "Eu quero cantar para o meu amado o cântico do meu amigo a respeito da sua vinha: O meu amado tinha uma vinha num outeiro fértil. E a cercou, e a limpou das pedras, e a plantou de excelentes vides; e edificou no meio dela uma torre." A parábola dos inquilinos maus é uma alusão a esta passagem do livro de Isaías, que descreve como Deus cuidou de sua vinha, mas as pessoas que a cultivavam foram infiéis.
+* 2 Coríntios 9:7 - "Cada um contribua segundo tiver proposto no coração, não com tristeza ou por necessidade; porque Deus ama a quem dá com alegria." Esse versículo pode ser relacionado à oferta da viúva pobre, que deu tudo o que tinha para viver, mas com um coração alegre e generoso.
+* Romanos 13:1 - "Toda alma esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Deus; e as autoridades que há foram ordenadas por Deus." Esse versículo pode ser relacionado à resposta de Jesus aos fariseus e herodianos, quando eles perguntam se é certo pagar impostos a César. Jesus responde que devemos dar a César o que é de César e a Deus o que é de Deus, reconhecendo a autoridade de César como uma instituição estabelecida por Deus.
+****
+
+[[v48-12-1]]
+
+^<<v48-12-1,1>>^ E começou a falar-lhes por parábolas : "Um homem plantou uma vinha, cercou-a com uma sebe, cavou nela um lagar, edificou uma torre (Is. 5, 1-2), e arrendou-a a uns vinhateiros, e ausentou-se daquele país.
+
+[[v48-12-2]]
+
+^<<v48-12-2,2>>^ Chegado o tempo, enviou aos vinhateiros um servo para receber deles a sua parte dos frutos da vinha.
+
+[[v48-12-3]]
+
+^<<v48-12-3,3>>^ Mas eles, apanhando-o, bateram-lhe, e remeteram-no com as mãos vazias.
+
+[[v48-12-4]]
+
+^<<v48-12-4,4>>^ Enviou-lhes de novo outro servo, e também a este o feriram na cabeça, e o carregaram de afrontas.
+
+[[v48-12-5]]
+
+^<<v48-12-5,5>>^ Enviou de novo outro, e mataram-no. Assim fizeram a muitos outros, dos quais bateram nuns, e mataram outros.
+
+[[v48-12-6]]
+
+^<<v48-12-6,6>>^ Tendo ainda um filho querido, também lho enviou por último, dizendo: Terão respeito a meu filho.
+
+[[v48-12-7]]
+
+^<<v48-12-7,7>>^ Porém aqueles vinhateiros disseram uns para os outros: Este é o herdeiro, vinde, matemo-lo, e será nossa a herança.
+
+[[v48-12-8]]
+
+^<<v48-12-8,8>>^ Pegaram nele, mataram-no, e lançaram-no fora da vinha.
+
+[[v48-12-9]]
+
+^<<v48-12-9,9>>^ Que fará pois o senhor da vinha? Virá, exterminará os vinhateiros, e dará a vinha a outros.
+
+[[v48-12-10]]
+
+^<<v48-12-10,10>>^ Vós nunca leste este lugar da Escritura: A pedra que fora rejeitada pelos que edificavam, tornou-se cabeça do ângulo. (ver nota)
+
+[[v48-12-11]]
+
+^<<v48-12-11,11>>^ Pelo Senhor foi feito isto, e é coisa maravilhosa aos nossos olhos (Ps. 117, 22-23)."
+
+[[v48-12-12]]
+
+^<<v48-12-12,12>>^ Procuravam apoderar-se dele, mas temeram o povo. Tinham compreendido bem que dissera esta parábola contra eles. E, deixando-o, retiraram-se.
+
+[[v48-12-13]]
+
+^<<v48-12-13,13>>^ Enviaram-lhe alguns dos fariseus e dos herodianos, para que o apanhassem em alguma palavra.
+
+[[v48-12-14]]
+
+^<<v48-12-14,14>>^ Chegando eles, disseram-lhe: "Mestre, sabemos que és verdadeiro, que não atendes a respeitos humanos; porque não consideras o exterior dos homens, mas ensinas o caminho de Deus, segundo a verdade: É lícito pagar o tributo a César, ou não? Devemos pagar ou não?"
+
+[[v48-12-15]]
+
+^<<v48-12-15,15>>^ Jesus, conhecendo a sua perfídia, disse-lhes: "Porque me tentais? Trazei-me um dinheiro para o ver."
+
+[[v48-12-16]]
+
+^<<v48-12-16,16>>^ Eles lho trouxeram. Então disse-lhes: "De quem é esta imagem e inscrição?" Responderam-lhe: "De César."
+
+[[v48-12-17]]
+
+^<<v48-12-17,17>>^ Então Jesus disse-lhes: "Dai, pois, o que é de César a César, e o que é de Deus a Deus." E admiravam-no.
+
+[[v48-12-18]]
+
+^<<v48-12-18,18>>^ Foram ter com ele os saduceus, que negam a ressurreição, e interrogaram-no, dizendo:
+
+[[v48-12-19]]
+
+^<<v48-12-19,19>>^ "Mestre, Moisés deixou-nos escrito que, se morrer o irmão de algum e deixar a mulher sem filhos, seu irmão tome a mulher dele e dê descendência a seu irmão (Dt. 25, 5-6).
+
+[[v48-12-20]]
+
+^<<v48-12-20,20>>^ Ora havia sete irmãos. O primeiro tomou mulher, e morreu sem deixar filhos.
+
+[[v48-12-21]]
+
+^<<v48-12-21,21>>^ O segundo tomou-a, e morreu também sem deixar filhos. Da mesma sorte o terceiro.
+
+[[v48-12-22]]
+
+^<<v48-12-22,22>>^ Nenhum dos sete deixou filhos. Depois deles todos, morreu também a mulher.
+
+[[v48-12-23]]
+
+^<<v48-12-23,23>>^ Na ressurreição, pois, quando tornarem a viver, de qual deles será a mulher? Porque os sete a tiveram por mulher."
+
+[[v48-12-24]]
+
+^<<v48-12-24,24>>^ Jesus respondeu-lhes: "Não estais vós em erro, porque não compreendeis as Escrituras, nem o poder de Deus?
+
+[[v48-12-25]]
+
+^<<v48-12-25,25>>^ Quando ressuscitarem de entre os mortos, nem os homens tomarão mulheres, nem as mulheres homens, mas todos serão como os anjos no céu. (ver nota)
+
+[[v48-12-26]]
+
+^<<v48-12-26,26>>^ Relativamente à ressurreição dos mortos, não tendes lido no livro de Moisés, como Deus lhe falou sobre a sarça, dizendo: Eu sou o Deus de Abraão, o Deus de Isaac, o Deus de Jacob? (Ex. 3, 6). (ver nota)
+
+[[v48-12-27]]
+
+^<<v48-12-27,27>>^ Ele não é Deus dos mortos, mas dos vivos. Logo vós estais num grande erro."
+
+[[v48-12-28]]
+
+^<<v48-12-28,28>>^ Então aproximou-se um dos escribas, que os tinha ouvido discutir. Vendo que Jesus lhes tinha respondido bem, perguntou-lhe: "Qual é o primeiro de todos os mandamentos?"
+
+[[v48-12-29]]
+
+^<<v48-12-29,29>>^ Jesus respondeu-lhe: "O primeiro de todos os mandamentos é este: Ouve, Israel! O Senhor nosso Deus é o único Senhor.
+
+[[v48-12-30]]
+
+^<<v48-12-30,30>>^ Amarás o Senhor teu Deus com todo o teu coração, com toda a tua alma, com todo o teu entendimento, e com todas as tuas forças (Dt. 6, 4-5).
+
+[[v48-12-31]]
+
+^<<v48-12-31,31>>^ O segundo é este: Amarás o teu próximo como a ti mesmo (Lv. 19, 18). Não há outro mandamento maior do que estes."
+
+[[v48-12-32]]
+
+^<<v48-12-32,32>>^ Então o escriba disse-lhe: "Mestre, disseste bem e com verdade que Deus é um só, e que não há outro fora dele;
+
+[[v48-12-33]]
+
+^<<v48-12-33,33>>^ e que o amá-lo com todo o coração, com todo o entendimento, com toda a alma, e com todas as forças, e amar o próximo como a si mesmo, vale mais que todos os holocaustos e sacrifícios."
+
+[[v48-12-34]]
+
+^<<v48-12-34,34>>^ Vendo Jesus que tinha respondido sabiamente, disse-lhe: "Não estás longe do reino de Deus." Desde então, ninguém mais ousava interrogá-lo.
+
+[[v48-12-35]]
+
+^<<v48-12-35,35>>^ Continuando a ensinar no templo, Jesus tomou a palavra e disse: "Como dizem os escribas que o Cristo é filho de David?
+
+[[v48-12-36]]
+
+^<<v48-12-36,36>>^ O mesmo David, inspirado pelo Espírito Santo, diz (Ps. 109, 1): Disse o Senhor ao meu Senhor: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo de teus pés.
+
+[[v48-12-37]]
+
+^<<v48-12-37,37>>^ O mesmo David portanto lhe chama Senhor, como é ele pois seu filho? A grande multidão o ouvia com gosto.
+
+[[v48-12-38]]
+
+^<<v48-12-38,38>>^ Dizia-lhes ainda nos seus ensinamentos: "Guardai-vos dos escribas, que gostam de andar com roupas largas, de serem saudados nas praças,
+
+[[v48-12-39]]
+
+^<<v48-12-39,39>>^ e de ocuparem as primeiras cadeiras nas sinagogas, e os primeiros lugares nos banquetes,
+
+[[v48-12-40]]
+
+^<<v48-12-40,40>>^ que devoram as casas das viúvas, sob o pretexto de longas orações. Serão julgados com maior rigor." (ver nota)
+
+[[v48-12-41]]
+
+^<<v48-12-41,41>>^ Estando Jesus sentado defronte do gazofilácio, observava como o povo deitava ali dinheiro. Muitos ricos deitavam em abundância.
+
+[[v48-12-42]]
+
+^<<v48-12-42,42>>^ Tendo chegado uma pobre viúva, lançou duas pequenas moedas, que valem um quarto de um asse.
+
+[[v48-12-43]]
+
+^<<v48-12-43,43>>^ Chamando os seus discípulos, disse-lhes: "Na verdade vos digo que esta pobre viúva deu mais que todos os outros que lançaram no gazofilácio,
+
+[[v48-12-44]]
+
+^<<v48-12-44,44>>^ porque todos os outros deitaram do que lhes sobejava, ela porém deitou do seu necessário tudo o que possuía, tudo o que tinha para viver."
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-011.adoc#v48-11-0[&#60; Capítulo Anterior] | <<v48-12-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-013.adoc#v48-13-0[Próximo Capítulo &#62;]

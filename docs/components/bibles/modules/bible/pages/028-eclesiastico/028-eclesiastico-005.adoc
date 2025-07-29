@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v28-5-0]]
+=== Eclesiástico, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 5 fala sobre a importância de cumprir as promessas feitas a Deus, de evitar fazer votos precipitados e de ter cautela em relação aos ricos e poderosos. Os versículos selecionados são:
+* Salmos 50:14-15: "Oferece a Deus sacrifício de ações de graças e cumpre os teus votos para com o Altíssimo; invoca-me no dia da angústia; eu te livrarei, e tu me glorificarás." Esse versículo ressalta a importância de cumprir os votos feitos a Deus, como é abordado no capítulo 5 de Eclesiástico.
+* Eclesiastes 5:4-5: "Quando a Deus fizeres algum voto, não tardes em cumpri-lo; porque não se agrada de tolos; o que votares, paga-o. Melhor é que não votes do que votes e não pagues." Esse versículo reforça a ideia de que é melhor não fazer votos precipitados, mas caso seja feito, é importante cumpri-los prontamente.
+* Salmos 62:10: "Não confieis na opressão, nem vos iludais com o roubo; se as vossas riquezas aumentam, não ponhais nelas o coração." Esse versículo destaca a importância de ter cautela em relação aos ricos e poderosos, como é mencionado no capítulo 5 de Eclesiástico.
+* Provérbios 20:25: "Laço é para o homem fazer uma promessa precipitadamente e só depois pensar no que prometeu." Esse versículo adverte contra fazer votos precipitados, lembrando-nos de que é melhor pensar antes de prometer algo.
+* Provérbios 22:16: "Aquele que oprime o pobre para se engrandecer a si mesmo e o que dá ao rico, certamente empobrecerá." Esse versículo enfatiza que aqueles que se aproveitam dos pobres para benefício próprio, acabam por sofrer consequências. Esse ensinamento relaciona-se com a ideia de cautela em relação aos ricos e poderosos, como mencionado no capítulo 5 de Eclesiástico.
+****
+
+[[v28-5-1]]
+
+^<<v28-5-1,1>>^ Não te fies nas riquezas iníquas e não digas: eu tenho bastante com que viver — porque de nada te aproveitará isto no dia do castigo e da escuridão.
+
+[[v28-5-2]]
+
+^<<v28-5-2,2>>^ Não te abandones, quando te sentires forte, aos maus desejos do teu coração.
+
+[[v28-5-3]]
+
+^<<v28-5-3,3>>^ e não digas: Como sou poderoso! Quem poderá obrigar-me a dar contas das minhas acções? Com efeito Deus exercerá a sua vingança.
+
+[[v28-5-4]]
+
+^<<v28-5-4,4>>^ Não digas; Eu pequei; e que mal me veio dai ? — porque o Altíssimo é lento em punir (os crimes). (ver nota)
+
+[[v28-5-5]]
+
+^<<v28-5-5,5>>^ Não estejas sem temor da ofensa que te foi perdoada, e não ajuntes pecados sobre pecados.
+
+[[v28-5-6]]
+
+^<<v28-5-6,6>>^ Não digas; A misericórdia do Senhor é grande, ele se compadecerá da multidão dos meus pecados.
+
+[[v28-5-7]]
+
+^<<v28-5-7,7>>^ Porque a sua misericórdia e a sua ira estão perto uma da outra, e a sua ira olha para os pecadores.
+
+[[v28-5-8]]
+
+^<<v28-5-8,8>>^ Não tardes em te converter ao Senhor, não o difiras de dia para dia,
+
+[[v28-5-9]]
+
+^<<v28-5-9,9>>^ porque virá de improviso a sua ira, e no dia do castigo te perderá.
+
+[[v28-5-10]]
+
+^<<v28-5-10,10>>^ Não andes inquieto por (amor de) riquezas injustas, porque elas não te aproveitarão no dia do castigo e da escuridão.
+
+[[v28-5-11]]
+
+^<<v28-5-11,11>>^ Não te voltes a todo o vento, e não andes por todos os caminhos. porque é assim que todo o pecador de língua dobre se dá a conhecer. (ver nota)
+
+[[v28-5-12]]
+
+^<<v28-5-12,12>>^ Se firme no caminho do Senhor, na sinceridade dos teus sentimentos e conhecimentos, e que a palavra de paz e de justiça te acompanhe sempre.
+
+[[v28-5-13]]
+
+^<<v28-5-13,13>>^ Sê manso para ouvir a palavra, a fim de que a entendas; então darás com sabedoria uma resposta justa.
+
+[[v28-5-14]]
+
+^<<v28-5-14,14>>^ Se tens inteligência, responde ao teu próximo; se não, põe a tua mão sobre a tua boca, para que te não suceda ser surpreendido numa palavra indiscreta e cair em confusão,
+
+[[v28-5-15]]
+
+^<<v28-5-15,15>>^ A honra e a glória acompanham o falar do homem sensato, mas a língua do imprudente é a sua ruína.
+
+[[v28-5-16]]
+
+^<<v28-5-16,16>>^ Que ninguém te chame intriguista, e que não te venha a tua língua a ser um laço e um motivo de confusão.
+
+[[v28-5-17]]
+
+^<<v28-5-17,17>>^ Porque sobre o ladrão virão a confusão e o arrependimento, e sobre a língua dobre uma nota de infâmia; ao mexeriqueiro (estão reservados) o ódio, a inimizade e a contumélia.
+
+[[v28-5-18]]
+
+^<<v28-5-18,18>>^ Faze igualmente justiça aos pequenos e aos grandes.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-004.adoc#v28-4-0[&#60; Capítulo Anterior] | <<v28-5-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-006.adoc#v28-6-0[Próximo Capítulo &#62;]

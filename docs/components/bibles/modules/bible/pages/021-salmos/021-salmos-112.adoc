@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-112-0]]
+=== Salmos, 112
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 112 é um hino de louvor a Deus e uma exortação para o povo justo confiar nele e andar em seus caminhos. Os versículos a seguir são relacionados com os temas abordados neste capítulo:
+* Provérbios 11:28 "Aquele que confia nas suas riquezas cairá, mas os justos reverdecerão como a folhagem." Este verso destaca a importância de confiar em Deus em vez de confiar nas riquezas.
+* Salmos 1:1-2 "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores. Antes tem o seu prazer na lei do SENHOR, e na sua lei medita de dia e de noite." Este verso incentiva as pessoas a buscar o caminho da justiça e da obediência a Deus.
+* Salmos 111:10 "O temor do SENHOR é o princípio da sabedoria; bom entendimento têm todos os que cumprem os seus mandamentos; o seu louvor permanece para sempre." Este verso destaca a importância do temor do Senhor e da obediência aos seus mandamentos.
+* Provérbios 22:9 "O que é generoso será abençoado, porque dá do seu pão ao pobre." Este verso enfatiza a importância de ser generoso e de cuidar dos menos favorecidos.
+* Salmos 119:1 "Bem-aventurados os que trilham o caminho perfeito, os que andam na lei do SENHOR." Este verso reforça a ideia de que a obediência a Deus é o caminho para a felicidade e a bênção.
+****
+
+[[v21-112-1]]
+
+^<<v21-112-1,1>>^ Aleluia. Louvai, ó servos do Senhor, louvai o nome do Senhor.
+
+[[v21-112-2]]
+
+^<<v21-112-2,2>>^ Seja bendito o nome do Senhor, desde agora e para sempre.
+
+[[v21-112-3]]
+
+^<<v21-112-3,3>>^ Desde o nascer do sol até ao seu ocaso, seja louvado o nome do Senhor.
+
+[[v21-112-4]]
+
+^<<v21-112-4,4>>^ Excelso é o Senhor, sobre todas as gentes, e a sua glória está acima dos céus.
+
+[[v21-112-5]]
+
+^<<v21-112-5,5>>^ Quem há como o Senhor nosso Deus, que está sentado nas alturas,
+
+[[v21-112-6]]
+
+^<<v21-112-6,6>>^ e baixa os olhos sobre o céu e sobre a terra?
+
+[[v21-112-7]]
+
+^<<v21-112-7,7>>^ Levanta do pó o desvalido, tira da imundície o pobre,
+
+[[v21-112-8]]
+
+^<<v21-112-8,8>>^ para o colocar com os príncipes, com os príncipes do seu povo.
+
+[[v21-112-9]]
+
+^<<v21-112-9,9>>^ E a que era (antes) estéril, fá-la viver em sua casa, como mãe alegre de seus filhos.
+
+'''
+
+xref:021-salmos/021-salmos-111.adoc#v21-111-0[&#60; Capítulo Anterior] | <<v21-112-0,Topo>> | xref:021-salmos/021-salmos-113.adoc#v21-113-0[Próximo Capítulo &#62;]

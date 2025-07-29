@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v23-15-0]]
+=== II Macabeus, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 15 de 2 Macabeus narra a batalha final entre os judeus liderados por Judas Macabeu e as forças do rei Antíoco. Durante a batalha, Judas e seus homens confiam em Deus para protegê-los e vencer a guerra. Abaixo estão cinco versículos relacionados aos temas abordados nesse capítulo:
+* 2 Samuel 22:33: "É Deus que me cinge de força e torna perfeito o meu caminho." Judas e seus homens confiam em Deus para lhes dar a força e a orientação necessárias para vencer a batalha.
+* Salmos 18:2: "O Senhor é a minha rocha, a minha fortaleza e o meu libertador." Os judeus confiam em Deus como sua rocha e fortaleza, sabendo que Ele os protegerá e os libertará.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Deus promete estar com Judas e seus homens durante a batalha, fortalecê-los, ajudá-los e sustentá-los com a Sua mão direita.
+* 1 Coríntios 15:57: "Mas graças a Deus que nos dá a vitória por meio de nosso Senhor Jesus Cristo." Judas e seus homens reconhecem que a vitória só é possível através de Deus, e agradecem a Ele por lhes dar a vitória.
+* 2 Timóteo 4:7: "Combati o bom combate, acabei a carreira, guardei a fé." Judas e seus homens lutam corajosamente a batalha final, confiando em Deus para protegê-los e, no final, conseguem vencer o bom combate.
+****
+
+[[v23-15-1]]
+
+^<<v23-15-1,1>>^ Nicanor, ao saber que Judas e os seus estavam nas terras da Samaria, resolveu atacá-los com todas as suas forças no dia de sábado.
+
+[[v23-15-2]]
+
+^<<v23-15-2,2>>^ Quando os Judeus, que se viam constrangidos a segui-lo, lhe disseram: Não procedas tão ferozmente nem com tanta barbaridade, mas honra o dia, que aquele (Senhor) que vê todas as coisas escolheu e santificou,—
+
+[[v23-15-3]]
+
+^<<v23-15-3,3>>^ esse grande malvado perguntou-lhes se havia no céu algum Deus poderoso, que tivesse mandado celebrar o dia de sábado.
+
+[[v23-15-4]]
+
+^<<v23-15-4,4>>^ Respondendo-lhe eles: Sim, há um Senhor vivo e poderoso no céu, o qual mandou guardar o dia sétimo, —
+
+[[v23-15-5]]
+
+^<<v23-15-5,5>>^ ele replicou: Também eu sou poderoso na terra, e mando que se tomem as armas e que se cumpram as ordens do rei. Todavia não pode executar o seu mau desígnio.
+
+[[v23-15-6]]
+
+^<<v23-15-6,6>>^ Enquanto Nicanor, na sua orgulhosa segurança, tinha assentado consigo erigir um trofeu (em memória da derrota) de Judas e de toda a sua gente,
+
+[[v23-15-7]]
+
+^<<v23-15-7,7>>^ Macabeu esperava sempre, com toda a confiança, que Deus lhe havia de assistir com o seu auxílio.
+
+[[v23-15-8]]
+
+^<<v23-15-8,8>>^ Exortava os seus a que não temessem o ataque das nações, mas que se lembrassem dos auxílios recebidos do céu no passado e esperassem também agora que o Todo-Poderoso lhes daria a vitória.
+
+[[v23-15-9]]
+
+^<<v23-15-9,9>>^ Animou-os com a lei e os profetas, recordou-lhes os combates sustentados, e, assim, infundiu-lhes novo ardor.
+
+[[v23-15-10]]
+
+^<<v23-15-10,10>>^ Depois de lhes ter levantado o espírito, representou-lhes ao mesmo tempo a perfídia das nações e a violação dos seus juramentos.
+
+[[v23-15-11]]
+
+^<<v23-15-11,11>>^ Armou cada um deles, não tanto com a prevenção de escudos e lanças como com palavras e exortações excelentes. Contou-lhes também um sonho digno de fé, uma espécie de visão, que encheu a todos de alegria.
+
+[[v23-15-12]]
+
+^<<v23-15-12,12>>^ Eis a visão que teve: Parecia-lhe que Onias, sumo sacerdote, que tinha sido homem de bem e afável, de feitio retraído mas de modos delicados, distinto no falar, desde menino exercitado nas virtudes, orava de mãos estendidas por todo o povo judaico; (ver nota)
+
+[[v23-15-13]]
+
+^<<v23-15-13,13>>^ depois disto, apareceu-lhe outro varão respeitável pelos seus cabelos todos brancos e pela sua glória, de aspecto majestoso.
+
+[[v23-15-14]]
+
+^<<v23-15-14,14>>^ Onias, apontando para ele, disse: Este é o amigo de seus irmãos e do povo de Israel, é Jeremias, profeta de Deus, que ora muito pelo povo e por toda a cidade santa.
+
+[[v23-15-15]]
+
+^<<v23-15-15,15>>^ Depois Jeremias, estendendo a sua mão direita, deu a Judas uma espada de ouro, dizendo-lhe:
+
+[[v23-15-16]]
+
+^<<v23-15-16,16>>^ Toma esta santa espada como um presente de Deus, com a qual deitarás por terra os teus inimigos.
+
+[[v23-15-17]]
+
+^<<v23-15-17,17>>^ Excitados, pois, com estas excelentes palavras de Judas, capazes de dar brios e fortalecer os ânimos dos jovens, resolveram não adoptar a defensiva, mas atacar vigorosamente os Inimigos, a fim de, num combate encarniçado, decidir a guerra, porque a cidade santa e o templo estavam em perigo.
+
+[[v23-15-18]]
+
+^<<v23-15-18,18>>^ A sua maior preocupação não era por suas mulheres e filhos, por seus irmãos e parentes: o maior e o primeiro temor que tinham, era pelo santo templo.
+
+[[v23-15-19]]
+
+^<<v23-15-19,19>>^ Os que ficaram na cidade não se encontravam em menor aflição, inquietos como estavam pelo desfecho do combate que se ia travar fora.
+
+[[v23-15-20]]
+
+^<<v23-15-20,20>>^ Quando todos esperavam próxima a decisão do combate, quando já estavam à vista os inimigos alinhados em ordem de batalha, os elefantes dispostos em lugar conveniente, os cavaleiros nas alas,
+
+[[v23-15-21]]
+
+^<<v23-15-21,21>>^ considerando Macabeu aquela multidão de gente que vinha sobre eles, aquele aparato de armas tão diversas, o aspecto temível dos elefantes bem colocados, estendeu as mãos para o céu e invocou o Senhor, que faz prodígios, pois sabia que a vitória não depende das armas, mas de Deus que a decide e concede aos que são dignos dela.
+
+[[v23-15-22]]
+
+^<<v23-15-22,22>>^ Na sua invocação falou assim: Tu, ó Senhor, que mandaste o teu anjo no tempo de Ezequias, rei de Judá, e mataste cento e oitenta e cinco mil homens do exército de Senaquerib,
+
+[[v23-15-23]]
+
+^<<v23-15-23,23>>^ manda também agora diante de nós, ó Senhor dos céus, o teu bom anjo, a difundir o temor e o pavor.
+
+[[v23-15-24]]
+
+^<<v23-15-24,24>>^ Que sejam feridos pela grandeza do teu braço aqueles que, blasfemando, avançam contra o teu santo povo. Tais foram as suas palavras.
+
+[[v23-15-25]]
+
+^<<v23-15-25,25>>^ Entretanto Nicanor e o seu exército aproximavam-se ao som de trombetas e de canções guerreiras.
+
+[[v23-15-26]]
+
+^<<v23-15-26,26>>^ Judas, porém, e os que vinham com ele, invocando a Deus com as suas orações, deram sobre os inimigos.
+
+[[v23-15-27]]
+
+^<<v23-15-27,27>>^ Assim, pelejando com a mão e orando ao Senhor no fundo de seus corações, mataram não menos que trinta e cinco mil homens, sentindo-se cheios de alegria pelo manifesto auxílio de Deus.
+
+[[v23-15-28]]
+
+^<<v23-15-28,28>>^ Concluído o combate, no tempo que voltavam júbilo, souberam que Nicanor tinha caído morto, coberto com a sua armadura.
+
+[[v23-15-29]]
+
+^<<v23-15-29,29>>^ Por isso, levantando uma grande gritaria e ruído, deram graças ao Senhor Todo-Poderoso na língua de seus pais.
+
+[[v23-15-30]]
+
+^<<v23-15-30,30>>^ Judas, que estava sempre pronto, de corpo e alma, a dar a vida pelos seus compatriotas, mandou que cortassem a cabeça a Nicanor, e a sua mão com o braço, e os levassem a Jerusalém.
+
+[[v23-15-31]]
+
+^<<v23-15-31,31>>^ Tendo lá chegado, convocou os seus concidadãos e os sacerdotes, pôs-se junto do altar e chamou também os que estavam na cidadela.
+
+[[v23-15-32]]
+
+^<<v23-15-32,32>>^ Mostrou-lhes a cabeça do infame Nicanor e a mão, que este blasfemo com insolência estendera contra a santa casa do Todo-Poderoso.
+
+[[v23-15-33]]
+
+^<<v23-15-33,33>>^ Depois mandou também que a língua daquele ímpio Nicanor fosse cortada em pedacinhos e dada a comer às aves, e que fosse pendurada defronte do templo a mão como salário da sua loucura.
+
+[[v23-15-34]]
+
+^<<v23-15-34,34>>^ Todos, louvaram o Senhor do céu, dizendo: Bem-dito seja aquele (Senhor) que conservou puro o seu santo templo.
+
+[[v23-15-35]]
+
+^<<v23-15-35,35>>^ Pendurou Judas também a cabeça de Nicanor na cidadela, para que fosse um sinal manifesto do auxilio de Deus.
+
+[[v23-15-36]]
+
+^<<v23-15-36,36>>^ Finalmente todos resolveram de comum acordo que de nenhum modo se deixasse passar aquele dia, sem se fazer nele uma festa particular,
+
+[[v23-15-37]]
+
+^<<v23-15-37,37>>^ e que esta solenidade se celebrasse no décimo terceiro dia do décimo segundo mês, chamado em língua siríaca Adar, na véspera do dia (festivo) de Mardoqueu.
+
+[[v23-15-38]]
+
+^<<v23-15-38,38>>^ Passadas estas coisas acerca de Nicanor, e ficando os Hebreus desde aquele tempo de posse da cidade, eu também porei aqui fim à minha narração.
+
+[[v23-15-39]]
+
+^<<v23-15-39,39>>^ Se está bem e como convém à história, isso é o que eu desejo; mas se, pelo contrário, é vulgar e medíocre, não pude fazer melhor.
+
+[[v23-15-40]]
+
+^<<v23-15-40,40>>^ Porque, assim como beber somente vinho ou somente água é coisa prejudicial, ao passo que é agradável e proveitoso fazer uso destas bebidas misturadas, do mesmo modo se deve dispor a narração, para encantar os ouvidos do leitor. E com isto termino.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-014.adoc#v23-14-0[&#60; Capítulo Anterior] | <<v23-15-0,Topo>> | xref:024-proverbios/024-proverbios-001.adoc#v24-1-0[Próximo Capítulo &#62;]

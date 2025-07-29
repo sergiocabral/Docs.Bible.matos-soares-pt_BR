@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v51-24-0]]
+=== Atos dos Apóstolos, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Atos dos Apóstolos 24 narra a defesa de Paulo perante o governador Félix em Cesareia, após ter sido acusado pelos judeus. Paulo faz sua defesa, afirmando sua inocência e explicando que acredita na ressurreição dos mortos. Félix decide não tomar uma decisão imediata sobre o caso de Paulo e o mantém sob custódia.
+* Salmos 15:2 - "Aquele que anda na integridade, pratica a justiça e de coração fala a verdade". Paulo reivindica sua integridade diante do governador Félix, e sua defesa é baseada na verdade dos fatos.
+* Provérbios 14:5 - "A testemunha fiel não mentirá, mas a falsa testemunha falará mentiras". Paulo é acusado pelos judeus e precisa defender-se diante de Félix com a verdade, enquanto os acusadores podem estar mentindo.
+* Romanos 2:16 - "Deus julgará os segredos dos homens por meio de Jesus Cristo, conforme o meu evangelho". Paulo fala de sua crença na ressurreição dos mortos, um tema importante em sua defesa perante Félix.
+* Romanos 12:19 - "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: "Minha é a vingança; eu retribuirei", diz o Senhor". Paulo não busca vingança contra seus acusadores, mas se defende com integridade diante de Félix, deixando o julgamento nas mãos de Deus.
+* 1 Pedro 3:15 - "Estejam sempre preparados para responder a qualquer pessoa que pedir a razão da esperança que há em vocês". Paulo está preparado para responder a Félix e defender-se diante das acusações, apresentando a razão da sua esperança e fé.
+****
+
+[[v51-24-1]]
+
+^<<v51-24-1,1>>^ Passados cinco dias, veio o príncipe dos sacerdotes, Ananias, com alguns anciães e com um certo Tertulo, advogado, os quais apresentaram ao governador a sua queixa contra Paulo.
+
+[[v51-24-2]]
+
+^<<v51-24-2,2>>^ Citado Paulo, começou Tertulo a acusá-lo, dizendo: "Pela tua autoridade é que nós gozamos de muita paz, e pelas tuas providências se têm reformado muitas coisas;
+
+[[v51-24-3]]
+
+^<<v51-24-3,3>>^ nós o reconhecemos sempre e em todo o lugar, óptimo Félix, com toda a gratidão.
+
+[[v51-24-4]]
+
+^<<v51-24-4,4>>^ Mas, para não te deter muito tempo, rogo-te que nos ouças um momento com a tua costumada bondade.
+
+[[v51-24-5]]
+
+^<<v51-24-5,5>>^ Encontramos este homem pestífero que excita sedições entre todos os Judeus em todo o mundo, que é cabeça da seita dos nazarenos
+
+[[v51-24-6]]
+
+^<<v51-24-6,6>>^ e que tentou até profanar o templo, de maneira que o prendemos.
+
+[[v51-24-7]]
+
+^<<v51-24-7,7>>^ (Quisemos julgá-lo segundo a nossa lei. Mas, intervindo o tribuno Lísias, tirou-o das nossas mãos com grande violência, (ver nota)
+
+[[v51-24-8]]
+
+^<<v51-24-8,8>>^ ordenando que os seus acusadores viessem comparecer diante de ti.) Tu mesmo poderás, interrogando-o, tomar conhecimento de todas estas coisas, de que o acusamos."
+
+[[v51-24-9]]
+
+^<<v51-24-9,9>>^ Também os Judeus confirmaram que as coisas eram assim.
+
+[[v51-24-10]]
+
+^<<v51-24-10,10>>^ Paulo, tendo-lhe o presidente feito sinal que falasse, respondeu: "Sabendo que governas esta nação há muitos anos, de bom grado responderei por mim.
+
+[[v51-24-11]]
+
+^<<v51-24-11,11>>^ Podes certificar-te facilmente que não há mais de doze dias que cheguei a Jerusalém para fazer a minha adoração.
+
+[[v51-24-12]]
+
+^<<v51-24-12,12>>^ Não me encontraram no templo disputando com alguém, nem fazendo concurso de povo nas sinagogas ou na cidade.
+
+[[v51-24-13]]
+
+^<<v51-24-13,13>>^ Não te podem provar as coisas de que agora me acusam.
+
+[[v51-24-14]]
+
+^<<v51-24-14,14>>^ Eu, porém, confesso-te que, segundo aquele caminho (doutrina) que eles chamam heresia, sirvo o Deus de nossos pais, crendo todas as coisas que estão escritas na lei e nos profetas,
+
+[[v51-24-15]]
+
+^<<v51-24-15,15>>^ e tenho esperança em Deus, como eles também têm, que há-de haver a ressurreição dos justos e dos pecadores.
+
+[[v51-24-16]]
+
+^<<v51-24-16,16>>^ Por isso, procuro ter sempre a minha consciência sem mancha diante de Deus e dos homens.
+
+[[v51-24-17]]
+
+^<<v51-24-17,17>>^ Depois de muitos anos, vim à minha nação trazer esmolas e oferendas.
+
+[[v51-24-18]]
+
+^<<v51-24-18,18>>^ No meio destas coisas me encontraram purificado no templo, não provocando ajuntamento nem tumulto.
+
+[[v51-24-19]]
+
+^<<v51-24-19,19>>^ (Os que me encontraram) foram uns certos judeus da Ásia, que deviam comparecer diante de ti e acusar-me, se tivessem alguma coisa contra mim.
+
+[[v51-24-20]]
+
+^<<v51-24-20,20>>^ Porém digam estes mesmos (que me acusam) se encontraram em mim alguma culpa, quando compareci no Sinédrio,
+
+[[v51-24-21]]
+
+^<<v51-24-21,21>>^ senão só estas palavras que proferi em alta voz no meio deles: Eu sou hoje julgado diante de vós por causa da ressurreição dos mortos."
+
+[[v51-24-22]]
+
+^<<v51-24-22,22>>^ Félix, que estava bem informado acerca deste caminho (doutrina), deu-lhes um adiamento, dizendo: "Quando vier o tribuno Lísias, examinarei a fundo a vossa questão."
+
+[[v51-24-23]]
+
+^<<v51-24-23,23>>^ E deu ordem ao centurião que o guardasse, deixando-lhe alguma liberdade, e não proibisse que os seus lhe prestassem serviços.
+
+[[v51-24-24]]
+
+^<<v51-24-24,24>>^ Passados alguns dias, vindo Félix com sua mulher Drusila, que era judia, chamou Paulo e ouviu-o falar da fé em Jesus Cristo.
+
+[[v51-24-25]]
+
+^<<v51-24-25,25>>^ Mas, dissertando ele sobre a justiça, castidade e o juízo futuro, Félix, atemorizado, disse: "Por agora, retira-te; na primeira ocasião, te chamarei." (ver nota)
+
+[[v51-24-26]]
+
+^<<v51-24-26,26>>^ Esperava, ao mesmo tempo, que Paulo lhe desse dinheiro (para conseguir a liberdade); por isso, mandando-o chamar frequentemente, se entretinha com ele.
+
+[[v51-24-27]]
+
+^<<v51-24-27,27>>^ Passados dois anos, Félix teve por sucessor Pórcio Festo. E, querendo Félix ser agradável aos Judeus, deixou Paulo na prisão.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-023.adoc#v51-23-0[&#60; Capítulo Anterior] | <<v51-24-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-025.adoc#v51-25-0[Próximo Capítulo &#62;]

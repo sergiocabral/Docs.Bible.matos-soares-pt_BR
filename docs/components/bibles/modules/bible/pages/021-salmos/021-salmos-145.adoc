@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v21-145-0]]
+=== Salmos, 145
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 145 é um hino de louvor e adoração a Deus, reconhecendo a grandeza de suas obras e sua bondade para com todos. O salmista declara a intenção de exaltar e bendizer o nome de Deus para sempre e incentiva todas as gerações a fazerem o mesmo. Além disso, o salmo destaca algumas das qualidades de Deus, como sua bondade, misericórdia, justiça, santidade e providência.
+* Provérbios 3:5-6: "Confia no SENHOR de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo fala sobre confiar em Deus em todos os aspectos da vida e deixar que Ele guie nossos caminhos. O salmista de Salmo 145 reconhece a bondade e fidelidade de Deus em prover suas necessidades e cuidar de todas as suas criaturas.
+* 1 Crônicas 29:11: "Teus, SENHOR, são a grandeza, o poder, a glória, a vitória e a majestade; porque teu é tudo quanto há nos céus e na terra; teu, SENHOR, é o reino, e tu te exaltaste por chefe sobre todos." Este versículo expressa a grandeza e majestade de Deus, temas que são enfatizados no Salmo 145, onde o salmista louva a Deus por sua grandeza e proclama sua obra poderosa.
+* Êxodo 34:6: "Passando o SENHOR perante ele, clamou: SENHOR, SENHOR Deus compassivo, clemente e longânimo, e grande em misericórdia e fidelidade." Este versículo destaca algumas das características de Deus, como sua misericórdia e fidelidade, que são mencionadas no Salmo 145.
+* Salmos 103:17: "Mas a misericórdia do SENHOR é de eternidade a eternidade sobre os que o temem, e a sua justiça sobre os filhos dos filhos." Esse versículo ressalta a misericórdia e justiça de Deus, aspectos que também são mencionados no Salmo 145. O salmista reconhece que Deus é justo em todos os seus caminhos e mostra misericórdia a todas as suas criaturas.
+* Isaías 25:1: "Ó SENHOR, tu és o meu Deus; exaltar-te-ei e louvarei o teu nome, porque fizeste maravilhas; os teus conselhos antigos são verdade e firmeza." Esse versículo é um exemplo de louvor a Deus pelas suas maravilhosas obras. O Salmo 145 também é um hino de louvor a Deus por suas grandes obras e feitos poderosos.
+****
+
+[[v21-145-1]]
+
+^<<v21-145-1,1>>^ Aleluia. Louva, ó minha alma, o Senhor;
+
+[[v21-145-2]]
+
+^<<v21-145-2,2>>^ eu louvarei o Senhor durante a minha vida; cantarei salmos ao meu Deus enquanto existir.
+
+[[v21-145-3]]
+
+^<<v21-145-3,3>>^ Não confiéis nos príncipes, nem no homem que não pode salvar.
+
+[[v21-145-4]]
+
+^<<v21-145-4,4>>^ Quando sair o seu espírito, voltará ao seu pó; então se desvanecerão (como fumo) todos os seus projectos.
+
+[[v21-145-5]]
+
+^<<v21-145-5,5>>^ Ditoso aquele de quem é protector o Deus de Jacob, cuja esperança está no Senhor, seu Deus,
+
+[[v21-145-6]]
+
+^<<v21-145-6,6>>^ que fez o céu e a terra, o mar e todas as coisas que neles há, que conserva eternamente a fidelidade (das suas promessas),
+
+[[v21-145-7]]
+
+^<<v21-145-7,7>>^ faz justiça aos oprimidos, dá pão aos famintos. O (mesmo) Senhor dá liberdade aos cativos,
+
+[[v21-145-8]]
+
+^<<v21-145-8,8>>^ o Senhor abre os olhos aos cegos. O Senhor endireita os encurvados, o Senhor ama os justos.
+
+[[v21-145-9]]
+
+^<<v21-145-9,9>>^ O Senhor protege os peregrinos, ampara o órfão e a viúva, mas embaraça os caminhos do pecador.
+
+[[v21-145-10]]
+
+^<<v21-145-10,10>>^ O Senhor reinará para sempre, o teu Deus, ó Sião, (reinará) de geração em geração. Aleluia.
+
+'''
+
+xref:021-salmos/021-salmos-144.adoc#v21-144-0[&#60; Capítulo Anterior] | <<v21-145-0,Topo>> | xref:021-salmos/021-salmos-146.adoc#v21-146-0[Próximo Capítulo &#62;]

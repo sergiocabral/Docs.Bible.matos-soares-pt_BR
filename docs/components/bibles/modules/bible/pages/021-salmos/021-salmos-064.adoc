@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-64-0]]
+=== Salmos, 64
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 64 é um salmo de súplica, onde o salmista clama a Deus para protegê-lo de seus inimigos. Ele pede que Deus o defenda dos que tramam contra ele e dos que falam mal dele pelas costas. O salmista tem confiança de que Deus o protegerá e que seus inimigos serão derrotados. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 64:
+* Salmos 3:3-4: "Mas tu, Senhor, és um escudo para mim, a minha glória, e o que exalta a minha cabeça. Com a minha voz clamei ao Senhor, e ouviu-me desde o seu santo monte." Assim como o salmista em Salmo 64, o salmista em Salmo 3 confia na proteção de Deus contra seus inimigos. Ele clama a Deus por ajuda e sabe que Deus ouvirá suas orações.
+* Salmos 27:1: "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?" Este versículo mostra a confiança que o salmista tem em Deus para protegê-lo e guiá-lo em todos os momentos.
+* Salmos 31:15: "As minhas horas estão nas tuas mãos; livra-me das mãos dos meus inimigos e dos que me perseguem." O salmista em Salmo 64 pede a Deus que o proteja de seus inimigos e os que tramam contra ele. Este versículo em Salmo 31 faz um pedido semelhante.
+* Salmos 37:39-40: "Mas a salvação dos justos vem do Senhor; ele é a sua fortaleza no tempo da angústia. O Senhor os ajuda e os livra; ele os livra dos ímpios e os salva, porque nele se refugiam." Este versículo reforça a ideia de que Deus é a fonte de proteção e segurança para os justos. O salmista em Salmo 64 confia em Deus para livrá-lo de seus inimigos.
+* Salmos 91:2: "Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei." Este versículo destaca a importância de confiar em Deus para proteção e segurança. O salmista em Salmo 64 tem a mesma confiança em Deus como o salmista em Salmo 91.
+****
+
+[[v21-64-1]]
+
+^<<v21-64-1,1>>^ Ao mestre do coro. Salmo. De Davide. Cântico.
+
+[[v21-64-2]]
+
+^<<v21-64-2,2>>^ A ti, ó Deus, é devido um hino em Sião, cumpra-se o voto a ti,
+
+[[v21-64-3]]
+
+^<<v21-64-3,3>>^ que ouves as preces. A ti vem todo o mortal,
+
+[[v21-64-4]]
+
+^<<v21-64-4,4>>^ por causa das iniquidades. Oprimem-nos os nossos delitos: tu os perdoas.
+
+[[v21-64-5]]
+
+^<<v21-64-5,5>>^ Bem-aventurado o que escolhes e tomas para ti: ele habita nos teus átrios. Sejamos saciados dos bens da tua casa, da santidade do teu templo.
+
+[[v21-64-6]]
+
+^<<v21-64-6,6>>^ Tu nos ouves com justiça, entre prodígios estupendos, ó Deus, Salvador nosso, esperança de todos os confins da terra, e dos mais longínquos mares,
+
+[[v21-64-7]]
+
+^<<v21-64-7,7>>^ que dás firmeza aos montes com a tua força, cingido de poder,
+
+[[v21-64-8]]
+
+^<<v21-64-8,8>>^ que aplacas o bramido do mar, o bramido das ondas e o tumulto dos povos:
+
+[[v21-64-9]]
+
+^<<v21-64-9,9>>^ e os que habitam os confins da terra temem pelos teus prodígios; enches de gozo os limites do oriente e do ocidente.
+
+[[v21-64-10]]
+
+^<<v21-64-10,10>>^ Visitaste a terra e a regaste, encheste-a de grandes riquezas. O rio de Deus está cheio de água; preparaste-lhes o trigo, porque assim preparaste a terra:
+
+[[v21-64-11]]
+
+^<<v21-64-11,11>>^ regaste os seus sulcos, desfizeste as suas glebas, amoleceste-a com as chuvas, abençoaste a sua semente.
+
+[[v21-64-12]]
+
+^<<v21-64-12,12>>^ Coroaste o ano com a tua bondade e os teus caminhos ressumam fertilidade.
+
+[[v21-64-13]]
+
+^<<v21-64-13,13>>^ Ressumam os pastos do deserto, e as colinas cingem-se de alegria.
+
+[[v21-64-14]]
+
+^<<v21-64-14,14>>^ Os prados revestem-se de rebanhos, e os vales cobrem-se de trigais: aclamam e cantam.
+
+'''
+
+xref:021-salmos/021-salmos-063.adoc#v21-63-0[&#60; Capítulo Anterior] | <<v21-64-0,Topo>> | xref:021-salmos/021-salmos-065.adoc#v21-65-0[Próximo Capítulo &#62;]

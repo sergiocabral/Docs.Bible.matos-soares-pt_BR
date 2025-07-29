@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v14-24-0]]
+=== II Crônicas, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 24 descreve o reinado de Joás, um rei que fez o que era certo aos olhos do Senhor enquanto o sacerdote Joiada estava vivo, mas que se afastou de Deus após a morte do sacerdote e acabou assassinando o filho deste. O capítulo também relata a reconstrução do templo e o recolhimento do dinheiro do povo para financiar as reformas. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Crônicas 24:
+* 2 Reis 12:2: "Joás fez o que era certo aos olhos do Senhor todos os dias em que o sacerdote Joiada o instruía." Este versículo mostra que Joás foi um rei piedoso enquanto Joiada estava vivo e que seguiu os ensinamentos do sacerdote.
+* Neemias 10:33: "Também nos comprometemos a trazer todos os anos ao templo do Senhor as primícias de nossas colheitas e das primeiras frutas das árvores." Esse versículo mostra que a reconstrução do templo e a recolha de fundos para essa obra eram importantes para o povo de Deus.
+* Deuteronômio 15:7: "Se houver um pobre entre vocês, um de seus irmãos dentro de qualquer uma das suas cidades, na terra que o Senhor, o seu Deus, está lhe dando, não seja insensível nem feche as mãos para esse irmão necessitado." Este versículo fala sobre a importância da justiça social e da ajuda aos menos afortunados, um tema que é importante para o capítulo 24.
+* 2 Crônicas 24:17-18: "Depois da morte de Joiada, os líderes de Judá vieram e se curvaram diante do rei. E o rei os ouviu. Eles abandonaram o templo do Senhor, o Deus de seus pais, e adoraram postes sagrados e ídolos. Como resultado, a ira de Deus veio sobre Judá e Jerusalém." Este versículo mostra que Joás se afastou de Deus após a morte de Joiada e que isso levou à queda de Judá.
+* Provérbios 26:27: "Quem cava uma cova cairá nela; quem rola uma pedra, esta rolará de volta sobre ele." Este versículo pode ser aplicado a Joás, que acabou sendo assassinado pelo próprio povo que ele havia enganado e traído. Ele colheu o que semeou.
+****
+
+[[v14-24-1]]
+
+^<<v14-24-1,1>>^ Joás tinha sete anos, quando começou a reinar, e reinou quarenta anos em Jerusalém. Sua mãe chamava-se Sebia, de Bersabé.
+
+[[v14-24-2]]
+
+^<<v14-24-2,2>>^ Fez o que era bom aos olhos do Senhor todo o tempo que viveu o pontífice Jojada.
+
+[[v14-24-3]]
+
+^<<v14-24-3,3>>^ Jojada casou-o com duas mulheres, das quais teve filhos e filhas.
+
+[[v14-24-4]]
+
+^<<v14-24-4,4>>^ Depois disto Joás quis reparar a casa do Senhor.
+
+[[v14-24-5]]
+
+^<<v14-24-5,5>>^ Mandou juntar os sacerdotes e os Levitas, e disse-lhes: Sai por todas as cidades de Judá e cobrai, todos os anos, de todo o (povo de) Israel o dinheiro para a reparação do templo do vosso Deus; fazei isto com toda a diligência. Os Levitas, porém, procederam com negligência.
+
+[[v14-24-6]]
+
+^<<v14-24-6,6>>^ Mandou, então, o rei chamar o pontífice Jojada e disse-lhe: Por que não tiveste tu cuidado de obrigar os Levitas a trazerem de Judá e de Jerusalém o dinheiro com que Moisés, servo do Senhor, determinou que contribuísse todo o povo de Israel para o tabernáculo do testemunho?
+
+[[v14-24-7]]
+
+^<<v14-24-7,7>>^ Com efeito, a impiíssima Atalia e seus filhos tinham destruído a casa de Deus, e, com tudo o que tinha sido consagrado ao templo do Senhor, ornaram o templo de Baal.
+
+[[v14-24-8]]
+
+^<<v14-24-8,8>>^ Mandou, então, o rei que fizessem um cofre, que foi colocado junto da porta da casa do Senhor, da parte de fora.
+
+[[v14-24-9]]
+
+^<<v14-24-9,9>>^ Depois publicou-se em Judá e em Jerusalém a contribuição que Moisés, servo de Deus, tinha imposto a todo o Israel no deserto.
+
+[[v14-24-10]]
+
+^<<v14-24-10,10>>^ Alegraram-se todos os príncipes e todo o povo, e, concorrendo, lançaram na caixa do Senhor dinheiro, e lançaram tanto que ficou cheia.
+
+[[v14-24-11]]
+
+^<<v14-24-11,11>>^ Chegado o tempo de levar este cofre à presença do rei por mãos dos Levitas (quando eles viam que havia muito dinheiro), o escrivão do rei entrava com aquele que o sumo pontífice tinha, designado, e despejavam o dinheiro que havia no cofre; depois tornavam a levar o cofre para o seu lugar. Assim o faziam todas as vezes. Com isto se recolheu uma imensa quantia de dinheiro,
+
+[[v14-24-12]]
+
+^<<v14-24-12,12>>^ que o rei e Jojada deram aos inspetores das obras da casa do Senhor, os quais pagavam com ele aos canteiros e carpinteiros para se reparar a casa do Senhor, assim como aos que trabalhavam em ferro e em bronze, para se segurar o que ameaçava ruína.
+
+[[v14-24-13]]
+
+^<<v14-24-13,13>>^ Estes operários trabalhavam com muito esmero; por suas mãos repararam as fendas das paredes, restituíram a casa do Senhor ao seu antigo estado e fizeram com que ficasse firme.
+
+[[v14-24-14]]
+
+^<<v14-24-14,14>>^ Depois que concluíram todas as obras, levaram ao rei e a Jojada o remanescente do dinheiro. Com ele foram feitos os vasos para o ministério do templo e para os holocaustos, e copos e outros vasos de ouro e prata. Foram oferecidos continuamente holocaustos na casa do Senhor, durante toda a vida de Jojada.
+
+[[v14-24-15]]
+
+^<<v14-24-15,15>>^ Jojada, envelhecido, cheio de dias, morreu, tendo de idade cento e trinta anos.
+
+[[v14-24-16]]
+
+^<<v14-24-16,16>>^ Sepultaram-no com os reis na cidade de David, por ele ter feito bem a Israel e à sua casa.
+
+[[v14-24-17]]
+
+^<<v14-24-17,17>>^ Depois que Jojada morreu, entraram os príncipes de Judá e prestaram grandes obséquios ao rei, o qual, atraído pelas suas lisonjas, se deixou levar por eles.
+
+[[v14-24-18]]
+
+^<<v14-24-18,18>>^ Abandonaram o templo do Senhor Deus de seus pais e prestaram culto aos ascheros e às estátuas. Este pecado atraiu a ira do Senhor contra Judá e contra Jerusalém.
+
+[[v14-24-19]]
+
+^<<v14-24-19,19>>^ O Senhor enviava-lhes profetas para que se convertessem a ele, porém, por mais que estes protestassem, não lhes queriam dar ouvidos.
+
+[[v14-24-20]]
+
+^<<v14-24-20,20>>^ O espírito de Deus desceu sobre o sumo sacerdote Zacarias, filho de Jojada, que se apresentou diante do povo e disse: Eis o que diz o Senhor Deus: Porque violais vós os preceitos do Senhor? Assim não prosperareis; porque abandonastes o Senhor, também ele vos abandonará.
+
+[[v14-24-21]]
+
+^<<v14-24-21,21>>^ Eles, congregando-se contra ele, apedrejaram-no no átrio da casa do Senhor, conforme a ordem do rei.
+
+[[v14-24-22]]
+
+^<<v14-24-22,22>>^ O rei Joás não se lembrou da misericórdia que Jojada, pai de Zacarias, tinha usado com ele, mas matou-lhe seu filho, o qual, quando expirava, disse: O Senhor veja e faça justiça.
+
+[[v14-24-23]]
+
+^<<v14-24-23,23>>^ Ao cabo dum ano, marchou o exército da Síria contra Joás; foi a Judá e a Jerusalém, matou todos os príncipes do povo e enviou ao rei, a Damasco, toda a presa.
+
+[[v14-24-24]]
+
+^<<v14-24-24,24>>^ Embora os Sírios fossem em pequeníssimo número, o Senhor entregou-lhes nas suas mãos uma multidão infinita (de Israelitas), porque eles tinham deixado o Senhor Deus de seus pais. Ao próprio Joás trataram ignominiosamente.
+
+[[v14-24-25]]
+
+^<<v14-24-25,25>>^ Logo que, coberto de muitos ferimentos, (os Sírios) o deixaram, os seus servidores levantaram-se contra ele, para vingarem o sangue do filho do pontífice Jojada, e assassinaram-no no seu leito, onde (desta forma) morreu. Sepultaram-no na cidade de David, mas não no jazigo dos reis.
+
+[[v14-24-26]]
+
+^<<v14-24-26,26>>^ Os que conspiraram contra ele foram Zabad, filho de Samaat, mulher amonita, e Josabad, filho de Semarit, mulher moabita.
+
+[[v14-24-27]]
+
+^<<v14-24-27,27>>^ Quanto aos seus filhos, quanto às numerosas profecias pronunciadas contra ele, e quanto ao restabelecimento da casa de Deus, tudo isto está escrito minuciosamente nas Memórias do livro dos Reis. Amasias, seu filho, reinou em seu lugar.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-023.adoc#v14-23-0[&#60; Capítulo Anterior] | <<v14-24-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-025.adoc#v14-25-0[Próximo Capítulo &#62;]

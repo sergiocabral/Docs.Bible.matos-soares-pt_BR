@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v40-0-0]]
+== Miquéias
+
+[cols="8*^"]
+|===
+| xref:040-miqueias/040-miqueias-001.adoc#v40-1-0[1]
+| xref:040-miqueias/040-miqueias-002.adoc#v40-2-0[2]
+| xref:040-miqueias/040-miqueias-003.adoc#v40-3-0[3]
+| xref:040-miqueias/040-miqueias-004.adoc#v40-4-0[4]
+| xref:040-miqueias/040-miqueias-005.adoc#v40-5-0[5]
+| xref:040-miqueias/040-miqueias-006.adoc#v40-6-0[6]
+| xref:040-miqueias/040-miqueias-007.adoc#v40-7-0[7]
+|
+|===

@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v26-4-0]]
+=== Cântico dos Cânticos, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Cânticos 4 descreve a beleza da amada do poeta e o seu amor por ela. O capítulo destaca a perfeição e a pureza física e espiritual da amada, sua voz atraente e seu amor intenso. Abaixo estão cinco versículos relacionados aos temas deste capítulo.
+* Provérbios 31:30: "A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada." Este versículo destaca a importância de uma beleza interior, ou seja, o temor ao Senhor e uma vida virtuosa, como mais valioso do que a beleza física.
+* Salmos 45:11: "Ouve, ó filha, considera, e inclina os teus ouvidos; esquece-te também do teu povo e da casa do teu pai." Este verso fala sobre deixar para trás sua vida anterior para se comprometer com seu cônjuge e família.
+* Provérbios 5:18-19: "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade. Como cerva amorosa, e gazela graciosa, os seus seios te saciem todo o tempo; e pelo seu amor sejas atraído perpetuamente." Este versículo fala sobre a alegria e a satisfação que o amor físico traz ao casamento.
+* 1 Coríntios 13:4-7: "O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta." Este versículo destaca a importância do amor em um relacionamento, que é caracterizado por paciência, bondade, perdão e esperança.
+* Efésios 5:25: "Maridos, ame cada um a sua esposa, assim como Cristo amou a igreja e entregou-se por ela." Este versículo fala sobre a natureza sacrificial do amor, que é exemplificado por Cristo.
+****
+
+[[v26-4-1]]
+
+^<<v26-4-1,1>>^ Oh, como és formosa, minha amada, como és formosa! Os teus olhos são como os das pombas, por detrás do teu véu. Os teus cabelos são como um rebanho de cabras, suspensas das vertentes dos montes de Galaad. (ver nota)
+
+[[v26-4-2]]
+
+^<<v26-4-2,2>>^ Os teus dentes são como um rebanho de ovelhas tosquiadas, ao subir do lavadouro; cada uma leva dois cordeirinhos gémeos, e nenhuma há estéril entre elas. (ver nota)
+
+[[v26-4-3]]
+
+^<<v26-4-3,3>>^ Os teus lábios são como um fio de púrpura, o teu falar é doce, como metades de romãs, assim são as tuas faces, por detrás do teu véu.
+
+[[v26-4-4]]
+
+^<<v26-4-4,4>>^ O teu pescoço é (direito) como a torre de Davide, que foi edificada com seus baluartes; dela estão pendentes mil escudos, todos os escudos dos heróis.
+
+[[v26-4-5]]
+
+^<<v26-4-5,5>>^ Os teus dois peitos são como dois filhinhos gémeos, duma gazela. que pastam entre os lírios.
+
+[[v26-4-6]]
+
+^<<v26-4-6,6>>^ Antes que chegue o fresco do dia, e se inclinem as sombras, eu irei ao monte da mirra, e ao outeiro do incenso.
+
+[[v26-4-7]]
+
+^<<v26-4-7,7>>^ Toda és formosa, minha amada, e em ti não há mácula.
+
+[[v26-4-8]]
+
+^<<v26-4-8,8>>^ Vem do Líbano, esposa minha, vem do Líbano, vem do alto do monte Amaná, dos cumes de Sanir e de Hermon, das cavernas dos leões, dos montes dos leopardos.
+
+[[v26-4-9]]
+
+^<<v26-4-9,9>>^ Arrebataste o meu coração, irmã minha esposa, arrebataste o meu coração com um só dos teus olhares, com uma só pérola do teu colar.
+
+[[v26-4-10]]
+
+^<<v26-4-10,10>>^ Que deliciosas são as tuas carícias, irmã minha esposa! Quanto melhor é o teu amor que o vinho, e quanto o odor dos teus perfumes excede o de todos os aromas.
+
+[[v26-4-11]]
+
+^<<v26-4-11,11>>^ Os teus lábios, ó esposa, são como um favo, que destila mel; e o mel e o leite estão debaixo da tua língua, e o odor dos teus vestidos é como o odor (suave) do incenso.
+
+[[v26-4-12]]
+
+^<<v26-4-12,12>>^ Jardim fechado és, irmã minha esposa, nascente fechada, fonte selada. (ver nota)
+
+[[v26-4-13]]
+
+^<<v26-4-13,13>>^ As tuas plantas formam um jardim de delicias, (cheio) de romãzeiras, com frutos preciosos, com cipre e nardo,
+
+[[v26-4-14]]
+
+^<<v26-4-14,14>>^ nardo e açafrão, canela e cinamono, com todas as árvores de incenso, e todos os melhores balsameiros, com mirra e aloés,
+
+[[v26-4-15]]
+
+^<<v26-4-15,15>>^ És fonte de jardins, poço de águas vivas, que com ímpeto correm do Líbano.
+
+[[v26-4-16]]
+
+^<<v26-4-16,16>>^ Levanta-te, Aquilão, e vem tu, vento do Meio-dia, sopra no meu jardim, (de sorte) que os balsameiros exalem seus perfumes.
+
+'''
+
+xref:026-cantico-dos-canticos/026-cantico-dos-canticos-003.adoc#v26-3-0[&#60; Capítulo Anterior] | <<v26-4-0,Topo>> | xref:026-cantico-dos-canticos/026-cantico-dos-canticos-005.adoc#v26-5-0[Próximo Capítulo &#62;]

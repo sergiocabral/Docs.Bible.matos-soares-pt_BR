@@ -1,0 +1,315 @@
+include::./index.adoc[]
+
+[[v22-11-0]]
+=== I Macabeus, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Macabeus 11 relata a continuação da história de Judas Macabeu e seu conflito com os selêucidas. Neste capítulo, o rei Demétrio tenta retomar o controle da região e faz uma aliança com os judeus, mas a traição de seu general frustra seus planos. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* 2 Crônicas 20:6: "ó SENHOR, Deus de nossos pais, não és tu Deus nos céus? Não és tu que governas sobre todos os reinos das nações? Em tua mão há força e poder, e não há ninguém que possa resistir a ti." Este versículo destaca a soberania de Deus sobre todos os reinos das nações, incluindo o conflito entre Judas Macabeu e o rei Demétrio.
+* Provérbios 16:7: "Quando o SENHOR se agrada dos caminhos de alguém, até faz que os seus inimigos tenham paz com ele." Este versículo destaca a possibilidade de Deus intervir na relação entre Judas Macabeu e seus inimigos para promover a paz.
+* 1 João 5:4: "porque todo o que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo: a nossa fé." Este versículo destaca a importância da fé para a vitória sobre o mundo, o que pode ser aplicado à vitória de Judas Macabeu contra os selêucidas.
+* 2 Timóteo 4:7-8: "Combati o bom combate, completei a carreira, guardei a fé. Desde agora, a coroa da justiça me está guardada, a qual o Senhor, reto juiz, me dará naquele Dia; e não somente a mim, mas também a todos quantos amam a sua vinda." Este versículo destaca a perseverança e a recompensa daqueles que lutam pela fé, o que pode ser aplicado à luta de Judas Macabeu.
+* Mateus 26:52: "Então Jesus lhe disse: Embainha a tua espada; porque todos os que lançarem mão da espada, à espada perecerão." Este versículo destaca a necessidade de evitar a violência e buscar a paz, o que pode ser aplicado à situação entre Judas Macabeu e os selêucidas.
+****
+
+[[v22-11-1]]
+
+^<<v22-11-1,1>>^ Depois disto, o rei do Egipto ajuntou um exército inumerável, como a areia que está sobre a praia do mar, e um grande número de naus, procurando apoderar-se do reino de Alexandre por astúcia e juntá-lo ao seu reino.
+
+[[v22-11-2]]
+
+^<<v22-11-2,2>>^ Marchou, pois, para a Síria com palavras de paz, e os habitantes das cidades abriam-lhe as portas e vinham-no receber, porque o rei Alexandre tinha mandado que saíssem a recebê-lo, visto que era seu sogro.
+
+[[v22-11-3]]
+
+^<<v22-11-3,3>>^ Mas Ptolomeu, logo que entrava numa cidade, aí punha guarnição de (suas) tropas.
+
+[[v22-11-4]]
+
+^<<v22-11-4,4>>^ Quando chegou perto de Azot, mostraram-lhe o templo de Dagon queimado, a própria cidade e os seus subúrbios demolidos, os cadáveres por terra, e, ao longo do caminho, montões (de restos) daqueles que tinham sido mortos na batalha.
+
+[[v22-11-5]]
+
+^<<v22-11-5,5>>^ Disseram ao rei que Jónatas era quem tinha feito todos estes estragos, querendo assim torná-lo odioso, mas o rei manteve-se calado.
+
+[[v22-11-6]]
+
+^<<v22-11-6,6>>^ Jónatas foi com grande pompa encontrar-se com o rei em Jope, Cumprimentaram-se um ao outro e passaram ali a noite.
+
+[[v22-11-7]]
+
+^<<v22-11-7,7>>^ Jónatas acompanhou o rei até ao rio, que se chama Eleutero, e voltou para Jerusalém.
+
+[[v22-11-8]]
+
+^<<v22-11-8,8>>^ o rei Ptolomeu apoderou-se de todas as cidades do litoral até Selêucia, que está sobre o mar, e forjava maus desígnios contra Alexandre.
+
+[[v22-11-9]]
+
+^<<v22-11-9,9>>^ Enviou embaixadores a Demétrio, que lhe dissessem: Anda, façamos aliança um com outro, e eu te darei minha filha que Alexandre tem por mulher, e reinarás no reino de teu pai.
+
+[[v22-11-10]]
+
+^<<v22-11-10,10>>^ Efectivamente estou arrependido de lhe ter dado minha filha, visto que procurou matar-me.
+
+[[v22-11-11]]
+
+^<<v22-11-11,11>>^ Acusava-o deste modo, pelo desejo que tinha do seu reino.
+
+[[v22-11-12]]
+
+^<<v22-11-12,12>>^ Tirou-lhe sua filha, deu-a a Demétrio, rompendo com Alexandre e tornando manifesta a sua inimizade.
+
+[[v22-11-13]]
+
+^<<v22-11-13,13>>^ Ptolomeu entrou em Antioquia e pôs na sua cabeça dois diademas: um do Egipto e outro da Asia.
+
+[[v22-11-14]]
+
+^<<v22-11-14,14>>^ O rei Aiexandre naquele tempo encontrava-se na Cilícia porque os habitantes dessa região tinham-se revoltado contra ele.
+
+[[v22-11-15]]
+
+^<<v22-11-15,15>>^ Quando, porém, Alexandre ouviu tal notícia, foi logo contra ele para o combater. O rei Ptolomeu fez sair a campo o seu exército, saiu-lhe ao encontro com grandes forças e pô-lo em fuga.
+
+[[v22-11-16]]
+
+^<<v22-11-16,16>>^ Alexandre fugiu para a Arábia, a ver se achava ali alguma protecção. E o rei Ptolomeu triunfou.
+
+[[v22-11-17]]
+
+^<<v22-11-17,17>>^ Zabdiel, (príncipe) Árabe, mandou cortar a cabeça a Alexandre e enviou-a a Ptolomeu.
+
+[[v22-11-18]]
+
+^<<v22-11-18,18>>^ Três dias depois morreu o rei Ptolomeu, e os (soldados) que estavam nas fortalezas foram mortos pelos seus habitantes.
+
+[[v22-11-19]]
+
+^<<v22-11-19,19>>^ Entrou Demétrio a reinar no ano cento e sessenta e sete.
+
+[[v22-11-20]]
+
+^<<v22-11-20,20>>^ Naqueles dias Jónatas juntou os que estavam na Judeia, para combaterem a fortaleza que havia em Jerusalém, contra a qual levantou muitas máquinas de guerra.
+
+[[v22-11-21]]
+
+^<<v22-11-21,21>>^ Mas alguns homens iníquos, que aborreciam a sua gente, foram ter com o rei (Demétrio) e contaram-lhe que Jónatas tinha sitiado a fortaleza.
+
+[[v22-11-22]]
+
+^<<v22-11-22,22>>^ Demétrio, quando tal ouviu, ficou irritado e foi logo para Ptolemaida, donde escreveu a Jónatas que não sitiasse a fortaleza e que fosse sem demora ter com ele, para conferenciarem.
+
+[[v22-11-23]]
+
+^<<v22-11-23,23>>^ Porém, Jónatas, recebida esta carta, ordenou que se continuasse o cerco, e, escolhendo alguns dos anciães de Israel e dos sacerdotes, foi (com eles) expor-se ao perigo.
+
+[[v22-11-24]]
+
+^<<v22-11-24,24>>^ Levou consigo (muito) ouro, prata, vestes e outros numerosos presentes, e foi a Ptolemaida, a encontrar-se com o rei, junto de quem teve bom acolhimento.
+
+[[v22-11-25]]
+
+^<<v22-11-25,25>>^ Apesar disto, ainda alguns homens iníquos da sua nação formaram queixas contra ele.
+
+[[v22-11-26]]
+
+^<<v22-11-26,26>>^ Mas o rei tratou-o como o tinham tratado os príncipes seus predecessores; honrou-o, à vista de todos os seus amigos,
+
+[[v22-11-27]]
+
+^<<v22-11-27,27>>^ confirmou-o no sumo sacerdócio e em todas as honras, que antes tinha, e pô-lo entre os primeiros dos seus amigos.
+
+[[v22-11-28]]
+
+^<<v22-11-28,28>>^ Jónatas suplicou ao rei que concedesse Imunidade de tributos à Judeia e às três toparquias da gamaria, prometendo-lhe trezentos talentos.
+
+[[v22-11-29]]
+
+^<<v22-11-29,29>>^ O rei concordou e mandou expedir a Jónatas, sobre tudo isto, uma carta concebida nestes termos:
+
+[[v22-11-30]]
+
+^<<v22-11-30,30>>^ O rei Demétrio, ao seu irmão Jónatas e à nação dos Judeus, saúde.
+
+[[v22-11-31]]
+
+^<<v22-11-31,31>>^ Enviamos-vos uma cópia da carta, que a vosso respeito escrevemos a Lastenes, nosso parente, para tomardes conhecimento dela. (Diz assim);
+
+[[v22-11-32]]
+
+^<<v22-11-32,32>>^ O rei Demétrio, a Lastenes, seu pai, saúde.
+
+[[v22-11-33]]
+
+^<<v22-11-33,33>>^ Resolvemos fazer bem à nação dos Judeus, que são nossos amigos e nos conservam fidelidade, por causa dos seus bons sentimentos para conosco.
+
+[[v22-11-34]]
+
+^<<v22-11-34,34>>^ Confirmamos o seu domínio sobre todo o território da Judeia e dos três distritos de Efraim, Lida e Ramata, os quais foram anexos da província da gamaria à Judeia, com todos os seus territórios. Quanto a todos os que sacrificam em Jerusalém, isentamo-los dos impostos que o rei cobrava deles, cada ano, sobre o que lhes rendiam os frutos da terra e das árvores.
+
+[[v22-11-35]]
+
+^<<v22-11-35,35>>^ Renunciamos também desde agora a outros direitos que nos pertenciam de dízimos e de tributos, (renunciamos) aos impostos das salinas e às coroas (de ouro) que nos eram devidas.
+
+[[v22-11-36]]
+
+^<<v22-11-36,36>>^ Todas estas coisas lhes damos ; e nada disto será anulado desde agora para sempre.
+
+[[v22-11-37]]
+
+^<<v22-11-37,37>>^ Cuidai, pois, de tirar agora uma cópia deste decreto e entregai-a a Jónatas, para ser posta no monte santo (de Sião) em lugar público.
+
+[[v22-11-38]]
+
+^<<v22-11-38,38>>^ O rei Demétrio; vendo que a terra estava sossegada diante dele e que nada lhe resistia, licenciou todo o seu exército, mandando cada um para sua casa, excepto as tropas estrangeiras, que tinha levantado nas ilhas das nações. Isto excitou contra ele o ódio de todas as tropas, que tinham servido a seus pais.
+
+[[v22-11-39]]
+
+^<<v22-11-39,39>>^ Trifão, que antes havia sido do partido de Alexandre, quando viu que todo o exército murmurava contra Demétrio, foi logo ter com Emalcué, o Árabe, que educava Antíoco, filho de Alexandre.
+
+[[v22-11-40]]
+
+^<<v22-11-40,40>>^ Fez-lhe muitas e grandes instâncias para que lho entregasse, a fim de o fazer reinar em lugar de seu pai, contando-lhe tudo o que Demétrio tinha feito e o ódio que o seu exército havia concebido contra ele. E lá se demorou muitos dias.
+
+[[v22-11-41]]
+
+^<<v22-11-41,41>>^ Entretanto Jónatas enviou embaixadores ao rei Demétrio, suplicando-lhe que deitasse fora os que estavam na cidadela de Jerusalém e nas outras fortalezas (da Judeia), porque faziam guerra a Israel.
+
+[[v22-11-42]]
+
+^<<v22-11-42,42>>^ Demétrio mandou responder a Jónatas: Não só farei por ti e pela tua gente o que me pedes, mas cumular-vos-ei de honras, a ti e ao teu povo, logo que o tempo mo permita.
+
+[[v22-11-43]]
+
+^<<v22-11-43,43>>^ Agora farás bem se mandares tropas em meu socorro, porque todo o meu exército me abandonou.
+
+[[v22-11-44]]
+
+^<<v22-11-44,44>>^ Imediatamente mandou-lhe Jónatas para Antioquia três mil homens esforçados, que foram ter com o rei, o qual se alegrou muito com a sua chegada.
+
+[[v22-11-45]]
+
+^<<v22-11-45,45>>^ Reuniam-se dos habitantes da cidade cento e vinte mil homens, que queriam matar o rei.
+
+[[v22-11-46]]
+
+^<<v22-11-46,46>>^ O rei fugiu para o seu palácio, mas os habitantes da cidade tornaram-se senhores das ruas dela e começaram a atacá-lo.
+
+[[v22-11-47]]
+
+^<<v22-11-47,47>>^ Então o rei chamou os Judeus em seu socorro, e eles juntaram-se todos ao pé dele; depois fizeram correrias pela cidade
+
+[[v22-11-48]]
+
+^<<v22-11-48,48>>^ e mataram naquele dia cerca de cem mil homens, puseram fogo à cidade, tomaram naquele mesmo dia muitos despojos e livraram o rei.
+
+[[v22-11-49]]
+
+^<<v22-11-49,49>>^ Quando os da cidade viram que os Judeus se tinham apoderado dela, fazendo o que queriam, perderam a coragem e com deprecações suplicaram misericórdia ao rei, dizendo:
+
+[[v22-11-50]]
+
+^<<v22-11-50,50>>^ Dá-nos a tua dextra, e cessem os Judeus de nos atacar, a nós e à cidade.
+
+[[v22-11-51]]
+
+^<<v22-11-51,51>>^ (Ao mesmo tempo) largaram as suas armas e fizeram a paz. Os Judeus adquiriram grande glória aos olhos do rei e de todos os que se achavam no seu reino, e voltaram para Jerusalém carregados de muitos despojos.
+
+[[v22-11-52]]
+
+^<<v22-11-52,52>>^ O rei Demétrio sentou-se no trono do seu reino e o país ficou em paz diante dele.
+
+[[v22-11-53]]
+
+^<<v22-11-53,53>>^ Mas (este príncipe) faltou a tudo o que tinha prometido, separou-se de Jónatas e não correspondeu aos benefícios dele recebidos, antes o molestava muito.
+
+[[v22-11-54]]
+
+^<<v22-11-54,54>>^ Depois disto, voltou Trifão, e com ele Antíoco, jovem ainda, que reinou e se pôs o diadema na cabeça.
+
+[[v22-11-55]]
+
+^<<v22-11-55,55>>^ Todas as tropas que Demétrio tinha despedido juntaram-se logo a Antíoco e combateram contra Demétrio, o qual voltou costas e fugiu.
+
+[[v22-11-56]]
+
+^<<v22-11-56,56>>^ Trifão apoderou-se dos elefantes e tornou-se senhor de Antioquia.
+
+[[v22-11-57]]
+
+^<<v22-11-57,57>>^ Então o jovem Antioco escreveu a Jónatas nestes termos: Eu te confirmo no sumo pontificado e te constituo sobre os quatro distritos e (quero que) sejas dos amigos do rei.
+
+[[v22-11-58]]
+
+^<<v22-11-58,58>>^ Mandou-lhe também vasos de ouro, utensílios, e deu-lhe poder de beber por copo de ouro, de se vestir de púrpura e de trazer afinete de ouro.
+
+[[v22-11-59]]
+
+^<<v22-11-59,59>>^ A seu irmão Simão nomeou-o governador das terras que vão desde a Escada de Tiro até à fronteira do Egipto. (ver nota)
+
+[[v22-11-60]]
+
+^<<v22-11-60,60>>^ Então saiu Jónatas e percorreu as terras e as cidades de além do rio. Juntou-se a ele, para combater seu lado, todo o exército da Síria. Chegou assim a Ascalon, cujos habitantes saíram a recebê-lo com grades honras.
+
+[[v22-11-61]]
+
+^<<v22-11-61,61>>^ Dali passou a Gaza, mas os de Gaza fecharam-lhe as portas. Ele sitiou-a, e queimou e saqueou os arredores da cidade.
+
+[[v22-11-62]]
+
+^<<v22-11-62,62>>^ Então mandaram os de Gaza dizer a Jónatas que queriam capitular, e ele deu-lhes a sua mão direita (isto é, a paz), mas tomou os filhos dos principais, como reféns, e enviou-os a Jerusalém. Em seguida percorreu todo o país até Damasco.
+
+[[v22-11-63]]
+
+^<<v22-11-63,63>>^ Nesta ocasião Jónatas soube que os generais de Demétrio tinham ido com um poderoso exército a Cades, que está na Galileia, com o fim de o afastar dos negócios do reino.
+
+[[v22-11-64]]
+
+^<<v22-11-64,64>>^ Marchou contra eles, deixando na terra (de Judá) seu irmão Simão.
+
+[[v22-11-65]]
+
+^<<v22-11-65,65>>^ Simão pôs cerco a Betsur, atacou-a durante muitos dias, e teve bloqueados os seus habitantes.
+
+[[v22-11-66]]
+
+^<<v22-11-66,66>>^ Então pediram-lhe paz, e ele lha concedeu; porém lançou-os fora dali, apoderou-se da cidade e pôs nela uma guarnição.
+
+[[v22-11-67]]
+
+^<<v22-11-67,67>>^ Jónatas e o seu exército acamparam junto do lago de Genesar, e, antes de amanhecer, penetraram na campina de Asor.
+
+[[v22-11-68]]
+
+^<<v22-11-68,68>>^ E eis que se encontrou diante do exército dos estrangeiros, que veio contra ele na campina, depois de lhe haver armado emboscadas nos montes.
+
+[[v22-11-69]]
+
+^<<v22-11-69,69>>^ Então os que estavam escondidos, saíram dos lugares da sua emboscada e travaram a batalha.
+
+[[v22-11-70]]
+
+^<<v22-11-70,70>>^ Todos os que eram da parte de Jónatas fugiram, sem ficar um só, senão Matatias, filho de Absalão, e Judas, filho de Calfi, generais do seu exército.
+
+[[v22-11-71]]
+
+^<<v22-11-71,71>>^ Então Jónatas rasgou as suas vestes, pôs terra sobre a sua cabeça e orou.
+
+[[v22-11-72]]
+
+^<<v22-11-72,72>>^ Feito isto, voltou Jónatas para os combater, pelejou contra eles e pô-los em fuga.
+
+[[v22-11-73]]
+
+^<<v22-11-73,73>>^ Os do seu partido que fugiram, quando o viram pelejar tornaram logo a juntar-se a ele, e todos perseguiram (os inimigos) até Cades, onde estes tinham o acampamento. Aí mesmo assentaram arraiais.
+
+[[v22-11-74]]
+
+^<<v22-11-74,74>>^ Morreram naquele dia três mil homens do exército estrangeiro. Jónatas voltou para Jerusalém.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-010.adoc#v22-10-0[&#60; Capítulo Anterior] | <<v22-11-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-012.adoc#v22-12-0[Próximo Capítulo &#62;]

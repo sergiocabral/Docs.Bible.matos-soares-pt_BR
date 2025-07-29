@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v21-39-0]]
+=== Salmos, 39
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 39 é um salmo de lamentação, onde o salmista expressa sua angústia diante da brevidade da vida e da inevitabilidade da morte. Ele clama a Deus por ajuda e orientação, reconhecendo que sua vida é frágil e passageira. Abaixo estão cinco versículos da Bíblia relacionados aos temas abordados neste Salmo:
+* Jó 14:5 - "Visto que os seus dias estão determinados, contigo está o número dos seus meses; e tu lhe puseste limites, de modo que não passará além deles." Este versículo fala sobre a brevidade da vida e como os dias de uma pessoa estão contados e limitados por Deus.
+* Salmos 90:12 - "Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios." Este versículo destaca a importância de reconhecer a brevidade da vida e de viver sabiamente enquanto se tem tempo.
+* Hebreus 9:27 - "E, assim como aos homens está ordenado morrerem uma só vez, vindo, depois disso, o juízo." Este versículo fala sobre a inevitabilidade da morte e do julgamento que se segue.
+* Salmos 119:25 - "A minha alma está apegada ao pó; vivifica-me segundo a tua palavra." Este versículo reflete a mesma sensação do salmista de que a vida é frágil e passageira e clama a Deus por vida e orientação.
+* João 11:25-26 - "Disse-lhe Jesus: Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá; e todo o que vive e crê em mim não morrerá, eternamente. Crês isto?" Este versículo aponta para a esperança da ressurreição e da vida eterna por meio de Jesus Cristo.
+****
+
+[[v21-39-1]]
+
+^<<v21-39-1,1>>^ Ao mestre do coro. De Davide. Salmo.
+
+[[v21-39-2]]
+
+^<<v21-39-2,2>>^ Esperei, esperei no Senhor, e ele inclinou-se para mim e ouviu o meu clamor.
+
+[[v21-39-3]]
+
+^<<v21-39-3,3>>^ Tirou-me da fossa da perdição, do pântano lodoso, e assentou os meus pés sobre a pedra, deu firmeza aos meus passos.
+
+[[v21-39-4]]
+
+^<<v21-39-4,4>>^ E pôs um novo cântico na minha boca, um hino ao nosso Deus. Muitos verão e temerão, e esperarão no Senhor,
+
+[[v21-39-5]]
+
+^<<v21-39-5,5>>^ Bem-aventurado o homem que pôs a sua esperança no Senhor e não anda após os que adoram ídolos e se desviam para a mentira.
+
+[[v21-39-6]]
+
+^<<v21-39-6,6>>^ Senhor, Deus meu, tens feito muitas obras maravilhosas, e não há quem te seja semelhante nos teus desígnios para connosco.
+
+[[v21-39-7]]
+
+^<<v21-39-7,7>>^ Não quiseste sacrifício nem oferenda, mas abriste-me os ouvidos. (Também) não pediste holocausto e vítima pelo pecado:
+
+[[v21-39-8]]
+
+^<<v21-39-8,8>>^ então eu disse: "Eis ,que venho; no rolo do livro está escrito de mim:
+
+[[v21-39-9]]
+
+^<<v21-39-9,9>>^ em fazer a tua vontade, ó meu Deus, me deleito, e a tua lei está no íntimo do meu coração.
+
+[[v21-39-10]]
+
+^<<v21-39-10,10>>^ Anunciei a (tua) justiça na grande assembleia; não contive os meus lábios; Senhor, tu o sabes,
+
+[[v21-39-11]]
+
+^<<v21-39-11,11>>^ Não escondi a tua justiça no meu coração: publiquei a tua fidelidade e o teu socorro. Não ocultei a tua graça e a tua fidelidade à grande assembleia.
+
+[[v21-39-12]]
+
+^<<v21-39-12,12>>^ Tu, Senhor, não afastes de mim as tuas misericórdias; a tua graça e a tua fidelidade sempre me amparem.
+
+[[v21-39-13]]
+
+^<<v21-39-13,13>>^ Porquanto me cercaram males sem conta, tornaram-me as minhas culpas, e já não pude ver. São mais do que os cabelos da minha cabeça, e o meu ânimo desfaleceu.
+
+[[v21-39-14]]
+
+^<<v21-39-14,14>>^ Seja do teu agrado, Senhor, o livrar-me; Senhor, apressa-te em me socorrer.
+
+[[v21-39-15]]
+
+^<<v21-39-15,15>>^ Sejam confundidos e envergonhados todos aqueles que procuram a minha vida, para a arrebatarem. Retrocedam e sejam cobertos de opróbrio, os que se comprazem com os meus males.
+
+[[v21-39-16]]
+
+^<<v21-39-16,16>>^ Fiquem atônitos, cheios de vergonha, aqueles que me dizem: "Bem! bem!"
+
+[[v21-39-17]]
+
+^<<v21-39-17,17>>^ Regozijem-se e alegrem-se em ti todos os que te buscam, e os que desejem o teu auxílio digam sempre: "Seja glorificado o Senhor."
+
+[[v21-39-18]]
+
+^<<v21-39-18,18>>^ Quanto a mim sou desvalido e pobre; o Senhor, porém, tem cuidado de mim. Tu és (ó Senhor) o meu auxílio e o meu libertador; Deus meu, não tardes!
+
+'''
+
+xref:021-salmos/021-salmos-038.adoc#v21-38-0[&#60; Capítulo Anterior] | <<v21-39-0,Topo>> | xref:021-salmos/021-salmos-040.adoc#v21-40-0[Próximo Capítulo &#62;]

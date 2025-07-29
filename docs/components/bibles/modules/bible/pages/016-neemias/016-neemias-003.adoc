@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v16-3-0]]
+=== Neemias, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Neemias 3 descreve a reconstrução das muralhas de Jerusalém após o retorno do exílio babilônico. Os versículos a seguir também tratam de construções e reformas na cidade santa e na casa de Deus.
+* Esdras 6:15: "E a casa ficou pronta no terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario." Esse versículo fala da reconstrução do Templo em Jerusalém, que foi concluída com a ajuda do rei Dario, conforme descrito em Esdras 6.
+* Neemias 2:17: "Então eu disse aos líderes, aos oficiais e ao resto do povo: ‘A obra é grande e extensa, e estamos separados na muralha, longe uns dos outros.’" Neemias fala sobre a grande obra de reconstruir a cidade e a necessidade de trabalhar juntos, mesmo que em locais diferentes.
+* 2 Crônicas 33:14: "Depois disso, Manassés reconstruiu o muro exterior da cidade de Davi, a oeste de Gion, no vale, até a entrada da porta do Peixe e ao redor do monte Ofel; também elevou-o muito." Este versículo fala da reconstrução do muro externo da cidade de Jerusalém, que também foi feita durante a época do Antigo Testamento.
+* Salmos 122:7: "Haja paz dentro de teus muros, segurança em teus palácios." Este salmo fala da importância da paz dentro dos muros da cidade santa de Jerusalém.
+* Neemias 4:6: "Reconstruímos, pois, o muro, e toda a muralha foi unida até sua metade; porque o povo se empenhou no trabalho." Este versículo mostra o progresso na reconstrução da muralha e a união do povo em torno dessa grande obra.
+****
+
+[[v16-3-1]]
+
+^<<v16-3-1,1>>^ O sumo pontífice Eliasib e os sacerdotes seus irmãos puseram mãos à obra e reedificaram a porta do Rebanho; eles mesmos a consagraram e assentaram os seus batentes. Repararam também a muralha e consagraram-na até à torre de Mea é até à torre de Hananeel.
+
+[[v16-3-2]]
+
+^<<v16-3-2,2>>^ Ao lado edificavam os homens de Jericó; mais adiante, edificou Zacur, filho de Amri.
+
+[[v16-3-3]]
+
+^<<v16-3-3,3>>^ Os filhos de Asnaa edificaram a porta dos Peixes, cobriram-na, puseram-lhe os batentes, as fechaduras e as trancas; ao lado deles trabalhou nas reparações Marimut, filho de Urias, filho de Acus;
+
+[[v16-3-4]]
+
+^<<v16-3-4,4>>^ ao lado deste, Mosolão, filho de Baraquias, filho de Mesezebel; ao lado deles, Sadoc, filho de Baana;
+
+[[v16-3-5]]
+
+^<<v16-3-5,5>>^ ao lado destes, trabalharam nas reparações os de Tecua, mas os seus principais não se sujeitaram a trabalhar na obra do seu Senhor.
+
+[[v16-3-6]]
+
+^<<v16-3-6,6>>^ Jojada, filho de Faseia, e Mosolão, filho de Besodia, edificaram a porta velha, cobriram-na e puseram-lhe os batentes, as fechaduras e as trancas;
+
+[[v16-3-7]]
+
+^<<v16-3-7,7>>^ ao lado deles, trabalharam nas reparações Mellias Gabaonita, Jadon Meronatita, e os homens de Gabaon e de Masfa, em nome do governador de além do rio;
+
+[[v16-3-8]]
+
+^<<v16-3-8,8>>^ a seu lado trabalhou Eziel, filho de Araia, ourives; ao lado de Eziel, Ananias, filho de um perfumador. Deixaram (reparada aquela parte de) Jerusalém (que vai) até ao muro da praça maior.
+
+[[v16-3-9]]
+
+^<<v16-3-9,9>>^ Ao lado deles, trabalhou Rafaia, filho de Hur, chefe (de metade) do distrito de Jerusalém;
+
+[[v16-3-10]]
+
+^<<v16-3-10,10>>^ ao lado dele, Jedaia, filho de Haromaf, defronte de sua casa; ao lado dele, Hato, filho de Hasebonias.
+
+[[v16-3-11]]
+
+^<<v16-3-11,11>>^ Melquias, filho de Herem, e Hasub, filho de Faal-Moab, edificaram metade dum bairro e a torre dos Fornos;
+
+[[v16-3-12]]
+
+^<<v16-3-12,12>>^ ao lado deles, trabalhou Selum, filho de Aloés, chefe da (outra) metade do distrito de Jerusalém, com suas filhas.
+
+[[v16-3-13]]
+
+^<<v16-3-13,13>>^ A porta do Vale edificaram-na Hanun e os habitantes de Zanoé; estes a edificaram e lhe puseram os batentes, as fechaduras e as trancas; além disso, refizeram mil côvados do muro até à porta da Esterqueira.
+
+[[v16-3-14]]
+
+^<<v16-3-14,14>>^ A porta da Esterqueira ediflicou-a Melquias, filho de Recab, chefe do distrito de Betacarão: edificou-a e pôs-lhe os batentes, as fechaduras e as trancas.
+
+[[v16-3-15]]
+
+^<<v16-3-15,15>>^ A porta da Fonte edificou-a Selum, filho de Colboza, chefe do distrito de Masfa; ele a edificou e a cobriu e Ihe pôs as fechaduras e as trancas; além disso, refez os muros desde a piscina de Siloé, ao longo do jardim do rei, até aos degraus que descem da cidade de David.
+
+[[v16-3-16]]
+
+^<<v16-3-16,16>>^ Depois dele, trabalhou nas reparações Neemias, filho de Azboc, chefe de metade do distrito de Betsur, até defronte do sepulcro de David, até à piscina que tinha sido feita com grande trabalho, e até à casa dos Valentes (de David).
+
+[[v16-3-17]]
+
+^<<v16-3-17,17>>^ Depois dele trabalharam nas reparações os Levitas, (sob a direcção de) Reum, filho de Beni; depois dele, Hasebias, chefe de metade do distrito de Ceila, no seu distrito;
+
+[[v16-3-18]]
+
+^<<v16-3-18,18>>^ depois dele, seus irmãos, sob a direcção de Bavai, filho de Enadad, chefe da (outra) metade de Ceila;
+
+[[v16-3-19]]
+
+^<<v16-3-19,19>>^ ao lado dele, Azer, filho de Josué, chefe de Masfa, reparou outro pedaço da muralha, em frente à subida do arsenal, no ângulo fortificado.
+
+[[v16-3-20]]
+
+^<<v16-3-20,20>>^ Depois dele, Baruc, filho de Zacai, edificou no monte outro tanto espaço, desde o ângulo até à porta da casa do sumo sacerdote Eliasib.
+
+[[v16-3-21]]
+
+^<<v16-3-21,21>>^ Depois dele Merimut, filho de Urias, filho de Haco, edificou outro tanto espaço, desde a poria da casa de Eliasib até onde se estendia a casa de Eliasib.
+
+[[v16-3-22]]
+
+^<<v16-3-22,22>>^ Depois dele trabalharam nas reparações os sacerdotes habitantes das planícies do Jordão.
+
+[[v16-3-23]]
+
+^<<v16-3-23,23>>^ Depois deles, trabalharam nas reparações Benjamim e Hasub, defronte de suas casas. Depois dele, trabalhou nas reparações Azarias, filho de Maasias, filho de Ananias, defronte de sua casa.
+
+[[v16-3-24]]
+
+^<<v16-3-24,24>>^ Depois dele, edificou Benui, filho de Henadad, outro tanto espaço, desde a casa de Azarias até à volta e até ao ângulo.
+
+[[v16-3-25]]
+
+^<<v16-3-25,25>>^ Falel, filho de Ozi, edificou defronte da volta e da torre, que se levanta acima da casa alta do rei, isto é, no átrio do cárcere; depois dele, Fadaias, filho de Faros.
+
+[[v16-3-26]]
+
+^<<v16-3-26,26>>^ Os Natineus habitavam no bairro de Ofel até defronte da porta das Aguas, para o oriente, e até à torre que estava sobranceira.
+
+[[v16-3-27]]
+
+^<<v16-3-27,27>>^ Depois de Fadaias, edificaram os de Tecua uma outra secção defronte, desde a torre grande e sobranceira até ao muro do templo.
+
+[[v16-3-28]]
+
+^<<v16-3-28,28>>^ Os sacerdotes trabalharam nas reparações mais acima, desde a porta dos cavalos, cada um defronte de sua casa.
+
+[[v16-3-29]]
+
+^<<v16-3-29,29>>^ Depois deles, Sadoc, filho de Emer, defronte de sua casa. Depois dele, Semaia, filho de Sequenias, guarda da porta do oriente.
+
+[[v16-3-30]]
+
+^<<v16-3-30,30>>^ Depois dele, Hanania, filho de Selemias, e Hanun, sexto filho de Selef, edificaram outro tanto espaço. Depois deste edificou Mosolão, filho de Baraquias, o muro, defronte da sua casa. Depois dele, Melquias, filho dum ourives, fez as reparações até à casa dos Natineus e dos mercieiros, defronte da porta dos juízes até à sala da esquina.
+
+[[v16-3-31]]
+
+^<<v16-3-31,31>>^ Entre a sala da esquina e a porta do rebanho trabalharam nas reparações os ourives e os negociantes.
+
+'''
+
+xref:016-neemias/016-neemias-002.adoc#v16-2-0[&#60; Capítulo Anterior] | <<v16-3-0,Topo>> | xref:016-neemias/016-neemias-004.adoc#v16-4-0[Próximo Capítulo &#62;]

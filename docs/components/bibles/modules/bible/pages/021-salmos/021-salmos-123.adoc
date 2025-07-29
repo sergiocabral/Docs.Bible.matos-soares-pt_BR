@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-123-0]]
+=== Salmos, 123
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 123 é um cântico de súplica que expressa a confiança do salmista em Deus e sua expectativa pela misericórdia divina. O tema central do Salmo é a dependência do povo de Deus da sua ajuda. A seguir estão cinco versículos bíblicos relacionados com os temas abordados em Salmo 123:
+* Salmos 121:1-2: "Elevo os olhos para os montes: de onde me virá o socorro? O meu socorro vem do SENHOR, que fez o céu e a terra." Este versículo fala da confiança do salmista na ajuda de Deus.
+* Salmos 124:8: "O nosso socorro está no nome do SENHOR, que fez o céu e a terra." Este verso destaca novamente a dependência do povo de Deus em Deus para a sua ajuda e proteção.
+* Salmos 125:1: "Os que confiam no SENHOR são como o monte Sião, que não se abala, firme para sempre." Este versículo fala da confiança e segurança daqueles que confiam em Deus.
+* Isaías 25:9: "E, naquele dia, se dirá: Eis que este é o nosso Deus, em quem esperávamos, e ele nos salvará; este é o SENHOR, em quem esperávamos; na sua salvação exultaremos e nos alegraremos." Este verso fala da alegria e gratidão daqueles que esperam em Deus e experimentam a sua salvação.
+* Filipenses 4:6-7: "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus." Este versículo fala da importância da oração e da confiança em Deus para experimentar a paz interior e a tranquilidade mesmo em meio às adversidades.
+****
+
+[[v21-123-1]]
+
+^<<v21-123-1,1>>^ Cântico das subidas De Davide. Se o Senhor não tivesse estado por nós, diga-o agora Israel,
+
+[[v21-123-2]]
+
+^<<v21-123-2,2>>^ se o Senhor não tivesse estado por nós, quando os homens se levantaram contra nós,
+
+[[v21-123-3]]
+
+^<<v21-123-3,3>>^ de certo nos teriam engulido vivos. Quando se acendia o seu furor contra nós,
+
+[[v21-123-4]]
+
+^<<v21-123-4,4>>^ então a água (da desgraça) nos teria submergido; a torrente teria passado sobre nós;
+
+[[v21-123-5]]
+
+^<<v21-123-5,5>>^ então teriam passado sobre nós as águas entumecidas.
+
+[[v21-123-6]]
+
+^<<v21-123-6,6>>^ Bendito o Senhor, que não nos deu aos seus dentes por presa.
+
+[[v21-123-7]]
+
+^<<v21-123-7,7>>^ A nossa alma (ou vida), como o pássaro, escapou do laço dos caçadores: o laço foi quebrado, e nós ficamos livres.
+
+[[v21-123-8]]
+
+^<<v21-123-8,8>>^ O nosso socorro está no nome do Senhor, que fez o céu e a terra.
+
+'''
+
+xref:021-salmos/021-salmos-122.adoc#v21-122-0[&#60; Capítulo Anterior] | <<v21-123-0,Topo>> | xref:021-salmos/021-salmos-124.adoc#v21-124-0[Próximo Capítulo &#62;]

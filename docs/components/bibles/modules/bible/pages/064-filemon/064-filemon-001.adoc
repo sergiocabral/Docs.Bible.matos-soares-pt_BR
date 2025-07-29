@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v64-1-0]]
+=== Filêmon, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 de Filêmon é uma carta escrita pelo apóstolo Paulo para seu amigo Filêmon, pedindo para ele perdoar e receber de volta seu escravo fugitivo, Onésimo, agora convertido ao cristianismo. Os temas abordados nesse capítulo incluem perdão, reconciliação e amor cristão. Abaixo estão cinco versículos relacionados com esses temas, em ordem de proximidade com o capítulo:
+* Efésios 4:32: "Pelo contrário, sejam bondosos e compassivos uns para com os outros, perdoando-se mutuamente, assim como Deus os perdoou em Cristo." Este versículo fala sobre a importância do perdão e da bondade entre os cristãos, destacando que devemos perdoar os outros da mesma forma que Deus nos perdoou por meio de Cristo.
+* 2 Coríntios 5:18: "Tudo isso provém de Deus, que nos reconciliou consigo mesmo por meio de Cristo e nos deu o ministério da reconciliação." Aqui, Paulo fala sobre a reconciliação que Deus oferece a todos por meio de Cristo, e como essa reconciliação é um ministério que deve ser compartilhado pelos cristãos com os outros.
+* Romanos 12:10: "Amai-vos cordialmente uns aos outros com amor fraternal e preferi-vos em honra uns aos outros." Este versículo fala sobre a importância do amor fraternal entre os cristãos, e como devemos demonstrar esse amor uns pelos outros por meio de honra e respeito.
+* 1 João 4:20: "Se alguém afirmar: 'Eu amo a Deus', mas odiar seu irmão, é mentiroso, pois quem não ama seu irmão, a quem vê, não pode amar a Deus, a quem não vê." Este versículo destaca a importância do amor pelos outros cristãos, afirmando que não podemos amar a Deus verdadeiramente se não amamos também aqueles que são seus filhos.
+* 1 Pedro 4:8: "Acima de tudo, porém, tende amor intenso uns para com os outros, porque o amor cobre uma multidão de pecados." Este versículo fala sobre o amor intenso que devemos ter uns pelos outros, enfatizando como o amor é capaz de cobrir muitos pecados e falhas entre os cristãos.
+****
+
+[[v64-1-1]]
+
+^<<v64-1-1,1>>^ Paulo, prisioneiro de Jesus Cristo, e o irmão Timóteo, ao amado Filémon, nosso cooperador,
+
+[[v64-1-2]]
+
+^<<v64-1-2,2>>^ e a Ápia, nossa irmã, e a Arquipo, nosso companheiro de armas, e à igreja que se reúne em tua casa:
+
+[[v64-1-3]]
+
+^<<v64-1-3,3>>^ graça a vós e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo.
+
+[[v64-1-4]]
+
+^<<v64-1-4,4>>^ Dou graças ao meu Deus, sempre que faço memória de ti nas minhas orações,
+
+[[v64-1-5]]
+
+^<<v64-1-5,5>>^ por saber da tua caridade e da fé que manifestas para com o Senhor Jesus e para com todos os santos.
+
+[[v64-1-6]]
+
+^<<v64-1-6,6>>^ Possa a generosidade da tua fé tornar-se eficaz pelo conhecimento de todas as obras boas que se fazem entre nós por amor de Jesus Cristo.
+
+[[v64-1-7]]
+
+^<<v64-1-7,7>>^ De facto, tive grande alegria e consolação pela tua caridade, porquanto os corações dos santos foram confortados por ti, irmão.
+
+[[v64-1-8]]
+
+^<<v64-1-8,8>>^ Pelo que, ainda que eu tenha muita liberdade em Jesus Cristo para te mandar o que convém,
+
+[[v64-1-9]]
+
+^<<v64-1-9,9>>^ prefiro pedir-te por caridade (não te mando). Eu, Paulo, o velho Paulo, e atualmente até prisioneiro de Jesus Cristo,
+
+[[v64-1-10]]
+
+^<<v64-1-10,10>>^ venho rogar-te por meu filho Onésimo, que gerei nas prisões (convertendo-o a Cristo),
+
+[[v64-1-11]]
+
+^<<v64-1-11,11>>^ o qual outrora te foi inútil, mas agora é muito útil para ti e para mim.
+
+[[v64-1-12]]
+
+^<<v64-1-12,12>>^ De novo to mando, a ele, que é como o meu próprio coração.
+
+[[v64-1-13]]
+
+^<<v64-1-13,13>>^ Eu queria demorá-lo comigo, para que me servisse, em teu lugar, nestas cadeias, que eu suporto pelo Evangelho,
+
+[[v64-1-14]]
+
+^<<v64-1-14,14>>^ mas, sem o teu consentimento, nada quis fazer, para que o teu benefício não fosse como que forçado, mas voluntário.
+
+[[v64-1-15]]
+
+^<<v64-1-15,15>>^ Porque talvez ele (por permissão de Deus) se apartou de ti por algum tempo, para que tu (pela sua conversão a Cristo) o recobrasses para sempre,
+
+[[v64-1-16]]
+
+^<<v64-1-16,16>>^ não já como um escravo, mas, muito mais que um escravo, como um irmão caríssimo. Ele fez tudo por mim, quanto mais não fará por ti, não só segundo a carne, mas também segundo o Senhor!
+
+[[v64-1-17]]
+
+^<<v64-1-17,17>>^ Portanto, se me tens por íntimo, recebe-o como a mim.
+
+[[v64-1-18]]
+
+^<<v64-1-18,18>>^ Se algum dano te fez ou te deve alguma coisa, passa isso para a minha conta.
+
+[[v64-1-19]]
+
+^<<v64-1-19,19>>^ Eu, Paulo, escrevi por meu próprio punho: eu pagarei. Não te quero lembrar que és meu devedor, e que me deves a tua própria pessoa (porque te converti, pondo-te no caminho da salvação).
+
+[[v64-1-20]]
+
+^<<v64-1-20,20>>^ Sim, irmão. Obtenha eu de ti esta satisfação no Senhor. Recreia o meu coração em Cristo.
+
+[[v64-1-21]]
+
+^<<v64-1-21,21>>^ Escrevi-te estas coisas, contando com a tua docilidade, sabendo que farás ainda mais do que peço.
+
+[[v64-1-22]]
+
+^<<v64-1-22,22>>^ A o mesmo tempo prepara-me pousada, pois pelas vossas orações, serei dado a vós.
+
+[[v64-1-23]]
+
+^<<v64-1-23,23>>^ Epafras, que está preso comigo por Jesus Cristo, saúda-te,
+
+[[v64-1-24]]
+
+^<<v64-1-24,24>>^ e igualmente Marcos, Aristarco, Demas e Lucas, meus colaboradores.
+
+[[v64-1-25]]
+
+^<<v64-1-25,25>>^ A graça de Nosso Senhor Jesus Cristo seja com o vosso espírito.
+
+'''
+
+xref:063-tito/063-tito-003.adoc#v63-3-0[&#60; Capítulo Anterior] | <<v64-1-0,Topo>> | xref:065-hebreus/065-hebreus-001.adoc#v65-1-0[Próximo Capítulo &#62;]

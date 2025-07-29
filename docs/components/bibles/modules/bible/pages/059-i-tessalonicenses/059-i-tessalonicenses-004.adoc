@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v59-4-0]]
+=== I Tessalonicenses, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 4 de 1 Tessalonicenses, Paulo exorta os tessalonicenses a viverem de maneira santa e agradável a Deus, especialmente em relação à sua sexualidade e conduta pessoal. Ele também os incentiva a amar uns aos outros e a ter esperança na volta de Cristo. Seguem cinco versículos que se relacionam com os temas abordados em 1 Tessalonicenses 4:
+* 1 Coríntios 6:18-20: "Fujam da imoralidade sexual. Todos os outros pecados que alguém comete, fora do corpo os comete; mas quem peca sexualmente, peca contra o seu próprio corpo. Acaso não sabem que o corpo de vocês é santuário do Espírito Santo que habita em vocês, que lhes foi dado por Deus, e que vocês não são de vocês mesmos? Vocês foram comprados por alto preço. Portanto, glorifiquem a Deus com o seu próprio corpo." Esse versículo enfatiza a importância de fugir da imoralidade sexual e de considerar o nosso corpo como um santuário do Espírito Santo, um tema que também é abordado em 1 Tessalonicenses 4.
+* Efésios 5:3: "Entre vocês não deve haver nem sequer menção de imoralidade sexual como também de nenhuma espécie de impureza e de cobiça; pois essas coisas não são próprias para os santos." Esse versículo enfatiza a importância de viver uma vida santa e pura, temas que também são abordados em 1 Tessalonicenses 4.
+* Romanos 12:10: "Amem-se cordialmente uns aos outros com amor fraternal e honrem-se preferindo-se uns aos outros." Esse versículo destaca a importância do amor fraternal e da honra mútua entre os irmãos, um tema que também é enfatizado em 1 Tessalonicenses 4.
+* 1 Coríntios 15:51-52: "Eis que lhes digo um mistério: nem todos dormiremos, mas todos seremos transformados, num momento, num abrir e fechar de olhos, ao som da última trombeta. A trombeta soará, os mortos ressuscitarão incorruptíveis, e nós seremos transformados." Esse versículo destaca a esperança dos cristãos na ressurreição e na transformação dos seus corpos, um tema que também é enfatizado em 1 Tessalonicenses 4.
+* Hebreus 13:4: "Digno de honra entre todos seja o matrimônio, bem como o leito sem mácula; porque Deus julgará os impuros e adúlteros." Esse versículo destaca a importância do casamento e da fidelidade conjugal, temas que também são abordados em 1 Tessalonicenses 4.
+****
+
+[[v59-4-1]]
+
+^<<v59-4-1,1>>^ Quanto ao mais, irmãos, nós vos rogamos e suplicamos, no Senhor Jesus, que, como aprendestes de nós de que maneira deveis andar para agradar a Deus, consoante já procedeis, façais nisto novos progressos.
+
+[[v59-4-2]]
+
+^<<v59-4-2,2>>^ Com efeito, sabeis que preceitos vos dei, por parte do Senhor Jesus.
+
+[[v59-4-3]]
+
+^<<v59-4-3,3>>^ Porquanto esta é a vontade de Deus, que vos santifiqueis: que eviteis a impudicícia,
+
+[[v59-4-4]]
+
+^<<v59-4-4,4>>^ que cada um de vós saiba possuir o seu corpo em santidade e honra,
+
+[[v59-4-5]]
+
+^<<v59-4-5,5>>^ não nas paixões desregradas, como fazem os gentios, que não conhecem a Deus,
+
+[[v59-4-6]]
+
+^<<v59-4-6,6>>^ e que ninguém oprima ou engane o seu irmão, nesta matéria, porque o Senhor é vingador de todas estas coisas, como já vos dissemos e atestamos.
+
+[[v59-4-7]]
+
+^<<v59-4-7,7>>^ Em verdade, Deus não nos chamou para a impureza, mas para a santidade.
+
+[[v59-4-8]]
+
+^<<v59-4-8,8>>^ Aquele, pois, que despreza isto, não despreza um homem, mas Deus, que vos dá o seu Espírito Santo.
+
+[[v59-4-9]]
+
+^<<v59-4-9,9>>^ Pelo que diz respeito à caridade fraterna, não temos necessidade de vos escrever, porque vós mesmos aprendestes de Deus que vos deveis amar uns aos outros.
+
+[[v59-4-10]]
+
+^<<v59-4-10,10>>^ E, de fato, assim o praticais com todos os irmãos em toda a Macedônia. Mas nós vos exortamos, irmãos, a avançar, cada vez mais (na prática desta virtude). (ver nota)
+
+[[v59-4-11]]
+
+^<<v59-4-11,11>>^ Procurai viver em paz, ocupar-vos dos vossos negócios e trabalhar com as vossas mãos, como vos ordenamos.
+
+[[v59-4-12]]
+
+^<<v59-4-12,12>>^ Assim tereis um proceder correto, aos olhos dos que estão fora (da Igreja), e não precisareis de ninguém. (ver nota)
+
+[[v59-4-13]]
+
+^<<v59-4-13,13>>^ Mas não queremos, irmãos, que estejais na ignorância acerca dos mortos, para que não vos entristeçais como os outros, que não têm esperança.
+
+[[v59-4-14]]
+
+^<<v59-4-14,14>>^ Pois, se cremos que Jesus morreu e ressuscitou, (cremos) também (que) Deus trará com ele aqueles que morreram em Jesus.
+
+[[v59-4-15]]
+
+^<<v59-4-15,15>>^ Dizemo-vos isto, segundo a palavra do Senhor: os que estamos vivos, os sobreviventes, quando da vinda do Senhor, não passaremos adiante daqueles que morreram. (ver nota)
+
+[[v59-4-16]]
+
+^<<v59-4-16,16>>^ Porque o mesmo Senhor, ao sinal dado, à voz do Arcanjo, ao som da trombeta de Deus, descerá do céu: os que morreram em Cristo, ressuscitarão primeiro;
+
+[[v59-4-17]]
+
+^<<v59-4-17,17>>^ depois, nós os que vivemos, os sobreviventes, seremos arrebatados juntamente com eles sobre as nuvens, ao encontro de Cristo, nos ares, e assim estaremos para sempre com o Senhor.
+
+[[v59-4-18]]
+
+^<<v59-4-18,18>>^ Portanto, consolai-vos uns aos outros com estas palavras.
+
+'''
+
+xref:059-i-tessalonicenses/059-i-tessalonicenses-003.adoc#v59-3-0[&#60; Capítulo Anterior] | <<v59-4-0,Topo>> | xref:059-i-tessalonicenses/059-i-tessalonicenses-005.adoc#v59-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v54-4-0]]
+=== II Coríntios, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em 2 Coríntios 4, Paulo fala sobre o ministério que ele e seus companheiros exercem e como eles enfrentam dificuldades, mas não desistem por causa da esperança que têm em Cristo. Ele também discute como a glória de Deus é revelada na obra de Cristo e como a nossa própria fraqueza torna essa glória mais evidente. Aqui estão cinco versículos relacionados com esses temas:
+* Romanos 5:3-5: "E não somente isso, mas também nos gloriamos nas tribulações, porque sabemos que a tribulação produz perseverança; a perseverança, um caráter aprovado; e o caráter aprovado, esperança. E a esperança não nos decepciona, porque Deus derramou seu amor em nossos corações por meio do Espírito Santo que ele nos concedeu." Este versículo mostra como a tribulação pode produzir perseverança e, eventualmente, esperança, como Paulo fala em 2 Coríntios 4.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda consolação, que nos consola em todas as nossas tribulações, para que, com a consolação que recebemos de Deus, possamos consolar os que estão passando por tribulações semelhantes." Aqui, Paulo destaca como Deus é o consolador em meio às tribulações, o que é importante para lidar com as dificuldades que ele e seus companheiros enfrentam.
+* João 1:14: "E o Verbo se tornou carne e habitou entre nós. Vimos a sua glória, a glória como do Unigênito do Pai, cheio de graça e de verdade." Este versículo destaca a encarnação de Jesus, que é a base da obra que Paulo e seus companheiros realizam e é a fonte da glória de Deus que é revelada.
+* 2 Coríntios 4:7: "Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus e não de nós." Aqui, Paulo fala sobre como a nossa fraqueza é evidenciada na nossa humanidade limitada, mas como isso permite que a glória de Deus seja ainda mais evidente.
+* Romanos 8:18: "Considero que os nossos sofrimentos atuais não podem ser comparados com a glória que em nós será revelada." Aqui, Paulo destaca como a glória de Deus será revelada através do sofrimento que ele e seus companheiros enfrentam, uma ideia semelhante à que ele expressa em 2 Coríntios 4.
+****
+
+[[v54-4-1]]
+
+^<<v54-4-1,1>>^ Pelo que, tendo nós tal ministério, em virtude da misericórdia (de Deus) que alcançamos, não perdemos a coragem,
+
+[[v54-4-2]]
+
+^<<v54-4-2,2>>^ antes repudiamos todo o proceder vergonhoso e dissimulado. Não procedemos com artifício, nem adulteramos a palavra de Deus, mas recomendamo-nos a nós mesmos à consciência de todos os homens, diante de Deus, por meio da manifestação da verdade.
+
+[[v54-4-3]]
+
+^<<v54-4-3,3>>^ E, se o nosso Evangelho ainda está encoberto, é para aqueles que se perdem que está encoberto,
+
+[[v54-4-4]]
+
+^<<v54-4-4,4>>^ para aqueles infiéis de quem o deus deste século cegou os entendimentos, para que não resplandeça para eles a luz do Evangelho da glória de Cristo, o qual é a imagem de Deus.
+
+[[v54-4-5]]
+
+^<<v54-4-5,5>>^ Em verdade, não nos pregamos a nós mesmos, mas a Jesus Cristo, que é Senhor. Nós, pois, consideramo-nos vossos servos, por Jesus,
+
+[[v54-4-6]]
+
+^<<v54-4-6,6>>^ porque Deus, que disse que das trevas resplandecesse a luz, ele mesmo iluminou nossos corações, para que neles brilhe o conhecimento da glória de Deus, que resplandece na face do Cristo.
+
+[[v54-4-7]]
+
+^<<v54-4-7,7>>^ Temos, porém, este tesouro em vasos de barro, para que se veja bem que esse extraordinário poder vem de Deus e não de nós.
+
+[[v54-4-8]]
+
+^<<v54-4-8,8>>^ Em tudo sofremos tribulação, mas não somos oprimidos; somos cercados de dificuldades, mas não desesperamos;
+
+[[v54-4-9]]
+
+^<<v54-4-9,9>>^ somos perseguidos, mas não desamparados; somos abatidos, mas não perecemos,
+
+[[v54-4-10]]
+
+^<<v54-4-10,10>>^ trazendo sempre em nosso corpo os traços da morte de Jesus, para que também a vida de Jesus se manifeste nos nossos corpos.
+
+[[v54-4-11]]
+
+^<<v54-4-11,11>>^ Efetivamente, nós, que vivemos, somos continuamente entregues à morte por amor de Jesus, para que também a vida de Jesus se manifeste na nossa carne mortal.
+
+[[v54-4-12]]
+
+^<<v54-4-12,12>>^ A morte, pois, opera em nós, e a vida em vós.
+
+[[v54-4-13]]
+
+^<<v54-4-13,13>>^ Mas, tendo o mesmo espírito de fé, segundo está escrito: Eu cri, por isso falei (Ps. 114, 1), também nós cremos, e por isso também é que falamos,
+
+[[v54-4-14]]
+
+^<<v54-4-14,14>>^ sabendo que aquele, que ressuscitou o Senhor Jesus, nos ressuscitará também com Jesus e nos colocará convosco diante dele (para sermos glorificados).
+
+[[v54-4-15]]
+
+^<<v54-4-15,15>>^ Tudo, com efeito, é por amor de vós, para que a graça, multiplicando-se, faça abundar o reconhecimento no coração de um número cada vez maior, para glória de Deus.
+
+[[v54-4-16]]
+
+^<<v54-4-16,16>>^ E’ por isto que não desfalecemos; antes, pelo contrário, embora se destrua em nós o homem exterior, todavia o (homem) interior vai-se renovando de dia para dia.
+
+[[v54-4-17]]
+
+^<<v54-4-17,17>>^ Sim, o que presentemente é para nós uma tribulação momentânea e ligeira, prepara-nos, além de toda a medida, um peso eterno de gloria,
+
+[[v54-4-18]]
+
+^<<v54-4-18,18>>^ não atendendo nós às coisas que se vêem, mas sim às que se não vêem. Com efeito, as coisas que se vêem são passageiras; as que não se vêem, são eternas.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-003.adoc#v54-3-0[&#60; Capítulo Anterior] | <<v54-4-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-005.adoc#v54-5-0[Próximo Capítulo &#62;]

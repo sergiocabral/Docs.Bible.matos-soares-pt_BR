@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v5-11-0]]
+=== Deuteronômio, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 11 enfatiza a importância de amar e obedecer a Deus, bem como de ensinar seus mandamentos aos filhos e de lembrar das bênçãos e maldições associadas à obediência ou desobediência. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Deuteronômio 11.
+* Mateus 22:37-39: "Jesus respondeu: 'Ame o Senhor, o seu Deus de todo o seu coração, de toda a sua alma e de todo o seu entendimento'. Este é o primeiro e maior mandamento. E o segundo é semelhante a ele: ‘Ame o seu próximo como a si mesmo’." Este versículo destaca o mandamento de amar a Deus acima de tudo e amar ao próximo como a si mesmo, como uma forma de obedecer aos mandamentos de Deus.
+* Salmos 78:4: "Nós não o encobriremos dos nossos filhos, contando à geração futura os louvores do Senhor, e a sua força, e as maravilhas que tem feito." Este salmo enfatiza a importância de ensinar aos filhos sobre os atos de Deus e seus mandamentos, uma ideia que também é enfatizada em Deuteronômio 11.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo destaca a importância de confiar em Deus e seguir seus caminhos, em vez de depender da própria sabedoria e entendimento.
+* 1 João 5:3: "Porque este é o amor de Deus: que guardemos os seus mandamentos; e os seus mandamentos não são pesados." Este versículo destaca a conexão entre amor a Deus e obediência aos seus mandamentos, que é enfatizada em Deuteronômio 11.
+* Salmo 1:1-2: "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na cadeira dos escarnecedores; mas tem o seu prazer na lei do Senhor, e na sua lei medita de dia e de noite." Este salmo destaca a importância de evitar más influências e meditar na lei de Deus, como uma forma de ser abençoado por ele.
+****
+
+[[v5-11-1]]
+
+^<<v5-11-1,1>>^ Ama, pois, o Senhor teu Deus, e guarda em todo o tempo os seus preceitos, as suas leis, as suas ordenações, os seus mandamentos.
+
+[[v5-11-2]]
+
+^<<v5-11-2,2>>^ Reconhecei hoje o que ignoram os vossos filhos, os quais não viram os castigos do Senhor vosso Deus, as suas maravilhas, a sua mão poderosa e o seu braço estendido,
+
+[[v5-11-3]]
+
+^<<v5-11-3,3>>^ os prodígios e as obras que fez no meio do Egipto sobre o rei Faraó, sobre todo o seu país,
+
+[[v5-11-4]]
+
+^<<v5-11-4,4>>^ sobre todo o exército dos Egípcios, sobre os cavalos e carros, lançando sobre eles as águas do mar Vermelho, quando vos perseguiam e destruindo-os até ao dia de hoje;
+
+[[v5-11-5]]
+
+^<<v5-11-5,5>>^ (reconhecei) o que fez no deserto, até que chegásseis a este lugar,
+
+[[v5-11-6]]
+
+^<<v5-11-6,6>>^ e (o que fez) a Datan e a Abiron, filhos de Eliab, que foi filho de Ruben, quando a terra, abrindo a sua boca, os engoliu com as suas casas, tendas e tudo o que possuíam no meio de Israel.
+
+[[v5-11-7]]
+
+^<<v5-11-7,7>>^ Os vossos olhos viram todas as grandes obras que o Senhor fez.
+
+[[v5-11-8]]
+
+^<<v5-11-8,8>>^ Observai, pois, todos os seus mandamentos, que hoje vos prescrevo, para que sejais fortes e possais entrar e possuir a terra, para a qual caminhais,
+
+[[v5-11-9]]
+
+^<<v5-11-9,9>>^ e vivais por muito tempo nessa terra que o Senhor prometeu com juramento a vossos pais e à sua posteridade, terra que mana leite e mel.
+
+[[v5-11-10]]
+
+^<<v5-11-10,10>>^ A terra em que vais entrar para a possuir, não é como a terra do Egipto, donde saíste, na qual, lançada a semente, se conduzem as águas para regar, como se faz nas hortas,
+
+[[v5-11-11]]
+
+^<<v5-11-11,11>>^ mas é uma terra de montes e de planícies, regada com as chuvas do céu,
+
+[[v5-11-12]]
+
+^<<v5-11-12,12>>^ uma terra de que o Senhor teu Deus toma cuidado, e sobre que seus olhos estão desde o princípio do ano até ao fim.
+
+[[v5-11-13]]
+
+^<<v5-11-13,13>>^ Se vós, portanto, obedecerdes aos meus mandamentos, que eu hoje vos prescrevo, de amar o Senhor vosso Deus, de o servir de todo o vosso coração e de toda a vossa alma,
+
+[[v5-11-14]]
+
+^<<v5-11-14,14>>^ ele dará à vossa terra as chuvas temporãs e serôdias, para que recolhais pão, vinho, azeite,
+
+[[v5-11-15]]
+
+^<<v5-11-15,15>>^ e feno dos campos para sustentar os gados, de maneira que tenhais que comer e com que vos saciar.
+
+[[v5-11-16]]
+
+^<<v5-11-16,16>>^ Tende cuidado que o vosso coração não seja seduzido, que não vos aparteis do Senhor e sirvais a deuses estranhos, e os adoreis,
+
+[[v5-11-17]]
+
+^<<v5-11-17,17>>^ porque o Senhor irado fecharia o céu, não cairiam chuvas, nem a terra daria os seus frutos, e vós dentro de pouco tempo serieis exterminados da excelente terra que o Senhor está para vos dar.
+
+[[v5-11-18]]
+
+^<<v5-11-18,18>>^ Ponde nos vossos corações e nas vossas almas estas minhas palavras, prendei-as às vossas mãos como um sinal, colocai-as como frontal entre os vossos olhos.
+
+[[v5-11-19]]
+
+^<<v5-11-19,19>>^ Ensinai vossos filhos a meditá-las, quer em casa, quer em viagem, quer ao deitar ou ao levantar.
+
+[[v5-11-20]]
+
+^<<v5-11-20,20>>^ Escreve-las-ás sobre os postes e as portas de tua casa,
+
+[[v5-11-21]]
+
+^<<v5-11-21,21>>^ para que os teus dias e os teus filhos, na terra, que o Senhor jurou a teus pais dar-lhes, sejam tão numerosos como os dias dos céus sobre a terra.
+
+[[v5-11-22]]
+
+^<<v5-11-22,22>>^ Com efeito, se vós observardes e puserdes em prática os mandamentos que eu vos prescrevo, de amar o Senhor vosso Deus e de andar em todos os seus caminhos, estando unidos a ele,
+
+[[v5-11-23]]
+
+^<<v5-11-23,23>>^ o Senhor destruirá à vossa vista todas estas gentes, e vós as possuireis, embora elas sejam maiores e mais poderosas do que vós.
+
+[[v5-11-24]]
+
+^<<v5-11-24,24>>^ Todo o lugar em que vós puserdes o vosso pé, será vosso. Os vossos limites serão desde o deserto ao Líbano, desde o grande rio Eufrates até ao mar ocidental.
+
+[[v5-11-25]]
+
+^<<v5-11-25,25>>^ Nenhum poderá prevalecer contra vós: o Senhor vosso Deus espalhará o terror e o espanto de vós sobre toda a teria que haveis de pisar, como ele vo-lo disse.
+
+[[v5-11-26]]
+
+^<<v5-11-26,26>>^ Vêde que eu ponho hoje diante dos vossos olhos a bênção e a maldição;
+
+[[v5-11-27]]
+
+^<<v5-11-27,27>>^ a bênção, se obedecerdes aos mandamentos do Senhor vosso Deus, que eu hoje vos prescrevo:
+
+[[v5-11-28]]
+
+^<<v5-11-28,28>>^ a maldição, se não obedecerdes aos mandamentos do Senhor vosso Deus, mas vos apartardes do caminho, que eu hoje vos mostro, e fordes após os deuses estranhos, que não conheceis.
+
+[[v5-11-29]]
+
+^<<v5-11-29,29>>^ Quando, porém, o Senhor teu Deus te tiver introduzido na terra que vais habitar, porás a bênção sobre o Garizim e monte Garizim, e a maldição sobre o monte Hebal,
+
+[[v5-11-30]]
+
+^<<v5-11-30,30>>^ os quais estão na banda dalém do Jordão, junto ao caminho que desce para o ocidente, na terra dos Cananeus, que habitam nas campinas defronte de Galgala, junto das cadeias de Moré.
+
+[[v5-11-31]]
+
+^<<v5-11-31,31>>^ Com efeito, vós passareis o Jordão para possuirdes a terra que o Senhor vosso Deus vos há-de dar, para a possuirdes e habitardes.
+
+[[v5-11-32]]
+
+^<<v5-11-32,32>>^ Tende, pois, cuidado em observar as leis e ordenações, que eu hoje ponho diante de vós.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-010.adoc#v5-10-0[&#60; Capítulo Anterior] | <<v5-11-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-012.adoc#v5-12-0[Próximo Capítulo &#62;]

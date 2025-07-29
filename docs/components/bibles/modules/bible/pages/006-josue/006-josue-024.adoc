@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v6-24-0]]
+=== Josué, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 24 de Josué trata da renovação da aliança entre Deus e Israel. Josué reúne todas as tribos de Israel em Siquém e, após relembrar a fidelidade de Deus ao povo ao longo da história, ele pede que o povo escolha a quem servir. O povo responde que escolherá servir a Deus. Abaixo estão cinco versículos relacionados com os temas abordados em Josué 24:
+* Gênesis 24:27: "Eu, Abraão, servo do SENHOR, recebi instruções do SENHOR para escolher uma esposa para o filho do meu senhor." Neste versículo, Abraão faz referência à aliança que Deus fez com ele e prometeu abençoar sua descendência. A escolha da esposa para Isaque foi um cumprimento dessa promessa e demonstrou a fidelidade de Deus.
+* Êxodo 20:2: "Eu sou o SENHOR, seu Deus, que os tirei da terra do Egito, da casa da escravidão." O início dos Dez Mandamentos estabelece a autoridade de Deus como o libertador de Israel. A fidelidade de Deus ao libertar seu povo do Egito é o fundamento da aliança entre Deus e Israel.
+* Deuteronômio 10:12: "E agora, Israel, o que o SENHOR, seu Deus, exige de você, senão que tema o SENHOR, seu Deus, ande em todos os seus caminhos, ame-o e sirva ao SENHOR, seu Deus, com todo o seu coração e com toda a sua alma?" Moisés reitera a importância de servir a Deus com todo o coração e obediência total. Esse versículo reflete a escolha que o povo de Israel faz em Josué 24.
+* 2 Reis 17:38: "Não se esqueçam da aliança que fiz com vocês e não adorem outros deuses." Esse versículo é um lembrete para a importância da fidelidade à aliança com Deus. Adorar outros deuses é uma traição à aliança.
+* Salmos 119:106: "Juro, e cumprirei, em observar seus justos decretos." O salmista declara sua intenção de obedecer aos mandamentos de Deus. A escolha do povo de Israel de servir a Deus em Josué 24 é uma declaração semelhante de compromisso e obediência.
+****
+
+[[v6-24-1]]
+
+^<<v6-24-1,1>>^ Finalmente Josué reuniu todas as tribos de Israel em Siquém, chamou os anciães, os chefes, os juízes e os oficiais, e eles apresentaram-se diante do Senhor, (ver nota)
+
+[[v6-24-2]]
+
+^<<v6-24-2,2>>^ Ele falou assim ao povo: Isto diz o Senhor Deus de Israel: Vossos pais, Taré, pai de Abraão e pai de Nacor, habitaram desde o princípio na banda de além do rio, e serviram a deuses estranhos.
+
+[[v6-24-3]]
+
+^<<v6-24-3,3>>^ Eu tirei pois vosso pai Abraão dos confins da Mesopotâmia, conduzi-o à terra de Canaan e multipliquei a sua descendência,
+
+[[v6-24-4]]
+
+^<<v6-24-4,4>>^ dando-lhe Isaac. A este dei Jacob e Esaú. A Esaú dei em possessão o monte de Seir; Jacob, porém, e seus filhos desceram ao Egipto.
+
+[[v6-24-5]]
+
+^<<v6-24-5,5>>^ Depois mandei Moisés e Aarão, e feri o Egipto com muitos milagres e prodígios.
+
+[[v6-24-6]]
+
+^<<v6-24-6,6>>^ Fiz sair vossos pais do Egipto, e chegastes ao mar. Os Egípcios perseguiram os vossos pais com carros e cavalaria até ao mar Vermelho.
+
+[[v6-24-7]]
+
+^<<v6-24-7,7>>^ Os filhos de Israel porém clamaram ao Senhor, o qual pôs trevas entre vós e os Egípcios, e fez vir o mar sobre eles, que os cobriu. Os vossos olhos viram todas as coisas que eu fiz no Egipto, e vós habitastes no deserto durante muito tempo.
+
+[[v6-24-8]]
+
+^<<v6-24-8,8>>^ Introduzi-vos na terra do Amorreu, que habitava na banda de além do Jordão. Quando combatiam contra vós, eu os entregava nas vossas mãos, vós tomastes posse do seu país, e eu os destruí diante de vós.
+
+[[v6-24-9]]
+
+^<<v6-24-9,9>>^ Levantou-se Balac, filho de Sefor, rei de Moab, e combateu contra Israel. Mandou chamar Balaão, filho de Beor, para que vos amaldiçoasse,
+
+[[v6-24-10]]
+
+^<<v6-24-10,10>>^ mas eu não o quis ouvir, antes pelo contrário por meio dele vos abençoei, e vos livrei da sua mão.
+
+[[v6-24-11]]
+
+^<<v6-24-11,11>>^ Passastes o Jordão e chegastes a Jericó. Combateram contra vós os homens desta cidade, o Amorreu, o Ferezeu, o Cananeu, o Heteu, o Gergeseu, o Heveu e o Jebuseu, e eu os entreguei nas vossas mãos.
+
+[[v6-24-12]]
+
+^<<v6-24-12,12>>^ Mandei adiante de vós vespas, que os expulsaram das suas terras (assim como) os dois reis dos Amorreus. Não foi a tua espada, (não foi) o teu arco (que te deu tal vitória).
+
+[[v6-24-13]]
+
+^<<v6-24-13,13>>^ Dei-vos uma terra que não lavrastes, cidades que não edificastes, para habitardes nelas, vinhas e olivais, que não plantastes.
+
+[[v6-24-14]]
+
+^<<v6-24-14,14>>^ Agora pois temei ao Senhor e servi-o com um coração perfeito e sinceríssimo; tirai (do meio de vós) os deuses, a que vossos pais serviram na Mesopotâmia e no Egipto, e servi ao Senhor.
+
+[[v6-24-15]]
+
+^<<v6-24-15,15>>^ Porém, se vos parece mal servir ao Senhor, é-vos permitida a opção; escolhei hoje o que vos agrada, e a quem principalmente deveis servir: se aos deuses, a quem serviram os vossos pais na Mesopotâmia, se aos deuses dos Amorreus, em cuja terra habitais, que eu e minha casa havemos de servir ao Senhor.
+
+[[v6-24-16]]
+
+^<<v6-24-16,16>>^ O povo, respondendo, disse: Longe de nós que abandonemos o Senhor, e sirvamos a deuses estranhos.
+
+[[v6-24-17]]
+
+^<<v6-24-17,17>>^ O Senhor nosso Deus, ele mesmo, nos tirou a nós e a nossos pais da terra do Egipto, da casa da escravidão, fez à nossa vista grandes prodígios e guardou-nos por entre todos os povos; pelos quais passamos.
+
+[[v6-24-18]]
+
+^<<v6-24-18,18>>^ Expulsou todas as nações, o Amorreu, habitantente da terra em que entramos. Nós pois serviremos ao Senhor, porque ele é o nosso Deus.
+
+[[v6-24-19]]
+
+^<<v6-24-19,19>>^ E Josué disse ao povo: Vós não podereis servir ao Senhor; porque ele é um Deus santo, e fortemente zeloso, e não perdoará as vossas maldades e pecados.
+
+[[v6-24-20]]
+
+^<<v6-24-20,20>>^ Se abandonardes o Senhor e servirdes a deuses estranhos, ele se voltará contra vós e vos destruirá, depois de vos ter feito bem.
+
+[[v6-24-21]]
+
+^<<v6-24-21,21>>^ O povo disse a Josué: Não será assim como dizes, mas serviremos ao Senhor.
+
+[[v6-24-22]]
+
+^<<v6-24-22,22>>^ Josué disse ao povo: Sois testemunhas de que vós mesmos escolhestes para vós o Senhor, a fim de o servir. Eles responderam: Somos testemunhas.
+
+[[v6-24-23]]
+
+^<<v6-24-23,23>>^ Tirai, pois, (disse Josué) do meio de vós os deuses estranhos, e inclinai os vossos corações para o Senhor Deus de Israel.
+
+[[v6-24-24]]
+
+^<<v6-24-24,24>>^ O povo disse a Josué: Nós serviremos ao Senhor nosso Deus, e seremos obedientes aos seus preceitos,
+
+[[v6-24-25]]
+
+^<<v6-24-25,25>>^ Josué renovou naquele dia a aliança, e deu ao povo preceitos e leis em Siquem.
+
+[[v6-24-26]]
+
+^<<v6-24-26,26>>^ Escreveu também todas estas palavras no livro da lei do Senhor, tomou uma pedra muito grande, colocou-a debaixo dum carvalho, que estava no santuário do Senhor,
+
+[[v6-24-27]]
+
+^<<v6-24-27,27>>^ e disse a todo o povo: Esta pedra servir-vos-à de testemunho de que ouviu todas as palavras, que o Senhor vos disse, para que não aconteça que depois queirais renegar o Senhor vosso Deus.
+
+[[v6-24-28]]
+
+^<<v6-24-28,28>>^ E despediu o povo, cada um para a sua possessão.
+
+[[v6-24-29]]
+
+^<<v6-24-29,29>>^ Depois disto morreu Josué, filho de Nun, servo do Senhor, com cento e dez anos.
+
+[[v6-24-30]]
+
+^<<v6-24-30,30>>^ Sepultaram-no nos confins da sua possessão, em Tamnat Saraa, que está situada sobre o monte de Efraim, para a parte setentrional do monte Gaas.
+
+[[v6-24-31]]
+
+^<<v6-24-31,31>>^ Israel serviu ao Senhor, durante todo o tempo da vida de Josué e dos anciães, que viveram muito tempo depois de Josué, e que sabiam todas as obras que o Senhor tinha feito em (favor de) Israel.
+
+[[v6-24-32]]
+
+^<<v6-24-32,32>>^ Os ossos de José, que os filhos de Israel tinham trazido do Egipto, foram sepultados em Siquem, na parte do campo, que Jacob tinha comprado aos filhos de Hemor, pai de Siquem, por cem cordeiros, e que foi depois propriedade dos filhos de José.
+
+[[v6-24-33]]
+
+^<<v6-24-33,33>>^ Morreu também Eleázaro, filho de Aarão, e sepultaram-no em Gabaat, (cidade) de Finéas, seu filho , que lhe tinha sido dada sobre o monte de Efraim.
+
+'''
+
+xref:006-josue/006-josue-023.adoc#v6-23-0[&#60; Capítulo Anterior] | <<v6-24-0,Topo>> | xref:007-juizes/007-juizes-001.adoc#v7-1-0[Próximo Capítulo &#62;]

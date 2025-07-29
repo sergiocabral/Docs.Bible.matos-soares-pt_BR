@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v8-1-0]]
+=== Rute, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 do livro de Rute narra a história de Noemi e sua família, que deixam sua terra natal em busca de alimento e prosperidade em um país estrangeiro. Infelizmente, Noemi fica viúva e seus dois filhos também morrem, deixando-a sem nenhum parente próximo. A partir daí, ela decide retornar à sua terra natal, mas incentiva suas noras, Rute e Orfa, a ficarem em Moabe e encontrarem novos maridos. Os seguintes cinco versículos, em ordem de proximidade com os temas do capítulo, foram selecionados para ilustrar a temática do livro:
+* Deuteronômio 10:18-19: "Ele faz justiça ao órfão e à viúva, ama o estrangeiro, dando-lhe pão e roupa. Portanto, ame os estrangeiros, pois vocês foram estrangeiros no Egito." Este versículo fala sobre a importância de tratar os estrangeiros com amor e compaixão, o que é relevante para o relacionamento entre Noemi, Rute e Orfa em Moabe.
+* Êxodo 22:21-22: "Não maltrate nem oprimas o estrangeiro, pois vocês foram estrangeiros no Egito. Não maltratem viúvas nem órfãos." Este versículo se concentra em proibir a opressão de estrangeiros, viúvas e órfãos, enfatizando a importância da compaixão e da justiça social.
+* Levítico 19:9-10: "Quando vocês colherem a colheita da sua terra, não colham até o fim da lavoura, nem rebusquem os bagos caídos da sua colheita. Não percorram a vinha segunda vez, nem apanhem as uvas que caíram; deixem-nas para o pobre e para o estrangeiro. Eu sou o Senhor, o Deus de vocês." Este versículo incentiva a doação de alimentos para os pobres e estrangeiros, o que é relevante para a situação em que Rute e Noemi se encontram.
+* Salmos 146:9: "O Senhor protege o estrangeiro e sustém o órfão e a viúva, mas frustra os planos dos ímpios." Este versículo enfatiza a proteção divina aos estrangeiros, órfãos e viúvas, o que é uma fonte de consolo para Noemi em sua situação difícil.
+* Isaías 54:4-5: "Não tenha medo, pois você não será envergonhada. Não se sinta humilhada, pois você não será desonrada. Em vez disso, você esquecerá a vergonha da sua juventude e se lembrará mais da sua aflição, como de uma esposa abandonada e triste em espírito, uma esposa que foi rejeitada", declara o seu Deus. "Por um breve instante eu a abandonei, mas com profunda compaixão eu a trarei de volta." Este versículo fala sobre a compaixão de Deus por aqueles que sofrem e são rejeitados, o que é relevante para a história de Noemi e sua luta para encontrar segurança e consolo.
+****
+
+[[v8-1-1]]
+
+^<<v8-1-1,1>>^ No tempo dum juiz, quando os juizes governavam, houve fome naquela terra. Um homem partiu de Belém de Judá, para ir habitar como forasteiro no país de Moab, com sua mulher e dois filhos.
+
+[[v8-1-2]]
+
+^<<v8-1-2,2>>^ Chamava-se ele Elimelec, e sua mulher Noemi; os dois filhos chamavam-se, um Maalon, e o outro Quelion; eram Efrateus de Belém de Judá. Chegados ao país dos Moabitas, aí moraram.
+
+[[v8-1-3]]
+
+^<<v8-1-3,3>>^ Elimelec, marido de Noemi, morreu, e ela ficou com os filhos,
+
+[[v8-1-4]]
+
+^<<v8-1-4,4>>^ os quais casaram com mulheres Moabitas, das quais uma se chamava Orfa, e a outra Rute. Viveram lá dez anos,
+
+[[v8-1-5]]
+
+^<<v8-1-5,5>>^ e morreram ambos, a saber, Maalon e Quelion. Assim a mulher ficou privada dos dois filhos e do marido.
+
+[[v8-1-6]]
+
+^<<v8-1-6,6>>^ Então a mulher levantou-se, a fim de voltar da terra de Moab para a sua pátria com as suas duas noras, porque ouviu dizer que o Senhor tinha olhado para o seu povo, e lhe tinha dado pão.
+
+[[v8-1-7]]
+
+^<<v8-1-7,7>>^ Saiu pois do lugar da sua peregrinação com as suas duas noras; indo já no caminho de volta para a terra de Judá,
+
+[[v8-1-8]]
+
+^<<v8-1-8,8>>^ disse para elas: Ide para casa de vossa mãe, o Senhor use convosco de misericórdia, como vós usastes com os que morreram e comigo.
+
+[[v8-1-9]]
+
+^<<v8-1-9,9>>^ Ele vos faça encontrar paz nas casas dos maridos, com quem tiverdes a sorte de casar. E beijou-as. Elas em alta voz começaram a chorar
+
+[[v8-1-10]]
+
+^<<v8-1-10,10>>^ e a dizer: Nós iremos contigo para o teu povo.
+
+[[v8-1-11]]
+
+^<<v8-1-11,11>>^ Ela respondeu-lhes: Ide, minhas filhas; porque vindes comigo? Porventura tenho eu ainda filhos no meu ventre, para que possais esperar de mim maridos?
+
+[[v8-1-12]]
+
+^<<v8-1-12,12>>^ Andai, minhas filhas, ide-vos, porque já estou velha demais para me voltar a casar. Ainda que eu pudesse conceber esta mesma noite, e dar à luz filhos,
+
+[[v8-1-13]]
+
+^<<v8-1-13,13>>^ irieis esperar até que crescessem e chegassem aos anos da puberdade? Deixaríeis de tornar a casar? Não (continueis), minhas filhas, vos peço, porque a vossa angústia custa-me muito, e a mão do Senhor está levantada contra mim.
+
+[[v8-1-14]]
+
+^<<v8-1-14,14>>^ Elas, levantando a voz, começaram de novo a chorar. Orfa beijou a sua sogra, e foi-se. Rute porém ficou com sua sogra.
+
+[[v8-1-15]]
+
+^<<v8-1-15,15>>^ Noemi disse-lhe: A tua cunhada voltou para o seu povo e para o seu deus; vai com ela.
+
+[[v8-1-16]]
+
+^<<v8-1-16,16>>^ Rute respondeu: Não insistas comigo para que te deixe e me vá, porque para onde tu fores, irei também eu, e onde quer que morares, morarei eu também. O teu povo será o meu povo, e o teu Deus o meu Deus.
+
+[[v8-1-17]]
+
+^<<v8-1-17,17>>^ Na terra que te receber, quando morreres, nessa morrerei eu também e aí terei o meu sepulcro. O Senhor me castigue duramente, se outra coisa, que não for a morte, me separar de ti.
+
+[[v8-1-18]]
+
+^<<v8-1-18,18>>^ Vendo pois Noemi que Rute estava firmemente resolvida a ir com ela, não a quis mais contradizer, nem persuadir-lhe que voltasse para os seus.
+
+[[v8-1-19]]
+
+^<<v8-1-19,19>>^ E partiram juntas, e chegaram a Belém. E, tendo entrado na cidade, logo correu notícia disso por todos, e as mulheres diziam: Esta é aquela Noemi.
+
+[[v8-1-20]]
+
+^<<v8-1-20,20>>^ Ela disse-lhes: Não me chameis Noemi (isto é, formosa), mas chamai-me Mara (isto é, amarga), porque o Omnipotente me encheu de extrema amargura.
+
+[[v8-1-21]]
+
+^<<v8-1-21,21>>^ Eu sai daqui cheia (de felicidade com meu marido e filhos), e o Senhor fez-me voltar vazia. Por que me chamais pois Noemi, tendo-me o Senhor humilhado, e o Omnipotente afligido?
+
+[[v8-1-22]]
+
+^<<v8-1-22,22>>^ Foi Noemi com Rute Moabita, sua nora, da terra da sua peregrinação, e voltou para Belém, quando se começava a segar as cevadas.
+
+'''
+
+xref:007-juizes/007-juizes-021.adoc#v7-21-0[&#60; Capítulo Anterior] | <<v8-1-0,Topo>> | xref:008-rute/008-rute-002.adoc#v8-2-0[Próximo Capítulo &#62;]

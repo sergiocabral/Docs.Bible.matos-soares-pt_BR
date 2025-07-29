@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v33-2-0]]
+=== Ezequiel, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Ezequiel começa com a descrição da visão que o profeta teve de Deus e dos seres celestiais. Deus então chama Ezequiel para ser um mensageiro e profeta, enviado para falar com o povo de Israel e adverti-los sobre a sua conduta pecaminosa. Os versículos abaixo foram selecionados por sua relação com a temática do chamado de Ezequiel como profeta e sua missão de advertir o povo:
+* Isaías 6:8: "Então ouvi a voz do Senhor, conclamando: 'Quem enviarei? Quem irá por nós?' E eu respondi: 'Eis-me aqui. Envia-me!'" Este versículo mostra a disposição do profeta Isaías em se oferecer para ser enviado por Deus, semelhante à resposta de Ezequiel quando Deus o chamou para ser um mensageiro.
+* Jeremias 1:7-8: "Mas o Senhor me disse: 'Não digas: Eu sou muito jovem. A todos a quem eu te enviar, irás, e tudo o que te mandar, falarás. Não tenhas medo deles, pois estou contigo para livrar-te', diz o Senhor." Deus encoraja Jeremias a não temer, mas a confiar na sua proteção e orientação, assim como ele também encorajou Ezequiel.
+* Ezequiel 3:17: "Filho do homem, eu fiz de ti sentinela para a casa de Israel; por isso ouve a palavra que eu te digo e avisa-os da minha parte." Neste versículo, Deus confirma a Ezequiel que o escolheu para ser um sentinela e mensageiro para o povo de Israel, assim como lhe deu a missão de adverti-los dos seus pecados.
+* Mateus 10:16: "Eu vos envio como ovelhas no meio de lobos. Portanto, sede prudentes como as serpentes e simples como as pombas." Este versículo mostra a semelhança entre a missão de Ezequiel e a de Jesus, que também enviou seus discípulos para pregar e advertir o povo, mesmo em meio à hostilidade e oposição.
+* Atos 20:26-27: "Por isso, neste dia, eu vos declaro que sou inocente do sangue de todos, pois não deixei de proclamar a vocês toda a vontade de Deus." O apóstolo Paulo declarou sua fidelidade ao cumprir a missão de pregar a palavra de Deus, semelhante ao compromisso de Ezequiel de advertir o povo de Israel da vontade de Deus.
+****
+
+[[v33-2-1]]
+
+^<<v33-2-1,1>>^ Esta visão era a semelhança da glória do Senhor. Ao vê-la, caí com o meu rosto em terra e ouvi uma voz de alguém que falava. Disse-me; Filho de homem, põe-te de pé, e eu falarei contigo.
+
+[[v33-2-2]]
+
+^<<v33-2-2,2>>^ Enquanto me falava, entrou em mim o espírito, e me firmou sobre os meus pés; e ouvi o que me falava.
+
+[[v33-2-3]]
+
+^<<v33-2-3,3>>^ Dizia-me: Filho de homem, eu te envio aos filhos de Israel, aos povos rebeldes que se revoltaram contra mim; eles e seus pais foram-me infiéis até ao dia de hoje.
+
+[[v33-2-4]]
+
+^<<v33-2-4,4>>^ Aqueles a quem te envio são filhos de semblante duro de coração empedernido. Dir-lhes-ás: Assim fala o Senhor Iavé.
+
+[[v33-2-5]]
+
+^<<v33-2-5,5>>^ Quer te escutem ou não é gente rebelde (ao menos) saberão que esteve no meio deles um profeta.
+
+[[v33-2-6]]
+
+^<<v33-2-6,6>>^ Tu filho de homem, não tenhas medo deles, não temas as suas palavras, embora te encontres em meio de cardos e espinhos, e habites com escorpiões. Não temas as suas palavras, não te assustes com os seus semblantes, porque é uma casa rebelde.
+
+[[v33-2-7]]
+
+^<<v33-2-7,7>>^ Tu, pois, lhes intimarás as minhas palavras, quer escutem ou não, porque são rebeldes.
+
+[[v33-2-8]]
+
+^<<v33-2-8,8>>^ Tu, filho de homem, ouve o que te digo: não sejas rebelde como esta casa; abre a tua boca e come tudo o que te dou.
+
+[[v33-2-9]]
+
+^<<v33-2-9,9>>^ Olhei e vi que uma mão estava estendida para mim, na qual se achava um livro enrolado. Abriu-o diante de mim; estava escrito por dentro e por fora, e viam-se escritas nele lamentações, canções lúgubres e ais.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-001.adoc#v33-1-0[&#60; Capítulo Anterior] | <<v33-2-0,Topo>> | xref:033-ezequiel/033-ezequiel-003.adoc#v33-3-0[Próximo Capítulo &#62;]

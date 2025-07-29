@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-13-0]]
+=== Ester, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Daniel 2:37-38: "Ó rei, tu és rei dos reis; a quem o Deus do céu tem dado o reino, o poder, a força e a glória. E onde quer que habitem filhos de homens, bestas do campo e aves do céu, ele os entregou na tua mão, e fez que dominasses sobre todos eles; tu és a cabeça de ouro." - Este versículo fala sobre a autoridade e poder do rei. No capítulo 7 de Ester, o rei Assuero exerce seu poder para julgar Hamã e salvar Ester e seu povo.
+* Ezequiel 37:23: "Nem se contaminarão mais com os seus ídolos, com as suas abominações, e com todas as suas transgressões; mas eu os livrarei de todas as suas moradas em que pecaram, e os purificarei; assim eles serão o meu povo, e eu serei o seu Deus." - Este versículo fala sobre a salvação e purificação do povo de Deus. No capítulo 7 de Ester, Ester e seu povo são salvos da conspiração de Hamã pelo rei Assuero.
+* Jeremias 39:7: "E fez cegar os olhos de Zedequias, e o amarrou com duas cadeias de bronze, para o levar a babilônia." - Este versículo fala sobre a prisão de um líder e sua subsequente punição. No capítulo 7 de Ester, Hamã é punido pelo rei Assuero por sua conspiração contra Ester e seu povo.
+* Ezequiel 34:17: "E quanto às ovelhas gordas e fortes, deixa-as ficar, porque a elas será dado o pasto das montanhas de Israel." - Este versículo fala sobre o julgamento das pessoas, separando-as entre aquelas que serão poupadas e aquelas que serão julgadas. No capítulo 7 de Ester, Hamã é julgado e condenado por suas ações contra Ester e seu povo.
+****
+
+[[v19-13-1]]
+
+^<<v19-13-1,1>>^ O mui grande rei Artaxerxes (que reina) desde a India até à Etiópia, aos sátrapas e governadores das cento e vinte e sete províncias, que estão sujeitas ao seu império, manda o seguinte:
+
+[[v19-13-2]]
+
+^<<v19-13-2,2>>^ Tendo eu o império de muitíssimas nações, e tendo submetido ao meu domínio toda a terra, jamais quis de modo algum abusar da grandeza do meu poder, mas governar com clemência e com bondade os meus vassalos, para que, passando a vida com sossego sem medo algum, gozassem a paz desejada por todos os mortais.
+
+[[v19-13-3]]
+
+^<<v19-13-3,3>>^ Perguntando eu aos do meu conselho como poderia isto conseguir-se, um, que excedia os outros em sabedoria e fidelidade, e ocupava o segundo lugar no reino, chamado Aman,
+
+[[v19-13-4]]
+
+^<<v19-13-4,4>>^ fez-me saber que havia um povo disperso por toda a terra, que seguia umas novas leis e que, opondo-se ao costume de todas as gentes, desprezava as ordens dos reis e alterava com as suas discórdias a paz de todas as nações.
+
+[[v19-13-5]]
+
+^<<v19-13-5,5>>^ Tendo-nos nós inteirado disto, vendo que uma só nação se opõe a todo o gênero humano, segue leis perversas, desobedece aos nossos decretos, perturba a paz e concórdia das províncias que nos estão sujeitas,
+
+[[v19-13-6]]
+
+^<<v19-13-6,6>>^ decretamos que todos os que forem indicados por Aman, que tem a superintendência de todas as províncias e é o segundo depois do rei, a quem honramos como pai, sejam exterminados por seus inimigos juntamente com suas mulheres e filhos, no dia catorze do mês duodécimo de Adar deste ano, e ninguém se compadeça deles. (ver nota)
+
+[[v19-13-7]]
+
+^<<v19-13-7,7>>^ Assim, estes homens malvados, perecendo no mesmo dia, restituirão ao nosso império a paz que tinham perturbado.
+
+[[v19-13-8]]
+
+^<<v19-13-8,8>>^ Mardoqueu fez oração ao Senhor, recordando todas as suas obras,
+
+[[v19-13-9]]
+
+^<<v19-13-9,9>>^ e disse : Senhor, Senhor, rei omnipotente, no teu poder estão postas todas as coisas, e não há quem possa resistir á tua vontade, se determinaste salvar Israel.
+
+[[v19-13-10]]
+
+^<<v19-13-10,10>>^ Tu fizeste o céu e a terra, e tudo quanto se contém no âmbito do céu.
+
+[[v19-13-11]]
+
+^<<v19-13-11,11>>^ Tu és o Senhor de todas as coisas, e não há quem resista á tua majestade.
+
+[[v19-13-12]]
+
+^<<v19-13-12,12>>^ Tu conheces tudo, e sabes que foi não por soberba, nem por desprezo, nem por alguma cobiça de glória que fiz isto de não adorar o altivo Aman.
+
+[[v19-13-13]]
+
+^<<v19-13-13,13>>^ Com efeito, para salvar Israel, pronto estaria a beijar com gosto os vestígios dos seus pés.
+
+[[v19-13-14]]
+
+^<<v19-13-14,14>>^ Se fiz isso, foi porque temi trasladar para um homem a honra devida ao meu Deus; jamais adoraria alguém, que não fosse o meu Deus.
+
+[[v19-13-15]]
+
+^<<v19-13-15,15>>^ Agora tu, ó Senhor Rei, Deus de Abraão, tem misericórdia do teu povo, porque os nossos inimigos querem acabar, destruir a tua herança.
+
+[[v19-13-16]]
+
+^<<v19-13-16,16>>^ Não desprezes a tua porção, que para ti resgataste do Egipto.
+
+[[v19-13-17]]
+
+^<<v19-13-17,17>>^ Ouve os meus rogos, mostra-te propício à tua parte e herança, e muda o nosso pranto em gozo, para que, vivendo, louvemos, Senhor, o teu nome, e não feches a boca dos que te louvam.
+
+[[v19-13-18]]
+
+^<<v19-13-18,18>>^ Todo o Israel clamou do mesmo modo ao Senhor, orando com um mesmo coração, porque a morte estava diante dos seus olhos.
+
+'''
+
+xref:019-ester/019-ester-012.adoc#v19-12-0[&#60; Capítulo Anterior] | <<v19-13-0,Topo>> | xref:019-ester/019-ester-014.adoc#v19-14-0[Próximo Capítulo &#62;]

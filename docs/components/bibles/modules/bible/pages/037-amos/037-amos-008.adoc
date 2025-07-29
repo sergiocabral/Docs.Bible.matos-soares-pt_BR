@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v37-8-0]]
+=== Amós, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Amós 8 é um capítulo que traz uma forte crítica à injustiça social e econômica que estava sendo cometida em Israel, incluindo a exploração dos pobres e a falta de compaixão pelos necessitados. Além disso, é denunciada a falsidade religiosa e a adoração vazia e superficial. Abaixo, seguem cinco versículos que abordam temas relacionados a esse capítulo:
+* Isaías 5:8 - "Ai dos que ajuntam casa a casa, ajuntam campo a campo, até que não haja mais lugar, e ficam como únicos moradores no meio da terra!" Este versículo condena a ganância e a busca desenfreada por riquezas, que é um dos principais problemas abordados em Amós 8.
+* Provérbios 14:31 - "O que oprime o pobre insulta àquele que o criou, mas o que tem compaixão dos necessitados honra-o." Este versículo destaca a importância da compaixão e do cuidado pelos necessitados, algo que era negligenciado em Israel e é criticado por Amós.
+* Jeremias 22:13-14 - "Ai daquele que edifica a sua casa com injustiça e os seus aposentos sem direito, servindo-se do seu próximo sem remunerá-lo e não lhe dá o salário do seu trabalho!...Porventura não sabe que eu o Senhor fiz esta exigência: que se faça justiça, e se ame a misericórdia, e se ande humildemente com o seu Deus?" Nesses versículos, vemos uma semelhança com a mensagem de Amós, pois também é denunciada a injustiça social e a exploração dos trabalhadores.
+* Tiago 5:1-5 - "Vinde agora, ricos, chorai e pranteai, por causa das vossas desventuras, que vos sobrevirão...Tendes vivido em delícias sobre a terra, e sido luxuriosos; tendes engordado o vosso coração para o dia da matança." Esses versículos trazem uma crítica semelhante à de Amós, contra aqueles que acumulam riquezas injustamente e desfrutam do luxo enquanto os pobres sofrem.
+* Isaías 1:13-15 - "Não tragais mais ofertas vãs; o incenso é para mim abominação, e as luas novas, e os sábados, e a convocação das assembleias; não posso suportar iniquidade, nem mesmo a reunião solene...Lavai-vos, purificai-vos, tirai de diante dos meus olhos a maldade dos vossos atos." Nesses versículos, vemos uma crítica à adoração vazia e superficial que é condenada por Amós em seu capítulo 8.
+****
+
+[[v37-8-1]]
+
+^<<v37-8-1,1>>^ O Senhor Deus mostrou-me ainda outra visão: Vi uma cesta de frutos maduros.
+
+[[v37-8-2]]
+
+^<<v37-8-2,2>>^ O Senhor disse-me: Que vês tu, Amós? Respondi: Uma cesta de frutos maduros. E o Senhor disse-me: Chegou o fim do meu povo de Israel; não o deixarei impune por mais tempo.
+
+[[v37-8-3]]
+
+^<<v37-8-3,3>>^ Naquele dia, diz o Senhor Deus, os cantos do palácio serão gritos de aflição. Cadáveres lançados em qualquer parte! Silêncio!
+
+[[v37-8-4]]
+
+^<<v37-8-4,4>>^ Ouvi isto, vós, que pisais os pobres e fazeis perecer os desvalidos da terra
+
+[[v37-8-5]]
+
+^<<v37-8-5,5>>^ dizendo: Quando passará a lua nova, para vendermos o nosso trigo, e o sábado para abrirmos os celeiros, diminuindo o efa, aumentando o siclo e falseando a balança para defraudar (o próximo)?
+
+[[v37-8-6]]
+
+^<<v37-8-6,6>>^ Tornar-nos-emos senhores dos necessitados por dinheiro, e dos pobres por um par de sandálias, e venderemos (por bom preço) até as alimpas do nosso trigo.
+
+[[v37-8-7]]
+
+^<<v37-8-7,7>>^ O Senhor fez este juramento pela soberba de Jacob: Juro que me não esquecerei jamais de qualquer das suas obras.
+
+[[v37-8-8]]
+
+^<<v37-8-8,8>>^ Depois disto, não estremecerá a terra (de Israel), e não chorará todo o seu habitante? Todo o solo crescerá como o Nilo, agitar-se-á e abaixar-se-á como o rio do Egito (ao chegar ao mar).
+
+[[v37-8-9]]
+
+^<<v37-8-9,9>>^ Naquele dia farei, diz o Senhor Deus, que o sol se ponha ao meio-dia, e em pleno dia farei cobrir a terra de trevas.
+
+[[v37-8-10]]
+
+^<<v37-8-10,10>>^ Converterei as vossas festas em luto, e todos os vossos cânticos em pranto; porei um cilício sobre todos os rins e tornarei calva toda a cabeça; o luto será como o que se faz por um filho único, e o seu fim um dia de amargura.
+
+[[v37-8-11]]
+
+^<<v37-8-11,11>>^ Eis que vem o tempo, diz o Senhor, em que enviarei fome sobre a terra; não fome de pão, nem sede de água, mas de ouvir a palavra do Senhor.
+
+[[v37-8-12]]
+
+^<<v37-8-12,12>>^ Vaguearão desde um mar até ao outro mar, desde o Aquilão até o oriente; andarão por toda a parte buscando a palavra do Senhor, e não a encontrarão.
+
+[[v37-8-13]]
+
+^<<v37-8-13,13>>^ Naquele dia desfalecerão à sede as formosas donzelas e os jovens.
+
+[[v37-8-14]]
+
+^<<v37-8-14,14>>^ Os que juram pelo pecado (i. e. o bezerro de ouro) de Samaria e dizem: Ó Dan, viva o teu Deus! - e: viva o caminho (ou idolatria) de Bersabée! - esses cairão e nunca mais se levantarão.
+
+'''
+
+xref:037-amos/037-amos-007.adoc#v37-7-0[&#60; Capítulo Anterior] | <<v37-8-0,Topo>> | xref:037-amos/037-amos-009.adoc#v37-9-0[Próximo Capítulo &#62;]

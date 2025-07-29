@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v65-8-0]]
+=== Hebreus, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Hebreus 8 aborda o tema do sacerdócio de Jesus Cristo e a superioridade de seu ministério em relação ao sacerdócio levítico. O capítulo também destaca a nova aliança estabelecida por meio de Jesus Cristo e as promessas divinas que foram cumpridas através dele.
+* 2 Coríntios 3:6: "Ele nos capacitou para sermos ministros de uma nova aliança, não da letra, mas do Espírito; pois a letra mata, mas o Espírito vivifica." Esse versículo destaca a diferença entre a nova aliança estabelecida por Jesus Cristo e a antiga aliança baseada na lei. A nova aliança é governada pelo Espírito, enquanto a antiga aliança era governada pela letra da lei.
+* Jeremias 31:31: "Está chegando o tempo", declara o Senhor, "quando farei uma nova aliança com a comunidade de Israel e com a comunidade de Judá." Esse versículo é citado em Hebreus 8:8-12 para mostrar que a nova aliança estabelecida por Jesus Cristo foi profetizada pelo profeta Jeremias. Essa nova aliança é superior à antiga aliança estabelecida com Israel.
+* Jeremias 31:33: "Esta é a aliança que farei com a comunidade de Israel depois daqueles dias", declara o Senhor. "Porei a minha lei no íntimo deles e a escreverei nos seus corações. Serei o Deus deles, e eles serão o meu povo." Esse versículo é citado em Hebreus 8:10 para mostrar como a nova aliança estabelecida por Jesus Cristo é diferente da antiga aliança. A lei de Deus não é mais escrita em tábuas de pedra, mas é escrita nos corações dos crentes.
+* Hebreus 7:26: "Tal sumo sacerdote nos convinha: santo, inculpável, sem mácula, separado dos pecadores e feito mais elevado do que os céus." Esse versículo destaca a superioridade do sacerdócio de Jesus Cristo em relação ao sacerdócio levítico. Jesus Cristo é o sumo sacerdote perfeito que ofereceu um sacrifício único e perfeito pelos pecados da humanidade.
+* Hebreus 9:15: "Por isso, Cristo é o mediador de uma nova aliança para que os que são chamados recebam a promessa da herança eterna, visto que ele morreu como resgate pelas transgressões cometidas sob a primeira aliança." Esse versículo destaca que a morte de Jesus Cristo foi o preço pago para estabelecer a nova aliança e cumprir as promessas divinas. Através dele, aqueles que são chamados podem receber a promessa da herança eterna.
+****
+
+[[v65-8-1]]
+
+^<<v65-8-1,1>>^ O ponto capital de tudo o que acabamos de dizer é este: temos um pontífice tal, que está sentado nos céus à direita do trono da Majestade,
+
+[[v65-8-2]]
+
+^<<v65-8-2,2>>^ ministro do santuário e do verdadeiro tabernáculo erigido pelo Senhor, e não pelo homem.
+
+[[v65-8-3]]
+
+^<<v65-8-3,3>>^ Sendo todo o pontífice constituído para oferecer dons e vítimas, é necessário que também este tenha alguma coisa que oferecer.
+
+[[v65-8-4]]
+
+^<<v65-8-4,4>>^ Porque, se ele estivesse sobre a terra, nem sacerdote seria, visto que os há aí (filhos da tribo de Levi) que oferecem dons, segundo a lei, (ver nota)
+
+[[v65-8-5]]
+
+^<<v65-8-5,5>>^ que celebram um culto que é apenas imagem e sombra das coisas celestiais, como foi dito por Deus a Moisés, quando teve de construir o tabernáculo: Olha (disse) faze todas as coisas conforme o modelo que te foi mostrado sobre o monte (Ex. 25, 40).
+
+[[v65-8-6]]
+
+^<<v65-8-6,6>>^ Mas (Cristo) recebeu um ministério tanto mais elevado quanto melhor a aliança de que é mediador, a qual foi estabelecida sobre melhores promessas.
+
+[[v65-8-7]]
+
+^<<v65-8-7,7>>^ De facto, se aquela primeira aliança tivesse sido sem defeito, não se buscaria lugar para uma segunda.
+
+[[v65-8-8]]
+
+^<<v65-8-8,8>>^ Pois que (Deus), repreendendo-os, diz: Eis virão dias em que eu contrairei com a casa de Israel e com a casa de Judá uma nova aliança,
+
+[[v65-8-9]]
+
+^<<v65-8-9,9>>^ diferente da aliança que fiz com os seus pais, no dia em que lhes peguei pela mão para os tirar da terra do Egito; porém, visto que eles não perseveraram na minha aliança, também me desinteressei deles, diz o Senhor.
+
+[[v65-8-10]]
+
+^<<v65-8-10,10>>^ Mas esta é a aliança que estabelecerei com a casa de Israel depois daqueles dias, diz o Senhor: porei as minhas leis no seu espirito, grava-las-ei no seu coração, e serei o seu Deus, e eles serão o meu povo; (ver nota)
+
+[[v65-8-11]]
+
+^<<v65-8-11,11>>^ ninguém ensinará mais a seu compatriota, ninguém a seu irmão, dizendo: "conhece o Senhor", porque todos eles me conhecerão, desde o mais pequeno até ao maior, (ver nota)
+
+[[v65-8-12]]
+
+^<<v65-8-12,12>>^ pois perdoarei as suas iniquidades e não me lembrarei mais dos seus pecados (Jer. 31,31-34).
+
+[[v65-8-13]]
+
+^<<v65-8-13,13>>^ Falando de aliança nova, Deus declarou antiquada a primeira. Ora o que envelhece e se torna antiquado, está prestes a perecer.
+
+'''
+
+xref:065-hebreus/065-hebreus-007.adoc#v65-7-0[&#60; Capítulo Anterior] | <<v65-8-0,Topo>> | xref:065-hebreus/065-hebreus-009.adoc#v65-9-0[Próximo Capítulo &#62;]

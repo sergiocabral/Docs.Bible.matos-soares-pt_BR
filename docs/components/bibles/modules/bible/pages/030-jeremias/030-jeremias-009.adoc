@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v30-9-0]]
+=== Jeremias, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 9 fala sobre a tristeza e angústia de Jeremias em relação à infidelidade do povo de Israel, que persiste em seus caminhos maus e não se arrepende. O capítulo destaca a importância da verdade e da justiça, bem como a necessidade de se voltar para Deus em arrependimento. Abaixo estão cinco versículos relacionados aos temas do capítulo:
+* Provérbios 12:22: "Os lábios mentirosos são abomináveis ao Senhor, mas os que agem com fidelidade lhe dão prazer." Este versículo destaca a importância da verdade e da honestidade, que são fundamentais para a justiça e para uma vida que agrada a Deus.
+* Isaías 59:2: "Mas as suas iniquidades separaram vocês do seu Deus; os seus pecados esconderam de vocês o rosto dele, e por isso ele não os ouvirá." Este versículo destaca a necessidade de arrependimento e abandono do pecado para que haja uma comunhão verdadeira com Deus.
+* 2 Crônicas 7:14: "se o meu povo, que se chama pelo meu nome, se humilhar, orar e me buscar, e se desviar dos seus maus caminhos, então eu ouvirei dos céus, perdoarei os seus pecados e curarei a sua terra." Este versículo enfatiza a importância do arrependimento e da busca sincera por Deus, que resultam em perdão e cura.
+* Salmo 15:1-2: "Senhor, quem habitará no teu santuário? Quem poderá morar no teu santo monte? Aquele que é íntegro em sua conduta e pratica o que é justo, que de coração fala a verdade e não usa a língua para difamar." Este salmo destaca a importância da integridade, da justiça e da verdade em nossas vidas, que são valores fundamentais para Deus.
+* Isaías 1:16-17: "Lavem-se, purifiquem-se, tirem da minha vista a maldade dos seus atos; parem de fazer o mal. Aprendam a fazer o bem; busquem a justiça, acabem com a opressão. Lutem pelos direitos do órfão e defendam a causa da viúva." Este versículo destaca a necessidade de se arrepender e se voltar para Deus, buscando a justiça e fazendo o bem aos outros, especialmente aos mais vulneráveis.
+****
+
+[[v30-9-1]]
+
+^<<v30-9-1,1>>^ Quem mudará em nascente a minha cabeça, em fonte de lágrimas os meus olhos, para eu chorar de dia e de noite os mortos da filha do meu povo?
+
+[[v30-9-2]]
+
+^<<v30-9-2,2>>^ Quem me dará no deserto um albergue de viandantes? Deixarei o meu povo, apartar-me-ei deles, pois todos são adúlteros, um bando de prevaricadores.
+
+[[v30-9-3]]
+
+^<<v30-9-3,3>>^ Servem-se da sua língua como dum arco para atirar mentiras; não foi pela verdade que se tornaram fortes na terra, pois passam dum crime a outro; não me conhecem diz o Senhor.
+
+[[v30-9-4]]
+
+^<<v30-9-4,4>>^ Cada um guarde-se do seu amigo, não se fie de nenhum de seus irmãos, porque o irmão só pensa em suplantar o seu irmão, e todo o amigo anda com falsidade.
+
+[[v30-9-5]]
+
+^<<v30-9-5,5>>^ Enganam-se uns aos outros, não dizem a verdade, habituaram a sua língua a mentir, cansam-se em fazer o mal.
+
+[[v30-9-6]]
+
+^<<v30-9-6,6>>^ A tua habitação (ó Jeremias) é no meio do engano; por má fé recusam conhecer-me, diz o Senhor.
+
+[[v30-9-7]]
+
+^<<v30-9-7,7>>^ Portanto isto diz o Senhor dos exércitos: Vou prová-los no crisol. Pois, que outra coisa posso fazer a respeito da filha do meu povo (senão castigá-la) ?
+
+[[v30-9-8]]
+
+^<<v30-9-8,8>>^ A língua deles é uma seta que fere, fala (sempre) para enganar; com os seus lábios anunciam a paz ao seu próximo, mas ocultamente armam-lhe ciladas.
+
+[[v30-9-9]]
+
+^<<v30-9-9,9>>^ Porventura não hei-de punir estes crimes, diz o Senhor? Ou hei-de deixar de me vingar de tal gente?
+
+[[v30-9-10]]
+
+^<<v30-9-10,10>>^ Sobre os montes romperei em choro e lamento, sobre os lugares de pastagem do deserto soltarei um canto fúnebre, porque foram incendiados, de maneira que não há quem passe por ali, e não se ouve já aí a voz dos rebanhos, desde a ave do céu até aos animais, tudo fugiu, desapareceu.
+
+[[v30-9-11]]
+
+^<<v30-9-11,11>>^ Reduzirei Jerusalém a montões de pedras, (diz o Senhor), a covil de chacais; entregarei as cidades de Judá à desolação, sem que fique nelas um só morador.
+
+[[v30-9-12]]
+
+^<<v30-9-12,12>>^ Quem é o homem sábio que entenda isto, a quem se dirija a palavra da boca do Senhor, a fim de que anuncie por que causa foi destruído este país, abrasado como um deserto, de maneira que não há quem passe por ele?
+
+[[v30-9-13]]
+
+^<<v30-9-13,13>>^ O Senhor disse: É porque eles abandonaram a lei que lhes dei, não ouviram a minha voz, não a seguiram,
+
+[[v30-9-14]]
+
+^<<v30-9-14,14>>^ foram atrás da obstinação do seu coração, atrás dos ídolos, como tinham aprendido de seus pais.
+
+[[v30-9-15]]
+
+^<<v30-9-15,15>>^ Portanto isto diz o Senhor dos exércitos, o Deus de Israel: Eis que alimentarei este povo com absinto, dar-lhe-ei por bebida água envenenada.
+
+[[v30-9-16]]
+
+^<<v30-9-16,16>>^ Dispersá-los-ei entre nações que nem eles nem seus pais conheceram, e enviarei atrás deles a espada, até serem exterminados.
+
+[[v30-9-17]]
+
+^<<v30-9-17,17>>^ Isto diz o Senhor dos exércitos: Procurai, chamai carpideiras, que venham; mandai procurar as mais hábeis, que compareçam.
+
+[[v30-9-18]]
+
+^<<v30-9-18,18>>^ Apressem-se e entoem lamentações sobre nós! Derramem lágrimas os nossos olhos, vertam pranto as nossas pálpebras.
+
+[[v30-9-19]]
+
+^<<v30-9-19,19>>^ Sim, porque de Sião já se ouvem gritos lúgubres (que dizem): Como estamos arruinados e cobertos de confusão, a ponto de termos de abandonar a nossa terra, pois foram derribadas as nossas casas!
+
+[[v30-9-20]]
+
+^<<v30-9-20,20>>^ Ouvi portanto, mulheres, a palavra do Senhor, recebam os vossos ouvidos a palavra da sua boca! Ensinai a vossas filhas cantos lúgubres, cada uma à sua companheira lamentações.
+
+[[v30-9-21]]
+
+^<<v30-9-21,21>>^ A morte subiu pelas nossas janelas, entrou nas nossas moradas para exterminar as crianças nas ruas, e os jovens nas praças.
+
+[[v30-9-22]]
+
+^<<v30-9-22,22>>^ Dize: Assim fala o Senhor: Cairão os cadáveres dos homens como esterco sobre um campo, como manípulos para trás do segador, e não haverá quem os recolha.
+
+[[v30-9-23]]
+
+^<<v30-9-23,23>>^ Isto diz o Senhor: Não se glorie o sábio no seu saber, nem se glorie o forte na sua força, nem se glorie o rico nas suas riquezas.
+
+[[v30-9-24]]
+
+^<<v30-9-24,24>>^ Porém aquele que se gloriar, glorie-se nisto: em ter inteligência e em me conhecer, em conhecer que sou o Senhor que exerço a misericórdia, o direito e a justiça sobre a terra: são estas coisas que me agradam, diz o Senhor.
+
+[[v30-9-25]]
+
+^<<v30-9-25,25>>^ Eis que vêm dias, diz o Senhor em que visitarei (para os castigar) todos os circuncidados (apenas em sua carne) e incircuncidados;
+
+[[v30-9-26]]
+
+^<<v30-9-26,26>>^ o Egito, Judá, Edom, os filhos de Amon, Moab e todos os que rapam o cabelo das fontes e habitam no deserto; porque, se todas as (outras) nações são incircuncisas (segundo a carne), toda a casa de Israel é incircuncisa de coração.
+
+'''
+
+xref:030-jeremias/030-jeremias-008.adoc#v30-8-0[&#60; Capítulo Anterior] | <<v30-9-0,Topo>> | xref:030-jeremias/030-jeremias-010.adoc#v30-10-0[Próximo Capítulo &#62;]

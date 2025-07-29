@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v24-20-0]]
+=== Provérbios, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 20 de Provérbios aborda temas como a sabedoria, a honra, a justiça, o caráter e a prudência. Para fornecer cinco versículos relacionados com esses temas, podemos selecionar os seguintes:
+* Filipenses 2:3: "Nada façais por partidarismo ou vanglória, mas por humildade, considerando cada um os outros superiores a si mesmo." Esse verso aborda a importância da humildade e do caráter, que são temas presentes em Provérbios 20.
+* Provérbios 16:31: "As cãs são coroa de glória, quando se acham no caminho da justiça." Esse verso fala sobre a honra e a justiça, temas abordados em Provérbios 20 sobre o valor da integridade e da justiça divina.
+* Colossenses 4:5: "Andai com sabedoria para com os que estão de fora, remindo o tempo." Esse verso aborda a importância da sabedoria e da prudência, temas recorrentes em Provérbios 20 sobre o uso sábio do tempo e a busca pela sabedoria.
+* Provérbios 21:3: "Praticar a justiça e o direito é mais aceitável ao Senhor do que oferecer-lhe sacrifícios." Esse verso fala sobre a importância da justiça, um tema tratado em Provérbios 20 sobre a busca pela verdade e a justiça divina.
+* 2 Timóteo 2:22: "Foge também das paixões da mocidade, e segue a justiça, a fé, o amor, e a paz com os que, de coração puro, invocam o Senhor." Esse verso fala sobre a importância de seguir a justiça e a pureza de coração, temas presentes em Provérbios 20 sobre a busca pela sabedoria e a integridade.
+****
+
+[[v24-20-1]]
+
+^<<v24-20-1,1>>^ O vinho é uma fonte de luxúria, e a embriaguez é cheia de desordens; todo aquele que põe nisto o seu gosto, não será sábio.
+
+[[v24-20-2]]
+
+^<<v24-20-2,2>>^ Como o rugido do leão, assim é o terror que o rei infunde; aquele que o irrita peca contra a sua vida.
+
+[[v24-20-3]]
+
+^<<v24-20-3,3>>^ É uma glória para o homem afastar-se de contendas; porém todos os insensatos se envolvem nelas.
+
+[[v24-20-4]]
+
+^<<v24-20-4,4>>^ O preguiçoso não quis lavrar por causa do frio; mendigará, pois, no verão, e não se lhe dará coisa alguma.
+
+[[v24-20-5]]
+
+^<<v24-20-5,5>>^ O pensamento é no coração do homem como uma água profunda, mas o homem sábio tirá-lo-á para fora.
+
+[[v24-20-6]]
+
+^<<v24-20-6,6>>^ Muitos homens se chamam compassivos, mas quem achará um homem (inteiramente) fiel?
+
+[[v24-20-7]]
+
+^<<v24-20-7,7>>^ O justo, que anda na sua integridade, deixará depois de si filhos ditosos.
+
+[[v24-20-8]]
+
+^<<v24-20-8,8>>^ O rei, que está assentado no seu trono de justiça, dissipa todo o mal, só com o seu olhar.
+
+[[v24-20-9]]
+
+^<<v24-20-9,9>>^ Quem pode dizer: O meu coração está puro, estou limpo de pecado?
+
+[[v24-20-10]]
+
+^<<v24-20-10,10>>^ Ter dois pesos e duas medidas, é objecto de abominação para o Senhor.
+
+[[v24-20-11]]
+
+^<<v24-20-11,11>>^ Pelas acções do menino se deduz se a sua conduta será (no futuro) pura e recta.
+
+[[v24-20-12]]
+
+^<<v24-20-12,12>>^ O ouvido que ouve e o olho que vê, ambas estas coisas fez o Senhor.
+
+[[v24-20-13]]
+
+^<<v24-20-13,13>>^ Não queiras ser amigo do sono, para que a pobreza te não oprima; abre os teus olhos (sê diligente), e terás pão em abundância.
+
+[[v24-20-14]]
+
+^<<v24-20-14,14>>^ Isto não vale nada, isto não vale nada, diz todo o comprador, e, depois de se retirar, então se gloriará. (ver nota)
+
+[[v24-20-15]]
+
+^<<v24-20-15,15>>^ Há oiro, há grande abundância de pedras preciosas; vaso precioso são os lábios do sábio.
+
+[[v24-20-16]]
+
+^<<v24-20-16,16>>^ Tira a roupa àquele que (imprudentemente) ficou por fiador dum desconhecido, leva-lhe o penhor do que se obrigou por estranhos.
+
+[[v24-20-17]]
+
+^<<v24-20-17,17>>^ O pão mal adquirido é gostoso ao homem; porém depois a sua boca será cheia de areias.
+
+[[v24-20-18]]
+
+^<<v24-20-18,18>>^ Os projectos corroboram-se pelos conselhos; e as guerras devem ser dirigidas com prudência. (ver nota)
+
+[[v24-20-19]]
+
+^<<v24-20-19,19>>^ O mexeriqueiro revela os segredos; com o que tem os lábios sempre abertos (para falar) não te familiarizes.
+
+[[v24-20-20]]
+
+^<<v24-20-20,20>>^ Aquele que amaldiçoa o seu pai e a sua mãe, apagar-se-á o seu luzeiro no meio das trevas.
+
+[[v24-20-21]]
+
+^<<v24-20-21,21>>^ A herança que alguém se apressa a adquirir (ilicitamente) no princípio, carecerá de bênção no fim.
+
+[[v24-20-22]]
+
+^<<v24-20-22,22>>^ Não digas: Darei mai por mal; espera no Senhor, e ele te livrará.
+
+[[v24-20-23]]
+
+^<<v24-20-23,23>>^ Ter dois pesos é abominação diante de Deus; a balança falsa não é boa.
+
+[[v24-20-24]]
+
+^<<v24-20-24,24>>^ Os passos do homem são dirigidos pelo Senhor: mas que homem pode compreender o seu próprio destino?
+
+[[v24-20-25]]
+
+^<<v24-20-25,25>>^ É uma ruína para o homem dizer inconsideradamente: "Consagrado", e só reflectir depois de ter feito votos.
+
+[[v24-20-26]]
+
+^<<v24-20-26,26>>^ O rei sábio dissipa os ímpios, e faz passar sobre eles a roda.
+
+[[v24-20-27]]
+
+^<<v24-20-27,27>>^ O espirito do homem é uma lâmpada divina, a qual penetra todos os segredos do seu interior.
+
+[[v24-20-28]]
+
+^<<v24-20-28,28>>^ A bondade e a fidelidade guardam o rei, e o seu trono firma-se com a clemência.
+
+[[v24-20-29]]
+
+^<<v24-20-29,29>>^ A gala dos jovens é a sua força, e a glória dos velhos são as suas cãs.
+
+[[v24-20-30]]
+
+^<<v24-20-30,30>>^ Purgam-se os males pelas feridas cruentas, e também pelos golpes que chegam ao fundo das entranhas. (ver nota)
+
+'''
+
+xref:024-proverbios/024-proverbios-019.adoc#v24-19-0[&#60; Capítulo Anterior] | <<v24-20-0,Topo>> | xref:024-proverbios/024-proverbios-021.adoc#v24-21-0[Próximo Capítulo &#62;]

@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v28-27-0]]
+=== Eclesiástico, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 27 é um capítulo que aborda diversos temas relacionados à convivência em sociedade, como a importância da honestidade, a percepção que os outros têm de nós, a inveja e a calúnia. Alguns versículos da Bíblia que tratam desses assuntos são:
+* Provérbios 11:13: "Quem anda tagarelando revela segredos, mas quem tem o espírito leal os mantém em oculto." Este versículo fala sobre a importância da discrição e do respeito aos segredos de outras pessoas.
+* Provérbios 20:19: "Quem anda tagarelando revela segredos; portanto, não se envolva com quem fala demais." Este versículo reforça a ideia de que é importante manter a discrição em relação a informações confidenciais e alerta para o perigo de se envolver com pessoas que falam demais.
+* Provérbios 25:9: "Dispute a sua causa com o seu próximo mesmo, mas não revele o segredo de outrem." Este versículo destaca a importância de resolver conflitos de forma direta e honesta, sem expor a vida privada das outras pessoas.
+* Provérbios 26:24-25: "Com seus lábios o homem que odeia disfarça, mas no coração abriga a falsidade. Embora fale cordialmente, não acredite nele, pois seu coração está cheio de más intenções." Este versículo alerta para o perigo de pessoas falsas e invejosas, que podem falar bem mas têm más intenções no coração.
+* Provérbios 27:2: "Que outro louve você, e não a sua própria boca; elogios alheios, e não os seus próprios lábios." Este versículo destaca a importância da humildade e da modéstia, e alerta para o perigo da vaidade e da arrogância.
+****
+
+[[v28-27-1]]
+
+^<<v28-27-1,1>>^ Por causa da pobreza muitos delinquiram; aquele que procura enriquecer-se afasta os olhos.
+
+[[v28-27-2]]
+
+^<<v28-27-2,2>>^ Como se finca um pau no meio da juntura de duas pedras, assim também se introduzirá o pecado entre a venda e a compra. (ver nota)
+
+[[v28-27-3]]
+
+^<<v28-27-3,3>>^ O delito será destruído com o delinquente.
+
+[[v28-27-4]]
+
+^<<v28-27-4,4>>^ Se te não mantiveres firmemente no temor do Senhor, depressa a tua casa será arruinada.
+
+[[v28-27-5]]
+
+^<<v28-27-5,5>>^ Como quando se abana o crivo apenas ficam as alimpas, assim a perplexidade do homem fica no seu pensamento.
+
+[[v28-27-6]]
+
+^<<v28-27-6,6>>^ O forno prova os vasos do oleiro, e a prova dá tribulação, os homens justos.
+
+[[v28-27-7]]
+
+^<<v28-27-7,7>>^ Como o cuidado que se tem da árvore se dá a conhecer no fruto, assim a palavra manifesta o que vai no coração do homem.
+
+[[v28-27-8]]
+
+^<<v28-27-8,8>>^ Não louves um homem antes de ele falar, porque esta é a prova dos homens.
+
+[[v28-27-9]]
+
+^<<v28-27-9,9>>^ Se fores atrás da justiça, alcançá-la-ás, dela te revestirás como duma vestidura talar de glória; com ela habitarás, ela te protegerá para sempre, e no dia do juízo acharás nela apoio.
+
+[[v28-27-10]]
+
+^<<v28-27-10,10>>^ As aves chegam-se para os seus semelhantes; assim a verdade volta para aqueles que a praticam.
+
+[[v28-27-11]]
+
+^<<v28-27-11,11>>^ O leão está sempre à espreita da presa; assim os pecados armam laços aos que praticam a iniquidade.
+
+[[v28-27-12]]
+
+^<<v28-27-12,12>>^ O homem santo persevera na sabedoria como o Sol; o insensato, porém, muda como a lua.
+
+[[v28-27-13]]
+
+^<<v28-27-13,13>>^ No meio dos insensatos guarda a palavra para outro tempo; (evita-os e) permanece, antes, de continuo entre os que pensam (bem).
+
+[[v28-27-14]]
+
+^<<v28-27-14,14>>^ A conversação dos pecadores é odiosa, e o seu riso é nas delicias do pecado.
+
+[[v28-27-15]]
+
+^<<v28-27-15,15>>^ O discurso do que muito jura fará arripiar os cabelos da cabeça, e a sua irreverência fará tapar os ouvidos.
+
+[[v28-27-16]]
+
+^<<v28-27-16,16>>^ Na bulha dos soberbos há efusão de sangue; é penoso ouvir as suas maldições.
+
+[[v28-27-17]]
+
+^<<v28-27-17,17>>^ Aquele que descobre os segredos do amigo, perde o crédito e não encontrará mais um amigo a seu gosto.
+
+[[v28-27-18]]
+
+^<<v28-27-18,18>>^ Ama o teu próximo e sê leal na amizade com ele.
+
+[[v28-27-19]]
+
+^<<v28-27-19,19>>^ Se descobrires os seus segredos, não o voltarás a ganhar.
+
+[[v28-27-20]]
+
+^<<v28-27-20,20>>^ Como um homem que mata o seu amigo, assim é o que destrói a amizade do seu próximo.
+
+[[v28-27-21]]
+
+^<<v28-27-21,21>>^ Como aquele que deixa ir da sua mão o pássaro. assim tu deixaste ir o teu próximo, e não o conciliarás mais.
+
+[[v28-27-22]]
+
+^<<v28-27-22,22>>^ Não o sigas, porque já está muito distante; fugiu do laço como uma gazela. Porque foi ferida a sua alma,
+
+[[v28-27-23]]
+
+^<<v28-27-23,23>>^ não poderás mais atraí-lo a ti. Depois duma injúria há reconciliação;
+
+[[v28-27-24]]
+
+^<<v28-27-24,24>>^ mas o revelar os segredos do amigo tira toda a esperança a uma alma infeliz.
+
+[[v28-27-25]]
+
+^<<v28-27-25,25>>^ O que pisca os olhos forja maus desígnios, e ninguém o pode afastar de si.
+
+[[v28-27-26]]
+
+^<<v28-27-26,26>>^ Na tua presença falará com doçura, admirará o que tu disseres, mas depois mudará de linguagem e armará laços às tuas palavras.
+
+[[v28-27-27]]
+
+^<<v28-27-27,27>>^ Muitas coisas aborreço, mas nenhuma como um tal homem; o Senhor o aborrece também.
+
+[[v28-27-28]]
+
+^<<v28-27-28,28>>^ Quando alguém lança uma pedra ao alto, ela cairá sobre a sua cabeça; assim a ferida traiçoeira abrirá feridas no traidor.
+
+[[v28-27-29]]
+
+^<<v28-27-29,29>>^ O que abre a cova, cairá nela; o que põe uma pedra no caminho para tropeço do próximo, tropeçará nela; o que arma um laço a outrem, nele perecerá.
+
+[[v28-27-30]]
+
+^<<v28-27-30,30>>^ O desígnio perverso recairá sobre o que o forja, que não saberá donde lhe vem o mal.
+
+[[v28-27-31]]
+
+^<<v28-27-31,31>>^ O escárnio e o ultraje são próprios dos soberbos, e a vingança, como um leão, armar-lhe-á ciladas.
+
+[[v28-27-32]]
+
+^<<v28-27-32,32>>^ Aqueles que se alegram com a queda dos justos, perecerão no laço, e a dor os consumirá antes da sua morte.
+
+[[v28-27-33]]
+
+^<<v28-27-33,33>>^ A ira e o furor são duas coisas execráveis; o pecador as terá em si mesmo.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-026.adoc#v28-26-0[&#60; Capítulo Anterior] | <<v28-27-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-028.adoc#v28-28-0[Próximo Capítulo &#62;]

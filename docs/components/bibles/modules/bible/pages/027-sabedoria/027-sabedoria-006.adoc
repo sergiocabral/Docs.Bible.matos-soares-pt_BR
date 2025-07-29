@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v27-6-0]]
+=== Sabedoria, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O sexto capítulo do Livro da Sabedoria é dedicado ao elogio da sabedoria e à exortação para que os governantes sejam justos e sábios. O autor enfatiza a importância da sabedoria como guia para a vida e como um tesouro mais valioso do que qualquer riqueza material. Ele exorta os governantes a buscar a sabedoria e a governar com justiça e misericórdia, para o bem do povo que lhes foi confiado.
+* Provérbios 2:6-7: "Porque o Senhor dá a sabedoria; da sua boca é que vem o conhecimento e o entendimento. Ele reserva a verdadeira sabedoria para os justos; ele é um escudo para quem anda com integridade." Este versículo reforça a importância da sabedoria como algo que vem de Deus e é reservado para os justos e íntegros.
+* Provérbios 3:13-14: "Feliz é o homem que encontra a sabedoria, e o homem que obtém o entendimento, pois o lucro da sabedoria é melhor do que o lucro da prata, e a sua renda é melhor do que o ouro mais fino." Este versículo destaca a superioridade da sabedoria em relação à riqueza material, comparando-a ao ouro mais fino.
+* Provérbios 8:14-16: "Comigo está o conselho e o bom senso; eu sou a inteligência; minha é a força. Por mim reinam os reis, e os governantes decretam o que é justo. Por mim governam príncipes e nobres, todos os juízes da terra." Aqui, a sabedoria é personificada como uma voz que traz conselho, bom senso e inteligência. Ela é vista como a fonte da autoridade dos governantes e dos juízes.
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é o entendimento." Este versículo enfatiza a relação entre a sabedoria e a reverência a Deus, que é visto como o princípio e a fonte da sabedoria.
+* Eclesiastes 2:26: "Pois a quem ele [Deus] agrada, ele dá sabedoria, conhecimento e felicidade; mas aos pecadores ele dá o trabalho de juntar e amontoar, a fim de dar aos que o agradam. Também isso é vaidade e correr atrás do vento." Este versículo destaca a ideia de que a sabedoria é um presente de Deus para aqueles que o agradam, enquanto a riqueza material é vista como uma vaidade sem sentido.
+****
+
+[[v27-6-1]]
+
+^<<v27-6-1,1>>^ A sabedoria vale mais do que a força, e o homem prudente mais do que o robusto.
+
+[[v27-6-2]]
+
+^<<v27-6-2,2>>^ Ouvi, pois, ó reis, e entendei, aprendei, ó vós que governais os confins da terra.
+
+[[v27-6-3]]
+
+^<<v27-6-3,3>>^ Dai ouvidos (às minhas palavras), vós que governais os povos, e que vos gloriais de terdes debaixo de vós muitas nações.
+
+[[v27-6-4]]
+
+^<<v27-6-4,4>>^ Com efeito, o poder foi-vos dado pelo Senhor, e a força pelo Altíssimo, o qual examinará as vossas obras, e esquadrinhará os vossos pensamentos:
+
+[[v27-6-5]]
+
+^<<v27-6-5,5>>^ De facto, sendo ministros do reino, não julgastes com rectidão, nem guardastes a lei nem andastes conforme a vontade de Deus.
+
+[[v27-6-6]]
+
+^<<v27-6-6,6>>^ Ele vos aparecerá de um modo temeroso, e repentinamente, porque aqueles que governam serão julgados com extremo rigor.
+
+[[v27-6-7]]
+
+^<<v27-6-7,7>>^ Aos pequenos se perdoa por compaixão, mas os poderosos serão poderosamente atormentados.
+
+[[v27-6-8]]
+
+^<<v27-6-8,8>>^ O Senhor de todos não teme ninguém, nem respeita a grandeza, seja de quem for, porque ele fez tanto o pequeno como o grande, e tem igualmente cuidado de todos.
+
+[[v27-6-9]]
+
+^<<v27-6-9,9>>^ Mas os mais fortes serão submetidos a um rigoroso julgamento.
+
+[[v27-6-10]]
+
+^<<v27-6-10,10>>^ A vós, pois, ó reis, é que são dirigidos estes meus discursos, para que aprendais a sabedoria e não caiais.
+
+[[v27-6-11]]
+
+^<<v27-6-11,11>>^ Porque aqueles que tiverem guardado santamente as coisas santas, serão santificados, e os que as tiverem aprendido, acharão com que responder.
+
+[[v27-6-12]]
+
+^<<v27-6-12,12>>^ Ansiai, pois, pelas minhas palavras, desejai-as, e tereis instrução.
+
+[[v27-6-13]]
+
+^<<v27-6-13,13>>^ Brilhante é a sabedoria, e nunca se empana; facilmente é vista por aqueles que a amam, e encontrada pelos que a buscam.
+
+[[v27-6-14]]
+
+^<<v27-6-14,14>>^ Ela antecipa-se a dar-se a conhecer aos que a desejam, de tal sorte que se lhes patenteia primeiro.
+
+[[v27-6-15]]
+
+^<<v27-6-15,15>>^ Aquele que se levanta de manhã cedo para a possuir não terá trabalho, porque a encontrará sentada à sua porta.
+
+[[v27-6-16]]
+
+^<<v27-6-16,16>>^ Pensar na sabedoria é prudência consumada; e aquele que velar por causa dela depressa estará livre de cuidados.
+
+[[v27-6-17]]
+
+^<<v27-6-17,17>>^ Porque ela mesma anda por todas as partes, buscando os que são dignos dela, e amigavelmente se lhes mostra nos caminhos, e em todos os seus pensamentos se faz encontradiça com eles.
+
+[[v27-6-18]]
+
+^<<v27-6-18,18>>^ O principio da sabedoria é um desejo sincero da instrução, (ver nota)
+
+[[v27-6-19]]
+
+^<<v27-6-19,19>>^ e o cuidado da instrução (implica) amor (por ela); ora o amor é a observância das suas leis; a observância destas leis é a garantia da imortalidade (com Deus);
+
+[[v27-6-20]]
+
+^<<v27-6-20,20>>^ (ora) a imortalidade dá um lugar junto de Deus:
+
+[[v27-6-21]]
+
+^<<v27-6-21,21>>^ desta forma o desejo da sabedoria conduz à realeza.
+
+[[v27-6-22]]
+
+^<<v27-6-22,22>>^ Se vós, pois, ó reis dos povos, vos comprazeis nos tronos e nos ceptros, honrai a sabedoria, para reinardes eternamente.
+
+[[v27-6-23]]
+
+^<<v27-6-23,23>>^ Amai a luz da sabedoria todos vós que presidis aos povos.
+
+[[v27-6-24]]
+
+^<<v27-6-24,24>>^ Eu vos direi o que é a sabedoria, e qual a sua origem, e não vos encobrirei os segredos (de Deus). Investigarei desde o princípio do seu nascimento, e porei às claras o seu conhecimento, e não me afastarei da verdade.
+
+[[v27-6-25]]
+
+^<<v27-6-25,25>>^ Não acompanharei com a inveja devoradora: ela nada tem de comum com a sabedoria.
+
+[[v27-6-26]]
+
+^<<v27-6-26,26>>^ A multidão dos sábios é a salvação do mundo, e um rei sábio a prosperidade do seu povo.
+
+[[v27-6-27]]
+
+^<<v27-6-27,27>>^ Recebei, pois, a instrução por meio das minhas palavras, e tirareis proveito disso.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-005.adoc#v27-5-0[&#60; Capítulo Anterior] | <<v27-6-0,Topo>> | xref:027-sabedoria/027-sabedoria-007.adoc#v27-7-0[Próximo Capítulo &#62;]

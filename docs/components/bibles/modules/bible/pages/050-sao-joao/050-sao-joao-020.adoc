@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v50-20-0]]
+=== São João, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 20 do Evangelho de João narra a ressurreição de Jesus e sua aparição aos discípulos. O tema central é a vitória de Jesus sobre a morte e a confirmação de sua divindade através de sua ressurreição. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* Marcos 16:6 - "Vocês estão procurando Jesus, o Nazareno, que foi crucificado. Ele ressuscitou! Não está aqui. Vejam o lugar onde o tinham posto." Esse versículo fala da ressurreição de Jesus, que é o tema central do capítulo 20 de João.
+* Romanos 6:9 - "Sabemos que Cristo, tendo sido ressuscitado dos mortos, já não morre; a morte não tem mais domínio sobre ele." Esse versículo reforça a vitória de Jesus sobre a morte e sua posição como Salvador.
+* 1 Coríntios 15:17 - "E, se Cristo não ressuscitou, é vã a nossa pregação, e vã é também a vossa fé." Esse versículo destaca a importância da ressurreição de Jesus como base da fé cristã.
+* Filipenses 3:10-11 - "Quero conhecer Cristo, o poder da sua ressurreição e a participação em seus sofrimentos, tornando-me como ele em sua morte, para que, de alguma forma, alcance a ressurreição dentre os mortos." Esse versículo destaca a importância da ressurreição de Jesus para a salvação e a busca pela vida eterna.
+* Apocalipse 1:18 - "Eu sou o que vivo; fui morto, mas eis que estou vivo pelos séculos dos séculos! E possuo as chaves da morte e do hades." Esse versículo reforça a vitória de Jesus sobre a morte e sua posição como Senhor da vida e da morte.
+****
+
+[[v50-20-1]]
+
+^<<v50-20-1,1>>^ No primeiro dia da semana, foi Maria Madalena ao sepulcro, de manhã, sendo ainda escuro, e viu a pedra tirada do sepulcro.
+
+[[v50-20-2]]
+
+^<<v50-20-2,2>>^ Correu, então, e foi ter com Simão Pedro e com o outro discípulo, a quem Jesus amava, e disse-lhes: "Levaram o Senhor do sepulcro, e não sabemos onde o puseram."
+
+[[v50-20-3]]
+
+^<<v50-20-3,3>>^ Partiu, pois, Pedro com o outro discípulo, e foram ao sepulcro.
+
+[[v50-20-4]]
+
+^<<v50-20-4,4>>^ Corriam ambos juntos, mas o outro discípulo corria mais do que Pedro, e chegou primeiro ao sepulcro.
+
+[[v50-20-5]]
+
+^<<v50-20-5,5>>^ Tendo-se inclinado, viu os lençóis postos no chão, mas não entrou.
+
+[[v50-20-6]]
+
+^<<v50-20-6,6>>^ Chegou depois Simão Pedro, que o seguia, entrou no sepulcro e viu os lençóis postos no chão,
+
+[[v50-20-7]]
+
+^<<v50-20-7,7>>^ e o sudário que estivera sobre a cabeça de Jesus, o qual não estava com os lençóis, mas dobrado num lugar à parte.
+
+[[v50-20-8]]
+
+^<<v50-20-8,8>>^ Então entrou também o outro discípulo, que tinha chegado primeiro ao sepulcro. Viu e creu.
+
+[[v50-20-9]]
+
+^<<v50-20-9,9>>^ Com efeito, ainda não entendiam a Escritura, segundo a qual ele devia ressuscitar dos mortos.
+
+[[v50-20-10]]
+
+^<<v50-20-10,10>>^ Depois os discípulos voltaram para sua casa.
+
+[[v50-20-11]]
+
+^<<v50-20-11,11>>^ Entretanto Maria (Madalena) conservava-se da parte de fora do sepulcro, chorando. Enquanto chorava, inclinou-se para o sepulcro
+
+[[v50-20-12]]
+
+^<<v50-20-12,12>>^ e viu dois anjos vestidos de branco, sentados no lugar onde fora posto o corpo de Jesus, um à cabeceira, outro aos pés.
+
+[[v50-20-13]]
+
+^<<v50-20-13,13>>^ Eles disseram-lhe; "Mulher, porque choras?" Respondeu-lhes: "Porque levaram o meu Senhor, e não sei onde o puseram."
+
+[[v50-20-14]]
+
+^<<v50-20-14,14>>^ Ditas estas palavras, voltou-se para trás, e viu Jesus de pé, mas não sabia que era Jesus.
+
+[[v50-20-15]]
+
+^<<v50-20-15,15>>^ Jesus disse-lhe: "Mulher, por que choras? A quem procuras?" Ela, julgando que era o hortelão, disse-lhe: "Senhor se tu o levaste, dize-me onde o puseste; eu irei buscá-lo."
+
+[[v50-20-16]]
+
+^<<v50-20-16,16>>^ Jesus disse-lhe: "Maria!" Ela, voltando-se, disse-lhe em hebreu: Rabbouni! (que quer dizer Mestre).
+
+[[v50-20-17]]
+
+^<<v50-20-17,17>>^ Jesus disse-lhe: "Não me retenhas, porque ainda não subi para meu Pai; mas vai a meus irmãos e dize-lhes que subo para meu Pai, e vosso Pai, para o meu Deus, e vosso Deus."
+
+[[v50-20-18]]
+
+^<<v50-20-18,18>>^ Foi Maria Madalena dar a nova aos discípulos: "Vi o Senhor, e ele disse-me estas coisas."
+
+[[v50-20-19]]
+
+^<<v50-20-19,19>>^ Chegada a tarde daquele mesmo dia, que era o primeiro da semana, e estando fechadas as portas da casa onde os discípulos se achavam juntos, com medo dos Judeus, foi Jesus, pôs-se no meio deles e disse-lhes: "A paz seja convosco!"
+
+[[v50-20-20]]
+
+^<<v50-20-20,20>>^ Dito isto, mostrou-lhes as mãos e o lado. Os discípulos alegraram-se muito ao ver o Senhor.
+
+[[v50-20-21]]
+
+^<<v50-20-21,21>>^ Ele disse-lhes novamente: "A paz seja convosco. Assim como o Pai me enviou, também vos envio a vós."
+
+[[v50-20-22]]
+
+^<<v50-20-22,22>>^ Tendo proferido estas palavras, soprou sobre eles e disse-lhes: "Recebei o Espírito Santo. (ver nota)
+
+[[v50-20-23]]
+
+^<<v50-20-23,23>>^ Aqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; àqueles a quem os retiverdes, ser-lhes-ão retidos."
+
+[[v50-20-24]]
+
+^<<v50-20-24,24>>^ Tomé, um dos doze, chamado Dídimo, não estava com eles, quando Jesus veio.
+
+[[v50-20-25]]
+
+^<<v50-20-25,25>>^ Os outros discípulos disseram-lhe: "Nós vimos o Senhor." Mas ele respondeu-lhes: "Se não vir nas suas mãos a abertura dos cravos, se não meter o meu dedo no lugar dos cravos e não meter a minha mão no seu lado, não crerei."
+
+[[v50-20-26]]
+
+^<<v50-20-26,26>>^ Oito dias depois, estavam os discípulos outra vez em casa, e Tomé com eles. Veio Jesus, estando as portas fechadas, pôs-se no meio deles e disse: "A paz seja convosco."
+
+[[v50-20-27]]
+
+^<<v50-20-27,27>>^ Em seguida disse a Tomé: "Mete aqui o teu dedo, e vê as minhas mãos, aproxima também a tua mão e mete-a no meu lado; e não sejas incrédulo, mas fiel."
+
+[[v50-20-28]]
+
+^<<v50-20-28,28>>^ Tomé respondeu-lhe: "Meu Senhor e meu Deus!"
+
+[[v50-20-29]]
+
+^<<v50-20-29,29>>^ Jesus disse-lhe: "Tu creste, Tomé, porque me viste; bem-aventurados os que crerem sem ter visto."
+
+[[v50-20-30]]
+
+^<<v50-20-30,30>>^ Outros muitos prodígios fez ainda Jesus na presença de seus discípulos, que não foram escritos neste livro.
+
+[[v50-20-31]]
+
+^<<v50-20-31,31>>^ Estes, porém, foram escritos a fim de que acrediteis que Jesus é o Cristo, Filho de Deus, e para que, crendo, tenhais a vida em seu nome.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-019.adoc#v50-19-0[&#60; Capítulo Anterior] | <<v50-20-0,Topo>> | xref:050-sao-joao/050-sao-joao-021.adoc#v50-21-0[Próximo Capítulo &#62;]

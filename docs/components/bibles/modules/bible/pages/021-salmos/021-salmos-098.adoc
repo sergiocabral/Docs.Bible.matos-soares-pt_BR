@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-98-0]]
+=== Salmos, 98
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 98 é um hino de louvor que celebra a grandeza de Deus e a sua fidelidade para com o seu povo. Ele destaca o poder de Deus para trazer salvação e justiça para a Terra e incentiva todas as pessoas a adorá-lo com alegria e gratidão. Aqui estão cinco versículos relacionados aos temas do Salmo 98:
+* Salmos 96:1-2: "Cantem ao Senhor um novo cântico; cantem ao Senhor, todos os habitantes da terra! Cantem ao Senhor, bendigam o seu nome; cada dia proclamem a sua salvação". Este versículo é semelhante ao início do Salmo 98, pois incentiva todas as pessoas a cantar um novo cântico ao Senhor e louvá-lo pelo seu poder e graça.
+* Salmos 96:11-12: "Alegre-se o céu, regozije-se a terra; ressoe o mar e tudo o que nele existe. Exulte o campo e tudo o que nele há; cantem de alegria todas as árvores da floresta". Este versículo se relaciona com o Salmo 98 ao destacar a alegria e a celebração que devem acompanhar a adoração a Deus. Toda a criação é convidada a se regozijar e louvar ao Senhor.
+* Isaías 52:10: "O Senhor descobriu o seu santo braço diante dos olhos de todas as nações, e todos os confins da terra verão a salvação do nosso Deus". Este versículo se relaciona com o Salmo 98 ao destacar o poder de Deus para trazer salvação a todas as nações da Terra. Assim como no Salmo 98, Isaías enfatiza que Deus é digno de louvor e adoração por causa de sua salvação.
+* Salmos 97:10-11: "Vós que amais ao Senhor, odiai o mal; ele guarda a vida dos seus santos, ele os livra das mãos dos ímpios. A luz se semeia para o justo, e alegria para os retos de coração". Este versículo se relaciona com o Salmo 98 ao destacar o amor de Deus por aqueles que o seguem e sua fidelidade em protegê-los do mal. Assim como no Salmo 98, este versículo incentiva os fiéis a se regozijarem no Senhor e na sua justiça.
+* Salmos 100:1-2: "Aclamem com júbilo ao Senhor, todos os habitantes da terra! Prestem culto ao Senhor com alegria, apresentem-se diante dele com cânticos de júbilo!" Este versículo se relaciona com o Salmo 98 ao incentivar todas as pessoas a adorarem a Deus com alegria e júbilo. Ele destaca a importância de se aproximar do Senhor com um coração agradecido e cheio de louvor.
+****
+
+[[v21-98-1]]
+
+^<<v21-98-1,1>>^ O Senhor reina: tremem os povos; está sentado sobre querubins: agita-se a terra.
+
+[[v21-98-2]]
+
+^<<v21-98-2,2>>^ O Senhor é grande em Sião, excelso sobre todos os povos.
+
+[[v21-98-3]]
+
+^<<v21-98-3,3>>^ Celebrem o teu nome grande e tremendo: ele é santo.
+
+[[v21-98-4]]
+
+^<<v21-98-4,4>>^ Reina o poderoso que ama a justiça: tu estabeleceste as normas da rectidão, tu exerces em Jacob a justiça e o direito.
+
+[[v21-98-5]]
+
+^<<v21-98-5,5>>^ Exaltai o Senhor, nosso Deus, e prostrai-vos ante o escabelo de seus pés: ele é santo.
+
+[[v21-98-6]]
+
+^<<v21-98-6,6>>^ Moisés e Aarão contam-se entre os seus sacerdote e Samuel entre aqueles que invocavam o seu nome: invocavam o Senhor e ele os atendia.
+
+[[v21-98-7]]
+
+^<<v21-98-7,7>>^ Falava-lhes na coluna de nuvem: ouviam os seus mandamentos, o preceito que lhes tinha dado.
+
+[[v21-98-8]]
+
+^<<v21-98-8,8>>^ Senhor, Deus nosso, tu os ouviste, ó Deus, tu lhes foste propício, porém castigaste os seus delitos.
+
+[[v21-98-9]]
+
+^<<v21-98-9,9>>^ Exaltai o Senhor, nosso Deus, e prostrai-vos ante o seu monte santo, porque é santo, o Senhor, nosso Deus.
+
+'''
+
+xref:021-salmos/021-salmos-097.adoc#v21-97-0[&#60; Capítulo Anterior] | <<v21-98-0,Topo>> | xref:021-salmos/021-salmos-099.adoc#v21-99-0[Próximo Capítulo &#62;]

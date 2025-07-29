@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v7-1-0]]
+=== Juízes, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 do livro de Juízes descreve a conquista de várias cidades por parte das tribos de Israel após a morte de Josué. No entanto, o capítulo também destaca algumas falhas do povo de Israel, como a falta de completa destruição dos cananeus e a aliança com alguns deles. A seguir estão cinco versículos relacionados a esses temas:
+* Números 33:55: "Mas, se não expulsardes os habitantes da terra de diante de vós, sucederá que os que deixardes ficar serão como aguilhões nos vossos olhos e como espinhos nas vossas ilhargas, e vos apertarão na terra em que habitardes." Este versículo destaca a importância da completa expulsão dos povos pagãos da terra prometida, algo que Israel falhou em fazer completamente.
+* Josué 23:12-13: "Porque, se vos apartardes, e vos apegardes ao restante destas nações que ficaram entre vós, e se misturardes com elas, e vos unirdes com elas, e elas convosco, sabei com certeza que o Senhor, vosso Deus, não continuará a expulsar estas nações de diante de vós; antes, elas vos serão por laço e por rede, e por açoite às vossas ilhargas e por espinhos aos vossos olhos, até que pereçais desta boa terra que vos deu o Senhor, vosso Deus." Este versículo adverte contra a associação com os povos pagãos, uma prática que Israel falhou em evitar completamente.
+* Números 32:23: "Porém, se não fizerdes assim, eis que pecastes contra o Senhor; e sabei que o vosso pecado vos há de achar." Este versículo destaca a importância da obediência a Deus e as consequências da desobediência.
+* Êxodo 23:32-33: "Não farás aliança com eles, nem com os seus deuses. Não habitarão na tua terra, para que não te façam pecar contra mim; porque servirás a seus deuses, o que será para ti um laço." Este versículo adverte contra a aliança com povos pagãos, uma prática que Israel falhou em evitar completamente.
+* Josué 23:16: "Quando violardes a aliança do Senhor, vosso Deus, que ele vos ordenou, e fordes e servirdes a outros deuses, e a eles vos inclinardes, então a ira do Senhor se acenderá contra vós, e logo perecereis da boa terra que ele vos deu." Este versículo destaca as consequências da infidelidade a Deus, algo que o povo de Israel experimentou em diversas ocasiões.
+****
+
+[[v7-1-1]]
+
+^<<v7-1-1,1>>^ Depois da morte de Josué, os filhos de Israel consultaram o Senhor, dizendo: Quem marchará à nossa frente contra o Cananeu, e será o nosso chefe na guerra?
+
+[[v7-1-2]]
+
+^<<v7-1-2,2>>^ O Senhor disse: Marchará (a tribo de) Judá; pois eu entreguei o país nas suas mãos.
+
+[[v7-1-3]]
+
+^<<v7-1-3,3>>^ Judá disse a Simeão, seu irmão: Sobe comigo à terra, que me coube em sorte, e combate contra o Cananeu, a fim de que eu vá depois contigo à tua sorte. E Simeão foi com ele.
+
+[[v7-1-4]]
+
+^<<v7-1-4,4>>^ Judá subiu, e o Senhor entregou nas suas mãos o Cananeu e o Ferezeu; derrotaram em Bezec dez mil homens.
+
+[[v7-1-5]]
+
+^<<v7-1-5,5>>^ Encontraram Adonibezec, em Bezec, combateram contra ele, e derrotaram o Cananeu e o Ferezeu.
+
+[[v7-1-6]]
+
+^<<v7-1-6,6>>^ Adonibezec fugiu, mas, indo eles em seu alcance, apanharam-no e cortaram-Ihe as extremidades das mãos e dos pés. (ver nota)
+
+[[v7-1-7]]
+
+^<<v7-1-7,7>>^ Adonibezec disse: Sessenta reis, a quem tinham sido cortadas as extremidades das mãos e dos pés, apanhavam debaixo da minha mesa os sobejos da comida; como eu fiz, assim Deus me fez. E levaram-no a Jerusalém, e ali morreu.
+
+[[v7-1-8]]
+
+^<<v7-1-8,8>>^ Ora os filhos de Judá, tendo atacado Jerusalém, tomaram-na e passaram-na ao fio de espada, pondo fogo a toda a cidade.
+
+[[v7-1-9]]
+
+^<<v7-1-9,9>>^ Depois, baixando, combateram contra o Cananeu, que habitava nas montanhas, ao meio-dia, e nas planícies.
+
+[[v7-1-10]]
+
+^<<v7-1-10,10>>^ Judá (prosseguindo) marchou contra o Cananeu, que habitava em Hebron, (chamada antigamente Cariat-Arbe) derrotou Sesai, Aiman e Tolmai.
+
+[[v7-1-11]]
+
+^<<v7-1-11,11>>^ Partindo dali, foi contra os habitantes de Dabir, que antigamente se chamava Cariat-Sefer, isto é, cidade das letras.
+
+[[v7-1-12]]
+
+^<<v7-1-12,12>>^ Caleb disse: Eu darei minha filha Axa por mulher ao que tomar Cariat-Sefer e a destruir.
+
+[[v7-1-13]]
+
+^<<v7-1-13,13>>^ Tendo-a tomado Otoniel, filho de Cenez, irmão mais novo de Caleb, este deu-lhe a sua filha Axa por mulher.
+
+[[v7-1-14]]
+
+^<<v7-1-14,14>>^ Indo ela em viagem, sugeriu-Ihe seu marido que pedisse a seu pai um campo. Ao descer do jumento, Caleb disse-lhe: Que tens?
+
+[[v7-1-15]]
+
+^<<v7-1-15,15>>^ E ela respondeu: Dá-me a tua bênção; já que me deste uma terra seca, dá-me também uma que se possa regar. Caleb pois deu-Ihe uma terra, que se regava nos altos e nos baixos.
+
+[[v7-1-16]]
+
+^<<v7-1-16,16>>^ Os filhos do Cineu, parente de Moisés, saíram da cidade das palmeiras com os filhos de Judá para o deserto, que era da sorte desta tribo, ao meio-dia de Arad, e habitaram com eles.
+
+[[v7-1-17]]
+
+^<<v7-1-17,17>>^ Depois Judá marchou com Simeão, seu irmão, e juntos derrotaram o Cananeu, que habitava em Safat, e destruíram-no totalmente. E esta cidade foi chamada com o nome de Horma, isto é, anátema.
+
+[[v7-1-18]]
+
+^<<v7-1-18,18>>^ Judá tomou também Gaza com os seus arrabaldes, e Ascalon e Acaron, com os seus arrabaldes.
+
+[[v7-1-19]]
+
+^<<v7-1-19,19>>^ O Senhor foi com Judá, e este apoderou-se das montanhas, porém não pôde derrotar os que habitavam no vale, porque estes tinham carros de ferro.
+
+[[v7-1-20]]
+
+^<<v7-1-20,20>>^ Conforme o que Moisés tinha dito, deram Hebron a Caleb, que exterminou dela os três filhos de Enac.
+
+[[v7-1-21]]
+
+^<<v7-1-21,21>>^ Os filhos de Benjamim não destruíram o Jebuseu, que morava em Jerusalém, e o Jebuseu habitou em Jerusalém com os filhos de Benjamim, até ao dia de hoje.
+
+[[v7-1-22]]
+
+^<<v7-1-22,22>>^ A casa de José também marchou contra Betel, e o Senhor foi com eles.
+
+[[v7-1-23]]
+
+^<<v7-1-23,23>>^ Enquanto exploravam as cercanias da cidade, que antes se chamava Luza,
+
+[[v7-1-24]]
+
+^<<v7-1-24,24>>^ viram sair da cidade um homem, e disseram-lhe: Mostra-nos a entrada da cidade, que usaremos de misericórdia contigo.
+
+[[v7-1-25]]
+
+^<<v7-1-25,25>>^ Tendo-lha ele mostrado, passaram a fio de espada a cidade, mas deixaram livre aquele homem e toda a sua família.
+
+[[v7-1-26]]
+
+^<<v7-1-26,26>>^ Ele, posto em liberdade, foi para a terra de Hetim, fundou lá uma cidade e pôs-lhe o nome de Luza, a qual se chama assim até ao dia de hoje.
+
+[[v7-1-27]]
+
+^<<v7-1-27,27>>^ Também Manassés não destruiu Betsa nem Tanac com as suas aldeias, nem os habitantes de Dor, de Jeblaam e de Magedo, com as suas aldeias, e o Cananeu começou a habitar com eles.
+
+[[v7-1-28]]
+
+^<<v7-1-28,28>>^ Depois que Israel cobrou mais forças, fê-los tributários, e não os quis exterminar.
+
+[[v7-1-29]]
+
+^<<v7-1-29,29>>^ Efraim também não exterminou o Cananeu, que habitava em Gazer e que ai continuou a habitar, no meio de Efraim.
+
+[[v7-1-30]]
+
+^<<v7-1-30,30>>^ Zabulon não destruiu os habitantes de Cetron e de Naalol, e o Cananeu continuou a habitar no meio dele, embora seu tributário.
+
+[[v7-1-31]]
+
+^<<v7-1-31,31>>^ Aser também não destruiu os habitantes de Aço, de Sidónia, de Aalab, de Acazib, de Helba, de Afec e de Roob,
+
+[[v7-1-32]]
+
+^<<v7-1-32,32>>^ antes morou no meio dos Cananeus, habitantes daquela terra, e não os exterminou.
+
+[[v7-1-33]]
+
+^<<v7-1-33,33>>^ Neftali também não destruiu os habitantes de Betsames, e de Betanat, mas morou entre os Cananeus, habitantes daquela terra, e os Betsamitas e os Betanitas lhe foram tributários.
+
+[[v7-1-34]]
+
+^<<v7-1-34,34>>^ O Amorreu encerrou os filhos de Dan no monte, e não os deixou descer para as planícies.
+
+[[v7-1-35]]
+
+^<<v7-1-35,35>>^ O Amorreu persistiu em habitar no monte Hares, que quer dizer monte de argila, em Ajalon e em Salebim, mas a mão da casa de José carregou sobre ele e tornou-o seu tributário.
+
+[[v7-1-36]]
+
+^<<v7-1-36,36>>^ Os limites do Amorreu eram desde a subida do Escorpião, e desde Sela para cima.
+
+'''
+
+xref:006-josue/006-josue-024.adoc#v6-24-0[&#60; Capítulo Anterior] | <<v7-1-0,Topo>> | xref:007-juizes/007-juizes-002.adoc#v7-2-0[Próximo Capítulo &#62;]

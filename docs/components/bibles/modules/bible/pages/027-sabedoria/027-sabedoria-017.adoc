@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v27-17-0]]
+=== Sabedoria, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 17 do livro de Sabedoria aborda o tema do medo e do terror noturno que podem assombrar as pessoas durante o sono. O autor apresenta como esses medos são fruto da imaginação humana e como é possível superá-los com a ajuda da razão e da confiança em Deus. A seguir, estão cinco versículos relacionados com esses temas:
+* Salmos 34:5: "Busquei o Senhor, e ele me acolheu; livrou-me de todos os meus temores." Este versículo fala da importância de buscar a Deus para encontrar conforto e libertação do medo.
+* Isaías 41:10: "Não tenha medo, pois estou com você; não tenha medo, pois sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa." Este versículo mostra como a presença de Deus pode ser uma fonte de força e coragem para superar o medo.
+* Mateus 6:34: "Portanto, não se preocupem com o amanhã, pois o amanhã trará suas próprias preocupações. Basta a cada dia o seu próprio mal." Este versículo fala da importância de viver o presente sem se preocupar excessivamente com o futuro, o que pode gerar medo e ansiedade.
+* 2 Timóteo 1:7: "Pois Deus não nos deu um espírito de covardia, mas de poder, de amor e de equilíbrio." Este versículo destaca como a confiança em Deus pode nos ajudar a superar o medo e a encontrar equilíbrio emocional.
+* 1 João 4:18: "No amor não há medo; pelo contrário o perfeito amor expulsa o medo, porque o medo supõe castigo. Aquele que tem medo não está aperfeiçoado no amor." Este versículo mostra como o amor pode ser uma fonte de segurança e paz, ajudando a superar o medo e a ansiedade.
+****
+
+[[v27-17-1]]
+
+^<<v27-17-1,1>>^ Grandes são, Senhor, e impenetráveis os teus juízos; por isso as almas sem instrução se desgarraram.
+
+[[v27-17-2]]
+
+^<<v27-17-2,2>>^ Os maus, julgando poder dominar o povo santo, prisioneiros das trevas e encadeados, por uma longa noite, jaziam encerrados sob os seus tectos, fugindo (tentando fugir) à (tua) eterna providência. (ver nota)
+
+[[v27-17-3]]
+
+^<<v27-17-3,3>>^ Quando eles julgavam estar escondidos, com os seus pecados secretos, sob o véu tenebroso do esquecimento, foram dispersados, horrendamente espavoridos e perturbados por espectros. (ver nota)
+
+[[v27-17-4]]
+
+^<<v27-17-4,4>>^ Nem a caverna, em que se tinham refugiado os guardava do temor: ruídos aterradores ressoavam em sua volta, e espectros melancólicos sinistramente lhes apareciam.
+
+[[v27-17-5]]
+
+^<<v27-17-5,5>>^ Não havia fogo, por mais ardente que fosse, capaz de lhes dar luz, nem as brilhantes chamas das estrelas podiam iluminar aquela horrorosa noite.
+
+[[v27-17-6]]
+
+^<<v27-17-6,6>>^ Só lhes aparecia um clarão repentino e temeroso; amedrontados por esta visão, cuja causa ignoravam, julgavam mais formidáveis (do que eram) tais aparições.
+
+[[v27-17-7]]
+
+^<<v27-17-7,7>>^ Então caíam por terra as ilusões das artes mágicas, e a sua sabedoria, pretensa sabedoria cobria-se de vergonhoso descrédito. (ver nota)
+
+[[v27-17-8]]
+
+^<<v27-17-8,8>>^ Os que prometiam banir os temores e as perturbações das almas desfalecidas, esses mesmos estavam deprimidos, cheios dum medo ridículo.
+
+[[v27-17-9]]
+
+^<<v27-17-9,9>>^ Ainda que nada de terrível os perturbasse, assustados com a passagem dos animais e com os silvos das serpentes, morriam tremendo de medo, e nem mesmo queriam ver o ar, que ninguém de modo algum pode evitar.
+
+[[v27-17-10]]
+
+^<<v27-17-10,10>>^ A maldade é medrosa e condena-se por seu próprio testemunho; oprimida pela consciência, supõe sempre o pior.
+
+[[v27-17-11]]
+
+^<<v27-17-11,11>>^ O temor não é outra coisa senão a privação dos socorros trazidos pela reflexão.
+
+[[v27-17-12]]
+
+^<<v27-17-12,12>>^ Quanto menor for, no fundo do coração, a esperança de auxílio, tanto maior o receio de ignorar a causa dos tormentos.
+
+[[v27-17-13]]
+
+^<<v27-17-13,13>>^ Aqueles, pois, que, nessa noite verdadeiramente impossibilitante, saída do mais baixo e profundo do orco, dormiam um mesmo sono,
+
+[[v27-17-14]]
+
+^<<v27-17-14,14>>^ umas vezes eram agitados por espectros aterradores, outras desmaiavam pelo desfalecimento do seu espírito, porque os sobressaltava um repentino e inesperado temor.
+
+[[v27-17-15]]
+
+^<<v27-17-15,15>>^ Depois disto, se algum deles, fosse quem fosse, caía sem força, ficava como preso e encerrado num cárcere sem ferros.
+
+[[v27-17-16]]
+
+^<<v27-17-16,16>>^ Tanto o camponês como o pastor, ou o que se ocupava nos trabalhos do campo, se eram assim surpreendidos, ficavam sujeitos a uma necessidade inevitável,
+
+[[v27-17-17]]
+
+^<<v27-17-17,17>>^ porque todos estavam ligados com uma mesma cadeia de trevas. Ou fosse o vento quando assoprava, ou o suave canto dos pássaros entre os espessos ramos de árvores, ou a violência da água, correndo precipitadamente,
+
+[[v27-17-18]]
+
+^<<v27-17-18,18>>^ ou o fragor das pedras que se despenhavam, ou a carreira invisível de animais que saltavam, ou o forte rugido das feras, ou o eco que reboava na concavidade dos montes, — tudo os fazia desfalecer de terror,
+
+[[v27-17-19]]
+
+^<<v27-17-19,19>>^ Entretanto todo o resto do mundo estava alumiado com uma luz clara, e ocupava-se nos seus trabalhos sem obstáculo algum.
+
+[[v27-17-20]]
+
+^<<v27-17-20,20>>^ Somente sobre eles pesava uma profunda noite, imagem das trevas que lhes estavam reservadas. Mas eram a si mesmos mais insuportáveis do que as próprias trevas.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-016.adoc#v27-16-0[&#60; Capítulo Anterior] | <<v27-17-0,Topo>> | xref:027-sabedoria/027-sabedoria-018.adoc#v27-18-0[Próximo Capítulo &#62;]

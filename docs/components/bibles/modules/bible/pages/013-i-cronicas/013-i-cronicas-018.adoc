@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v13-18-0]]
+=== I Crônicas, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 18 de 1 Crônicas relata as conquistas militares de Davi, que estabeleceu um grande império e expandiu as fronteiras de Israel. Davi derrotou os filisteus, os moabitas, os edomitas e outros povos, e estendeu o domínio de Israel até o rio Eufrates. Abaixo estão cinco versículos relacionados com temas abordados neste capítulo:
+* Salmos 18:39: "Porque cingiste de força a meu braço e fizeste abater debaixo de mim aqueles que contra mim se levantaram." Este salmo é um hino de Davi em que ele agradece a Deus por sua ajuda e proteção nas batalhas, o que se relaciona com as conquistas militares de Davi descritas em 1 Crônicas 18.
+* Salmos 144:1: "Bendito seja o Senhor, minha rocha, que adestra as minhas mãos para a peleja e os meus dedos para a guerra." Este salmo é uma oração de Davi em que ele pede a Deus por ajuda nas batalhas, o que se relaciona com as conquistas militares de Davi descritas em 1 Crônicas 18.
+* Salmos 60:12: "Com Deus faremos proezas, pois ele mesmo calcará aos pés os nossos adversários." Este salmo é um hino de Davi em que ele confia em Deus para a vitória nas batalhas, o que se relaciona com as conquistas militares de Davi descritas em 1 Crônicas 18.
+* Salmos 18:34: "Faz os meus pés como os das corças e me coloca em segurança nos meus lugares altos." Este versículo fala da habilidade de Deus em ajudar Davi a superar obstáculos e conquistar territórios elevados, o que se relaciona com as conquistas militares de Davi descritas em 1 Crônicas 18.
+* Salmos 44:6: "Pois eu não confio no meu arco, nem a minha espada me pode salvar." Este salmo fala da importância de confiar em Deus em vez de em armas e habilidades humanas, o que se relaciona com a confiança de Davi em Deus para a vitória nas batalhas descritas em 1 Crônicas 18.
+****
+
+[[v13-18-1]]
+
+^<<v13-18-1,1>>^ Depois disto, aconteceu que Davide derrotou os Filisteus e os humilhou, arrebatando às suas mãos Get e as cidades da sua dependência.
+
+[[v13-18-2]]
+
+^<<v13-18-2,2>>^ Derrotou também Moab, e os Moabitas ficaram sujeitos a Davide, pagando-lhe tributos.
+
+[[v13-18-3]]
+
+^<<v13-18-3,3>>^ Neste tempo Davide derrotou também Adarezer, rei de Soba, no país de Hemat, quando partiu para estender o seu império até ao rio Eufrates.
+
+[[v13-18-4]]
+
+^<<v13-18-4,4>>^ Davide tomou-lhe mil carros tirados a quatro cavalos e sete mil cavaleiros, e cortou os jarretes a todos os cavalos dos carros, excepto aos cavalos de cem carros, que reservou para si.
+
+[[v13-18-5]]
+
+^<<v13-18-5,5>>^ Sobrevindo os Sírios de Damasco em socorro de Adarezer, rei de Soba, Davide matou-lhes vinte e dois mil homens.
+
+[[v13-18-6]]
+
+^<<v13-18-6,6>>^ Pôs guarnição em Damasco, para que também tivesse sujeita a si a Síria e lhe fosse tributária. O Senhor ajudou-o em tudo aquilo que empreendeu.
+
+[[v13-18-7]]
+
+^<<v13-18-7,7>>^ Tomou também Davide os escudos de ouro, que tinham sido dos soldados de Aderezer, e levou-os para Jerusalém.
+
+[[v13-18-8]]
+
+^<<v13-18-8,8>>^ Tomou também de Tebat e de Cun, cidades do rei Adarezer, grande quantidade de bronze, com o qual Salomão fez o mar de bronze, e as colunas e os utensílios de bronze.
+
+[[v13-18-9]]
+
+^<<v13-18-9,9>>^ Ora Tou, rei de Hemat, tendo ouvido dizer que Davide tinha desfeito todo o exército de Adarezer, rei de Soba,
+
+[[v13-18-10]]
+
+^<<v13-18-10,10>>^ enviou Adorão, seu filho, ao rei Davide para lhe pedir a sua aliança e para lhe dar os parabéns, por ter desfeito e vencido Adarezer, porque Tou era inimigo de Adarezer.
+
+[[v13-18-11]]
+
+^<<v13-18-11,11>>^ Consagrou o rei Davide ao Senhor todos os vasos de ouro, de prata, e de bronze, (que Tou havia mandado) com a prata e ouro que tinha tomado a todos os povos, assim da Iduméa, de Moab e de Amon, como também dos Filisteus e dos Amalecitas,
+
+[[v13-18-12]]
+
+^<<v13-18-12,12>>^ Por outro lado Abisai, filho de Sarvia, derrotou dezoito mil Idumeus no vale das Salinas,
+
+[[v13-18-13]]
+
+^<<v13-18-13,13>>^ e pôs guarnições na Iduméa, para que a Iduméa ficasse sujeita a Davide. O Senhor salvou Davide em todas as expedições que fez.
+
+[[v13-18-14]]
+
+^<<v13-18-14,14>>^ Davide reinou sobre todo o Israel, e julgava e fazia justiça a todo o seu povo.
+
+[[v13-18-15]]
+
+^<<v13-18-15,15>>^ Joab, filho de Sarvin, era chefe dos exércitos; Josafat, filho de Ailud, arquivista;
+
+[[v13-18-16]]
+
+^<<v13-18-16,16>>^ Sadoc, filho de Aquitob, e Almelec, filho de Abiatar, eram sacerdotes; Susa era secretário;
+
+[[v13-18-17]]
+
+^<<v13-18-17,17>>^ Banaias, filho de Jojada, comandava as legiões dos Cereteus e dos Feleteus; e os filhos de Davide eram os primeiros ao lado do rei.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-017.adoc#v13-17-0[&#60; Capítulo Anterior] | <<v13-18-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-019.adoc#v13-19-0[Próximo Capítulo &#62;]

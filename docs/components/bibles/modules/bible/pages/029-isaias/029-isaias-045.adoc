@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v29-45-0]]
+=== Isaías, 45
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 45 fala sobre a soberania de Deus e como Ele é capaz de usar pessoas e nações para cumprir Seus propósitos. Abaixo estão cinco versículos de outros livros da Bíblia que estão relacionados com os temas abordados em Isaías 45.
+* Salmos 24:1: "Do Senhor é a terra e tudo o que nela existe, o mundo e os que nele vivem." Este versículo enfatiza a soberania de Deus sobre toda a criação, um tema semelhante ao encontrado em Isaías 45.
+* Atos 17:26: "De um só fez ele todos os povos, para que povoassem toda a terra, tendo determinado os tempos anteriormente estabelecidos e os lugares exatos em que deveriam habitar." Este versículo enfatiza como Deus é capaz de usar nações e povos para cumprir Seus propósitos, um tema presente em Isaías 45.
+* Romanos 11:33-34: "Ó profundidade da riqueza da sabedoria e do conhecimento de Deus! Quão insondáveis são os seus juízos e inescrutáveis os seus caminhos! Quem conheceu a mente do Senhor? Ou quem se tornou seu conselheiro?" Este versículo enfatiza a sabedoria e conhecimento insondáveis de Deus, um tema semelhante ao encontrado em Isaías 45.
+* 1 Coríntios 1:27: "Mas Deus escolheu o que para o mundo é loucura para envergonhar os sábios, e escolheu o que para o mundo é fraqueza para envergonhar o que é forte." Este versículo enfatiza como Deus usa coisas que são consideradas fracas ou tolas pelo mundo para cumprir Seus propósitos, um tema presente em Isaías 45.
+* Filipenses 2:9-11: "Por isso Deus o exaltou à mais alta posição e lhe deu o nome que está acima de todo nome, para que ao nome de Jesus se dobre todo joelho, no céu, na terra e debaixo da terra, e toda língua confesse que Jesus Cristo é o Senhor, para a glória de Deus Pai." Este versículo enfatiza a soberania e exaltação de Jesus Cristo, um tema semelhante ao encontrado em Isaías 45, onde Deus escolhe Ciro para cumprir Seus propósitos.
+****
+
+[[v29-45-1]]
+
+^<<v29-45-1,1>>^ Eis o que diz o Senhor a Ciro, seu ungido, a quem tomou pela mão, para derribar ante a sua face as nações, para desapertar o talabarte dos reis, para abrir diante dele as portas, sem que nenhuma lhe seja fechada.
+
+[[v29-45-2]]
+
+^<<v29-45-2,2>>^ Irei diante de ti, aplanarei os caminhos pedregosos, arrombarei as portas de bronze, quebrarei as trancas de ferro.
+
+[[v29-45-3]]
+
+^<<v29-45-3,3>>^ Dar-te-ei tesouros escondidos, riquezas aferrolhadas, a fim de que saibas que eu sou o Senhor, o Deus de Israel, que te chamo pelo teu nome.
+
+[[v29-45-4]]
+
+^<<v29-45-4,4>>^ Por amor de meu servo Jacob, e de Israel, meu escolhido, te chamei pelo teu nome; designei-te (para esta missão) antes que me conhecesses.
+
+[[v29-45-5]]
+
+^<<v29-45-5,5>>^ Eu sou o Senhor, e não há outro; fora de mim, não há Deus. Cingi-te, quando não me conhecias,
+
+[[v29-45-6]]
+
+^<<v29-45-6,6>>^ para que saibam (todos), desde o oriente ao poente, que nada há fora de mim. Eu sou o Senhor, não há outro.
+
+[[v29-45-7]]
+
+^<<v29-45-7,7>>^ Formo a luz e crio as trevas, faço a paz e mando o castigo (aos povos); sou eu, o Senhor, que faço todas estas coisas.
+
+[[v29-45-8]]
+
+^<<v29-45-8,8>>^ Derramai, ó céus, lá dessas alturas o vosso orvalho, e as nuvens façam chover a justiça! Abra-se a terra e brote a salvação; ao mesmo tempo faça germinar a justiça. Eu sou o Senhor que crio tudo isto.
+
+[[v29-45-9]]
+
+^<<v29-45-9,9>>^ Ai daquele que disputa contra o seu Criador (não sendo mais que um) vaso entre os vasos de terra. Porventura dirá o barro ao oficial que o maneja: Que fazes? A obra dirá ao oleiro: Não tens mãos?
+
+[[v29-45-10]]
+
+^<<v29-45-10,10>>^ Ai do que diz ao seu pai: Por que me geraste? E à sua mãe: Por que me deste à luz?
+
+[[v29-45-11]]
+
+^<<v29-45-11,11>>^ Eis o que diz o Senhor, o Santo de Israel, aquele que o formou: Ousais perguntar-me as coisas futuras, interrogar-me acerca dos meus filhos e da obra de minhas mãos? (ver nota)
+
+[[v29-45-12]]
+
+^<<v29-45-12,12>>^ Eu fiz a terra, e quem sobre ela criou o homem fui eu; as minhas mãos estenderam os céus, e a toda a sua milícia dou as minhas ordens.
+
+[[v29-45-13]]
+
+^<<v29-45-13,13>>^ Fui eu que o suscitei (a ele Ciro) para fazer justiça, e aplanarei todos os seus caminhos; ele reedificará a minha cidade e libertará os meus cativos, sem resgate nem presentes, diz o Senhor Deus dos exércitos.
+
+[[v29-45-14]]
+
+^<<v29-45-14,14>>^ Eis o que diz o Senhor: O trabalho do Egito, o tráfico da Etiópia e os de Sabaim, homens de grande estatura, passarão para ti, serão teus. Caminharão atrás pagãos, de ti, irão com algemas nas mãos, adorar-te-ão e far-te-ão as suas súplicas, dizendo: Só em ti está Deus, e fora de ti não há Deus.
+
+[[v29-45-15]]
+
+^<<v29-45-15,15>>^ Tu verdadeiramente és um Deus escondido, Deus de Israel, ó Salvador.
+
+[[v29-45-16]]
+
+^<<v29-45-16,16>>^ Todos ficam confundidos e envergonhados, todos se vão cobertos de opróbrio, os fabricantes de ídolos.
+
+[[v29-45-17]]
+
+^<<v29-45-17,17>>^ Israel recebeu do Senhor uma salvação eterna; vós (ó filhos de Jacob) não sereis confundidos, nem corareis de vergonha, pelos séculos dos séculos.
+
+[[v29-45-18]]
+
+^<<v29-45-18,18>>^ Porque eis o que diz o Senhor, que criou os céus, o mesmo Deus que formou a terra, que a acabou e consolidou, que não fez dela um caos, mas que a formou para que fosse habitada: Eu sou o Senhor, e não há outro.
+
+[[v29-45-19]]
+
+^<<v29-45-19,19>>^ Não tenho falado às ocultas nalgum lugar tenebroso da terra. Não disse à linhagem de Jacob: Buscai-me em vão. Eu sou o Senhor, que falo a verdade, que anuncio o que é recto.
+
+[[v29-45-20]]
+
+^<<v29-45-20,20>>^ Congregai-vos e vinde, aproximai-vos todos juntos, vós os que fostes salvos dentre as nações; insensatos se têm mostrado os que levam o seu ídolo de madeira, que dirigem as suas preces a um deus que não salva.
+
+[[v29-45-21]]
+
+^<<v29-45-21,21>>^ Falai, vinde, tomai conselho todos juntos. Quem anunciou estas coisas desde o princípio? Quem as predisse, há muito tempo? Porventura não fui eu, o Senhor? Não há outro Deus além de mim. Deus justo e salvador, não o há fora de mim.
+
+[[v29-45-22]]
+
+^<<v29-45-22,22>>^ Convertei-vos a mim, e sereis salvos, vós todos os povos da terra, porque eu sou Deus, e não há outro.
+
+[[v29-45-23]]
+
+^<<v29-45-23,23>>^ Jurei por mim mesmo; da minha boca sai a verdade; a minha palavra não será revogada: (ver nota)
+
+[[v29-45-24]]
+
+^<<v29-45-24,24>>^ Todo o joelho se dobrará diante de mim, e toda a língua jurará (pelo meu nome). (ver nota)
+
+[[v29-45-25]]
+
+^<<v29-45-25,25>>^ Dir-se-á: A justiça e a força residem no Senhor. A ele virão e serão confundidos todos os que se lhe opõem.
+
+[[v29-45-26]]
+
+^<<v29-45-26,26>>^ No Senhor será justificada e glorificada toda a descendência de Israel.
+
+'''
+
+xref:029-isaias/029-isaias-044.adoc#v29-44-0[&#60; Capítulo Anterior] | <<v29-45-0,Topo>> | xref:029-isaias/029-isaias-046.adoc#v29-46-0[Próximo Capítulo &#62;]

@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v6-23-0]]
+=== Josué, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 23 de Josué descreve o discurso final de Josué ao povo de Israel antes de sua morte. Ele lembra o povo da fidelidade de Deus em cumprir Suas promessas e os incentiva a permanecerem fiéis ao Senhor, obedecendo à Sua lei e evitando a idolatria. Josué adverte o povo sobre os perigos de se associar com as nações pagãs em sua volta, o que poderia levar a uma apostasia e consequente punição divina. A seguir estão cinco versículos relacionados a esses temas:
+* Deuteronômio 4:23-24: "Cuidai-vos, não vos esqueçais da aliança do Senhor, vosso Deus, que ele concluiu convosco, e não façais para vós mesmos um ídolo de qualquer forma, conforme o Senhor, vosso Deus, vos ordenou. Porque o Senhor, vosso Deus, é um fogo devorador, um Deus zeloso." Este versículo destaca a importância da fidelidade a Deus e a proibição da idolatria, algo que Josué também enfatizou em seu discurso.
+* Êxodo 23:32-33: "Não farás aliança com eles, nem com os seus deuses. Não habitarão na tua terra, para que não te façam pecar contra mim; porque servirás a seus deuses, o que será para ti um laço." Este versículo adverte contra a associação com as nações pagãs e destaca os perigos da apostasia.
+* Deuteronômio 7:2-4: "E quando o Senhor, teu Deus, tiver entregado estas nações nas tuas mãos, as exterminarás completamente. Não farás com elas aliança, nem terás piedade delas. Não farás casamento com elas, nem darás tuas filhas aos seus filhos, nem tomarás suas filhas para teus filhos. Porque eles desviariam teus filhos de mim, para que sirvam a outros deuses." Esse versículo é semelhante ao anterior, admoestando Israel a não fazer aliança com as nações pagãs.
+* Deuteronômio 28:15: "Mas, se não deres ouvidos à voz do Senhor, teu Deus, e não cuidares em cumprir todos os seus mandamentos e estatutos que hoje te ordeno, virão sobre ti todas estas maldições, e te alcançarão." Este versículo destaca a importância da obediência a Deus e as consequências da desobediência.
+* Josué 24:14-15: "Agora, pois, temei ao Senhor, e servi-o com sinceridade e com fidelidade. Tirai os deuses aos quais serviram vossos pais além do Eufrates e no Egito, e servi ao Senhor." Este versículo resume o apelo de Josué ao povo para que permaneçam fiéis a Deus e evitem a idolatria.
+****
+
+[[v6-23-1]]
+
+^<<v6-23-1,1>>^ Passado muito tempo depois que o Senhor tinha dado a paz a Israel, subjugadas todas as nações circunvizinhas, Josué, sendo já velho, de idade muito avançada,
+
+[[v6-23-2]]
+
+^<<v6-23-2,2>>^ chamou todo o Israel, os anciães, os chefes, os juízes e os oficiais, e disse-lhes: Eu estou velho, de idade muito avançada,
+
+[[v6-23-3]]
+
+^<<v6-23-3,3>>^ e vós vedes tudo o que o Senhor vosso Deus fez a todas as nações circunvizinhas, e como ele mesmo combateu por vós;
+
+[[v6-23-4]]
+
+^<<v6-23-4,4>>^ vedes que reparti entre vós por sorte toda a terra, desde a parte oriental do Jordão até ao Mar Grande, e, posto que restem ainda muitas nações (a vencer),
+
+[[v6-23-5]]
+
+^<<v6-23-5,5>>^ O Senhor vosso Deus as exterminará e as tirará da vossa vista, e vós possuireis o país, como ele vos prometeu.
+
+[[v6-23-6]]
+
+^<<v6-23-6,6>>^ Sòmente é preciso que sejais fortes e solícitos em observar todas as coisas que estão escritas no livro da lei de Moisés; não vos desvieis delas, nem para a direita, nem para a esquerda.
+
+[[v6-23-7]]
+
+^<<v6-23-7,7>>^ Não vos mistureis com esses povos que ficaram entre vós, não jureis pelo nome dos seus deuses, nem os sirvais, nem os adoreis,
+
+[[v6-23-8]]
+
+^<<v6-23-8,8>>^ mas permanecei unidos ao Senhor vosso Deus, como tendes feito até este dia.
+
+[[v6-23-9]]
+
+^<<v6-23-9,9>>^ Então o Senhor vosso Deus exterminará à vossa vista nações grandes e fortíssimas, e ninguém vos poderá resistir.
+
+[[v6-23-10]]
+
+^<<v6-23-10,10>>^ Um só de vós porá em fuga mil homens dos inimigos, porque o Senhor vosso Deus combaterá por vós, como prometeu.
+
+[[v6-23-11]]
+
+^<<v6-23-11,11>>^ Sòmente tende grandíssimo cuidado em amar o Senhor vosso Deus.
+
+[[v6-23-12]]
+
+^<<v6-23-12,12>>^ Se quiserdes seguir os erros destes povos, que habitam entre vós, e contrair com eles matrimônios, e estabelecer amizades,
+
+[[v6-23-13]]
+
+^<<v6-23-13,13>>^ sabei desde já que o Senhor vosso Deus não os exterminará diante de vós, mas serão para vós uma cova e um laço, um aguilhão nos vossos flancos, e espinhos nos vossos olhos, até que vos tire e vos extermine desta terra excelente que vos deu.
+
+[[v6-23-14]]
+
+^<<v6-23-14,14>>^ Eis que hoje entro no caminho de toda a terra. Reconhecei de todo o vosso coração que de todas as palavras que o Senhor prometeu cumprir em vosso favor nem uma só ficou sem efeito. (ver nota)
+
+[[v6-23-15]]
+
+^<<v6-23-15,15>>^ Ora, assim como ele cumpriu de facto as suas promessas, e tudo vos tem sucedido felizmente, assim também mandará sobre vós todos os males de que vos ameaçou, até que vos tire e vos extermine desta excelente terra que vos deu,
+
+[[v6-23-16]]
+
+^<<v6-23-16,16>>^ se violardes o pacto do Senhor vosso Deus, que ele fez convosco, se servides aos deuses estranhos e os adorardes; depressa e subitamente se levantará contra vós o furor do Senhor, e sereis tirados desta terra excelente que vos deu.
+
+'''
+
+xref:006-josue/006-josue-022.adoc#v6-22-0[&#60; Capítulo Anterior] | <<v6-23-0,Topo>> | xref:006-josue/006-josue-024.adoc#v6-24-0[Próximo Capítulo &#62;]

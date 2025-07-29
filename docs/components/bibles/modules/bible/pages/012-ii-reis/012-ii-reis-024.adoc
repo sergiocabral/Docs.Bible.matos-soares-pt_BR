@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v12-24-0]]
+=== II Reis, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 24 de 2 Reis relata a queda de Judá diante da Babilônia, incluindo a invasão do rei Nabucodonosor, o cerco de Jerusalém e o exílio do rei Joaquim e grande parte do povo de Judá. Para encontrar cinco versículos relacionados com os temas abordados nesse capítulo, vasculhei toda a Bíblia e selecionei:
+* Jeremias 25:9: "Eis que enviarei e tomarei todas as famílias do Norte, diz o Senhor, e a Nabucodonosor, rei da Babilônia, meu servo, e os trarei contra esta terra e contra os seus habitantes e contra todas estas nações em redor, e os destruirei totalmente e farei deles objeto de horror e de assobio, perpétuas ruínas." Esse versículo prediz a queda de Jerusalém e a invasão da Babilônia, demonstrando a fidelidade de Deus em cumprir suas promessas.
+* Jeremias 21:7: "Depois disto, diz o Senhor, entregarei Zedequias, rei de Judá, e seus servos, e o povo, e os que nesta cidade restarem da peste, da espada e da fome, na mão de Nabucodonosor, rei da Babilônia, na mão dos seus inimigos, na mão dos que buscam tirar-lhes a vida; e ele os ferirá a fio de espada, não os poupará, nem terá piedade, nem se compadecerá." Esse versículo indica a punição que seria imposta a Judá por sua infidelidade, incluindo o exílio e a morte de muitos de seus habitantes.
+* Lamentações 1:3: "Judá foi para o cativeiro por causa da aflição e da grande servidão; habita entre as nações, não acha descanso; todos os seus perseguidores a alcançam entre as suas angústias." Esse versículo descreve a situação de Judá após o exílio, vivendo como uma nação dispersa e oprimida entre outras nações.
+* Ezequiel 17:12: "Dize, pois, à casa rebelde: Não sabeis o que significam estas coisas? Dize: Eis que veio o rei da Babilônia a Jerusalém, e tomou o rei dela e os príncipes dela, e os levou consigo para Babilônia." Esse versículo faz referência ao exílio de Joaquim e dos príncipes de Judá para a Babilônia, enfatizando a justiça de Deus em punir a infidelidade do povo.
+* Salmos 137:1: "Junto aos rios da Babilônia, ali nos assentamos e choramos, quando nos lembramos de Sião." Esse versículo descreve a tristeza e a saudade do povo de Judá pelo lugar que lhes foi tirado e a necessidade de lembrar de Deus e de sua aliança mesmo em meio à adversidade.
+****
+
+[[v12-24-1]]
+
+^<<v12-24-1,1>>^ No tempo de Joaquim marchou Nabucodonosor, rei de Babilônia, contra Joaquim, que lhe ficou sujeito durante três anos. Depois revoltou-se contra ele.
+
+[[v12-24-2]]
+
+^<<v12-24-2,2>>^ O Senhor mandou contra ele (por meio de Nabucodonosor) guerrilheiros dos Caldeus, guerrilheiros da Síria, guerrilheiros de Moab e guerrilheiros dos filhos de Amon, e fê-los ir contra Judá para o extinguirem, segundo a palavra do Senhor, que tinha dito pelos profetas, seus servos.
+
+[[v12-24-3]]
+
+^<<v12-24-3,3>>^ Isto aconteceu em cumprimento da palavra do Senhor contra Judá, de o tirar da sua presença por causa de todos os crimes, que Manassés tinha cometido,
+
+[[v12-24-4]]
+
+^<<v12-24-4,4>>^ e por causa do sangue que ele derramou, tendo enchido Jerusalém de sangue de inocentes. Por isso o Senhor não quis mostrar-se propício.
+
+[[v12-24-5]]
+
+^<<v12-24-5,5>>^ O resto das acções de Joaquim, tudo o que ele fez, está escrito no livro das Crônicas dos reis de Judá. Joaquim adormeceu com seus pais,
+
+[[v12-24-6]]
+
+^<<v12-24-6,6>>^ e, em seu lugar, reinou seu filho Joaquim.
+
+[[v12-24-7]]
+
+^<<v12-24-7,7>>^ O rei do Egipto, daquele tempo em diante, não tentou mais sair do seu reino, porque o rei de Babilônia tinha levado tudo o que tinha sido do rei do Egipto, desde a torrente do Egipto até ao rio Eufrates.
+
+[[v12-24-8]]
+
+^<<v12-24-8,8>>^ Joaquim tinha dezoito anos, quando começou a reinar, e reinou três meses em Jerusalém. Sua mãe chamava-se Noesta, filha de Elnatan, de Jerusalém.
+
+[[v12-24-9]]
+
+^<<v12-24-9,9>>^ Ele fez o mal diante do Senhor segundo tudo o que seu pai tinha feito.
+
+[[v12-24-10]]
+
+^<<v12-24-10,10>>^ Naquele tempo vieram os oficiais de Nabucodonosor, rei de Babilónia, contra Jerusalém, e a cidade foi bloqueada com trincheiras.
+
+[[v12-24-11]]
+
+^<<v12-24-11,11>>^ Depois, Nabucodonosor, rei de Babilónia, veio pessoalmente com a sua gente contra a cidade para a expugnar.
+
+[[v12-24-12]]
+
+^<<v12-24-12,12>>^ Joaquim, rei de Judá, foi ter com o rei de Babilônia, ele e sua mãe, seus servos, seus oficiais e seus eunucos. O rei de Babilônia recebeu-o no oitavo ano do seu reinado.
+
+[[v12-24-13]]
+
+^<<v12-24-13,13>>^ Levou dali todos os tesouros da casa do Senhor e todos os tesouros da casa real, e despedaçou todos os vasos de ouro que Salomão, rei de Israel, tinha feito para o templo do Senhor, conforme a palavra do Senhor.
+
+[[v12-24-14]]
+
+^<<v12-24-14,14>>^ Levou para o cativeiro toda a Jerusalém, todos os chefes, todos os valentes do exército, ao todo dez mil, e todos os artistas e ferreiros; não ficou nada, à excepção dos pobres, dentre o povo do país.
+
+[[v12-24-15]]
+
+^<<v12-24-15,15>>^ Deportou também para Babilônia Joaquim, a mãe do rei, as mulheres do rei e os seus eunucos, e levou cativos de Jerusalém para Babilônia todos os grandes do país.
+
+[[v12-24-16]]
+
+^<<v12-24-16,16>>^ Todos os homens robustos, em número de sete mil, os artistas e ferreiros, em número de mil, todos os homens fortes e guerreiros, o rei de Babilônia levou-os cativos para a Babilônia.
+
+[[v12-24-17]]
+
+^<<v12-24-17,17>>^ Em lugar de Joaquim constituiu rei a Matanias, seu tio paterno, e pôs-lhe o nome de Sedecias.
+
+[[v12-24-18]]
+
+^<<v12-24-18,18>>^ Sedecias tinha vinte e um anos, quando começou a reinar, e reinou onze anos em Jerusalém. Sua mãe chamava-se Amital, filha de Jeremias, de Lobna.
+
+[[v12-24-19]]
+
+^<<v12-24-19,19>>^ Ele fez o mal diante do Senhor, segundo tudo o que tinha feito Joaquim.
+
+[[v12-24-20]]
+
+^<<v12-24-20,20>>^ A ira do Senhor crescia contra Jerusalém e contra Judá, até os rejeitar da sua presença. Sedecias revoltou-se contra o rei de Babilônia.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-023.adoc#v12-23-0[&#60; Capítulo Anterior] | <<v12-24-0,Topo>> | xref:012-ii-reis/012-ii-reis-025.adoc#v12-25-0[Próximo Capítulo &#62;]

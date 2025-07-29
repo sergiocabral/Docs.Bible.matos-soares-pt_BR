@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v35-6-0]]
+=== Oséias, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Oséias 6 fala sobre a natureza infiel e transgressora do povo de Israel, que volta para Deus apenas em momentos de desespero, mas rapidamente se desvia novamente. A seguir estão cinco versículos de outras partes da Bíblia que se relacionam com os temas abordados em Oséias 6.
+* Provérbios 21:3: "Praticar o que é justo e certo é mais aceitável ao Senhor do que oferecer sacrifícios." Este versículo destaca a importância da justiça e da retidão na vida de um crente, em vez de depender apenas de rituais religiosos externos.
+* Jeremias 7:9-10: "Você rouba, mata, comete adultério, jura falsamente e queima incenso a Baal e segue outros deuses que não conheceu, e depois vem diante de mim na casa que leva o meu nome e diz: ‘Estamos salvos’, apenas para continuar a fazer todas essas coisas más." Este trecho mostra como o povo de Israel na época de Jeremias tinha se desviado dos caminhos de Deus e confiava apenas na aparência externa de religiosidade.
+* Oséias 4:6: "O meu povo está sendo destruído, porque lhe falta o conhecimento." Este versículo destaca a importância do conhecimento e do entendimento das leis e dos caminhos de Deus para evitar a destruição.
+* Isaías 29:13: "Este povo se aproxima de mim com a boca e me honra com os lábios, mas o seu coração está longe de mim. A adoração que me prestam é feita apenas de regras ensinadas por homens." Este versículo mostra como a adoração e a devoção a Deus devem ser genuínas e vêm do coração, em vez de serem apenas rituais mecânicos e externos.
+* Ezequiel 33:31: "Eles vêm a você como se fossem um povo e se assentam diante de você como se fossem meu povo, ouvem suas palavras, mas não as colocam em prática. Com suas bocas eles falam amor, mas seus corações buscam apenas lucro." Este versículo destaca como o povo de Deus deve agir de acordo com as palavras de Deus e não apenas falar sobre amor e devoção.
+****
+
+[[v35-6-1]]
+
+^<<v35-6-1,1>>^ Eles, vendo-se na sua angústia, recorrerão a mim. Vinde (dirão), voltemos para o Senhor,
+
+[[v35-6-2]]
+
+^<<v35-6-2,2>>^ porque (assim, como) nos dilacerou, (também) nos sarará; ele nos feriu, ele nos curará.
+
+[[v35-6-3]]
+
+^<<v35-6-3,3>>^ Dar-nos-á novamente a vida em dois dias; ao terceiro dia levantar-nos-á, e viveremos na sua presença. Entraremos na ciência do Senhor, segui-lo-emos a fim de o conhecer. A sua vinda está preparada como a da aurora, e ele descerá sobre nós como a chuva, como a chuva da primavera que costuma vir sobre a terra.
+
+[[v35-6-4]]
+
+^<<v35-6-4,4>>^ Que te farei, Efraim? Que te farei, Judá? A vossa caridade é como uma nuvem da manhã, como o orvalho transitório da manhã.
+
+[[v35-6-5]]
+
+^<<v35-6-5,5>>^ Por isso é que os tratei duramente pelos profetas, que os matei pelas palavras da minha boca; os juízos proferidos contra ti, são como a luz que se levanta.
+
+[[v35-6-6]]
+
+^<<v35-6-6,6>>^ Porque o que eu quero é o amor, e não os sacrifícios, o conhecimento de Deus mais que os holocaustos. (ver nota)
+
+[[v35-6-7]]
+
+^<<v35-6-7,7>>^ Mas eles, como homens (inconstantes), violaram a aliança (que tinham feito comigo), atraiçoaram-me.
+
+[[v35-6-8]]
+
+^<<v35-6-8,8>>^ Galaad é (agora) uma cidade de malfeitores, toda inundada de sangue.
+
+[[v35-6-9]]
+
+^<<v35-6-9,9>>^ Como bandidos que assaltam viandantes, assim os sacerdotes no caminho de Siquém assassinam e cometem crimes.
+
+[[v35-6-10]]
+
+^<<v35-6-10,10>>^ Vi na casa de Israel coisas horríveis; ali se acham as prostituições de Efraim, ali se manchou Israel.
+
+[[v35-6-11]]
+
+^<<v35-6-11,11>>^ Mas para ti também, ó Judá, está preparada uma ceifa (de castigos), quando eu restaurar o meu povo.
+
+'''
+
+xref:035-oseias/035-oseias-005.adoc#v35-5-0[&#60; Capítulo Anterior] | <<v35-6-0,Topo>> | xref:035-oseias/035-oseias-007.adoc#v35-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v47-20-0]]
+=== São Mateus, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 20 de Mateus apresenta a parábola dos trabalhadores na vinha, na qual Jesus ensina sobre a justiça e a generosidade de Deus, que não faz acepção de pessoas. Também é relatado nesse capítulo o pedido feito pela mãe de Tiago e João para que seus filhos fossem colocados em posições de destaque no Reino dos Céus. A seguir estão cinco versículos relacionados com os temas abordados em Mateus 20:
+* Romanos 2:11: "Pois para com Deus não há acepção de pessoas." Esse versículo ressalta o mesmo princípio ensinado na parábola dos trabalhadores na vinha, de que Deus é justo e trata a todos com igualdade, independentemente de suas circunstâncias ou posições sociais.
+* Lucas 22:26: "Mas não será assim entre vós; pelo contrário, o maior entre vós seja como o menor; e quem governa seja como quem serve." Esse versículo fala sobre a natureza do Reino dos Céus, que é caracterizado pela humildade e pelo serviço, ao contrário da busca por posições de destaque.
+* Marcos 10:45: "Porque o Filho do Homem também não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos." Esse versículo destaca o exemplo de Cristo, que veio para servir, e não para ser servido, e mostra como essa atitude deve ser seguida pelos seus seguidores.
+* Filipenses 2:3: "Nada façais por partidarismo ou vanglória, mas por humildade, considerando cada um os outros superiores a si mesmo." Esse versículo enfatiza a importância da humildade e do serviço aos outros, sem buscar benefícios pessoais ou posições de destaque.
+* 1 Coríntios 12:12-13: "Porque, assim como o corpo é um e tem muitos membros, e todos os membros do corpo, embora muitos, constituem um só corpo, assim também é Cristo. Pois em um só Espírito fomos todos batizados em um corpo, quer judeus, quer gregos, quer escravos, quer livres; e a todos nós foi dado beber de um só Espírito." Esse versículo fala sobre a unidade do corpo de Cristo, em que todos os membros são importantes e devem trabalhar juntos em harmonia, sem competir uns com os outros.
+****
+
+[[v47-20-1]]
+
+^<<v47-20-1,1>>^ O reino dos céus é semelhante a um pai de família que, ao romper da manhã, saiu a contratar operários para sua vinha.
+
+[[v47-20-2]]
+
+^<<v47-20-2,2>>^ Tendo justado com os operários um dinheiro por dia, mandou-os para a sua vinha.
+
+[[v47-20-3]]
+
+^<<v47-20-3,3>>^ Tendo saído cerca da terceira hora, viu outros, que estavam na praça ociosos,
+
+[[v47-20-4]]
+
+^<<v47-20-4,4>>^ e disse-lhes: Ide vós também, para a minha vinha, e dar-vos-ei o que for justo.
+
+[[v47-20-5]]
+
+^<<v47-20-5,5>>^ Eles foram. Saiu outra vez cerca da hora sexta e da nona, e fez o mesmo.
+
+[[v47-20-6]]
+
+^<<v47-20-6,6>>^ Cerca da undécima, saiu, e encontrou outros que estavam sem fazer nada, e disse-Ihes: Porque estais aqui todo o dia sem trabalhar?
+
+[[v47-20-7]]
+
+^<<v47-20-7,7>>^ Eles responderam: Porque ninguém nos assalariou. Ele disse-lhes: Ide vós também para a minha vinha.
+
+[[v47-20-8]]
+
+^<<v47-20-8,8>>^ No fim da tarde o senhor da vinha disse ao seu mordomo: Chama os operários e paga-lhes o salário, começando pelos últimos até aos primeiros.
+
+[[v47-20-9]]
+
+^<<v47-20-9,9>>^ Tendo chegado os que tinham ido à hora undécima, recebeu cada um seu dinheiro.
+
+[[v47-20-10]]
+
+^<<v47-20-10,10>>^ Chegando também os primeiros, julgaram que haviam de receber mais; porém, também eles receberam um dinheiro cada um.
+
+[[v47-20-11]]
+
+^<<v47-20-11,11>>^ Mas, ao receberem, murmuravam contra o pai de família,
+
+[[v47-20-12]]
+
+^<<v47-20-12,12>>^ dizendo: Estes últimos trabalharam somente uma hora, e os igualaste connosco, que suportamos o peso do dia e do calor.
+
+[[v47-20-13]]
+
+^<<v47-20-13,13>>^ Porém, ele, respondendo a um deles, disse: Amigo, eu não te faço injustiça. Não ajustaste tu comigo um dinheiro?
+
+[[v47-20-14]]
+
+^<<v47-20-14,14>>^ Toma o que é teu, e vai-te. Eu quero dar também a este último tanto como a ti.
+
+[[v47-20-15]]
+
+^<<v47-20-15,15>>^ Ou não me é lícito fazer dos meus bens o que quero? Porventura vês com maus olhos que eu sou bom?
+
+[[v47-20-16]]
+
+^<<v47-20-16,16>>^ Assim os últimos são os primeiros, e os primeiros serão os últimos, porque são muitos os chamados, e poucos os escolhidos."
+
+[[v47-20-17]]
+
+^<<v47-20-17,17>>^ Subindo Jesus a Jerusalém, tomou de parte os doze discípulos, e disse-lhes pelo caminho:
+
+[[v47-20-18]]
+
+^<<v47-20-18,18>>^ "Eis que subimos para Jerusalém, e o Filho do homem será entregue aos príncipes dos sacerdotes e aos escribas, e o condenarão à morte,
+
+[[v47-20-19]]
+
+^<<v47-20-19,19>>^ e o entregarão aos gentios para ser escarnecido, açoutado e crucificado, e ao terceiro dia ressuscitará."
+
+[[v47-20-20]]
+
+^<<v47-20-20,20>>^ Então aproximou-se dele a mãe dos filhos de Zebedeu com seus filhos, prostrando-se, para lhe fazer um pedido.
+
+[[v47-20-21]]
+
+^<<v47-20-21,21>>^ Ele disse-lhe: "Que queres?" Ela respondeu: "Ordena que estes meus dois filhos se sentem no teu reino, um à tua direita e outro à tua esquerda."
+
+[[v47-20-22]]
+
+^<<v47-20-22,22>>^ Jesus disse: "Não sabeis o que pedis. Podeis vós beber o cálice que eu hei-de beber?" Eles responderam-lhe: "Podemos."
+
+[[v47-20-23]]
+
+^<<v47-20-23,23>>^ Disse-lhes: "Efectivamente habeis de beber o meu cálice, mas, quanto a estardes sentados à minha direita ou à esquerda, não pertence a mim conceder-vo-lo; será para aqueles, para quem está reservado por meu Pai."
+
+[[v47-20-24]]
+
+^<<v47-20-24,24>>^ Os outros dez, ouvindo isto, indignaram-se contra os dois irmãos.
+
+[[v47-20-25]]
+
+^<<v47-20-25,25>>^ Mas Jesus chamou-os e disse-Ihes: "Vós sabeis que os príncipes das nações as subjugam e que os grandes as governam com autoridade.
+
+[[v47-20-26]]
+
+^<<v47-20-26,26>>^ Não será assim entre vós, mas todo o que quiser ser entre vós o maior, seja vosso servo,
+
+[[v47-20-27]]
+
+^<<v47-20-27,27>>^ e o que quiser ser entre vós o primeiro, seja vosso escravo.
+
+[[v47-20-28]]
+
+^<<v47-20-28,28>>^ Assim como o Filho do homem não veio para ser servido, mas para servir e dar a sua vida para redenção de muitos."
+
+[[v47-20-29]]
+
+^<<v47-20-29,29>>^ Saindo ele de Jericó, seguiu-o muita gente. (ver nota)
+
+[[v47-20-30]]
+
+^<<v47-20-30,30>>^ Eis que dois cegos, que estavam sentados junto à estrada, ouviram dizer que Jesus passava, e puseram-se a gritar: "Senhor, Filho de David, tem piedade de nós!
+
+[[v47-20-31]]
+
+^<<v47-20-31,31>>^ O povo repreendia-os para que se calassem. Eles, porém, cada vez gritavam mais: "Senhor, Filho de David, tem piedade de nós!"
+
+[[v47-20-32]]
+
+^<<v47-20-32,32>>^ Jesus parou, chamou-os e disse: "Que quereis que eu vos faça?"
+
+[[v47-20-33]]
+
+^<<v47-20-33,33>>^ "Senhor, responderam eles, queremos que se abram os nossos olhos!"
+
+[[v47-20-34]]
+
+^<<v47-20-34,34>>^ Jesus, compadecido, tocou-lhes os olhos, e no mesmo instante recuperaram a vista e o seguiram.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-019.adoc#v47-19-0[&#60; Capítulo Anterior] | <<v47-20-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-021.adoc#v47-21-0[Próximo Capítulo &#62;]

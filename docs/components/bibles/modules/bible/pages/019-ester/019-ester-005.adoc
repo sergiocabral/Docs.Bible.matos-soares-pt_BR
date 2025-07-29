@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v19-5-0]]
+=== Ester, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ester 5 narra como a rainha Ester compareceu perante o rei Assuero em busca de ajuda para salvar seu povo da morte. Ela convida o rei para um banquete e promete revelar seu pedido no dia seguinte. Hamã, o inimigo dos judeus, fica feliz em ser convidado para o banquete, mas se enraivece ao ver Mordecai, que se recusa a se curvar diante dele. A seguir, são apresentados cinco versículos relacionados aos temas abordados em Ester 5:
+* Salmos 37:5: "Entrega o teu caminho ao Senhor, confia nele, e o mais ele fará." Ester coloca sua vida em risco ao comparecer perante o rei sem ser convidada, mas confia em Deus para ajudá-la a salvar seu povo. Esse versículo mostra a importância da confiança em Deus, mesmo em situações difíceis.
+* Provérbios 16:9: "O coração do homem traça o seu caminho, mas o Senhor lhe dirige os passos." Embora Ester tenha um plano para salvar seu povo, é Deus quem dirige os eventos em sua vida. Este versículo enfatiza a soberania de Deus sobre todas as coisas.
+* Êxodo 17:14: "Então disse o Senhor a Moisés: Escreve isto para memória num livro, e relata-o aos ouvidos de Josué; que eu hei de riscar totalmente a memória de Amaleque de debaixo do céu." Hamã é um descendente dos amalequitas, um povo que sempre foi inimigo dos judeus. Este versículo mostra como Deus sempre protegeu seu povo e puniu seus inimigos.
+* Isaías 54:17: "Toda ferramenta preparada contra ti não prosperará; e toda língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos do Senhor, e o seu direito que de mim procede, diz o Senhor." Hamã conspirou para destruir os judeus, mas Deus estava protegendo seu povo. Este versículo mostra a proteção que Deus dá aos seus servos.
+* Romanos 12:19: "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus, porque está escrito: Minha é a vingança; eu recompensarei, diz o Senhor." Embora Mordecai tenha sido maltratado por Hamã, ele não buscou vingança, mas deixou que Deus lidasse com seu inimigo. Esse versículo enfatiza a importância do perdão e da justiça de Deus.
+****
+
+[[v19-5-1]]
+
+^<<v19-5-1,1>>^ Ao terceiro dia Ester tomou os vestidos reais e apresentou-se no átrio interior do palácio real, defronte da câmara do rei. Ele eslava sentado sobre o seu trono, na sala do conselho real, voltado para a porta do palácio.
+
+[[v19-5-2]]
+
+^<<v19-5-2,2>>^ Tendo visto a rainha Ester de pé, olhou-a com agrado e estendeu para ela o ceptro de ouro, que tinha na mão. Ester, aproximando-se, beijou a ponta do ceptro.
+
+[[v19-5-3]]
+
+^<<v19-5-3,3>>^ O rei disse-lhe: Que queres tu, rainha Ester? Que petição é a tua? Ainda que me peças metade do reino, te será dada.
+
+[[v19-5-4]]
+
+^<<v19-5-4,4>>^ Ela respondeu: Se agrada ao rei, suplico que venhas hoje, juntamente com Aman, a um banquete que tenho preparado.
+
+[[v19-5-5]]
+
+^<<v19-5-5,5>>^ O rei, sem mais demora, disse: Chamai depressa Aman para que obedeça à vontade de Ester. O rei e Aman foram, pois, ao banquete que a rainha lhes tinha preparado.
+
+[[v19-5-6]]
+
+^<<v19-5-6,6>>^ O rei disse-lhe, enquanto se bebia o vinho: Que desejas tu que eu te dê? Que é o que me pedes? Ainda que me peças metade do meu reino, a alcançarás.
+
+[[v19-5-7]]
+
+^<<v19-5-7,7>>^ Ester respondeu-lhe: A minha petição e os meus rogos são estes:
+
+[[v19-5-8]]
+
+^<<v19-5-8,8>>^ Se alcancei graça diante do rei, se ao rei lhe apraz conceder-me o que peço e satisfazer a minha petição, venha o rei e Aman a (outro) banquete que lhes tenho preparado, e amanhã declararei ao rei a minha vontade.
+
+[[v19-5-9]]
+
+^<<v19-5-9,9>>^ Saiu, pois, Aman naquele dia alegre e contente. Mas, tendo visto Mardoqueu sentado diante da portado palácio, que não só não se tinha levantado para o cortejar, senão que nem sequer se tinha movido do seu assento, irritou-se em extremo.
+
+[[v19-5-10]]
+
+^<<v19-5-10,10>>^ Dissimulando a ira, voltou para sua casa, convocou os seus amigos e Zarés, sua mulher,
+
+[[v19-5-11]]
+
+^<<v19-5-11,11>>^ e declarou-lhes a grandeza das suas riquezas, o grande número dos seus filhos e a alta glória a que o rei o tinha elevado, colocando-o acima de todos os seus príncipes e cortesãos.
+
+[[v19-5-12]]
+
+^<<v19-5-12,12>>^ Depois disse: A rainha Ester a nenhum outro chamou para o banquete com o rei, senão a mim, e amanhã tenho de me sentar também à sua mesa com o rei.
+
+[[v19-5-13]]
+
+^<<v19-5-13,13>>^ Todavia, embora tenha tudo isto, nada me parece ter, enquanto vir o judeu Mardoqueu sentado diante das portas do palácio.
+
+[[v19-5-14]]
+
+^<<v19-5-14,14>>^ Zarés, sua mulher, e os outros responderam-Ihe: Manda levantar uma grande viga de cinqüenta côvados de altura, e diz amanhã, de manhã, ao rei que mande pendurar nela Mardoqueu. Assim irás alegre para o banquete com o rei. Agradou-lhe o conselho, e mandou que se preparasse o madeiro.
+
+'''
+
+xref:019-ester/019-ester-004.adoc#v19-4-0[&#60; Capítulo Anterior] | <<v19-5-0,Topo>> | xref:019-ester/019-ester-006.adoc#v19-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v11-2-0]]
+=== I Reis, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de 1 Reis trata da morte do rei Davi e a sucessão do trono por Salomão, seu filho. Nesse capítulo, Davi dá instruções a Salomão sobre como ele deve se comportar como rei e também ordena que alguns de seus inimigos sejam punidos. A seguir estão cinco versículos da Bíblia relacionados com os temas abordados em 1 Reis 2.
+* Salmos 72:1: "Ó Deus, dá ao rei os teus juízos, e a tua justiça ao filho do rei." Este salmo fala sobre a justiça que deve ser exercida pelos reis e como eles devem governar com equidade. Isso é relevante para o capítulo 2 de 1 Reis, onde Davi instrui Salomão a governar com justiça e a punir aqueles que merecem ser punidos.
+* Provérbios 20:28: "A misericórdia e a verdade guardam o rei, e com a misericórdia sustém ele o seu trono." Este provérbio fala sobre como a misericórdia e a verdade são importantes para um rei manter o poder e o respeito do povo. Isso se relaciona com o capítulo 2 de 1 Reis, onde Davi instrui Salomão a ser misericordioso com os seus aliados e fiéis servos.
+* Eclesiastes 8:2: "Guarda o mandamento do rei, e isso por causa do juramento de Deus." Este versículo fala sobre a importância de obedecer ao rei, que foi colocado no poder por Deus. Isso se relaciona com o capítulo 2 de 1 Reis, onde Salomão é colocado no trono por seu pai, Davi, e é ordenado a governar com sabedoria e justiça.
+* Isaías 11:3: "E deleitar-se-á no temor do Senhor; e não julgará segundo a vista dos seus olhos, nem repreenderá segundo o ouvir dos seus ouvidos." Este versículo fala sobre a importância de um líder julgar com sabedoria e justiça, em vez de confiar apenas em sua visão e audição. Isso se relaciona com o capítulo 2 de 1 Reis, onde Davi instrui Salomão a ser sábio em suas decisões e a governar com justiça.
+* Mateus 6:33: "Mas buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas." Este versículo fala sobre a importância de colocar Deus em primeiro lugar e buscar a justiça dele em vez de buscar nossos próprios desejos. Isso se relaciona com o capítulo 2 de 1 Reis, onde Salomão é instruído a obedecer aos mandamentos de Deus e a governar com justiça.
+****
+
+[[v11-2-1]]
+
+^<<v11-2-1,1>>^ Aproximando-se o dia da morte de Davide, deu ele estas Instruções a Salomão, seu filho, dizendo:
+
+[[v11-2-2]]
+
+^<<v11-2-2,2>>^ Eis que vou para o lugar onde vão parar todos os mortais; sê forte, e porta-te com o homem.
+
+[[v11-2-3]]
+
+^<<v11-2-3,3>>^ Observa tudo o que o Senhor teu Deus te mandou, andando pelos seus caminhos, guardando as suas cerimónias, os seus preceitos, as suas ordenações e as suas leis, conforme está escrito na lei de Moisés, para que sejas bem sucedido em tudo o que fizeres, em qualquer parte onde estejas,
+
+[[v11-2-4]]
+
+^<<v11-2-4,4>>^ de sorte que o Senhor confirme as suas palavras, ditas a meu respeito. Se os teus filhos vigiarem sobre os seus caminhos, e andarem diante de mim em verdade, de todo o seu coração e de toda a sua alma, terás sempre algum dos teus descendentes sentado no trono de Israel
+
+[[v11-2-5]]
+
+^<<v11-2-5,5>>^ Tu sabes também o que me fez Joab, filho de Sarvia, como ele procedeu com os dois generais do exército de Israel, Abner, filho de Ner, e Amasa, filho de Jeter, a quem matou, derramando sangue em tempo de paz, como se fosse na guerra, e manchando com o sangue da guerra o cinto que trazia sobre os seus rins, e os sapatos que tinha nos pés.
+
+[[v11-2-6]]
+
+^<<v11-2-6,6>>^ Farás, pois, conforme a tua sabedoria, e não permitirás que as suas cãs desçam em paz à sepultura (visto ser um homicida).
+
+[[v11-2-7]]
+
+^<<v11-2-7,7>>^ Pelo contrário, mostrarás o teu agradecimento aos filhos de Berzelai de Galaad, que comerão à tua mesa, porque me saíram ao encontro quando eu fugia diante de Absalão, teu irmão.
+
+[[v11-2-8]]
+
+^<<v11-2-8,8>>^ Tens também contigo a Semei de Gera, filho de Jemini de Baurim, que me amaldiçoou com uma péssima maldição, quando eu ia para o acampamento. Todavia, porque ele veio ao meu encontro, quando eu passava o Jordão, jurei-lhe pelo Senhor, dizendo: Não te matarei à espada. (ver nota)
+
+[[v11-2-9]]
+
+^<<v11-2-9,9>>^ Não deixes sem castigo o seu crime. És homem entendido para saberes como te hás-de haver com ele; farás baixar, com sangue, as suas cãs à sepultura.
+
+[[v11-2-10]]
+
+^<<v11-2-10,10>>^ Adormeceu, pois, Davide com seus pais, e foi sepultado na cidade de Davide.
+
+[[v11-2-11]]
+
+^<<v11-2-11,11>>^ O tempo que Davide reinou sobre Israel foi de quarenta anos; em Hebron reinou sete anos, em Jerusalém trinta e três.
+
+[[v11-2-12]]
+
+^<<v11-2-12,12>>^ Salomão tomou posse do trono de Davide, seu pai, e o seu reino consolidou-se sobremaneira.
+
+[[v11-2-13]]
+
+^<<v11-2-13,13>>^ Adonias, filho de Hagit, foi ter com Betsabé, mãe de Salomão. Ela disse-lhe: É porventura de paz a tua entrada? Ele respondeu-lhe: É de paz. (ver nota)
+
+[[v11-2-14]]
+
+^<<v11-2-14,14>>^ E acrescentou: Tenho uma palavra a dizer-te. Ela respondeu-lhe: Fala. Ele disse:
+
+[[v11-2-15]]
+
+^<<v11-2-15,15>>^ Tu sabes que o reino era meu, que todo o Israel me tinha escolhido de preferência para seu rei, mas o reino foi transferido e passou para meu irmão, porque o Senhor o destinou para ele.
+
+[[v11-2-16]]
+
+^<<v11-2-16,16>>^ Agora, pois, uma só coisa te peço; não me faças passar pela vergonha de ma recusares. Ela disse-lhe: Fala.
+
+[[v11-2-17]]
+
+^<<v11-2-17,17>>^ Adonias disse: Peço-te que digas a Salomão (visto que ele não pode negar-te nada) que me dê Abisag Sunamita por mulher.
+
+[[v11-2-18]]
+
+^<<v11-2-18,18>>^ Betsabé respondeu: Está bem, eu falarei por ti ao rei.
+
+[[v11-2-19]]
+
+^<<v11-2-19,19>>^ Foi, pois, Betsabé ter com o rei Salomão, para lhe falar em favor de Adonias. O rei levantou-se para a vir receber, saúdou-a com profunda reverência e sentou-se no seu trono e mandou colocar um trono para a mãe do rei, a qual se sentou à sua mão direita.
+
+[[v11-2-20]]
+
+^<<v11-2-20,20>>^ Ela disse-lhe: Eu só te peço uma pequena coisa, não me envergonhes com a repulsa. O rei disse-lhe: Pede, minha mãe, porque não é justo que vás descontente.
+
+[[v11-2-21]]
+
+^<<v11-2-21,21>>^ Disse Betsabé: Dê-se Abisag Sunamita por mulher a Adonias, teu irmão.
+
+[[v11-2-22]]
+
+^<<v11-2-22,22>>^ E o rei Salomão respondeu, e disse à sua mãe: Por que pedes tu Abisag Sunamita para Adonias? Pede também para ele o reino, porque ele é meu irmão mais velho, e tem por si o pontífice Abiatar, e Joab, filho de Sarvia.
+
+[[v11-2-23]]
+
+^<<v11-2-23,23>>^ Jurou então o rei Salomão pelo Senhor, dizendo: Deus me trate com todo o seu rigor, se não é verdade que Adonias por esta palavra falou contra a sua própria vida.
+
+[[v11-2-24]]
+
+^<<v11-2-24,24>>^ Juro pelo Senhor, que me estabeleceu solidamente no trono de Davide, meu pai, e que fundou a minha casa como tinha dito, que Adonias será hoje morto.
+
+[[v11-2-25]]
+
+^<<v11-2-25,25>>^ E o rei Salomão deu ordem a Banaias, filho de Jojada, para o matar. Assim morreu (Adonias).
+
+[[v11-2-26]]
+
+^<<v11-2-26,26>>^ Disse também o rei ao pontífice Abiatar: Vai para Anatot, para as tuas terras: na verdade és digno de morte, mas eu não te matarei hoje, porque levaste a arca do Senhor Deus diante de meu pai Davide, e acompanhaste meu pai em todos os trabalhos que padeceu.
+
+[[v11-2-27]]
+
+^<<v11-2-27,27>>^ Salomão desterrou Abiatar, para não ser mais pontífice do Senhor, a fim de se cumprir a palavra que o Senhor tinha proferido em Silo, contra a casa de Helí.
+
+[[v11-2-28]]
+
+^<<v11-2-28,28>>^ Quando chegou esta notícia a Joab, que tinha seguido o partido de Adonias, e não o de Salomão, fugiu Joab para o tabernáculo do Senhor, e agarrou-se ao canto do altar.
+
+[[v11-2-29]]
+
+^<<v11-2-29,29>>^ Foram dizer ao rei Salomão que Joab tinha fugido para o tabernáculo do Senhor, e estava junto do altar. Salomão mandou Banaias, filho de Jojada, dizendo: Vai, e mata-o.
+
+[[v11-2-30]]
+
+^<<v11-2-30,30>>^ E foi Banaias ao tabernáculo do Senhor, e disse a Joab: O rei manda isto; sai daqui. Ele respondeu: Não sairei, mas morrerei neste lugar. Deu Banaias parte disto ao rei, dizendo: Eis o que disse Joab, e o que me respondeu.
+
+[[v11-2-31]]
+
+^<<v11-2-31,31>>^ O rei disse-lhe: Faze como ele te disse, mata-o, sepulta-o, e com isto lavarás a mim e a casa de meu pai do sangue inocente, que Joab derramou.
+
+[[v11-2-32]]
+
+^<<v11-2-32,32>>^ O Senhor fará recair o seu sangue sobre a sua cabeça, porque assassinou dois homens justos, e melhores do que ele; ele matou à espada, sem meu pai Davide o saber, Abner, filho de Ner, general do exército de Israel, e Amasa, filho de Jeter, general do exército de Judá.
+
+[[v11-2-33]]
+
+^<<v11-2-33,33>>^ O sangue destes recairá para sempre sobre a cabeça de Joab, e sobre a cabeça da sua posteridade. A Davide, à sua descendência, à sua casa e ao seu trono, dê o Senhor paz para sempre.
+
+[[v11-2-34]]
+
+^<<v11-2-34,34>>^ Partiu, então, Banaias, filho de Jojada, e, arremetendo contra Joab, o matou. Joab foi sepultado em sua casa no deserto.
+
+[[v11-2-35]]
+
+^<<v11-2-35,35>>^ Em lugar de Joab constituiu o rei a Banaias, filho de Jojada, general do exército, e, em lugar de Abiatar, estabeleceu como pontífice a Sadoc.
+
+[[v11-2-36]]
+
+^<<v11-2-36,36>>^ Mandou o rei também chamar Semei e disse-lhe: Faze para ti uma casa em Jerusalém, e habita aí; dela não sairás andando duma parte para outra. (ver nota)
+
+[[v11-2-37]]
+
+^<<v11-2-37,37>>^ Em qualquer dia, pois, que daqui saíres e passares a torrente do Cedron, sabe que serás morto; o teu sangue recairá sobre a tu a cabeça.
+
+[[v11-2-38]]
+
+^<<v11-2-38,38>>^ Disse Semei ao rei: Justa ordem é esta. Como disse o rei, meu senhor, assim o executará o teu servo. Morou Semei em Jerusalém durante muito tempo.
+
+[[v11-2-39]]
+
+^<<v11-2-39,39>>^ Passados três anos, aconteceu que os servos de Semei fugiram para Aquis, filho de Maaca, rei de Get, e foram dizer a Semei que os servos tinham ido para Get.
+
+[[v11-2-40]]
+
+^<<v11-2-40,40>>^ Levantou-se Semei, aparelhou o seu jumento e foi ter com Aquis, a Get, em busca dos seus servos, e tornou-os a trazer de Get.
+
+[[v11-2-41]]
+
+^<<v11-2-41,41>>^ Disseram a Salomão que Semei tinha ido de Jerusalém a Get e que tinha já voltado.
+
+[[v11-2-42]]
+
+^<<v11-2-42,42>>^ O rei mandou-o chamar e disse-lhe: Não te fiz eu jurar pelo Senhor, não te avisei formalmente, dizendo-te que, em qualquer dia que saísses a uma ou outra parte, morrerias? E tu não respondeste: Justa ordem é esta, que acabo de ouvir?
+
+[[v11-2-43]]
+
+^<<v11-2-43,43>>^ Por que não guardaste tu o juramento do Senhor e a ordem que eu tinha dado?
+
+[[v11-2-44]]
+
+^<<v11-2-44,44>>^ O rei acrescentou: Tu sabes todo o mal de que a tua consciência te acusa de teres feito a Davide, meu pai: o Senhor fez recair a tua malícia sobre a tua cabeça.
+
+[[v11-2-45]]
+
+^<<v11-2-45,45>>^ O rei Salomão será abençoado, e o trono de Davide será para sempre estável diante do Senhor.
+
+[[v11-2-46]]
+
+^<<v11-2-46,46>>^ Deu o rei ordem a Banaias, filho de Jojada, o qual, tendo saido, feriu Semei, e ele morreu.
+
+'''
+
+xref:011-i-reis/011-i-reis-001.adoc#v11-1-0[&#60; Capítulo Anterior] | <<v11-2-0,Topo>> | xref:011-i-reis/011-i-reis-003.adoc#v11-3-0[Próximo Capítulo &#62;]

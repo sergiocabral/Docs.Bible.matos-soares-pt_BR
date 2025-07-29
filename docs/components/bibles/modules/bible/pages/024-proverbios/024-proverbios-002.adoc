@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v24-2-0]]
+=== Provérbios, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 2 é um capítulo que trata da sabedoria e da busca pela compreensão do conhecimento divino. Ele enfatiza a importância de buscar a sabedoria e os benefícios que ela traz, além de ressaltar a proteção que a sabedoria oferece contra os caminhos da maldade. Abaixo estão cinco versículos relacionados com os temas abordados em Provérbios 2:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento; mas os insensatos desprezam a sabedoria e a instrução." Esse versículo enfatiza a importância de temer a Deus e buscar a sabedoria que Ele oferece. Essa é a base para o conhecimento e compreensão do mundo.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Esse versículo destaca a importância de confiar em Deus e buscar sua orientação em vez de confiar apenas em nossa própria sabedoria.
+* Provérbios 4:7: "A sabedoria é a principal coisa; adquire, pois, a sabedoria, emprega tudo o que possuis na aquisição de entendimento." Esse versículo enfatiza a importância da sabedoria como algo fundamental para a vida, algo que devemos buscar acima de todas as outras coisas.
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é prudência." Esse versículo reforça a ideia de que o temor de Deus é o início da sabedoria e que o conhecimento divino é a base da prudência.
+* Provérbios 16:16: "Adquirir sabedoria é muito melhor do que o ouro; adquirir discernimento é preferível a escolher prata." Esse versículo destaca que a sabedoria e o discernimento são mais valiosos do que riquezas materiais, pois eles têm um valor duradouro e oferecem benefícios eternos.
+****
+
+[[v24-2-1]]
+
+^<<v24-2-1,1>>^ Meu filho, se receberes as minhas palavras, e tiveres os meus mandamentos dentro do teu coração,
+
+[[v24-2-2]]
+
+^<<v24-2-2,2>>^ de sorte que o teu ouvido esteja atento à voz da sabedoria, e o teu coração inclinado à prudência;
+
+[[v24-2-3]]
+
+^<<v24-2-3,3>>^ se tu invocares a sabedoria, se inclinares o teu coração para a prudência;
+
+[[v24-2-4]]
+
+^<<v24-2-4,4>>^ se a buscares como o dinheiro, e procurares desenterrá-la como se faz com os tesouros,
+
+[[v24-2-5]]
+
+^<<v24-2-5,5>>^ então compreenderás o temor do Senhor, e chegarás ao conhecimento de Deus.
+
+[[v24-2-6]]
+
+^<<v24-2-6,6>>^ Com efeito o Senhor é quem dá a sabedoria, e da sua boca procedem a prudência e a ciência.
+
+[[v24-2-7]]
+
+^<<v24-2-7,7>>^ Ele reserva a salvação para os justos, protege os que caminham rectamente, (ver nota)
+
+[[v24-2-8]]
+
+^<<v24-2-8,8>>^ sendo ele mesmo que defende o caminho da justiça e dirige os passos dos santos (durante esta vida).
+
+[[v24-2-9]]
+
+^<<v24-2-9,9>>^ Então conhecerás a justiça, a rectidão, a equidade, todos os bons caminhos.
+
+[[v24-2-10]]
+
+^<<v24-2-10,10>>^ Se a sabedoria entrar no teu coração, e a ciência agradar à tua alma,
+
+[[v24-2-11]]
+
+^<<v24-2-11,11>>^ a reflexão te guardará, e a prudência te conservará,
+
+[[v24-2-12]]
+
+^<<v24-2-12,12>>^ a fim de seres livre do caminho mau e do homem que fala coisas perversas,
+
+[[v24-2-13]]
+
+^<<v24-2-13,13>>^ dos que abandonam o caminho recto, e andam por caminhos tenebrosos,
+
+[[v24-2-14]]
+
+^<<v24-2-14,14>>^ que se alegram por terem feito o mal e se regozijam na perversidade,
+
+[[v24-2-15]]
+
+^<<v24-2-15,15>>^ cujos caminhos são tortuosos cujas vias são oblíquas.
+
+[[v24-2-16]]
+
+^<<v24-2-16,16>>^ Preservar-te-á da mulher alheia (ou dissoluta) da estranha que usa de palavras lúbricas,
+
+[[v24-2-17]]
+
+^<<v24-2-17,17>>^ que abandona o companheiro da sua juventude,
+
+[[v24-2-18]]
+
+^<<v24-2-18,18>>^ e esquece a aliança do seu Deus. A sua casa declina para a morte, as suas veredas para a morada dos mortos. (ver nota)
+
+[[v24-2-19]]
+
+^<<v24-2-19,19>>^ Todos os que têm trato com ela, não voltarão atrás, nem retomarão as veredas da vida. (ver nota)
+
+[[v24-2-20]]
+
+^<<v24-2-20,20>>^ Segue (meu filho) o bom caminho, anda nas vias dos justos
+
+[[v24-2-21]]
+
+^<<v24-2-21,21>>^ Porque os que são rectos, habitarão na terra, nela permanecerão os íntegros.
+
+[[v24-2-22]]
+
+^<<v24-2-22,22>>^ Porém os ímpios serão exterminados da terra, os que procedem iniquamente serão arrancados dela.
+
+'''
+
+xref:024-proverbios/024-proverbios-001.adoc#v24-1-0[&#60; Capítulo Anterior] | <<v24-2-0,Topo>> | xref:024-proverbios/024-proverbios-003.adoc#v24-3-0[Próximo Capítulo &#62;]

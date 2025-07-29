@@ -1,0 +1,299 @@
+include::./index.adoc[]
+
+[[v22-2-0]]
+=== I Macabeus, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 do livro de 1 Macabeus narra a revolta liderada por Matatias contra a opressão grega e a defesa da religião judaica. Matatias, um sacerdote idoso, recusa-se a obedecer às ordens do rei grego Antíoco IV Epifânio de oferecer um sacrifício aos deuses pagãos e mata um judeu que tenta fazê-lo. Matatias foge para as montanhas com seus cinco filhos e outros seguidores, e começa a organizar a resistência. Ele convoca todos os judeus fiéis a se juntarem a ele na luta pela liberdade e pela fé. Abaixo estão cinco versículos relacionados aos temas abordados em 1 Macabeus 2:
+* Deuteronômio 13:4 - "Andareis após o Senhor vosso Deus, e a ele temereis, e os seus mandamentos guardareis, e a sua voz ouvireis, e a ele servireis, e a ele vos achegareis." Esse versículo destaca a importância da obediência a Deus e da observância dos mandamentos em face da tentação de seguir outras crenças e práticas.
+* Salmos 119:89 - "Para sempre, ó Senhor, a tua palavra permanece no céu." Esse versículo destaca a importância da palavra de Deus e sua eternidade, incentivando a lealdade a ela em vez de ceder às pressões da cultura ou do governo.
+* Jeremias 9:23-24 - "Assim diz o Senhor: Não se glorie o sábio na sua sabedoria, nem se glorie o forte na sua força; não se glorie o rico nas suas riquezas. Mas quem se gloriar, glorie-se nisto: em me entender e me conhecer, que eu sou o Senhor, que faço beneficência, juízo e justiça na terra; porque destas coisas me agrado, diz o Senhor." Este versículo destaca a importância de confiar em Deus e na Sua justiça, em vez de depender da sabedoria, força ou riqueza.
+* Isaías 41:10 - "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo destaca a importância da confiança em Deus em tempos de dificuldade e incerteza.
+* 2 Timóteo 1:7 - "Porque Deus não nos deu o espírito de temor, mas de fortaleza, e de amor, e de moderação." Este versículo destaca a importância da força interior, do amor e da moderação que Deus concede a Seus seguidores, em vez do medo que pode levar à submissão aos opressores.
+****
+
+[[v22-2-1]]
+
+^<<v22-2-1,1>>^ Naqueles dias Matatias, filho de Joio, filho de Simeão, sacerdote, dentre os filhos de Joarib, saiu de Jerusalém e habitou sobre Modin.
+
+[[v22-2-2]]
+
+^<<v22-2-2,2>>^ Tinha cinco filhos: João, por sobrenome Gadis;
+
+[[v22-2-3]]
+
+^<<v22-2-3,3>>^ Simão, por sobrenome Tasi;
+
+[[v22-2-4]]
+
+^<<v22-2-4,4>>^ Judas, chamado Macabeu;
+
+[[v22-2-5]]
+
+^<<v22-2-5,5>>^ Eleázaro, por sobrenome Abaran; e Jónatas, por sobrenome Afos.
+
+[[v22-2-6]]
+
+^<<v22-2-6,6>>^ Vendo os males que se faziam entre o povo de Judá e em Jerusalém,
+
+[[v22-2-7]]
+
+^<<v22-2-7,7>>^ Matatias disse: Infeliz de mim! Para que nasci eu para ver a ruína do meu povo e a destruição da cidade santa, e estar sem fazer nada, quando é entregue nas mãos dos seus inimigos
+
+[[v22-2-8]]
+
+^<<v22-2-8,8>>^ e o santuário está entre as mãos dos estrangeiros? O seu templo é (tratado) como um homem infame.
+
+[[v22-2-9]]
+
+^<<v22-2-9,9>>^ Os vasos, que contribuíam para a sua glória, foram levados como cativos (para terras estrangeiras), as suas crianças foram trucidadas nas ruas, os seus jovens caíram mortos aos golpes da espada dos inimigos.
+
+[[v22-2-10]]
+
+^<<v22-2-10,10>>^ Que nação há que não tenha recebido alguma coisa deste (infeliz) reino, obtido parte dos seus despojos?
+
+[[v22-2-11]]
+
+^<<v22-2-11,11>>^ Toda a sua magnificência lhe foi roubada; ela, que era livre, está feita escrava.
+
+[[v22-2-12]]
+
+^<<v22-2-12,12>>^ Quanto tínhamos de santo, de ilustre e de glorioso, tudo foi destruído e profanado pelas nações.
+
+[[v22-2-13]]
+
+^<<v22-2-13,13>>^ De que nos serve pois o viver ainda?
+
+[[v22-2-14]]
+
+^<<v22-2-14,14>>^ Dito isto, rasgaram as suas vestes, Matatias e seus filhos, cobriram-se de cilícios e choraram amargamente.
+
+[[v22-2-15]]
+
+^<<v22-2-15,15>>^ Ao mesmo tempo chegaram ali os que o rei Antioco tinha enviado a constranger os da cidade de Modin a que apostatassem e sacrificassem (aos ídolos).
+
+[[v22-2-16]]
+
+^<<v22-2-16,16>>^ Muitos do povo de Israel, consentindo nisso, uniram-se a eles; porém Matatias e seus filhos perseveraram constantes.
+
+[[v22-2-17]]
+
+^<<v22-2-17,17>>^ Tomando a palavra os que tinham sido enviados por Antioco, disseram a Matatias: Tu és um notável, poderoso, respeitado nesta cidade, apoiado por filhos e irmãos.
+
+[[v22-2-18]]
+
+^<<v22-2-18,18>>^ Vem, pois, em primeiro lugar, e executa a ordem do rei, como o têm feito todas as nações, os homens de Judá e os que ficaram em Jerusalém; assim tu e os teus filhos sereis do número dos amigos do rei, ficareis cumulados de ouro, de prata e de muitas mercês.
+
+[[v22-2-19]]
+
+^<<v22-2-19,19>>^ Matatias respondeu em alta voz: Ainda que todas as nações pertencentes ao reino do rei lhe obedeçam, de tal sorte que cada um se aparte do Jugo da lei de seus pais e se submeta às ordens do rei,
+
+[[v22-2-20]]
+
+^<<v22-2-20,20>>^ eu, meus filhos e meus irmãos seremos fiéis à Aliança dos nossos pais.
+
+[[v22-2-21]]
+
+^<<v22-2-21,21>>^ Deus nos livre de abandonar a lei e os preceitos (que ele nos deu).
+
+[[v22-2-22]]
+
+^<<v22-2-22,22>>^ Não obedeceremos a estas ordens do rei, não nos desviaremos da nossa religião, nem para a direita, nem para a esquerda.
+
+[[v22-2-23]]
+
+^<<v22-2-23,23>>^ Apenas acabou de proferir tais palavras, apresentou-se à vista de todos um Judeu para sacrificar aos ídolos sobre o altar levantado na cidade de Modin, em observância à ordem do rei.
+
+[[v22-2-24]]
+
+^<<v22-2-24,24>>^ Viu-o Matatias e ficou abrasado de zelo: as suas entranhas comoveram-se, inflamou-se o seu furor segundo a lei, e, arremetendo contra ele, matou-o sobre o altar;
+
+[[v22-2-25]]
+
+^<<v22-2-25,25>>^ matou também ao mesmo tempo o oficial, que o rei Antíoco tinha enviado e que constrangia os Judeus a sacrificarem, e destruiu o altar.
+
+[[v22-2-26]]
+
+^<<v22-2-26,26>>^ Mostrou (assim) o seu zelo pela lei, como tinha feito Fineias, quando matou Zamri, filho de Salom.
+
+[[v22-2-27]]
+
+^<<v22-2-27,27>>^ Então Matatias gritou em alta voz na cidade, dizendo: Todo o que tem zelo pela lei e quer permanecer firme na aliança, siga-me.
+
+[[v22-2-28]]
+
+^<<v22-2-28,28>>^ E fugiu (imediatamente) com seus filhos para os montes, abandonando tudo o que tinham na cidade.
+
+[[v22-2-29]]
+
+^<<v22-2-29,29>>^ Então muitos que procuravam viver conforme a lei e a justiça, foram para o deserto
+
+[[v22-2-30]]
+
+^<<v22-2-30,30>>^ e lá estabeleceram a sua morada, assim eles como seus filhos, suas mulheres e seus gados, porque se viam inundados de angústia.
+
+[[v22-2-31]]
+
+^<<v22-2-31,31>>^ Foi anunciado aos oficiais do rei e ao exército que estava em Jerusalém, na cidade de Davide, que alguns homens, que tinham transgredido a ordem do rei, se haviam retirado a lugares escondidos do deserto, e que muitos os tinham seguido.
+
+[[v22-2-32]]
+
+^<<v22-2-32,32>>^ Imediatamente marcharam contra eles e prepararam-se para os atacar em dia de sábado.
+
+[[v22-2-33]]
+
+^<<v22-2-33,33>>^ Disseram-lhes: Chega o acontecido até agora! Saí, obedecei às ordens do rei, e vivereis.
+
+[[v22-2-34]]
+
+^<<v22-2-34,34>>^ Eles responderam: Não sairemos, nem obedeceremos à ordem do rei, pois seria profanar o dia de sábado.
+
+[[v22-2-35]]
+
+^<<v22-2-35,35>>^ Então (as tropas do rei) arrojaram-se contra eles;
+
+[[v22-2-36]]
+
+^<<v22-2-36,36>>^ eles não lhes resistiram, nem lhes atiraram uma só pedra, nem taparam as cavernas (onde estavam escondidos).
+
+[[v22-2-37]]
+
+^<<v22-2-37,37>>^ Morramos todos, disseram, na nossa simplicidade (ou, inocência), e o céu e a terra serão testemunhas de que nos fazeis morrer injustamente.
+
+[[v22-2-38]]
+
+^<<v22-2-38,38>>^ Acometidos, assim, em dia de sábado, foram mortos com suas mulheres, seus filhos e seus gados, em número de cerca de mil pessoas.
+
+[[v22-2-39]]
+
+^<<v22-2-39,39>>^ Souberam-no Matatias e os seus amigos, e choraram por eles amargamente.
+
+[[v22-2-40]]
+
+^<<v22-2-40,40>>^ Todavia disseram uns aos outros: Se todos fizermos como os nossos Irmãos, se não pelejarmos contra os gentios pelas nossas vidas e pelas nossas leis, em bem pouco tempo nos exterminarão da face da terra.
+
+[[v22-2-41]]
+
+^<<v22-2-41,41>>^ Tomaram, pois, naquele dia esta resolução: Se alguém, quem quer que seja, nos atacar em dia de sábado, pelejaremos contra ele, não nos deixaremos matar todos, como nossos Irmãos nos esconderijos.
+
+[[v22-2-42]]
+
+^<<v22-2-42,42>>^ Então juntou-se a eles o grupo dos Assideus, que eram dos mais valentes de Israel e todos zelosos guerra, pela lei. (ver nota)
+
+[[v22-2-43]]
+
+^<<v22-2-43,43>>^ Todos os que fugiam dos males que os ameaçavam, uniram-se a eles e serviram de reforço às suas tropas.
+
+[[v22-2-44]]
+
+^<<v22-2-44,44>>^ Formaram, pois, um exército e mataram os prevaricadores na sua ira, e os homens iníquos na sua indignação; os que escaparam fugiram para as nações, para se porem a salvo.
+
+[[v22-2-45]]
+
+^<<v22-2-45,45>>^ Foram por toda a parte, Matatias e seus amigos, destruíram os altares
+
+[[v22-2-46]]
+
+^<<v22-2-46,46>>^ e circuncidaram, à força todos os meninos que acharam por circuncidar em todo o país de Israel.
+
+[[v22-2-47]]
+
+^<<v22-2-47,47>>^ Perseguiram os (seus inimigos) filhos da soberba, e foi bem sucedida a empresa nas suas mãos.
+
+[[v22-2-48]]
+
+^<<v22-2-48,48>>^ Sustentaram a causa da lei contra o poder dos pagãos e contra o poder dos reis, e não permitiram ao pecador que prevalecesse.
+
+[[v22-2-49]]
+
+^<<v22-2-49,49>>^ Quando se aproximaram os dias da morte de Matatias, ele disse aos seus filhos: Agora domina a soberba, e é o tempo do castigo, da ruína e da Indignação.
+
+[[v22-2-50]]
+
+^<<v22-2-50,50>>^ Agora, pois, ó filhos, sede zeladores da lei e dai as vossas vidas pela aliança feita com vossos pais;
+
+[[v22-2-51]]
+
+^<<v22-2-51,51>>^ lembrai-vos das obras que fizeram vossos maiores, em seu tempo, e recebereis uma grande glória e um nome eterno.
+
+[[v22-2-52]]
+
+^<<v22-2-52,52>>^ Porventura Abraão não foi achado fiel na tentação, e não lhe foi isto contado como justiça?
+
+[[v22-2-53]]
+
+^<<v22-2-53,53>>^ José guardou os mandamentos (de Deus) no tempo da sua angústia, e veio a ser o Senhor do Egipto.
+
+[[v22-2-54]]
+
+^<<v22-2-54,54>>^ Fineias, nosso pai, abrasando-se em zelo (pela lei de Deus), recebeu a promessa dum sacerdócio eterno.
+
+[[v22-2-55]]
+
+^<<v22-2-55,55>>^ Josué, cumprindo a palavra (do Senhor), veio a ser juiz, de Israel.
+
+[[v22-2-56]]
+
+^<<v22-2-56,56>>^ Caleb, dando testemunho na assembleia do povo, recebeu uma herança.
+
+[[v22-2-57]]
+
+^<<v22-2-57,57>>^ Davide, pela sua brandura, conseguiu para sempre o trono do reino (de Israel).
+
+[[v22-2-58]]
+
+^<<v22-2-58,58>>^ Elias, ardendo em zelo pela lei, foi arrebatado ao céu.
+
+[[v22-2-59]]
+
+^<<v22-2-59,59>>^ Ananias, Azarias e Misael, crendo firmemente, foram salvos das chamas.
+
+[[v22-2-60]]
+
+^<<v22-2-60,60>>^ Daniel, na sua simplicidade, foi livre da boca dos leões.
+
+[[v22-2-61]]
+
+^<<v22-2-61,61>>^ Por este modo considerai vós tudo o que se tem passado de geração em geração; vereis que todos os que esperam em Deus não desfalecem,
+
+[[v22-2-62]]
+
+^<<v22-2-62,62>>^ Não temais, pois, as ameaças do homem pecador, porque toda a sua glória irá ter ao esterco e aos bichos;
+
+[[v22-2-63]]
+
+^<<v22-2-63,63>>^ hoje eleva-se, e amanhã desaparecerá, porque voltará ao seu pó, e todos os seus pensamentos se desvanecerão.
+
+[[v22-2-64]]
+
+^<<v22-2-64,64>>^ Vós, pois, filhos, armai-vos de valor e procedei com valentia em defesa da lei, porque por ela é que sereis gloriosos.
+
+[[v22-2-65]]
+
+^<<v22-2-65,65>>^ Aqui tendes Simão, vosso irmão; sei que ele é homem conselho; ouvi-o sempre, e ele será para vós um pai.
+
+[[v22-2-66]]
+
+^<<v22-2-66,66>>^ Judas Macabeu, de grande valor desde a sua mocidade, seja o general das vossas tropas e conduza a guerra contra as nações.
+
+[[v22-2-67]]
+
+^<<v22-2-67,67>>^ Juntareis a vós todos os observadores da lei e tomareis vingança dos agravos feitos ao vosso povo.
+
+[[v22-2-68]]
+
+^<<v22-2-68,68>>^ Pagai às nações o mal que elas têm feito e estai sempre atentos aos preceitos da lei.
+
+[[v22-2-69]]
+
+^<<v22-2-69,69>>^ Dito isto, abençoou-os e foi unir-se com seus pais.
+
+[[v22-2-70]]
+
+^<<v22-2-70,70>>^ Morreu no ano cento e quarenta e seis. Foi sepultado por seus filhos em Modin, no jazigo de seus pais, e todo o Israel o chorou amargamente. (ver nota)
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-001.adoc#v22-1-0[&#60; Capítulo Anterior] | <<v22-2-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-003.adoc#v22-3-0[Próximo Capítulo &#62;]

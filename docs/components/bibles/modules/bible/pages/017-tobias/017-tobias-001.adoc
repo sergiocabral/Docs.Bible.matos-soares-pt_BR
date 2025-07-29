@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v17-1-0]]
+=== Tobias, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Tobias 1 descreve a genealogia de Tobias e sua lealdade para com o rei assírio. Não há temas específicos neste capítulo que possam ser relacionados a outros versículos da Bíblia. No entanto, há uma menção de Sambalate, um governador samaritano que também é mencionado em Neemias como um oponente de Neemias e do povo judeu. Portanto, os versículos selecionados abaixo abordam a hostilidade entre os judeus e os samaritanos e a importância da lealdade a Deus.
+* Esdras 4:1-3: "Ora, os adversários de Judá e de Benjamim souberam que os filhos do cativeiro edificavam um templo ao SENHOR, Deus de Israel. E chegaram-se a Zorobabel, e aos chefes das casas paternas, e disseram-lhes: Edifiquemos conosco; porque, como vós, buscamos a vosso Deus; e a ele temos oferecido sacrifícios desde os dias de Esar-Hadom, rei da Assíria, que nos fez vir para cá. Mas Zorobabel, Jesua e os demais chefes das casas paternas de Israel disseram-lhes: Nada tendes conosco na edificação da casa do nosso Deus, mas nós sozinhos a edificaremos ao SENHOR, Deus de Israel, como nos ordenou o rei Ciro, rei da Pérsia." Esse versículo mostra a hostilidade entre os judeus e os samaritanos durante a reconstrução do templo em Jerusalém.
+* Neemias 2:19-20: "Ouvindo-o Sambalate, o horonita, e Tobias, o servo amonita, isso lhes desgostou, com grande desgosto, que alguém viesse procurar o bem dos filhos de Israel. E fui ter com eles, e disse-lhes: Vós vedes o mal em que estamos, que Jerusalém está assolada, e que as suas portas têm sido queimadas; vinde, pois, edifiquemos o muro de Jerusalém, para que não mais sejamos opróbrio." Esse versículo menciona Sambalate, um governador samaritano que é um oponente de Neemias e do povo judeu.
+* Salmos 33:12: "Bem-aventurada é a nação cujo Deus é o SENHOR, e o povo ao qual escolheu para sua herança." Esse versículo destaca a importância da lealdade a Deus.
+* Isaías 44:21: "Lembra-te destas coisas, ó Jacó, e tu, Israel, porque és meu servo: eu te formei, meu servo és, ó Israel, não me esquecerei de ti." Esse versículo enfatiza a fidelidade de Deus a seu povo escolhido.
+* Jeremias 29:13: "Buscar-me-eis, e me achareis, quando me buscardes de todo o vosso coração." Esse versículo mostra a importância da busca sincera de Deus e de seu propósito para nossas vidas.
+****
+
+[[v17-1-1]]
+
+^<<v17-1-1,1>>^ Tobias, da tribo e cidade de Neftali (que está situada na Galileia superior, acima de Naasson, por detrás do caminho que vai para o Ocidente, e tem à esquerda a cidade de Sefet),
+
+[[v17-1-2]]
+
+^<<v17-1-2,2>>^ foi levado cativo no tempo de Salmanasar, rei dos Assirios. Não obstante encontrar-se no cativeiro, não abandonou o caminho da verdade,
+
+[[v17-1-3]]
+
+^<<v17-1-3,3>>^ de sorte que, daquilo de que podia dispor, distribuía todos os dias pelos seus irmãos de raça, que estavam cativos com ele.
+
+[[v17-1-4]]
+
+^<<v17-1-4,4>>^ Embora fosse o mais jovem de todos os da tribo de Neftali, nada praticava de pueril em suas acções.
+
+[[v17-1-5]]
+
+^<<v17-1-5,5>>^ Além disso, quando todos iam adorar os bezerros de ouro que Jeroboão, rei de Israel, tinha feito, só ele fugia da companhia de todos
+
+[[v17-1-6]]
+
+^<<v17-1-6,6>>^ e ia a Jerusalém ao templo do Senhor, onde adorava o Senhor Deus de Israel, oferecendo fielmente todas as suas primícias e os seus dízimos.
+
+[[v17-1-7]]
+
+^<<v17-1-7,7>>^ De três em três anos distribuía aos prosélitos e aos estrangeiros toda a dízima (destinada a eles).
+
+[[v17-1-8]]
+
+^<<v17-1-8,8>>^ Estas e outras coisas semelhantes, segundo a Lei de Deus, observava desde menino.
+
+[[v17-1-9]]
+
+^<<v17-1-9,9>>^ Quando chegou à idade varonil, casou-se com Ana, mulher da sua tribo, e teve dela um filho, a quem pôs o seu nome,
+
+[[v17-1-10]]
+
+^<<v17-1-10,10>>^ ao qual ensinou desde a infância a temer a Deus e a abster-se de todo o pecado.
+
+[[v17-1-11]]
+
+^<<v17-1-11,11>>^ Portanto, quando foi levado cativo com sua mulher e filho, para junto da sua tribo, na cidade de Nínive,
+
+[[v17-1-12]]
+
+^<<v17-1-12,12>>^ ainda que todos comessem dos alimentos dos gentios, ele conservou pura a sua alma, não se manchou nunca com as suas comidas.
+
+[[v17-1-13]]
+
+^<<v17-1-13,13>>^ Porque ele de todo o seu coração se lembrou do Senhor, Deus concedeu-lhe graça diante do rei Salmanasar,
+
+[[v17-1-14]]
+
+^<<v17-1-14,14>>^ o qual lhe deu permissão de ir aonde quisesse, com liberdade para fazer tudo o que lhe aprouvesse.
+
+[[v17-1-15]]
+
+^<<v17-1-15,15>>^ Ia, pois, ter com todos os que estavam cativos, e dava-lhes conselhos salutares
+
+[[v17-1-16]]
+
+^<<v17-1-16,16>>^ Tendo, certo dia, ido a Ragés, cidade dos Medos, e levado dez talentos de prata, daquelas dádivas com que tinha sido presenteado pelo rei,
+
+[[v17-1-17]]
+
+^<<v17-1-17,17>>^ ao ver em necessidade, entre a muita gente da sua nação, a Gabelo, que era da sua tribo, deu-lhe a sobredita quantia de prata, mediante um recibo da sua própria mão.
+
+[[v17-1-18]]
+
+^<<v17-1-18,18>>^ Muito tempo depois, morto o rei Salmanasar, reinou, em seu lugar, Senaquerib, seu filho, o qual não podia ver os filhos de Israel.
+
+[[v17-1-19]]
+
+^<<v17-1-19,19>>^ Tobias ia visitar diariamente todos os da sua parentela, consolava-os, e distribuía por cada um, dos seus bens, segundo as suas posses.
+
+[[v17-1-20]]
+
+^<<v17-1-20,20>>^ Alimentava os famintos, vestia os nus e dava com solicitude sepultura aos que tinham falecido e aos que tinham sido mortos.
+
+[[v17-1-21]]
+
+^<<v17-1-21,21>>^ Finalmente, quando o rei Senaquerib se retirou, fugindo da Judeia à praga com que Deus o castigara pelas suas blasfémias, e, na sua ira, mandou matar muitos dos filhos de Israel, Tobias sepultava os seus cadáveres.
+
+[[v17-1-22]]
+
+^<<v17-1-22,22>>^ Quando o rei teve conhecimento disto, mandou que o matassem e confiscou todos os seus bens.
+
+[[v17-1-23]]
+
+^<<v17-1-23,23>>^ Tobias, porém, despojado de tudo, fugindo com seu filho e com sua mulher, escondeu-se, porque muitos lhe queriam bem.
+
+[[v17-1-24]]
+
+^<<v17-1-24,24>>^ Passados quarenta e cinco dias, assassinaram o rei seus próprios filhos.
+
+[[v17-1-25]]
+
+^<<v17-1-25,25>>^ Então Tobias voltou para sua casa, e todos os seus bens lhe foram restituídos.
+
+'''
+
+xref:016-neemias/016-neemias-013.adoc#v16-13-0[&#60; Capítulo Anterior] | <<v17-1-0,Topo>> | xref:017-tobias/017-tobias-002.adoc#v17-2-0[Próximo Capítulo &#62;]

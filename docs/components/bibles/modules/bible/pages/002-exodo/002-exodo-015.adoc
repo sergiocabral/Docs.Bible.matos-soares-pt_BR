@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v2-15-0]]
+=== Êxodo, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Êxodo 15 narra o cântico de Moisés e do povo de Israel após terem atravessado o Mar Vermelho e testemunhado a derrota dos egípcios. O capítulo celebra a vitória e o poder de Deus, bem como sua fidelidade em cumprir suas promessas ao povo de Israel. Aqui estão cinco versículos relacionados aos temas abordados em Êxodo 15:
+* Deuteronômio 31:6: "Sejam fortes e corajosos. Não tenham medo nem fiquem apavorados diante deles, pois o Senhor, o seu Deus, vai com vocês; nunca os deixará, nunca os abandonará". Este versículo fala da fidelidade de Deus em estar sempre presente com seu povo e encoraja os crentes a não terem medo diante dos desafios que enfrentam.
+* Salmo 118:14: "O Senhor é a minha força e o meu cântico; Ele é a minha salvação". Este verso ecoa a mensagem do cântico de Moisés em Êxodo 15, louvando a Deus como o salvador e protetor de seu povo.
+* Isaías 12:2: "Deus é a minha salvação; confiarei nele e não temerei. O Senhor, sim, o Senhor é a minha força e o meu cântico; ele tem sido a minha salvação". Este versículo enfatiza a importância da confiança em Deus e louva sua fidelidade em salvar seu povo.
+* João 16:33: "Eu lhes disse estas coisas para que em mim vocês tenham paz. Neste mundo vocês terão aflições; contudo, tenham ânimo! Eu venci o mundo". Este verso de Jesus encoraja os crentes a terem fé em meio às tribulações, lembrando-os de que Ele já venceu o mundo.
+* Apocalipse 15:3: "Grandes e maravilhosas são as tuas obras, Senhor Deus todo-poderoso. Justos e verdadeiros são os teus caminhos, ó Rei das nações". Este verso é um cântico de louvor a Deus pelos seus grandes feitos e sua fidelidade em cumprir suas promessas.
+****
+
+[[v2-15-1]]
+
+^<<v2-15-1,1>>^ Então cantou Moisés e os Filhos de Israel este cântico ao Senhor, dizendo: Cantemos ao Senhor, porque fez brilhar a sua glória, precipitou no mar o cavalo e o cavaleiro.
+
+[[v2-15-2]]
+
+^<<v2-15-2,2>>^ O Senhor é a minha fortaleza, para ele o meu louvor. Foi a minha salvação. Ele é o meu Deus, eu o glorificarei; o Deus de meu pai, eu o exaltarei.
+
+[[v2-15-3]]
+
+^<<v2-15-3,3>>^ O Senhor é como um guerreiro, o seu nome é Javé.
+
+[[v2-15-4]]
+
+^<<v2-15-4,4>>^ Precipitou no mar os carros de Faraó e o seu exército; os melhores dos seus capitães foram sepultados no mar Vermelho.
+
+[[v2-15-5]]
+
+^<<v2-15-5,5>>^ Os abismos os cobriram; foram para o fundo como uma pedra.
+
+[[v2-15-6]]
+
+^<<v2-15-6,6>>^ A tua dextra, Senhor, se assinalou pela fortaleza: a tua dextra, Senhor, destruiu o inimigo.
+
+[[v2-15-7]]
+
+^<<v2-15-7,7>>^ Na grandeza da tua glória, derrotas os teus adversários. Enviaste a tua ira, que os devorou como palha.
+
+[[v2-15-8]]
+
+^<<v2-15-8,8>>^ Ao sopro do teu furor, se amontoaram as águas; levantaram-se as ondas como uma muralha; solidificaram-se ás vagas no meio do mar.
+
+[[v2-15-9]]
+
+^<<v2-15-9,9>>^ O inimigo tinha dito: Eu irei no seu encalço e apanhá-los-ei, repartirei os despojos, neles se saciará a minha alma; desembainharei a espada, a minha mão os matará.
+
+[[v2-15-10]]
+
+^<<v2-15-10,10>>^ Soprou o teu espírito, e o mar os sepultou; afundaram-se como chumbo na vastidão das águas.
+
+[[v2-15-11]]
+
+^<<v2-15-11,11>>^ Quem, de entre os outros deuses, é igual a ti Senhor? Quem igual a ti, augusto em santidade, terrível em actos gloriosos, realizador de maravilhas?
+
+[[v2-15-12]]
+
+^<<v2-15-12,12>>^ Estendeste a tua mão, e a terra os engoliu.
+
+[[v2-15-13]]
+
+^<<v2-15-13,13>>^ Por tua graça guiáste O povo que libertastes Por teu poder b conduzes à tua Santa morada. (ver nota)
+
+[[v2-15-14]]
+
+^<<v2-15-14,14>>^ A esta nova, os povos, tremeram, o terror invadiu os Filisteus.
+
+[[v2-15-15]]
+
+^<<v2-15-15,15>>^ Ficaram aterrados os príncipes de Edom. A angústia invadiu os valentes de Moab: todos os cananeus ficaram consternados.
+
+[[v2-15-16]]
+
+^<<v2-15-16,16>>^ O terror e a angústia caíram sobre eles. Foram petrificados pelo poder do teu braço, até que passou o teu povo, ó Senhor, este teu povo que adquiriste.
+
+[[v2-15-17]]
+
+^<<v2-15-17,17>>^ Tu o introduziste, e o estabeleceste no monte da tua herança, no lugar que escolheste para tua habitação, ó Senhor, no santuário, Senhor, que tuas mãos fundaram.
+
+[[v2-15-18]]
+
+^<<v2-15-18,18>>^ O Senhor reinará eternamente.
+
+[[v2-15-19]]
+
+^<<v2-15-19,19>>^ Quando os cavalos de Faraó, com seus carros e cavaleiros, entraram no mar, o Senhor fez cair sobre eles as águas, enquanto os filhos de Israel caminharam a pé enxuto pelo meio do mar.
+
+[[v2-15-20]]
+
+^<<v2-15-20,20>>^ Então Maria, a profetisa, irmã de Aarão, tomou na mão um adufe, e saíram todas as mulheres dançando após ela com adufes.
+
+[[v2-15-21]]
+
+^<<v2-15-21,21>>^ Ela respondia aos filhos de Israel: Cantemos ao Senhor, porque fez brilhar a sua glória, precipitou no mar o cavalo e o cavaleiro.
+
+[[v2-15-22]]
+
+^<<v2-15-22,22>>^ Moisés fez partir Israel do mar Vermelho. Saíram para o deserto do Sur, e caminharam três dias no deserto sem encontrar água.
+
+[[v2-15-23]]
+
+^<<v2-15-23,23>>^ Chegaram a Mara, mas não podiam beber as águas de Mara, porque eram amargas: por isto se pôs àquele lugar o nome de Mara, isto é, amargura.
+
+[[v2-15-24]]
+
+^<<v2-15-24,24>>^ O povo murmurou contra Moisés, dizendo: Que havemos de beber?
+
+[[v2-15-25]]
+
+^<<v2-15-25,25>>^ Ele, porém, clamou ao Senhor, o qual lhe mostrou um pau; tendo-o lançado nas águas, elas se tornaram doces. Aí lhe deu (o Senhor) preceitos e ordens, e aí o pôs à prova.
+
+[[v2-15-26]]
+
+^<<v2-15-26,26>>^ Disse: Se obedeceres à voz do Senhor teu Deus, fizeres o que é recto diante dele, obedeceres aos seus mandamentos, guardares todos os seus preceitos, eu não mandarei sobre ti nenhuma das enfermidades que mandei contra o Egipto, porque eu sou o Senhor que te sara.
+
+[[v2-15-27]]
+
+^<<v2-15-27,27>>^ Depois os filhos de Israel foram a Elim, onde havia doze fontes de água e setenta palmeiras, e acamparam junto das águas.
+
+'''
+
+xref:002-exodo/002-exodo-014.adoc#v2-14-0[&#60; Capítulo Anterior] | <<v2-15-0,Topo>> | xref:002-exodo/002-exodo-016.adoc#v2-16-0[Próximo Capítulo &#62;]

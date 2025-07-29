@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v13-9-0]]
+=== I Crônicas, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 9 continua descrevendo a genealogia dos filhos de Israel, com foco especial nos levitas que eram responsáveis pelo serviço no templo. Além disso, também é mencionada a restauração de Jerusalém após o exílio babilônico.
+* Neemias 11:20: "O resto de Israel, dos sacerdotes, levitas e servidores do templo, estabeleceram-se em suas cidades ao longo de todo o território de Judá." Este versículo fala sobre a distribuição dos levitas e sacerdotes em diferentes cidades de Judá, o que é semelhante à lista de nomes de 1 Crônicas 9.
+* Neemias 11:22: "O líder dos levitas em Jerusalém foi Uzi, filho de Bani, filho de Hasabias, filho de Matanias, filho de Mica. Dos descendentes de Asafe, cantores, ficou encarregado da obra do templo." Este versículo menciona a liderança dos levitas em Jerusalém, que é um tema central em 1 Crônicas 9.
+* Neemias 11:36: "Parte dos levitas de Judá foi designada para prestar serviço no templo de Deus em Jerusalém, para a manutenção do culto, conforme prescrito pela lei, a saber, os cantores encarregados dos cânticos de louvor e as portarias do templo." Este versículo fala sobre o serviço dos levitas no templo em Jerusalém, o que é uma preocupação central em 1 Crônicas 9.
+* Esdras 2:43: "Os servidores do templo: os filhos de Siá, os filhos de Hassufá, os filhos de Tabaot," Este versículo é parte de uma lista de nomes semelhante àquela encontrada em 1 Crônicas 9.
+* Esdras 2:70: "Os sacerdotes, levitas, cantores, porteiros e servidores do templo, juntamente com alguns do povo e os demais levitas, instalaram-se em suas próprias cidades, incluindo todos os descendentes de Israel." Este versículo fala sobre a distribuição dos levitas em diferentes cidades e sua responsabilidade no serviço do templo, o que é semelhante ao que é descrito em 1 Crônicas 9.
+****
+
+[[v13-9-1]]
+
+^<<v13-9-1,1>>^ Foi, assim, contado todo o Israel, e o seu número foi escrito no livro dos reis de Israel e de Judá. Depois Judá foi transportado a Babilônia, por causa dos seus pecados.
+
+[[v13-9-2]]
+
+^<<v13-9-2,2>>^ Os que primeiro se estabeleceram nas suas possessões e nas suas cidades, foram: os Israelitas, os sacerdotes, os Levitas e os Natineus.
+
+[[v13-9-3]]
+
+^<<v13-9-3,3>>^ Estabeleceram-se em Jerusalém parte dos filhos de Judá e de Benjamim, bem como de Efraim e de Manassés.
+
+[[v13-9-4]]
+
+^<<v13-9-4,4>>^ (Da tribo de Judá) Otei, filho de Amiud, filho de Amri, filho de Omrai, filho de Boni, um dos filhos de Fares, filho de Judá.
+
+[[v13-9-5]]
+
+^<<v13-9-5,5>>^ De Siloni: Asaia, filho primogênito, e os seus filhos.
+
+[[v13-9-6]]
+
+^<<v13-9-6,6>>^ Dos filhos de Zara: Jeuel e os seus irmãos, em número de seiscentos e noventa.
+
+[[v13-9-7]]
+
+^<<v13-9-7,7>>^ Da tribo de Benjamim: Salo, filho de Mosolão, filho de Oduia, filho de Asana;
+
+[[v13-9-8]]
+
+^<<v13-9-8,8>>^ Jobania, filho de Jeroboão; Ela, filho de Ozi, filho de Mocori; Mosolão, filho de Safatias, filho de Rauel, filho de Jebanias,
+
+[[v13-9-9]]
+
+^<<v13-9-9,9>>^ e os irmãos destes, por suas famílias, em número de novecentos e cinquenta e seis. Todos estes foram chefes de famílias, segundo as suas casas patriarcais.
+
+[[v13-9-10]]
+
+^<<v13-9-10,10>>^ Dos sacerdotes: Jedaia, Joiarib, Jaquim,
+
+[[v13-9-11]]
+
+^<<v13-9-11,11>>^ Azarias, filho de Helcias, filho de Mosolão, filho de Sadoc, filho de Maraiot, filho de Aquitob, pontífice da casa do Senhor;
+
+[[v13-9-12]]
+
+^<<v13-9-12,12>>^ Adaias, filho de Jeroão, filho de Fassur, filho de Melquias; Maasai, filho de Adiei, filho de Jezra, filho de Mosolão, filho de Mosolamit, filho de Emer;
+
+[[v13-9-13]]
+
+^<<v13-9-13,13>>^ e os irmãos destes, chefes de suas famílias, em número de mil setecentos e sessenta, homens fortíssimos em robustez para suportarem as fadigas do ministério da casa do Senhor.
+
+[[v13-9-14]]
+
+^<<v13-9-14,14>>^ Dos Levitas foram (estabelecer-se em Jerusalém): Semeia, filho de Hassub, filho de Ezricão, filho de Hasebia, um dos filhos de Merari;
+
+[[v13-9-15]]
+
+^<<v13-9-15,15>>^ Bacbacar carpinteiro, Galal, Matanias, filho de Mica, filho de Zecri, filho de Asaf:
+
+[[v13-9-16]]
+
+^<<v13-9-16,16>>^ Obdias, filho de Semeias, filho de Galai, filho de Iditun; Baraquias, filho de Asa, filho de Elcana, que morou nos arrabaldes de Netofatianos.
+
+[[v13-9-17]]
+
+^<<v13-9-17,17>>^ Os (chefes dos) porteiros foram: Seium, Acub, Telmon, Aimão e seus irmãos. Seium (era) o principal,
+
+[[v13-9-18]]
+
+^<<v13-9-18,18>>^ e ainda hoje é o guarda da porta do rei, a oriente. Aí estão os porteiros do acampamento dos filhos de Levi.
+
+[[v13-9-19]]
+
+^<<v13-9-19,19>>^ Seium, filho de Coré, filho de Abiasaf, filho de Coré, (estava ali) com seus irmãos e a casa de seu pai, isto é, os Coritas, que têm a superintendência das obras do ministério e guardam as portas do tabernáculo: os seus pais tinham tido a guarda da entrada do arraial do Senhor.
+
+[[v13-9-20]]
+
+^<<v13-9-20,20>>^ Fineias, filho de Eleázaro, era o seu chefe diante do Senhor.
+
+[[v13-9-21]]
+
+^<<v13-9-21,21>>^ Zacarias, filho de Mosolamia, era o porteiro da porta do tabernáculo da reunião.
+
+[[v13-9-22]]
+
+^<<v13-9-22,22>>^ Todos estes escolhidos, para guardar as portas, eram em número de duzentos e doze e estavam incluídos no censo das suas cidades; foram estabelecidos por Davide e Samuel, o Vidente, por causa da sua fidelidade,
+
+[[v13-9-23]]
+
+^<<v13-9-23,23>>^ tanto estes, como os seus filhos, para guardarem por turno as portas da casa do Senhor e as do tabernáculo.
+
+[[v13-9-24]]
+
+^<<v13-9-24,24>>^ Os (chefes dos) porteiros estavam alojados nos lugares correspondentes aos quatro ventos, isto é, ao oriente, ao ocidente, ao norte e ao meio-dia.
+
+[[v13-9-25]]
+
+^<<v13-9-25,25>>^ Seus irmãos (os outros porteiros) moravam nas suas aldeias, e vinha cada um no seu sábado, de um tempo até outro tempo.
+
+[[v13-9-26]]
+
+^<<v13-9-26,26>>^ A estes quatro Levitas estava confiado todo o número dos porteiros, e eram os encarregados das câmaras e dos tesouros da casa do Senhor.
+
+[[v13-9-27]]
+
+^<<v13-9-27,27>>^ A sua habitação era à roda do templo do Senhor, durante a sua guarda; chegada a hora, abriam as portas pela manhã.
+
+[[v13-9-28]]
+
+^<<v13-9-28,28>>^ Da linhagem destes eram também os que tinham a seu cuidado os vasos que serviam no ministério, porque os vasos entravam e saíam por conta.
+
+[[v13-9-29]]
+
+^<<v13-9-29,29>>^ Destes eram também os que tinham a seu cargo os utensílios do santuário, e que tinham cuidado da farinha, do vinho, do azeite, do incenso e dos aromas.
+
+[[v13-9-30]]
+
+^<<v13-9-30,30>>^ Eram os filhos dos Sacerdotes que compunham os perfumes com os aromas.
+
+[[v13-9-31]]
+
+^<<v13-9-31,31>>^ O levita Matatias, filho primogénito de Selum, Corita, tinha a seu cuidado tudo o que se frigia na sertã.
+
+[[v13-9-32]]
+
+^<<v13-9-32,32>>^ Alguns dos filhos de Caat, seus irmãos, tinham a seu cargo os pães da proposição, para os prepararem sempre frescos em todos os sábados.
+
+[[v13-9-33]]
+
+^<<v13-9-33,33>>^ Estes eram os chefes dos cantores entre as famílias dos Levitas, que moravam nas pousadas do templo, para de contínuo, de dia e de noite, exercerem o seu ministério.
+
+[[v13-9-34]]
+
+^<<v13-9-34,34>>^ Os chefes dos Levitas, príncipes das suas famílias, habitaram (sempre) em Jerusalém.
+
+[[v13-9-35]]
+
+^<<v13-9-35,35>>^ Em Gabaon habitaram Jeiel, pai dos Gabaonitas, e sua mulher, que se chamava Maaca;
+
+[[v13-9-36]]
+
+^<<v13-9-36,36>>^ Abdon, seu filho primogênito, e Sur, Cis, Baal, Ner, Nadab,
+
+[[v13-9-37]]
+
+^<<v13-9-37,37>>^ Gedor, Aio, Zacarias e Macelot.
+
+[[v13-9-38]]
+
+^<<v13-9-38,38>>^ Macelot gerou Samaan. Estes habitaram em Jerusalém com os seus irmãos, defronte dos (outros) seus irmãos.
+
+[[v13-9-39]]
+
+^<<v13-9-39,39>>^ Ner gerou Cis; Cis gerou Saul; Saul gerou Jónatas. Melquisua, Abinadab e Esbaal.
+
+[[v13-9-40]]
+
+^<<v13-9-40,40>>^ Jónatas teve por filho a Meribaal; Meribaal gerou Mica.
+
+[[v13-9-41]]
+
+^<<v13-9-41,41>>^ Os filhos de Mica foram: Fiton, Melec, e Taran, e Aaz.
+
+[[v13-9-42]]
+
+^<<v13-9-42,42>>^ Aaz gerou Jara, Jara gerou Alamat, Azmot e Zamri; Zamri gerou Mosa;
+
+[[v13-9-43]]
+
+^<<v13-9-43,43>>^ Mosa gerou Banaa, cujo filho, Bafaia, gerou Elasa, do qual nasceu Asel;
+
+[[v13-9-44]]
+
+^<<v13-9-44,44>>^ Asel teve seis filhos com estes nomes: Ezricão, Bocru, Ismael, Saria, Obdia, Hanan. Estes são os filhos de Asel.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-008.adoc#v13-8-0[&#60; Capítulo Anterior] | <<v13-9-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-010.adoc#v13-10-0[Próximo Capítulo &#62;]

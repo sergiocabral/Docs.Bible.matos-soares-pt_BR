@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v10-12-0]]
+=== II Samuel, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 12 relata o confronto do profeta Natã com o rei Davi, depois que este havia cometido adultério com Bate-Seba e mandado matar Urias, seu marido. Natã repreende Davi pela sua conduta e o confronta com a parábola do homem rico que roubou a ovelha do homem pobre. Davi reconhece o seu pecado e se arrepende. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Samuel 12:
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará; mas o que as confessa e deixa alcançará misericórdia." Este versículo fala sobre a importância de confessar os pecados para obter perdão e misericórdia.
+* Salmos 51:1-2: "Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias. Lava-me completamente da minha iniquidade, e purifica-me do meu pecado." Este salmo é uma oração de Davi após seu pecado com Bate-Seba e Urias, pedindo a Deus para perdoá-lo e purificá-lo.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo destaca a importância da confissão de pecados para obter o perdão e a purificação.
+* Salmos 32:3-5: "Enquanto calei os meus pecados, envelheceram os meus ossos pelos meus constantes gemidos todo o dia. Porque de dia e de noite a tua mão pesava sobre mim; o meu humor se tornou em sequidão de estio. Confessei-te o meu pecado, e a minha iniquidade não encobri. Disse eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a culpa do meu pecado." Este salmo fala sobre a aflição que o pecado traz e a importância de confessá-lo para obter perdão e alívio.
+* Provérbios 6:32-33: "O que adultera com uma mulher é falto de entendimento; destrói a sua alma o que tal faz. Acha açoites e afronta o que faz tal coisa; e a sua vergonha nunca se apagará." Este versículo destaca a gravidade do adultério e a consequência destrutiva que ele traz para a alma da pessoa.
+****
+
+[[v10-12-1]]
+
+^<<v10-12-1,1>>^ O Senhor, pois, enviou Natan a Davide, e Natan, tendo chegado à sua presença, disse-lhe: Havia numa cidade (do teu reino) dois homens, um rico e outro pobre.
+
+[[v10-12-2]]
+
+^<<v10-12-2,2>>^ O rico tinha ovelhas e bois em grande número.
+
+[[v10-12-3]]
+
+^<<v10-12-3,3>>^ O pobre, porém, não tinha coisa alguma, senão uma ovelhinha, que comprara e criara, e que tinha crescido em sua casa juntamente com seus filhos, comendo do seu pão, bebendo do seu mesmo copo e dormindo no seu regaço; e ele queria-lhe com o se fosse uma sua filha.
+
+[[v10-12-4]]
+
+^<<v10-12-4,4>>^ Tendo chegado um hóspede a casa do rico, não querendo este tocar nas suas ovelhas nem nos seus bois, para dar um banquete ao hóspede, que lhe tinha chegado, tomou a ovelha do pobre e preparou-a para dar de comer ao homem que tinha vindo a sua casa.
+
+[[v10-12-5]]
+
+^<<v10-12-5,5>>^ Davide, sumamente indignado contra tal homem, disse a Natan: Viva o Senhor, um homem que tal fez é digno de morte.
+
+[[v10-12-6]]
+
+^<<v10-12-6,6>>^ Pagará o quádruplo da ovelha, por ter feito dela o que fez, e não ter poupado (o pobre).
+
+[[v10-12-7]]
+
+^<<v10-12-7,7>>^ Então Natan disse a Davide: Tu és esse homem. Eis o que diz o Senhor Deus de Israel: Eu te ungi rei sobre Israel, e te livrei da mão de Saul,
+
+[[v10-12-8]]
+
+^<<v10-12-8,8>>^ dei-te a casa do teu senhor, pus ao teu dispor as suas mulheres, a casa de Israel e de Judá; se isto é pouco, juntar-te-ei ainda coisas muito maiores.
+
+[[v10-12-9]]
+
+^<<v10-12-9,9>>^ Por que desprezaste, pois a palavra do Senhor, até cometeres o mal diante de meus olhos? Fizeste perecer à espada Urias Heteu, e tomaste para tua mulher a que era sua mulher, e mataste-lo com a espada dos filhos de Amon.
+
+[[v10-12-10]]
+
+^<<v10-12-10,10>>^ Por esta razão não se apartará jamais a espada da tua casa, porque me desprezaste, tomando a mulher de Urias Heteu, para ser tua mulher.
+
+[[v10-12-11]]
+
+^<<v10-12-11,11>>^ Eis pois o que diz o Senhor: Eu suscitarei da tua mesma casa o mal sobre ti, tomarei as tuas mulheres, à tua vista, e dá-las-ei a um teu próximo, que dormirá com as tuas mulheres à luz deste sol.
+
+[[v10-12-12]]
+
+^<<v10-12-12,12>>^ Tu procedeste ocultamente, mas eu farei estas coisas à vista de todo o Israel, à luz do sol.
+
+[[v10-12-13]]
+
+^<<v10-12-13,13>>^ Davide disse a Natan; Pequei contra o Senhor. Natan respondeu a Davide: Também o Senhor perdoou o teu pecado (por ver o teu arrependimento): não morrerás. (ver nota)
+
+[[v10-12-14]]
+
+^<<v10-12-14,14>>^ Todavia, visto que tu, pelo que fizeste, deste lugar a que os inimigos do Senhor blasfemem, morrerá irremissivelmente o filho, que te nasceu (do adultério).
+
+[[v10-12-15]]
+
+^<<v10-12-15,15>>^ E Natan voltou para sua casa. O Senhor feriu (de enfermidade) o menino, que a mulher de Urias tinha dado à luz a Davide, e ele adoeceu gravemente.
+
+[[v10-12-16]]
+
+^<<v10-12-16,16>>^ Davide fez oração ao Senhor pelo menino, jejuou rigorosamente e, retirando-se à parte, prostrou-se sobre a terra.
+
+[[v10-12-17]]
+
+^<<v10-12-17,17>>^ Os anciães da sua casa vieram para o abrigar a levantar-se do chão, mas ele não o quis fazer, nem comeu com eles.
+
+[[v10-12-18]]
+
+^<<v10-12-18,18>>^ Ao sétimo dia, morreu o menino, e os servos de Davide não ousaram dizer-lhe que o menino tinha morrido, porque diziam: Quando o menino ainda vivia, nós falávamos-lhe, e ele não queria ouvir-nos; quanto mais se afligirá ele, se lhe dissermos que o menino morreu?
+
+[[v10-12-19]]
+
+^<<v10-12-19,19>>^ Davide, porém, vendo os seus servos a falar em segredo, compreendeu que o menino tinha morrido e disse-lhes: Porventura morreu o menino? Eles responderam-lhe: Morreu.
+
+[[v10-12-20]]
+
+^<<v10-12-20,20>>^ Então Davide levantou-se do chão, lavou-se e ungiu-se, e, tendo mudado de roupa, entrou na casa do Senhor e o adorou (completamente resignado). (Depois) foi para sua casa e pediu que lhe pusessem de comer, e comeu.
+
+[[v10-12-21]]
+
+^<<v10-12-21,21>>^ Os seus servos disseram-lhe: Como fizeste assim? Tu jejuaste e choraste pelo menino, quando ele ainda vivia, e, agora que morreu, levantaste-te e comeste?
+
+[[v10-12-22]]
+
+^<<v10-12-22,22>>^ (Davide) respondeu: Eu jejuei e chorei pelo menino enquanto vivo, porque dizia: Quem sabe se talvez o Senhor terá pena de mim e fará viver o menino?
+
+[[v10-12-23]]
+
+^<<v10-12-23,23>>^ Mas agora que ele morreu, por que hei-de jejuar? Porventura posso eu fazê-lo ainda viver? Eu Irei para junto dele, mas ele não voltará mais para junto de mim.
+
+[[v10-12-24]]
+
+^<<v10-12-24,24>>^ Depois Davide consolou sua mulher Betsabé, foi dormir com ela, e ela gerou um filho, a que pôs o nome de Salomão. O Senhor o amou,
+
+[[v10-12-25]]
+
+^<<v10-12-25,25>>^ e enviou o profeta Natan, o qual deu ao menino o nome de Amável ao Senhor, porque o Senhor o amava.
+
+[[v10-12-26]]
+
+^<<v10-12-26,26>>^ Entretanto Joab continuava a combater contra Raba dos Amonitas, e tomou a cidade real.
+
+[[v10-12-27]]
+
+^<<v10-12-27,27>>^ e Joab enviou mensageiros a Davide, dizendo: Tenho combatido contra Raba, e a cidade das Águas está tomada.
+
+[[v10-12-28]]
+
+^<<v10-12-28,28>>^ Agora, junta o resto do povo, vem ao sítio da cidade e toma-a, para não suceder que, tendo eu destruído a cidade, se atribua ao meu nome a vitória.
+
+[[v10-12-29]]
+
+^<<v10-12-29,29>>^ Juntou Davide todo o povo, marchou contra Raba e, depois de ter combatido, a tomou.
+
+[[v10-12-30]]
+
+^<<v10-12-30,30>>^ Tirou da cabeça do rei dos Amonitas o seu diadema, que pesava um talento de ouro, enriquecido de pedras preciosíssimas, o qual foi posto na cabeça de Davide. E levou da cidade muitíssimos despojos.
+
+[[v10-12-31]]
+
+^<<v10-12-31,31>>^ Quanto aos seus moradores deportou-os, empregando-os em serrar, em a fiar ferros, em serviços com machados e em trabalhos em fornos de cozer tijolo. Assim fez a todas as cidades dos Amonitas. Em seguida, Davide voltou com todo o exército para Jerusalém.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-011.adoc#v10-11-0[&#60; Capítulo Anterior] | <<v10-12-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-013.adoc#v10-13-0[Próximo Capítulo &#62;]

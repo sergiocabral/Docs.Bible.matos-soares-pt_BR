@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v4-20-0]]
+=== Números, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Números 20 narra a morte de Miriã, irmã de Moisés, e a falta de água para a comunidade de Israel, que acaba gerando uma série de conflitos. Moisés e Arão se dirigem até o Tabernáculo para buscar orientação de Deus, e Ele instrui que Moisés fale à rocha para que ela dê água ao povo. Entretanto, Moisés, irritado com as reclamações do povo, acaba ferindo a rocha com sua vara, o que desagrada a Deus. Abaixo estão cinco versículos relacionados com os temas abordados em Números 20:
+* Salmos 106:32-33: "Com a água da contenda os fizeram irados, e sucedeu mal a Moisés por causa deles. Pois exacerbaram seu espírito, de modo que falou precipitadamente com seus lábios". Este Salmo faz referência ao episódio narrado em Números 20, no qual o povo de Israel reclama da falta de água e Moisés acaba agindo impulsivamente e ferindo a rocha com sua vara.
+* Isaías 48:21: "Eles não tinham sede quando ele os levou pelos desertos; ele fez água fluir da rocha para eles; ele fendia a rocha, e a água jorrava". Este versículo faz referência à época em que os israelitas vagavam pelo deserto e Deus, por intermédio de Moisés, fez brotar água da rocha para saciar a sede do povo.
+* João 4:13-14: "Jesus respondeu: 'Quem beber desta água terá sede de novo, mas quem beber da água que eu lhe der nunca mais terá sede. Ao contrário, a água que eu lhe der se tornará nele uma fonte de água a jorrar para a vida eterna'". Este versículo faz referência à água viva que Jesus oferece, que simboliza a vida eterna e a satisfação plena das necessidades espirituais.
+* 1 Coríntios 10:4: "e todos beberam da mesma bebida espiritual, pois bebiam da rocha espiritual que os acompanhava, e essa rocha era Cristo". Este versículo faz referência à rocha que foi ferida por Moisés para que a água jorrasse e saciasse a sede do povo de Israel no deserto. Paulo, ao escrever aos coríntios, faz uma conexão entre a rocha que saciava a sede física do povo no deserto e Cristo, que sacia a sede espiritual de todos aqueles que crêem nele.
+* Apocalipse 21:6: "E disse-me: 'Está feito. Eu sou o Alfa e o Ômega, o Princípio e o Fim. A quem tiver sede darei de beber gratuitamente da fonte da água da vida'". Este versículo faz referência à Nova Jerusalém, a cidade celestial que Deus criará no fim dos tempos. Nessa cidade, todos os que tiverem sede poderão beber gratuitamente da fonte da água da vida, que simboliza a vida eterna.
+****
+
+[[v4-20-1]]
+
+^<<v4-20-1,1>>^ Os filhos de Israel, toda a multidão, chegaram ao deserto de Sin, no primeiro mês. O povo ficou em Cades. Ali faleceu Maria, e foi sepultada no mesmo lugar.
+
+[[v4-20-2]]
+
+^<<v4-20-2,2>>^ Como o povo necessitasse de água, juntaram-se contra Moisés e Aarão,
+
+[[v4-20-3]]
+
+^<<v4-20-3,3>>^ e, levantando-se em motim, disseram: Oxalá nós tivéssemos perecido entre os nossos irmãos diante do Senhor. (ver nota)
+
+[[v4-20-4]]
+
+^<<v4-20-4,4>>^ Por que conduzistes a assembleia do Senhor ao deserto, para morrermos nós e os nossos animais?
+
+[[v4-20-5]]
+
+^<<v4-20-5,5>>^ Por que nos fizestes partir do Egito, e nos conduzistes a este péssimo lugar, que não se pode semear, e que não produz nem figueiras, nem vinhas, nem romãzeiras, e além disto não tem água para beber?
+
+[[v4-20-6]]
+
+^<<v4-20-6,6>>^ Moisés e Aarão, deixada a multidão, entraram no tabernáculo da reunião e prostraram-se com o rosto por terra. E apareceu sobre eles a glória do Senhor.
+
+[[v4-20-7]]
+
+^<<v4-20-7,7>>^ O Senhor falou a Moisés, dizendo;
+
+[[v4-20-8]]
+
+^<<v4-20-8,8>>^ Toma a vara, junta o povo, tu e Aarão, teu irmão, falai ao rochedo diante deles, e ele dará águas. Farás sair água do rochedo, e beberá toda a multidão e os seus animais.
+
+[[v4-20-9]]
+
+^<<v4-20-9,9>>^ Tomou Moisés a vara que estava diante do Senhor, conforme lhe tinha ordenado,
+
+[[v4-20-10]]
+
+^<<v4-20-10,10>>^ e, tendo reunido a multidão diante deste rochedo, disse-lhes: Ouvi, rebeldes e incrédulos: Acaso poderemos nós fazer sair água deste rochedo para vós?
+
+[[v4-20-11]]
+
+^<<v4-20-11,11>>^ Moisés tendo levantado a mão, ferindo duas vezes com a vara o rochedo, saíram dele águas copiosíssimas, de sorte que bebeu o povo e os animais. (ver nota)
+
+[[v4-20-12]]
+
+^<<v4-20-12,12>>^ O Senhor disse a Moisés e a Aarão: Porque vós não me crestes para me santificardes diante dos filhos de Israel, não introduzireis estes povos na terra que eu lhes darei (ver nota)
+
+[[v4-20-13]]
+
+^<<v4-20-13,13>>^ Esta é a água da contradição, onde os filhos de Israel altercaram contra o Senhor, e onde (o Senhor) foi santificado entre eles.
+
+[[v4-20-14]]
+
+^<<v4-20-14,14>>^ Entretanto Moisés enviou de Cades embaixadores que lhe dissessem: Isto te manda dizer teu irmão Israel: Sabes todos os trabalhos que temos passado,
+
+[[v4-20-15]]
+
+^<<v4-20-15,15>>^ como os nossos pais desceram ao Egito, como ai habitamos muito tempo, como os Egípcios nos maltrataram a nós e a nossos pais,
+
+[[v4-20-16]]
+
+^<<v4-20-16,16>>^ como clamamos ao Senhor, e ele nos ouviu, e enviou um anjo, que nos tirou do Egito. Agora, encontrando-nos na cidade de Cades, que está no extremo das tuas fronteiras,
+
+[[v4-20-17]]
+
+^<<v4-20-17,17>>^ suplicamos-te que nos deixes passar pelo teu país. Não iremos pelos campos nem pelas vinhas, nem beberemos das águas dos teus poços, mas iremos pela estrada pública, sem nos afastarmos nem para a direita nem para a esquerda, até que passemos as tuas fronteiras.
+
+[[v4-20-18]]
+
+^<<v4-20-18,18>>^ Edom respondeu-lhe: Não passarás pelo meu país, de outra sorte sairei armado contra ti.
+
+[[v4-20-19]]
+
+^<<v4-20-19,19>>^ Os filhos de Israel disseram-lhe: Nós iremos pelo caminho ordinário: se bebermos das tuas águas, nós e os nossos gados, pagaremos o que for justo: não haverá dificuldade alguma no preço, permite sòmente que passemos de corrida.
+
+[[v4-20-20]]
+
+^<<v4-20-20,20>>^ Porém ele respondeu: Não passarás. E Edom marchou logo ao encontro dele com uma infinita multidão, e com mão forte.
+
+[[v4-20-21]]
+
+^<<v4-20-21,21>>^ Não quis condescender com o pedido de dar passagem pelo seu país; por isso Israel desviou-se dele.
+
+[[v4-20-22]]
+
+^<<v4-20-22,22>>^ Tendo levantado os acampamentos de Cades, foram ao monte Hor, que está nos confins da terra de Edom,
+
+[[v4-20-23]]
+
+^<<v4-20-23,23>>^ Onde o Senhor falou a Moisés e Aarão,
+
+[[v4-20-24]]
+
+^<<v4-20-24,24>>^ dizendo: Aarão vai juntar-se ao seu povo, porque ele não entrará na terra que eu dei aos filhos de Israel, visto que foi incrédulo às minhas palavras nas águas da Contradição.
+
+[[v4-20-25]]
+
+^<<v4-20-25,25>>^ Toma Aarão e seu filho com ele, e leva-os ao monte Hor.
+
+[[v4-20-26]]
+
+^<<v4-20-26,26>>^ Depois de teres despido o pai das suas vestes, revestirás com elas Eleázaro, seu filho: Aarão será reunido (a seus pais), e ai morrerá.
+
+[[v4-20-27]]
+
+^<<v4-20-27,27>>^ Moisés fez como o Senhor lhe mandara, e subiram ao monte Hor, à vista de toda a multidão.
+
+[[v4-20-28]]
+
+^<<v4-20-28,28>>^ Depois que despojou Aarão das suas vestes revestiu com elas a Eleázaro, seu filho.
+
+[[v4-20-29]]
+
+^<<v4-20-29,29>>^ Morto Aarão no cimo do monte, desceu (Moisés) com Eleázaro.
+
+[[v4-20-30]]
+
+^<<v4-20-30,30>>^ Toda a multidão, viu que Aarão tinha morrido e choraram por ele todas as famílias de Israel, durante trinta dias.
+
+'''
+
+xref:004-numeros/004-numeros-019.adoc#v4-19-0[&#60; Capítulo Anterior] | <<v4-20-0,Topo>> | xref:004-numeros/004-numeros-021.adoc#v4-21-0[Próximo Capítulo &#62;]

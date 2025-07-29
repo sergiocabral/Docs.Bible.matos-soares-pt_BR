@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v49-18-0]]
+=== São Lucas, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Lucas 18 apresenta algumas das parábolas mais conhecidas de Jesus, como a do fariseu e do publicano, a do juiz injusto e a do jovem rico. O capítulo também aborda a importância da fé e da humildade na vida cristã, além de enfatizar a necessidade de abandonar as riquezas e seguir a Jesus. Seguem abaixo cinco versículos relacionados com esses temas:
+* Tiago 4:10: "Humilhai-vos diante do Senhor, e ele vos exaltará." A parábola do fariseu e do publicano em Lucas 18:9-14 destaca a importância da humildade diante de Deus. Este versículo de Tiago reforça essa ideia, enfatizando que aqueles que se humilham diante de Deus serão exaltados por ele.
+* Hebreus 11:6: "Ora, sem fé é impossível agradar-lhe, porque é necessário que aquele que se aproxima de Deus creia que ele existe e que é galardoador dos que o buscam." A fé é outro tema importante em São Lucas 18, particularmente na parábola da viúva persistente em Lucas 18:1-8. Este versículo de Hebreus 11:6 destaca a importância da fé na vida cristã, afirmando que é impossível agradar a Deus sem ela.
+* 1 Timóteo 6:10: "Porque o amor do dinheiro é a raiz de toda a espécie de males; e nessa cobiça alguns se desviaram da fé e se traspassaram a si mesmos com muitas dores." A parábola do jovem rico em Lucas 18:18-23 enfatiza a necessidade de abandonar as riquezas e seguir a Jesus. Este versículo de 1 Timóteo 6:10 ressalta que o amor ao dinheiro pode levar ao afastamento da fé e a muitas dores.
+* Mateus 6:24: "Ninguém pode servir a dois senhores; porque ou há de odiar a um e amar o outro, ou se dedicará a um e desprezará o outro. Não podeis servir a Deus e às riquezas." A parábola do jovem rico também aborda o conflito entre servir a Deus e servir às riquezas. Este versículo de Mateus 6:24 enfatiza que é impossível servir a ambos ao mesmo tempo.
+* Tiago 1:27: "A religião pura e sem mácula para com o nosso Deus e Pai é esta: visitar os órfãos e as viúvas nas suas tribulações e guardar-se isento da corrupção do mundo." A parábola do fariseu e do publicano destaca a importância da humildade e da justiça, e este versículo de Tiago 1:27 enfatiza que parte da nossa responsabilidade como cristãos é cuidar dos menos favorecidos e nos mantermos puros diante de Deus.
+****
+
+[[v49-18-1]]
+
+^<<v49-18-1,1>>^ Disse-lhes também uma parábola, para mostrar que importa orar sempre e não cessar de o fazer:
+
+[[v49-18-2]]
+
+^<<v49-18-2,2>>^ "Havia em certa cidade um juiz, que não temia a Deus, nem respeitava os homens.
+
+[[v49-18-3]]
+
+^<<v49-18-3,3>>^ Havia também na mesma cidade uma viúva, que ia ter com ele, dizendo: Faz-me justiça contra o meu adversário.
+
+[[v49-18-4]]
+
+^<<v49-18-4,4>>^ Ele, durante muito tempo, não quis atender. Mas depois disse consigo: Ainda que eu não temo a Deus, nem respeito os homens,
+
+[[v49-18-5]]
+
+^<<v49-18-5,5>>^ todavia, visto que esta viúva me importuna, far-lhe-ei justiça, para que não venha continuamente importunar-me."
+
+[[v49-18-6]]
+
+^<<v49-18-6,6>>^ Então o Senhor acrescentou : "Ouvi o que diz este juiz iníquo.
+
+[[v49-18-7]]
+
+^<<v49-18-7,7>>^ E Deus não fará justiça aos seus escolhidos, que estão clamando a ele, de dia e de noite, e tardará em os socorrer?
+
+[[v49-18-8]]
+
+^<<v49-18-8,8>>^ Digo-vos que depressa lhes fará justiça. Mas, quando vier o Filho do homem, julgais vós que encontrará fé sobre a terra?"
+
+[[v49-18-9]]
+
+^<<v49-18-9,9>>^ Disse também esta parábola a uns que confiavam muito em si mesmos, como se fossem justos, e desprezavam os outros.
+
+[[v49-18-10]]
+
+^<<v49-18-10,10>>^ "Subiram dois homens ao templo a fazer oração: um era fariseu, outro publicano.
+
+[[v49-18-11]]
+
+^<<v49-18-11,11>>^ O fariseu, de pé, orava no seu interior desta forma: Graças te dou, ó Deus, porque não sou como os outros homens: ladrões, injustos, adúlteros, nem como este publicano.
+
+[[v49-18-12]]
+
+^<<v49-18-12,12>>^ Jejuo duas vezes na semana; pago o dízimo de tudo o que possuo,
+
+[[v49-18-13]]
+
+^<<v49-18-13,13>>^ O publicano, porém, conservando-se a distância, não ousava nem ainda levantar os olhos ao céu, mas batia no peito, dizendo: Meu Deus, tem piedade de mim pecador.
+
+[[v49-18-14]]
+
+^<<v49-18-14,14>>^ Digo-vos que este voltou justificado para sua casa, o outro não; porque quem se exalta será humilhado, e quem se humilha será exaltado."
+
+[[v49-18-15]]
+
+^<<v49-18-15,15>>^ Traziam-lhe também meninos, para que os tocasse. Vendo isto os discípulos repreendiam-nos.
+
+[[v49-18-16]]
+
+^<<v49-18-16,16>>^ Porém Jesus, chamando-os a si, disse: "Deixai vir a mim os meninos, e não os embaraceis, porque o reino de Deus é dos que se parecem com eles.
+
+[[v49-18-17]]
+
+^<<v49-18-17,17>>^ Em verdade vos digo: O que não receber o reino de Deus como um menino, não entrará nele."
+
+[[v49-18-18]]
+
+^<<v49-18-18,18>>^ Então um dos principais fez-lhe esta pergunta: "Bom Mestre, que devo eu fazer para obter a vida eterna?"
+
+[[v49-18-19]]
+
+^<<v49-18-19,19>>^ Jesus respondeu-lhe: "Porque me chamas bom? Ninguém é bom senão só Deus.
+
+[[v49-18-20]]
+
+^<<v49-18-20,20>>^ Tu conheces os mandamentos: não matarás, não cometerás adultério, não furtarás, não dirás falso testemunho, honra teu pai e tua mãe (Ex. 20, 12-16 ; Dt. 5, 16-20)."
+
+[[v49-18-21]]
+
+^<<v49-18-21,21>>^ Ele disse: "Tenho observado tudo isso desde a minha juventude."
+
+[[v49-18-22]]
+
+^<<v49-18-22,22>>^ Tendo Jesus ouvido isto, disse-Ihe: "Ainda te falta uma coisa: Vende tudo quanto tens, dá-o aos pobres, e terás um tesouro no céu; depois vem, segue-me." (ver nota)
+
+[[v49-18-23]]
+
+^<<v49-18-23,23>>^ Mas ele, ouvindo isto, entristeceu-se, porque era muito rico.
+
+[[v49-18-24]]
+
+^<<v49-18-24,24>>^ Jesus, vendo esta tristeza, disse : "Quanto é difícil que aqueles que têm riquezas entrem no reino de Deus! (ver nota)
+
+[[v49-18-25]]
+
+^<<v49-18-25,25>>^ E’ mais fácil passar um camelo pelo fundo de uma agulha, do que entrar um rico no reino de Deus." (ver nota)
+
+[[v49-18-26]]
+
+^<<v49-18-26,26>>^ Os que o ouviam disseram: "Quem pode, pois, salvar-se?"
+
+[[v49-18-27]]
+
+^<<v49-18-27,27>>^ Jesus respondeu-lhes: "O que é impossível aos homens, é possível a Deus."
+
+[[v49-18-28]]
+
+^<<v49-18-28,28>>^ Então disse Pedro : "Eis que deixámos tudo para te seguir."
+
+[[v49-18-29]]
+
+^<<v49-18-29,29>>^ Ele disse-lhes: "Em verdade vos digo que ninguém há que tenha abandonado a casa, a mulher, os irmãos, os pais ou os filhos por causa do reino de Deus,
+
+[[v49-18-30]]
+
+^<<v49-18-30,30>>^ que não receba muito mais já neste mundo, e, no século futuro, a vida eterna."
+
+[[v49-18-31]]
+
+^<<v49-18-31,31>>^ Em seguida tomou Jesus aparte os doze, e disse-Ihes: "Eis que vamos para Jerusalém, e será cumprido tudo o que está escrito pelos profetas relativo ao Filho do homem.
+
+[[v49-18-32]]
+
+^<<v49-18-32,32>>^ Será entregue aos gentios, será escarnecido, ultrajado, cuspido;
+
+[[v49-18-33]]
+
+^<<v49-18-33,33>>^ e, depois de o açoutarem, o matarão, e ressuscitará ao terceiro dia."
+
+[[v49-18-34]]
+
+^<<v49-18-34,34>>^ Eles, porém, nada disto compreenderam; este discurso era para eles obscuro, e não penetravam coisa alguma do que lhes dizia.
+
+[[v49-18-35]]
+
+^<<v49-18-35,35>>^ Sucedeu que, aproximando-se eles de Jericó, estava sentado à borda da estrada um cego pedindo esmola.
+
+[[v49-18-36]]
+
+^<<v49-18-36,36>>^ Ouvindo a turba que passava, perguntou que era aquilo.
+
+[[v49-18-37]]
+
+^<<v49-18-37,37>>^ Disseram-lhe que era Jesus Nazareno que passava.
+
+[[v49-18-38]]
+
+^<<v49-18-38,38>>^ Então ele clamou : "Jesus, Filho de David, tem piedade de mim !"
+
+[[v49-18-39]]
+
+^<<v49-18-39,39>>^ Os que iam adiante repreendiam-no para que se calasse. Porém, ele, cada vez gritava mais: "Filho de David, tem piedade de mim!"
+
+[[v49-18-40]]
+
+^<<v49-18-40,40>>^ Jesus, parando, mandou que lho trouxessem. Quando ele chegou, interrogou-o:
+
+[[v49-18-41]]
+
+^<<v49-18-41,41>>^ "Que queres que eu te faça?" Ele respondeu: "Senhor, fazei que eu veja."
+
+[[v49-18-42]]
+
+^<<v49-18-42,42>>^ Jesus disse-lhe: "Vê; a tua fé te salvou."
+
+[[v49-18-43]]
+
+^<<v49-18-43,43>>^ Imediatamente, viu, e foi-o seguindo, glorificando a Deus. Todo o povo, vendo isto, deu louvor a Deus.
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-017.adoc#v49-17-0[&#60; Capítulo Anterior] | <<v49-18-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-019.adoc#v49-19-0[Próximo Capítulo &#62;]

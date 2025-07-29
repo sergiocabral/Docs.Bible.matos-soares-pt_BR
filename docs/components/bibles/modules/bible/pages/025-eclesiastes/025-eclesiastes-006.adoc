@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v25-6-0]]
+=== Eclesiastes, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 6 de Eclesiastes reflete sobre a questão da vida e da morte, bem como sobre a insatisfação humana e a vaidade das coisas terrenas. O autor aponta que mesmo aqueles que têm tudo o que desejam podem não encontrar alegria verdadeira na vida, e que a morte é inevitável para todos. Para complementar essa temática, seguem cinco versículos relacionados:
+* Jó 14:5: "Se, porém, os dias dele estão marcados, se o número dos seus meses está contigo, e tu lhe estabeleceste limites que ele não pode ultrapassar." Este versículo fala sobre a limitação do tempo de vida de uma pessoa, que é estabelecida por Deus. Isso está em concordância com o pensamento do autor de Eclesiastes sobre a inevitabilidade da morte.
+* Salmos 90:12: "Ensina-nos a contar os nossos dias, para que tenhamos um coração sábio." Este versículo enfatiza a importância de valorizar o tempo que temos na vida, e usá-lo com sabedoria, pois não sabemos quanto tempo nos resta.
+* Provérbios 23:4-5: "Não se esforce para ficar rico; pare de dar atenção a isso. Quando os seus olhos se fixarem nele, ele desaparecerá, pois certamente fará para si asas como as da águia e voará para os céus." Este versículo aponta para a insatisfação que a busca incessante pela riqueza pode trazer, uma vez que ela é passageira e não traz felicidade duradoura.
+* 1 Timóteo 6:7: "Porque nada trouxemos para este mundo e dele nada podemos levar; por isso, tendo o que comer e com que vestir-nos, estejamos com isso satisfeitos." Este versículo ressalta a ideia de que as coisas terrenas são passageiras e não devem ser objeto de nossa busca constante, uma vez que nada delas poderemos levar para além desta vida.
+* 1 João 2:17: "O mundo e a sua cobiça passam, mas aquele que faz a vontade de Deus permanece para sempre." Este versículo reforça a ideia de que o que é mais importante na vida é buscar a vontade de Deus e viver de acordo com ela, pois essa é a única coisa que perdura para além desta vida terrena.
+****
+
+[[v25-6-1]]
+
+^<<v25-6-1,1>>^ Há ainda outro mal que eu tenho visto debaixo do sol, e que pesa grandemente sobre o homem:
+
+[[v25-6-2]]
+
+^<<v25-6-2,2>>^ Uma pessoa a quem Deus deu riquezas, bens e honras, a quem nada falta de quantas coisas deseja, mas a quem Deus não concedeu faculdade para comer de tudo isso, porque virá um estranho que há-de devorar tudo; isto é uma vaidade e uma grande miséria.
+
+[[v25-6-3]]
+
+^<<v25-6-3,3>>^ Se um homem tiver um cento de filhos, se viver muitos anos, e contar numerosos dias de vida, e a sua alma se não utilizar dos bens que possui, e se vier a ser privado de sepultura, deste homem não duvido afirmar que um aborto vale mais do que ele.
+
+[[v25-6-4]]
+
+^<<v25-6-4,4>>^ Com efeito, o aborto veio ao mundo debalde, e vai para as trevas (do sepulcro), e o seu nome ficará sepultado no esquecimento,
+
+[[v25-6-5]]
+
+^<<v25-6-5,5>>^ sem ter visto nem conhecido o sol. Mais vale a sua sorte que a deste homem.
+
+[[v25-6-6]]
+
+^<<v25-6-6,6>>^ (Porém o avarento), ainda que vivesse dois mil anos, se não gozou dos seus bens, porventura não irá tudo (com ele) para o mesmo lugar (que é o túmulo)?
+
+[[v25-6-7]]
+
+^<<v25-6-7,7>>^ Todo o trabalho do homem é para a sua boca, mas as suas aspirações não se satisfazem.
+
+[[v25-6-8]]
+
+^<<v25-6-8,8>>^ Qual é a vantagem do sábio sobre o insensato? Qual é a do pobre, que se sabe conduzir na vida?
+
+[[v25-6-9]]
+
+^<<v25-6-9,9>>^ Melhor é ter diante dos olhos o que se há-de desejar, do que desejar o que se ignora. Mas também isto é vaidade e aflição de espírito.
+
+[[v25-6-10]]
+
+^<<v25-6-10,10>>^ Aquele que há-de ser, foi já chamado pelo seu nome; sabe-se que ele é homem, e que não pode disputar em juízo contra quem é mais forte do que ele. (ver nota)
+
+[[v25-6-11]]
+
+^<<v25-6-11,11>>^ Onde há muitas palavras, há muita vaidade. Que aproveita o homem com isso?
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-005.adoc#v25-5-0[&#60; Capítulo Anterior] | <<v25-6-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-007.adoc#v25-7-0[Próximo Capítulo &#62;]

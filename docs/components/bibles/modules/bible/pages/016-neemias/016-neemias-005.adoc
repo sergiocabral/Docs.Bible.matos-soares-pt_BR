@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v16-5-0]]
+=== Neemias, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Neemias 5 trata da opressão dos ricos sobre os pobres em Jerusalém, e da liderança de Neemias em confrontar essa situação injusta. Os versículos a seguir foram escolhidos por abordarem temas relacionados ao capítulo:
+* Provérbios 22:16: "Aquele que oprime os pobres para enriquecer-se, ou dá ao rico, certamente empobrecerá." Este verso destaca a injustiça da opressão dos pobres pelos ricos, e como essa prática pode levar a uma situação insustentável.
+* Isaías 58:6: "Porventura não é este o jejum que escolhi, que soltes as ligaduras da impiedade, que desfaças as ataduras do jugo, e que deixes livres os oprimidos, e despedaces todo o jugo?" Este verso enfatiza a importância de se livrar dos jugos de opressão, e como essa é uma parte essencial do verdadeiro jejum.
+* Jeremias 22:3: "Assim diz o Senhor: Praticai o direito e a justiça, livrai o oprimido das mãos do opressor, e não oprimais ao estrangeiro, nem ao órfão, nem à viúva; nem derrameis sangue inocente neste lugar." Este verso ressalta a responsabilidade dos líderes em praticar a justiça e proteger os oprimidos, em vez de contribuir para sua opressão.
+* Provérbios 29:7: "O justo conhece a causa dos pobres; mas o ímpio não entende tal conhecimento." Este verso mostra a diferença entre um líder justo, como Neemias, que compreende as lutas dos pobres, e um líder injusto, que não se preocupa com o sofrimento dos menos favorecidos.
+* Isaías 1:17: "Aprendei a fazer bem; procurai o que é justo; ajudai o oprimido; fazei justiça ao órfão; tratai da causa das viúvas." Este verso destaca a importância de fazer o bem, procurar a justiça e ajudar os oprimidos, o que Neemias buscou fazer ao liderar o povo na reconstrução de Jerusalém.
+****
+
+[[v16-5-1]]
+
+^<<v16-5-1,1>>^ Entretanto levantou-se um grande clamor do povo e de suas mulheres contra os Judeus seus irmãos.
+
+[[v16-5-2]]
+
+^<<v16-5-2,2>>^ Havia quem dissesse: Nossos filhos e nossas filhas são em número excessivo; vendamo-los e compremos trigo para comermos e bebermos.
+
+[[v16-5-3]]
+
+^<<v16-5-3,3>>^ Havia também outros que diziam: Empenhemos os nossos campos, as nossas vinhas e as nossas casas, para termos trigo durante a fome.
+
+[[v16-5-4]]
+
+^<<v16-5-4,4>>^ Outros diziam: Tomemos dinheiro emprestado para pagarmos os tributos do rei, e empenhemos os nossos campos e vinhas.
+
+[[v16-5-5]]
+
+^<<v16-5-5,5>>^ Apesar de a nossa carne ser como a carne dos nossos irmãos (ricos), os nossos filhos como os deles, contudo reduzimos os nossos filhos e as nossas filhas à escravidão, e algumas das nossas filhas são (já) escravas! E não temos com que poder resgatá-las, pois são estranhos que possuem os nossos campos e as nossas vinhas.
+
+[[v16-5-6]]
+
+^<<v16-5-6,6>>^ Eu irritei-me muito, ao ouvir os seus clamores e as suas reclamações.
+
+[[v16-5-7]]
+
+^<<v16-5-7,7>>^ Depois de ter reflectido maduramente, repreendi os grandes e os magistrados, dizendo-Ihes: Porventura sois usurários para vossos irmãos? Então convoquei contra eles uma grande assembleia
+
+[[v16-5-8]]
+
+^<<v16-5-8,8>>^ e disse-lhe: Nós, como sabeis, segundo as nossas posses, resgatámos os Judeus nossos irmãos, que tinham sido vendidos aos gentios; e vós vendereis agora vossos irmãos, para que nós os tenhamos de resgatar (novamente)? Eles ficaram em silêncio, e não souberam que me responder.
+
+[[v16-5-9]]
+
+^<<v16-5-9,9>>^ Acrescentei: Não é bem o que fazeis. Por que não andais vós no temor do nosso Deus, para que não cheguemos a ser escarnecidos pelos povos nossos inimigos?
+
+[[v16-5-10]]
+
+^<<v16-5-10,10>>^ Também eu, meus irmãos e meus criados temos emprestado a muitos dinheiro e trigo ; concordemos todos em não lhes pedir nada, em os dar por quites do que nos devem.
+
+[[v16-5-11]]
+
+^<<v16-5-11,11>>^ Restituí-lhes hoje os seus campos, as suas vinhas, os seus olivais e as suas casas; restitui-lhes, além disso, aquele um por cento do dinheiro, do trigo, do vinho e do azeite, que exigistes deles.
+
+[[v16-5-12]]
+
+^<<v16-5-12,12>>^ Eles responderam: Nós lho restituiremos, não lhes pediremos nada, faremos como dizes. Então chamei os sacerdotes e fiz-lhes prestar juramento que fariam como eu tinha dito.
+
+[[v16-5-13]]
+
+^<<v16-5-13,13>>^ Depois disto sacudi as minhas vestes e disse : Assim sacuda Deus da sua casa e dos seus bens todo aquele homem que não cumprir a sua palavra; assim seja ele sacudido, e fique sem coisa alguma. Todo o povo respondeu: Amém. E eles louvaram a Deus. Fez, pois, o povo segundo tinha sido dito.
+
+[[v16-5-14]]
+
+^<<v16-5-14,14>>^ Desde o dia em que o rei me tinha mandado que fosse governador da terra de Judá, desde o ano vigésimo até ao trigésimo segundo do reinado de Artaxerxes, por espaço de doze anos, nem eu nem meus irmãos comemos das rendas que eram devidas aos governadores.
+
+[[v16-5-15]]
+
+^<<v16-5-15,15>>^ Mas os primeiros governadores, que tinham sido antes de mim, oprimiram o povo, cobrando dele todos os dias quarenta siclos em pão, vinho e dinheiro; sobre isto, os seus oficiais oprimiam ainda o povo. Eu, porém, não procedi assim, porque temo a Deus;
+
+[[v16-5-16]]
+
+^<<v16-5-16,16>>^ antes trabalhei nos reparos do muro, sem comprar campo algum, e os meus servos encontraram-se sempre juntos no trabalho.
+
+[[v16-5-17]]
+
+^<<v16-5-17,17>>^ Tinha à minha mesa cento e cinquenta homens. Judeus e magistrados, além daquelas pessoas que, dentre os povos que estavam à roda de nós, vinham ter connosco.
+
+[[v16-5-18]]
+
+^<<v16-5-18,18>>^ Para isto todos os dias me era preparado um boi, seis carneiros escolhidos, além das aves, tudo à minha custa; de dez em dez dias, eu distribuía vinho em abundância. Apesar disso, não cobrei as rendas do meu cargo de governador, porque o povo estava extremamente empobrecido.
+
+[[v16-5-19]]
+
+^<<v16-5-19,19>>^ Lembra-te de mim, Deus meu para usares comigo de misericórdia, segundo a medida de todo o bem que eu fiz a este povo.
+
+'''
+
+xref:016-neemias/016-neemias-004.adoc#v16-4-0[&#60; Capítulo Anterior] | <<v16-5-0,Topo>> | xref:016-neemias/016-neemias-006.adoc#v16-6-0[Próximo Capítulo &#62;]

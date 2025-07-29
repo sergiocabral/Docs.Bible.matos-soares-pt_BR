@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v12-25-0]]
+=== II Reis, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 25 de 2 Reis narra a queda final de Jerusalém e a destruição do Templo pelos babilônios. O rei Zedequias foi capturado e levado a Nabucodonosor, que ordenou a execução de seus filhos diante dele. A cidade de Jerusalém foi completamente destruída e seus habitantes foram levados cativos para Babilônia. Aqui estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Jeremias 52:13: "E queimou a casa do Senhor, e a casa do rei, como também todas as casas de Jerusalém; todas as casas importantes ele as queimou." Este versículo confirma a destruição completa de Jerusalém e do Templo pelo exército babilônico.
+* Jeremias 52:17: "Mas a guarda dos caldeus quebraram as colunas de bronze que estavam na casa do Senhor, e as bases, e o mar de bronze que estava na casa do Senhor, e levaram todo o bronze para Babilônia." Este versículo detalha a pilhagem da Casa do Senhor pelos babilônios.
+* 2 Reis 25:11: "Então o rei de Babilônia deportou o povo para Babilônia, e eles se tornaram seus escravos até o dia de hoje." Este versículo relata que os judeus foram levados cativos para Babilônia como resultado da destruição de Jerusalém.
+* Jeremias 52:27: "E Jeoiaquim removeu as suas roupas de prisioneiro e comeu regularmente na presença do rei de Babilônia todos os dias de sua vida." Este versículo se refere a Jeoaquim, que foi libertado da prisão pelo rei babilônico Evil-Merodaque e recebeu um tratamento privilegiado pelo resto de sua vida.
+* Jeremias 52:31-34: "No trigésimo sétimo ano do exílio de Joaquim, rei de Judá, no dia vinte e cinco do décimo segundo mês, Evil-Merodaque, rei da Babilônia, emitiu uma ordem em favor de Joaquim e o libertou da prisão. Ele falou gentilmente com Joaquim e deu-lhe um lugar acima dos outros reis que estavam com ele em Babilônia. Então Joaquim tirou suas roupas de prisioneiro e comeu na presença do rei de Babilônia todos os dias de sua vida. E seu sustento diário foi fornecido pelo rei de Babilônia, até o dia de sua morte, por todos os dias de sua vida." Estes versículos contam como o rei Joaquim foi libertado da prisão e teve um tratamento privilegiado pelo rei babilônico Evil-Merodaque até sua morte.
+****
+
+[[v12-25-1]]
+
+^<<v12-25-1,1>>^ No ano nono do seu reinado, no décimo dia do décimo mês, veio Nabucodonosor, rei de Babilônia, com todo o seu exército contra Jerusalém, pôs-lhe cerco e construiu muros de aproximação (para o ataque) ao redor dela.
+
+[[v12-25-2]]
+
+^<<v12-25-2,2>>^ A cidade ficou fechada e circunvalada até ao undécimo ano do rei Sedecias.
+
+[[v12-25-3]]
+
+^<<v12-25-3,3>>^ Aos nove do mês... a cidade viu-se apertada da fome, e não havia pão para o povo da terra.
+
+[[v12-25-4]]
+
+^<<v12-25-4,4>>^ Foi, então, aberta uma brecha na cidade, e todos os homens de guerra fugiram de noite pelo caminho da porta que está entre os dois muros, perto do jardim do rei. Entretanto os Caldeus apertavam o cerco da cidade. Sedecias fugiu pela estrada que conduz às planícies do deserto,
+
+[[v12-25-5]]
+
+^<<v12-25-5,5>>^ mas o exército dos Caldeus foi em seguimento do rei, e alcançou-o na planície de Jericó. Todos os guerreiros que estavam com ele foram dispersos, e abandonaram-no.
+
+[[v12-25-6]]
+
+^<<v12-25-6,6>>^ Tendo prendido o rei, levaram-no a Reblata, ao rei da Babilônia, o qual pronunciou sentença contra ele.
+
+[[v12-25-7]]
+
+^<<v12-25-7,7>>^ Degolou na presença de Sedecias os seus filhos; a ele vasou-lhe os olhos, prendeu com cadeias de bronze e levou para Babilônia.
+
+[[v12-25-8]]
+
+^<<v12-25-8,8>>^ No dia sétimo do quinto mês, que é o décimo nono ano do rei de Babilônia, foi a Jerusalém Nabuzardan, general do exército e servo do rei de Babilônia.
+
+[[v12-25-9]]
+
+^<<v12-25-9,9>>^ Queimou a casa do Senhor, a casa do rei e as casas de Jerusalém; entregou às chamas todos os grandes edifícios.
+
+[[v12-25-10]]
+
+^<<v12-25-10,10>>^ Todo o exército dos Caldeus, que estava com o chefe da guarda, deitou abaixo por todos os lados os muros de Jerusalém.
+
+[[v12-25-11]]
+
+^<<v12-25-11,11>>^ Nabuzardan, general do exército, transportou todo o resto do povo que tinha ficado na cidade, os desertores que já se tinham submetido ao rei de Babilônia, e o resto da plebe.
+
+[[v12-25-12]]
+
+^<<v12-25-12,12>>^ Deixou alguns pobres da terra como viticultores e agricultores.
+
+[[v12-25-13]]
+
+^<<v12-25-13,13>>^ Os Caldeus despedaçaram as colunas de bronze que estavam no templo do Senhor, as bases e o mar de bronze, que estavam na casa do Senhor, e transportaram para Babilônia todo o bronze.
+
+[[v12-25-14]]
+
+^<<v12-25-14,14>>^ Levaram também as panelas de bronze, as jarras, os garfos, as taças, os graais e todos os vasos de bronze que se usavam no ministério.
+
+[[v12-25-15]]
+
+^<<v12-25-15,15>>^ O general do exército levou também os turíbulos e os copos, tudo quanto era de ouro e tudo quanto era de prata.
+
+[[v12-25-16]]
+
+^<<v12-25-16,16>>^ Quanto às duas colunas, ao mar de bronze e às bases que Salomão tinha feito no templo do Senhor, o peso do seu bronze era incalculável.
+
+[[v12-25-17]]
+
+^<<v12-25-17,17>>^ Cada coluna tinha dezoito côvados de altura, e, em cima, um capitel de bronze de três côvados de alto; sobre o capitel da coluna, uma (espécie de) rede e romãs, tudo de bronze; a segunda coluna tinha os mesmos ornatos.
+
+[[v12-25-18]]
+
+^<<v12-25-18,18>>^ O general do exército Ievou também Saraias primeiro sacerdote, e Sofonias, segundo sacerdote, e três porteiros.
+
+[[v12-25-19]]
+
+^<<v12-25-19,19>>^ Levou um eunuco apanhado na cidade, que comandava a gente de guerra, e cinco homens dos que assistiam ao rei, os quais encontrou na cidade, e Sofer, inspector do exército, que exercitava os soldados bisonhos do povo do país, e sessenta homens do povo, que foram encontrados na cidade.
+
+[[v12-25-20]]
+
+^<<v12-25-20,20>>^ Tomando-os Nabuzardan, general do exército, levou-os ao rei de Babilônia a Reblata.
+
+[[v12-25-21]]
+
+^<<v12-25-21,21>>^ O rei de Babilônia matou-os em Reblata, no país de Emat. Assim Judá foi deportado do seu país.
+
+[[v12-25-22]]
+
+^<<v12-25-22,22>>^ O governo do povo, que tinha ficado na terra de Judá, que Nabucodonosor, rei de Babilônia, tinha deixado, entregou-o a Godolias, filho de Aicão , filho de Safan.
+
+[[v12-25-23]]
+
+^<<v12-25-23,23>>^ Todos os oficiais do exército e aqueles que estavam com eles, tendo sabido que o rei de Babilônia tinha nomeado governador a Godolias, foram ter com Godolias a Masfa. Eram: Ismael, filho de Natanias, Joanan, filho de Carée, Saraias, filho de Taneemet Netofatita, Jezonias, filho de Maacati, eles e os seus companheiros.
+
+[[v12-25-24]]
+
+^<<v12-25-24,24>>^ Godolias declarou, sob juramento, a eles e aos seus companheiros: Não temais servir os Caldeus; ficai no país e servi ao rei de Babilônia, que estareis bem.
+
+[[v12-25-25]]
+
+^<<v12-25-25,25>>^ Ao cabo de sete meses, aconteceu que veio Ismael, filho de Natanias, filho de Elisama, de sangue real, com dez homens em sua companhia, e feriram Godolias, que morreu; (feriram) também os Judeus e os Caldeus que estavam com ele em Masfa.
+
+[[v12-25-26]]
+
+^<<v12-25-26,26>>^ Então todo o povo, desde pequeno até ao grande, e os oficiais do exército, levantando-se, fugiram para o Egipto, com medo dos Caldeus.
+
+[[v12-25-27]]
+
+^<<v12-25-27,27>>^ No ano trigésimo sétimo da transmigração de Joaquim, rei de Judá, no dia vinte e sete do duodécimo mês, Evilmerodac, rei de Babilônia, no ano em que começou a reinar, levantou a cabeça humilhada de Joaquim, rei de Judá, tirando-o do cárcere.
+
+[[v12-25-28]]
+
+^<<v12-25-28,28>>^ Falou-lhe beniguamente e pôs o seu trono acima do trono dos (outros) reis (subjugados) que estavam com ele em Babilônia.
+
+[[v12-25-29]]
+
+^<<v12-25-29,29>>^ Mudou-lhe os vestidos de que tinha usado no cárcere, e Joaquim comia sempre à sua mesa todos os dias da sua vida.
+
+[[v12-25-30]]
+
+^<<v12-25-30,30>>^ Assinou-lhe também para sempre o seu alimento, que lhe era dado todos os dias durante todo o tempo da sua vida.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-024.adoc#v12-24-0[&#60; Capítulo Anterior] | <<v12-25-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-001.adoc#v13-1-0[Próximo Capítulo &#62;]

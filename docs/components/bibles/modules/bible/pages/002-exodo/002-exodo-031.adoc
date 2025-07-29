@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v2-31-0]]
+=== Êxodo, 31
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Êxodo 31 fala sobre a escolha de Bezalel e Aoliabe como artesãos para a construção do tabernáculo e seus objetos sagrados. Também descreve a importância do sábado como um dia sagrado e a entrega das tábuas da Lei a Moisés. Abaixo estão cinco versículos relacionados aos temas abordados no capítulo, excluindo versículos de Êxodo 31:
+* 2 Crônicas 24:13: "Assim os que trabalhavam na obra fizeram-na, e foi restituída a casa de Deus em sua forma e fortaleceu-se." Este versículo fala sobre a reconstrução do templo de Deus sob a liderança de Joás. Isso se relaciona com Êxodo 31, que fala sobre a escolha de Bezalel e Aoliabe como artesãos para a construção do tabernáculo.
+* Ezequiel 20:12: "Também lhes dei os meus sábados, para que servissem de sinal entre mim e eles; para que soubessem que eu sou o Senhor que os santifica." Este versículo fala sobre a importância do sábado como um sinal da aliança entre Deus e o seu povo. Isso se relaciona com Êxodo 31, que fala sobre a observância do sábado como um dia sagrado.
+* Deuteronômio 9:10: "E o Senhor me deu as duas tábuas de pedra, escritas pelo dedo de Deus; e nelas estava escrito conforme a todas as palavras que o Senhor vos falara no monte, do meio do fogo, no dia da assembléia." Este versículo fala sobre a entrega das tábuas da Lei a Moisés no Monte Sinai. Isso se relaciona com Êxodo 31, que também fala sobre a entrega das tábuas da Lei a Moisés.
+* Provérbios 22:29: "Vês um homem diligente na sua obra? Perante reis será posto; não será posto perante os de baixa sorte." Este versículo fala sobre a importância da diligência e habilidade no trabalho. Isso se relaciona com Êxodo 31, que fala sobre a escolha de Bezalel e Aoliabe como artesãos habilidosos para a construção do tabernáculo.
+* Hebreus 4:9: "Portanto, resta ainda um repouso para o povo de Deus." Este versículo fala sobre o repouso eterno que aguarda os fiéis em Deus. Isso se relaciona com Êxodo 31, que fala sobre a observância do sábado como um dia de descanso e renovação espiritual para o povo de Deus.
+****
+
+[[v2-31-1]]
+
+^<<v2-31-1,1>>^ O Senhor falou a Moisés, dizendo;
+
+[[v2-31-2]]
+
+^<<v2-31-2,2>>^ Sabe que chamei pelo (seu) nome a Beseleel, filho de Uri, filho de Hur da tribo da Judá.
+
+[[v2-31-3]]
+
+^<<v2-31-3,3>>^ e o enchi do espirito de Deus, de sabedoria, de inteligência e de ciência, para toda a qualidade de obras,
+
+[[v2-31-4]]
+
+^<<v2-31-4,4>>^ para inventar tudo o que se pode fazer com o ouro, com a prata, com o cobre,
+
+[[v2-31-5]]
+
+^<<v2-31-5,5>>^ com o mármore, com as pedras preciosas e com as diversas madeiras.
+
+[[v2-31-6]]
+
+^<<v2-31-6,6>>^ Dei-lhe por companheiro Ooliab, filho de Aquisamech da tribo de Dan. Pus a sabedoria no coração de todos os homens hábeis, para que façam tudo o que ordenei;
+
+[[v2-31-7]]
+
+^<<v2-31-7,7>>^ o tabernáculo da aliança, a arca do testemunho, o propiciatório, que está por cima dela, todas as alfaias do tabernáculo,
+
+[[v2-31-8]]
+
+^<<v2-31-8,8>>^ a mesa com os seus vasos, o candeeiro puríssimo com os seus utensílios, o altar dos perfumes,
+
+[[v2-31-9]]
+
+^<<v2-31-9,9>>^ o dos holocaustos e todos os seus utensílios, a bacia com sua base,
+
+[[v2-31-10]]
+
+^<<v2-31-10,10>>^ e as vestes sagradas para uso do sacerdote Aarão e de seus filhos, quando se empregarem nas funções sagradas,
+
+[[v2-31-11]]
+
+^<<v2-31-11,11>>^ o óleo da unção, e o perfume aromático para o santuário. Eles farão tudo o que te mandei.
+
+[[v2-31-12]]
+
+^<<v2-31-12,12>>^ Falou mais o Senhor a Moisés, dizendo:
+
+[[v2-31-13]]
+
+^<<v2-31-13,13>>^ Fala aos filhos de Israel, e dize-lhes: Não deixeis de guardar o meu sábado, porque é o sinal (estabelecido) entre mim e vós, para todas as vossas gerações, para que saibais que eu sou o Senhor, que vos santifico.
+
+[[v2-31-14]]
+
+^<<v2-31-14,14>>^ Guardai o meu sábado, porque é (um dia) santo para vós; aquele que o violar será punido de morte: o que trabalhar neste dia, será eliminado do seio do seu povo.
+
+[[v2-31-15]]
+
+^<<v2-31-15,15>>^ Vós trabalhareis seis dias, (mas) o sétimo é dia de completo descanso, consagrado ao Senhor; todo o que trabalhar neste dia, será punido de morte.
+
+[[v2-31-16]]
+
+^<<v2-31-16,16>>^ Os filhos de Israel guardem o sábado, e celebrem-no, eles e os seus descendentes, como uma aliança perpétua.
+
+[[v2-31-17]]
+
+^<<v2-31-17,17>>^ Será, entre mim e os filhos de Israel, um sinal perpétuo, porque em seis dias o Senhor fez o céu e a terra, e no sétimo cessou da obra.
+
+[[v2-31-18]]
+
+^<<v2-31-18,18>>^ Terminadas estas práticas sobre o monte Sinai, o Senhor deu a Moisés duas tábuas de pedra do testemunho, escritas pelo dedo de Deus.
+
+'''
+
+xref:002-exodo/002-exodo-030.adoc#v2-30-0[&#60; Capítulo Anterior] | <<v2-31-0,Topo>> | xref:002-exodo/002-exodo-032.adoc#v2-32-0[Próximo Capítulo &#62;]

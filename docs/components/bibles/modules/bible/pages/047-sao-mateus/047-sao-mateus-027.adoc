@@ -1,0 +1,283 @@
+include::./index.adoc[]
+
+[[v47-27-0]]
+=== São Mateus, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Mateus 27 é o capítulo que relata a crucificação e morte de Jesus. Também são narrados alguns eventos que ocorreram durante a sua prisão e julgamento. A seguir, estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* Isaías 53:5: "Mas ele foi traspassado por causa das nossas transgressões, foi esmagado por causa de nossas iniquidades; o castigo que nos trouxe paz estava sobre ele, e pelas suas feridas fomos curados." Esse versículo profético de Isaías descreve a morte de Jesus e o propósito dela em nos trazer paz e cura.
+* Marcos 15:22-24: "Levaram Jesus ao lugar chamado Gólgota (que significa lugar da Caveira). Ali lhe deram vinho misturado com fel; ele provou, mas não quis beber. Depois de o crucificarem, dividiram as roupas dele, tirando sortes para ver quem ficaria com cada uma." Esse versículo do Evangelho de Marcos descreve o local onde Jesus foi crucificado e o tratamento cruel que ele recebeu dos soldados romanos.
+* Lucas 23:34: "Jesus dizia: Pai, perdoa-lhes, porque não sabem o que estão fazendo. Então dividiram as roupas dele, tirando sortes." Esse versículo do Evangelho de Lucas mostra o caráter misericordioso e perdoador de Jesus, mesmo quando estava sendo crucificado.
+* João 19:26-27: "Quando Jesus viu sua mãe ali, e perto dela o discípulo a quem ele amava, disse à sua mãe: Mulher, aqui está o seu filho, e ao discípulo: Aqui está a sua mãe. Daquela hora em diante, o discípulo a recebeu em sua casa." Esse versículo do Evangelho de João mostra o cuidado e preocupação de Jesus com sua mãe e sua preocupação em garantir que ela fosse bem cuidada após a sua morte.
+* Hebreus 9:28: "Assim também Cristo foi oferecido em sacrifício uma única vez, para tirar os pecados de muitos; e aparecerá segunda vez, não para tirar o pecado, mas para trazer salvação aos que o aguardam." Esse versículo da Epístola aos Hebreus explica o significado da morte de Jesus como um sacrifício pelos nossos pecados e a promessa da sua segunda vinda para trazer a salvação.
+****
+
+[[v47-27-1]]
+
+^<<v47-27-1,1>>^ Logo de manhã, todos os príncipes dos sacerdotes e anciãos do povo tiveram conselho contra Jesus, para o entregarem à morte.
+
+[[v47-27-2]]
+
+^<<v47-27-2,2>>^ Em seguida, manietado, o levaram e entregaram ao governador Pôncio Pilatos.
+
+[[v47-27-3]]
+
+^<<v47-27-3,3>>^ Então Judas, que o tinha entregado, vendo que Jesus fora condenado, tocado de remorsos, tornou a levar as trinta moedas de prata aos príncipes dos sacerdotes, e aos anciãos,
+
+[[v47-27-4]]
+
+^<<v47-27-4,4>>^ dizendo: "Pequei, entregando o sangue inocente." Mas eles disseram: "Que nos importa? Isso é contigo."
+
+[[v47-27-5]]
+
+^<<v47-27-5,5>>^ Então, tendo atirado as moedas de prata para o templo, retirou-se e foi pendurar-se de um laço.
+
+[[v47-27-6]]
+
+^<<v47-27-6,6>>^ Os príncipes dos sacerdotes, tomando as moedas de prata, disseram : "Não é licito deitá-las na arca das esmolas, porque são preço de sangue."
+
+[[v47-27-7]]
+
+^<<v47-27-7,7>>^ E, tendo consultado entre si, compraram com elas o campo do Oleiro, para sepultura dos estrangeiros.
+
+[[v47-27-8]]
+
+^<<v47-27-8,8>>^ Por esta razão aquele campo foi chamado campo de sangue, até ao dia de hoje.
+
+[[v47-27-9]]
+
+^<<v47-27-9,9>>^ Então se cumpriu o que foi predito por Jeremias, profeta: Tomaram as trinta moedas de prata, custo daquele cujo preço foi avaliado pelos filhos de Israel, (ver nota)
+
+[[v47-27-10]]
+
+^<<v47-27-10,10>>^ e deram-nas pelo campo do Oleiro, como o Senhor me ordenou.
+
+[[v47-27-11]]
+
+^<<v47-27-11,11>>^ Jesus foi apresentado diante do governador, que o interrogou, dizendo: "Tu és o Rei dos Judeus?" Jesus respondeu-lhe: "Tu o dizes."
+
+[[v47-27-12]]
+
+^<<v47-27-12,12>>^ Mas, sendo acusado pelos príncipes dos sacerdotes e pelos anciãos, nada respondeu.
+
+[[v47-27-13]]
+
+^<<v47-27-13,13>>^ Então Pilatos disse-lhe: "Não ouves de quantas coisas te acusam?"
+
+[[v47-27-14]]
+
+^<<v47-27-14,14>>^ E não lhe respondeu a palavra alguma, de modo que o governador ficou em extremo admirado.
+
+[[v47-27-15]]
+
+^<<v47-27-15,15>>^ O governador tinha costume, por ocasião da festa da Páscoa, soltar aquele preso que o povo quisesse.
+
+[[v47-27-16]]
+
+^<<v47-27-16,16>>^ Naquela ocasião tinha ele um preso afamado, que se chamava Barrabás.
+
+[[v47-27-17]]
+
+^<<v47-27-17,17>>^ Estando eles reunidos, perguntou-lhes Pilatos: "Qual quereis vós que eu vos solte? Barrabás ou Jesus, que se chama o Cristo?"
+
+[[v47-27-18]]
+
+^<<v47-27-18,18>>^ Porque sabia que o tinham entregado por inveja.
+
+[[v47-27-19]]
+
+^<<v47-27-19,19>>^ Enquanto ele estava sentado no tribunal, sua mulher mandou-lhe dizer: "Nada haja entre ti e esse justo, porque fui hoje muito atormentada em sonhos por causa dele."
+
+[[v47-27-20]]
+
+^<<v47-27-20,20>>^ Mas os príncipes dos sacerdotes e os anciãos persuadiram o povo que pedisse Barrabás e que fizesse morrer Jesus.
+
+[[v47-27-21]]
+
+^<<v47-27-21,21>>^ O governador, tomando a palavra, disse-lhes: Qual dos dois quereis que eu vos solte?" Eles responderam: "Barrabás."
+
+[[v47-27-22]]
+
+^<<v47-27-22,22>>^ Pilatos disse-lhes: "Que hei-de então fazer de Jesus, que se chama Cristo?"
+
+[[v47-27-23]]
+
+^<<v47-27-23,23>>^ Disseram todos: "Seja crucificado." O governador disse-lhes; "Mas que mal fez ele?" Eles, porém, gritavam mais alto: "Seja crucificado!"
+
+[[v47-27-24]]
+
+^<<v47-27-24,24>>^ Pilatos, vendo que nada conseguia, mas que cada vez era maior o tumulto, tomando água, lavou as mãos diante do povo, dizendo: "Eu sou inocente do sangue deste justo; a vós pertence toda a responsabilidade." (ver nota)
+
+[[v47-27-25]]
+
+^<<v47-27-25,25>>^ Todo o povo respondeu: "O seu sangue caia sobre nós e sobre nossos filhos."
+
+[[v47-27-26]]
+
+^<<v47-27-26,26>>^ Então soltou-lhes Barrabás. Quanto a Jesus, depois de o ter mandado flagelar, entregou-lho para ser crucificado.
+
+[[v47-27-27]]
+
+^<<v47-27-27,27>>^ Então os soldados do governador, conduzindo Jesus ao Pretório, juntaram em volta dele toda a coorte.
+
+[[v47-27-28]]
+
+^<<v47-27-28,28>>^ Depois de o terem despido, lançaram sobre ele um manto carmezim.
+
+[[v47-27-29]]
+
+^<<v47-27-29,29>>^ Em seguida, tecendo uma coroa de espinhos, puseram-lha sobre a cabeça, e na mão direita uma cana. E, dobrando o joelho diante dele, o escarneciam, dizendo: "Salve, ó rei dos Judeus."
+
+[[v47-27-30]]
+
+^<<v47-27-30,30>>^ Cuspindo-lhe, tomavam a cana e batiam-lhe com ela na cabeça.
+
+[[v47-27-31]]
+
+^<<v47-27-31,31>>^ Depois que o escarneceram, tiraram-lhe o manto, revestiram-no com os seus vestidos, e levaram-no para o crucificarem.
+
+[[v47-27-32]]
+
+^<<v47-27-32,32>>^ Ao sair, encontraram um homem de Cirene, chamado Simão, ao qual obrigaram a levar a cruz de Jesus.
+
+[[v47-27-33]]
+
+^<<v47-27-33,33>>^ Tendo chegado ao lugar, chamado Gólgota, isto é, lugar do Crânio,
+
+[[v47-27-34]]
+
+^<<v47-27-34,34>>^ deram-lhe a beber vinho misturado com fel. Tendo-o provado, não quis beber. (ver nota)
+
+[[v47-27-35]]
+
+^<<v47-27-35,35>>^ Depois que o crucificaram, repartiram entre si os seus vestidos, lançando sortes, cumprindo-se deste modo o que tinha sido anunciado pelo profeta: Repartiram entre si os meus vestidos, sobre a minha túnica lançaram sortes (Ps. 21, 19).
+
+[[v47-27-36]]
+
+^<<v47-27-36,36>>^ E, sentados, o guardavam.
+
+[[v47-27-37]]
+
+^<<v47-27-37,37>>^ Puseram por cima da sua cabeça uma inscrição indicando a causa da sua morte: Este é Jesus, o Rei dos Judeus.
+
+[[v47-27-38]]
+
+^<<v47-27-38,38>>^ Ao mesmo tempo foram crucificados com ele dois ladrões: um à direita, outro à esquerda.
+
+[[v47-27-39]]
+
+^<<v47-27-39,39>>^ Os que iam passando ultrajavam-no, movendo as suas cabeças,
+
+[[v47-27-40]]
+
+^<<v47-27-40,40>>^ e dizendo: "Ó tu, que destróis o templo e o reedificas em três dias, salva-te a ti mesmo: Se és Filho de Deus, desce da cruz."
+
+[[v47-27-41]]
+
+^<<v47-27-41,41>>^ Da mesma sorte, insultando-o também os príncipes dos sacerdotes com os escribas e os anciãos, diziam:
+
+[[v47-27-42]]
+
+^<<v47-27-42,42>>^ "Ele salvou outros, a si mesmo não se pode salvar. Se é rei de Israel, desça agora da cruz, e creremos nele.
+
+[[v47-27-43]]
+
+^<<v47-27-43,43>>^ Confiou em Deus: Se Deus o ama, que o livre agora; porque ele disse: Eu sou Filho de Deus."
+
+[[v47-27-44]]
+
+^<<v47-27-44,44>>^ Do mesmo modo o insultavam os ladrões que estavam crucificados com ele.
+
+[[v47-27-45]]
+
+^<<v47-27-45,45>>^ Desde a hora sexta até à hora nona, houve trevas sobre toda a terra.
+
+[[v47-27-46]]
+
+^<<v47-27-46,46>>^ Perto da hora nona, exclamou Jesus com voz forte: "Eli, Eli, lema sabachtani?" isto é: Deus meu, Deus meu, porque me abandonaste?
+
+[[v47-27-47]]
+
+^<<v47-27-47,47>>^ Alguns dos que ali estavam ao ouvir isto, diziam: "Ele chama por Elias."
+
+[[v47-27-48]]
+
+^<<v47-27-48,48>>^ Imediatamente, correndo um deles, tendo tomado uma esponja, ensopou-a em vinagre, pô-la sobre uma cana, e lhe dava de beber. (ver nota)
+
+[[v47-27-49]]
+
+^<<v47-27-49,49>>^ Porém, os outros diziam: "Deixa; vejamos se vem Elias livrá-lo."
+
+[[v47-27-50]]
+
+^<<v47-27-50,50>>^ Jesus, tornando a dar um alto grito, expirou.
+
+[[v47-27-51]]
+
+^<<v47-27-51,51>>^ E eis que o véu do templo se rasgou em duas parles de alto a baixo, a terra tremeu, as rochas fenderam-se,
+
+[[v47-27-52]]
+
+^<<v47-27-52,52>>^ abriram-se as sepulturas, e muitos corpos de santos, que tinham adormecido, ressuscitaram,
+
+[[v47-27-53]]
+
+^<<v47-27-53,53>>^ e saindo das sepulturas depois da ressurreição de Jesus, foram a cidade santa, e apareceram a muitos.
+
+[[v47-27-54]]
+
+^<<v47-27-54,54>>^ O centurião e os que com ele estavam de guarda a Jesus, vendo o terremoto e as coisas que aconteciam, tiveram grande medo, e diziam: "Na verdade este era Filho de Deus."
+
+[[v47-27-55]]
+
+^<<v47-27-55,55>>^ Achavam-se também ali muitas mulheres que olhavam de longe, as quais tinham seguido Jesus desde a Galileia, subministrando-lhe o necessário.
+
+[[v47-27-56]]
+
+^<<v47-27-56,56>>^ Entre elas estava Maria Madalena, Maria, mãe de Tiago e de José, e a mãe dos filhos de Zebedeu.
+
+[[v47-27-57]]
+
+^<<v47-27-57,57>>^ Pela tarde, veio um homem rico de Arimateia, chamado José, que também era discípulo de Jesus.
+
+[[v47-27-58]]
+
+^<<v47-27-58,58>>^ Foi ter com Pilatos, e pediu-lhe o corpo de Jesus. Pilatos mandou então que lhe fosse dado o corpo.
+
+[[v47-27-59]]
+
+^<<v47-27-59,59>>^ José, tomando o corpo, envolveu-o num lençol branco,
+
+[[v47-27-60]]
+
+^<<v47-27-60,60>>^ e depositou-o no seu sepulcro novo, o qual tinha mandado abrir numa rocha. Depois rolou uma grande pedra para diante da boca do sepulcro, e retirou-se.
+
+[[v47-27-61]]
+
+^<<v47-27-61,61>>^ Maria Madalena e a outra Maria estavam lá, sentadas defronte do supulcro.
+
+[[v47-27-62]]
+
+^<<v47-27-62,62>>^ No outro dia, que é o seguinte à Preparação, os príncipes dos sacerdotes e os fariseus foram juntos ter com Pilatos,
+
+[[v47-27-63]]
+
+^<<v47-27-63,63>>^ e disseram-lhe: "Senhor, estamos recordados que aquele impostor, quando ainda vivia, disse: Ressuscitarei depois de três dias.
+
+[[v47-27-64]]
+
+^<<v47-27-64,64>>^ Ordena, pois, que seja guardado o sepulcro até ao terceiro dia, a fim de que não venham os seus discípulos, o furtem, e digam ao povo: Ressuscitou dos mortos. Desta sorte, o último embuste seria pior do que o primeiro."
+
+[[v47-27-65]]
+
+^<<v47-27-65,65>>^ Pilatos respondeu-lhes: "Tendes uma guarda, ide, guardai-o como entenderdes.
+
+[[v47-27-66]]
+
+^<<v47-27-66,66>>^ Foram, e tomaram bem conta do sepulcro, selando a pedra e pondo lá uma guarda.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-026.adoc#v47-26-0[&#60; Capítulo Anterior] | <<v47-27-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-028.adoc#v47-28-0[Próximo Capítulo &#62;]

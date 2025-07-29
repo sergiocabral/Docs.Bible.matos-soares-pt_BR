@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v20-14-0]]
+=== Jó, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 14 de Jó, o personagem expressa sua angústia diante da brevidade da vida humana e da inevitabilidade da morte. Ele se questiona se haverá alguma esperança após a morte e reflete sobre a transitoriedade da existência humana. Os versículos selecionados abaixo abordam temas relacionados à fragilidade da vida humana e à esperança em Deus.
+* Salmos 39:4-5: "Faze-me conhecer, Senhor, o meu fim e a medida dos meus dias qual é; para que eu sinta quanto sou frágil. Eis que fizeste os meus dias como a palmos; o tempo da minha vida é como nada diante de ti; na verdade, todo homem, por mais firme que esteja, é totalmente vaidade." Este Salmo expressa a mesma angústia presente no coração de Jó sobre a fragilidade da vida humana e a brevidade do tempo.
+* Salmos 90:12: "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio." Este Salmo também aborda a transitoriedade da vida humana e a importância de valorizar cada momento como se fosse o último.
+* 1 Coríntios 15:51-52: "Eis aqui vos digo um mistério: Na verdade, nem todos dormiremos, mas todos seremos transformados, num momento, num abrir e fechar de olhos, ante a última trombeta; porque a trombeta soará, e os mortos serão ressuscitados incorruptíveis, e nós seremos transformados." Neste versículo, Paulo fala da esperança na ressurreição e na transformação do corpo humano em um corpo glorificado.
+* 2 Coríntios 4:16-18: "Por isso não desfalecemos; mas, ainda que o nosso homem exterior se corrompa, o interior, contudo, se renova de dia em dia. Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente; não atentando nós nas coisas que se veem, mas nas que se não veem; porque as que se veem são temporais, e as que se não veem são eternas." Neste versículo, Paulo fala sobre a importância de manter a esperança na vida eterna, mesmo em meio às tribulações e dificuldades da vida terrena.
+* Apocalipse 21:4: "E Deus limpará de seus olhos toda lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas." Este versículo fala da esperança na vida eterna em um novo céu e nova terra, onde não haverá mais dor, morte ou tristeza.
+****
+
+[[v20-14-1]]
+
+^<<v20-14-1,1>>^ O homem, nascido da mulher, vive pouco tempo e é cheio de muitas misérias.
+
+[[v20-14-2]]
+
+^<<v20-14-2,2>>^ Como uma flor nasce e (logo) é cortada, e foge como a sombra, e jamais permanece num mesmo estado.
+
+[[v20-14-3]]
+
+^<<v20-14-3,3>>^ E tu dignas-te abrir os teus olhos sobre tal ser, e chamá-lo a juízo contigo?
+
+[[v20-14-4]]
+
+^<<v20-14-4,4>>^ Quem pode fazer sair o puro do impuro? Ninguém.
+
+[[v20-14-5]]
+
+^<<v20-14-5,5>>^ Os dias do homem são breves, em teu poder está o número dos seus meses; tu lhe fixaste os limites, que não podem ser ultrapassados.
+
+[[v20-14-6]]
+
+^<<v20-14-6,6>>^ Retira-te um pouco dele (deixa de o afligir) para que descanse, até que chegue o seu dia desejado como o dum jornaleiro.
+
+[[v20-14-7]]
+
+^<<v20-14-7,7>>^ Um a árvore tem esperança (de reviver); se for cortada, torna a reverdecer, e brotam os seus ramos.
+
+[[v20-14-8]]
+
+^<<v20-14-8,8>>^ Se a sua raiz envelhecer na terra, e morrer o seu tronco no pó,
+
+[[v20-14-9]]
+
+^<<v20-14-9,9>>^ sentindo água reverdecerá, e fará copa, como no princípio quando foi plantada.
+
+[[v20-14-10]]
+
+^<<v20-14-10,10>>^ Porém o homem, quando morrer fica prostrado; quando expirar, dize-me, que é dele?
+
+[[v20-14-11]]
+
+^<<v20-14-11,11>>^ Esgotam-se as águas dum lago, escoa-se e extingue-se:
+
+[[v20-14-12]]
+
+^<<v20-14-12,12>>^ assim o homem, quando dormir, não mais se levantará; até que o céu seja consumido, não despertará, nem se levantará do seu sono.
+
+[[v20-14-13]]
+
+^<<v20-14-13,13>>^ Quem me dera que tu me encobrisses no sepulcro, e me escondesses nele até ter passado o teu furor, e me assinalasses o tempo em que te houvesses de lembrar de mim,
+
+[[v20-14-14]]
+
+^<<v20-14-14,14>>^ Pensas porventura que um homem já morto tornará a viver? Todos os dias da minha milicia esperaria, até que chegasse a hora do levantamento (ou renovação, gloriosa).
+
+[[v20-14-15]]
+
+^<<v20-14-15,15>>^ Então me chamarias e eu te responderia, e estenderias u tua dextra para a obra das tuas mãos.
+
+[[v20-14-16]]
+
+^<<v20-14-16,16>>^ Em verdade tu contaste todos os meus passos, mas perdoa os meus pecados.
+
+[[v20-14-17]]
+
+^<<v20-14-17,17>>^ Tu selaste como num saco os meus delitos, mas curaste a minha iniquidade.
+
+[[v20-14-18]]
+
+^<<v20-14-18,18>>^ Um monte desmorona-se e desfaz-se, e um rochedo é trasladado do seu lugar. (ver nota)
+
+[[v20-14-19]]
+
+^<<v20-14-19,19>>^ As águas escavam as pedras, e a terra pouco a pouco se consome com as inundações: assim mesmo, pois, acabarás com o homem.
+
+[[v20-14-20]]
+
+^<<v20-14-20,20>>^ Tu o abates, e ele se vai, tu o desfiguras e afastas para longe.
+
+[[v20-14-21]]
+
+^<<v20-14-21,21>>^ Estejam os seus filhos exaltados, ou estejam abatidos, ele não o saberá.
+
+[[v20-14-22]]
+
+^<<v20-14-22,22>>^ A sua carne, apenas padecerá as suas dores, e ã sua alma apenas chorará sobre si mesma.
+
+'''
+
+xref:020-jo/020-jo-013.adoc#v20-13-0[&#60; Capítulo Anterior] | <<v20-14-0,Topo>> | xref:020-jo/020-jo-015.adoc#v20-15-0[Próximo Capítulo &#62;]

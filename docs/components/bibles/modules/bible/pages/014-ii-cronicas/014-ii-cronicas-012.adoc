@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v14-12-0]]
+=== II Crônicas, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 12 de 2 Crônicas relata a queda do reino de Judá sob o governo do rei Roboão. Depois de se afastar do caminho do Senhor, o rei e o povo de Judá são punidos por Deus e invadidos pelos egípcios. Roboão e seus líderes se humilham diante do Senhor e buscam a Sua ajuda para livrá-los da opressão estrangeira. Abaixo estão cinco versículos relacionados aos temas abordados no capítulo:
+* Salmos 34:18 - "Perto está o Senhor dos que têm o coração quebrantado e salva os de espírito oprimido." Este versículo fala sobre a importância de se humilhar diante de Deus em momentos de dificuldade, assim como Roboão e seus líderes fizeram quando foram invadidos pelos egípcios.
+* Provérbios 28:14 - "Feliz é o homem constante no temor ao Senhor, mas o que endurece o coração cairá no mal." A queda de Judá ocorreu porque Roboão se afastou do caminho do Senhor e endureceu seu coração. Este versículo é um lembrete de que aqueles que temem ao Senhor e permanecem em Seus caminhos encontrarão a felicidade.
+* 2 Crônicas 7:14 - "Se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se desviar dos seus maus caminhos, então eu ouvirei do céu, e perdoarei os seus pecados, e sararei a sua terra." Este versículo fala sobre a importância de se arrepender e buscar o Senhor em tempos de dificuldade, assim como Roboão e seu povo fizeram.
+* Jeremias 31:18 - "Certo é que, depois de me haver convertido, eu me arrependi; e, depois de ter sido instruído, bati no meu peito; envergonhei-me e confundi-me, porque suportei o opróbrio da minha mocidade." Este versículo mostra a importância do arrependimento e da humildade diante de Deus, mesmo após ter vivido uma vida de pecado, assim como Roboão e seu povo.
+* Isaías 57:15 - "Porque assim diz o Alto e o Sublime, que habita na eternidade, e cujo nome é Santo: Num alto e santo lugar habito; como também com o contrito e abatido de espírito, para vivificar o espírito dos abatidos, e para vivificar o coração dos contritos." Este versículo destaca a importância da humildade e do arrependimento diante de Deus, e como Ele está sempre disposto a ouvir e perdoar aqueles que buscam a Sua ajuda.
+****
+
+[[v14-12-1]]
+
+^<<v14-12-1,1>>^ Quando o reino de Roboão estava bem estabelecido e consolidado, ele abandonou a lei do Senhor, e com ele todo o Israel.
+
+[[v14-12-2]]
+
+^<<v14-12-2,2>>^ No quinto ano do reinado de Roboão, Sesac, rei do Egito, marchou contra Jerusalém (porque (os Israelitas) tinham pecado contra o Senhor),
+
+[[v14-12-3]]
+
+^<<v14-12-3,3>>^ com mil e duzentos carros de guerra e sessenta mil cavaleiros. Era inumerável a multidão, que com ele tinha vindo do Egito, de Líbios, Suquitas e Etíopes.
+
+[[v14-12-4]]
+
+^<<v14-12-4,4>>^ Apoderou-se das praças mais fortes de Judá e chegou até Jerusalém.
+
+[[v14-12-5]]
+
+^<<v14-12-5,5>>^ O profeta Semeias foi ter com Roboão e com os príncipes de Judá, que se tinham juntado em Jerusalém, fugindo de Sesac, e disse-lhes: Eis o que diz o Senhor: Vós desamparastes-me, e eu vos desamparei também nas mãos de Sesac.
+
+[[v14-12-6]]
+
+^<<v14-12-6,6>>^ Consternados, os príncipes de Israel e o rei disseram: O Senhor é justo.
+
+[[v14-12-7]]
+
+^<<v14-12-7,7>>^ Vendo o Senhor que se tinham humilhado, falou a Semeias, nestes termos: Visto que eles se humilharam, não os perderei; dar-lhes-ei algum auxílio, e não farei cair o meu furor sobre Jerusalém por mão de Sesac.
+
+[[v14-12-8]]
+
+^<<v14-12-8,8>>^ Todavia ficar-lhão sujeitos, para conhecerem a diferença que há entre o servir-me a mim, e o servir os reis da terra.
+
+[[v14-12-9]]
+
+^<<v14-12-9,9>>^ Sesac, rei do Egito, retirou-se de Jerusalém, depois de ter tirado os tesouros da casa do Senhor e do palácio do rei: levou tudo consigo, inclusivamente os escudos de ouro que Salomão tinha mandado fazer.
+
+[[v14-12-10]]
+
+^<<v14-12-10,10>>^ Para os substituir, o rei Roboão mandou fazer outros de bronze, e entregou-os aos capitães dos escudeiros, que guardavam o átrio do palácio.
+
+[[v14-12-11]]
+
+^<<v14-12-11,11>>^ Quando o rei entrava na casa do Senhor, vinham os escudeiros e tomavam-nos; depois tornavam-nos a levar para o quartel da guarda.
+
+[[v14-12-12]]
+
+^<<v14-12-12,12>>^ Porque se tinham humilhado, apartou-se deles a ira do Senhor; não foram inteiramente destruídos, porque ainda se acharam obras boas em Judá.
+
+[[v14-12-13]]
+
+^<<v14-12-13,13>>^ O rei Roboão fortificou-se, pois, em Jerusalém, e reinou. Tinha quarenta e um anos quando começou a reinar, e reinou dezassete anos em Jerusalém, cidade que o Senhor tinha escolhido entre todas as das tribos de Israel, para nela estabelecer o seu nome. Sua mãe chamava-se Naama, Amonita.
+
+[[v14-12-14]]
+
+^<<v14-12-14,14>>^ Ele fez o mal, não dispondo o seu coração para buscar o Senhor.
+
+[[v14-12-15]]
+
+^<<v14-12-15,15>>^ As ações de Roboão, assim as primeiras como as últimas, estão escritas nos livros do profeta Semeias e de Ado, o vidente, com exatidão. Roboão e Jeroboão tiveram guerra entre si durante todos os seus dias.
+
+[[v14-12-16]]
+
+^<<v14-12-16,16>>^ Roboão adormeceu com seus pais, e foi sepultado na cidade de Davide. Seu filho Abia reinou em seu lugar.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-011.adoc#v14-11-0[&#60; Capítulo Anterior] | <<v14-12-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-013.adoc#v14-13-0[Próximo Capítulo &#62;]

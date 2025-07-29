@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v14-11-0]]
+=== II Crônicas, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 11 descreve a divisão do reino de Israel após a morte do rei Salomão, com dez tribos do norte se rebelando contra Roboão, filho de Salomão, que governou as duas tribos do sul. O capítulo também fala sobre as fortificações construídas por Roboão em Judá para se preparar para a guerra.
+* 1 Reis 12:16: "Vendo, pois, todo o Israel que o rei não lhe dava ouvidos, o povo respondeu ao rei, dizendo: Que parte temos nós com Davi? Nem temos nós herança com o filho de Jessé; cada um para as suas tendas, ó Israel! Agora, pois, olha pela tua casa, ó Davi. E Israel se foi para as suas tendas." Este versículo fala sobre a rebelião das dez tribos do norte, que se separaram do reino de Judá.
+* 2 Crônicas 12:1: "E sucedeu que, acabando Roboão de consolidar o reino, e fortalecendo-se, deixou a lei do Senhor, e todo o Israel com ele." Este versículo mostra que Roboão, após ter fortalecido seu reino, abandonou a lei de Deus e levou o povo com ele.
+* Deuteronômio 20:1: "Quando saíres à peleja contra os teus inimigos, e vires cavalos, e carros, e povo mais numeroso do que tu, não os temerás; pois o Senhor teu Deus, que te tirou da terra do Egito, está contigo." Este versículo fala sobre a importância da confiança em Deus em momentos de guerra, que era uma preocupação para Roboão ao construir as fortificações.
+* Provérbios 18:10: "Torre forte é o nome do Senhor; a ela correrá o justo, e estará em alto refúgio." Este versículo reforça o tema da construção de fortificações, mas lembra que a verdadeira segurança e proteção vem do nome do Senhor.
+* Jeremias 17:5: "Assim diz o Senhor: Maldito o homem que confia no homem, e faz da carne o seu braço, e aparta o seu coração do Senhor." Este versículo lembra que, apesar das fortificações e preparações para a guerra, a confiança em Deus é a verdadeira chave para a vitória e a proteção.
+****
+
+[[v14-11-1]]
+
+^<<v14-11-1,1>>^ Roboão, de volta a Jerusalém, convocou toda a tribo de Judá e de Benjamim, cento e oitenta mil homens escolhidos e guerreiros, para pelejar contra Israel e trazê-lo para o seu domínio.
+
+[[v14-11-2]]
+
+^<<v14-11-2,2>>^ Todavia o Senhor dirigiu a sua palavra a Semeias, homem de Deus, dizendo:
+
+[[v14-11-3]]
+
+^<<v14-11-3,3>>^ Vai dizer a Roboão, filho de Salomão, rei de Judá, e a todo o Israel, que está na tribo de Judá e de Benjamim:
+
+[[v14-11-4]]
+
+^<<v14-11-4,4>>^ Eis o que diz o Senhor: Não marchareis, nem pelejareis contra vossos irmãos; cada um volte para sua casa, porque isto aconteceu por minha vontade. Eles, tendo ouvido a palavra do Senhor, voltaram para trás e não marcharam contra Jeroboão.
+
+[[v14-11-5]]
+
+^<<v14-11-5,5>>^ Roboão habitou em Jerusalém, e edificou várias cidades muradas em Judá.
+
+[[v14-11-6]]
+
+^<<v14-11-6,6>>^ Fortificou Belém, Etão, Tecué,
+
+[[v14-11-7]]
+
+^<<v14-11-7,7>>^ Betsur, Soco, Odolão,
+
+[[v14-11-8]]
+
+^<<v14-11-8,8>>^ Cet, Maresa, Zif,
+
+[[v14-11-9]]
+
+^<<v14-11-9,9>>^ Adurão, Laquis, Azeca,
+
+[[v14-11-10]]
+
+^<<v14-11-10,10>>^ Saraa, Aialon e Hebron, que estavam em Judá e Benjamim, todas cidades fortíssimas.
+
+[[v14-11-11]]
+
+^<<v14-11-11,11>>^ Tendo-as cercado de muros, pôs nelas governadores e armazéns de víveres, isto é, de azeite e de vinho,
+
+[[v14-11-12]]
+
+^<<v14-11-12,12>>^ Estabeleceu também em cada cidade um arsenal de escudos e de lanças e fortificou-as com sumo cuidado. Reinou sobre Judá e Benjamim.
+
+[[v14-11-13]]
+
+^<<v14-11-13,13>>^ Os sacerdotes e Levitas, que havia em todo o Israel, foram para ele de todas as suas residências,
+
+[[v14-11-14]]
+
+^<<v14-11-14,14>>^ deixando as suas terras e as suas propriedades, para irem habitar em Judá e Jerusalém, porque Jeroboão e seus filhos os tinham expulsado, a fim de não exercerem o sacerdócio do Senhor.
+
+[[v14-11-15]]
+
+^<<v14-11-15,15>>^ Jeroboão constituiu para si sacerdotes dos lugares altos, para culto dos bodes e touros (ídolos) que ele tinha mandado fazer.
+
+[[v14-11-16]]
+
+^<<v14-11-16,16>>^ Também de todas as tribos de Israel, todos aqueles que tinham resolvido em seu coração seguir o Senhor Deus de Israel, foram a Jerusalém, a fim de imolarem as suas vítimas na presença do Senhor Deus de seus pais.
+
+[[v14-11-17]]
+
+^<<v14-11-17,17>>^ Fortificaram o reino de Judá e consolidaram (no trono) a Roboão, filho de Salomão, durante três anos, porque sòmente três anos andaram no caminho de Davide e de Salomão.
+
+[[v14-11-18]]
+
+^<<v14-11-18,18>>^ Roboão casou com Maalat, filha de Jerimot, filho de Davide, e também com Abiail, filha de Eliab, filho de Isaí,
+
+[[v14-11-19]]
+
+^<<v14-11-19,19>>^ a qual lhe deu à luz Jeús, Somarias e Zoom.
+
+[[v14-11-20]]
+
+^<<v14-11-20,20>>^ Depois desta tomou também por mulher a Maaca, filha de Absalão, da qual teve Abia, Etai, Ziza e Salomit.
+
+[[v14-11-21]]
+
+^<<v14-11-21,21>>^ Roboão amou Maaca, filha de Absalão, mais que todas as mulheres, principais e secundárias. Ele teve dezoito esposas e sessenta mulheres de segunda ordem, e teve vinte e oito filhos e sessenta filhas.
+
+[[v14-11-22]]
+
+^<<v14-11-22,22>>^ Constituiu Abia, filho de Maaca, cabeça e príncipe sobre todos os seus irmãos, porque tinha o desígnio de o fazer rei.
+
+[[v14-11-23]]
+
+^<<v14-11-23,23>>^ Dispersou, hàbilmente, todos os filhos pelos territórios de Judá e de Benjamim, pelas suas cidades muradas, deu-lhes alimentos em grande abundância e arranjou-lhes muitas mulheres.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-010.adoc#v14-10-0[&#60; Capítulo Anterior] | <<v14-11-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-012.adoc#v14-12-0[Próximo Capítulo &#62;]

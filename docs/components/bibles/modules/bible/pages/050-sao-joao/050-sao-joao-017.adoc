@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v50-17-0]]
+=== São João, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 17 de São João é uma oração de Jesus a Deus Pai antes da sua crucificação. Jesus ora pelos seus discípulos, pedindo que Deus os proteja e santifique, bem como por todos aqueles que acreditarão nele através da mensagem dos apóstolos. Ele também pede que todos sejam um, assim como ele e o Pai são um. Abaixo, seguem cinco versículos relacionados aos temas abordados em João 17:
+* Romanos 8:34: "Quem os condenará? Foi Cristo Jesus que morreu; e mais, que ressuscitou e está à direita de Deus, e que também intercede por nós." Este versículo fala sobre a intercessão de Cristo por nós, que é também um dos temas centrais da oração de Jesus em João 17.
+* Colossenses 1:13-14: "Ele nos libertou do poder das trevas e nos transferiu para o Reino do seu Filho amado, em quem temos a redenção, a remissão dos pecados." Jesus pede que seus discípulos sejam santificados pela verdade, e a redenção dos pecados é uma das bênçãos que os crentes recebem através da verdade.
+* 1 Coríntios 12:12-13: "Pois, assim como o corpo é um, e tem muitos membros, e todos os membros do corpo, embora muitos, constituem um só corpo, assim também com respeito a Cristo. Pois em um só Espírito fomos todos nós batizados em um só corpo, quer judeus, quer gregos, quer escravos, quer livres; e a todos nós foi dado beber de um só Espírito." Jesus pede que todos sejam um, assim como ele e o Pai são um, e este versículo fala sobre a unidade do corpo de Cristo.
+* João 14:6: "Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por mim." A mensagem dos apóstolos é o meio pelo qual as pessoas virão a acreditar em Jesus, e é através dele que terão a vida eterna.
+* João 1:12-13: "Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, a saber, aos que creem no seu nome; os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus." Jesus pede que Deus proteja aqueles que acreditam nele através da mensagem dos apóstolos, e este versículo fala sobre como aqueles que recebem Jesus se tornam filhos de Deus.
+****
+
+[[v50-17-1]]
+
+^<<v50-17-1,1>>^ Assim falou Jesus; depois, levantando os olhos ao céu, disse: "Pai, chegou a hora, glorifica o teu Filho, para que teu Filho te glorifique a ti,
+
+[[v50-17-2]]
+
+^<<v50-17-2,2>>^ e, pelo poder que lhe deste sobre toda a criatura, dê a vida eterna a todos os que lhe deste.
+
+[[v50-17-3]]
+
+^<<v50-17-3,3>>^ Ora a vida eterna é esta: Que te conheçam a ti como o único Deus verdadeiro, e a Jesus Cristo, a quem enviaste.
+
+[[v50-17-4]]
+
+^<<v50-17-4,4>>^ Glorifiquei-te sobre a terra; acabei a obra que me deste a fazer.
+
+[[v50-17-5]]
+
+^<<v50-17-5,5>>^ E agora, Pai, glorifica-me junto de ti mesmo, com aquela glória que tinha em ti, antes que houvesse mundo.
+
+[[v50-17-6]]
+
+^<<v50-17-6,6>>^ Manifestei o teu nome aos homens, que me deste do meio do mundo. Eram teus, e tu mos deste; e guardaram a tua palavra.
+
+[[v50-17-7]]
+
+^<<v50-17-7,7>>^ Agora sabem que todas as coisas que me deste, vêm de ti,
+
+[[v50-17-8]]
+
+^<<v50-17-8,8>>^ porque lhes comuniquei as palavras que me confiaste; eles as receberam, e conheceram verdadeiramente que eu sai de ti e creram que me enviaste.
+
+[[v50-17-9]]
+
+^<<v50-17-9,9>>^ É por eles que eu rogo; não rogo pelo mundo, mas por aqueles que me deste, porque são teus.
+
+[[v50-17-10]]
+
+^<<v50-17-10,10>>^ Todas as minhas coisas são tuas, e todas as tuas coisas são minhas; e sou glorificado neles.
+
+[[v50-17-11]]
+
+^<<v50-17-11,11>>^ Já não estou no mundo, mas eles estão no mundo, e eu vou para ti. Pai Santo, guarda em teu nome aqueles que me deste, para que sejam um, assim como nós. (ver nota)
+
+[[v50-17-12]]
+
+^<<v50-17-12,12>>^ Quando eu estava com eles, os guardava em teu nome. Conservei os que me deste; nenhum deles se perdeu, excepto o filho da perdição, cumprindo-se a Escritura.
+
+[[v50-17-13]]
+
+^<<v50-17-13,13>>^ Mas agora vou para ti e digo estas coisas, estando ainda no mundo, para que eles tenham em si mesmos a plenitude do meu gozo.
+
+[[v50-17-14]]
+
+^<<v50-17-14,14>>^ Dei-lhes a tua palavra, o mundo os odiou, porque não são do mundo, como também eu não sou do mundo.
+
+[[v50-17-15]]
+
+^<<v50-17-15,15>>^ Não peço que os tires do mundo, mas que os guardes do mal. (ver nota)
+
+[[v50-17-16]]
+
+^<<v50-17-16,16>>^ Eles não são do mundo, como também não sou do mundo.
+
+[[v50-17-17]]
+
+^<<v50-17-17,17>>^ Santifica-os pela verdade. A tua palavra é a verdade. (ver nota)
+
+[[v50-17-18]]
+
+^<<v50-17-18,18>>^ Assim como tu me enviaste ao mundo, também eu os enviei ao mundo.
+
+[[v50-17-19]]
+
+^<<v50-17-19,19>>^ Por eles eu me consagro a mim mesmo, para que também sejam verdadeiramente santificados. (ver nota)
+
+[[v50-17-20]]
+
+^<<v50-17-20,20>>^ Não rogo somente por eles, mas também por aqueles que hão-de crer em mim por meio da sua palavra,
+
+[[v50-17-21]]
+
+^<<v50-17-21,21>>^ para que sejam todos um, como tu, Pai, o és em mim, e eu em ti, para que também eles sejam um em nós, a fim de que o mundo creia que me enviaste.
+
+[[v50-17-22]]
+
+^<<v50-17-22,22>>^ Dei-lhes a glória que me deste, para que sejam um, como também nós somos um:
+
+[[v50-17-23]]
+
+^<<v50-17-23,23>>^ Eu neles, e tu em mim, para que a sua seriedade seja perfeita, e para que o mundo conheça que me enviaste e que os amaste, como me amaste.
+
+[[v50-17-24]]
+
+^<<v50-17-24,24>>^ Pai, quero que, onde eu estou, estejam também comigo aqueles que me deste, para que contemplem a minha glória, a glória que me deste, porque me amaste antes da criação do mundo.
+
+[[v50-17-25]]
+
+^<<v50-17-25,25>>^ Pai justo, o mundo não te conheceu, mas eu conheci-te, e estes conheceram que me enviaste.
+
+[[v50-17-26]]
+
+^<<v50-17-26,26>>^ Fiz-lhes e far-lhes-ei conhecer o teu nome, a fim de que o amor com que me amaste, esteja neles, e eu neles."
+
+'''
+
+xref:050-sao-joao/050-sao-joao-016.adoc#v50-16-0[&#60; Capítulo Anterior] | <<v50-17-0,Topo>> | xref:050-sao-joao/050-sao-joao-018.adoc#v50-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v23-1-0]]
+=== II Macabeus, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 de 2 Macabeus começa com uma carta escrita pelos judeus na cidade de Jerusalém para seus irmãos judeus no Egito, pedindo-lhes que celebrem a Festa da Dedicação do Templo. Eles mencionam a história do Templo e como ele foi reconstruído após ser profanado pelos inimigos. Os versículos abaixo são relacionados com o tema da reconstrução do Templo:
+* Esdra 5:16: "Então chegaram Sheshbazar, o governador da Judéia, e os anciãos dos judeus, e edificaram-nos, e os fizeram levantar sobre seus fundamentos com a ajuda dos profetas de Deus, que estavam com eles e os ajudaram." Este versículo fala sobre a reconstrução do Templo sob a liderança de Esdras e a ajuda dos profetas.
+* Ageu 1:14: "E o Senhor suscitou o espírito de Zorobabel, filho de Salatiel, governador de Judá, e o espírito de Josué, filho de Jozadaque, o sumo sacerdote, e o espírito de todo o restante do povo; e eles vieram e fizeram a obra na casa do Senhor dos Exércitos, seu Deus." Este versículo fala sobre a reconstrução do Templo após o exílio babilônico, onde Deus moveu os corações dos líderes e do povo para realizar a obra.
+* Neemias 6:15-16: "Acabou-se, pois, a muralha aos vinte e cinco do mês de Elul, em cinquenta e dois dias. E sucedeu que, ouvindo todos os nossos inimigos isto, temeram todas as nações que estavam em redor de nós, e abateram-se muito em seus próprios olhos; porque reconheceram que fizemos esta obra com o nosso Deus." Este versículo fala sobre a reconstrução dos muros de Jerusalém, que também foi uma obra importante para a proteção do Templo.
+* Neemias 8:9: "E Neemias, que era o governador, e Esdras, o sacerdote e escriba, e os levitas que ensinavam o povo, disseram a todo o povo: Este dia é consagrado ao Senhor, vosso Deus; não vos lamenteis, nem choreis. Porque todo o povo chorava, ouvindo as palavras da lei." Este versículo fala sobre a celebração da Festa dos Tabernáculos após a reconstrução dos muros de Jerusalém e a leitura da lei por Esdras.
+* Esdras 6:15: "E acabou-se esta casa ao terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario." Este versículo fala sobre a conclusão da reconstrução do Templo durante o reinado do rei Dario.
+****
+
+[[v23-1-1]]
+
+^<<v23-1-1,1>>^ Aos irmãos Judeus, que estão no Egipto, os Judeus seus irmãos, que estão em Jerusalém e no país da Judeia, saúde e venturosa paz!
+
+[[v23-1-2]]
+
+^<<v23-1-2,2>>^ Deus vos encha de bens e se lembre da aliança que fez com Abraão, Isaac e Jacob, seus fiéis servos!
+
+[[v23-1-3]]
+
+^<<v23-1-3,3>>^ Que vos dê a todos um coração disposto a adorá-lo e a cumprir os seus preceitos, com grandeza de alma e generosidade.
+
+[[v23-1-4]]
+
+^<<v23-1-4,4>>^ Abra o vosso coração à sua lei e aos seus preceitos, e vos dê a paz.
+
+[[v23-1-5]]
+
+^<<v23-1-5,5>>^ Ouça as vossas orações e se reconcilie convosco, e vos não desampare no tempo da aflição.
+
+[[v23-1-6]]
+
+^<<v23-1-6,6>>^ Aqui estamos agora orando por vós.
+
+[[v23-1-7]]
+
+^<<v23-1-7,7>>^ Sob o reinado de Demétrio, no ano cento e sessenta e nove, nós, Judeus, vos escrevemos na grande tribulação que nos sobreveio naqueles anos, desde que Jasão e os seus partidários abandonaram a terra santa e o reino.
+
+[[v23-1-8]]
+
+^<<v23-1-8,8>>^ Foi queimada a porta (do templo) e derramado sangue inocente. Então fizemos oração ao Senhor e fomos ouvidos; oferecemos o sacrifício e a flor da farinha, acendemos as lâmpadas e pusemos os pães (da proposição).
+
+[[v23-1-9]]
+
+^<<v23-1-9,9>>^ Celebrai, pois, agora a festa dos tabernáculos do mês de Casleu.
+
+[[v23-1-10]]
+
+^<<v23-1-10,10>>^ Ano cento e oitenta e oito. O povo, que está em Jerusalém e na Judeia, o senado e Judas, a Aristóbulo, conselheiro do rei Ptolomeu, da linhagem dos sacerdotes ungidos, e aos Judeus que vivem no Egipto, saúde e prosperidade.
+
+[[v23-1-11]]
+
+^<<v23-1-11,11>>^ Livrados por Deus de grandes perigos, rendemos-lhe grandes acções de graças, pela fortaleza que nos deu para pelejarmos contra um rei.
+
+[[v23-1-12]]
+
+^<<v23-1-12,12>>^ Foi ele próprio (Deus) que repeliu os que atacaram a cidade santa.
+
+[[v23-1-13]]
+
+^<<v23-1-13,13>>^ Com efeito, achando-se na Pérsia o seu chefe, com um exército aparentemente invencível, pereceu no templo de Naneia, enganado pelo fraudulento conselho dos sacerdotes da referida Naneia.
+
+[[v23-1-14]]
+
+^<<v23-1-14,14>>^ Antíoco foi em companhia de seus amigos aquele lugar (ou templo) com o pretexto de se desposar com a deusa, para receber grandes somas de dinheiro, a título de dote. (ver nota)
+
+[[v23-1-15]]
+
+^<<v23-1-15,15>>^ Os sacerdotes de Naneia mostraram-lhe o tesouro, tendo ele penetrado no recinto do templo com uns poucos (dos seus). (Os sacerdotes) fecharam logo o templo;
+
+[[v23-1-16]]
+
+^<<v23-1-16,16>>^ depois que Antíoco entrou; em seguida, abrindo uma porta secreta do tecto, atiraram pedras, esmagando o chefe e os que estavam com ele; esquartejaram-nos, e, cortadas as cabeças, deitaram-nas aos que se encontravam fora.
+
+[[v23-1-17]]
+
+^<<v23-1-17,17>>^ Em tudo seja Deus louvado, que assim entregou os Ímpios (à morte).
+
+[[v23-1-18]]
+
+^<<v23-1-18,18>>^ Devendo nós celebrar no dia vinte e cinco do mês do Casleu a purificação do templo, entendemos que era necessário avisar-vos disso, para que também celebreis tanto a festa dos tabemáculos, como a festa do fogo que apareceu quando Neemias, depois de ter reedificado o templo e o altar, ofereceu nele os sacrifícios.
+
+[[v23-1-19]]
+
+^<<v23-1-19,19>>^ Com efeito, quando nossos pais foram levados cativos para a Pérsia, os sacerdotes de então, tementes a Deus, tirando o fogo que estava sobre o altar, esconderam-no secretamente no fundo dum poço seco e guardaram-no ali, de sorte que a todos ficasse incógnito o lugar.
+
+[[v23-1-20]]
+
+^<<v23-1-20,20>>^ Tendo-se passado muitos anos, quando Deus foi servido, Neemias, enviado (à Judeia) pelo rei da Pérsia, mandou que os descendentes daqueles sacerdotes, que tinham escondido o fogo, o fossem buscar; porém não acharam fogo, como nos disseram, mas uma água espessa.
+
+[[v23-1-21]]
+
+^<<v23-1-21,21>>^ Então Neemias mandou que tirassem desta água e lha trouxessem. Disposta no seu lugar a matéria do sacrifício, ordenou-lhes que com a mesma água se fizessem aspersões sobre a lenha e sobre o que se achava posto em cima dela.
+
+[[v23-1-22]]
+
+^<<v23-1-22,22>>^ Feito isto, passado algum tempo descobriu-se o sol, antes nublado, e acendeu-se um grande fogo de maneira que todos ficaram maravilhados.
+
+[[v23-1-23]]
+
+^<<v23-1-23,23>>^ Entretanto os sacerdotes estavam fazendo oração, enquanto o sacrifício se consumava, principiando Jónatas, e respondendo os outros, assim como Neemias.
+
+[[v23-1-24]]
+
+^<<v23-1-24,24>>^ A oração era esta: Senhor, Senhor Deus, criador de todas as coisas, terrível e forte, justo e misericordioso, que és o único rei e bom,
+
+[[v23-1-25]]
+
+^<<v23-1-25,25>>^ o único generoso, o único justo, omnipotente e eterno, que livras Israel de todo o mal, que escolheste nossos pais e os santificaste,
+
+[[v23-1-26]]
+
+^<<v23-1-26,26>>^ recebe este sacrifício por todo o teu povo de Israel, guarda a tua herança e santifica-a.
+
+[[v23-1-27]]
+
+^<<v23-1-27,27>>^ Congrega todos os nossos irmãos dispersos, livra os que estão debaixo da escravidão dos gentios e olha favoravelmente para os que estão feitos um objecto de desprezo e abominação, a fim de que as nações conheçam que és o nosso Deus.
+
+[[v23-1-28]]
+
+^<<v23-1-28,28>>^ Aflige os que nos oprimem e os que nos ultrajam com soberba.
+
+[[v23-1-29]]
+
+^<<v23-1-29,29>>^ Estabelece o teu povo no teu santo lugar, como o disse Moisés.
+
+[[v23-1-30]]
+
+^<<v23-1-30,30>>^ Entretanto os sacerdotes cantavam hinos.
+
+[[v23-1-31]]
+
+^<<v23-1-31,31>>^ Quando o sacrifício foi consumado, ordenou Neemias que o que restava daquela água fosse espalhado sobre pedras grandes (da base no altar).
+
+[[v23-1-32]]
+
+^<<v23-1-32,32>>^ Depois de feito isto, acendeu-se uma grande chama, a qual, porém, foi absorvida pelo fogo do altar.
+
+[[v23-1-33]]
+
+^<<v23-1-33,33>>^ Divulgado o acontecimento, contaram ao rei dos Persas como no lugar onde os sacerdotes levados cativos haviam escondido o fogo, se encontrara água, com a qual Neemias e os seus companheiros tinham purificado os sacrifícios.
+
+[[v23-1-34]]
+
+^<<v23-1-34,34>>^ Então o rei, examinado com diligência o caso, mandou murar o lugar e declarou-o sagrado.
+
+[[v23-1-35]]
+
+^<<v23-1-35,35>>^ O rei, para manifestar a sua benevolência, dava muitos e variados presentes.
+
+[[v23-1-36]]
+
+^<<v23-1-36,36>>^ Os companheiros de Neemias chamaram a este lugar Neftar, que quer dizer Purificação; porém há muitos que lhe chamam Neftai.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-016.adoc#v22-16-0[&#60; Capítulo Anterior] | <<v23-1-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-002.adoc#v23-2-0[Próximo Capítulo &#62;]

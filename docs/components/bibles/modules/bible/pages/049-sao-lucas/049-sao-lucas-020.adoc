@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v49-20-0]]
+=== São Lucas, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 20 de Lucas começa com os líderes religiosos questionando a autoridade de Jesus e termina com uma lição sobre o verdadeiro significado do amor e da generosidade. Alguns temas abordados incluem a autoridade de Jesus, a rejeição dos líderes religiosos, a responsabilidade dos cristãos em relação a Deus e a importância da generosidade e do amor ao próximo. A seguir estão cinco versículos relacionados com esses temas:
+* Salmo 118:22-23: "A pedra que os construtores rejeitaram tornou-se a pedra angular. Isso veio do Senhor, e é algo maravilhoso aos nossos olhos." Este versículo é citado por Jesus em Lucas 20:17 quando Ele se refere a si mesmo como a pedra rejeitada pelos líderes religiosos, que acabará se tornando a pedra angular.
+* Isaías 5:1-2: "Eu cantarei para o meu amado a canção do meu amigo a respeito da sua vinha: O meu amado tinha uma vinha num outeiro fértil. E a cercou, e a limpou das pedras, e a plantou de excelentes vides; e edificou no meio dela uma torre, e também fez nela um lagar; e esperava que desse uvas boas, porém deu uvas bravas." Este versículo é referenciado em Lucas 20:9-19 na parábola da vinha, onde os líderes religiosos representam os lavradores maus que rejeitam os servos de Deus e acabam matando o filho do dono da vinha.
+* 1 Coríntios 6:19-20: "Ou não sabeis que o vosso corpo é santuário do Espírito Santo, que habita em vós, proveniente de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço; glorificai, pois, a Deus no vosso corpo." Este versículo destaca a responsabilidade dos cristãos em relação ao seu corpo e como eles devem usá-lo para a glória de Deus. Isso se relaciona com Lucas 20:25, onde Jesus ensina a render a César o que é de César e a Deus o que é de Deus.
+* Provérbios 11:24-25: "Há quem espalha, e ainda se lhe acrescenta mais; e há quem retém mais do que é justo, mas é para a sua perda. A alma generosa prosperará, e quem dá a beber será dessedentado." Este versículo destaca a importância da generosidade e como isso pode trazer bênçãos para a pessoa. Isso se relaciona com a história do pobre viúva em Lucas 20:45-21:4, que doou tudo o que tinha e recebeu o elogio de Jesus por sua generosidade.
+* Isaías 8:14: "Ele será como um santuário, mas também como uma pedra de tropeço e uma rocha que faz cair. Para os dois, tanto para a casa de Israel quanto para a casa de Judá, ele será uma armadilha e um laço." Este versículo profético descreve a dualidade de Jesus como um refúgio para alguns e uma pedra de tropeço para outros, algo que é abordado no capítulo 20 de Lucas.
+****
+
+[[v49-20-1]]
+
+^<<v49-20-1,1>>^ Num daqueles dias, estando Jesus no templo ensinando o povo e anunciando a boa nova, juntaram-se os príncipes dos sacerdotes e os escribas com os de Jesus, anciães,
+
+[[v49-20-2]]
+
+^<<v49-20-2,2>>^ e falaram-lhe neste termos: "Diz-nos com que direito fazes tu estas coisas, ou quem te deu tal autoridade?"
+
+[[v49-20-3]]
+
+^<<v49-20-3,3>>^ Jesus respondeu: "Também eu vos farei uma pergunta. Respondei-me:
+
+[[v49-20-4]]
+
+^<<v49-20-4,4>>^ O baptismo de João era do céu ou dos homens?"
+
+[[v49-20-5]]
+
+^<<v49-20-5,5>>^ Mas eles discorriam dentro de si: "Se dissermos: do céu, dirá: Por que razão pois, não creste nele?
+
+[[v49-20-6]]
+
+^<<v49-20-6,6>>^ Se dissermos dos homens, todo o povo nos apedrejará, porque está convencido que João era um profeta."
+
+[[v49-20-7]]
+
+^<<v49-20-7,7>>^ Responderam, pois, que não sabiam donde era.
+
+[[v49-20-8]]
+
+^<<v49-20-8,8>>^ Jesus, disse-lhes: "Nem eu vos direi com que autoridade faço estas coisas."
+
+[[v49-20-9]]
+
+^<<v49-20-9,9>>^ Começou a dizer ao povo esta parábola: "Um homem plantou uma vinha, arrendou-a a uns vinhateiros, e ausentou-se para longe durante muito tempo.
+
+[[v49-20-10]]
+
+^<<v49-20-10,10>>^ No tempo próprio, enviou um servo aos vinhateiros, para que lhe dessem a sua parte do fruto da vinha. Eles, porém, depois de lhe terem batido, reenviaram-no com as mãos vazias.
+
+[[v49-20-11]]
+
+^<<v49-20-11,11>>^ Tornou a enviar outro servo. Mas eles, tendo também batido neste, e carregando-o de afrontas, o despediram sem nada.
+
+[[v49-20-12]]
+
+^<<v49-20-12,12>>^ Tornou a enviar ainda terceiro. E eles, ferindo-o, deitaram fora também a este.
+
+[[v49-20-13]]
+
+^<<v49-20-13,13>>^ Disse então o senhor da vinha: Que hei-de fazer? Mandarei meu filho amado; talvez lhe guardarão respeito.
+
+[[v49-20-14]]
+
+^<<v49-20-14,14>>^ Mas, quando os vinhateiros o viram, discorreram entre si, dizendo: Este é o herdeiro, matemo-lo, e será nossa a herança.
+
+[[v49-20-15]]
+
+^<<v49-20-15,15>>^ E, lançando-o fora da vinha, mataram-no. Que lhes fará, pois, o senhor da vinha?
+
+[[v49-20-16]]
+
+^<<v49-20-16,16>>^ Virá e acabará de todo com aqueles vinhateiros, e dará a vinha a outros." Tendo eles ouvido isto, disseram: "Deus tal não permita !"
+
+[[v49-20-17]]
+
+^<<v49-20-17,17>>^ Jesus, olhando para eles, disse: "Pois que quer dizer isto que está escrito: A pedra que os edificadores desprezaram, tornou-se pedra angular? (Ps. 117, 22).
+
+[[v49-20-18]]
+
+^<<v49-20-18,18>>^ Todo o que cair sobre aquela pedra, será quebrado; e sobre quem ela cair, será esmagado."
+
+[[v49-20-19]]
+
+^<<v49-20-19,19>>^ Os príncipes dos sacerdotes e os escribas procuravam lançar-lhe as mãos naquela hora, mas temeram o povo. Compreenderam bem que esta parábola tinha sido dita contra eles.
+
+[[v49-20-20]]
+
+^<<v49-20-20,20>>^ Não o perdendo de vista, mandaram espias que se disfarçassem em homens de bem, para o apanharem no que dizia, a fim de o poderem entregar à autoridade e ao poder do governador.
+
+[[v49-20-21]]
+
+^<<v49-20-21,21>>^ Estes interrogaram-no, dizendo: "Mestre, sabemos que falas e ensinas rectamente, que não fazes acepção de pessoas, mas que ensinas o caminho de Deus com verdade.
+
+[[v49-20-22]]
+
+^<<v49-20-22,22>>^ É-nos permitido dar o tributo a César ou não ?"
+
+[[v49-20-23]]
+
+^<<v49-20-23,23>>^ Jesus, conhecendo a sua astúcia, disse-lhes:
+
+[[v49-20-24]]
+
+^<<v49-20-24,24>>^ "Mostrai-me um dinheiro. De quem é a imagem e a inscrição que tem ?" Responderam : "De César."
+
+[[v49-20-25]]
+
+^<<v49-20-25,25>>^ Ele disse-lhes: "Dai pois a César o que é de César, e a Deus o que é de Deus."
+
+[[v49-20-26]]
+
+^<<v49-20-26,26>>^ Não puderam surpreendê-lo em qualquer palavra diante do povo. Admirados da sua resposta, calaram-se.
+
+[[v49-20-27]]
+
+^<<v49-20-27,27>>^ Aproximaram-se depois alguns saduceus, que negam a ressurreição, e fizeram-lhe a seguinte pergunta:
+
+[[v49-20-28]]
+
+^<<v49-20-28,28>>^ "Mestre, Moisés deixou-nos escrito: Se morrer o irmão de algum, tendo mulher, e não deixar filhos, case-se com ela o seu irmão, para dar descendência ao seu irmão (Dt. 25,5-6).
+
+[[v49-20-29]]
+
+^<<v49-20-29,29>>^ Ora havia sete irmãos. O primeiro casou, e morreu sem filhos.
+
+[[v49-20-30]]
+
+^<<v49-20-30,30>>^ Casou também o segundo com a viúva, e morreu sem filhos.
+
+[[v49-20-31]]
+
+^<<v49-20-31,31>>^ Casou depois com ela o terceiro. E assim sucessivamente todos os sete, e morreram sem deixar filhos.
+
+[[v49-20-32]]
+
+^<<v49-20-32,32>>^ Morreu enfim também a mulher, depois de todos eles.
+
+[[v49-20-33]]
+
+^<<v49-20-33,33>>^ Na ressurreição, de qual deles será ela mulher, pois que o foi de todos sete?"
+
+[[v49-20-34]]
+
+^<<v49-20-34,34>>^ Jesus disse-lhes: "Os filhos deste século casam e são dados em casamento,
+
+[[v49-20-35]]
+
+^<<v49-20-35,35>>^ mas os que forem julgados dignos do século futuro e da ressurreição dos mortos, nem os homens desposarão mulheres, nem as mulheres homens,
+
+[[v49-20-36]]
+
+^<<v49-20-36,36>>^ porque não poderão jamais morrer; porquanto são semelhantes aos anjos, e são filhos de Deus, visto serem filhos da ressurreição. (ver nota)
+
+[[v49-20-37]]
+
+^<<v49-20-37,37>>^ Que os mortos hajam de ressuscitar, o mostrou também Moisés a propósito da sarça, quando chamou ao Senhor o Deus de Abraão, o Deus de Isaac, o Deus de Jacob (Ex. 3,6). (ver nota)
+
+[[v49-20-38]]
+
+^<<v49-20-38,38>>^ Ora Deus não é Deus de mortos, mas de vivos, porque para ele, todos são vivos."
+
+[[v49-20-39]]
+
+^<<v49-20-39,39>>^ Alguns dos escribas disseram-lhe: "Mestre, falaste bem"
+
+[[v49-20-40]]
+
+^<<v49-20-40,40>>^ Dali em diante, não se atreveram mais a interrogá-lo.
+
+[[v49-20-41]]
+
+^<<v49-20-41,41>>^ Jesus disse-lhes: "Como dizem que o Cristo é filho de David?
+
+[[v49-20-42]]
+
+^<<v49-20-42,42>>^ Quàndo o mesmo David, no livro dos Salmos (109,1), diz: Disse o Senhor ao meu Senhor; Senta-te à minha direita,
+
+[[v49-20-43]]
+
+^<<v49-20-43,43>>^ até que eu ponha os teus inimigos por escabelo de teus pés.
+
+[[v49-20-44]]
+
+^<<v49-20-44,44>>^ Se David, pois, lhe chama Senhor, como pode ele ser seu filho?"
+
+[[v49-20-45]]
+
+^<<v49-20-45,45>>^ Depois, ouvindo-o todo o povo, Jesus disse aos seus discípulos:
+
+[[v49-20-46]]
+
+^<<v49-20-46,46>>^ "Guardai-vos dos escribas, que gostam de andar com vestidos compridos, de ser saudados nas praças, de ocupar as primeiras cadeiras nas sinagogas, e os primeiros lugares nos banquetes;
+
+[[v49-20-47]]
+
+^<<v49-20-47,47>>^ que devoram as casas das viúvas, a pretexto de longas orações. Estes receberão uma condenação mais severa." (ver nota)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-019.adoc#v49-19-0[&#60; Capítulo Anterior] | <<v49-20-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-021.adoc#v49-21-0[Próximo Capítulo &#62;]

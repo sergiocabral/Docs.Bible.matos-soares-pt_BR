@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v20-21-0]]
+=== Jó, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 21 de Jó é uma resposta às afirmações de Zofar sobre a punição dos ímpios. Jó argumenta que muitos ímpios prosperam nesta vida, enquanto muitos justos sofrem. Ele afirma que o sofrimento é uma parte da condição humana, e que o sucesso e o fracasso não são necessariamente indicações de virtude ou pecado. A seguir estão cinco versículos que abordam esses temas:
+* Salmos 37:7 - "Descansa no Senhor, e espera nele; não te irrites por causa daquele que prospera em seu caminho, por causa do homem que executa astutos intentos." Este versículo fala sobre a importância de confiar em Deus e não se preocupar com o sucesso dos outros.
+* Salmos 73:3-5 - "Porque eu tinha inveja dos soberbos, quando via a prosperidade dos ímpios. Pois eles não têm aflição até à sua morte, e estão firmes na posse dos bens. Não se acham em trabalhos como outros homens, nem são afligidos como outros homens." Este verso retrata a inveja de uma pessoa em relação à prosperidade dos ímpios.
+* Provérbios 22:16 - "Aquele que oprime o pobre para se engrandecer a si mesmo, e aquele que dá ao rico, certamente empobrecerá." Este versículo afirma que a prosperidade material não é necessariamente um sinal de virtude.
+* Eclesiastes 7:15 - "Tudo isto vi nos dias da minha vaidade; há justo que perece na sua justiça, e há ímpio que prolonga os seus dias na sua malícia." Este versículo reflete a ideia de que a justiça nem sempre prevalece nesta vida.
+* Lucas 6:20 - "E, levantando ele os olhos para os seus discípulos, dizia: Bem-aventurados vós, os pobres, porque vosso é o reino de Deus." Este versículo fala sobre a importância de buscar recompensas espirituais em vez de material.
+****
+
+[[v20-21-1]]
+
+^<<v20-21-1,1>>^ Job, respondendo, disse:
+
+[[v20-21-2]]
+
+^<<v20-21-2,2>>^ Ouvi, vos peço, as minhas palavras, dai-me, ao menos, esta consolação.
+
+[[v20-21-3]]
+
+^<<v20-21-3,3>>^ Sofrei que eu fale, e depois, se vos parecer, zombai das minhas palavras.
+
+[[v20-21-4]]
+
+^<<v20-21-4,4>>^ Porventura é com algum homem a minha disputa? Como não hei-de impacientar-me?
+
+[[v20-21-5]]
+
+^<<v20-21-5,5>>^ Olhai para mim, e pasmai, e ponde a mão sobre a vossa boca;
+
+[[v20-21-6]]
+
+^<<v20-21-6,6>>^ e eu mesmo, quando me recordo, me assombro, e estremece toda a minha carne.
+
+[[v20-21-7]]
+
+^<<v20-21-7,7>>^ Por que razão vivem os impios e envelhecem, aumentando á sua força?
+
+[[v20-21-8]]
+
+^<<v20-21-8,8>>^ Seus filhos conservam-se diante deles, uma multidão de parentes e de netos está na sua presença.
+
+[[v20-21-9]]
+
+^<<v20-21-9,9>>^ As suas casas estão seguras e em paz, a vara de Deus não os fere.
+
+[[v20-21-10]]
+
+^<<v20-21-10,10>>^ Os seus louros são sempre fecundos, as suas vacas dão à luz e não se lhes malogram as suas crias.
+
+[[v20-21-11]]
+
+^<<v20-21-11,11>>^ Os seus filhos saem (de casa) como manadas, os seus pequenos saltam e brincam.
+
+[[v20-21-12]]
+
+^<<v20-21-12,12>>^ Cantam ao som do tímpano e da citara, e alegram-se ao som da flauta.
+
+[[v20-21-13]]
+
+^<<v20-21-13,13>>^ Passam os seus dias em delicias, e num momento descem a o sepulcro.
+
+[[v20-21-14]]
+
+^<<v20-21-14,14>>^ Estes são os que disseram a Deus: Retira-te de nós, pois não queremos saber nada dos teus caminhos.
+
+[[v20-21-15]]
+
+^<<v20-21-15,15>>^ Quem é o Omnipotente para que o sirvamos? Que nos aproveita que lhe façamos orações?
+
+[[v20-21-16]]
+
+^<<v20-21-16,16>>^ Mas, porque não estão na sua mão os seus bens, longe esteja de mim o modo de pensar dos impios.
+
+[[v20-21-17]]
+
+^<<v20-21-17,17>>^ Quantas vezes se apagará a lucerna dos impios, lhes sobrevirá uma inundação (de males), e (Deus) na sua ira lhes repartirá as dores?
+
+[[v20-21-18]]
+
+^<<v20-21-18,18>>^ Serão como as palhas ao soprar do vento, e como a cinza espalhada, pelo redemoinho.
+
+[[v20-21-19]]
+
+^<<v20-21-19,19>>^ (Vós dizeis que) Deus reservará para os filhos a pena (merecida pelos pecados) do pai. Mas que Deus lhe dê o pago a ele, que ele próprio o tenha; (ver nota)
+
+[[v20-21-20]]
+
+^<<v20-21-20,20>>^ que os seus olhos vejam a própria ruína, e ele beba do furor do Omnipotente.
+
+[[v20-21-21]]
+
+^<<v20-21-21,21>>^ Pois, que se lhe dá a ele do que será feito da sua casa depois da sua morte, depois de serem cortados os seus dias?
+
+[[v20-21-22]]
+
+^<<v20-21-22,22>>^ Porventura poderá alguém ensinar alguma coisa a Deus, que julga os seres mais elevados?
+
+[[v20-21-23]]
+
+^<<v20-21-23,23>>^ Um morre em plena prosperidade, tranqüilo e feliz,
+
+[[v20-21-24]]
+
+^<<v20-21-24,24>>^ com os flancos cobertos de gordura, e a medula dos ossos suculenta;
+
+[[v20-21-25]]
+
+^<<v20-21-25,25>>^ outro, porém, morre na amargura da sua alma, sem nenhuns bens.
+
+[[v20-21-26]]
+
+^<<v20-21-26,26>>^ E todavia ambos dormirão igualmente no pó, e os vermes cobrem os dois.
+
+[[v20-21-27]]
+
+^<<v20-21-27,27>>^ Eu conheço bem os vossos pensamentos, e os vossos injustos juízos contra mim.
+
+[[v20-21-28]]
+
+^<<v20-21-28,28>>^ Vós dizeis: Onde está a casa deste (Job, que era como um) príncipe? Onde estão as tendas dos ímpios?
+
+[[v20-21-29]]
+
+^<<v20-21-29,29>>^ Perguntai a qualquer dos viandantes; não podeis desconhecer a resposta que darão.
+
+[[v20-21-30]]
+
+^<<v20-21-30,30>>^ No dia da desgraça, o mau é poupado, no dia da cólera escapa ao castigo.
+
+[[v20-21-31]]
+
+^<<v20-21-31,31>>^ Quem reprova diante dele o seu proceder? Quem lhe dará o pago do mal que fez?
+
+[[v20-21-32]]
+
+^<<v20-21-32,32>>^ E’ levado (honorificamente) ao sepulcro, e no seu túmulo há paz.
+
+[[v20-21-33]]
+
+^<<v20-21-33,33>>^ São-lhe leves os torrões do vale; arrasta atrás de si todos os homens, e diante de si uma inumerável multidão.
+
+[[v20-21-34]]
+
+^<<v20-21-34,34>>^ Como pois me consolais em vão, tendo-se visto que as vossas respostas se opõem à verdade?
+
+'''
+
+xref:020-jo/020-jo-020.adoc#v20-20-0[&#60; Capítulo Anterior] | <<v20-21-0,Topo>> | xref:020-jo/020-jo-022.adoc#v20-22-0[Próximo Capítulo &#62;]

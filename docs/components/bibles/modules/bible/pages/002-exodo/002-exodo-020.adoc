@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v2-20-0]]
+=== Êxodo, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Êxodo 20 é um dos capítulos mais importantes da Bíblia, pois nele são apresentados os Dez Mandamentos, que são os princípios básicos da lei de Deus. Esses mandamentos são os pilares da moralidade e da ética cristã, e orientam o comportamento humano em relação a Deus e ao próximo. A partir dessa premissa, podemos encontrar os seguintes versículos relacionados:
+* Mateus 22:36-40: "Mestre, qual é o grande mandamento na lei? Respondeu-lhe Jesus: Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, e de todo o teu entendimento. Este é o grande e primeiro mandamento. E o segundo, semelhante a este, é: Amarás ao teu próximo como a ti mesmo. Destes dois mandamentos dependem toda a lei e os profetas." Nesse trecho do Novo Testamento, Jesus resume os ensinamentos da lei de Deus nos dois grandes mandamentos de amar a Deus e ao próximo.
+* Romanos 13:9: "Com efeito: Não adulterarás, não matarás, não furtarás, não cobiçarás; e se há algum outro mandamento, tudo nesta palavra se resume: Amarás ao teu próximo como a ti mesmo." O apóstolo Paulo também resume os mandamentos de Deus na ideia de amar o próximo, mostrando que todas as outras regras se derivam desse princípio básico.
+* Deuteronômio 6:5: "Amarás, pois, ao Senhor teu Deus de todo o teu coração, de toda a tua alma, e de toda a tua força." Esse versículo apresenta a primeira parte do maior mandamento, que é amar a Deus com todas as nossas forças e capacidades.
+* João 14:15: "Se me amais, guardareis os meus mandamentos." Jesus mostra que a obediência aos mandamentos de Deus é uma forma de demonstrar nosso amor e respeito por Ele.
+* 1 João 5:3: "Porque este é o amor de Deus: que guardemos os seus mandamentos; e os seus mandamentos não são pesados." Esse versículo mostra que o amor a Deus se manifesta através da obediência aos seus mandamentos, que são um reflexo do seu caráter e da sua vontade para a humanidade.
+****
+
+[[v2-20-1]]
+
+^<<v2-20-1,1>>^ E o Senhor pronunciou todas estas palavras:
+
+[[v2-20-2]]
+
+^<<v2-20-2,2>>^ Eu sou o Senhor teu Deus, que te tirei da terra do Egipto, da casa da servidão.
+
+[[v2-20-3]]
+
+^<<v2-20-3,3>>^ Não terás outros deuses diante de mim.
+
+[[v2-20-4]]
+
+^<<v2-20-4,4>>^ Não farás para ti escultura, nem figura alguma do que há em cima no céu, e do que há em baixo na terra, nem do que há nas águas debaixo da terra.
+
+[[v2-20-5]]
+
+^<<v2-20-5,5>>^ Não adorarás tais coisas, nem lhes prestarás culto: eu sou o Senhor teu Deus forte e Zeloso, que vingo a iniquidade dos pais nos filhos, até à terceira e quarta geração daqueles que me odeiam, (ver nota)
+
+[[v2-20-6]]
+
+^<<v2-20-6,6>>^ e que uso de misericórdia até mil (gerações) com aqueles que me amam e guardam os meus preceitos.
+
+[[v2-20-7]]
+
+^<<v2-20-7,7>>^ Não tomarás o nome do Senhor teu Deus em vão; porque o Senhor não terá por inocente aquele que tomar em vão o nome do Senhor seu Deus.
+
+[[v2-20-8]]
+
+^<<v2-20-8,8>>^ Lembra-te de santificar o dia de sábado.
+
+[[v2-20-9]]
+
+^<<v2-20-9,9>>^ Trabalharás durante seis dias e farás (neles) todas as tuas obras.
+
+[[v2-20-10]]
+
+^<<v2-20-10,10>>^ O sétimo dia, porém, é o sábado (dia de repouso) consagrado ao Senhor teu Deus; não farás nele obra alguma, nem tu, nem teu filho, nem tua filha, nem o teu servo, nem a tua serva, nem o teu gado, nem o peregrino que está dentro das tuas portas.
+
+[[v2-20-11]]
+
+^<<v2-20-11,11>>^ Porque o Senhor fez em seis dias o céu e a terra, e o mar, e tudo o que neles há, e descansou ao sétimo dia; por isso o Senhor abençoou o dia de sábado e o santificou.
+
+[[v2-20-12]]
+
+^<<v2-20-12,12>>^ Honra teu pai e tua mãe, a fim de que tenhas uma vida dilatada sobre a terra que o Senhor teu Deus te dá.
+
+[[v2-20-13]]
+
+^<<v2-20-13,13>>^ Não matarás.
+
+[[v2-20-14]]
+
+^<<v2-20-14,14>>^ Não cometerás adultério.
+
+[[v2-20-15]]
+
+^<<v2-20-15,15>>^ Não furtarás.
+
+[[v2-20-16]]
+
+^<<v2-20-16,16>>^ Não dirás falso testemunho contra o teu próximo.
+
+[[v2-20-17]]
+
+^<<v2-20-17,17>>^ Não cobiçarás a casa do teu próximo, não desejarás a sua mulher, nem o seu servo, nem a sua serva, nem o seu boi, nem o Seu jumento, nem coisa alguma que lhe pertença.
+
+[[v2-20-18]]
+
+^<<v2-20-18,18>>^ Todo o povo ouvia os trovões e o som da trombeta. e via os relâmpagos e o monte fumegando: aterrorizados e abalados com o pavor, pararam ao longe,
+
+[[v2-20-19]]
+
+^<<v2-20-19,19>>^ dizendo a Moisés: Fala-nos tu, e nós ouviremos: não nos fale o Senhor, não suceda morrermos.
+
+[[v2-20-20]]
+
+^<<v2-20-20,20>>^ Moisés disse ao povo: Não temais, porque Deus veio para vos provar, para que o seu temor esteja em vós e não pequeis.
+
+[[v2-20-21]]
+
+^<<v2-20-21,21>>^ O povo ficou longe, mas Moisés aproximou-se da escuridão, em que Deus estava.
+
+[[v2-20-22]]
+
+^<<v2-20-22,22>>^ O Senhor disse mais a Moisés; Dirás estas coisa aos filhos de Israel: Vós vistes que eu vos falei do céu.
+
+[[v2-20-23]]
+
+^<<v2-20-23,23>>^ Não fareis para vós deuses de prata, nem deuses de ouro.
+
+[[v2-20-24]]
+
+^<<v2-20-24,24>>^ Far-me-eis um altar de terra, e oferecereis sobre ele os vossos holocaustos e as vossas hóstias pacíficas, as vossas ovelhas e bois. Em todo o lugar onde se fizer memória do meu nome, eu virei a ti, e te abençoarei.
+
+[[v2-20-25]]
+
+^<<v2-20-25,25>>^ Se, porém, me edificares algum altar de pedra, não o edificarás de pedras lavradas; porque, se levantares sobre ela o cinzel, profaná-la-ás.
+
+[[v2-20-26]]
+
+^<<v2-20-26,26>>^ Não subirás por degraus ao meu altar, para que se não descubra a tua nudez. (ver nota)
+
+'''
+
+xref:002-exodo/002-exodo-019.adoc#v2-19-0[&#60; Capítulo Anterior] | <<v2-20-0,Topo>> | xref:002-exodo/002-exodo-021.adoc#v2-21-0[Próximo Capítulo &#62;]

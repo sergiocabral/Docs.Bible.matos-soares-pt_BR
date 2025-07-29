@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v24-18-0]]
+=== Provérbios, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 18 é um capítulo que aborda diversos temas, como a sabedoria, a língua, a prudência, a justiça e a soberania de Deus. Para fornecer cinco versículos relacionados com esses temas, podemos selecionar os seguintes:
+* Tiago 1:19: "Sabeis isto, meus amados irmãos: todo homem seja pronto para ouvir, tardio para falar e tardio para se irar." Esse verso aborda a importância de ouvir com atenção antes de falar, um tema presente em Provérbios 18 sobre o uso sábio da língua.
+* Salmos 127:1: "Se o Senhor não edificar a casa, em vão trabalham os que a edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela." Esse verso fala sobre a soberania de Deus, um tema recorrente em Provérbios 18.
+* Provérbios 15:33: "O temor do Senhor é a instrução da sabedoria, e a humildade precede a honra." Esse verso reforça a importância da sabedoria e da humildade, que também são temas presentes em Provérbios 18.
+* Provérbios 17:27: "O que tem conhecimento guarda as suas palavras, e o homem de entendimento é de espírito sereno." Esse verso aborda a importância de falar com prudência e sabedoria, um tema recorrente em Provérbios 18.
+* Isaías 56:1: "Assim diz o Senhor: Observai o direito, e praticai a justiça; porque a minha salvação está prestes a vir, e a minha justiça, a manifestar-se." Esse verso fala sobre a importância da justiça, um tema tratado em Provérbios 18 sobre a busca pela verdade e a justiça divina.
+****
+
+[[v24-18-1]]
+
+^<<v24-18-1,1>>^ O que quer separar-se do seu amigo busca ocasiões (para isso); será coberto de opróbrio em todo o tempo.
+
+[[v24-18-2]]
+
+^<<v24-18-2,2>>^ O insensato não gosta das palavras de prudência, mas sòmente de manifestar os seus pensamentos.
+
+[[v24-18-3]]
+
+^<<v24-18-3,3>>^ O ímpio, depois de ter caído no abismo dos pecados, tudo despreza; porém a ignomínia e o opróbrio o vão seguindo.
+
+[[v24-18-4]]
+
+^<<v24-18-4,4>>^ As palavras que saem da boca do homem são como uma água profunda; a fonte da sabedoria é como a corrente que trasborda.
+
+[[v24-18-5]]
+
+^<<v24-18-5,5>>^ Não é bom ter considerações com a pessoa do ímpio, para prejudicar o justo julgamento.
+
+[[v24-18-6]]
+
+^<<v24-18-6,6>>^ Os lábios do insensato metem-se em disputas, e a sua boca provoca contendas.
+
+[[v24-18-7]]
+
+^<<v24-18-7,7>>^ A boca do insensato é a sua ruína, os seus lábios são um laço para a sua alma.
+
+[[v24-18-8]]
+
+^<<v24-18-8,8>>^ As palavras do intriguista são como iguarias apetitosas, que penetram até ao íntimo das entranhas.
+
+[[v24-18-9]]
+
+^<<v24-18-9,9>>^ O negligente no seu trabalho é irmão do dissipador.
+
+[[v24-18-10]]
+
+^<<v24-18-10,10>>^ O nome do Senhor é uma torre fortíssima; aí se acolhe o justo e encontra um refúgio seguro.
+
+[[v24-18-11]]
+
+^<<v24-18-11,11>>^ A riqueza do rico é a sua cidade forte: na sua imaginação é uma alta muralha.
+
+[[v24-18-12]]
+
+^<<v24-18-12,12>>^ O coração do homem exalta-se antes da sua queda, mas a humildade precede a glória.
+
+[[v24-18-13]]
+
+^<<v24-18-13,13>>^ Aquele que responde antes de ouvir, mostra ser um insensato e digno de confusão.
+
+[[v24-18-14]]
+
+^<<v24-18-14,14>>^ O espirito do homem sustenta-o nos seus sofrimentos; mas quem poderá levantar um espírito abatido?
+
+[[v24-18-15]]
+
+^<<v24-18-15,15>>^ O coração prudente possuirá a ciência; e o ouvido dos sábios busca a doutrina.
+
+[[v24-18-16]]
+
+^<<v24-18-16,16>>^ Os presentes que um homem dá, abrem-lhe um dilatado caminho,e dão-lhe lugar diante dos grandes.
+
+[[v24-18-17]]
+
+^<<v24-18-17,17>>^ Parece ter razão o que expõe primeiro a sua causa; vem depois a parte adversa, e então se examina a fundo a questão.
+
+[[v24-18-18]]
+
+^<<v24-18-18,18>>^ A sorte apazígua as contendas, e decide entre os próprios poderosos.
+
+[[v24-18-19]]
+
+^<<v24-18-19,19>>^ O irmão, que é ajudado por seu irmão, é como uma cidade forte, e as suas decisões são como os ferrolhos das cidades.
+
+[[v24-18-20]]
+
+^<<v24-18-20,20>>^ Do fruto da boca do homem se encherá o seu ventre, e o produto dos seus lábios o saciará. (ver nota)
+
+[[v24-18-21]]
+
+^<<v24-18-21,21>>^ A morte e a vida estão em poder da língua; conforme o uso que dela fizeres assim comerás dos seus frutos. (ver nota)
+
+[[v24-18-22]]
+
+^<<v24-18-22,22>>^ Aquele que achou a uma mulher boa achou um tesouro, recebeu do Senhor um grande favor.
+
+[[v24-18-23]]
+
+^<<v24-18-23,23>>^ O pobre fala suplicando, e o rico responde com aspereza.
+
+[[v24-18-24]]
+
+^<<v24-18-24,24>>^ Há amigos (que servem) só para fazer companhia, mas também os há mais dedicados que um irmão.
+
+'''
+
+xref:024-proverbios/024-proverbios-017.adoc#v24-17-0[&#60; Capítulo Anterior] | <<v24-18-0,Topo>> | xref:024-proverbios/024-proverbios-019.adoc#v24-19-0[Próximo Capítulo &#62;]

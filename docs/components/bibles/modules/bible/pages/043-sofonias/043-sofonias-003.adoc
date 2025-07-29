@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v43-3-0]]
+=== Sofonias, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de Sofonias começa com uma descrição dos pecados de Jerusalém e das consequências que virão por causa deles. No entanto, a partir do versículo 9, há uma mudança de tom e o profeta começa a falar da restauração que Deus trará ao Seu povo. Ele promete que os remanescentes de Israel serão purificados e renovados, e que eles louvarão a Deus com alegria. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Sofonias 3:
+* Isaías 1:18: "Venham, vamos refletir juntos", diz o Senhor. "Embora os seus pecados sejam vermelhos como escarlate, eles se tornarão brancos como a neve; embora sejam rubros como púrpura, como a lã se tornarão." Este verso fala da purificação que Deus oferece aos pecadores que se arrependem, assim como Sofonias fala sobre a purificação do remanescente de Israel.
+* Salmos 51:10: "Cria em mim um coração puro, ó Deus, e renova dentro de mim um espírito estável." Este verso também fala sobre purificação e renovação, pedindo a Deus para transformar o coração e o espírito do salmista.
+* Isaías 12:1: "Naquele dia você dirá: 'Eu te louvo, Senhor! Pois estavas irado contra mim, mas a tua ira desviou-se, e tu me consolaste.'" Este verso fala da alegria que o povo de Deus sentirá quando receber a Sua misericórdia e consolo, assim como Sofonias promete que o remanescente de Israel louvará a Deus com alegria.
+* Isaías 43:19: "Vejam, estou fazendo uma coisa nova! Ela já está surgindo! Vocês não a reconhecem? Até no deserto vou abrir um caminho e riachos no ermo." Este verso fala da renovação e das novas coisas que Deus fará, assim como Sofonias promete que Deus renovará o Seu povo.
+* Isaías 60:18: "Nunca mais se ouvirá falar de violência em sua terra, nem de destruição ou ruína dentro de suas fronteiras. Vocês chamarão de Salvação os seus muros e de Louvor as suas portas." Este verso fala da paz e da segurança que Deus trará para o Seu povo, assim como Sofonias promete que Deus restaurará e protegerá o remanescente de Israel.
+****
+
+[[v43-3-1]]
+
+^<<v43-3-1,1>>^ Ai da (cidade) rebelde e imunda, da cidade opressora!
+
+[[v43-3-2]]
+
+^<<v43-3-2,2>>^ Ela não ouviu a voz (que a admoestava), nem recebeu o aviso; não confiou no Senhor, não se aproximou do seu Deus.
+
+[[v43-3-3]]
+
+^<<v43-3-3,3>>^ Os seus chefes são no meio dela como leões rugindo; os seus juízes como lobos nocturnos, que não deixam nada (da presa) para a manhã seguinte.
+
+[[v43-3-4]]
+
+^<<v43-3-4,4>>^ Os seus profetas são impostores e pérfidos, os seus sacerdotes profanam as coisas santas, procedem contra a lei.
+
+[[v43-3-5]]
+
+^<<v43-3-5,5>>^ O Senhor, que é justo e que está no meio dela, não faz iniquidade; de manhã estabelece à luz o seu juízo, sem falta; o ímpio, porém, não sabe que coisa é ter vergonha.
+
+[[v43-3-6]]
+
+^<<v43-3-6,6>>^ Exterminei as nações (tuas inimigas, diz Deus); as suas torres foram deitadas abaixo; tornei os seus caminhos desertos, sem haver mais quem por eles passe; as suas cidades foram saqueadas, não havendo já um homem nelas, (não havendo) habitante algum.
+
+[[v43-3-7]]
+
+^<<v43-3-7,7>>^ Eu disse: Ao menos depois disto (ó Israel) temer-me-ás, aproveitar-te-ás dos meus avisos; a tua casa não será arruinada por causa de todos os crimes, pelos quais eu já a castiguei. Todavia (os teus filhos), apressaram-se a tornar ainda mais detestáveis as suas obras.
+
+[[v43-3-8]]
+
+^<<v43-3-8,8>>^ Portanto, esperai-me, diz o Senhor, para o dia em que me hei-de levantar como testemunha, porque resolvi congregar as nações e reunir os reinos; (então) derramarei sobre eles a minha indignação, toda a ira do meu furor, porque toda a terra será devorada pelo fogo do meu zelo.
+
+[[v43-3-9]]
+
+^<<v43-3-9,9>>^ Então darei aos povos lábios puros, para que todos invoquem o nome do Senhor e o sirvam de comum acordo.
+
+[[v43-3-10]]
+
+^<<v43-3-10,10>>^ Da outra banda dos rios da Etiópia virão os meus adoradores, os meus filhos dispersos, trazer-me os seus presentes.
+
+[[v43-3-11]]
+
+^<<v43-3-11,11>>^ Naquele dia (ó Jerusalém) não serás confundida por causa de todos os teus pecados cometidos contra mim, porque então exterminarei do meio de ti aqueles que, com as suas palavras faustosas, excitavam a tua soberba, e tu, para o futuro, não te orgulharás mais por possuires o meu santo monte (de Sido).
+
+[[v43-3-12]]
+
+^<<v43-3-12,12>>^ Deixarei subsistir no meio de ti um povo pobre e humilde, que esperará no nome do Senhor.
+
+[[v43-3-13]]
+
+^<<v43-3-13,13>>^ Os que restarem de Israel não cometerão iniquidades, não proferirão a mentira; não se achará na sua boca língua enganosa, porquanto serão apascentados e repousarão, sem haver quem lhes canse medo.
+
+[[v43-3-14]]
+
+^<<v43-3-14,14>>^ Solta gritos de júbilo, filha de Sião! Solta gritos de alegria, ó Israel! Alegra-te e exulta de todo o coração, filha de Jerusalém!
+
+[[v43-3-15]]
+
+^<<v43-3-15,15>>^ O Senhor apagou a sentença da tua condenação, afastou de ti os teus inimigos; o Senhor que é o rei de Israel, está no meio de ti; não temerás mais a desgraça.
+
+[[v43-3-16]]
+
+^<<v43-3-16,16>>^ Naquele dia dir-se-á a Jerusalém: Não temas; não se enfraqueçam as tuas mãos, ó Sião.
+
+[[v43-3-17]]
+
+^<<v43-3-17,17>>^ O Senhor teu Deus, herói salvador, está no meio de ti! Por causa de ti anda em transportes de alegria, cala-se no seu amor, exulta jubiloso a teu respeito. (ver nota)
+
+[[v43-3-18]]
+
+^<<v43-3-18,18>>^ Eu congregarei esses homens vãos, que se tinham afastado da lei, visto que eles te pertenciam, a fim de que tenhas mais vergonha por causa deles,
+
+[[v43-3-19]]
+
+^<<v43-3-19,19>>^ Eis que, naquele tempo, matarei todos os que te afligirem, salvarei os coxos, recolherei os dispersos e fá-los-ei gloriosos e afamados em todos os países onde sofreram ignomínia.
+
+[[v43-3-20]]
+
+^<<v43-3-20,20>>^ Naquele tempo em que vos fizer tornar, no tempo em que vos juntar todos, tornar-vos-ei célebres e gloriosos entre todos os povos da terra, quando tiver realizado, diante dos vossos olhos, a vossa restauração, diz o Senhor.
+
+'''
+
+xref:043-sofonias/043-sofonias-002.adoc#v43-2-0[&#60; Capítulo Anterior] | <<v43-3-0,Topo>> | xref:044-ageu/044-ageu-001.adoc#v44-1-0[Próximo Capítulo &#62;]

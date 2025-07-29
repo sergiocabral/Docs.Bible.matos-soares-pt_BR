@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v27-9-0]]
+=== Sabedoria, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O livro da Sabedoria 9 apresenta o Rei Salomão fazendo uma oração pedindo a Deus sabedoria e discernimento para governar seu povo. Salomão reconhece sua limitação humana e sua necessidade de sabedoria divina para ser um bom governante. Abaixo estão cinco versículos relacionados aos temas abordados em Sabedoria 9:
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é prudência." Esse versículo destaca a importância do temor do Senhor como base para a sabedoria, reforçando a necessidade da busca pela sabedoria divina.
+* Provérbios 2:6: "Porque o Senhor dá a sabedoria; da sua boca é que vem o conhecimento e o entendimento." Esse versículo destaca a fonte da sabedoria, que vem do Senhor e é acessível através da busca por Ele.
+* Provérbios 3:13: "Feliz é o homem que acha sabedoria, e o homem que adquire conhecimento." Esse versículo destaca a importância de buscar e adquirir sabedoria, como um bem valioso.
+* Provérbios 4:7: "A sabedoria é a coisa principal; adquire, pois, a sabedoria; sim, com tudo o que possuis adquire o entendimento." Esse versículo destaca a supremacia da sabedoria e encoraja a busca constante por ela.
+* Provérbios 8:17: "Eu amo os que me amam, e os que cedo me buscarem, me acharão." Esse versículo destaca a disposição de Deus em conceder sabedoria e a importância da busca precoce por ela.
+****
+
+[[v27-9-1]]
+
+^<<v27-9-1,1>>^ Deus de meus pais e Senhor de misericórdia, que fizeste tudo pela tua palavra,
+
+[[v27-9-2]]
+
+^<<v27-9-2,2>>^ e que estabeleceste o homem, pela tua sabedoria, para ter domínio sobre as criaturas, que por ti foram feitas,
+
+[[v27-9-3]]
+
+^<<v27-9-3,3>>^ para governar o mundo com equidade e justiça, para sentenciar em Juízo com rectidão do coração.
+
+[[v27-9-4]]
+
+^<<v27-9-4,4>>^ dá-me aquela sabedoria, que está sentada contigo no teu trono,
+
+[[v27-9-5]]
+
+^<<v27-9-5,5>>^ e não me queiras excluir no número dos teus filhos porque eu sou servo teu, filho da tua escrava, sou um homem fraco e de pouca dura, e pouco capaz de compreender o juízo e as leis.
+
+[[v27-9-6]]
+
+^<<v27-9-6,6>>^ Ainda que alguém seja perfeito entre os filhos dos homens, se lhe faltar a tua sabedoria, será considerado como nada.
+
+[[v27-9-7]]
+
+^<<v27-9-7,7>>^ Escolheste-me para rei do teu povo, e para juiz dos teus filhos e filhas.
+
+[[v27-9-8]]
+
+^<<v27-9-8,8>>^ Mandaste-me edificar um templo sobre o teu santo monte, e um altar na cidade da tua habitação, conforme o modelo do teu santo tabernáculo, que preparaste desde o princípio.
+
+[[v27-9-9]]
+
+^<<v27-9-9,9>>^ Contigo está a sabedoria conhecedora das tuas obras, que se achou presente, quando formavas o universo, que sabe o que é agradável aos teus olhos, e o que é recto segundo os teus preceitos. (ver nota)
+
+[[v27-9-10]]
+
+^<<v27-9-10,10>>^ Envia-a dos teus santos céus, envia-a do trono da tua glória, para que esteja comigo, e comigo trabalhe, para que eu saiba o que te é agradável.
+
+[[v27-9-11]]
+
+^<<v27-9-11,11>>^ Ela sabe e compreende todas as coisas, e me guiará nas minhas obras com prudência, e me protegerá com a sua glória.
+
+[[v27-9-12]]
+
+^<<v27-9-12,12>>^ Assim ser-te-ão agradáveis as minhas obras, governarei o teu povo com justiça, e serei digno do trono de meu pai.
+
+[[v27-9-13]]
+
+^<<v27-9-13,13>>^ Com efeito, qual é o homem que pode conhecer os desígnios de Deus? Quem poderá penetrar o querer do Senhor? (ver nota)
+
+[[v27-9-14]]
+
+^<<v27-9-14,14>>^ Os pensamentos dos mortais são tímidos, e incertas as nossas concepções, (ver nota)
+
+[[v27-9-15]]
+
+^<<v27-9-15,15>>^ porque o corpo, que se corrompe, torna pesada a alma, e a morada terrestre oprime o espírito que pensa em muitas coisas.
+
+[[v27-9-16]]
+
+^<<v27-9-16,16>>^ Mal compreendemos o que há na terra, e com trabalho encontramos o que temos ao alcance das nossas mãos. Quem pode, pois, descobrir as coisas do céu?
+
+[[v27-9-17]]
+
+^<<v27-9-17,17>>^ E quem conheceu os teus desígnios, se tu lhe não deste a sabedoria, e se do mais alto dos céus não enviaste o teu santo Espírito?
+
+[[v27-9-18]]
+
+^<<v27-9-18,18>>^ Assim se tornaram direitas as veredas daqueles que estão na terra, e aprenderam os homens as coisas que te agradam,
+
+[[v27-9-19]]
+
+^<<v27-9-19,19>>^ e pela sabedoria foram salvos.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-008.adoc#v27-8-0[&#60; Capítulo Anterior] | <<v27-9-0,Topo>> | xref:027-sabedoria/027-sabedoria-010.adoc#v27-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v34-1-0]]
+=== Daniel, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Daniel 1 narra a história de quatro jovens hebreus que foram levados cativos para a Babilônia e foram instruídos a comerem da comida e vinho do rei, mas recusaram por causa de suas crenças religiosas. Eles pediram para comerem apenas legumes e água, e Deus os abençoou, tornando-os mais saudáveis e fortes do que os outros cativos. A seguir, são apresentados cinco versículos relacionados com os temas deste capítulo:
+* 1 Coríntios 10:31: "Portanto, quer comais, quer bebais ou façais qualquer outra coisa, fazei tudo para a glória de Deus." Este versículo fala sobre a importância de viver uma vida que honra a Deus em todas as áreas, incluindo o que comemos.
+* Provérbios 23:6-8: "Não coma a comida do avarento, nem deseje as suas iguarias, pois ele é como alguém que pensa consigo mesmo: 'Coma e beba', mas não está de coração com você. Você vomitará a iguaria que comeu e perderá suas amáveis palavras." Este versículo adverte contra a ganância e o amor excessivo pela comida, mostrando que as pessoas egoístas não estão preocupadas com o bem-estar dos outros.
+* Atos 10:13-15: "Então uma voz lhe disse: 'Levanta-te, Pedro, mata e come!' Mas Pedro respondeu: 'De maneira nenhuma, Senhor! Nunca comi nada impuro ou imundo.' E a voz lhe falou pela segunda vez: 'Não chames impuro ao que Deus purificou.'" Este versículo fala sobre a pureza da comida, uma preocupação importante para os hebreus no tempo de Daniel.
+* Romanos 14:17: "Pois o Reino de Deus não é comida nem bebida, mas justiça, paz e alegria no Espírito Santo." Este versículo enfatiza a importância de coisas mais importantes do que a comida, como a justiça e a paz que vêm de Deus.
+* Marcos 7:18-20: "Ele (Jesus) lhes disse: 'Então vocês também são assim? Não entendem que nada que entra no homem pode torná-lo impuro? Pois não entra em seu coração, mas em seu estômago, e vai para a privada'. E assim ele declarou todos os alimentos 'puros'". Este versículo mostra como Jesus explicou que a pureza não está relacionada com a comida, mas com a nossa natureza interior e com o que sai dela.
+****
+
+[[v34-1-1]]
+
+^<<v34-1-1,1>>^ No ano terceiro do reinado de Joaquim, rei de Judá, veio Nabucodonosor rei de Babilônia, contra Jerusalém, e sitiou-a.
+
+[[v34-1-2]]
+
+^<<v34-1-2,2>>^ O Senhor entregou nas suas mãos Joaquim, rei de Judá e uma parte dos objectos da casa de Deus. Ele levou-os para a terra de Senaar, para a casa do seu deus; pôs os objetos na casa do tesouro do seu deus.
+
+[[v34-1-3]]
+
+^<<v34-1-3,3>>^ Então disse o rei a Asfenez, seu eunuco-mor, que Ihe destinasse, dentre os filhos de Israel, da linhagem dos reis e dos nobres,
+
+[[v34-1-4]]
+
+^<<v34-1-4,4>>^ alguns meninos em que não houvesse defeito algum, de gentil presença, hábeis para toda a sabedoria, versados nas ciências e inteligentes, que pudessem estar no palácio do rei, para que lhes fossem ensinadas as letras e a língua dos Caldeus
+
+[[v34-1-5]]
+
+^<<v34-1-5,5>>^ O rei ordenou que se lhes desse cada dia de comer das Iguarias reais, e de beber do vinho que ele mesmo bebia, a fim de que, mantidos deste modo durante três anos, servissem depois na presença do rei.
+
+[[v34-1-6]]
+
+^<<v34-1-6,6>>^ Entre estes encontraram-se dos filhos de Judá, Daniel, Ananias, Misael e Azarias.
+
+[[v34-1-7]]
+
+^<<v34-1-7,7>>^ O eunuco-mor pôs-lhes os seguintes nomes: a Daniel o de Baltasar, a Ananias o de Sidrac, a Misael o de Misac, e a Azarias o de Abdenago.
+
+[[v34-1-8]]
+
+^<<v34-1-8,8>>^ Daniel resolveu no seu coração não se contaminar com as iguarias que lhe viessem da mesa do rei, nem com o vinho que ele bebesse, e pediu ao eumuco-mor que não o obrigasse a contaminar-se. (ver nota)
+
+[[v34-1-9]]
+
+^<<v34-1-9,9>>^ Deus fez que Daniel achasse graça e benevolência diante do eunuco-mor.
+
+[[v34-1-10]]
+
+^<<v34-1-10,10>>^ Então o eunuco-mor disse a Daniel: Tenho medo do rei, meu amo, o qual determinou o que vós deveis comer e beber; se ele vir os vossos rostos mais macilentos que os dos outros jovens da vossa idade, sereis a causa de que o rei me condene.
+
+[[v34-1-11]]
+
+^<<v34-1-11,11>>^ Daniel respondeu ao oficial, a quem o eunuco-mor tinha ordenado que tivesse cuidado de Daniel, de Ananias, de Misael e de Azarias;
+
+[[v34-1-12]]
+
+^<<v34-1-12,12>>^ Peço-te que nos experimentes a nós, teus servos, durante dez dias, dando-nos só legumes a comer e água a beber;
+
+[[v34-1-13]]
+
+^<<v34-1-13,13>>^ depois disto, olha para os nossos rostos e para os rostos dos meninos que comem da mesa do rei, e, conforme vires, assim procederás com os teus servos.
+
+[[v34-1-14]]
+
+^<<v34-1-14,14>>^ Ele acedeu ao seu pedido e experimentou-os durante dez dias.
+
+[[v34-1-15]]
+
+^<<v34-1-15,15>>^ Depois dos dez dias apareceram os seus rostos melhores e mais gordos do que os de todos os meninos que comiam da mesa do rei.
+
+[[v34-1-16]]
+
+^<<v34-1-16,16>>^ O oficial pois, levava embora os manjares e o vinho que deviam beber, e dava-lhes legumes.
+
+[[v34-1-17]]
+
+^<<v34-1-17,17>>^ Deus concedeu a estes jovens saber e compreensão no campo das letras e da sabedoria, e a Daniel (deu) a inteligência de todas as visões e sonhos.
+
+[[v34-1-18]]
+
+^<<v34-1-18,18>>^ Terminando pois, o tempo, depois do qual o rei tinha ordenado que lhe fossem apresentados, o eunuco-mor introduziu-os à presença de Nabucodonosor.
+
+[[v34-1-19]]
+
+^<<v34-1-19,19>>^ Tendo-se o rei entretido em conversação com eles, não encontrou entre todos quem igualasse Daniel, Ananias, Misael e Azarias. Ficaram, portanto, ao serviço da pessoa real.
+
+[[v34-1-20]]
+
+^<<v34-1-20,20>>^ Em todas as questões que o rei lhes propôs em matéria de sabedoria e de inteligência, achou que excediam dez vezes todos os adivinhos e magos de todo o seu reino.
+
+[[v34-1-21]]
+
+^<<v34-1-21,21>>^ Daniel permaneceu (ao serviço do rei) até ao primeiro ano do rei Ciro.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-048.adoc#v33-48-0[&#60; Capítulo Anterior] | <<v34-1-0,Topo>> | xref:034-daniel/034-daniel-002.adoc#v34-2-0[Próximo Capítulo &#62;]

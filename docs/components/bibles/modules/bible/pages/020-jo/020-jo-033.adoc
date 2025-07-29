@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v20-33-0]]
+=== Jó, 33
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 33 é um capítulo em que Eliú, um dos amigos de Jó, faz um discurso defendendo a justiça de Deus e questionando as afirmações de Jó sobre sua inocência. Eliú alega que Deus fala de várias maneiras aos homens e que Jó deveria prestar atenção a essas formas de comunicação divina. Com base nisso, os versículos selecionados têm a ver com a comunicação de Deus com os homens e a importância de ouvir e obedecer à sua voz.
+* Salmo 32:8: "Instruir-te-ei e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos." Este versículo destaca a importância de Deus como guia e instrutor, assim como Eliú sugere que Jó deve ouvir a voz de Deus.
+* João 10:27: "As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem." Jesus usa a imagem de ovelhas ouvindo e seguindo a voz do pastor para mostrar como seus seguidores devem ouvir e obedecer a ele.
+* Provérbios 3:6: "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo destaca a importância de reconhecer a Deus em todos os aspectos da vida e seguir o caminho que ele define.
+* Isaías 30:21: "E os teus ouvidos ouvirão a palavra do que está por detrás de ti, dizendo: Este é o caminho, andai nele, sem vos desviardes nem para a direita nem para a esquerda." Este versículo fala sobre a voz de Deus guiando as pessoas em seu caminho e como devem prestar atenção para ouvi-la.
+* Hebreus 12:25: "Vede que não rejeiteis ao que fala; porque, se não escaparam aqueles que rejeitaram o que na terra os advertia, muito menos escaparemos nós, se nos desviarmos daquele que é dos céus." Este versículo destaca a importância de ouvir e obedecer à voz de Deus, alertando que a rejeição de sua mensagem tem consequências negativas.
+****
+
+[[v20-33-1]]
+
+^<<v20-33-1,1>>^ Ouve, pois, Job, as minhas palavras, escuta todos os meus discursos.
+
+[[v20-33-2]]
+
+^<<v20-33-2,2>>^ Eis que abri a minha boca, fale a minha língua sob o meu palato.
+
+[[v20-33-3]]
+
+^<<v20-33-3,3>>^ O meu coração dará palavras sapientes, os meus lábios proferirão palavras claras.
+
+[[v20-33-4]]
+
+^<<v20-33-4,4>>^ O espirito de Deus me fez, e o sopro do Omnipotente me deu a vida.
+
+[[v20-33-5]]
+
+^<<v20-33-5,5>>^ Se podes, responde-me, ergue-te e aguenta-te contra mim.
+
+[[v20-33-6]]
+
+^<<v20-33-6,6>>^ Deus me fez a mim, como a ti, do mesmo barro também eu fui formado.
+
+[[v20-33-7]]
+
+^<<v20-33-7,7>>^ Pelo que nada há de maravilhoso em mim que te espante, e o meu peso não te esmagará.
+
+[[v20-33-8]]
+
+^<<v20-33-8,8>>^ Ora disseste aos meus ouvidos, e ouvi o som destas tuas palavras:
+
+[[v20-33-9]]
+
+^<<v20-33-9,9>>^ "Eu estou limpo e sem pecado; estou sem mácula, em mim não há iniquidade.
+
+[[v20-33-10]]
+
+^<<v20-33-10,10>>^ Deus achou queixas contra mim, por isso me considerou como seu inimigo.
+
+[[v20-33-11]]
+
+^<<v20-33-11,11>>^ Pôs os meus pés no cepo, observou todas as minhas veredas."
+
+[[v20-33-12]]
+
+^<<v20-33-12,12>>^ Nisto pois (ó Job) mostraste que não és justo, porque Deus é maior do que o homem.
+
+[[v20-33-13]]
+
+^<<v20-33-13,13>>^ Por que te queixas dele, pelo facto de não dar razão de tudo o que faz?
+
+[[v20-33-14]]
+
+^<<v20-33-14,14>>^ Deus fala de um modo, fala de outro, mas o homem não o entende.
+
+[[v20-33-15]]
+
+^<<v20-33-15,15>>^ Em sonho, em visão noturna, quando o sono cai sobre os homens, quando estão dormindo no seu leito,
+
+[[v20-33-16]]
+
+^<<v20-33-16,16>>^ então (Deus) abre os ouvidos dos homens, e, com as suas censuras os aterra,
+
+[[v20-33-17]]
+
+^<<v20-33-17,17>>^ para os apartar do mal, para os livrar da soberba,
+
+[[v20-33-18]]
+
+^<<v20-33-18,18>>^ para salvar a sua alma da corrupção, e a sua vida de um fim desastrado.
+
+[[v20-33-19]]
+
+^<<v20-33-19,19>>^ (Deus) corrige também o homem, por meio das dores no seu leito, quando faz que todos os seus ossos se mirrem,
+
+[[v20-33-20]]
+
+^<<v20-33-20,20>>^ Neste estado se lhe torna aborrecido o pão, e o manjar que noutro tempo a sua alma apetecia.
+
+[[v20-33-21]]
+
+^<<v20-33-21,21>>^ Vai-se consumindo a sua carne, e os ossos, que tinham estado cobertos, se descobrem.
+
+[[v20-33-22]]
+
+^<<v20-33-22,22>>^ A sua alma aproximou-se do sepulcro, a sua vida dos horrores da morte.
+
+[[v20-33-23]]
+
+^<<v20-33-23,23>>^ Se houver algum anjo, um entre milhares, que fale a seu favor, que instrua o homem no seu dever,
+
+[[v20-33-24]]
+
+^<<v20-33-24,24>>^ Se compadeça dele e diga: "Livra-o, para que não desça à corrupção; encontrei o resgate (da sua vida)",
+
+[[v20-33-25]]
+
+^<<v20-33-25,25>>^ - a sua carne reverdecerá mais que na juventude, voltará aos dias da adolescência.
+
+[[v20-33-26]]
+
+^<<v20-33-26,26>>^ Ele suplicará a Deus, e Deus se aplacará, mostrar-lhe-à com júbilo a sua face, e dará ao homem o seu direito.
+
+[[v20-33-27]]
+
+^<<v20-33-27,27>>^ Ele se voltará para os (outros) homens e dirá; Pequei, violei a justiça, e não fui castigado como merecia.
+
+[[v20-33-28]]
+
+^<<v20-33-28,28>>^ Deus livrou a minha alma de cair na morte, e a minha vida volta a ver a luz.
+
+[[v20-33-29]]
+
+^<<v20-33-29,29>>^ Ora Deus faz todas estas coisas, duas ou três vezes, em cada homem,
+
+[[v20-33-30]]
+
+^<<v20-33-30,30>>^ para retirar a sua alma da corrupção, e para a esclarecer com a luz dos viventes.
+
+[[v20-33-31]]
+
+^<<v20-33-31,31>>^ Atende, Job, e ouve-me; cala-te, enquanto eu falo.
+
+[[v20-33-32]]
+
+^<<v20-33-32,32>>^ Se contudo tens alguma coisa a dizer, responde-me, fala, porque eu quero dar-te razão.
+
+[[v20-33-33]]
+
+^<<v20-33-33,33>>^ Mas, se nada tens (que responder), ouve-me; cala-te, e eu te ensinarei a sabedoria.
+
+'''
+
+xref:020-jo/020-jo-032.adoc#v20-32-0[&#60; Capítulo Anterior] | <<v20-33-0,Topo>> | xref:020-jo/020-jo-034.adoc#v20-34-0[Próximo Capítulo &#62;]

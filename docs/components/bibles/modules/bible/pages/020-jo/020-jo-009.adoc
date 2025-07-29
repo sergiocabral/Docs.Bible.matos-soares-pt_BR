@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v20-9-0]]
+=== Jó, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 9 é um capítulo onde Jó reflete sobre a justiça de Deus e como é impossível ao homem ser justo diante Dele. Ele questiona como pode um ser humano ser justo diante de Deus, que é tão poderoso e sábio. Jó também se lembra da miséria que está passando e como se sente impotente diante da situação. Aqui estão cinco versículos relacionados com os temas abordados em Jó 9:
+* Salmos 9:7-8: "Mas o Senhor reina para sempre; estabeleceu o seu trono para julgar. Ele mesmo julga o mundo com justiça; governa os povos com retidão." Este versículo fala sobre como Deus é justo em suas decisões e como Ele é um governante justo.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo fala sobre confiar em Deus, mesmo quando as coisas parecem impossíveis.
+* Romanos 3:23-24: "pois todos pecaram e estão destituídos da glória de Deus, sendo justificados gratuitamente por sua graça, por meio da redenção que há em Cristo Jesus." Este versículo fala sobre como todos pecaram e não podem ser justos por si mesmos, mas podem ser justificados por meio de Jesus Cristo.
+* Isaías 55:8-9: "Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor. Porque, assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos, e os meus pensamentos mais do que os vossos pensamentos." Este versículo fala sobre como Deus tem uma perspectiva maior e mais elevada do que a dos seres humanos e como não podemos compreender completamente seus caminhos.
+* Tiago 1:2-4: "Meus irmãos, considerem motivo de grande alegria o fato de passarem por diversas provações, pois vocês sabem que a prova da sua fé produz perseverança. E a perseverança deve ter ação completa, a fim de que vocês sejam maduros e íntegros, sem lhes faltar coisa alguma." Este versículo fala sobre como as provações podem nos ajudar a crescer e amadurecer em nossa fé.
+****
+
+[[v20-9-1]]
+
+^<<v20-9-1,1>>^ Respondendo Job, disse:
+
+[[v20-9-2]]
+
+^<<v20-9-2,2>>^ Eu sei verdadeiramente que é assim, que o homem comparado com Deus não é justo.
+
+[[v20-9-3]]
+
+^<<v20-9-3,3>>^ quisesse disputar com Deus, não lhe poderia responder por mil coisas uma só.
+
+[[v20-9-4]]
+
+^<<v20-9-4,4>>^ Deus é sábio de coração, e forte em poder; quem lhe resistiu e ficou em paz?
+
+[[v20-9-5]]
+
+^<<v20-9-5,5>>^ Ele transporta os montes, sem que eles o saibam, revolve-os na sua ira.
+
+[[v20-9-6]]
+
+^<<v20-9-6,6>>^ Ele sacode a terra do seu lugar, e as suas colunas são abaladas.
+
+[[v20-9-7]]
+
+^<<v20-9-7,7>>^ Ele manda ao sol, e o sol não nasce; põe um selo nas estrelas.
+
+[[v20-9-8]]
+
+^<<v20-9-8,8>>^ Ele formou, sozinho, a extensão dos céus, e caminha sobre as ondas do mar.
+
+[[v20-9-9]]
+
+^<<v20-9-9,9>>^ Ele criou a Ursa, o Orião e as Pléiades, e os astros (que estão) no fundo do austro.
+
+[[v20-9-10]]
+
+^<<v20-9-10,10>>^ Ele faz coisas grandes e incompreensíveis, prodígios que não têm número.
+
+[[v20-9-11]]
+
+^<<v20-9-11,11>>^ Se ele vem a mim, eu não o verei, se se retira não o perceberei.
+
+[[v20-9-12]]
+
+^<<v20-9-12,12>>^ Se levar uma presa, quem se lhe oporá? Quem lhe pode dizer: Por que fazes isto?
+
+[[v20-9-13]]
+
+^<<v20-9-13,13>>^ Deus. ninguém pode resistir à sua ira, e sob ele curvam-se os auxiliares de Rabab.
+
+[[v20-9-14]]
+
+^<<v20-9-14,14>>^ Quem sou eu, pois, para lhe responder, e para lhe falar com as minhas próprias palavras?
+
+[[v20-9-15]]
+
+^<<v20-9-15,15>>^ Ainda que eu tivesse alguma razão, não responderia, mas imploraria a clemência do meu juiz.
+
+[[v20-9-16]]
+
+^<<v20-9-16,16>>^ E ainda que tivesse ouvido ás minhas súplicas, não acreditaria que tivesse feito caso da minha voz,
+
+[[v20-9-17]]
+
+^<<v20-9-17,17>>^ ele que me desfaz como num redemoinho, e multiplica as minhas feridas, mesmo sem (manifestar o) motivo;
+
+[[v20-9-18]]
+
+^<<v20-9-18,18>>^ que não deixa que o meu espírito repouse, e me enche de amarguras.
+
+[[v20-9-19]]
+
+^<<v20-9-19,19>>^ Se se busca fortaleza, ele é robustíssimo; se equidade de juízo, ninguém ousa dar testemunho em meu favor. (ver nota)
+
+[[v20-9-20]]
+
+^<<v20-9-20,20>>^ Se eu pretender justificar-me, a minha boca me condenará (de presunçoso); se me mostrar inocente, ele me convencerá de culpado.
+
+[[v20-9-21]]
+
+^<<v20-9-21,21>>^ Ainda que eu seja inocente, a minha alma o ignorará, e me será (sempre) fastidiosa a minha vida.
+
+[[v20-9-22]]
+
+^<<v20-9-22,22>>^ Um a só coisa disse: (Deus) aflige o inocente como ímpio.
+
+[[v20-9-23]]
+
+^<<v20-9-23,23>>^ Se ele fere, mate por uma vez, e não se ria das peuas dos inocentes.
+
+[[v20-9-24]]
+
+^<<v20-9-24,24>>^ A terra foi entregue nas mãos do ímpio, e ele cobre com um véu os olhos dos seus juízes; se não é Deus (que o permite), quem é pois?
+
+[[v20-9-25]]
+
+^<<v20-9-25,25>>^ Os dias da minha vida são mais velozes do que um correio; fogem sem terem visto a felicidade.
+
+[[v20-9-26]]
+
+^<<v20-9-26,26>>^ Passam como navios que levam fruta, como a águia que voa para a presa.
+
+[[v20-9-27]]
+
+^<<v20-9-27,27>>^ Se eu disser: "vou esquecer meus lamentos, mudar em alegre o meu ar triste",
+
+[[v20-9-28]]
+
+^<<v20-9-28,28>>^ temo por todas as minhas obras, sabendo que não perdoas ao culpado.
+
+[[v20-9-29]]
+
+^<<v20-9-29,29>>^ Sou com certeza tido como culpado; para que, pois, fatigar-me em vão?
+
+[[v20-9-30]]
+
+^<<v20-9-30,30>>^ Ainda que me lavasse com água de neve, e as minhas mãos brilhassem como as mais limpas,
+
+[[v20-9-31]]
+
+^<<v20-9-31,31>>^ contudo me submergirias na imundície. e os meus próprios vestidos teriam horror de mim.
+
+[[v20-9-32]]
+
+^<<v20-9-32,32>>^ Porque eu não terei de responder a um homem semelhante a mim, nem contestar com ele como um meu igual.
+
+[[v20-9-33]]
+
+^<<v20-9-33,33>>^ Não há quem possa ser árbitro entre ambos, nem meter a sua mão (como mediador) entre os dois.
+
+[[v20-9-34]]
+
+^<<v20-9-34,34>>^ Retire ele a sua vara de mim, e não me amedronte o seu terror;
+
+[[v20-9-35]]
+
+^<<v20-9-35,35>>^ (então) falarei, e não o temerei porque no temor em que estou, não posso responder.
+
+'''
+
+xref:020-jo/020-jo-008.adoc#v20-8-0[&#60; Capítulo Anterior] | <<v20-9-0,Topo>> | xref:020-jo/020-jo-010.adoc#v20-10-0[Próximo Capítulo &#62;]

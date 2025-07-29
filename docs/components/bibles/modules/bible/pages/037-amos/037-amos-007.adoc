@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v37-7-0]]
+=== Amós, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Amós 7 é um capítulo que relata a visão de Amós de Deus enviando pragas e julgamentos contra o povo de Israel por sua injustiça e pecado. A seguir estão cinco versículos que abordam temas relacionados com o capítulo:
+* Salmos 50:6 - "E os céus anunciam a sua justiça, pois Deus mesmo é o juiz." Este versículo enfatiza a justiça de Deus, que é um tema importante em Amós 7, onde Deus está enviando julgamento contra Israel por causa de suas injustiças.
+* Jeremias 18:7-8 - "Se, porém, essa nação contra a qual falei se arrepender da sua maldade, também eu me arrependerei do mal que pensava fazer-lhe. E se fizer o bem, e não ouvirem a minha voz, então farei o mal a essa nação, destruindo-a." Este versículo destaca a importância do arrependimento e como Deus está disposto a mudar sua punição se o povo se arrepender.
+* Ezequiel 18:30-31 - "Convertei-vos, pois, e vivei. Lançai de vós todas as vossas transgressões com que transgredistes, e fazei-vos um coração novo e um espírito novo." Este versículo enfatiza a necessidade de se arrepender e se afastar do pecado, que é um tema importante em Amós 7, onde Deus está punindo o povo de Israel por causa de seus pecados.
+* Oséias 6:1 - "Vinde, e tornemos para o SENHOR, porque ele despedaçou, e nos sarará; feriu, e nos atará a ferida." Este versículo destaca a misericórdia e a graça de Deus, que é um tema importante em Amós 7, onde Deus está punindo o povo de Israel, mas ainda oferece a oportunidade de arrependimento e restauração.
+* Miquéias 6:8 - "Ele te declarou, ó homem, o que é bom e que é o que o SENHOR pede de ti: que pratiques a justiça, e ames a misericórdia, e andes humildemente com o teu Deus." Este versículo destaca a importância da justiça e da misericórdia, que são temas importantes em Amós 7, onde Deus está punindo o povo de Israel por causa de sua falta de justiça e misericórdia.
+****
+
+[[v37-7-1]]
+
+^<<v37-7-1,1>>^ Isto me mostrou o Senhor Deus: Apareceu uma nuvem de gafanhotos que ele formava, quando começava outra vez a crescer a forragem, depois de a primeira camada ter sido segada para o rei.
+
+[[v37-7-2]]
+
+^<<v37-7-2,2>>^ Quando os gafanhotos tinham acabado de comer a erva da terra, disse eu: Senhor Deus, tem misericórdia! Como poderá resistir Jacob, estando tão fraco?
+
+[[v37-7-3]]
+
+^<<v37-7-3,3>>^ O Senhor arrependeu-se. Não há-de acontecer tal, disse o Senhor.
+
+[[v37-7-4]]
+
+^<<v37-7-4,4>>^ O Senhor Deus mostrou-me (também) o seguinte: O Senhor Deus chamava o fogo para exercer o seu castigo; este fogo, tendo devorado o grande abismo, consumia também os campos.
+
+[[v37-7-5]]
+
+^<<v37-7-5,5>>^ Então, disse eu: Senhor Deus, aplaca-te! Como poderá resistir Jacob, estando tão fraco?
+
+[[v37-7-6]]
+
+^<<v37-7-6,6>>^ O Senhor arrependeu-se. Pois também isto não há-de acontecer, disse o Senhor Deus.
+
+[[v37-7-7]]
+
+^<<v37-7-7,7>>^ O Senhor mostrou-me ainda isto: O Senhor estava em cima dum muro rebocado, e tinha na sua mão um nível.
+
+[[v37-7-8]]
+
+^<<v37-7-8,8>>^ O Senhor disse-me: Que vês tu, Amós? E eu lhe respondi: Um nível. Então disse o Senhor: Eis que vou nivelar o meu povo de Israel, e não lhe perdoarei mais.
+
+[[v37-7-9]]
+
+^<<v37-7-9,9>>^ Os altos lugares de Isaac serão destruídos, os santuários (idolátricos) de Israel serão derrubados; levantar-me-ei com a espada contra a casa de Jeroboão.
+
+[[v37-7-10]]
+
+^<<v37-7-10,10>>^ Então Amasias, sacerdote de Betei, enviou este aviso a Jeroboão, rei de Israel: Amós conspira contra ti no meio da casa de Israel; a terra não pode mais sofrer todos os seus discursos.
+
+[[v37-7-11]]
+
+^<<v37-7-11,11>>^ Porque isto disse Amós: Jeroboão morrerá à espada, e Israel será levado cativo para fora do seu país.
+
+[[v37-7-12]]
+
+^<<v37-7-12,12>>^ Amasias disse a Amós: Sai daqui, homem de visões, foge para a terra de Judá e come lá o teu pão, fazendo de profeta.
+
+[[v37-7-13]]
+
+^<<v37-7-13,13>>^ Mas não continues a profetizar em Betel, porque aqui é o, santuário do rei e a corte real.
+
+[[v37-7-14]]
+
+^<<v37-7-14,14>>^ Amós respondeu a Amasias: Eu não sou profeta (de profissão), nem filho de profeta; sou pastor de, gado e cultivo sicómoros.
+
+[[v37-7-15]]
+
+^<<v37-7-15,15>>^ O Senhor pegou em mim, quando eu andava atrás do meu rebanho, e disse-me: Vai, profetiza ao meu povo de Israel,
+
+[[v37-7-16]]
+
+^<<v37-7-16,16>>^ Ouve, pois, agora, (ó Amasias) a palavra do Senhor: Tu dizes-me: Não profetizes contra Israel, nem profiras oráculos contra a casa de Isaac.
+
+[[v37-7-17]]
+
+^<<v37-7-17,17>>^ Por esta causa isto diz o Senhor: Tua mulher será desonrada na cidade, os teus filhos e as tuas filhas cairão à espada, e a tua terra será repartida a cordel (entre os vencedores); quanto a ti, morrerás numa terra impura (ou idólatra), e Israel será levado cativo para fora do seu país.
+
+'''
+
+xref:037-amos/037-amos-006.adoc#v37-6-0[&#60; Capítulo Anterior] | <<v37-7-0,Topo>> | xref:037-amos/037-amos-008.adoc#v37-8-0[Próximo Capítulo &#62;]

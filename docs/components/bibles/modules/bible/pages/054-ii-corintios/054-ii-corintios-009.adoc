@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v54-9-0]]
+=== II Coríntios, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Coríntios 9 trata da generosidade cristã, encorajando os crentes a dar com alegria e de acordo com o que eles têm, sabendo que Deus abençoará e multiplicará seus recursos. O capítulo enfatiza que a doação deve ser feita de livre vontade e não por obrigação, e que o objetivo é abençoar os outros e glorificar a Deus. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Coríntios 9:
+* Provérbios 11:25: "A alma generosa prosperará e aquele que regar também será regado." Este versículo destaca que aqueles que são generosos serão abençoados com prosperidade e que aqueles que ajudam os outros também serão ajudados.
+* Lucas 6:38: "Dai e dar-se-vos-á; boa medida, recalcada, sacudida e transbordando vos deitarão no regaço; porque com a mesma medida com que medirdes também vos medirão de novo." Jesus ensina aqui que, quando damos, receberemos de volta em proporção ainda maior.
+* Provérbios 3:9-10: "Honra ao Senhor com os teus bens, e com a primeira parte de todos os teus ganhos; e se encherão os teus celeiros, e transbordarão de vinho os teus lagares." Este versículo ensina que a generosidade para com Deus e os outros resulta em bênçãos materiais abundantes.
+* Mateus 25:40: "Em verdade vos digo que, sempre que o fizestes a um destes meus irmãos, mesmo dos mais pequeninos, a mim o fizestes." Jesus ensina que ajudar os outros é como ajudá-lo pessoalmente, incentivando os crentes a serem generosos e compassivos.
+* Atos 20:35: "Em tudo vos tenho mostrado que assim, trabalhando, é necessário auxiliar os enfermos e recordar as palavras do Senhor Jesus, que disse: Mais bem-aventurado é dar do que receber." Paulo cita as palavras de Jesus para enfatizar a alegria e a bênção de dar, encorajando os crentes a viverem em generosidade e serviço aos outros.
+****
+
+[[v54-9-1]]
+
+^<<v54-9-1,1>>^ Quanto ao socorro destinado aos santos, é coisa supérflua eu escrever-vos.
+
+[[v54-9-2]]
+
+^<<v54-9-2,2>>^ Com efeito, conheço a prontidão da vossa vontade, pela qual me glorio de vós diante dos Macedónios, aos quais eu digo que a Acaia também está pronta, desde o ano passado. O vosso zelo tem estimulado muitíssimos.
+
+[[v54-9-3]]
+
+^<<v54-9-3,3>>^ Enviei, porém, nossos irmãos, para que o elogio que fizemos de vós não se frustre, neste ponto, e que estejais preparados, como eu disse,
+
+[[v54-9-4]]
+
+^<<v54-9-4,4>>^ não aconteça que, ao chegarem os Macedónios comigo, vos encontrem desprevenidos, e tenhamos nós (para não dizer vós) de nos envergonhar a este respeito.
+
+[[v54-9-5]]
+
+^<<v54-9-5,5>>^ Portanto, julguei necessário rogar a estes irmãos que vão antes de mim ter convosco e que preparem a liberalidade já prometida, a fim de que esteja pronta, como liberalidade e não como avareza.
+
+[[v54-9-6]]
+
+^<<v54-9-6,6>>^ Devem dar generosamente e com alegria.
+
+[[v54-9-7]]
+
+^<<v54-9-7,7>>^ Cada um dê como propôs no seu coração, não com tristeza, nem constrangido, porque Deus ama o que dá com alegria.
+
+[[v54-9-8]]
+
+^<<v54-9-8,8>>^ Deus é poderoso para fazer abundar em vós todos os bens, para que, tendo sempre em todas as coisas tudo o que é suficiente, abundeis em toda a obra boa,
+
+[[v54-9-9]]
+
+^<<v54-9-9,9>>^ como está escrito: Espalhou, deu aos pobres; a sua justiça dura para sempre (Ps. 111, 9).
+
+[[v54-9-10]]
+
+^<<v54-9-10,10>>^ Aquele (Deus), que subministra semente ao semeador, dará também pão para comer, multiplicará a vossa semente e aumentará sempre mais os frutos da vossa justiça, (ver nota)
+
+[[v54-9-11]]
+
+^<<v54-9-11,11>>^ para que, enriquecidos com todas as coisas, tenhais abundantemente com que fazer toda a sorte de liberalidades, que, por meio de nós, provoquem ações de graças a Deus (por parte dos cristãos pobres de Jerusalém, que as receberem).
+
+[[v54-9-12]]
+
+^<<v54-9-12,12>>^ Em realidade, a administração desta oferenda não sòmente supre o que falta aos santos, mas também redunda em muitas ações de graças ao Senhor;
+
+[[v54-9-13]]
+
+^<<v54-9-13,13>>^ por causa da virtude provada que esta oferta mostra em vós, dão glória a Deus pela submissão que mostrais ao Evangelho de Cristo e pela sinceridade da vossa liberal união com eles e com todos.
+
+[[v54-9-14]]
+
+^<<v54-9-14,14>>^ Eles pedem por vós, amando-vos muito, por causa da eminente graça de Deus, que há em vós.
+
+[[v54-9-15]]
+
+^<<v54-9-15,15>>^ Graças a Deus pelo seu dom inefável.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-008.adoc#v54-8-0[&#60; Capítulo Anterior] | <<v54-9-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-010.adoc#v54-10-0[Próximo Capítulo &#62;]

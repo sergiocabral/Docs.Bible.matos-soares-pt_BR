@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v6-2-0]]
+=== Josué, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 do livro de Josué conta a história de como os espiões israelitas foram enviados a Jericó e encontraram refúgio na casa de Raabe, uma prostituta. Raabe escondeu os espiões dos soldados do rei de Jericó e fez um acordo com eles para poupar a vida dela e de sua família quando os israelitas atacassem a cidade. Os temas abordados nesse capítulo incluem a coragem de Raabe, a espionagem como estratégia militar e a importância da fidelidade a Deus.
+* Provérbios 11:3: "A integridade dos justos os guia, mas a falsidade dos infiéis os destrói." Raabe demonstrou integridade ao proteger os espiões israelitas e fazer um acordo com eles, enquanto o rei de Jericó e seus soldados eram infiéis e buscavam destruí-los.
+* Hebreus 11:31: "Pela fé, Raabe, a prostituta, não foi destruída com os que foram desobedientes, pois acolheu com paz os espiões." Raabe demonstrou fé em Deus ao proteger os espiões e fazer um acordo com eles, e sua fé foi recompensada quando ela e sua família foram poupados da destruição de Jericó.
+* Tiago 2:25: "Do mesmo modo, não foi somente por meio de obras que Raabe, a prostituta, foi considerada justa? Ela acolheu os espiões e os fez sair por outro caminho." Raabe foi considerada justa não apenas por causa de sua fé, mas também por suas ações em acolher e proteger os espiões.
+* Josué 2:9: "Eu sei que o Senhor entregou esta terra a vocês e que o medo de vocês caiu sobre nós, e que todos os habitantes desta terra desfalecem de medo diante de vocês." Raabe reconheceu a autoridade e o poder de Deus e reconheceu que os israelitas eram destinados a conquistar a terra.
+* Josué 2:24: "Responderam os espiões a Josué: O Senhor entregou toda a terra em nossas mãos; e até todos os habitantes do país estão apavorados diante de nós." Os espiões confirmaram a crença de Raabe de que Deus estava do lado dos israelitas e que eles tinham a autoridade divina para conquistar a terra de Canaã.
+****
+
+[[v6-2-1]]
+
+^<<v6-2-1,1>>^ Josué, filho de Nun, enviou secretamente de Setim dois espiões, e disse-lhes: Ide, examinai o país e a cidade de Jericó. Eles partiram e entraram em casa duma meretriz, chamada Baab, e repousaram em sua casa. (ver nota)
+
+[[v6-2-2]]
+
+^<<v6-2-2,2>>^ E foi dado aviso disso ao rei de Jericó, assim: entraram aqui de noite uns homens dos filhos de Israel, para explorar o país.
+
+[[v6-2-3]]
+
+^<<v6-2-3,3>>^ O rei de Jericó mandou dizer a Raab; Faze sair esses homens, que foram ter contigo e entraram em tua casa, porque são espiões que vieram reconhecer todo o país.
+
+[[v6-2-4]]
+
+^<<v6-2-4,4>>^ Mas a mulher, tomando os homens, escondeu-os, e disse: Confesso que eles vieram a minha casa, mas eu não sabia donde eram,
+
+[[v6-2-5]]
+
+^<<v6-2-5,5>>^ e, quando se fechava a porta (da cidade), sendo já escuro, eles saíram ao mesmo tempo, e não sei para onde foram. Ide após eles, depressa, e encontrá-los-eis.
+
+[[v6-2-6]]
+
+^<<v6-2-6,6>>^ Ora ela tinha feito subir os homens ao terraço da sua casa e tinha-os coberto com palha de linho, que ali havia.
+
+[[v6-2-7]]
+
+^<<v6-2-7,7>>^ Os que haviam sido enviados, foram atrás deles pelo caminho que conduz ao vau do Jordão, e, logo que saíram, foi fechada a porta (da cidade).
+
+[[v6-2-8]]
+
+^<<v6-2-8,8>>^ Ainda os homens, que estavam escondidos, não tinham adormecido, quando a mulher subiu junto deles e lhes disse:
+
+[[v6-2-9]]
+
+^<<v6-2-9,9>>^ Eu sei que o Senhor vos entregou este país; o terror de vós apoderou-se de nós, e todos os habitantes do pais desanimaram,
+
+[[v6-2-10]]
+
+^<<v6-2-10,10>>^ pois soubemos que o Senhor secou as águas do Mar Vermelho à vossa entrada, quando saistes do Egipto, e (soubemos) o que fizestes aos dois reis dos Amorreus, que estavam da banda de além do Jordão, Seon e Og, os quais matastes.
+
+[[v6-2-11]]
+
+^<<v6-2-11,11>>^ Quando ouvimos isto, tivemos grande medo, o nosso coração desmaiou e não ficou alento em nós à vossa aproximação; porque o Senhor vosso Deus é o (mesmo) Deus (que reina ) lá em cima no céu, e cá em baixo na terra.
+
+[[v6-2-12]]
+
+^<<v6-2-12,12>>^ Agora pois jurai-me pelo Senhor, que, assim como eu usei de misericórdia convosco, assim usareis com a casa de meu pai, e dai-me um sinal seguro
+
+[[v6-2-13]]
+
+^<<v6-2-13,13>>^ de que salvareis meu pai e minha mãe, meus irmãos e minhas irmãs, assim como tudo o que lhes pertence, e livrareis as nossas vidas da morte.
+
+[[v6-2-14]]
+
+^<<v6-2-14,14>>^ Eles responderam-lhe: À custa da nossa vida salvaremos a vossa, contanto que tu nos não atraiçoes; quando o Senhor nos entregar este país, usaremos contigo de misericórdia e de fidelidade.
+
+[[v6-2-15]]
+
+^<<v6-2-15,15>>^ Ela os fez descer da janela por uma corda, porque a sua casa estava pegada ao muro (da cidade).
+
+[[v6-2-16]]
+
+^<<v6-2-16,16>>^ Disse-lhes: Ide para o monte, não suceda que eles vos encontrem, quando voltarem, e deixai-vos lá estar escondidos durante três dias, até que eles voltem, e depois tomareis o vosso caminho.
+
+[[v6-2-17]]
+
+^<<v6-2-17,17>>^ Eles disseram-lhes: Nós cumpriremos fielmente o juramento, que nos fizeste prestar,
+
+[[v6-2-18]]
+
+^<<v6-2-18,18>>^ se, quando entrarmos no país, estiver como sinal este cordão cor de escarlate, e o atares à janela, por onde nos fizeste descer, e se tiveres recolhido, em tua casa, o teu pai, a tua mãe, os teus irmãos e toda a tua parentela.
+
+[[v6-2-19]]
+
+^<<v6-2-19,19>>^ Se alguém sair da porta da tua casa, o seu sangue cairá sobre a sua cabeça, e nós ficaremos sem culpa; mas o sangue de todos os que estiverem contigo em tua casa cairá sobre a nossa cabeça, se alguém os tocar.
+
+[[v6-2-20]]
+
+^<<v6-2-20,20>>^ Porém, se tu nos atraiçoares, e publicares isto que te dizemos, ficaremos desobrigados deste juramento, que nos fizeste prestar.
+
+[[v6-2-21]]
+
+^<<v6-2-21,21>>^ Ela respondeu: Faça-se como dissestes. Depois os despediu e eles partiram; (então) pendurou o cordão cor de escarlate à janela.
+
+[[v6-2-22]]
+
+^<<v6-2-22,22>>^ Eles, andando, chegaram ao monte, e lá permaneceram durante três dias, até que voltaram os que tinham ido em seu seguimento. Estes, tendo buscado por todo o caminho (os espiões), não os encontraram.
+
+[[v6-2-23]]
+
+^<<v6-2-23,23>>^ (Então) os espiões deram volta, e, tendo descido do monte e passado o Jordão, chegaram a Josué, filho de Nun, e contaram-lhe tudo o que lhes tinha acontecido,
+
+[[v6-2-24]]
+
+^<<v6-2-24,24>>^ dizendo: O Senhor entregou todo este país nas nossas mãos, pois os seus habitantes estão consternados de medo.
+
+'''
+
+xref:006-josue/006-josue-001.adoc#v6-1-0[&#60; Capítulo Anterior] | <<v6-2-0,Topo>> | xref:006-josue/006-josue-003.adoc#v6-3-0[Próximo Capítulo &#62;]

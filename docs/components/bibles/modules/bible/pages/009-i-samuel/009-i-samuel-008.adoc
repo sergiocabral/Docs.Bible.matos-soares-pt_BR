@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v9-8-0]]
+=== I Samuel, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 de 1 Samuel descreve o momento em que o povo de Israel pede a Samuel que estabeleça um rei para governar sobre eles, mesmo que isso signifique rejeitar a liderança direta de Deus sobre a nação. A questão central do capítulo é a tensão entre a vontade do povo de ter um rei humano e a vontade de Deus de governar Israel diretamente. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Samuel 8:
+* Deuteronômio 17:14-15: "Quando entrares na terra que o Senhor teu Deus te dá, e a possuíres, e nela habitares, e disseres: Porei sobre mim um rei, como todas as nações que estão em redor de mim; certamente porás sobre ti um rei, que o Senhor teu Deus escolher; dentre teus irmãos porás rei sobre ti; não poderás por sobre ti um homem estranho, que não seja de teus irmãos." Este versículo descreve a lei de Deus para a escolha de um rei em Israel, indicando que essa decisão não deve ser tomada levianamente e que o rei deve ser escolhido dentre os próprios israelitas.
+* 1 Samuel 9:16: "Amanhã, por esta hora, enviar-te-ei um homem da terra de Benjamim, o qual ungirás por príncipe sobre o meu povo Israel, e ele livrará o meu povo da mão dos filisteus; porque tenho olhado para o meu povo, porquanto o seu clamor chegou a mim." Neste versículo, Deus diz a Samuel que ele escolherá um líder para Israel, indicando que a escolha do rei não é uma ideia nova ou estranha, mas que o processo deve ser guiado pela vontade de Deus.
+* 1 Samuel 10:24: "Disse Samuel a todo o povo: Vedes já a quem o Senhor escolheu? Pois não há ninguém semelhante a ele entre todo o povo. Então todo o povo gritou, e disse: Viva o rei!" Este versículo descreve a unção de Saul como rei de Israel, confirmando que Deus escolheu um rei para liderar a nação.
+* 1 Samuel 12:12: "Vendo, pois, que Naás, rei dos filhos de Amom, vinha contra vós, me dissestes: Não, mas um rei reinará sobre nós; sendo, porém, o Senhor vosso Deus o vosso rei." Neste versículo, Samuel lembra o povo de sua escolha de um rei e destaca a importância de continuar a confiar em Deus como seu verdadeiro líder.
+* 1 Crônicas 29:11-12: "Tua, SENHOR, é a grandeza, o poder, a glória, a vitória e a majestade; porque teu é tudo quanto há nos céus e na terra; teu, SENHOR, é o reino, e tu te exaltaste por chefe sobre todos. Riquezas e glória vêm de ti, tu dominas sobre tudo, na tua mão há força e poder; contigo está o engrandecer e a tudo dar força". Esses versículos trazem uma reflexão sobre a soberania de Deus e Sua posição como Rei sobre tudo o que existe, incluindo riquezas e poder. O capítulo 8 de 1 Samuel trata da escolha de um rei terreno pelos israelitas, mas esses versículos de Crônicas 29 destacam que a verdadeira autoridade e poder pertencem a Deus.
+****
+
+[[v9-8-1]]
+
+^<<v9-8-1,1>>^ Ora aconteceu que, tendo Samuel envelhecido, constituiu os seus filhos juizes de Israel.
+
+[[v9-8-2]]
+
+^<<v9-8-2,2>>^ Seu filho primogênito chamava-se Joel, e o segundo Abia; e julgavam em Bersabea.
+
+[[v9-8-3]]
+
+^<<v9-8-3,3>>^ Porém os filhos de Samuel não seguiram as suas pisadas, mas deixaram-se arrastar pela avareza, recebendo presentes e julgando injustamente.
+
+[[v9-8-4]]
+
+^<<v9-8-4,4>>^ Tendo-se juntado todos os anciães de Israel, foram ter com Samuel a Rama
+
+[[v9-8-5]]
+
+^<<v9-8-5,5>>^ e disseram-lhe: Bem vês que estás velho e que teus filhos não seguem as tuas pisadas; dá-nos um rei, que nos julgue, como o têm todas as nações.
+
+[[v9-8-6]]
+
+^<<v9-8-6,6>>^ Esta linguagem desagradou a Samuel, porque lhe diziam: Dá-nos um rei para que nos julgue. Samuel fez oração ao Senhor,
+
+[[v9-8-7]]
+
+^<<v9-8-7,7>>^ e o Senhor disse a Samuel: Ouve a voz do povo em tudo o que te dizem, porque não é a ti que eles rejeitaram mas a mim, para eu não reinar sobre eles.
+
+[[v9-8-8]]
+
+^<<v9-8-8,8>>^ É assim que eles sempre têm feito, desde o dia que os tirei do Egipto até hoje; como me abandonaram a mim e serviram a deuses estranhos, o mesmo te fazem a ti.
+
+[[v9-8-9]]
+
+^<<v9-8-9,9>>^ Ouve, pois, a sua voz, mas dá testemunho contra eles e declara-lhe o direito do rei que reinar sobre eles.
+
+[[v9-8-10]]
+
+^<<v9-8-10,10>>^ Samuel referiu todas as palavras do Senhor ao povo, que lhe tinha pedido um rei,
+
+[[v9-8-11]]
+
+^<<v9-8-11,11>>^ e disse: Este será o direito do rei que vos há-de governar: Tomará os vossos filhos, pô-los-á nos seus carros, fará deles moços de cavalo, e correrão diante dos seus coches.
+
+[[v9-8-12]]
+
+^<<v9-8-12,12>>^ Fará deles seus tribunos, seus centuriões, lavradores dos seus campos, segadores das suas messes e fabricantes das suas armas e carros.
+
+[[v9-8-13]]
+
+^<<v9-8-13,13>>^ Fará de vossas filhas suas perfumadeiras, cozinheiras e padeiras.
+
+[[v9-8-14]]
+
+^<<v9-8-14,14>>^ Tomará também o melhor dos vossos campos, das vossas vinhas, dos vossos olivais, e dá-los-á aos seus servos.
+
+[[v9-8-15]]
+
+^<<v9-8-15,15>>^ Também tomará o dízimo dos vossos trigos e das vossas vinhas, para ter que dar aos seus eunucos e servos.
+
+[[v9-8-16]]
+
+^<<v9-8-16,16>>^ Tomará também os vossos servos e servas, os vossos melhores bois e jumentos, e os empregará no seu trabalho.
+
+[[v9-8-17]]
+
+^<<v9-8-17,17>>^ Tomará também o dízimo dos vossos rebanhos, e vós próprios sereis seus servos.
+
+[[v9-8-18]]
+
+^<<v9-8-18,18>>^ Então clamareis ao Senhor, por causa do rei, que vós mesmos elegestes, mas o Senhor não vos ouvirá naquele dia, porque vós mesmos pedistes um rei.
+
+[[v9-8-19]]
+
+^<<v9-8-19,19>>^ Porém o povo não quis dar ouvidos às palavras de Samuel, antes disse: Não; há-de haver um rei sobre nós,
+
+[[v9-8-20]]
+
+^<<v9-8-20,20>>^ e seremos também como todas as nações; o nosso rei nos julgará, marchará à nossa frente e combaterá por nós nas nossas guerras.
+
+[[v9-8-21]]
+
+^<<v9-8-21,21>>^ Samuel ouviu todas as palavras do povo e referiu-as ao Senhor.
+
+[[v9-8-22]]
+
+^<<v9-8-22,22>>^ O Senhor disse a Samuel: Ouve a sua voz e estabelece sobre eles um rei. Samuel disse aos homens de Israel: Cada um volte para a sua cidade.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-007.adoc#v9-7-0[&#60; Capítulo Anterior] | <<v9-8-0,Topo>> | xref:009-i-samuel/009-i-samuel-009.adoc#v9-9-0[Próximo Capítulo &#62;]

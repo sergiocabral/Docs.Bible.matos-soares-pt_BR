@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v5-17-0]]
+=== Deuteronômio, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 17 de Deuteronômio trata da justiça e da punição para aqueles que desobedecem as leis estabelecidas por Deus. É enfatizado que é importante ter um sistema justo de julgamento, e que as pessoas devem seguir as decisões dos juízes. Também é mencionado que, se houver casos em que a decisão é muito difícil, eles devem recorrer ao sacerdote ou juiz que estiver na época.
+* Levítico 19:15: "Não cometerá injustiça no julgamento. Não farás acepção de pessoas com o pobre, nem te inclinarás diante do grande; com justiça julgarás o teu próximo." Este verso enfatiza a importância da justiça no julgamento, sem distinção de riqueza ou posição social.
+* Deuteronômio 19:18-19: "Os juízes inquirirão bem; e eis que, sendo a testemunha falsa, testemunhou falsamente contra o seu irmão; Então lhe fareis como cuidou em fazer a seu irmão; assim, tirarás o mal do meio de ti." Aqui é mencionado que as testemunhas falsas devem ser punidas de acordo com a gravidade da sua acusação.
+* Provérbios 31:9: "Abre a tua boca, julga retamente e faze justiça aos pobres e necessitados." Este verso enfatiza a importância de ajudar os necessitados e fazer justiça para aqueles que não têm recursos suficientes.
+* Isaías 1:17: "Aprendei a fazer o bem; procurai o que é justo; ajudai o oprimido; fazei justiça ao órfão; tratai da causa das viúvas." Este verso destaca a importância de fazer o bem e ajudar os necessitados.
+* Tiago 2:9: "Mas, se fazeis acepção de pessoas, cometeis pecado, e sois condenados pela lei como transgressores." Este verso adverte sobre a injustiça em fazer distinção entre as pessoas e a importância de tratar a todos de maneira igual.
+****
+
+[[v5-17-1]]
+
+^<<v5-17-1,1>>^ Não imolarás ao Senhor teu Deus um cordeiro ou um boi, que tenha qualquer mancha ou defeito, porque isto é uma abominação para o Senhor teu Deus.
+
+[[v5-17-2]]
+
+^<<v5-17-2,2>>^ Quando se encontrar junto de ti, dentro duma das tuas cidades, que o Senhor teu Deus te dará, um homem ou uma mulher, que cometam o mal diante do Senhor teu Deus, violando a sua aliança,
+
+[[v5-17-3]]
+
+^<<v5-17-3,3>>^ indo servir a deuses estranhos e adorá-los, ao sol, ou à lua, ou a toda a milícia do céu, o que eu não mandei,
+
+[[v5-17-4]]
+
+^<<v5-17-4,4>>^ se te derem aviso disto, logo que o ouças, informar-te-ás com cuidado. Se souberes que é verdade, que esta abominação se cometeu em Israel,
+
+[[v5-17-5]]
+
+^<<v5-17-5,5>>^ conduzirás às portas da cidade o homem ou a mulher, que fizeram uma coisa tão detestável, e apedrejá-los-ás até que morram.
+
+[[v5-17-6]]
+
+^<<v5-17-6,6>>^ Sobre o depoimento de duas ou três testemunhas morrerá aquele que tiver de ser posto à morte. Ninguém seja morto com um só testemunho contra si.
+
+[[v5-17-7]]
+
+^<<v5-17-7,7>>^ A mão das testemunhas será a primeira a levantar-se para o matar, e, a seguir, se levantará a mão de todo o povo, para que tires o mal do meio de ti.
+
+[[v5-17-8]]
+
+^<<v5-17-8,8>>^ Se vires que é muito difícil o teu juízo entre sangue e sangue, entre causa e causa, e entre ferida e ferida, e vires que dentro das tuas portas, são vários os pareceres dos juízes, levanta-te, e vai ao lugar que o Senhor teu Deus tiver escolhido.
+
+[[v5-17-9]]
+
+^<<v5-17-9,9>>^ Irás ter com os sacerdotes da linhagem de Levi e com o juiz que, nesse tempo, estiver em exercício, consultá-los-ás, e eles te indicarão a verdade do juízo.
+
+[[v5-17-10]]
+
+^<<v5-17-10,10>>^ Farás tudo o que te disserem os que presidem no lugar que o Senhor tiver escolhido, e tudo o que eles te ensinarem
+
+[[v5-17-11]]
+
+^<<v5-17-11,11>>^ segundo a sua Iei; seguirás o seu parecer, sem declinares nem para a direita nem para a esquerda.
+
+[[v5-17-12]]
+
+^<<v5-17-12,12>>^ Aquele, porém, que, deixando-se levar pela soberba, não quiser obedecer ao mandado do sacerdote, que nesse tempo for o ministro do Senhor teu Deus, nem ao decreto do juiz, esse homem morrerá, e (assim) tirarás o mal do meio de Israel:
+
+[[v5-17-13]]
+
+^<<v5-17-13,13>>^ todo o povo, ouvindo isto, temerá, de forma que daí em diante, nenhum se inche de soberba.
+
+[[v5-17-14]]
+
+^<<v5-17-14,14>>^ Quando tiveres entrado na terra que o Senhor teu Deus te der, e tiveres tomado posse dela, e nela habitares, se disseres: Eu constituirei um rei sobre mim, como o têm todas as nações em roda
+
+[[v5-17-15]]
+
+^<<v5-17-15,15>>^ elegerás aquele que o Senhor teu Deus tiver escolhido do número de teus irmãos. Não poderás fazer rei um homem doutra nação, que não seja teu irmão.
+
+[[v5-17-16]]
+
+^<<v5-17-16,16>>^ Quando este tiver sido constituído, não terá grande número de cavalos, nem reconduzirá o povo ao Egipto, para possuir numerosa cavalaria, principalmente porque o Senhor vos ordenou: Não volteis mais pelo mesmo caminho.
+
+[[v5-17-17]]
+
+^<<v5-17-17,17>>^ Não terá um grande número de mulheres, não suceda que se desvie o seu coração, nem imensa quantidade de prata e ouro.
+
+[[v5-17-18]]
+
+^<<v5-17-18,18>>^ Depois que se tiver sentado no trono do seu reino, escreverá para si num livro a cópia desta lei, segundo o exemplar dos sacerdotes da tribo de Levi,
+
+[[v5-17-19]]
+
+^<<v5-17-19,19>>^ e tê-lo-á consigo, e o lerá todos os dias da sua vida, para que aprenda a temer o Senhor seu Deus, a guardar as suas palavras e ordenações que estão prescritas na lei.
+
+[[v5-17-20]]
+
+^<<v5-17-20,20>>^ Não se eleve o seu coração de soberba sobre seus irmãos, não decline nem para a direita nem para a esquerda, para assim reinar muito tempo sobre Israel, ele e os seus filhos.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[&#60; Capítulo Anterior] | <<v5-17-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[Próximo Capítulo &#62;]

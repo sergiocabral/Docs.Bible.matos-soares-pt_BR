@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v18-11-0]]
+=== Judite, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 11 conta a história de quando Judite se apresenta diante de Holofernes, o comandante do exército assírio, e o persuade a permitir que ela vá à noite buscar mantimentos para o seu povo. Enquanto ela está fora, Holofernes começa a cair em sono profundo, e Judite aproveita a oportunidade para decapitá-lo. Os temas principais do capítulo são astúcia, coragem e justiça divina.
+* Provérbios 21:30: "Não há sabedoria, nem inteligência, nem conselho que possam opor-se ao Senhor." Este versículo destaca a superioridade da sabedoria divina sobre a sabedoria humana, o que é ilustrado pela astúcia e estratégia de Judite para derrotar Holofernes.
+* Provérbios 2:6: "Porque o Senhor dá a sabedoria, e da sua boca vem o conhecimento e o entendimento." Este versículo mostra que a sabedoria e a inteligência de Judite foram um dom divino, permitindo que ela agisse com astúcia e determinação.
+* Provérbios 11:3: "A integridade dos justos os guia, mas a perversidade dos infiéis os destrói." A integridade de Judite é um tema central em Judite 11, pois ela age de maneira justa e corajosa, seguindo seus próprios princípios éticos e religiosos em vez de ser manipulada pelas expectativas dos outros.
+* Salmos 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Este versículo mostra como a coragem e a justiça de Judite são recompensadas por Deus, que a protege de seus inimigos e a ajuda a realizar sua missão.
+* Provérbios 29:23: "O orgulho do homem o abate, mas o humilde de espírito obterá honra." Judite é uma personagem humilde e corajosa, que não se vangloria de sua astúcia ou habilidade, mas reconhece que é um instrumento nas mãos de Deus. Esse versículo destaca a importância da humildade e da modéstia em contraste com a arrogância e o orgulho.
+****
+
+[[v18-11-1]]
+
+^<<v18-11-1,1>>^ Então Holofernes disse-lhe: Tem ânimo, não te assustes em teu coração, porque eu nunca fiz mal a pessoa alguma que quisesse servir o rei Nabucodonosor.
+
+[[v18-11-2]]
+
+^<<v18-11-2,2>>^ Se o teu povo me não tivesse desprezado, não teria eu levantado contra ele a minha lança.
+
+[[v18-11-3]]
+
+^<<v18-11-3,3>>^ Mas dize-me, agora, por que motivo os deixaste e te resolveste a vir para nós?
+
+[[v18-11-4]]
+
+^<<v18-11-4,4>>^ Judit respondeu-lhe: Ouve as palavras da tua serva, porque, se seguires as palavras de tua serva, o Senhor chegará aos seus fins por ti.
+
+[[v18-11-5]]
+
+^<<v18-11-5,5>>^ Viva Nabucododosor, rei da terra, e viva o seu poder, que está nas tuas mãos para castigo de todos os desencaminhados, porque não somente os homens por ti o servem, mas até os animais do campo lhe obedecem.
+
+[[v18-11-6]]
+
+^<<v18-11-6,6>>^ Com efeito, a sabedoria do teu espírito é celebrada em todas as nações; por todo o mundo se sabe que tu és o único bom e poderoso em todo o seu reino, e por todas as províncias é exaltada a tua perícia militar.
+
+[[v18-11-7]]
+
+^<<v18-11-7,7>>^ Não se ignora o que disse Aquior nem o que tu ordenaste que lhe fosse feito.
+
+[[v18-11-8]]
+
+^<<v18-11-8,8>>^ E manifesto que o nosso Deus está de tal sorte irritado pelos pecados, que mandou dizer ao povo por meio dos seus profetas, que o entregaria por causa das suas ofensas.
+
+[[v18-11-9]]
+
+^<<v18-11-9,9>>^ Porque os filhos de Israel ofenderam o seu Deus, o temor de ti está sobre eles.
+
+[[v18-11-10]]
+
+^<<v18-11-10,10>>^ Além disso, a fome aperta-os, e, pela falta de água estão já como mortos.
+
+[[v18-11-11]]
+
+^<<v18-11-11,11>>^ Até resolveram matar os seus animais para beber o seu sangue;
+
+[[v18-11-12]]
+
+^<<v18-11-12,12>>^ as próprias coisas consagradas ao Senhor seu Deus, que Deus mandou que se não tocassem — pão, vinho e azeite — resolveram gastá-las, e querem consumir o que não deveriam nem tocar com as mãos; por isso, procedendo assim, é certo que serão abandonados (por Deus) à perdição.
+
+[[v18-11-13]]
+
+^<<v18-11-13,13>>^ Eu, lua serva, tendo sabido estas coisas, fugi deles, e o Senhor enviou-me a revelar-tas.
+
+[[v18-11-14]]
+
+^<<v18-11-14,14>>^ Com efeito, eu, tua serva, adoro a Deus, ainda mesmo agora estando diante de ti, e a tua serva sairá do campo para orar a Deus;
+
+[[v18-11-15]]
+
+^<<v18-11-15,15>>^ ele me dirá quando os hás-de castigar pelo seu pecado, e eu to virei dizer. Levar-te-ei pelo meio de Jerusalém, e terás todo o povo de Israel, como ovelhas que não têm pastor, e nem um só cão ladrará contra ti.
+
+[[v18-11-16]]
+
+^<<v18-11-16,16>>^ Isto me foi revelado pela providência de Deus.
+
+[[v18-11-17]]
+
+^<<v18-11-17,17>>^ Porque Deus está irado contra eles, eu fui enviada para te anunciar estas mesmas coisas.
+
+[[v18-11-18]]
+
+^<<v18-11-18,18>>^ Estas palavras agradaram a Holofernes e aos seus servos. Admiravam a sua sabedoria e diziam uns para os outros:
+
+[[v18-11-19]]
+
+^<<v18-11-19,19>>^ Não há sobre a terra mulher semelhante a esta, no aspecto, na formosura e no acerto das palavras.
+
+[[v18-11-20]]
+
+^<<v18-11-20,20>>^ Holofernes disse-lhe: Bem fez Deus, que te enviou adiante do teu povo, para o entregares nas nossas mãos;
+
+[[v18-11-21]]
+
+^<<v18-11-21,21>>^ visto que a tua promessa é boa, se o teu Deus me fizer isto, será ele também o meu Deus, tu serás grande na casa de Nabucodonosor, e o teu nome será célebre em toda a terra.
+
+'''
+
+xref:018-judite/018-judite-010.adoc#v18-10-0[&#60; Capítulo Anterior] | <<v18-11-0,Topo>> | xref:018-judite/018-judite-012.adoc#v18-12-0[Próximo Capítulo &#62;]

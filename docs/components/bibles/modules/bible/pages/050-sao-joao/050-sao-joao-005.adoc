@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v50-5-0]]
+=== São João, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São João 5 é um capítulo que fala sobre a cura de um homem que estava doente há 38 anos e como isso causou polêmica entre os líderes religiosos da época. Além disso, Jesus se apresenta como Filho de Deus e fala sobre a autoridade que lhe foi dada pelo Pai. A seguir, cinco versículos relacionados com os temas abordados em São João 5:
+* João 5:21: "Pois, assim como o Pai ressuscita os mortos e lhes dá vida, assim também o Filho dá vida a quem ele quer." Este versículo mostra a autoridade que Jesus possui para conceder vida e ressuscitar os mortos.
+* João 5:24: "Digo a verdade: Quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna e não será condenado, mas já passou da morte para a vida." Neste versículo, Jesus fala sobre a salvação que é alcançada por meio da fé em Deus e em sua mensagem.
+* João 5:39: "Vocês estudam cuidadosamente as Escrituras, porque pensam que nelas vocês têm a vida eterna. E são as Escrituras que testemunham a meu respeito." Este versículo mostra como os líderes religiosos da época estavam presos às tradições e à letra da lei, sem entender o verdadeiro significado das Escrituras e da mensagem de Jesus.
+* João 5:44: "Como vocês podem crer, se aceitam glória uns dos outros, mas não procuram a glória que vem do Deus único?" Neste versículo, Jesus fala sobre a busca pela glória e reconhecimento humano, em vez de buscar a aprovação e glória de Deus.
+* João 5:46-47: "Se vocês cressem em Moisés, creriam em mim, pois ele escreveu a meu respeito. Mas, se não acreditam nos escritos dele, como acreditarão no que eu digo?" Jesus fala sobre como sua mensagem está em conformidade com as Escrituras e que aqueles que não acreditam em suas palavras não estão realmente seguindo os ensinamentos de Moisés e dos profetas.
+****
+
+[[v50-5-1]]
+
+^<<v50-5-1,1>>^ Depois disto, houve uma festa dos Judeus e Jesus subiu a Jerusalém.
+
+[[v50-5-2]]
+
+^<<v50-5-2,2>>^ Ora há em Jerusalém, junto da porta das Ovelhas, uma piscina, que em hebreu se chama Bezatha, a qual tem cinco pórticos
+
+[[v50-5-3]]
+
+^<<v50-5-3,3>>^ Nestes jazia uma multidão de enfermos, cegos, coxos, paralíticos, os quais esperavam o movimento da água.
+
+[[v50-5-4]]
+
+^<<v50-5-4,4>>^ Porque um anjo do Senhor descia de tempos a tempos à piscina, e agitava a água. O primeiro que descesse à piscina, depois do movimento da água, ficava curado de qualquer doença que tivesse.
+
+[[v50-5-5]]
+
+^<<v50-5-5,5>>^ Estava ali um homem que, há trinta e oito anos, se encontrava enfermo.
+
+[[v50-5-6]]
+
+^<<v50-5-6,6>>^ Jesus, vendo-o deitado e sabendo que estava assim há muito, disse-lhe: "Queres ficar são?"
+
+[[v50-5-7]]
+
+^<<v50-5-7,7>>^ O enfermo respondeu- lhe: "Senhor, não tenho uma pessoa que me lance na piscina, quando a água é agitada; enquanto eu vou, outro desce primeiro do que eu."
+
+[[v50-5-8]]
+
+^<<v50-5-8,8>>^ Jesus disse-lhe: "Levanta-te, toma o teu leito e anda."
+
+[[v50-5-9]]
+
+^<<v50-5-9,9>>^ No mesmo instante, ficou são aquele homem, tomou o seu leito e começou a andar. Ora aquele dia era um sábado,
+
+[[v50-5-10]]
+
+^<<v50-5-10,10>>^ Por isso os Judeus diziam ao que tinha sido curado: "Hoje é sábado, não te é licito levar o teu leito."
+
+[[v50-5-11]]
+
+^<<v50-5-11,11>>^ Ele respondeu-lhes: "Aquele que me curou, disse-me: Toma o teu leito, e anda."
+
+[[v50-5-12]]
+
+^<<v50-5-12,12>>^ Perguntaram- lhe então: "Quem é esse homem que te disse: Toma o teu leito e anda?"
+
+[[v50-5-13]]
+
+^<<v50-5-13,13>>^ Porém o que tinha sido curado não sabia quem ele era, porque Jesus havia desaparecido sem ser notado, graças à multidão que estava naquele lugar.
+
+[[v50-5-14]]
+
+^<<v50-5-14,14>>^ Depois disto, Jesus encontrou-o no templo e disse-lhe: "Eis que estás são; não peques mais, para que te não suceda coisa pior."
+
+[[v50-5-15]]
+
+^<<v50-5-15,15>>^ Foi aquele homem anunciar aos Judeus que era Jesus quem o tinha curado.
+
+[[v50-5-16]]
+
+^<<v50-5-16,16>>^ Por isto os Judeus perseguiam Jesus, porque fazia estas coisas ao sábado.
+
+[[v50-5-17]]
+
+^<<v50-5-17,17>>^ Mas Jesus respondeu-lhes: "Meu Pai não cessa de operar, e eu opero também."
+
+[[v50-5-18]]
+
+^<<v50-5-18,18>>^ Por isso, os Judeus procuravam com maior ardor matá-lo, porque não somente violava o sábado, mas também dizia que Deus era seu Pai, fazendo-se igual a Deus, Jesus respondeu, pois, e disse-lhes:
+
+[[v50-5-19]]
+
+^<<v50-5-19,19>>^ Em verdade, em verdade vos digo: O Filho não pode de si mesmo fazer coisa alguma, mas somente o que vir fazer ao Pai; porque tudo o que fizer o Pai, o faz igualmente o Filho.
+
+[[v50-5-20]]
+
+^<<v50-5-20,20>>^ Porque o Pai ama o Filho, e mostra-lhe tudo o que faz; e lhe mostrará maiores obras do que estas, até ao ponto de vós ficardes admirados.
+
+[[v50-5-21]]
+
+^<<v50-5-21,21>>^ Porque assim como o Pai ressuscita os mortos e lhes dá vida, assim também o Filho dá vida àqueles que quer
+
+[[v50-5-22]]
+
+^<<v50-5-22,22>>^ O Pai a ninguém julga, mas deu ao Filho todo o poder de julgar,
+
+[[v50-5-23]]
+
+^<<v50-5-23,23>>^ afim de que todos honrem o Filho como honram o Pai. O que não honra o Filho, não honra o Pai, que o enviou.
+
+[[v50-5-24]]
+
+^<<v50-5-24,24>>^ Em verdade, em verdade vos digo que quem ouve a minha palavra e crê naquele que me enviou, tem a vida eterna e não incorre na sentença da condenação, mas passou da morte para vida.
+
+[[v50-5-25]]
+
+^<<v50-5-25,25>>^ Em verdade, em verdade vos digo que vem a hora, e já chegou, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem, viverão.
+
+[[v50-5-26]]
+
+^<<v50-5-26,26>>^ Com efeito assim como o Pai tem a vida em si mesmo, assim deu ao Filho ter vida em si mesmo;
+
+[[v50-5-27]]
+
+^<<v50-5-27,27>>^ e deu-lhe o poder de julgar, porque é Filho do homem
+
+[[v50-5-28]]
+
+^<<v50-5-28,28>>^ Não vos admireis disso, porque virá tempo em que todos os que se encontram nos sepulcros ouvirão a sua voz,
+
+[[v50-5-29]]
+
+^<<v50-5-29,29>>^ e os que tiverem feito obras boas sairão para a ressurreição da vida, mas os que tiverem feito obras más, sairão ressuscitados para a condenação.
+
+[[v50-5-30]]
+
+^<<v50-5-30,30>>^ Não posso de mim mesmo fazer coisa alguma. Julgo segundo o que ouço (de meu Pai), e o meu juízo é justo, porque não busco a minha vontade, mas a vontade daquele que me enviou.
+
+[[v50-5-31]]
+
+^<<v50-5-31,31>>^ Se dou testemunho de mim mesmo, o meu testemunho não é verdadeiro.
+
+[[v50-5-32]]
+
+^<<v50-5-32,32>>^ Outro é o que dá testemunho de mim; e sei que é verdadeiro o testemunho que dá de mim.
+
+[[v50-5-33]]
+
+^<<v50-5-33,33>>^ Vós enviastes (mensageiros) a João, e ele deu testemunho da verdade.
+
+[[v50-5-34]]
+
+^<<v50-5-34,34>>^ Eu, porém, não recebo o testemunho do homem, mas digo-vos estas coisas, a fim de que sejais salvos.
+
+[[v50-5-35]]
+
+^<<v50-5-35,35>>^ João era uma lâmpada ardente e luminosa. E vós poucos momentos quisestes gozar da sua luz.
+
+[[v50-5-36]]
+
+^<<v50-5-36,36>>^ Mas tenho um testemunho maior que o de João: as obras que meu Pai me deu que cumprisse, estas mesmas obras que eu faço, dão testemunho de mim, de que o Pai me enviou.
+
+[[v50-5-37]]
+
+^<<v50-5-37,37>>^ E o Pai que me enviou, esse mesmo deu testemunho de mim. Vós nunca ouvistes a sua voz, nem vistes a sua face,
+
+[[v50-5-38]]
+
+^<<v50-5-38,38>>^ não tendes permanente em vós a sua palavra, porque não credes no que ele enviou.
+
+[[v50-5-39]]
+
+^<<v50-5-39,39>>^ Examinais as Escrituras, visto que julgais ter nelas a vida eterna: elas são as que dão testemunho de mim.
+
+[[v50-5-40]]
+
+^<<v50-5-40,40>>^ E não quereis vir a mim, para terdes vida.
+
+[[v50-5-41]]
+
+^<<v50-5-41,41>>^ A glória, não a recebo dos homens,
+
+[[v50-5-42]]
+
+^<<v50-5-42,42>>^ mas sei que não tendes em vós o amor de Deus.
+
+[[v50-5-43]]
+
+^<<v50-5-43,43>>^ Vim em nome de meu Pai, e vós não me recebeis; se vier outro em seu próprio nome, recebê-lo-eis.
+
+[[v50-5-44]]
+
+^<<v50-5-44,44>>^ Como podeis crer, vós que recebeis a glória uns dos outros, e não buscais a glória que só de Deus vem?
+
+[[v50-5-45]]
+
+^<<v50-5-45,45>>^ Não julgueis que sou eu que vos hei-de acusar diante do Pai; Moisés, em quem vós confiais, é que vos acusará.
+
+[[v50-5-46]]
+
+^<<v50-5-46,46>>^ Se crêsseis em Moisés, certamente creríeis também em mim, porque ele escreveu de mim.
+
+[[v50-5-47]]
+
+^<<v50-5-47,47>>^ Porém, se não dais crédito aos seus escritos, como haveis de dar crédito às minhas palavras?"
+
+'''
+
+xref:050-sao-joao/050-sao-joao-004.adoc#v50-4-0[&#60; Capítulo Anterior] | <<v50-5-0,Topo>> | xref:050-sao-joao/050-sao-joao-006.adoc#v50-6-0[Próximo Capítulo &#62;]

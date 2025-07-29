@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-60-0]]
+=== Salmos, 60
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 60 é um salmo de súplica em que o salmista clama a Deus para restaurar o seu povo e ajudá-lo a vencer as suas batalhas. Ele expressa a sua confiança em Deus, apesar das dificuldades que enfrenta. A seguir, são apresentados cinco versículos relacionados com os temas abordados neste Salmo:
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo apresenta a promessa de Deus de estar com o seu povo e ajudá-lo em momentos de dificuldade, o que é uma mensagem central do Salmo 60.
+* Salmos 18:2: "O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus, o meu rochedo, em quem me refugio; o meu escudo, a força da minha salvação, e o meu alto refúgio." Este versículo destaca a confiança do salmista em Deus como sua fortaleza e libertador, assim como a sua busca por refúgio e segurança na presença de Deus.
+* Salmos 108:13: "Com Deus faremos proezas, pois ele esmagará os nossos inimigos." Este versículo expressa a confiança do salmista em Deus para ajudá-lo a vencer as suas batalhas e esmagar os seus inimigos, uma ideia presente também no Salmo 60.
+* Salmos 44:5: "Por ti venceremos os nossos inimigos; pelo teu nome pisaremos os que se levantam contra nós." Este versículo destaca a ideia de que a vitória sobre os inimigos do povo de Deus só pode ser alcançada por meio da ajuda e do poder de Deus, um tema importante no Salmo 60.
+* Salmos 61:2: "Do fim da terra clamo a ti, pois o meu coração desfalece; leva-me para a rocha que é mais alta do que eu." Este versículo apresenta a busca do salmista por refúgio e segurança na presença de Deus, o que é uma ideia central no Salmo 60.
+****
+
+[[v21-60-1]]
+
+^<<v21-60-1,1>>^ Ao mestre do coro. Para instrumentos de corda. De Davide.
+
+[[v21-60-2]]
+
+^<<v21-60-2,2>>^ Ouve, ó Deus, o meu clamor, atende à minha oração.
+
+[[v21-60-3]]
+
+^<<v21-60-3,3>>^ Dos confins da terra clamo a ti, quando o meu coração desfalece. Sobre um rochedo me elevarás, o sossego me darás,
+
+[[v21-60-4]]
+
+^<<v21-60-4,4>>^ porque és a minha defesa, uma torre sólida contra o inimigo.
+
+[[v21-60-5]]
+
+^<<v21-60-5,5>>^ Oxalá eu possa habitar sempre no teu tabernáculo; acolher-me-ei à sombra das tuas asas!
+
+[[v21-60-6]]
+
+^<<v21-60-6,6>>^ Em verdade, tu, ó Deus, ouviste os meus votos; deste-me a herança dos que temem o teu nome.
+
+[[v21-60-7]]
+
+^<<v21-60-7,7>>^ Acrescenta dias aos dias do rei, os seus anos sejam iguais a muitas gerações.
+
+[[v21-60-8]]
+
+^<<v21-60-8,8>>^ Reine eternamente na presença de Deus; manda-lhe graça e fidelidade, para que o guardem.
+
+[[v21-60-9]]
+
+^<<v21-60-9,9>>^ Assim cantarei sempre o teu nome e cumprirei os meus votos cada dia.
+
+'''
+
+xref:021-salmos/021-salmos-059.adoc#v21-59-0[&#60; Capítulo Anterior] | <<v21-60-0,Topo>> | xref:021-salmos/021-salmos-061.adoc#v21-61-0[Próximo Capítulo &#62;]

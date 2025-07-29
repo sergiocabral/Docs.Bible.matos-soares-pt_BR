@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v19-2-0]]
+=== Ester, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ester 2 conta como o rei persa Xerxes I procura uma nova rainha para substituir Vasti, que foi destituída por desobediência. As jovens mais bonitas do reino são selecionadas para um concurso de beleza, do qual a jovem judia Ester sai vitoriosa e é escolhida como rainha. Abaixo estão cinco versículos relacionados aos temas abordados em Ester 2:
+* Provérbios 31:30: "Enganosa é a beleza e vã a formosura, mas a mulher que teme ao Senhor, essa sim será louvada." Este versículo destaca a importância da virtude acima da beleza exterior e pode ser aplicado ao concurso de beleza no qual Ester foi selecionada.
+* 1 Samuel 16:7: "Porém o Senhor disse a Samuel: Não atentes para a sua aparência, nem para a altura da sua estatura, porque o tenho rejeitado; porque o Senhor não vê como vê o homem. O homem vê o exterior, porém o Senhor, o coração." Este versículo ressalta que Deus valoriza mais a beleza interior do que a aparência exterior, e pode ser aplicado à escolha de Ester como rainha.
+* Eclesiastes 3:1: "Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu." Este versículo lembra que há um tempo para todas as coisas, e pode ser aplicado ao momento em que Ester foi escolhida como rainha.
+* Salmos 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Este versículo lembra que Deus é o nosso protetor e pode ser aplicado à situação em que Ester, uma jovem judia, é escolhida para ser a rainha persa.
+* Êxodo 2:5: "E a filha de Faraó desceu a lavar-se no rio, e as suas donzelas passeavam pela beira do rio; e ela viu a arca no meio dos juncos, e enviou a sua criada, e a tomou." Este versículo descreve a história de Moisés, que foi salvo da morte quando a filha do faraó o encontrou no rio. Embora não tenha relação direta com Ester, pode ser visto como um exemplo de como Deus pode proteger e guiar as pessoas para cumprir Seus propósitos.
+****
+
+[[v19-2-1]]
+
+^<<v19-2-1,1>>^ Passadas assim estas coisas, quando a ira do rei estava já aplacada, lembrou-se ele de Vasti, do que ela tinha feito e do que tinha sofrido.
+
+[[v19-2-2]]
+
+^<<v19-2-2,2>>^ Então os servos do rei e os seus ministros disseram: Busquem-se para o rei donzelas virgens e formosas; (ver nota)
+
+[[v19-2-3]]
+
+^<<v19-2-3,3>>^ enviem-se por todas as províncias pessoas, que escolham donzelas formosas e virgens, e tragam-nas à cidade de Susa; ponham-se na casa das mulheres, sob o cuidado do eunuco Egeu, que está encarregado de guardar as mulheres do rei, e aprontem-se-lhes todos os seus atavios e tudo o necessário para seu uso.
+
+[[v19-2-4]]
+
+^<<v19-2-4,4>>^ Aquela que entre todas mais agradar aos olhos do rei, essa será rainha em lugar de Vasti. Agradou este parecer ao rei, e mandou-lhes que fizessem conforme tinham aconselhado.
+
+[[v19-2-5]]
+
+^<<v19-2-5,5>>^ Havia na cidade de Susa um homem judeu, chamado Mardoqueu, filho de Jair, filho de Semei, filho de Cis, da linhagem de Benjamim
+
+[[v19-2-6]]
+
+^<<v19-2-6,6>>^ o qual linha sido deportado de Jerusalém naquele tempo em que Nabucodonosor, rei de Babilônia, tinha feito levar para esta cidade a Jeconias, rei de Judá.
+
+[[v19-2-7]]
+
+^<<v19-2-7,7>>^ Tinha ele criado Edissa, filha de seu irmão, chamada por outro nome Ester, órfã de pai e mãe; era em extremo formosa e de aspecto gracioso. Depois do falecimento de seu pai e sua mãe, Mardoqueu tínha-a adoptado por filha.
+
+[[v19-2-8]]
+
+^<<v19-2-8,8>>^ Tendo-se, pois, publicado por toda a parte o mandato do rei, e levando-se a Susa, segundo a sua ordem, muitas donzelas formosíssimas, que eram entregues ao eunuco Egeu, levaram-lhe também Ester entre as outras donzelas, para ser guardada com as mulheres.
+
+[[v19-2-9]]
+
+^<<v19-2-9,9>>^ Ela agradou-lhe e achou graça aos seus olhos. Ele apressou-se a dar-lhe o necessário ao seu adorno e subsistência, assim como sete donzelas das de melhor parecer da casa do rei (para a servirem), e mandou-a com elas para o melhor aposento da casa das mulheres,
+
+[[v19-2-10]]
+
+^<<v19-2-10,10>>^ Ester não lhe quis descobrir de que terra, nem de que nação era, porque Mardoqueu tinha-lhe ordenado que guardasse nisso um grande segredo.
+
+[[v19-2-11]]
+
+^<<v19-2-11,11>>^ Ele todos os dias passava diante do vestíbulo da casa, onde estavam guardadas as virgens escolhidas, cuidadoso do estado em que se encontrava Ester, e desejoso de saber o que lhe aconteceria.
+
+[[v19-2-12]]
+
+^<<v19-2-12,12>>^ Quando chegava o tempo em que cada uma das donzelas, pela sua ordem, devia ser apresentada ao rei, depois de concluídas todas as coisas que correspondiam ao seu adorno, tinham-se passado doze meses, porquanto durante seis meses se ungiam com óleo de mirra, e durante outros seis usavam de certos unguentos e aromas.
+
+[[v19-2-13]]
+
+^<<v19-2-13,13>>^ No momento de se apresentar ao rei, davam-lhe tudo quanto pedia, ao passar da habitação das mulheres à câmara do rei.
+
+[[v19-2-14]]
+
+^<<v19-2-14,14>>^ Á que tinha entrado à noite saia pela manhã, e dali era levada a uma outra habitação, que estava ao cuidado do eunuco Susagaz, que tinha a guarda das mulheres secundárias do rei, e não tinha a permissão de voltar de novo ao rei, a não ser que o rei a quisesse e, por seu nome, a mandasse vir.
+
+[[v19-2-15]]
+
+^<<v19-2-15,15>>^ Passado, pois, um certo tempo, estava já próximo o dia em que devia ser apresentada ao rei Ester, filha de Abiail, tio de Mardoqueu, a qual este tinha adoptado por filha. Ela não pediu nada, além do que lhe foi entregue pelo eunuco Egeu, que tinha a guarda das donzelas; mas Ester agradou aos olhos de todos os que a viram.
+
+[[v19-2-16]]
+
+^<<v19-2-16,16>>^ Foi, pois, levada à câmara do rei Assuero no décimo mês, chamado Tebet, no sétimo ano do seu reinado.
+
+[[v19-2-17]]
+
+^<<v19-2-17,17>>^ O rei amou-a mais do que a todas as outras mulheres, e ela achou graça e favor diante dele, mais que todas as mulheres; pôs-lhe sobre a cabeça a coroa real e constituiu-a rainha no lugar de Vasti.
+
+[[v19-2-18]]
+
+^<<v19-2-18,18>>^ E ordenou que se preparasse um banquete, magnificentíssimo para todos os seus príncipes e servidores, um banquete em honra de Ester. Concedeu alivio (de alguns tributos) a todas as províncias, e fez donativos dignos da magnificência dum tão grande príncipe.
+
+[[v19-2-19]]
+
+^<<v19-2-19,19>>^ Enquanto pela segunda vez se buscavam e reuniam virgens, Mardoqueu estava (continuamente) junto da porta do rei.
+
+[[v19-2-20]]
+
+^<<v19-2-20,20>>^ Ester, seguindo a ordem de Mardoqueu, não tinha ainda manifestado a sua pátria e nação. Ester observava tudo o que ele mandava, fazia tudo como costumava fazer, quando, sendo menina, ele a criava.
+
+[[v19-2-21]]
+
+^<<v19-2-21,21>>^ Naquele tempo, pois, em que Mardoqueu estava à porta do rei, mostraram-se mal contentes Bagalan e Tares, dois eunucos do rei, que eram porteiros, guardas da primeira entrada no palácio, e intentaram levantar-se contra o rei e matá-lo.
+
+[[v19-2-22]]
+
+^<<v19-2-22,22>>^ Isto foi sabido por Mardoqueu, o qual imediatamente deu parte à rainha Ester, e ela ao rei em nome de Mardoqueu, que lha tinha referido.
+
+[[v19-2-23]]
+
+^<<v19-2-23,23>>^ Fizeram-se as investigações, e averiguou-se ser verdade; ambos foram pendurados numa forca. Isto foi regislado no livro das Crônicas, na presença do rei.
+
+'''
+
+xref:019-ester/019-ester-001.adoc#v19-1-0[&#60; Capítulo Anterior] | <<v19-2-0,Topo>> | xref:019-ester/019-ester-003.adoc#v19-3-0[Próximo Capítulo &#62;]

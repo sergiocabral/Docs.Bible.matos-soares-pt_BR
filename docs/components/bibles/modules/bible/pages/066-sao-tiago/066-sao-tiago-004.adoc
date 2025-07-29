@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v66-4-0]]
+=== São Tiago, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Tiago aborda principalmente o tema da humildade e submissão a Deus, alertando contra a arrogância e a busca pelo prazer mundano. O capítulo também aborda a importância de buscar a vontade de Deus e resistir ao diabo. Seguem abaixo cinco versículos relacionados com os temas abordados em Tiago 4:
+* Provérbios 3:34: "Ele zomba dos zombadores, mas concede graça aos humildes". Este versículo fala sobre a importância da humildade e como Deus concede graça aos humildes, mas resiste aos arrogantes.
+* 1 Pedro 5:5: "Semelhantemente, jovens, sujeitem-se aos mais velhos. Sejam todos humildes uns para com os outros, porque 'Deus se opõe aos orgulhosos, mas concede graça aos humildes'". Este versículo reforça a importância da humildade e submissão a Deus, citando uma passagem semelhante àquela citada por Tiago em seu capítulo.
+* 1 João 2:15-17: "Não amem o mundo nem o que nele há. Se alguém ama o mundo, o amor do Pai não está nele. Pois tudo o que há no mundo — a cobiça da carne, a cobiça dos olhos e a ostentação dos bens — não provém do Pai, mas do mundo. O mundo e a sua cobiça passam, mas aquele que faz a vontade de Deus permanece para sempre". Este versículo alerta sobre a busca pelo prazer mundano e a importância de buscar a vontade de Deus.
+* Efésios 4:27: "e não dêem lugar ao Diabo". Este versículo fala sobre a importância de resistir ao diabo, alertando que ele pode encontrar uma brecha se não nos mantivermos firmes em Deus.
+* 1 Pedro 5:8: "Sejam sóbrios e vigiem. O Diabo, o inimigo de vocês, anda ao redor como leão, rugindo e procurando a quem possa devorar". Este versículo reforça a importância de estar alerta contra as tentações do diabo, citando uma passagem semelhante àquela citada por Tiago em seu capítulo.
+****
+
+[[v66-4-1]]
+
+^<<v66-4-1,1>>^ Donde vêm as guerras e as contendas entre vós ? Não vêm elas das vossas paixões, que combatem em vossos membros?
+
+[[v66-4-2]]
+
+^<<v66-4-2,2>>^ Cobiçais e não tendes(o que quereis); matais (em vosso coração tendo aos outros ódio de morte); sois ciumentos e não podeis alcançar; litigais, fazeis guerra. Não obtendes o que pretendeis, porque não pedis (a Deus).
+
+[[v66-4-3]]
+
+^<<v66-4-3,3>>^ Pedis e não recebeis, porque pedis mal, com o fim de satisfazerdes as vossas paixões.
+
+[[v66-4-4]]
+
+^<<v66-4-4,4>>^ Adúlteros, não sabeis que a amizade deste mundo é inimiga de Deus? Portanto, todo aquele que quiser ser amigo deste mundo, constitui-se inimigo de Deus. (ver nota)
+
+[[v66-4-5]]
+
+^<<v66-4-5,5>>^ Porventura imaginais que a Escritura diz em vão: Deus ama até ao ciúme o espirito que fez habitar em nós? (ver nota)
+
+[[v66-4-6]]
+
+^<<v66-4-6,6>>^ Dá, aliás, (à alma, sua esposa) maior graça, segundo a palavra da Escritura: Deus resiste aos soberbos e dá a sua graça aos humildes (Prov. 3,34),
+
+[[v66-4-7]]
+
+^<<v66-4-7,7>>^ Sede, pois, sujeitos a Deus, resisti ao demônio, e ele fugirá de vós.
+
+[[v66-4-8]]
+
+^<<v66-4-8,8>>^ Aproximai-vos de Deus, e ele se aproximará de vós. Lavai, pecadores, as mãos e purificai os corações, ó duplos de espirito. (ver nota)
+
+[[v66-4-9]]
+
+^<<v66-4-9,9>>^ Senti a vossa miséria, lamentai e chorai: converta-se o vosso riso em luto, e a vossa alegria em tristeza.
+
+[[v66-4-10]]
+
+^<<v66-4-10,10>>^ Humilhai-vos na presença do Senhor, e ele vos exaltará.
+
+[[v66-4-11]]
+
+^<<v66-4-11,11>>^ Irmãos, não digais mal uns dos outros. O que diz mal do seu irmão, ou o que julga seu irmão, diz mal da lei e julga a lei (não a considerando obrigatória). Ora, se julgas a lei, não és observador da lei, mas seu juiz. (ver nota)
+
+[[v66-4-12]]
+
+^<<v66-4-12,12>>^ Não há mais que um legislador e um juiz, que pode salvar ou perder. (ver nota)
+
+[[v66-4-13]]
+
+^<<v66-4-13,13>>^ Mas quem és tu, que julgas o próximo? E agora (atendei ao vosso proceder) vós que dizeis : — "Hoje ou amanhã iremos àquela cidade, demorar-nos-emos lá um ano, comerciaremos e tiraremos o nosso lucro" —
+
+[[v66-4-14]]
+
+^<<v66-4-14,14>>^ vós, que não sabeis o que sucederá amanhã. Efetivamente, o que é a vossa vida? Sois um vapor que aparece por um instante e que em seguida se desvanece.
+
+[[v66-4-15]]
+
+^<<v66-4-15,15>>^ Em vez disso, devíeis dizer: "Se o Senhor quiser, viveremos e faremos esta ou aquela coisa."
+
+[[v66-4-16]]
+
+^<<v66-4-16,16>>^ Mas vós, pelo contrário, elevais-vos na vossa presunção. Toda a gloriola, como esta, é má.
+
+[[v66-4-17]]
+
+^<<v66-4-17,17>>^ Aquele, pois, que conhece o bem que deve fazer e não o faz, peca.
+
+'''
+
+xref:066-sao-tiago/066-sao-tiago-003.adoc#v66-3-0[&#60; Capítulo Anterior] | <<v66-4-0,Topo>> | xref:066-sao-tiago/066-sao-tiago-005.adoc#v66-5-0[Próximo Capítulo &#62;]

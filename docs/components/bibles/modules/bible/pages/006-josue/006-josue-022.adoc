@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v6-22-0]]
+=== Josué, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 22 de Josué narra o retorno dos dois tribos e meia, que haviam sido autorizados a se estabelecerem do outro lado do rio Jordão, para suas terras de origem em Israel. Antes de retornar, eles decidiram construir um altar como um memorial de testemunho da sua relação com o Senhor. Isso gerou um grande conflito entre as tribos ocidentais de Israel, que temiam que o altar fosse usado para oferecer sacrifícios que não eram permitidos pelo Senhor. A seguir estão cinco versículos relacionados com o tema dos capítulos selecionados de outros livros da Bíblia:
+* Êxodo 20:24-26: "Façam um altar de terra para mim, e nele sacrifiquem os seus holocaustos e ofertas de comunhão, as suas ovelhas e bois. Em todo lugar onde eu fizer lembrar o meu nome, virei a vocês e os abençoarei. E se fizerem um altar de pedras para mim, não as trabalhem com ferramentas, pois se usarem um ferro nele, vocês o estarão profanando." Este versículo fala sobre como Deus instruiu os israelitas a construírem altares e oferecerem sacrifícios a Ele, mas também fornece detalhes específicos sobre como esses altares devem ser construídos.
+* Levítico 17:8-9: "Diga-lhes: Qualquer israelita ou estrangeiro que morar entre eles e oferecer holocaustos ou outros sacrifícios, mas não os trouxer à entrada da tenda do encontro para prestar culto ao Senhor, será eliminado do meio do seu povo." Este versículo fornece uma lei importante sobre onde os sacrifícios devem ser oferecidos e destaca a importância de seguir os procedimentos corretos para agradar ao Senhor.
+* Números 32:20-22: "Responderam a Moisés: Se permitires, daremos aos nossos rebanhos pasto aqui, nesta região. Moisés, porém, disse-lhes: Se o fizerem, quando todos partirem para a guerra, vocês ficarão aqui, sozinhos. Por que vocês querem fazer com que os israelitas percam a coragem para atravessar o Jordão e entrar na terra que o Senhor, nosso Deus, está dando a eles?" Este versículo fala sobre a importância de as tribos permanecerem unidas e apoiarem umas às outras na conquista da Terra Prometida.
+* Josué 1:18: "Todo lugar que a sola do seu pé pisar eu lhe dei, como eu prometi a Moisés." Este versículo fala sobre a promessa de Deus de dar toda a terra que os israelitas pisassem a eles. Ele destaca a importância de manter essa promessa e conquistar todas as terras que foram prometidas a eles.
+* Provérbios 17:14: "O começo da discussão é como a abertura de uma represa; por isso, antes que a briga comece, interrompa-a." Este versículo fala sobre a importância de evitar conflitos desnecessários e resolver disputas de forma pacífica. Ele pode ser aplicado ao conflito entre as tribos de Israel em Josué 22.
+****
+
+[[v6-22-1]]
+
+^<<v6-22-1,1>>^ Neste mesmo tempo Josué chamou os Rubenitas, os Gaditas, e a meia tribo de Manassés,
+
+[[v6-22-2]]
+
+^<<v6-22-2,2>>^ e disse-lhes: Vós fizestes tudo o que Moisés, servo do Senhor, vos ordenou; também a mim me tendes obedecido em tudo,
+
+[[v6-22-3]]
+
+^<<v6-22-3,3>>^ e durante um tão largo tempo até ao dia de hoje não abandonastes os vossos irmãos, observando o mandamento do Senhor vosso Deus.
+
+[[v6-22-4]]
+
+^<<v6-22-4,4>>^ Agora, visto que o Senhor vosso Deus deu repouso e paz aos vossos irmãos, como lho tinha prometido, voltai e ide para as vossas tendas, para a terra que vos pertence, terra que Moisés, servo do Senhor, vos deu da outra banda do Jordão.
+
+[[v6-22-5]]
+
+^<<v6-22-5,5>>^ Só vos imponho de que cumprais exactamente o mandamento e a lei que Moisés, servo do Senhor, vos prescreveu, (isto é) que ameis o Senhor vosso Deus, andeis em todos os seus caminhos, observeis os seus mandamentos, estejais unidos a ele, e o sirvais de todo o coração e de toda a vossa alma.
+
+[[v6-22-6]]
+
+^<<v6-22-6,6>>^ Depois deu-lhes Josué a benção e os despediu. Eles voltaram para as suas tendas.
+
+[[v6-22-7]]
+
+^<<v6-22-7,7>>^ Ora Moisés tinha dado à meia tribo de Manassés uma possessão em Basan; por isso Josué deu, à outra meia, uma parte entre os outros seus irmãos, na banda de aquém do Jordão, para o ocidente. Reenviando-os para as suas tendas e, tendo-os abençoado,
+
+[[v6-22-8]]
+
+^<<v6-22-8,8>>^ disse-lhes: Vós voltais para vossas casas com muitas riquezas, rebanhos numerosos, com prata e ouro, bronze e ferro, e vestidos de toda a qualidade; reparti com vossos irmãos a presa dos inimigos.
+
+[[v6-22-9]]
+
+^<<v6-22-9,9>>^ Os filhos de Ruben e os filhos de Gad, com a meia tribo de Manassés, voltaram, e separaram-se dos filhos de Israel em Silo, que está em Canaan, para entrarem em Galaad, terra da sua possessão, que tinham obtido por meio de Moisés, conforme a ordem do Senhor.
+
+[[v6-22-10]]
+
+^<<v6-22-10,10>>^ E, tendo chegado aos distritos do Jordão, na terra de Canaan, edificaram junto ao Jordão um altar de imensa grandeza,
+
+[[v6-22-11]]
+
+^<<v6-22-11,11>>^ Tendo ouvido isto os filhos de Israel, e sabido por mensageiros seguros, que os filhos de Ruben, de Gad e da meia tribo de Manassés, tinham edificado um altar na terra de Canaan, nos distritos do Jordão, defronte dos filhos de Israel,
+
+[[v6-22-12]]
+
+^<<v6-22-12,12>>^ reuniram-se todos em Silo, para marcharem e combaterem contra eles.
+
+[[v6-22-13]]
+
+^<<v6-22-13,13>>^ Entretanto enviaram-lhes, à terra de Galaad, Finéas, filho do sacerdote Eleázaro,
+
+[[v6-22-14]]
+
+^<<v6-22-14,14>>^ e com ele dez príncipes, cada um de sua tribo.
+
+[[v6-22-15]]
+
+^<<v6-22-15,15>>^ Estes (enviados) foram ter com os filhos de Ruben, de Gad e da meia tribo de Manassés, na terra de Galaad, e disseram-lhes:
+
+[[v6-22-16]]
+
+^<<v6-22-16,16>>^ Estas coisas vos manda dizer todo o povo do Senhor: Que transgressão é esta? Por que abandonastes vós o Senhor Deus de Israel, levantando um altar sacrílego, e apartando-vos do seu culto?
+
+[[v6-22-17]]
+
+^<<v6-22-17,17>>^ Porventura parece-vos pouco o pecado de Beelfegor, do qual ainda hoje não estamos purificados, apesar de, por causa dele, muitos do povo terem perecido?
+
+[[v6-22-18]]
+
+^<<v6-22-18,18>>^ Vós abandonastes hoje o Senhor, e amanhã cairá a sua ira sobre todo o Israel.
+
+[[v6-22-19]]
+
+^<<v6-22-19,19>>^ Se julgais que a terra da vossa herança é impura, passai para a terra em que está o tabernáculo do Senhor, habitai entre nós, contanto que vos não aparteis do Senhor, nem da nossa sociedade, edificando um altar além do altar do Senhor nosso Deus.
+
+[[v6-22-20]]
+
+^<<v6-22-20,20>>^ Não foi assim, por Acan filho de Zaré ter violado o mandamento do Senhor, que a sua ira veio sobre todo o povo de Israel? Ele era um só homem, e oxalá que só ele tivesse perecido por causa do seu crime.
+
+[[v6-22-21]]
+
+^<<v6-22-21,21>>^ Os filhos de Ruben, de Gad e da meia tribo de Manassés, responderam aos chefes da legação de Israel:
+
+[[v6-22-22]]
+
+^<<v6-22-22,22>>^ O Senhor Deus fortíssimo, o Senhor Deus fortíssimo, ele o sabe, e também Israel o compreenderá; se nós com espírito de prevaricação levantamos este altar, ele nos não proteja, mas desde já nos castigue;
+
+[[v6-22-23]]
+
+^<<v6-22-23,23>>^ se o fizemos com intenção de nos afastarmos do Senhor, e oferecer sobre ele holocaustos, oblações e sacrifícios pacíficos, ele mesmo o examine e julgue.
+
+[[v6-22-24]]
+
+^<<v6-22-24,24>>^ Muito pelo contrário: o pensamento e desígnio que tivemos foi porque poderá acontecer que um dia digam os vossos filhos aos nossos: Que tendes vós com o Senhor Deus de Israel?
+
+[[v6-22-25]]
+
+^<<v6-22-25,25>>^ O Senhor pôs o rio Jordão por termo entre nós e vós, ó filhos de Ruben, ó filhos de Gad; e por isso não tendes parte no Senhor. Nesta ocasião os vossos filhos poderiam afastar os nossos do temor do Senhor. Portanto, julgámos que era melhor (proceder assim)
+
+[[v6-22-26]]
+
+^<<v6-22-26,26>>^ e dissemos: Façamos um altar, não para oferecer holocaustos, nem vítimas,
+
+[[v6-22-27]]
+
+^<<v6-22-27,27>>^ mas para testemunho entre nós e vós, e entre a nossa posteridade e a vossa, de que servimos ao Senhor e de que temos direito de lhe oferecer holocaustos, sacrifícios e vítimas pacíficas, e para que os vossos filhos não digam amanhã aos nossos filhos: Vós não tendes parte no Senhor.
+
+[[v6-22-28]]
+
+^<<v6-22-28,28>>^ Se o quiserem dizer, responder-lhe-ão: Eis o altar do Senhor, que os nossos pais fizeram, não para holocaustos, nem sacrifícios, mas para testemunho entre nós e vós.
+
+[[v6-22-29]]
+
+^<<v6-22-29,29>>^ Longe de nós este crime que nos apartemos do Senhor, que deixemos de seguir as suas pisadas, edificando um altar para oferecer holocaustos, oblações e sacrifícios, fora do altar do Senhor nosso Deus, que está levantado diante do seu tabernáculo.
+
+[[v6-22-30]]
+
+^<<v6-22-30,30>>^ Quando ouviram isto, o sacerdote Finéas e os chefes da legação de Israel, que com ele estavam, apaziguaram-se, e acolheram com grande satisfação as palavras dos filhos de Ruben, de Gad e da meia tribo de Manassés.
+
+[[v6-22-31]]
+
+^<<v6-22-31,31>>^ O sacerdote Finéas, filho de Eleázaro, disse-lhes: Agora sabemos que o Senhor está convosco, visto que estais alheios a tal prevaricação, e livrastes os filhos de Israel da mão ( justamente vingadora) do Senhor.
+
+[[v6-22-32]]
+
+^<<v6-22-32,32>>^ E, deixando os filhos de Ruben e de Gad, voltou com os chefes, da terra de Galaad, nos confins de Canaan, para os filhos de Israel, e deu-lhes conta de tudo.
+
+[[v6-22-33]]
+
+^<<v6-22-33,33>>^ O seu falar agradou a todos os que o ouviram. Os filhos de Israel louvaram a Deus, e não falaram mais em sair contra eles para lhes fazer guerra e devastar a terra da sua possessão.
+
+[[v6-22-34]]
+
+^<<v6-22-34,34>>^ Os filhos de Ruben e de Gad chamaram ao altar que tinham edificado Ed, porque — (disseram) — é testemunho, para nós, de que Javé é (o verdadeiro) Deus.
+
+'''
+
+xref:006-josue/006-josue-021.adoc#v6-21-0[&#60; Capítulo Anterior] | <<v6-22-0,Topo>> | xref:006-josue/006-josue-023.adoc#v6-23-0[Próximo Capítulo &#62;]

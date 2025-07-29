@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v9-10-0]]
+=== I Samuel, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 10 de 1 Samuel narra a unção de Saul como rei de Israel por Samuel. Saul é ungido com azeite, recebe um sinal divino confirmando sua escolha como rei e é instruído sobre sua missão futura. A seguir, ele é apresentado ao povo como líder. Abaixo estão cinco versículos que se relacionam com os temas abordados em 1 Samuel 10:
+* Deuteronômio 17:14-15: "Quando entrares na terra que o SENHOR, teu Deus, te der, e a possuíres, e nela habitares, e disseres: Estabelecerei sobre mim um rei, como todas as nações que estão em redor de mim; porás, então, sobre ti como rei aquele que o SENHOR, teu Deus, escolher". Esse versículo descreve a lei que Deus deu aos israelitas sobre como escolher um rei. O capítulo 10 de 1 Samuel apresenta a unção de Saul como rei, cumprindo essa lei.
+* 2 Samuel 2:4: "Vieram os homens de Judá, e ungiram ali a Davi rei sobre a casa de Judá". Esse versículo relata a unção de Davi como rei após a morte de Saul. Assim como Saul, Davi foi ungido com azeite para se tornar rei. Ambos os eventos destacam a importância da unção divina na escolha de um líder.
+* Salmos 89:20: "Achei a Davi, meu servo, e com o meu santo óleo o ungi". Esse versículo fala sobre a unção de Davi por Deus. A unção de Saul em 1 Samuel 10 é semelhante à unção de Davi, mostrando que a escolha de um líder por Deus é uma prática recorrente na história de Israel.
+* Isaías 61:1: "O Espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu para pregar boas-novas aos mansos; enviou-me a restaurar os contritos de coração, a proclamar libertação aos cativos e a pôr em liberdade os algemados". Esse versículo fala sobre a unção do Messias, que seria enviado para libertar os oprimidos. A unção de Saul em 1 Samuel 10 pode ser vista como uma prefiguração da unção do Messias.
+* Atos 13:21-22: "E pediram um rei, e Deus lhes deu Saul, filho de Quis, homem da tribo de Benjamim, por quarenta anos. E, havendo este sido rejeitado, levantou-lhes outro, a saber, Davi, do qual também deu testemunho, dizendo: Achei a Davi, filho de Jessé, homem conforme o meu coração, que fará toda a minha vontade". Esse versículo traz um resumo da história de Saul e Davi como reis de Israel. Ele destaca que Deus escolheu Saul, mas depois o rejeitou em favor de Davi, que foi ungido como rei da casa de Judá.
+****
+
+[[v9-10-1]]
+
+^<<v9-10-1,1>>^ Samuel tomou um pequeno vaso de óleo, derramou-o sobre a cabeça de Saul, beijou-o e disse: O Senhor te ungiu príncipe sobre a sua herança, e tu livrarás o seu povo das mãos dos inimigos que o cercam. E este será para ti o sinal de que Deus te ungiu príncipe:
+
+[[v9-10-2]]
+
+^<<v9-10-2,2>>^ Quando te separares hoje de mim, encontrarás dois homens juntos ao sepulcro de Raquel, nos confins de Benjamim, na parte meridional, e eles te dirão: Foram encontradas as jumentas que tu tinhas ido procurar; teu pai não se lembrando mais delas, está em cuidado por vós e diz: Que farei eu relativamente a meu filho?
+
+[[v9-10-3]]
+
+^<<v9-10-3,3>>^ Logo que partires de lá e passares adiante e chegares ao carvalho de Tabor, encontrarás aí três homens, que vão adorar a Deus em Betei, levando um três cabritos, e outro três tortas de pão, e outro um barril de vinho.
+
+[[v9-10-4]]
+
+^<<v9-10-4,4>>^ Depois de te saudarem, te darão dois pães, e tu os receberás da sua mão.
+
+[[v9-10-5]]
+
+^<<v9-10-5,5>>^ Depois chegarás ao outeiro de Deus, onde está uma guarnição de Filisteus; quando tiveres entrado na cidade, encontrarás um grupo de profetas a descer do lugar alto, precedidos de saltérios, de tímpanos, de flautas e de cítaras, profetizando (ou cantando louvores a Deus).
+
+[[v9-10-6]]
+
+^<<v9-10-6,6>>^ O Espírito do Senhor se apoderará de ti, tu profetizarás com eles, e ficarás mudado noutro homem.
+
+[[v9-10-7]]
+
+^<<v9-10-7,7>>^ Quando te acontecerem todos estes sinais, faze tudo o que te ocorrer, porque o Senhor é contigo.
+
+[[v9-10-8]]
+
+^<<v9-10-8,8>>^ Descerás primeiro que eu a Galgala; depois eu irei ter contigo, para oferecer um sacrifício e imolar vitimas pacíficas; esperarás sete dias, até que eu vá ter contigo e te declare o que deves fazer.
+
+[[v9-10-9]]
+
+^<<v9-10-9,9>>^ Quando Saul voltou as costas, ao deixar Samuel, Deus mudou-lhe o coração em outro, e todos estes sinais aconteceram no mesmo dia.
+
+[[v9-10-10]]
+
+^<<v9-10-10,10>>^ Quando chegaram a Gabaa, ao sobredito outeiro, um grupo de profetas veio ao seu encontro, o espírito do Senhor o arrebatou, e ele profetizou no meio deles.
+
+[[v9-10-11]]
+
+^<<v9-10-11,11>>^ Todos os que o tinham conhecido pouco antes, vendo que ele estava com os profetas e que profetizava, disseram entre si: Que é o que aconteceu ao filho de Cis? Porventura também Saul está entre os profetas?
+
+[[v9-10-12]]
+
+^<<v9-10-12,12>>^ Um da multidão disse: E quem é o pai destes (profetas)? Por isso passou a provérbio (o dizer-se): Porventura também Saul está entre os profetas? (ver nota)
+
+[[v9-10-13]]
+
+^<<v9-10-13,13>>^ Quando cessou de profetizar, foi para o lugar alto.
+
+[[v9-10-14]]
+
+^<<v9-10-14,14>>^ O tio de Saul disse-lhe a ele e ao seu criado: A onde fostes? Eles responderam: Procurar as jumentas; porém , não as tendo encontrado, fomos ter com Samuel.
+
+[[v9-10-15]]
+
+^<<v9-10-15,15>>^ Seu tio perguntou-lhe: Conta-me o que te disse Samuel.
+
+[[v9-10-16]]
+
+^<<v9-10-16,16>>^ Saul respondeu ao seu tio: Disse-nos que se tinham encontrado as jumentas. Contudo não lhe descobriu nada do que Samuel lhe tinha dito relativamente ao reino.
+
+[[v9-10-17]]
+
+^<<v9-10-17,17>>^ Samuel convocou o povo diante do Senhor, em Masfa,
+
+[[v9-10-18]]
+
+^<<v9-10-18,18>>^ e disse aos filhos de Israel: Eis o que diz o Senhor Deus de Israel: Eu tirei Israel do Egipto, livrei-vos da mão dos Egípcios e do poder de todos os reis que vos oprimiam.
+
+[[v9-10-19]]
+
+^<<v9-10-19,19>>^ Vós rejeitastes hoje o vosso Deus, que vos salvou de todos os males e de todas as tribulações, e dissestes: Não há-de ser assim, mas estabelece um rei sobre nós. Agora ponde-vos diante do Senhor, segundo as vossas tribos e famílias.
+
+[[v9-10-20]]
+
+^<<v9-10-20,20>>^ Samuel sorteou todas as tribos de Israel, e caiu a sorte sobre a tribo de Benjamim
+
+[[v9-10-21]]
+
+^<<v9-10-21,21>>^ Deitou sortes sobre a tribo de Benjamim , sobre suas famílias, e a sorte caiu sobre a família de Metri; finalmente chegou até Saul, filho de Cis. Procuraram-no, pois, mas não o encontraram.
+
+[[v9-10-22]]
+
+^<<v9-10-22,22>>^ Depois consultaram o Senhor se porventura ele viria ali. O Senhor respondeu: Está escondido em casa.
+
+[[v9-10-23]]
+
+^<<v9-10-23,23>>^ Correram a buscá-lo, e trouxeram-no de lá; ele pôs-se no meio do povo, e viu-se que era mais alto do que todo o povo, do ombro para cima.
+
+[[v9-10-24]]
+
+^<<v9-10-24,24>>^ Samuel disse a todo o povo: Vós bem vêdes quem é aquele que o Senhor escolheu. Não há em todo o povo quem lhe seja semelhante. E todo o povo o aclamou, dizendo: Viva o rei!
+
+[[v9-10-25]]
+
+^<<v9-10-25,25>>^ Samuel expôs ao povo a lei do reino e escreveu-a num livro, que depositou diante do Senhor; depois despediu todo o povo, cada um para sua casa.
+
+[[v9-10-26]]
+
+^<<v9-10-26,26>>^ Saul voltou também para sua casa, em Gabaa, e foi com ele uma parte do exército, a quem Deus tinha tocado o coração.
+
+[[v9-10-27]]
+
+^<<v9-10-27,27>>^ Porém os filhos de Belial disseram: Porventura poderá este salvar-nos? E desprezaram-no, e não lhe levaram presentes; ele, porém, dissimulava, como se os não ouvisse. (ver nota)
+
+'''
+
+xref:009-i-samuel/009-i-samuel-009.adoc#v9-9-0[&#60; Capítulo Anterior] | <<v9-10-0,Topo>> | xref:009-i-samuel/009-i-samuel-011.adoc#v9-11-0[Próximo Capítulo &#62;]

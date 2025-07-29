@@ -1,0 +1,239 @@
+include::./index.adoc[]
+
+[[v1-31-0]]
+=== Gênesis, 31
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 31 relata a fuga de Jacó da casa de Labão com sua família e seus rebanhos. Jacó havia trabalhado por muitos anos para Labão, mas percebeu que estava sendo enganado e explorado por ele. Após receber uma mensagem de Deus dizendo para voltar à terra de seus pais, Jacó decidiu fugir com tudo o que havia adquirido em seus anos de trabalho para Labão. Durante sua fuga, Labão o perseguiu, mas Deus interveio para proteger Jacó. Abaixo estão cinco versículos relacionados aos temas abordados em Gênesis 31:
+* Deuteronômio 24:14: "Não oprimirás o diarista pobre e necessitado, seja ele dos teus irmãos, ou dos estrangeiros que vivem na tua terra e nas tuas cidades." Este versículo fala sobre a injustiça que Jacó sentiu por parte de Labão, que o explorou durante anos. A Bíblia condena a opressão dos pobres e dos necessitados, inclusive os trabalhadores que dependem do seu salário diário.
+* Salmos 121:7-8: "O Senhor guardará você de todo mal; ele guardará a sua vida. O Senhor guardará a sua saída e a sua chegada, desde agora e para sempre." Jacó fugiu de Labão com medo de ser perseguido e prejudicado por ele. Esse salmo fala sobre a proteção divina, mostrando que Deus cuida daqueles que confiam nele e os protege de todo mal.
+* Provérbios 14:31: "Quem oprime o pobre insulta o seu Criador, mas quem se compadece do necessitado honra a Deus." Labão agiu de maneira egoísta e opressora em relação a Jacó, desrespeitando-o como trabalhador e como parente. Este versículo mostra que a atitude de Labão não só foi injusta, mas também desonrou a Deus.
+* Isaías 41:10: "Não tenha medo, pois estou com você; não desanime, pois eu sou o seu Deus. Eu lhe dou forças e o ajudo; eu o protejo com a minha forte mão." Jacó estava com medo de Labão, mas confiou em Deus para protegê-lo durante sua fuga. Este versículo mostra que Deus é aquele que nos dá forças para enfrentar as dificuldades e nos protege em momentos de perigo.
+* Atos 26:17-18: "Eu o envio para eles, para abrir-lhes os olhos e convertê-los das trevas para a luz, e do poder de Satanás para Deus, a fim de que recebam o perdão dos pecados e herança entre os que são santificados pela fé em mim." Jacó se afastou de Labão para cumprir o plano de Deus para sua vida e retornar à terra de seus pais. Este versículo mostra que Deus tem um plano para cada um de nós, e que muitas vezes é preciso tomar decisões difíceis para segui-lo.
+****
+
+[[v1-31-1]]
+
+^<<v1-31-1,1>>^ Ora, depois que Jacob ouviu as palavras dos filhos de Labão, que diziam: Levou Jacob tudo o que era de nosso pai, e, enriquecido de seus bens, se tornou poderoso,
+
+[[v1-31-2]]
+
+^<<v1-31-2,2>>^ observou também que Labão lhe não mostrava a mesma cara que a principio:
+
+[[v1-31-3]]
+
+^<<v1-31-3,3>>^ além disso, o Senhor dizia-lhe: Volta para a terra de teus pais, para a tua parentela, e eu serei contigo.
+
+[[v1-31-4]]
+
+^<<v1-31-4,4>>^ Mandou, pois, vir Raquel e Lia ao campo, onde ele apascentava os rebanhos,
+
+[[v1-31-5]]
+
+^<<v1-31-5,5>>^ e disse-lhes: Vejo que vosso pai não me mostra a mesma cara que a principio: porém o Deus de meu pai tem estado comigo.
+
+[[v1-31-6]]
+
+^<<v1-31-6,6>>^ Vós mesmas sabeis como eu tenho servido vosso pai com todas as minhas forças.
+
+[[v1-31-7]]
+
+^<<v1-31-7,7>>^ Porém o vosso pai enganou-me, e mudou dez vezes a minha recompensa; nem por isso permitiu Deus que ele me fizesse algum dano.
+
+[[v1-31-8]]
+
+^<<v1-31-8,8>>^ Se ele uma vez dizia: Os cordeiros manchados serão a tua recompensa, todas as ovelhas davam à luz cordeiros manchados: quando, pelo contrário, dizia: Receberás por recompensa todos os cordeiros brancos, todas as ovelhas davam à luz cordeiros brancos.
+
+[[v1-31-9]]
+
+^<<v1-31-9,9>>^ Deus tirou a fazenda de vosso pai, e deu-ma a mim.
+
+[[v1-31-10]]
+
+^<<v1-31-10,10>>^ Chegado o tempo em que as ovelhas haviam de conceber, levantei os meus olhos, e vi em sonhos que os machos, que cobriam as fêmeas, eram variegados e manchados, e de diversas cores.
+
+[[v1-31-11]]
+
+^<<v1-31-11,11>>^ E o anjo de Deus disse-me em sonhos: Jacob. Respondi: Aqui estou.
+
+[[v1-31-12]]
+
+^<<v1-31-12,12>>^ Ele disse: Levanta os teus olhos e vê que todos os machos, que cobrem as fêmeas, são variegados, manchados, e de diversas cores. Com efeito, vi tudo o que te fez Labão.
+
+[[v1-31-13]]
+
+^<<v1-31-13,13>>^ Eu sou o Deus de Betel, onde tu ungiste a pedra e me fizeste um voto. Agora, pois, levanta-te, e sai desta terra, voltando para a terra onde nasceste.
+
+[[v1-31-14]]
+
+^<<v1-31-14,14>>^ Raquel e Lia responderam: Porventura resta-nos alguma coisa dos bens e da herança da casa de nosso pai?
+
+[[v1-31-15]]
+
+^<<v1-31-15,15>>^ Não nos tratou ele como estranhas, e vendeu e comeu o que nos era devido?
+
+[[v1-31-16]]
+
+^<<v1-31-16,16>>^ Mas Deus tomou as riquezas de nosso pai e as entregou a nós e aos nossos filhos: faze, portanto, agora, tudo o que Deus te mandou,
+
+[[v1-31-17]]
+
+^<<v1-31-17,17>>^ Levantou-se, pois, Jacob, e, fazendo montar sobre camelos os seus filhos e as suas mulheres, partiu,
+
+[[v1-31-18]]
+
+^<<v1-31-18,18>>^ levando toda a sua fazenda e rebanhos, e tudo o que tinha adquirido na Mesopotâmia, e encaminhou-se para Isaac, seu pai, na terra de Canaan.
+
+[[v1-31-19]]
+
+^<<v1-31-19,19>>^ Quando Labão foi fazer a tosquia das ovelhas, Raquel furtou os ídolos de seu pai.
+
+[[v1-31-20]]
+
+^<<v1-31-20,20>>^ Jacob não quis participar a seu sogro a sua fugida.
+
+[[v1-31-21]]
+
+^<<v1-31-21,21>>^ Tendo, pois, partido com tudo o que lhe pertencia, e enquanto, passado já o rio, caminhava para a banda do monte de Galaad,
+
+[[v1-31-22]]
+
+^<<v1-31-22,22>>^ foi Labão avisado ao terceiro dia de que Jacob ia fugindo.
+
+[[v1-31-23]]
+
+^<<v1-31-23,23>>^ Então ele, tendo tomado consigo seus irmãos, foi no seu encalço durante sete dias e apanhou-o no monte Galaad.
+
+[[v1-31-24]]
+
+^<<v1-31-24,24>>^ E viu em sonhos a Deus, que lhe dizia: Não digas nada a Jacob.
+
+[[v1-31-25]]
+
+^<<v1-31-25,25>>^ Jacob já tinha assentado a sua tenda no monte: Labão, tendo-o alcançado com seus irmãos, pôs a sua tenda no mesmo monte de Galaad.
+
+[[v1-31-26]]
+
+^<<v1-31-26,26>>^ E disse a Jacob: Por que procedeste assim levando-me furtivamente minhas filhas como (se elas fossem) prisioneiras de guerra?
+
+[[v1-31-27]]
+
+^<<v1-31-27,27>>^ Por que razão quiseste fugir sem que eu o soubesse, nem quiseste avisar-me, para que eu te acompanhasse com alegria e com cânticos, ao som de tímpanos e de citaras?
+
+[[v1-31-28]]
+
+^<<v1-31-28,28>>^ Não me deixaste beijar meus filhos e minhas filhas: procedeste como um néscio. Agora certamente
+
+[[v1-31-29]]
+
+^<<v1-31-29,29>>^ estava na minha mão fazer-te mal; porém o Deus de teu pai disse-me ontem: Não digas nada a Jacob.
+
+[[v1-31-30]]
+
+^<<v1-31-30,30>>^ Que desejasses voltar para os teus e te estimulasse o desejo da casa de teu pai, (compreender-se-ia); (mas) por que me furtaste os meus deuses?
+
+[[v1-31-31]]
+
+^<<v1-31-31,31>>^ Jacob respondeu: Parti sem tu o saberes, porque tive medo que me tirasses à força as tuas filhas.
+
+[[v1-31-32]]
+
+^<<v1-31-32,32>>^ Porém quanto ao furto de que me acusas, qualquer que seja aquele, em cujo poder achares os teus deuses, seja morto em presença de nossos irmãos. Busca e leva tudo o que achares teu junto de mim. Dizendo isto ignorava que Raquel tivesse furtado os ídolos.
+
+[[v1-31-33]]
+
+^<<v1-31-33,33>>^ Labão, pois, tendo entrado na tenda de Jacob e de Lia, e das duas escravas, nada encontrou. Mas, tendo entrado na tenda de Raquel,
+
+[[v1-31-34]]
+
+^<<v1-31-34,34>>^ ela, muito à pressa escondeu os ídolos debaixo da sela dum camelo, e assentou-se em cima. Revistando ele toda a tenda sem achar nada,
+
+[[v1-31-35]]
+
+^<<v1-31-35,35>>^ disse ela: Não se agaste o meu senhor, se eu me não posso levantar na tua presença, porque presentemente me acho com a indisposição que costuma vir às mulheres. Deste modo foi iludida a ansiedade com que ele procurava.
+
+[[v1-31-36]]
+
+^<<v1-31-36,36>>^ Então Jacob, todo alterado, disse com enfado a Labão: Por que culpa minha, ou por que pecado meu correste atrás de mim com tanto calor,
+
+[[v1-31-37]]
+
+^<<v1-31-37,37>>^ e revistaste todos os meus móveis? Que achaste tu aqui de todas as coisas da tua casa? Põe-nas aqui diante dos meus irmãos e dos teus irmãos, e sejam eles juízes entre mim e ti.
+
+[[v1-31-38]]
+
+^<<v1-31-38,38>>^ (Foi) por isto que eu estive vinte anos contigo? As tuas ovelhas e as tuas cabras não abortaram e eu não comi os carneiros do teu rebanho.
+
+[[v1-31-39]]
+
+^<<v1-31-39,39>>^ Não te ia levar o (animal) que era despedaçado pelas feras, mas pagava todo o dano. Tudo o que era roubado de mim o exigias.
+
+[[v1-31-40]]
+
+^<<v1-31-40,40>>^ Eu era, de dia e de noite, queimado do calor e do gelo, e o sono fugia dos meus olhos.
+
+[[v1-31-41]]
+
+^<<v1-31-41,41>>^ Deste modo te servi em tua casa vinte anos: catorze pelas (tuas) filhas, e seis, pelos teus rebanhos: tu mudaste também dez vezes a minha recompensa.
+
+[[v1-31-42]]
+
+^<<v1-31-42,42>>^ Se o Deus de meu pai Abraão, e (o Deus) que Isaac teme, me não tivesse assistido talvez me tivesses despedido nu: (mas) Deus olhou a minha aflição e o trabalho das minhas mãos, e te ameaçou ontem.
+
+[[v1-31-43]]
+
+^<<v1-31-43,43>>^ Labão respondeu-lhe: As minhas filhas, os filhos delas, os teus rebanhos e tudo o que vês, tudo é meu; que posso eu fazer contra minhas filhas e os meus netos?
+
+[[v1-31-44]]
+
+^<<v1-31-44,44>>^ Vem, pois, e façamos, uma aliança, que sirva de testemunho entre mim e ti.
+
+[[v1-31-45]]
+
+^<<v1-31-45,45>>^ Jacob tomou, pois, uma pedra, levantou-a por padrão
+
+[[v1-31-46]]
+
+^<<v1-31-46,46>>^ e disse aos seus irmãos: Trazei pedras. Tendo juntado muitas, fizeram (com elas) um cabeço e comeram sobre ele.
+
+[[v1-31-47]]
+
+^<<v1-31-47,47>>^ Labão chamou-o Cabeço da testemunha, e Jacob Cabeço do testemunho, cada um segundo a propriedade da sua língua.
+
+[[v1-31-48]]
+
+^<<v1-31-48,48>>^ Labão disse: Este cabeço será hoje testemunha entre mim e ti, e, por isso, este cabeço se chamou Galaad, isto é, o Cabeço do testemunho.
+
+[[v1-31-49]]
+
+^<<v1-31-49,49>>^ O Senhor nos veja e nos julgue, quando nos tivermos separado um do outro.
+
+[[v1-31-50]]
+
+^<<v1-31-50,50>>^ Se tu maltratares minhas filhas, e se tomares outras mulheres além delas, ninguém é testemunha dás nossas palavras. Senão Deus, que está presente (e que nos) vê.
+
+[[v1-31-51]]
+
+^<<v1-31-51,51>>^ Disse mais a Jacob: Eis que o cabeço e a pedra, que eu levantei entre mim e ti,
+
+[[v1-31-52]]
+
+^<<v1-31-52,52>>^ será testemunha: este cabeço bem como esta pedra dêem testemunho de que o não passarei, indo contra ti, nem tu o passarás com intento de me fazeres mal.
+
+[[v1-31-53]]
+
+^<<v1-31-53,53>>^ O Deus de Abraão, o Deus de Nacor, o Deus de seus pais, seja juiz entre nós. Jurou, pois, Jacob por aquele que era temido por seu pai Isaac.
+
+[[v1-31-54]]
+
+^<<v1-31-54,54>>^ E, imoladas as vitimas sobre o monte, convidou seus irmãos para comer pão. Tendo comido, ficaram ali (a passar a noite).
+
+[[v1-31-55]]
+
+^<<v1-31-55,55>>^ Labão, porém, levantando-se antes de amanhecer, beijou os filhos e as filhas, abençoou-os e voltou para sua casa.
+
+'''
+
+xref:001-genesis/001-genesis-030.adoc#v1-30-0[&#60; Capítulo Anterior] | <<v1-31-0,Topo>> | xref:001-genesis/001-genesis-032.adoc#v1-32-0[Próximo Capítulo &#62;]

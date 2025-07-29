@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v47-7-0]]
+=== São Mateus, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Mateus 7 começa com Jesus ensinando sobre julgar os outros, alertando que seremos julgados da mesma forma que julgamos os outros. Ele continua falando sobre o caminho estreito e largo, bons e maus frutos, e a importância de praticar a vontade de Deus. Jesus também fala sobre aqueles que o chamam de Senhor, mas não fazem a vontade de Deus, e termina com a parábola da casa construída na rocha e na areia. Aqui estão cinco versículos relacionados com esses temas:
+* Provérbios 21:2: "Todo caminho do homem é reto aos seus próprios olhos, mas o Senhor sonda os corações." Este versículo se relaciona com a ideia de que o caminho largo pode parecer certo aos nossos próprios olhos, mas devemos nos submeter à vontade de Deus, que conhece os nossos corações.
+* Mateus 7:12: "Tudo o que vocês desejam que os outros façam a vocês, façam também a eles. Esta é a essência da Lei e dos Profetas." Aqui, Jesus ensina sobre fazer aos outros o que gostaríamos que fizessem a nós, o que se relaciona com amar o próximo como a si mesmo e praticar a vontade de Deus.
+* Mateus 7:21: "Nem todo aquele que me diz: ‘Senhor, Senhor’, entrará no Reino dos céus, mas apenas aquele que faz a vontade de meu Pai que está nos céus." Este versículo fala sobre a importância de praticar a vontade de Deus e não apenas chamar Jesus de Senhor em palavras.
+* Mateus 7:24: "Portanto, quem ouve estas minhas palavras e as pratica é como um homem prudente que construiu a sua casa sobre a rocha." Este versículo se relaciona com a parábola da casa construída sobre a rocha e a importância de praticar os ensinamentos de Jesus.
+* Tiago 1:22: "Não sejam apenas ouvintes da palavra, enganando-se a si mesmos. Pratiquem o que ela diz." Este versículo reforça a ideia de que a prática da palavra é fundamental, em vez de apenas ouvi-la sem agir.
+****
+
+[[v47-7-1]]
+
+^<<v47-7-1,1>>^ Não julgueis, para que não sejais julgados.
+
+[[v47-7-2]]
+
+^<<v47-7-2,2>>^ Pois, segundo o juízo com que julgardes, sereis julgados; e com a medida com que medirdes vos medirão também a vós.
+
+[[v47-7-3]]
+
+^<<v47-7-3,3>>^ Porque olhas tu para a aresta que está no olho de teu irmão, e não notas a trave no teu olho?
+
+[[v47-7-4]]
+
+^<<v47-7-4,4>>^ Como ousas dizer a teu irmão: Deixa-me tirar-te do olho uma aresta, tendo tu no teu uma trave?
+
+[[v47-7-5]]
+
+^<<v47-7-5,5>>^ Hipócrita, tira primeiro a trave do teu olho, e então verás para tirar a aresta do olho de teu irmão.
+
+[[v47-7-6]]
+
+^<<v47-7-6,6>>^ Não deis aos cães o que é santo, nem lanceis aos porcos as vossas pérolas, para que não suceda que eles as calquem com os seus pés, e que, voltando-se contra vós, vos dilacerem.
+
+[[v47-7-7]]
+
+^<<v47-7-7,7>>^ Pedi, e vos será dado; buscai, e achareis; batei, e abrir-se-vos-á.
+
+[[v47-7-8]]
+
+^<<v47-7-8,8>>^ Porque todo o que pede, recebe o que busca, encontra, e a quem bate, abrir-se-á.
+
+[[v47-7-9]]
+
+^<<v47-7-9,9>>^ Qual de vós dará uma pedra a seu filho, quando este lhe pede pão?
+
+[[v47-7-10]]
+
+^<<v47-7-10,10>>^ Se lhe pedir um peixe, dar-lhe-á uma serpente?
+
+[[v47-7-11]]
+
+^<<v47-7-11,11>>^ Se vós, pois, sendo maus, sabeis dar coisas boas a vossos filhos, quanto mais vosso Pai celeste dará coisas boas aos que lhas pedirem ! (ver nota)
+
+[[v47-7-12]]
+
+^<<v47-7-12,12>>^ Tudo o que vós quereis que os homens vos façam, fazei-o também vós a eles; esta é a lei e os profetas.
+
+[[v47-7-13]]
+
+^<<v47-7-13,13>>^ Entrai pela porta estreita, porque larga é a porta, e espaçoso o caminho que conduz à perdição, e muitos são os que entram por ela.
+
+[[v47-7-14]]
+
+^<<v47-7-14,14>>^ Que estreita é a porta, e que apertado o caminho que conduz à vida, e quão poucos são os que dão com ele !
+
+[[v47-7-15]]
+
+^<<v47-7-15,15>>^ Guardai-vos dos falsos profetas, que vêm a vós com vestidos de ovelhas, mas por dentro são lobos rapaces.
+
+[[v47-7-16]]
+
+^<<v47-7-16,16>>^ Pelos seus frutos os conhecereis. Porventura colhem-se uvas dos espinhos, ou figos dos abrolhos?
+
+[[v47-7-17]]
+
+^<<v47-7-17,17>>^ Assim toda a árvore boa dá bons frutos, e toda a árvore má dá maus frutos.
+
+[[v47-7-18]]
+
+^<<v47-7-18,18>>^ Não pode uma árvore boa dar maus frutos, nem uma árvore má dar bons frutos.
+
+[[v47-7-19]]
+
+^<<v47-7-19,19>>^ Toda a árvore, que não dá bons frutos, será cortada e lançada ao fogo.
+
+[[v47-7-20]]
+
+^<<v47-7-20,20>>^ Vós os conhecereis, pois, pelos seus frutos. (ver nota)
+
+[[v47-7-21]]
+
+^<<v47-7-21,21>>^ Nem todo o que me diz: Senhor, Senhor, entrará no reino dos céus, mas só o que faz a vontade de meu Pai, que está nos céus.
+
+[[v47-7-22]]
+
+^<<v47-7-22,22>>^ Muitos me dirão naquele dia: Senhor, Senhor, não profetizamos nós em teu nome, e em teu nome expelimos os demônios, e em teu nome fizemos muitos milagres? (ver nota)
+
+[[v47-7-23]]
+
+^<<v47-7-23,23>>^ E então eu Ihes direi bem alto: Nunca vos conheci! Apartai-vos de mim, vós que obrais a iniquidade!
+
+[[v47-7-24]]
+
+^<<v47-7-24,24>>^ Todo aquele, pois, que ouve estas minhas palavras, e as observa, será semelhante ao homem prudente que edificou a sua casa sobre rocha.
+
+[[v47-7-25]]
+
+^<<v47-7-25,25>>^ Caiu a chuva, transbordaram os rios, sopraram os ventos, e investiram contra aquela casa, mas ela não caiu, porque estava fundada sobre rocha.
+
+[[v47-7-26]]
+
+^<<v47-7-26,26>>^ Todo o que ouve estas minhas palavras e não as pratica, será semelhante ao homem insensato, que edificou a sua casa sobre areia.
+
+[[v47-7-27]]
+
+^<<v47-7-27,27>>^ Caiu a chuva, transbordaram os rios, sopraram os ventos, e investiram contra aquela casa, e ela caiu, e foi grande a sua ruína."
+
+[[v47-7-28]]
+
+^<<v47-7-28,28>>^ Quando Jesus acabou este discurso, estavam as multidões admiradas da sua doutrina,
+
+[[v47-7-29]]
+
+^<<v47-7-29,29>>^ porque os ensinava, como quem tinha autoridade, e não como os seus escribas.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-006.adoc#v47-6-0[&#60; Capítulo Anterior] | <<v47-7-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-008.adoc#v47-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v30-2-0]]
+=== Jeremias, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 2 começa com o profeta repreendendo o povo de Israel por abandonar a Deus e seguir após outros deuses. Ele faz uma analogia entre o amor de Israel por outros deuses e a prostituição, descrevendo como Israel abandonou sua fidelidade a Deus e se prostituiu com ídolos de madeira e pedra. Abaixo estão cinco versículos relacionados com os temas abordados em Jeremias 2:
+* Deuteronômio 32:15: "Porém, Jesurum engordou e deu coices (engordaste, engrossaste e te cobriste de gordura); e deixou a Deus, que o fez, e desprezou a Rocha da sua salvação." O povo de Israel se tornou complacente e satisfeito com sua prosperidade material, esquecendo-se de Deus e desprezando sua salvação.
+* Salmos 106:19-21: "Fizeram um bezerro em Horebe, e adoraram a imagem fundida. Assim trocaram a sua glória pela figura de um boi que come erva. Esqueceram-se de Deus, seu Salvador, que fizera grandes coisas no Egito." Este versículo descreve a rebelião de Israel contra Deus ao adorar um ídolo, esquecendo-se dos grandes milagres que Ele realizou para libertá-los da escravidão no Egito.
+* Ezequiel 23:30: "Essas coisas serão feitas contigo, porque te prostituíste com as nações, contaminando-te com os seus ídolos." Este versículo fala sobre as consequências da idolatria e infidelidade de Israel, resultando em punições e julgamentos.
+* Êxodo 20:3: "Não terás outros deuses diante de mim." Este é o primeiro mandamento dado a Moisés por Deus, que enfatiza a importância de amar e adorar somente a Deus, e não a outros deuses ou ídolos.
+* Oséias 2:13: "Ela não reconheceu que fui eu que lhe dei o trigo, o vinho novo e o óleo, e lhe multipliquei a prata e o ouro, que usaram para Baal." Este versículo descreve como Israel se esqueceu de que Deus era a fonte de todas as suas bênçãos materiais, atribuindo sua prosperidade a Baal, um deus falso.
+****
+
+[[v30-2-1]]
+
+^<<v30-2-1,1>>^ Foi-me dirigida a palavra do Senhor, nos termos seguintes:
+
+[[v30-2-2]]
+
+^<<v30-2-2,2>>^ Vai e grita aos ouvidos de Jerusalém: Isto diz o Senhor: Recordo-me da fidelidade da tua mocidade, do amor dos teus desposórios, quando me seguias no deserto, naquela terra que se não semeia. (ver nota)
+
+[[v30-2-3]]
+
+^<<v30-2-3,3>>^ Israel era consagrado ao Senhor, era as primícias dos seus frutos; todos os que o devoravam, pecavam, e sobre eles caíam males, diz o Senhor.
+
+[[v30-2-4]]
+
+^<<v30-2-4,4>>^ Ouvi a palavra do Senhor, casa de Jacob, e vós, todas as famílias da casa de Israel.
+
+[[v30-2-5]]
+
+^<<v30-2-5,5>>^ Isto diz o Senhor: Que injustiça encontraram em mim vossos pais, para se afastarem de mim, irem após a vaidade (dos ídolos), tornando-se eles próprios vãos?
+
+[[v30-2-6]]
+
+^<<v30-2-6,6>>^ Não disseram: Onde está o Senhor, que nos fez sair da terra do Egito, que nos conduziu pelo deserto, por uma terra árida e gretada, por uma terra de sede, imagem da morte, por uma terra por onde ninguém passa e onde ninguém mora?
+
+[[v30-2-7]]
+
+^<<v30-2-7,7>>^ Introduzi-vos numa terra de vergéis, para que comêsseis os seus frutos e o melhor dela; depois de terdes lá entrado, profanastes a minha terra _(entregando-vos à idolatria) e fizestes da minha herança um objecto de abominação.
+
+[[v30-2-8]]
+
+^<<v30-2-8,8>>^ Os sacerdotes não disseram: Onde está o Senhor? Os depositários da lei não me conheceram, os pastores prevaricaram contra mim, os profetas profetizaram em nome de Baal. Seguiram os (ídolos) que de nada valem.
+
+[[v30-2-9]]
+
+^<<v30-2-9,9>>^ Portanto entrarei em juízo contra vós - palavra do Senhor - e contra os vossos filhos.
+
+[[v30-2-10]]
+
+^<<v30-2-10,10>>^ Passai às ilhas de Cetim e vede; mandai a Cedar e considerai bem (o que lá se passa), e vede se aconteceu coisa semelhante.
+
+[[v30-2-11]]
+
+^<<v30-2-11,11>>^ Acaso trocou algum povo os seus deuses, apesar de não serem deuses? Mas o meu povo trocou a sua glória pelo que de nada vale.
+
+[[v30-2-12]]
+
+^<<v30-2-12,12>>^ Pasmai, céus, sobre isto, tremei de espanto e de horror, diz o Senhor.
+
+[[v30-2-13]]
+
+^<<v30-2-13,13>>^ Porque o meu povo fez dois males: abandonaram-me a mim, que sou fonte de água viva, e cavaram para si cisternas, cisternas rotas, que não podem reter as águas.
+
+[[v30-2-14]]
+
+^<<v30-2-14,14>>^ Porventura é Israel algum escravo ou filho de escravos? Por que razão pois se tornou uma presa (dos inimigos)?
+
+[[v30-2-15]]
+
+^<<v30-2-15,15>>^ Contra ele rugiram os leões, levantaram a sua voz; reduziram a sua terra a um deserto; as suas cidades foram queimadas, e não há quem habite nelas.
+
+[[v30-2-16]]
+
+^<<v30-2-16,16>>^ Até os filhos de Menfis e de Tafnis te raparam a cabeça.
+
+[[v30-2-17]]
+
+^<<v30-2-17,17>>^ Porventura não te aconteceu (tudo) isto porque abandonaste o Senhor teu Deus, no tempo em que te conduzia pelo caminho?
+
+[[v30-2-18]]
+
+^<<v30-2-18,18>>^ E agora que vais buscar no caminho do Egito, para beberes a água turva (do Nilo)? De que te vale tomar o caminho dos Assírios, para beberes a água do rio (Eufrates)?
+
+[[v30-2-19]]
+
+^<<v30-2-19,19>>^ A tua malícia te pune, as tuas infidelidades te castigam. Sabe e vê que má e amarga coisa é o haveres abandonado o Senhor Deus dos exércitos.
+
+[[v30-2-20]]
+
+^<<v30-2-20,20>>^ Tu, desde há muito, quebraste o meu jugo, rompeste os teus laços e disseste: Não servirei (o Senhor). Semelhante a uma mulher impudica, te prostituías em todo o outeiro elevado, debaixo de toda a árvore frondosa (adorando os falsos deuses).
+
+[[v30-2-21]]
+
+^<<v30-2-21,21>>^ Eu tinha-te plantado como uma vinha escolhida com sarmentos de boa qualidade. Como pois degeneraste para mim, convertendo-te em sarmentos bastardos de cepa estrangeira?
+
+[[v30-2-22]]
+
+^<<v30-2-22,22>>^ Ainda que te laves com potassa e empregues muito sabão, maculada estarás diante de mim, pela tua iniquidade, diz o Senhor Javé.
+
+[[v30-2-23]]
+
+^<<v30-2-23,23>>^ Como dizes tu: Eu não estou manchada, eu não andei após os Baais (ou ídolos)? Vê os vestígios de teus pés no vale, considera o que ali fizeste. És como dromedária desatinada, que percorre todos os caminhos;
+
+[[v30-2-24]]
+
+^<<v30-2-24,24>>^ como asna silvestre acostumada ao deserto, que, abrasada no seu apetite, aspira o ar (farejando); ninguém a poderá deter. Todos os que a buscam não se fatigarão: achá-la-ão no tempo do cio.
+
+[[v30-2-25]]
+
+^<<v30-2-25,25>>^ Guarda o teu pé da desnudez (dos ídolos), e a tua garganta da sede. Mas tu disseste: É inútil! Não! Amo os estranhos e atrás deles andarei.
+
+[[v30-2-26]]
+
+^<<v30-2-26,26>>^ Como o ladrão fica confundido, se o apanham, assim serão confundidos os da casa de Israel, eles e os seus reis, os seus chefes, os seus sacerdotes e profetas,
+
+[[v30-2-27]]
+
+^<<v30-2-27,27>>^ os quais dizem a um pau: Tu és o meu pai; - e a uma pedra: Tu me geraste. Voltaram-me as costas em lugar de voltarem para mim a face; porém no tempo da sua aflição dizem: Levanta-te (Senhor) e livra-nos.
+
+[[v30-2-28]]
+
+^<<v30-2-28,28>>^ Onde estão os teus deuses (direi então eu), que fabricaste para ti? Levantem-se, se te podem livrar, no tempo da tua aflição, porque os teus deuses, ó Judá, são tantos em número como as tuas cidades.
+
+[[v30-2-29]]
+
+^<<v30-2-29,29>>^ Por que quereis vós entrar contra mim em juízo? Todos me abandonastes, diz o Senhor.
+
+[[v30-2-30]]
+
+^<<v30-2-30,30>>^ Em vão castiguei os vossos filhos: eles não receberam a correção. A vossa espada devorou os vossos profetas, como um leão destruidor.
+
+[[v30-2-31]]
+
+^<<v30-2-31,31>>^ Assim é a vossa geração. Atendei à palavra do Senhor: Porventura tenho eu sido para Israel um deserto, ou uma terra de trevas? Por que disse pois o meu povo: Recusamos obediência, não tornaremos mais para ti?
+
+[[v30-2-32]]
+
+^<<v30-2-32,32>>^ Porventura esquecer-se-á a donzela do seu ornato, ou a esposa do seu cinto? Mas o meu povo esqueceu-se de mim durante dias sem número.
+
+[[v30-2-33]]
+
+^<<v30-2-33,33>>^ Por que procuras tu justificar o teu procedimento, a fim de eu me pôr de bem contigo, se em cima de fazeres o mal, o ensinaste também aos outros.
+
+[[v30-2-34]]
+
+^<<v30-2-34,34>>^ Até nas orlas das tuas vestes se acha o sangue dos pobres inocentes, que não havias surpreendido em delito de arrombamento.
+
+[[v30-2-35]]
+
+^<<v30-2-35,35>>^ Dizes: Estou inocente; certamente a sua cólera apartou-se de mim. Eis que vou entrar em juízo contigo, por teres dito: Não pequei.
+
+[[v30-2-36]]
+
+^<<v30-2-36,36>>^ Com que pressa mudas de caminho! Hás-de ser confundida pelo Egito, como o foste já por Assur.
+
+[[v30-2-37]]
+
+^<<v30-2-37,37>>^ Sairás de lá (envergonhada), com as tuas mãos sobre a cabeça, porque o Senhor rejeitou aqueles em quem confias: não obterás bom resultado com eles.
+
+'''
+
+xref:030-jeremias/030-jeremias-001.adoc#v30-1-0[&#60; Capítulo Anterior] | <<v30-2-0,Topo>> | xref:030-jeremias/030-jeremias-003.adoc#v30-3-0[Próximo Capítulo &#62;]

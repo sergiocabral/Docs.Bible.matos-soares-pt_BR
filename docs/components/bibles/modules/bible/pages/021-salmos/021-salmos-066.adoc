@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-66-0]]
+=== Salmos, 66
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmo 66 é um hino de ação de graças, onde o salmista louva a Deus por ter ouvido sua voz e atendido sua oração. Ele fala sobre a grandeza de Deus, sua soberania e seu poder, e destaca a importância de oferecer sacrifícios a Ele como forma de demonstrar gratidão. A seguir, estão cinco versículos relacionados com os temas abordados em Salmo 66:
+* Salmos 34:17-18: "Os justos clamam, o Senhor os ouve e os livra de todas as suas tribulações. O Senhor está perto dos que têm o coração quebrantado e salva os de espírito abatido." Este versículo destaca a importância da oração e da confiança em Deus para superar as tribulações da vida.
+* Salmos 135:5-6: "Pois eu sei que o Senhor é grande, e que o nosso Soberano está acima de todos os deuses. O Senhor faz tudo o que lhe agrada, nos céus e na terra, nos mares e em todas as suas profundezas." Este versículo enfatiza a grandeza e a soberania de Deus, temas também presentes em Salmo 66.
+* Salmos 50:14-15: "Ofereça a Deus um sacrifício de ações de graças e cumpra os seus votos para com o Altíssimo. E invoque-me no dia da angústia; eu o livrarei, e você me honrará." Este versículo destaca a importância de oferecer sacrifícios e honrar a Deus como forma de demonstrar gratidão e pedir ajuda em momentos difíceis.
+* Salmos 139:1-3: "Senhor, tu me sondas e me conheces. Sabes quando me sento e quando me levanto; de longe percebes os meus pensamentos. Sabes muito bem quando trabalho e quando descanso; todos os meus caminhos te são bem conhecidos." Este versículo enfatiza a onisciência de Deus, seu conhecimento e sua presença em todos os momentos da vida.
+* Salmos 89:11: "Teus são os céus, e tua é a terra; o mundo e tudo o que nele existe tu fundaste." Este versículo destaca a criação divina e a soberania de Deus sobre todo o universo, temas que também são abordados em Salmo 66.
+****
+
+[[v21-66-1]]
+
+^<<v21-66-1,1>>^ Ao mestre do coro. Para instrumentos de corda. Salmo. Cântico.
+
+[[v21-66-2]]
+
+^<<v21-66-2,2>>^ Deus tenha piedade de nós e nos abençoe; sereno nos mostre o seu rosto,
+
+[[v21-66-3]]
+
+^<<v21-66-3,3>>^ para que conheçam na terra o seu caminho, e entre todas as nações a sua salvação.
+
+[[v21-66-4]]
+
+^<<v21-66-4,4>>^ Glorifiquem-te, ó Deus, os povos; glorifiquem-te todos os povos.
+
+[[v21-66-5]]
+
+^<<v21-66-5,5>>^ Alegrem-se e exultem as nações, porquanto reges os povos com equidade, e governas as nações sobre a terra.
+
+[[v21-66-6]]
+
+^<<v21-66-6,6>>^ Glorifiquem-te, ó Deus, os povos; glorifiquem-te todos os povos.
+
+[[v21-66-7]]
+
+^<<v21-66-7,7>>^ A terra deu o seu fruto: abençoe-nos Deus, o nosso Deus.
+
+[[v21-66-8]]
+
+^<<v21-66-8,8>>^ Abençoe-nos Deus, e temam-no todos os confins da terra!
+
+'''
+
+xref:021-salmos/021-salmos-065.adoc#v21-65-0[&#60; Capítulo Anterior] | <<v21-66-0,Topo>> | xref:021-salmos/021-salmos-067.adoc#v21-67-0[Próximo Capítulo &#62;]

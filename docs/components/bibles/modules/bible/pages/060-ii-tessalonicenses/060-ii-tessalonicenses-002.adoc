@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v60-2-0]]
+=== II Tessalonicenses, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 2 de 2 Tessalonicenses, Paulo aborda a questão da volta de Cristo e o surgimento do homem do pecado, um líder enganador que se opõe a Deus e se coloca acima de tudo o que é considerado divino ou sagrado. Ele adverte os tessalonicenses a não se deixarem enganar por falsas doutrinas ou sinais e exorta-os a permanecerem firmes na verdade do evangelho. Seguem cinco versículos que se relacionam com os temas abordados em 2 Tessalonicenses 2:
+* Mateus 24:23-26: "Se, então, alguém lhes disser: 'Vejam, aqui está o Cristo!' ou: 'Ali está ele!', não acreditem. Pois surgirão falsos cristos e falsos profetas que realizarão grandes sinais e maravilhas para, se possível, enganar até os eleitos. Vejam que eu os avisei antecipadamente. Portanto, se alguém lhes disser: 'Ele está no deserto!', não saiam; ou: 'Ali está ele!', não acreditem." Esse versículo alerta sobre a existência de falsos cristos e profetas que realizam sinais e maravilhas para enganar as pessoas, um tema que também é abordado em 2 Tessalonicenses 2.
+* Mateus 24:42: "Portanto, vigiem, porque vocês não sabem em que dia virá o seu Senhor." Esse versículo enfatiza a necessidade de vigilância e preparação para a volta de Cristo, um tema que é abordado em 2 Tessalonicenses 2.
+* 2 Pedro 2:1: "No passado surgiram falsos profetas no meio do povo, como também surgirão entre vocês falsos mestres. Estes introduzirão secretamente heresias destruidoras, chegando a negar o Soberano que os resgatou, trazendo sobre si mesmos repentina destruição." Esse versículo alerta sobre a existência de falsos mestres que introduzem doutrinas destruidoras e negam a soberania de Deus, um tema que é abordado em 2 Tessalonicenses 2.
+* 1 João 4:1: "Amados, não creiam em qualquer espírito, mas examinem os espíritos para ver se eles procedem de Deus, porque muitos falsos profetas têm saído pelo mundo." Esse versículo exorta os cristãos a examinar cuidadosamente as doutrinas e os ensinamentos que ouvem, a fim de discernir se são de Deus ou de falsos profetas, um tema que também é abordado em 2 Tessalonicenses 2.
+* 1 Tessalonicenses 5:21: "Examinem tudo e fiquem com o que é bom." Esse versículo enfatiza a importância de examinar e avaliar as doutrinas e os ensinamentos à luz da verdade do evangelho, um tema que também é abordado em 2 Tessalonicenses 2.
+****
+
+[[v60-2-1]]
+
+^<<v60-2-1,1>>^ Rogamo-vos, irmãos, pela vinda de Nosso Senhor Jesus Cristo e pela nossa reunião com ele,
+
+[[v60-2-2]]
+
+^<<v60-2-2,2>>^ que não deixeis facilmente perturbar o vosso espírito nem alarmar por qualquer pretensa revelação, ou palavra, ou por qualquer carta atribuída a nós, como se o dia do Senhor estivesse perto.
+
+[[v60-2-3]]
+
+^<<v60-2-3,3>>^ Ninguém de modo algum vos engane, porque isto não se dará sem que antes venha a apostasia (quase geral dos fiéis), e sem que tenha aparecido o homem do pecado, o filho da perdição,
+
+[[v60-2-4]]
+
+^<<v60-2-4,4>>^ o qual se oporá (a Deus) e se elevará sobre tudo o que se chama Deus ou que é adorado, de sorte que se sentará no templo de Deus, apresentando-se como se fosse Deus.
+
+[[v60-2-5]]
+
+^<<v60-2-5,5>>^ Não vos lembrais que eu vos dizia estas coisas, quando ainda estava convosco ?
+
+[[v60-2-6]]
+
+^<<v60-2-6,6>>^ E vós agora sabeis o que é que o retém, até que chegue o tempo de se manifestar. (ver nota)
+
+[[v60-2-7]]
+
+^<<v60-2-7,7>>^ Com efeito, o mistério da iniquidade (posto que ainda não tenha aparecido o Anticristo) já se opera, somente falta que aquele, que agora o retém, desapareça.
+
+[[v60-2-8]]
+
+^<<v60-2-8,8>>^ E então se manifestará esse iníquo (a quem o Senhor Jesus destruirá com o sopro da sua boca e aniquilará com o resplendor da sua vinda).
+
+[[v60-2-9]]
+
+^<<v60-2-9,9>>^ A vinda deste iníquo será acompanhada, por obra de Satanás, de toda a espécie de milagres, sinais e prodígios mentirosos,
+
+[[v60-2-10]]
+
+^<<v60-2-10,10>>^ de todas as seduções da iniquidade para aqueles que se perdem, porque (por sua culpa) não abraçaram o amor da verdade, que os salvaria. (ver nota)
+
+[[v60-2-11]]
+
+^<<v60-2-11,11>>^ Por isso Deus lhes envia um poder de sedução, de tal modo que creiam na mentira,
+
+[[v60-2-12]]
+
+^<<v60-2-12,12>>^ para que sejam condenados todos os que não deram crédito à verdade, mas puserem a sua complacência no mal.
+
+[[v60-2-13]]
+
+^<<v60-2-13,13>>^ Mas nós devemos sempre dar graças a Deus por vós, ó irmãos queridos do Senhor, porque Deus vos escolheu como primícias para a salvação, pela santificação do Espírito e pela verdadeira fé,
+
+[[v60-2-14]]
+
+^<<v60-2-14,14>>^ à qual vos chamou por meio do nosso Evangelho, para vos fazer alcançar a glória de Nosso Senhor Jesus Cristo.
+
+[[v60-2-15]]
+
+^<<v60-2-15,15>>^ Permanecei, pois, constantes, irmãos, e conservai as tradições, que aprendestes, ou por nossas palavras ou por nossa carta.
+
+[[v60-2-16]]
+
+^<<v60-2-16,16>>^ E o mesmo Nosso Senhor Jesus Cristo, e Deus e Pai nosso, o qual nos amou e nos deu uma consolação eterna e uma boa esperança pela graça,
+
+[[v60-2-17]]
+
+^<<v60-2-17,17>>^ console os vossos corações e os confirme em toda a boa obra e palavra.
+
+'''
+
+xref:060-ii-tessalonicenses/060-ii-tessalonicenses-001.adoc#v60-1-0[&#60; Capítulo Anterior] | <<v60-2-0,Topo>> | xref:060-ii-tessalonicenses/060-ii-tessalonicenses-003.adoc#v60-3-0[Próximo Capítulo &#62;]

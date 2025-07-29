@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v1-49-0]]
+=== Gênesis, 49
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 49 é o capítulo em que Jacó abençoa seus filhos antes de morrer. Cada filho recebe uma bênção individual, com base em seu caráter e ações passadas. Os versículos escolhidos abaixo abordam temas como liderança, justiça, guerra e prosperidade:
+* Deuteronômio 33:5: "Assim Ele se tornou rei em Jesurum, quando as cabeças do povo se reuniram, todas as tribos de Israel juntas". Este versículo fala sobre a liderança de Deus sobre Israel e pode ser relacionado com a bênção que Jacó dá a Judá em Gênesis 49:10, quando ele diz que o cetro não se afastará de Judá, e que de seus descendentes virá o líder.
+* Provérbios 29:14: "Um rei que julga os pobres com equidade terá o seu trono estabelecido para sempre". Este versículo fala sobre justiça na liderança e pode ser relacionado à bênção que Jacó dá a Rúben em Gênesis 49:4, quando ele diz que Rúben é instável como a água e não terá posição de liderança.
+* Salmos 144:1: "Bendito seja o Senhor, minha rocha, que treina minhas mãos para a guerra e meus dedos para a batalha". Este versículo fala sobre a preparação para a guerra e pode ser relacionado à bênção que Jacó dá a Gade em Gênesis 49:19, quando ele diz que Gade será atacado, mas resistirá como uma tropa de combate.
+* Deuteronômio 33:13-16: "Benjamim é o amado do Senhor; ele vive em segurança ao seu lado. O Senhor o guarda o tempo todo, e o protege como o homem protege seu próprio filho. Naquela época, Jacó abençoou a tribo de José. Ele disse: ‘Que o Senhor abençoe a terra com a melhor chuva do céu, com a umidade que vem das profundezas da terra, com os melhores frutos do sol, com as colheitas mais saborosas". Esses versículos falam sobre a prosperidade e podem ser relacionados à bênção que Jacó dá a José em Gênesis 49:22-26, quando ele fala sobre como José é uma videira frutífera que cresce abundantemente.
+* Salmos 60:4: "Mas para aqueles que temem a ti, puseste uma bandeira para serem salvos de todos os arcos". Este versículo fala sobre salvação em tempos difíceis e pode ser relacionado à bênção que Jacó dá a Dã em Gênesis 49:16-18, quando ele fala sobre como Dã julgará seu povo e será uma serpente à beira do caminho que morde o cavalo.
+****
+
+[[v1-49-1]]
+
+^<<v1-49-1,1>>^ Jacob chamou seus filhos, e disse-lhes: Juntai-vos, para que vos anuncie o que vos acontecerá nos dias futuros.
+
+[[v1-49-2]]
+
+^<<v1-49-2,2>>^ Juntai-vos e ouvi, filhos de Jacob, ouvi Israel, vosso pai:
+
+[[v1-49-3]]
+
+^<<v1-49-3,3>>^ Ruben, meu primogênito, tu, a minha fortaleza e o primeiro fruto do meu vigor, o primeiro na dignidade, o maior no império,
+
+[[v1-49-4]]
+
+^<<v1-49-4,4>>^ derramaste-te como a água. Não terás a preeminência, porque subiste ao leito do teu pai, e profanaste o seu tálamo.
+
+[[v1-49-5]]
+
+^<<v1-49-5,5>>^ Simeão e Levi (são) irmãos. (As suas espadas são) instrumentos mortíferos de iniquidade.
+
+[[v1-49-6]]
+
+^<<v1-49-6,6>>^ Que a minha alma não tenha parte nos seus conselhos. e que a minha alma não se una aos seus conluios, porque, no seu furor, mataram homens, e na sua vontade (criminosa) cortaram os jarretes dos touros. (ver nota)
+
+[[v1-49-7]]
+
+^<<v1-49-7,7>>^ Maldita a sua cólera porque (foi) violenta, e o seu furor, porque (foi) cruel. Eu os dividirei em Jacob, e os espalharei em Israel.
+
+[[v1-49-8]]
+
+^<<v1-49-8,8>>^ Judá, teus irmãos te louvarão: a tua mão estará sobre as cervizes de teus inimigos: os filhos de teu pai se prostrarão diante de ti.
+
+[[v1-49-9]]
+
+^<<v1-49-9,9>>^ Judá é um cachorro de leão. Correste, meu filho, para a presa, deitaste-te para descansar como o leão, e como a leoa, quem o despertará? (ver nota)
+
+[[v1-49-10]]
+
+^<<v1-49-10,10>>^ O cetro não será tirado de Judá, nem o bastão soberano de entre os seus pés, até que venha aquele de quem é o mando, e a quem os povos devem obediência. (ver nota)
+
+[[v1-49-11]]
+
+^<<v1-49-11,11>>^ Ele atará à vinha o seu jumentinho, e à videira, ó meu filho, a suá jumenta, Lavará a sua túnica no vinho, e a sua capa no sangue da uva. (ver nota)
+
+[[v1-49-12]]
+
+^<<v1-49-12,12>>^ Os seus olhos são mais escuros que o vinho, e os seus dentes mais brancos do que o leite. (ver nota)
+
+[[v1-49-13]]
+
+^<<v1-49-13,13>>^ Zabulon habitará na praia do mar, e no ancoradouro dos navios, estendendo-se até Sidónia. (ver nota)
+
+[[v1-49-14]]
+
+^<<v1-49-14,14>>^ Issacar é (como) jumento robusto que está deitado dentro do seu estábulo. (ver nota)
+
+[[v1-49-15]]
+
+^<<v1-49-15,15>>^ Viu que o repouso era bom, e que a (sua) terra era ótima; curvou os seus ombros para levar pesos, e sujeitou-se aos tributos, (ver nota)
+
+[[v1-49-16]]
+
+^<<v1-49-16,16>>^ Dan julgará o seu povo, como qualquer outra tribo de Israel.
+
+[[v1-49-17]]
+
+^<<v1-49-17,17>>^ Dan é como uma serpente no caminho, uma víbora no atalho, que morde as unhas do cavalo, para que o cavaleiro caia para trás. (ver nota)
+
+[[v1-49-18]]
+
+^<<v1-49-18,18>>^ A tua salvação esperarei, ó Senhor. (ver nota)
+
+[[v1-49-19]]
+
+^<<v1-49-19,19>>^ Gad: salteadores o assaltam, e ele fere-os nos calcanhares.
+
+[[v1-49-20]]
+
+^<<v1-49-20,20>>^ Aser: Suculento é o seu pão, e ministrará delicias aos reis.
+
+[[v1-49-21]]
+
+^<<v1-49-21,21>>^ Neftali é uma corsa veloz, pronuncia palavras graciosas. (ver nota)
+
+[[v1-49-22]]
+
+^<<v1-49-22,22>>^ José é o rebento duma árvore fértil, o rebento duma árvore fértil junto duma fonte, cujos ramos passam por cima do muro.
+
+[[v1-49-23]]
+
+^<<v1-49-23,23>>^ Os arqueiros provocam-no, lançam-lhe flechas, os arqueiros o atacam,
+
+[[v1-49-24]]
+
+^<<v1-49-24,24>>^ O seu arco apoiou-se no forte; os seus braços e as mãos permanecem ágeis, pela mão do Poderoso de Jacob, por aquele que é o Pastor e a Rocha de Israel.
+
+[[v1-49-25]]
+
+^<<v1-49-25,25>>^ O Deus de teu pai será o teu auxilio, e o Omnipotente te abençoará com as bênçãos do alto céu, com as bênçãos do abismo, que jaz em baixo, com as bênçãos dos seios maternos e dos úteros. (ver nota)
+
+[[v1-49-26]]
+
+^<<v1-49-26,26>>^ As bênçãos de teu pai, que excedem as que ele recebeu de seus pais, e as delícias das colinas eternas. Derramem-se sobre a cabeça de José, sobre a cabeça daquele que é Príncipe dos seus irmãos.
+
+[[v1-49-27]]
+
+^<<v1-49-27,27>>^ Benjamim, lobo arrebatador. Pela manhã devorará a presa, e, à tarde, repartirá os despojos. (ver nota)
+
+[[v1-49-28]]
+
+^<<v1-49-28,28>>^ Todos estes são os chefes das doze tribos de Israel. Foi assim que lhes falou seu pai, foi assim que abençoou cada um deles, com bênçãos próprias,
+
+[[v1-49-29]]
+
+^<<v1-49-29,29>>^ Depois ordenou-lhes: Vou unir-me ao meu povo; sepultai-me com meus pais na caverna que está no campo de Efrom, o Heteu,
+
+[[v1-49-30]]
+
+^<<v1-49-30,30>>^ em frente de Mambré na terra de Canaan, e que Abraão comprou a Efrom, o Heteu, com o campo (onde ela está) para ter um sepulcro.
+
+[[v1-49-31]]
+
+^<<v1-49-31,31>>^ Ali sepultaram Abraão e Sara, sua mulher: ali foi sepultado Isaac com sua mulher Rebeca; ali jaz também sepultada Lia.
+
+[[v1-49-32]]
+
+^<<v1-49-32,32>>^ Tendo (Jacob) acabado de dar estas ordens a seus filhos, recolheu os seus pés para o leito, e morreu, e foi reunido ao seu povo (no Limbo). (ver nota)
+
+'''
+
+xref:001-genesis/001-genesis-048.adoc#v1-48-0[&#60; Capítulo Anterior] | <<v1-49-0,Topo>> | xref:001-genesis/001-genesis-050.adoc#v1-50-0[Próximo Capítulo &#62;]

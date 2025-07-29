@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v20-30-0]]
+=== Jó, 30
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 30 é um capítulo em que Jó descreve sua angústia e sofrimento após perder tudo o que possuía. Ele compara sua situação atual com sua vida anterior, quando era respeitado e bem-sucedido. Para fornecer cinco versículos relacionados com os temas abordados em Jó 30, os versículos de Jó 30 serão excluídos dos resultados.
+* Salmos 34:17-18: "Os justos clamam, o Senhor os ouve e os livra de todas as suas tribulações. O Senhor está perto dos que têm o coração quebrantado e salva os de espírito abatido." Este versículo dos Salmos destaca a proximidade de Deus com aqueles que estão sofrendo e sua disposição para salvá-los.
+* Salmos 42:11: "Por que você está assim tão triste, ó minha alma? Por que está assim tão perturbada dentro de mim? Ponha a sua esperança em Deus! Pois ainda o louvarei; ele é o meu Salvador e o meu Deus." Este versículo dos Salmos enfatiza a importância de colocar a esperança em Deus em meio ao sofrimento e desânimo.
+* 2 Coríntios 4:8-9: "De todos os lados somos pressionados, mas não desanimados; ficamos perplexos, mas não desesperados; somos perseguidos, mas não abandonados; abatidos, mas não destruídos." Este versículo de 2 Coríntios destaca a capacidade de perseverar em meio a dificuldades e desafios.
+* 1 Pedro 5:10: "E o Deus de toda a graça, que os chamou para a sua glória eterna em Cristo Jesus, depois de terem sofrido durante pouco de tempo, os restaurará, os confirmará, lhes dará forças e os porá sobre firmes alicerces." Este versículo de 1 Pedro promete que Deus restaurará e fortalecerá aqueles que sofrem por um curto período de tempo.
+* Romanos 8:18: "Considero que os nossos sofrimentos atuais não podem ser comparados com a glória que em nós será revelada." Este versículo de Romanos destaca a perspectiva eterna e a esperança de que os sofrimentos atuais são temporários em comparação com a glória futura.
+****
+
+[[v20-30-1]]
+
+^<<v20-30-1,1>>^ Porém, agora zombam de mim os mais novos que eu, cujos pais noutro tempo não dignaria eu pôr com os cães do meu rebanho!
+
+[[v20-30-2]]
+
+^<<v20-30-2,2>>^ De que me serviria a força dos seus braços? Não têm vigor algum.
+
+[[v20-30-3]]
+
+^<<v20-30-3,3>>^ Mirrados pela pobreza e pela fome, roem o deserto, terra, de há muito, árida e desolada;
+
+[[v20-30-4]]
+
+^<<v20-30-4,4>>^ apanham ervas e cascas de árvores, alimentam-se de raízes de giesta.
+
+[[v20-30-5]]
+
+^<<v20-30-5,5>>^ Escorraçados do meio da sociedade, perseguidos com gritos como ladrões,
+
+[[v20-30-6]]
+
+^<<v20-30-6,6>>^ habitam em horríveis desfiladeiros, nas cavernas da terra, ou nos penhascos,
+
+[[v20-30-7]]
+
+^<<v20-30-7,7>>^ rugindo entre os silvados e reunindo-se debaixo dos espinheiros.
+
+[[v20-30-8]]
+
+^<<v20-30-8,8>>^ Filhos de ignóbeis e desprezíveis, são mais pisados que a terra.
+
+[[v20-30-9]]
+
+^<<v20-30-9,9>>^ Agora cheguei a ser o assunto das cantigas, o objecto dos escárnios destes tais.
+
+[[v20-30-10]]
+
+^<<v20-30-10,10>>^ Eles abominam-me, fogem para longe de mim, e não receiam cuspir-me no rosto.
+
+[[v20-30-11]]
+
+^<<v20-30-11,11>>^ Perdido todo o, respeito, me insultam, não se refreiam na minha presença.
+
+[[v20-30-12]]
+
+^<<v20-30-12,12>>^ A meu lado se levanta a gentalha, e procura caminhos para me perder.
+
+[[v20-30-13]]
+
+^<<v20-30-13,13>>^ Destroem as minhas veredas, preparam a minha ruína, e ninguém os contém.
+
+[[v20-30-14]]
+
+^<<v20-30-14,14>>^ Como por uma larga brecha, irrompem sobre mim, surgem do meio das ruínas.
+
+[[v20-30-15]]
+
+^<<v20-30-15,15>>^ Assaltam-me terrores, a minha prosperidade passou como vento, a minha felicidade passou como nuvem.
+
+[[v20-30-16]]
+
+^<<v20-30-16,16>>^ E agora dentro de mim mesmo se murcha a minha alma, e os dias de aflição apoderam-se de mim.
+
+[[v20-30-17]]
+
+^<<v20-30-17,17>>^ De noite os meus ossos são traspassados de dores, os (males) que me devoram, não dormem.
+
+[[v20-30-18]]
+
+^<<v20-30-18,18>>^ Pela sua violência, a minha veste é deformada; aperta-me como a gola da minha túnica.
+
+[[v20-30-19]]
+
+^<<v20-30-19,19>>^ Atirou-me ao lodo, e sou semelhante ao pó e à cinza.
+
+[[v20-30-20]]
+
+^<<v20-30-20,20>>^ Clamo a ti, e não me ouves, ponho-me diante de ti, e não olhas para mim.
+
+[[v20-30-21]]
+
+^<<v20-30-21,21>>^ Trocaste-te em severo para comigo, e cora a dureza da tua mão me combates.
+
+[[v20-30-22]]
+
+^<<v20-30-22,22>>^ Elevas-me, e, pondo-me sobre o vento, fazes-me debater no meio da tormenta.
+
+[[v20-30-23]]
+
+^<<v20-30-23,23>>^ Sei que me entregarás à morte, onde há casa estabelecida para todo o vivente.
+
+[[v20-30-24]]
+
+^<<v20-30-24,24>>^ Porventura o que vai perecer não estende as mãos, e, na sua infelicidade, não lança um grito?
+
+[[v20-30-25]]
+
+^<<v20-30-25,25>>^ Eu chorava outrora com aquele que estava aflito, e a minha alma compadecia-se do pobre.
+
+[[v20-30-26]]
+
+^<<v20-30-26,26>>^ Esperava bens, e vieram-me males; esperava a luz, e saíram-me trevas.
+
+[[v20-30-27]]
+
+^<<v20-30-27,27>>^ As minhas entranhas estão-se abrasando sem descanso algum; os dias da aflição surpreenderam-me.
+
+[[v20-30-28]]
+
+^<<v20-30-28,28>>^ Caminho triste, sem conforto, ponho-me a gritar no meio da multidão.
+
+[[v20-30-29]]
+
+^<<v20-30-29,29>>^ Sou _(como)_ irmão dos chacais e companheiro dos avestruzes.
+
+[[v20-30-30]]
+
+^<<v20-30-30,30>>^ A minha pele está denegrida e vai caindo, e os meus ossos secaram-se pelo ardor.
+
+[[v20-30-31]]
+
+^<<v20-30-31,31>>^ A minha citara trocou-se em pranto, e a minha lira em lamentos.
+
+'''
+
+xref:020-jo/020-jo-029.adoc#v20-29-0[&#60; Capítulo Anterior] | <<v20-30-0,Topo>> | xref:020-jo/020-jo-031.adoc#v20-31-0[Próximo Capítulo &#62;]

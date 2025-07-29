@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v24-24-0]]
+=== Provérbios, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 24 apresenta uma série de conselhos sobre a sabedoria, a justiça e a prudência, bem como alertas sobre a malícia e a inveja dos ímpios. Também são abordados temas como a preguiça, a responsabilidade e a retribuição. A seguir estão cinco versículos relacionados com esses temas:
+* Salmos 119:105: "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho." Este versículo destaca a importância da sabedoria e da orientação divina para a vida de uma pessoa, que é um dos principais temas de Provérbios 24.
+* Provérbios 24:30-34: "Passei pelo campo do preguiçoso, e junto à vinha do homem carente de entendimento; e eis que estava toda cheia de cardos, e a sua superfície coberta de urtigas, e o seu muro de pedras estava derrubado. O que tendo eu visto, o tomei a mim mesmo por lição; vi e recebi instrução: um pouco de sono, um pouco de toscanejar, um pouco de cruzar os braços para dormir; e virá sobre ti a tua pobreza como um ladrão, e a tua necessidade, como um homem armado." Este trecho faz uma advertência sobre os perigos da preguiça e da negligência, e destaca a importância do trabalho e da diligência para alcançar a prosperidade.
+* Provérbios 24:12: "Se disseres: Eis que não o sabemos; porventura aquele que pondera os corações não o considera? Não o sabe aquele que atenta para a tua alma? Não dará ele ao homem conforme as suas obras?" Este versículo alerta sobre a responsabilidade pessoal e a retribuição das ações de uma pessoa, que são temas recorrentes em Provérbios 24.
+* Provérbios 24:17-18: "Não te alegres quando cair o teu inimigo, nem se regozije o teu coração quando ele tropeçar, para que o Senhor não o veja, e isso seja mau aos seus olhos, e desvie dele a sua ira." Este versículo ensina sobre a importância da justiça e da misericórdia, em oposição à malícia e à inveja, que são abordadas em Provérbios 24.
+* Provérbios 24:27: "Prepara-te fora para o trabalho, e aparelha-te no campo; depois edifica a tua casa." Este versículo destaca a importância do planejamento e da preparação para alcançar os objetivos na vida, e faz uma conexão entre o trabalho, a responsabilidade e a prosperidade.
+****
+
+[[v24-24-1]]
+
+^<<v24-24-1,1>>^ Não tenhas inveja aos homens maus, nem desejes estar com eles;
+
+[[v24-24-2]]
+
+^<<v24-24-2,2>>^ porque o seu espírito medita ruínas, e os seus lábios proferem enganos.
+
+[[v24-24-3]]
+
+^<<v24-24-3,3>>^ É com a sabedoria que a casa será edificada, e consolidar-se-á com prudência.
+
+[[v24-24-4]]
+
+^<<v24-24-4,4>>^ Pela ciência encher-se-ão as despensas de tudo o que há de precioso e belo.
+
+[[v24-24-5]]
+
+^<<v24-24-5,5>>^ O homem sábio é forte, e o douto, robusto e valente,
+
+[[v24-24-6]]
+
+^<<v24-24-6,6>>^ porque é pela prudência que se empreende a guerra, e a salvação está onde houver muitos (e sábios) conselhos.
+
+[[v24-24-7]]
+
+^<<v24-24-7,7>>^ Para o insensato é demasiado sublime a sabedoria; ele não abrirá a boca à porta.
+
+[[v24-24-8]]
+
+^<<v24-24-8,8>>^ Aquele que pensa em fazer males, será chamado artífice de intrigas.
+
+[[v24-24-9]]
+
+^<<v24-24-9,9>>^ O pensamento do insensato é o pecado: e o detractor é a abominação dos homens.
+
+[[v24-24-10]]
+
+^<<v24-24-10,10>>^ Se, descoroçoado, perderes a esperança, no tempo da adversidade, descairá a tua fortaleza.
+
+[[v24-24-11]]
+
+^<<v24-24-11,11>>^ Procura salvar os que são condenados à morte, e não cesses de livrar os que são arrastados ao suplício.
+
+[[v24-24-12]]
+
+^<<v24-24-12,12>>^ Se disseres: Eu não o sabia, (lembra-te que) aquele que pesa os corações, o conhece (bem); ao guardador da tua alma nada se esconde, e ele retribuirá ao homem segundo as suas obras.
+
+[[v24-24-13]]
+
+^<<v24-24-13,13>>^ Come, meu filho, do mel, porque é bom; o favo é dulcíssimo ao teu paladar.
+
+[[v24-24-14]]
+
+^<<v24-24-14,14>>^ Tal é para a tua alma a sabedoria; se a achares, terás um (bom) futuro, e a tua esperança não perecerá.
+
+[[v24-24-15]]
+
+^<<v24-24-15,15>>^ Não armes, ó ímpio, emboscadas à casa do justo, não destruas o lugar do seu repouso.
+
+[[v24-24-16]]
+
+^<<v24-24-16,16>>^ Porque o justo ainda que caia sete vezes, tornar-se-á a levantar; porém os ímpios serão precipitados no mal.
+
+[[v24-24-17]]
+
+^<<v24-24-17,17>>^ Não te alegres quando cair o teu inimigo, nem o teu coração se regozije com a sua ruína,
+
+[[v24-24-18]]
+
+^<<v24-24-18,18>>^ para não suceder que o Senhor o veja, e que isto lhe desagrade, e que tire de cima dele a sua ira,
+
+[[v24-24-19]]
+
+^<<v24-24-19,19>>^ Não te alteres por causa dos homens péssimos, nem invejes os ímpios,
+
+[[v24-24-20]]
+
+^<<v24-24-20,20>>^ parque para os maus não há futuro, e a lâmpada (ou esplendor) dos ímpios apagar-se-á.
+
+[[v24-24-21]]
+
+^<<v24-24-21,21>>^ Teme, meu filho, o Senhor e o rei, e não te mistures com os detractores,
+
+[[v24-24-22]]
+
+^<<v24-24-22,22>>^ porque de repente deles vem a ruína, e a destruição deles proveniente é súbita.
+
+[[v24-24-23]]
+
+^<<v24-24-23,23>>^ Também estas são palavras dos sábios; Não é bom fazer acepção de pessoas nos jurgamentos.
+
+[[v24-24-24]]
+
+^<<v24-24-24,24>>^ Aqueles que dizem ao ímpio: "Tu és justo" serão amaldiçoados pelos povos e detestados pelas nações.
+
+[[v24-24-25]]
+
+^<<v24-24-25,25>>^ Aqueles que o repreendem, serão louvados, e virá sobre eles copiosa bênção.
+
+[[v24-24-26]]
+
+^<<v24-24-26,26>>^ Dá um beijo nos lábios aquele que dá uma resposta recta. (ver nota)
+
+[[v24-24-27]]
+
+^<<v24-24-27,27>>^ Prepara os teus trabalhos de fora, trata cuidadosamente do teu campo, e depois edificarás a tua casa. (ver nota)
+
+[[v24-24-28]]
+
+^<<v24-24-28,28>>^ Não sejas testemunha, de ânimo leve, contra o teu próximo. Queres, acaso, que teus lábios enganem?
+
+[[v24-24-29]]
+
+^<<v24-24-29,29>>^ Não digas: como ele me fez a mim, assim farei eu a ele; pagar-lhe-ei segundo as suas obras.
+
+[[v24-24-30]]
+
+^<<v24-24-30,30>>^ Passei pelo campo do homem preguiçoso e pela vinha do homem Insensato,
+
+[[v24-24-31]]
+
+^<<v24-24-31,31>>^ e vi que tudo estava cheio de ortigas, que os espinhos cobriam a sua superfície e que o muro de pedra estava caído.
+
+[[v24-24-32]]
+
+^<<v24-24-32,32>>^ Ao ver isto, reflecti; este espectáculo foi para mim uma lição.
+
+[[v24-24-33]]
+
+^<<v24-24-33,33>>^ Um pouco, disse eu comigo, dormirás, outro breve espaço dormitarás, outro poucochinho cruzarás as mãos para descansares,
+
+[[v24-24-34]]
+
+^<<v24-24-34,34>>^ e a indigência virá sobre ti como um vagabundo, e a mendicidade como um homem armado.
+
+'''
+
+xref:024-proverbios/024-proverbios-023.adoc#v24-23-0[&#60; Capítulo Anterior] | <<v24-24-0,Topo>> | xref:024-proverbios/024-proverbios-025.adoc#v24-25-0[Próximo Capítulo &#62;]

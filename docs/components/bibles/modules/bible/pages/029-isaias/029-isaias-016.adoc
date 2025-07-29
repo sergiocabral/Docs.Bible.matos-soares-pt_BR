@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v29-16-0]]
+=== Isaías, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 16 de Isaías é uma profecia sobre a destruição de Moabe e a promessa de que, um dia, Deus irá restaurar a glória do povo de Moabe. Os versículos selecionados são os seguintes:
+* Jeremias 48:47: "Contudo, restaurarei a sorte de Moabe nos últimos dias, declara o SENHOR". Este versículo é uma promessa de restauração para Moabe, que é mencionada em Isaías 16.
+* Amós 2:1: "Assim diz o SENHOR: Por três transgressões de Moabe, e por quatro, não retirarei o castigo, porque queimou os ossos do rei de Edom até cal." Este versículo fala sobre o pecado de Moabe e sua punição, o que é relevante para o julgamento de Moabe descrito em Isaías 16.
+* Jeremias 48:36: "Por isso o meu coração geme por causa de Moabe como flautistas, e o meu coração geme como flautas por causa dos homens de Quir-Heres; porque toda a sua riqueza se desvaneceu." Este versículo descreve a lamentação do profeta Jeremias por Moabe, que perdeu sua riqueza e está sofrendo, um tema que também é mencionado em Isaías 16.
+* Ezequiel 25:8-9: "Assim diz o Senhor DEUS: Porquanto Moabe e Seir dizem: Eis que a casa de Judá é como todas as nações, por isso eis que eu abrirei o lado de Moabe desde as cidades, desde as suas cidades fronteiriças, a glória da terra de Bet-Jesimote, Baoal-Meom e Quiriataim." Estes versículos falam sobre a atitude de Moabe em relação a Judá e a punição que eles receberão por causa disso. Essa punição é semelhante à que é descrita em Isaías 16.
+* Jeremias 48:28: "Deixai as cidades, e habitai nas rochas, ó habitantes de Moabe, e sede como a pomba que se aninha no fundo da boca da caverna." Este versículo descreve o desespero dos habitantes de Moabe em meio à destruição de suas cidades, um tema que também é mencionado em Isaías 16.
+****
+
+[[v29-16-1]]
+
+^<<v29-16-1,1>>^ Enviai cordeiros ao soberano do país, de Sela, através do deserto, até à montanha da filha de Sião.
+
+[[v29-16-2]]
+
+^<<v29-16-2,2>>^ Como aves espantadas, como passarinhos que voam do seu ninho, assim serão as filhas de Moab nas passagens do Arnon.
+
+[[v29-16-3]]
+
+^<<v29-16-3,3>>^ Aconselha-nos, decide como árbitro, põe, como de noite, a tua sombra em pleno dia sobre nós; esconde os fugitivos, não entregues os que andam errantes.
+
+[[v29-16-4]]
+
+^<<v29-16-4,4>>^ Habitam junto de ti os fugitivos de Moab; sê para eles um refúgio contra o devastador, até desaparecer a opressão até terminar a devastação, até se retirar o invasor.
+
+[[v29-16-5]]
+
+^<<v29-16-5,5>>^ Será estabelecido o trono pela misericórdia e sobre ele se sentará em verdade, no tabernáculo de Davide, um juiz amigo do direito e zeloso da justiça.
+
+[[v29-16-6]]
+
+^<<v29-16-6,6>>^ Temos ouvido falar da soberba do Moab, que é soberbo em extremo; conhecemos a sua soberba, a sua arrogância, a sua insolência, a sua língua enganadora. (ver nota)
+
+[[v29-16-7]]
+
+^<<v29-16-7,7>>^ Por isso Moab lamenta a Moab; haja lamentação universal. Suspiram, consternados, pelas tortas de uvas Quir-Hareseth.
+
+[[v29-16-8]]
+
+^<<v29-16-8,8>>^ Porque os campos de Hesebon estão desertos, os príncipes das nações talaram a vinha (ou região) de Sabama, cujas varas chegavam até Jazer, e iam até perder-se pelo deserto, cujos rebentos se estendiam ao longe, passavam à outra banda do mar.
+
+[[v29-16-9]]
+
+^<<v29-16-9,9>>^ Por esta causa chorarei com o pranto de Jazer a vinha de Sabama, banhar-vos-ei com as minhas lágrimas Hesebon e Eleale, porque se ouviu, sobre as tuas vinhas e sobre as messes, o grito do lagareiro (e do debulhador).
+
+[[v29-16-10]]
+
+^<<v29-16-10,10>>^ A alegria e o regozijo desaparaceram dos campos, e nas vinhas ninguém exulta, nem mostra júbilo. Não mais pisarão vinho no lagar os que tinham costume de o pisar; fiz calar a voz dos pisadores.
+
+[[v29-16-11]]
+
+^<<v29-16-11,11>>^ Por isso estremeço por Moab, como uma harpa, e o meu coração geme por Kir-Hares.
+
+[[v29-16-12]]
+
+^<<v29-16-12,12>>^ Acontecerá que Moab, depois de se ter cansado de recorrer aos seus lugares altos, entrará nos seus santuários para orar, mas nada alcançará. (ver nota)
+
+[[v29-16-13]]
+
+^<<v29-16-13,13>>^ Esta é a palavra que o Senhor pronunciou sobre Moab, há muito tempo.
+
+[[v29-16-14]]
+
+^<<v29-16-14,14>>^ Agora, eis que o Senhor diz: Em três anos, (contados) como os anos dum mercenário, será tirada a glória de Moab, com todo o seu numeroso povo, e o que ficar será pequeno e diminuído, quase nada.
+
+'''
+
+xref:029-isaias/029-isaias-015.adoc#v29-15-0[&#60; Capítulo Anterior] | <<v29-16-0,Topo>> | xref:029-isaias/029-isaias-017.adoc#v29-17-0[Próximo Capítulo &#62;]

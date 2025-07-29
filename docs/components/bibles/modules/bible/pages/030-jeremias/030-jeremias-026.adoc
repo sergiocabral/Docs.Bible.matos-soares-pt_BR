@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v30-26-0]]
+=== Jeremias, 26
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 26 de Jeremias trata da profecia do profeta sobre a destruição do templo e de Jerusalém, e como os líderes religiosos e políticos reagiram a essa mensagem. Eles o acusaram de blasfêmia e o ameaçaram de morte, mas Jeremias manteve sua posição. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* 2 Reis 19:2 - "E mandou Eliakim, que estava sobre a casa, e Sebna, o escrivão, e os anciãos dos sacerdotes, vestidos de sacos, a Isaías, filho de Amoz, o profeta". Esse verso menciona o profeta Isaías, que também profetizou sobre a destruição de Jerusalém, e como os líderes procuraram sua orientação.
+* Ezequiel 33:30-33 - "Assim, pois, tu, ó filho do homem, fala aos filhos do teu povo e dize-lhes: Quando eu fizer vir a espada sobre a terra, e o povo da terra tomar um homem dos seus termos, e o constituir por seu atalaia; e este vir a ver a espada vir sobre a terra, e tocar a trombeta e avisar o povo; se aquele que ouvir o som da trombeta não se der por avisado, e vier a espada e o tomar, o seu sangue será sobre a sua cabeça". Esse verso fala sobre a responsabilidade dos líderes em advertir o povo sobre a destruição iminente e suas consequências.
+* Lamentações 2:6 - "E desfolhou o seu tabernáculo, como um jardim; destruiu o lugar da sua congregação; o SENHOR fez esquecer em Sião as festas solenes e o sábado, e na indignação da sua ira rejeitou ao rei e ao sacerdote". Esse verso descreve a destruição do templo e a rejeição dos líderes religiosos por Deus.
+* Amós 7:12-13 - "E disse Amós a Amazias: Eu não sou profeta, nem filho de profeta, mas boiadeiro, e cultivador de sicômoros; mas o SENHOR me tirou de seguir o rebanho, e o SENHOR me disse: Vai, e profetiza ao meu povo de Israel". Esse verso fala sobre a chamada do profeta Amós e como Deus pode escolher qualquer pessoa para ser seu mensageiro, independentemente de sua origem ou profissão.
+* Atos 5:27-29 - "E, trazendo-os, os apresentaram ao conselho. E o sumo sacerdote os interrogou, dizendo: Não vos mandamos expressamente que não ensinásseis nesse nome? E eis que enchestes Jerusalém dessa vossa doutrina, e quereis lançar sobre nós o sangue desse homem". Esse verso mostra como os líderes religiosos do Novo Testamento também perseguiam aqueles que pregavam a mensagem de Deus, assim como os líderes de Jerusalém no tempo de Jeremias.
+****
+
+[[v30-26-1]]
+
+^<<v30-26-1,1>>^ No príncipio do reinado de Joaquim, filho de Josias, rei de Judá, falou-me o Senhor nos termos seguintes:
+
+[[v30-26-2]]
+
+^<<v30-26-2,2>>^ Isto diz o Senhor: Põe-te no átrio da casa do Senhor, e falarás às gentes de todas as cidades de Judá. que vêm adorar na casa do Senhor, anunciar-lhes-ás todas as palavras que te tenho mandado anunciar, sem nada omitir,
+
+[[v30-26-3]]
+
+^<<v30-26-3,3>>^ para ver se acaso eles te ouvem e se convertem cada um do seu mau caminho; então me arrependerei (ou desistirei) do mal que tenho tenção de lhes fazer, por causa da malícia das suas ações.
+
+[[v30-26-4]]
+
+^<<v30-26-4,4>>^ Dir-lhes-ás: Assim fala o Senhor: Se me não ouvirdes, se não andardes segundo a lei que vos dei,
+
+[[v30-26-5]]
+
+^<<v30-26-5,5>>^ ouvindo as palavras dos meus servos, os profetas, que eu com tanta solicitude vos enviei, e a quem (de facto) não tendes ouvido.
+
+[[v30-26-6]]
+
+^<<v30-26-6,6>>^ farei a esta casa o que fiz a Silo e farei que esta cidade seja objecto da maldição de todas as nações da terra.
+
+[[v30-26-7]]
+
+^<<v30-26-7,7>>^ Os sacerdotes, os profetas e todo o povo ouviram Jeremias proferindo estas palavras na casa do Senhor.
+
+[[v30-26-8]]
+
+^<<v30-26-8,8>>^ Tendo Jeremias acabado de dizer tudo o que o Senhor lhe tinha ordenado que dissesse a todo o povo, os sacerdotes, os (falsos) profetas e todo o povo pegaram nele, dizendo: À morte!
+
+[[v30-26-9]]
+
+^<<v30-26-9,9>>^ Por que profetizas em nome do Senhor dizendo: Esta casa será tratada como Silo, e esta cidade será destruída, sem que fique ninguém que a habite? E todo o povo se juntou contra Jeremias na casa do Senhor.
+
+[[v30-26-10]]
+
+^<<v30-26-10,10>>^ Os príncipes de Judá, ao terem conhecimento destas palavras, subiram da casa do rei à casa do Senhor e sentaram-se à entrada da porta nova da casa do Senhor.
+
+[[v30-26-11]]
+
+^<<v30-26-11,11>>^ Então falaram os sacerdotes e os profetas aos príncipes e a todo o povo: Este homem é réu de morte, porque profetizou contra esta cidade, como vós ouvistes com os vossos ouvidos.
+
+[[v30-26-12]]
+
+^<<v30-26-12,12>>^ Jeremias falou a todos os príncipes e a todo o povo dizendo: Foi o Senhor que me enviou a profetizar contra esta casa e contra esta cidade todas as palavras que me ouvistes.
+
+[[v30-26-13]]
+
+^<<v30-26-13,13>>^ Agora, pois, emendai os vossos caminhos e as vossas obras, ouvi a palavra do Senhor vosso Deus, e o Senhor se arrependerá (ou desistirá) do mal que resolveu fazer contra vós.
+
+[[v30-26-14]]
+
+^<<v30-26-14,14>>^ Quanto a mim, eis que estou nas vossas mãos; fazei de mim o que tiverdes por bom e recto aos vossos olhos;
+
+[[v30-26-15]]
+
+^<<v30-26-15,15>>^ porém, sabei que, se me matardes, derramareis um sangue inocente sobre vós mesmos, sobre esta cidade e seus moradores, porque na verdade o Senhor me enviou a vós, para que dissesse aos vossos ouvidos todas estas palavras.
+
+[[v30-26-16]]
+
+^<<v30-26-16,16>>^ Então disseram os príncipes e todo o povo aos sacerdotes e aos profetas: Este homem não merece a morte, porque nos falou em nome do Senhor nosso Deus.
+
+[[v30-26-17]]
+
+^<<v30-26-17,17>>^ Então levantaram-se alguns dos mais anciões da terra e disseram a todo o ajuntamento do povo as seguintes palavras:
+
+[[v30-26-18]]
+
+^<<v30-26-18,18>>^ Miqueias de Morasti foi profeta nos dias de Ezequias, rei de Judá, e falou a todo o povo de Judá desta maneira: Assim fala o Senhor dos exércitos: Sião será lavrada como um campo, Jerusalém seró reduzida a um montão de ruínas, e o monte, em que está situado o templo, será um espesso bosque.
+
+[[v30-26-19]]
+
+^<<v30-26-19,19>>^ Porventura condenaram-no à morte Ezequias, rei de Judá, e todo o Judá? Porventura (pelo contrário) não temeram eles ao Senhor, não fizeram as suas deprecações na presença do Senhor, e o Senhor não se arrependeu do mal que tinha anunciado contra eles? Logo nós cometeríamos (matando Jeremias) um grande mal contra as nossas almas.
+
+[[v30-26-20]]
+
+^<<v30-26-20,20>>^ Houve também um homem chamado Urias, filho de Semei de Cariatiarim, que profetizava em nome do Senhor e que tinha predito contra esta cidade e contra esta terra as mesmas coisas que Jeremias.
+
+[[v30-26-21]]
+
+^<<v30-26-21,21>>^ O rei Joaquim e todos os seus oficiais e príncipes ouviram estas palavras. O rei procurou matá-lo. Urias soube-o, temeu e fugiu para o Egito.
+
+[[v30-26-22]]
+
+^<<v30-26-22,22>>^ Mas o rei Joaquim enviou ao Egito Elnatan, filho de Acobor, e outros homens com ele,
+
+[[v30-26-23]]
+
+^<<v30-26-23,23>>^ que tiraram Urias do Egito e levaram ao rei Joaquim, que o mandou matar à espada, lançando o seu cadáver nas sepulturas da plebe.
+
+[[v30-26-24]]
+
+^<<v30-26-24,24>>^ A mão de Aicam, filho de Safan, foi com Jeremias, de sorte que não foi entregue nas mãos do povo para ser morto.
+
+'''
+
+xref:030-jeremias/030-jeremias-025.adoc#v30-25-0[&#60; Capítulo Anterior] | <<v30-26-0,Topo>> | xref:030-jeremias/030-jeremias-027.adoc#v30-27-0[Próximo Capítulo &#62;]

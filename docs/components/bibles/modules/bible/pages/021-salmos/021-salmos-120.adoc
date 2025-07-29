@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-120-0]]
+=== Salmos, 120
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 120 é um salmo de lamentação que expressa a angústia e a dor do salmista diante da maldade e da falsidade que o cercam. Ele clama por ajuda e proteção a Deus, pedindo que o Senhor o liberte dos lábios mentirosos e das línguas enganosas. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 120:
+* Provérbios 6:16-19: "Seis coisas o Senhor odeia, e a sétima a sua alma abomina: olhos altivos, língua mentirosa, mãos que derramam sangue inocente, coração que trama projetos perversos, pés que se apressam a correr para o mal, testemunha falsa que profere mentiras e o que semeia contendas entre irmãos." Este versículo aborda a mesma questão da língua mentirosa que é abordada no Salmo 120.
+* Salmo 52:2: "Por que te glorias na maldade, ó homem poderoso? Pois a bondade de Deus é continua." O Salmo 52 também fala sobre o poder da língua para o bem ou para o mal, e destaca a bondade de Deus como uma resposta à maldade do homem.
+* Tiago 3:5-6: "Assim também a língua é um pequeno membro, e se gaba de grandes coisas. Vede quão grande bosque um pequeno fogo incendeia. A língua também é um fogo; como mundo de iniquidade, a língua está posta entre os nossos membros, e contamina todo o corpo, e inflama o curso da natureza, e é inflamada pelo inferno." Este versículo destaca a influência e o poder da língua e como ela pode ser usada para o mal, assim como é expresso no Salmo 120.
+* Salmo 31:18: "Calai-vos diante do Senhor Deus, porque o dia do Senhor está perto; porque o Senhor preparou sacrifício, e santificou os seus convidados." Este versículo fala da importância de silenciar diante de Deus, reconhecendo sua santidade e poder. Isso pode ser interpretado como uma resposta ao clamor do salmista em busca da proteção divina no Salmo 120.
+* Salmo 140:1: "Livra-me, ó Senhor, do homem mau; guarda-me do homem violento." O Salmo 140 também é um salmo de lamentação que clama por proteção divina contra a maldade dos homens. Ele se relaciona com o Salmo 120 por expressar a mesma angústia e dor do salmista diante da injustiça e da violência que o cercam.
+****
+
+[[v21-120-1]]
+
+^<<v21-120-1,1>>^ Cântico das subidas. Levanto os meus olhos para os montes: donde me virá o socorro?"
+
+[[v21-120-2]]
+
+^<<v21-120-2,2>>^ O meu socorro vem do Senhor, que fez o céu e a terra.
+
+[[v21-120-3]]
+
+^<<v21-120-3,3>>^ Não permitirá ele que vacile o teu pé, nem adormecerá aquele que te guarda.
+
+[[v21-120-4]]
+
+^<<v21-120-4,4>>^ Não, por certo, não adormecerá, nem dormirá o que guarda Israel.
+
+[[v21-120-5]]
+
+^<<v21-120-5,5>>^ O Senhor te guarda, o Senhor é a tua protecção, ao teu lado direito.
+
+[[v21-120-6]]
+
+^<<v21-120-6,6>>^ Durante o dia o sol não te queimará, nem a lua (te danificará) de noite.
+
+[[v21-120-7]]
+
+^<<v21-120-7,7>>^ O Senhor te guardará de todo o mal: guardará a tua alma.
+
+[[v21-120-8]]
+
+^<<v21-120-8,8>>^ O Senhor guarde a tua entrada e a tua saída, desde agora e para sempre.
+
+'''
+
+xref:021-salmos/021-salmos-119.adoc#v21-119-0[&#60; Capítulo Anterior] | <<v21-120-0,Topo>> | xref:021-salmos/021-salmos-121.adoc#v21-121-0[Próximo Capítulo &#62;]

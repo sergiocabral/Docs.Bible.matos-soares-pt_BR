@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v10-22-0]]
+=== II Samuel, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 22 de 2 Samuel contém um cântico de Davi em que ele louva a Deus por ter lhe dado vitória sobre seus inimigos e o protegido ao longo de sua vida. Davi descreve a grandiosidade de Deus e agradecimento por sua ajuda constante. Abaixo estão cinco versículos relacionados aos temas abordados no capítulo:
+* Salmos 18:2: "O Senhor é o meu rochedo, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Este verso mostra a confiança de Davi em Deus como sua rocha e protetor.
+* Salmos 18:17: "Ele me livrou do meu inimigo poderoso, dos meus adversários, que eram fortes demais para mim." Este verso descreve a proteção de Deus sobre Davi e como ele o salvou de seus inimigos.
+* Salmos 18:32: "Deus é o que me reveste de força e torna perfeito o meu caminho." Este verso destaca a dependência de Davi em Deus para lhe dar força e orientação.
+* Salmos 18:46: "Vive o Senhor! Bendita seja a minha rocha! Exaltado seja Deus, o meu Salvador!" Este verso é uma expressão de louvor e gratidão de Davi por Deus ter sido seu salvador e protetor.
+* Salmos 18:49: "Por isso eu vos louvarei, ó Senhor, entre as nações, e cantarei louvores ao vosso nome." Este verso mostra o desejo de Davi de compartilhar seu testemunho de fé com outros e louvar a Deus publicamente.
+****
+
+[[v10-22-1]]
+
+^<<v10-22-1,1>>^ Davide dirigiu ao Senhor as palavras deste cântico, no dia em que o Senhor o livrou da mão de todos os seus inimigos, e da mão de Saul.
+
+[[v10-22-2]]
+
+^<<v10-22-2,2>>^ Disse: O Senhor é o meu rochedo, a minha fortaleza, o meu Salvador.
+
+[[v10-22-3]]
+
+^<<v10-22-3,3>>^ Deus é a minha defesa, nele esperarei. É o meu escudo e o sustentáculo da minha salvação. Ele me exalta e é o meu refúgio. Ó meu Salvador, tu me livraste da iniquidade.
+
+[[v10-22-4]]
+
+^<<v10-22-4,4>>^ Eu invoquei o Senhor digno de louvor, e fui salvo dos meus inimigos.
+
+[[v10-22-5]]
+
+^<<v10-22-5,5>>^ Já me cercaram as ondas da morte, as torrentes de Belial me atemorizavam.
+
+[[v10-22-6]]
+
+^<<v10-22-6,6>>^ Já as cordas do inferno me cingiam, os laços da morte me apanhavam descuidado.
+
+[[v10-22-7]]
+
+^<<v10-22-7,7>>^ Na minha tribulação invocava o Senhor, e clamava ao meu Deus. Ele, do seu templo ouviu a minha voz, o meu clamor chegou aos seus ouvidos.
+
+[[v10-22-8]]
+
+^<<v10-22-8,8>>^ A terra comoveu-se e estremeceu, os fundamentos dos montes foram agitados e abalados, porque (o Senhor) se irou contra eles.
+
+[[v10-22-9]]
+
+^<<v10-22-9,9>>^ O fumo (da ira) dos seus narizes elevou-se ao alto, um fogo devorador saía da sua boca, carvões ardentes acesos por ele.
+
+[[v10-22-10]]
+
+^<<v10-22-10,10>>^ Baixou (ou fez inclinar) os céus e desceu, e (tinha) uma escuridão debaixo de seus pés.
+
+[[v10-22-11]]
+
+^<<v10-22-11,11>>^ E subiu sobre os querubins, e voou; voou sobre as asas dos ventos.
+
+[[v10-22-12]]
+
+^<<v10-22-12,12>>^ Cercou-se de trevas como duma tenda, de águas escuras, nuvens espessas.
+
+[[v10-22-13]]
+
+^<<v10-22-13,13>>^ Pelo esplendor da sua presença acenderam-se carvões de fogo.
+
+[[v10-22-14]]
+
+^<<v10-22-14,14>>^ O Senhor trovejou do céu, e o Altíssimo fez soar a sua voz.
+
+[[v10-22-15]]
+
+^<<v10-22-15,15>>^ Disparou setas, e dissipou-os, raios, e destrui-os.
+
+[[v10-22-16]]
+
+^<<v10-22-16,16>>^ E apareceram os abismos do mar, e ficaram a descoberto os fundamentos da terra às ameaças do Senhor, ao sopro do vento do seu furor.
+
+[[v10-22-17]]
+
+^<<v10-22-17,17>>^ Estendeu a sua mão do alto, e recebeu-me, e tirou-me das grandes águas. (ver nota)
+
+[[v10-22-18]]
+
+^<<v10-22-18,18>>^ Livrou-me do meu inimigo poderosíssimo, e daqueles que me tinham ódio, quando eram mais do que eu.
+
+[[v10-22-19]]
+
+^<<v10-22-19,19>>^ Assaltaram-me no dia da minha tribulação, mas o Senhor fez-se o meu firme esteio.
+
+[[v10-22-20]]
+
+^<<v10-22-20,20>>^ Pôs-me a salvo, livrou-me, porque se agradou de mim.
+
+[[v10-22-21]]
+
+^<<v10-22-21,21>>^ O Senhor me retribuiu segundo a minha justiça, e me deu segundo a pureza das minhas mãos,
+
+[[v10-22-22]]
+
+^<<v10-22-22,22>>^ porque segui os caminhos do Senhor, e não procedi impiamente, separando-me do meu Deus.
+
+[[v10-22-23]]
+
+^<<v10-22-23,23>>^ Todos os seus mandamentos estavam diante dos meus olhos, e não me afastava dos seus preceitos.
+
+[[v10-22-24]]
+
+^<<v10-22-24,24>>^ Era irrepreensível para com ele, e guardava-me da minha iniquidade.
+
+[[v10-22-25]]
+
+^<<v10-22-25,25>>^ O Senhor me retribuiu segundo a minha justiça, e segundo a pureza de minhas mãos diante dos seus olhos.
+
+[[v10-22-26]]
+
+^<<v10-22-26,26>>^ Com o misericordioso (ó Deus) mostras-te misericordioso, e com o íntegro, íntegro.
+
+[[v10-22-27]]
+
+^<<v10-22-27,27>>^ Com o puro mostras-te puro, e com o perverso procedes segundo a sua perversidade.
+
+[[v10-22-28]]
+
+^<<v10-22-28,28>>^ Salvas o povo humilde e com os teus olhos humilhas os soberbos.
+
+[[v10-22-29]]
+
+^<<v10-22-29,29>>^ Tu, Senhor, és a minha luz, Tu, ó Senhor, alumias as minhas trevas.
+
+[[v10-22-30]]
+
+^<<v10-22-30,30>>^ Contigo, pois, corro armado a combater, com o meu Deus assalto muralhas.
+
+[[v10-22-31]]
+
+^<<v10-22-31,31>>^ O caminho de Deus é imaculado, a palavra do Senhor é purificada com o fogo; é o escudo de todos os que esperaram nele.
+
+[[v10-22-32]]
+
+^<<v10-22-32,32>>^ Quem é Deus senão o Senhor? E quem é forte senão o nosso Deus?
+
+[[v10-22-33]]
+
+^<<v10-22-33,33>>^ O Deus que me cingiu de fortaleza, e tornou plano e perfeito o meu caminho.
+
+[[v10-22-34]]
+
+^<<v10-22-34,34>>^ Que tornou os meus pés (velozes) semelhantes aos dos veados, e me colocou no lugar elevado em que me encontro.
+
+[[v10-22-35]]
+
+^<<v10-22-35,35>>^ Que adestra as minhas mãos para a peleja, e os meus braços para o arco de bronze.
+
+[[v10-22-36]]
+
+^<<v10-22-36,36>>^ Tu me deste o escudo da tua salvação, e a tua benignidade me engrandeceu.
+
+[[v10-22-37]]
+
+^<<v10-22-37,37>>^ Alargaste os meus passos debaixo de mim, e não desfalecem os meus pés.
+
+[[v10-22-38]]
+
+^<<v10-22-38,38>>^ Persegui os meus inimigos, e exterminei-os e não tornei atrás antes dos os desbaratar.
+
+[[v10-22-39]]
+
+^<<v10-22-39,39>>^ Consumi-os, despedacei-os de forma que não se levantaram: caíram debaixo dos meus pés.
+
+[[v10-22-40]]
+
+^<<v10-22-40,40>>^ Tu me cingiste de força para o combate, fizeste curvar debaixo de mim os que me resistiam.
+
+[[v10-22-41]]
+
+^<<v10-22-41,41>>^ Fizeste que voltassem as costas os meus inimigos, aqueles que me aborreciam, para os exterminar.
+
+[[v10-22-42]]
+
+^<<v10-22-42,42>>^ Clamam, e não hã ninguém que os socorra, clamam ao Senhor, e ele os não responde.
+
+[[v10-22-43]]
+
+^<<v10-22-43,43>>^ Dissipei-os como pó da terra, calquei-os e desfi-los como lodo das ruas.
+
+[[v10-22-44]]
+
+^<<v10-22-44,44>>^ Tu me salvaste das contradições do meu povo; conservaste-me para ser o chefe das nações; um povo, que eu não conhecia, me serviu.
+
+[[v10-22-45]]
+
+^<<v10-22-45,45>>^ Os estrangeiros fingem-se submissos, à menor palavra minha, me obedecem.
+
+[[v10-22-46]]
+
+^<<v10-22-46,46>>^ Os filhos estranhos foram dispersos, saíam, a tremer, dos seus esconderijos.
+
+[[v10-22-47]]
+
+^<<v10-22-47,47>>^ Viva o Senhor, e seja bem-dito o meu Deus, seja exaltado o Deus forte da minha salvação.
+
+[[v10-22-48]]
+
+^<<v10-22-48,48>>^ Tu és, ó Deus, que me vingas e que me sujeitas os povos.
+
+[[v10-22-49]]
+
+^<<v10-22-49,49>>^ Tu o que me tiras dentre os meus inimigos, o que me exaltas sobre os que me resistem, e me livras do homem iníquo.
+
+[[v10-22-50]]
+
+^<<v10-22-50,50>>^ Por isso, Senhor, louvar-te-ei no meio das nações, e entoarei cânticos em honra do teu nome;
+
+[[v10-22-51]]
+
+^<<v10-22-51,51>>^ A ti, que dás grandes vitórias ao teu rei, e usas de misericórdia com Davide, teu ungido, e com a sua descendência para sempre.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-021.adoc#v10-21-0[&#60; Capítulo Anterior] | <<v10-22-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-023.adoc#v10-23-0[Próximo Capítulo &#62;]

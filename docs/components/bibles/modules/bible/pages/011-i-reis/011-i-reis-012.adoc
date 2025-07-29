@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v11-12-0]]
+=== I Reis, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 12 de 1 Reis descreve a divisão do reino de Israel após a morte de Salomão, quando seu filho Roboão se torna rei. As tribos do norte se rebelam contra Roboão devido à sua recusa em aliviar a carga de trabalho pesado que seu pai havia imposto sobre eles. Jeroboão, que era um servo de Salomão, lidera a rebelião e se torna o rei do reino do norte, que é chamado de Israel, enquanto Roboão governa o reino do sul, chamado de Judá. Os seguintes versículos da Bíblia estão relacionados com os temas abordados em 1 Reis 12:
+* 1 Reis 11:11-13: "Então o Senhor disse a Salomão: Porquanto houve isto em ti, e não guardaste a minha aliança e os meus estatutos que te mandei, certamente rasgarei de ti este reino, e o darei a teu servo. Contudo nos teus dias não o farei, por amor de Davi, teu pai; da mão de teu filho o rasgarei. Todavia não rasgarei toda a casa de Davi, mas deixarei a teu filho uma tribo, por amor de Davi, meu servo, e por amor de Jerusalém, que elegi." Este versículo é uma profecia sobre a divisão do reino após a morte de Salomão.
+* 1 Reis 12:16: "Vindo, pois, todo o Israel que estava presente, falou ao rei, dizendo: Que parte temos nós com Davi? não temos nós herança no filho de Jessé; cada um para as suas tendas, ó Israel! agora olha pela tua casa, ó Davi." Este versículo mostra a insatisfação das tribos do norte com a liderança de Roboão.
+* 1 Reis 12:20: "Ouvindo, pois, todo o Israel que Jeroboão tinha voltado, enviaram chamá-lo à congregação, e o fizeram rei sobre todo o Israel; nenhuma tribo seguiu a casa de Davi, senão a tribo de Judá somente." Este versículo descreve a divisão do reino de Israel, com Jeroboão se tornando o rei do norte e Roboão governando o sul.
+* Oséias 13:11: "Eu te dei rei na minha ira, e tirei-o na minha indignação." Este versículo é uma referência à liderança de Jeroboão, que foi escolhido como rei do norte como parte do julgamento divino contra a casa de Davi.
+* Mateus 12:25: "Jesus, porém, conhecendo-lhes os pensamentos, disse: Todo reino dividido contra si mesmo será devastado; e toda cidade, ou casa, dividida contra si mesma não subsistirá." Este versículo destaca a ideia de que a divisão e a discórdia levarão à destruição, o que é ilustrado pela divisão do reino de Israel em 1 Reis 12.
+****
+
+[[v11-12-1]]
+
+^<<v11-12-1,1>>^ Foi Roboão a Siquém, porque todo o Israel se tinha juntado ali para o constituir rei.
+
+[[v11-12-2]]
+
+^<<v11-12-2,2>>^ Porém Jeroboão, filho de Nabat, achando-se ainda no Egipto, refugiado da face do rei Salomão, ao saber da sua morte, voltou do Egipto,
+
+[[v11-12-3]]
+
+^<<v11-12-3,3>>^ porque o tinham mandado chamar. Foi, então, Jeroboão, com todo o povo de Israel falar a Roboão; dizendo:
+
+[[v11-12-4]]
+
+^<<v11-12-4,4>>^ Teu pai impôs-nos um jugo duríssimo; tu, pois, agora, suaviza alguma coisa a dureza do governo de teu pai, aquele pesadíssimo jugo que ele nos impôs, e nós te serviremos.
+
+[[v11-12-5]]
+
+^<<v11-12-5,5>>^ Roboão respondeu-lhes: Ide-vos, e daqui a três dias vinde ter comigo. Tendo-se retirado o povo,
+
+[[v11-12-6]]
+
+^<<v11-12-6,6>>^ teve o rei Roboão conselho com os anciães que Salomão, seu pai, tinha junto de si, quando vivia, e disse-lhes: Que me aconselhais vós que eu responda a este povo?
+
+[[v11-12-7]]
+
+^<<v11-12-7,7>>^ Eles disseram-lhe: Se hoje fores amável com este povo e cederes, se lhe falares com brandura, eles serão teus servos para sempre.
+
+[[v11-12-8]]
+
+^<<v11-12-8,8>>^ Ele, porém, abandonou o conselho que lhe tinham dado os anciães, e consultou os jovens que tinham sido criados com ele e que lhe assistiam.
+
+[[v11-12-9]]
+
+^<<v11-12-9,9>>^ Disse-lhes: Que me aconselhais vós que eu responda a este povo, que me pediu que suavizasse um pouco o jugo que meu pai lhe impôs?
+
+[[v11-12-10]]
+
+^<<v11-12-10,10>>^ Disseram-lhe os jovens que tinham sido criados com ele: Assim dirás a este povo que te falou, dizendo: Teu pai tornou o nosso jugo pesadíssimo, tu alivia-nos assim lhe dirás: O meu dedo mínimo é mais grosso do que o costado de meu pai.
+
+[[v11-12-11]]
+
+^<<v11-12-11,11>>^ Se meu pai pôs sobre vós um jugo pesado, eu ainda o farei mais pesado; meu pai fustigou-vos com açoutes, eu acoutar-vos-ei com escorpiões.
+
+[[v11-12-12]]
+
+^<<v11-12-12,12>>^ Voltou, pois, Jeroboão e todo o povo a Roboão, no terceiro dia, conforme, o rei lhes tinha ordenado, dizendo: Tornai a vir ter comigo daqui a três dias.
+
+[[v11-12-13]]
+
+^<<v11-12-13,13>>^ O rei respondeu duramente ao povo, desprezando o conselho que os anciães lhe tinham dado.
+
+[[v11-12-14]]
+
+^<<v11-12-14,14>>^ Falou-lhes conforme o que lhe tinham aconselhado os jovens: Meu pai impôs-vos um jugo pesado, eu ainda aumentarei o peso do vosso jugo; meu pai fustigou-vos com açoutes, eu açoutar-vos-ei com escorpiões.
+
+[[v11-12-15]]
+
+^<<v11-12-15,15>>^ E o rei não deu ouvidos ao povo, porque o Senhor tinha apartado dele a sua face, para realizar a palavra que tinha dito a Jeroboão, filho de Nabat, por meio do profeta Alas, Silonita.
+
+[[v11-12-16]]
+
+^<<v11-12-16,16>>^ Vendo o povo que o rei o não queria ouvir, respondeu-lhe, dizendo: Que parte temos nós com (a família de) Davide? Que herança (ou proveito) com o filho de Isai? Vai, pois, para as tuas tendas, ó Israel, e tu, ó (descendente de) Davide, trata agora da tua casa. Israel retirou-se para as suas tendas (e sacudiu o jugo de Roboão).
+
+[[v11-12-17]]
+
+^<<v11-12-17,17>>^ Roboão, todavia, reinou sobre todos os filhos de Israel, que habitavam nas cidades de Judá.
+
+[[v11-12-18]]
+
+^<<v11-12-18,18>>^ O rei Roboão enviou Adurão que era o superintendente dos tributos (para apaziguar os ânimos), mas todo o Israel o apedrejou, e ele morreu. Então o rei Roboão tomou a toda a pressa o seu carro e fugiu para Jerusalém.
+
+[[v11-12-19]]
+
+^<<v11-12-19,19>>^ E Israel separou-se da casa de Davide, até ao dia de hoje.
+
+[[v11-12-20]]
+
+^<<v11-12-20,20>>^ Quando todo o Israel soube que Jeroboão tinha voltado, reunidos em cortes, mandaram-no chamar e aclamaram-no rei sobre todo o Israel. Não houve ninguém que seguisse a casa de Davide, senão sòmente a tribo de Judá.
+
+[[v11-12-21]]
+
+^<<v11-12-21,21>>^ Roboão, quando chegou a Jerusalém , fez juntar toda a casa de Judá e a tribo de Benjamim, cento e oitenta mil homens de guerra, escolhidos, a fim de pelejar contra a casa de Israel, e reduzir o reino à obediência de Roboão, filho de Salomão.
+
+[[v11-12-22]]
+
+^<<v11-12-22,22>>^ Mas o Senhor dirigiu a sua palavra a Semeias, homem de Deus, dizendo:
+
+[[v11-12-23]]
+
+^<<v11-12-23,23>>^ Fala a Roboão, filho de Salomão, rei de Judá, bem como a toda a casa de Judá e de Benjamim, e a todo o resto do povo. Dize-lhes:
+
+[[v11-12-24]]
+
+^<<v11-12-24,24>>^ Eis o que diz o Senhor: Não vos ponhais em campanha, nem façais guerra contra os filhos de Israel, que são vossos irmãos; cada um volte para sua casa, porque eu é que fiz isto. Ouviram eles a palavra do Senhor, e voltaram, conforme o Senhor lhes tinha mandado.
+
+[[v11-12-25]]
+
+^<<v11-12-25,25>>^ Jeroboão reedificou Siquém, sobre o monte de Efraim, e residiu ali. Depois saiu de lá para edificar Fanuel.
+
+[[v11-12-26]]
+
+^<<v11-12-26,26>>^ Jeroboão disse em seu coração: Agora o reino tornará para a casa de Davide,
+
+[[v11-12-27]]
+
+^<<v11-12-27,27>>^ se este povo for a Jerusalém para lá oferecer sacrifícios na casa do Senhor; e o coração deste povo voltar-se-á para o seu Senhor, para Roboão, rei de Judá; eles me matarão e se voltarão para ele.
+
+[[v11-12-28]]
+
+^<<v11-12-28,28>>^ Depois de ter considerado bem, fez dois bezerros de ouro e disse ao povo: Não torneis mais a Jerusalém. Eis aqui, ó Israel, os teus deuses, que te tiraram da terra do Egipto.
+
+[[v11-12-29]]
+
+^<<v11-12-29,29>>^ Colocou um em Betel, e outro em Dan.
+
+[[v11-12-30]]
+
+^<<v11-12-30,30>>^ Isto foi uma ocasião de pecado, porque o povo ia a Dan para adorar o bezerro.
+
+[[v11-12-31]]
+
+^<<v11-12-31,31>>^ Também levantou templos nos lugares altos, onde pôs como sacerdotes pessoas do povo, que não eram dos filhos de Levi.
+
+[[v11-12-32]]
+
+^<<v11-12-32,32>>^ Ordenou também um dia de festa no oitavo mês, no dia décimo quinto do mês, à semelhança da solenidade que se celebrava em Judá, e ofereceu sacrifícios sobre o altar. Fez o mesmo em Betel, oferecendo sacrifícios aos bezerros que tinha fabricado. Igualmente estabeleceu em Betel sacerdotes (para os templos) dos lugares altos, que tinha edificado.
+
+[[v11-12-33]]
+
+^<<v11-12-33,33>>^ Ao décimo quinto dia do oitavo mês, que ele, por seu capricho, tinha feito solene, subiu Jeroboão ao altar, que tinha construído em Betel, e fez uma solene festa aos filhos de Israel, e subiu ao altar para queimar incenso.
+
+'''
+
+xref:011-i-reis/011-i-reis-011.adoc#v11-11-0[&#60; Capítulo Anterior] | <<v11-12-0,Topo>> | xref:011-i-reis/011-i-reis-013.adoc#v11-13-0[Próximo Capítulo &#62;]

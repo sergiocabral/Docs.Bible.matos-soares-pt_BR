@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v21-119-0]]
+=== Salmos, 119
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmo 119 é um dos mais longos da Bíblia e tem como tema central a palavra de Deus e sua importância para a vida do crente. Os versículos escolhidos abaixo são exemplos de como outros livros da Bíblia também enfatizam a importância das Escrituras para a vida cristã.
+* Provérbios 30:5: "Toda palavra de Deus é pura; ele é um escudo para quem nele se refugia." Esse versículo destaca a pureza e confiabilidade da Palavra de Deus, tornando-a um refúgio seguro para o crente.
+* 2 Timóteo 3:16-17: "Toda Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça, a fim de que o homem de Deus seja apto e plenamente preparado para toda boa obra." Esse versículo enfatiza a inspiração divina das Escrituras e sua utilidade para a vida cristã, oferecendo instrução e preparo para a obra de Deus.
+* Hebreus 4:12: "Pois a palavra de Deus é viva e eficaz, e mais afiada que qualquer espada de dois gumes; ela penetra ao ponto de dividir alma e espírito, juntas e medulas, e julga os pensamentos e intenções do coração." Esse versículo destaca a poderosa natureza da Palavra de Deus e seu papel em revelar a verdadeira natureza dos pensamentos e intenções do coração humano.
+* Romanos 15:4: "Pois tudo o que foi escrito no passado foi escrito para nos ensinar, de forma que, por meio da perseverança e do bom ânimo procedentes das Escrituras, mantenhamos a nossa esperança." Esse versículo destaca a importância do aprendizado por meio das Escrituras, oferecendo encorajamento e perseverança para manter a esperança no futuro.
+* Tiago 1:22: "Não sejam apenas ouvintes da palavra, enganando-se a si mesmos. Pelo contrário, pratiquem a palavra." Esse versículo destaca a importância da aplicação prática das Escrituras, lembrando que ouvir a Palavra de Deus não é suficiente, mas é necessário colocá-la em prática em nossa vida diária.
+****
+
+[[v21-119-1]]
+
+^<<v21-119-1,1>>^ Cântico das subidas. Na minha tribulação, clamei ao Senhor, e ele ouviu-me. (ver nota)
+
+[[v21-119-2]]
+
+^<<v21-119-2,2>>^ Senhor, livra a minha alma do lábio iníquo, da língua enganadora.
+
+[[v21-119-3]]
+
+^<<v21-119-3,3>>^ Que te dará ou que te acrescentará (Deus), ó língua enganadora?
+
+[[v21-119-4]]
+
+^<<v21-119-4,4>>^ Setas agudas dum potente, e brasas de giesta.
+
+[[v21-119-5]]
+
+^<<v21-119-5,5>>^ Ai de mim, que vivo em Mosoc, habito nas tendas de Cedar.
+
+[[v21-119-6]]
+
+^<<v21-119-6,6>>^ Demasiado habitou a minha alma com os que odeiam a paz.
+
+[[v21-119-7]]
+
+^<<v21-119-7,7>>^ Quando lhes falo de paz, eles excitam à guerra.
+
+'''
+
+xref:021-salmos/021-salmos-118.adoc#v21-118-0[&#60; Capítulo Anterior] | <<v21-119-0,Topo>> | xref:021-salmos/021-salmos-120.adoc#v21-120-0[Próximo Capítulo &#62;]

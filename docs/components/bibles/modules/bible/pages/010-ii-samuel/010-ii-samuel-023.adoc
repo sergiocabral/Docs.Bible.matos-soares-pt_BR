@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v10-23-0]]
+=== II Samuel, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 23 apresenta uma lista dos "últimos" feitos e das últimas palavras de Davi, bem como de seus valentes guerreiros. Os versículos abaixo são relacionados com temas abordados nesse capítulo:
+* Provérbios 29:23: "A soberba do homem o abaterá, mas a honra sustentará o humilde de espírito." Esse provérbio se relaciona com a humildade e a honra, temas presentes no capítulo 23, que destaca os feitos de Davi e seus guerreiros, homens humildes que alcançaram grandes feitos pela graça de Deus.
+* 1 Crônicas 11:22: "Benaia, filho de Joiada, filho de um valente homem de Cabzeel, que havia feito muitas ações; este feriu os dois filhos de Ariel, de Moabe; desceu também, e matou um leão no meio de uma cova, no tempo da neve." Esse versículo fala sobre Benaia, um dos valentes guerreiros de Davi que também é mencionado em 2 Samuel 23, ressaltando a bravura e a coragem desses homens.
+* Salmos 18:2: "O SENHOR é o meu rochedo, a minha fortaleza, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio." Esse salmo é atribuído a Davi e se relaciona com o tema da proteção divina presente no capítulo 23, que destaca a fidelidade de Deus em proteger e sustentar Davi e seus guerreiros.
+* 1 Crônicas 12:32: "E dos filhos de Issacar, entendidos no conhecimento dos tempos, para saberem o que Israel devia fazer; duzentos de seus irmãos estavam sob suas ordens." Esse versículo fala sobre a tribo de Issacar, que é mencionada em 2 Samuel 23 como sendo uma das tribos que se juntaram a Davi. Isso destaca a importância da sabedoria e do conhecimento para o sucesso em batalhas.
+* Provérbios 16:7: "Quando os caminhos do homem são agradáveis ao Senhor, até os seus inimigos fazem as pazes com ele." Esse provérbio se relaciona com a ideia presente em 2 Samuel 23 de que Deus é o protetor de Davi e seus guerreiros. Quando seguimos a vontade de Deus e buscamos agradá-lo, ele nos protege e até mesmo nossos inimigos podem se reconciliar conosco.
+****
+
+[[v10-23-1]]
+
+^<<v10-23-1,1>>^ Estas são as últimas palavras de Davide: Oráculo de Davide, filho de Isaí, oráculo do homem posto nas alturas, do ungido do Deus de Jacob, do doce cantor de Israel.
+
+[[v10-23-2]]
+
+^<<v10-23-2,2>>^ O espírito do Senhor falou por mim e a sua palavra (fez-se ouvir) pela minha língua.
+
+[[v10-23-3]]
+
+^<<v10-23-3,3>>^ O Deus de Israel me falou, o forte de Israel falou: Um justo dominador dos homens, dominador no temor de Deus,
+
+[[v10-23-4]]
+
+^<<v10-23-4,4>>^ é como a luz da aurora que resplandece ao sair do sol, numa manhã sem nuvens. Pelos seus raios a erva brota da terra, depois das chuvas.
+
+[[v10-23-5]]
+
+^<<v10-23-5,5>>^ A minha casa não era tal diante de Deus, que ele devesse fazer comigo uma aliança eterna, firme em tudo e imutável. Toda a minha salvação e todo o meu desejo, Deus não os fará germinar?
+
+[[v10-23-6]]
+
+^<<v10-23-6,6>>^ Mas os prevaricadores serão arrancados todos como espinhos, que não se tocam com as mãos.
+
+[[v10-23-7]]
+
+^<<v10-23-7,7>>^ Se alguém quiser tocá-los, armar-se-á (antes) de ferro ou dum pau de lança; a seguir, serão queimados até não ficar nada deles.
+
+[[v10-23-8]]
+
+^<<v10-23-8,8>>^ Eis os nomes dos valentes de Davide: Jesbaam, filho de Hachamoni, chefe dos Três. Foi ele que levantou a sua lança contra oitocentos homens, que abateu numa só investida.
+
+[[v10-23-9]]
+
+^<<v10-23-9,9>>^ Depois deste, Eliazar Aoita, filho de Dodo, um dos três valentes, que se acharam com Davide em Efes-Dammin, quando desafiaram os Filisteus que se juntaram ali para a batalha.
+
+[[v10-23-10]]
+
+^<<v10-23-10,10>>^ Tendo fugido os Israelitas, Eliazar permaneceu firme e bateu os Filisteus até lhe cansar a mão, e ficar pegada à espada. Concedeu o Senhor naquele dia uma assinalada vitória, e o povo, que tinha fugido, voltou ao lugar onde estava Eleázaro, mas apenas teve que recolher os despojos dos mortos.
+
+[[v10-23-11]]
+
+^<<v10-23-11,11>>^ Depois deste, Sema, filho de Age, de Arari. Os Filisteus juntaram-se (um dia) num sítio, onde havia um campo cheio de lentilhas; fugindo o povo diante dos Filisteus,
+
+[[v10-23-12]]
+
+^<<v10-23-12,12>>^ ele pôs-se firme no meio do campo, defendeu-o, e derrotou os Filisteus, operando assim, o Senhor, por meio dele, uma grande vitória.
+
+[[v10-23-13]]
+
+^<<v10-23-13,13>>^ E já antes tinham descido estes três, que eram os principais dos trinta, a encontrar-se no tempo das messes com Davide, na cova de Odolão, quando os Filisteus haviam assentado o seu arraial no vale dos Gigantes.
+
+[[v10-23-14]]
+
+^<<v10-23-14,14>>^ Davide estava num lugar forte. Nesse mesmo tempo havia em Belém uma guarnição de Filisteus.
+
+[[v10-23-15]]
+
+^<<v10-23-15,15>>^ Ora Davide teve um desejo; disse: Oh! se alguém me desse a beber água da cisterna que há em Belém, junto à porta!
+
+[[v10-23-16]]
+
+^<<v10-23-16,16>>^ No mesmo instante estes três valentes romperam pelo acampamento dos Filisteus foram tirar água à cisterna de Belém, que estava junto à porta, e trouxeram-na a Davide, mas ele não a quis beber; ofereceu-a ao Senhor,
+
+[[v10-23-17]]
+
+^<<v10-23-17,17>>^ dizendo: Guarde-me o Senhor que tal faça: beberei eu o sangue destes homens, que foram (buscá-la) com risco das suas vidas? Não quis pois bebê-la. Tal acção foi feita por estes três fortíssimos.
+
+[[v10-23-18]]
+
+^<<v10-23-18,18>>^ Abisai, irmão de Joab, filho de Sarvia, era o primeiro dos trinta; este é o que levantou a sua lança contra trezentos, que matou, ganhando grande renome entre os trinta.
+
+[[v10-23-19]]
+
+^<<v10-23-19,19>>^ Era o mais considerado entre os trinta, e seu chefe, mas não igualara os três primeiros.
+
+[[v10-23-20]]
+
+^<<v10-23-20,20>>^ Banaias de Cabseel, filho de Jojada, que foi um homem valentíssimo, e de grandes feitos, matou os dois filhos de Ariel de Moab, e ele mesmo desceu e matou um leão no meio duma cisterna, em tempo de neve.
+
+[[v10-23-21]]
+
+^<<v10-23-21,21>>^ Foi também ele que matou um Egípcio, homem digno de ser visto, que tinha uma lança na mão. Indo contra ele com um pau, arrancou à força a lança da mão do Egípcio, e matou-o com a sua própria lança.
+
+[[v10-23-22]]
+
+^<<v10-23-22,22>>^ Isto é o que fez Banaias, filho de Jojada.
+
+[[v10-23-23]]
+
+^<<v10-23-23,23>>^ Ele era afamado entre os trinta valentes, afamado entre eles, mas não Igualava os três primeiros. Davide tinha-o feito seu conselheiro íntimo.
+
+[[v10-23-24]]
+
+^<<v10-23-24,24>>^ Entre os trinta (contavam-se) Asael, irmão de Joab; Eleanan de Belém, filho de Dodo;
+
+[[v10-23-25]]
+
+^<<v10-23-25,25>>^ Sema de Harodi; Elica de Harodi;
+
+[[v10-23-26]]
+
+^<<v10-23-26,26>>^ Heles de Falto; Hira de Tecua, filho de Aces;
+
+[[v10-23-27]]
+
+^<<v10-23-27,27>>^ Abiezer de Anatot; Mobonai de Husati;
+
+[[v10-23-28]]
+
+^<<v10-23-28,28>>^ Selmon de Ahot; Maaral de Netofat;
+
+[[v10-23-29]]
+
+^<<v10-23-29,29>>^ Heled, filho de Baana, que também era de Netofat: Itai, filho de Ribai de Gabaat, da tribo de Benjamim
+
+[[v10-23-30]]
+
+^<<v10-23-30,30>>^ Banaia de Faraton; Hedal da torrente de Gaas;
+
+[[v10-23-31]]
+
+^<<v10-23-31,31>>^ Abialbon de Araba, Azmavet de Beromi;
+
+[[v10-23-32]]
+
+^<<v10-23-32,32>>^ Ellaba de Salaboni; os filhos de Jassen; Jonatan;
+
+[[v10-23-33]]
+
+^<<v10-23-33,33>>^ Sema de Orori; Ajam de Aror, filho de Sarar;
+
+[[v10-23-34]]
+
+^<<v10-23-34,34>>^ Eliflet, filho de Aasbai, filho dum Macatiano; Eliam, filho de Aquitofel de Gelon;
+
+[[v10-23-35]]
+
+^<<v10-23-35,35>>^ Hesral do Carmelo, Faral de Arbi;
+
+[[v10-23-36]]
+
+^<<v10-23-36,36>>^ Igaal, filho de Natan; de Soba; Boni de Gadi;
+
+[[v10-23-37]]
+
+^<<v10-23-37,37>>^ Selec de Amoni; Naarai de Berot, escudeiro de Joab, filho de Sarvia
+
+[[v10-23-38]]
+
+^<<v10-23-38,38>>^ Ira de Jetrit; Gareb também de Jetrit;
+
+[[v10-23-39]]
+
+^<<v10-23-39,39>>^ Urias Heteu. Ao todo trinta e sete.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-022.adoc#v10-22-0[&#60; Capítulo Anterior] | <<v10-23-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-024.adoc#v10-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v73-15-0]]
+=== Apocalipse, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Apocalipse 15 trata sobre a visão de João do derramamento das sete últimas pragas, as quais são enviadas por Deus para punir os ímpios e para preparar o caminho para o retorno de Cristo. A seguir estão cinco versículos relacionados com os temas abordados em Apocalipse 15:
+* Salmos 2:5: "Então lhes falará na sua ira, e no seu furor os turbará" Este verso fala sobre a ira de Deus que será derramada sobre os ímpios, uma ideia que é retomada em Apocalipse 15.
+* Isaías 51:17: "Desperta, desperta, levanta-te, ó Jerusalém, que bebesses da mão do Senhor o cálice do seu furor; tu bebesses, e drenasses até às fezes o cálice do atordoamento." Este verso fala sobre o cálice da ira de Deus, que é mencionado em Apocalipse 15:7.
+* Êxodo 15:1: "Então cantou Moisés e os filhos de Israel este cântico ao Senhor, e falaram, dizendo: Cantarei ao Senhor, porque sumamente se exaltou; lançou no mar o cavalo e o seu cavaleiro." Este verso fala sobre um cântico de vitória que é cantado após a destruição dos inimigos de Deus. Em Apocalipse 15:3, João vê os vencedores sobre a besta cantando um cântico semelhante.
+* Isaías 6:4: "E os umbrais das portas se moveram à voz do que clamava, e a casa se encheu de fumaça." Este verso fala sobre uma visão de Isaías da glória de Deus. Em Apocalipse 15:8, João vê o templo cheio da glória de Deus.
+* Mateus 24:31: "E ele enviará os seus anjos com rijo clamor de trombeta, os quais ajuntarão os seus escolhidos desde os quatro ventos, de uma à outra extremidade dos céus." Este verso fala sobre o retorno de Cristo e a reunião dos seus escolhidos. Esse tema é relevante para Apocalipse 15, pois as pragas que são derramadas são parte do processo que leva ao retorno de Cristo.
+****
+
+[[v73-15-1]]
+
+^<<v73-15-1,1>>^ Depois vi no céu outro sinal grande e admirável: sete anjos que tinham as sete últimas pragas, porque com elas é consumada a ira de Deus.
+
+[[v73-15-2]]
+
+^<<v73-15-2,2>>^ E vi como que um mar de vidro misturado de fogo, e os que venceram a Besta, a sua estátua e o número do seu nome, de pé sobre o mar de vidro, tendo cítaras divinas.
+
+[[v73-15-3]]
+
+^<<v73-15-3,3>>^ Cantam o cântico do servo de Deus, Moisés, e o cântico do Cordeiro, dizendo: "Grandes e admiráveis são as tuas obras, ó Senhor Deus omnipotente; justos e verdadeiros são os teus caminhos, ó Rei das nações!
+
+[[v73-15-4]]
+
+^<<v73-15-4,4>>^ Quem não temeria, Senhor, e não glorificaria o teu nome? Com efeito, só tu és santo; em conseqüência do que todas as nações virão e se prostrarão na tua presença, porque os teus juízos foram manifestados."
+
+[[v73-15-5]]
+
+^<<v73-15-5,5>>^ Depois disto, vi que se abriu o templo do tabernáculo do testemunho no céu;
+
+[[v73-15-6]]
+
+^<<v73-15-6,6>>^ e os sete anjos, que traziam as sete pragas, saíram do templo, vestidos de linho puro e brilhante, e cingidos pelo peito com cintos de ouro.
+
+[[v73-15-7]]
+
+^<<v73-15-7,7>>^ Então, um dos quatro animais deu aos sete anjos sete taças de ouro, cheias da ira de Deus, que vive pelos séculos dos séculos.
+
+[[v73-15-8]]
+
+^<<v73-15-8,8>>^ E o templo encheu-se de fumo, em razão da glória de Deus e do seu poder. E ninguém podia entrar no templo, enquanto se não cumprissem as sete pragas dos sete anjos.
+
+'''
+
+xref:073-apocalipse/073-apocalipse-014.adoc#v73-14-0[&#60; Capítulo Anterior] | <<v73-15-0,Topo>> | xref:073-apocalipse/073-apocalipse-016.adoc#v73-16-0[Próximo Capítulo &#62;]

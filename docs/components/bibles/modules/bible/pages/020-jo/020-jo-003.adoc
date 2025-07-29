@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v20-3-0]]
+=== Jó, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 3 de Jó, após ter amaldiçoado o dia em que nasceu, Jó começa a lamentar a sua própria vida e a questionar por que ele foi poupado do nascimento morto ou de morrer ao nascer. Ele fala sobre como agora ele está sofrendo e desejando a morte, pois a sua dor é grande demais para suportar. A seguir estão cinco versículos relacionados com os temas abordados em Jó 3:
+* Jeremias 20:18: "Por que saí da madre para ver trabalho e tristeza, para que se consumam na vergonha os meus dias?" Este verso fala sobre o questionamento do profeta Jeremias sobre o propósito de sua vida e o sofrimento que ele enfrenta.
+* Salmos 6:6: "Estou cansado de tanto gemer; toda a noite faço nadar em lágrimas a minha cama, inundo com elas o meu leito." Este verso retrata a angústia e a tristeza que Jó expressa em seu lamento no capítulo 3.
+* Salmos 88:3: "Pois a minha alma está cheia de angústias, e a minha vida se aproxima do Seol." Este verso expressa a sensação de Jó de que a morte seria um alívio para o seu sofrimento.
+* Salmos 22:1-2: "Deus meu, Deus meu, por que me desamparaste? Por que estás tão longe de me ajudar e das palavras do meu bramido? Deus meu, eu clamo de dia, e não me respondes; e de noite, mas não tenho sossego." Este verso reflete o lamento e a sensação de abandono que Jó sente em seu sofrimento.
+* Salmos 42:5: "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei pela salvação que há na sua presença." Este verso fala sobre a importância de manter a fé e a esperança em Deus, mesmo em meio ao sofrimento.
+****
+
+[[v20-3-1]]
+
+^<<v20-3-1,1>>^ Depois disto Job abriu a sua boca e amaldiçoou o dia do seu nascimento.
+
+[[v20-3-2]]
+
+^<<v20-3-2,2>>^ Falou assim:
+
+[[v20-3-3]]
+
+^<<v20-3-3,3>>^ Pereça o dia em que nasci, e a noite em que se disse: Foi concebido um homem.
+
+[[v20-3-4]]
+
+^<<v20-3-4,4>>^ Converta-se aquele dia em trevas. Deus não cuide dele do alto do céu, nem seja (esse dia) iluminado pela luz.
+
+[[v20-3-5]]
+
+^<<v20-3-5,5>>^ Escureçam-no as trevas e a sombra da morte, cerque-o uma negra escuridão, e seja envolte em amargura.
+
+[[v20-3-6]]
+
+^<<v20-3-6,6>>^ Que as trevas se apoderem daquela noite, não seja ela contada entre os dias do ano, nem seja numerada entre os meses.
+
+[[v20-3-7]]
+
+^<<v20-3-7,7>>^ Seja solitária aquela noite, não se ouça nela grito algum de alegria!
+
+[[v20-3-8]]
+
+^<<v20-3-8,8>>^ Amaldiçoem-na aqueles que amaldiçoam o dia, os que sabem evocar Leviathan.
+
+[[v20-3-9]]
+
+^<<v20-3-9,9>>^ Escureçam-se as estrelas do seu crepúsculo (matutino), espere a luz, mas não a veja, nem veja o abrir das pálpebras da aurora, (ver nota)
+
+[[v20-3-10]]
+
+^<<v20-3-10,10>>^ porque não fechou o ventre que me trouxe, nem apartou de meus olhos os males.
+
+[[v20-3-11]]
+
+^<<v20-3-11,11>>^ Por que não morri eu dentro do ventre materno? por que não pereci logo que saí dele?
+
+[[v20-3-12]]
+
+^<<v20-3-12,12>>^ Por que fui recebido sobre dois joelhos? por que me amamentaram dois seios?
+
+[[v20-3-13]]
+
+^<<v20-3-13,13>>^ Agora, dormindo, estaria em silêncio, e descansaria no meu sono,
+
+[[v20-3-14]]
+
+^<<v20-3-14,14>>^ juntamente com os reis e com os árbitros da terra, que fabricam para si mausoléus;
+
+[[v20-3-15]]
+
+^<<v20-3-15,15>>^ com os príncipes que possuem oiro, e que enchem as suas casas de prata.
+
+[[v20-3-16]]
+
+^<<v20-3-16,16>>^ Ou, então, como um aborto escondido, eu não existiria, como os que, depois de concebidos, não viram a luz.
+
+[[v20-3-17]]
+
+^<<v20-3-17,17>>^ Ali (no sepulcro) os impios cessam de tumultos, ali repousam os cansados de forças.
+
+[[v20-3-18]]
+
+^<<v20-3-18,18>>^ Ali estão em paz todos os cativos, sem ouvir a voz do (cruel) comitre.
+
+[[v20-3-19]]
+
+^<<v20-3-19,19>>^ O pequeno e o grande ali estão, e o escravo está livre do seu senhor.
+
+[[v20-3-20]]
+
+^<<v20-3-20,20>>^ Por que foi concedida a luz aos infelizes, a vida aos que estão em amargura de ânimo,
+
+[[v20-3-21]]
+
+^<<v20-3-21,21>>^ os quais esperam a morte que não vem, que a buscam mais ardentemente que um tesouro,
+
+[[v20-3-22]]
+
+^<<v20-3-22,22>>^ e ficam transportados de alegria quando encontram o sepulcro?
+
+[[v20-3-23]]
+
+^<<v20-3-23,23>>^ (Por que foi dada a vida) a um homem (conto eu) que não sabe o caminho, e a quem Deus cercou completamente?
+
+[[v20-3-24]]
+
+^<<v20-3-24,24>>^ Suspiro em vez de comer, e os meus gemidos derramam-se como águas.
+
+[[v20-3-25]]
+
+^<<v20-3-25,25>>^ O mal que eu temo, acontece-me, o que receio, cai sobre mim.
+
+[[v20-3-26]]
+
+^<<v20-3-26,26>>^ Não tenho paz nem sossego, não tenho repouso, mas apenas perturbação.
+
+'''
+
+xref:020-jo/020-jo-002.adoc#v20-2-0[&#60; Capítulo Anterior] | <<v20-3-0,Topo>> | xref:020-jo/020-jo-004.adoc#v20-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v25-5-0]]
+=== Eclesiastes, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiastes 5 trata sobre a necessidade de se cumprir os votos feitos a Deus, de evitar falar demais e ser sábio na hora de falar, e de não colocar a confiança na riqueza. Abaixo estão cinco versículos relacionados com esses temas:
+* Salmos 50:14-15: "Ofereça a Deus um sacrifício de gratidão e cumpra os seus votos para com o Altíssimo. Clame a mim no dia da angústia; eu o livrarei, e você me honrará". Esse versículo fala sobre a importância de cumprir os votos feitos a Deus e de clamar a Ele nos momentos difíceis.
+* Provérbios 10:19: "Quando as palavras são muitas, o pecado está presente, mas quem controla a língua é sensato". Esse versículo enfatiza a importância de pensar antes de falar e de evitar falar demais.
+* 1 Timóteo 6:17: "Ordene aos que são ricos no presente mundo que não sejam arrogantes, nem ponham sua esperança na incerteza da riqueza, mas em Deus, que de tudo nos provê ricamente, para a nossa satisfação". Esse versículo destaca a importância de não colocar a confiança na riqueza, mas em Deus.
+* Provérbios 20:25: "É uma armadilha consagrar algo precipitadamente, e só pensar nas consequências depois que se fez o voto". Esse versículo reforça a importância de pensar cuidadosamente antes de fazer um voto a Deus.
+* Tiago 1:19-20: "Meus amados irmãos, tenham isto em mente: Sejam todos prontos para ouvir, tardios para falar e tardios para irar-se, pois a ira do homem não produz a justiça de Deus". Esse versículo enfatiza a importância de ser sábio na hora de falar e de controlar a raiva.
+****
+
+[[v25-5-1]]
+
+^<<v25-5-1,1>>^ Não digas nada inconsideradamente, nem o teu coração se apresse a proferir palavras diante de Deus, porque Deus está no céu, e tu sobre a terra; portanto sejam poucas as tuas palavras. (ver nota)
+
+[[v25-5-2]]
+
+^<<v25-5-2,2>>^ As muitas ocupações produzem sonhos (molestos), e do muito falar nascem os despropósitos.
+
+[[v25-5-3]]
+
+^<<v25-5-3,3>>^ Se fizeste algum voto a Deus, trata de o cumprir sem demora, porque lhe desagrada a promessa infiel e impensada; mas cumpre tudo o que tiveres prometido.
+
+[[v25-5-4]]
+
+^<<v25-5-4,4>>^ É melhor não fazer votos do que, depois de os fazer, não os cumprir.
+
+[[v25-5-5]]
+
+^<<v25-5-5,5>>^ Não permitas à tua língua fazer pecar a tua carne (a tua pessoa), nem digas ao sacerdote que foi uma inadvertência, para que não suceda que Deus, irado contra as tuas palavras, dissipe as obras das tuas mãos.
+
+[[v25-5-6]]
+
+^<<v25-5-6,6>>^ Dos muitos cuidados nascem os sonhos e das muitas palavras os despropósitos.
+
+[[v25-5-7]]
+
+^<<v25-5-7,7>>^ Se vires a opressão dos pobres e a violação do direito e da justiça, nalguma província, não te admires, porque o que está alto tem acima de si outro mais alto, e sobre estes há ainda outros mais elevados;
+
+[[v25-5-8]]
+
+^<<v25-5-8,8>>^ e há além disso um rei que impera sobre toda a terra que lhe está sujeita.
+
+[[v25-5-9]]
+
+^<<v25-5-9,9>>^ O que ama o dinheiro, jámais se fartará de dinheiro, e o que ama (cegamente) as riquezas, não tirará delas fruto. Logo também isto é vaidade.
+
+[[v25-5-10]]
+
+^<<v25-5-10,10>>^ Onde se multiplicam os bens, multiplicam-se também aqueles que os comem. E de que servem eles a quem os possui, senão para os ver com seus olhos?
+
+[[v25-5-11]]
+
+^<<v25-5-11,11>>^ O sono é doce para o trabalhador, quer ele coma pouco quer muito, porém a fartura do rico não o deixa dormir.
+
+[[v25-5-12]]
+
+^<<v25-5-12,12>>^ Ainda há outra dolorosíssima miséria, que eu vi debaixo do sol: as riquezas conservadas para ruína do seu dono.
+
+[[v25-5-13]]
+
+^<<v25-5-13,13>>^ Perdem-se essas riquezas por um mau negócio, e, se ele tiver então um filho nada lhe fica nas suas mãos.
+
+[[v25-5-14]]
+
+^<<v25-5-14,14>>^ Do modo que ele saiu nu do ventre de sua mãe, assim mesmo sairá desta vida, não levará nada consigo do seu trabalho.
+
+[[v25-5-15]]
+
+^<<v25-5-15,15>>^ Sim, é um triste mal que um (homem) vá como veio. De que lhe serve ter trabalhado para o vento?
+
+[[v25-5-16]]
+
+^<<v25-5-16,16>>^ Todos os dias da sua vida comeu nas trevas (do infortúnio), no meio de muitos cuidados, em miséria e tristeza.
+
+[[v25-5-17]]
+
+^<<v25-5-17,17>>^ Pareceu-me, pois, bem que o homem coma e beba (sòbriamente), e colha com alegria o fruto do seu trabalho com que se afadiga debaixo do Sol durante o número dos dias da vida, que Deus lhe dá; esta é a sua parte.
+
+[[v25-5-18]]
+
+^<<v25-5-18,18>>^ Quando um homem recebe de Deus riquezas e bens, e a possibilidade de comer deles, disfrutar a sua parte e viver alegre no seu trabalho, (tudo) isto é um dom de Deus.
+
+[[v25-5-19]]
+
+^<<v25-5-19,19>>^ Não terá que pensar muito nos dias da sua vida, visto que Deus ocupa de delícias o seu coração.
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-004.adoc#v25-4-0[&#60; Capítulo Anterior] | <<v25-5-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-006.adoc#v25-6-0[Próximo Capítulo &#62;]

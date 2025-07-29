@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v69-0-0]]
+== I São João
+
+[cols="8*^"]
+|===
+| xref:069-i-sao-joao/069-i-sao-joao-001.adoc#v69-1-0[1]
+| xref:069-i-sao-joao/069-i-sao-joao-002.adoc#v69-2-0[2]
+| xref:069-i-sao-joao/069-i-sao-joao-003.adoc#v69-3-0[3]
+| xref:069-i-sao-joao/069-i-sao-joao-004.adoc#v69-4-0[4]
+| xref:069-i-sao-joao/069-i-sao-joao-005.adoc#v69-5-0[5]
+|
+|
+|
+|===

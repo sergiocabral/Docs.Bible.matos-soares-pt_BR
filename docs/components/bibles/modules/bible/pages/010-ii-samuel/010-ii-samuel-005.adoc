@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v10-5-0]]
+=== II Samuel, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 5 narra a unificação das tribos de Judá e Israel sob o reinado do rei Davi. O capítulo começa com os líderes de Israel vindo a Davi em Hebrom para reconhecê-lo como seu rei, após a morte de Saul. Em seguida, Davi lidera uma batalha bem-sucedida contra os jebuseus e toma Jerusalém como sua capital. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Samuel 5:
+* Gênesis 49:10: "O cetro não se apartará de Judá, nem o bastão de comando dentre seus descendentes, até que venha aquele a quem ele pertence, e a ele as nações obedecerão." Este versículo é uma profecia de Jacó sobre seu filho Judá, que se tornaria a tribo real de Israel. A unificação das tribos sob o reinado de Davi é uma realização dessa profecia.
+* Números 27:17: "Que o Senhor, o Deus dos espíritos de toda a humanidade, designe alguém sobre esta comunidade para liderá-la." Este versículo foi falado por Moisés quando pediu a Deus para escolher um sucessor para liderar os israelitas após sua morte. Davi foi escolhido por Deus para ser o sucessor de Saul e liderar os israelitas.
+* 1 Crônicas 11:4-5: "Davi e todo o Israel foram a Jerusalém (isto é, Jebus). Os jebuseus que ali habitavam disseram a Davi: 'Jamais entrarás aqui!' Mas Davi tomou a fortaleza de Sião, que é a cidade de Davi." Este versículo descreve a batalha de Davi contra os jebuseus para tomar Jerusalém como sua capital. A vitória de Davi sobre os jebuseus é um marco importante na história de Israel.
+* Salmos 2:6-7: "Fui eu que ungi o meu rei sobre Sião, meu santo monte". Este salmo é uma profecia sobre o Messias, que seria ungido por Deus para governar as nações. A unção de Davi como rei de Israel é um prenúncio desse evento.
+* Isaías 9:6-7: "Porque um menino nos nasceu, um filho nos foi dado, e o governo está sobre os seus ombros. E ele será chamado Maravilhoso Conselheiro, Deus Poderoso, Pai Eterno, Príncipe da Paz. De aumentar o seu governo e da paz não haverá fim sobre o trono de Davi e sobre o seu reino, para o firmar e o fortificar com juízo e com justiça, desde agora e para sempre". Este versículo é uma profecia sobre o Messias que viria da linhagem de Davi. A unificação das tribos de Israel sob o reinado de Davi é um prenúncio do governo eterno do Messias sobre todas as nações.
+****
+
+[[v10-5-1]]
+
+^<<v10-5-1,1>>^ Todas as tribos de Israel foram ter com Davide a Hebron, dizendo: Aqui nos tens, somos teus ossos e tua carne (porque descendemos todos de Jacob).
+
+[[v10-5-2]]
+
+^<<v10-5-2,2>>^ Ainda quando Saul era rei sobre nós, já eras tu o que conduzias e reconduzias Israel. Demais, o Senhor disse-te: Tu apascentarás o meu povo de Israel, serás condutor de Israel.
+
+[[v10-5-3]]
+
+^<<v10-5-3,3>>^ Foram também os anciães de Israel ter com o rei a Hebron, e ali o rei Davide fez aliança com eles diante do Senhor, e eles ungiram Davide rei sobre Israel.
+
+[[v10-5-4]]
+
+^<<v10-5-4,4>>^ Davide tinha trinta anos, quando começou a reinar, e reinou quarenta anos.
+
+[[v10-5-5]]
+
+^<<v10-5-5,5>>^ Reinou, em Hebron, sete anos e meio sobre Judá; trinta e três anos, em Jerusalém, sobre todo o Israel e sobre Judá.
+
+[[v10-5-6]]
+
+^<<v10-5-6,6>>^ O rei foi com toda a gente que tinha consigo a Jerusalém, contra os Jebuseus, que moravam, naquele território. Estes disseram a Davide: Não entrarás cá, sem que lances fora os cegos e os coxos, os quais estão dizendo: Davide não entrará aqui. (ver nota)
+
+[[v10-5-7]]
+
+^<<v10-5-7,7>>^ Porém Davide tomou a fortaleza de Sião, que é a cidade de Davide.
+
+[[v10-5-8]]
+
+^<<v10-5-8,8>>^ Naquele dia Davide disse: Todo o que ferir os Jêbuseus e atingir o alto da fortaleza e expulsar os cegos e os coxos, inimigos de Davide, (será chefe e príncipe). Por isso se diz em provérbio: Nem cego nem coxo entrarão no templo.
+
+[[v10-5-9]]
+
+^<<v10-5-9,9>>^ Davide habitou na fortaleza, e chamou-a cidade de Davide; levantou edifícios ao redor, desde Melo, e no interior.
+
+[[v10-5-10]]
+
+^<<v10-5-10,10>>^ Davide ia-se fortificando e crescendo mais e mais, e o Senhor Deus dos exércitos era com ele.
+
+[[v10-5-11]]
+
+^<<v10-5-11,11>>^ Hiram, rei de Tiro, enviou mensageiros a Davide, com madeira de cedro, assim como carpinteiros e canteiros que edificaram uma casa a Davide.
+
+[[v10-5-12]]
+
+^<<v10-5-12,12>>^ Davide reconheceu que o Senhor o tinha confirmado rei sobre Israel, e que exaltava o seu reino por amor do seu povo de Israel.
+
+[[v10-5-13]]
+
+^<<v10-5-13,13>>^ Davide tomou outras mulheres, de segunda e primeira ordem, de Jerusalém, depois que veio de Hebron, e teve delas filhos e filhas.
+
+[[v10-5-14]]
+
+^<<v10-5-14,14>>^ Estes são os nomes dos que lhe nasceram em Jerusalém: Samua, Sobab, Natan, Salomão,
+
+[[v10-5-15]]
+
+^<<v10-5-15,15>>^ Jebabar, Elisua, Nefeg,
+
+[[v10-5-16]]
+
+^<<v10-5-16,16>>^ Jafa, Elisama, Elioda e Elifalet.
+
+[[v10-5-17]]
+
+^<<v10-5-17,17>>^ Os Filisteus, ouvindo dizer que Davide tinha sido ungido rei sobre Israel, subiram todos em busca de Davide. Sabendo isto Davide, retirou-se a um lugar forte.
+
+[[v10-5-18]]
+
+^<<v10-5-18,18>>^ Os Filisteus fizeram uma incursão pelo vale dos Refains.
+
+[[v10-5-19]]
+
+^<<v10-5-19,19>>^ Davide consultou o Senhor, dizendo: Marcharei contra os Filisteus? Entregarmos-ás tu nas minhas mãos? O Senhor respondeu a Davide: Vai, que eu entregarei os Filisteus nas tuas mãos.
+
+[[v10-5-20]]
+
+^<<v10-5-20,20>>^ Foi, pois, Davide a Baal Farasim, onde os derrotou, e disse: O Senhor irrompeu sobre os meus inimigos à minha vista, como águas que irrompem sobre os diques, despedaçando-os. Por isso aquele lugar foi chamado Baal Farasim.
+
+[[v10-5-21]]
+
+^<<v10-5-21,21>>^ Os Filisteus deixaram lá os seus ídolos, os quais Davide e a sua gente levaram (para queimar).
+
+[[v10-5-22]]
+
+^<<v10-5-22,22>>^ Os Filisteus voltaram novamente e espalharam-se pelo vale dos Refains.
+
+[[v10-5-23]]
+
+^<<v10-5-23,23>>^ Davide consultou o Senhor: Irei eu contra os Filisteus, e entregá-los-ás nas minhas mãos? O Senhor respondeu-lhe: Não vás direto a eles, mas dá volta por detrás deles, e irás contra eles, do lado dos balsameiros.
+
+[[v10-5-24]]
+
+^<<v10-5-24,24>>^ Quando ouvires um rumor como de passos, entre as copas dos balsameiros, então travarás a batalha, porque o Senhor marchará então diante de ti, para ferir o acampamento dos Filisteus.
+
+[[v10-5-25]]
+
+^<<v10-5-25,25>>^ Fez, pois, Davide como o Senhor lhe tinha mandado, e derrotou os Filisteus desde Gabaa até chegar a Gezer.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-004.adoc#v10-4-0[&#60; Capítulo Anterior] | <<v10-5-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-006.adoc#v10-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v2-33-0]]
+=== Êxodo, 33
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Êxodo 33 descreve a continuação da relação de Moisés com Deus após a idolatria do bezerro de ouro. Neste capítulo, Moisés pede a Deus para que ele o acompanhe e guie o povo de Israel na jornada para a terra prometida, e Deus promete que a sua presença irá com eles. Abaixo seguem cinco versículos relacionados com os temas abordados em Êxodo 33:
+* Êxodo 33:14: "Disse ele: A minha presença irá contigo, e eu te darei descanso." Este versículo mostra a promessa de Deus a Moisés de que a sua presença irá acompanhá-lo na jornada com o povo de Israel. Isso mostra a importância da presença de Deus para Moisés e para o povo.
+* Deuteronômio 31:8: "O Senhor, pois, é aquele que vai adiante de ti; ele será contigo, não te deixará, nem te desamparará; não temas, nem te atemorizes." Aqui, vemos a promessa de Deus a Josué, sucessor de Moisés, de que a sua presença irá com ele na liderança do povo. Isso mostra a continuação da relação entre Deus e o povo de Israel, e a importância da presença de Deus para a liderança.
+* Deuteronômio 31:23: "E deu ordem ao Josué, filho de Num, dizendo: Esforça-te e tem bom ânimo, porque tu farás entrar os filhos de Israel na terra que lhes tenho jurado; e eu serei contigo." Aqui, Deus encoraja Josué a liderar o povo de Israel com confiança, e promete que a sua presença irá acompanhá-lo na jornada.
+* Josué 1:9: "Não to mandei eu? Esforça-te e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus está contigo, por onde quer que andares." Este versículo é a continuação da promessa de Deus a Josué, mostrando mais uma vez a importância da presença de Deus na liderança do povo.
+* Salmos 23:4: "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam." Este versículo destaca a presença de Deus como fonte de consolo e proteção para o salmista, mostrando a importância da presença de Deus em momentos difíceis.
+****
+
+[[v2-33-1]]
+
+^<<v2-33-1,1>>^ O Senhor falou a Moisés, dizendo: Vai, sai deste lugar tu e o teu povo, que tiraste da terra do Egipto, para a terra que jurei (dar)_ a Abraão, a Isaac e a Jacob, dizendo: Eu a darei à tua posteridade.
+
+[[v2-33-2]]
+
+^<<v2-33-2,2>>^ Enviarei um anjo, diante de ti, e expulsarei o Cananeu, o Amorreu, o Heteu, o Ferezeu, o Heveu e o Jebuseu,
+
+[[v2-33-3]]
+
+^<<v2-33-3,3>>^ para que entres num país, onde corre leite e mel. Não subirei contigo, visto seres um povo de cerviz dura, não suceda que eu tenha de te exterminar no caminho.
+
+[[v2-33-4]]
+
+^<<v2-33-4,4>>^ O povo, ouvindo estas duras palavras, chotou, e nenhum vestiu as suas galas costumadas.
+
+[[v2-33-5]]
+
+^<<v2-33-5,5>>^ O Senhor disse a Moisés; Dize aos filhos de Israel: Tu és um povo de cerviz dura; se eu vier uma só vez ao meio de ti, exterminar-te-ei. Agora; pois, depõe as tuas galas, para que eu saiba o que terei de te fazer.
+
+[[v2-33-6]]
+
+^<<v2-33-6,6>>^ Depuseram, pois, os filhos de Israel as suas galas, desde o monte Horeb.
+
+[[v2-33-7]]
+
+^<<v2-33-7,7>>^ Moisés, tomando o tabernáculo, levantou-o longe, fora dos acampamentos, e chamou-lhe tabernáculo da reunião. Todos os do povo, que tinham alguma questão, saíam fora dos acampamentos ao tabernáculo da reunião.
+
+[[v2-33-8]]
+
+^<<v2-33-8,8>>^ Quando Moisés saia para o tabernáculo, toda a multidão se levantava, e cada um ficava em pé à porta da sua tenda, e olhava para Moisés, até ele entrar no tabernáculo.
+
+[[v2-33-9]]
+
+^<<v2-33-9,9>>^ Logo que ele entrava no tabernáculo da reunião, a coluna de nuvem descia, e parava à porta, e (o Senhor) falava com Moisés.
+
+[[v2-33-10]]
+
+^<<v2-33-10,10>>^ Todo o povo, ao ver que a coluna de nuvem se conservava parada à porta do tabernáculo, se levantava e se prosternava (adorando o Senhor) à porta das suas tendas.
+
+[[v2-33-11]]
+
+^<<v2-33-11,11>>^ O Senhor falava a Moisés face a face, como um homem costuma falar com o seu amigo. Quando ele voltava para os acampamentos, o seu jovem servo Josué, filho de Nun, não se apartava do tabernáculo.
+
+[[v2-33-12]]
+
+^<<v2-33-12,12>>^ Moisés disse ao Senhor: Ordenas-me que tire daqui povo mas não me declaras quem mandarás comigo, embora me tenhas dito: Conheço-te pelo Deu nome, e tu achaste graça diante de mim.
+
+[[v2-33-13]]
+
+^<<v2-33-13,13>>^ Se eu, pois, achei graça na tua presença, faze-me conhecer os teus caminhos, para que, conhecendo-os, veja que achei graça ante os teus olhos. Considera que este povo é o teu povo.
+
+[[v2-33-14]]
+
+^<<v2-33-14,14>>^ O Senhor disse-lhe: A minha face irá diante de ti, e eu te darei descanso.
+
+[[v2-33-15]]
+
+^<<v2-33-15,15>>^ Moisés disse: Se tu mesmo não vais adiante de nós, não nos faças partir deste lugar;
+
+[[v2-33-16]]
+
+^<<v2-33-16,16>>^ com efeito, como poderemos conhecer, eu e o teu povo que achamos graça diante de ti, se não andares connosco, para sermos respeitados de todos os povos que habitam sobre a terra?
+
+[[v2-33-17]]
+
+^<<v2-33-17,17>>^ O Senhor disse a Moisés: Até isto que disseste farei, porque tu achaste graça diante de mim, e eu te conheço pelo teu nome.
+
+[[v2-33-18]]
+
+^<<v2-33-18,18>>^ Moisés disse: Mostrai-me a tua glória.
+
+[[v2-33-19]]
+
+^<<v2-33-19,19>>^ (O Senhor) respondeu: Eu te mostrarei toda a minha bondade e pronunciarei o meu nome, Iavé, diante de ti, (porque) me compadeço de quem eu quiser, e sou clemente com quem me aprouver. (ver nota)
+
+[[v2-33-20]]
+
+^<<v2-33-20,20>>^ E acrescentou: Não poderás, porém ver a minha face, porque o homem não pode ver-me e viver.
+
+[[v2-33-21]]
+
+^<<v2-33-21,21>>^ Disse mais: Eis um lugar junto de mim, tu estarás sobre aquela pedra.
+
+[[v2-33-22]]
+
+^<<v2-33-22,22>>^ Quando passar a minha glória, eu te meterei na concavidade da pedra, e te cobrirei com a minha mão, até que tenha passado.
+
+[[v2-33-23]]
+
+^<<v2-33-23,23>>^ Depois tirarei a minha mão e tu me verás pelas costas; o meu rosto não o poderás ver. (ver nota)
+
+'''
+
+xref:002-exodo/002-exodo-032.adoc#v2-32-0[&#60; Capítulo Anterior] | <<v2-33-0,Topo>> | xref:002-exodo/002-exodo-034.adoc#v2-34-0[Próximo Capítulo &#62;]

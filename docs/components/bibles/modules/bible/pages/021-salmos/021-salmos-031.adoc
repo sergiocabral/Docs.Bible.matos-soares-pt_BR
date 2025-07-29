@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-31-0]]
+=== Salmos, 31
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 31 é uma oração de confiança e entrega a Deus em meio à adversidade. O salmista clama a Deus em busca de proteção, salvação e livramento dos inimigos, enquanto expressa sua confiança na fidelidade e bondade de Deus. A seguir estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Salmo 31.
+* Isaías 25:9: "E se dirá naquele dia: Eis que este é o nosso Deus, a quem aguardávamos, e ele nos salvará; este é o Senhor, a quem aguardávamos; na sua salvação exultaremos e nos alegraremos." Este verso fala da esperança da salvação que Deus oferece a Seu povo. A confiança na salvação de Deus é um tema recorrente no Salmo 31.
+* Jeremias 17:7-8: "Bendito o homem que confia no Senhor, e cuja confiança é o Senhor. Porque ele é como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem o calor, mas a sua folha fica verde; e no ano de sequidão não se afadiga, nem deixa de dar fruto." Este verso compara a pessoa que confia em Deus a uma árvore bem enraizada e resistente. A confiança em Deus como fonte de força e sustento se relaciona com o tema central do Salmo 31.
+* Habacuque 3:19: "O Senhor Deus é a minha força, e fará os meus pés como os das cervas, e me fará andar sobre as minhas alturas." Este verso fala da capacidade de Deus de fortalecer e capacitar Seu povo para enfrentar as dificuldades. A confiança na força e proteção de Deus se relaciona com o tema central do Salmo 31.
+* Romanos 8:31: "Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós?" Este verso fala da segurança que os crentes têm em Deus. A confiança na presença e proteção de Deus em meio às dificuldades se relaciona com o tema central do Salmo 31.
+* Hebreus 13:5-6: "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele tem dito: De maneira alguma te deixarei, nunca jamais te abandonarei. Assim, afirmemos confiantemente: O Senhor é o meu auxílio, não temerei; que me poderá fazer o homem?" Este verso fala da confiança na fidelidade de Deus, que nunca abandonará Seu povo. A confiança na presença e proteção de Deus em meio às dificuldades se relaciona com o tema central do Salmo 31.
+****
+
+[[v21-31-1]]
+
+^<<v21-31-1,1>>^ De Davide. Maskil. Bem-aventurado aquele cuja iniquidade foi perdoada, cujo pecado foi coberto.
+
+[[v21-31-2]]
+
+^<<v21-31-2,2>>^ Bem-aventurado o homem, a quem o Senhor não argui de culpa, e em cujo espírito não há engano,
+
+[[v21-31-3]]
+
+^<<v21-31-3,3>>^ Enquanto estive calado, os meus ossos definharam, entre os meus gemidos contínuos.
+
+[[v21-31-4]]
+
+^<<v21-31-4,4>>^ Com efeito, a tua mão pesava sobre mim de dia e de noite, consumia-se o meu vigor como pelos ardores do estio.
+
+[[v21-31-5]]
+
+^<<v21-31-5,5>>^ Eu te confessei o meu pecado, não ocultei a minha culpa; Eu disse: "Confessarei ao Senhor a minha iniquidade", e tu perdoaste a malícia do meu pecado.
+
+[[v21-31-6]]
+
+^<<v21-31-6,6>>^ Por isto orará a ti todo o (homem) piedoso no tempo da necessidade. Quando transbordarem águas abundantes, não chegarão até ele.
+
+[[v21-31-7]]
+
+^<<v21-31-7,7>>^ Tu és o meu refúgio, tu me preservarás das angústias, me rodearás do gozo da minha salvação.
+
+[[v21-31-8]]
+
+^<<v21-31-8,8>>^ Eu te instruirei (disseste), e ensinar-te-ei o caminho que deves seguir; eu te instruirei, tendo fixos sobre ti os meus olhos.
+
+[[v21-31-9]]
+
+^<<v21-31-9,9>>^ Não queirais ser como o cavalo e o mulo sem entendimento, cujo ímpeto se domina com o cabresto e o freio; doutro modo não se aproximam de ti.
+
+[[v21-31-10]]
+
+^<<v21-31-10,10>>^ São muitas as dores do ímpio; mas o que espera no Senhor é cercado de misericórdia.
+
+[[v21-31-11]]
+
+^<<v21-31-11,11>>^ Alegrai-vos no Senhor e regozijai-vos, ó justos, exultai vós todos os que sois de coração recto.
+
+'''
+
+xref:021-salmos/021-salmos-030.adoc#v21-30-0[&#60; Capítulo Anterior] | <<v21-31-0,Topo>> | xref:021-salmos/021-salmos-032.adoc#v21-32-0[Próximo Capítulo &#62;]

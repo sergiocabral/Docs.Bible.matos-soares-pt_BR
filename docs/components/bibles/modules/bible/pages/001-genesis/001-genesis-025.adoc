@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v1-25-0]]
+=== Gênesis, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 25 é um capítulo que narra a morte de Abraão e o nascimento dos filhos de Isaque. Também é apresentada a história de Esaú e Jacó, que nasceram como gêmeos, mas possuíam personalidades e interesses distintos. Abaixo, seguem cinco versículos relacionados com temas abordados em Gênesis 25, excluindo os versículos deste capítulo:
+* Provérbios 22:1: "Mais digno de ser escolhido é o bom nome do que as muitas riquezas, e a boa fama mais do que a prata e o ouro." Este versículo fala sobre a importância de se ter uma boa reputação, o que é algo que Esaú desvalorizou ao trocar sua primogenitura por um prato de lentilhas.
+* Hebreus 12:16-17: "E ninguém seja devasso, ou profano, como Esaú, que por uma refeição vendeu o seu direito de primogenitura. Porque sabeis que, querendo ele depois herdar a bênção, foi rejeitado, porque não achou lugar de arrependimento, ainda que com lágrimas o buscou." Estes versículos se referem ao exemplo negativo de Esaú, que valorizou mais suas necessidades imediatas do que sua herança espiritual.
+* Mateus 6:33: "Mas buscai primeiro o seu reino e a sua justiça, e todas estas coisas vos serão acrescentadas." Este versículo fala sobre a importância de colocar Deus em primeiro lugar em nossas vidas, o que Isaque fez ao escolher uma esposa de acordo com os valores da fé de sua família.
+* 1 Pedro 3:7: "Maridos, vós, igualmente, vivei com elas com compreensão, dando honra à mulher como vaso mais fraco, como sendo vós os seus coerdeiros da graça da vida, para que não sejam impedidas as vossas orações." Este versículo fala sobre o valor e a importância da relação entre marido e mulher, que é algo que é destacado na escolha de Rebeca como esposa de Isaque.
+* Gálatas 4:28: "Ora, vós, irmãos, como Isaque, sois filhos da promessa." Este versículo fala sobre a herança espiritual que é dada aos filhos da promessa, como Isaque e seus descendentes, incluindo Jacó, que recebeu a bênção de Deus.
+****
+
+[[v1-25-1]]
+
+^<<v1-25-1,1>>^ Abraão, porém, tomou outra mulher chamada Cetura,
+
+[[v1-25-2]]
+
+^<<v1-25-2,2>>^ a qual lhe deu à luz Zanram, Jecsan, Madan, Madian, Jesboc e Sué.
+
+[[v1-25-3]]
+
+^<<v1-25-3,3>>^ Jecsan gerou Saba e Dadàn. Os filhos, de Dadan foram Assurim, Latussim e Laomin,
+
+[[v1-25-4]]
+
+^<<v1-25-4,4>>^ De Madian nasceram Efa, Ofer, Henoch Abida e Eldas. Estes são todos os filhos de Cetura.
+
+[[v1-25-5]]
+
+^<<v1-25-5,5>>^ Abraão deu tudo o que possuía a Isaac;
+
+[[v1-25-6]]
+
+^<<v1-25-6,6>>^ pelos filhos das mulheres secundárias distribuiu dádivas, mas separou-os de Isaac, seu filho, ainda em sua vida, (mandando-os) para as partes do oriente.
+
+[[v1-25-7]]
+
+^<<v1-25-7,7>>^ Ora os dias da vida de Abraão foram cento e setenta e cinco anos.
+
+[[v1-25-8]]
+
+^<<v1-25-8,8>>^ Faltando-lhe as forças, morreu numa ditosa velhice, em avançada idade, cheio de dias, e foi unir-se ao seu povo.
+
+[[v1-25-9]]
+
+^<<v1-25-9,9>>^ Isaac e Ismael, seus filhos, sepultaram-no na dupla caverna que está situada no campo de Efron, filho de Seor Heteu, defronte de Mambré,
+
+[[v1-25-10]]
+
+^<<v1-25-10,10>>^ o qual (campo Abraão) tinha comprado aos filhos de Heth; aí foi sepultado com Sara, sua mulher.
+
+[[v1-25-11]]
+
+^<<v1-25-11,11>>^ E, depois da sua morte. Deus abençoou Isaac, seu filho, o qual habitava junto do poço chamado (poço) ,do que vive e do que vê.
+
+[[v1-25-12]]
+
+^<<v1-25-12,12>>^ Descendência de Ismael.
+
+[[v1-25-13]]
+
+^<<v1-25-13,13>>^ e estes são os nomes de seus filhos, segundo os seus nomes, e nas suas gerações. O primogênito de Ismael foi Nabajoth; depois (nasceram) Cedar, Abdeel, Mabsam,
+
+[[v1-25-14]]
+
+^<<v1-25-14,14>>^ Masma, Duma, Massa,
+
+[[v1-25-15]]
+
+^<<v1-25-15,15>>^ Hadar, Temia, Jetur, Nafis e Cedma.
+
+[[v1-25-16]]
+
+^<<v1-25-16,16>>^ Estes são os filhos de Ismael, e estes os seus nomes segundo as suas aldeias e os seus acampamentos; eles foram os doze chefes das suas tribos.
+
+[[v1-25-17]]
+
+^<<v1-25-17,17>>^ Os anos da vida de Ismael foram Cento e trinta e sete. Faltando-lhe as forças, morreu e foi unir-se ao seu povo.
+
+[[v1-25-18]]
+
+^<<v1-25-18,18>>^ Seus filhos habitaram desde Hevila até Sur, que olha para o Egito, caminhando para a Assíria, em frente de todos os seus irmãos.
+
+[[v1-25-19]]
+
+^<<v1-25-19,19>>^ Esta é a descendência de Isaac, filho de Abraão: Abraão gerou Isaac,
+
+[[v1-25-20]]
+
+^<<v1-25-20,20>>^ o qual, tendo quarenta anos, se casou com Rebeca, filha de Batuel Siro, da Mesopotâmia, irmã de Labão.
+
+[[v1-25-21]]
+
+^<<v1-25-21,21>>^ Isaac orou ao Senhor por sua mulher, porque ela era estéril, e ele o ouviu, e permitiu que Rebeca concebesse.
+
+[[v1-25-22]]
+
+^<<v1-25-22,22>>^ Mais as crianças lutavam no seu ventre, e ela disse: Se assim me havia de acontecer, que necessidade havia de que eu concebesse? Foi consultar o Senhor. (ver nota)
+
+[[v1-25-23]]
+
+^<<v1-25-23,23>>^ o qual lhe disse: Duas nações estão no teu ventre, dois povos (ao sair) do teu ventre se dividirão, e um povo vencerá o outro, e o mais velho servirá ao mais novo.
+
+[[v1-25-24]]
+
+^<<v1-25-24,24>>^ Quando chegou o tempo de dar à luz, foram achados dois gêmeos no seu ventre.
+
+[[v1-25-25]]
+
+^<<v1-25-25,25>>^ O que saiu primeiro era ruivo e tudo peludo, como uma peliça: e foi-lhe posto o nome de Esaú. Imediatamente saiu o outro, que agarrava com a mão o pé de Esaú, e por isso ela o chamou Jacob. (ver nota)
+
+[[v1-25-26]]
+
+^<<v1-25-26,26>>^ Era Isaac sexagenário quando os meninos lhe nasceram.
+
+[[v1-25-27]]
+
+^<<v1-25-27,27>>^ Tendo crescido, Esaú tomou-se perito caçador e do campo: Jacob, homem simples, habitava nas tendas.
+
+[[v1-25-28]]
+
+^<<v1-25-28,28>>^ Isaac amava Esaú, porque comia das suas caçadas: Rebeca amava Jacob.
+
+[[v1-25-29]]
+
+^<<v1-25-29,29>>^ Ora, tendo Jacob feito um cozinhado, chegou Esaú do campo, (muito) cansado,
+
+[[v1-25-30]]
+
+^<<v1-25-30,30>>^ e disse (a Jacob): Dá-me desse cozinhado vermelho, porque estou muito cansado. Por esta razão lhe puseram o nome Edom,
+
+[[v1-25-31]]
+
+^<<v1-25-31,31>>^ Jacob disse-lhe: Vende-me o teu direito de primogenitura.
+
+[[v1-25-32]]
+
+^<<v1-25-32,32>>^ Ele respondeu: Eis que vou morrer: de que me aproveitará o direito de primogenitura?
+
+[[v1-25-33]]
+
+^<<v1-25-33,33>>^ Jacob disse: Jura-mo pois. Esaú jurou-lho e vendeu o direito de primogenitura.
+
+[[v1-25-34]]
+
+^<<v1-25-34,34>>^ E assim, recebido o pão e o cozinhado de lentilhas, comeu, bebeu e foi-se embora, dando-se-lhe pouco de ter vendido o seu direito de primogenitura.
+
+'''
+
+xref:001-genesis/001-genesis-024.adoc#v1-24-0[&#60; Capítulo Anterior] | <<v1-25-0,Topo>> | xref:001-genesis/001-genesis-026.adoc#v1-26-0[Próximo Capítulo &#62;]

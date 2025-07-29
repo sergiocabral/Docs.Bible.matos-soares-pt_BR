@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v1-43-0]]
+=== Gênesis, 43
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 43 continua a narrativa da história de José e seus irmãos. Jacó, o pai dos irmãos, instrui seus filhos a voltarem ao Egito para comprar mais comida, levando consigo o irmão mais jovem, Benjamim, que era o único irmão restante do filho amado de Jacó, José. Os temas abordados neste capítulo incluem amor paterno, arrependimento, sacrifício e providência divina.
+* Deuteronômio 6:5: "Amarás, pois, o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todas as tuas forças." A relação amorosa entre Jacó e seus filhos é um tema importante em Gênesis 43. O amor de Jacó por seus filhos é uma imagem do amor de Deus por Seus filhos, e este versículo de Deuteronômio enfatiza a importância do amor a Deus como um princípio fundamental.
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa, alcançará misericórdia." Judá, um dos irmãos de José, assume a responsabilidade de garantir que Benjamim seja mantido em segurança e promete a seu pai que ele o trará de volta. Este versículo enfatiza a importância do arrependimento e da confissão para alcançar a misericórdia.
+* Hebreus 13:16: "Não negligencieis a prática do bem e a mútua cooperação, porque com tais sacrifícios Deus se agrada." Quando os irmãos de José voltam ao Egito, eles trazem consigo presentes para José. Este versículo enfatiza a importância do sacrifício e da prática do bem, e como isso agrada a Deus.
+* Provérbios 16:9: "Em seu coração, o homem planeja seu caminho, mas o Senhor determina seus passos." A providência divina é um tema importante em Gênesis 43. A viagem dos irmãos de José para o Egito foi planejada por eles mesmos, mas o resultado final foi determinado por Deus. Este versículo enfatiza a soberania de Deus sobre todas as coisas.
+* João 10:27-28: "As minhas ovelhas ouvem a minha voz; eu as conheço, e elas me seguem. Eu lhes dou a vida eterna, e jamais perecerão. Ninguém as poderá arrancar de minha mão." José se preocupa profundamente com seu irmão mais novo, Benjamim, e o protege da melhor maneira que pode. Este versículo enfatiza a segurança daqueles que pertencem a Deus e como Ele os protege e cuida deles.
+****
+
+[[v1-43-1]]
+
+^<<v1-43-1,1>>^ Entretanto a fome oprimia cruelmente toda a terra.
+
+[[v1-43-2]]
+
+^<<v1-43-2,2>>^ Consumidos os viventes que tinham levado do Egito, Jacob disse a seus filhos: Voltai e comprai-nos um pouco de viveres.
+
+[[v1-43-3]]
+
+^<<v1-43-3,3>>^ Judá respondeu: Aquele homem intimou-nos com juramento, dizendo; Não vereis a minha face, se não trouxerdes convosco o vosso irmão mais novo.
+
+[[v1-43-4]]
+
+^<<v1-43-4,4>>^ Se tu, pois, queres mandá-lo connosco, iremos juntos e te compraremos o necessário:
+
+[[v1-43-5]]
+
+^<<v1-43-5,5>>^ mas, se não queres, não iremos, porque aquele homem, como temos dito muitas vezes, declarou-nos: Não vereis a minha face sem (trazerdes) o vosso irmão mais novo.
+
+[[v1-43-6]]
+
+^<<v1-43-6,6>>^ Israel disse-lhes: Para minha desgraça fizestes-lhe saber que tinheis ainda um outro irmão.
+
+[[v1-43-7]]
+
+^<<v1-43-7,7>>^ Eles, porém, responderam: Aquele homem interrogou-nos insistentemente sobre a nossa família; se vivia o pai, se tínhamos outro irmão, — e nós respondemos-lhe segundo o que ele perguntava. Porventura podiamos nós saber que ele iria dizer: Trazei vosso irmão convosco?
+
+[[v1-43-8]]
+
+^<<v1-43-8,8>>^ Judá disse também a seu pai: Manda o menino comigo, para partirmos e podermos viver, e não morrermos nós e os nossos meninos.
+
+[[v1-43-9]]
+
+^<<v1-43-9,9>>^ Eu me encarrego dele; requere-o da minha mão: se eu o não trouxer, e to não restituir, serei sempre réu de pecado para contigo.
+
+[[v1-43-10]]
+
+^<<v1-43-10,10>>^ Se não tivesse havido (tanta) demora, já teríamos vindo segunda vez.
+
+[[v1-43-11]]
+
+^<<v1-43-11,11>>^ Então Israel, seu pai, disse-lhes: Se assim é necessário, fazei o que quereis: tomai dos melhores frutos do país nos vossos vasos, e levai de presente a esse homem um pouco de bálsamo, de mel, de estoraque, de mirra, e de terebinto, e de amêndoas.
+
+[[v1-43-12]]
+
+^<<v1-43-12,12>>^ Levai também convosco dobrado dinheiro, e tornai a levar aquele que encontrastes nos sacos, colocado neles talvez por engano.
+
+[[v1-43-13]]
+
+^<<v1-43-13,13>>^ Tomai também o vosso irmão e ide ter com esse homem.
+
+[[v1-43-14]]
+
+^<<v1-43-14,14>>^ O meu Deus omnipotente vo-lo torne propicio, e remeta convosco o vosso irmão que retém preso e este (meu) Benjamim. Quanto a mim, se me hei-de ver privado de meus filhos, seja!
+
+[[v1-43-15]]
+
+^<<v1-43-15,15>>^ Eles, pois, tomaram os presentes, o dinheiro dobrado e Benjamim, desceram ao Egito e apresentaram-se a José.
+
+[[v1-43-16]]
+
+^<<v1-43-16,16>>^ Este, tendo-os visto, e a Benjamim com eles, deu ordens ao despenseiro de sua casa, dizendo: Manda entrar para dentro de casa (esses) homens, mata alguns animais e prepara um banquete, porque hão-de comer comigo ao meio-dia. (ver nota)
+
+[[v1-43-17]]
+
+^<<v1-43-17,17>>^ Fez ele o que lhe tinha sido ordenado, e introduziu os homens em casa (de José).
+
+[[v1-43-18]]
+
+^<<v1-43-18,18>>^ Ai, amedrontados, disseram uns para os outros: Por causa daquele dinheiro, que levamos em nossos sacos, somos introduzidos aqui para fazer cair sobre nós esta calúnia e sujeitar violentamente à escravidão nós e os nossos jumentos.
+
+[[v1-43-19]]
+
+^<<v1-43-19,19>>^ Por isso, ao entrar a porta, aproximaram-se do despenseiro da casa
+
+[[v1-43-20]]
+
+^<<v1-43-20,20>>^ e disseram: Rogamos-te, senhor, que nos ouças. Já uma vez viemos comprar víveres:
+
+[[v1-43-21]]
+
+^<<v1-43-21,21>>^ depois de os termos comprado, quando chegamos à estalagem, abrimos os nossos sacos e encontramos na boca dos sacos o dinheiro, o qual tornamos a trazer agora no mesmo peso.
+
+[[v1-43-22]]
+
+^<<v1-43-22,22>>^ (Além deste) trouxemos outro dinheiro, para comprarmos o que nos é necessário: não sabemos quem pôs aquele nos nossos sacos.
+
+[[v1-43-23]]
+
+^<<v1-43-23,23>>^ Ele, porém, respondeu: A paz seja convosco: não temais. O vosso Deus, o Deus de vosso pai, pôs-vos (aqueles) tesouros nos vossos sacos, porque o vosso dinheiro, eu o recebi. E trouxe-lhes Simeão.
+
+[[v1-43-24]]
+
+^<<v1-43-24,24>>^ Introduzidos em casa, deu-lhes água para lavarem os pés, e deu de comer aos seus jumentos.
+
+[[v1-43-25]]
+
+^<<v1-43-25,25>>^ Eles preparavam os presentes, para quando José entrasse ao meio-dia, porque tinham ouvido que ai haviam de comer.
+
+[[v1-43-26]]
+
+^<<v1-43-26,26>>^ José entrou em sua casa, e eles ofereceram-lhe os presentes, que tinham nas suas mãos, e saudaram-no, inclinando-se até à terra.
+
+[[v1-43-27]]
+
+^<<v1-43-27,27>>^ Ele perguntou se estavam bons e, a seguir, interrogou: O vosso velho pai, de quem me falastes, está de saúde? Ainda vive?
+
+[[v1-43-28]]
+
+^<<v1-43-28,28>>^ Eles responderam: Nosso pai, teu servo, está de saúde, ainda vive. E, inclinando-se, o saudaram.
+
+[[v1-43-29]]
+
+^<<v1-43-29,29>>^ José, levantando os olhos, viu Benjamim, seu irmão, filho de sua mãe, e disse: É este o vosso irmão mais novo, de quem me tinheis falado? E acrescentou: Deus se compadeça de ti, meu filho.
+
+[[v1-43-30]]
+
+^<<v1-43-30,30>>^ Então apressou-se (a retirar), porque o seu íntimo se tinha comovido por causa de seu irmão. Procurando onde chorar, entrou no (seu) quarto e aí chorou.
+
+[[v1-43-31]]
+
+^<<v1-43-31,31>>^ Saindo outra vez, depois de lavado o rosto, conteve-se e disse: Trazei de comer.
+
+[[v1-43-32]]
+
+^<<v1-43-32,32>>^ E foi posta a mesa à parte para José, à parte para os irmãos, à parte também para os Egípcios, que comiam com ele porque não é licito aos Egípcios, comer com os Hebreus, pois consideram isso abominável. (ver nota)
+
+[[v1-43-33]]
+
+^<<v1-43-33,33>>^ Sentavam-se na sua presença, o primogênito segundo o seu privilégio de primogenitura, e o mais novo segundo a sua idade, olhando-sé espantados uns para os outros.
+
+[[v1-43-34]]
+
+^<<v1-43-34,34>>^ Ao receberem as rações que lhes mandava, (viram que) a de Benjamim era cinco vezes mais abundante. E beberam e alegraram-se com ele.
+
+'''
+
+xref:001-genesis/001-genesis-042.adoc#v1-42-0[&#60; Capítulo Anterior] | <<v1-43-0,Topo>> | xref:001-genesis/001-genesis-044.adoc#v1-44-0[Próximo Capítulo &#62;]

@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v30-46-0]]
+=== Jeremias, 46
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 46 descreve a queda da nação egípcia nas mãos do império babilônico, sob a perspectiva do profeta Jeremias. O capítulo começa com a profecia de Deus contra o exército egípcio, alertando que eles serão derrotados e que o Nilo se transformará em um deserto. Em seguida, há uma descrição da batalha de Carquemis, na qual o exército egípcio é derrotado. Abaixo estão cinco versículos que tratam de temas relacionados ao capítulo.
+* Êxodo 14:14: "O Senhor lutará por vós; apenas ficai tranquilos." Este versículo fala da confiança que o povo de Deus deve ter em sua proteção. Em Jeremias 46, Deus profetiza a queda do exército egípcio, mostrando que Ele tem poder sobre todas as nações.
+* Isaías 31:1: "Ai dos que descem ao Egito em busca de ajuda, que confiam em cavalos, e se apóiam na multidão de seus carros e na força de seus cavaleiros, mas não olham para o Santo de Israel, nem buscam o Senhor!" Este versículo adverte contra a confiança em poder militar ou em outros países, em vez de confiar em Deus. Jeremias 46 mostra a queda do Egito e como eles confiaram em sua própria força em vez de buscar a ajuda de Deus.
+* Salmos 20:7-8: "Alguns confiam em carros, outros em cavalos, mas nós confiamos no nome do Senhor, nosso Deus. Eles se curvam e caem, mas nós nos levantamos e ficamos de pé." Este versículo fala da confiança em Deus e da vitória que Ele pode trazer sobre os inimigos. Em Jeremias 46, a nação egípcia confia em seus cavalos e carros de guerra, mas Deus profetiza a sua queda.
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor." Este versículo enfatiza que, embora as nações possam preparar suas forças militares para a batalha, é Deus quem concede a vitória. Em Jeremias 46, Deus profetiza a queda do Egito e como sua confiança em sua própria força não poderá salvá-los.
+* Isaías 30:7: "Porque o Egito ajudará em vão e sem proveito; por isso, chamo a isso orgulho insolente." Este versículo fala da inutilidade de confiar no Egito para ajuda ou proteção. Em Jeremias 46, Deus profetiza a queda do Egito e como eles confiaram em sua própria força e na ajuda de outros países em vez de buscar a ajuda de Deus.
+****
+
+[[v30-46-1]]
+
+^<<v30-46-1,1>>^ Palavra do Senhor, que foi dirigida ao profeta Jeremias sobre as nações.
+
+[[v30-46-2]]
+
+^<<v30-46-2,2>>^ Contra o Egito, contra o exército do Faraó Necao rei do Egito, que estava junto ao rio Eufrates em Carcamis, a quem derrotou Nabucodonosor, rei de Babilônia, no ano quarto de Joaquim, filho de Josias, rei de Judá.
+
+[[v30-46-3]]
+
+^<<v30-46-3,3>>^ Preparai o escudo e o pavês, e saí ao combate.
+
+[[v30-46-4]]
+
+^<<v30-46-4,4>>^ Aparelhai os cavalos e montai, cavaleiros! Ponde os elmos, açacalai as lanças, revesti-vos das couraças!
+
+[[v30-46-5]]
+
+^<<v30-46-5,5>>^ Mas que vejo? Vejo-os medrosos, voltar as costas. Os seus valentes derrotados, fogem precipitados, nem para trás olham. O terror cerca-os de todas as partes, diz o Senhor.
+
+[[v30-46-6]]
+
+^<<v30-46-6,6>>^ Não pode fugir o ágil, nem salvar-se o valente: para as bandas do Aquilão, junto ao rio Eufrates, vacilam, caem por terra.
+
+[[v30-46-7]]
+
+^<<v30-46-7,7>>^ Quem é este (exército) que sobe como o Nilo, como um rio de águas tumultuantes?
+
+[[v30-46-8]]
+
+^<<v30-46-8,8>>^ É o Egito que sobe como o Nilo, como um rio de águas tumultuantes. Dizia: Subindo, cobrirei a terra, destruirei as cidades e os seus habitantes.
+
+[[v30-46-9]]
+
+^<<v30-46-9,9>>^ Avançai, cavalos! Precipitai-vos carros! Avante, guerreiros da Etiópia e da Líbia, armados de escudos, e Lídios que retesais o arco!
+
+[[v30-46-10]]
+
+^<<v30-46-10,10>>^ Será o dia do Senhor Deus dos exércitos, dia de vingança, em que se vingará dos seus inimigos. A espada devorará, fartar-se-á, embriagar-se-á com o sangue deles. Faz-se uma imolação ao Senhor Deus dos exércitos na terra do Aquilão, junto ao rio Eufrates.
+
+[[v30-46-11]]
+
+^<<v30-46-11,11>>^ Sobe a Galaad e toma bálsamo, ó virgem, filha do Egito! Em vão multiplicas os remédios: não haverá cura para ti.
+
+[[v30-46-12]]
+
+^<<v30-46-12,12>>^ As gentes tiveram conhecimento da tua ignomínia, os teus gritos enchem a terra: porque o forte chocou com o forte, e ambos caíram juntamente.
+
+[[v30-46-13]]
+
+^<<v30-46-13,13>>^ Palavra que o Senhor dirigiu ao profeta Jeremias sobre a vinda de Nabucodonosor, rei de Babilônia, para assolar a terra do Egito:
+
+[[v30-46-14]]
+
+^<<v30-46-14,14>>^ Anunciai no Egito, publicai em Migdol, em Mênfis e em Tafnis. Dizei: Levanta-te, e prepara-te, porque a espada vai devorar o que está em volta de ti.
+
+[[v30-46-15]]
+
+^<<v30-46-15,15>>^ Por que ficou derrubado o teu valente? Não se pôde ter de pé, porque o Senhor o lançou por terra.
+
+[[v30-46-16]]
+
+^<<v30-46-16,16>>^ Multiplicou os que tropeçam: caem uns sobre os outros, dizendo: Levantemo-nos, voltemos para o nosso povo, para a terra onde nascemos, fugindo da espada destruidora.
+
+[[v30-46-17]]
+
+^<<v30-46-17,17>>^ A Faraó, rei do Egito, ponde este nome: O tempo trouxe o tumulto.
+
+[[v30-46-18]]
+
+^<<v30-46-18,18>>^ Juro pela minha vida - disse aquele rei cujo nome é Senhor dos exércitos - que, assim como o Tabor (se eleva) entre os montes, e o Carmelo sobre o mar, assim virá (sobre o Egito o instrumento do meu castigo).
+
+[[v30-46-19]]
+
+^<<v30-46-19,19>>^ Prepara a tua bagagem para transmigrar, ó moradora do Egito, porque Mênfis será convertida num deserto, ficará devastada e despovoada.
+
+[[v30-46-20]]
+
+^<<v30-46-20,20>>^ O Egito é uma novilha mui formosa; do Aquilão vem um moscardão contra ela.
+
+[[v30-46-21]]
+
+^<<v30-46-21,21>>^ Também os seus mercenários que moravam no meio dela como bezerros cevados, voltaram as costas e deitaram a fugir, não puderam fazer frente (ao inimigo), porque chegou para eles o dia da sua ruína, o dia do seu castigo.
+
+[[v30-46-22]]
+
+^<<v30-46-22,22>>^ A sua voz é como o sibilar da serpente. Sim, (os Caldeus) avançam em massa e atacam-na com machados, como os que cortam lenha.
+
+[[v30-46-23]]
+
+^<<v30-46-23,23>>^ Cortam as árvores do seu bosque, diz o Senhor, as quais não podem contar-se. São mais numerosos que gafanhotos, são inumeráveis.
+
+[[v30-46-24]]
+
+^<<v30-46-24,24>>^ Confundida está a filha do Egito, entregue nas mãos dum povo do Aquilão.
+
+[[v30-46-25]]
+
+^<<v30-46-25,25>>^ O Senhor dos exércitos, o Deus de Israel, disse: Eis que castigarei Amon de Nó, Faraó, o Egito, os seus deuses e os seus reis; Faraó e aqueles que confiam nele.
+
+[[v30-46-26]]
+
+^<<v30-46-26,26>>^ Entregá-los-ei nas mãos dos que procuram tirar-lhe a vida, nas mãos de Nabucodonosor, rei de Babilônia, e dos seus servos. Depois disto, o Egito será povoado, como nos dias antigos, diz o Senhor.
+
+[[v30-46-27]]
+
+^<<v30-46-27,27>>^ Mas tu não temas, servo meu Jacob, não te enchas de pavor, Israel, porque eu te livrarei da terra longínqua, e tirarei os teus descendentes do país onde estão cativos. Jacob voltará e viverá tranquilo e contente, sem haver quem o amedronte.
+
+[[v30-46-28]]
+
+^<<v30-46-28,28>>^ Não temas, servo meu Jacob, diz o Senhor, porque eu sou contigo. Hei-de consumir todas as nações, para as quais te desterrei; a ti, porém, não te consumirei, mas castigar-te-ei com medida, sem te deixar impune (como se fosses inocente).
+
+'''
+
+xref:030-jeremias/030-jeremias-045.adoc#v30-45-0[&#60; Capítulo Anterior] | <<v30-46-0,Topo>> | xref:030-jeremias/030-jeremias-047.adoc#v30-47-0[Próximo Capítulo &#62;]

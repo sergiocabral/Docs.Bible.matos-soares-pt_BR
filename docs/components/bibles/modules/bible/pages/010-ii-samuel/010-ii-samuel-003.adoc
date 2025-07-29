@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v10-3-0]]
+=== II Samuel, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de 2 Samuel descreve a longa luta entre a casa de Saul e a casa de Davi pelo controle de Israel. Abner, o comandante do exército de Saul, se recusa a se submeter a Davi após a morte de Saul, e escolhe um novo rei para Israel, Is-Bosete, filho de Saul. No entanto, a guerra entre as duas casas continua, e Abner eventualmente é morto por Joabe, o comandante do exército de Davi.
+* 2 Samuel 3:1 - "Houve uma longa guerra entre a casa de Saul e a casa de Davi. Davi foi-se tornando cada vez mais forte, enquanto a casa de Saul cada vez mais fraca." Esse versículo resume o tema principal do capítulo, que é a luta pelo poder entre as duas casas.
+* 2 Samuel 3:6 - "Enquanto houve guerra entre a casa de Saul e a casa de Davi, Abner foi ganhando poder na casa de Saul." Esse versículo mostra como Abner se tornou uma figura importante na casa de Saul durante a guerra.
+* 2 Samuel 3:27 - "Quando Abner voltou para Hebron, Joabe o levou para o meio da porta, como se quisesse falar com ele em particular, e ali o feriu no ventre. E Abner morreu por causa do sangue de Asael, irmão de Joabe." Esse versículo descreve a morte de Abner nas mãos de Joabe, um evento importante na luta pelo poder.
+* 2 Samuel 3:37 - "Todo o povo e todo o Israel compreenderam naquele dia que não tinha sido por vontade do rei que Abner, filho de Ner, fora morto." Esse versículo mostra que a morte de Abner foi um ato de Joabe, e não de Davi.
+* 2 Samuel 3:39 - "E o rei Davi chorou por Abner e disse: 'Hoje morreu um grande homem em Israel.'" Esse versículo mostra que mesmo Davi, que estava lutando contra Abner, reconheceu suas habilidades e lamentou sua morte.
+****
+
+[[v10-3-1]]
+
+^<<v10-3-1,1>>^ Houve uma longa guerra entre a casa de Saul e a casa de Davide, adiantando-se Davide e fortificando-se cada vez mais, enquanto que a casa de Saul decaía todos os dias.
+
+[[v10-3-2]]
+
+^<<v10-3-2,2>>^ Nasceram filhos a Davide em Hebron. O seu primogênito foi Amnon, (que teve) de Aquinoão Jezraelita;
+
+[[v10-3-3]]
+
+^<<v10-3-3,3>>^ depois deste, (teve) Queleab de Abigail, viúva de Nabal do Carmelo; o terceiro foi Absalão, filho de Maaca, filha de Tolmai, rei de Gessur;
+
+[[v10-3-4]]
+
+^<<v10-3-4,4>>^ O quarto foi Adonias, filho de Hagit; o quinto foi Safatia, filho de Abital;
+
+[[v10-3-5]]
+
+^<<v10-3-5,5>>^ o sexto Jetraão, filho de Elga, mulher de Davide. Estes (filhos) nasceram a Davide em Hebron.
+
+[[v10-3-6]]
+
+^<<v10-3-6,6>>^ Continuando a guerra entre a casa de Saul e a casa de Davide, Abner, filho de Ner, governava a casa de Saul.
+
+[[v10-3-7]]
+
+^<<v10-3-7,7>>^ Saul tinha tido uma mulher secundária, chamada Resfa, filha de Aia. Isboset disse a Abner:
+
+[[v10-3-8]]
+
+^<<v10-3-8,8>>^ Por que te juntaste tu à mulher secundária de meu pai? Ele, em extremo irado por estas palavras de Isboset, disse; Porventura sou eu (desprezível) como a cabeça de um cão, eu que sou hoje o adversário de Judá, que usei de piedade com a casa de Saul, teu pai, com seus irmãos e parentes, e que te não entreguei nas mãos de Davide? E tu buscas hoje em mim motivo para me arguires a propósito desta mulher?
+
+[[v10-3-9]]
+
+^<<v10-3-9,9>>^ Deus trate a Abner com toda a sua severidade, se eu não procurar para Davide o que o Senhor lhe prometeu com juramento,
+
+[[v10-3-10]]
+
+^<<v10-3-10,10>>^ fazendo que o reino seja transferido da casa de Saul, e que o trono de Davide seja elevado sobre Israel e sobre Judá, desde Dan até Bersabee.
+
+[[v10-3-11]]
+
+^<<v10-3-11,11>>^ (Isboset) não lhe pode responder coisa alguma, porque o temia.
+
+[[v10-3-12]]
+
+^<<v10-3-12,12>>^ Abner enviou mensageiros a Davide, que da sua parte lhe disseram; A quem pertence o país? E que acrescentassem: Faze amizade comigo, e eu te ajudarei a voltar para ti todo o Israel.
+
+[[v10-3-13]]
+
+^<<v10-3-13,13>>^ Davide respondeu: óptimo; eu farei amizade contigo, mas peço-te um a coisa: que não me venhas ver, sem me trazeres contigo Micol, filha de Saul; deste modo virás, e me verás.
+
+[[v10-3-14]]
+
+^<<v10-3-14,14>>^ Davide enviou mensageiros a Isboset, filho de Saul, a dizer-lhe: Restitue-me Micol, minha mulher, que eu desposei por ter matado cem Filisteus.
+
+[[v10-3-15]]
+
+^<<v10-3-15,15>>^ Isboset mandou tirá-la ao seu (segundo) marido, Faltiel, filho de Lais,
+
+[[v10-3-16]]
+
+^<<v10-3-16,16>>^ e o seu (segundo) marido a seguia chorando até Baurim. Abner disse-lhe: Vai, e volta para trás. E ele voltou.
+
+[[v10-3-17]]
+
+^<<v10-3-17,17>>^ Começou Abner a tratar com os anciães de Israel, dizendo: Muito tempo há que vós desejáveis que Davide reinasse sobre vós.
+
+[[v10-3-18]]
+
+^<<v10-3-18,18>>^ Fazeio-o, pois, agora, porque o Senhor disse a Davide: Eu salvarei por meio do meu servo o meu povo de Israel da mão dos Filisteus e de todos os seus inimigos.
+
+[[v10-3-19]]
+
+^<<v10-3-19,19>>^ Do mesmo modo falou Abner aos de Benjamim, e, a seguir, foi ter com Davide em Hebron para lhe dizer tudo o que os de Israel e todos os de Benjamim tinham resolvido.
+
+[[v10-3-20]]
+
+^<<v10-3-20,20>>^ Abner apresentou-se a Davide em Hebron, com vinte homens. Davide deu um banquete a Abner e aos homens que tinham ido com ele.
+
+[[v10-3-21]]
+
+^<<v10-3-21,21>>^ Abner disse a Davide: Eu Irei para reunir a ti, meu senhor e rei, todo o Israel, e farei aliança contigo, para que reines sobre todos, como deseja o teu coração. Tendo David e despedido Abner, e tendo-se este ido em paz,
+
+[[v10-3-22]]
+
+^<<v10-3-22,22>>^ chegaram logo os homens de Davide e Joab, os quais, tendo matado uns ladrões, traziam uma grande presa. Abner, porém, já não estava com Davide em Hebron, porque o tinha despedido, e ele tinha-se retirado em paz.
+
+[[v10-3-23]]
+
+^<<v10-3-23,23>>^ Joab, com todo o exército que estava com ele, chegou depois; não faltou, porém, quem dissesse a Joab: Abner, filho de Ner, veio ter com o rei, e este o despediu, e ele foi-se em paz.
+
+[[v10-3-24]]
+
+^<<v10-3-24,24>>^ Joab foi ter com o rei e disse: Que fizeste? Abner acaba de vir ter contigo; por que o despediste e o deixaste retirar?
+
+[[v10-3-25]]
+
+^<<v10-3-25,25>>^ Tu não sabes que Abner, filho de Ner, veio ter contigo para te enganar, para saber as tuas saídas e as tuas entradas e para sondar tudo quanto fazes?
+
+[[v10-3-26]]
+
+^<<v10-3-26,26>>^ Joab logo que saiu de junto de Davide, enviou mensageiros atrás de Abner, e o fez voltar da cisterna de Sira, sem Davide o saber.
+
+[[v10-3-27]]
+
+^<<v10-3-27,27>>^ Voltando Abner a Hebron, Joab chamou-o à parte, dentro da porta, como para lhe falar em segredo, e aí mesmo o feriu no ventre e matou, para vingar o sangue de Asael, seu irmão.
+
+[[v10-3-28]]
+
+^<<v10-3-28,28>>^ Ouvindo Davide o que tinha acontecido, disse: Eu e o meu reino, para sempre estamos inocentes, diante do Senhor, do sangue de Abner, filho de Ner.
+
+[[v10-3-29]]
+
+^<<v10-3-29,29>>^ Ele caia sobre a cabeça de Joab e sobre toda a casa de seu pai, e nunca falte na casa de Joab quem padeça de gonorreia, quem seja leproso, quem pegue no fuso, quem seja morto à espada e quem esteja privado de pão.
+
+[[v10-3-30]]
+
+^<<v10-3-30,30>>^ Joab e Abisai, seu Irmão, mataram Abner, porque ele tinha morto (em legitima defesa) seu irmão Asael na batalha de Gabaon.
+
+[[v10-3-31]]
+
+^<<v10-3-31,31>>^ Davide disse a Joab e a todo o povo, que estava com ele; Rasgai as vossas vestes, cobri-vos de saco e chorai nos funerais de Abner. O rei Davide ia atrás do féretro.
+
+[[v10-3-32]]
+
+^<<v10-3-32,32>>^ Logo que sepultaram Abner em Hebron, o rei Davide levantou a voz e chorou sobre a sepultura de Abner, chorando também todo o povo.
+
+[[v10-3-33]]
+
+^<<v10-3-33,33>>^ O rei, pranteando Abner, cantou assim: Abner não morreu como costumam morrer os cobardes.
+
+[[v10-3-34]]
+
+^<<v10-3-34,34>>^ As tuas mãos não foram atadas, nem os teus pés carregados de grilhões, mas tu caíste, como se cai diante dos filhos da iniquidade. Todo o povo, repetindo o mesmo, chorou sobre ele.
+
+[[v10-3-35]]
+
+^<<v10-3-35,35>>^ Todo o povo se acercou de Davide, para que ele tomasse algum alimento, antes de findar o dia, mas ele jurou: Deus me trate com todo o rigor, se eu provar pão ou o quer que seja, antes do sol posto.
+
+[[v10-3-36]]
+
+^<<v10-3-36,36>>^ Todo o povo ouviu e achou bem, como achava bem tudo o que o rei fazia.
+
+[[v10-3-37]]
+
+^<<v10-3-37,37>>^ E todo o povo, todo o Israel, reconheceu naquele dia que o rei não tivera parte alguma no assassinato de Abner, filho de Ner.
+
+[[v10-3-38]]
+
+^<<v10-3-38,38>>^ O rei disse ao seus servos: Não sabeis que um chefe, um grande homem, caiu hoje em Israel?
+
+[[v10-3-39]]
+
+^<<v10-3-39,39>>^ Eu, embora ungido rei, sou brando; estes homens, filhos de Sarvia, são mais duros que eu. O Senhor dê, a quem faz mal, segundo a sua malícia.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-002.adoc#v10-2-0[&#60; Capítulo Anterior] | <<v10-3-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-004.adoc#v10-4-0[Próximo Capítulo &#62;]

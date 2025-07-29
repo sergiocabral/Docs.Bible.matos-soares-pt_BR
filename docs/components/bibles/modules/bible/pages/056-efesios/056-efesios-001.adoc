@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v56-1-0]]
+=== Efésios, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Efésios 1 trata principalmente da eleição e predestinação dos crentes em Cristo, a redenção através do seu sangue e a revelação do mistério da vontade de Deus. A seguir, estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Efésios 1.
+* Romanos 8:29-30: "Porque os que dantes conheceu, também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos. E aos que predestinou, a estes também chamou; e aos que chamou, a estes também justificou; e aos que justificou, a estes também glorificou." Este versículo mostra que Deus predestinou aqueles que ele chamou para serem conformes à imagem de seu Filho. Isso está relacionado com o tema da predestinação em Efésios 1.
+* 1 Pedro 1:18-19: "Sabeis que não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que por tradição recebestes dos vossos pais, mas com o precioso sangue de Cristo, como de um cordeiro sem defeito e sem mancha." Este versículo fala sobre a redenção através do sangue de Cristo, que é um tema importante em Efésios 1.
+* Romanos 16:25-26: "Ora, àquele que é poderoso para vos confirmar segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério que desde tempos eternos esteve oculto, mas que agora foi manifesto e, por meio das Escrituras proféticas, segundo o mandamento do Deus eterno, dado a conhecer a todas as nações para obediência da fé." Este versículo fala sobre a revelação do mistério da vontade de Deus, que também é um tema importante em Efésios 1.
+* Colossenses 1:13-14: "Ele nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor; no qual temos a redenção pelo seu sangue, a saber, a remissão dos pecados." Este versículo fala sobre a redenção através do sangue de Cristo e a transferência dos crentes do reino das trevas para o reino de seu Filho. Isso está relacionado com os temas de redenção e eleição em Efésios 1.
+* Romanos 9:11-13: "Porque, não tendo eles ainda nascido, nem tendo feito bem ou mal (para que o propósito de Deus, segundo a eleição, ficasse firme, não por causa das obras, mas por aquele que chama), foi-lhe dito a ela: O maior servirá ao menor. Como está escrito: Amei a Jacó, porém, odiei a Esaú." Este versículo fala sobre a eleição de Jacó em detrimento de Esaú, o que está relacionado com o tema da eleição em Efésios 1.
+****
+
+[[v56-1-1]]
+
+^<<v56-1-1,1>>^ Paulo, Apóstolo de Jesus Cristo por vontade de Deus, aos santos (que estão em Éfeso) e aos fiéis em Jesus Cristo.
+
+[[v56-1-2]]
+
+^<<v56-1-2,2>>^ Graça e paz vos sejam dadas da parte de Deus nosso Pai e do Senhor Jesus Cristo.
+
+[[v56-1-3]]
+
+^<<v56-1-3,3>>^ Bendito (seja) Deus e Pai de Nosso Senhor Jesus Cristo, que nos abençoou, do alto dos céus, com toda a bênção espiritual, em Cristo,
+
+[[v56-1-4]]
+
+^<<v56-1-4,4>>^ escolhendo-nos nele, antes da criação do mundo, para sermos santos e imaculados, a seus olhos,
+
+[[v56-1-5]]
+
+^<<v56-1-5,5>>^ o qual (também) nos predestinou, no seu amor, para sermos seus filhos adotivos por (meio de) Jesus Cristo, por sua livre vontade,
+
+[[v56-1-6]]
+
+^<<v56-1-6,6>>^ para louvor da sua graça esplendorosa, a qual nos concedeu no muito Amado (Filho).
+
+[[v56-1-7]]
+
+^<<v56-1-7,7>>^ É nele que temos a redenção pelo seu sangue, a remissão dos pecados, segundo as riquezas da sua graça,
+
+[[v56-1-8]]
+
+^<<v56-1-8,8>>^ a qual derramou abundantemente sobre nós, em toda a sabedoria e prudência,
+
+[[v56-1-9]]
+
+^<<v56-1-9,9>>^ tornando-nos conhecido o mistério da sua vontade, que, segundo o seu beneplácito, tinha, desde há muito, estabelecido consigo mesmo,
+
+[[v56-1-10]]
+
+^<<v56-1-10,10>>^ para o realizar sua plenitude dos tempos: reunir em Cristo todas as coisas, assim as do céu, como as da terra.
+
+[[v56-1-11]]
+
+^<<v56-1-11,11>>^ Nós, predestinados pelo decreto daquele que opera todas as coisas, segundo o conselho da sua vontade, fomos escolhidos (ver nota)
+
+[[v56-1-12]]
+
+^<<v56-1-12,12>>^ para servir ao louvor da sua glória, nós, que antes tínhamos esperado em Cristo,
+
+[[v56-1-13]]
+
+^<<v56-1-13,13>>^ Nele também vós, tendo ouvido a palavra da verdade, o Evangelho da vossa salvação, e, tendo crido nele, fostes marcados com o selo do Espirito Santo que tinha sido prometido,
+
+[[v56-1-14]]
+
+^<<v56-1-14,14>>^ o qual é o penhor da nossa herança, esperando a plena redenção daqueles que Deus adquiriu, em louvor da sua glória. (ver nota)
+
+[[v56-1-15]]
+
+^<<v56-1-15,15>>^ Por isso, eu também, tendo ouvido qual a fé que tendes no Senhor Jesus e o amor para com todos os santos,
+
+[[v56-1-16]]
+
+^<<v56-1-16,16>>^ não cesso de dar graças (a Deus) por vós, fazendo menção de vós nas minhas orações,
+
+[[v56-1-17]]
+
+^<<v56-1-17,17>>^ para que o Deus Nosso Senhor Jesus Cristo, o Pai de glória, vos dê o espírito de sabedoria e de revelação, para o conhecerdes,
+
+[[v56-1-18]]
+
+^<<v56-1-18,18>>^ iluminando os olhos do vosso coração, para que conheçais qual a esperança a que ele vos chamou, quais as riquezas da glória da sua herança reservada aos santos,
+
+[[v56-1-19]]
+
+^<<v56-1-19,19>>^ e qual é em nós, os que cremos, a suprema grandeza do seu poder, atestado pela eficácia da sua força soberana (em nos converter),
+
+[[v56-1-20]]
+
+^<<v56-1-20,20>>^ a qual ele empregou em Cristo, ressuscitando-o dos mortos e pondo-o à sua mão direita no céu,
+
+[[v56-1-21]]
+
+^<<v56-1-21,21>>^ acima de todo o principado, potestade, virtude e dominação, acima de todo o nome que é nomeado, não só neste século, mas também no futuro.
+
+[[v56-1-22]]
+
+^<<v56-1-22,22>>^ Pôs debaixo dos seus pés todas as coisas e constituiu-o cabeça de toda a Igreja,
+
+[[v56-1-23]]
+
+^<<v56-1-23,23>>^ que é o seu corpo e o complemento daquele que se completa em todos. (ver nota)
+
+'''
+
+xref:055-galatas/055-galatas-006.adoc#v55-6-0[&#60; Capítulo Anterior] | <<v56-1-0,Topo>> | xref:056-efesios/056-efesios-002.adoc#v56-2-0[Próximo Capítulo &#62;]

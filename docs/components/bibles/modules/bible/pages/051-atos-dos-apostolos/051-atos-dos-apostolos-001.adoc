@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v51-1-0]]
+=== Atos dos Apóstolos, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Atos dos Apóstolos 1 é o primeiro capítulo do livro que relata os acontecimentos dos apóstolos após a ascensão de Jesus. Neste capítulo, é narrado como Jesus apareceu aos apóstolos após sua ressurreição, dando-lhes instruções e prometendo o batismo no Espírito Santo. Logo em seguida, ele é elevado aos céus diante dos olhos dos discípulos. Os versículos a seguir foram selecionados por estarem relacionados aos temas abordados em Atos dos Apóstolos 1:
+* Marcos 16:19: "Assim, depois de lhes ter falado, o Senhor Jesus foi elevado ao céu e sentou-se à direita de Deus." Este versículo apresenta a ascensão de Jesus ao céu, tema central de Atos dos Apóstolos 1.
+* João 16:7: "Mas eu vos digo a verdade: convém-vos que eu vá, porque, se eu não for, o Consolador não virá para vós outros; se, porém, eu for, eu vo-lo enviarei." Jesus fala sobre a importância de sua partida para que o Espírito Santo possa vir e guiar os discípulos.
+* Lucas 24:49: "E eis que sobre vós envio a promessa de meu Pai; permanecei, pois, na cidade até que do alto sejais revestidos de poder." Este versículo se relaciona com a promessa do batismo no Espírito Santo feita por Jesus aos seus discípulos em Atos dos Apóstolos 1:4-5.
+* Atos dos Apóstolos 2:4: "Todos ficaram cheios do Espírito Santo e passaram a falar em outras línguas, segundo o Espírito lhes concedia que falassem." Este versículo relata o cumprimento da promessa do batismo no Espírito Santo feita por Jesus em Atos dos Apóstolos 1:5.
+* João 14:26: "Mas o Consolador, o Espírito Santo, a quem o Pai enviará em meu nome, esse vos ensinará todas as coisas e vos fará lembrar de tudo o que vos tenho dito." Este versículo se relaciona com a promessa do Espírito Santo feita por Jesus aos seus discípulos em Atos dos Apóstolos 1:8, que seriam revestidos de poder para serem suas testemunhas em todo o mundo.
+****
+
+[[v51-1-1]]
+
+^<<v51-1-1,1>>^ No meu primeiro livro, ó Teófilo, falei de todas as coisas que Jesus fez e ensinou, desde o princípio (ver nota)
+
+[[v51-1-2]]
+
+^<<v51-1-2,2>>^ até ao dia em que, tendo dado as suas instruções por meio do Espírito Santo aos Apóstolos, que tinha escolhido, foi arrebatado ao céu;
+
+[[v51-1-3]]
+
+^<<v51-1-3,3>>^ aos quais também se manifestou vivo, depois da sua Paixão, com muitas provas, aparecendo-lhes, durante quarenta dias, e falando do reino de Deus.
+
+[[v51-1-4]]
+
+^<<v51-1-4,4>>^ Estando à mesa com eles, ordenou-lhes que não se afastassem de Jerusalém, mas que esperassem a promessa do Pai, "a qual ouvistes (disse ele) da minha boca; (ver nota)
+
+[[v51-1-5]]
+
+^<<v51-1-5,5>>^ porque João, na verdade, baptizou em água, mas vós sereis baptizados no Espírito Santo, daqui a poucos dias."
+
+[[v51-1-6]]
+
+^<<v51-1-6,6>>^ Então os que se tinham congregado, interrogavam-no: "Senhor, porventura chegou o tempo em que ides restabelecer o reino de Israel?"
+
+[[v51-1-7]]
+
+^<<v51-1-7,7>>^ Ele disse-lhes: "Não vos pertence a vós saber os tempos nem os momentos que o Pai reservou ao seu poder;
+
+[[v51-1-8]]
+
+^<<v51-1-8,8>>^ mas recebereis a virtude do Espírito Santo, que descerá sobre vós, e sereis minhas testemunhas em Jerusalém, em toda a Judeia, na Samaria e até às extremidades da terra."
+
+[[v51-1-9]]
+
+^<<v51-1-9,9>>^ Tendo dito isto, elevou-se à vista deles, e uma nuvem o ocultou aos seus olhos.
+
+[[v51-1-10]]
+
+^<<v51-1-10,10>>^ Como estivessem olhando para o céu, quando ele ia subindo, eis que se apresentaram junto deles dois personagens vestidos de branco,
+
+[[v51-1-11]]
+
+^<<v51-1-11,11>>^ os quais lhes disseram: "Homens da Galileia, por que estais aí parados olhando para o céu? Esse Jesus que, separando-se de vós, foi arrebatado ao céu, virá do mesmo modo que o viste ir para o céu."
+
+[[v51-1-12]]
+
+^<<v51-1-12,12>>^ Então voltaram para Jerusalém, do monte chamado das Oliveiras que dista de Jerusalém a jornada de um sábado. (ver nota)
+
+[[v51-1-13]]
+
+^<<v51-1-13,13>>^ Logo que chegaram, subiram ao cenáculo, onde permaneciam habitualmente Pedro, João, Tiago, André, Filipe, Tomé, Bartolomeu, Mateus, Tiago, filho de Alfeu, Simão o Zelador, e Judas, irmão de Tiago.
+
+[[v51-1-14]]
+
+^<<v51-1-14,14>>^ Todos estes perseveravam unânimemente em oração, com as mulheres e com Maria, Mãe de Jesus, e com os irmãos dele. (ver nota)
+
+[[v51-1-15]]
+
+^<<v51-1-15,15>>^ Naqueles dias, levantando-se Pedro no meio dos irmãos (o número das pessoas ali reunidas era de cerca cento e vinte), disse:
+
+[[v51-1-16]]
+
+^<<v51-1-16,16>>^ "Irmãos, é necessário que se cumpra o que o Espírito Santo predisse na Escritura pela boca de David, acerca de Judas, que foi o guia daqueles que prenderam Jesus.
+
+[[v51-1-17]]
+
+^<<v51-1-17,17>>^ Ele estava alistado entre nós e tinha recebido a sua parte no nosso ministério.
+
+[[v51-1-18]]
+
+^<<v51-1-18,18>>^ Este homem, depois de adquirir um campo com o salário da sua iniquidade, tendo caído de cabeça, rebentou pelo meio, e todas as suas entranhas se derramaram. (ver nota)
+
+[[v51-1-19]]
+
+^<<v51-1-19,19>>^ Este facto tornou-se tão notório a todos os habitantes de Jerusalém, que se ficou chamando aquele campo, na língua deles, Haceldama, isto é, Campo de sangue.
+
+[[v51-1-20]]
+
+^<<v51-1-20,20>>^ Com efeito, está escrito no livro dos Salmos: Fique deserta a sua morada, e não haja quem habite nela! E: Receba outro o seu ministério (Ps. 68, 26; Ps. 108, 8).
+
+[[v51-1-21]]
+
+^<<v51-1-21,21>>^ É necessário, pois, que, destes varões que têm estado juntos connosco durante todo o tempo em que o Senhor Jesus viveu entre nós,
+
+[[v51-1-22]]
+
+^<<v51-1-22,22>>^ desde o baptismo de João até ao dia em que foi arrebatado (ao céu) dentre nós, um deles seja constituído testemunha connosco da sua ressurreição. (ver nota)
+
+[[v51-1-23]]
+
+^<<v51-1-23,23>>^ Foram apresentados dois: José, chamado Barsabas, o qual tinha por sobrenome o Justo, e Matias.
+
+[[v51-1-24]]
+
+^<<v51-1-24,24>>^ E, orando, disseram: "Tu, Senhor, que conheces os corações de todos, mostra-nos destes dois o que escolheste
+
+[[v51-1-25]]
+
+^<<v51-1-25,25>>^ para ocupar o lugar deste ministério e apostolado, do qual se transviou Judas para ir para o seu lugar." (ver nota)
+
+[[v51-1-26]]
+
+^<<v51-1-26,26>>^ Tiraram os seus nomes à sorte, e caiu a sorte em Matias, o qual foi associado aos onze Apóstolos.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-021.adoc#v50-21-0[&#60; Capítulo Anterior] | <<v51-1-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-002.adoc#v51-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v28-28-0]]
+=== Eclesiástico, 28
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 28 do livro de Eclesiástico trata do perdão e da importância de evitar a ira e a vingança. O autor adverte que aqueles que procuram vingança experimentarão a ira de Deus, e que é melhor perdoar para evitar conflitos e brigas. Abaixo estão cinco versículos relacionados com esses temas:
+* Provérbios 19:11: "A sabedoria do homem lhe dá paciência; sua glória é ignorar ofensas." Este versículo destaca a importância da paciência e da sabedoria na resposta a ofensas, enfatizando que é melhor ignorá-las do que revidar.
+* Mateus 6:14-15: "Porque se perdoarem as ofensas uns dos outros, o Pai celestial também lhes perdoará. Mas se não perdoarem uns aos outros, o Pai celestial não lhes perdoará as ofensas." Jesus ensina a importância do perdão, afirmando que aqueles que perdoam serão perdoados pelo Pai Celestial, enquanto aqueles que não perdoam não receberão perdão.
+* Romanos 12:19: "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: "Minha é a vingança; eu retribuirei", diz o Senhor." Paulo encoraja os cristãos a não buscarem vingança, mas a confiarem em Deus para julgar e punir os que fazem o mal.
+* Efésios 4:31-32: "Livrem-se de toda amargura, indignação e ira, gritaria e calúnia, bem como de toda maldade. Sejam bondosos e compassivos uns para com os outros, perdoando-se mutuamente, assim como Deus os perdoou em Cristo." Paulo exorta os crentes a abandonar a ira e a maldade e a serem compassivos e perdoadores uns com os outros, como Deus perdoou em Cristo.
+* Colossenses 3:13: "Suportem-se uns aos outros e perdoem as queixas que tiverem uns contra os outros. Perdoem como o Senhor lhes perdoou." O apóstolo Paulo incentiva os cristãos a suportarem uns aos outros e a perdoarem uns aos outros, assim como Deus os perdoou em Cristo.
+****
+
+[[v28-28-1]]
+
+^<<v28-28-1,1>>^ Aquele que quer vingar-se, encontrará a vingança do Senhor, o qual tirará exacta conta dos seus pecados.
+
+[[v28-28-2]]
+
+^<<v28-28-2,2>>^ Perdoa ao teu próximo que te ofendeu, e então, quando pedires, serão perdoados os teus pecados.
+
+[[v28-28-3]]
+
+^<<v28-28-3,3>>^ Um homem conserva a sua ira contra outro homem, e pede a Deus remédio?
+
+[[v28-28-4]]
+
+^<<v28-28-4,4>>^ Não tem compaixão dum homem seu semelhante, e pede perdão dos seus pecados?
+
+[[v28-28-5]]
+
+^<<v28-28-5,5>>^ Ele, que é carne, conserva rancor, e pede propiciação a Deus? Quem lha alcançará pelos seus delitos?
+
+[[v28-28-6]]
+
+^<<v28-28-6,6>>^ Lembra-te do teu fim e deixa de nutrir inimizades,
+
+[[v28-28-7]]
+
+^<<v28-28-7,7>>^ porque a corrupção e a morte ameaçam-te por detrás dos mandamentos do Senhor.
+
+[[v28-28-8]]
+
+^<<v28-28-8,8>>^ Lembra-te do temor de Deus, e não te ires contra o teu próximo.
+
+[[v28-28-9]]
+
+^<<v28-28-9,9>>^ Lembra-te da aliança do Altíssimo, e não tomes em conta a falta do próximo cometida por inadvertência.
+
+[[v28-28-10]]
+
+^<<v28-28-10,10>>^ Abstém-te de litígios, e diminuirás os pecados;
+
+[[v28-28-11]]
+
+^<<v28-28-11,11>>^ o homem iracundo acende pendências; o homem pecador suscita discórdias entre os amigos, lança a inimizade no meio dos que vivem em paz.
+
+[[v28-28-12]]
+
+^<<v28-28-12,12>>^ O fogo ateia-se na proporção da madeira do bosque, e a cólera do homem (ateia-se) segundo o seu poder, aumenta em proporção da sua riqueza. (ver nota)
+
+[[v28-28-13]]
+
+^<<v28-28-13,13>>^ A precipitação em discutir acende o fogo, a demanda irreflectida derrama sangue, e a língua que testifica (falsamente) trás a morte.
+
+[[v28-28-14]]
+
+^<<v28-28-14,14>>^ Se assoprares a uma faúlha ela se inflamará, se cuspires sobre ela, se apagará: ambas as coisas saem da boca.
+
+[[v28-28-15]]
+
+^<<v28-28-15,15>>^ O mexeriqueiro e o homem de duas línguas são malditos porque perturbam muitos que viviam em paz.
+
+[[v28-28-16]]
+
+^<<v28-28-16,16>>^ A _(má)_ língua dum terceiro abalou a muitos, dispersou-os de povo em povo.
+
+[[v28-28-17]]
+
+^<<v28-28-17,17>>^ Ela destruiu as cidades muradas dos ricos, e fez cair as casas dos grandes.
+
+[[v28-28-18]]
+
+^<<v28-28-18,18>>^ Desbaratou as forças dos povos, dispersou as nações fortes.
+
+[[v28-28-19]]
+
+^<<v28-28-19,19>>^ A (má) língua de um terceiro lançou fora de casa mulheres virtuosas e privou-as (do fruto) de seus trabalhos.
+
+[[v28-28-20]]
+
+^<<v28-28-20,20>>^ Aquele que a atende não terá descanso, nem terá amigo em que repouse.
+
+[[v28-28-21]]
+
+^<<v28-28-21,21>>^ O golpe dum açoite faz uma pisadura, mas o golpe da língua esmigalha os ossos.
+
+[[v28-28-22]]
+
+^<<v28-28-22,22>>^ Muitos morreram passados ao fio da espada, porém não tantos como os que morreram por culpa da sua língua.
+
+[[v28-28-23]]
+
+^<<v28-28-23,23>>^ Bem-aventurado aquele que está a coberto da língua iníqua, que não passou pela ira dela, que não atraiu para cima de si o seu jugo e que não foi ligado com as suas cadeias,
+
+[[v28-28-24]]
+
+^<<v28-28-24,24>>^ porque o seu jugo é um jugo de ferro, e as suas cadeias são cadeias de bronze.
+
+[[v28-28-25]]
+
+^<<v28-28-25,25>>^ A morte que ela causa é uma morte desgraçadíssima, e a sepultura é-lhe preferível.
+
+[[v28-28-26]]
+
+^<<v28-28-26,26>>^ Ela durará (algum, mas) não muito tempo; assenhorear-se-á dos caminhos dos injustos, mas a sua chama não queimará os justos. Os que deixam a Deus, cairão no poder dela. que os queimará, sem se extinguir; lançar-se-á sobre eles como um leão, e como um leopardo os despedaçará. (ver nota)
+
+[[v28-28-27]]
+
+^<<v28-28-27,27>>^ Cerca os teus ouvidos com espinhos,não queiras ouvir a língua má, e põe na tua boca uma porta com ferrolhos.
+
+[[v28-28-28]]
+
+^<<v28-28-28,28>>^ Funde o teu ouro e a tua prata, e faze uma balança para (pesares) as tuas palavras, e um freio bem ajustado para a tua boca;
+
+[[v28-28-29]]
+
+^<<v28-28-29,29>>^ olha, não escorregues no teu falar, para não caíres diante dos teus inimigos, que te armam ciladas, e para que não venha a tua queda a ser incurável e mortal.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-027.adoc#v28-27-0[&#60; Capítulo Anterior] | <<v28-28-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-029.adoc#v28-29-0[Próximo Capítulo &#62;]

@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v21-80-0]]
+=== Salmos, 80
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 80 é um poema que clama por restauração e salvação. O salmista se dirige a Deus como o pastor de Israel e pede que Ele salve Seu povo da opressão e da aflição. O poema termina com uma oração pela restauração da nação, que havia sido destruída pelos inimigos. A seguir, estão cinco versículos selecionados em ordem de proximidade com os temas do capítulo, mas excluindo os versículos do Salmo 80:
+* Isaías 40:11: "Como pastor ele apascentará o seu rebanho; entre os seus braços recolherá os cordeirinhos, e os levará no seu regaço; as que amamentam ele as guiará mansamente." Este versículo descreve Deus como um pastor que cuida do Seu rebanho com amor e compaixão, o que é semelhante à imagem do pastor de Israel no Salmo 80.
+* Jeremias 31:18: "Certamente, ouvi Efraim lamentar-se assim: Castigaste-me, e fui castigado como novilho ainda não domado; restaura-me, e serei restaurado, porque tu és o Senhor, meu Deus." Este versículo mostra a oração de arrependimento e pedido de restauração de Efraim, um nome usado frequentemente para se referir a Israel, que é semelhante à oração do salmista por restauração em Salmo 80.
+* Ezequiel 34:11: "Porque assim diz o Senhor Deus: Eis que eu, eu mesmo, procurarei pelas minhas ovelhas, e as buscarei." Este versículo também descreve Deus como um pastor que busca pelas Suas ovelhas perdidas, mostrando a compaixão e o cuidado que Ele tem por Seu povo.
+* Zacarias 10:6: "Porque eu fortaleço a casa de Judá, e guardo a casa de José, e os farei voltar, porque me compadeço deles; e serão como se eu os não tivesse rejeitado; porque eu sou o Senhor, seu Deus, e os ouvirei." Este versículo fala sobre a compaixão de Deus e Sua promessa de restaurar o Seu povo, que é semelhante à oração do salmista por salvação e restauração em Salmo 80.
+* Romanos 8:23-24: "E não somente ela, mas nós mesmos, que temos as primícias do Espírito, também gememos em nós mesmos, esperando a adoção, a saber, a redenção do nosso corpo. Porque na esperança fomos salvos." Este versículo fala sobre a esperança da salvação e redenção, que é um tema central do Salmo 80, onde o salmista clama por salvação e restauração da nação.
+****
+
+[[v21-80-1]]
+
+^<<v21-80-1,1>>^ Ao mestre do coro. Segundo a melodia de "Os lagares..." De Asaf.
+
+[[v21-80-2]]
+
+^<<v21-80-2,2>>^ Regozijai-vos em Deus, nosso protector, aclamai o Deus de Jacob.
+
+[[v21-80-3]]
+
+^<<v21-80-3,3>>^ Tocai o saltério e pulsai o tímpano, a citara melodiosa e a lira.
+
+[[v21-80-4]]
+
+^<<v21-80-4,4>>^ Tocai a trombeta na neoménia, no plenilúnio, nosso dia solene, (ver nota)
+
+[[v21-80-5]]
+
+^<<v21-80-5,5>>^ porque é um preceito para Israel, e uma ordem do Deus de Jacob.
+
+[[v21-80-6]]
+
+^<<v21-80-6,6>>^ Prescreveu esta lei a José, quando saiu da terra do Egipto. Ouvi uma língua que não entendia
+
+[[v21-80-7]]
+
+^<<v21-80-7,7>>^ "Libertei os seus ombros do fardo: as suas mãos deixaram o cesto (com que serviam nas obras).
+
+[[v21-80-8]]
+
+^<<v21-80-8,8>>^ Na tribulação clamaste, e eu te livrei; do interior duma nuvem trovejante te respondi, provei-te junto das águas de Meriba.
+
+[[v21-80-9]]
+
+^<<v21-80-9,9>>^ Ouve, povo meu, e eu te advertirei: Oxalá que me ouças, ó Israel!
+
+[[v21-80-10]]
+
+^<<v21-80-10,10>>^ Não haverá em ti deus alheio, nem adorarás deus peregrino:
+
+[[v21-80-11]]
+
+^<<v21-80-11,11>>^ Eu sou o Senhor teu Deus, que te tirei da terra do Egipto; abre a tua boca, e eu a encherei.
+
+[[v21-80-12]]
+
+^<<v21-80-12,12>>^ Mas o meu povo não ouviu a minha voz, e Israel não me obedeceu.
+
+[[v21-80-13]]
+
+^<<v21-80-13,13>>^ Por isso abandonei-os à dureza do seu coração, andem segundo o seu parecer.
+
+[[v21-80-14]]
+
+^<<v21-80-14,14>>^ Se o meu povo me tivesse ouvido, se Israel tivesse andado nos meus caminhos
+
+[[v21-80-15]]
+
+^<<v21-80-15,15>>^ eu depressa humilharia os seus inimigos, voltaria a minha mão contra os seus adversários:
+
+[[v21-80-16]]
+
+^<<v21-80-16,16>>^ os que odeiam o Senhor, o adulariam, e a sua sorte duraria para sempre,
+
+[[v21-80-17]]
+
+^<<v21-80-17,17>>^ Por outro lado, a ele "(ao meu povo)" alimentá-lo-ia com a flor do trigo, e saciá-lo-ia de mel saído da rocha." (ver nota)
+
+'''
+
+xref:021-salmos/021-salmos-079.adoc#v21-79-0[&#60; Capítulo Anterior] | <<v21-80-0,Topo>> | xref:021-salmos/021-salmos-081.adoc#v21-81-0[Próximo Capítulo &#62;]

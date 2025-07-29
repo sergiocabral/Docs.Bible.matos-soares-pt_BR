@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v29-61-0]]
+=== Isaías, 61
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 61 é um capítulo de grande importância teológica, pois apresenta a missão do Messias. Neste capítulo, o profeta anuncia a boa notícia da salvação e libertação para o povo de Deus, por meio da obra do Messias. Ele traz a mensagem de que o Messias irá curar os corações quebrantados, libertar os cativos, proclamar a liberdade aos prisioneiros e consolar os que choram. Abaixo estão cinco versículos relacionados com os temas abordados em Isaías 61:
+* Lucas 4:18-19: "O Espírito do Senhor está sobre mim, porque ele me ungiu para pregar boas novas aos pobres. Ele me enviou para proclamar liberdade aos presos e recuperação da vista aos cegos, para libertar os oprimidos e proclamar o ano da graça do Senhor". Jesus citou este versículo ao anunciar sua missão na sinagoga em Nazaré, deixando claro que Ele era o Messias prometido que veio cumprir as Escrituras.
+* Mateus 11:28-30: "Venham a mim, todos os que estão cansados e sobrecarregados, e eu lhes darei descanso. Tomem sobre vocês o meu jugo e aprendam de mim, pois sou manso e humilde de coração, e vocês encontrarão descanso para as suas almas. Pois o meu jugo é suave e o meu fardo é leve". Jesus convida todas as pessoas cansadas e sobrecarregadas a irem até Ele para encontrar alívio, cumprindo assim a promessa feita em Isaías 61:1-2.
+* João 8:36: "Assim, se o Filho os libertar, vocês de fato serão livres". Jesus afirmou que aqueles que creem Nele são verdadeiramente livres, cumprindo a promessa de Isaías 61:1-2 de proclamar liberdade aos cativos e prisioneiros.
+* 2 Coríntios 5:17: "Portanto, se alguém está em Cristo, é nova criação. As coisas antigas já passaram; eis que surgiram coisas novas!". Aqueles que colocam a sua fé em Jesus são transformados, recebendo uma nova vida em Cristo. Isso se relaciona com a promessa de Isaías 61:3 de consolar os que choram e lhes dar uma coroa de beleza em vez de cinzas.
+* Apocalipse 21:4: "Ele enxugará dos seus olhos toda lágrima. Não haverá mais morte, nem tristeza, nem choro, nem dor, pois a ordem antiga já passou". Este versículo descreve a promessa de Deus de que um dia não haverá mais sofrimento, morte ou tristeza. Isso se relaciona com a promessa de Isaías 61:1-2 de trazer conforto e alegria para os que choram e estão em luto.
+****
+
+[[v29-61-1]]
+
+^<<v29-61-1,1>>^ O espírito do Senhor repousa sobre mim, porque o Senhor me ungiu. Enviou-me a levar a boa nova aos infelizes, a curar os de coração despedaçado, a anunciar a redenção aos cativos e a liberdade aos encarcerados;
+
+[[v29-61-2]]
+
+^<<v29-61-2,2>>^ a publicar o ano da graça do Senhor e o dia da vingança do nosso Deus; a consolar todos os que choram,
+
+[[v29-61-3]]
+
+^<<v29-61-3,3>>^ a dar aos amargurados de Sião uma coroa em vez da cinza, óleo de gozo em vez de pranto, veste festiva em troca do espírito de aflição. Serão chamados terebintos da justiça, plantações do Senhor para lhe darem glória.
+
+[[v29-61-4]]
+
+^<<v29-61-4,4>>^ Repararão as ruínas antigas, reerguerão os destroços do passado, restaurarão as cidades destruídas, as devastações de muitos séculos,
+
+[[v29-61-5]]
+
+^<<v29-61-5,5>>^ Os estrangeiros estarão lá para apascentar os vossos gados; os filhos dos estrangeiros serão vossos lavradores e vinheiros.
+
+[[v29-61-6]]
+
+^<<v29-61-6,6>>^ Vós, porém sereis chamados sacerdotes do Senhor; ser-vos-á dado o nome de ministros do nosso Deus. Comereis a riqueza das nações, revestir-vos-eis da sua magnificência. (ver nota)
+
+[[v29-61-7]]
+
+^<<v29-61-7,7>>^ Visto que tiveram uma vergonha dobrada, e receberam em partilha opróbrios e escarros, por isso hão-de possuir na sua terra dupla porção e terão uma alegria eterna.
+
+[[v29-61-8]]
+
+^<<v29-61-8,8>>^ Porque eu, o Senhor amo a justiça e aborreço o fruto das rapinas; recompensarei fielmente as suas obras, e farei com eles uma aliança perpétua.
+
+[[v29-61-9]]
+
+^<<v29-61-9,9>>^ A sua posteridade será afamada entre as nações, e a sua descendência no meio dos povos: todos os que os virem, reconhecerão (logo) que são a linhagem abençoada pelo Senhor.
+
+[[v29-61-10]]
+
+^<<v29-61-10,10>>^ Regozijar-me-ei sobremaneira no Senhor, e a minha alma exultará no meu Deus, porque me revestiu com a roupagem da salvação e me cobriu com o manto da justiça, como esposo aformoseado com uma coroa, como esposa ornada com as suas jóias.
+
+[[v29-61-11]]
+
+^<<v29-61-11,11>>^ Porque, assim como a terra lança o seu gérmen, e o jardim faz brotar a semente que lhe lançaram, assim o Senhor Deus fará brotar a justiça e o louvor diante de todas as nações.
+
+'''
+
+xref:029-isaias/029-isaias-060.adoc#v29-60-0[&#60; Capítulo Anterior] | <<v29-61-0,Topo>> | xref:029-isaias/029-isaias-062.adoc#v29-62-0[Próximo Capítulo &#62;]

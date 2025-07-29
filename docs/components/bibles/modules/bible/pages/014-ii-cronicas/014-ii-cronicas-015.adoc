@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v14-15-0]]
+=== II Crônicas, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 15 de 2 Crônicas fala sobre o rei Asa, que buscou ao Senhor e conduziu o povo de Judá a fazer o mesmo, renovando a aliança com Deus e destruindo os ídolos e altares pagãos que existiam na terra. A seguir estão cinco versículos relacionados com os temas abordados em 2 Crônicas 15:
+* Salmos 9:10: "Em ti confiam os que conhecem o teu nome; porque tu, Senhor, nunca desamparaste os que te buscam." Asa buscou ao Senhor e renovou a aliança com Ele, mostrando que confiava em Deus e buscava a Sua vontade. Esse versículo destaca a importância de confiar em Deus e buscar a Sua presença.
+* Isaías 55:6: "Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto." O capítulo 15 de 2 Crônicas enfatiza a importância de buscar a Deus e renovar a aliança com Ele. Esse versículo de Isaías também destaca a importância de buscar a Deus enquanto Ele pode ser encontrado.
+* Deuteronômio 30:2: "E te converterás ao Senhor teu Deus, e darás ouvidos à sua voz, conforme a tudo o que eu te ordeno hoje, tu e teus filhos, com todo o teu coração e com toda a tua alma." Asa conduziu o povo de Judá a se converterem ao Senhor e a ouvirem a Sua voz, renovando a aliança com Deus. Esse versículo de Deuteronômio destaca a importância de obedecer a Deus e seguir os Seus mandamentos.
+* 1 Reis 8:61: "E sejam os vossos corações inteiros para com o Senhor nosso Deus, para andardes nos seus estatutos, e guardardes os seus mandamentos como hoje." Esse versículo destaca a importância de ter um coração inteiro e comprometido com Deus, seguindo os Seus mandamentos e estatutos.
+* 2 Crônicas 16:9: "Porque, quanto ao Senhor, seus olhos passam por toda a terra, para mostrar-se forte para com aqueles cujo coração é perfeito para com ele..." Esse versículo destaca a importância de ter um coração perfeito para com Deus, e que Ele está atento a todos os que buscam e confiam Nele.
+****
+
+[[v14-15-1]]
+
+^<<v14-15-1,1>>^ Azarias, filho de Obed, movido pelo espírito de Deus,
+
+[[v14-15-2]]
+
+^<<v14-15-2,2>>^ foi ao encontro de Asa e disse-lhe: Ouvi-me, Asa e todos vós, povo de Judá e de Benjamim: O Senhor foi convosco, porque vós fostes com ele. Se o buscardes, achá-lo-eis, mas, se o abandonardes, ele vos abandonará.
+
+[[v14-15-3]]
+
+^<<v14-15-3,3>>^ Muito tempo passou Israel sem o verdadeiro Deus, sem sacerdote que instruísse, sem lei.
+
+[[v14-15-4]]
+
+^<<v14-15-4,4>>^ Quando eles, na sua angústia, se converteram para o Senhor Deus de Israel e o buscaram, ele deixou-se achar por eles.
+
+[[v14-15-5]]
+
+^<<v14-15-5,5>>^ Nesse tempo não havia paz para o que saía nem para o que entrava, mas de todas as partes havia terror em todos os habitantes da terra,
+
+[[v14-15-6]]
+
+^<<v14-15-6,6>>^ porque se levantava uma nação contra outra nação, uma cidade contra outra cidade, pois o Senhor os conturbava com toda a sorte de aflições.
+
+[[v14-15-7]]
+
+^<<v14-15-7,7>>^ Vós, porém, ganhai coragem, não se enfraqueçam as vossas mãos, porque a vossa obra será recompensada.
+
+[[v14-15-8]]
+
+^<<v14-15-8,8>>^ Asa, ouvindo o oráculo do profeta Azarias, filho de Obeb, cobrou ânimo e exterminou os ídolos de todas as cidades da terra de Judá e de Benjamim, assim como das cidades do monte de Efraim, que ele tinha tomado, e restaurou o altar do Senhor, que estava diante do átrio do Senhor.
+
+[[v14-15-9]]
+
+^<<v14-15-9,9>>^ Congregou todo o povo de Judá e de Benjamim, bem como os (vindos) de Efraim, de Manassés e de Simeão, porque tinham fugido para ele muitos Israelitas, vendo que o Senhor seu Deus era com ele.
+
+[[v14-15-10]]
+
+^<<v14-15-10,10>>^ Tendo chegado a Jerusalém no terceiro mês do ano décimo quinto do reinado de Asa,
+
+[[v14-15-11]]
+
+^<<v14-15-11,11>>^ imolaram ao Senhor naquele dia setecentos bois e sete mil carneiros, dos despojos e da presa que tinham levado.
+
+[[v14-15-12]]
+
+^<<v14-15-12,12>>^ O rei entrou, segundo o costume, para confirmar a aliança (ou promessa) de buscarem, de todo o seu coração e de toda a sua alma, o Senhor Deus de seus pais.
+
+[[v14-15-13]]
+
+^<<v14-15-13,13>>^ Se alguém, disse ele, não buscar o Senhor Deus de Israel, morra, desde o pequeno até ao maior, desde o homem até à mulher.
+
+[[v14-15-14]]
+
+^<<v14-15-14,14>>^ Prestaram juramento ao Senhor em altas vozes, ao toque das trombetas e ao som de buzinas,
+
+[[v14-15-15]]
+
+^<<v14-15-15,15>>^ todos os que estavam em Judá, alegrando-se com o juramento, porque o fizeram de todo o seu coração; buscaram a Deus com toda a sua vontade e encontraram-no, e o Senhor deu-lhes paz com todos os seus vizinhos.
+
+[[v14-15-16]]
+
+^<<v14-15-16,16>>^ Asa tirou, também, a Maaca, sua mãe, o título de rainha, porque ela tinha levantado um ídolo de Astarte, o qual ele quebrou e, fazendo e em pedaços, queimou no vale de Cedron.
+
+[[v14-15-17]]
+
+^<<v14-15-17,17>>^ Ainda, porém, ficaram em Israel os lugares altos: não obstante, o coração de Asa foi perfeito em todos os seus dias.
+
+[[v14-15-18]]
+
+^<<v14-15-18,18>>^ Levou para o templo do Senhor o que seu pai e ele tinham prometido com voto, prata, ouro, e diversas espécies de vasos.
+
+[[v14-15-19]]
+
+^<<v14-15-19,19>>^ Não houve guerra até ao ano trigésimo quinto do reinado de Asa.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-014.adoc#v14-14-0[&#60; Capítulo Anterior] | <<v14-15-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-016.adoc#v14-16-0[Próximo Capítulo &#62;]

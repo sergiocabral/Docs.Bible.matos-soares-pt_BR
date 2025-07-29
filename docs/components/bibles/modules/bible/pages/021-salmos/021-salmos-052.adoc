@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v21-52-0]]
+=== Salmos, 52
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 52 é uma lamentação do salmista sobre a maldade do ímpio e a bondade de Deus. O salmista descreve como o ímpio se orgulha de sua maldade e zomba dos justos, mas Deus o derrubará e o destruirá. O salmista confia na bondade de Deus e na salvação que Ele oferece aos seus servos. Seguem abaixo cinco versículos relacionados com os temas abordados neste salmo:
+* Provérbios 18:12: "O coração do orgulhoso só gera contenda, mas o sábio usa a sabedoria." Este versículo fala sobre o orgulho, um dos temas centrais do Salmo 52. O ímpio descrito no Salmo 52 é orgulhoso e se vangloria de sua maldade, mas este versículo mostra que o orgulho só gera contenda e não leva a lugar nenhum.
+* Salmos 73:18-19: "Tu, na verdade, os puseste em lugares escorregadios; tu os lançarás na perdição. Como caem na desolação, quase num momento! Ficam totalmente destruídos, consumidos de terror." Este versículo fala sobre a queda do ímpio, um tema abordado no Salmo 52. Assim como o ímpio descrito no Salmo 52 será derrubado e destruído por Deus, este versículo mostra que os ímpios em geral serão lançados na perdição.
+* Provérbios 10:7: "A memória do justo é abençoada, mas o nome dos ímpios apodrecerá." Este versículo também fala sobre a queda do ímpio e a justiça de Deus. O salmista do Salmo 52 lamenta a maldade do ímpio, mas este versículo mostra que no final a justiça prevalecerá e os ímpios serão esquecidos.
+* Salmos 54:4: "Eis que Deus é o meu ajudador; o Senhor está com aqueles que sustêm a minha vida." Este versículo fala sobre a confiança do salmista na ajuda de Deus, um tema central do Salmo 52. O salmista confia que Deus o ajudará a vencer seus inimigos e a superar suas dificuldades.
+* Provérbios 21:15: "Fazer justiça é alegria para o justo, mas destruição para os que praticam a maldade." Este versículo fala sobre a alegria da justiça, um tema abordado no Salmo 52. O salmista lamenta a maldade do ímpio, mas este versículo mostra que a justiça é motivo de alegria para os justos e que a maldade levará à destruição.
+****
+
+[[v21-52-1]]
+
+^<<v21-52-1,1>>^ Ao mestre do coro. Segundo a melodia de "Mahalat". Maskil. De Davide. Diz o néscio no seu coração: "Não á Deus."
+
+[[v21-52-2]]
+
+^<<v21-52-2,2>>^ Perverteram-se (os homens), cometeram acções abomináveis; não há quem faça o bem.
+
+[[v21-52-3]]
+
+^<<v21-52-3,3>>^ Deus olha do céu sobre os filhos dos homens, para ver se há quem tenha senso e busque a Deus.
+
+[[v21-52-4]]
+
+^<<v21-52-4,4>>^ Todos juntamente se transviaram, se perverteram; não há quem faça o bem, não há sequer um só.
+
+[[v21-52-5]]
+
+^<<v21-52-5,5>>^ Porventura não cairão em si os que praticam a iniquidade, os que devoram o meu povo como quem come pão.
+
+[[v21-52-6]]
+
+^<<v21-52-6,6>>^ Tremeram de medo onde não havia que temer, porque Deus dispersou os ossos dos que te assediavam; foram confundidos, porque Deus os rejeitou.
+
+[[v21-52-7]]
+
+^<<v21-52-7,7>>^ Oh! venha de Sião a salvação de Israel! Quando Deus mudar a sorte do seu povo, regozijar-se-á Jacob, alegrar-se-à Israel.
+
+'''
+
+xref:021-salmos/021-salmos-051.adoc#v21-51-0[&#60; Capítulo Anterior] | <<v21-52-0,Topo>> | xref:021-salmos/021-salmos-053.adoc#v21-53-0[Próximo Capítulo &#62;]

@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v11-11-0]]
+=== I Reis, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Reis 11 descreve a apostasia do rei Salomão, que desobedeceu ao Senhor ao se casar com muitas mulheres estrangeiras e permitir que elas introduzissem a idolatria em Israel. O capítulo também fala sobre o fim do reinado de Salomão e a divisão do reino de Israel após sua morte. Aqui estão cinco versículos relacionados aos temas abordados em 1 Reis 11:
+* Deuteronômio 17:17: "E não tomará para si muitas mulheres, para que o seu coração não se desvie; e não acumulará muita prata e muito ouro." Este versículo mostra como Salomão desobedeceu a essa lei de Deus, casando-se com muitas mulheres estrangeiras que levaram a idolatria a Israel.
+* 1 Reis 11:4: "Porque sucedeu que, no tempo em que Salomão era velho, suas mulheres lhe perverteram o coração para seguir outros deuses; e o seu coração não era perfeito para com o Senhor seu Deus, como o coração de Davi, seu pai." Este versículo mostra como Salomão permitiu que suas muitas esposas o influenciassem e o levaram a desobedecer ao Senhor.
+* 1 Reis 11:9: "E o Senhor se indignou contra Salomão, porque seu coração se desviara do Senhor, Deus de Israel, que lhe aparecera duas vezes." Este versículo mostra a reação de Deus à apostasia de Salomão e como Ele ficou irado com o rei por sua desobediência.
+* 1 Reis 11:11: "E disse o Senhor a Salomão: Pois que houve isto em ti, que não guardaste a minha aliança e os meus estatutos que te mandei, certamente rasgarei de ti este reino, e o darei a teu servo." Este versículo mostra como Deus puniu Salomão por sua desobediência, dividindo o reino de Israel após sua morte.
+* 1 Reis 11:43: "E dormiu Salomão com seus pais, e foi sepultado na cidade de Davi, seu pai; e Roboão, seu filho, reinou em seu lugar." Este versículo mostra como o reinado de Salomão chegou ao fim, deixando um legado misto de grande sabedoria e riqueza, mas também de desobediência e apostasia.
+****
+
+[[v11-11-1]]
+
+^<<v11-11-1,1>>^ O rei Salomão, além da filha de Faraó, amou apaixonadamente muitas mulheres estrangeiras: Moabitas, Amonitas, Idumeias, Sidónias e Heteias,
+
+[[v11-11-2]]
+
+^<<v11-11-2,2>>^ pertencentes às nações das quais o Senhor tinha dito aos filhos de Israel: Não tomeis (para vós) as suas mulheres, nem eles as vossas, porque elas certissimamente vos perverterão os vossos corações, para seguirdes os seus ídolos. A estas nações se uniu Salomão, por causa dos seus amores.
+
+[[v11-11-3]]
+
+^<<v11-11-3,3>>^ Teve setecentas mulheres, que eram como rainhas, e trezentas mulheres secundárias. E as mulheres perverteram-lhe o coração. (ver nota)
+
+[[v11-11-4]]
+
+^<<v11-11-4,4>>^ Sendo já velho, o seu coração foi pervertido pelas mulheres, para seguir os deuses alheios; o seu coração não era perfeito diante do Senhor, seu Deus, como fora o coração de Davide, seu pai.
+
+[[v11-11-5]]
+
+^<<v11-11-5,5>>^ Salomão prestava culto a Astarte, deusa dos Sidónios, e a Moloc, ídolo dos Amonitas.
+
+[[v11-11-6]]
+
+^<<v11-11-6,6>>^ Salomão fez o que não era agradável ao Senhor, não seguiu o Senhor perfeitamente, como o tinha seguido Davide, seu pai.
+
+[[v11-11-7]]
+
+^<<v11-11-7,7>>^ Naquele tempo Salomão edificou um templo a Camos, ídolo dos Moabitas, no monte que está fronteiro a Jerusalém, e (outro templo) a Moloc, ídolo dos filhos de Amon.
+
+[[v11-11-8]]
+
+^<<v11-11-8,8>>^ Fez o mesmo (para agradar) a todas as suas mulheres estrangeiras, que queimavam incenso e sacrificavam aos seus deuses.
+
+[[v11-11-9]]
+
+^<<v11-11-9,9>>^ O Senhor irou-se contra Salomão, por se ter o seu espírito apartado do Senhor, Deus de Israel, que lhe tinha aparecido duas vezes
+
+[[v11-11-10]]
+
+^<<v11-11-10,10>>^ e lhe tinha proibido expressamente que seguisse deuses estrangeiros. Ele, porém, não observou o que o Senhor lhe mandara.
+
+[[v11-11-11]]
+
+^<<v11-11-11,11>>^ Disse, pois, o Senhor a Salomão: Visto que tu te portaste assim, não guardaste o meu pacto nem os mandamentos que te ordenei, eu rasgarei e dividirei o teu reino, e o darei a um dos teus servos.
+
+[[v11-11-12]]
+
+^<<v11-11-12,12>>^ Contudo não o farei em teus dias por atenção a Davide, teu pai; dividi-lo-ei (quando estiver) entre as mãos do teu filho.
+
+[[v11-11-13]]
+
+^<<v11-11-13,13>>^ Não lhe tirarei o reino todo, mas deixarei a teu filho uma tribo, em atenção a meu servo Davide e a Jerusalém, que eu escolhi.
+
+[[v11-11-14]]
+
+^<<v11-11-14,14>>^ Suscitou o Senhor um inimigo a Salomão: Adad, Idumeu, de sangue real, que vivia em Edom.
+
+[[v11-11-15]]
+
+^<<v11-11-15,15>>^ Quando Davide estava na Idumeia, foi Joab, general do seu exército, sepultar os que tinham sido mortos, e matou na Idumeia todos os varões,
+
+[[v11-11-16]]
+
+^<<v11-11-16,16>>^ (seis meses se demorou ali Joab, com todo o Israel, até matar todos os varões da Idumeia),
+
+[[v11-11-17]]
+
+^<<v11-11-17,17>>^ (nessa altura) este Adad fugiu de lá, e com ele os Idumeus, servos de seu pai, para se retirar ao Egipto. Adad era então de mui tenra idade.
+
+[[v11-11-18]]
+
+^<<v11-11-18,18>>^ Saindo de Madian, foram a Faran, levaram consigo homens de Faran e, entrando no Egipto, apresentaram-se a Faraó, rei do Egipto, o qual deu a Adad casa, consignou-lhe alimentos e adjudicou-lhe terras.
+
+[[v11-11-19]]
+
+^<<v11-11-19,19>>^ Adad caiu tanto em graça a Faraó que este o casou com a própria irmã da rainha Tafnes, sua mulher.
+
+[[v11-11-20]]
+
+^<<v11-11-20,20>>^ Desta irmã de Tafnes teve Adad um filho chamado Genubat, que Tafnes criou na casa de Faraó. Genubat habitava no palácio de Faraó, com os filhos do rei.
+
+[[v11-11-21]]
+
+^<<v11-11-21,21>>^ Quando Adad ouviu dizer, no Egipto, que Davide tinha adormecido com seus pais e que Joab, general do seu exército, tinha sido morto, disse a Faraó; Deixa-me ir para a minha terra.
+
+[[v11-11-22]]
+
+^<<v11-11-22,22>>^ Faraó disse-lhe: Pois que é que te falta em minha casa, para pensares em voltar para a tua terra? Ele respondeu-lhe: Nada; mas suplico-te que me deixes ir.
+
+[[v11-11-23]]
+
+^<<v11-11-23,23>>^ Suscitou-lhe Deus também por inimigo a Razon, filho de Eliada, o qual tinha fugido de Adadezer, rei de Soba, seu senhor.
+
+[[v11-11-24]]
+
+^<<v11-11-24,24>>^ Juntou gente contra ele, e fez-se capitão de ladrões (ou de guerrilhas), quando Davide derrotou (as tropas do seu senhor). Estes retiraram-se para Damasco, lá habitaram, e constituíram-no rei em Damasco.
+
+[[v11-11-25]]
+
+^<<v11-11-25,25>>^ Foi inimigo de Israel durante todo o reinado de Salomão. Ao mesmo tempo que Adad, fazia-lhe o mal que podia, pois odiava Israel. Reinou na Síria.
+
+[[v11-11-26]]
+
+^<<v11-11-26,26>>^ Também Jeroboão, filho de Nabat, Efrateu, de Sareda, servo de Salomão, cuja mãe era uma mulher viúva, chamada Sarva, se sublevou contra Salomão.
+
+[[v11-11-27]]
+
+^<<v11-11-27,27>>^ O motivo da rebelião contra ele foi que Salomão (à custa de pesados tributos) tinha edificado Melo e terraplanado o profundo vale da cidade de Davide, seu pai.
+
+[[v11-11-28]]
+
+^<<v11-11-28,28>>^ Jeroboão era um homem valente e poderoso; Salomão, vendo que era um jovem de boa índole e activo, tinha-o feito intendente dos tributos de toda a casa de José.
+
+[[v11-11-29]]
+
+^<<v11-11-29,29>>^ Ora aconteceu que, um dia, Jeroboão saiu de Jerusalém, e que Aias Silonita, profeta, coberto com uma capa nova, o encontrou no caminho. Estavam sós os dois no campo.
+
+[[v11-11-30]]
+
+^<<v11-11-30,30>>^ Aias, tomando a sua capa nova, de que vinha coberto, rasgou-a em doze partes
+
+[[v11-11-31]]
+
+^<<v11-11-31,31>>^ e disse a Jeroboão: Toma para ti dez retalhos, porque isto é o que diz o Senhor Deus de Israel: Eu rasgarei o reino das mãos de Salomão e dar-te-ei dez tribos.
+
+[[v11-11-32]]
+
+^<<v11-11-32,32>>^ A ele, porém, ficará um a tribo, em atenção a meu servo Davide e à cidade de Jerusalém, que eu escolhi dentre todas as tribos de Israel.
+
+[[v11-11-33]]
+
+^<<v11-11-33,33>>^ Salomão abandonou-me e adorou Astarte, deusa dos Sidónios, Camos, deus de Moab, e Moloc, deus dos filhos de Amon, e não andou pelos meus caminhos, para fazer o que era justo, diante de mim, e para observar os meus preceitos e as minhas leis, como Davide, pai.
+
+[[v11-11-34]]
+
+^<<v11-11-34,34>>^ Eu não lhe tirarei todo o reino das suas mãos, mas deixá-lo-ei governar todos os dias da sua vida por causa de Davide, meu servo, a quem escolhi, o qual guardou os meus mandamentos e os meus preceitos.
+
+[[v11-11-35]]
+
+^<<v11-11-35,35>>^ Tirai porém, o reino das mãos de seu filho, para te dar dez tribos;
+
+[[v11-11-36]]
+
+^<<v11-11-36,36>>^ ao seu filho darei um a tribo, para que fique sempre a meu servo Davide uma lâmpada diante de mim, em Jerusalém, a cidade que eu escolhi, a fim de o meu nome ser nela reverenciado.
+
+[[v11-11-37]]
+
+^<<v11-11-37,37>>^ Eu te tomarei, e tu reinarás sobre tudo o que a tua alma deseja. Serás rei em Israel.
+
+[[v11-11-38]]
+
+^<<v11-11-38,38>>^ Se tu ouvires tudo o que eu te ordenar, se andares pelos meus caminhos, se fizeres o que é recto diante de mim, guardando as minhas leis e os meus preceitos, como fez Davide, meu servo, eu serei contigo e te edificarei uma casa, que seja estável, como a que edifiquei a meu servo Davide, e te entregarei Israel.
+
+[[v11-11-39]]
+
+^<<v11-11-39,39>>^ Afligirei neste ponto a descendência de Davide, mas não para sempre.
+
+[[v11-11-40]]
+
+^<<v11-11-40,40>>^ Quis Salomão matar Jeroboão, mas ele retirou-se e fugiu para o Egipto, para junto de Sesac, rei do Egipto, onde ficou até à morte de Salomão.
+
+[[v11-11-41]]
+
+^<<v11-11-41,41>>^ O resto dos feitos de Salomão, tudo que ele fez, a sua sabedoria, tudo está escrito no livro dos Actos de Salomão.
+
+[[v11-11-42]]
+
+^<<v11-11-42,42>>^ O tempo que Salomão reinou em Jerusalém sobre todo o Israel foi de quarenta anos.
+
+[[v11-11-43]]
+
+^<<v11-11-43,43>>^ Salomão adormeceu com seus pais e foi enterrado na cidade de seu pai Davide. Roboão, seu filho, reinou em seu lugar.
+
+'''
+
+xref:011-i-reis/011-i-reis-010.adoc#v11-10-0[&#60; Capítulo Anterior] | <<v11-11-0,Topo>> | xref:011-i-reis/011-i-reis-012.adoc#v11-12-0[Próximo Capítulo &#62;]

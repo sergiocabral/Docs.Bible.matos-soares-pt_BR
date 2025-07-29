@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v9-11-0]]
+=== I Samuel, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 de 1 Samuel narra a história da vitória de Saul sobre os amonitas, que estavam cercando a cidade de Jabes-Gileade. Saul lidera as tribos de Israel em uma batalha bem-sucedida, garantindo a proteção do povo de Jabes-Gileade. Abaixo estão cinco versículos relacionados com temas abordados neste capítulo:
+* Juízes 5:8: "Escolheram novos deuses; então, a guerra estava às portas; nem sequer se via escudo ou lança entre quarenta mil em Israel." Este versículo descreve a situação em Israel antes da liderança de Saul, onde o povo havia abandonado a Deus e estava vulnerável a ataques de inimigos.
+* Deuteronômio 20:1: "Quando saíres à guerra contra os teus inimigos, e vires cavalos, e carros, e um povo maior do que tu, não os temerás; porque o Senhor teu Deus, que te tirou da terra do Egito, está contigo." Este versículo descreve a confiança que o povo de Israel deve ter em Deus quando enfrenta inimigos mais fortes em uma batalha.
+* 2 Crônicas 32:7: "Sê forte e corajoso; não temas, nem te espantes da face do rei da Assíria, nem de toda a multidão que está com ele, porque conosco há mais do que com ele." Este versículo encoraja o povo de Israel a ser forte e corajoso, confiando que Deus está do seu lado.
+* Salmo 20:7: "Uns confiam em carros e outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus." Este versículo fala sobre a importância de confiar em Deus em vez de confiar em recursos materiais em tempos de guerra.
+* Provérbios 21:31: "O cavalo prepara-se para o dia da batalha, mas a vitória vem do Senhor." Este versículo destaca que, embora seja importante se preparar para a batalha, a vitória final vem de Deus. Isso se aplica à vitória de Saul sobre os amonitas em 1 Samuel 11, onde foi a ajuda de Deus que garantiu a vitória.
+****
+
+[[v9-11-1]]
+
+^<<v9-11-1,1>>^ Aconteceu que, quase um mês depois, Naás Amonita pôs-se em campanha e começou a combater contra Jabes de Galaad. Todos os habitantes de Jabes disseram a Naás: Toma-nos como aliados, e nós te serviremos.
+
+[[v9-11-2]]
+
+^<<v9-11-2,2>>^ Naás Amonita respondeu-lhes: Farei convosco aliança com a condição de vos tirar a todos o olho direito, e fazer isso como opróbrio para todo o Israel.
+
+[[v9-11-3]]
+
+^<<v9-11-3,3>>^ Os anciães de Jabes disseram-lhe: Concede-nos sete dias para que enviem os mensageiros por todo o território de Israel; se não houver quem nos defenda, entregar-nos-emos a ti.
+
+[[v9-11-4]]
+
+^<<v9-11-4,4>>^ Foram , pois, os mensageiros a Gabaa, (pátria) de Saul, e referiram estas palavras ao povo, e todo o povo levantou a voz e chorou.
+
+[[v9-11-5]]
+
+^<<v9-11-5,5>>^ Saul vinha, então, do campo, atrás dos seus bois, e disse: Que tem o povo que chora? E referiram-lhe as palavras dos habitantes de Jabes. (ver nota)
+
+[[v9-11-6]]
+
+^<<v9-11-6,6>>^ O espírito do Senhor apoderou-se de Saul, ao ouvir estas palavras, e acendeu-se sobremaneira o seu furor.
+
+[[v9-11-7]]
+
+^<<v9-11-7,7>>^ Tomando os dois bois, fê-los em pedaços e mandou-os por mão de mensageiros a todas as terras de Israel, dizendo: Assim será feito aos bois de todos aqueles que se não puserem em campanha, e que não seguirem Saul e Samuel. O temor do Senhor invadiu o povo, que se pôs em marcha como se fosse um só homem.
+
+[[v9-11-8]]
+
+^<<v9-11-8,8>>^ (Saul) passou-lhes revista em Bezec, e encontraram-se trezentos mil homens de Israel, e, dos homens (da tribo) de Judá, trinta mil.
+
+[[v9-11-9]]
+
+^<<v9-11-9,9>>^ Disseram aos mensageiros que tinham vindo; Direis assim aos habitantes de Jabes de Galaad: Amanhã sereis socorridos, quando o sol estiver na sua força. Foram, pois, os mensageiros e deram a notícia aos habitantes de Jabes, que se alegraram
+
+[[v9-11-10]]
+
+^<<v9-11-10,10>>^ e disseram (por astúcia, aos seus inimigos): Amanhã nos renderemos a vós, e fareis de nós o que vos parecer.
+
+[[v9-11-11]]
+
+^<<v9-11-11,11>>^ Ao outro dia, pela manhã, Saul dividiu o povo em três partes, e, ao raiar do dia, penetrou no meio do campo (dos Amonitas), e feriu os Amonitas até que o dia aqueceu. Os que escaparam, foram dispersos de tal sorte, que não ficaram dois deles juntos.
+
+[[v9-11-12]]
+
+^<<v9-11-12,12>>^ O povo disse a Samuel: Quem é que disse: Saul reinará porventura sobre nós? Dai-nos esses homens, e matá-los-emos.
+
+[[v9-11-13]]
+
+^<<v9-11-13,13>>^ Porém Saul disse: Hoje não se matará ninguém, porque hoje o Senhor salvou Israel.
+
+[[v9-11-14]]
+
+^<<v9-11-14,14>>^ Samuel disse ao povo: Vinde e vamos a Galgala, e renovemos aí a realeza.
+
+[[v9-11-15]]
+
+^<<v9-11-15,15>>^ Partiu, pois, todo o povo para Galgala, e aclamaram ali rei a Saul na presença do Senhor em Galgala, e imolaram ali vítimas pacíficas na presença do Senhor. E Saul e todos os Israelitas alegraram-se ali grandemente.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-010.adoc#v9-10-0[&#60; Capítulo Anterior] | <<v9-11-0,Topo>> | xref:009-i-samuel/009-i-samuel-012.adoc#v9-12-0[Próximo Capítulo &#62;]

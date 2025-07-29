@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v19-10-0]]
+=== Ester, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ester 10 conclui a história de Ester com uma breve descrição do poder de Mardoqueu e sua posição na corte do rei persa. Os temas centrais deste capítulo são o triunfo de Mardoqueu sobre seus inimigos e a prosperidade de Judá sob o reinado de Artaxerxes. Abaixo estão cinco versículos que se relacionam com esses temas:
+* Neemias 2:8: "E uma carta para Asafe, guarda da floresta do rei, para que me dê madeira para cobrir as portas da fortaleza do templo e para a muralha da cidade e para a casa onde eu morarei". Mardoqueu é descrito em Ester 10:3 como um líder judeu de grande poder e influência na corte do rei persa. Este versículo em Neemias sugere que Mardoqueu usou essa influência para ajudar a reconstruir a cidade de Jerusalém e o Templo.
+* Esdras 7:1-10: Este trecho lista os líderes judeus que retornaram do exílio babilônico e se estabeleceram em Judá. Entre eles estão descendentes de Mardoqueu e outros líderes da família de Ester. Isso sugere que a influência de Mardoqueu e Ester na corte persa ajudou a garantir a segurança e a prosperidade do povo judeu após o exílio.
+* Esdras 6:14: "Os líderes dos judeus continuaram a fazer progresso na construção do templo e foram encorajados pelo profeta Ageu e pelo profeta Zacarias, filho de Ido". Este versículo mostra que o Templo em Jerusalém foi construído com sucesso após o retorno dos exilados babilônicos. A influência de Mardoqueu na corte persa pode ter ajudado a garantir a conclusão bem-sucedida desta obra.
+* Esdras 4:6: "No reinado de Xerxes, no início de seu reinado, eles escreveram uma acusação contra os habitantes de Judá e Jerusalém". Esdras 4 descreve a oposição que o povo judeu enfrentou enquanto tentava reconstruir a cidade de Jerusalém e o Templo. Embora Ester e Mardoqueu não sejam mencionados neste capítulo, sua influência na corte persa pode ter ajudado a proteger Judá da oposição dos governantes persas.
+* Isaías 44:28-45:1: "Assim diz o Senhor ao seu ungido, a Ciro, a quem tomei pela mão direita para subverter nações diante dele e para desatar as faixas dos reis, para abrir diante dele as portas e as portas não serão fechadas". Este trecho profético prevê o papel de Ciro, rei da Pérsia, na libertação dos judeus do exílio babilônico e na reconstrução do Templo em Jerusalém. Embora Ciro não seja mencionado na história de Ester, ele é um personagem importante na história da Pérsia e na libertação dos judeus do exílio babilônico.
+****
+
+[[v19-10-1]]
+
+^<<v19-10-1,1>>^ O rei Assuero tinha feito tributária toda a terra e todas as ilhas do mar.
+
+[[v19-10-2]]
+
+^<<v19-10-2,2>>^ Nos livros dos Medos e dos Persas se acha escrito qual foi o seu poder e o seu domínio, a dignidade e a grandeza a que ele exaltou Mardoqueu,
+
+[[v19-10-3]]
+
+^<<v19-10-3,3>>^ de que modo Mordoqueu, judeu de nação, chegou a ser o segundo depois do rei Assuero, como foi grande entre os Judeus e amado pela multidão dos seus irmãos, procurando o bem do seu povo e interessando-se por aquilo que se referia à tranqualidade da sua raça.
+
+[[v19-10-4]]
+
+^<<v19-10-4,4>>^ Então Mardoqueu disse: Deus é quem fez isto. (ver nota)
+
+[[v19-10-5]]
+
+^<<v19-10-5,5>>^ Lembro-me de um sonho que tive, o qual significava isto mesmo; nada (do que sonhei) ficou por cumprir:
+
+[[v19-10-6]]
+
+^<<v19-10-6,6>>^ a pequena fonte, que cresceu até se tornar um rio, a luz, o sol, a massa de água. O rio é Ester, a qual o rei tomou por mulher e quis que fosse rainha,
+
+[[v19-10-7]]
+
+^<<v19-10-7,7>>^ Os dois dragões sou eu e Aman,
+
+[[v19-10-8]]
+
+^<<v19-10-8,8>>^ As gentes, que se juntaram, são aqueles que intentaram apagar o nome dos Judeus.
+
+[[v19-10-9]]
+
+^<<v19-10-9,9>>^ O meu povo é Israel, que clamou ao Senhor e que foi salvo. O Senhor salvou o seu povo, livrou-nos de todos os males e fez grandes milagres e prodígios no meio das nações.
+
+[[v19-10-10]]
+
+^<<v19-10-10,10>>^ Ordenou que houvesse duas sortes, uma para o povo de Deus e outra para todas as gentes.
+
+[[v19-10-11]]
+
+^<<v19-10-11,11>>^ As duas sortes saíram na hora, no tempo e no dia marcados por Deus para todas as nações.
+
+[[v19-10-12]]
+
+^<<v19-10-12,12>>^ O Senhor lembrou-se do seu povo, teve compaixão da sua herança.
+
+[[v19-10-13]]
+
+^<<v19-10-13,13>>^ Estes dias do mês de Adar, o décimo quarto e o décimo quinto, serão celebrados com toda a devoção e júbilo do povo, que se congregará em um ajuntamento, perpètuamente, em todas as gerações do povo de Israel.
+
+'''
+
+xref:019-ester/019-ester-009.adoc#v19-9-0[&#60; Capítulo Anterior] | <<v19-10-0,Topo>> | xref:019-ester/019-ester-011.adoc#v19-11-0[Próximo Capítulo &#62;]

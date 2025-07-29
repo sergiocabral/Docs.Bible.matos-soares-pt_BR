@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v30-14-0]]
+=== Jeremias, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 14 trata da falta de chuva em Judá e do clamor do povo a Deus para que ele envie chuva. No entanto, Deus diz a Jeremias que não enviará chuva porque o povo é ímpio e não se arrependeu. O capítulo termina com Jeremias orando a Deus em nome do povo, pedindo perdão e ajuda. A seguir estão cinco versículos relacionados com os temas abordados em Jeremias 14:
+* Deuteronômio 28:23-24: "O céu sobre a tua cabeça será de bronze, e a terra sob os teus pés, de ferro. O SENHOR dará por chuva sobre a tua terra pó e poeira; dos céus descerá sobre ti, até que sejas destruído." Estes versículos mostram como a falta de chuva é um sinal de desaprovação de Deus, que pode levar à destruição.
+* 1 Reis 17:1: "Então Elias, o tesbita, dos moradores de Gileade, disse a Acabe: 'Tão certo como vive o SENHOR, Deus de Israel, perante cuja face estou, que nestes anos nem orvalho nem chuva haverá, senão segundo a minha palavra.'" Estes versículos falam sobre Elias, um profeta que, sob a ordem de Deus, trouxe a seca a Israel como um julgamento pelos pecados do povo.
+* 2 Crônicas 7:13-14: "Se eu cerrar o céu, e não houver chuva; ou se ordenar aos gafanhotos que consumam a terra; ou se enviar a peste entre o meu povo; e se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se converter dos seus maus caminhos, então, eu ouvirei dos céus, perdoarei os seus pecados e sararei a sua terra." Estes versículos mostram que Deus prometeu perdoar e curar a terra se o povo se arrepender e orar a ele.
+* Isaías 55:10-11: "Porque, assim como descem a chuva e a neve dos céus e para lá não tornam, sem que primeiro reguem a terra, e a fecundem, e a façam brotar, para dar semente ao semeador e pão ao que come, assim será a palavra que sair da minha boca: não voltará para mim vazia, mas fará o que me apraz e prosperará naquilo para que a enviei." Estes versículos mostram como a chuva é um símbolo da palavra de Deus, que pode trazer vida e prosperidade.
+* Zacarias 10:1: "Pedí ao SENHOR chuva no tempo das chuvas tardias, sim, ao SENHOR, que faz os relâmpagos; e lhes dará chuva abundante, e a cada um, erva no campo." Este versículo fala sobre como Deus pode enviar chuva e prosperidade se o povo orar e pedir com fé.
+****
+
+[[v30-14-1]]
+
+^<<v30-14-1,1>>^ Palavra do Senhor, que foi dirigida a Jeremias por ocasião da seca.
+
+[[v30-14-2]]
+
+^<<v30-14-2,2>>^ Judá está coberta de luto, as suas portas (ou cidades) estão tristes, jazem por terra, desoladas, e levanta-se o clamor de Jerusalém.
+
+[[v30-14-3]]
+
+^<<v30-14-3,3>>^ Os grandes mandam os seus inferiores procurar água; eles vão às cisternas, mas não a encontram, voltam com os seus vasos vazios; confundem-se, afligem-se e cobrem as suas cabeças (em sinal de dor).
+
+[[v30-14-4]]
+
+^<<v30-14-4,4>>^ Por causa da esterilidade da terra, porque não veio chuva sobre o país, os lavradores, abatidos, cobrem as suas cabeças.
+
+[[v30-14-5]]
+
+^<<v30-14-5,5>>^ Até a cerva, depois de ter dado à luz no campo abandona a cria, por falta de erva.
+
+[[v30-14-6]]
+
+^<<v30-14-6,6>>^ Os asnos selvagens, postos sobre as alturas, aspiram o ar, como chacais; por falta de verdura, desfalecem seus olhos.
+
+[[v30-14-7]]
+
+^<<v30-14-7,7>>^ Se as nossas iniquidades dão testemunho contra nós, tu, Senhor, usa connosco de clemência, por amor do teu nome. Sim muitas são as nossas rebeldias, temos pecado contra ti.
+
+[[v30-14-8]]
+
+^<<v30-14-8,8>>^ Ó esperança de Israel, seu salvador no tempo da tribulação, por que hás-de ser nesta (tua) terra como um estranho, como um viandante que sòmente pára, a fim de passar a noite?
+
+[[v30-14-9]]
+
+^<<v30-14-9,9>>^ Por que hás-de (ser para este povo) como um homem conturbado, ou como um homem forte que não pode salvar? Mas tu, Senhor, estás entre nós, e o teu nome é invocado sobre nós. Não nos desampares.
+
+[[v30-14-10]]
+
+^<<v30-14-10,10>>^ Assim fala o Senhor deste povo: Gostam de correr por aqui e por ali, não deixam os seus pés em repouso. O Senhor não gosta deles; agora se vai lembrar das suas maldades e castigar os seus pecados.
+
+[[v30-14-11]]
+
+^<<v30-14-11,11>>^ E o Senhor disse-me: Não me peças em favor deste povo.
+
+[[v30-14-12]]
+
+^<<v30-14-12,12>>^ Quando jejuarem, não ouvirei as suas preces; se me oferecerem holocaustos e oblações não os aceitarei. Com efeito, quero destruí-los pela espada, pela fome e pela peste.
+
+[[v30-14-13]]
+
+^<<v30-14-13,13>>^ Então eu disse: Ah! Senhor Deus! Os profetas dizem-lhes: Não vereis espada, não haverá fome entre vós; antes, dar-vos-ei uma paz firme neste lugar.
+
+[[v30-14-14]]
+
+^<<v30-14-14,14>>^ E o Senhor disse-me: Esses profetas falsamente vaticinam em meu nome; não os enviei, não lhes dei ordem, não lhes falei; tudo o que vos profetizam são visões mentirosas, vãs adivinhações, enganos do seu coração.
+
+[[v30-14-15]]
+
+^<<v30-14-15,15>>^ Portanto isto diz o Senhor: Acerca dos profetas, que profetizam em meu nome, sem terem sido enviados por mim, dizendo: A espada e a fome não afligirão esta terra - (ficai sabendo que) tais profetas hão-de perecer à espada e à fome.
+
+[[v30-14-16]]
+
+^<<v30-14-16,16>>^ Quanto aos povos, a quem profetizam, serão lançados nas ruas de Jerusalém, vítimas da fome e da espada, e não haverá quem os sepulte, a eles e suas mulheres, a seus filhos e filhas; derramarei (o castigo da) sua maldade sobre eles.
+
+[[v30-14-17]]
+
+^<<v30-14-17,17>>^ Dize-lhes esta palavra: Derramem os meus olhos lágrimas de noite e de dia, sem cessar, porque (Jerusalém) a virgem, filha do meu povo, vai ser atingida por uma grande ruína, por uma chaga grandemente maligna.
+
+[[v30-14-18]]
+
+^<<v30-14-18,18>>^ Se saio aos campos, eis que vejo homens mortos à espada; se entro na cidade, eis que vejo as torturas da fome. Até os profetas e os sacerdotes vão errantes (conduzidos cativos) a uma terra que não conhecem.
+
+[[v30-14-19]]
+
+^<<v30-14-19,19>>^ Porventura (ó Senhor) rejeitaste inteiramente Judá? A tua alma aborreceu Sião? Por que nos tens ferido, pois, sem esperança de melhora alguma? Esperávamos a paz, e não temos nenhum bem; o tempo da cura e eis-nos todos em perturbação.
+
+[[v30-14-20]]
+
+^<<v30-14-20,20>>^ Reconhecemos, Senhor, a nossa impiedade, as iniquidades de nossos pais: pecámos contra ti.
+
+[[v30-14-21]]
+
+^<<v30-14-21,21>>^ Não nos desprezes, por amor do teu nome, não permitas que seja ultrajado por causa de nós (o templo que é) o trono da tua glória; lembra-te, não anules a tua aliança connosco.
+
+[[v30-14-22]]
+
+^<<v30-14-22,22>>^ Porventura há entre os vãos ídolos das gentes alguns que façam chover? Ou podem (por si mesmos) os Céus dar as chuvas? Não és tu que as envias, tu, Senhor, nosso Deus? Em ti esperamos, porque és tu que tens feito todas estas coisas.
+
+'''
+
+xref:030-jeremias/030-jeremias-013.adoc#v30-13-0[&#60; Capítulo Anterior] | <<v30-14-0,Topo>> | xref:030-jeremias/030-jeremias-015.adoc#v30-15-0[Próximo Capítulo &#62;]

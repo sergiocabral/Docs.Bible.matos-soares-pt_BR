@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v1-34-0]]
+=== Gênesis, 34
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 34 conta a história de Diná, filha de Jacó, que é estuprada por um príncipe de uma cidade vizinha chamado Siquém. Os irmãos de Diná, indignados com o ocorrido, planejam uma vingança contra a cidade de Siquém. Eles enganam os homens de Siquém e matam todos eles. Jacó fica chocado com a violência de seus filhos e teme a retaliação dos vizinhos. Aqui estão cinco versículos relacionados aos temas abordados em Gênesis 34:
+* Provérbios 31:8-9 - "Abre a tua boca a favor do mudo, pelo direito de todos os desamparados. Abre a tua boca, julga retamente, e faze justiça aos pobres e aos necessitados." Este versículo destaca a importância de defender os oprimidos e fazer justiça em situações de violência e abuso. Diná foi estuprada e seus irmãos buscaram vingança, mas o resultado foi uma situação ainda mais violenta.
+* Êxodo 20:13 - "Não matarás." Este versículo é um mandamento claro contra o assassinato. Os irmãos de Diná cometeram um ato de violência e assassinato ao matar todos os homens de Siquém em retaliação pelo estupro de Diná.
+* Provérbios 14:29 - "O longânimo é grande em entendimento, mas o de ânimo precipitado exalta a loucura." Este versículo destaca a importância da paciência e do entendimento em situações conflituosas. Os irmãos de Diná agiram precipitadamente e cometeram um ato violento que poderia ter consequências ainda piores.
+* Romanos 12:19 - "Amados, nunca procurem vingança, mas deixem com Deus a ira, pois está escrito: ‘Minha é a vingança; eu retribuirei’, diz o Senhor." Este versículo destaca a importância de confiar em Deus para fazer justiça e evitar a busca por vingança pessoal. Os irmãos de Diná buscaram vingança por conta própria e cometeram um ato violento.
+* Mateus 5:38-39 - "Ouvistes o que foi dito: ‘Olho por olho, e dente por dente’. Mas eu lhes digo: Não resistam ao perverso. Se alguém o ferir na face direita, ofereça-lhe também a outra." Este versículo destaca a importância de não responder à violência com mais violência, mas sim de buscar a paz e a reconciliação. Os irmãos de Diná responderam ao estupro de sua irmã com violência e assassinato, criando uma situação ainda mais problemática.
+****
+
+[[v1-34-1]]
+
+^<<v1-34-1,1>>^ Ora Dina, filha de Lia, saiu para ver as mulheres daquele país.
+
+[[v1-34-2]]
+
+^<<v1-34-2,2>>^ Tendo-a visto Siquem, filho de Hemor Heveu, príncipe daquela terra, enamorou-se dela, raptou-a e dormiu com ela, desflorando à força a virgem.
+
+[[v1-34-3]]
+
+^<<v1-34-3,3>>^ A sua alma se prendeu a ela, e, vendo-a triste, a acariciou com meiguices.
+
+[[v1-34-4]]
+
+^<<v1-34-4,4>>^ E, indo ter com seu pai Hemor, disse: Toma esta donzela para minha mulher.
+
+[[v1-34-5]]
+
+^<<v1-34-5,5>>^ Jacob, tendo ouvido isto enquanto os filhos estavam ausentes e ocupados em apascentar os gados, não disse nada enquanto não voltaram.
+
+[[v1-34-6]]
+
+^<<v1-34-6,6>>^ Mas, tendo Hemor, pai de Siquem, ido falar a Jacob.
+
+[[v1-34-7]]
+
+^<<v1-34-7,7>>^ os filhos deste vinham do campo, e, tendo sabido o que acontecera, iraram-se muito, porque (Siquem) tinha feito uma ação vergonhosa contra Israel, violando a filha de Jacob, coisa que se não devia fazer.
+
+[[v1-34-8]]
+
+^<<v1-34-8,8>>^ Hemor falou-lhes assim: A alma de meu filho Siquem afeiçoou-se fortemente à vossa filha: dai-lha por mulher,
+
+[[v1-34-9]]
+
+^<<v1-34-9,9>>^ e façamos matrimônios reciprocamente: dai-nos as vossas filhas, recebei as nossas,
+
+[[v1-34-10]]
+
+^<<v1-34-10,10>>^ e habitai connosco: a terra está ao vosso dispor, cultivai, negociai, e adquiri possessões.
+
+[[v1-34-11]]
+
+^<<v1-34-11,11>>^ Siquem também disse ao pai e aos irmãos dela: Ache eu graça diante de vós, e darei tudo o que determinardes.
+
+[[v1-34-12]]
+
+^<<v1-34-12,12>>^ Aumentai o dote, pedi dádivas, e eu, de boa vontade, darei o que pedirdes: sòmente me dai esta donzela por mulher.
+
+[[v1-34-13]]
+
+^<<v1-34-13,13>>^ Os filhos de Jacob, enfurecidos por causa do estupro da irmã, responderam dolosamente a Siquem e a seu pai:
+
+[[v1-34-14]]
+
+^<<v1-34-14,14>>^ Não podemos fazer o que pedis, nem dar nossa irmã a um homem incircuncidado, porque isto é ilícito e abominável entre nós.
+
+[[v1-34-15]]
+
+^<<v1-34-15,15>>^ Mas poderemos fazer aliança, se quiserdes ser semelhantes a nós, e se entre vós se circuncidar todo o individuo do sexo masculino.
+
+[[v1-34-16]]
+
+^<<v1-34-16,16>>^ Então daremos as nossas filhas e receberemos reciprocamente as vossas; habitaremos convosco e seremos um só povo.
+
+[[v1-34-17]]
+
+^<<v1-34-17,17>>^ Se, porém, não quiserdes circuncidar-vos, levaremos nossa filha e nos retiraremos.
+
+[[v1-34-18]]
+
+^<<v1-34-18,18>>^ O seu oferecimento agradou a Hemor e a Siquem, seu filho.
+
+[[v1-34-19]]
+
+^<<v1-34-19,19>>^ O jovem não demorou em executar logo o que lhe era exigido, porque amava extremamente a donzela, e ele mesmo era muito respeitado em toda a casa de seu pai.
+
+[[v1-34-20]]
+
+^<<v1-34-20,20>>^ Tendo Hemor e Siquem entrado a porta da cidade, disseram ao povo:
+
+[[v1-34-21]]
+
+^<<v1-34-21,21>>^ Estes homens são pacíficos e querem habitar connosco; negociem nesta terra e cultivem-na; sendo ela espaçosa e vasta, necessita de cultivadores: receberemos por mulheres as suas filhas, e dar-lhes-emos as nossas.
+
+[[v1-34-22]]
+
+^<<v1-34-22,22>>^ Uma só coisa faz dilatar tanto bem: é o circuncidarmos os nossos varões imitando o rito deles.
+
+[[v1-34-23]]
+
+^<<v1-34-23,23>>^ Com isto, a sua riqueza, gados e tudo o que possuem será nosso: sòmente acedamos (ao seu desejo) e, habitando juntamente, formaremos um só povo.
+
+[[v1-34-24]]
+
+^<<v1-34-24,24>>^ Assentiram todos, sendo circuncidados todos os vairões.
+
+[[v1-34-25]]
+
+^<<v1-34-25,25>>^ Ao terceiro dia, quando a dor das feridas é mais violenta, os dois filhos de Jacob, Simeão e Levi, irmãos de Dina, empunhadas as espadas, entraram resolutamente na cidade, e, mortos todos os varões, (ver nota)
+
+[[v1-34-26]]
+
+^<<v1-34-26,26>>^ trucidaram igualmente Hemor e Siquem, tirando sua irmã Dina da casa de Siquem.
+
+[[v1-34-27]]
+
+^<<v1-34-27,27>>^ Tendo estes saído, os outros filhos de Jacob caíram impetuosamente sobre os mortos, e saquearam a cidade, por haver sido desonrada a irmã.
+
+[[v1-34-28]]
+
+^<<v1-34-28,28>>^ Tomaram as ovelhas, os rebanhos, os jumentos, devastaram tudo o que havia nas casas e nos campos.
+
+[[v1-34-29]]
+
+^<<v1-34-29,29>>^ e levaram cativos os (seus) filhos e (as suas) mulheres.
+
+[[v1-34-30]]
+
+^<<v1-34-30,30>>^ Praticado isto com tanta audácia, disse Jacob a Simeão e Levi: Vós me afligistes e me tornastes odioso aos Cananeus e aos Fereseus, habitantes deste país. Somos poucos. Eles, congregados, me acometerão, e serei destruído eu e a minha casa.
+
+[[v1-34-31]]
+
+^<<v1-34-31,31>>^ Eles responderam: Porventura deviam eles abusar da nossa irmã, como uma prostituta?
+
+'''
+
+xref:001-genesis/001-genesis-033.adoc#v1-33-0[&#60; Capítulo Anterior] | <<v1-34-0,Topo>> | xref:001-genesis/001-genesis-035.adoc#v1-35-0[Próximo Capítulo &#62;]

@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v3-2-0]]
+=== Levítico, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 2 apresenta instruções sobre as ofertas de cereal que os israelitas deveriam apresentar a Deus. Essas ofertas consistiam em grãos finos e óleo, sem fermento e sal, que deveriam ser queimados no altar. Os versículos selecionados são:
+* 1 Crônicas 21:24: "Então o rei Davi disse a Ornã: Não, mas eu o comprarei pelo seu justo preço; porque não oferecerei ao SENHOR, meu Deus, holocaustos que não me custem nada. Então Davi comprou a eira e os bois por cinquenta siclos de prata." O versículo mostra a importância de oferecer ofertas a Deus com sacrifício pessoal e financeiro, em vez de simplesmente oferecer algo que não custa nada.
+* Mateus 5:23-24: "Portanto, se estiveres apresentando a tua oferta no altar, e aí te lembrares de que teu irmão tem algo contra ti, deixa tua oferta ali diante do altar e vai primeiro reconciliar-te com teu irmão; e depois vem apresentar a tua oferta." Esse versículo destaca a importância da reconciliação antes de oferecer ofertas a Deus, mostrando que nossos relacionamentos com os outros são essenciais para nossa adoração a Deus.
+* Hebreus 13:15: "Por meio de Jesus, portanto, ofereçamos continuamente a Deus um sacrifício de louvor, que é fruto de lábios que confessam o seu nome." O autor de Hebreus destaca que a oferta mais importante que podemos oferecer a Deus é o nosso louvor e adoração por meio de Jesus Cristo.
+* Salmo 141:2: "Suba a minha oração perante a tua face como incenso, e seja o levantar de minhas mãos como o sacrifício da tarde." O salmista mostra que a oração pode ser considerada uma oferta a Deus, apresentada como incenso, e que a adoração a Deus pode acontecer em qualquer lugar e em qualquer momento.
+* Romanos 12:1: "Portanto, irmãos, rogo-vos pelas misericórdias de Deus que apresenteis o vosso corpo como um sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional." O apóstolo Paulo destaca que nossa adoração a Deus deve ser apresentada por meio de nossos corpos e vidas como um sacrifício vivo, santo e agradável, que é uma oferta racional e espiritual a Deus.
+****
+
+[[v3-2-1]]
+
+^<<v3-2-1,1>>^ Quando qualquer pessoa fizer ao Senhor uma oblação, a sua oferta será de flor de farinha: derramará sobre ela azeite, porá incenso,
+
+[[v3-2-2]]
+
+^<<v3-2-2,2>>^ e a levará aos sacerdotes, filhos de Aarão, um dos quais tomará um punhado da flor da farinha com azeite, e todo o incenso, e porá estas coisas como um memorial sobre o altar, em suave odor ao Senhor.
+
+[[v3-2-3]]
+
+^<<v3-2-3,3>>^ O que ficar da oblação será de Aarão e dos seus filhos, e será uma coisa santíssima entre as ofertas feitas ao Senhor.
+
+[[v3-2-4]]
+
+^<<v3-2-4,4>>^ Quando fizeres uma oblação de coisa cozida no forno, será de flor de farinha, isto é, de pães sem fermento amassados com azeite, e filhós ázimas untadas com azeite.
+
+[[v3-2-5]]
+
+^<<v3-2-5,5>>^ Se a tua oferta for de coisa frita em sertã, seja flor de farinha amassada em azeite e sem fermento;
+
+[[v3-2-6]]
+
+^<<v3-2-6,6>>^ dividi-la-ás em pequenos pedaços, e lhe deitarás azeite por cima.
+
+[[v3-2-7]]
+
+^<<v3-2-7,7>>^ Mas, se o sacrifício for de coisa cozida sobre a grelha, igualmente será a flor da farinha com azeite.
+
+[[v3-2-8]]
+
+^<<v3-2-8,8>>^ Oferecê-la-ás ao Senhor, e a porás nas mãos do sacerdote,
+
+[[v3-2-9]]
+
+^<<v3-2-9,9>>^ o qual, oferecendo-a, tomará uma parte da oblação como um memorial, e a queimará sobre o altar em cheiro de suavidade ao Senhor.
+
+[[v3-2-10]]
+
+^<<v3-2-10,10>>^ Tudo o que ficar será de Aarão e de seus filhos, e será uma coisa santíssima entre os sacrifícios feitos pelo fogo ao Senhor.
+
+[[v3-2-11]]
+
+^<<v3-2-11,11>>^ Toda a oferta, que se fizer ao Senhor, será sem fermento, e no sacrifício ao Senhor não se queimará em cima do altar coisa de fermento ou de mel.
+
+[[v3-2-12]]
+
+^<<v3-2-12,12>>^ Destas coisas oferecereis somente primícias e dons, mas não serão postos sobre o altar em odor de suavidade.
+
+[[v3-2-13]]
+
+^<<v3-2-13,13>>^ Temperarás com sal toda a oblação que fizeres; não deixarás que falte à tua oferenda o sal da aliança do teu Deus. Em toda a tua oblação oferecerás sal.
+
+[[v3-2-14]]
+
+^<<v3-2-14,14>>^ Se, porém, fizeres ao Senhor uma oferta das primícias dos teus frutos, de espigas ainda verdes, torrá-las-ás ao fogo, e moê-las-ás como se faz (aos grãos) de trigo, e assim oferecerás as tuas primícias ao Senhor,
+
+[[v3-2-15]]
+
+^<<v3-2-15,15>>^ derramando azeite sobre (elas) e pondo-lhes por cima incenso, porque é uma oblação.
+
+[[v3-2-16]]
+
+^<<v3-2-16,16>>^ Dela o sacerdote queimará, em memória do donativo, uma parte do grão moído, e do azeite, e todo o incenso.
+
+'''
+
+xref:003-levitico/003-levitico-001.adoc#v3-1-0[&#60; Capítulo Anterior] | <<v3-2-0,Topo>> | xref:003-levitico/003-levitico-003.adoc#v3-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v54-2-0]]
+=== II Coríntios, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Coríntios 2 trata sobre o perdão e a reconciliação entre membros da igreja. O apóstolo Paulo encoraja os coríntios a perdoarem e restaurarem um irmão que havia sido disciplinado anteriormente. Ele também fala sobre a importância de manter a unidade na igreja e de reconhecer a autoridade apostólica. Aqui estão cinco versículos relacionados com os temas abordados em 2 Coríntios 2:
+* Romanos 12:18: "Se possível, quanto depender de vós, tende paz com todos os homens." Paulo enfatiza a importância da paz e da unidade entre irmãos, algo que é abordado em 2 Coríntios 2.
+* Colossenses 3:13: "Suportai-vos uns aos outros, perdoai-vos mutuamente, caso alguém tenha motivo de queixa contra outrem. Assim como o Senhor vos perdoou, assim também perdoai vós." O perdão é um tema central em 2 Coríntios 2 e este versículo encoraja a perdoar assim como fomos perdoados.
+* Mateus 6:14-15: "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós; se, porém, não perdoardes aos homens [as suas ofensas], tampouco vosso Pai vos perdoará as vossas ofensas." Este versículo reforça a importância do perdão e sua relação com a misericórdia de Deus, um tema importante em 2 Coríntios 2.
+* Efésios 4:32: "Antes, sede uns para com os outros benignos, compassivos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo." Mais uma vez, Paulo enfatiza a importância do perdão e da misericórdia em nossos relacionamentos, algo que ele aborda em 2 Coríntios 2.
+* João 20:23: "Àqueles a quem perdoardes os pecados, são-lhes perdoados; àqueles a quem os retiverdes, são-lhes retidos." Este versículo mostra a autoridade dada aos discípulos de Jesus para perdoar pecados e sua relação com a reconciliação, um tema importante em 2 Coríntios 2.
+****
+
+[[v54-2-1]]
+
+^<<v54-2-1,1>>^ Determinei, pois, comigo mesmo não ir novamente ter convosco na tristeza. (ver nota)
+
+[[v54-2-2]]
+
+^<<v54-2-2,2>>^ Porquê, se vos contristo, quem é que me alegrará, senão o que por mim é contristado? (ver nota)
+
+[[v54-2-3]]
+
+^<<v54-2-3,3>>^ Isto mesmo já vos escrevi, para que, quando eu for, não tenha tristeza daqueles que deviam dar-me alegria, confiando em todos vós, que todos tendes como vossa a minha alegria.
+
+[[v54-2-4]]
+
+^<<v54-2-4,4>>^ Sim, foi em muita tribulação, angústia de coração e com muitas lágrimas que vos escrevi, não para vos contristar, mas para que conhecêsseis o grande amor que vos tenho.
+
+[[v54-2-5]]
+
+^<<v54-2-5,5>>^ Se algum foi causa de tristeza, não me contristou a mim, mas, em certa medida, para não exagerar, a todos vós.
+
+[[v54-2-6]]
+
+^<<v54-2-6,6>>^ Para esse (homem) basta a punição infligida pela maioria.
+
+[[v54-2-7]]
+
+^<<v54-2-7,7>>^ Agora é melhor usardes com ele de indulgência e consolá-lo, para que não aconteça que seja possuído de tristeza excessiva.
+
+[[v54-2-8]]
+
+^<<v54-2-8,8>>^ Por isso, rogo-vos que redobreis de caridade para com ele.
+
+[[v54-2-9]]
+
+^<<v54-2-9,9>>^ Também vos escrevi, para ver, por esta prova, se sois obedientes em tudo.
+
+[[v54-2-10]]
+
+^<<v54-2-10,10>>^ Ora, ao que perdoastes também eu perdoo; pois eu, também, o que perdoei, se alguma coisa tive a perdoar, foi por amor de vós com os olhos em Cristo,
+
+[[v54-2-11]]
+
+^<<v54-2-11,11>>^ para não sermos surpreendidos de Satanás, pois que não ignoramos os seus desígnios. (ver nota)
+
+[[v54-2-12]]
+
+^<<v54-2-12,12>>^ Quando cheguei a Tróade para lá pregar o Evangelho de Cristo, embora me fosse aberta uma porta pelo Senhor,
+
+[[v54-2-13]]
+
+^<<v54-2-13,13>>^ não tive repouso no meu espírito, porque não encontrei o meu irmão Tito (para me dar noticias de vós) e, por isso, despedindo-me deles, parti para a Mecedónia.
+
+[[v54-2-14]]
+
+^<<v54-2-14,14>>^ Mas, graças a Deus, que nos faz sempre triunfar em Jesus Cristo e que por nosso meio difunde o odor do seu conhecimento em todo o lugar,
+
+[[v54-2-15]]
+
+^<<v54-2-15,15>>^ porque somos diante de Deus o bom odor de Cristo, nos que se salvam e nos que perecem:
+
+[[v54-2-16]]
+
+^<<v54-2-16,16>>^ para uns, odor de morte, para sua morte; para outros, odor de vida, para sua vida. E quem está à altura de uma tal missão?
+
+[[v54-2-17]]
+
+^<<v54-2-17,17>>^ Com efeito, não somos falsificadores da palavra de Deus, como muitos, mas falamos em Cristo com sinceridade, da parte de Deus, diante de Deus.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-001.adoc#v54-1-0[&#60; Capítulo Anterior] | <<v54-2-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-003.adoc#v54-3-0[Próximo Capítulo &#62;]

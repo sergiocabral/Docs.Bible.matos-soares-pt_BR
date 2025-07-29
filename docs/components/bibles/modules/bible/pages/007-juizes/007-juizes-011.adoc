@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v7-11-0]]
+=== Juízes, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 do livro de Juízes conta a história de Jefté, um valente guerreiro que foi escolhido como líder de seu povo em uma época de conflitos e opressão. Jefté faz um voto ao Senhor, prometendo que, se vencer a batalha contra os amonitas, sacrificará a primeira pessoa que sair de sua casa para encontrá-lo. Infelizmente, essa pessoa acaba sendo sua própria filha, e Jefté se vê diante de uma escolha terrível.
+* Juízes 11:30-31: "Jefté fez um voto ao Senhor: 'Se entregares os amonitas nas minhas mãos, seja qual for a primeira pessoa que sair da porta da minha casa para me receber quando eu voltar em triunfo, essa pessoa pertencerá ao Senhor e eu a oferecerei em holocausto'." Esses versículos introduzem o voto de Jefté e a tragédia que ele acabará causando.
+* Deuteronômio 23:21: "Se fizeres algum voto ao Senhor, teu Deus, não tardes em cumpri-lo, pois o Senhor, teu Deus, certamente te pedirá contas, e um atraso em cumpri-lo será considerado pecado." Esse versículo mostra a importância de cumprir os votos feitos a Deus, mesmo que sejam difíceis ou dolorosos.
+* Provérbios 20:25: "É uma armadilha consagrar algo precipitadamente e só pensar nas consequências depois de feito o voto." Esse versículo adverte contra fazer votos sem pensar nas consequências, como foi o caso de Jefté.
+* Hebreus 11:32: "E que mais direi? Não tenho tempo para falar sobre Gideão, Baraque, Sansão, Jefté, Davi, Samuel e os profetas," Este versículo menciona Jefté como um herói da fé, apesar de suas falhas e erros.
+* 2 Coríntios 5:7: "Pois vivemos por fé, e não pelo que vemos." Esse versículo fala sobre a importância da fé em Deus, mesmo quando as coisas não parecem fazer sentido ou são difíceis de compreender, como foi o caso de Jefté em sua situação difícil.
+****
+
+[[v7-11-1]]
+
+^<<v7-11-1,1>>^ Havia naquele tempo um homem de Galaad, chamado Jefté, muito valente e guerreiro, que era filho de Galaad e duma meretriz.
+
+[[v7-11-2]]
+
+^<<v7-11-2,2>>^ Galaad porém teve uma esposa (legítima), da qual teve filhos, os quais, depois de crescerem, lançaram fora Jefté, dizendo: Tu não podes ser herdeiro na casa do nosso pai, visto teres nascido de outra mãe (que não era mulher legítima).
+
+[[v7-11-3]]
+
+^<<v7-11-3,3>>^ Ele, fugindo e retirando-se deles, habitou na terra de Tob; alguns homens miseráveis, que viviam de latrocínios, agregaram-se a ele, e seguiam-no como a seu capitão (contra os inimigos de Israel).
+
+[[v7-11-4]]
+
+^<<v7-11-4,4>>^ Algum tempo depois, os filhos de Amon combatiam contra Israel.
+
+[[v7-11-5]]
+
+^<<v7-11-5,5>>^ Enquanto os filhos de Amon faziam guerra a Israel, os anciãos de Galaad foram buscar Jefté da terra de Tob, para seu auxilio,
+
+[[v7-11-6]]
+
+^<<v7-11-6,6>>^ e disseram-lhe: Vem, e sê o nosso chefe, e combate contra os filhos de Amon.
+
+[[v7-11-7]]
+
+^<<v7-11-7,7>>^ Mas ele respondeu-lhes: Não sois vós aqueles que me odiastes e que me lançastes fora da casa de meu pai? Por que vindes agora ter comigo constrangidos pela necessidade?
+
+[[v7-11-8]]
+
+^<<v7-11-8,8>>^ Os anciães de Galaad disseram a Jefté: Por isso mesmo viemos nós agora ter contigo, para que venhas ter connosco, e combatas contra os filhos de Amon, e sejas o chefe de todos os que habitam em Galaad.
+
+[[v7-11-9]]
+
+^<<v7-11-9,9>>^ Jefté disse-lhes: Se verdadeiramente viestes buscar-me, para que combata por vós contra os filhos de Amon, quando o Senhor o entregar nas minhas mãos, serei eu o vosso chefe?
+
+[[v7-11-10]]
+
+^<<v7-11-10,10>>^ Eles responderam-lhe: O Senhor que ouve estas coisas, seja o medianeiro e a testemunha de que cumpriremos as nossas promessas.
+
+[[v7-11-11]]
+
+^<<v7-11-11,11>>^ Foi pois Jefté com os de Galaad, e todo o povo o elegeu por seu príncipe. Jefté repetiu todas as palavras diante do Senhor em Masfa.
+
+[[v7-11-12]]
+
+^<<v7-11-12,12>>^ Jefté enviou embaixadores ao rei dos filhos de Amon, que lhe dissessem da sua parte: Que tens tu comigo, que vieste contra mim para devastar o meu país?
+
+[[v7-11-13]]
+
+^<<v7-11-13,13>>^ O rei respondeu-lhes: Porque Israel, vindo do Egipto, tomou o meu país, desde os confins do Arnon até Jaboc e até ao Jordão. Entrega-mo, portanto pacificamente.
+
+[[v7-11-14]]
+
+^<<v7-11-14,14>>^ Jefté enviou novamente os mesmos homens, mandando-lhes que dissessem ao rei de Amon:
+
+[[v7-11-15]]
+
+^<<v7-11-15,15>>^ Isto diz Jefté: Israel não tomou a terra de Moab, nem a terra dos filhos de Amon.
+
+[[v7-11-16]]
+
+^<<v7-11-16,16>>^ Com efeito, quando saiu do Egipto, andou pelo deserto até ao Mar Vermelho, chegou a Cades,
+
+[[v7-11-17]]
+
+^<<v7-11-17,17>>^ e então enviou embaixadores ao rei de Edom, dizendo-lhe: Deixa-me passar pela tua terra. Ele não quis condescender com os seus pedidos. Mandou também embaixadores ao rei de Moab, o qual também lhe não quis dar passagem. Deteve-se pois em Cades,
+
+[[v7-11-18]]
+
+^<<v7-11-18,18>>^ e rodeou, a seguir, a terra de Edom e a terra de Moab; chegando à parte oriental da terra de Moab, acampou da outra banda de Arnom, e não quis entrar nos confins de Moab, porque Arnon é a fronteira da terra de Moab.
+
+[[v7-11-19]]
+
+^<<v7-11-19,19>>^ Enviou, daí, Israel embaixadores a Seon, rei dos Amorreus, que habitava em Hesebon, que lhe disseram: Deixa-nos passar pelo teu pais até ao rio.
+
+[[v7-11-20]]
+
+^<<v7-11-20,20>>^ Porém ele, desprezando também as palavras de Israel, não o deixou passar pelo seu território, mas, tendo juntado uma inumerável multidão, saiu contra ele, em Jasa, e atacou-o.
+
+[[v7-11-21]]
+
+^<<v7-11-21,21>>^ Todavia o Senhor entregou-o com todo o sou exército nas mãos de Israel, que o desbaratou, e conquistou toda a terra do Amorreu, que habitava naquela região,
+
+[[v7-11-22]]
+
+^<<v7-11-22,22>>^ e todos os seus limites, desde o Arnon até Jaboc, e desde o deserto até ao Jordão.
+
+[[v7-11-23]]
+
+^<<v7-11-23,23>>^ Agora que o Senhor Deus de Israel destruiu os Amorreus, pelejando contra eles o seu povo do Israel, tu pretendeste possuir a sua terra?
+
+[[v7-11-24]]
+
+^<<v7-11-24,24>>^ Porventura não te é devido por direito tudo o que te deu a possuir o teu Deus Camos? Logo também ficará em nossa posse o que o Senhor nosso Deus alcançou com a vitória,
+
+[[v7-11-25]]
+
+^<<v7-11-25,25>>^ a não ser que tu sejas de melhor condição do que Balac, filho de Sefor, rei de Moab. Porventura ele teve contendas com Israel, ou combateu contra ele,
+
+[[v7-11-26]]
+
+^<<v7-11-26,26>>^ enquanto Israel habitou Hesebou e em suas aldeias, em Aroer e em suas aldeias, e em todas as cidades vizinhas do Jordão, por espaço de trezentos anos? Por que razão em um tão largo tempo não fizestes vós diligência alguma para lhe tirar essas terras?
+
+[[v7-11-27]]
+
+^<<v7-11-27,27>>^ Não sou eu pois que faço injúria a ti, mas és tu que a fazes a mim, declarando-me uma guerra injusta. O Senhor, que é árbitro, decida hoje isto entre Israel e os filhos de Amon.
+
+[[v7-11-28]]
+
+^<<v7-11-28,28>>^ Porém o rei dos filhos de Amon não quis atender as palavras que Jefté lhe mandara dizer pelos embaixadores.
+
+[[v7-11-29]]
+
+^<<v7-11-29,29>>^ O espírito do Senhor foi sobre Jefté, e ele, dando volta por Galaad, pelo país de Manassés e por Masfa de Galaad, e, passando dali até aos filhos de Amon,
+
+[[v7-11-30]]
+
+^<<v7-11-30,30>>^ fez um voto ao Senhor, dizendo: Se entregares nos minhas mãos os filhos de Amon,
+
+[[v7-11-31]]
+
+^<<v7-11-31,31>>^ a primeira pessoa, seja ela qual for que sair das portas de minha casa, o vier ao meu encontro, quando eu voltar vitorioso dos filhos de Amon, eu a oferecerei ao Senhor em holocausto. (ver nota)
+
+[[v7-11-32]]
+
+^<<v7-11-32,32>>^ Jefté avançou contra os filhos de Amon a combater contra eles, e o Senhor entregou-os nas suas mãos.
+
+[[v7-11-33]]
+
+^<<v7-11-33,33>>^ Jefté fez uma grande mortandade em vinte cidades, desde Aroer até Menit e até Abel-Keramin, e foram humilhados os filhos de Amon pelos filhos de Israel.
+
+[[v7-11-34]]
+
+^<<v7-11-34,34>>^ Ora, voltando Jefté para sua casa em Masfa, sua filha única, porque não tinha outros filhos, saiu-lhe ao encontro com tímpanos e danças.
+
+[[v7-11-35]]
+
+^<<v7-11-35,35>>^ Quando a viu, rasgou as suas vestes e disse: Ai de mim, minha filha, que me causas uma extrema aflição e pertences ao número daqueles que causam a minha infelicidade! porque eu abri a minha boca (fazendo um voto) ao Senhor, e não poderei fazer outra coisa.
+
+[[v7-11-36]]
+
+^<<v7-11-36,36>>^ Ela respondeu-lho: Meu pai, se abriste a tua boca (fazendo um voto) ao Senhor, faze de mim o que prometeste, pois que te concedeu a vingança e a vitória de teus inimigos.
+
+[[v7-11-37]]
+
+^<<v7-11-37,37>>^ E disse (mais) a seu pai: Concede-me somente o que te peço: Deixa-me que vá pelos montes durante dois meses, e que chore a minha virgindade com as minhas companheiras. (ver nota)
+
+[[v7-11-38]]
+
+^<<v7-11-38,38>>^ Ele respondeu-lhe: Pois vai. E deixou-a ir durante dois meses. Tendo ido com as suas companheiras e amigas, chorava a sua virgindade pelos montes.
+
+[[v7-11-39]]
+
+^<<v7-11-39,39>>^ Passados os dois meses, voltou para seu pai, e ele cumpriu o voto que tinha feito. Ela não tinha conhecido varão.
+
+[[v7-11-40]]
+
+^<<v7-11-40,40>>^ Daqui veio o costume em Israel, que se tem conservado: Uma vez cada ano juntam-se as filhas do Israel, e choram durante quatro dias a filha de Jefté, o Galaadita.
+
+'''
+
+xref:007-juizes/007-juizes-010.adoc#v7-10-0[&#60; Capítulo Anterior] | <<v7-11-0,Topo>> | xref:007-juizes/007-juizes-012.adoc#v7-12-0[Próximo Capítulo &#62;]

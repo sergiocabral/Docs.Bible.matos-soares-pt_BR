@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v29-21-0]]
+=== Isaías, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 21 é um capítulo que contém uma profecia sobre a queda da Babilônia. Ele descreve a destruição e o julgamento de uma grande cidade. A seguir, cinco versículos relacionados aos temas abordados em Isaías 21:
+* Jeremias 50:15 - "Gritai contra ela em redor; ela já se rendeu; caíram as suas torres, derribaram-se os seus muros; porque esta é a vingança do SENHOR; vingai-vos dela; fazei-lhe como ela fez." Este versículo descreve a queda da Babilônia, assim como Isaías 21.
+* Apocalipse 14:8 - "E seguiu-os outro anjo, dizendo: Caiu, caiu Babilônia, aquela grande cidade, que a todas as nações deu a beber do vinho da ira da sua prostituição." Este versículo fala da queda da Babilônia como uma cidade que enganou todas as nações, assim como a descrição em Isaías 21.
+* Isaías 47:5 - "Assenta-te em silêncio, e entra nas trevas, ó filha dos caldeus, porque nunca mais serás chamada a senhora dos reinos." Este versículo fala da queda da Babilônia e do seu fim como um grande império, assim como Isaías 21.
+* Apocalipse 18:2 - "E clamou com voz forte, dizendo: Caiu, caiu a grande Babilônia, e se tornou morada de demônios, e coito de todo espírito imundo, e esconderijo de toda ave imunda e detestável." Este versículo descreve a queda da Babilônia e a sua transformação em um lugar de maldade, como a descrição em Isaías 21.
+* Jeremias 50:39 - "Portanto, as feras do deserto habitarão com hienas, e os avestruzes habitarão nela; e nunca mais será povoada, nem será habitada de geração em geração." Este versículo fala da queda da Babilônia e da sua destruição final, como a descrição em Isaías 21.
+****
+
+[[v29-21-1]]
+
+^<<v29-21-1,1>>^ Oráculo sobre o deserto do mar. Como vêm os tufões da parte do meio-dia, assim vem isto do deserto de uma terra medonha. (ver nota)
+
+[[v29-21-2]]
+
+^<<v29-21-2,2>>^ Anunciada me foi uma terrível visão; O saqueador saqueia, o assolador devasta. Marcha, ó Elam! Sitia, ó Medo! Faço cessar todos os gemidos.
+
+[[v29-21-3]]
+
+^<<v29-21-3,3>>^ Por esta causa se encheram de dor as minhas entranhas, a angústia apoderou-se de mim. como a angústia duma mulher na hora do parto. Fiquei atemorizado quando tal ouvi, fiquei de todo perturbado quando o vi.
+
+[[v29-21-4]]
+
+^<<v29-21-4,4>>^ O meu coração fica desvairado, o terror invade-me; a noite que (antes) desejava, (agora) enche-me de pavor.
+
+[[v29-21-5]]
+
+^<<v29-21-5,5>>^ Põe-se a mesa, estende-se o mantel, come-se e bebe-se. Levantai-vos, príncipes, tomai o escudo. (ver nota)
+
+[[v29-21-6]]
+
+^<<v29-21-6,6>>^ Porque o Senhor me disse estas coisas: Vai e põe uma sentinela, que anuncie tudo o que vir.
+
+[[v29-21-7]]
+
+^<<v29-21-7,7>>^ Se ela vir cavaleiros, dois a dois, montados sobre asnos, montados sobre camelos, preste atenção, muita atenção.
+
+[[v29-21-8]]
+
+^<<v29-21-8,8>>^ Depois gritou (como) um leão: Eu estou no posto em que o Senhor me colocou, e nele permaneço todo o dia, estou passando na minha guarda noites inteiras.
+
+[[v29-21-9]]
+
+^<<v29-21-9,9>>^ Eis que chega cavalaria, cavaleiros, dois a dois. Retomou a palavra e disse: Caiu, caiu Babilônia! Todas as estátuas dos seus deuses se fizeram em pedaços, contra a terra.
+
+[[v29-21-10]]
+
+^<<v29-21-10,10>>^ Ó vós, debulha minha, grão da minha eira, o que eu ouvi ao Senhor dos exércitos, ao Deus de Israel, isso vos anuncio. (ver nota)
+
+[[v29-21-11]]
+
+^<<v29-21-11,11>>^ Oráculo sobre Duma. Clamam para mim de Seir: Sentinela, que houve esta noite? Sentinela, que houve esta noite?
+
+[[v29-21-12]]
+
+^<<v29-21-12,12>>^ A sentinela respondeu: Chega a manhã, e a noite também. Perguntai, se quereis, voltai a perguntar.
+
+[[v29-21-13]]
+
+^<<v29-21-13,13>>^ Oráculo sobre a Arábia. Passareis a noite nos matagais da estepe, caravanas de Dedan.
+
+[[v29-21-14]]
+
+^<<v29-21-14,14>>^ Vós os que habitais a terra de Tema, saindo ao encontro do sequioso, trazei-lhe água, socorrei com pão os fugitivos,
+
+[[v29-21-15]]
+
+^<<v29-21-15,15>>^ pois eles fugiram diante da espada, diante da espada desembainhada, diante do arco tenso, diante do rude combate.
+
+[[v29-21-16]]
+
+^<<v29-21-16,16>>^ Porque o Senhor me diz estas coisas: Ainda um ano, (contado) como os anos do mercenário, e depois desaparecerá toda a glória de Cedar.
+
+[[v29-21-17]]
+
+^<<v29-21-17,17>>^ O número que ficar dos fortes frecheiros, filhos de Cedar, será pequeno. O Senhor, Deus de Israel, (assim) o disse.
+
+'''
+
+xref:029-isaias/029-isaias-020.adoc#v29-20-0[&#60; Capítulo Anterior] | <<v29-21-0,Topo>> | xref:029-isaias/029-isaias-022.adoc#v29-22-0[Próximo Capítulo &#62;]

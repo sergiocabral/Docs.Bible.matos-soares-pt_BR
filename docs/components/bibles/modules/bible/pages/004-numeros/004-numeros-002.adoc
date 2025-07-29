@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v4-2-0]]
+=== Números, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Números 2 detalha a organização do acampamento de Israel no deserto. Cada tribo é atribuída a uma posição específica em torno da tenda da reunião, com Judá, Issacar e Zebulom acampando no leste, Rúben, Simeão e Gade no sul, Efraim, Manassés e Benjamim no oeste, e Dã, Aser e Naftali no norte. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Êxodo 40:2: "No primeiro dia do primeiro mês, você deve erguer a tenda da reunião." Este versículo se relaciona com Números 2:2, que especifica que o acampamento deve ser organizado em torno da tenda da reunião.
+* Números 2:10: "A tribo de Rúben, com suas unidades militares, será a segunda a marchar. O líder de Rúben será Elisur, filho de Sedeur." Este versículo se relaciona com Números 2 em geral, que descreve a ordem de marcha das tribos de Israel no deserto.
+* Números 2:18: "No lado oeste estarão as divisões da tribo de Efraim, com suas unidades militares. O líder de Efraim será Elisama, filho de Amiúde." Este versículo se relaciona com Números 2 em geral, que descreve a posição de acampamento de cada tribo de Israel no deserto.
+* Josué 3:3-4: "Quando vocês virem a arca da aliança do Senhor, o seu Deus, e os levitas sacerdotes carregando-a, vocês devem sair do lugar onde estão e segui-la. Mas mantenham uma distância de cerca de dois mil côvados entre vocês e a arca; não se aproximem dela." Este versículo se relaciona com Números 2:17, que especifica que a tribo de Levi deve acampar em torno da tenda da reunião e transportar a arca da aliança durante as marchas.
+* Josué 4:4-5: "Então Josué chamou os doze homens que havia escolhido dentre os israelitas, um de cada tribo, e lhes disse: Passem adiante da arca do Senhor, o seu Deus, para o meio do Jordão. Cada um de vocês levante uma pedra sobre o seu ombro, de acordo com o número das tribos dos israelitas." Este versículo se relaciona com Números 2:2, que especifica que o acampamento deve ser organizado em torno da tenda da reunião, que é simbolizada pela arca da aliança.
+****
+
+[[v4-2-1]]
+
+^<<v4-2-1,1>>^ O Senhor falou a Moisés e a Aarão dizendo:
+
+[[v4-2-2]]
+
+^<<v4-2-2,2>>^ Os filhos de Israel acamparão em volta do tabernáculo da aliança cada um segundo as suas turmas, as suas insígnias, os seus estandartes, as casas da sua parentela.
+
+[[v4-2-3]]
+
+^<<v4-2-3,3>>^ Judá assentará as suas tendas ao oriente, segundo as turmas do seu exército; Naasson, filho de Aminadab, será o príncipe dos seus filhos.
+
+[[v4-2-4]]
+
+^<<v4-2-4,4>>^ O número total de combatentes da sua linhagem é de setenta e quatro mil e seiscentos.
+
+[[v4-2-5]]
+
+^<<v4-2-5,5>>^ Junto dele acamparam os da tribo de Issacar, cujo príncipe foi Natanael, filho de Suar.
+
+[[v4-2-6]]
+
+^<<v4-2-6,6>>^ O número total dos seus combatentes é de cinquenta e quatro mil e quatrocentos.
+
+[[v4-2-7]]
+
+^<<v4-2-7,7>>^ Na tribo de Zabulon o príncipe foi Eliab, filho de Elon.
+
+[[v4-2-8]]
+
+^<<v4-2-8,8>>^ Todo o corpo de combatentes desta tribo é de cinquenta e sete mil e quatrocentos.
+
+[[v4-2-9]]
+
+^<<v4-2-9,9>>^ Todos os que foram contados no acampamento de Judá, foram cento e oitenta e seis mil e quatrocentos; serão os primeiros a pôr-se em marcha segundo as suas turmas.
+
+[[v4-2-10]]
+
+^<<v4-2-10,10>>^ No acampamento dos filhos de Ruben para a parte do meio-dia será príncipe Elisur, filho de Sedeur;
+
+[[v4-2-11]]
+
+^<<v4-2-11,11>>^ todo o corpo dos seus combatentes, que foram contados, era de quarenta e seis mil e quinhentos.
+
+[[v4-2-12]]
+
+^<<v4-2-12,12>>^ Junto a ele acamparam os da tribo de Simeão, cujo príncipe foi Salamiel, filho de Surisadai.
+
+[[v4-2-13]]
+
+^<<v4-2-13,13>>^ Todo o corpo dos seus combatentes, que feriam contados, era de cinquenta e nove mil e trezentos.
+
+[[v4-2-14]]
+
+^<<v4-2-14,14>>^ Na tribo de Gad foi príncipe Eliasaph, filho de Duel.
+
+[[v4-2-15]]
+
+^<<v4-2-15,15>>^ Todo o corpo dos seus combatentes, que foram contados, era de quarenta e cinco mil seiscentos e cinquenta.
+
+[[v4-2-16]]
+
+^<<v4-2-16,16>>^ Todos os que foram contados no acampamento de Ruben, foram cento e cinquenta e um mil e quatrocentos e cinquenta, segundo as suas turmas; estes serão os segundos a pôr-se em marcha.
+
+[[v4-2-17]]
+
+^<<v4-2-17,17>>^ (Em seguida irá) o tabernáculo da reunião (que) será levado por cuidado dos Levitas, e por suas turmas; pela ordem que for armado, assim será desarmado. Cada um marchará no seu lugar e na sua ordem.
+
+[[v4-2-18]]
+
+^<<v4-2-18,18>>^ Para a parte do ocidente estará o acampamento dos filhos de Efraim, cujo príncipe foi Elisama filho de Amiud.
+
+[[v4-2-19]]
+
+^<<v4-2-19,19>>^ Todo o corpo dos seus combatentes, que foram contados, era de quarenta mil e quinhentos.
+
+[[v4-2-20]]
+
+^<<v4-2-20,20>>^ A seu lado acampará a tribo dos filhos de Manasses cujo príncipe, foi Gamaliel, filho de Fadussur.
+
+[[v4-2-21]]
+
+^<<v4-2-21,21>>^ Todo o corpo dos seus combatentes, que foram contados, era de trinta e dois mil e duzentos.
+
+[[v4-2-22]]
+
+^<<v4-2-22,22>>^ Na tribo dos filhos de Benjamim foi príncipe Abidan, filho de Gedeão.
+
+[[v4-2-23]]
+
+^<<v4-2-23,23>>^ Todo o corpo dos seus combatentes, que foram contados, era de trinta e cinco mil e quatrocentos.
+
+[[v4-2-24]]
+
+^<<v4-2-24,24>>^ Todos os que foram contados no acampamento de Efraim somavam cento e oito mil e cem segundo as suas turmas. Estes partirão em terceiro lugar.
+
+[[v4-2-25]]
+
+^<<v4-2-25,25>>^ Para a parte do setentrião acamparam os filhos de Dan cujo príncipe foi Aiezer, filho de Amisadai.
+
+[[v4-2-26]]
+
+^<<v4-2-26,26>>^ Todo o corpo dos seus combatentes, que foram contados, era de sessenta e dois mil e setecentos.
+
+[[v4-2-27]]
+
+^<<v4-2-27,27>>^ Junto a ele acamparam os da tribo de Aser, cujo príncipe foi Fegiel, filho de Ocran.
+
+[[v4-2-28]]
+
+^<<v4-2-28,28>>^ Toldo o corpo dos seus combatentes que foram contados, era de quarenta e um mil e quinhentos.
+
+[[v4-2-29]]
+
+^<<v4-2-29,29>>^ Da tribo dos filhos de Neftali foi príncipe Aira, filho de Enan.
+
+[[v4-2-30]]
+
+^<<v4-2-30,30>>^ Todo o corpo dos seus combatentes era de cinquenta e três mil e quatrocentos.
+
+[[v4-2-31]]
+
+^<<v4-2-31,31>>^ Todos os que foram contados no acampamento de Dan foram cento e cinqüenta e sete mil e setecentos; estes serão os últimos a partir.
+
+[[v4-2-32]]
+
+^<<v4-2-32,32>>^ O numero dos filhos de Israel, divididos segundo as casas patriarcais e as turmas do exército, é de seiscentos e três mil e quinhentos e cinquenta.
+
+[[v4-2-33]]
+
+^<<v4-2-33,33>>^ Os Levitas, porém, não foram contados entre os filhos de Israel, porque assim tinha ordenado o Senhor a Moisés.
+
+[[v4-2-34]]
+
+^<<v4-2-34,34>>^ Os filhos de Israel fizeram tudo segundo o que o Senhor tinha mandado. Acamparam segundo as suas turmas, e marcharam segundo as famílias e casas de seus pais.
+
+'''
+
+xref:004-numeros/004-numeros-001.adoc#v4-1-0[&#60; Capítulo Anterior] | <<v4-2-0,Topo>> | xref:004-numeros/004-numeros-003.adoc#v4-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v21-126-0]]
+=== Salmos, 126
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 126 é um hino de agradecimento a Deus pela restauração do povo de Israel após o exílio babilônico. O salmista expressa a alegria daqueles que foram libertados e retornaram à sua terra. Os versículos a seguir estão relacionados com os temas abordados neste salmo:
+* Isaías 51:11: "Assim, os resgatados do Senhor voltarão e virão a Sião com cânticos de júbilo; alegria eterna coroará as suas cabeças. Eles exultarão de alegria e satisfação, e a tristeza e o gemido fugirão." Este versículo fala sobre o retorno do povo de Deus à sua terra, o que está diretamente relacionado ao tema principal do Salmo 126.
+* Jeremias 31:7: "Pois assim diz o Senhor: 'Cantem de alegria por Jacó, exultem por causa do principal dos povos; proclamem, louvem e digam: 'Senhor, salva o teu povo, o remanescente de Israel!'" Este versículo também se refere à restauração do povo de Israel e à alegria que isso traz.
+* Salmos 85:1: "Ó Senhor, mostraste favor à tua terra; trouxeste de volta os cativos de Jacó." Este verso fala sobre o retorno dos cativos de Jacó, que é outro tema presente no Salmo 126.
+* Salmos 126:5-6: "Os que semeiam com lágrimas, com cânticos de júbilo colherão. Aquele que sai chorando enquanto lança a semente, voltará com cânticos de júbilo, trazendo os seus feixes." Estes versículos estão dentro do próprio Salmo 126 e falam sobre a alegria que vem após a tristeza e o sofrimento.
+* Salmos 30:5: "O choro pode persistir uma noite, mas de manhã irrompe a alegria." Este versículo também fala sobre a alegria que vem após o sofrimento, assim como os versículos do Salmo 126.
+****
+
+[[v21-126-1]]
+
+^<<v21-126-1,1>>^ Cântico das subidas. De Salomão. Se o Senhor não edificar a casa, é em vão que trabalham os que a edificam. Se o Senhor não guardar a cidade, inutilmente vigia a sentinela.
+
+[[v21-126-2]]
+
+^<<v21-126-2,2>>^ Em vão vos levantais antes de amanhecer, e fazeis serão até alta noite, vós que comeis o pão de trabalho duro: porque ele o dá aos seus amados até durante o sono. (ver nota)
+
+[[v21-126-3]]
+
+^<<v21-126-3,3>>^ Eis que os filhos, são um dom do Senhor, o fruto das entranhas é uma recompensa. (ver nota)
+
+[[v21-126-4]]
+
+^<<v21-126-4,4>>^ Como setas na mão do guerreiro, assim são os filhos da juventude. (ver nota)
+
+[[v21-126-5]]
+
+^<<v21-126-5,5>>^ Ditoso o homem que delas encheu a sua aljava. Não serão confundidos quando contenderem com os seus inimigos à porta. (ver nota)
+
+'''
+
+xref:021-salmos/021-salmos-125.adoc#v21-125-0[&#60; Capítulo Anterior] | <<v21-126-0,Topo>> | xref:021-salmos/021-salmos-127.adoc#v21-127-0[Próximo Capítulo &#62;]

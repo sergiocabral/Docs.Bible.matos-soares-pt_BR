@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v13-13-0]]
+=== I Crônicas, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 13 descreve a tentativa fracassada de Davi de trazer a arca da aliança para Jerusalém. Embora sua intenção fosse boa, ele não seguiu as instruções de Deus para transportar a arca corretamente e acabou causando a morte de Uzá. A partir deste capítulo, escolhi cinco versículos relacionados aos temas de obediência, reverência, adoração, arrependimento e santidade, que podem ser encontrados em outras partes da Bíblia.
+* Deuteronômio 28:1: "E será que, se ouvires a voz do SENHOR teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu hoje te ordeno, o SENHOR teu Deus te exaltará sobre todas as nações da terra." Este versículo de Deuteronômio destaca a importância da obediência aos mandamentos de Deus. Davi falhou em obedecer as instruções de Deus para transportar a arca e, como resultado, enfrentou consequências graves.
+* Salmos 89:7: "Deus é muito terrível na assembléia dos santos, e para ser reverenciado por todos os que o cercam." A arca da aliança era um símbolo da presença de Deus, e Davi entendeu a importância de reverenciá-la. Este versículo do Salmo 89 destaca a importância de reverenciar a Deus e sua presença.
+* Salmos 96:9: "Adorai ao SENHOR na beleza da santidade; tremei diante dele toda a terra." Davi reconheceu a importância de adorar a Deus de forma apropriada. Este versículo do Salmo 96 destaca a importância de adorar a Deus na beleza da santidade.
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa alcançará misericórdia." Quando Uzá tocou a arca da aliança, ele estava desobedecendo a Deus. Davi reconheceu seu erro e se arrependeu. Este versículo de Provérbios destaca a importância de confessar nossos pecados e nos arrependermos diante de Deus.
+* Levítico 10:3: "E disse Moisés a Arão: Isto é o que o SENHOR falou, dizendo: Serei santificado naqueles que se chegam a mim e serei glorificado diante de todo o povo." Davi falhou em transportar a arca de maneira santa e reverente. Este versículo de Levítico destaca a importância da santidade e reverência na adoração a Deus.
+****
+
+[[v13-13-1]]
+
+^<<v13-13-1,1>>^ Davide teve conselho com os chefes de milhar, com os centuriões e com todos os príncipes,
+
+[[v13-13-2]]
+
+^<<v13-13-2,2>>^ e a todo o ajuntamento de Israel: Se vos parece bem e se o que vos vou propor vem do Senhor nosso Deus, mandemos chamar todos os outros nossos irmãos, por todas as províncias de Israel, bem como os sacerdotes e Levitas, que habitam nos arrabaldes das cidades, para que se reunam junto de nós,
+
+[[v13-13-3]]
+
+^<<v13-13-3,3>>^ e reconduzamos para nós a arca do nosso Deus, já que a não buscamos no tempo de Saul.
+
+[[v13-13-4]]
+
+^<<v13-13-4,4>>^ Todo o ajuntamento respondeu que assim se fizesse, porque a todo o povo agradara a proposta.
+
+[[v13-13-5]]
+
+^<<v13-13-5,5>>^ Reuniu, pois, Davide todo o Israel desde o rio Sior do Egito até à entrada de Emat, para conduzir a arca de Deus de Cariatiarim (a Jerusalém).
+
+[[v13-13-6]]
+
+^<<v13-13-6,6>>^ Davide saiu com todos os homens de Israel para a colina de Cariatiarim, que está na tribo de Judá, para de lá trazer a arca do Senhor Deus, que está sentado sobre os querubins, diante da qual é invocado o seu nome.
+
+[[v13-13-7]]
+
+^<<v13-13-7,7>>^ E puseram a arca de Deus em cima dum carro novo, retirando-a da casa de Abinadab; Oza e seu irmão guiavam o carro.
+
+[[v13-13-8]]
+
+^<<v13-13-8,8>>^ Entretanto Davide e todo o Israel manifestavam a sua alegria diante de Deus com toda a sua força em cânticos, tangendo cítaras, saltérios, tambores, timbales e trombetas.
+
+[[v13-13-9]]
+
+^<<v13-13-9,9>>^ Quando chegaram à eira de Quidon, Oza estendeu a mão para suster a arca, porque um boi, recalcitrando, a tinha feito inclinar um pouco.
+
+[[v13-13-10]]
+
+^<<v13-13-10,10>>^ Irritou-se o Senhor contra Oza e feriu-o por ter tocado a arca (não sendo sacerdote); Oza morreu ali diante do Senhor.
+
+[[v13-13-11]]
+
+^<<v13-13-11,11>>^ Davide afligiu-se, porque o Senhor tinha ferido Oza com tal castigo, e chamou àquele lugar a Divisão de Oza, (nome que conserva) até ao dia de hoje.
+
+[[v13-13-12]]
+
+^<<v13-13-12,12>>^ Davide temeu então a Deus, dizendo: Como poderei eu levar para minha casa a arca de Deus?
+
+[[v13-13-13]]
+
+^<<v13-13-13,13>>^ Por esta razão não a conduziu para a sua casa, isto é, para a cidade de Davide, mas mandou-a levar para casa de Obededom de Get.
+
+[[v13-13-14]]
+
+^<<v13-13-14,14>>^ Ficou, pois, a arca de Deus em casa de Obededom durante três meses; e o Senhor abençoou a sua casa e tudo o que Ihe pertencia.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-012.adoc#v13-12-0[&#60; Capítulo Anterior] | <<v13-13-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-014.adoc#v13-14-0[Próximo Capítulo &#62;]

@@ -1,0 +1,307 @@
+include::./index.adoc[]
+
+[[v32-6-0]]
+=== Baruc, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Baruc 6 é o último capítulo do livro de Baruc e trata da adoração de ídolos e da importância da verdadeira adoração a Deus. O capítulo condena a adoração de ídolos e destaca a superioridade de Deus sobre todas as coisas. A seguir estão cinco versículos relacionados aos temas abordados em Baruc 6, em ordem de proximidade com o capítulo:
+* Isaías 44:9-10: "Os que formam imagens de escultura são todos eles vaidade, e as coisas mais desejáveis delas são de nenhum préstimo; e tanto os seus próprios artífices como os que nelas confiam são cegos; não vêem, nem entendem, para que se envergonhem. Quem forma um deus, e funde uma imagem de escultura, que é de nenhum préstimo?" Este versículo condena a adoração de ídolos, um tema central em Baruc 6.
+* Deuteronômio 5:7-9: "Não terás outros deuses diante de mim. Não farás para ti imagem esculpida, nem figura alguma do que há em cima no céu, nem embaixo na terra, nem nas águas debaixo da terra. Não te encurvarás diante delas, nem as servirás; porque eu, o Senhor teu Deus, sou Deus zeloso." Este versículo também condena a adoração de ídolos, um tema central em Baruc 6.
+* Salmos 115:4-8: "Os ídolos deles são prata e ouro, obra das mãos do homem. Têm boca, mas não falam; têm olhos, mas não vêem; têm ouvidos, mas não ouvem; têm nariz, mas não cheiram; têm mãos, mas não apalpam; têm pés, mas não andam; nem som algum sai da sua garganta." Este versículo também condena a adoração de ídolos e destaca a superioridade de Deus sobre todas as coisas, temas abordados em Baruc 6.
+* João 4:24: "Deus é Espírito, e é necessário que os que o adoram o adorem em espírito e em verdade." Este versículo destaca a importância da verdadeira adoração a Deus, um tema abordado em Baruc 6.
+* 1 Coríntios 10:14: "Portanto, meus amados, fugi da idolatria." Este versículo também condena a adoração de ídolos, um tema central em Baruc 6.
+****
+
+[[v32-6-1]]
+
+^<<v32-6-1,1>>^ Por causa dos pecados que cometestes diante de Deus, sereis levados cativos a Babilônia, por Nabucodonosor, rei dos Babilônios.
+
+[[v32-6-2]]
+
+^<<v32-6-2,2>>^ Uma vez chegados a Babilônia, estareis ali muitos anos, largo tempo, até sete gerações; depois disto, vos tirarei de lá em paz. (ver nota)
+
+[[v32-6-3]]
+
+^<<v32-6-3,3>>^ Ora, ides ver em Babilônia que são levados aos ombros deuses de prata, de ouro e de madeira, que metem medo às gentes.
+
+[[v32-6-4]]
+
+^<<v32-6-4,4>>^ Vêde, pois, não suceda que vos torneis semelhantes no procedimento aos estrangeiros, a ponto de vos deixardes possuir do temor desses deuses.
+
+[[v32-6-5]]
+
+^<<v32-6-5,5>>^ Quando virdes, detrás e diante deles, a multidão que os adora, dizei em vossos corações; Tu, Senhor, é que deves ser adorado.
+
+[[v32-6-6]]
+
+^<<v32-6-6,6>>^ Porque o meu anjo está convosco, e ele tomará cuidado das vossas vidas.
+
+[[v32-6-7]]
+
+^<<v32-6-7,7>>^ Porque a língua desses ídolos foi polida por um artista, e eles, (apesar de) dourados e prateados, são um puro engano e não podem falar.
+
+[[v32-6-8]]
+
+^<<v32-6-8,8>>^ Como se fazem adornos para uma donzela que gosta deles, assim se toma ouro e se fabricam coroas para colocar na cabeça de tais deuses.
+
+[[v32-6-9]]
+
+^<<v32-6-9,9>>^ Às vezes os sacerdotes despojam os seus deuses do ouro e da prata, gastando isso em seus próprios usos
+
+[[v32-6-10]]
+
+^<<v32-6-10,10>>^ ou dando-o até às prostitutas, nas suas casas. Enfeitam os seus deuses, como se fossem homens, esses deuses de prata, de ouro e de madeira,
+
+[[v32-6-11]]
+
+^<<v32-6-11,11>>^ Estes não se defendem da ferrugem nem da traça.
+
+[[v32-6-12]]
+
+^<<v32-6-12,12>>^ Depois de os terem revestido de púrpura, limpam-lhe o rosto por causa do muitíssimo pó que se levanta no templo.
+
+[[v32-6-13]]
+
+^<<v32-6-13,13>>^ (Eis um que) tem um ceptro na mão, corno governador de província, mas não mata a quem ofende.
+
+[[v32-6-14]]
+
+^<<v32-6-14,14>>^ (Eis outro que) tem na mão uma espada e um cutelo, mas não se pode livrar a si mesmo da guerra nem dos ladrões. Por aqui claramente se vê que não são deuses;
+
+[[v32-6-15]]
+
+^<<v32-6-15,15>>^ portanto não os temais. Como uma vasilha, se se quebra, fica inútil para o homem, assim são também os seus deuses.
+
+[[v32-6-16]]
+
+^<<v32-6-16,16>>^ Colocados numa casa, os seus olhos enchem-se de pó levantado pelos pés dos que entram.
+
+[[v32-6-17]]
+
+^<<v32-6-17,17>>^ Assim como se fecham as portas da prisão àquele que ofendeu o rei e que vai ser morto, do mesmo modo seguram os sacerdotes as portas dos templos com fechaduras e ferrolhos, para que (os seus deuses) não sejam despojados pelos ladrões.
+
+[[v32-6-18]]
+
+^<<v32-6-18,18>>^ Acendem-lhes lâmpadas, e em maior número que para si próprios, mas os deuses não podem ver nenhuma.
+
+[[v32-6-19]]
+
+^<<v32-6-19,19>>^ São como as traves do templo, cujo interior é corroído, segundo se diz, pelos vermes que saem da terra; porém, quando os roem a eles e às suas vestes não o sentem.
+
+[[v32-6-20]]
+
+^<<v32-6-20,20>>^ Negro se torna o seu rosto com o fumo que se eleva na sua casa.
+
+[[v32-6-21]]
+
+^<<v32-6-21,21>>^ Sobre o seu corpo e sobre a sua cabeça esvoaçam os mochos, as andorinhas e outras aves, e também saltam os gatos.
+
+[[v32-6-22]]
+
+^<<v32-6-22,22>>^ Por isto bem vedes que não são deuses; portanto não os temais.
+
+[[v32-6-23]]
+
+^<<v32-6-23,23>>^ O ouro que os cobre, serve para os embelezar, mas se alguém lhes não limpar o empanamento, reluzirão. Mesmo quando os fundiam, nada sentiram.
+
+[[v32-6-24]]
+
+^<<v32-6-24,24>>^ Por alto preço são comprados, e não há neles espírito de vida.
+
+[[v32-6-25]]
+
+^<<v32-6-25,25>>^ Não tendo pés (capazes de andar), são levados sobre os ombros, mostrando aos homens a sua vileza. Devem também envergonhar-se os que os adoram.
+
+[[v32-6-26]]
+
+^<<v32-6-26,26>>^ Se caírem em terra, não se levantam por si mesmos; se alguém os põe de pé, não se podem mover; se inclinados, não se podem endireitar. São lhes apresentadas, como a mortos, as oferendas.
+
+[[v32-6-27]]
+
+^<<v32-6-27,27>>^ Os seus sacerdotes vendem tais oferendas, para seu proveito; as suas mulheres tomam também uma parte que salgam (para conservar), não dando coisa alguma, nem aos pobres nem aos enfermos.
+
+[[v32-6-28]]
+
+^<<v32-6-28,28>>^ As mulheres grávidas e no seu estado de impureza tocam os sacrifícios deles. Sabendo vós, pois. por estas coisas, que não são deuses, não os temais. (ver nota)
+
+[[v32-6-29]]
+
+^<<v32-6-29,29>>^ Por que chamar-lhes, pois, deuses? As mulheres fazem oferendas a estes deuses de prata, de ouro e de madeira. (ver nota)
+
+[[v32-6-30]]
+
+^<<v32-6-30,30>>^ Nos seus templos estão assentados os sacerdotes, de túnicas rasgadas, de cabeça e barba rapadas, de cabeça descoberta. (ver nota)
+
+[[v32-6-31]]
+
+^<<v32-6-31,31>>^ Rugem, fazendo alarido diante dos seus deuses, como num festim fúnebre.
+
+[[v32-6-32]]
+
+^<<v32-6-32,32>>^ Os sacerdotes tiram-lhes as suas roupagens e com elas vestem as suas mulheres e os seus filhos.
+
+[[v32-6-33]]
+
+^<<v32-6-33,33>>^ Ainda que (aos ídolos) se lhes faça algum mal ou algum bem, não podem dar o pago. Não podem pôr um rei, nem tirá-lo.
+
+[[v32-6-34]]
+
+^<<v32-6-34,34>>^ Nem tão pouco podem dar riquezas, nem a mais pequena moeda. Se alguém lhes fizer um voto e não o cumprir, nem disto se queixam.
+
+[[v32-6-35]]
+
+^<<v32-6-35,35>>^ Não livram ninguém da morte, nem defendem o fraco do mais poderoso.
+
+[[v32-6-36]]
+
+^<<v32-6-36,36>>^ Não restituem a vista a um cego, nem livram o homem da sua necessidade.
+
+[[v32-6-37]]
+
+^<<v32-6-37,37>>^ Não podem compadecer-se da viúva ou fazer bem ao órfão.
+
+[[v32-6-38]]
+
+^<<v32-6-38,38>>^ São semelhantes às pedras do monte, estes deuses feitos de madeira, cobertos de ouro e prata; os que os adoram serão confundidos.
+
+[[v32-6-39]]
+
+^<<v32-6-39,39>>^ Como se pode, pois, pensar ou dizer que são deuses?
+
+[[v32-6-40]]
+
+^<<v32-6-40,40>>^ Os próprios Caldeus os desonram: quando sabem que alguém não pode falar, porque é mudo, apresentam-no a Bel, pedindo-lhe que lhe dê fala, como se o deus pudesse ouvir. (ver nota)
+
+[[v32-6-41]]
+
+^<<v32-6-41,41>>^ São incapazes de reflectir sobre tudo isto e de abandonar esses deuses, tamanha é a sua insensatez! Mesmo, quando se desenganam, os abandonam, porque os seus deuses são insensíveis.
+
+[[v32-6-42]]
+
+^<<v32-6-42,42>>^ Mulheres, cingidas de cordas, estão assentadas nos caminhos, queimando farelo. (ver nota)
+
+[[v32-6-43]]
+
+^<<v32-6-43,43>>^ E, quando alguma delas, atraída por qualquer transeunte, dormiu com ele. lança em rosto à sua vizinha que ela não foi julgada digna da mesma honra e de a sua corda se quebrar.
+
+[[v32-6-44]]
+
+^<<v32-6-44,44>>^ Todas as coisas que se fazem com estes deuses são mentira. Como se pode, pois, crer ou dizer que são deuses?
+
+[[v32-6-45]]
+
+^<<v32-6-45,45>>^ Por artistas e ourives foram feitos. Nenhuma outra coisa serão, senão aquilo que querem que sejam os artífices.
+
+[[v32-6-46]]
+
+^<<v32-6-46,46>>^ Os mesmos artífices que os fazem, não são de muita duração; como podem, pois. ser deuses os que por eles foram fabricados?
+
+[[v32-6-47]]
+
+^<<v32-6-47,47>>^ Não deixaram senão engano e opróbrio aos seus descendentes.
+
+[[v32-6-48]]
+
+^<<v32-6-48,48>>^ Quando sobrevém alguma guerra ou desastre, os sacerdotes consultam entre si sobre onde se hão-de esconder com os seus deuses.
+
+[[v32-6-49]]
+
+^<<v32-6-49,49>>^ Como, pois, não se vê que não são deuses os que nem se podem livrar da guerra, nem defender-se das calamidades?
+
+[[v32-6-50]]
+
+^<<v32-6-50,50>>^ Porque são de madeira, dourados e prateados, vir-se-á a saber, um dia, que são falsos; claro se tornará, para todos os povos e reis, que não são deuses, mas obra da mão dos homens, e que não há neles operação alguma divina.
+
+[[v32-6-51]]
+
+^<<v32-6-51,51>>^ Quem, pois não verá claramente que não são deuses?
+
+[[v32-6-52]]
+
+^<<v32-6-52,52>>^ Não estabelecerão rei em país algum, nem darão chuva aos homens.
+
+[[v32-6-53]]
+
+^<<v32-6-53,53>>^ Não decidirão as próprias contendas. nem livrarão da opressão, porque nada podem, como as gralhas que voam entre o céu e a terra.
+
+[[v32-6-54]]
+
+^<<v32-6-54,54>>^ Se o fogo se atear na casa desses deuses de madeira, cobertos de prata e de ouro, os seus sacerdotes fugirão e se livrarão, mas eles, como traves, no meio das chamas serão queimados.
+
+[[v32-6-55]]
+
+^<<v32-6-55,55>>^ Não resistirão a um rei nem a inimigos. Como se pode, pois, admitir ou pensar que são deuses?
+
+[[v32-6-56]]
+
+^<<v32-6-56,56>>^ Não se poderão defender dos ladrões, nem dos salteadores, estes deuses de madeira, dourados e prateados, porque aqueles, sendo mais fortes,
+
+[[v32-6-57]]
+
+^<<v32-6-57,57>>^ os despojarão do ouro, da prata e das vestes de que estão cobertos, e se irão com isso embora, sem que tais deuses se possam valer a si mesmos.
+
+[[v32-6-58]]
+
+^<<v32-6-58,58>>^ Vale, pois, mais ser um rei, que ostenta as suas forças, ou uma vasilha útil na casa, da qual se serve o que a possui, ou uma porta em qualquer casa que guarda o que há dentro dela, ou ainda uma coluna de madeira num palácio, do que ser um destes falsos deuses.
+
+[[v32-6-59]]
+
+^<<v32-6-59,59>>^ O sol, a lua e as estrelas, sendo resplandecentes e destinados à utilidade dos homens, cumprem o que lhes foi mandado.
+
+[[v32-6-60]]
+
+^<<v32-6-60,60>>^ Da mesma sorte o relâmpago que, quando fuzila, é belo à vista, e o vento que sopra por toda a região,
+
+[[v32-6-61]]
+
+^<<v32-6-61,61>>^ e as nuvens que recebem de Deus ordem de correr todo o mundo, cumprem o que lhes é mandado.
+
+[[v32-6-62]]
+
+^<<v32-6-62,62>>^ O fogo, também enviado de cima para que consuma os montes e os bosques, faz o que lhe foi ordenado. Mas estes (deuses) não se assemelham a nenhuma coisa destas, nem em beleza nem em poder.
+
+[[v32-6-63]]
+
+^<<v32-6-63,63>>^ Por onde não se deve pensar nem dizer que são deuses visto que não podem fazer justiça nem conceder benefícios aos homens.
+
+[[v32-6-64]]
+
+^<<v32-6-64,64>>^ Por isso, sabendo que não são deuses, não os temais,
+
+[[v32-6-65]]
+
+^<<v32-6-65,65>>^ Não podem amaldiçoar nem abençoar os reis.
+
+[[v32-6-66]]
+
+^<<v32-6-66,66>>^ Não podem mostrar no céu sinais aos povos, não brilham como o sol nem alumiam como a lua.
+
+[[v32-6-67]]
+
+^<<v32-6-67,67>>^ Mais do que eles valem os animais, que podem refugiar-se debaixo dum coberto e ser úteis a si próprios.
+
+[[v32-6-68]]
+
+^<<v32-6-68,68>>^ Não nos é, pois manifesto, de maneira alguma, que são deuses; portanto não os temais,
+
+[[v32-6-69]]
+
+^<<v32-6-69,69>>^ Porque, assim como um espantalho em um meloal o não guarda, assim são os seus deuses de madeira, cobertos de prata e de ouro.
+
+[[v32-6-70]]
+
+^<<v32-6-70,70>>^ São como um espinheiro em um jardim, sobre o qual vêm pousar todas as aves, assemelham-se a um morto lançado em lugar tenebroso, os seus deuses de madeira, cobertos de ouro e de prata.
+
+[[v32-6-71]]
+
+^<<v32-6-71,71>>^ Pela púrpura e escarlate que sobre eles se desfazem, sabereis claramente que não são deuses. Eles mesmos por fim serão devorados e tornar-se-ão o opróbrio do país.
+
+[[v32-6-72]]
+
+^<<v32-6-72,72>>^ O homem justo que não tem ídolos vale mais do que eles, porque estará longe de opróbrios.
+
+'''
+
+xref:032-baruc/032-baruc-005.adoc#v32-5-0[&#60; Capítulo Anterior] | <<v32-6-0,Topo>> | xref:033-ezequiel/033-ezequiel-001.adoc#v33-1-0[Próximo Capítulo &#62;]

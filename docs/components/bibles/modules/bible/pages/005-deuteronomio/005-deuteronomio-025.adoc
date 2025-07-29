@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v5-25-0]]
+=== Deuteronômio, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 25 aborda diversas leis e regras de conduta social que os israelitas deveriam seguir. Algumas das leis incluem o castigo para aquele que merece açoitamento, a obrigação de se casar com a cunhada em caso de viuvez e a necessidade de usar medidas justas e honestas nos negócios. Seguem abaixo cinco versículos relacionados aos temas abordados em Deuteronômio 25:
+* Levítico 19:35-36: "Não usem pesos diferentes, um pesado e outro leve. Usem apenas pesos e medidas justos e honestos, eu sou o Senhor, o Deus de vocês". Este versículo reforça a importância de usar medidas justas e honestas, tema abordado em Deuteronômio 25:13-16.
+* Provérbios 20:10: "Não use dois pesos diferentes, nem duas medidas diferentes para medir as coisas". Este versículo traz uma mensagem semelhante à de Levítico 19:35-36, lembrando-nos da importância de medidas justas e honestas.
+* Provérbios 22:28: "Não mude os limites antigos que seus antepassados estabeleceram". Este versículo se relaciona com Deuteronômio 25:13-16, que trata da necessidade de usar medidas justas e honestas, uma vez que mudar os limites antigos poderia ser uma forma de se enganar nas transações comerciais.
+* Provérbios 24:29: "Não diga: ‘Farei com ele o que ele fez comigo; pagarei a cada um o que merece’". Este versículo nos lembra de não buscar vingança, tema abordado em Deuteronômio 25:1-3, que trata do castigo para aquele que merece açoitamento.
+* Rute 4:5-10: Este trecho conta a história de um homem que se recusa a cumprir a lei que obriga a se casar com a cunhada em caso de viuvez, conforme Deuteronômio 25:5-10. Embora não seja um versículo isolado, esta história ilustra a importância desta lei e as consequências de descumpri-la.
+****
+
+[[v5-25-1]]
+
+^<<v5-25-1,1>>^ Se se mover pleito entre alguns, e houver recurso para os juízes estes darão a palma da justiça ao que reconhecerem que é justo, e condenarão de impiedade o (que reconhecerem que é) ímpio.
+
+[[v5-25-2]]
+
+^<<v5-25-2,2>>^ Se virem que aquele que pecou merece açoutes, fá-lo-ão deitar por terra, e o farão açoutar na sua presença. O número de golpes será segundo a medida do pecado,
+
+[[v5-25-3]]
+
+^<<v5-25-3,3>>^ contanto todavia que não ultrapassem o número de quarenta, para que teu irmão se não retire aviltado de diante de teus olhos.
+
+[[v5-25-4]]
+
+^<<v5-25-4,4>>^ Não atarás a boca ao boi que debulha na eira o grão das tuas colheitas.
+
+[[v5-25-5]]
+
+^<<v5-25-5,5>>^ Quando morarem irmãos juntamente, e um deles morrer sem filhos, a mulher do defunto não casará com um estranho, mas o irmão do defunto a receberá, e suscitará descendência a seu irmão;
+
+[[v5-25-6]]
+
+^<<v5-25-6,6>>^ ao filho primogênito que tiver dela porá o nome do seu irmão, para que o nome deste não se extinga em Israel.
+
+[[v5-25-7]]
+
+^<<v5-25-7,7>>^ Porém se ele não quiser receber a mulher do seu irmão, a qual lhe é devida segundo a lei, irá esta mulher à porta da cidade, recorrerá aos anciães e lhes dirá: O irmão de meu marido não quer fazer reviver o nome de seu irmão em Israel, não quer receber-me por mulher.
+
+[[v5-25-8]]
+
+^<<v5-25-8,8>>^ Eles o farão logo comparecer e o interrogarão. Se responder: Eu não a quero receber por mulher —
+
+[[v5-25-9]]
+
+^<<v5-25-9,9>>^ a mulher se aproximará dele diante dos anciães, tirar-Ihe-á o sapato do pé, cuspir-lhe-á na cara e dirá: Assim será feito ao homem que não edifica a casa de seu irmão.
+
+[[v5-25-10]]
+
+^<<v5-25-10,10>>^ A casa de tal homem será chamada em Israel a casa de descalçado.
+
+[[v5-25-11]]
+
+^<<v5-25-11,11>>^ Quando se levantar alguma pendência entre dois homens, e um começar a renhir contra o outro, se a mulher de um, querendo livrar seu marido da mão do que o agride, estender a mão e lhe pegar pelas partes vergonhosas,
+
+[[v5-25-12]]
+
+^<<v5-25-12,12>>^ cortar-Ihe-ás a mão; não te moverás de compaixão alguma por ela. (ver nota)
+
+[[v5-25-13]]
+
+^<<v5-25-13,13>>^ Não terás no saco pesos diversos, maior e menor;
+
+[[v5-25-14]]
+
+^<<v5-25-14,14>>^ nem haverá em tua casa dois efas, um maior e outro mais pequeno.
+
+[[v5-25-15]]
+
+^<<v5-25-15,15>>^ Terás um peso justo e verdadeiro, terás um efa justo e verdadeiro, a fim de que vivas muito tempo na terra que o Senhor teu Deus te der.
+
+[[v5-25-16]]
+
+^<<v5-25-16,16>>^ Com efeito, o Senhor teu Deus abomina quem faz estas coisas, quem comete uma injustiça.
+
+[[v5-25-17]]
+
+^<<v5-25-17,17>>^ Lembra-te do que te fez Amalec no caminho, quando saíste do Egipto,
+
+[[v5-25-18]]
+
+^<<v5-25-18,18>>^ de como ele, sem temor algum de Deus, te saiu ao encontro e matou os últimos do teu exército, que cansados ficavam atrás, quando tu estavas consumido de fome e de fadiga.
+
+[[v5-25-19]]
+
+^<<v5-25-19,19>>^ Quando, pois, o Senhor teu Deus te tiver dado descanso, e tiver sujeitado todas as nações circunvizinhas na terra, que te prometeu, apagarás o seu nome de debaixo do céu. Olha, não o esqueças.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[&#60; Capítulo Anterior] | <<v5-25-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[Próximo Capítulo &#62;]

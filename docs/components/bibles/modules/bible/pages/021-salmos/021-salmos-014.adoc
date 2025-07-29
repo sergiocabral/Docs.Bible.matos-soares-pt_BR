@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v21-14-0]]
+=== Salmos, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 14 trata da tolice do ímpio que nega a existência de Deus e segue um caminho de corrupção e maldade. O salmista clama a Deus para trazer salvação e restauração para o seu povo. Os versículos relacionados com os temas do Salmo 14 são:
+* Provérbios 10:28: "A esperança dos justos é alegria, mas a expectativa dos ímpios perecerá." Esse versículo fala sobre a diferença entre a esperança dos justos e a expectativa dos ímpios. O Salmo 14 destaca que o ímpio não tem esperança em Deus, enquanto os justos confiam nele.
+* Romanos 3:10-12: "Como está escrito: Não há justo, nem um sequer; não há quem entenda; não há quem busque a Deus. Todos se desviaram, tornaram-se juntamente inúteis; não há quem faça o bem, não há nem um sequer." Paulo cita o Salmo 14 em sua explicação da condição humana. Ele destaca que todos pecaram e se afastaram de Deus, mostrando a necessidade de salvação e redenção.
+* Efésios 2:1-3: "E vocês estavam mortos em suas transgressões e pecados, nos quais costumavam viver quando seguiam a presente ordem deste mundo e o príncipe do poder do ar, o espírito que agora está atuando nos que vivem na desobediência. Todos nós também vivíamos entre eles, satisfazendo as vontades da nossa carne e dos nossos pensamentos. Como os outros, éramos por natureza merecedores da ira." Esse trecho mostra a condição pecaminosa da humanidade e sua necessidade de salvação e transformação.
+* Salmos 53:2-3: "Deus olha lá do céu para os filhos dos homens, para ver se há algum que tenha entendimento, algum que busque a Deus. Todos se desviaram, igualmente se corromperam; não há quem faça o bem, não há nem um sequer." Esse versículo é uma repetição quase idêntica do Salmo 14, mostrando a gravidade da condição humana.
+* João 1:10-11: "Ele estava no mundo, e o mundo foi criado por intermédio dele, mas o mundo não o reconheceu. Veio para o que era seu, mas os seus não o receberam." O Evangelho de João destaca que Jesus, o Filho de Deus, veio para o mundo, mas muitos o rejeitaram e não o reconheceram como o Messias. Esse tema é semelhante ao Salmo 14, que fala sobre a tolice do ímpio que nega a existência de Deus.
+****
+
+[[v21-14-1]]
+
+^<<v21-14-1,1>>^ Salmo. De Davide. Senhor, quem terá a sua morada no teu tabernáculo? quem habitará no teu santo monte?
+
+[[v21-14-2]]
+
+^<<v21-14-2,2>>^ O que anda sem mancha e pratica a justiça
+
+[[v21-14-3]]
+
+^<<v21-14-3,3>>^ e pensa o que é recto no seu coração, e não calunia com a sua língua; o que ao seu próximo não faz mal. nem dirige opróbrio ao seu vizinho;
+
+[[v21-14-4]]
+
+^<<v21-14-4,4>>^ o que tem o malvado por desprezível, e honra os que temem o Senhor;
+
+[[v21-14-5]]
+
+^<<v21-14-5,5>>^ o que, embora tenha um juramento com dano próprio, não o muda, o que não empresta o seu dinheiro com usura, nem aceita dádivas (para proceder) contra o inocente. Quem faz estas coisas não será jamais comovido.
+
+'''
+
+xref:021-salmos/021-salmos-013.adoc#v21-13-0[&#60; Capítulo Anterior] | <<v21-14-0,Topo>> | xref:021-salmos/021-salmos-015.adoc#v21-15-0[Próximo Capítulo &#62;]

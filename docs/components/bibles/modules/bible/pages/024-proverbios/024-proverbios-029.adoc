@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v24-29-0]]
+=== Provérbios, 29
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 29 do livro de Provérbios trata principalmente sobre a justiça e suas consequências, bem como a sabedoria e a tolice. Também aborda o tema da correção e disciplina dos filhos. Os seguintes versículos são relacionados com esses temas:
+* Provérbios 11:18: "O ímpio recebe salário enganoso, mas o que semeia justiça terá galardão certo." Esse versículo enfatiza a importância da justiça e mostra a diferença entre as consequências para aqueles que agem justamente e para aqueles que são injustos.
+* Provérbios 12:1: "O que ama a instrução ama o conhecimento, mas o que odeia a repreensão é estúpido." Este versículo destaca a importância da correção e disciplina para o crescimento e desenvolvimento pessoal, especialmente na busca de sabedoria.
+* Provérbios 14:16: "O sábio teme, e desvia-se do mal, mas o tolo se encoleriza, e dá-se por seguro." Este versículo fala sobre a sabedoria de se evitar o mal e as consequências de agir impulsivamente.
+* Provérbios 17:10: "A repreensão penetra mais profundamente no prudente do que cem açoites no tolo." Este versículo destaca a importância da correção em nossa vida e que ela é mais eficaz para aqueles que são sábios e procuram aprender.
+* Provérbios 19:18: "Castiga o teu filho enquanto há esperança, mas não te deixes levar a que o matem." Este versículo fala sobre a importância da disciplina e correção dos filhos, mostrando que é melhor fazê-lo enquanto ainda há chance de mudança e crescimento.
+****
+
+[[v24-29-1]]
+
+^<<v24-29-1,1>>^ O homem que despreza com cerviz dura a quem o repreende, cairá de repente em total ruína, e não terá mais remédio.
+
+[[v24-29-2]]
+
+^<<v24-29-2,2>>^ Sob o governo dos justos está alegre o povo; quando os ímpios tomam o governo, o povo geme.
+
+[[v24-29-3]]
+
+^<<v24-29-3,3>>^ O homem que ama a sabedoria, alegra seu pai; o que porém frequenta mulheres dissolutas, perderá os seus bens.
+
+[[v24-29-4]]
+
+^<<v24-29-4,4>>^ O rei firma o seu país pela justiça; porém o (que é ávido) de presentes destruí-lo-á.
+
+[[v24-29-5]]
+
+^<<v24-29-5,5>>^ O homem que, quando fala ao seu próximo usa de uma linguagem lisonjeira e fingida, arma uma rede aos seus passos.
+
+[[v24-29-6]]
+
+^<<v24-29-6,6>>^ O homem pecador e iníquo cairá no (seu mesmo) laço; e o justo rejubilará, regozijar-se-á.
+
+[[v24-29-7]]
+
+^<<v24-29-7,7>>^ O justo conhece a causa dos pobres; porém o ímpio ignora a ciência.
+
+[[v24-29-8]]
+
+^<<v24-29-8,8>>^ Os homens corrompidos sopram (o fogo) à cidade; os sábios porém acalmam o furor. (ver nota)
+
+[[v24-29-9]]
+
+^<<v24-29-9,9>>^ Se o homem sábio disputar com o insensato, quer ele se agaste, quer se ria, não haverá descanso.
+
+[[v24-29-10]]
+
+^<<v24-29-10,10>>^ Os homens sanguinários aborrecem o que é íntegro, mas os justos procuram conservar-lhe a vida.
+
+[[v24-29-11]]
+
+^<<v24-29-11,11>>^ O insensato diz logo tudo o que tem no espírito; o sábio não se apressa, mas reserva-se para depois.
+
+[[v24-29-12]]
+
+^<<v24-29-12,12>>^ O príncipe que ouve de bom grado as palavras da mentira, só os ímpios tem por servidores.
+
+[[v24-29-13]]
+
+^<<v24-29-13,13>>^ O pobre e o opressor encontram-se o Senhor é que alumia um e outro. (ver nota)
+
+[[v24-29-14]]
+
+^<<v24-29-14,14>>^ Quando o rei julga os pobres conforme a verdade, o seu trono se firmará para sempre,
+
+[[v24-29-15]]
+
+^<<v24-29-15,15>>^ A vara e a correcção dão sabedoria; o menino porém, abandonado à sua vontade, é a vergonha de sua mãe.
+
+[[v24-29-16]]
+
+^<<v24-29-16,16>>^ Com a multiplicação dos ímpios se multiplicarão as maldades; os justos verão a sua ruína.
+
+[[v24-29-17]]
+
+^<<v24-29-17,17>>^ Corrige o teu filho, e ele consolar-te-á, será as delícias da tua alma.
+
+[[v24-29-18]]
+
+^<<v24-29-18,18>>^ Quando faltar a revelação, dissipar-se-á o povo; aquele porém que guarda a lei é bem-aventurado. (ver nota)
+
+[[v24-29-19]]
+
+^<<v24-29-19,19>>^ Não bastam as palavras para corrigir um escravo, porque ele compreende o que tu dizes, mas despreza obedecer.
+
+[[v24-29-20]]
+
+^<<v24-29-20,20>>^ Viste um homem precipitado no falar? Há mais a esperar dum insensato que dele.
+
+[[v24-29-21]]
+
+^<<v24-29-21,21>>^ Aquele que cria delicadamente o seu criado desde a infância, depois terá de que se doer.
+
+[[v24-29-22]]
+
+^<<v24-29-22,22>>^ O homem colérico excita rixas; o que fàcilmente se Indigna será muito propenso a pecar.
+
+[[v24-29-23]]
+
+^<<v24-29-23,23>>^ O orgulho dum homem condu-lo à humilhação; porém o humilde de espírito será glorificado.
+
+[[v24-29-24]]
+
+^<<v24-29-24,24>>^ Aquele que se associa com o ladrão, aborrece a sua própria alma; ouve a maldição e nada denuncia.
+
+[[v24-29-25]]
+
+^<<v24-29-25,25>>^ Aquele que teme o homem, cairá num laço. o que espera no Senhor estará seguro. (ver nota)
+
+[[v24-29-26]]
+
+^<<v24-29-26,26>>^ São muitos os que buscam a face (o favor) do príncipe; porém do Senhor depende a verdadeira sentença de cada um.
+
+[[v24-29-27]]
+
+^<<v24-29-27,27>>^ Os justos abominam o homem ímpio, e os ímpios abominam aqueles que estão no caminho recto.
+
+'''
+
+xref:024-proverbios/024-proverbios-028.adoc#v24-28-0[&#60; Capítulo Anterior] | <<v24-29-0,Topo>> | xref:024-proverbios/024-proverbios-030.adoc#v24-30-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v2-13-0]]
+=== Êxodo, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 13 de Êxodo trata da celebração da Festa dos Pães Asmos e da consagração dos primogênitos. Moisés orienta o povo de Israel a celebrar a festa todos os anos como uma lembrança da libertação do Egito, e também estabelece a prática de consagrar todos os primogênitos dos homens e animais ao Senhor. A seguir, cinco versículos relacionados com os temas abordados em Êxodo 13:
+* Números 18:15: "Todo primogênito de toda a carne que eles apresentarem ao Senhor, tanto de homens como de animais, será teu; contudo, haverás de resgatar o primogênito do homem, e o primogênito dos animais impuros, haverás de resgatar." Este versículo trata da consagração dos primogênitos ao Senhor, tema abordado em Êxodo 13.
+* Êxodo 13:7: "Durante sete dias comerás pães sem levedura, e não haverá em toda a tua terra nenhum pão levedado, nem fermento algum será visto em todos os teus limites." Este versículo fala sobre a Festa dos Pães Asmos, que é celebrada em Êxodo 13.
+* Deuteronômio 16:3: "Não comerás com ele pão levedado; por sete dias comerás com ele pães sem levedura, pão de aflição, porquanto saíste apressadamente da terra do Egito; a fim de que te lembres, todos os dias da tua vida, do dia em que saíste da terra do Egito." Este versículo também fala sobre a Festa dos Pães Asmos, que é mencionada em Êxodo 13.
+* Êxodo 13:9: "E isso te servirá por sinal sobre tua mão e por lembrança diante dos teus olhos, para que a lei do Senhor esteja em tua boca; pois com mão forte o Senhor te tirou do Egito." Este versículo fala sobre a importância de lembrar da libertação do Egito e manter a lei do Senhor em mente, um tema importante abordado em Êxodo 13.
+* Salmos 78:5-6: "Ele estabeleceu um testemunho em Jacó, e instituiu uma lei em Israel, as quais coisas ordenou aos nossos pais que as ensinassem a seus filhos; para que a nova geração as conhecesse, filhos que nasceriam, e se levantassem, e as contassem a seus filhos." Este versículo fala sobre a importância de ensinar as futuras gerações sobre a história da libertação do Egito e a lei do Senhor, um tema abordado em Êxodo 13.
+****
+
+[[v2-13-1]]
+
+^<<v2-13-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v2-13-2]]
+
+^<<v2-13-2,2>>^ Consagra-me todo o primogênito, todo o primogênito de entre os filhos de Israel, tanto dos homens como dos animais, porque todos são meus.
+
+[[v2-13-3]]
+
+^<<v2-13-3,3>>^ Moisés disse ao povo: Lembrai-vos deste dia em que saístes do Egipto e da casa da escravidão, porque foi o Senhor quem vos tirou desde lugar com mão forte. Não comereis pão fermentado.
+
+[[v2-13-4]]
+
+^<<v2-13-4,4>>^ Vós sais hoje no mês dos trigos novos.
+
+[[v2-13-5]]
+
+^<<v2-13-5,5>>^ Quando o Senhor te tiver introduzido na terra do Cananeu, do Heteu, do Amorreu, do Heveu e do Jebuseu, que ele jurou dar a teus pais, terra onde corre o leite e o mel, celebrarás este rito sagrado neste mês.
+
+[[v2-13-6]]
+
+^<<v2-13-6,6>>^ Comerás ázimos durante sete dias, e, no sétimo dia, haverá uma festa solene (em honra) do Senhor.
+
+[[v2-13-7]]
+
+^<<v2-13-7,7>>^ Comereis ázimos durante sete dias; não haverá em vossas casas coisa alguma fermentada, nem em todos os teus territórios.
+
+[[v2-13-8]]
+
+^<<v2-13-8,8>>^ Então dirás a teu filho: Isto é em memória do que o Senhor fez por mim, quando saí do Egipto.
+
+[[v2-13-9]]
+
+^<<v2-13-9,9>>^ Isto será como um sinal na tua mão, e como um memorial diante dos teus olhos, a fim de que a lei do Senhor ande sempre na tua boca, pois que o Senhor te tirou do Egipto com mão forte.
+
+[[v2-13-10]]
+
+^<<v2-13-10,10>>^ Observarás este culto todos os anos no tempo fixado.
+
+[[v2-13-11]]
+
+^<<v2-13-11,11>>^ Quando o Senhor te tiver introduzido na terra do Cananeu, como ele jurou a ti e a teus pais, e ta tiver dado,
+
+[[v2-13-12]]
+
+^<<v2-13-12,12>>^ separarás para o Senhor todo o primogênito, mesmo o primogênito dos teus gados, e consagrarás ao Senhor tudo o que tiveres do sexo masculino.
+
+[[v2-13-13]]
+
+^<<v2-13-13,13>>^ Trocarás o primogênito do jumento por uma ovelha; se, porém, o não resgatares, mata-lo-ás. Mas resgatarás com dinheiro todo o primogênito de teus filhos.
+
+[[v2-13-14]]
+
+^<<v2-13-14,14>>^ E, quando teu filho te interrogar um dia: Que é isto? responder-lhe-ás: O Senhor tirou-nos do Egipto, da casa da escravidão, com mão forte.
+
+[[v2-13-15]]
+
+^<<v2-13-15,15>>^ Visto que Faraó, tendo-se obstinado, não quis deixar-nos partir, o Senhor matou todos os primogênitos na terra do Egipto, desde o primogênito do homem até ao primogênito dos animais: por isso eu sacrifico ao Senhor todos os machos primogênitos (dos animais), e resgato todos os primogênitos de meus filhos.
+
+[[v2-13-16]]
+
+^<<v2-13-16,16>>^ Isto, pois, será como um sinal na tua mão, e como uma coisa pendente ante os teus olhos para lembrança, porque o Senhor nos tirou do Egipto com mão forte.
+
+[[v2-13-17]]
+
+^<<v2-13-17,17>>^ Ora, quando Faraó deixou partir o povo, Deus não os conduziu pelo caminho do país dos Filisteus, que é (mais) vizinho, julgando que o povo talvez se arrependesse, se visse levantarem-se guerras contra ele, e retrocedesse para o Egipto.
+
+[[v2-13-18]]
+
+^<<v2-13-18,18>>^ Fê-los dar uma volta pelo caminho do deserto, até junto do Mar Vermelho. Os filhos de Israel saíram em boa ordem do Egipto.
+
+[[v2-13-19]]
+
+^<<v2-13-19,19>>^ Moisés levou consigo os ossos de José, por este ter feito jurar aos filhos de Israel que, quando Deus os visitasse, levassem com eles os seus ossos para longe.
+
+[[v2-13-20]]
+
+^<<v2-13-20,20>>^ Tendo saído de Socoth, acamparam em Etam, na extrenidade do deserto.
+
+[[v2-13-21]]
+
+^<<v2-13-21,21>>^ O Senhor ia adiante deles, de dia numa coluna de nuvem para lhes mostrar o caminho, e de noite numa coluna de fogo para os alumiar, a fim de poderem caminhar num e noutro tempo.
+
+[[v2-13-22]]
+
+^<<v2-13-22,22>>^ Nunca se retirou de diante do povo a coluna de nuvem durante o dia, nem a coluna de fogo durante a noite.
+
+'''
+
+xref:002-exodo/002-exodo-012.adoc#v2-12-0[&#60; Capítulo Anterior] | <<v2-13-0,Topo>> | xref:002-exodo/002-exodo-014.adoc#v2-14-0[Próximo Capítulo &#62;]

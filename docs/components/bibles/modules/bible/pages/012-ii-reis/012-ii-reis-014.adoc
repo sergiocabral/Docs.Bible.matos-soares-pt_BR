@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v12-14-0]]
+=== II Reis, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 14 de 2 Reis trata da história de Amazias, rei de Judá, e sua relação com Jeoás, rei de Israel. Amazias inicia uma guerra com Jeoás, mas é derrotado e capturado. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Reis 14.
+* 2 Crônicas 25:14: "Quando Amazias voltou da matança dos edomitas, trouxe os deuses dos filhos de Seir e os pôs por seus deuses, diante de si, e se prostrou diante deles e lhes queimou incenso." Este versículo mostra o caráter idólatra de Amazias, o que o levou a buscar os deuses dos filhos de Seir em vez de confiar em Deus para sua proteção.
+* 2 Reis 13:25: "Jeú, filho de Jeosafá, voltou e foi para Jezreel para se recuperar das feridas que os arameus lhe haviam causado quando lutou contra Hazael, rei da Síria." Este versículo mostra a relação entre Jeú, o antecessor de Jeoás, e Hazael, o inimigo de Israel que também havia lutado contra Jeú.
+* 2 Reis 13:22: "Hazael, rei da Síria, oprimiu a Israel durante todo o reinado de Jeoacaz." Este versículo mostra a pressão externa que Jeoás enfrentou como rei de Israel, já que ele herdou um reino fraco e enfraquecido por Hazael.
+* 2 Crônicas 25:17-18: "Então Jeoás, rei de Israel, subiu, e eles se encontraram face a face, ele e Amazias, rei de Judá, em Bete-Semes, que pertence a Judá. E Judá foi derrotado por Israel, e cada homem fugiu para sua tenda." Este versículo narra a batalha entre Amazias e Jeoás e a derrota de Judá.
+* 2 Crônicas 25:23: "E Joás, rei de Israel, prendeu a Amazias, rei de Judá, filho de Joás, filho de Jeoacaz, em Bete-Semes e o levou a Jerusalém, e destruiu uma parte da muralha de Jerusalém, desde a porta de Efraim até a porta da esquina, quatrocentos cúbitos." Este versículo mostra a vitória de Jeoás sobre Amazias e como ele foi capaz de capturá-lo e saquear Jerusalém.
+****
+
+[[v12-14-1]]
+
+^<<v12-14-1,1>>^ No segundo ano de Joás, filho de Joacaz, rei de Israel, reinou Amasias, filho de Joás, rei de Judá.
+
+[[v12-14-2]]
+
+^<<v12-14-2,2>>^ Tinha vinte e cinco anos quando começou a reinar. Reinou vinte e nove anos em Jerusalém. Sua mãe chamava-se Joadan, de Jerusalém.
+
+[[v12-14-3]]
+
+^<<v12-14-3,3>>^ Ele fez o que era justo diante do Senhor, mas não como Davide, seu pai. Procedeu em tudo como seu pai Joás tinha procedido.
+
+[[v12-14-4]]
+
+^<<v12-14-4,4>>^ Apenas não desapareceram os lugares altos: ainda o povo imolava e queimava incenso nos lugares altos,
+
+[[v12-14-5]]
+
+^<<v12-14-5,5>>^ Logo que teve o reino seguro, mandou matar os seus servos, que tinham morto o rei, seu pai,
+
+[[v12-14-6]]
+
+^<<v12-14-6,6>>^ mas não matou os filhos destes assassinos, segundo o que está escrito no livro da lei de Moisés, conforme o preceito do Senhor, que diz: Não morrerão os pais pelos filhos, nem os filhos morrerão pelos pais: cada um morrerá pelo seu próprio pecado.
+
+[[v12-14-7]]
+
+^<<v12-14-7,7>>^ Derrotou dez mil Idumeus no vale das Salinas, e tomou na batalha (a cidade) de Sela, à qual pôs o nome de Jecteel, nome que ainda hoje conserva.
+
+[[v12-14-8]]
+
+^<<v12-14-8,8>>^ Então Amasias enviou mensageiros a Joás, filho de Joacaz, filho de Jeú, rei de Israel, dizendo: Vem e vejamo-nos.
+
+[[v12-14-9]]
+
+^<<v12-14-9,9>>^ Joás, rei de Israel, mandou a Amasias, rei de Judá, esta resposta: O cardo do Líbano mandou dizer ao cedro, que está no Líbano: Dá tua filha por mulher a meu filho. Mas passaram as feras do bosque, que habitam no Líbano, e pisaram aos pés o cardo.
+
+[[v12-14-10]]
+
+^<<v12-14-10,10>>^ Tu venceste e derrotaste os Idumeus; por isso o teu coração se ensoberbeceu; contenta-te com essa glória, e repousa em tua casa. Por que preparas a tua ruína, de forma que venhas a perecer, e Judá contigo?
+
+[[v12-14-11]]
+
+^<<v12-14-11,11>>^ Porém, Amasias não sossegou, e Joás, rei de Israel, saiu à campanha. Encontraram-se, ele e Amasias, rei de Judá, em Betsames, cidade de Judá.
+
+[[v12-14-12]]
+
+^<<v12-14-12,12>>^ Judá foi derrotado por Israel, tendo de fugir cada um para as suas tendas.
+
+[[v12-14-13]]
+
+^<<v12-14-13,13>>^ Joás, rei de Israel, tomou em Betsames Amasias, rei de Judá, filho de Joás, filho de Ocozias. Foi a Jerusalém e abriu uma brecha no muro de Jerusalém, com o comprimento de quatrocentos côvados, desde a porta de Efraim até à porta da esquina.
+
+[[v12-14-14]]
+
+^<<v12-14-14,14>>^ (Além disso) tomou todo o ouro e prata, e todos os vasos, que foram encontrados na casa do Senhor e nos tesouros do rei, levou reféns, e voltou para Samaria.
+
+[[v12-14-15]]
+
+^<<v12-14-15,15>>^ Quanto ao resto das acções de Joás, ao valor com que pelejou contra Amasias, rei de Judá, não está tudo isto escrito no livro das Crônicas dos reis de Israel?
+
+[[v12-14-16]]
+
+^<<v12-14-16,16>>^ Joás adormeceu com seus pais, e foi sepultado em Samaria com os reis de Israel. Em seu lugar reinou seu filho Jeroboão.
+
+[[v12-14-17]]
+
+^<<v12-14-17,17>>^ Amasias, filho de Joás, rei de Judá, ainda viveu quinze anos depois da morte de Joás, filho de Joacaz, rei de Israel.
+
+[[v12-14-18]]
+
+^<<v12-14-18,18>>^ Quanto no resto das acções de Amasias, não está tudo escrito no livro das Crônicas dos reis de Judá?
+
+[[v12-14-19]]
+
+^<<v12-14-19,19>>^ Foi urdida contra ele em Jerusalém uma conjuração, mas ele fugiu para Laquis. Eles perseguiram-no até Laquis, e ali o mataram.
+
+[[v12-14-20]]
+
+^<<v12-14-20,20>>^ Transportaram-no em cima duns cavalos, e foi sepultado em Jerusalém com seus pais, na cidade de Davide.
+
+[[v12-14-21]]
+
+^<<v12-14-21,21>>^ Então todo o povo de Judá tomou Azarias, que tinha a idade de dezasseis anos, e constituiu-o rei, em lugar de seu pai Amasias.
+
+[[v12-14-22]]
+
+^<<v12-14-22,22>>^ Ele reedificou Elat e restituiu-a a Judá, depois que o rei adormeceu com seus pais.
+
+[[v12-14-23]]
+
+^<<v12-14-23,23>>^ No décimo quinto ano de Amasias, filho de Joás, rei de Judá, reinou em Samaria Jeroboão, filho de Joás, rei de Israel, durante quarenta e um anos.
+
+[[v12-14-24]]
+
+^<<v12-14-24,24>>^ Fez o mal diante do Senhor: não se apartou de nenhum pecado de Jeroboão, filho de Nabat, que tinha feito pecar Israel.
+
+[[v12-14-25]]
+
+^<<v12-14-25,25>>^ Restabeleceu os limites de Israel, (reconquistando) desde a entrada de Emat até ao luar do deserto, conforme a palavra do Senhor Deus de Israel, pronunciada por seu servo o profeta Jonas, filho de Amati, que era natural de Get, (cidade) que está em Ofer.
+
+[[v12-14-26]]
+
+^<<v12-14-26,26>>^ O Senhor viu a amargosíssima aflição de Israel, que a todos tinha consumido, escravos ou livres, de modo que não havia quem socorresse Israel.
+
+[[v12-14-27]]
+
+^<<v12-14-27,27>>^ Nem o Senhor tinha decretado que apagaria o nome de Israel de sob o céu.
+
+[[v12-14-28]]
+
+^<<v12-14-28,28>>^ Quanto ao resto da história de Jeroboão, às suas acções e empreendimentos guerreiros, à forma como reconquistou para Israel (as cidades de) Damasco e Emat (que tinham sido) de Judá, não está tudo isto escrito no livro das Crônicas dos reis de Israel?
+
+[[v12-14-29]]
+
+^<<v12-14-29,29>>^ Jeroboão adormeceu com seus pais, reis de Israel. Zacarias, seu filho, reinou em seu lugar.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-013.adoc#v12-13-0[&#60; Capítulo Anterior] | <<v12-14-0,Topo>> | xref:012-ii-reis/012-ii-reis-015.adoc#v12-15-0[Próximo Capítulo &#62;]

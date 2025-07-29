@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v10-8-0]]
+=== II Samuel, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 do livro de 2 Samuel descreve as conquistas militares do rei Davi, que expandiu o reino de Israel e estabeleceu o seu poder sobre nações vizinhas. Os versículos a seguir abordam temas relacionados à guerra, vitória e submissão de outros povos:
+* Deuteronômio 20:1 - "Quando saíres à peleja contra teus inimigos, e vires cavalos, e carros, e povo maior em número do que tu, não os temerás; pois o SENHOR teu Deus, que te tirou da terra do Egito, está contigo." Este versículo fala sobre a confiança que o povo de Deus deve ter na batalha, sabendo que Ele está com eles.
+* Salmos 60:12 - "Com Deus faremos proezas, pois ele esmagará os nossos inimigos." Este salmo expressa a confiança do salmista na vitória que Deus dará ao seu povo contra os inimigos.
+* Provérbios 21:31 - "O cavalo é preparado para o dia da batalha, mas a vitória vem do SENHOR." Este provérbio destaca a importância do preparo e da estratégia, mas também ressalta que a vitória final vem de Deus.
+* Isaías 14:2 - "E os povos os levarão, e os farão voltar aos seus lugares; e a casa de Israel os possuirá na terra do SENHOR, por servos e por servas; e cativarão aqueles que os cativaram, e dominarão sobre os seus opressores." Este versículo profético descreve a submissão dos inimigos de Israel e a restauração da sua posição como povo escolhido por Deus.
+* Romanos 8:37 - "Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou." Este versículo fala sobre a vitória que os cristãos têm em Cristo, que os fortalece em todas as circunstâncias, inclusive nas lutas e batalhas que enfrentam.
+****
+
+[[v10-8-1]]
+
+^<<v10-8-1,1>>^ Depois disto Davide derrotou os Filisteus e humilhou-os, tirando-lhes o mando da sua capital.
+
+[[v10-8-2]]
+
+^<<v10-8-2,2>>^ Derrotou também os Moabitas, e (os prisioneiros) mediu-os a cordel, fazendo-os deitar por terra: duas medidas de cordel para a morte e uma medida avantajada para a vida. E ficou Moab sujeito a Davide, pagando-Ihe tributo. (ver nota)
+
+[[v10-8-3]]
+
+^<<v10-8-3,3>>^ Davide derrotou também Adadezer, filho de Roob, rei de Soba, quando marchou para estender os seus domínios até ao rio Eufrates.
+
+[[v10-8-4]]
+
+^<<v10-8-4,4>>^ Tendo-lhe Davide tomado mil e setecentos cavaleiros e vinte mil peões, cortou os jarretes a todos os cavalos dos carros; deles reservou sòmente (os precisos) para cem carros.
+
+[[v10-8-5]]
+
+^<<v10-8-5,5>>^ Vieram também os Sírios de Damasco, para darem socorro a Adadezer, rei de Soba, e Davide matou vinte e dois mil Sírios.
+
+[[v10-8-6]]
+
+^<<v10-8-6,6>>^ Davide pôs guarnição na Síria de Damasco, e a Síria foi submetida a Davide, ficando-lhe tributária. O Senhor guardou Davide em todas as expedições que fez.
+
+[[v10-8-7]]
+
+^<<v10-8-7,7>>^ Davide tomou as armas de ouro, que tinham os servos de Adadezer, e levou-as para Jerusalém.
+
+[[v10-8-8]]
+
+^<<v10-8-8,8>>^ De Bete e de Berot, cidades de Adadezer, Davide tomou uma grande quantidade de cobre.
+
+[[v10-8-9]]
+
+^<<v10-8-9,9>>^ Quando Tou, rei de Emat, ouviu dizer que Davide tinha quebrado todas as forças a Adadezer,
+
+[[v10-8-10]]
+
+^<<v10-8-10,10>>^ enviou Jorão, seu filho, ao rei Davide para o saudar, dando-lhe os parabéns, e para lhe dar graças por ter vencido e destroçado Adadezer, porque Tou era inimigo de Adadezer. (Jorão) levava na sua mão vasos de ouro, de prata e de cobre,
+
+[[v10-8-11]]
+
+^<<v10-8-11,11>>^ os quais o rei Davide consagrou também ao Senhor, com a prata e ouro, que lhe tinha consagrado do despojo de todas as nações que sujeitara,
+
+[[v10-8-12]]
+
+^<<v10-8-12,12>>^ da Síria e de Moab, dos filhos de Amon, dos Filisteus e de Amalec, com os despojos de Adadezer, filho de Roob, rei de Soba.
+
+[[v10-8-13]]
+
+^<<v10-8-13,13>>^ Adquiriu Davide grande fama, quando, na volta da conquista da Síria, matou dezoito mil homens no vale das Salinas.
+
+[[v10-8-14]]
+
+^<<v10-8-14,14>>^ Pôs na Idumeia guarnições, e toda a Idumeia ficou sujeita a Davide. O Senhor guardou Davide em todas as expedições que fez.
+
+[[v10-8-15]]
+
+^<<v10-8-15,15>>^ Reinou Davide sobre todo o Israel, e julgava também e administrava justiça a todo o seu povo.
+
+[[v10-8-16]]
+
+^<<v10-8-16,16>>^ Josafat, filho de Ailude, era seu cronista;
+
+[[v10-8-17]]
+
+^<<v10-8-17,17>>^ Sadoc, Joab, filho de Sarvia, era o general dos seus exércitos; filho de Aquitob, e Aquimeleque, filho de Abiatar, eram pontífices; Saraias era secretário;
+
+[[v10-8-18]]
+
+^<<v10-8-18,18>>^ Banaias, filho de Jojada, mandava nos Cereteus e Feleteus; e os filhos de Davide eram seus conselheiros íntimos.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-007.adoc#v10-7-0[&#60; Capítulo Anterior] | <<v10-8-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-009.adoc#v10-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v18-7-0]]
+=== Judite, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 7 narra a história de como os habitantes de Betúlia foram sitiados pelo exército assírio liderado por Holofernes. Os israelitas ficaram sem água e os líderes da cidade decidiram entregar a cidade a Holofernes se Deus não os livrasse em cinco dias. Judite, uma viúva piedosa, orou a Deus por orientação e decidiu entrar no acampamento inimigo disfarçada para matar Holofernes e salvar a cidade. Abaixo estão cinco versículos relacionados com temas abordados em Judite 7:
+* 2 Crônicas 32:20: "Então, o rei Ezequias e o profeta Isaías, filho de Amoz, oraram por isso e clamaram ao céu." Este versículo destaca a importância da oração em tempos de dificuldade, semelhante à oração de Judite por orientação e ajuda em Judite 7.
+* Salmos 20:7: "Uns confiam em carros e outros em cavalos, mas nós faremos menção do nome do Senhor, nosso Deus." Este versículo enfatiza a importância de confiar em Deus em vez de nas habilidades ou recursos humanos, semelhante à confiança dos líderes de Betúlia em Deus para salvá-los em Judite 7.
+* 1 Samuel 17:49-50: Este trecho descreve como Davi matou Golias com uma pedra, ilustrando como Deus pode usar um indivíduo aparentemente fraco para derrotar um inimigo poderoso. Esse evento é semelhante à maneira como Judite, uma viúva piedosa, entrou no acampamento inimigo disfarçada e matou Holofernes em Judite 7.
+* Juízes 4:4-9: Este trecho descreve como a profetisa Débora incentivou Baraque a liderar o exército israelita contra o exército cananeu. Esse evento é semelhante ao papel de liderança que Judite assumiu em Judite 7, incentivando os líderes de Betúlia a confiar em Deus e se preparar para a batalha.
+* Isaías 54:17: "Nenhuma arma forjada contra ti prosperará; e toda língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos do Senhor e a sua justiça que vem de mim, diz o Senhor." Este versículo enfatiza a proteção de Deus sobre aqueles que O seguem e confiam Nele, semelhante à proteção de Deus sobre os habitantes de Betúlia em Judite 7.
+****
+
+[[v18-7-1]]
+
+^<<v18-7-1,1>>^ No dia seguinte Holofernes mandou marchar as suas tropas contra Betúlia
+
+[[v18-7-2]]
+
+^<<v18-7-2,2>>^ Os combatentes a pé eram cento e vinte mil, e os cavaleiros vinte e dois mil, sem contar os homens aptos para a guerra, que tinha aprisionado, e toda a juventude que tinha levado, à força, das províncias e das cidades.
+
+[[v18-7-3]]
+
+^<<v18-7-3,3>>^ Todos se prepararam, a um tempo, para combater contra os filhos de Israel, e avançaram pela encosta do monte até ao cume que olha para Dotain, desde o lugar chamado Belma até Quelmon, que está defronte de Estrelou.
+
+[[v18-7-4]]
+
+^<<v18-7-4,4>>^ Os filhos de Israel, quando viram aquela multidão, lançaram-se por terra, cobrindo as suas cabeças de cinza, pedindo unânimemente ao Deus de Israel que fizesse brilhar sobre o seu povo a sua misericórdia.
+
+[[v18-7-5]]
+
+^<<v18-7-5,5>>^ Depois, tomando as suas armas de guerra, postaram-se nos lugares que davam acesso a atalhos, entre os montes, e estavam-nos ali guarnecendo de dia e de noite.
+
+[[v18-7-6]]
+
+^<<v18-7-6,6>>^ Holofernes, ao percorrer os arredores, achou que a fonte que corria para dentro (da cidade), era conduzida por meio dum aqueduto que estava da parte do meio-dia, fora da cidade. Ordenou que lhes fosse cortado o aqueduto.
+
+[[v18-7-7]]
+
+^<<v18-7-7,7>>^ Havia, contudo, fontes não longe dos muros, donde se via que os sitiados iam às furtadelas tirar (um pouco de) água, mais para aliviar um pouco a sede do que para beber.
+
+[[v18-7-8]]
+
+^<<v18-7-8,8>>^ Os Amonitas e os Moabitas foram ter com Holofernes e disseram-lhe: Os filhos de Israel não confiam nem nas lanças nem nas frechas, mas os montes defendem-nos, e os outeiros escarpados fortificam-nos.
+
+[[v18-7-9]]
+
+^<<v18-7-9,9>>^ Portanto, para que tu os possas vencer sem combate, põe guardas às fontes, para não tirarem delas água ; sem desembainhares a espada, os malarás, ou, pelo menos, fatigados de sede, entregarão a sua cidade, a qual, por estar colocada sobre montes, julgam ser inexpugnável.
+
+[[v18-7-10]]
+
+^<<v18-7-10,10>>^ Estas palavras agradaram a Holofernes e aos seus oficiais, e pôs cem homens de guarda ao redor de cada fonte.
+
+[[v18-7-11]]
+
+^<<v18-7-11,11>>^ Feita esta guarda durante vinte dias, esgotaram-se as cisternas e depósitos de água a todos os moradores de Betúlia, de maneira que não havia dentro da cidade com que matar a sede nem um só dia, porque todos os dias se repartia ao povo a água por medida.
+
+[[v18-7-12]]
+
+^<<v18-7-12,12>>^ Então todos os homens e mulheres, jovens e meninos, foram juntos ter com Ozias, e todos a uma voz
+
+[[v18-7-13]]
+
+^<<v18-7-13,13>>^ lhe disseram: Deus seja juiz entre nós e ti, porque tu nos trouxestes estes males, não querendo tratar a paz com os Assírios; por isso nos entregou Deus nas suas mãos.
+
+[[v18-7-14]]
+
+^<<v18-7-14,14>>^ Por tal motivo não há quem nos socorra, quando aos seus olhos nos achamos abatidos pela sede e por grande miséria.
+
+[[v18-7-15]]
+
+^<<v18-7-15,15>>^ Agora, pois, manda ajuntar todos os que há na cidade, para que todos nós nos rendamos voluntariamente ao exército de Holofernes.
+
+[[v18-7-16]]
+
+^<<v18-7-16,16>>^ Com efeito, é melhor que, cativos, bendigamos ao Senhor, vivendo, do que morramos e sejamos o opróbrio de todos os homens, vendo morrer aos nossos olhos as nossas mulheres e os nossos filhos.
+
+[[v18-7-17]]
+
+^<<v18-7-17,17>>^ Tomando hoje por testemunhas o céu e a terra, assim como o Deus de nossos pais, o qual nos castiga segundo os nossos pecados, (pedimos-te) que entregues já a cidade nas mãos do exército de Holofernes, para que se abrevie o nosso fim, ao fio da espada, e não morramos lentamente pelo ardor da sede.
+
+[[v18-7-18]]
+
+^<<v18-7-18,18>>^ Tendo eles assim falado, levantou-se um grande pranto e alarido em todo o ajuntamento, e durante muitas horas clamaram, a uma voz, a Deus, dizendo:
+
+[[v18-7-19]]
+
+^<<v18-7-19,19>>^ Pecamos nós e os nossos pais, procedemos injustamente, cometemos a iniquidade.
+
+[[v18-7-20]]
+
+^<<v18-7-20,20>>^ Tu, que és piedoso, compadece-te de nós, ou (ao menos) castiga tu mesmo as nossas iniquidades e não entregues os que te bendizem a um povo que te não conhece,
+
+[[v18-7-21]]
+
+^<<v18-7-21,21>>^ para que não se diga entre as nações: Onde está o seu Deus?
+
+[[v18-7-22]]
+
+^<<v18-7-22,22>>^ Quando, depois de cansados com estes clamores com estes prantos, ficaram em silêncio,
+
+[[v18-7-23]]
+
+^<<v18-7-23,23>>^ levantando-se Ozias, banhado em lágrimas, disse; Tende bom ânimo, irmãos, e por estes cinco dias esperemos a misericórdia do Senhor.
+
+[[v18-7-24]]
+
+^<<v18-7-24,24>>^ Talvez se aplaque a sua ira e dê glória ao seu nome.
+
+[[v18-7-25]]
+
+^<<v18-7-25,25>>^ Mas se, passados estes cinco dias, nos não vier socorro, faremos o que vós dissestes.
+
+'''
+
+xref:018-judite/018-judite-006.adoc#v18-6-0[&#60; Capítulo Anterior] | <<v18-7-0,Topo>> | xref:018-judite/018-judite-008.adoc#v18-8-0[Próximo Capítulo &#62;]

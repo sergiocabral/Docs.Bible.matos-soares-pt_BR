@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v61-2-0]]
+=== I Timóteo, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 2 de 1 Timóteo, o apóstolo Paulo orienta sobre a oração em favor de todos os homens, incluindo autoridades, para que possamos viver em paz e tranquilidade. Ele também fala sobre a importância da modéstia no vestir e da submissão das mulheres na igreja. A seguir, estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Salmos 122:6 - "Orai pela paz de Jerusalém; prosperem aqueles que te amam." Esse versículo destaca a importância da oração pela paz em nossa sociedade, conforme ensinado por Paulo em 1 Timóteo 2.
+* 1 Pedro 3:3-4 - "O vosso adorno não seja o enfeite exterior, como as tranças dos cabelos, o uso de jóias de ouro, ou o luxo dos vestidos; mas seja o do íntimo do coração, no incorruptível traje de um espírito manso e tranquilo, que é precioso diante de Deus." Esse versículo destaca a importância da modéstia e da beleza interior, enfatizada por Paulo em 1 Timóteo 2.
+* 1 Coríntios 14:34 - "As mulheres estejam caladas nas igrejas, porque lhes não é permitido falar; mas estejam sujeitas, como também ordena a lei." Esse versículo aborda a submissão das mulheres na igreja, tema mencionado por Paulo em 1 Timóteo 2.
+* Tiago 2:1-4 - "Meus irmãos, não tenhais a fé de nosso Senhor Jesus Cristo, Senhor da glória, em acepção de pessoas; porque, se no vosso ajuntamento entrar algum homem com anel de ouro no dedo e com trajes preciosos, e entrar também algum pobre com sórdido traje, e atentardes para o que traz o traje precioso, e lhe disserdes: Assenta-te tu aqui num lugar de honra, e disserdes ao pobre: Tu, fica aí em pé, ou assenta-te abaixo do meu estrado, porventura não fizestes acepção de pessoas entre vós mesmos, e não vos fizestes juízes movidos de maus pensamentos?" Esse versículo aborda a importância de não fazer acepção de pessoas na igreja, tema mencionado por Paulo em 1 Timóteo 2.
+* 1 Timóteo 4:4-5 - "Porque toda criatura de Deus é boa, e nada é de rejeitar, sendo recebido com ações de graças. Porque pela palavra de Deus e pela oração é santificada." Esse versículo destaca a importância da oração e da gratidão em relação a todas as coisas criadas por Deus, o que está em linha com o ensinamento de Paulo em 1 Timóteo 2 sobre a oração em favor de todos os homens.
+****
+
+[[v61-2-1]]
+
+^<<v61-2-1,1>>^ Recomendo-te, pois, antes de tudo, que se façam súplicas, orações, petições, acções de graças por todos os homens,
+
+[[v61-2-2]]
+
+^<<v61-2-2,2>>^ pelos reis e por todos os que estão constituídos em autoridade, para que levemos uma vida sossegada e tranquila, em toda a piedade e dignidade. (ver nota)
+
+[[v61-2-3]]
+
+^<<v61-2-3,3>>^ Em verdade, isto é bom e agradável diante de Deus nosso Salvador,
+
+[[v61-2-4]]
+
+^<<v61-2-4,4>>^ o qual quer que todos os homens se salvem e cheguem ao conhecimento da verdade.
+
+[[v61-2-5]]
+
+^<<v61-2-5,5>>^ Com efeito, há um só Deus e um só mediador entre Deus e os homens, que é Jesus Cristo homem, (ver nota)
+
+[[v61-2-6]]
+
+^<<v61-2-6,6>>^ o qual se deu a si mesmo para redenção de todos: tal é o testemunho dado (por Deus) no tempo devido,
+
+[[v61-2-7]]
+
+^<<v61-2-7,7>>^ para o qual fui constituído pregador e apóstolo (digo a verdade, não minto), doutor das gentes na fé e na verdade.
+
+[[v61-2-8]]
+
+^<<v61-2-8,8>>^ Quero, pois, que os homens orem em todo o lugar, levantando as mãos puras, sem ira e sem contenda.
+
+[[v61-2-9]]
+
+^<<v61-2-9,9>>^ Do mesmo modo orem também as mulheres em traje honesto, ataviando-se com modéstia e sobriedade, e não com cabelos frisados, nem com ouro, pérolas ou vestidos custosos,
+
+[[v61-2-10]]
+
+^<<v61-2-10,10>>^ mas sim com boas obras, como convém a mulheres que fazem profissão de piedade.
+
+[[v61-2-11]]
+
+^<<v61-2-11,11>>^ A mulher aprenda, em silêncio, com toda a sujeição.
+
+[[v61-2-12]]
+
+^<<v61-2-12,12>>^ Não permito à mulher que ensine (em público), nem que tenha domínio sobre o homem (exercendo na Igreja uma autoridade sobre ele), mas esteja em silêncio,
+
+[[v61-2-13]]
+
+^<<v61-2-13,13>>^ porque Adão foi formado primeiro, e depois Eva.
+
+[[v61-2-14]]
+
+^<<v61-2-14,14>>^ E Adão não foi seduzido, mas a mulher (é que, sendo) seduzida, prevaricou.
+
+[[v61-2-15]]
+
+^<<v61-2-15,15>>^ Contudo, salvar-se-a pela (legitima) procriação dos filhos, se permanecer na fé, na caridade e na santidade, unidas à modéstia.
+
+'''
+
+xref:061-i-timoteo/061-i-timoteo-001.adoc#v61-1-0[&#60; Capítulo Anterior] | <<v61-2-0,Topo>> | xref:061-i-timoteo/061-i-timoteo-003.adoc#v61-3-0[Próximo Capítulo &#62;]

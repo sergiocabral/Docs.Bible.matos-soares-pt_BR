@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v29-46-0]]
+=== Isaías, 46
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 46 começa com uma mensagem de Deus ao povo de Israel, lembrando-os de que Ele é o único Deus verdadeiro e que eles não devem se curvar diante de ídolos ou outros deuses falsos. Deus enfatiza que Ele é o mesmo desde o início dos tempos e que sempre cumprirá Suas promessas. Ele exorta o povo a confiar nele e não ter medo, pois Ele irá protegê-los e salvá-los. A seguir, cinco versículos relacionados com os temas abordados em Isaías 46:
+* Salmo 115:3: "Mas o nosso Deus está nos céus; ele faz tudo o que lhe agrada." Este versículo fala sobre a soberania e o poder de Deus, que é o mesmo tema de Isaías 46.
+* Deuteronômio 4:35: "A ti te foi mostrado, para que soubesses que o Senhor é Deus; nenhum outro há senão ele." Moisés enfatiza que não há outros deuses além de Yahweh, que é o mesmo tema de Isaías 46.
+* Salmos 135:15-18: "Os ídolos das nações são prata e ouro, obra das mãos dos homens. Têm boca, mas não falam; têm olhos, mas não veem; têm ouvidos, mas não ouvem, nem há respiração alguma na sua boca. Semelhantes a eles sejam os que os fazem, assim como todos os que neles confiam." Este salmo descreve os ídolos que as pessoas adoram, contrastando-os com o Deus verdadeiro, que é vivo e ativo.
+* Mateus 6:31-33: "Portanto, não vos preocupais com o dia de amanhã, pois o dia de amanhã se preocupará consigo mesmo. Basta a cada dia o seu mal." Jesus fala sobre a importância de confiar em Deus e não se preocupar com o futuro, o que é semelhante à mensagem de Isaías 46.
+* Hebreus 13:8: "Jesus Cristo é o mesmo, ontem, e hoje, e eternamente." Este versículo fala sobre a imutabilidade de Jesus Cristo, que é o mesmo tema de Isaías 46, onde Deus enfatiza que Ele é o mesmo desde o início dos tempos e sempre cumprirá Suas promessas.
+****
+
+[[v29-46-1]]
+
+^<<v29-46-1,1>>^ Bel foi quebrado. Nabo foi feito em pedaços; as suas estátuas são postas sobre animais de carga, (constituem) fardos que os fatigam por causa do seu grande peso.
+
+[[v29-46-2]]
+
+^<<v29-46-2,2>>^ Apodrecem e todos se fazem em pedaços; não podem salvar os que os levam, e até eles próprios vão para o cativeiro.
+
+[[v29-46-3]]
+
+^<<v29-46-3,3>>^ Ouvi-me, casa de Jacob, e vós todos, restos da casa de Israel, vós, que eu tomei desde que nascestes, a quem trago desde o seio materno.
+
+[[v29-46-4]]
+
+^<<v29-46-4,4>>^ Eu mesmo vos trarei até á velhice, até vos virem as cãs; como vos criei, vos sustentarei, cuidarei de vós e vos salvarei.
+
+[[v29-46-5]]
+
+^<<v29-46-5,5>>^ A quem me comparareis ou igualareis? Quem poreis em paralelo comigo, que me seja igual? (ver nota)
+
+[[v29-46-6]]
+
+^<<v29-46-6,6>>^ Tiram o ouro do saquitel, pesam a prata na balança, justam com um ourives para que faça um deus, diante do qual se prostram em adoração.
+
+[[v29-46-7]]
+
+^<<v29-46-7,7>>^ Levam-no às costas, colocam-no no seu nicho, e ele ali fica sem se mover do lugar; quando clamarem a ele, não ouvirá, nem os salvará da tribulação.
+
+[[v29-46-8]]
+
+^<<v29-46-8,8>>^ Lembrai-vos disto e mostrai-vos homens e entrai em vós mesmos, ó prevaricadores.
+
+[[v29-46-9]]
+
+^<<v29-46-9,9>>^ Lembrai-vos do tempo passado. Eu sou Deus, e não há outro, sou Deus potente, e não há nenhum semelhante a mim.
+
+[[v29-46-10]]
+
+^<<v29-46-10,10>>^ Anuncio desde o princípio o que há-de acontecer no fim, e, muito tempo antes, as coisas que ainda não existem. Digo: A minha resolução será realizada, e toda a minha vontade se executará.
+
+[[v29-46-11]]
+
+^<<v29-46-11,11>>^ Eu chamo do oriente uma águia, de uma afastada terra o homem dos meus desígnios. Eu disse-o e cumpri-lo-ei; decidi-o e executá-lo-ei.
+
+[[v29-46-12]]
+
+^<<v29-46-12,12>>^ Ouvi-me, homens de coração duro, que estais longe da justiça.
+
+[[v29-46-13]]
+
+^<<v29-46-13,13>>^ Aproximo a vinda da minha justiça; ela não tardará, e a minha salvação não se demorará. Darei a Sião a salvação, e a Israel a minha glória.
+
+'''
+
+xref:029-isaias/029-isaias-045.adoc#v29-45-0[&#60; Capítulo Anterior] | <<v29-46-0,Topo>> | xref:029-isaias/029-isaias-047.adoc#v29-47-0[Próximo Capítulo &#62;]

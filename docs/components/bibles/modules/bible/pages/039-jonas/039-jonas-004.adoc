@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v39-4-0]]
+=== Jonas, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Jonas trata da resposta de Jonas à misericórdia de Deus para com a cidade de Nínive. Jonas fica irritado com a salvação dos ninivitas e deseja a morte, chegando até a questionar a Deus. Aqui estão cinco versículos relacionados com os temas do capítulo:
+* Êxodo 34:6-7: "E passando o Senhor perante a sua face, clamou: Senhor, Senhor Deus misericordioso e piedoso, tardio em irar-se e grande em beneficência e verdade; que guarda a beneficência em milhares; que perdoa a iniquidade, e a transgressão e o pecado; que ao culpado não tem por inocente; que visita a iniquidade dos pais sobre os filhos e sobre os filhos dos filhos até à terceira e quarta geração." Este versículo é uma das descrições mais conhecidas de Deus na Bíblia e destaca Sua misericórdia e compaixão, que Jonas experimentou em primeira mão quando foi salvo da morte na barriga do peixe.
+* Isaías 55:8-9: "Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor. Porque, assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos, e os meus pensamentos mais altos do que os vossos pensamentos." Jonas teve dificuldade em compreender a misericórdia de Deus para com Nínive e questionou Seus caminhos. Este versículo destaca a sabedoria e a compreensão superior de Deus.
+* Romanos 9:15-16: "Pois diz a Moisés: Compadecer-me-ei de quem me compadecer, e terei misericórdia de quem eu tiver misericórdia. Assim, pois, isto não depende do que quer, nem do que corre, mas de Deus, que se compadece." O apóstolo Paulo cita esta passagem de Êxodo para destacar que a misericórdia de Deus não é baseada em mérito humano, mas sim em Sua própria natureza. Isso é relevante para o capítulo 4 de Jonas, onde Jonas está lutando com a ideia de que Nínive merecia punição, enquanto Deus decidiu mostrar misericórdia.
+* Lucas 6:36: "Sede, pois, misericordiosos, como também vosso Pai é misericordioso." Jesus exorta Seus seguidores a imitarem a misericórdia de Deus. Este versículo é relevante para o capítulo 4 de Jonas, onde Jonas precisa aprender a mostrar misericórdia para com a cidade de Nínive, assim como Deus mostrou misericórdia para com ele.
+* Salmo 145:8-9: "O Senhor é bom para com todos; a sua misericórdia alcança todas as suas criaturas. Que todas as tuas criaturas te louvem, Senhor; que os teus fiéis te bendigam." Este salmo fala sobre a bondade e misericórdia de Deus para com todas as suas criaturas, inclusive os habitantes de Nínive, o que destaca a falta de compaixão de Jonas em relação a eles.
+****
+
+[[v39-4-1]]
+
+^<<v39-4-1,1>>^ Jonas ficou muito aborrecido com isto e fortemente irritado.
+
+[[v39-4-2]]
+
+^<<v39-4-2,2>>^ Orou ao Senhor nestes termos: Ah! Senhor! Porventura não é isto o que eu dizia, quando ainda estava na minha terra? Por isso é que procurei fugir para Tarsis, porque sabia que és um Deus clemente e misericordioso, paciente e cheio de bondade, e que te arrependes do mal (ou castigo anunciado).
+
+[[v39-4-3]]
+
+^<<v39-4-3,3>>^ Eu pois te rogo. Senhor, que tires agora a minha alma do meu corpo, porque é melhor para mim a morte que a vida.
+
+[[v39-4-4]]
+
+^<<v39-4-4,4>>^ O Senhor disse-lhe: Julgas que tens razão para te afligires assim?
+
+[[v39-4-5]]
+
+^<<v39-4-5,5>>^ Jonas saiu da cidade e sentou-se ao oriente da mesma cidade; ali fez para si uma cabana, e debaixo dela repousava à sombra, para ver o que aconteceria na cidade.
+
+[[v39-4-6]]
+
+^<<v39-4-6,6>>^ O Senhor Deus fez nascer um rícino que se levantou por cima da cabeça de Jonas, para fazer sombra: à sua cabeça e o livrar da sua má disposição; e Jonas, por aquele rícino ficou cheio de grande alegria.
+
+[[v39-4-7]]
+
+^<<v39-4-7,7>>^ Ao outro dia, porém, ao romper da manhã, enviou Deus um bicho, que roeu as raízes ao rícino, e ele secou.
+
+[[v39-4-8]]
+
+^<<v39-4-8,8>>^ Quando o sol apareceu, o Senhor mandou um vento quente do oriente, e deram os raios de sol na cabeça a Jonas, de forma que ele, desfalecido, desejou a morte e disse: Melhor é para mim morrer do que viver.
+
+[[v39-4-9]]
+
+^<<v39-4-9,9>>^ Então o Senhor disse a Jonas: Julgas tu que tens razão para te enfadares por causa do rícino? Jonas respondeu-lhe: Tenho razão de me enfadar até ao ponto de desejar a morte. (ver nota)
+
+[[v39-4-10]]
+
+^<<v39-4-10,10>>^ Disse pois o Senhor: Sentes pena dum rícino que te não custou trabalho algum, que não fizeste crescer, que nasceu numa noite e numa noite feneceu;
+
+[[v39-4-11]]
+
+^<<v39-4-11,11>>^ e então não hei-de compadecer-me de Nínive, a grande cidade onde há mais de cento e vinte mil pessoas, que não sabem discernir entre a sua mão direita e a sua mão esquerda, e um grande número de animais?
+
+'''
+
+xref:039-jonas/039-jonas-003.adoc#v39-3-0[&#60; Capítulo Anterior] | <<v39-4-0,Topo>> | xref:040-miqueias/040-miqueias-001.adoc#v40-1-0[Próximo Capítulo &#62;]

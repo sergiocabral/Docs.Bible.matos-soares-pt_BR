@@ -1,0 +1,219 @@
+include::./index.adoc[]
+
+[[v50-12-0]]
+=== São João, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 12 do Evangelho de São João conta a história de Jesus entrando em Jerusalém e sendo recebido com louvor pela multidão. No entanto, também fala sobre a rejeição de Jesus pelos líderes religiosos judeus e a predição da sua morte iminente. A seguir estão cinco versículos relacionados aos temas abordados em João 12, excluindo os versículos do próprio capítulo:
+* Isaías 53:3: "Desprezado e rejeitado pelos homens, homem de dores e experimentado nos sofrimentos; e como um de quem os homens escondiam o rosto, era desprezado, e não fizemos dele caso algum." Este versículo da profecia de Isaías descreve a rejeição de Jesus e sua falta de reconhecimento pelos homens, antecipando a rejeição que Ele enfrentaria pelos líderes religiosos.
+* Salmo 118:26: "Bendito aquele que vem em nome do Senhor! Nós vos bendizemos desde a casa do Senhor." Este salmo é citado pelos adoradores que saúdam a entrada triunfal de Jesus em Jerusalém, reconhecendo-o como o Messias que foi prometido.
+* João 10:16: "Tenho ainda outras ovelhas que não são deste aprisco; a estas também devo conduzir, e ouvirão a minha voz, e haverá um só rebanho e um só pastor." Esse versículo é uma indicação da universalidade da mensagem de Jesus, que ele enfatiza em João 12:20-36, quando alguns gregos o procuram para ouvir seus ensinamentos.
+* Mateus 21:46: "Eles procuravam prendê-lo, mas tinham medo do povo, que o considerava profeta." Este versículo descreve o medo dos líderes religiosos de prender Jesus por causa da popularidade que Ele tinha entre o povo.
+* Lucas 19:41: "Quando se aproximou e viu a cidade, Jesus chorou sobre ela." Este versículo descreve a tristeza de Jesus com a rejeição e a falta de compreensão de Jerusalém em relação a Ele como o Messias e Salvador.
+****
+
+[[v50-12-1]]
+
+^<<v50-12-1,1>>^ Seis dias antes da Páscoa, Jesus foi a Betânia, onde se encontrava Lázaro, que Jesus tinha ressuscitado.
+
+[[v50-12-2]]
+
+^<<v50-12-2,2>>^ Deram-lhe lá uma ceia. Marta servia, e Lázaro era um dos que estavam à mesa com ele.
+
+[[v50-12-3]]
+
+^<<v50-12-3,3>>^ Então tomou Maria uma libra de bálsamo feito de nardo puro de grande preço, ungiu os pés de Jesus e enxugou-lhos com os seus cabelos; e a casa ficou cheia de perfume do bálsamo.
+
+[[v50-12-4]]
+
+^<<v50-12-4,4>>^ Judas Iscariotes, um dos seus discípulos, aquele que o havia de entregar, disse:
+
+[[v50-12-5]]
+
+^<<v50-12-5,5>>^ "Porque se não vendeu este bálsamo por trezentos dinheiros, para se dar aos pobres?"
+
+[[v50-12-6]]
+
+^<<v50-12-6,6>>^ Disse isto, não porque se importasse com os pobres, mas porque era ladrão, e, tendo a bolsa, roubava o que se lançava nela.
+
+[[v50-12-7]]
+
+^<<v50-12-7,7>>^ Mas Jesus respondeu: "Deixa-a; ela reservou este perfume para o dia da minha sepultura;
+
+[[v50-12-8]]
+
+^<<v50-12-8,8>>^ porque sempre tereis pobres convosco, mas a mim não me tereis sempre."
+
+[[v50-12-9]]
+
+^<<v50-12-9,9>>^ Uma grande multidão de Judeus soube que Jesus estava ali e foi lá, não somente por causa de Jesus, mas também para ver Lázaro, a quem ele tinha ressuscitado dos mortos.
+
+[[v50-12-10]]
+
+^<<v50-12-10,10>>^ Os príncipes dos sacerdotes deliberaram então matar também Lázaro,
+
+[[v50-12-11]]
+
+^<<v50-12-11,11>>^ porque muitos Judeus, por causa dele, retiravam-se e criam em Jesus.
+
+[[v50-12-12]]
+
+^<<v50-12-12,12>>^ No dia seguinte, uma grande multidão de povo, que tinha ido à festa, ouvindo dizer que Jesus ia a Jerusalém,
+
+[[v50-12-13]]
+
+^<<v50-12-13,13>>^ tomou ramos de palmas, saiu ao seu encontro e clamava: "Hosana! Bendito o que vem em nome do Senhor, o rei de Israel."
+
+[[v50-12-14]]
+
+^<<v50-12-14,14>>^ Jesus encontrou um jumentinho, e montou em cima dele, segundo está escrito:
+
+[[v50-12-15]]
+
+^<<v50-12-15,15>>^ Não temas, filha de Sião; eis que o teu Rei vem montado sobre um jumentinho (Zc. 9, 9).
+
+[[v50-12-16]]
+
+^<<v50-12-16,16>>^ A princípio, os seus discípulos não compreenderam estas coisas, mas quando Jesus foi glorificado, então lembraram-se de que estas coisas tinham sido escritas dele e que eles mesmos tinham contribuído para o seu cumprimento.
+
+[[v50-12-17]]
+
+^<<v50-12-17,17>>^ A multidão que estava com ele, quando chamou Lázaro do sepulcro e o ressuscitou dos mortos, dava testemunho dele.
+
+[[v50-12-18]]
+
+^<<v50-12-18,18>>^ Por isso, lhe saiu ao encontro a multidão, porque ouviram dizer que tinha feito este milagre.
+
+[[v50-12-19]]
+
+^<<v50-12-19,19>>^ Então os fariseus disseram entre si: "Vedes que nada aproveitais? Eis que todos correm atrás dele."
+
+[[v50-12-20]]
+
+^<<v50-12-20,20>>^ Ora havia lá alguns Gregos, entre aqueles que tinham ido adorar a Deus durante a festa.
+
+[[v50-12-21]]
+
+^<<v50-12-21,21>>^ Estes aproximaram-sé de Filipe, que era de Betsaida da Galileia, e fizeram-lhe este pedido: "Senhor, desejamos ver Jesus."
+
+[[v50-12-22]]
+
+^<<v50-12-22,22>>^ Filipe foi dizê-lo a André; André e Filipe disseram-no a Jesus.
+
+[[v50-12-23]]
+
+^<<v50-12-23,23>>^ Jesus respondeu-lhes: "Chegou a hora em que o Filho do homem será glorificado.
+
+[[v50-12-24]]
+
+^<<v50-12-24,24>>^ Em verdade, em verdade, vos digo, que se o grão de trigo, que cai na terra, não morrer,
+
+[[v50-12-25]]
+
+^<<v50-12-25,25>>^ fica infecundo; mas, se morrer, produz muito fruto. O que ama a sua vida, perdê-la-á, e quem aborrece a sua vida neste mundo, conservá-la-á para a vida eterna,
+
+[[v50-12-26]]
+
+^<<v50-12-26,26>>^ Se alguém me quer servir, siga-me, e, onde eu estou, estará ali também o que me serve. Se alguém me servir, meu Pai o honrará.
+
+[[v50-12-27]]
+
+^<<v50-12-27,27>>^ Agora a minha alma, está turbada. E que direi eu? Pai, livra-me desta hora. Mas é para isso que cheguei a esta hora.
+
+[[v50-12-28]]
+
+^<<v50-12-28,28>>^ Pai, glorifica o teu nome. " Então veio do céu esta voz: "Eu o glorifiquei e o glorificarei novamente."
+
+[[v50-12-29]]
+
+^<<v50-12-29,29>>^ Ora o povo, que ali estava e ouvira, dizia que linha sido um trovão. Outros diziam: Um anjo lhe falou."
+
+[[v50-12-30]]
+
+^<<v50-12-30,30>>^ Jesus respondeu; "Esta voz não veio por amor de mim, mas por amor de vós.
+
+[[v50-12-31]]
+
+^<<v50-12-31,31>>^ Agora é o juízo deste mundo; agora será lançado fora o príncipe deste mundo.
+
+[[v50-12-32]]
+
+^<<v50-12-32,32>>^ E eu, quando for levantado da terra, atrairei todos os homens a mim."
+
+[[v50-12-33]]
+
+^<<v50-12-33,33>>^ Dizia isto para designar de que morte havia de morrer.
+
+[[v50-12-34]]
+
+^<<v50-12-34,34>>^ Respondeu-lhe a multidão: "Nós aprendemos da lei que o Cristo permanece eternamente; como dizes tu que o Filho do homem deve ser levantado? Quem é este Filho do homem?"
+
+[[v50-12-35]]
+
+^<<v50-12-35,35>>^ Jesus respondeu-lhes: "Ainda por um pouco de tempo está a luz convosco. Andai enquanto tendes a luz, para que não vos surpreendam as trevas; quem caminha nas trevas, não sabe onde vai.
+
+[[v50-12-36]]
+
+^<<v50-12-36,36>>^ Enquanto tendes a luz, crede na luz para que sejais filhos da luz." Jesus disse isto; depois retirou-se e escondeu-se deles.
+
+[[v50-12-37]]
+
+^<<v50-12-37,37>>^ Apesar de haver ele feito tantos milagres em sua presença, não criam nele,
+
+[[v50-12-38]]
+
+^<<v50-12-38,38>>^ para se cumprir a palavra do profeta Isaías (Is. 53, 1), quando disse: Senhor, quem acreditou o que ouviu de nós? E a quem foi revelado o braço do Senhor?
+
+[[v50-12-39]]
+
+^<<v50-12-39,39>>^ Por isso não podiam crer, porque Isaías disse também (Is. 6, 9-10):
+
+[[v50-12-40]]
+
+^<<v50-12-40,40>>^ Tornou-lhes cegos os olhos, endureceu-lhes o coração, para que não vejam com os olhos, não compreendam com o coração, não se convertam e eu não os sare. (ver nota)
+
+[[v50-12-41]]
+
+^<<v50-12-41,41>>^ Isto disse Isaías, quando viu a sua glória e falou dele.
+
+[[v50-12-42]]
+
+^<<v50-12-42,42>>^ Todavia, mesmo entre os principais, muitos creram nele; mas, por causa dos fariseus, não o confessavam para não serem expulsos da sinagoga.
+
+[[v50-12-43]]
+
+^<<v50-12-43,43>>^ Porque amaram mais a glória dos homens do que a glória de Deus.
+
+[[v50-12-44]]
+
+^<<v50-12-44,44>>^ Jesus levantou a voz e disse: "O que crê em mim, não crê em mim, mas naquele que me enviou.
+
+[[v50-12-45]]
+
+^<<v50-12-45,45>>^ Quem me vê a mim, vê aquele que me enviou.
+
+[[v50-12-46]]
+
+^<<v50-12-46,46>>^ Eu vim ao mundo como uma luz, para que todo o que crê em mim não fique nas trevas.
+
+[[v50-12-47]]
+
+^<<v50-12-47,47>>^ Se alguém ouvir as minhas palavras e não as guardar, eu não o julgo, porque não vim para julgar o mundo, mas para salvar o mundo.
+
+[[v50-12-48]]
+
+^<<v50-12-48,48>>^ O que me despreza e não recebe as minhas palavras, já tem quem o julgue; a palavra que anunciei, essa o julgará no último dia.
+
+[[v50-12-49]]
+
+^<<v50-12-49,49>>^ Com efeito, eu não falei por mim mesmo, mas o Pai que me enviou, ele mesmo me prescreveu o que eu devia dizer e ensinar.
+
+[[v50-12-50]]
+
+^<<v50-12-50,50>>^ Eu sei que o seu mandamento é a vida eterna. As coisas, pois, que digo, digo-as como meu Pai me disse.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-011.adoc#v50-11-0[&#60; Capítulo Anterior] | <<v50-12-0,Topo>> | xref:050-sao-joao/050-sao-joao-013.adoc#v50-13-0[Próximo Capítulo &#62;]

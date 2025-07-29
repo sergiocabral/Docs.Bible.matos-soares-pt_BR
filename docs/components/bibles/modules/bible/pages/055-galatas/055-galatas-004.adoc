@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v55-4-0]]
+=== Gálatas, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Gálatas 4, Paulo continua a argumentar contra os ensinamentos dos falsos mestres que tentam persuadir os gálatas a retornar à observância da lei mosaica. Ele usa uma metáfora de um herdeiro que, enquanto é menor de idade, não tem autoridade sobre sua herança e é controlado por tutores e administradores. Paulo usa isso para ilustrar que os crentes judeus sob a lei estavam em um estado de menoridade espiritual, mas agora, através da fé em Cristo, se tornaram filhos maduros e herdeiros de Deus. Os versículos a seguir se relacionam com os temas abordados em Gálatas 4:
+* Romanos 8:15: "Pois vocês não receberam um espírito que os escravize para novamente temer, mas receberam o Espírito que os adota como filhos, por meio do qual clamamos: "Aba, Pai"." Este versículo destaca a relação de adoção dos crentes como filhos de Deus, que é um tema central em Gálatas 4.
+* Colossenses 2:8: "Cuidado para que ninguém os escravize a filosofias vãs e enganosas, que se fundamentam nas tradições humanas e nos princípios elementares deste mundo, e não em Cristo." Paulo adverte os colossenses a não serem escravizados por ensinamentos humanos e tradições, que é um dos principais argumentos de Paulo em Gálatas 4.
+* Romanos 6:14: "Pois o pecado não os dominará, porque vocês não estão debaixo da Lei, mas debaixo da graça." Esse versículo destaca a liberdade dos crentes do domínio do pecado e da lei, que é um tema importante em Gálatas 4.
+* Efésios 2:19: "Assim, vocês já não são estrangeiros nem forasteiros, mas concidadãos dos santos e membros da família de Deus." Paulo enfatiza a relação dos crentes com a família de Deus, que é um tema central em Gálatas 4.
+* Hebreus 2:15: "e livrasse aqueles que, pelo medo da morte, estavam sujeitos à escravidão por toda a vida." Esse versículo destaca a libertação dos crentes da escravidão do medo da morte, que é um tema central em Gálatas 4, onde Paulo argumenta que a observância da lei é uma forma de escravidão que traz medo e insegurança espirituais.
+****
+
+[[v55-4-1]]
+
+^<<v55-4-1,1>>^ Insisto: enquanto o herdeiro é menino, em nada difere de um servo, ainda que seja senhor de tudo,
+
+[[v55-4-2]]
+
+^<<v55-4-2,2>>^ mas está debaixo dos tutores e curadores, até ao tempo determinado pelo pai;
+
+[[v55-4-3]]
+
+^<<v55-4-3,3>>^ assim também nós, quando éramos meninos (isto é, sujeitos à lei), éramos servos dos elementos do mundo. (ver nota)
+
+[[v55-4-4]]
+
+^<<v55-4-4,4>>^ Mas, quando chegou a plenitude do tempo, Deus enviou seu Filho, feito da mulher, feito sob a lei,
+
+[[v55-4-5]]
+
+^<<v55-4-5,5>>^ a fim de que remisse aqueles que estavam sob a lei, para que recebêssemos a adoção de filhos.
+
+[[v55-4-6]]
+
+^<<v55-4-6,6>>^ E, porque vós sois filhos, Deus mandou aos vossos corações o Espírito de seu Filho, que clama: Abba, Pai! (ver nota)
+
+[[v55-4-7]]
+
+^<<v55-4-7,7>>^ Portanto já não és servo, mas filho; e, se és filho, também és herdeiro de Deus.
+
+[[v55-4-8]]
+
+^<<v55-4-8,8>>^ Outrora, realmente, não conhecendo a Deus, servíeis aqueles que por natureza não são deuses.
+
+[[v55-4-9]]
+
+^<<v55-4-9,9>>^ Porém, agora, tendo vós conhecido a Deus, ou antes, sendo conhecidos dele, como voltais novamente aos rudimentos fracos e pobres (da lei), aos quais quereis de novo servir?
+
+[[v55-4-10]]
+
+^<<v55-4-10,10>>^ Observais os dias, os meses, as estações e os anos (segundo os ritos da lei de Moisés).
+
+[[v55-4-11]]
+
+^<<v55-4-11,11>>^ Temo ter trabalhado inutilmente entre vós.
+
+[[v55-4-12]]
+
+^<<v55-4-12,12>>^ Sede como eu, porque também eu sou (agora) como vós. Eu vo-lo peço, irmãos. Vós em nada me ofendestes. (ver nota)
+
+[[v55-4-13]]
+
+^<<v55-4-13,13>>^ Sabeis que da primeira vez vos preguei o Evangelho estando muito doente. E este corpo, que era uma prova para vós,
+
+[[v55-4-14]]
+
+^<<v55-4-14,14>>^ não o desprezastes nem rejeitastes, antes me recebestes como um anjo de Deus, como Cristo Jesus.
+
+[[v55-4-15]]
+
+^<<v55-4-15,15>>^ Onde está, pois, (agora) aquela vossa felicidade? Porque posso testemunhar que (então), se fosse possível, vós arrancaríeis os olhos para nos dar.
+
+[[v55-4-16]]
+
+^<<v55-4-16,16>>^ Tornei-me eu logo vosso inimigo, porque vos disse a verdade?
+
+[[v55-4-17]]
+
+^<<v55-4-17,17>>^ Esses (falsos apóstolos)mostram-se cheios de afeto por vós, mas não retamente ; antes querem-vos separar de nós, para serem objecto do vosso afeto.
+
+[[v55-4-18]]
+
+^<<v55-4-18,18>>^ É bom ser objecto de afeição, mas sempre, e não só quando estou presente entre vós.
+
+[[v55-4-19]]
+
+^<<v55-4-19,19>>^ Filhinhos meus — por quem eu sinto de novo as dores do parto, até que Jesus Cristo se forme em vós — (ver nota)
+
+[[v55-4-20]]
+
+^<<v55-4-20,20>>^ bem quisera eu estar agora convosco para adaptar a minha linguagem (segundo as vossas necessidades), porque estou perplexo a vosso respeito.
+
+[[v55-4-21]]
+
+^<<v55-4-21,21>>^ Dizei-me: vós, que quereis estar debaixo da lei, não entendeis a lei ?
+
+[[v55-4-22]]
+
+^<<v55-4-22,22>>^ Com efeito, está escrito que Abraão teve dois filhos: um da escrava e outro da (mulher) livre.
+
+[[v55-4-23]]
+
+^<<v55-4-23,23>>^ Mas o da escrava nasceu segundo a carne, e o da livre, (nasceu) em virtude da promessa;
+
+[[v55-4-24]]
+
+^<<v55-4-24,24>>^ tais coisas foram ditas por alegoria, porque estas duas mulheres são as duas alianças. Uma, a do monte Sinai, que gera para a escravidão ; esta é (figurada em) Agar,
+
+[[v55-4-25]]
+
+^<<v55-4-25,25>>^ porque o Sinai é um monte da Arábia, o qual corresponde à Jerusalém atual (isto é, a Sinagoga) a qual é escrava com seus filhos.
+
+[[v55-4-26]]
+
+^<<v55-4-26,26>>^ Mas aquela Jerusalém, que é de cima, (isto é, a Igreja de Jesus figurada em Sara) é livre e é nossa mãe.
+
+[[v55-4-27]]
+
+^<<v55-4-27,27>>^ Porque está escrito: Alegra-te, ó estéril, que não dás à luz, exulta e clama de alegria, tu que não estás de parto; porque são muitos mais os filhos da abandonada (como estéril), que daquela que tem marido (Is. 54, 1).
+
+[[v55-4-28]]
+
+^<<v55-4-28,28>>^ E vós, irmãos, sois filhos da promessa como Isaac.
+
+[[v55-4-29]]
+
+^<<v55-4-29,29>>^ Mas, assim como então aquele que tinha nascido segundo a carne perseguia o nascido segundo o espírito, assim (acontece) também agora.
+
+[[v55-4-30]]
+
+^<<v55-4-30,30>>^ Mas que diz a Escritura? Lança fora a escrava e o seu filho, porque o filho da escrava não será herdeiro com o filho da livre (Gn. 21, 10).
+
+[[v55-4-31]]
+
+^<<v55-4-31,31>>^ Por isso, irmãos, não somos filhos da escrava, mas da livre.
+
+'''
+
+xref:055-galatas/055-galatas-003.adoc#v55-3-0[&#60; Capítulo Anterior] | <<v55-4-0,Topo>> | xref:055-galatas/055-galatas-005.adoc#v55-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v21-33-0]]
+=== Salmos, 33
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 33 é um hino de louvor a Deus como Criador e Sustentador do universo. O salmista celebra a grandeza de Deus e Sua fidelidade, e exorta o povo a confiar nEle em vez de confiar em coisas terrenas. A seguir estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Salmo 33.
+* Gênesis 1:1-2: "No princípio, criou Deus os céus e a terra. A terra, porém, estava sem forma e vazia; havia trevas sobre a face do abismo, e o Espírito de Deus pairava por sobre as águas." Este é o primeiro verso da Bíblia e descreve a criação do universo por Deus. O Salmo 33 também celebra a grandeza e poder de Deus como Criador.
+* Neemias 9:6: "Só tu és o Senhor; fizeste o céu, o céu dos céus, e todo o seu exército, a terra e tudo quanto nela há, os mares e tudo quanto neles há; e tu os preservas a todos com vida, e o exército dos céus te adora." Este verso fala da grandeza de Deus como Criador e Sustentador do universo, e Sua fidelidade em preservar a vida. O Salmo 33 também celebra a fidelidade de Deus em sustentar e preservar tudo o que Ele criou.
+* Isaías 40:28: "Não sabes, não ouviste que o eterno Deus, o Senhor, o Criador dos confins da terra, não se cansa, nem se fatiga? Não se pode esquadrinhar o seu entendimento." Este verso fala da infinitude e grandeza de Deus como Criador. O Salmo 33 também celebra a grandeza e poder de Deus como Criador.
+* Jeremias 17:7-8: "Bendito o homem que confia no Senhor, e cuja confiança é o Senhor. Porque ele é como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem o calor, mas a sua folha fica verde; e no ano de sequidão não se afadiga, nem deixa de dar fruto." Este verso compara a pessoa que confia em Deus a uma árvore bem enraizada e resistente. O Salmo 33 exorta o povo a confiar em Deus em vez de confiar em coisas terrenas.
+* 2 Coríntios 5:7: "Porque andamos por fé e não pelo que vemos." Este verso fala da importância de confiar em Deus, mesmo quando não podemos ver claramente o que Ele está fazendo. O Salmo 33 exorta o povo a confiar em Deus em vez de confiar em coisas terrenas.
+****
+
+[[v21-33-1]]
+
+^<<v21-33-1,1>>^ De Davide, quando se fingiu louco, diante de Abimeleque, e se escapou despedido por ele.
+
+[[v21-33-2]]
+
+^<<v21-33-2,2>>^ Bendirei o Senhor em todo o tempo: o seu louvor estará sempre na minha boca.
+
+[[v21-33-3]]
+
+^<<v21-33-3,3>>^ No Senhor se glorie a minha alma: ouçam-no os humildes e alegrem-se.
+
+[[v21-33-4]]
+
+^<<v21-33-4,4>>^ Engrandecei comigo o Senhor; exaltemos o seu nome todos à uma.
+
+[[v21-33-5]]
+
+^<<v21-33-5,5>>^ Busquei o Senhor, e ele ouviu-me e livrou-me de todas as minhas tribulações.
+
+[[v21-33-6]]
+
+^<<v21-33-6,6>>^ Olhai para ele, a fim de vos alegrardes e de os vossos rostos não serem cobertos de confusão.
+
+[[v21-33-7]]
+
+^<<v21-33-7,7>>^ Eis que o aflito clamou, e o Senhor ouviu e o salvou de todas as suas angústias.
+
+[[v21-33-8]]
+
+^<<v21-33-8,8>>^ O anjo do Senhor assenta os seus arraiais em volta dos que o temem, e os liberta.
+
+[[v21-33-9]]
+
+^<<v21-33-9,9>>^ Gostai e vede como o Senhor é bom; ditoso o homem que a ele se acolhe.
+
+[[v21-33-10]]
+
+^<<v21-33-10,10>>^ Temei o Senhor, vós os seus santos, porque não há indigência para os que o temem.
+
+[[v21-33-11]]
+
+^<<v21-33-11,11>>^ Os poderosos tornam-se pobres e passaram fome; porém os que buscam o Senhor, não terão falta de bem algum.
+
+[[v21-33-12]]
+
+^<<v21-33-12,12>>^ Vinde, filhos, ouvi-me; eu vos ensinarei o temor do Senhor.
+
+[[v21-33-13]]
+
+^<<v21-33-13,13>>^ Quem é o homem que ama a vida, e deseja largos dias para gozar bens ?
+
+[[v21-33-14]]
+
+^<<v21-33-14,14>>^ (Para isso) guarda a tua língua do mal, e os teus lábios de palavras dolosas.
+
+[[v21-33-15]]
+
+^<<v21-33-15,15>>^ Desvia-te do mal e faz o bem; busca a paz e vai em seu seguimento.
+
+[[v21-33-16]]
+
+^<<v21-33-16,16>>^ Os olhos do Senhor estão voltados para os justos, e os seus ouvidos (estão atentos) ao seu clamor.
+
+[[v21-33-17]]
+
+^<<v21-33-17,17>>^ O rosto do Senhor desvia-se dos que fazem mal, para apagar da terra a sua memória.
+
+[[v21-33-18]]
+
+^<<v21-33-18,18>>^ Os justos clamaram, e o Senhor os ouviu, e os livrou de todas as suas angústias.
+
+[[v21-33-19]]
+
+^<<v21-33-19,19>>^ O Senhor está perto dos contritos do coração, e levanta os abatidos de espírito.
+
+[[v21-33-20]]
+
+^<<v21-33-20,20>>^ Muitas são as calamidades dos justos, mas de todas elas os livra o Senhor.
+
+[[v21-33-21]]
+
+^<<v21-33-21,21>>^ (O Senhor) guarda todos os seus ossos: nem um só se quebrará.
+
+[[v21-33-22]]
+
+^<<v21-33-22,22>>^ A malícia impele o ímpio para a morte, e os que aborrecem o justo serão castigados.
+
+[[v21-33-23]]
+
+^<<v21-33-23,23>>^ O Senhor livra as almas dos seus servos, e não será castigado quem nele se refugiar.
+
+'''
+
+xref:021-salmos/021-salmos-032.adoc#v21-32-0[&#60; Capítulo Anterior] | <<v21-33-0,Topo>> | xref:021-salmos/021-salmos-034.adoc#v21-34-0[Próximo Capítulo &#62;]

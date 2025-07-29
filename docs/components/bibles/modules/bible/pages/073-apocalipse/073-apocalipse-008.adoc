@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v73-8-0]]
+=== Apocalipse, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Apocalipse 8 descreve a abertura do sétimo selo e o início das sete trombetas, que são juízos divinos que trazem destruição à Terra. A seguir estão cinco versículos da Bíblia que se relacionam com os temas abordados em Apocalipse 8:
+* Jeremias 25:30-31: "Anunciarei, pois, em altas vozes, a todos os povos do mundo: "O SENHOR vem para julgar! Ele julgará todas as nações da terra com justiça, de acordo com o que elas merecem. O SENHOR enviará a espada, a fome e a peste contra elas, até que tenham sido exterminadas da face da terra." Este versículo fala sobre o julgamento de Deus sobre todas as nações, o que é semelhante aos juízos descritos em Apocalipse 8.
+* Isaías 24:6-7: "Por isso, uma maldição devora a terra; os seus habitantes sofrem as consequências dos seus pecados. Por isso, a terra está seca e murcha; as plantas estão secando e murchando, porque os habitantes da terra são ímpios, pois não obedecem às leis de Deus, que são perfeitas e eternas." Este versículo fala sobre como os pecados dos habitantes da terra trazem destruição à criação de Deus, o que também é um tema em Apocalipse 8.
+* Ezequiel 33:3: "Quando ele vir que a espada vem contra a terra, tocará a trombeta e advertirá o povo." Este versículo fala sobre a trombeta sendo usada como um sinal de alerta para o povo, o que é semelhante ao uso das trombetas em Apocalipse 8 para anunciar os juízos de Deus.
+* Joel 2:1-2: "Toquem a trombeta em Sião, dêem o alarme na minha montanha santa. Tremam de medo, todos os habitantes da terra, porque o dia do SENHOR está chegando! Está próximo, é um dia de escuridão e de trevas, um dia de nuvens e de escuridão, como nunca houve antes nem haverá depois, em gerações e gerações." Este versículo também fala sobre o uso da trombeta como um sinal de alerta para o dia do julgamento de Deus, o que é um tema em Apocalipse 8.
+* Amós 5:18-20: "Ai dos que desejam o dia do SENHOR! Que proveito haverá para vocês nesse dia? Será um dia de escuridão, não de luz. Será como se alguém fugisse de um leão e se encontrasse com um urso, ou como se entrasse em casa e encostasse a mão na parede, e uma cobra o mordesse. O dia do SENHOR será de trevas e não de luz, um dia de densas nuvens e de escuridão." Este versículo descreve o dia do julgamento de Deus como um dia de trevas e destruição, o que é semelhante ao que é descrito em Apocalipse 8.
+****
+
+[[v73-8-1]]
+
+^<<v73-8-1,1>>^ Tendo (o Cordeiro) aberto o sétimo selo, fez-se silêncio no céu, quase por meia hora.
+
+[[v73-8-2]]
+
+^<<v73-8-2,2>>^ E vi os sete anjos, que estavam em pé diante de Deus, aos quais foram dadas sete trombetas.
+
+[[v73-8-3]]
+
+^<<v73-8-3,3>>^ Depois veio outro anjo e parou, de pé, diante do altar, com um turíbulo de ouro; e foram-lhe dados muitos perfumes, a fim de os oferecer com as orações de todos os santos sobre o altar de ouro, que está diante do trono.
+
+[[v73-8-4]]
+
+^<<v73-8-4,4>>^ E o fumo dos perfumes, com as orações dos santos, subiu da mão do anjo até à presença de Deus.
+
+[[v73-8-5]]
+
+^<<v73-8-5,5>>^ Depois o anjo tomou o turíbulo, encheu-o de fogo do altar e lançou-o sobre a terra. Houve, então, trovões, vozes, relâmpagos e um grande terramoto.
+
+[[v73-8-6]]
+
+^<<v73-8-6,6>>^ Os sete anjos, que tinham as sete trombetas, prepararam-se para as tocar.
+
+[[v73-8-7]]
+
+^<<v73-8-7,7>>^ O primeiro (anjo) tocou a trombeta, e houve granizo e fogo, de mistura com sangue, que foram atirados sobre a terra. Foi abrasada a terça parte da terra, foi queimada a terça parte das árvores, e toda a erva verde.
+
+[[v73-8-8]]
+
+^<<v73-8-8,8>>^ O segundo anjo tocou a trombeta, e foi lançado no mar como que um grande monte ardendo em fogo. Converteu-se em sangue a terça parte do mar,
+
+[[v73-8-9]]
+
+^<<v73-8-9,9>>^ e a terça parte das criaturas que viviam no mar morreu, e a terça parte das naus foi destruída.
+
+[[v73-8-10]]
+
+^<<v73-8-10,10>>^ O terceiro anjo tocou a trombeta, e caiu do céu uma grande estrela, a arder como um facho. Caiu sobre a terça parte dos rios e sobre as fontes das águas. (ver nota)
+
+[[v73-8-11]]
+
+^<<v73-8-11,11>>^ O nome da estrela é Absinto. A terça parte das águas converteu-se em absinto, e muitos homens morreram por causa daquelas águas, porque se tornaram amargosas.
+
+[[v73-8-12]]
+
+^<<v73-8-12,12>>^ O quarto anjo tocou a trombeta, e foi ferida a terça parte do sol, assim como a terça parle da lua e a terça parte das estrelas, de maneira que se obscureceu a sua terça parte, e o dia perdeu a terça parte do seu brilho, como também a noite.
+
+[[v73-8-13]]
+
+^<<v73-8-13,13>>^ E vi: Ouvi a voz de uma águia, que voava para o zênite, a qual dizia em alta voz: "Ai, aí, aí dos habitantes da terra, por causa dos restantes toques de trombeta, que os três anjos estão prestes a tocar." (ver nota)
+
+'''
+
+xref:073-apocalipse/073-apocalipse-007.adoc#v73-7-0[&#60; Capítulo Anterior] | <<v73-8-0,Topo>> | xref:073-apocalipse/073-apocalipse-009.adoc#v73-9-0[Próximo Capítulo &#62;]

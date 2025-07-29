@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v61-1-0]]
+=== I Timóteo, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Timóteo 1 é um capítulo que fala sobre a importância do ensino correto da doutrina e o perigo da especulação teológica vazia e sem fundamento. Também é enfatizado o papel da lei na condenação dos pecadores e como a graça de Deus através de Jesus Cristo é suficiente para salvá-los. A seguir estão cinco versículos relacionados com esses temas:
+* Romanos 6:14: "Porque o pecado não terá domínio sobre vós, pois não estais debaixo da lei, mas debaixo da graça." Esse versículo fala sobre como a lei não é o meio para a justificação, mas sim a graça de Deus através de Jesus Cristo, que nos liberta do poder do pecado.
+* 2 Timóteo 2:15: "Procura apresentar-te a Deus aprovado, como obreiro que não tem de que se envergonhar, que maneja bem a palavra da verdade." Esse versículo enfatiza a importância do estudo cuidadoso e preciso das Escrituras para o ensino correto da doutrina e a vida piedosa.
+* 2 Pedro 1:20-21: "Sabendo primeiramente isto: que nenhuma profecia da Escritura é de particular interpretação. Porque a profecia nunca foi produzida por vontade dos homens, mas os homens santos da parte de Deus falaram movidos pelo Espírito Santo." Esse versículo reforça a importância da interpretação cuidadosa e responsável das Escrituras, lembrando-nos que a Palavra de Deus é inspirada pelo Espírito Santo e deve ser lida e interpretada em harmonia com o seu propósito geral.
+* 1 Coríntios 2:2: "Porque nada me propus saber entre vós, senão a Jesus Cristo e este crucificado." Esse versículo destaca a centralidade de Cristo e sua obra redentora na mensagem cristã, e a importância de não se desviar para especulações teológicas sem sentido.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Esse versículo destaca a importância da confissão de pecados e o perdão de Deus através de Jesus Cristo, lembrando-nos que nossa salvação é baseada em Sua graça e misericórdia, não em nossos próprios méritos.
+****
+
+[[v61-1-1]]
+
+^<<v61-1-1,1>>^ Paulo, Apóstolo de Jesus Cristo, por mandado de Deus, nosso Salvador, e de Jesus Cristo, nossa esperança,
+
+[[v61-1-2]]
+
+^<<v61-1-2,2>>^ a Timóteo, amado filho na fé: graça, misericórdia e paz, da parte de Deus Pai e de Jesus Cristo Nosso Senhor,
+
+[[v61-1-3]]
+
+^<<v61-1-3,3>>^ Recomendei-te que ficasses em Éfeso, quando parti para a Macedónia, para que admoestasses alguns, que não ensinassem doutrina diversa (da que tem sido ensinada por nós),
+
+[[v61-1-4]]
+
+^<<v61-1-4,4>>^ nem se ocupassem em fábulas e genealogias intermináveis, as quais servem mais para questões do que para favorecer o plano de Deus, que se funda na fé.
+
+[[v61-1-5]]
+
+^<<v61-1-5,5>>^ O fim deste preceito é a caridade nascida de um coração puro, de uma boa consciência e de uma fé não fingida.
+
+[[v61-1-6]]
+
+^<<v61-1-6,6>>^ Apartando-se alguns destas coisas, entregaram-se a discursos vãos,
+
+[[v61-1-7]]
+
+^<<v61-1-7,7>>^ querendo ser doutores da lei, não sabendo nem o que dizem nem o que afirmam.
+
+[[v61-1-8]]
+
+^<<v61-1-8,8>>^ Nós sabemos (também como eles) que a lei é boa, contanto que se use dela legitimamente,
+
+[[v61-1-9]]
+
+^<<v61-1-9,9>>^ não ignorando que a lei não foi feita para o justo, mas para os injustos e desobedientes, para os ímpios e pecadores, para os sacrílegos e profanadores, para os parricidas e matricidas, para os homicidas,
+
+[[v61-1-10]]
+
+^<<v61-1-10,10>>^ para os fornicadores, sodomitas, traficantes de homens, para os mentirosos e perjuros, e para tudo o que vai contra a sã doutrina. (ver nota)
+
+[[v61-1-11]]
+
+^<<v61-1-11,11>>^ Assim ensina o Evangelho da glória de Deus bem-aventurado, o qual me foi confiado.
+
+[[v61-1-12]]
+
+^<<v61-1-12,12>>^ Dou graças aquele que me confortou, a Jesus Cristo Nosso Senhor, porque me julgou fiel, pondo-me no ministério,
+
+[[v61-1-13]]
+
+^<<v61-1-13,13>>^ a mim que fui antes blasfemo, perseguidor e injuriador; alcancei, porém, a misericórdia de Deus, porque o fiz por ignorância, sendo ainda incrédulo.
+
+[[v61-1-14]]
+
+^<<v61-1-14,14>>^ A graça de Nosso Senhor superabundou com a fé e com a caridade, que há em Jesus Cristo.
+
+[[v61-1-15]]
+
+^<<v61-1-15,15>>^ Palavra segura e digna de toda aceitação é esta: Jesus Cristo veio a este mundo salvar os pecadores, dos quais sou o primeiro.
+
+[[v61-1-16]]
+
+^<<v61-1-16,16>>^ Mas alcancei misericórdia, para que em mim, sendo o primeiro, mostrasse Jesus Cristo toda a sua longanimidade, para exemplo dos que hão-de crer nele para (alcançar) a vida eterna.
+
+[[v61-1-17]]
+
+^<<v61-1-17,17>>^ Ao rei dos séculos imortal, invisível, ao Deus único, honra e glória pelos séculos dos séculos. Amém.
+
+[[v61-1-18]]
+
+^<<v61-1-18,18>>^ Tal é a recomendação que te faço, meu filho Timóteo, segundo as profecias feitas precedentemente a teu respeito, a fim de que, segundo elas, combatas o bom combate,
+
+[[v61-1-19]]
+
+^<<v61-1-19,19>>^ conservando a fé e a boa consciência. Por se terem afastado dela, alguns naufragaram na fé;
+
+[[v61-1-20]]
+
+^<<v61-1-20,20>>^ desse número são Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar. (ver nota)
+
+'''
+
+xref:060-ii-tessalonicenses/060-ii-tessalonicenses-003.adoc#v60-3-0[&#60; Capítulo Anterior] | <<v61-1-0,Topo>> | xref:061-i-timoteo/061-i-timoteo-002.adoc#v61-2-0[Próximo Capítulo &#62;]

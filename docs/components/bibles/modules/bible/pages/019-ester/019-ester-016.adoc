@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v19-16-0]]
+=== Ester, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 16:35 - "E dizei: Salva-nos, ó Deus da nossa salvação, e ajunta-nos, e livra-nos das nações, para que louvemos o teu santo nome e nos gloriemos no teu louvor."
+Este versículo fala sobre a salvação de Deus e o louvor que devemos dar a Ele por nos salvar. É uma referência ao reconhecimento daqueles que servem a Deus e que são salvos por Ele.
+* Provérbios 3:6 - "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+Este versículo fala sobre a importância de reconhecer a Deus em todas as nossas ações e decisões, confiando que Ele irá guiar nossos passos. Isso pode ser relacionado à fidelidade de Mardoqueu a Deus, mesmo em meio à adversidade.
+* Filipenses 2:3 - "Nada façais por contenda ou por vanglória, mas por humildade; cada um considere os outros superiores a si mesmo."
+Este versículo fala sobre a humildade e a importância de colocar os outros em primeiro lugar. Pode ser relacionado à atitude de Mardoqueu em colocar a segurança de seu povo acima de seus próprios interesses.
+* 1 Pedro 5:6 - "Humilhai-vos, pois, debaixo da potente mão de Deus, para que a seu tempo vos exalte;"
+Este versículo fala sobre a importância da humildade e submissão a Deus, confiando que Ele irá exaltar aqueles que são fiéis a Ele. Isso pode ser relacionado à atitude de Mardoqueu em confiar na justiça de Deus e esperar pacientemente pela sua providência.
+****
+
+[[v19-16-1]]
+
+^<<v19-16-1,1>>^ O grande Artaxerxes, rei desde a India até à Etiópia, aos sátrapas, aos governadores das cento e vinte e sete províncias, que estão sujeitas ao nosso império, saúde.
+
+[[v19-16-2]]
+
+^<<v19-16-2,2>>^ Muitos têm abusado da bondade dos príncipes, das honras que deles têm recebido, para se ensoberbecerem.
+
+[[v19-16-3]]
+
+^<<v19-16-3,3>>^ Não só procuram oprimir os vassalos dos reis, senão que, mal satisfeitos com a glória que receberam, armam traições contra os mesmos que lha deram.
+
+[[v19-16-4]]
+
+^<<v19-16-4,4>>^ E não se contentam com ser ingratos aos benefícios e com violar em si mesmos os direitos da humanidade, mas presumem também poder escapar ao juízo de Deus, que tudo vê.
+
+[[v19-16-5]]
+
+^<<v19-16-5,5>>^ Chegam a tal grau de loucura, que, com os artifícios da mentira, procuram arruinar aqueles que cumprem com exactidão os cargos, que lhes foram confiados, e que procedem em tudo de sorte que se tornam dignos do aplauso comum,
+
+[[v19-16-6]]
+
+^<<v19-16-6,6>>^ enganando com cautelosa sagacidade os ouvidos sinceros dos príncipes, inclinados a ter os outros em bom apreço.
+
+[[v19-16-7]]
+
+^<<v19-16-7,7>>^ Comprova-se não só com as histórias antigas, mas também com o que acontece todos os dias, de que modo as boas inclinações dos reis, se pervertem pelas más sugestões de alguns.
+
+[[v19-16-8]]
+
+^<<v19-16-8,8>>^ Por isso é preciso providenciar à paz de todas as províncias.
+
+[[v19-16-9]]
+
+^<<v19-16-9,9>>^ Mas não penseis que, se variamos as ordens, nasça isto da ligeireza ou inconstância do nosso ânimo, senão que acomodamos as nossas determinações à condição e necessidade dos tempos, como exige o bem da república.
+
+[[v19-16-10]]
+
+^<<v19-16-10,10>>^ Para que entendais melhor o que dizemos (sabei que) Aman, filho de Amadati, macedónio de sentimentos e de raça, alheio ao sangue dos Persas, o qual com a sua cueldade tem desacreditado a nossa piedade, sendo estrangeiro, foi acolhido por nós
+
+[[v19-16-11]]
+
+^<<v19-16-11,11>>^ e encontrou em nós tão grande humanidade, que era chamado nosso pai e venerado por todos como o segundo depois do rei.
+
+[[v19-16-12]]
+
+^<<v19-16-12,12>>^ Porém chegou a tal extremo de arrogância, que intentou privar-nos do reino e da vida.
+
+[[v19-16-13]]
+
+^<<v19-16-13,13>>^ Com efeito, com novos e inauditos artifícios, maquinou a morte de Mardoqueu, a cuja lealdade e beneficio devemos a vida, e também a de Ester, minha companheira no reino, com toda a sua nação,
+
+[[v19-16-14]]
+
+^<<v19-16-14,14>>^ tendo em vista, depois de os matar, armar ciladas ao nosso isolamento, e trasladar o reino dos Persas para os Macedónios.
+
+[[v19-16-15]]
+
+^<<v19-16-15,15>>^ Ora nós não encontramos a menor culpa nos Judeus, destinados à morte pelo pior dos homens, antes pelo contrário seguem leis justas
+
+[[v19-16-16]]
+
+^<<v19-16-16,16>>^ e são filhos do Deus Altíssimo, omnipotente, que vive para sempre, por cujo benefício foi dado o reino a nossos pais e a nós mesmos, e até ao dia de hoje nos é conservado.
+
+[[v19-16-17]]
+
+^<<v19-16-17,17>>^ Portanto sabei que são de nenhum valor as cartas que ele expediu em nosso nome.
+
+[[v19-16-18]]
+
+^<<v19-16-18,18>>^ Em castigo da sua maldade, ele, que a maquinou, e toda a sua casa foram postos em patíbulos às portas desta cidade de Susa, dando-lhe Deus, e não nós, o castigo que merecia.
+
+[[v19-16-19]]
+
+^<<v19-16-19,19>>^ Este edito, que agora enviamos, será afixado em todas as cidades, para que seja permitido aos Judeus guardar as suas leis.
+
+[[v19-16-20]]
+
+^<<v19-16-20,20>>^ Vós deveis prestar-lhes auxílio, para que no dia treze do mês duodécimo, que se chama Adar, possam dar a morte àqueles que estavam preparados para lha dar a eles.
+
+[[v19-16-21]]
+
+^<<v19-16-21,21>>^ O Deus Omnipotente trocou-lhes este dia de tristeza e luto em dia de alegria.
+
+[[v19-16-22]]
+
+^<<v19-16-22,22>>^ Por isso vós contai também este dia entre os outros dias festivos, celebrai-o com toda a alegria, para que se saiba também para o futuro
+
+[[v19-16-23]]
+
+^<<v19-16-23,23>>^ que todos os que obedecem fielmente aos Persas, recebem a recompensa digna da sua fidelidade, e que os que conspiram contra o seu reino, perecem pela sua culpa.
+
+[[v19-16-24]]
+
+^<<v19-16-24,24>>^ Toda a província ou cidade que não quiser ter parte nesta solenidade, pereça à espada e a fogo, e seja de tal maneira devastada que fique para sempre despovoada não só de homens, mas também de feras, para exemplo dos desprezadores e desobedientes (às ordens do rei).
+
+'''
+
+xref:019-ester/019-ester-015.adoc#v19-15-0[&#60; Capítulo Anterior] | <<v19-16-0,Topo>> | xref:020-jo/020-jo-001.adoc#v20-1-0[Próximo Capítulo &#62;]

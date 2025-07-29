@@ -1,0 +1,31 @@
+include::./index.adoc[]
+
+[[v21-133-0]]
+=== Salmos, 133
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 133 fala sobre a importância da unidade entre os irmãos e como essa união agrada ao Senhor. Os versículos escolhidos são:
+* Provérbios 6:16-19: "Seis coisas o SENHOR odeia, e a sétima a sua alma abomina: olhos altivos, língua mentirosa, mãos que derramam sangue inocente, coração que maquina projetos iníquos, pés que se apressam a correr para o mal, testemunha falsa que profere mentiras e o que semeia contendas entre irmãos." Esse versículo mostra que a falta de união e a sementeira de discórdia entre irmãos são abomináveis aos olhos de Deus.
+* Efésios 4:3: "esforçando-vos diligentemente por preservar a unidade do Espírito no vínculo da paz." Esse versículo destaca a importância da preservação da unidade no meio dos irmãos em Cristo, e que devemos nos esforçar para mantê-la.
+* 1 Coríntios 12:12: "Porque, assim como o corpo é um e tem muitos membros, e todos os membros, sendo muitos, constituem um só corpo, assim também com respeito a Cristo." Neste versículo, Paulo compara a unidade entre os irmãos à unidade do corpo, mostrando que todos os membros são importantes e indispensáveis para o funcionamento do todo.
+* João 17:21: "para que todos sejam um; assim como Tu, ó Pai, és em mim, e eu em Ti, que também sejam um em nós, para que o mundo creia que Tu me enviaste." Nesse trecho, Jesus ora para que seus seguidores sejam um, assim como ele é um com o Pai, para que o mundo creia nele.
+* Colossenses 3:13-14: "suportando-vos e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como o Senhor vos perdoou, assim também fazei vós; e, acima de tudo isto, revesti-vos do amor, que é o vínculo da perfeição." Esse versículo destaca a importância do perdão e do amor entre os irmãos, fundamentais para manter a união e a paz no meio da comunidade cristã.
+****
+
+[[v21-133-1]]
+
+^<<v21-133-1,1>>^ Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas nocturnas.
+
+[[v21-133-2]]
+
+^<<v21-133-2,2>>^ Levantai as vossas mãos para o santuário, e bendizei ao Senhor.
+
+[[v21-133-3]]
+
+^<<v21-133-3,3>>^ Abençoe-te de Sião o Senhor, que fez o céu e a terra.
+
+'''
+
+xref:021-salmos/021-salmos-132.adoc#v21-132-0[&#60; Capítulo Anterior] | <<v21-133-0,Topo>> | xref:021-salmos/021-salmos-134.adoc#v21-134-0[Próximo Capítulo &#62;]

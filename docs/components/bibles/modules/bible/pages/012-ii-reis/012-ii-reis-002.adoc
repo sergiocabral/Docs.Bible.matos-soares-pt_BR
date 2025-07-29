@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v12-2-0]]
+=== II Reis, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Reis 2 relata a ascensão de Elias ao céu em um redemoinho de fogo e a sucessão profética de Eliseu. Elias é levado por um carro de fogo e Eliseu herda o manto de Elias como seu sucessor profético. Aqui estão cinco versículos relacionados aos temas abordados em 2 Reis 2:
+* Êxodo 13:21: "E o Senhor ia adiante deles, de dia numa coluna de nuvem para os guiar pelo caminho, e de noite numa coluna de fogo para os iluminar, para que caminhassem de dia e de noite." Este versículo lembra a manifestação de Deus em uma coluna de nuvem e fogo, semelhante ao redemoinho de fogo que levou Elias, sugerindo a presença e proteção divina.
+* 2 Reis 1:10: "Respondeu Elias, dizendo ao capitão de cinquenta: Se eu sou homem de Deus, desça fogo do céu e o devore a ti e aos teus cinquenta. Então desceu fogo do céu e o devorou a ele e aos seus cinquenta." Este versículo destaca o poder de Elias como profeta de Deus, que é capaz de invocar fogo do céu para proteger sua autoridade divina.
+* 2 Reis 4:14: "Então ele disse: Que faremos por ela? Respondeu Geazi: Na verdade ela não tem filho, e seu marido é velho." Este versículo introduz a história de uma mulher que hospeda Eliseu e sua conexão com o tema da sucessão profética, já que ela é recompensada com um filho por hospedar o profeta e, posteriormente, busca ajuda de Eliseu quando o filho adoece.
+* 2 Reis 13:14: "E Eliseu estava doente da enfermidade de que morreu; e veio a ele Joás, rei de Israel, e chorou sobre o seu rosto, dizendo: Meu pai, meu pai! o carro de Israel, e seus cavaleiros!" Este versículo registra a morte de Eliseu e sua importância como um profeta para Israel, chamando-o de "carro de Israel" e evidenciando seu papel como uma figura significativa para o rei Joás.
+* 1 Reis 19:19: "E partindo dali, achou Eliseu, filho de Safate, que lavrava com doze juntas de bois adiante dele, e ele estava com a duodécima; e Elias passou por ele e lançou sobre ele a sua capa." Este versículo conta como Elias encontrou Eliseu e o escolheu como seu sucessor profético, preparando o terreno para a sucessão profética que ocorre em 2 Reis 2.
+****
+
+[[v12-2-1]]
+
+^<<v12-2-1,1>>^ Quando o Senhor quis arrebatar Elias ao céu num remoinho (de fogo), Elias e Eliseu partiram de Galgala.
+
+[[v12-2-2]]
+
+^<<v12-2-2,2>>^ Elias disse a Eliseu: Fica aqui, porque o Senhor me mandou a Betel. Eliseu respondeu-lhe: Viva o Senhor e viva a tua alma, que não te deixarei. Indo para Betel,
+
+[[v12-2-3]]
+
+^<<v12-2-3,3>>^ saíram os filhos dos profetas, que estavam em Betel, a receber Eliseu, e disseram-lhe: Porventura sabes tu que o Senhor te há-de levar hoje o teu amo? Ele respondeu: Eu também o sei; calai-vos.
+
+[[v12-2-4]]
+
+^<<v12-2-4,4>>^ Disse Elias a Eliseu: Fica aqui, porque o Senhor me mandou a Jericó. Ele respondeu: Viva o Senhor e viva a tua alma, que não te deixarei. Tendo chegado a Jericó,
+
+[[v12-2-5]]
+
+^<<v12-2-5,5>>^ foram os filhos dos profetas, que estavam em Jericó, ter com Eliseu, e disseram-lhe: Porventura sabes tu que o Senhor te há-de tirar hoje o teu amo? Ele disse-lhes: Eu também o sei; calai-vos.
+
+[[v12-2-6]]
+
+^<<v12-2-6,6>>^ Disse-lhe novamente Elias: Fica aqui, porque o Senhor me mandou até ao Jordão. Ele respondeu: Viva o Senhor e viva a tua alma, que não te deixarei. Foram, pois, ambos juntos,
+
+[[v12-2-7]]
+
+^<<v12-2-7,7>>^ e cinqüenta dos filhos dos profetas os seguiram. Pararam defronte deles, ao longe, e eles ambos puseram-se à borda do Jordão.
+
+[[v12-2-8]]
+
+^<<v12-2-8,8>>^ Elias tomou a sua capa, dobrou-a, e feriu as águas, as quais se dividiram para as duas bandas, de modo que passaram ambos a pé enxuto.
+
+[[v12-2-9]]
+
+^<<v12-2-9,9>>^ Tendo passado, disse Elias a Eliseu: Pede-me o que queres que eu te alcance, antes que eu seja arrebatado de ti. Eliseu respondeu: Seja-me concedida uma porção dobrada do teu espirito.
+
+[[v12-2-10]]
+
+^<<v12-2-10,10>>^ Elias respondeu: Dificultosa coisa pediste; todavia, se tu me vires quando me arrebatarem de ti, (isto é o sinal de que) terás o que pediste; mas, se não me vires, não o terás.
+
+[[v12-2-11]]
+
+^<<v12-2-11,11>>^ Continuando o seu caminho, entretidos a conversar, eis que um carro de fogo e uns cavalos de fogo os separaram um do outro, e Elias subiu ao céu no meio dum remoinho.
+
+[[v12-2-12]]
+
+^<<v12-2-12,12>>^ Eliseu o via e clamava: Meu pai, meu pai! Carro de Israel e seu condutor! Depois não o viu mais. Tomando então as suas vestes, rasgou-as em duas partes (sinal de dor),
+
+[[v12-2-13]]
+
+^<<v12-2-13,13>>^ e levantou do chão a capa que Elias lhe tinha deixado cair. Voltando, parou à borda do Jordão
+
+[[v12-2-14]]
+
+^<<v12-2-14,14>>^ e, pegando na capa que Elias lhe tinha deixado cair, feriu as águas, dizendo: Onde está agora o Senhor, o Deus de Elias? Quando feriu as águas, elas dividiram-se para uma e para outra parte, e Eliseu passou.
+
+[[v12-2-15]]
+
+^<<v12-2-15,15>>^ Vendo isto, os filhos dos profetas, que estavam em Jericó, na margem oposta, disseram: O espírito de Elias repousou sobre Eliseu. Saindo ao seu encontro, prostraram-se por terra a seus pés, com profundo respeito,
+
+[[v12-2-16]]
+
+^<<v12-2-16,16>>^ e disseram-lhe: Sabe que entre os teus servos há cinqüenta homens fortes, que podem ir buscar o teu amo, porque talvez o espirito do Senhor o levasse, e atirasse com ele para algum monte ou para algum vale. Eliseu respondeu: Não mandeis.
+
+[[v12-2-17]]
+
+^<<v12-2-17,17>>^ Eles, porém, constrangeram-no, até que condescendeu e disse: Mandai. Mandaram, pois, cinquenta homens, os quais, tendo-o buscado durante três dias, não o encontraram.
+
+[[v12-2-18]]
+
+^<<v12-2-18,18>>^ Quando voltaram para Eliseu, que estava em Jericó, ele disse-lhe: Não vos disse eu: Não mandeis?
+
+[[v12-2-19]]
+
+^<<v12-2-19,19>>^ Disseram a Eliseu os habitantes desta cidade: A habitação desta cidade é muito boa como tu mesmo. Senhor, vês, mas as águas são más e a terra estéril.
+
+[[v12-2-20]]
+
+^<<v12-2-20,20>>^ Ele respondeu: Trazei-me um vaso novo e deitai-lhe sal. Tendo-lho trazido,
+
+[[v12-2-21]]
+
+^<<v12-2-21,21>>^ saiu ele à fonte das águas, deitou sal nelas e disse: Eis o que diz o Senhor: Eu sarei estas águas, e elas não causarão mais nem morte nem esterilidade.
+
+[[v12-2-22]]
+
+^<<v12-2-22,22>>^ Tornaram-se, pois, sadias aquelas águas até ao dia de hoje, conforme a palavra que Eliseu disse.
+
+[[v12-2-23]]
+
+^<<v12-2-23,23>>^ Dali foi para Betel, e, indo pelo caminho, uns rapazes pequenos saíram da cidade e zombavam dele, dizendo: Sobe, ó calvo, sobe, ó calvo!
+
+[[v12-2-24]]
+
+^<<v12-2-24,24>>^ Eliseu, virando-se para eles, olhou-os e amaldiçoou-os em nome do Senhor. Imediatamente saíram dois ursos do bosque, e despedaçaram quarenta e dois daqueles rapazes.
+
+[[v12-2-25]]
+
+^<<v12-2-25,25>>^ Dali retirou-se para o monte Carmelo, e de lá voltou para Samaria.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-001.adoc#v12-1-0[&#60; Capítulo Anterior] | <<v12-2-0,Topo>> | xref:012-ii-reis/012-ii-reis-003.adoc#v12-3-0[Próximo Capítulo &#62;]

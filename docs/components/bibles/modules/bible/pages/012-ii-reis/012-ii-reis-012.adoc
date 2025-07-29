@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v12-12-0]]
+=== II Reis, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Descobrimos em 2 Reis 12 que o sumo sacerdote Joiada convocou os sacerdotes para arrecadar dinheiro do povo e consertar o templo do Senhor, que estava em estado de deterioração. Abaixo estão cinco versículos bíblicos relacionados aos temas abordados neste capítulo:
+* Deuteronômio 15:10: "Certamente, lhe darás, e não será mau grado no teu coração, quando lhe deres; pois, por isso, te abençoará o Senhor, teu Deus, em toda a tua obra e em tudo o que empreenderes." Esse versículo destaca a importância de ser generoso e ajudar os outros sem relutância, o que se relaciona com o espírito de contribuição para a reforma do templo que é apresentado em 2 Reis 12.
+* Provérbios 3:9-10: "Honra ao Senhor com os teus bens e com as primícias de toda a tua renda; e se encherão fartamente os teus celeiros, e transbordarão de vinho os teus lagares." Esse versículo destaca a importância de honrar o Senhor com as nossas riquezas e ofertas. Essa atitude é ilustrada em 2 Reis 12, onde o dinheiro arrecadado é usado para o conserto do templo.
+* 1 Coríntios 16:2: "No primeiro dia da semana, cada um de vós ponha de parte o que puder ajuntar, conforme a sua prosperidade, para que não se façam coletas quando eu chegar." Esse versículo destaca a importância de planejar nossas ofertas e contribuições com antecedência. Em 2 Reis 12, vemos um exemplo dessa prática quando o sumo sacerdote convoca os sacerdotes para arrecadar dinheiro para o templo.
+* Malaquias 3:10: "Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa; e provai-me nisto, diz o Senhor dos Exércitos, se eu não vos abrir as janelas do céu e não derramar sobre vós bênção sem medida." Esse versículo destaca a importância de trazer nossos dízimos e ofertas para a casa do Senhor. Isso se relaciona com o esforço de Joiada para arrecadar dinheiro e consertar o templo em 2 Reis 12.
+* 2 Coríntios 9:7: "Cada um contribua segundo propôs no seu coração, não com tristeza ou por necessidade; porque Deus ama ao que dá com alegria." Esse versículo destaca a importância de dar com alegria e gratidão. Isso se relaciona com o espírito de generosidade e gratidão que é apresentado em 2 Reis 12, quando o povo contribui para o conserto do templo.
+****
+
+[[v12-12-1]]
+
+^<<v12-12-1,1>>^ No sétimo ano de Jeú, Joás começou a reinar, e reinou quarenta anos em Jerusalém. Sua mãe chamava-se Sebia, de Bersabé.
+
+[[v12-12-2]]
+
+^<<v12-12-2,2>>^ Joás procedeu rectamente diante do Senhor durante todo o tempo que foi dirigido pelo pontífice Jojada.
+
+[[v12-12-3]]
+
+^<<v12-12-3,3>>^ Todavia não tirou os lugares altos, e o povo ainda sacrificava e oferecia incenso nos lugares altos, (o que era contra as prescrições da lei).
+
+[[v12-12-4]]
+
+^<<v12-12-4,4>>^ Joás disse aos sacerdotes: Todo o dinheiro das coisas consagradas, que for oferecido no templo do Senhor pelos que passam, assim como o que se oferece, pelo resgate da pessoa, e o que espontaneamente e ao arbítrio do seu coração trazem ao templo do Senhor,
+
+[[v12-12-5]]
+
+^<<v12-12-5,5>>^ os sacerdotes recebam-no segundo a sua ordem, e façam os reparos na casa do Senhor, se virem que alguma coisa necessita de reparação.
+
+[[v12-12-6]]
+
+^<<v12-12-6,6>>^ Ora até ao ano vigésimo terceiro do rei Joás, os sacerdotes não fizeram reparos alguns no templo.
+
+[[v12-12-7]]
+
+^<<v12-12-7,7>>^ O rei chamou o pontífice Jojada e os sacerdotes, e disse-lhes: Por que não fazeis vós os reparos no templo? Não recebais mais o dinheiro segundo a ordem do vosso ministério, mas entregai-o para os reparos do templo.
+
+[[v12-12-8]]
+
+^<<v12-12-8,8>>^ E os sacerdotes consentiram em não receber mais dinheiro do povo para fazer os reparos da casa.
+
+[[v12-12-9]]
+
+^<<v12-12-9,9>>^ O pontífice Jojada pegou num cofre, mandou-lhe abrir um buraco por cima, e pô-lo junto do altar, à mão direita dos que entravam na casa do Senhor: os sacerdotes, que guardavam as portas, deitavam nele todo o dinheiro que era levado ao templo do Senhor.
+
+[[v12-12-10]]
+
+^<<v12-12-10,10>>^ Quando viam que havia muito dinheiro no cofre, vinham o secretário do rei e o pontífice despejar e contar o dinheiro que se encontrava na casa do Senhor.
+
+[[v12-12-11]]
+
+^<<v12-12-11,11>>^ Depositavam-no por conta e por peso nas mãos dos que presidiam aos que trabalhavam na fábrica da casa do Senhor, os quais pagavam com ele aos carpinteiros e a outros operários que trabalhavam na casa do Senhor,
+
+[[v12-12-12]]
+
+^<<v12-12-12,12>>^ aos pedreiros e canteiros, e com ele compravam também as madeiras e as pedras que se lavravam, de maneira que se completasse o reparo da casa do Senhor, em todas as partes que exigiam despesa para se consolidar a casa.
+
+[[v12-12-13]]
+
+^<<v12-12-13,13>>^ Não se faziam, porém, deste dinheiro, que era trazido ao templo do Senhor, nem as talhas do templo do Senhor, nem os garfos, nem os turíbulos, nem as trombetas, nem vaso algum de ouro ou prata,
+
+[[v12-12-14]]
+
+^<<v12-12-14,14>>^ porque era (todo) dado aos que trabalhavam em restaurar o templo do Senhor;
+
+[[v12-12-15]]
+
+^<<v12-12-15,15>>^ não se tomavam contas aos homens que recebiam o dinheiro para o distribuir pelos trabalhadores, mas eles o empregavam com fidelidade.
+
+[[v12-12-16]]
+
+^<<v12-12-16,16>>^ É de notar que não metiam no templo do Senhor o dinheiro (oferecido) pelo delito ou pelo pecado, porque era dos sacerdotes.
+
+[[v12-12-17]]
+
+^<<v12-12-17,17>>^ Naquele tempo Hazael, rei da Síria, subiu a combater contra Get e tomou-a; depois voltou a face para marchar contra Jerusalém.
+
+[[v12-12-18]]
+
+^<<v12-12-18,18>>^ Por este motivo Joás, rei de Judá, tomou todas as oferendas sagradas, que tinham consagrado Josafat, Jorão e Ocozias, reis de Judá, seus pais, e as que ele mesmo tinha oferecido, bem como todo o dinheiro que se pôde achar nos tesouros do templo do Senhor e no palácio do rei, e mandou-o a Hazael, rei da Síria, o qual desistiu de ir a Jerusalém.
+
+[[v12-12-19]]
+
+^<<v12-12-19,19>>^ Quanto ao resto das acções de Joás, a tudo o que ele fez, não estão todas estas coisas escritas no livro das Crônicas dos reis de Judá?
+
+[[v12-12-20]]
+
+^<<v12-12-20,20>>^ Os servos de Joás levantaram-se, fizeram uma conspiração entre si e mataram Joás, na casa de Melo, na descida de Sela.
+
+[[v12-12-21]]
+
+^<<v12-12-21,21>>^ Josacar, filho de Semaat, e Jozabad, filho de Somer, seus servos, feriram-no, e ele morreu. Sepultaram-no com seus pais na cidade de Davide. Amasias, seu filho, reinou em seu lugar.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-011.adoc#v12-11-0[&#60; Capítulo Anterior] | <<v12-12-0,Topo>> | xref:012-ii-reis/012-ii-reis-013.adoc#v12-13-0[Próximo Capítulo &#62;]

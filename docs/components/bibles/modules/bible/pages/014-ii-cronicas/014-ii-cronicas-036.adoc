@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v14-36-0]]
+=== II Crônicas, 36
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 36 de 2 Crônicas narra o fim do reino de Judá e a queda de Jerusalém para a Babilônia, cumprindo as profecias de Deus sobre a punição do povo por sua desobediência. Entre os temas abordados, destacam-se a desobediência do povo, a liderança negligente dos reis, a destruição de Jerusalém e a esperança de restauração futura. A seguir, cinco versículos relacionados com esses temas:
+* Jeremias 25:11-12: "Toda esta terra será reduzida a deserto e objeto de zombaria, e estas nações servirão ao rei da Babilônia durante setenta anos. Mas, quando se completarem os setenta anos, castigarei o rei da Babilônia e sua nação, por causa de seus pecados, e farei da terra dos caldeus um deserto perpétuo." Este versículo antecipa a queda da Babilônia após setenta anos e mostra que Deus usou a nação para punir Judá por seus pecados.
+* 2 Reis 24:10-11: "Naquele tempo subiram contra Jerusalém os servos de Nabucodonosor, rei da Babilônia, e a cidade foi cercada. Nabucodonosor veio também pessoalmente à cidade enquanto seus servos a sitiavam." Este versículo descreve o cerco de Jerusalém pela Babilônia e a presença do rei Nabucodonosor durante o ataque.
+* Jeremias 39:2: "No décimo dia do quarto mês do ano décimo primeiro do reinado de Zedequias, entraram na cidade os oficiais do rei da Babilônia e a ocuparam." Este versículo mostra o momento em que Jerusalém foi tomada pela Babilônia e a cidade foi destruída.
+* Lamentações 2:9: "Seus portões caíram por terra; seus ferrolhos foram quebrados e destruídos. Seus reis e seus príncipes estão exilados entre as nações, sem encontrar lei nem profeta. As visões dos profetas não passam de farsas vazias." Este versículo descreve a destruição de Jerusalém e a falta de liderança e orientação espiritual do povo.
+* Esdras 1:1-2: "No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a palavra do Senhor dita pela boca de Jeremias, o Senhor inspirou Ciro, rei da Pérsia, a fazer esta proclamação por escrito em todo o seu reino: ‘Assim fala Ciro, rei da Pérsia: O Senhor, o Deus do céu, entregou-me todos os reinos da terra e encarregou-me de construir um templo para ele em Jerusalém, que fica em Judá." Este versículo traz a esperança de restauração e reconstrução do templo de Jerusalém após o exílio na Babilônia, cumprindo as profecias de Jeremias e mostrando a fidelidade de Deus em cumprir suas promessas.
+****
+
+[[v14-36-1]]
+
+^<<v14-36-1,1>>^ Então o povo da terra tomou Joacaz, filho de Josias, e constituiu-o rei de Jerusalém, em lugar de seu pai.
+
+[[v14-36-2]]
+
+^<<v14-36-2,2>>^ Joacaz tinha vinte e três anos, quando começou a reinar, e reinou em Jerusalém três meses,
+
+[[v14-36-3]]
+
+^<<v14-36-3,3>>^ porque o rei do Egito, tendo ido a Jerusalém, o depôs, condenando o país à contribuição de cem talentos de prata e de um talento de ouro.
+
+[[v14-36-4]]
+
+^<<v14-36-4,4>>^ Em lugar de Joacaz constituiu Eliaquim, seu irmão, rei sobre Judá e sobre Jerusalém, mudando-lhe o nome para Joaquim. Tomou Joacaz e levou-o consigo para o Egito.
+
+[[v14-36-5]]
+
+^<<v14-36-5,5>>^ Joaquim tinha vinte e cinco anos, quando começou a reinar, e reinou onze anos em Jerusalém. Fez o mal diante do Senhor seu Deus.
+
+[[v14-36-6]]
+
+^<<v14-36-6,6>>^ Contra ele marchou Nabucodonosor, rei dos Caldeus, que o prendeu com uma dupla cadeia de bronze e levou para Babilônia.
+
+[[v14-36-7]]
+
+^<<v14-36-7,7>>^ Transportou também para esta cidade os vasos do Senhor e colocou-os no seu palácio de Babilônia.
+
+[[v14-36-8]]
+
+^<<v14-36-8,8>>^ O resto das ações de Joaquim, das abominações que cometeu, que foram encontradas nele, estão contidas no livro dos reis de Judá e de Israel. Em seu lugar reinou seu filho Joaquin.
+
+[[v14-36-9]]
+
+^<<v14-36-9,9>>^ Joaquin tinha oito anos, guando começou a reinar, e reinou três meses e dez dias em Jerusalém. Fez o mal na presença do Senhor.
+
+[[v14-36-10]]
+
+^<<v14-36-10,10>>^ Tendo decorrido o espaço dum ano, o rei Nabucodonosor mandou tropas que o conduziram a Babilônia, levando juntamente os mais preciosos vasos da casa do Senhor. (Em lugar de Joaquin) constituiu rei sobre Judá e sobre Jerusalém a Sedecias, seu tio paterno.
+
+[[v14-36-11]]
+
+^<<v14-36-11,11>>^ Sedecias tinha vinte e um anos, quando começou a reinar, e reinou onze anos em Jerusalém.
+
+[[v14-36-12]]
+
+^<<v14-36-12,12>>^ Fez o mal diante dos olhos do Senhor seu Deus, e não respeitou a pessoa do profeta Jeremias, que lhe falava da parte do Senhor.
+
+[[v14-36-13]]
+
+^<<v14-36-13,13>>^ Sublevou-se também contra o rei Nabucodonosor, a quem tinha dado juramento (de fidelidade) em nome de Deus; endureceu a sua cerviz e o seu coração para não se converter ao Senhor Deus de Israel.
+
+[[v14-36-14]]
+
+^<<v14-36-14,14>>^ Também todos os príncipes dos sacerdotes e o povo se entregaram a todas as abominações dos gentios e profanaram a casa do Senhor, que ele tinha santificado para si em Jerusalém.
+
+[[v14-36-15]]
+
+^<<v14-36-15,15>>^ o Senhor Deus de seus pais dirigia-lhes frequentemente a sua palavra por meio dos seus enviados, admoestando-os constantemente, porque queria perdoar ao seu povo e à sua casa,
+
+[[v14-36-16]]
+
+^<<v14-36-16,16>>^ mas eles zombavam dos enviados de Deus, desprezavam as suas palavras, escarneciam dos seus profetas, até que o furor do Senhor se levantou contra o seu povo, e não houve mais remédio.
+
+[[v14-36-17]]
+
+^<<v14-36-17,17>>^ Então Deus fez vir contra eles o rei dos Caldeus, que degolou seus filhos na casa do seu santuário, não tendo piedade nem do jovem, nem da donzela, nem do velho, nem do decrépito. Deus entregou-lhos todos nas suas mãos.
+
+[[v14-36-18]]
+
+^<<v14-36-18,18>>^ Nabucodonosor levou para Babilônia todos os vasos da casa do Senhor, tanto os grandes como os pequenos, os tesouros do templo, os do rei e dos príncipes.
+
+[[v14-36-19]]
+
+^<<v14-36-19,19>>^ Os inimigos incendiaram a casa de Deus, arruinaram os muros de Jerusalém, puseram fogo a todas as torres e destruíram tudo o que havia de precioso.
+
+[[v14-36-20]]
+
+^<<v14-36-20,20>>^ Se alguém tinha escapado da espada, esse, levado a Babilônia, tornou-se escravo do rei e de seus filhos, até que teve início do império o rei dos Persas,
+
+[[v14-36-21]]
+
+^<<v14-36-21,21>>^ para se cumprir a palavra do Senhor pronunciada por boca de Jeremias: Até que a terra celebrou os seus sábados - porque, durante todo o tempo da sua desolação, ela esteve num sábado (ou descanso) contínuo, até que se completaram setenta anos.
+
+[[v14-36-22]]
+
+^<<v14-36-22,22>>^ No primeiro ano de Ciro, rei dos Persas, para se cumprirem as palavras que o Senhor tinha dito por boca de Jeremias, o Senhor tocou o coração de Ciro, rei dos Persas, o qual mandou fazer, por todo o reino, de viva voz e também por escrito, esta proclamação:
+
+[[v14-36-23]]
+
+^<<v14-36-23,23>>^ Eis o que diz Ciro, rei dos Persas: O Senhor Deus do céu pôs nas minhas mãos todos os reinos da terra, e mandou-me que lhe fizesse uma casa em Jerusalém, que está na Judeia. Quem dentre vós pertence ao seu povo? O Senhor seu Deus seja com ele, e vá (para a sua terra).
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-035.adoc#v14-35-0[&#60; Capítulo Anterior] | <<v14-36-0,Topo>> | xref:015-esdras/015-esdras-001.adoc#v15-1-0[Próximo Capítulo &#62;]

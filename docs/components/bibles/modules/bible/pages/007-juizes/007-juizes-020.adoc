@@ -1,0 +1,211 @@
+include::./index.adoc[]
+
+[[v7-20-0]]
+=== Juízes, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 20 de Juízes trata do conflito entre as tribos de Israel e a tribo de Benjamim, que havia protegido um grupo de homens que cometeram um crime terrível contra uma mulher. As tribos de Israel queriam que Benjamim entregasse os culpados, mas eles se recusaram, levando a uma guerra civil. Aqui estão cinco versículos relacionados com os temas abordados em Juízes 20:
+* Deuteronômio 13:12-14: "Se, ouvindo alguém de tuas cidades, que o SENHOR teu Deus te deu para habitar nelas, que se diz: Homens, filhos de Belial, saíram do meio de ti, e afastaram os habitantes da sua cidade, dizendo: Vamos e sirvamos a outros deuses que não conhecestes; então, inquirirás, e investigarás, e interrogarás bem; e eis que, sendo certo que tal abominação se fez no meio de ti" Este versículo fala sobre como lidar com aqueles que cometem pecados graves e afastam as pessoas de Deus.
+* Provérbios 11:14: "Onde não há conselho os planos se dispersam, mas havendo muitos conselheiros eles se estabelecem." Este versículo enfatiza a importância de buscar o conselho de outros em questões importantes.
+* Salmos 27:1: "O SENHOR é a minha luz e a minha salvação; de quem terei medo? O SENHOR é a força da minha vida; de quem me recearei?" Este salmo fala sobre a confiança em Deus em momentos de medo e incerteza.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez do espírito precede a queda." Este versículo alerta sobre os perigos da arrogância e do orgulho.
+* Isaías 1:18: "Vinde então, e argui-me, diz o SENHOR: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, tornar-se-ão como a branca lã." Este versículo fala sobre o perdão que Deus oferece aos pecadores que se arrependem e se voltam para ele.
+****
+
+[[v7-20-1]]
+
+^<<v7-20-1,1>>^ Saíram pois todos os filhos de Israel, e juntaram-se como um só homem na presença do Senhor em Masfa, desde Dan a Rersabée, e até à terra de Galaad;
+
+[[v7-20-2]]
+
+^<<v7-20-2,2>>^ todos os chefes do povo e todas as tribos de Israel acudiram à assembleia do povo de Deus, em número de quatrocentos mil combatentes a pé.
+
+[[v7-20-3]]
+
+^<<v7-20-3,3>>^ Os filhos de Benjamim não ignoraram que os filhos de Israel tinham subido a Masfa. O Levita, marido da mulher (que fora) morta, foi interrogado de que modo tinha sido cometido tão grande crime.
+
+[[v7-20-4]]
+
+^<<v7-20-4,4>>^ Respondeu: Eu cheguei a Gabaa de Benjamim, com minha mulher, para ali passar a noite.
+
+[[v7-20-5]]
+
+^<<v7-20-5,5>>^ Os homens daquela cidade cercaram de noite a casa, onde eu estava, querendo matar-me; ultrajaram minha mulher com um incrível furor de lascívia; por último ela morreu.
+
+[[v7-20-6]]
+
+^<<v7-20-6,6>>^ Eu, tomando-a, a dividi em pedaços, que enviei repartidos a todos os confins da vossa possessão, porque nunca se cometeu tão grande maldade, nem crime tão abominável em Israel.
+
+[[v7-20-7]]
+
+^<<v7-20-7,7>>^ Vós todos, ó filhos de Israel, estais aqui presentes; resolvei o que deveis fazer.
+
+[[v7-20-8]]
+
+^<<v7-20-8,8>>^ Todo o povo, estando em pé, respondeu, como com a voz dum só homem: Não voltaremos às nossas tendas, ninguém entrará em sua casa.
+
+[[v7-20-9]]
+
+^<<v7-20-9,9>>^ De comum acordo faremos isto contra Gabaa;
+
+[[v7-20-10]]
+
+^<<v7-20-10,10>>^ escolham-se dentre todas as tribos de Israel dez homens por cada cento, cem por cada mil, e mil por cada dez mil, para que levem víveres ao exército, e possamos combater contra Gabaa de Benjamim, dando-lhe pelo crime a recompensa que merece.
+
+[[v7-20-11]]
+
+^<<v7-20-11,11>>^ Assim se coligou contra esta cidade todo o Israel, como (se fora) um só homem, com o mesmo espírito e a mesma resolução.
+
+[[v7-20-12]]
+
+^<<v7-20-12,12>>^ Mandaram mensageiros a toda a tribo de Benjamim, para que lhe dissessem: Por que se cometeu entre vós tão detestável maldade?
+
+[[v7-20-13]]
+
+^<<v7-20-13,13>>^ Entregai-nos os homens de Gabaa, que cometeram esta atrocidade, para que morram e, assim, se tire o mal de Israel. Porém os Benjamitas não quiseram dar ouvidos à embaixada de seus irmãos, os filhos de Israel,
+
+[[v7-20-14]]
+
+^<<v7-20-14,14>>^ mas juntaram-se em Gabaa de todas as cidades pertencentes à sua tribo, para lhes darem auxílio, e combaterem contra todo o povo de Israel.
+
+[[v7-20-15]]
+
+^<<v7-20-15,15>>^ E acharam-se da tribo de Benjamim vinte e cinco mil aptos para trazer espada, afora os habitantes de Gabaa,
+
+[[v7-20-16]]
+
+^<<v7-20-16,16>>^ que eram setecentos homens fortíssimos, que combatiam tanto com a esquerda como com a direita; e eram tão destros em atirar pedras com a funda, que poderiam acertar num cabelo, sem errar o alvo.
+
+[[v7-20-17]]
+
+^<<v7-20-17,17>>^ Dos homens de Israel, afora os filhos de Benjamim, contaram-se quatrocentos mil homens de armas, prontos para combater.
+
+[[v7-20-18]]
+
+^<<v7-20-18,18>>^ (Os filhos de Israel), levantando-se, foram à casa de Deus, isto é, a Silo, e consultaram o Senhor: Quem há-de ser no nosso exército o general da batalha contra os filhos de Benjamim? O Senhor respondeu-lhes: (Da tribo de) Judá seja o vosso general.
+
+[[v7-20-19]]
+
+^<<v7-20-19,19>>^ Logo os filhos de Israel, marchando ao amanhecer, acamparam junto de Gabaa.
+
+[[v7-20-20]]
+
+^<<v7-20-20,20>>^ Avançando a combater contra Benjamim, começaram a situar a cidade.
+
+[[v7-20-21]]
+
+^<<v7-20-21,21>>^ Então os filhos de Benjamim, tendo saído de Gabaa, mataram naquele dia vinte e dois mil homens dos filhos de Israel. (ver nota)
+
+[[v7-20-22]]
+
+^<<v7-20-22,22>>^ Os filhos de Israel, confiando nas suas forças e no seu número, puseram-se novamente em batalha no mesmo lugar, onde primeiro tinham combatido.
+
+[[v7-20-23]]
+
+^<<v7-20-23,23>>^ Antes, porém, subiram e foram chorar até a noite diante do Senhor, e consultaram-no, dizendo: Devemos continuar ainda a pelejar contra os filhos de Benjamin, nossos irmãos, ou não? O Senhor respondeu-lhes: Ide contra eles.
+
+[[v7-20-24]]
+
+^<<v7-20-24,24>>^ Ao outro dia, tendo marchado os filhos de Israel para combater contra os filhos de Benjamim,
+
+[[v7-20-25]]
+
+^<<v7-20-25,25>>^ os filhos de Benjamim saíram com ímpeto das portas de Gabaa ao seu encontro, e fizeram neles tão grande mortandade, que derrubaram dezoito mil guerreiros.
+
+[[v7-20-26]]
+
+^<<v7-20-26,26>>^ Pelo que todos os filhos de Israel foram à casa de Deus e, sentados, choravam diante do Senhor; jejuaram aquele dia, até à tarde, ofereceram-lhe holocaustos e vitimas pacíficas,
+
+[[v7-20-27]]
+
+^<<v7-20-27,27>>^ e consultaram-no. Naquele tempo a arca da aliança de Deus estava lá,
+
+[[v7-20-28]]
+
+^<<v7-20-28,28>>^ e Finéas, filho de Eleázaro, filho de Aarão, presidia à casa (de Deus). Consultaram pois o Senhor: Devemos ainda sair a combater contra os filhos de Benjamim, nossos irmãos, ou desistir? O Senhor disse-lhes: Saí, porque amanhã eu os entregarei nas vossas mãos.
+
+[[v7-20-29]]
+
+^<<v7-20-29,29>>^ Os filhos de Israel puseram emboscadas à roda da cidade de Gabaa,
+
+[[v7-20-30]]
+
+^<<v7-20-30,30>>^ e, terceira vez, como da primeira e segunda, fizeram avançar o seu exército contra Benjamim.
+
+[[v7-20-31]]
+
+^<<v7-20-31,31>>^ Os filhos de Benjamim sairam também ousadamente da cidade e perseguiram por longo espaço os seus inimigos que (propositadamente) fugiam ; desta sorte feriram alguns deles, como no primeiro e segundo dia, e mataram e deixaram estendidos por terra uns trinta homens que fugiam por duas estradas, uma das quais ia a Betel, e outra a Gabaa.
+
+[[v7-20-32]]
+
+^<<v7-20-32,32>>^ Os filhos de Benjamim julgavam derrotá-los como de costume. Todavia eles, fingindo com arte a fuga, tiveram em mira afastá-los da cidade e levá-los com simulada fuga às sobreditas estradas.
+
+[[v7-20-33]]
+
+^<<v7-20-33,33>>^ Então, saindo todos os filhos de Israel dos seus postos, ordenaram-se em batalha no lugar chamado Baaltamar. Também os que estavam emboscados ao redor da cidade, começaram a deixar-se ver, pouco a pouco,
+
+[[v7-20-34]]
+
+^<<v7-20-34,34>>^ e a avançar pela parte ocidental da cidade. Além disto, outros dez mil homens (escolhidos) de todo o Israel provocavam os moradores da cidade para o combate. Tornou-se rude a batalha contra os filhos de Benjamim, porque eles não entenderam que de toda a parte lhes estava iminente a morte.
+
+[[v7-20-35]]
+
+^<<v7-20-35,35>>^ O Senhor destruiu-os à vista dos filhos de Israel, os quais naquele dia mataram deles vinte e cinco mil e cem homens, todos guerreiros e homens de armas.
+
+[[v7-20-36]]
+
+^<<v7-20-36,36>>^ Os filhos de Benjamim, vendo que eram inferiores, começaram a fugir. Os filhos de Israel, observando isto, deram-lhe lugar para fugir, a fim de que fossem cair nas emboscadas que tinham posto junto da cidade.
+
+[[v7-20-37]]
+
+^<<v7-20-37,37>>^ Saindo então de repente (os filhos de Israel) dos seus esconderijos e tendo matado os que fugiam, entraram na cidade e passaram-na ao fio da Espada.
+
+[[v7-20-38]]
+
+^<<v7-20-38,38>>^ Ora os filhos de Israel tinham dado por sinal aos que tinham posto nas emboscadas, que, quando tomassem a cidade acendessem fogo, para que, elevando-se ao alto o fumo, isso servisse de aviso de estar tomada a cidade.
+
+[[v7-20-39]]
+
+^<<v7-20-39,39>>^ Ao ver o fumo, os filhos de Israel simularam a fuga. Os filhos de Benjamim, julgando que os de Israel fugiam, foram-nos perseguindo com mais instância, depois de lhes terem morto trinta homens do seu exército.
+
+[[v7-20-40]]
+
+^<<v7-20-40,40>>^ Entretanto ia subindo da cidade como uma coluna de fumo; os Benjamitas, olhando para trás, viram que a cidade estava tomada e que as chamas subiam para o alto.
+
+[[v7-20-41]]
+
+^<<v7-20-41,41>>^ Os Israelitas, que antes simulavam fugir, voltando o rosto, resistiam com mais força. Os filhos de Benjamim, vendo isto, puseram-se em fuga
+
+[[v7-20-42]]
+
+^<<v7-20-42,42>>^ e começaram a seguir o caminho do deserto, perseguidos, ainda até lá, pelos inimigos. Além disso, os que tinham incendiado a cidade sairam-lhes ao encontro.
+
+[[v7-20-43]]
+
+^<<v7-20-43,43>>^ Deste modo sucedeu serem destroçados por uma e outra parte pelos inimigos, ficando esmagados até à parte oriental da cidade de Gabaa.
+
+[[v7-20-44]]
+
+^<<v7-20-44,44>>^ Os mortos, naquele lugar, foram dezoito mil homens, todos guerreiros valentíssimos.
+
+[[v7-20-45]]
+
+^<<v7-20-45,45>>^ Vendo isto os que tinham ficado de Benjamim, fugiram para o deserto e encaminharam-se para o rochedo chamado Remon. Também nesta fuga, errando por um e outro lugar, tomando diversas direcções, foram mortos (pelos filhos de Israel) cinco mil homens. Passando eles mais adiante, (os filhos de Israel) perseguiram-nos e mataram ainda mais dois mil.
+
+[[v7-20-46]]
+
+^<<v7-20-46,46>>^ Assim aconteceu que todos os que ficaram mortos da tribo de Benjamim em diversos lugares, foram vinte e cinco mil homens combatentes, destríssimos para a guerra.
+
+[[v7-20-47]]
+
+^<<v7-20-47,47>>^ De toda a gente de Benjamim ficaram seiscentos homens, que puderam escapar e fugir para o deserto; aí detiveram-se durante quatro meses, no rochedo de Remon.
+
+[[v7-20-48]]
+
+^<<v7-20-48,48>>^ Os filhos de Israel, tendo voltado, passaram ao fio da espada tudo o que restava na cidade, desde os homens até aos animais, a tudo o que encontraram. Todas as cidades e aldeias de Benjamim foram consumidas pelas chamas vorazes.
+
+'''
+
+xref:007-juizes/007-juizes-019.adoc#v7-19-0[&#60; Capítulo Anterior] | <<v7-20-0,Topo>> | xref:007-juizes/007-juizes-021.adoc#v7-21-0[Próximo Capítulo &#62;]

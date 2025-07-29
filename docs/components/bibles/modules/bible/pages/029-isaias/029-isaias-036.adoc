@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v29-36-0]]
+=== Isaías, 36
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 36 narra a história de Senaqueribe, rei da Assíria, que enviou seu comandante para intimidar e ameaçar o povo de Judá, incluindo o rei Ezequias, a fim de conquistar Jerusalém. Ezequias recorre ao profeta Isaías para pedir ajuda e orientação divina. Os versículos relacionados aos temas do capítulo são:
+* 2 Reis 18:5: "Ezequias confiou no Senhor, o Deus de Israel. Nenhum rei de Judá foi como ele, nem antes nem depois dele." Este versículo destaca a fidelidade de Ezequias a Deus, mesmo diante das ameaças de Senaqueribe.
+* 2 Reis 18:13: "No décimo quarto ano do reinado de Ezequias, Senaqueribe, rei da Assíria, marchou contra todas as cidades fortificadas de Judá e as conquistou." Esse versículo descreve a ofensiva de Senaqueribe contra as cidades de Judá, incluindo Jerusalém.
+* 2 Reis 18:17: "O rei da Assíria enviou o seu comandante-chefe com três mil homens de cavalaria e carros de guerra, e eles acamparam junto ao aqueduto do tanque superior, na estrada que vai do campo do lavandeiro à Lavanderia Real." Esse versículo descreve a chegada do comandante assírio e seu exército à Jerusalém.
+* Salmos 46:1: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade." Este versículo destaca a confiança em Deus como fonte de proteção e ajuda em tempos de crise.
+* Isaías 37:35: "Eu defenderei esta cidade e a salvarei, por amor de mim e do meu servo Davi!" Este versículo mostra a promessa de Deus a Ezequias de que Ele irá proteger e salvar a cidade de Jerusalém da ameaça assíria.
+****
+
+[[v29-36-1]]
+
+^<<v29-36-1,1>>^ Aconteceu, no ano décimo quarto do rei Ezequias, que Senaquerib, rei dos Assírios marchou contra todas as cidades fortificadas de Judá e tomou-as.
+
+[[v29-36-2]]
+
+^<<v29-36-2,2>>^ O rei dos Assírios enviou Rabsaces de Laquis a Jerusalém, ao rei Ezequias, com um formidável exército. (Rabsaces) fez alto ao pé do aqueduto da piscina superior, no caminho do campo do Pisoeiro.
+
+[[v29-36-3]]
+
+^<<v29-36-3,3>>^ Saiu, para ir ter com ele, Eliacim, filho de Helcias, que era mordomo-mor da casa do rei, com Sobna, secretário, e Joahé, filho de Asaf, cronista.
+
+[[v29-36-4]]
+
+^<<v29-36-4,4>>^ Rabsaces disse-lhes: Dizei a Ezequias: Eis o que diz o grande rei, o rei dos Assírios: Que confiança é essa em que te apoias?
+
+[[v29-36-5]]
+
+^<<v29-36-5,5>>^ Apenas dizes palavras vãs, mas de prudência e bravura é que se precisa na guerra. Sobre quem fundas tu a confiança para recusar obedecer-me?
+
+[[v29-36-6]]
+
+^<<v29-36-6,6>>^ Vejo que te apoias no Egito, essa cana rachada, a qual, se nela se firmar um homem, se lhe meterá pela mão, e a traspassará; assim é Faraó, rei do Egito, para todos os que confiam nele.
+
+[[v29-36-7]]
+
+^<<v29-36-7,7>>^ Responder-me-eis possivelmente: Nós confiamos no Senhor nosso Deus. Mas, porventura, não é este aquele mesmo, cujos altos e altares destruiu Ezequias, dizendo a Judá e a Jerusalém; (Sòmente) diante deste altar adorareis?
+
+[[v29-36-8]]
+
+^<<v29-36-8,8>>^ Agora, pois, faze um acordo com o rei dos Assírios, meu amo: eu te darei dois mil cavalos, se puderes, entre os teus, achar homens para montar neles.
+
+[[v29-36-9]]
+
+^<<v29-36-9,9>>^ Como poderás fazer frente a um só chefe, tomado entre os menores servos do meu amo? Todavia confias no Egito, nos seus carros de guerra e nos seus cavaleiros.
+
+[[v29-36-10]]
+
+^<<v29-36-10,10>>^ Porventura vim eu a esta terra, sem ordem do Senhor, para a perder? O Senhor é que me disse: Entra nessa terra e devasta-a.
+
+[[v29-36-11]]
+
+^<<v29-36-11,11>>^ Então Eliacim, Sobna e Joahé disseram a Rabsaces: Fala aos teus servos em língua aramaica, porque nós a entendemos; não nos fales em hebreu, estando-nos a ouvir o povo, que se encontra sobre a muralha.
+
+[[v29-36-12]]
+
+^<<v29-36-12,12>>^ Rabsaces disse-lhes: Porventura é ao teu senhor e a ti que meu amo me mandou dizer todas estas palavras, e não antes aos homens que estão sentados sobre a muralha, para que convosco comam os seus excrementos e bebam a sua urina (se não se renderem)?
+
+[[v29-36-13]]
+
+^<<v29-36-13,13>>^ Então Rabsaces pôs-se em pé, e gritou em alta voz na língua judaica: Ouvi as palavras do grande rei, do rei dos Assírios.
+
+[[v29-36-14]]
+
+^<<v29-36-14,14>>^ Eis o que diz o rei: Não vos seduza Ezequias, porque ele não vos poderá livrar.
+
+[[v29-36-15]]
+
+^<<v29-36-15,15>>^ E não vos infunda Ezequias confiança no Senhor, dizendo: O Senhor indubitàvelmente nos há-de livrar; esta cidade não há-de ser entregue na mão do rei dos Assírios.
+
+[[v29-36-16]]
+
+^<<v29-36-16,16>>^ Não queirais ouvir Ezequias, porque eis o que diz o rei dos Assírios: Fazei comigo aliança, rendei-vos a mim, e comerá cada um do fruto da sua vinha, do fruto da sua figueira, e beberá cada um da água da sua cisterna,
+
+[[v29-36-17]]
+
+^<<v29-36-17,17>>^ até que eu venha e vos leve para uma terra que é, como a vossa terra, de trigo e de vinha, terra de cereais e de vinhas.
+
+[[v29-36-18]]
+
+^<<v29-36-18,18>>^ Não vos iluda Ezequias, dizendo: O Senhor nos livrará. Porventura os deuses das gentes livraram, cada um a sua terra, da mão do rei dos Assírios?
+
+[[v29-36-19]]
+
+^<<v29-36-19,19>>^ Onde está Deus de Hamat, e de Arfad? Onde estão os deuses de Sefarvaim? Porventura livraram eles da minha mão a Samaria?
+
+[[v29-36-20]]
+
+^<<v29-36-20,20>>^ Qual, dentre todos os deuses dessas terras, o que pode livrar o seu país da minha mão, para que (espereis que) o Senhor possa também livrar Jerusalém da minha mão?
+
+[[v29-36-21]]
+
+^<<v29-36-21,21>>^ Eles puseram-se em silêncio, não lhe responderam uma só palavra, pois assim lho tinha mandado o rei, dizendo: Não lhe respondais.
+
+[[v29-36-22]]
+
+^<<v29-36-22,22>>^ (Em seguida) Eliacim, filho de Helcias, que era mordomo-mor da casa do rei, e Sobna; secretário, e Joahé, filho de Asaf, cronista, foram ter com Ezequias, levando as vestes rasgadas, (em sinal de dor) e relataram-lhe as palavras de Rabsaces.
+
+'''
+
+xref:029-isaias/029-isaias-035.adoc#v29-35-0[&#60; Capítulo Anterior] | <<v29-36-0,Topo>> | xref:029-isaias/029-isaias-037.adoc#v29-37-0[Próximo Capítulo &#62;]

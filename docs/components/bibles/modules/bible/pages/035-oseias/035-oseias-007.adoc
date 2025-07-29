@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v35-7-0]]
+=== Oséias, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 7 de Oséias aborda a perversidade e a corrupção do povo de Israel, que se recusou a se arrepender de seus pecados e a buscar a Deus. A seguir estão cinco versículos selecionados de outras partes da Bíblia que abordam temas relacionados a esse capítulo:
+* Isaías 1:4: "Ai, nação pecadora, povo carregado de iniquidade, descendência de malfeitores, filhos que procedem corruptamente! Deixaram o Senhor, desprezaram o Santo de Israel, e dele se afastaram." Este versículo destaca a natureza pecaminosa e corrupta do povo de Israel, que era semelhante à de uma "nação pecadora".
+* Miquéias 7:3: "Eles usam bem as suas mãos para fazer o mal; o príncipe exige presentes, o juiz aceita suborno, o grande fala da corrupção do seu desejo, e assim torcem tudo." Este versículo descreve a corrupção generalizada entre as autoridades de Israel, um tema presente em Oséias 7.
+* Provérbios 28:14: "Bem-aventurado é o homem que está sempre temeroso, mas o que endurece o seu coração cairá no mal." Este versículo destaca a importância do temor a Deus e da humildade, algo que o povo de Israel estava negligenciando.
+* Isaías 28:7: "Mas também estes cambaleiam por causa do vinho, e pelo efeito das bebidas fortes erram; até mesmo o sacerdote e o profeta cambaleiam por causa das bebidas fortes, e são absorvidos pelo vinho; erram por causa das bebidas, desencaminham-se nas visões, e tropeçam no julgamento." Este versículo fala da embriaguez e dos vícios que estavam afetando o povo de Israel, outro tema presente em Oséias 7.
+* Isaías 5:20: "Ai daqueles que ao mal chamam bem, e ao bem, mal; que fazem da escuridão luz, e da luz, escuridão; põem o amargo por doce, e o doce por amargo!" Este versículo destaca a inversão de valores que estava ocorrendo entre o povo de Israel, que estava confundindo o bem e o mal e perdendo a noção do que era justo e correto.
+****
+
+[[v35-7-1]]
+
+^<<v35-7-1,1>>^ Quando eu tratava de curar Israel, tornou-se patente a iniquidade de Efraim e a malícia de Samaria, pois praticam a mentira. O ladrão entra nas casas, e por fora anda o salteador.
+
+[[v35-7-2]]
+
+^<<v35-7-2,2>>^ Não dizem nos seus corações que me lembro de toda a sua malícia: actualmente cercam-nos as suas impiedades, que estão a descoberto diante da minha face.
+
+[[v35-7-3]]
+
+^<<v35-7-3,3>>^ Com a sua malícia alegram o rei, e os príncipes com as suas mentiras.
+
+[[v35-7-4]]
+
+^<<v35-7-4,4>>^ São todos uns adúlteros, semelhantes a um forno aceso pelo forneiro, que cessa de o aquecer mais, depois de ter trabalhado a massa até se levedar. (ver nota)
+
+[[v35-7-5]]
+
+^<<v35-7-5,5>>^ No dia do nosso rei, os príncipes aqueceram-se com o calor do vinho, enquanto ele estendia a sua mão aos bobos. (ver nota)
+
+[[v35-7-6]]
+
+^<<v35-7-6,6>>^ O seu interior é como um forno, os seus corações, uma emboscada. Toda a noite dormiu o padeiro; pela manhã o forno estava todo esbraseado como um fogo ardente. (ver nota)
+
+[[v35-7-7]]
+
+^<<v35-7-7,7>>^ Todos eles estão quentes como um forno e devoram os seus juízes. Todos os seus reis caíram; não há entre eles quem levante a voz para mim.
+
+[[v35-7-8]]
+
+^<<v35-7-8,8>>^ Efraim mistura-se com os povos (idólatras); Efraim tornou-se como um bolo que não se volta. (ver nota)
+
+[[v35-7-9]]
+
+^<<v35-7-9,9>>^ Os estrangeiros devoraram a sua força, sem ele o sentir; os seus cabelos tornaram-se brancos, sem ele o perceber. (ver nota)
+
+[[v35-7-10]]
+
+^<<v35-7-10,10>>^ A soberba de Israel transparece-lhe no rosto; não se voltam para o Senhor seu Deus, não o buscam apesar de tudo isto.
+
+[[v35-7-11]]
+
+^<<v35-7-11,11>>^ Efraim tornou-se como uma pomba imbecil, som inteligência. Chamam o Egipto, vão ter com os Assírios.
+
+[[v35-7-12]]
+
+^<<v35-7-12,12>>^ Depois que tiverem ido, estenderei sobre eles a minha rede, e fá-los-ei cair como aves do céu; castigá-los-ei segundo foi dito mas suas assembleias. (ver nota)
+
+[[v35-7-13]]
+
+^<<v35-7-13,13>>^ Ai deles, porque se retiraram de mim! Serão destruídos, porque prevaricaram contra mim! Enquanto os queria salvar, proferiam mentiras contra mim.
+
+[[v35-7-14]]
+
+^<<v35-7-14,14>>^ Não clamam a mim do fundo do seu coração, mas uivam (desesperados) nos seus leitos! Somente temem pelo trigo e pelo vinho, revoltam-se contra mim.
+
+[[v35-7-15]]
+
+^<<v35-7-15,15>>^ Instruí-os e dei vigor aos seus braços, mas eles meditaram o mal contra mim.
+
+[[v35-7-16]]
+
+^<<v35-7-16,16>>^ Voltam-se, mas não para o alto; são como um arco doloso; cairão mortos á espada os seus príncipes, por causa do furor (ou insolência) da sua língua. Isso fará com que riam deles na terra do Egipto. (ver nota)
+
+'''
+
+xref:035-oseias/035-oseias-006.adoc#v35-6-0[&#60; Capítulo Anterior] | <<v35-7-0,Topo>> | xref:035-oseias/035-oseias-008.adoc#v35-8-0[Próximo Capítulo &#62;]

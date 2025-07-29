@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v52-1-0]]
+=== Romanos, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Romanos 1 começa com uma apresentação de Paulo e sua mensagem para a igreja em Roma. Ele enfatiza a justiça de Deus e a necessidade de todos os homens se arrependerem e crerem no evangelho. A seguir estão cinco versículos relacionados com os temas abordados em Romanos 1:
+* João 3:36: "Aquele que crê no Filho tem a vida eterna; mas aquele que não crê no Filho não verá a vida, mas a ira de Deus sobre ele permanece." Este versículo enfatiza a necessidade de crer no Filho de Deus, Jesus Cristo, e a consequência para aqueles que não creem.
+* Romanos 3:23: "Porque todos pecaram e destituídos estão da glória de Deus." Esse versículo ressalta a condição de todos os seres humanos, que são pecadores e não podem alcançar a glória de Deus por seus próprios méritos.
+* Romanos 5:8: "Mas Deus prova o seu próprio amor para conosco, pelo fato de ter Cristo morrido por nós, sendo nós ainda pecadores." Este versículo destaca a grande prova de amor de Deus ao enviar seu Filho para morrer por nós, mesmo quando éramos pecadores.
+* Romanos 6:23: "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor." Esse versículo ensina que o pecado leva à morte, mas Deus oferece o dom gratuito da vida eterna através de Jesus Cristo.
+* Efésios 2:8-9: "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus; não vem das obras, para que ninguém se glorie." Esse versículo enfatiza que a salvação é pela graça de Deus, através da fé em Jesus Cristo, e não pelas obras do homem.
+****
+
+[[v52-1-1]]
+
+^<<v52-1-1,1>>^ Paulo, servo de Jesus Cristo, chamado ao apostolado, escolhido para (anunciar) o Evangelho de Deus,
+
+[[v52-1-2]]
+
+^<<v52-1-2,2>>^ o qual (Evangelho) tinha (Deus) prometido antes pelos seus profetas nas Santas Escrituras,
+
+[[v52-1-3]]
+
+^<<v52-1-3,3>>^ acerca do seu Filho, que nasceu da posteridade de David, segundo a carne, (ver nota)
+
+[[v52-1-4]]
+
+^<<v52-1-4,4>>^ estabelecido no seu poder de Filho de Deus, segundo o seu espírito de santidade, a partir da sua ressurreição dentre os mortos, Jesus Cristo Senhor Nosso,
+
+[[v52-1-5]]
+
+^<<v52-1-5,5>>^ pelo qual recebemos a graça e o apostolado, para que obedeçam em seu nome à fé todos os gentios,
+
+[[v52-1-6]]
+
+^<<v52-1-6,6>>^ entre os quais também estais vós, os chamados de Jesus Cristo,
+
+[[v52-1-7]]
+
+^<<v52-1-7,7>>^ a todos os que estão em Roma, queridos de Deus, chamados a ser santos: Graça vos seja dada, e paz da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo. (ver nota)
+
+[[v52-1-8]]
+
+^<<v52-1-8,8>>^ Primeiramente dou graças ao meu Deus, por Jesus Cristo, em nome de todos vós, porque a vossa fé é celebrada em todo o mundo.
+
+[[v52-1-9]]
+
+^<<v52-1-9,9>>^ O Deus, a quem sirvo em meu espírito anunciando o Evangelho de seu Filho, me é testemunha de que incessantemente faço menção de vós, (ver nota)
+
+[[v52-1-10]]
+
+^<<v52-1-10,10>>^ rogando-lhe sempre nas minhas orações que se abra enfim, alguma vez, querendo Deus, um caminho favorável para ir ter convosco.
+
+[[v52-1-11]]
+
+^<<v52-1-11,11>>^ Porque desejo ver-vos, a fim de vos comunicar alguma graça espiritual, para vos confirmar,
+
+[[v52-1-12]]
+
+^<<v52-1-12,12>>^ isto é, para me consolar juntamente convosco por esta fé que nos é comum a mim e a vós.
+
+[[v52-1-13]]
+
+^<<v52-1-13,13>>^ Não quero que vós, irmãos, ignoreis que muitas vezes tenho proposto ir ter convosco, mas tenho sido impedido até agora, para colher algum fruto entre vós, como entre as outras nações.
+
+[[v52-1-14]]
+
+^<<v52-1-14,14>>^ Eu sou devedor aos Gregos e aos bárbaros, aos sábios e aos ignorantes;
+
+[[v52-1-15]]
+
+^<<v52-1-15,15>>^ donde o meu desejo de anunciar o Evangelho também a vós, que estais em Roma.
+
+[[v52-1-16]]
+
+^<<v52-1-16,16>>^ Com efeito eu não me envergonho do Evangelho, porque é a virtude de Deus para dar a salvação a todo o crente, primeiro ao judeu, e depois ao grego. (ver nota)
+
+[[v52-1-17]]
+
+^<<v52-1-17,17>>^ A justiça de Deus manifesta-se nele, indo da fé para a fé, como está escrito: O justo vive da fé (Hc. 2, 4). (ver nota)
+
+[[v52-1-18]]
+
+^<<v52-1-18,18>>^ Com efeito a ira de Deus manifesta-se do céu contra toda a impiedade e injustiça daqueles homens que retêm a verdade de Deus cativa da injustiça, (ver nota)
+
+[[v52-1-19]]
+
+^<<v52-1-19,19>>^ porque o que se pode conhecer de Deus, é-Ihes manifesto, pois Deus Iho manifestou. (ver nota)
+
+[[v52-1-20]]
+
+^<<v52-1-20,20>>^ De fato, as coisas invisíveis dele, isto é, o seu poder eterno e a sua divindade, depois da criação do mundo, compreendendo-se pelas coisas feitas, tornaram-se visíveis, de modo que são inexcusáveis,
+
+[[v52-1-21]]
+
+^<<v52-1-21,21>>^ porque, tendo conhecido a Deus, não o glorificaram como Deus, nem lhe deram graças, mas desvaneceram-se nos seus pensamentos, e obscureceu- se o seu coração insensato,
+
+[[v52-1-22]]
+
+^<<v52-1-22,22>>^ pois, dizendo ser sábios, tornaram-se estultos
+
+[[v52-1-23]]
+
+^<<v52-1-23,23>>^ e mudaram a glória de Deus incorruptível na figura de um simulacro de homem corruptível, de aves, de quadrúpedes e de répteis. (ver nota)
+
+[[v52-1-24]]
+
+^<<v52-1-24,24>>^ Pelo que Deus os abandonou aos desejos do seu coração, à imundície, de modo que desonraram os seus próprios corpos,
+
+[[v52-1-25]]
+
+^<<v52-1-25,25>>^ eles que trocaram a verdade de Deus pela mentira e que adoraram e serviram a criatura de preferência ao Criador, que é bendito por todos os séculos. Amém.
+
+[[v52-1-26]]
+
+^<<v52-1-26,26>>^ Por isso Deus entregou-os a paixões de ignomínia. Efetivamente, as suas próprias mulheres mudaram o uso natural em uso contra a natureza,
+
+[[v52-1-27]]
+
+^<<v52-1-27,27>>^ e, do mesmo modo, também os homens, deixando o uso natural da mulher, arderam nos seus desejos mutuamente, cometendo homens com homens a torpeza e recebendo em si mesmos a paga que era devida ao seu desregramento.
+
+[[v52-1-28]]
+
+^<<v52-1-28,28>>^ E, como não procuraram conhecer a Deus, Deus abandonou-os a um sentimento depravado, que os levou a fazer o que não convém,
+
+[[v52-1-29]]
+
+^<<v52-1-29,29>>^ cheios de toda a iniquidade, de malícia, de avareza, de maldade, cheios de inveja, de homicídios, de contendas, de engano, de malignidade, mexeriqueiros,
+
+[[v52-1-30]]
+
+^<<v52-1-30,30>>^ detratores, odiados por Deus, injuriadores, soberbos, altivos, inventores de maldades, desobedientes aos pais,
+
+[[v52-1-31]]
+
+^<<v52-1-31,31>>^ insensatos, sem lealdade, sem afeto, sem lei, sem misericórdia.
+
+[[v52-1-32]]
+
+^<<v52-1-32,32>>^ Os quais, conhecedores da justiça de Deus, sabendo que os que fazem tais coisas são dignos de morte, não somente as fazem mas também aprovam aqueles que as fazem.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-028.adoc#v51-28-0[&#60; Capítulo Anterior] | <<v52-1-0,Topo>> | xref:052-romanos/052-romanos-002.adoc#v52-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v10-21-0]]
+=== II Samuel, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 21 descreve como Davi enfrentou a fome em Israel, que durou por três anos. Ele consultou o Senhor, que lhe disse que a causa da fome era o fato de que Saul havia quebrado um acordo com os gibeonitas, exterminando-os. Davi então chamou os gibeonitas e perguntou como ele poderia compensá-los pela injustiça cometida por Saul. Os gibeonitas exigiram sete homens da família de Saul para serem executados, e Davi concordou. A seguir, são apresentados cinco versículos relacionados com os temas abordados em 2 Samuel 21:
+* Deuteronômio 7:9: "Saberás, pois, que o Senhor teu Deus é Deus, o Deus fiel, que guarda o pacto e a misericórdia para com aqueles que o amam e guardam os seus mandamentos até mil gerações." Este versículo fala sobre a fidelidade de Deus em cumprir seus pactos e em ser misericordioso com aqueles que o amam e obedecem seus mandamentos. Isso se relaciona com o fato de que Saul quebrou o pacto com os gibeonitas, o que resultou em consequências negativas para Israel.
+* Êxodo 20:5: "Não te encurvarás diante delas nem as servirás; porque eu, o Senhor teu Deus, sou Deus zeloso, que visito a iniqüidade dos pais nos filhos, até a terceira e quarta geração daqueles que me odeiam." Este versículo fala sobre a punição de Deus por pecados cometidos pelos antepassados, que podem afetar as gerações futuras. Isso se relaciona com o fato de que Saul quebrou o pacto com os gibeonitas, o que resultou em consequências negativas para Israel.
+* Provérbios 17:15: "O que justifica o ímpio, e o que condena o justo, ambos são abomináveis ao Senhor." Este versículo fala sobre a justiça de Deus e sua repulsa por aqueles que justificam o ímpio e condenam o justo. Isso se relaciona com o fato de que Davi tomou medidas para compensar os gibeonitas pela injustiça cometida por Saul.
+* Provérbios 20:22: "Não digas: Vingar-me-ei do mal; espera pelo Senhor, e ele te livrará." Este versículo fala sobre a importância de confiar em Deus e não buscar vingança. Isso se relaciona com o fato de que Davi confiou em Deus para lhe mostrar como compensar os gibeonitas pela injustiça cometida por Saul.
+* Provérbios 22:8: "O que semeia a perversidade segará males; e com a vara da sua própria indignação será extinto." Este versículo fala sobre as consequências da perversidade e do mal, que acabarão por atingir aqueles que os semeiam. Isso se relaciona com o fato de que a injustiça cometida por Saul teve consequências negativas para Israel, incluindo a fome que eles enfrentaram.
+****
+
+[[v10-21-1]]
+
+^<<v10-21-1,1>>^ Houve também no tempo de Davide uma fome que durou três anos contínuos. Davide consultou o oráculo do Senhor, e o Senhor respondeu-lhe: (Isto aconteceu) por causa de Saul e da sua casa sanguinária, porque matou os Gabaonitas.
+
+[[v10-21-2]]
+
+^<<v10-21-2,2>>^ E, chamados os Gabaonitas, o rei falou com eles. (Deve notar-se que os Gabaonitas não eram filhos de Israel, mas uns restos dos Amorreus, aos quais os Israelitas tinham jurado (que não lhes tirariam a vida). Todavia Saul empreendeu extingui-los sob pretexto de zelo, como para bem dos filhos de Israel e de Judá).
+
+[[v10-21-3]]
+
+^<<v10-21-3,3>>^ Disse, pois, Davide aos Gabaonitas: Que quereis que eu vos faça? Que satisfação vos darei, para que abençoeis a herança do Senhor?
+
+[[v10-21-4]]
+
+^<<v10-21-4,4>>^ Os Gabaonitas responderam-lhe: Não é nossa pretensão sobre ouro nem prata, senão contra Saul e contra a sua casa; nem queremos que seja morto nenhum homem de Israel. O rei disse-se-lhes: Que quereis, pois, que eu vos faça?
+
+[[v10-21-5]]
+
+^<<v10-21-5,5>>^ Eles responderam ao rei: Aquele homem que iniquamente nos esmagou e oprimiu, nós o devemos exterminar, de tal modo que não fique da sua linhagem nem um só em todos os limites de Israel.
+
+[[v10-21-6]]
+
+^<<v10-21-6,6>>^ Sejam-nos dados (ao menos) sete de seus filhos para os crucificarmos diante do Senhor em Babaa, (pátria) de Saul, que foi noutro tempo o escolhido do Senhor. O rei disse: Eu os darei.
+
+[[v10-21-7]]
+
+^<<v10-21-7,7>>^ O rei não entregou a Mifiboset, filho de Jónatas, filho de Saul, por causa do juramento (firmado em nome) do Senhor, que tinha sido feito entre Davide e Jónatas, filho de Saul.
+
+[[v10-21-8]]
+
+^<<v10-21-8,8>>^ Tomou os dois filhos de Resfa, filha de Aia, chamados Armoni e Mifiboset, os quais ela tinha tido de Saul, e cinco filhos, que Micol, filha de Saul, tinha gerado a Hadriel, filho de Berzelai, que era de Molati,
+
+[[v10-21-9]]
+
+^<<v10-21-9,9>>^ e entregou-os nas mãos dos Gabaonitas, que os crucificaram no monte diante do Senhor. Assim acabaram estes sete homens, mortos todos juntos nos primeiros dias da ceifa, quando se começavam a segar as cevadas.
+
+[[v10-21-10]]
+
+^<<v10-21-10,10>>^ Resfa, filha de Aia, tomando um pano de cilício, estendeu-o debaixo de si, sobre uma pedra, (e esteve ali) desde o princípio da ceifa até que a água do céu caiu sobre (os cádáveres), e não deixou que as aves os despedaçassem de dia, nem as feras de noite.
+
+[[v10-21-11]]
+
+^<<v10-21-11,11>>^ Foi contado a Davide o que tinha feito Resfa, filha de Aia, mulher secundária de Saul.
+
+[[v10-21-12]]
+
+^<<v10-21-12,12>>^ Davide foi, e tomou, os ossos de Saul e de Jónatas, seu filho, (recebendo-os) dos homens de Jabes de Galaad, que os tinham tirado furtivamente da praça de Betsan, na qual os Filisteus os tinham pendurado, quando mataram Saul em Gelboé.
+
+[[v10-21-13]]
+
+^<<v10-21-13,13>>^ Davide transportou dali os ossos de Saul e de Jónatas, seu filho, mandou também recolher os ossos dos que tinham sido crucificados.
+
+[[v10-21-14]]
+
+^<<v10-21-14,14>>^ Foi-lhes dada sepultura com os ossos de Saul e de Jónatas, seu filho, na terra de Benjamim, a um lado do sepulcro de Cis seu pai, em cumprimento de todas as ordens do rei. Depois disto, Deus compadeceu-se da terra.
+
+[[v10-21-15]]
+
+^<<v10-21-15,15>>^ Ateou-se, porém, de novo a guerra dos Filisteus contra Israel, e Davide saiu com sua gente, e combateram contra os Filisteus. Estando Davide cansado,
+
+[[v10-21-16]]
+
+^<<v10-21-16,16>>^ Jesbilbenob, que era da linhagem de Arafa, que ia armado duma lança, cujo ferro pesava trezentas onças, e que cingia uma espada nova, esforçou-se por ferir Davide.
+
+[[v10-21-17]]
+
+^<<v10-21-17,17>>^ Abisai, filho de Sarvia, defendeu-o, e, ferindo o Filisteu, o matou. Então os soldados de Davide fizeram um juramento, dizendo: Tu não tornarás a sair à batalha conosco, para que não apagues a lâmpada de Israel.
+
+[[v10-21-18]]
+
+^<<v10-21-18,18>>^ Houve ainda uma segunda guerra em Gob contra os Filisteus, na qual Sobocai, de Husati, matou Saf, da linhagem de Arafa, da raça dos gigantes.
+
+[[v10-21-19]]
+
+^<<v10-21-19,19>>^ Houve mais outra terceira guerra em Gob contra os Filisteus, na qual Adeodato, filho de Salto, que tecia panos de cores em Belém, matou Golias de Get, que levava uma lança, cuja haste era como um cilindro de tear.
+
+[[v10-21-20]]
+
+^<<v10-21-20,20>>^ A quarta guerra foi em Get. Nela se encontrou um homem de grande estatura, que tinha seis dedos em cada mão e em cada pé, isto é, vinte e quatro dedos, e era da raça de Arafa.
+
+[[v10-21-21]]
+
+^<<v10-21-21,21>>^ Este blasfemou contra Israel, mas matou-o Jonatan, filho de Semaa, irmão de Davide.
+
+[[v10-21-22]]
+
+^<<v10-21-22,22>>^ Estes quatro homens tinham nascido da estirpe de Arafa em Bet, e foram mortos pelas mãos de Davide e da sua gente.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-020.adoc#v10-20-0[&#60; Capítulo Anterior] | <<v10-21-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-022.adoc#v10-22-0[Próximo Capítulo &#62;]

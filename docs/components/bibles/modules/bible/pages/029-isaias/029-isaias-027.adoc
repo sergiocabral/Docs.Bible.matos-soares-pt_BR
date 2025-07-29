@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v29-27-0]]
+=== Isaías, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 27 é um capítulo que fala sobre a restauração de Israel e a destruição de seus inimigos. Deus promete cuidar de sua vinha e remover seus espinhos e ervas daninhas. Ele também promete julgar aqueles que se levantam contra ele e purificar seus filhos. Abaixo estão cinco versículos que se relacionam com os temas abordados em Isaías 27:
+* Salmo 80:8 - "Tu fizeste sair do Egito uma videira; lançaste fora as nações e a plantaste." Este salmo fala sobre Deus cuidando de Israel como um agricultor cuida de sua vinha, plantando-a em um lugar fértil e removendo as pedras. Isso se relaciona com Isaías 27, onde Deus cuida de sua vinha e remove seus espinhos e ervas daninhas.
+* Isaías 5:7 - "Porque a vinha do SENHOR dos Exércitos é a casa de Israel, e os homens de Judá são a planta de sua delícia; e esperou que fizessem juízo, e eis aqui opressão; justiça, e eis aqui clamor." Neste versículo, Isaías fala sobre a vinha do Senhor, que é a casa de Israel, e como Deus esperava que seus filhos fizessem justiça, mas em vez disso eles se entregaram à opressão. Isso se relaciona com Isaías 27, onde Deus promete purificar seus filhos.
+* Jeremias 12:10 - "Muitos pastores destruíram a minha vinha, pisaram o meu quinhão, tornaram a minha herança em deserto de solidão." Jeremias fala sobre os pastores que destruíram a vinha do Senhor, que é Israel. Isso se relaciona com Isaías 27, onde Deus promete cuidar de sua vinha e remover seus espinhos e ervas daninhas.
+* Isaías 10:33-34 - "Eis que o Senhor, o SENHOR dos Exércitos, abaterá os ramos com violência; e os altos serão cortados, e os altivos serão abatidos. E cortará com ferro a espessura da floresta, e o Líbano cairá com poderoso." Este versículo fala sobre Deus julgando aqueles que se levantam contra ele, cortando seus ramos e derrubando seus altos. Isso se relaciona com Isaías 27, onde Deus promete julgar aqueles que se levantam contra ele.
+* Apocalipse 21:27 - "E não entrará nela coisa alguma que contamine, e cometa abominação e mentira; mas só os que estão inscritos no livro da vida do Cordeiro." Este versículo fala sobre a Nova Jerusalém, que é purificada de toda impureza e habitação de abominação. Isso se relaciona com Isaías 27, onde Deus promete purificar seus filhos e sua vinha.
+****
+
+[[v29-27-1]]
+
+^<<v29-27-1,1>>^ Naquele dia o Senhor, armado com a sua espada dura, grande e forte, visitará Leviatan, essa serpente fugidia, Leviatan, essa serpente tortuosa, e matará o monstro que está no mar.
+
+[[v29-27-2]]
+
+^<<v29-27-2,2>>^ Naquele dia se dirá: Cantai a vinha que dá vinho puro.
+
+[[v29-27-3]]
+
+^<<v29-27-3,3>>^ Sou eu, o Senhor, que a guardo; eu a rego continuamente; para que não receba nenhum dano, eu a guardo de noite e de dia.
+
+[[v29-27-4]]
+
+^<<v29-27-4,4>>^ Não tenho indignação (contra ela). Quem me dará silvas e espinhos para combater? Marcharei contra eles, queimá-los-ei todos juntos, a não ser que se ponham debaixo da minha proteção, que façam a paz comigo, que façam comigo a paz.
+
+[[v29-27-5]]
+
+^<<v29-27-5,5>>^ Em dias futuros, Jacob lançará raízes, Israel florescerá, lançará rebentos e encherá de seus frutos a face finai de da terra.
+
+[[v29-27-6]]
+
+^<<v29-27-6,6>>^ Porventura feriu-o (Deus) como feriu os seus opressores? Ou matou-o como aos que o matavam?
+
+[[v29-27-7]]
+
+^<<v29-27-7,7>>^ Pelo desterro o castigou, impelindo-o com o seu sopro impetuoso, como vento do Oriente
+
+[[v29-27-8]]
+
+^<<v29-27-8,8>>^ Assim foi expiado o crime da casa de Jacob, e eis todo o fruto da expiação do seu pecado: pulverizou todas as pedras dos altares como pedras reduzidas a cinzas, e não se levantarão mais (ascherás) nem estelas do Sol.
+
+[[v29-27-9]]
+
+^<<v29-27-9,9>>^ Porque a cidade forte foi assolada, despovoada e abandonada, como um deserto; nela pastam os bois, nela se deitam, e comem as pontas da sua verdura.
+
+[[v29-27-10]]
+
+^<<v29-27-10,10>>^ As ramagens secas partem-se, e vêm as mulheres e queimam-nas. É um povo sem inteligência: por isso, aquele que o fez não terá pena dele, não lhe fará mercê aquele que o formou.
+
+[[v29-27-11]]
+
+^<<v29-27-11,11>>^ E acontecerá que naquele dia o Senhor sacudirá o trigo desde o leito do rio (Eufrates) até à torrente do Egito; e vós, filhos de Israel, sereis congregados, um a um.
+
+[[v29-27-12]]
+
+^<<v29-27-12,12>>^ Também acontecerá que naquele dia soará uma grande trombeta e virão os que tinham ficado perdidos na terra dos Assírios, e os que se achavam desterrados na terra do Egito, e adorarão o Senhor no monte santo, em Jerusalém.
+
+'''
+
+xref:029-isaias/029-isaias-026.adoc#v29-26-0[&#60; Capítulo Anterior] | <<v29-27-0,Topo>> | xref:029-isaias/029-isaias-028.adoc#v29-28-0[Próximo Capítulo &#62;]

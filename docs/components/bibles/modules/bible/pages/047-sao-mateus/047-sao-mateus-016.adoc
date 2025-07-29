@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v47-16-0]]
+=== São Mateus, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 16 de Mateus apresenta uma série de ensinamentos e eventos importantes na vida de Jesus e de seus discípulos. Inicialmente, Jesus repreende os fariseus e saduceus que pedem um sinal do céu, indicando que eles sabem interpretar o tempo, mas não reconhecem o próprio Filho de Deus. Em seguida, ele faz uma pergunta aos seus discípulos sobre sua identidade, e Pedro responde que ele é o Cristo, o Filho do Deus vivo. Jesus então faz uma promessa a Pedro e dá instruções aos seus discípulos sobre sua missão e sobre a importância de tomar a cruz e seguir a Cristo. A seguir, cinco versículos relacionados com os temas abordados em São Mateus 16:
+* João 6:68-69: "Simão Pedro respondeu: Senhor, para quem iremos? Tu tens as palavras da vida eterna. E nós temos crido e conhecido que tu és o Cristo, o Filho do Deus vivente." Assim como em Mateus 16, Pedro declara a identidade de Jesus como o Cristo, o Filho do Deus vivo.
+* Marcos 8:34: "E chamando a si a multidão, com os seus discípulos, disse-lhes: Se alguém quiser vir após mim, negue-se a si mesmo, e tome a sua cruz, e siga-me." Neste versículo, Jesus dá instruções semelhantes às que ele deu aos seus discípulos em Mateus 16, sobre a importância de tomar a cruz e seguir a Cristo.
+* Lucas 9:23: "E dizia a todos: Se alguém quer vir após mim, negue-se a si mesmo, e tome cada dia a sua cruz, e siga-me." Este versículo apresenta uma versão semelhante da instrução de Jesus sobre tomar a cruz e segui-lo.
+* Filipenses 2:5-8: "De sorte que haja em vós o mesmo sentimento que houve também em Cristo Jesus, que, sendo em forma de Deus, não teve por usurpação ser igual a Deus, mas esvaziou-se a si mesmo, tomando a forma de servo, fazendo-se semelhante aos homens; e, achado na forma de homem, humilhou-se a si mesmo, sendo obediente até à morte, e morte de cruz." Este versículo fala sobre a humildade e obediência de Cristo, e a importância de segui-lo em sua humildade.
+* Colossenses 1:15-17: "Ele é a imagem do Deus invisível, o primogênito de toda a criação; pois nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades; tudo foi criado por ele e para ele. Ele é antes de todas as coisas, e nele subsistem todas as coisas." Este versículo fala sobre a posição de Cristo como o Filho de Deus e o criador de todas as coisas.
+****
+
+[[v47-16-1]]
+
+^<<v47-16-1,1>>^ Foram ter com ele os fariseus e os saduceus, e, para o tentarem, pediram-lhe que lhes mostrasse algum prodígio do céu.
+
+[[v47-16-2]]
+
+^<<v47-16-2,2>>^ Ele, porém, respondeu-lhes: "Vós, quando vai chegando a noite, dizeis: Haverá tempo sereno, porque o céu está vermelho.
+
+[[v47-16-3]]
+
+^<<v47-16-3,3>>^ E de manhã: Hoje haverá tempestade, porque o céu mostra um avermelhado sombrio.
+
+[[v47-16-4]]
+
+^<<v47-16-4,4>>^ Sabeis, pois, distinguir o aspecto do céu e não podeis conhecer os sinais dos tempos? Esta geração perversa e adúltera pede um prodígio, mas não lhe será dado outro prodígio, senão o prodígio do profeta Jonas." E, deixando-os, retirou-se.
+
+[[v47-16-5]]
+
+^<<v47-16-5,5>>^ Os seus discípulos, tendo passado à outra margem do lago, tinham-se esquecido de levar pão.
+
+[[v47-16-6]]
+
+^<<v47-16-6,6>>^ Jesus disse-lhes: "Atenção ! Guardai-vos do fermento dos fariseus e dos saduceus."
+
+[[v47-16-7]]
+
+^<<v47-16-7,7>>^ Mas eles discorriam entre si, dizendo: "'É que não trouxemos pão."
+
+[[v47-16-8]]
+
+^<<v47-16-8,8>>^ Conhecendo Jesus isto, disse: "Homens de pouca fé, porque estais considerando convosco, pelo motivo de não terdes pão?
+
+[[v47-16-9]]
+
+^<<v47-16-9,9>>^ Ainda não compreendeis! Não vos lembrais dos cinco pães para os cinco mil homens, e quantos cestos recolhestes?
+
+[[v47-16-10]]
+
+^<<v47-16-10,10>>^ Nem dos sete pães para quatro mil homens, e quantos cestos recolhestes?
+
+[[v47-16-11]]
+
+^<<v47-16-11,11>>^ Porque não compreendeis que não foi a respeito do pão que eu vos disse: Guardai-vos do fermento dos fariseus e dos saduceus?
+
+[[v47-16-12]]
+
+^<<v47-16-12,12>>^ Então compreenderam que não havia dito que se guardassem do fermento dos pães, mas da doutrina dos fariseus e dos saduceus."
+
+[[v47-16-13]]
+
+^<<v47-16-13,13>>^ Tendo chegado à região de Cesareia de Filipe, Jesus interrogou os seus discípulos, dizendo: "Que dizem os homens que é o Filho do homem?"
+
+[[v47-16-14]]
+
+^<<v47-16-14,14>>^ Eles responderam: "Uns dizem que é João Baptista, outros que é Elias, outros que é Jeremias ou algum dos profetas."
+
+[[v47-16-15]]
+
+^<<v47-16-15,15>>^ Jesus disse-lhes: "E vós quem dizeis que eu sou?"
+
+[[v47-16-16]]
+
+^<<v47-16-16,16>>^ Respondendo Simão Pedro, disse: "Tu és o Cristo, o Filho de Deus vivo."
+
+[[v47-16-17]]
+
+^<<v47-16-17,17>>^ Respondendo Jesus, disse-lhe: "Bem-aventurado és, Simão Bar-Jona, porque não foi a carne e o sangue que te revelaram, mas meu Pai que está nos céus. (ver nota)
+
+[[v47-16-18]]
+
+^<<v47-16-18,18>>^ E eu digo-te que tu és Pedro, e sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela.
+
+[[v47-16-19]]
+
+^<<v47-16-19,19>>^ Eu te darei as chaves do reino dos céus: tudo o que ligares sobre a terra, será ligado também nos céus, e tudo o que desatares sobre a terra, será desatado também nos céus."
+
+[[v47-16-20]]
+
+^<<v47-16-20,20>>^ Depois ordenou a seus discípulos que não dissessem a ninguém que ele era o Messias.
+
+[[v47-16-21]]
+
+^<<v47-16-21,21>>^ Desde então começou Jesus a manifestar a seus discípulos que devia ir a Jerusalém, padecer muitas coisas dos anciãos, dos príncipes dos sacerdotes e dos escribas, ser morto, e ressuscitar ao terceiro dia.
+
+[[v47-16-22]]
+
+^<<v47-16-22,22>>^ Tomando-o Pedro aparte, começou a increpá-lo, dizendo: "Deus tal não permita. Senhor; não te sucederá isto."
+
+[[v47-16-23]]
+
+^<<v47-16-23,23>>^ Ele, voltando-se para Pedro, disse-lhe: "Retira-te de mim. Satanás! Tu serves-me de escândalo, porque não tens a sabedoria das coisas de Deus, mas dos homens."
+
+[[v47-16-24]]
+
+^<<v47-16-24,24>>^ Então Jesus disse aos seus discípulos: "Se alguém quer vir após de mim, negue-se a si mesmo, tome a sua cruz e siga-me.
+
+[[v47-16-25]]
+
+^<<v47-16-25,25>>^ Porque o que quiser salvar a sua vida perdê-la-á; e o que perder a sua vida por amor de mim, achá-la-á. (ver nota)
+
+[[v47-16-26]]
+
+^<<v47-16-26,26>>^ Pois, que aproveitará a um homem ganhar todo o mundo, se vier a perder a sua alma? Ou que dará um homem em troca da sua alma?
+
+[[v47-16-27]]
+
+^<<v47-16-27,27>>^ Porque o Filho do homem há-de vir na glória de seu Pai com os seus anjos, e então dará a cada um segundo as suas obras.
+
+[[v47-16-28]]
+
+^<<v47-16-28,28>>^ Em verdade vos digo que entre aqueles que estão aqui presentes, há alguns que não morrerão, antes que vejam vir o Filho do homem com o seu reino." (ver nota)
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-015.adoc#v47-15-0[&#60; Capítulo Anterior] | <<v47-16-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-017.adoc#v47-17-0[Próximo Capítulo &#62;]

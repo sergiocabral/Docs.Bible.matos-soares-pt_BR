@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v22-13-0]]
+=== I Macabeus, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 13 de 1 Macabeus continua a narrativa da guerra entre Judas Macabeu e os inimigos do povo de Israel. Neste capítulo, Judas lidera uma batalha contra as tropas do rei Antíoco e é bem sucedido em derrotá-las. A seguir estão cinco versículos relacionados com os temas abordados em 1 Macabeus 13:
+* 2 Macabeus 15:22-23: "Estando todos assim alegres, passaram a noite no campo. E no dia seguinte, já próximo do meio-dia, marcharam para a fortaleza." Estes versículos mostram a alegria do povo de Israel após a vitória de Judas e a continuação da batalha contra o inimigo.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo mostra a confiança que Judas tinha em Deus e como ele confiava em sua ajuda para vencer seus inimigos.
+* 2 Samuel 22:33: "Deus é a minha fortaleza e a minha força, e ele perfeitamente desembaraça o meu caminho." Este versículo também mostra a confiança que Judas tinha em Deus e como ele acreditava que Deus o ajudaria em seus conflitos.
+* Salmos 144:1: "Bendito seja o Senhor, minha rocha, que ensina as minhas mãos para a peleja e os meus dedos para a guerra." Este versículo mostra como Deus prepara seu povo para a batalha e como Ele é louvado por isso.
+* Efésios 6:11: "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo." Este versículo mostra a importância da preparação espiritual para a batalha e como é importante ter uma armadura forte para lutar contra os inimigos espirituais.
+****
+
+[[v22-13-1]]
+
+^<<v22-13-1,1>>^ Simão ouviu dizer que Trifão tinha levantado um grande exército, para vir á terra de Judá e assolá-la.
+
+[[v22-13-2]]
+
+^<<v22-13-2,2>>^ Vendo que o povo estava todo amedrontado e espavorido, subiu a Jerusalém, mandou juntar o povo,
+
+[[v22-13-3]]
+
+^<<v22-13-3,3>>^ e, para o animar, disse: Sabeis quanto temos pelejado, eu e meus irmãos e a casa de meu pai, pelas nossas leis e pelo santuário, e em que angústias nos temos visto;
+
+[[v22-13-4]]
+
+^<<v22-13-4,4>>^ por esta causa morreram todos os meus irmãos, por (quererem salvar) Israel, e fiquei eu só.
+
+[[v22-13-5]]
+
+^<<v22-13-5,5>>^ Mas não permita Deus agora que queira eu poupar a minha vida, enquanto durarem as nossas tribulações, porque não sou melhor que meus irmãos.
+
+[[v22-13-6]]
+
+^<<v22-13-6,6>>^ Vingarei, pois, a minha nação, o santuário, os nossos filhos e as nossas mulheres, porque todas as nações se juntaram para nos oprimirem, pelo ódio que nos têm.
+
+[[v22-13-7]]
+
+^<<v22-13-7,7>>^ O espírito do povo, assim que ouviu estas palavras, ficou todo inflamado.
+
+[[v22-13-8]]
+
+^<<v22-13-8,8>>^ (Imediatamente) todos responderam em alta voz, dizendo: Tu és o nosso chefe em lugar de Judas e de Jónatas, teu Irmão;
+
+[[v22-13-9]]
+
+^<<v22-13-9,9>>^ dirige as nossas batalhas, e nós faremos tudo o que nos disseres.
+
+[[v22-13-10]]
+
+^<<v22-13-10,10>>^ Então Simão, reunindo todos os homens de guerra, fez acabar com presteza todos os muros de Jerusalém e fortificou a sua cerca.
+
+[[v22-13-11]]
+
+^<<v22-13-11,11>>^ Ao mesmo tempo, enviou Jónatas, filho de Absalão, com um forte exército, a Jope. Jónatas, tendo deitado fora os que estavam dentro dela, deixou-se lá ficar (com suas tropas).
+
+[[v22-13-12]]
+
+^<<v22-13-12,12>>^ Trifão, entretanto, partiu de Ptolemaida, com um grande exército, para invadir a terra de Judá, levando consigo Jónatas, prisioneiro.
+
+[[v22-13-13]]
+
+^<<v22-13-13,13>>^ Simão acampou perto de Adida, defronte da planície.
+
+[[v22-13-14]]
+
+^<<v22-13-14,14>>^ Trifão, logo que soube que Simão tinha tomado o comando, em lugar de seu irmão Jónatas, e que se dispunha a dar-lhe batalha, mandou-lhe embaixadores,
+
+[[v22-13-15]]
+
+^<<v22-13-15,15>>^ a dizer: Pelo dinheiro que teu irmão Jónatas deve à fazenda real, por causa dos negócios que estavam ao seu cuidado, é que o retemos prisioneiro.
+
+[[v22-13-16]]
+
+^<<v22-13-16,16>>^ Envia-me, portanto, agora cem talentos de prata e dois de seus filhos como reféns, para que ele, sendo posto em liberdade, não fuja do nosso partido, e nós to remeteremos.
+
+[[v22-13-17]]
+
+^<<v22-13-17,17>>^ Simão, ainda que conheceu que Trifão lhe falava assim para o enganar, mandou todavia que se lhe levasse o dinheiro com os filhos, para não atrair contra si o ódio do povo de Israel, que poderia dizer:
+
+[[v22-13-18]]
+
+^<<v22-13-18,18>>^ Porque não lhe enviou dinheiro e os filhos, por isso é que Jónatas pereceu.
+
+[[v22-13-19]]
+
+^<<v22-13-19,19>>^ Mandou-lhe, pois, os filhos e os cem talentos, mas Trifão faltou à palavra e não remeteu Jónatas.
+
+[[v22-13-20]]
+
+^<<v22-13-20,20>>^ Depois disto, dirigiu-se Trifão à terra (de Judá) para a calcar e assolar, dando volta pelo caminho que vai a Adora, mas Simão e o seu exército seguiam-no por toda a parte, para onde ele ia.
+
+[[v22-13-21]]
+
+^<<v22-13-21,21>>^ Então os que estavam na cidadela (de Jerusalém) mandaram por uns mensageiros dizer a Trifão que se apressasse em vir pelo deserto e que lhes enviasse víveres.
+
+[[v22-13-22]]
+
+^<<v22-13-22,22>>^ Trifão dispôs toda a cavalaria para partir aquela mesma noite, mas tinha caído muita neve, e não pôde lá ir; avançou entretanto para o território de Galaad.
+
+[[v22-13-23]]
+
+^<<v22-13-23,23>>^ Estando perto de Bascama, matou ali Jónatas e sepultou-o.
+
+[[v22-13-24]]
+
+^<<v22-13-24,24>>^ Depois Trifão voltou para a sua terra.
+
+[[v22-13-25]]
+
+^<<v22-13-25,25>>^ Simão mandou buscar os ossos de seu irmão Jónatas e sepultou-os em Modin, que era a cidade de seus pais.
+
+[[v22-13-26]]
+
+^<<v22-13-26,26>>^ Todo Israel tomou grande dó pela sua morte e pranteou-o durante muitos dias.
+
+[[v22-13-27]]
+
+^<<v22-13-27,27>>^ Simão levantou sobre o sepulcro de seu pai e de seus irmãos um alto monumento, que se via de longe, cujas pedras eram polidas por detrás e por diante.
+
+[[v22-13-28]]
+
+^<<v22-13-28,28>>^ E levantou sete pirâmides, uma em frente da outra, a seu pai, a sua mãe e a seus quatro irmãos.
+
+[[v22-13-29]]
+
+^<<v22-13-29,29>>^ Pôs-lhes ornatos e à roda delas colocou grandes colunas; sobre estas colunas, armas, e ao pé das armas, navios esculpidos, que fossem vistos de longe por todos os que navegavam pelo mar.
+
+[[v22-13-30]]
+
+^<<v22-13-30,30>>^ Tal é o sepulcro, que levantou em Modin, o qual ainda hoje existe.
+
+[[v22-13-31]]
+
+^<<v22-13-31,31>>^ Trifão, procedendo dolosamente com o jovem rei Antíoco, deu-lhe a morte.
+
+[[v22-13-32]]
+
+^<<v22-13-32,32>>^ Reinou em lugar dele e pôs sobre a cabeça o diadema da Ásia, causando grandes males em todo o país.
+
+[[v22-13-33]]
+
+^<<v22-13-33,33>>^ Simão, entretanto, reparou as praças da Judeia, fortificando-as de altas torres, de grandes muros, de portas e ferrolhos, e abasteceu-as de víveres,
+
+[[v22-13-34]]
+
+^<<v22-13-34,34>>^ Escolheu Simão alguns homens que enviou ao rei Demétrio, pedindo-lhe que libertasse de impostos a Judeia, porque todo o procedimento de Trifão não tinha sido mais do que uma rapina.
+
+[[v22-13-35]]
+
+^<<v22-13-35,35>>^ O rei Demétrio respondeu a este pedido, escrevendo-lhe a carta seguinte:
+
+[[v22-13-36]]
+
+^<<v22-13-36,36>>^ O rei Demétrio, a Simão, sumo sacerdote e amigo dos reis, aos anciães e ao povo dos Judeus, saúde.
+
+[[v22-13-37]]
+
+^<<v22-13-37,37>>^ Recebemos a coroa de ouro e a palma, que nos mandastes, e estamos prontos a fazer convosco uma paz sólida e a escrever aos funcionários que vos dispensem dos impostos.
+
+[[v22-13-38]]
+
+^<<v22-13-38,38>>^ Tudo o que temos ordenado em vosso favor, continua válido. As fortalezas que edificastes, sejam vossas.
+
+[[v22-13-39]]
+
+^<<v22-13-39,39>>^ Também vos perdoamos as faltas e erros em que podeis ter caído até ao dia de hoje, assim como a coroa que devíeis; e, se qualquer outro imposto nos era pago em Jerusalém, não se tome ele mais a pagar.
+
+[[v22-13-40]]
+
+^<<v22-13-40,40>>^ Se entre vós há alguns que sejam capazes de se alistar nas nossas tropas, alistem-se e haja entre nós paz.
+
+[[v22-13-41]]
+
+^<<v22-13-41,41>>^ Com isto, no ano cento e setenta, foi tirado o jugo dos gentios a Israel.
+
+[[v22-13-42]]
+
+^<<v22-13-42,42>>^ E o povo de Israel começou a escrever nos documentos e contratos: No primeiro ano de Simão, sumo pontífice, general e chefe dos Judeus.
+
+[[v22-13-43]]
+
+^<<v22-13-43,43>>^ Naqueles dias Simão acampou junto de Gaza que sitiou com o seu exército. Levantou máquinas, aproximou-as da cidade, atacou uma das torres e apoderou-se dela.
+
+[[v22-13-44]]
+
+^<<v22-13-44,44>>^ Os que estavam numa destas máquinas atiraram-se sobre a cidade, o que aí causou grande confusão.
+
+[[v22-13-45]]
+
+^<<v22-13-45,45>>^ Os habitantes subiram às muralhas com suas mulheres e filhos, rasgadas as suas vestes, e clamaram em altos gritos, pedindo a Simão que lhes desse a sua mão direita.
+
+[[v22-13-46]]
+
+^<<v22-13-46,46>>^ Diziam: Não nos trates segundo a nossa maldade, mas segundo a tua clemência.
+
+[[v22-13-47]]
+
+^<<v22-13-47,47>>^ Movido Simão de piedade, não os combateu mais; contudo lançou-os fora da cidade, purificou as casas em que havia ídolos, e então é que entrou nela, entre hinos de louvor e cânticos de acção de graças.
+
+[[v22-13-48]]
+
+^<<v22-13-48,48>>^ Depois de tiradas da cidade todas as imundícies (idolátricas) pôs nela homens que observassem a lei; a seguir fortificou-a e fez nela habitação para si.
+
+[[v22-13-49]]
+
+^<<v22-13-49,49>>^ Entretanto os ocupantes da cidadela de Jerusalém, que não podiam sair à região (vizinha), para comprar ou vender, viram-se reduzidos a uma grande fome, e muitos deles morreram à míngua.
+
+[[v22-13-50]]
+
+^<<v22-13-50,50>>^ Gritaram a Simão, pedindo-lhe paz, e ele lha concedeu; contudo lançou-os fora da fortaleza e purificou-a de todas as contaminações.
+
+[[v22-13-51]]
+
+^<<v22-13-51,51>>^ Entrou nela no dia vinte e três do segundo mês, no ano cento e setenta e um, entoando louvores, levando ramos de palmas, ao toque de harpas, de címbalos, de liras, e cantando hinos e cânticos, por ter sido exterminado de Israel um grande inimigo.
+
+[[v22-13-52]]
+
+^<<v22-13-52,52>>^ (Simão) ordenou que todos os anos se celebrasse este dia com alegria.
+
+[[v22-13-53]]
+
+^<<v22-13-53,53>>^ Fortificou também o monte do templo, que era perto da cidadela, e habitou ali com os seus.
+
+[[v22-13-54]]
+
+^<<v22-13-54,54>>^ Em seguida, vendo Simão que João, seu filho, era um homem valente, fê-lo chefe de todas as tropas, com a residência em Gazara.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-012.adoc#v22-12-0[&#60; Capítulo Anterior] | <<v22-13-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-014.adoc#v22-14-0[Próximo Capítulo &#62;]

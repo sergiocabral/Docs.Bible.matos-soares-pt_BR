@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v1-23-0]]
+=== Gênesis, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 23 narra a morte de Sara e a busca de Abraão por um lugar para enterrá-la. Ele pede aos filhos de Hete uma caverna para usá-la como sepultura, e acaba comprando a Caverna de Macpela, onde ele enterra Sara. A história mostra a importância que Abraão dava ao enterro e à honra aos mortos, bem como o respeito aos costumes locais.
+* Salmos 116:15: "Preciosa é à vista do SENHOR a morte dos seus santos." Este versículo enfatiza a importância que Deus dá aos seus servos, mesmo após a morte, e pode ser relacionado à maneira como Abraão cuidou do enterro de Sara.
+* Eclesiastes 7:2: "Melhor é ir à casa onde há luto do que ir à casa onde há banquete, porque naquela está o fim de todos os homens, e os vivos o aplicam ao seu coração." Esse versículo enfatiza a importância de se lembrar da morte e do valor da vida. Abraão estava claramente ciente desse valor e buscou um lugar adequado para o enterro de Sara.
+* Filipenses 3:20: "Mas a nossa cidade está nos céus, donde também esperamos o Salvador, o Senhor Jesus Cristo." Este versículo enfatiza a ideia de que a nossa verdadeira casa não é na terra, mas nos céus. No entanto, assim como Abraão, é importante respeitar as tradições locais e dar a devida honra aos mortos enquanto estamos na terra.
+* Hebreus 11:13: "Todos estes morreram na fé, sem terem recebido as promessas; mas vendo-as de longe, e crendo nelas, e abraçando-as, confessaram que eram estrangeiros e peregrinos na terra." Este versículo destaca que os servos de Deus são como estrangeiros nesta terra, apenas de passagem, e nos lembra que devemos tratar a terra com respeito e honrar os costumes locais, mesmo enquanto nos preparamos para nossa verdadeira pátria.
+* Apocalipse 14:13: "E ouvi uma voz do céu, que me dizia: Escreve: Bem-aventurados os mortos que desde agora morrem no Senhor. Sim, diz o Espírito, para que descansem dos seus trabalhos, e as suas obras os sigam." Este versículo enfatiza que os mortos que morrem no Senhor serão abençoados e terão descanso. Abraão queria ter certeza de que Sara tivesse um lugar apropriado para descansar em paz.
+****
+
+[[v1-23-1]]
+
+^<<v1-23-1,1>>^ Sara viveu cento e vinte e sete anos,
+
+[[v1-23-2]]
+
+^<<v1-23-2,2>>^ e morreu na cidade de Arbeia, que é Hebron, na terra de Canaan. Abraão veio para a prantear e chorar.
+
+[[v1-23-3]]
+
+^<<v1-23-3,3>>^ Quando se levantou, depois de acabado o pranto fúnebre, falou aos filhos de Heth, dizendo:
+
+[[v1-23-4]]
+
+^<<v1-23-4,4>>^ sou forasteiro e peregrino entre vós: dai-me o direito da sepultura entre vós, para eu sepultar a minha defunta.
+
+[[v1-23-5]]
+
+^<<v1-23-5,5>>^ Os filhos de Heth responderam, dizendo:
+
+[[v1-23-6]]
+
+^<<v1-23-6,6>>^ senhor, ouve-nos: tu és entre nós um príncipe de Deus: sepulta a tua defunta nas nossas mais belas sepulturas, que nenhum de nós te proibirá que a sepultes no seu túmulo.
+
+[[v1-23-7]]
+
+^<<v1-23-7,7>>^ Abraão levantou-se e inclinou-se diante do povo daquela terra, isto é, diante dos filhos de Heth,
+
+[[v1-23-8]]
+
+^<<v1-23-8,8>>^ e disse-lhe: se é do vosso agrado que eu sepulte a minha defunta, ouvi-me e intercedei por mim junto de Efron, filho de Seor,
+
+[[v1-23-9]]
+
+^<<v1-23-9,9>>^ para que ele me ceda a dupla caverna, que tem na extremidade do seu campo; pelo seu justo preço ma ceda diante de vós, para que eu seja seu demo, e dela faça um sepulcro.
+
+[[v1-23-10]]
+
+^<<v1-23-10,10>>^ Ora Efron estava (sentado) no meio dos filhos de Heth. Efron respondeu a Abraão, ouvindo-o todos os que entravam pela porta da cidade, assim:
+
+[[v1-23-11]]
+
+^<<v1-23-11,11>>^ de nenhuma sorte, meu Senhor, mas antes ouve o que digo: dou-te o campo e a caverna que nele há, em presença dos filhos do meu povo: Sepulta a tua defunta.
+
+[[v1-23-12]]
+
+^<<v1-23-12,12>>^ Abraão inclinou-se, outra vez, diante do povo daquela terra,
+
+[[v1-23-13]]
+
+^<<v1-23-13,13>>^ e disse a Efron, em presença da multidão: peço-te que me ouças: eu te darei o dinheiro pelo campo; recebe-o, e assim sepultarei nele a minha defunta.
+
+[[v1-23-14]]
+
+^<<v1-23-14,14>>^ Efron respondeu:
+
+[[v1-23-15]]
+
+^<<v1-23-15,15>>^ meu Senhor, ouve-me: a terra, que tu pedes, vale quatrocentos siclos de prata: este é o (seu) preço entre mim e ti; mas que é isto? Sepulta a tua defunta.
+
+[[v1-23-16]]
+
+^<<v1-23-16,16>>^ Tendo ouvido isto, Abraão pesou na presença dos filhos de Heth o dinheiro que Efron tinha pedido, isto é, quatrocentos siclos de prata de boa moeda corrente
+
+[[v1-23-17]]
+
+^<<v1-23-17,17>>^ E o campo, outrora de Efron, no qual estava uma dupla caverna, que olhava para Mambré, tanto o campo como a caverna, e todas as árvores que estavam em redor dentro dos seus confins,
+
+[[v1-23-18]]
+
+^<<v1-23-18,18>>^ tudo foi cedido em pleno domínio a Abraão, na presença dos filhos de Heth e de todos os que entravam pela porta daquela cidade.
+
+[[v1-23-19]]
+
+^<<v1-23-19,19>>^ Deste modo, Abraão sepultou Sara, sua mulher, na dupla caverna do campo que olha para Mambré, que é Hebron, na terra de Canaan.
+
+[[v1-23-20]]
+
+^<<v1-23-20,20>>^ E foi confirmado a Abraão pelos filhos de Heth o domínio do campo e da caverna, que havia nele, para servir de sepulcro.
+
+'''
+
+xref:001-genesis/001-genesis-022.adoc#v1-22-0[&#60; Capítulo Anterior] | <<v1-23-0,Topo>> | xref:001-genesis/001-genesis-024.adoc#v1-24-0[Próximo Capítulo &#62;]

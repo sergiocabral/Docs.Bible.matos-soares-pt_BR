@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-144-0]]
+=== Salmos, 144
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 144 é um cântico de louvor e oração ao Senhor por sua fidelidade e bondade. Nele, o salmista reconhece a grandeza de Deus e sua ajuda constante nos momentos difíceis. Abaixo estão cinco versículos relacionados aos temas abordados no Salmo 144:
+* Salmos 145:3: "Grande é o Senhor e digno de ser louvado; sua grandeza não tem limites." O Salmo 145 é outro cântico de louvor a Deus, reconhecendo sua grandeza e bondade. Esse versículo destaca a mesma ideia presente no Salmo 144, de que Deus é digno de louvor e adoração.
+* Salmos 18:2: "O Senhor é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Esse versículo destaca a confiança que o salmista tem em Deus como seu protetor e libertador, um tema presente no Salmo 144.
+* Salmos 146:5: "Feliz aquele que tem o Deus de Jacó por seu auxílio, cuja esperança está no Senhor, no seu Deus," Esse versículo enfatiza a importância de confiar em Deus e depositar nossa esperança nele, um tema presente no Salmo 144.
+* Salmos 32:8: "Eu te instruirei e te ensinarei o caminho que deves seguir; eu te aconselharei e cuidarei de ti." Esse versículo destaca a ideia de que Deus nos guia e nos ajuda a tomar as decisões certas, um tema presente no Salmo 144.
+* Salmos 119:105: "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho." Esse versículo destaca a importância da palavra de Deus como guia para nossas vidas, um tema presente no Salmo 144, que fala sobre a lei de Deus e sua sabedoria.
+****
+
+[[v21-144-1]]
+
+^<<v21-144-1,1>>^ Louvores. De Davide. Eu te exaltarei, meu Deus, meu rei, bendirei o teu nome pelos séculos dos séculos,
+
+[[v21-144-2]]
+
+^<<v21-144-2,2>>^ cada dia te bendirei, louvarei o teu nome pelos séculos dos séculos.
+
+[[v21-144-3]]
+
+^<<v21-144-3,3>>^ Grande é o Senhor, muito digno de louvor, e a sua grandeza é insondável.
+
+[[v21-144-4]]
+
+^<<v21-144-4,4>>^ Uma geração apregoa a outra as tuas obras, e (todas) anunciam o teu poder.
+
+[[v21-144-5]]
+
+^<<v21-144-5,5>>^ Falam da esplêndida glória da tua majestade, divulgam as tuas maravilhas.
+
+[[v21-144-6]]
+
+^<<v21-144-6,6>>^ Falam do poder das tuas obras terríveis e contam a tua grandeza.
+
+[[v21-144-7]]
+
+^<<v21-144-7,7>>^ Proclamam o louvor da tua grande bondade e exultam com a tua justiça.
+
+[[v21-144-8]]
+
+^<<v21-144-8,8>>^ Clemente e misericordioso é o Senhor, tardo para a ira e de muita benignidade.
+
+[[v21-144-9]]
+
+^<<v21-144-9,9>>^ Bom é o Senhor para com todos, e compassivo com todas as suas obras.
+
+[[v21-144-10]]
+
+^<<v21-144-10,10>>^ Dêem-te glória, Senhor, todas as tuas obras, e os teus santos te bendigam.
+
+[[v21-144-11]]
+
+^<<v21-144-11,11>>^ Publiquem a glória do teu reino e falem do teu poder,
+
+[[v21-144-12]]
+
+^<<v21-144-12,12>>^ para darem a conhecer aos filhos dos homens o teu poder, e a glória do teu reino esplendoroso.
+
+[[v21-144-13]]
+
+^<<v21-144-13,13>>^ O teu reino é um reino que se estende a todos os séculos, e o teu império subsiste por todas as gerações. O Senhor é fiel em todas as suas palavras, santo em todas as suas obras.
+
+[[v21-144-14]]
+
+^<<v21-144-14,14>>^ O Senhor sustém todos os que caem, levanta todos os prostrados.
+
+[[v21-144-15]]
+
+^<<v21-144-15,15>>^ Os olhos de todos esperam em ti, Senhor, e tu lhes dás o sustento em tempo oportuno.
+
+[[v21-144-16]]
+
+^<<v21-144-16,16>>^ Tu abres a tua mão, e sacias com benevolência todos os viventes.
+
+[[v21-144-17]]
+
+^<<v21-144-17,17>>^ Justo é o Senhor em todos os seus caminhos, santo em todas as suas obras.
+
+[[v21-144-18]]
+
+^<<v21-144-18,18>>^ O Senhor está perto de todos os que o invocam, de todos os que o invocam com sinceridade.
+
+[[v21-144-19]]
+
+^<<v21-144-19,19>>^ Ele fará a vontade dos que o temem, ouvirá o seu clamor e os salvará.
+
+[[v21-144-20]]
+
+^<<v21-144-20,20>>^ O Senhor guarda todos os que o amam, e exterminará todos os ímpios.
+
+[[v21-144-21]]
+
+^<<v21-144-21,21>>^ Cante a minha boca o louvor do Senhor, e toda a carne bendiga o seu santo nome, pelos séculos dos séculos.
+
+'''
+
+xref:021-salmos/021-salmos-143.adoc#v21-143-0[&#60; Capítulo Anterior] | <<v21-144-0,Topo>> | xref:021-salmos/021-salmos-145.adoc#v21-145-0[Próximo Capítulo &#62;]

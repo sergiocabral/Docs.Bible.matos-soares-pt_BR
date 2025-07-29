@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v20-24-0]]
+=== Jó, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 24 de Jó aborda a aparente impunidade dos ímpios e o sofrimento dos justos diante dessa situação. Jó questiona por que Deus parece permitir que os ímpios prosperem e sejam bem-sucedidos, enquanto os justos sofrem e são oprimidos. Ele descreve várias formas de opressão e violência que são cometidas pelos ímpios contra os pobres e necessitados. Abaixo estão cinco versículos relacionados com esses temas:
+* Salmos 37:7 - "Descansa no Senhor, e espera nele; não te indignes por causa daquele que prospera em seu caminho, por causa do homem que executa astutos intentos." Este verso fala sobre esperar em Deus e não se preocupar com os ímpios que prosperam em suas práticas maliciosas. Isso pode ajudar a trazer paz àqueles que estão sofrendo, como Jó.
+* Salmos 73:3-5 - "Porque eu tinha inveja dos soberbos, quando via a prosperidade dos ímpios. Porque não há apertos na sua morte, mas firme está a sua força. Não se acham em trabalhos como outros homens, nem são afligidos como outros homens." O salmista também questiona a aparente prosperidade dos ímpios, observando como eles parecem evitar a dor e o sofrimento que os outros experimentam.
+* Isaías 10:1-2 - "Ai dos que decretam leis injustas, e dos escrivães que prescrevem opressão. Para desviarem os pobres do juízo, e para arrebatarem o direito dos aflitos do meu povo; para despojarem as viúvas e roubarem os órfãos!" Este verso denuncia a opressão cometida pelos ímpios contra os necessitados e vulneráveis, que é uma das principais preocupações de Jó no capítulo 24.
+* Jeremias 12:1 - "Tu és justo, ó Senhor, quando eu pleiteio contigo; contudo, falarei contigo sobre os teus juízos. Por que razão prospera o caminho dos ímpios, e vivem em paz todos os que procedem aleivosamente?" Este verso apresenta uma situação semelhante à de Jó, com o profeta Jeremias questionando a justiça de Deus diante do aparente sucesso dos ímpios.
+* Habacuque 1:2-3 - "Até quando, Senhor, clamarei eu, e tu não me escutarás? Gritar-te-ei: Violência! e não salvarás? Por que me mostras a iniquidade, e me fazes ver a opressão? Pois a destruição e a violência estão diante de mim; há contendas, e o litígio se suscita." Habacuque também questiona por que Deus parece permitir a violência e a opressão, especialmente em relação ao povo de Deus.
+****
+
+[[v20-24-1]]
+
+^<<v20-24-1,1>>^ Por que não reserva o Omnipotente para si os seus tempos, e os seus fiéis não veem os dias dele? (ver nota)
+
+[[v20-24-2]]
+
+^<<v20-24-2,2>>^ Uns invadem terrenos alheios, roubam rebanhos e os apascentam.
+
+[[v20-24-3]]
+
+^<<v20-24-3,3>>^ Levam o jumento dos órfãos, e tomam em penhor o boi da viúva.
+
+[[v20-24-4]]
+
+^<<v20-24-4,4>>^ Põem os pobres fora do caminho, e obrigam a esconder-se os humildes camponeses.
+
+[[v20-24-5]]
+
+^<<v20-24-5,5>>^ Outros (bons, mas pobres) como asnos monteses do deserto, saem do seu trabalho, madrugando à busca do seu pão e do pão de seus filhos.
+
+[[v20-24-6]]
+
+^<<v20-24-6,6>>^ Ceifando (esfomeados) o campo que não é seu, e vindimam a vasilha do ímpio.
+
+[[v20-24-7]]
+
+^<<v20-24-7,7>>^ Passam a noite nus, por falta de roupa, não têm com que se cobrir durante o frio.
+
+[[v20-24-8]]
+
+^<<v20-24-8,8>>^ São banhados pelas chuvas dos montes, e, não tendo com que se cobrir, rufugiam-se sob os rochedos.
+
+[[v20-24-9]]
+
+^<<v20-24-9,9>>^ Fizeram violência (os ímpios) roubando os órfãos, e despojaram os pobres.
+
+[[v20-24-10]]
+
+^<<v20-24-10,10>>^ Estes andam nus, por falta de roupa; levam feixes de espigas (dos senhores), e têm fome,
+
+[[v20-24-11]]
+
+^<<v20-24-11,11>>^ moem as zeitonas e pisam as uvas e têm sede.
+
+[[v20-24-12]]
+
+^<<v20-24-12,12>>^ Da cidade sobem os gemidos dos moribundos, a alma dos feridos clama vingança, e Deus não escuta as suas súplicas.
+
+[[v20-24-13]]
+
+^<<v20-24-13,13>>^ (Os impios) foram rebeldes à luz, não conheceram os caminhos (de Deus) não andaram pelas suas veredas.
+
+[[v20-24-14]]
+
+^<<v20-24-14,14>>^ O homicida levanta-se ao amanhecer, mata o mendigo e o pobre, ronda de noite como ladrão.
+
+[[v20-24-15]]
+
+^<<v20-24-15,15>>^ O olho do adúltero observa o escurecer e diz: Ninguém me verá, - e oculta com um véu o seu rosto.
+
+[[v20-24-16]]
+
+^<<v20-24-16,16>>^ Arrombam nas trevas as casas, de dia conservam-se escondidos, não conhecem a luz (mas odeiam-na).
+
+[[v20-24-17]]
+
+^<<v20-24-17,17>>^ Se a aurora aparece de súbito, é para eles como uma sombra de morte; são-lhes familiares os terrores da noite.
+
+[[v20-24-18]]
+
+^<<v20-24-18,18>>^ (O ímpio) corre veloz sobre a superfície das águas; maldita seja a sua herança sobre a terra, e não ande pelo caminho das vinhas _(nem goze os seus frutos).
+
+[[v20-24-19]]
+
+^<<v20-24-19,19>>^ Passe das águas da neve para um excessivo, calor, e o seu pecado vá (com ele) até aos infernos.
+
+[[v20-24-20]]
+
+^<<v20-24-20,20>>^ A misericórdia se esqueça dele; os vermes sejam a sua delicia; não haja dele memória. mas seja feito em pedaços como árvore que dão dá fruto.
+
+[[v20-24-21]]
+
+^<<v20-24-21,21>>^ Com efeito devorou (ou roubou) a estéril que não dá filhos, e não fez bem à viúva.
+
+[[v20-24-22]]
+
+^<<v20-24-22,22>>^ Destroçou os valentes com a sua fortaleza, mas, quando estiver em pé, não terá segura a sua vida.
+
+[[v20-24-23]]
+
+^<<v20-24-23,23>>^ Deus deu-lhe tempo de penitência, e ele abusa disto para se ensoberbecer, mas os olhos de Deus estão fixos nos seus caminhos.
+
+[[v20-24-24]]
+
+^<<v20-24-24,24>>^ Elevar-se-ão por um pouco de tempo, mas não subsistirão, e serão humilhados e arrebatados como todos os outros, e como cabeças de espigas serão cortados.
+
+[[v20-24-25]]
+
+^<<v20-24-25,25>>^ Se isto não é assim, quem me poderá convencer de mentira, e acusar as minhas palavras diante de Deus?
+
+'''
+
+xref:020-jo/020-jo-023.adoc#v20-23-0[&#60; Capítulo Anterior] | <<v20-24-0,Topo>> | xref:020-jo/020-jo-025.adoc#v20-25-0[Próximo Capítulo &#62;]

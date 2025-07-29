@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v15-6-0]]
+=== Esdras, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 6 de Esdras começa com o rei Dario confirmando o decreto de Ciro para a reconstrução do Templo em Jerusalém e ordenando que seja completado. Os inimigos de Judá tentam impedir a construção novamente, mas desta vez o governador Tatenai consulta o rei Dario e recebe ordem para permitir a continuação da obra. O Templo é completado e consagrado com a celebração da Páscoa. Abaixo estão cinco versículos relacionados com os temas abordados em Esdras 6.
+* Provérbios 21:1: "O coração do rei é como um ribeiro de águas na mão do SENHOR; ele o inclina para onde quer." Este versículo fala sobre como Deus tem o controle sobre o coração dos reis e pode incliná-los de acordo com Sua vontade. Isso se relaciona com o capítulo de Esdras 6, onde o rei Dario confirma o decreto de Ciro para a reconstrução do Templo.
+* Neemias 8:10: "E disse-lhes: Ide, comei as gorduras e bebei as doçuras, e enviai porções aos que não têm nada preparado para si; porque esse dia é consagrado ao nosso SENHOR; portanto, não vos entristeçais, porque a alegria do SENHOR é a vossa força." Este versículo fala sobre a celebração da Páscoa e a alegria que vem da presença de Deus. Isso se relaciona com o capítulo de Esdras 6, onde a reconstrução do Templo é completada e consagrada com a celebração da Páscoa.
+* Neemias 6:9: "Porque todos eles procuravam atemorizar-nos, dizendo: As suas mãos largarão a obra, e não se efetuará. Agora, pois, ó Deus, fortalece as minhas mãos." Este versículo fala sobre a tentativa dos inimigos de Judá de impedir a reconstrução dos muros de Jerusalém. Isso se relaciona com o capítulo de Esdras 6, onde os inimigos tentam impedir a reconstrução do Templo, mas são impedidos pelo governador Tatenai e pelo rei Dario.
+* Salmos 118:22: "A pedra que os construtores rejeitaram tornou-se a cabeça da esquina." Este versículo fala sobre a rejeição e exaltação da pedra angular, que se tornou uma metáfora para Jesus Cristo. Isso se relaciona com o capítulo de Esdras 6, onde o Templo é reconstruído como um lugar de adoração a Deus.
+* Neemias 8:18: "E no dia vinte e quatro deste mês se ajuntaram os filhos de Israel em jejum e em vestes de saco, e com terra sobre si." Este versículo fala sobre o jejum e o arrependimento do povo de Israel. Isso se relaciona com o capítulo de Esdras 6, onde o povo de Judá celebra a consagração do Templo com um período de jejum e oração.
+****
+
+[[v15-6-1]]
+
+^<<v15-6-1,1>>^ Então o rei Dario mandou que se fizessem investigações na casa dos arquivos, onde estavam depositados os tesouros, em Babilônia.
+
+[[v15-6-2]]
+
+^<<v15-6-2,2>>^ Foi encontrado em Ecbatana, que é uma fortaleza da província de Média, um livro, onde estava registada a seguinte memória:
+
+[[v15-6-3]]
+
+^<<v15-6-3,3>>^ No primeiro ano do rei Ciro, o rei Ciro ordenou que a casa de Deus, que está em Jerusalém, seja reedificada para ser um lugar onde se possam oferecer vitimas, e que lhe sejam lançados sólidos fundamentos. Terá sessenta côvados de altura e sessenta de largura,
+
+[[v15-6-4]]
+
+^<<v15-6-4,4>>^ com três ordens de pedras por polir, e uma ordem de madeira nova. Que as despesas sejam feitas pela casa do rei.
+
+[[v15-6-5]]
+
+^<<v15-6-5,5>>^ Que também os vasos de ouro e prata, que Nabucodonosor tinha tirado do templo de Jerusalém e transportado para Babilônia, sejam restituídos e reconduzidos para o templo de Jerusalém, para o seu lugar, sejam colocados no templo de Deus.
+
+[[v15-6-6]]
+
+^<<v15-6-6,6>>^ Agora, pois, Talanai, governador das terras, que estão da banda de além do rio, Starbuzanai, e vossos colegas Afarsaqueus, que viveis da banda de além do rio, retirai-vos dos Judeus.
+
+[[v15-6-7]]
+
+^<<v15-6-7,7>>^ Deixai que prossigam os trabalhos do templo de Deus, e que o governador dos Judeus e os seus anciãos edifiquem aquela casa de Deus no seu lugar.
+
+[[v15-6-8]]
+
+^<<v15-6-8,8>>^ Também ordeno como é que se deve proceder com aqueles anciãos dos Judeus, pelo que diz respeito à edificação da casa de Deus: do erário do rei, isto é, dos tributos que pagam as terras de além do rio, pague-se com pontualidade àqueles homens o que for necessário para as despesas, para que não se embarace a obra.
+
+[[v15-6-9]]
+
+^<<v15-6-9,9>>^ Sendo necessário, deem-se-lhes, sem falta, todos os dias novilhos, cordeiros e cabritos, para se oferecerem em holocausto ao Deus do céu, e trigo, sal, vinho e azeite, conforme o regulamento dos sacerdotes que assistem em Jerusalém, para que
+
+[[v15-6-10]]
+
+^<<v15-6-10,10>>^ ofereçam sacrifícios de agradável odor ao Deus do céu, e roguem pela vida do rei e de seus filhos.
+
+[[v15-6-11]]
+
+^<<v15-6-11,11>>^ Além disso, também ordeno que, se alguém contrariar este edito, se arranque um pau de sua casa, se levante ao alto, e seja pregado nele, e a sua casa seja confiscada.
+
+[[v15-6-12]]
+
+^<<v15-6-12,12>>^ Deus, que estabeleceu o seu nome naquele lugar, dissipe todos os reinos e o povo que estender a sua mão para o contradizer e para destruir aquela casa de Deus, que está em Jerusalém. Eu, Dario, fiz este decreto, e quero que ele seja cumprido pontualmente.
+
+[[v15-6-13]]
+
+^<<v15-6-13,13>>^ Tatanai, goveruador do território de além do rio, e Starbuzanai e os seus colegas, conforme o que tinha ordenado o rei Dario, assim o executaram.
+
+[[v15-6-14]]
+
+^<<v15-6-14,14>>^ Os anciãos dos Judeus edificavam e eram bem sucedidos, conforme a profecia do profeta Ageu e de Zacarias, filho de Ado; construíram o edifício por mandado do Deus de Israel, e por ordem de Ciro, de Dario e de Artaxerxes, reis dos Persas;
+
+[[v15-6-15]]
+
+^<<v15-6-15,15>>^ completaram a casa de Deus no dia trés do mês de Adar, no sexto ano do reinado do rei Dario.
+
+[[v15-6-16]]
+
+^<<v15-6-16,16>>^ Os filhos de Israel, os sacerdotes, os Levitas e os outros filhos (que tinham voltado) do cativeiro, celebraram a dedicação da casa de Deus com regozijo.
+
+[[v15-6-17]]
+
+^<<v15-6-17,17>>^ Ofereceram, para a dedicação da casa de Deus, cem novilhos, duzentos carneiros, quatrocentos cordeiros, doze bodes pelo pecado de todo o Israel, segundo o número das tribos de Israel.
+
+[[v15-6-18]]
+
+^<<v15-6-18,18>>^ Estabeleceram os sacerdotes nas suas ordens, e os Levitas nos seus turnos, para o serviço de Deus em Jerusalém, como está escrito no livro de Moisés.
+
+[[v15-6-19]]
+
+^<<v15-6-19,19>>^ Os filhos de Israel, que tinham vindo do cativeiro, celebraram a Páscoa no dia catorze do primeiro mês.
+
+[[v15-6-20]]
+
+^<<v15-6-20,20>>^ Os sacerdotes e os Levitas tinham-se purificado, como se fossem um só homem; todos estavam puros para imolar a Páscoa para todos os Israelitas vindos do cativeiro, para os sacerdotes seus irmãos e para si mesmos.
+
+[[v15-6-21]]
+
+^<<v15-6-21,21>>^ Comeram-na os filhos de Israel, que tinham voltado do cativeiro, e todos aqueles que, separando-se da corrupção dos povos do país, se tinham unido a eles, para buscarem o Senhor Deus de Israel.
+
+[[v15-6-22]]
+
+^<<v15-6-22,22>>^ Celebraram a solenidade dos ázimos durante sete dias com alegria, porque o Senhor os tinha enchido de contentamento mudando o coração do rei da Assíria a seu favor, para este os ajudar na obra da casa do Senhor Deus de Israel.
+
+'''
+
+xref:015-esdras/015-esdras-005.adoc#v15-5-0[&#60; Capítulo Anterior] | <<v15-6-0,Topo>> | xref:015-esdras/015-esdras-007.adoc#v15-7-0[Próximo Capítulo &#62;]

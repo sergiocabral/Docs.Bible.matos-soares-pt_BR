@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v13-29-0]]
+=== I Crônicas, 29
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 29 de 1 Crônicas descreve a generosidade de Davi e do povo de Israel ao contribuírem com materiais para a construção do templo que seu filho Salomão iria construir. Davi faz uma oração de agradecimento a Deus e pede que Ele abençoe e proteja Salomão e o povo de Israel. Aqui estão cinco versículos relacionados com os temas abordados em 1 Crônicas 29:
+* Salmos 24:1: "Do Senhor é a terra e tudo o que nela existe, o mundo e os que nele vivem." Davi reconhece que todas as coisas pertencem a Deus e que Ele é o criador e sustentador de tudo.
+* 2 Coríntios 9:6-7: "Lembrem-se disso: aquele que semeia pouco, colherá pouco, e aquele que semeia muito, colherá muito. Cada um dê conforme determinou em seu coração, não com pesar ou por obrigação, pois Deus ama quem dá com alegria." Paulo incentiva os cristãos a serem generosos em suas doações, não por obrigação, mas porque é uma expressão de amor e gratidão a Deus.
+* Provérbios 3:9-10: "Honre o Senhor com todos os seus recursos e com os primeiros frutos de todas as suas plantações; os seus celeiros ficarão plenamente cheios, e os seus barris transbordarão de vinho novo." O autor de Provérbios enfatiza a importância de honrar a Deus com as nossas posses e promete que Ele nos abençoará abundantemente em retorno.
+* 1 Timóteo 6:17-19: "Ordene aos que são ricos no presente mundo que não sejam arrogantes, nem ponham sua esperança na incerteza da riqueza, mas em Deus, que nos provê tudo abundantemente, para a nossa satisfação. Ordene-lhes que façam o bem, que sejam ricos em boas obras, que sejam generosos e prontos para repartir. Dessa forma, eles acumularão para si mesmos um tesouro seguro para o futuro e alcançarão a verdadeira vida." Paulo instrui Timóteo a ensinar aos ricos a colocarem sua esperança em Deus, em vez de suas riquezas, e a serem generosos em suas doações para acumular tesouros no céu.
+* Malaquias 3:10: "Tragam o dízimo todo ao depósito do templo, para que haja alimento em minha casa. Ponham-me à prova”, diz o Senhor dos Exércitos, “e vejam se não vou abrir as comportas dos céus e derramar sobre vocês tantas bênçãos que nem terão onde guardá-las." Deus desafia Seu povo a ser generoso em seus dízimos e promete abençoá-los abundantemente em retorno.
+****
+
+[[v13-29-1]]
+
+^<<v13-29-1,1>>^ O rei disse a toda a assembleia: Deus escolheu um só, o meu filho Salomão, que é jovem e tenro; a empresa é grande, porque não se prepara a morada para um homem, mas para Deus.
+
+[[v13-29-2]]
+
+^<<v13-29-2,2>>^ Eu, pois, com todas as minha forças preparei o que era necessário para as despesas da casa do meu Deus: ouro para os vasos de ouro, prata para os de prata, bronze para as obras de bronze, ferro para as de ferro, madeira para as de madeira; preparei também pedras de ónix, e pedras semelhantes ao alabastro, e de diversas cores, toda a casta de pedras preciosas e mármores de Paros em grandíssima quantidade.
+
+[[v13-29-3]]
+
+^<<v13-29-3,3>>^ Além destas coisas, que ofereci para a casa do meu Deus, dou do meu pecúlio o ouro e a prata para o templo do meu Deus, sem falar do que preparei para o santuário:
+
+[[v13-29-4]]
+
+^<<v13-29-4,4>>^ três mil talentos de ouro de Ofir, e sete mil talentos de prata finíssima para revestimento das paredes do templo.
+
+[[v13-29-5]]
+
+^<<v13-29-5,5>>^ Desta sorte, quando seja preciso ouro, façam-se de ouro as obras, quando for preciso a prata, façam-se de prata as obras pelas mãos dos artistas. Se alguém, por sua vontade, oferecer alguma coisa ao Senhor, encha hoje as suas mãos e ofereça ao Senhor o que bem lhe parecer.
+
+[[v13-29-6]]
+
+^<<v13-29-6,6>>^ Fizeram ofertas voluntàriamente os chefes das famílias, os nobres das tribos de Israel, os chefes de milhar, os centuriões e os intendentes da fazenda do rei.
+
+[[v13-29-7]]
+
+^<<v13-29-7,7>>^ Deram para as obras da casa de Deus cinco mil talentos de ouro, e dez mil dáricos; dez mil talentos de prata, dezoito mil talentos de cobre, e cem mil talentos de ferro.
+
+[[v13-29-8]]
+
+^<<v13-29-8,8>>^ Todos os que tinham pedras preciosas, deram-nas para os tesouros da casa do Senhor, por mão de Jaiel Gersonita.
+
+[[v13-29-9]]
+
+^<<v13-29-9,9>>^ O povo alegrou-se, ao fazer estas oferendas voluntárias, porque as fazia de todo o seu coração ao Senhor; o rei Davide da mesma sorte se alegrou em extremo,
+
+[[v13-29-10]]
+
+^<<v13-29-10,10>>^ e louvou o Senhor diante de toda esta multidão, dizendo: Bem-dito és tu, ó Senhor Deus de Israel, nosso pai, de eternidade em eternidade.
+
+[[v13-29-11]]
+
+^<<v13-29-11,11>>^ Tua é, Senhor, a grandeza, o poder, honra, majestade e porque tudo o que há no céu e na terra, é teu; teu é, Senhor, o império, e tu estás acima de todos os príncipes.
+
+[[v13-29-12]]
+
+^<<v13-29-12,12>>^ Tuas são as riquezas, tua é a glória; tu és o dominador de tudo, na tua mão está a fortaleza e o poder; na tua mão está o dar grandeza e solidez a todas as coisas.
+
+[[v13-29-13]]
+
+^<<v13-29-13,13>>^ Agora, pois, ó Deus nosso, nós te louvamos e celebramos o teu nome glorioso.
+
+[[v13-29-14]]
+
+^<<v13-29-14,14>>^ Quem sou eu, e quem é o meu povo, para te podermos oferecer todas estas coisas? Tudo é teu, e o que recebemos da tua mão, isso mesmo te oferecemos.
+
+[[v13-29-15]]
+
+^<<v13-29-15,15>>^ Nós somos peregrinos e estrangeiros diante de ti, como todos os nossos pais. Os nossos dias são como a sombra sobre a terra, e não há consistência alguma.
+
+[[v13-29-16]]
+
+^<<v13-29-16,16>>^ Senhor nosso Deus, toda esta riqueza, que juntamos para se edificar uma casa ao teu santo nome, veio da tua mão, e todas as coisas são tuas.
+
+[[v13-29-17]]
+
+^<<v13-29-17,17>>^ Eu sei, Deus meu, que sondas os corações e que amas a simplicidade, e por isso eu também te ofereci alegre todas estas coisas, na simplicidade do meu coração, e vi que o teu povo, que aqui está reunido, te ofereceu os seus presentes com grande alegria.
+
+[[v13-29-18]]
+
+^<<v13-29-18,18>>^ Senbor Deus de nossos pais Abraão, Isaac e Israel, conserva eternamente este afeto no coração do teu povo, e encaminha para ti o seu coração.
+
+[[v13-29-19]]
+
+^<<v13-29-19,19>>^ Dá também a meu filho Salomão um coração perfeito, para que guarde os teus mandamentos, as tuas leis e as tuas cerimônias, cumpra tudo, e edifique a casa, para a qual fiz preparativos.
+
+[[v13-29-20]]
+
+^<<v13-29-20,20>>^ Depois disto, Davide disse a todo o ajuntamento: Bem-dizei o Senhor nosso Deus. E todo o povo bem-disse o Senhor Deus de seus pais, prostrando-se e adorando a Deus, e em seguida (prestando as suas homenagens) ao rei.
+
+[[v13-29-21]]
+
+^<<v13-29-21,21>>^ Imolaram vítimas ao Senhor, e, no dia seguinte, ofereceram em holocausto mil touros, mil carneiros, mil cordeiros, com as suas libações ordinárias e muitos outros sacrifícios por todo o Israel.
+
+[[v13-29-22]]
+
+^<<v13-29-22,22>>^ E comeram e beberam naquele dia diante do Senhor, com grande regozijo. Ungiram segunda vez Salomão, filho de Davide. Ungiram-no diante do Senhor como rei, e a Sadoc como pontífice.
+
+[[v13-29-23]]
+
+^<<v13-29-23,23>>^ Salomão sentou-se no trono do Senhor, como rei em lugar de Davide, seu pai; agradou a todos, e todo o Israel lhe rendeu obediência.
+
+[[v13-29-24]]
+
+^<<v13-29-24,24>>^ Todos os príncipes, todos os grandes, mesmo todos os filhos do rei Davide juraram fidelidade e submeteram-se ao rei Salomão.
+
+[[v13-29-25]]
+
+^<<v13-29-25,25>>^ O Senhor elevou Salomão sobre todo o Israel e deu-lhe no seu reinado tal glória, qual antes dele não teve nenhum rei de Israel.
+
+[[v13-29-26]]
+
+^<<v13-29-26,26>>^ Davide, filho de Isaf, assim reinou sobre todo o Israel.
+
+[[v13-29-27]]
+
+^<<v13-29-27,27>>^ O tempo que reinou sobre Israel foi de quarenta anos: em Hebron reinou sete anos, e em Jerusalém trinta e três anos.
+
+[[v13-29-28]]
+
+^<<v13-29-28,28>>^ Morreu numa ditosa velhice, cheio de dias, de bens e de glória. Salomão seu filho reinou em lugar dele.
+
+[[v13-29-29]]
+
+^<<v13-29-29,29>>^ As ações do rei Davide, desde as primeiras às últimas, estão escritas no livro de Samuel, o vidente, no livro do profeta Natan e no volume de Gad, o vidente,
+
+[[v13-29-30]]
+
+^<<v13-29-30,30>>^ com tudo o que ocorreu no seu reinado, o seu poder e as vicissitudes por que passou, assim como Israel e todos os reinos da terra.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-028.adoc#v13-28-0[&#60; Capítulo Anterior] | <<v13-29-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-001.adoc#v14-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,43 @@
+include::./index.adoc[]
+
+[[v20-25-0]]
+=== Jó, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 25 de Jó é uma das menores seções do livro, consistindo em apenas seis versículos. Nele, Bildade, um dos amigos de Jó, responde ao questionamento de Jó e apresenta sua perspectiva sobre a justiça divina e a insignificância da humanidade diante de Deus. Os versículos relacionados aos temas abordados em Jó 25 são:
+* Jó 4:17-19: "Pode o homem ser justo diante de Deus? Ser puro aquele que nasce de mulher? Eis que Deus não confia nos seus santos, e até os céus não são puros aos seus olhos; quanto menos o homem, que é abominável e corrupto, que bebe a iniquidade como água!" Bildade acredita que é impossível que o homem seja justo diante de Deus e que, por mais que ele tente, nunca será puro o suficiente para se aproximar do Criador.
+* Salmos 8:4: "Que é o homem mortal para que te lembres dele? E o filho do homem, para que o visites?" Esse versículo apresenta a perspectiva de que a humanidade é pequena e insignificante em comparação com a grandeza de Deus e sua criação.
+* Jó 15:14-16: "Que é o homem, para que seja puro? E o que nasce de mulher, para ser justo? Eis que Deus não confia nos seus santos, e nem os céus são puros aos seus olhos. Quanto menos o homem, que é abominável e corrupto, que bebe a iniquidade como água!" Este versículo é semelhante ao primeiro, mas é uma fala de Elifaz, outro dos amigos de Jó, que concorda com a perspectiva de Bildade.
+* Salmos 144:3-4: "Senhor, que é o homem, para que o conheças, ou o filho do homem, para que o consideres? O homem é como um sopro; seus dias são como a sombra que passa." Esse salmo também apresenta a ideia de que a humanidade é frágil e efêmera, em contraste com a eternidade de Deus.
+* Jó 9:2-3: "Na verdade sei que assim é; como, pois, pode ser justificado o homem para com Deus? Se quiser contender com ele, de mil coisas não responderá uma." Neste versículo, Jó expressa sua compreensão de que é impossível para o homem justificar-se diante de Deus e que não adianta discutir com Ele, pois Deus é superior e incompreensível para a mente humana.
+****
+
+[[v20-25-1]]
+
+^<<v20-25-1,1>>^ Então, respondendo Baldad Suita, disse:
+
+[[v20-25-2]]
+
+^<<v20-25-2,2>>^ O poder e o terror estão naquele que mantém a concórdia (e a harmonia) nos seus altos (céus).
+
+[[v20-25-3]]
+
+^<<v20-25-3,3>>^ Porventura têm número as suas (celestiais) milicias? E sobre quem é que não se levanta a sua luz?
+
+[[v20-25-4]]
+
+^<<v20-25-4,4>>^ Porventura pode justificar-se o homem, comparado com Deus, ou aparecer puro o que nasceu da mulher?
+
+[[v20-25-5]]
+
+^<<v20-25-5,5>>^ Eis que a mesma lua não tem resplendor, e as mesmas estrelas não são puras na sua presença;
+
+[[v20-25-6]]
+
+^<<v20-25-6,6>>^ quanto menos o homem, que é podridão, e o filho do homem, que é um verme!
+
+'''
+
+xref:020-jo/020-jo-024.adoc#v20-24-0[&#60; Capítulo Anterior] | <<v20-25-0,Topo>> | xref:020-jo/020-jo-026.adoc#v20-26-0[Próximo Capítulo &#62;]

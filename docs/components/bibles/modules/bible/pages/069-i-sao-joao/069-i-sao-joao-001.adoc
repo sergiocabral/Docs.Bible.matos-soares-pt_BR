@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v69-1-0]]
+=== I São João, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 de 1 São João aborda a importância da confissão dos pecados e do perdão, bem como a natureza de Deus e a necessidade de andar em luz e verdade. Abaixo estão cinco versículos relacionados com esses temas, em ordem de proximidade com o capítulo:
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará; mas o que as confessa e deixa alcançará misericórdia." Esse versículo destaca a importância da confissão dos pecados e da necessidade de abandoná-los para receber misericórdia.
+* Salmos 32:5: "Confessei-te o meu pecado e a minha iniquidade não mais ocultei. Disse: confessarei ao SENHOR as minhas transgressões; e tu perdoaste a culpa do meu pecado." Esse versículo fala sobre a alegria e alívio que vem da confissão dos pecados e do perdão de Deus.
+* Isaías 1:18: "Vinde, pois, e arrazoemos, diz o SENHOR; ainda que os vossos pecados são como a escarlata, eles se tornarão brancos como a neve; ainda que são vermelhos como o carmesim, tornar-se-ão como a branca lã." Este versículo destaca a misericórdia e o perdão de Deus, que transforma nossos pecados em pureza.
+* João 8:12: "Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida." Este versículo se relaciona com a ideia de andar em luz e verdade, que é discutida em 1 São João 1.
+* 1 João 3:5: "Sabeis também que ele se manifestou para tirar os pecados; e nele não há pecado." Este versículo enfatiza a natureza de Cristo como o salvador que tira nossos pecados e nos purifica.
+****
+
+[[v69-1-1]]
+
+^<<v69-1-1,1>>^ O que era desde o principio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos, o que apalparam as nossas mãos relativamente ao Verbo da vida,
+
+[[v69-1-2]]
+
+^<<v69-1-2,2>>^ porque a vida se manifestou: nós a vimos, damos dela testemunho e vos anunciamos a vida eterna, que estava no Pai e nos apareceu
+
+[[v69-1-3]]
+
+^<<v69-1-3,3>>^ isso que vimos e ouvimos, vo-lo anunciamos, para que vós também tenhais comunhão conosco, e para que a nossa comunhão seja com o Pai e com seu Filho Jesus Cristo.
+
+[[v69-1-4]]
+
+^<<v69-1-4,4>>^ Estas coisas vos escrevemos, para que a nossa alegria seja completa.
+
+[[v69-1-5]]
+
+^<<v69-1-5,5>>^ A nova, que ouvimos dele e que vos anunciamos, é esta: Deus é luz e não há nele nenhumas trevas.
+
+[[v69-1-6]]
+
+^<<v69-1-6,6>>^ Se pretendemos ter comunhão com ele e andamos nas trevas (do pecado), mentimos e não praticamos a verdade.
+
+[[v69-1-7]]
+
+^<<v69-1-7,7>>^ Porém, se andamos na luz (da verdade e da santidade), como ele mesmo também está na luz, temos comunhão recíproca, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado.
+
+[[v69-1-8]]
+
+^<<v69-1-8,8>>^ Se pretendemos não ter pecado (menos venial), enganamo-nos, e não há verdade em nós.
+
+[[v69-1-9]]
+
+^<<v69-1-9,9>>^ Porém se confessamos (com humildade e arrependimento) os nossos pecados, (Deus) é fiel e justo para no-Ios perdoar e para nos purificar de toda a iniquidade.
+
+[[v69-1-10]]
+
+^<<v69-1-10,10>>^ Se pretendemos não ter pecado, fazemo-lo mentiroso, e a sua palavra não está em nós. (ver nota)
+
+'''
+
+xref:068-ii-sao-pedro/068-ii-sao-pedro-003.adoc#v68-3-0[&#60; Capítulo Anterior] | <<v69-1-0,Topo>> | xref:069-i-sao-joao/069-i-sao-joao-002.adoc#v69-2-0[Próximo Capítulo &#62;]

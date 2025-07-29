@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v21-19-0]]
+=== Salmos, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 19 é um poema que celebra a grandeza e a glória de Deus, manifestas através da criação e da Sua lei. O salmista começa louvando a Deus por Sua criação, depois fala sobre a perfeição da lei do Senhor e a sua importância para a vida do homem. Por fim, ele pede a Deus que o proteja de seus próprios pecados e que as palavras de sua boca e a meditação do seu coração sejam agradáveis a Ele.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." O Salmo 19 fala sobre a perfeição e a importância da lei do Senhor, e este versículo do livro de Provérbios enfatiza a importância de confiar em Deus em todos os caminhos e não em nossa própria compreensão limitada.
+* Romanos 1:20: "Pois desde a criação do mundo os atributos invisíveis de Deus, seu eterno poder e sua natureza divina, têm sido vistos claramente, sendo compreendidos por meio das coisas criadas, de forma que tais homens são indesculpáveis." Este versículo do livro de Romanos fala sobre a revelação de Deus através da criação, o que é um tema central do Salmo 19.
+* Salmos 119:105: "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho." O salmista do Salmo 19 celebra a perfeição da lei do Senhor, e este versículo do Salmo 119 reforça essa ideia, afirmando que a palavra de Deus é uma lâmpada para os nossos pés e uma luz para o nosso caminho.
+* Colossenses 1:16-17: "Pois nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos ou soberanias, poderes ou autoridades; todas as coisas foram criadas por ele e para ele. Ele é antes de todas as coisas, e nele tudo subsiste." Este versículo do livro de Colossenses destaca a grandeza de Deus como criador, um tema que é central no Salmo 19.
+* Salmos 119:18: "Abre os meus olhos, para que eu veja as maravilhas da tua lei." O salmista do Salmo 19 fala sobre a perfeição da lei do Senhor, e este versículo do Salmo 119 pede a Deus para abrir os olhos do salmista para que ele possa ver as maravilhas da lei de Deus.
+****
+
+[[v21-19-1]]
+
+^<<v21-19-1,1>>^ Ao mestre do coro. Salmo. De Davide.
+
+[[v21-19-2]]
+
+^<<v21-19-2,2>>^ O Senhor te ouça no dia da tribulação, o nome do Deus de Jacob te proteja.
+
+[[v21-19-3]]
+
+^<<v21-19-3,3>>^ Envie-te socorro do santuário, e de Sião te sustenha.
+
+[[v21-19-4]]
+
+^<<v21-19-4,4>>^ Tenha presentes todas as tuas oblações, e o teu holocausto lhe seja agradável.
+
+[[v21-19-5]]
+
+^<<v21-19-5,5>>^ Ele te dê o que o teu coração deseja e cumpra todos os teus desígnios.
+
+[[v21-19-6]]
+
+^<<v21-19-6,6>>^ Possamos regozijar-nos com a tua vitória, e içar bandeiras em nome do nosso Deus; satisfaça o Senhor todas as tuas petições.
+
+[[v21-19-7]]
+
+^<<v21-19-7,7>>^ Agora conheci que o Senhor concedeu a vitória ao seu ungido, e o ouviu do seu santo céu, com o poder da sua dextra vitoriosa.
+
+[[v21-19-8]]
+
+^<<v21-19-8,8>>^ Estes (confiam) nas suas carroças, aqueles nos seus cavalos, nós, porém, somos fortes no nome do Senhor, nosso Deus.
+
+[[v21-19-9]]
+
+^<<v21-19-9,9>>^ Eles vacilaram e caíram, mas nós conservamo-nos de pé e permanecemos firmes.
+
+[[v21-19-10]]
+
+^<<v21-19-10,10>>^ Senhor, concedei a vitória ao rei, e ouve-nos no dia em que te invocamos.
+
+'''
+
+xref:021-salmos/021-salmos-018.adoc#v21-18-0[&#60; Capítulo Anterior] | <<v21-19-0,Topo>> | xref:021-salmos/021-salmos-020.adoc#v21-20-0[Próximo Capítulo &#62;]

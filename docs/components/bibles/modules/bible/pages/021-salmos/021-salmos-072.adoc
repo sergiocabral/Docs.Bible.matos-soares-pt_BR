@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v21-72-0]]
+=== Salmos, 72
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 72 é um poema que fala sobre um rei justo e misericordioso, que governa com sabedoria e prosperidade. Os versículos selecionados abaixo abordam temas relacionados ao governo, à justiça e à proteção divina.
+* Salmos 2:10-11: "Agora, pois, ó reis, sede prudentes; deixai-vos instruir, juízes da terra. Servi ao Senhor com temor e alegrai-vos com tremor." Este versículo fala sobre a importância de os governantes agirem com sabedoria e justiça, temendo a Deus e buscando sua orientação.
+* Salmos 72:1-2: "Ó Deus, dá ao rei os teus juízos e a tua justiça ao filho do rei. Ele julgará o teu povo com justiça, e os teus pobres com equidade." Este versículo se relaciona diretamente com o tema central do Salmo 72, que é a figura do rei justo e misericordioso, que governa com sabedoria e justiça.
+* Salmos 72:12-13: "Porque ele livrará o necessitado que clama, como também o pobre e o que não tem quem o socorra. Terá piedade do pobre e do necessitado, e salvará as almas dos necessitados." Este versículo fala sobre a proteção divina que é oferecida aos necessitados e oprimidos, que são os mais vulneráveis na sociedade.
+* Salmos 82:3-4: "Fazei justiça ao pobre e ao órfão; procedei retamente com o aflito e o desamparado. Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios." Este versículo se relaciona com o tema da justiça e proteção aos mais fracos, que é central no Salmo 72.
+* Salmos 89:14: "A justiça e o juízo são a base do teu trono; a misericórdia e a verdade vão adiante do teu rosto." Este versículo fala sobre a importância da justiça e da verdade como fundamentos para um governo justo e misericordioso, que é o ideal descrito no Salmo 72.
+****
+
+[[v21-72-1]]
+
+^<<v21-72-1,1>>^ Salmo. De Asaf. Quão bom é Deus para com os rectos, o Senhor para com os puros de coração!
+
+[[v21-72-2]]
+
+^<<v21-72-2,2>>^ Os meus pés por pouco não vacilaram; por pouco se não transviaram os meus passos, (ver nota)
+
+[[v21-72-3]]
+
+^<<v21-72-3,3>>^ porque tive inveja dos ímpios, ao observar a prosperidade dos pecadores.
+
+[[v21-72-4]]
+
+^<<v21-72-4,4>>^ Porque eles não têm sofrimentos, são e gordo anda o seu corpo.
+
+[[v21-72-5]]
+
+^<<v21-72-5,5>>^ Não participam (pelo menos aparentemente) dos trabalhos dos mortais, nem como os outros são flagelados.
+
+[[v21-72-6]]
+
+^<<v21-72-6,6>>^ Pelo que os cinge a soberba como um colar, e envolve-os a violência como um vestido.
+
+[[v21-72-7]]
+
+^<<v21-72-7,7>>^ Brota a iniquidade do seu crasso coração, trasbordam as ficções da sua mente.
+
+[[v21-72-8]]
+
+^<<v21-72-8,8>>^ Zombam e falam com maldade, altivos ameaçam opressões.
+
+[[v21-72-9]]
+
+^<<v21-72-9,9>>^ Abrem a sua boca contra o céu, e a sua língua arrasta-se pela terra.
+
+[[v21-72-10]]
+
+^<<v21-72-10,10>>^ Por isto o meu povo se volta para eles, e sorve das suas águas abundantes.
+
+[[v21-72-11]]
+
+^<<v21-72-11,11>>^ Chegam a dizer; "Porventura Deus sabe isto, tem disto notícia o Altíssimo?"
+
+[[v21-72-12]]
+
+^<<v21-72-12,12>>^ Eis como são os pecadores, e, (contudo) sempre tranquilos, aumentam a sua fortuna.
+
+[[v21-72-13]]
+
+^<<v21-72-13,13>>^ Foi portanto inutilmente que conservei puro o meu coração, e lavei na inocência as minhas mãos?
+
+[[v21-72-14]]
+
+^<<v21-72-14,14>>^ Pois sou flagelado a toda a hora e castigado todo o dia.
+
+[[v21-72-15]]
+
+^<<v21-72-15,15>>^ Se eu pensasse: "Hei-de falar com eles," seria um desertor da raça dos teus filhos.
+
+[[v21-72-16]]
+
+^<<v21-72-16,16>>^ Reflectia pois para compreender isto; pareceu-me porém coisa bastante difícil,
+
+[[v21-72-17]]
+
+^<<v21-72-17,17>>^ até que entrei no santuário (íntimo) de Deus, e atendi ao fim de todos eles.
+
+[[v21-72-18]]
+
+^<<v21-72-18,18>>^ Na verdade, é sobre caminhos escorregadios que os colocas, precipita-los na ruína. (ver nota)
+
+[[v21-72-19]]
+
+^<<v21-72-19,19>>^ Oh! como tombara num momento, acabaram, foram consumidos de espantoso terror!
+
+[[v21-72-20]]
+
+^<<v21-72-20,20>>^ Como um sonho, ao despertar, Senhor, assim, quando te Levantas, desprezarás a sua aparência.
+
+[[v21-72-21]]
+
+^<<v21-72-21,21>>^ Quando se exasperava o meu espírito, e o meu coração se sentia aguilhoado.
+
+[[v21-72-22]]
+
+^<<v21-72-22,22>>^ eu era um insensato e não compreendia, fui diante de ti como um jumento.
+
+[[v21-72-23]]
+
+^<<v21-72-23,23>>^ Todavia, não; estarei sempre contigo: tomaste-me pela minha mão direita,
+
+[[v21-72-24]]
+
+^<<v21-72-24,24>>^ Hás-de guiar-me com teu conselho, e por fim hás-de receber-me na tua glória.
+
+[[v21-72-25]]
+
+^<<v21-72-25,25>>^ Quem tenho eu, lá no céu, fora de ti? e, se estou contigo, a terra não me deleita.
+
+[[v21-72-26]]
+
+^<<v21-72-26,26>>^ Desfalece a minha carne e o meu coração; o rochedo do meu coração e a minha herança é Deus para sempre.
+
+[[v21-72-27]]
+
+^<<v21-72-27,27>>^ Com efeito, os que se apartam de ti perecerão, aniquilas todos os que te são infiéis.
+
+[[v21-72-28]]
+
+^<<v21-72-28,28>>^ Mas para mim é bom estar junto de Deus, pôr no Senhor Deus o meu refúgio. Publicarei todas as tuas obras às portas da filha de Sião.
+
+'''
+
+xref:021-salmos/021-salmos-071.adoc#v21-71-0[&#60; Capítulo Anterior] | <<v21-72-0,Topo>> | xref:021-salmos/021-salmos-073.adoc#v21-73-0[Próximo Capítulo &#62;]

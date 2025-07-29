@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v35-12-0]]
+=== Oséias, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 12 de Oséias começa com uma retrospectiva da história de Jacó, enfatizando sua natureza enganosa e suas lutas com Deus, e depois se volta para a situação presente de Israel, exortando-os a se arrependerem e voltarem ao Senhor. Os versículos relacionados com os temas abordados em Oséias 12 são:
+* Gênesis 32:28: "Então disse o homem: 'Não te chamarás mais Jacó, mas Israel; porque lutaste com Deus e com os homens e venceste.'" Este versículo faz referência à história de Jacó mencionada no início do capítulo 12 de Oséias, onde ele lutou com Deus e foi renomeado para Israel, significando "aquele que luta com Deus".
+* Êxodo 3:14: "Disse Deus a Moisés: 'Eu Sou o que Sou'. E acrescentou: 'Assim dirás aos israelitas: Eu Sou me enviou a vós.'" Esse versículo se relaciona com a mensagem de Oséias 12:9, onde Deus acusa Israel de ter se esquecido do seu nome e da sua soberania.
+* Isaías 44:22: "Apaguei as suas transgressões como a névoa, e os seus pecados, como a nuvem. Volte-se para mim, pois eu o resgatei." Este versículo expressa o convite de Deus para o arrependimento e a promessa de perdão, que é um tema central do capítulo 12 de Oséias.
+* Jeremias 31:9: "Com choro virão, mas com consolação os guiarei. Eu os levarei aos ribeiros de águas, por um caminho direito em que não tropeçarão, porque sou um pai para Israel, e Efraim é o meu primogênito." Neste versículo, Deus se compadece de Israel, prometendo consolo e guia, assim como em Oséias 12:6, onde Deus exorta Israel a se voltar para Ele e aguardar o seu juízo e consolo.
+* Zacarias 10:12: "Eu os fortalecerei no Senhor, e andarão no seu nome", Este versículo expressa a confiança que Israel deve depositar em Deus, que é a mensagem final do capítulo 12 de Oséias.
+****
+
+[[v35-12-1]]
+
+^<<v35-12-1,1>>^ Efraim apascenta-se de vento, vai atrás do vento do oriente. Todos os dias multiplica a mentira e a violência; faz aliança com os Assírios e leva o seu (excelente) azeite ao Egipto.
+
+[[v35-12-2]]
+
+^<<v35-12-2,2>>^ O Senhor virá, pois, a juízo com Judá; castigará Jacob pelo seu proceder, dar-lhe-á o pago que merecem as suas obras.
+
+[[v35-12-3]]
+
+^<<v35-12-3,3>>^ Jacob suplantou seu irmão no ventre de sua mãe, e com a sua fortaleza lutou com Deus; (ver nota)
+
+[[v35-12-4]]
+
+^<<v35-12-4,4>>^ lutou com o anjo e ficou vencedor, chorou e suplicou-lhe; encontrou-o em Betel, onde (o Senhor) falou connosco,
+
+[[v35-12-5]]
+
+^<<v35-12-5,5>>^ ele, o Senhor Deus dos exércitos, cujo nome é Iavé.
+
+[[v35-12-6]]
+
+^<<v35-12-6,6>>^ Converte-te pois, ao teu Deus; guarda a misericórdia e a justiça, e espera sempre no teu Deus.
+
+[[v35-12-7]]
+
+^<<v35-12-7,7>>^ Canaan, que tem na mão uma balança enganosa, ama a fraude. (ver nota)
+
+[[v35-12-8]]
+
+^<<v35-12-8,8>>^ Efraim disse; Em verdade tornei-me rico, adquiri fortuna; em todos os meus ganhos, não se encontrará que eu tenha cometido injustiça alguma.
+
+[[v35-12-9]]
+
+^<<v35-12-9,9>>^ Eu, que sou o Senhor teu Deus, desde a terra do Egipto, far-te-ei repousar ainda nas tuas tendas, (apesar da tua obstinação), como nos dias da festa (dos Tabernáculos).
+
+[[v35-12-10]]
+
+^<<v35-12-10,10>>^ Também falei aos profetas e multipliquei as visões; por meio dos mesmos profetas apresentei-vos parábolas.
+
+[[v35-12-11]]
+
+^<<v35-12-11,11>>^ Se os galaaditas são ímpios, serão reduzidos a nada, em Galgala, onde imolam touros; além disso os seus altares se transformarão em montões de escombros sobre os sulcos dos campos.
+
+[[v35-12-12]]
+
+^<<v35-12-12,12>>^ Jacob fugiu para a planície de Aram, Israel serviu (a Labão) para adquirir uma esposa, para adquirir uma mulher guardou o gado. (ver nota)
+
+[[v35-12-13]]
+
+^<<v35-12-13,13>>^ O Senhor fez sair Israel do Egipto por meio dum profeta, e por melo dum profeta o povo foi guardado.
+
+[[v35-12-14]]
+
+^<<v35-12-14,14>>^ (Não obstante) Efraim provocou a ira (divina) mas o sangue que derramou recairá sobre ele, e o seu Senhor lhe dará (a paga) do seu ultraje.
+
+'''
+
+xref:035-oseias/035-oseias-011.adoc#v35-11-0[&#60; Capítulo Anterior] | <<v35-12-0,Topo>> | xref:035-oseias/035-oseias-013.adoc#v35-13-0[Próximo Capítulo &#62;]

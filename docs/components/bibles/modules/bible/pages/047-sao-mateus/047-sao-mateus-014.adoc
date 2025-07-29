@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v47-14-0]]
+=== São Mateus, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 14 de Mateus narra a morte de João Batista, o famoso milagre da multiplicação dos pães e peixes realizado por Jesus, e a caminhada de Jesus sobre as águas. Os versículos selecionados abaixo estão relacionados aos temas de morte, alimentação e fé.
+* Salmos 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Este versículo pode ser relacionado à morte de João Batista, que foi decapitado por Herodes. Embora João tenha sofrido uma morte violenta, Deus é capaz de livrar o justo de todas as aflições.
+* 1 Coríntios 10:16: "O pão que partimos, não é a comunhão do corpo de Cristo?" Este versículo pode ser relacionado à multiplicação dos pães e peixes realizada por Jesus, que forneceu alimento para a multidão. O alimento físico é importante, mas também podemos ser alimentados espiritualmente pela comunhão com Cristo.
+* Hebreus 11:6: "Sem fé é impossível agradar a Deus, porque é necessário que aquele que se aproxima de Deus creia que ele existe e que é galardoador dos que o buscam." Este versículo pode ser relacionado à caminhada de Jesus sobre as águas. Pedro teve a fé para andar sobre a água também, mas quando começou a duvidar, começou a afundar. A fé é necessária para agradar a Deus e alcançar coisas impossíveis aos olhos humanos.
+* Filipenses 4:19: "O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória, por Cristo Jesus." Este versículo pode ser relacionado à multiplicação dos pães e peixes. Embora a multidão estivesse com fome, Jesus foi capaz de suprir todas as suas necessidades com apenas alguns pães e peixes. Deus é capaz de suprir todas as nossas necessidades, mesmo quando parece impossível.
+* Romanos 8:38-39: "Porque estou certo de que, nem a morte, nem a vida, nem anjos, nem principados, nem coisas presentes, nem futuras, nem potestades, nem a altura, nem a profundidade, nem qualquer outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus, nosso Senhor." Este versículo pode ser relacionado à morte de João Batista e à fé em Deus. Mesmo quando enfrentamos a morte e outras dificuldades, nada pode nos separar do amor de Deus.
+****
+
+[[v47-14-1]]
+
+^<<v47-14-1,1>>^ Naquele tempo, o tetrarca Herodes ouviu falar da fama de Jesus,
+
+[[v47-14-2]]
+
+^<<v47-14-2,2>>^ e disse aos seus cortesãos: "Este é João Baptista, que ressuscitou dos mortos, e eis porque tantos milagres se operam por meio dele."
+
+[[v47-14-3]]
+
+^<<v47-14-3,3>>^ Porque Herodes tinha mandado prender e ligar João, e tinha-o algemado e metido no cárcere, por causa de Herodíades, mulher de seu irmão Filipe.
+
+[[v47-14-4]]
+
+^<<v47-14-4,4>>^ Porque João dizia-lhe: "Não te é licito tê-la por mulher."
+
+[[v47-14-5]]
+
+^<<v47-14-5,5>>^ E, querendo matá-lo, teve medo do povo, porque este o considerava como um profeta.
+
+[[v47-14-6]]
+
+^<<v47-14-6,6>>^ Mas, no dia natalício de Herodes, a filha de Herodíades bailou no meio dos convivas, e agradou a Herodes.
+
+[[v47-14-7]]
+
+^<<v47-14-7,7>>^ Por isso ele prometeu-lhe com juramento dar-lhe tudo o que lhe pedisse.
+
+[[v47-14-8]]
+
+^<<v47-14-8,8>>^ E ela, instigada por sua mãe: "Dá-me, disse, aqui num prato a cabeça de João Baptista."
+
+[[v47-14-9]]
+
+^<<v47-14-9,9>>^ O rei entristeceu-se, mas, por causa do juramento e dos comensais, mandou dar-lha.
+
+[[v47-14-10]]
+
+^<<v47-14-10,10>>^ E mandou degolar João no cárcere.
+
+[[v47-14-11]]
+
+^<<v47-14-11,11>>^ Foi trazida a sua cabeça num prato, e dada à moça, e ela levou-a a sua mãe.
+
+[[v47-14-12]]
+
+^<<v47-14-12,12>>^ Chegando os seus discípulos, levaram o corpo, e sepultaram-no; depois foram dar a notícia, a Jesus.
+
+[[v47-14-13]]
+
+^<<v47-14-13,13>>^ Tendo Jesus ouvido isto, retirou-se dali numa barca a um lugar solitário afastado; mas, tendo sabido isto as turbas, seguiram-no a pé das cidades (vizinhas).
+
+[[v47-14-14]]
+
+^<<v47-14-14,14>>^ Ao sair da barca, viu Jesus uma grande multidão, e teve compaixão dela, e curou os seus enfermos.
+
+[[v47-14-15]]
+
+^<<v47-14-15,15>>^ Ao cair da tarde, aproximaram-se dele os discípulos, dizendo: "Este lugar é deserto, e a hora é já adiantada: deixa ir essa gente, para que, indo às aldeias, compre de comer."
+
+[[v47-14-16]]
+
+^<<v47-14-16,16>>^ Mas Jesus disse-lhes: "Não têm necessidade de ir; dai-lhes vós de comer."
+
+[[v47-14-17]]
+
+^<<v47-14-17,17>>^ Responderam-lhe: "Não temos aqui senão cinco pães e dois peixes.
+
+[[v47-14-18]]
+
+^<<v47-14-18,18>>^ Ele disse-lhes: "Trazei-mos cá ."
+
+[[v47-14-19]]
+
+^<<v47-14-19,19>>^ Em seguida, tendo mandado à multidão que se sentasse sobre a erva, tomou os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e, partindo os pães, deu-os aos discípulos, e os discípulos às turbas.
+
+[[v47-14-20]]
+
+^<<v47-14-20,20>>^ Comeram todos, e saciaram-se; e levantaram doze cestos cheios dos bocados que sobejaram.
+
+[[v47-14-21]]
+
+^<<v47-14-21,21>>^ Ora o número dos que tinham comido era de cinco mil homens, sem contar mulheres e crianças.
+
+[[v47-14-22]]
+
+^<<v47-14-22,22>>^ Imediatamente Jesus obrigou os seus discípulos a subir para a barca, e a passarem antes dele à outra margem do lago, enquanto despedia as turbas.
+
+[[v47-14-23]]
+
+^<<v47-14-23,23>>^ Despedidas as turbas, subiu só a um monte para orar. Quando chegou a noite, achava-se ali só.
+
+[[v47-14-24]]
+
+^<<v47-14-24,24>>^ Entretanto a barca no meio do mar era batida pelas ondas, porque o vento era contrário.
+
+[[v47-14-25]]
+
+^<<v47-14-25,25>>^ Ora na quarta vigília da noite, foi Jesus ter com eles, andando sobre o mar.
+
+[[v47-14-26]]
+
+^<<v47-14-26,26>>^ Os discípulos, quando o viram andar sobre o mar, turbaram-se e disseram: "É um fantasma." E, com medo, começaram a gritar.
+
+[[v47-14-27]]
+
+^<<v47-14-27,27>>^ Mas Jesus falou-lhes imediatamente, dizendo: "Tende confiança; sou eu, não temais."
+
+[[v47-14-28]]
+
+^<<v47-14-28,28>>^ Pedro, tomando a palavra, disse; "Senhor, se és tu, manda-me ir até onde estás por sobre as águas."
+
+[[v47-14-29]]
+
+^<<v47-14-29,29>>^ Ele disse: "Vem" Descendo Pedro da barca, caminhava sobre a água para ir a Jesus.
+
+[[v47-14-30]]
+
+^<<v47-14-30,30>>^ Vendo, porém, que o vento era forte, temeu, e, começando a submergir-se, gritou, dizendo: "Senhor salva-me!"
+
+[[v47-14-31]]
+
+^<<v47-14-31,31>>^ Imediatamente Jesus, estendendo a mão, o tomou e lhe disse; "Homem de pouca fé, porque duvidaste?"
+
+[[v47-14-32]]
+
+^<<v47-14-32,32>>^ Depois que subiram para a barca, o vento cessou.
+
+[[v47-14-33]]
+
+^<<v47-14-33,33>>^ Os que estavam na barca prostraram-se diante dele, dizendo: "Verdadeiramente tu és o Filho de Deus."
+
+[[v47-14-34]]
+
+^<<v47-14-34,34>>^ Tendo atravessado o lago, foram para a terra de Genesar.
+
+[[v47-14-35]]
+
+^<<v47-14-35,35>>^ Tendo-o reconhecido o povo daquele lugar, mandaram prevenir toda aquela região, e lhe apresentaram todos os doentes.
+
+[[v47-14-36]]
+
+^<<v47-14-36,36>>^ Estes rogavam-lhe que os deixasse tocar sequer a orla do seu vestido. E todos os que o tocaram, ficaram sãos.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-013.adoc#v47-13-0[&#60; Capítulo Anterior] | <<v47-14-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-015.adoc#v47-15-0[Próximo Capítulo &#62;]

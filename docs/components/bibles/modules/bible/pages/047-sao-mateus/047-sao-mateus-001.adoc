@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v47-1-0]]
+=== São Mateus, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Mateus 1 é o primeiro capítulo do Evangelho de Mateus e apresenta a genealogia de Jesus Cristo, desde Abraão até José, o marido de Maria. Também é apresentada a história do nascimento de Jesus por meio da concepção virginal de Maria. Aqui estão cinco versículos relacionados com os temas abordados em São Mateus 1:
+* Gálatas 3:16: "Ora, as promessas foram feitas a Abraão e à sua descendência. Não diz: E às descendências, como falando de muitas, porém como de uma só: E à tua descendência, que é Cristo." Este verso se relaciona com a genealogia apresentada em São Mateus 1, já que destaca a descendência direta de Abraão para Cristo.
+* Isaías 7:14: "Portanto o Senhor mesmo vos dará um sinal: Eis que a virgem conceberá, e dará à luz um filho, e será o seu nome Emanuel." Este verso profetiza a concepção virginal de Jesus, que é apresentada em São Mateus 1 como o meio pelo qual Jesus nasceu.
+* Jeremias 23:5: "Eis que vêm dias, diz o Senhor, em que levantarei a Davi um Renovo justo; e, rei que é, reinará, e agirá sabiamente, e executará o juízo e a justiça na terra." Este verso se relaciona com a genealogia apresentada em São Mateus 1, já que destaca a descendência direta de Davi para Cristo.
+* Lucas 3:23: "E Jesus, quando começou o seu ministério, tinha cerca de trinta anos, sendo filho, como se cuidava, de José, filho de Heli." Este verso também se relaciona com a genealogia apresentada em São Mateus 1, já que menciona José, o marido de Maria, como sendo filho de Heli.
+* Isaías 9:6: "Porque um menino nos nasceu, um filho se nos deu; o governo está sobre os seus ombros; e o seu nome será Maravilhoso Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz." Este verso se relaciona com a história do nascimento de Jesus apresentada em São Mateus 1, já que destaca a natureza divina e o papel de liderança de Jesus.
+****
+
+[[v47-1-1]]
+
+^<<v47-1-1,1>>^ Genealogia de Jesus Cristo, filho de David, filho de Abraão.
+
+[[v47-1-2]]
+
+^<<v47-1-2,2>>^ Abraão gerou Isaac, Isaac gerou Jacob, Jacob gerou Judá e seus irmãos,
+
+[[v47-1-3]]
+
+^<<v47-1-3,3>>^ Judá gerou, de Tamar, Farés e Zara, Farés gerou Esron, Esron gerou Arâo,
+
+[[v47-1-4]]
+
+^<<v47-1-4,4>>^ Arão gerou Aminadab, Aminadab gerou Naasson, Naasson gerou Salmon,
+
+[[v47-1-5]]
+
+^<<v47-1-5,5>>^ Salmon gerou Booz de Raab, Booz gerou Obed de Rut, Obed gerou Jessé, Jessé gerou o rei David.
+
+[[v47-1-6]]
+
+^<<v47-1-6,6>>^ David gerou Salomão daquela que foi (mulher) de Urias.
+
+[[v47-1-7]]
+
+^<<v47-1-7,7>>^ Salomão gerou Roboão, Roboão gerou Abias, Abias gerou Asa,
+
+[[v47-1-8]]
+
+^<<v47-1-8,8>>^ Asa gerou Josafat, Josafat gerou Jorão, Jorão gerou Ozias,
+
+[[v47-1-9]]
+
+^<<v47-1-9,9>>^ Ozias gerou Joatão, Joatão gerou Acaz, Acaz gerou Ezequias,
+
+[[v47-1-10]]
+
+^<<v47-1-10,10>>^ Ezequias gerou, Manassés, Manassés gerou Amon, Amon gerou Josias,
+
+[[v47-1-11]]
+
+^<<v47-1-11,11>>^ Josias gerou Joaquim, Joaquim gerou Jeconias e seus Irmãos, na época da deportação para Babilônia.
+
+[[v47-1-12]]
+
+^<<v47-1-12,12>>^ E, depois da deportação para Babilônia, Jeconias gerou Salatíel, Salatiel gerou Zorobabel,
+
+[[v47-1-13]]
+
+^<<v47-1-13,13>>^ Zorobabel gerou Abiud, Abiud gerou Eliacim, Eliacim gerou Azor,
+
+[[v47-1-14]]
+
+^<<v47-1-14,14>>^ Azor gerou Sadoc, Sadoc gerou Aquim, Aquim gerou Eliud,
+
+[[v47-1-15]]
+
+^<<v47-1-15,15>>^ Eliud gerou Eleazar, Eleazar gerou Matan, Matan gerou Jacòb,
+
+[[v47-1-16]]
+
+^<<v47-1-16,16>>^ e Jacob gerou José, o esposo de Maria, da qual nasceu Jesus, chamado Cristo.
+
+[[v47-1-17]]
+
+^<<v47-1-17,17>>^ Todas as gerações , pois, desde Abraão até David, são catorze gerações; e, desde David até à deportação para Babilônia, catorze gerações; e, desde a deportação para Babilônia até Cristo, catorze gerações.
+
+[[v47-1-18]]
+
+^<<v47-1-18,18>>^ A geração de Jesus Cristo foi deste modo: Estando Maria, sua mãe, desposada com José, achou-se ter concebido (por obra) do Espírito Santo, antes de coabitarem.
+
+[[v47-1-19]]
+
+^<<v47-1-19,19>>^ José, seu esposo, sendo justo, e não a querendo difamar, resolveu repudiá-la secretamente.
+
+[[v47-1-20]]
+
+^<<v47-1-20,20>>^ Andando ele com isto no pensamento, eis que um anjo do Senhor lhe apareceu em sonhos, e lhe disse; José, filho de David, não temas receber em tua casa Maria, tua esposa, porque o que nela foi concebido é (obra) do Espírito Santo.
+
+[[v47-1-21]]
+
+^<<v47-1-21,21>>^ Dará à luz um filho, ao qual porás o nome de Jesus, porque ele salvará o seu povo dos seus pecados.
+
+[[v47-1-22]]
+
+^<<v47-1-22,22>>^ Tudo isto aconteceu para que se cumprisse o que foi dito pelo Senhor por meio do profeta, que diz:
+
+[[v47-1-23]]
+
+^<<v47-1-23,23>>^ Eis que a Virgem conceberá e dará à luz um filho, e lhe porão o nome de Emanuel, que significa: Deus connosco (Is. 7, 14).
+
+[[v47-1-24]]
+
+^<<v47-1-24,24>>^ Ao despertar José do sono, fez como lhe tinha mandada o anjo do Senhor, e recebeu em sua casa (Maria), sua esposa,
+
+[[v47-1-25]]
+
+^<<v47-1-25,25>>^ E, sem que ele a tivesse conhecido, deu à luz um filho, e pos-lhe o nome de Jesus.
+
+'''
+
+xref:046-malaquias/046-malaquias-004.adoc#v46-4-0[&#60; Capítulo Anterior] | <<v47-1-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-002.adoc#v47-2-0[Próximo Capítulo &#62;]

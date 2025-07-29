@@ -1,0 +1,74 @@
+include::./index.adoc[]
+
+[[v33-6-0]]
+=== Ezequiel, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 6 trata da condenação de Deus sobre o povo de Israel por causa de sua idolatria. O capítulo anuncia o julgamento de Deus contra a terra e a punição que virá como resultado da rebelião e desobediência do povo. Abaixo estão cinco versículos relacionados aos temas abordados em Ezequiel 6:
+* Deuteronômio 12:2-3: "Derrubareis todos os lugares onde as nações que haveis de possuir serviram aos seus deuses, sobre as altas montanhas, e sobre os outeiros, e debaixo de toda a árvore frondosa; e derribareis os seus altares, e quebrareis as suas estátuas, e os seus bosques queimareis a fogo; e destruireis as imagens esculpidas dos seus deuses; e apagareis o seu nome daquele lugar." Este versículo fala da ordem de Deus para que Seu povo destrua todos os locais de culto e símbolos de adoração dos povos pagãos em sua nova terra. Isso se relaciona com Ezequiel 6, onde Deus está condenando o povo de Israel por sua idolatria e adoração de falsos deuses.
+* Êxodo 20:4-5: "Não farás para ti imagem de escultura, nem semelhança alguma do que há em cima nos céus, nem em baixo na terra, nem nas águas debaixo da terra. Não te encurvarás a elas nem as servirás; porque eu, o SENHOR teu Deus, sou Deus zeloso, que visito a iniquidade dos pais nos filhos, até a terceira e quarta geração daqueles que me odeiam." Este versículo é um dos mandamentos de Deus para o Seu povo, proibindo a criação e adoração de imagens e ídolos. Ele se relaciona com Ezequiel 6, onde Deus está condenando o povo de Israel por sua idolatria e adoração de falsos deuses.
+* 2 Reis 17:16-17: "Eles deixaram todos os mandamentos do Senhor, o seu Deus, e fizeram para si dois bezerros de metal derretido. Adoraram todo o exército do céu e serviram a Baal. Queimaram seus filhos como oferenda, praticando adivinhação e feitiçaria, e venderam-se para fazer o que era mau aos olhos do Senhor, provocando a sua ira." Este versículo descreve a idolatria do povo de Israel e como eles se afastaram dos mandamentos de Deus. Isso se relaciona com Ezequiel 6, onde Deus está condenando o povo de Israel por sua idolatria e adoração de falsos deuses.
+* 1 Reis 18:21: "Então Elias se chegou a todo o povo, e disse: Até quando coxeareis entre dois pensamentos? Se o Senhor é Deus, segui-o; e se Baal, segui-o. Porém o povo nada lhe respondeu." Este versículo é parte da história de Elias confrontando os profetas de Baal.
+****
+
+[[v33-6-1]]
+
+^<<v33-6-1,1>>^ Foi-me dirigida a palavra do Senhor, a qual dizia:
+
+[[v33-6-2]]
+
+^<<v33-6-2,2>>^ Filho de homem, vira o teu rosto, para os montes de Israel e profetiza contra eles.
+
+[[v33-6-3]]
+
+^<<v33-6-3,3>>^ Dirás: Montes de Israel, ouvi a palavra do Senhor Iavé: Assim fala o Senhor Iavé às montanhas e aos outeiros, às quebradas e aos vales: Eis que mandarei sobre sobre vós a espada e destruirei os vossos (santuários construídos nos) lugares altos.
+
+[[v33-6-4]]
+
+^<<v33-6-4,4>>^ Serão demolidos os vossos altares, quebradas as vossas colunas; farei cair os vossos (homens) mortos diante dos vossos ídolos;
+
+[[v33-6-5]]
+
+^<<v33-6-5,5>>^ estenderei os cadáveres dos filhos de Israel diante dos seus ídolos; espalharei os vossos ossos ao redor dos vossos altares;
+
+[[v33-6-6]]
+
+^<<v33-6-6,6>>^ em todos os lugares, em que habitais, as cidades ficarão desertas, e os altos serão arrasados, de modo que os vossos altares serão destruídos e devastados, os vossos ídolos partidos e aniquilados, as vossas colunas despedaçadas, desfeitas as vossas obras.
+
+[[v33-6-7]]
+
+^<<v33-6-7,7>>^ Feridos de morte cairão no meio de vós, e sabereis que eu sou o Senhor.
+
+[[v33-6-8]]
+
+^<<v33-6-8,8>>^ Mas deixar-vos-ei um resto, (isto é) alguns salvos da espada, quando vos tiver dispersado por vários países.
+
+[[v33-6-9]]
+
+^<<v33-6-9,9>>^ E esses dentre vós que tiverem escapado, lembrar-se-ão de mim entre as nações, para onde foram levados cativos, quando eu quebrar o seu coração adúltero, que se afastou de mim, e os seus olhos prostituídos aos ídolos. Eles se desgostarão de si mesmos, por causa dos males que fizeram, praticando todas as suas abominações;
+
+[[v33-6-10]]
+
+^<<v33-6-10,10>>^ saberão que eu, o Senhor, não disse debalde que lhes havia de fazer este mal.
+
+[[v33-6-11]]
+
+^<<v33-6-11,11>>^ Assim fala o Senhor Deus; Bate com a tua mão, dá pancadas com o teu pé, e dize: Ai! sobre todas as abominações iníquas da casa de Israel, porque eles hão-de perecer pela espada, pela fome e pela peste.
+
+[[v33-6-12]]
+
+^<<v33-6-12,12>>^ Aquele que estiver longe, morrerá de peste; o que estiver perto, cairá aos golpes da espada; o que ficar sitiado, morrerá de fome, porque fartarei neles a minha indignação.
+
+[[v33-6-13]]
+
+^<<v33-6-13,13>>^ Saberão que eu sou o Senhor, quando os seus mortos estiverem estendidos no meio dos seus ídolos, à roda dos seus altares, em todos os outeiros elevados, em todos os cumes dos montes, debaixo de toda a árvore verdejante, debaixo de todo o carvalho frondoso, lugares onde queimaram fragrantes incensos a todos os seus ídolos.
+
+[[v33-6-14]]
+
+^<<v33-6-14,14>>^ Estenderei a minha mão contra eles, e deixarei desolada e devastada a terra, desde o deserto até Diblata, em todos os lugares em que habitam, e saberão que eu sou o Senhor.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-005.adoc#v33-5-0[&#60; Capítulo Anterior] | <<v33-6-0,Topo>> | xref:033-ezequiel/033-ezequiel-007.adoc#v33-7-0[Próximo Capítulo &#62;]

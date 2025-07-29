@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v2-39-0]]
+=== Êxodo, 39
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 39 de Êxodo detalha a confecção das vestes sacerdotais para o serviço no tabernáculo. Foram feitos o manto, o colete sacerdotal, a tiara, a túnica bordada, o cinto e as vestes de linho fino para serem usadas durante as cerimônias de adoração a Deus. Os versículos a seguir estão relacionados a temas abordados em Êxodo 39:
+* Levítico 8:7 - "Ele vestiu Arão com a túnica, ajustou o cinto ao seu redor, vestiu-o com o colete sacerdotal e ajustou o mesmo ao seu redor." Esse versículo descreve a vestimenta que Arão, o primeiro sumo sacerdote, usou durante a sua ordenação.
+* Ezequiel 44:17- " Quando eles entrarem nas portas internas do pátio, eles deverão usar roupas de linho; não devem vestir nada de lã enquanto estiverem servindo no interior do pátio, junto ao altar e às paredes do templo." Esse versículo fala sobre as roupas que os sacerdotes deveriam usar quando estivessem no templo.
+* Hebreus 4:14 - "Portanto, visto que temos um grande sumo sacerdote que adentrou os céus, Jesus, o Filho de Deus, apeguemo-nos com toda a firmeza à fé que professamos, tendo grande sacerdote sobre a casa de Deus." Esse versículo faz referência a Jesus como sumo sacerdote, que é superior a qualquer outro sacerdote.
+* Apocalipse 1:6 - "e nos constituiu reino e sacerdotes para servir a seu Deus e Pai, a ele seja glória e poder para todo o sempre! Amém." Esse versículo fala sobre o papel dos cristãos como sacerdotes de Deus, servindo a ele em seu reino.
+* Colossenses 3:12 - "Portanto, como povo escolhido de Deus, santo e amado, revistam-se de profunda compaixão, bondade, humildade, mansidão e paciência." Esse versículo fala sobre a importância de os cristãos se vestirem com as virtudes do caráter de Deus, assim como os sacerdotes do Antigo Testamento se vestiam com as suas vestes sagradas.
+****
+
+[[v2-39-1]]
+
+^<<v2-39-1,1>>^ Depois fez de púrpura violácea, púrpura escarlate e carmesim e de linho fino, as vestes com que devia ser revestido Aarão, quando ministrava no santuário, como o Senhor ordenou a Moisés.
+
+[[v2-39-2]]
+
+^<<v2-39-2,2>>^ Fez, pois, o éfode de ouro, de púrpura violácea e escarlate e carmesim e de linho fino retorcido,
+
+[[v2-39-3]]
+
+^<<v2-39-3,3>>^ obra tecida de várias cores: cortou folhas de ouro, e reduziu-as a fios para poderem entrelaçar-se com a trama das cores acima ditas.
+
+[[v2-39-4]]
+
+^<<v2-39-4,4>>^ e ( fez) duas ourelas ligadas entre si em um e outro lado das extremidades (do éfode),
+
+[[v2-39-5]]
+
+^<<v2-39-5,5>>^ e (fez) o cíngulo das mesmas cores, conforme o Senhor tenha ordenado a Moisés.
+
+[[v2-39-6]]
+
+^<<v2-39-6,6>>^ Preparou também duas pedras de ônix medidas em duas cápsulas de ouro, e onde gravou segundo a arte dois lapidários os nomes dos filhos de Israel:
+
+[[v2-39-7]]
+
+^<<v2-39-7,7>>^ colocou-as nos dois lados do éfode, como para memória dos Filhos de Israel, como o Senhor tinha ordenado a Moisés.
+
+[[v2-39-8]]
+
+^<<v2-39-8,8>>^ Fez mais o peitoral tecido a várias cores com trabalho semelhante ao éfode, de outro, púrpura violácea e escarlate, carmesim e linho fino retorcido;
+
+[[v2-39-9]]
+
+^<<v2-39-9,9>>^ (fê-lo) quadrado e dobrado, da medida de um palmo.
+
+[[v2-39-10]]
+
+^<<v2-39-10,10>>^ Nele engastou quatro ordens de pedras preciosas; na primeira ordem, estavam um sardónio, um topázio e uma esmeralda:
+
+[[v2-39-11]]
+
+^<<v2-39-11,11>>^ na segunda, um carbúnculo, uma safira e um jaspe;
+
+[[v2-39-12]]
+
+^<<v2-39-12,12>>^ na terceira, uma turquesa, uma ágata e uma ametista:
+
+[[v2-39-13]]
+
+^<<v2-39-13,13>>^ na quarta, um crisólito, um ónix e um berilo, engastados e metidos em ouro, ordem por ordem.
+
+[[v2-39-14]]
+
+^<<v2-39-14,14>>^ As mesmas doze pedras tinham gravados os nomes das doze tribos de Israel, em cada pedra seu nome.
+
+[[v2-39-15]]
+
+^<<v2-39-15,15>>^ Fizeram também no peitoral duas pequenas cadeias de ouro puríssimo, entrelaçadas entre si,
+
+[[v2-39-16]]
+
+^<<v2-39-16,16>>^ e dois ganchos e outras tantas argolas de ouro. Puseram aos dois lados do peitoral as argolas,
+
+[[v2-39-17]]
+
+^<<v2-39-17,17>>^ das quais pendiam as duas cadeias de ouro, que eles meteram nos ganchos, que sobressaíam aos cantos do éfode.
+
+[[v2-39-18]]
+
+^<<v2-39-18,18>>^ Estas peças ajustavam-se tão bem entre si por diante e por detrás, que o éfode e o peitoral ficavam unidos um ao outro,
+
+[[v2-39-19]]
+
+^<<v2-39-19,19>>^ ajustados ao cíngulo, e unidos fortemente às argolas ligadas entre si, por uma fita de púrpura violácea, para que, afrouxando-se, não corressem nem se separassem um do outro, como o Senhor ordenou a Moisés.
+
+[[v2-39-20]]
+
+^<<v2-39-20,20>>^ Fizeram também a túnica do éfode toda de púrpura violácea,
+
+[[v2-39-21]]
+
+^<<v2-39-21,21>>^ com uma abertura no alto no meio dela, e uma orla tecida em redor da abertura;
+
+[[v2-39-22]]
+
+^<<v2-39-22,22>>^ na parte inferior, junto aos pés, puseram romãs de púrpura violácea, escarlate e de linho fino retorcido;
+
+[[v2-39-23]]
+
+^<<v2-39-23,23>>^ fizeram campainhas de ouro finíssimo, que colocaram entre as romãs, ao redor da parte inferior da túnica,
+
+[[v2-39-24]]
+
+^<<v2-39-24,24>>^ uma campainha de ouro e uma romã; com estas coisas ia adornado o pontífice, quando exercia as funções do seu ministério, conforme o Senhor tinha ordenado a Moisés.
+
+[[v2-39-25]]
+
+^<<v2-39-25,25>>^ Fizeram também para Aarão e seus filhos as túnicas tecidas de linho finto,
+
+[[v2-39-26]]
+
+^<<v2-39-26,26>>^ as mitras de linho fino,
+
+[[v2-39-27]]
+
+^<<v2-39-27,27>>^ os calções ide linho fino retorcido,
+
+[[v2-39-28]]
+
+^<<v2-39-28,28>>^ e o cíngulo de linho fino retorcido, de púrpura violácea e escarlate e carmesim, com vários recamos, como o Senhor ordenara a Moisés.
+
+[[v2-39-29]]
+
+^<<v2-39-29,29>>^ Fizeram mais a lâmina, diadema sagrado, de puríssimo ouro, e escreveram nela por mão do gravador: Santidade ao Senhor;
+
+[[v2-39-30]]
+
+^<<v2-39-30,30>>^ ajustaram-na à mitra com uma fita de púrpura violácea, como o Senhor tinha ordenado a Moisés.
+
+[[v2-39-31]]
+
+^<<v2-39-31,31>>^ Assim se concluiu toda a obra do tabernáculo e da tenda da reunião, e os filhos de Israel fizeram tudo o que o Senhor tinha ordenado a Moisés.
+
+[[v2-39-32]]
+
+^<<v2-39-32,32>>^ Ofereceram o tabernáculo e a tenda, e todas as suas alfaias, as argolas, as tábuas, os varais, as colunas, as bases,
+
+[[v2-39-33]]
+
+^<<v2-39-33,33>>^ as coberturas de peles de carneiro tintas de vermelho, e as outras cortinas de peles de cor de jacinto,
+
+[[v2-39-34]]
+
+^<<v2-39-34,34>>^ o véu, a arca, os varais, o propiciatório,
+
+[[v2-39-35]]
+
+^<<v2-39-35,35>>^ a mesa com os seus utensílios e com os pães da proposição;
+
+[[v2-39-36]]
+
+^<<v2-39-36,36>>^ o candeeiro, as lâmpadas, e os seus utensílios juntamente com o azeite;
+
+[[v2-39-37]]
+
+^<<v2-39-37,37>>^ o altar de outro, o bálsamo e o perfume feito de aroma;
+
+[[v2-39-38]]
+
+^<<v2-39-38,38>>^ o véu à entrada do tabernáculo:
+
+[[v2-39-39]]
+
+^<<v2-39-39,39>>^ o altar de bronze com a sua grelha, varais e todos os seus utensílios; a bacia com a sua base: as cortinas do átrio, e as colunas com as suas bases;
+
+[[v2-39-40]]
+
+^<<v2-39-40,40>>^ a tenda à entrada do átrio e os seus cordões e as suas escápulas, e todos os utensílios que tinham sido mandados fazer para o serviço do tabernáculo e para a tenda da reunião,
+
+[[v2-39-41]]
+
+^<<v2-39-41,41>>^ assim como as vestes, de que usam no santuário os sacerdotes, isto é, Aarão e seus filhos para as funções sacerdotais.
+
+[[v2-39-42]]
+
+^<<v2-39-42,42>>^ Os filhos de Israel fizeram todas estas obras, conforme o Senhor tinha mandado.
+
+[[v2-39-43]]
+
+^<<v2-39-43,43>>^ Moisés, depois que viu completas todas estas coisas, abençoou-as.
+
+'''
+
+xref:002-exodo/002-exodo-038.adoc#v2-38-0[&#60; Capítulo Anterior] | <<v2-39-0,Topo>> | xref:002-exodo/002-exodo-040.adoc#v2-40-0[Próximo Capítulo &#62;]

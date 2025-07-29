@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v29-63-0]]
+=== Isaías, 63
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 63 de Isaías é uma oração de lamentação em que o profeta clama pela intervenção de Deus em favor de seu povo, lembrando as grandes obras que Ele fez no passado. O capítulo também fala da vingança de Deus sobre seus inimigos e da restauração de Israel. Abaixo estão cinco versículos relacionados com os temas abordados em Isaías 63:
+* Salmos 77:12 - "Meditarei em todas as tuas obras, e em teus feitos meditarei." O salmista fala sobre meditar nas obras de Deus, que são evidências de seu poder e fidelidade. Isso se relaciona com o capítulo 63 de Isaías, que lembra as grandes obras de Deus em favor de Israel.
+* Êxodo 15:3 - "O Senhor é homem de guerra; o Senhor é o seu nome." Este versículo fala sobre o caráter guerreiro de Deus e sua disposição para lutar em favor de seu povo. Isso se relaciona com o desejo expresso em Isaías 63 de que Deus interviesse em favor de Israel contra seus inimigos.
+* Isaías 64:1 - "Oh, se fendesses os céus, e descesses! Os montes tremeriam perante a tua face." Este versículo expressa o desejo de Isaías de que Deus se manifestasse de forma poderosa em favor de seu povo. Isso se relaciona com o tema principal do capítulo 63.
+* Salmos 94:1 - "Ó Senhor Deus, a quem a vingança pertence, ó Deus, a quem a vingança pertence, mostra-te resplandecente." Este salmo clama pela intervenção de Deus em favor de seu povo contra seus opressores. Isso se relaciona com o tema da vingança de Deus sobre seus inimigos, que é mencionado em Isaías 63.
+* Deuteronômio 32:36 - "Porque o Senhor julgará o seu povo, e se arrependerá por seus servos; quando vir que o poder se foi, e não há ninguém preso nem deixado." Este versículo fala sobre o julgamento de Deus sobre seu povo, mas também sobre sua compaixão e disposição de perdoar. Isso se relaciona com o apelo de Isaías em favor do perdão e da misericórdia de Deus em Isaías 63.
+****
+
+[[v29-63-1]]
+
+^<<v29-63-1,1>>^ Quem é este, que vem de Edom, de Bosra, com as vestiduras tingidas de vermelho? Ele é formoso em seu trajo, avança na grandeza da sua força. Eu sou (responderá ele) o que fala em justiça e que é poderoso para salvar (os homens). (ver nota)
+
+[[v29-63-2]]
+
+^<<v29-63-2,2>>^ Por que é, pois, vermelha a tua veste, e as tuas roupas como as do que pisa no lagar?
+
+[[v29-63-3]]
+
+^<<v29-63-3,3>>^ Eu pisei sòzinho no lagar, e nenhum homem dentre os povos estava comigo; eu os pisei no meu furor, pisei-os na minha ira; o seu sangue salpicou as minhas vestes, com ele manchei todas as minhas roupas.
+
+[[v29-63-4]]
+
+^<<v29-63-4,4>>^ É que o dia da vingança estava no meu coração, era chegado o ano da minha redenção.
+
+[[v29-63-5]]
+
+^<<v29-63-5,5>>^ Olhei em roda, e não houve quem me auxiliasse; espantei-me de não haver quem me ajudasse. Então o meu braço salvou-me e a minha indignação me auxiliou.
+
+[[v29-63-6]]
+
+^<<v29-63-6,6>>^ Esmaguei os povos no meu furor, calquei-os na minha indignação, fiz correr pela terra o seu sangue.
+
+[[v29-63-7]]
+
+^<<v29-63-7,7>>^ Cantarei as misericórdias do Senhor, os louvores do Senhor, por todos os bens que o mesmo Senhor nos deu, pela multidão dos seus benefícios para com a casa de Israel; benefícios que lhe fez segundo a sua clemência, segundo a multidão das suas misericórdias.
+
+[[v29-63-8]]
+
+^<<v29-63-8,8>>^ Ele disse: Sim, com certeza são o meu povo, são filhos que me não tornarão a negar. E tornou-se seu salvador.
+
+[[v29-63-9]]
+
+^<<v29-63-9,9>>^ Em todas as suas tribulações não foi um mensageiro nem um anjo que os salvou, mas a sua própria face; com o seu amor e com a sua clemência, ele mesmo os remiu e os levou sobre si, e os sustentou em todos os dias do tempo passado.
+
+[[v29-63-10]]
+
+^<<v29-63-10,10>>^ Mas eles foram rebeldes e afligiram o seu santo espírito; então ele converteu-se em seu inimigo e combateu-os.
+
+[[v29-63-11]]
+
+^<<v29-63-11,11>>^ Então o povo lembrou-se dos antigos dias, de Moisés. Onde está o que tirou das ondas o pastor do seu rebanho? Onde está o que pôs no meio deles o seu santo espírito?
+
+[[v29-63-12]]
+
+^<<v29-63-12,12>>^ Quem tomou Moisés pela direita (e o susteve) com o braço da sua majestade? Quem dividiu as águas (do mar) diante deles, para adquirir para si um nome eterno?
+
+[[v29-63-13]]
+
+^<<v29-63-13,13>>^ Quem os conduziu pelos abismos, como a um cavalo por um descampado, sem tropeçar?
+
+[[v29-63-14]]
+
+^<<v29-63-14,14>>^ Como a um animal, que se faz descer por uma campina, assim o espírito do Senhor os conduziu. Foi assim (ó Senhor) que guiaste o teu povo, para granjeares para ti um nome glorioso.
+
+[[v29-63-15]]
+
+^<<v29-63-15,15>>^ Atende-nos lá do céu, põe os olhos em nós lá da tua santa e gloriosa morada. Onde estão (agora) o teu zelo e a tua fortaleza, a ternura das tuas entranhas e a tua misericórdia? Suspenderam-se para mim.
+
+[[v29-63-16]]
+
+^<<v29-63-16,16>>^ Porque tu é que és o nosso pai, Abraão não nos conhece, e Israel ignora-nos. Tu, Senhor, és o nosso pai, o nosso redentor, desde os tempos antigos.
+
+[[v29-63-17]]
+
+^<<v29-63-17,17>>^ Por que nos deixas, Senhor, extraviar dos teus caminhos? Por que (deixas) endurecer o nosso coração, para te não temermos? Volta-te para nós por amor dos teus servos e das tribos da tua herança.
+
+[[v29-63-18]]
+
+^<<v29-63-18,18>>^ Por que razão os ímpios penetraram no teu templo, e os nossos inimigos calcaram o teu santuário?
+
+[[v29-63-19]]
+
+^<<v29-63-19,19>>^ Somos, desde há muito, como povo que não governas, sobre quem o teu nome não é invocado.
+
+'''
+
+xref:029-isaias/029-isaias-062.adoc#v29-62-0[&#60; Capítulo Anterior] | <<v29-63-0,Topo>> | xref:029-isaias/029-isaias-064.adoc#v29-64-0[Próximo Capítulo &#62;]

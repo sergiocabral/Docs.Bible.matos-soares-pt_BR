@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v24-17-0]]
+=== Provérbios, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 17 aborda diversos temas relacionados às relações humanas, tais como a importância de sermos prudentes em nossas palavras, a influência negativa de pessoas más em nossas vidas, a necessidade de perdoar e reconciliar com aqueles que nos ofendem, entre outros. O capítulo também destaca a importância de sermos honestos e justos em nossas ações e de sermos pacientes e tolerantes com aqueles que nos cercam.
+* Efésios 4:29: "Não saia da vossa boca nenhuma palavra torpe, mas só a que for boa para a necessária edificação, a fim de que ministre graça aos que a ouvem." Este verso destaca a importância de usarmos nossas palavras para edificar e encorajar os outros, em vez de proferir palavras obscenas ou destrutivas.
+* Provérbios 22:24-25: "Não te entroses com o homem colérico, nem te acompanhes com o iracundo; para que não aprendas as suas veredas, e tomes um laço para a tua alma." Este verso destaca a influência negativa que pessoas más podem ter em nossas vidas e a importância de nos afastarmos delas para não sermos corrompidos.
+* Mateus 6:14-15: "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós; se, porém, não perdoardes aos homens as suas ofensas, tampouco vosso Pai vos perdoará as vossas ofensas." Este verso destaca a importância do perdão e da reconciliação em nossos relacionamentos com os outros.
+* Provérbios 17:23: "O ímpio aceita suborno em segredo, para perverter as veredas da justiça." Este verso enfatiza a importância de agirmos com honestidade e justiça em nossas ações, em contraposição às pessoas más que aceitam suborno para perverter a justiça.
+* 1 Coríntios 13:4-5: "O amor é paciente, é benigno; o amor não arde em ciúmes, não se ufana, não se ensoberbece, não se conduz inconvenientemente, não procura os seus interesses, não se exaspera, não se ressente do mal." Este verso destaca a importância de sermos pacientes e tolerantes com aqueles que nos cercam e de agirmos com amor em nossos relacionamentos.
+****
+
+[[v24-17-1]]
+
+^<<v24-17-1,1>>^ Vale mais um bocado de pão seco com paz. do que uma casa cheia de carne com discórdia.
+
+[[v24-17-2]]
+
+^<<v24-17-2,2>>^ O servo prudente prevalecerá sobre o filho insensato (do seu amo), e partilhará da herança com os irmãos.
+
+[[v24-17-3]]
+
+^<<v24-17-3,3>>^ Assim como a prata se prova no crisol e o ouro na fornalha, assim o Senhor prova os corações.
+
+[[v24-17-4]]
+
+^<<v24-17-4,4>>^ O mau escuta a língua iníqua, e o mentiroso dá ouvidos aos lábios malignos.
+
+[[v24-17-5]]
+
+^<<v24-17-5,5>>^ Aquele que despreza o pobre, insulta o seu Criador, e o que se alegra com a ruína de outrem, não ficará impune.
+
+[[v24-17-6]]
+
+^<<v24-17-6,6>>^ Os filhos dos filhos são a coroa dos velhos, e a glória dos filhos são os seus pais (virtuosos).
+
+[[v24-17-7]]
+
+^<<v24-17-7,7>>^ Palavras finas não convêm ao insensato, e ainda menos a um príncipe palavras mentirosas.
+
+[[v24-17-8]]
+
+^<<v24-17-8,8>>^ Uma dádiva é uma pedra preciosa aos olhos de quem a recebe; para qualquer parte que ele se volta, é (ou crê ser) bem sucedido.
+
+[[v24-17-9]]
+
+^<<v24-17-9,9>>^ Encobre as faltas (alheias) quem busca amizade; o que as conta e repete, separa os que estão unidos.
+
+[[v24-17-10]]
+
+^<<v24-17-10,10>>^ Ao homem prudente é mais útil uma repreensão, do que ao insensato um cento de golpes.
+
+[[v24-17-11]]
+
+^<<v24-17-11,11>>^ O mau anda sempre a procurar fazer rebelião, mas um mensageiro cruel será enviado contra ele. (ver nota)
+
+[[v24-17-12]]
+
+^<<v24-17-12,12>>^ É melhor encontrar uma úrsa à qual foram roubados os seus filhinhos, do que um insensato nos acessos da sua loucura.
+
+[[v24-17-13]]
+
+^<<v24-17-13,13>>^ Quem dá mal por bem jamais verá a desventura sair da sua casa.
+
+[[v24-17-14]]
+
+^<<v24-17-14,14>>^ O que começa contendas é como o que abre (um dique de) águas; (se és prudente) retira-te do litígio antes de ele se inflamar.
+
+[[v24-17-15]]
+
+^<<v24-17-15,15>>^ Aquele que absolve o réu e o que condena o inocente, ambos são abomináveis diante de Deus.
+
+[[v24-17-16]]
+
+^<<v24-17-16,16>>^ De que serve ao insensato ter riquezas, se não pode comprar com elas a sabedoria?
+
+[[v24-17-17]]
+
+^<<v24-17-17,17>>^ Aquele que é amigo (verdadeiro) é o em todo o tempo; torna-se nm irmão no tempo da desventura.
+
+[[v24-17-18]]
+
+^<<v24-17-18,18>>^ O homem insensato toma (inconsideradamente) compromissos, fica de fiador do seu próximo.
+
+[[v24-17-19]]
+
+^<<v24-17-19,19>>^ Aquele que ama discórdias, ama o pecado, e o que levanta, demais a sua porta, busca a sua ruína.
+
+[[v24-17-20]]
+
+^<<v24-17-20,20>>^ O que é de coração falso não achará o bem; e o que tem a língua perversa cairá no mal.
+
+[[v24-17-21]]
+
+^<<v24-17-21,21>>^ O que gera um insensato, sofrerá amarguras; o pai dum estulto não se poderá alegrar.
+
+[[v24-17-22]]
+
+^<<v24-17-22,22>>^ O espírito alegre é para o corpo remédio salutar, o espírito triste seca os ossos.
+
+[[v24-17-23]]
+
+^<<v24-17-23,23>>^ O ímpio recebe presentes ocultamente, para perverter as veredas da justiça.
+
+[[v24-17-24]]
+
+^<<v24-17-24,24>>^ A sabedoria está sempre diante do homem prudente; os olhos dos insensatos (andam vagueando) pelas extremidades da terra.
+
+[[v24-17-25]]
+
+^<<v24-17-25,25>>^ O filho insensato é a indignação do pai, e a dor da mãe que o gerou.
+
+[[v24-17-26]]
+
+^<<v24-17-26,26>>^ Não é bom fazer mal ao justo, nem ferir o príncipe que julga segundo a justiça.
+
+[[v24-17-27]]
+
+^<<v24-17-27,27>>^ Aquele que é moderado nas suas palavras possui a ciência; e o homem judicioso é de espirito calmo.
+
+[[v24-17-28]]
+
+^<<v24-17-28,28>>^ Até o insensato passará por sábio, se estiver calado, por inteligente, se conservar os seus lábios fechados.
+
+'''
+
+xref:024-proverbios/024-proverbios-016.adoc#v24-16-0[&#60; Capítulo Anterior] | <<v24-17-0,Topo>> | xref:024-proverbios/024-proverbios-018.adoc#v24-18-0[Próximo Capítulo &#62;]

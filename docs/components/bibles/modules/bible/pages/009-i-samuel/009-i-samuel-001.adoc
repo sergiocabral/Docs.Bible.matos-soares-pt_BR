@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v9-1-0]]
+=== I Samuel, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 1 relata a história de Ana, uma mulher estéril que orou fervorosamente por um filho. Deus atendeu suas súplicas e ela deu à luz Samuel, que mais tarde se tornou um grande profeta de Israel. Aqui estão cinco versículos relacionados com temas abordados neste capítulo:
+* Salmos 113:9: "Ele faz a estéril habitar em casa como mãe de filhos. Aleluia!" Este versículo fala sobre como Deus pode realizar milagres na vida das pessoas, incluindo dar filhos àqueles que são estéreis, como aconteceu com Ana.
+* Gênesis 25:21: "Isaque orou ao Senhor em favor de sua esposa, porque era estéril. O Senhor ouviu a sua oração, e Rebeca, sua mulher, concebeu." Este versículo mostra outro exemplo de um casal estéril que orou a Deus por um filho e foi atendido.
+* 1 Samuel 2:1: "Então Ana orou e disse: "Meu coração exulta no Senhor! No Senhor minha boca se alegra! Porque eu me alegro na tua salvação." Este é o início do cântico de Ana, que ela entoou após o nascimento de Samuel como uma forma de agradecer a Deus por ter ouvido suas orações.
+* Lucas 1:46-47: "E Maria disse: A minha alma engrandece ao Senhor, e o meu espírito se alegra em Deus, meu Salvador." Este é o início do cântico de Maria, a mãe de Jesus, que é semelhante ao cântico de Ana em 1 Samuel 2. Ambas as mulheres expressaram sua gratidão a Deus por sua fidelidade e bondade.
+* Tiago 5:16: "Confessai, pois, os vossos pecados uns aos outros e orai uns pelos outros, para serdes curados. A oração feita por um justo pode muito em seus efeitos." Este versículo fala sobre a importância da oração e do apoio mútuo na comunidade cristã, algo que Ana encontrou na casa de Deus, onde ela derramou seu coração diante do Senhor.
+****
+
+[[v9-1-1]]
+
+^<<v9-1-1,1>>^ Houve um homem Efrateu de Ramatain — Sofim, do monte de Efraim , cujo nome era Elcana, filho de Jeroão, filho de Eliu, filho de Toú, filho de Suf.
+
+[[v9-1-2]]
+
+^<<v9-1-2,2>>^ Teve duas mulheres, uma chamada Ana, e outra chamada Fenena. Fenena teve filhos; Ana, porém, não os tinha.
+
+[[v9-1-3]]
+
+^<<v9-1-3,3>>^ Este homem, nos dias determinados, subia da sua cidade para adorar e oferecer sacrifícios ao Senhor dos exércitos em Silo. Assistiam ali dois filhos de Heli: Ofni e Finéias sacerdotes do Senhor.
+
+[[v9-1-4]]
+
+^<<v9-1-4,4>>^ No dia em que Elcana oferecia um sacrifício, dava uma porção dobrada, porções (da vítima) a Fenena, sua mulher, e a todos os seus filhos e filhas.
+
+[[v9-1-5]]
+
+^<<v9-1-5,5>>^ A Ana, porém, dava uma só porção, embora a amasse. Mas o Senhor tinha-a tornado estéril.
+
+[[v9-1-6]]
+
+^<<v9-1-6,6>>^ A sua rival afligia-a também excessivamente, atormentava-a porque o Senhor a tinha tornado estéril.
+
+[[v9-1-7]]
+
+^<<v9-1-7,7>>^ Elcana assim fazia todos os anos, quando chegava o tempo de irem ao templo do Senhor, e Fenena, do mesmo modo a provocava. Então, Ana chorava, e não comia.
+
+[[v9-1-8]]
+
+^<<v9-1-8,8>>^ Dizia-lhe Eleana, seu marido; Ana, por que choras? não comes? por que se aflige o teu coração? porventura não sou eu melhor para ti, do que dez filhos?
+
+[[v9-1-9]]
+
+^<<v9-1-9,9>>^ Ana levantou-se, depois de ter comido e bebido em Silo. Estando o pontífice Heli sentado na sua cadeira à porta do templo do Senhor,
+
+[[v9-1-10]]
+
+^<<v9-1-10,10>>^ Ana, com o coração cheio do amargura, orou ao Senhor, derramando copiosas lágrimas,
+
+[[v9-1-11]]
+
+^<<v9-1-11,11>>^ e fez um voto, dizendo: Senhor dos exércitos, se te dignares olhar para a aflição da tua serva, se te lembrares de mim, se não esqueceres a tua serva e lhe deres um filho varão, eu o darei ao Senhor durante todos os dias da sua vida, e não passará navalha sobre a sua cabeça. (ver nota)
+
+[[v9-1-12]]
+
+^<<v9-1-12,12>>^ Aconteceu que, enquanto ela multiplicava as preces na presença do Senhor, Heli observava o movimento dos seus lábios.
+
+[[v9-1-13]]
+
+^<<v9-1-13,13>>^ Ana falava no seu coração, e apenas se moviam os seus lábios, mas não se lhe ouvia palavra alguma. Julgou pois Heli que ela estava embriagada,
+
+[[v9-1-14]]
+
+^<<v9-1-14,14>>^ e disse-lhe: Até quando estarás tu embriagada? Digere um pouco o vinho de que estás cheia.
+
+[[v9-1-15]]
+
+^<<v9-1-15,15>>^ Ana, respondendo, disse: Não é assim, meu senhor; eu sou uma mulher muito infeliz, não bebi vinho, nem outra coisa que possa embriagar, mas dilatei a minha alma na presença do Senhor.
+
+[[v9-1-16]]
+
+^<<v9-1-16,16>>^ Não tomes a tua escrava por uma das filhas de Belial, porque pela grandeza da minha dor e da minha aflição é que falei até agora.
+
+[[v9-1-17]]
+
+^<<v9-1-17,17>>^ Então Heli disse-lhe: Vai em paz, e o Deus de Israel te conceda a súplica que lhe fizeste.
+
+[[v9-1-18]]
+
+^<<v9-1-18,18>>^ Ela respondeu: Praza a Deus que a tua escrava ache graça aos teus olhos. E a mulher foi pelo seu caminho, e comeu, e o seu rosto já não era o mesmo.
+
+[[v9-1-19]]
+
+^<<v9-1-19,19>>^ Levantaram-se de manhã, prostraram-se diante do Senhor, e voltaram para sua casa, em Rama. Elcana conheceu sua mulher Ana, e o Senhor lembrou-se dela.
+
+[[v9-1-20]]
+
+^<<v9-1-20,20>>^ Assim sucedeu que, havendo Ana concebido, passado o seu tempo, deu à luz um filho, a que pôs o nome de Samuel, porque o tinha pedido ao Senhor. (ver nota)
+
+[[v9-1-21]]
+
+^<<v9-1-21,21>>^ Subiu Elcana, seu marido, com toda a sua família, para oferecer ao Senhor o sacrifício anual e cumprir o seu voto.
+
+[[v9-1-22]]
+
+^<<v9-1-22,22>>^ Ana não foi, porque disse ao seu marido: Eu não irei, antes que o menino esteja desleitado; então o levarei, para que apareça na presença do Senhor, e lá fique para sempre.
+
+[[v9-1-23]]
+
+^<<v9-1-23,23>>^ Elcana, seu marido, disse-lhe: Faze o que te parecer bem; fica até o desleitares, e eu rogo ao Senhor que cumpra a sua palavra. Ficou pois Ana em casa, e deu leite a seu filho, até que o desleitou.
+
+[[v9-1-24]]
+
+^<<v9-1-24,24>>^ Depois de o ter desleitado, levou-o consigo, e três novilhos, três alqueires de farinha, um cântaro de vinho, e levou-o à casa do Senhor em Silo. O menino era ainda pequenino.
+
+[[v9-1-25]]
+
+^<<v9-1-25,25>>^ Sacrificaram um novilho, e apresentaram o menino a Heli.
+
+[[v9-1-26]]
+
+^<<v9-1-26,26>>^ Ana disse: Ouve-me, senhor meu, por tua vida. Eu sou aquela mulher que esteve aqui em tua presença orando ao Senhor.
+
+[[v9-1-27]]
+
+^<<v9-1-27,27>>^ Eu orei por este menino, e o Senhor concedeu-me a petição que lhe fiz.
+
+[[v9-1-28]]
+
+^<<v9-1-28,28>>^ Portanto eu também o dou ao Senhor; durante todos os dias da sua vida, ele será dado ao Senhor. E adoraram ali o Senhor. Ana orou, dizendo:
+
+'''
+
+xref:008-rute/008-rute-004.adoc#v8-4-0[&#60; Capítulo Anterior] | <<v9-1-0,Topo>> | xref:009-i-samuel/009-i-samuel-002.adoc#v9-2-0[Próximo Capítulo &#62;]

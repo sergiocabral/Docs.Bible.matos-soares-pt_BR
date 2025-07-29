@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v48-2-0]]
+=== São Marcos, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Marcos 2 apresenta diversas narrativas que enfatizam a autoridade de Jesus como o Filho de Deus. No primeiro episódio, Jesus cura um paralítico dizendo que seus pecados foram perdoados, o que causa indignação entre os escribas presentes. Em seguida, Jesus chama Levi para segui-lo, e janta na casa dele com outros publicanos e pecadores. Mais uma vez, os fariseus questionam a conduta de Jesus. Ele responde dizendo que veio para chamar os pecadores ao arrependimento e não os justos. Por fim, Jesus é questionado pelos fariseus acerca do jejum, e responde com uma metáfora sobre a impossibilidade de se colocar remendo novo em vestido velho.
+* Romanos 3:23: "Porque todos pecaram e destituídos estão da glória de Deus." Este versículo ressalta a condição universal do pecado. Jesus ofereceu cura física ao paralítico, mas antes disso, disse que seus pecados estavam perdoados. Isso indica que a cura física é apenas uma manifestação da cura espiritual que todos necessitam.
+* Isaías 42:6: "Eu, o Senhor, te chamei em justiça, e te tomarei pela mão, e te guardarei, e te darei por aliança do povo, e para luz dos gentios." Jesus chama Levi para segui-lo e janta com pecadores e publicanos. Isso representa a inclusão de todos os tipos de pessoas em sua mensagem de salvação.
+* Lucas 5:31: "E Jesus, respondendo, disse-lhes: Não necessitam de médico os sãos, mas, sim, os enfermos." Essa passagem reforça a resposta de Jesus aos fariseus sobre por que ele come com publicanos e pecadores. Ele veio para chamar os pecadores ao arrependimento, e não os justos.
+* Colossenses 2:23: "As quais têm, na verdade, alguma aparência de sabedoria, em devoção voluntária, humildade, e em disciplina do corpo, mas não são de valor algum senão para a satisfação da carne." Essa passagem relembra a metáfora de Jesus sobre o remendo novo em vestido velho. Ele está mostrando que o jejum, como uma prática religiosa, pode ser ineficaz quando praticado de forma superficial, sem uma conexão verdadeira com Deus.
+* Mateus 12:8: "Porque o Filho do homem até do sábado é Senhor." Este versículo reforça a autoridade de Jesus como o Filho de Deus. Ele usa essa autoridade para perdoar pecados, curar o paralítico e questionar a prática religiosa superficial dos fariseus.
+****
+
+[[v48-2-1]]
+
+^<<v48-2-1,1>>^ Passados alguns dias, entrou Jesus outra vez em Cafarnaum,
+
+[[v48-2-2]]
+
+^<<v48-2-2,2>>^ e soube-se que ele estava em casa. Juntou-se muita gente, de modo que não se cabia, nem mesmo diante da porta. E ele pregava-lhes a palavra.
+
+[[v48-2-3]]
+
+^<<v48-2-3,3>>^ Foram ter com ele, conduzindo um paralítico, que era transportado por quatro.
+
+[[v48-2-4]]
+
+^<<v48-2-4,4>>^ Como não pudessem apresentar-lho por causa da multidão, descobriram o tecto pela parte debaixo da qual estava Jesus, e, tendo feito uma abertura, desceram o leito, em que jazia o paralítico.
+
+[[v48-2-5]]
+
+^<<v48-2-5,5>>^ Vendo Jesus a fé daqueles homens, disse ao paralítico: "Filho, são-te perdoados os teus pecados."
+
+[[v48-2-6]]
+
+^<<v48-2-6,6>>^ Estavam ali sentados alguns escribas, os quais iam discorrendo nos seus corações :
+
+[[v48-2-7]]
+
+^<<v48-2-7,7>>^ "Como fala assim este homem ? Ele blasfema. Quem pode perdoar os pecados, senão só Deus?"
+
+[[v48-2-8]]
+
+^<<v48-2-8,8>>^ Jesus, conhecendo logo no seu espírito que eles discorriam desta maneira dentro de si, disse-lhes: Porque pensais isso nos vossos corações ?
+
+[[v48-2-9]]
+
+^<<v48-2-9,9>>^ O que é menos difícil dizer ao paralítico: Os teus pecados te são perdoados; ou dizer: Levanta-te, toma o teu leito, e anda?
+
+[[v48-2-10]]
+
+^<<v48-2-10,10>>^ Ora, para que saibais que o Filho do homem tem na terra poder de perdoar pecados...
+
+[[v48-2-11]]
+
+^<<v48-2-11,11>>^ eu te ordeno, disse ao paralítico: "Levanta-te, toma o teu leito, e vai para tua casa."
+
+[[v48-2-12]]
+
+^<<v48-2-12,12>>^ Imediatamente ele se levantou, e, tomando o seu leito, retirou-se à vista de todos, de maneira que todos se admiraram e louvavam a Deus, dizendo: "Nunca tal vimos."
+
+[[v48-2-13]]
+
+^<<v48-2-13,13>>^ Foi outra vez para o lado do mar. Ia ter com ele todo o povo, e o ensinava.
+
+[[v48-2-14]]
+
+^<<v48-2-14,14>>^ Ao passar viu Levi, filho de Alfeu, sentado no telónio, e disse-lhe; "Segue-me." Ele, levantando-se, o seguiu.
+
+[[v48-2-15]]
+
+^<<v48-2-15,15>>^ Aconteceu que, estando Jesus sentado à mesa em casa dele, estavam também à mesa com Jesus e com os seus discípulos muitos publicanos e pecadores, porque havia muitos deles que também o seguiam.
+
+[[v48-2-16]]
+
+^<<v48-2-16,16>>^ Os escribas e fariseus, vendo que Jesus comia com os pecadores e publicanos, diziam a seus discípulos : "Porque come e bebe o vosso Mestre com os publicanos e pecadores?"
+
+[[v48-2-17]]
+
+^<<v48-2-17,17>>^ Ouvindo isto Jesus, disse-lhes: "Os sãos não têm necessidade de médico, mas os enfermos; eu não vim chamar os justos mas os pecadores."
+
+[[v48-2-18]]
+
+^<<v48-2-18,18>>^ Os discípulos de João e os fariseus jejuavam. Foram pois ter com Jesus, e disseram-lhe: "Porque jejuam os discípulos de João e os fariseus, e não jejuam os teus discípulos?"
+
+[[v48-2-19]]
+
+^<<v48-2-19,19>>^ Jesus respondeu-lhes: "Podem porventura jejuar os companheiros do esposo, enquanto o esposo está com eles? Todo o tempo que têm consigo o esposo, não podem jejuar. (ver nota)
+
+[[v48-2-20]]
+
+^<<v48-2-20,20>>^ Mas virão dias em que lhes será tirado o esposo, e então nesses dias jejuarão.
+
+[[v48-2-21]]
+
+^<<v48-2-21,21>>^ Ninguém cose um remendo de pano cru num vestido velho; doutra sorte o remendo novo leva parte do velho, e torna-se maior o rasgão.
+
+[[v48-2-22]]
+
+^<<v48-2-22,22>>^ Ninguém lança vinho novo em odres velhos; doutra sorte o vinho fará arrebentar os odres, e entornar-se-á o vinho, e perder-se-ão os odres; mas para vinho novo, odres novos."
+
+[[v48-2-23]]
+
+^<<v48-2-23,23>>^ Sucedeu que, caminhando o Senhor em dia de sábado, por entre campos de trigo, os seus discípulos, enquanto caminhavam, começaram a colher espigas.
+
+[[v48-2-24]]
+
+^<<v48-2-24,24>>^ Os fariseus diziam-lhe: "Como é que fazem ao sábado o que não é lícito?"
+
+[[v48-2-25]]
+
+^<<v48-2-25,25>>^ Ele respondeu-lhes: "Nunca lestes o que fez David, quando se encontrou em necessidade, e teve fome, ele e os que com ele estavam?
+
+[[v48-2-26]]
+
+^<<v48-2-26,26>>^ Como entrou na casa de Deus, sendo sumo sacerdote Abiatar, e comeu os pães da proposição, dos quais não é lícito comer, senão aos sacerdotes, e deu aos que com ele estavam?"
+
+[[v48-2-27]]
+
+^<<v48-2-27,27>>^ E acrescentou: "O sábado foi feito para o homem, e não o homem para o sábado. (ver nota)
+
+[[v48-2-28]]
+
+^<<v48-2-28,28>>^ Por isso o Filho do homem é senhor também do sábado." (ver nota)
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-001.adoc#v48-1-0[&#60; Capítulo Anterior] | <<v48-2-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-003.adoc#v48-3-0[Próximo Capítulo &#62;]

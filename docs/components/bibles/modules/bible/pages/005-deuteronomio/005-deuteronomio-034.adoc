@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v5-34-0]]
+=== Deuteronômio, 34
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 34 narra a morte de Moisés e a transferência do comando para Josué. Moisés morreu com 120 anos, mas sua visão não se enfraqueceu e ele ainda estava cheio de vigor. O capítulo destaca a grandeza de Moisés como líder de Israel e como profeta do Senhor. Também enfatiza a fidelidade de Deus em cumprir Suas promessas e a importância da liderança para guiar o povo de Deus.
+* Josué 1:1-2: "Depois da morte de Moisés, servo do Senhor, disse o Senhor a Josué, filho de Num, ajudante de Moisés: Moisés, meu servo, morreu; agora, pois, levanta-te, passa este Jordão, tu e todo este povo, para a terra que eu dou aos filhos de Israel." Este versículo começa o livro de Josué, que continua a história de Israel após a morte de Moisés. Isso mostra a transferência de liderança e a continuação da história de Israel sob a liderança de Josué.
+* 2 Reis 2:9: "Sucedeu, quando passaram e falavam, que eis que um carro de fogo, com cavalos de fogo, os separou um do outro; e Elias subiu ao céu num redemoinho." Este versículo narra a ascensão de Elias ao céu, que é semelhante à de Moisés em Deuteronômio 34. Ambos os eventos destacam a importância da liderança de Deus e a continuidade da obra de Deus.
+* Neemias 8:1: "Então todo o povo se ajuntou como um só homem, na praça, diante da Porta das Águas; e disseram a Esdras, o escriba, que trouxesse o livro da lei de Moisés, que o Senhor tinha ordenado a Israel." Este versículo mostra como a lei de Moisés ainda era importante para o povo de Deus, mesmo após sua morte. Moisés foi um grande líder que guiou Israel no caminho da justiça e obediência a Deus.
+* João 1:17: "Porque a lei foi dada por Moisés; a graça e a verdade vieram por Jesus Cristo." Este versículo enfatiza a importância de Moisés como líder e profeta, bem como a transição para a nova era da graça e verdade em Jesus Cristo. Moisés estabeleceu a lei, mas a graça e a verdade vieram através de Jesus.
+* Atos 7:55-56: "Mas Estêvão, cheio do Espírito Santo, fitou os olhos no céu e viu a glória de Deus e Jesus, que estava à direita de Deus, e disse: Vejo os céus abertos e o Filho do Homem em pé à direita de Deus." Este versículo mostra como a morte de Moisés não marcou o fim da comunicação divina com a humanidade. O Espírito Santo estava presente em Estêvão e mostrou a ele a glória de Deus e de Jesus.
+****
+
+[[v5-34-1]]
+
+^<<v5-34-1,1>>^ Subiu Moisés das planícies de Moab, ao monte Nebo, ao albo de Fasga, defronte de Jericó, e o Senhor mostrou-lhe toda a teira de Galaad até Dan,
+
+[[v5-34-2]]
+
+^<<v5-34-2,2>>^ todo o Neftali, a terra de Efraim e de Manassés, toda a terra de Judá até ao mar ocidental,
+
+[[v5-34-3]]
+
+^<<v5-34-3,3>>^ a parte meridional, a espaçosa campina de Jericó, (que é a) cidade das palmeiras, até Segor.
+
+[[v5-34-4]]
+
+^<<v5-34-4,4>>^ O Senhor disse-lhe: Esta é a terra que jurei dar a Abraão, Isaac e Jacob, dizendo: Eu a darei à tua posteridade. Tu a viste com os teus olhos, mas não entrarás nela.
+
+[[v5-34-5]]
+
+^<<v5-34-5,5>>^ E Moisés, servo do Senhor, morreu ali na terra de Moab, segundo a ordem do Senhor.
+
+[[v5-34-6]]
+
+^<<v5-34-6,6>>^ (Este) o sepultou no vale da terra de Moab, defronte de Fogor, e nenhum homem soube até hoje o lugar do seu sepulcro.
+
+[[v5-34-7]]
+
+^<<v5-34-7,7>>^ Moisés tinha cento e vinte anos, quando morreu: nunca a vista se lhe diminuiu, nem o seu vigor se abalou.
+
+[[v5-34-8]]
+
+^<<v5-34-8,8>>^ Os filhos de Israel o choraram na planície de Moab durante trinta dias. E completaram-se os dias do pranto dos que choravam Moisés.
+
+[[v5-34-9]]
+
+^<<v5-34-9,9>>^ Josué, filho de Nun, foi cheio do Espírito de sabedoria, porque Moisés lhe tinha imposto as suas mãos. Os filhos de Israel obedeceram-lhe, fizeram como o Senhor tinha mandado a Moisés.
+
+[[v5-34-10]]
+
+^<<v5-34-10,10>>^ Não se levantou mais em Israel profeta como Moisés, que o Senhor conhecesse face a face,
+
+[[v5-34-11]]
+
+^<<v5-34-11,11>>^ nem quanto a todos os prodígios e milagres que o mandou fazer na terra do Egipto contra Faraó e contra todos os seus servos e todo o seu pais,
+
+[[v5-34-12]]
+
+^<<v5-34-12,12>>^ nem quanto a toda a sua mão poderosa e às grandes maravilhas que fez diante de todo o Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[&#60; Capítulo Anterior] | <<v5-34-0,Topo>> | xref:006-josue/006-josue-001.adoc#v6-1-0[Próximo Capítulo &#62;]

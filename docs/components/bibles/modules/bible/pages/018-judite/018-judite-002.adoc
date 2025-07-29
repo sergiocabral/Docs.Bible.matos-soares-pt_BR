@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v18-2-0]]
+=== Judite, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Judite continua a narrativa da invasão assíria e mostra como o general Holofernes é escolhido para liderar a campanha contra as nações do oeste, incluindo Israel. Ele é apresentado como um homem poderoso e cruel que acredita que nenhum deus pode se opor a ele. Aqui estão cinco versículos relacionados com os temas abordados em Judite 2:
+* Isaías 10:7: "Mas não foi assim que ele o pensou, nem foi assim que o seu coração o imaginou, porque o seu propósito era destruir, e desarraigar não poucas nações." Este versículo fala sobre a arrogância do rei da Assíria e como ele tinha a intenção de destruir muitas nações, incluindo Israel.
+* Isaías 10:13-14: "Porque diz: Com a força da minha mão o fiz e com a minha sabedoria, porque sou prudente; e removi os limites dos povos, e roubei-lhes as coisas que eram depositadas, e como valente abati aos que se sentavam sobre elas. E achou a minha mão as riquezas dos povos como a um ninho; e, como se ajuntam os ovos abandonados, assim me ajuntei eu a toda a terra; e não houve quem movesse a asa, ou abrisse a boca, ou piasse." Este versículo descreve como o rei da Assíria se vangloriava de sua própria força e sabedoria, roubando as riquezas dos povos e aniquilando aqueles que se opunham a ele.
+* Jó 12:13: "Com Deus está a sabedoria e a força; a ele pertence o conselho e a inteligência." Este versículo fala sobre como toda a sabedoria e força verdadeiras pertencem a Deus, não aos homens arrogantes como o rei da Assíria.
+* Isaías 14:12-15: "Como caíste desde o céu, ó estrela da manhã, filha da alva! Como foste cortado por terra, tu que debilitavas as nações! E tu dizias no teu coração: Eu subirei ao céu, acima das estrelas de Deus exaltarei o meu trono, e no monte da congregação me assentarei, aos lados do norte. Subirei sobre as alturas das nuvens, e serei semelhante ao Altíssimo." Este versículo fala sobre a queda de Lúcifer, que também é conhecido como Satanás, que foi arrogante e tentou se elevar acima de Deus.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez do espírito precede a queda." Este versículo fala sobre como a soberba e a arrogância sempre levam à queda e à ruína. Isso é especialmente verdadeiro para o rei da Assíria em Judite 2, que é tão arrogante que ele acredita que nenhum deus pode se opor a ele.
+****
+
+[[v18-2-1]]
+
+^<<v18-2-1,1>>^ No ano décimo terceiro do rei Nabucodonosor, aos vinte e dois dias do primeiro mês, foi resolvido no palácio de Nabucodonosor, rei dos Assírios, que ele se vingaria.
+
+[[v18-2-2]]
+
+^<<v18-2-2,2>>^ Convocou todos os anciãos, todos os seus chefes e guerreiros, e teve com eles um conselho secreto.
+
+[[v18-2-3]]
+
+^<<v18-2-3,3>>^ Declarou que era sua intenção sujeitar ao seu império toda a terra.
+
+[[v18-2-4]]
+
+^<<v18-2-4,4>>^ Tendo sido esta proposta unanimemente aprovada, o rei Nabucodonosor chamou Holofernes, chefe supremo das suas tropas,
+
+[[v18-2-5]]
+
+^<<v18-2-5,5>>^ e disse-lhe: Vai atacar os reinos do Ocidente, principalmente aqueles que desprezaram as minhas ordens.
+
+[[v18-2-6]]
+
+^<<v18-2-6,6>>^ O teu olho não perdoará a nenhum reino, e tu me sujeitarás todas as cidades fortes.
+
+[[v18-2-7]]
+
+^<<v18-2-7,7>>^ Então Holofernes convocou os generais e oficiais do exército dos Assírios, e contou, para se pôr em campanha, segundo a ordem que lhe deu o rei, cento e vinte mil combatentes de pé, e doze mil frecheiros a cavalo.
+
+[[v18-2-8]]
+
+^<<v18-2-8,8>>^ Mandou ir a diante de todo o seu exército uma multidão inumerável de camelos, com abundância de provisões para o exército, assim como manadas de bois e rebanhos de ovelhas sem número.
+
+[[v18-2-9]]
+
+^<<v18-2-9,9>>^ Mandou que em toda a Síria se aprontasse trigo para quando ele passasse.
+
+[[v18-2-10]]
+
+^<<v18-2-10,10>>^ Também levou da casa do rei ouro e prata em grandíssima quantidade.
+
+[[v18-2-11]]
+
+^<<v18-2-11,11>>^ Partiu ele, e todo o exército, com os carros, cavaleiros e frecheiros, que cobriam a face da terra como gafanhotos.
+
+[[v18-2-12]]
+
+^<<v18-2-12,12>>^ Depois de passar os confins dá Assíria, chegou aos grandes montes de Auge, que ficam à esquerda da Cilícia, penetrou em todos os seus castelos e apoderou-se de todas as praças fortes.
+
+[[v18-2-13]]
+
+^<<v18-2-13,13>>^ Destruiu a famosíssima cidade de Melitene, saqueou todos os filhos de Tarsis e os filhos de Ismael, que habitavam em frente do deserto, ao meio-dia da terra de Celon.
+
+[[v18-2-14]]
+
+^<<v18-2-14,14>>^ Em seguida passou o Eufrates, foi à Mesopotâmia e forçou todas as cidades fortes que ali havia, desde a ribeira de Chaboras até ao mar. (ver nota)
+
+[[v18-2-15]]
+
+^<<v18-2-15,15>>^ Em seguida assenhoreou-se de todos os territórios (ao longo do Eufrates) desde a Cilícia até aos confins de Jafet, que estão ao meio-dia.
+
+[[v18-2-16]]
+
+^<<v18-2-16,16>>^ Levou consigo todos os filhos de Madian, saqueou todas as suas riquezas, e passou ao fio da espada todos os que lhe resistiam.
+
+[[v18-2-17]]
+
+^<<v18-2-17,17>>^ Depois desceu aos campos de Damasco, no tempo da ceifa, queimou todas as searas e mandou cortar todas as árvores e as vinhas.
+
+[[v18-2-18]]
+
+^<<v18-2-18,18>>^ O terror (do seu exército) invadiu todos os habitantes da terra.
+
+'''
+
+xref:018-judite/018-judite-001.adoc#v18-1-0[&#60; Capítulo Anterior] | <<v18-2-0,Topo>> | xref:018-judite/018-judite-003.adoc#v18-3-0[Próximo Capítulo &#62;]

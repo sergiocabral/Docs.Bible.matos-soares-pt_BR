@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v52-5-0]]
+=== Romanos, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Romanos 5 aborda o tema da justificação pela fé em Jesus Cristo e da reconciliação do homem com Deus. O capítulo destaca a obra redentora de Cristo, que trouxe a salvação para todos os que crêem, e enfatiza a grandeza do amor de Deus pelos pecadores.
+* Isaías 53:11: "Ele verá o fruto do trabalho da sua alma, e ficará satisfeito; com o seu conhecimento o meu servo, o justo, justificará a muitos; porque as iniquidades deles levará sobre si." Este versículo se relaciona com a ideia de que a justificação é alcançada pela obra redentora de Jesus Cristo, tema central em Romanos 5:18.
+* João 15:13: "Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos." Este versículo destaca a grandeza do amor de Cristo, que deu a sua vida pela humanidade, tema que é enfatizado em Romanos 5:6-8.
+* 2 Coríntios 5:18-19: "E tudo isto provém de Deus, que nos reconciliou consigo mesmo por Cristo, e nos confiou o ministério da reconciliação; pois que Deus estava em Cristo reconciliando consigo o mundo, não imputando aos homens as suas transgressões, e nos confiou a palavra da reconciliação." Este versículo se relaciona com o tema da reconciliação do homem com Deus, que é abordado em Romanos 5:10-11.
+* Colossenses 1:20: "E, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, tanto as que estão na terra, como as que estão nos céus." Este versículo destaca que a reconciliação é alcançada por meio do sacrifício de Jesus Cristo, que é mencionado em Romanos 5:9-10.
+* 1 João 4:9-10: "Nisto se manifestou o amor de Deus para conosco: que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos. Nisto está o amor, não em que nós tenhamos amado a Deus, mas em que ele nos amou a nós, e enviou seu Filho como propiciação pelos nossos pecados." Este versículo enfatiza a grandeza do amor de Deus pela humanidade e destaca que a salvação é alcançada por meio da obra redentora de Cristo, tema que é central em Romanos 5.
+****
+
+[[v52-5-1]]
+
+^<<v52-5-1,1>>^ Justificados, pois, pela fé, tenhamos paz com Deus, por meio de Nosso Senhor Jesus Cristo,
+
+[[v52-5-2]]
+
+^<<v52-5-2,2>>^ pelo qual temos acesso pela fé a esta graça, na qual estamos firmes, e nos gloriamos na esperança da glória de Deus.
+
+[[v52-5-3]]
+
+^<<v52-5-3,3>>^ E não sòmente (nesta esperança), mas também nos gloriamos nas tribulações, sabendo que a tribulação produz a paciência, (ver nota)
+
+[[v52-5-4]]
+
+^<<v52-5-4,4>>^ a paciência (produz) a virtude provada, a virtude provada (produz) a esperança, (ver nota)
+
+[[v52-5-5]]
+
+^<<v52-5-5,5>>^ e a esperança não traz engano, porque a caridade de Deus está derramada em nossos corações pelo Espírito Santo, que nos foi dado.
+
+[[v52-5-6]]
+
+^<<v52-5-6,6>>^ Por que motivo, pois, quando nós ainda estávamos enfermos (pelo pecado) morreu Cristo, no tempo determinado, pelos ímpios? (ver nota)
+
+[[v52-5-7]]
+
+^<<v52-5-7,7>>^ Ora é difícil haver quem morra por um justo, ainda que alguém se resolva talvez a morrer por um homem de bem.
+
+[[v52-5-8]]
+
+^<<v52-5-8,8>>^ Mas Deus manifesta a sua caridade para connosco, porque, quando ainda éramos pecadores, então morreu Cristo por nós.
+
+[[v52-5-9]]
+
+^<<v52-5-9,9>>^ Pois muito mais agora, que estamos justificados pelo seu sangue, seremos salvos da ira por ele mesmo. (ver nota)
+
+[[v52-5-10]]
+
+^<<v52-5-10,10>>^ Se, sendo nós inimigos, fomos reconciliados com Deus pela morte de seu Filho, muito mais, estando já reconciliados, seremos salvos por sua vida. (ver nota)
+
+[[v52-5-11]]
+
+^<<v52-5-11,11>>^ E não só isto, mas também nos gloriamos em Deus por Nosso Senhor Jesus Cristo, por quem agora recebemos a reconciliação.
+
+[[v52-5-12]]
+
+^<<v52-5-12,12>>^ Portanto, assim como por um só homem entrou o pecado (original) neste mundo, e pelo pecado a morte, e assim passou a morte a todos os homens, porque todos pecaram... (ver nota)
+
+[[v52-5-13]]
+
+^<<v52-5-13,13>>^ Porque até à lei o pecado estava no mundo; porém, o pecado não era imputado, não havendo lei. (ver nota)
+
+[[v52-5-14]]
+
+^<<v52-5-14,14>>^ Todavia a morte reinou desde Adão até Moisés, mesmo sobre aqueles que não pecaram por uma transgressão semelhante à de Adão, o qual é a figura do (segundo Adão) que havia de vir.
+
+[[v52-5-15]]
+
+^<<v52-5-15,15>>^ Mas o dom gratuito não é como o delito, porque, se pelo delito de um só (homem) morreram todos os outros, muito mais a graça de Deus e o dom (que vem) pela graça de um só homem, (que é) Jesus Cristo, são abundantemente espalhados sobre todos os outros.
+
+[[v52-5-16]]
+
+^<<v52-5-16,16>>^ E não se dá com o dom o mesmo que se dá com o pecado de um só, porque a sentença de condenação foi dada por causa do pecado de um só, ao passo que o dom da graça traz a justificação de muitos pecados.
+
+[[v52-5-17]]
+
+^<<v52-5-17,17>>^ Com efeito, se pelo pecado de um, a morte reinou por um só, muito mais reinarão na vida por um só, que é Jesus Cristo, os que recebem a abundância da graça e do dom da justiça.
+
+[[v52-5-18]]
+
+^<<v52-5-18,18>>^ Por isso, assim como pelo pecado de um só, incorreram todos os homens na condenação, assim pela justiça de um só, recebem todos os homens a justificação que dá a vida.
+
+[[v52-5-19]]
+
+^<<v52-5-19,19>>^ Porque, assim como pela desobediência de um só homem, todos os outros se tornaram pecadores, assim pela obediência de um só, todos os outros virão a ser justos.
+
+[[v52-5-20]]
+
+^<<v52-5-20,20>>^ Sobreveio a lei para que abundasse o pecado. Mas, onde abundou o pecado, superabundou a graça (ver nota)
+
+[[v52-5-21]]
+
+^<<v52-5-21,21>>^ para que, assim como o pecado reinou dando a morte, assim reine a graça pela justiça para (dar) a vida eterna, por meio de Jesus Cristo Nosso Senhor.
+
+'''
+
+xref:052-romanos/052-romanos-004.adoc#v52-4-0[&#60; Capítulo Anterior] | <<v52-5-0,Topo>> | xref:052-romanos/052-romanos-006.adoc#v52-6-0[Próximo Capítulo &#62;]

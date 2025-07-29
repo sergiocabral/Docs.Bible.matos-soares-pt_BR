@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v26-7-0]]
+=== Cântico dos Cânticos, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 7 do livro de Cânticos trata da beleza da amada, com destaque para as partes do corpo dela que são descritas com grande admiração pelo amado. Os versículos a seguir estão relacionados com esse tema:
+* Provérbios 31:30: "A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada." Esse versículo fala da importância de valorizar qualidades interiores, como o temor a Deus, em vez de se deixar levar somente pela aparência física.
+* 1 Samuel 16:7: "Porém o Senhor disse a Samuel: Não consideres a sua aparência, nem o seu grande porte, porque eu o rejeitei; porque o Senhor não vê como vê o homem. O homem vê o exterior, porém o Senhor, o coração." Nesse verso, Deus mostra que não se importa com a aparência física das pessoas, mas com o coração delas.
+* Provérbios 6:25: "Não cobices no teu coração a sua formosura, nem te deixes prender pelos seus olhares." Esse verso adverte contra a tentação de se deixar levar pela beleza externa, que pode levar a atitudes pecaminosas.
+* 1 Coríntios 6:19-20: "Ou não sabeis que o nosso corpo é santuário do Espírito Santo, que habita em vós, proveniente de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço. Agora, pois, glorificai a Deus no vosso corpo." Esses versículos ressaltam a importância de cuidar do corpo como um templo do Espírito Santo, honrando a Deus em todas as áreas da vida.
+* 1 Pedro 3:3-4: "O vosso adorno não seja o enfeite exterior, como as tranças dos cabelos, o uso de joias de ouro, ou o luxo dos vestidos, mas o homem interior do coração, unido ao incorruptível trajo de um espírito manso e tranquilo, que é precioso diante de Deus." Esse versículo também destaca a importância de valorizar as qualidades interiores, como a mansidão e a tranquilidade, em vez de se concentrar somente na aparência externa.
+****
+
+[[v26-7-1]]
+
+^<<v26-7-1,1>>^ Que verás tu na Sulamita, senão como um coro de duas partes? Quão belos são os teus pés, nas sandálias que trazes, ó filha de príncipe! As colunas das tuas pernas são como anéis trabalhados por mãos de artista. (ver nota)
+
+[[v26-7-2]]
+
+^<<v26-7-2,2>>^ O teu umbigo é uma taça arredondada, que nunca está desprovida de vinho. O teu ventre é como um monte de trigo cercado de lírios. (ver nota)
+
+[[v26-7-3]]
+
+^<<v26-7-3,3>>^ Os teus dois seios são como dois filhinhos gémeos duma gazela.
+
+[[v26-7-4]]
+
+^<<v26-7-4,4>>^ O teu pescoço é como uma torre de marfim. Os teus olhos são como as piscinas de Hesebon, que estão situadas junto da porta de Bat-Rabim. O teu nariz é como a torre do Líbano, que olha para Damasco.
+
+[[v26-7-5]]
+
+^<<v26-7-5,5>>^ A tua cabeça levanta-se como o monte Carmelo; os cabelos da tua cabeça são como a púrpura; um rei ficou preso às suas madeixas.
+
+[[v26-7-6]]
+
+^<<v26-7-6,6>>^ Quão formosa e encantadora és, meu amor, minhas delícias!
+
+[[v26-7-7]]
+
+^<<v26-7-7,7>>^ A tua figura é semelhante a uma palmeira, os teus seios são como cachos.
+
+[[v26-7-8]]
+
+^<<v26-7-8,8>>^ Eu disse: Subirei à palmeira, e colherei os seus frutos. Os teus seios serão, para mim, como cachos de uvas, e o perfume da tua boca como o das maçãs.
+
+[[v26-7-9]]
+
+^<<v26-7-9,9>>^ A tua palavra é como um vinho excelente, digno de ser bebido pelo amado, e saboreado entre os seus lábios e os seus dentes.
+
+[[v26-7-10]]
+
+^<<v26-7-10,10>>^ Eu sou para o meu amado, e os seus desejos voltam-se para mim.
+
+[[v26-7-11]]
+
+^<<v26-7-11,11>>^ Vem, amado meu, saiamos ao campo, passemos a noite nos pomares.
+
+[[v26-7-12]]
+
+^<<v26-7-12,12>>^ Levantemo-nos de manhã para ir às vinhas, vejamos se a vinha lançou rebentos, se as flores se abrem, se as romãzeiras estão em flor. Aí te darei o meu amor.
+
+[[v26-7-13]]
+
+^<<v26-7-13,13>>^ As mandrúgoras eram plantas que. segundo julgavam, favoreciam o amor e a fecundidade. (Gen. 30, 14-8).
+
+[[v26-7-14]]
+
+^<<v26-7-14,14>>^ As mandrágoras espalham o seu aroma, e nós temos às nossas portas toda a qualidade de frutos excelentes, novos e velhos, que guardei para ti, amado meu.
+
+'''
+
+xref:026-cantico-dos-canticos/026-cantico-dos-canticos-006.adoc#v26-6-0[&#60; Capítulo Anterior] | <<v26-7-0,Topo>> | xref:026-cantico-dos-canticos/026-cantico-dos-canticos-008.adoc#v26-8-0[Próximo Capítulo &#62;]

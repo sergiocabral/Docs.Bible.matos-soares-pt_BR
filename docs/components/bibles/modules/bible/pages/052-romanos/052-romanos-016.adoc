@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v52-16-0]]
+=== Romanos, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Romanos 16 é o último capítulo da Epístola aos Romanos e apresenta uma série de saudações e recomendações pessoais do apóstolo Paulo. Dentre os temas abordados nesse capítulo, podemos destacar a importância da comunidade cristã, do trabalho em equipe e da valorização do serviço prestado pelos irmãos na fé. Seguem abaixo cinco versículos relacionados com esses temas:
+* 1 Coríntios 12:12 - "Porque, assim como o corpo é um e tem muitos membros, e todos os membros, sendo muitos, são um só corpo, assim é Cristo também." Esse versículo faz uma analogia entre o corpo humano e a comunidade cristã, mostrando que cada membro tem uma função importante e que todos juntos formam um só corpo.
+* Filipenses 2:2-3 - "Completai a minha alegria, para que sintais o mesmo, tendo o mesmo amor, o mesmo ânimo, sentindo uma mesma coisa. Nada façais por contenda ou por vanglória, mas por humildade; cada um considere os outros superiores a si mesmo." Nesses versículos, Paulo exorta os filipenses a cultivarem a união e a humildade, valorizando os outros irmãos em Cristo.
+* 1 Tessalonicenses 5:11 - "Por isso, exortai-vos uns aos outros e edificai-vos uns aos outros, como também o fazeis." Aqui, Paulo ressalta a importância do encorajamento mútuo e da edificação na fé.
+* Hebreus 10:24-25 - "E consideremo-nos uns aos outros, para nos estimularmos ao amor e às boas obras, não deixando de congregar-nos, como é costume de alguns; antes, façamos admoestações e tanto mais quanto vedes que o Dia se aproxima." Esse versículo enfatiza a importância da comunhão e do estímulo mútuo para a prática do amor e das boas obras.
+* 1 Coríntios 3:8 - "O que planta e o que rega são um; mas cada um receberá o seu galardão segundo o seu trabalho." Aqui, Paulo destaca a importância do trabalho em equipe e da valorização do serviço prestado por cada irmão na comunidade cristã.
+****
+
+[[v52-16-1]]
+
+^<<v52-16-1,1>>^ Recomendo-vos a nossa irmã Febe, diaconisa da Igreja de Cencris, (ver nota)
+
+[[v52-16-2]]
+
+^<<v52-16-2,2>>^ para que a recebais no Senhor, como devem fazer os santos, e a ajudeis em tudo o que de vós tiver necessidade, porque ela ajudou também a muitos e a mim próprio.
+
+[[v52-16-3]]
+
+^<<v52-16-3,3>>^ Saudai Prisca e Aquila, meus cooperadoree em Jesus Cristo,
+
+[[v52-16-4]]
+
+^<<v52-16-4,4>>^ os quais expuseram as suas cabeças pela minha vida, o que não só eu lhes agradeço, mas também todas as igrejas dos gentios.
+
+[[v52-16-5]]
+
+^<<v52-16-5,5>>^ Saudai também a Igreja que está em sua casa. Saudai o meu querido Epeneto, primícias da Ásia em Cristo.
+
+[[v52-16-6]]
+
+^<<v52-16-6,6>>^ Saudai Maria, a qual trabalhou muito entre vós.
+
+[[v52-16-7]]
+
+^<<v52-16-7,7>>^ Saudai Audronico e Júnia, meus parentes e cativos comigo, os quais são ilustres entre os apóstolos e foram em Cristo antes de mim.
+
+[[v52-16-8]]
+
+^<<v52-16-8,8>>^ Saudai Ampliato, meu caríssimo no Senhor.
+
+[[v52-16-9]]
+
+^<<v52-16-9,9>>^ Saudai Urbano, nosso cooperador em Jesus Cristo, e o meu amado Staquis.
+
+[[v52-16-10]]
+
+^<<v52-16-10,10>>^ Saudai Apeles, provado em Cristo.
+
+[[v52-16-11]]
+
+^<<v52-16-11,11>>^ Saudai aqueles que são da casa de Aristóbulo. Saudai Herodião, meu parente. Saudai os que são da casa de Narciso, que estão no Senhor.
+
+[[v52-16-12]]
+
+^<<v52-16-12,12>>^ Saudai Trifena e Trifosa, que trabalham no Senhor. Saudai a nossa muito amada Pérside, que trabalhou muito no Senhor.
+
+[[v52-16-13]]
+
+^<<v52-16-13,13>>^ Saudai Rufo, escolhido no Senhor, e sua mãe, que considero como minha. (ver nota)
+
+[[v52-16-14]]
+
+^<<v52-16-14,14>>^ Saudai Asincrito, Flegonte, Hermas, Patrobas, Hermes e os irmãos que estão com eles.
+
+[[v52-16-15]]
+
+^<<v52-16-15,15>>^ Saudai Filólogo e Júlia, Nereve sua irmã, Olimpíades e todos os santos que estão com eles.
+
+[[v52-16-16]]
+
+^<<v52-16-16,16>>^ Saudai-vos uns aos outros, em ósculo santo. Todas as igrejas de Cristo vos saúdam.
+
+[[v52-16-17]]
+
+^<<v52-16-17,17>>^ Rogo-vos, Irmãos, que vos acauteleis daqueles que causam dissenções e escândalos contra a doutrina que aprendestes, e apartai-vos deles,
+
+[[v52-16-18]]
+
+^<<v52-16-18,18>>^ porque esses tais não servem a Cristo Senhor Nosso, mas ao seu ventre, e, com palavras doces e com adulações, enganam os corações dos simples.
+
+[[v52-16-19]]
+
+^<<v52-16-19,19>>^ Porquanto a vossa obediência em toda a parte se tornou notória. Alegro-me, pois, em ,vós, mas quero que sejais sábios no bem e simples no mal.
+
+[[v52-16-20]]
+
+^<<v52-16-20,20>>^ O Deus de paz esmagará logo a Satanás debaixo de vossos pés. A graça de Nosso Senhor Jesus Cristo seja convosco.
+
+[[v52-16-21]]
+
+^<<v52-16-21,21>>^ Saúda-vos Timóteo, meu cooperador, e Lúcio, Jason e Sosipatro, meus parentes.
+
+[[v52-16-22]]
+
+^<<v52-16-22,22>>^ Eu, Tércio, que escrevi esta carta, saúdo-vos no Senhor,
+
+[[v52-16-23]]
+
+^<<v52-16-23,23>>^ Saúda-vos Caio, meu hospedeiro e de toda a igreja. Saúda-vos Erasto, tesoureiro da cidade, e Quarto, (nosso) irmão.
+
+[[v52-16-24]]
+
+^<<v52-16-24,24>>^ A graça de Nosso Senhor Jesus Cristo seja com todos vós. Assim seja. (ver nota)
+
+[[v52-16-25]]
+
+^<<v52-16-25,25>>^ Ao que é poderoso para vos confirmar segundo o meu Evangelho e a pregação de Jesus Cristo, segundo a revelação do mistério (da salvação) encoberto desde toda a eternidade,
+
+[[v52-16-26]]
+
+^<<v52-16-26,26>>^ mas agora manifestado pelos escritos dos profetas, segundo o mandamento do eterno Deus, para que, conhecido de todos os gentios, os leve a obedecer à fé;
+
+[[v52-16-27]]
+
+^<<v52-16-27,27>>^ a Deus, único sábio, (seja dada) honra e glória por Jesus Cristo, pelos séculos dos séculos. Assim seja.
+
+'''
+
+xref:052-romanos/052-romanos-015.adoc#v52-15-0[&#60; Capítulo Anterior] | <<v52-16-0,Topo>> | xref:053-i-corintios/053-i-corintios-001.adoc#v53-1-0[Próximo Capítulo &#62;]

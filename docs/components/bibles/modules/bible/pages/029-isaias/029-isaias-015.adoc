@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v29-15-0]]
+=== Isaías, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 15 descreve a destruição de Moabe, um povo vizinho de Israel. O capítulo narra a aflição e o desespero dos moabitas diante da invasão e do julgamento divino. A seguir, estão cinco versículos relacionados com os temas abordados em Isaías 15:
+* Jeremias 48:46: "Ai de ti, Moabe! O povo de Quemós pereceu, porque teus filhos foram levados cativos para o cativeiro, e tuas filhas, para o cativeiro." Este versículo fala sobre a captura e o exílio dos moabitas pelos babilônios, um evento que foi profetizado por Isaías em seu livro.
+* Salmos 60:8: "A Moabe lançarei o meu sapato; sobre Edom clamarei em alta voz; faze-me assim, ó Filisteia, por causa de mim." Este verso expressa a ira de Deus contra Moabe e outras nações inimigas de Israel.
+* 2 Reis 3:27: "Então, tomou ele a seu primogênito, que devia reinar em seu lugar, e o ofereceu em holocausto sobre o muro. E houve grande indignação em Israel; e retiraram-se dele, e voltaram para a sua terra." Este verso relata um ato extremo de sacrifício humano cometido pelos moabitas em uma tentativa de escapar da derrota.
+* Jeremias 48:35: "E porei fim ao que oferece sacrifícios nos altos, e ao que queima incenso aos seus deuses." Este verso é uma profecia sobre a destruição dos altares de adoração a deuses pagãos em Moabe.
+* Ezequiel 25:8: "Assim diz o Senhor JEOVÁ: Porquanto Moabe e Seir dizem: Eis que a casa de Judá é como todas as outras nações." Este verso destaca a hostilidade dos moabitas em relação a Judá, a nação irmã de Israel.
+****
+
+[[v29-15-1]]
+
+^<<v29-15-1,1>>^ Oráculo contra Moab. Sim, atacada de noite, Ar-Moab foi destruída! Sim, atacada de noite, Kir-Moab foi destruída. (ver nota)
+
+[[v29-15-2]]
+
+^<<v29-15-2,2>>^ O povo de Dimon subiu aos altos para público, chorar sobre Nebo e sobre Medaba. Moab lamentou-se, todas as suas cabeças estão rapadas, e toda a barba está cortada.
+
+[[v29-15-3]]
+
+^<<v29-15-3,3>>^ Andam pelas suas ruas vestidos de saco; sobre os seus telhados e nas suas praças, sòmente se ouvem lamentos acompanhados de lágrimas. (ver nota)
+
+[[v29-15-4]]
+
+^<<v29-15-4,4>>^ Gritam Hesebon e Eleale; até Jahas foi ouvida a sua voz. À vista disto lamentam-se os próprios guerreiros de Moab, a sua alma trepida.
+
+[[v29-15-5]]
+
+^<<v29-15-5,5>>^ O coração de Moab solta gritos; os seus fugitivos estão já em Soar, em Eglath-Chelichia. Pela colina de Luit subirá cada um chorando, e pelo caminho de Oronaim irão dando gritos de aflição.
+
+[[v29-15-6]]
+
+^<<v29-15-6,6>>^ As águas de Nimrim extinguiram-se, secou-se a erva, não se vingou a vegetação, pereceu toda a verdura.
+
+[[v29-15-7]]
+
+^<<v29-15-7,7>>^ Os seus bens e as suas provisões levem-nos (os inimigos) para o outro lado da torrente dos Salgueiros.
+
+[[v29-15-8]]
+
+^<<v29-15-8,8>>^ Os gritos ouviram-se à volta pelos confins de Moab; chegaram até Galim os seus lamentos, e até ao poço de Elim os seus clamores.
+
+[[v29-15-9]]
+
+^<<v29-15-9,9>>^ Porque ficaram cheias de sangue (de Moabitas) as águas de Dimon, pois enviarei sobre Dimon mais desgraças, um leão contra aqueles Moab que escaparem, contra os sobreviventes do país.
+
+'''
+
+xref:029-isaias/029-isaias-014.adoc#v29-14-0[&#60; Capítulo Anterior] | <<v29-15-0,Topo>> | xref:029-isaias/029-isaias-016.adoc#v29-16-0[Próximo Capítulo &#62;]

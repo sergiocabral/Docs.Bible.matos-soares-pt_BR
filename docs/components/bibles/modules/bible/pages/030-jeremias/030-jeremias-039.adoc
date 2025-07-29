@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v30-39-0]]
+=== Jeremias, 39
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 39 descreve a queda de Jerusalém para os babilônios e as consequências para o povo de Judá. O capítulo começa com a invasão e captura da cidade e, em seguida, descreve a deportação do rei Zedequias e muitos outros para a Babilônia. O capítulo termina com a libertação de Jeremias por ordem do rei babilônico. Abaixo estão cinco versículos relacionados com os temas abordados em Jeremias 39:
+* 2 Reis 25:9: "Incendiaram a casa do Senhor, o palácio real e todas as casas de Jerusalém; todas as casas importantes foram destruídas pelo fogo." Este verso destaca a destruição e a devastação que ocorreram em Jerusalém durante a queda da cidade. Isso se relaciona com Jeremias 39, pois descreve o mesmo evento e a destruição que ocorreu como resultado da queda da cidade.
+* Ezequiel 33:21: "No décimo segundo ano do nosso cativeiro, no quinto dia do décimo mês, um fugitivo de Jerusalém veio a mim e disse: 'A cidade caiu!'" Este verso destaca o impacto que a queda de Jerusalém teve nas pessoas que foram deportadas para a Babilônia. Ele se relaciona com Jeremias 39, pois descreve a deportação do rei e do povo de Judá para a Babilônia após a queda da cidade.
+* Salmo 137:1: "Junto aos rios da Babilônia, ali nos assentamos e choramos, lembrando-nos de Sião." Este verso descreve a tristeza e o lamento do povo de Judá enquanto estava no exílio na Babilônia. Ele se relaciona com Jeremias 39, pois descreve a deportação do povo para a Babilônia e a tristeza que eles experimentaram durante o exílio.
+* Lamentações 2:9: "As portas da cidade caíram, e foram destruídas; as suas barras foram quebradas e o seu rei e os seus líderes estão entre as nações. A lei já não existe, e os seus profetas não encontram visões do Senhor." Este verso descreve a destruição e a desolação que ocorreram em Jerusalém durante a queda da cidade. Ele se relaciona com Jeremias 39, pois descreve o mesmo evento e a destruição que ocorreu como resultado da queda da cidade.
+* Esdras 1:1: "No primeiro ano do reinado de Ciro, rei da Pérsia, para que se cumprisse a palavra do Senhor proferida por Jeremias, o Senhor despertou o espírito de Ciro, rei da Pérsia, para que fosse feita uma proclamação em todo o seu reino, e também por escrito, dizendo:" Este verso destaca o cumprimento das profecias de Jeremias sobre a restauração de Judá após o exílio na Babilônia. Ele se relaciona com Jeremias 39, pois descreve a deportação do povo para a Babilônia, mas também aponta para a restauração que viria, já que o Senhor despertou o espírito de Ciro para fazer uma proclamação permitindo que os judeus retornassem a Jerusalém e reconstruíssem o templo.
+****
+
+[[v30-39-1]]
+
+^<<v30-39-1,1>>^ No ano nono de Sedecias, rei de Judá, no décimo mês, veio Nabucodonosor, rei de Babilônia, com todo o seu exército contra Jerusalém e sitiou-a.
+
+[[v30-39-2]]
+
+^<<v30-39-2,2>>^ No ano undécimo de Sedecias, ao nono dia do quarto mês, abriu-se uma brecha na cidade,
+
+[[v30-39-3]]
+
+^<<v30-39-3,3>>^ e todos os chefes (do exército) do rei de Babilônia entraram e fizeram alto junto à porta do meio. Eram: Nabuzardan, chefe da guarda, Nabuzesban, Nergal-Sareser, e todos os outros príncipes do rei de Babilônia.
+
+[[v30-39-4]]
+
+^<<v30-39-4,4>>^ Sedecias, rei de Judá, e toda a sua gente, tendo-os visto, fugiram, saindo de noite da cidade pelo caminho do jardim do rei e pela porta que estava entre os dois muros, e tomaram o caminho de Araba.
+
+[[v30-39-5]]
+
+^<<v30-39-5,5>>^ Mas o exército dos Caldeus foi em seu alcance; apanharam Sedecias nos baixos descampados de Jericó e levaram-no preso a Nabucodonosor, rei de Babilônia, a Rebia, na terra de Emat, o qual pronunciou a sua sentença.
+
+[[v30-39-6]]
+
+^<<v30-39-6,6>>^ O rei de Babilônia entregou à morte em Rebia os filhos de Sedecias, diante dos seus olhos; o rei de Babilônia mandou também matar todos os grandes de Judá.
+
+[[v30-39-7]]
+
+^<<v30-39-7,7>>^ Depois mandou arrancar os olhos a Sedecias e pô-lo a ferros, para o levar a Babilônia.
+
+[[v30-39-8]]
+
+^<<v30-39-8,8>>^ Caldeus queimaram o palácio do rei e as casas particulares, e derribaram o muro de Jerusalém.
+
+[[v30-39-9]]
+
+^<<v30-39-9,9>>^ O resto do povo que tinha ficado na cidade, e os desertores que se tinham ido entregar a ele, e o resto do povo que tinha ficado, levou-os a Babilônia Nabuzardan, chefe da guarda.
+
+[[v30-39-10]]
+
+^<<v30-39-10,10>>^ Aos mais pobres da plebe, que não tinham absolutamente coisa alguma, Nabuzardan, chefe da guarda, deixou-os ficar na terra de Judá e deu-lhes vinhas e campos, nesse dia.
+
+[[v30-39-11]]
+
+^<<v30-39-11,11>>^ Nabucodonosor, rei de Babilônia, tinha dado esta ordem a Nabuzardan, chefe da guarda, acerca de Jeremias:
+
+[[v30-39-12]]
+
+^<<v30-39-12,12>>^ Toma-o, põe sobre ele os teus olhos, não lhe faças mal nenhum, mas concede-lhe tudo o que ele quiser.
+
+[[v30-39-13]]
+
+^<<v30-39-13,13>>^ Por este motivo Nabuzardan, chefe da guarda, Nabusezban, Nergal-Sareser e todos os grandes do rei de Babilónia,
+
+[[v30-39-14]]
+
+^<<v30-39-14,14>>^ mandaram tirar Jeremias do vestíbulo da guarda e entregaram-no a Godolias, filho de Aicão, filho de Safan, para que o levasse a sua casa. E assim ele ficou entre o povo.
+
+[[v30-39-15]]
+
+^<<v30-39-15,15>>^ A palavra do Senhor tinha sido dirigida a Jeremias, quando estava preso no vestíbulo da guarda, nestes termos:
+
+[[v30-39-16]]
+
+^<<v30-39-16,16>>^ Vai e dize a Abdemelech, etíope: Assim fala o Senhor dos exércitos, o Deus de Israel: Eis que farei cumprir as minhas palavras sobre esta cidade, para seu mal, não para seu bem; e cumprir-se-ão, nesse dia, à tua vista.
+
+[[v30-39-17]]
+
+^<<v30-39-17,17>>^ Porém eu te livrarei nesse dia, diz o Senhor; não serás entregue nas mãos dos homens que temes.
+
+[[v30-39-18]]
+
+^<<v30-39-18,18>>^ Com certeza te livrarei: não cairás morto à espada; salvarás a tua vida, porque tiveste confiança em mim, diz o Senhor.
+
+'''
+
+xref:030-jeremias/030-jeremias-038.adoc#v30-38-0[&#60; Capítulo Anterior] | <<v30-39-0,Topo>> | xref:030-jeremias/030-jeremias-040.adoc#v30-40-0[Próximo Capítulo &#62;]

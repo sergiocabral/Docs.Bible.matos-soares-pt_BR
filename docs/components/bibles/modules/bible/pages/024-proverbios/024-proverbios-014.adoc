@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v24-14-0]]
+=== Provérbios, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 14 é um capítulo que fala sobre a sabedoria, a justiça e a conduta correta que devemos seguir na vida. Nele, encontramos conselhos sobre como devemos agir diante das adversidades e como devemos lidar com nossos relacionamentos interpessoais. A seguir, cinco versículos de diferentes livros da Bíblia que se relacionam com os temas abordados em Provérbios 14:
+* Tiago 1:19: "Sabeis estas coisas, meus amados irmãos. Todo homem, pois, seja pronto para ouvir, tardio para falar, tardio para se irar." Este versículo fala sobre a importância de ouvir com atenção antes de falar ou agir impulsivamente, algo que é enfatizado em Provérbios 14:29, que diz: "O longânimo é grande em entendimento, mas o de ânimo precipitado exalta a loucura".
+* Efésios 4:26: "Irai-vos e não pequeis; não se ponha o sol sobre a vossa ira." Este versículo fala sobre a necessidade de lidar com a raiva de forma adequada, sem deixá-la se transformar em pecado. Isso se relaciona com Provérbios 14:17, que diz: "O que se irrita facilmente faz tolices, mas o homem prudente encobre a afronta".
+* Colossenses 4:6: "A vossa palavra seja sempre agradável, temperada com sal, para saberdes como deveis responder a cada um." Esse versículo fala sobre a importância de falar de forma amável e sábia, algo que também é enfatizado em Provérbios 14:7, que diz: "Vai-te da presença do homem insensato, pois nele não encontrarás lábios de conhecimento".
+* Filipenses 4:5: "Seja a vossa equidade notória a todos os homens. Perto está o Senhor." Esse versículo fala sobre a importância de agir com justiça e equidade, algo que é enfatizado em Provérbios 14:31, que diz: "O que oprime ao pobre insulta àquele que o criou, mas o que se compadece do necessitado honra-o".
+* Gálatas 6:2: "Levai as cargas uns dos outros e assim cumprireis a lei de Cristo." Esse versículo fala sobre a importância de ajudar uns aos outros em momentos difíceis, algo que é enfatizado em Provérbios 14:21, que diz: "O que despreza ao seu próximo peca, mas o que se compadece dos humildes é bem-aventurado".
+****
+
+[[v24-14-1]]
+
+^<<v24-14-1,1>>^ A mulher prudente edifica a sua casa: a insensata destruirá com as suas próprias mãos a que já está feita.
+
+[[v24-14-2]]
+
+^<<v24-14-2,2>>^ Aquele que anda pelo caminho direito, teme a Deus; aquele que anda pelo caminho tortuoso, despreza-o.
+
+[[v24-14-3]]
+
+^<<v24-14-3,3>>^ Na boca do insensato está a vara (ou o castigo) da sua soberba; mas os lábios dos sábios são a sua guarda.
+
+[[v24-14-4]]
+
+^<<v24-14-4,4>>^ Onde não há bois, a mangedoira está vazia; mas onde há muitas searas, aí se manifesta a força do boi.
+
+[[v24-14-5]]
+
+^<<v24-14-5,5>>^ A testemunha fiel não mente; a testemunha dolosa profere a mentira.
+
+[[v24-14-6]]
+
+^<<v24-14-6,6>>^ O mofador busca a sabedoria, e não a encontra; para os homens-prudentes a sabedoria é (coisa) fácil.
+
+[[v24-14-7]]
+
+^<<v24-14-7,7>>^ Afasta-te do homem insensato, pois ele não conhece os ditames da prudência.
+
+[[v24-14-8]]
+
+^<<v24-14-8,8>>^ A sabedoria tio homem avisado é compreender o seu caminho; a loucura dos insensatos é engano.
+
+[[v24-14-9]]
+
+^<<v24-14-9,9>>^ O insensato ri-se do pecado; entre os justos mora a benevolência (de Deus).
+
+[[v24-14-10]]
+
+^<<v24-14-10,10>>^ Todo o coração conhece as suas amarguras; um estranho não partilha da sua alegria.
+
+[[v24-14-11]]
+
+^<<v24-14-11,11>>^ A casa dos ímpios será destruída, mas as tendas dos justos florescerão.
+
+[[v24-14-12]]
+
+^<<v24-14-12,12>>^ Há um caminho que parece direito ao homem, e no cabo conduz à morte.
+
+[[v24-14-13]]
+
+^<<v24-14-13,13>>^ Mesmo no riso, o coração pode sofrer, e a alegria pode terminar em amargura.
+
+[[v24-14-14]]
+
+^<<v24-14-14,14>>^ O Insensato será farto dos seus (maus) caminhos, e o homem virtuoso dos frutos das suas boas obras.
+
+[[v24-14-15]]
+
+^<<v24-14-15,15>>^ O imprudente dá crédito a tudo o que se lhe diz; o cauteloso considera os seus passos,
+
+[[v24-14-16]]
+
+^<<v24-14-16,16>>^ O sábio teme e desvia-se do mal; o insensato avança arrogantemente, e dá-se por seguro.
+
+[[v24-14-17]]
+
+^<<v24-14-17,17>>^ O que facilmente se irrita, comete loucuras; o homem reflectido não se impacienta.
+
+[[v24-14-18]]
+
+^<<v24-14-18,18>>^ Os néscios possuirão a loucura, e os prudentes coroam-se com a ciência.
+
+[[v24-14-19]]
+
+^<<v24-14-19,19>>^ Os maus se inclinarão diante dos bons, e os ímpios diante das portas dos justos.
+
+[[v24-14-20]]
+
+^<<v24-14-20,20>>^ O pobre é odioso até aos seus parentes; porém os amigos dos ricos serão muitos.
+
+[[v24-14-21]]
+
+^<<v24-14-21,21>>^ Aquele que despreza o seu próximo, peca; mas o que se compadece do pobre, será bem-aventurado.
+
+[[v24-14-22]]
+
+^<<v24-14-22,22>>^ Os que praticam o mal, acaso não se transviam? A misericórdia e a verdade são para que praticam o bem.
+
+[[v24-14-23]]
+
+^<<v24-14-23,23>>^ Em toda a parte onde se trabalha há abundância; mas onde (sòmente) se fala muito, aí se encontra a Indigência.
+
+[[v24-14-24]]
+
+^<<v24-14-24,24>>^ A riqueza é uma coroa para os sábios; a fatuidade dos insensatos é imprudência.
+
+[[v24-14-25]]
+
+^<<v24-14-25,25>>^ A testemunha fiel salva a vida (dos caluniados); a que porém é falsa atraiçoa (e causa a morte).
+
+[[v24-14-26]]
+
+^<<v24-14-26,26>>^ No temor do Senhor há (para o justo) uma confiança cheia de fortaleza; seus filhos encontrarão nele asilo.
+
+[[v24-14-27]]
+
+^<<v24-14-27,27>>^ O temor do Senhor é uma fonte de vida, que afasta dos laços da morte.
+
+[[v24-14-28]]
+
+^<<v24-14-28,28>>^ O povo numeroso é a glória do rei; a falta de gente é a ruína do príncipe.
+
+[[v24-14-29]]
+
+^<<v24-14-29,29>>^ O que é paciente governa-se com muita prudência; o que é impaciente manifesta a sua loucura.
+
+[[v24-14-30]]
+
+^<<v24-14-30,30>>^ Um coração tranqüilo é a vida do corpo; a inveja é a cárie dos ossos.
+
+[[v24-14-31]]
+
+^<<v24-14-31,31>>^ Quem maltrata o indigente injuria o seu Criador; mas honra-o aquele que se compadece do pobre.
+
+[[v24-14-32]]
+
+^<<v24-14-32,32>>^ O ímpio será derribado pela sua malícia; o justo porém, mesmo na sua morte, conserva a confiança.
+
+[[v24-14-33]]
+
+^<<v24-14-33,33>>^ A sabedoria descansa no coração do prudente, mas também (pelo remorso) se faz sentir, no meio dos insensatos.
+
+[[v24-14-34]]
+
+^<<v24-14-34,34>>^ A justiça exalta as nações; o pecado torna miseráveis os povos.
+
+[[v24-14-35]]
+
+^<<v24-14-35,35>>^ O servidor inteligente é agradável ao rei; o inútil sentirá a sua ira.
+
+'''
+
+xref:024-proverbios/024-proverbios-013.adoc#v24-13-0[&#60; Capítulo Anterior] | <<v24-14-0,Topo>> | xref:024-proverbios/024-proverbios-015.adoc#v24-15-0[Próximo Capítulo &#62;]

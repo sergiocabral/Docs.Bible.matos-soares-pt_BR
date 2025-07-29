@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v20-28-0]]
+=== Jó, 28
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 28 é um capítulo que discute a sabedoria e o conhecimento, comparando-os com a busca pelo ouro e pedras preciosas. O autor reflete sobre a dificuldade em encontrar a sabedoria, que é comparável ao processo de mineração. Para fornecer cinco versículos relacionados com os temas abordados em Jó 28, os versículos de Jó 28 serão excluídos dos resultados.
+* Provérbios 2:3-6: "Sim, se você clamar por discernimento e falar em voz alta por entendimento, se procurar a sabedoria como se procura a prata e buscá-la como se busca um tesouro escondido, então você entenderá o que é temer ao Senhor e achará o conhecimento de Deus. Pois o Senhor é quem dá sabedoria; de sua boca saem o conhecimento e a compreensão." Este versículo de Provérbios fala sobre a busca pela sabedoria, que deve ser tão intensa quanto a busca pelo tesouro.
+* Provérbios 8:10-11: "Escolham a minha instrução em vez da prata, o conhecimento em vez do ouro fino, pois a sabedoria é mais preciosa do que rubis; nada do que vocês possam desejar se compara a ela." Este versículo de Provérbios destaca a importância da sabedoria e do conhecimento, que são mais valiosos do que o ouro e a prata.
+* Provérbios 17:27: "O homem de conhecimento usa palavras com discernimento, e o homem de entendimento é agradável aos ouvidos." Este versículo de Provérbios enfatiza a importância do conhecimento e da sabedoria na comunicação.
+* Tiago 1:5: "Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente, de boa vontade; e lhe será concedida." Este versículo de Tiago encoraja as pessoas a buscar a sabedoria e promete que Deus a concederá gratuitamente.
+* Colossenses 2:2-3: "Meu objetivo é que eles sejam fortalecidos em coração e unidos em amor, de modo que tenham toda a riqueza de uma compreensão plena, a fim de conhecerem plenamente o mistério de Deus, a saber, Cristo, em quem estão escondidos todos os tesouros da sabedoria e do conhecimento." Este versículo de Colossenses descreve Cristo como o tesouro da sabedoria e do conhecimento e destaca a importância de conhecer e compreender plenamente o mistério de Deus.
+****
+
+[[v20-28-1]]
+
+^<<v20-28-1,1>>^ A prata tem um lugar donde se extrai, o ouro um lugar próprio, onde se acrisola.
+
+[[v20-28-2]]
+
+^<<v20-28-2,2>>^ O ferro tira-se da terra, coisas da e a pedra, derretida no fogo, torna-se em natureza metal.
+
+[[v20-28-3]]
+
+^<<v20-28-3,3>>^ (O homem) põe um fim às trevas, e ele mesmo investiga o fim de todas as coisas, (mesmo) a pedra escondida na escuridão e na sombra da morte.
+
+[[v20-28-4]]
+
+^<<v20-28-4,4>>^ Longe dos povoados abre galerias, ignoradas dos pés dos que passam; suspenso, (em cordas, o mineiro) oscila, longe dos homens (no fundo da mina).
+
+[[v20-28-5]]
+
+^<<v20-28-5,5>>^ Um a terra, que produz o pão, por baixo está como fogo;
+
+[[v20-28-6]]
+
+^<<v20-28-6,6>>^ as suas pedras contêm safiras, e os seus torrões partículas de ouro.
+
+[[v20-28-7]]
+
+^<<v20-28-7,7>>^ A águia não conhece esses caminhos, e olho do abutre não os viu;
+
+[[v20-28-8]]
+
+^<<v20-28-8,8>>^ as feras não os trilharam, nem o leão passou por lá.
+
+[[v20-28-9]]
+
+^<<v20-28-9,9>>^ Estende a sua mão contra os rochedos, remexe os montes desde as suas raízes.
+
+[[v20-28-10]]
+
+^<<v20-28-10,10>>^ Cortando os penhascos, abre galerias, e os seus olhos vêem aí tudo o que há de precioso.
+
+[[v20-28-11]]
+
+^<<v20-28-11,11>>^ Investiga também a profundidade dos rios, e põe a descoberto o que estava escondido.
+
+[[v20-28-12]]
+
+^<<v20-28-12,12>>^ Mas a sabedoria, onde se encontra ela? Qual é o lugar da inteligência?
+
+[[v20-28-13]]
+
+^<<v20-28-13,13>>^ O homem não conhece o seu caminho, nem ela se encontra na terra dos mortais.
+
+[[v20-28-14]]
+
+^<<v20-28-14,14>>^ O abismo diz: Ela não está em mim; e o mar publica: Ela não está comigo.
+
+[[v20-28-15]]
+
+^<<v20-28-15,15>>^ Não é dada pelo mais puro ouro, nem é comprada a peso de prata.
+
+[[v20-28-16]]
+
+^<<v20-28-16,16>>^ Não se põe na balança com o ouro de Ofir, nem com o precioso berilo nem com a safira.
+
+[[v20-28-17]]
+
+^<<v20-28-17,17>>^ Não se lhe iguala o ouro nem o vidro (fino), e não é dada em troca por vasos de ouro;
+
+[[v20-28-18]]
+
+^<<v20-28-18,18>>^ O coral e o cristal não se comparam com ela; a sabedoria vale mais que as pérolas.
+
+[[v20-28-19]]
+
+^<<v20-28-19,19>>^ Não se lhe iguala o topázio da Etiópia, nem é comparada com o ouro mais puro.
+
+[[v20-28-20]]
+
+^<<v20-28-20,20>>^ Donde vem, pois, a sabedoria, e onde é que se encontra a inteligência?
+
+[[v20-28-21]]
+
+^<<v20-28-21,21>>^ Está escondida aos olhos de todos os viventes, até às aves do céu está oculta.
+
+[[v20-28-22]]
+
+^<<v20-28-22,22>>^ O inferno e a morte dizem: Aos nossos ouvidos chegou a sua fama.
+
+[[v20-28-23]]
+
+^<<v20-28-23,23>>^ Deus conhece o caminho para a encontrar, ele sabe onde se encontra,
+
+[[v20-28-24]]
+
+^<<v20-28-24,24>>^ porque ele vê até aos confins do mundo, e vê tudo o que há debaixo do céu.
+
+[[v20-28-25]]
+
+^<<v20-28-25,25>>^ Quando deu o seu peso aos ventos, e regulou as águas com medida,
+
+[[v20-28-26]]
+
+^<<v20-28-26,26>>^ quando prescreveu uma lei às chuvas e traçou um caminho aos relâmpagos,
+
+[[v20-28-27]]
+
+^<<v20-28-27,27>>^ então ele a viu e a mediu, e a estabeleceu e a perscrutou.
+
+[[v20-28-28]]
+
+^<<v20-28-28,28>>^ E disse ao homem: O temor do Senhor é a (verdadeira) sabedoria; o apartar-se do mal é a inteligência.
+
+'''
+
+xref:020-jo/020-jo-027.adoc#v20-27-0[&#60; Capítulo Anterior] | <<v20-28-0,Topo>> | xref:020-jo/020-jo-029.adoc#v20-29-0[Próximo Capítulo &#62;]

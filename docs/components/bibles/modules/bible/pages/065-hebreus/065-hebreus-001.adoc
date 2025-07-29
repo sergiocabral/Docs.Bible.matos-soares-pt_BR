@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v65-1-0]]
+=== Hebreus, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Hebreus 1 aborda a superioridade de Jesus em relação aos anjos, destacando sua posição como Filho de Deus e Criador do universo. Para encontrar cinco versículos relacionados com os temas abordados em Hebreus 1, vamos explorar a Bíblia em busca de passagens que falam sobre a posição de Jesus como Filho de Deus e Criador.
+* João 1:1-3: "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus. Ele estava no princípio com Deus. Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez." Este versículo destaca que Jesus é o Verbo de Deus, que existia desde o princípio com Deus e por meio de quem todas as coisas foram criadas.
+* Colossenses 1:15-17: "Ele é a imagem do Deus invisível, o primogênito de toda a criação; pois nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos, sejam soberanias, quer principados, quer autoridades; todas as coisas foram criadas por ele e para ele. Ele é antes de todas as coisas, e nele subsistem todas as coisas." Esses versículos reforçam que Jesus é o Criador de todas as coisas e a imagem do Deus invisível.
+* Salmo 2:7: "Proclamarei o decreto do Senhor: Ele me disse: Tu és meu Filho, eu hoje te gerei." Este salmo é uma referência ao Messias como Filho de Deus, uma posição que Hebreus 1 enfatiza.
+* Romanos 8:29: "Porque os que dantes conheceu, também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos." Este versículo destaca que Jesus é o Filho primogênito de Deus e que os crentes são chamados a serem conformes à sua imagem.
+* 1 Coríntios 8:6: "Todavia para nós há um só Deus, o Pai, de quem são todas as coisas e para quem nós vivemos; e um só Senhor, Jesus Cristo, pelo qual são todas as coisas, e nós por ele." Este versículo reforça a posição de Jesus como Senhor e Criador de todas as coisas, conforme abordado em Hebreus 1.
+****
+
+[[v65-1-1]]
+
+^<<v65-1-1,1>>^ Deus, tendo falado outrora muitas vezes e de muitos modos a nossos pais pelos profetas, (ver nota)
+
+[[v65-1-2]]
+
+^<<v65-1-2,2>>^ nestes dias, que são os últimos, falou-nos por meio de seu Filho, a quem constituiu herdeiro de tudo, por quem criou o mundo,
+
+[[v65-1-3]]
+
+^<<v65-1-3,3>>^ o qual (Filho), sendo o resplendor da sua glória e a figura da sua substância, sustentando tudo com a sua poderosa palavra, depois de ter feito a purificação dos pecados (dos homens com os seus sofrimentos) está sentado (como homem) à direita da majestade (de Deus) nas alturas, (ver nota)
+
+[[v65-1-4]]
+
+^<<v65-1-4,4>>^ feito tanto mais superior aos anjos, quanto o nome que herdou é mais excelente que o deles.
+
+[[v65-1-5]]
+
+^<<v65-1-5,5>>^ Com efeito, a qual dos anjos disse (Deus) jamais : Tu és meu filho, eu te gerei hoje (Ps. 2, 7)? E outra vez: Eu serei para ele um Pai, e ele será para mim um Filho (2Sm. 7, 14).
+
+[[v65-1-6]]
+
+^<<v65-1-6,6>>^ E, novamente, quando introduz o seu Primogênito no mundo, diz : Todos os anjos de Deus o adorem (Ps. 96, 7).
+
+[[v65-1-7]]
+
+^<<v65-1-7,7>>^ Acerca dos anjos diz: Ele faz dos seus anjos sopros de vento, e dos seus ministros chamas ardentes (Ps. 103, 4).
+
+[[v65-1-8]]
+
+^<<v65-1-8,8>>^ Mas ao Filho diz: O teu trono ó Deus, subsistirá pelos séculos dos séculos; é um ceptro de equidade o ceptro do teu reino.
+
+[[v65-1-9]]
+
+^<<v65-1-9,9>>^ Amaste a justiça e aborreceste a iniquidade, por isso. Deus, o teu Deus, te ungiu com óleo de alegria, de preferência aos teus companheiros (Ps. 44, 7-8).
+
+[[v65-1-10]]
+
+^<<v65-1-10,10>>^ E noutro lugar: Tu, Senhor, no principio fundaste a terra, e o céus são obra das tuas mãos.
+
+[[v65-1-11]]
+
+^<<v65-1-11,11>>^ Eles perecerão, mas tu permanecerás, e todos envelhecerão como um vestido;
+
+[[v65-1-12]]
+
+^<<v65-1-12,12>>^ tu os enrolarás como uma capa, e eles, como uma veste, serão mudados; tu porém és sempre o mesmo e os teus anos não terão fim (Ps. 101, 26-28).
+
+[[v65-1-13]]
+
+^<<v65-1-13,13>>^ E a qual dos anjos disse alguma vez: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés (Ps. 109, 1)?
+
+[[v65-1-14]]
+
+^<<v65-1-14,14>>^ Porventura não são todos espíritos destinados a servir, enviados para exercer o seu ministério a favor daqueles que hão-de receber a herança da salvação?
+
+'''
+
+xref:064-filemon/064-filemon-001.adoc#v64-1-0[&#60; Capítulo Anterior] | <<v65-1-0,Topo>> | xref:065-hebreus/065-hebreus-002.adoc#v65-2-0[Próximo Capítulo &#62;]

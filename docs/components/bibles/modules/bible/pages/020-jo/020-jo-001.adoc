@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v20-1-0]]
+=== Jó, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 de Jó descreve a história de um homem chamado Jó que era rico, justo e temia a Deus. Satanás argumentou com Deus que Jó era justo apenas por causa da prosperidade que tinha, e que, se tudo lhe fosse tirado, ele iria amaldiçoar a Deus. Deus permitiu que Satanás afligisse Jó, tirando tudo o que ele tinha, desde seus bens até seus filhos. Mesmo assim, Jó não amaldiçoou a Deus, mas adorou e bendisse o nome do Senhor.
+* Salmos 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Este verso reflete a ideia central do capítulo 1 de Jó, de que, embora o justo possa passar por muitas aflições, Deus ainda está com ele e o livrará de todas elas.
+* 2 Coríntios 4:17: "Pois a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente." Este verso fala sobre como as aflições e tribulações que passamos nesta vida são temporárias e nos preparam para a glória eterna que está por vir, assim como Jó permaneceu fiel a Deus, apesar de suas perdas.
+* Romanos 8:28: "E sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito." Este verso fala sobre como todas as coisas, inclusive as aflições, trabalham juntas para o bem daqueles que amam a Deus, assim como Jó permaneceu fiel, mesmo em meio à aflição.
+* 1 Pedro 5:10: "O Deus de toda graça, que em Cristo vos chamou à sua eterna glória, depois de terdes sofrido por um pouco, ele mesmo vos há de aperfeiçoar, firmar, fortificar e fundamentar." Este verso fala sobre como Deus é o Deus de toda graça e como ele pode fortalecer e aperfeiçoar aqueles que sofrem por um pouco, assim como Jó permaneceu firme em meio à aflição.
+****
+
+[[v20-1-1]]
+
+^<<v20-1-1,1>>^ Havia na terra de Hus um homem, chamado Job. Este homem era sincero, recto, temia a Deus e fugia do mal.
+
+[[v20-1-2]]
+
+^<<v20-1-2,2>>^ Nasceram-lhe sete filhos e três filhas.
+
+[[v20-1-3]]
+
+^<<v20-1-3,3>>^ Possuía sete mil ovelhas, três mil camelos, quinhentas juntas de bois, quinhentas jumentas e um grande número de servos. Este homem era o maior entre todos os Orientais.
+
+[[v20-1-4]]
+
+^<<v20-1-4,4>>^ Seus filhos iam e banqueteavam-se em suas casas, cada um em seu dia, e mandavam convidar suas três irmãs para irem comer e beber com eles.
+
+[[v20-1-5]]
+
+^<<v20-1-5,5>>^ Tendo decorrido o turno dos dias de banquete, Job mandava chamar seus filhos, purificava-os e, levantando-se de madrugada, oferecia holocausto por cada um deles, porque dizia: Talvez meus filhos tenham pecado, ofendido a Deus nos seus corações. Assim fazia Job de cada vez.
+
+[[v20-1-6]]
+
+^<<v20-1-6,6>>^ Porém um certo dia, tendo-se os filhos de Deus (isto é, os anjos) apresentado diante do Senhor, encontrou-se também Satanás entre eles.
+
+[[v20-1-7]]
+
+^<<v20-1-7,7>>^ O Senhor disse-lhe: Donde vens tu? Ele respondeu: Venho de dar uma volta pela terra e de passear por ela.
+
+[[v20-1-8]]
+
+^<<v20-1-8,8>>^ O Senhor disse-lhe: Porventura consideraste o meu servo Job? Não há semelhante a ele na terra: homem sincero e recto, teme a Deus e foge do mal?
+
+[[v20-1-9]]
+
+^<<v20-1-9,9>>^ Satanás, respondeu: Porventura Job teme (ou serve) debalde a Deus?
+
+[[v20-1-10]]
+
+^<<v20-1-10,10>>^ Não o cercaste de um vaiado protetor, a ele, à sua casa e a todos os seus bens? Não abençoaste as obras de suas mãos, e os seus bens não se têm multiplicado sobre a terra?
+
+[[v20-1-11]]
+
+^<<v20-1-11,11>>^ Mas estende tu um pouco a tua mão, toca em tudo o que ele possui, e verás se ele te não amaldiçoa na tua face.
+
+[[v20-1-12]]
+
+^<<v20-1-12,12>>^ Disse, pois, o Senhor a Satanás: Pois bem, tudo o que ele tem está era teu poder; sòmente não estendas a tua mão contra ele. Satanás saiu da presença do Senhor.
+
+[[v20-1-13]]
+
+^<<v20-1-13,13>>^ Um dia, enquanto os filhos e as filhas de Job estavam comendo e bebendo vinho em casa do seu irmão primogênito,
+
+[[v20-1-14]]
+
+^<<v20-1-14,14>>^ foi ter com Job um mensageiro, que lhe disse: Os bois lavravam, e as jumentas pastavam junto deles;
+
+[[v20-1-15]]
+
+^<<v20-1-15,15>>^ de repente acometeram-nos os Sabeus, que levaram tudo e passaram à espada os criados; só eu escapei para te trazer a nova.
+
+[[v20-1-16]]
+
+^<<v20-1-16,16>>^ Estando ainda este a falar, veio outro e disse: O fogo de Deus caiu do céu, e, ferindo as ovelhas e os pastores, consumiu-os; escapei eu só para te trazer a nova.
+
+[[v20-1-17]]
+
+^<<v20-1-17,17>>^ Ainda este falava, quando chegou outro, que disse: Os Caldeus dividiram-se era três esquadrões, lançaram-se sobre os camelos e levaram-nos, e passaram à espada os criados; só eu escapei para te trazer a nova.
+
+[[v20-1-18]]
+
+^<<v20-1-18,18>>^ Ainda este estava falando, quando entrou outro, que disse: Estando teus filhos e filhas comendo e, bebendo vinho em casa de seu irmão mais velho,
+
+[[v20-1-19]]
+
+^<<v20-1-19,19>>^ de repente levantou-se um vento muito forte da banda do deserto, que abalou os quatro cantos da casa, a qual, caindo, esmagou os teus filhos, que morreram; só escapei eu para te trazer a nova.
+
+[[v20-1-20]]
+
+^<<v20-1-20,20>>^ Então levantou-se Job, rasgou as suas vestes e rapou a cabeça; depois prostrou-se por terra, adorou (o Senhor)
+
+[[v20-1-21]]
+
+^<<v20-1-21,21>>^ e disse: Nu saí do ventre de minha mãe, e nu tornarei para lá (para o seio da terra); o Senhor o deu, o Senhor o tirou, como foi do agrado do Senhor, assim sucedeu; bendito seja o nome do Senhor.
+
+[[v20-1-22]]
+
+^<<v20-1-22,22>>^ Em todas estas coisas Job não pecou com os seus lábios, nem disse coisa alguma insensata contra Deus.
+
+'''
+
+xref:019-ester/019-ester-016.adoc#v19-16-0[&#60; Capítulo Anterior] | <<v20-1-0,Topo>> | xref:020-jo/020-jo-002.adoc#v20-2-0[Próximo Capítulo &#62;]

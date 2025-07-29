@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v49-16-0]]
+=== São Lucas, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Lucas 16 apresenta ensinamentos de Jesus sobre dinheiro e riquezas. Ele fala sobre a parábola do administrador desonesto e destaca a importância da honestidade e fidelidade em relação aos bens materiais. Jesus também fala sobre a impossibilidade de servir a Deus e ao dinheiro ao mesmo tempo. Abaixo estão cinco versículos relacionados com os temas abordados em São Lucas 16:
+* Mateus 6:19-21: "Não acumulem para vocês tesouros na terra, onde a traça e a ferrugem destroem, e onde ladrões arrombam e furtam. Mas acumulem para vocês tesouros no céu, onde a traça e a ferrugem não destroem, e onde ladrões não arrombam nem furtam. Pois onde estiver o seu tesouro, aí também estará o seu coração." Este versículo ensina a importância de valorizar as riquezas eternas em vez das temporais.
+* Lucas 12:15: "Então lhes disse: 'Cuidado! Fiquem de sobreaviso contra todo tipo de ganância; a vida de um homem não consiste na quantidade dos seus bens'". Este versículo reforça a ideia de que a vida não deve ser definida pela quantidade de bens materiais que uma pessoa possui.
+* Provérbios 22:1: "Mais vale ter um bom nome do que muitas riquezas; ser bem avaliado é melhor do que prata e ouro". Este versículo destaca a importância de ter um bom nome e reputação, que é mais valioso do que as riquezas materiais.
+* 1 Timóteo 6:10: "Pois o amor ao dinheiro é a raiz de todos os males. Algumas pessoas, por cobiçarem o dinheiro, desviaram-se da fé e se atormentaram com muitos sofrimentos". Este versículo mostra os perigos da ganância e do amor ao dinheiro, que podem levar as pessoas a se afastarem da fé e a sofrerem as consequências disso.
+* Hebreus 13:5: "Mantenham-se livres do amor ao dinheiro e contentem-se com o que vocês têm, porque Deus mesmo disse: 'Nunca o deixarei, nunca o abandonarei'". Este versículo enfatiza a importância de se contentar com o que se tem e confiar em Deus, em vez de ser obcecado por dinheiro e posses materiais.
+****
+
+[[v49-16-1]]
+
+^<<v49-16-1,1>>^ Disse também a seus discípulos; "Um homem rico tinha um feitor, que foi acusado diante dele de ter dissipado os seus bens.
+
+[[v49-16-2]]
+
+^<<v49-16-2,2>>^ Chamou-o, e disse-lhe : Que é isto que ouço dizer de ti? Dá conta da tua administração; não mais poderás ser meu feitor,
+
+[[v49-16-3]]
+
+^<<v49-16-3,3>>^ Então o feitor disse consigo: Que farei, visto que o meu senhor me tira a administração? Cavar não posso, de mendigar tenho vergonha.
+
+[[v49-16-4]]
+
+^<<v49-16-4,4>>^ Já sei o que hei-de fazer, para que, quando for removido da administração, haja quem me receba em sua casa.
+
+[[v49-16-5]]
+
+^<<v49-16-5,5>>^ Tendo chamado cada um dos devedores do seu senhor, disse ao primeiro: Quanto deves ao meu senhor?
+
+[[v49-16-6]]
+
+^<<v49-16-6,6>>^ Ele respondeu: Cem cados de azeite. Então disse-lhe : Tom a a tua caução, senta-te e escreve depressa cinquenta.
+
+[[v49-16-7]]
+
+^<<v49-16-7,7>>^ Depois disse a outro: Tu quanto deves? Ele respondeu: Cem medidas de trigo. Disse-lhe o feitor: Tom a a tua caução e escreve oitenta.
+
+[[v49-16-8]]
+
+^<<v49-16-8,8>>^ E o senhor louvou o feitor iníquio, por ter procedido sagazmente. Porque os filhos deste século são mais hábeis no trato com os seus semelhantes que os filhos da luz. (ver nota)
+
+[[v49-16-9]]
+
+^<<v49-16-9,9>>^ Portanto eu vos digo: Granjeai amigos com as riquezas da iniquidade, para que, quando vierdes a precisar, vos recebam nos tabernáculos eternos. (ver nota)
+
+[[v49-16-10]]
+
+^<<v49-16-10,10>>^ O que é fiel no pouco, também é fiel no muito; e o que é injusto no pouco, também é injusto no muito.
+
+[[v49-16-11]]
+
+^<<v49-16-11,11>>^ Se, pois, vós não fostes fiéis nas riquezas iníquas, quem fiará de vós as verdadeiras? (ver nota)
+
+[[v49-16-12]]
+
+^<<v49-16-12,12>>^ E se vós não fostes fiéis no alheio, quem vos dará o que é vosso? (ver nota)
+
+[[v49-16-13]]
+
+^<<v49-16-13,13>>^ Nenhum servo pode servir a dois senhores, porque ou odiará um, e amará o outro, ou se afeiçoará a um, e desprezará o outro. Não podeis servir Deus e o dinheiro." (ver nota)
+
+[[v49-16-14]]
+
+^<<v49-16-14,14>>^ Ora os fariseus, que eram amigos do dinheiro, ouviam todas estas coisas, e zombavam dele.
+
+[[v49-16-15]]
+
+^<<v49-16-15,15>>^ Jesus disse-lhes: "Vós sois aqueles que pretendeis passar por justos diante dos homens, mas Deus conhece os vossos corações; o que é excelente segundo os homens, é abominação diante de Deus.
+
+[[v49-16-16]]
+
+^<<v49-16-16,16>>^ A lei e os profetas duraram até João; desde então é anunciado o reino de Deus, e todos se esforçam por entrar nele pela violência.
+
+[[v49-16-17]]
+
+^<<v49-16-17,17>>^ Ora é mais fácil passar o céu e a terra, do que perder-se um til da lei.
+
+[[v49-16-18]]
+
+^<<v49-16-18,18>>^ Todo o que repudia sua mulher, e toma outra, comete adultério ; e o que casa com a que foi repudiada por seu marido, comete adultério.
+
+[[v49-16-19]]
+
+^<<v49-16-19,19>>^ Havia um homem rico, que se vestia de púrpura e de linho fino, e todos os dias se banqueteava esplêndidamente.
+
+[[v49-16-20]]
+
+^<<v49-16-20,20>>^ Havia também um mendigo, chamado Lázaro, que, coberto de chagas, estava deitado à sua porta,
+
+[[v49-16-21]]
+
+^<<v49-16-21,21>>^ desejando saciar-se com as migalhas que caiam da mesa do rico... e até os cães vinham lamber-Ihe as chagas.
+
+[[v49-16-22]]
+
+^<<v49-16-22,22>>^ Sucedeu morrer o mendigo, e foi levado pelos anjos ao seio de Abraão. Morreu também o rico, e foi sepultado.
+
+[[v49-16-23]]
+
+^<<v49-16-23,23>>^ Quando estava nos tormentos do inferno, levantando os olhos, viu ao longe Abraão, e Lázaro no seu seio.
+
+[[v49-16-24]]
+
+^<<v49-16-24,24>>^ Então exclamou; Pai Abraão, compadece-te de mim, e manda Lázaro que molhe em água a ponta do seu dedo, para refrescar a minha língua, pois sou atormentado nesta chama.
+
+[[v49-16-25]]
+
+^<<v49-16-25,25>>^ Abraão disse-lhe: Filho, lembra-te que recebeste os teus bens em tua vida, e Lázaro, ao contrário, recebeu males; por isso ele é agora consolado, e tu és atormentado.
+
+[[v49-16-26]]
+
+^<<v49-16-26,26>>^ Além disso, há entre nós e vós um grande abismo; de maneira que os que querem passar daqui para vós, não podem, nem os daí podem passar para nós.
+
+[[v49-16-27]]
+
+^<<v49-16-27,27>>^ O rico disse: Rogo-te, pois, ó pai, que o mandes à minha casa paterna,
+
+[[v49-16-28]]
+
+^<<v49-16-28,28>>^ pois tenho cinco irmãos, para que os advirta disto, e não suceda virem também eles parar a este lugar de tormentos.
+
+[[v49-16-29]]
+
+^<<v49-16-29,29>>^ Abraão disse-lhe: Têm Moisés e os profetas; ouçam-nos.
+
+[[v49-16-30]]
+
+^<<v49-16-30,30>>^ Ele, porém, disse: Não basta isso pai Abraão, mas, se algum dos mortos for ter com eles, farão penitência.
+
+[[v49-16-31]]
+
+^<<v49-16-31,31>>^ Ele disse-Ihe: Se não ouvem Moisés e os profetas, tão-pouco acreditarão, ainda que ressuscitasse algum dos mortos."
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-015.adoc#v49-15-0[&#60; Capítulo Anterior] | <<v49-16-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-017.adoc#v49-17-0[Próximo Capítulo &#62;]

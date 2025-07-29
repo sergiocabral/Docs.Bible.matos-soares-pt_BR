@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v45-8-0]]
+=== Zacarias, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Zacarias 8 é um capítulo que fala sobre a restauração e prosperidade de Jerusalém após um período de guerra e exílio. Deus promete a seu povo que habitará novamente em sua cidade, onde haverá paz e prosperidade. Além disso, Ele chama as pessoas para um arrependimento genuíno e para viverem de acordo com seus mandamentos. Abaixo estão cinco versículos relacionados com os temas abordados em Zacarias 8.
+* Isaías 60:18: "Não se ouvirá mais falar de violência na tua terra, nem de desolação ou destruição dentro das tuas fronteiras. Os teus muros serão chamados salvação e as tuas portas, louvor." Este versículo fala sobre a paz que haverá na cidade de Jerusalém, assim como é mencionado em Zacarias 8.
+* Jeremias 31:12: "Elas virão e cantarão de alegria no alto de Sião; transbordarão de júbilo pelos bens que o Senhor lhes concederá: os cereais, o vinho novo e o azeite, o rebanho e o gado. Sua vida será como um jardim bem regado, e nunca mais sofrerão tristeza." Esse versículo também destaca a prosperidade que Jerusalém desfrutará após o exílio, como é mencionado em Zacarias 8:12.
+* Isaías 2:3: "E muitos povos irão e dirão: Vinde, e subamos ao monte do Senhor, à casa do Deus de Jacó, para que ele nos ensine os seus caminhos, e andemos nas suas veredas; porque de Sião sairá a lei, e de Jerusalém a palavra do Senhor." Esse versículo mostra como Jerusalém será um centro de adoração e ensinamento da palavra de Deus, como é enfatizado em Zacarias 8:20-23.
+* Deuteronômio 30:2-3: "Então, se voltarem para o Senhor, o seu Deus, e lhe obedecerem de todo o coração e de toda a alma conforme tudo o que hoje lhes ordeno, então o Senhor, o seu Deus, os restaurará em sua sorte e terá compaixão deles, e os ajuntará novamente de todas as nações para onde os tiver espalhado." Este versículo destaca a importância do arrependimento e obediência para a restauração de Jerusalém, como é mencionado em Zacarias 8:16-17.
+* Isaías 65:21-22: "Eles construirão casas e nelas habitarão; plantarão vinhas e comerão os seus frutos. Não construirão para que outros habitem, não plantarão para que outros comam. Pois o meu povo terá a duração das árvores, os meus escolhidos desfrutarão plenamente do fruto do seu trabalho." Esse versículo fala sobre a prosperidade que virá para o povo de Deus, assim como é mencionado em Zacarias 8:12.
+****
+
+[[v45-8-1]]
+
+^<<v45-8-1,1>>^ A palavra do Senhor dos exércitos fez-se ouvir, nestes termos:
+
+[[v45-8-2]]
+
+^<<v45-8-2,2>>^ Isto diz o Senhor dos exércitos; Tenho grande zelo por Sião, zelo-a com grande cólera (contra os seus inimigos).
+
+[[v45-8-3]]
+
+^<<v45-8-3,3>>^ Isto diz o Senhor dos exércitos: Volto para Sião, venho habitar no meio de Jerusalém; Jerusalém chamar-se-á a cidade da fidelidade, e o monte do Senhor dos exércitos monte santo.
+
+[[v45-8-4]]
+
+^<<v45-8-4,4>>^ Isto diz o Senhor dos exércitos: Ainda nas praças de Jerusalém se verão velhos e velhas, tendo cada um na mão um cajado por causa da sua muita idade;
+
+[[v45-8-5]]
+
+^<<v45-8-5,5>>^ os largos da cidade estarão cheios de meninos e meninas, que brincarão nas suas pragas.
+
+[[v45-8-6]]
+
+^<<v45-8-6,6>>^ Isto diz o Senhor dos exércitos: Se o que eu predigo para esse tempo parecer impossível aos olhos dos que restarem deste povo, acaso será .isso impossível a meus olhos? — diz o Senhor dos exércitos.
+
+[[v45-8-7]]
+
+^<<v45-8-7,7>>^ Assim fala o Senhor dos exércitos: Eis que vou livrar o meu povo, tirando-o da terra do oriente e da terra do ocidente.
+
+[[v45-8-8]]
+
+^<<v45-8-8,8>>^ Eu os trarei, e eles habitarão no meio de Jerusalém; serão o meu povo, e eu serei o seu Deus na fidelidade e na justiça.
+
+[[v45-8-9]]
+
+^<<v45-8-9,9>>^ Isto diz o Senhor dos exércitos: Confortem-se as vossas mãos, ó vós, que nestes dias ouvis estas palavras da boca dos profetas, agora que foram lançados os fundamentos da casa do 'Senhor dos exércitos, para que o templo seja reedificado.
+
+[[v45-8-10]]
+
+^<<v45-8-10,10>>^ Antes destes dias, não havia salário para os homens, nem tinham paga os animais, nem havia paz para o que entrava nem para o que saía, por causa do inimigo; eu tinha deixado todos os homens uns contra os outros.
+
+[[v45-8-11]]
+
+^<<v45-8-11,11>>^ Agora, porém, não tratarei os restos deste povo como nos dias antigos, diz o Senhor dos exércitos.
+
+[[v45-8-12]]
+
+^<<v45-8-12,12>>^ A sementeira é de paz: a vinha dará o seu fruto, a terra os seus produtos, os céus darão o seu orvalho, e eu farei que os restos deste povo possuam todos estes bens.
+
+[[v45-8-13]]
+
+^<<v45-8-13,13>>^ Acontecerá que, assim como vós éreis uma maldição entre as nações, ó casa de Judá e casa de Israel, assim vos salvarei, e vós sereis uma bênção. Não temais, armem-se as vossas mãos de fortaleza.
+
+[[v45-8-14]]
+
+^<<v45-8-14,14>>^ Isto diz o Senhor dos exércitos: Assim como resolvi afligir-vos, quando vossos pais me provocaram a ira, diz o Senhor,
+
+[[v45-8-15]]
+
+^<<v45-8-15,15>>^ e não voltei atrás, assim, resolvo, pelo contrário, nestes dias fazer bem à casa de Judá e a Jerusalém. Não temais.
+
+[[v45-8-16]]
+
+^<<v45-8-16,16>>^ Eis o que deveis fazer: Falai verdade, uns aos outros, julgai às vossas portas segundo a verdade e para a paz.
+
+[[v45-8-17]]
+
+^<<v45-8-17,17>>^ Nenhum forme no seu coração maus desígnios contra os outros; não gosteis de fazer juramentos falsos, porque todas estas coisas eu as aborreço, diz o Senhor.
+
+[[v45-8-18]]
+
+^<<v45-8-18,18>>^ Foi-me dirigida a palavra do Senhor dos exércitos, nestes termos:
+
+[[v45-8-19]]
+
+^<<v45-8-19,19>>^ Isto diz o Senhor dos exércitos; O jejum do quarto (mês), o jejum do quinto, o jejum do sétimo e o jejum do décimo mês converter-se-ão para a casa de Judá em gozo e alegria, em festivas solenidades. Mas amai a verdade e a paz.
+
+[[v45-8-20]]
+
+^<<v45-8-20,20>>^ Isto diz o Senhor dos exércitos: Virão povos e habitantes de grandes cidades.
+
+[[v45-8-21]]
+
+^<<v45-8-21,21>>^ Os seus habitantes irão ter uns com os outros, dizendo: Vamos e apresentemos as nossas preces na presença do Senhor, busquemos o Senhor dos exércitos. Pela minha parte (dirá cada um), irei.
+
+[[v45-8-22]]
+
+^<<v45-8-22,22>>^ Então virão muitos povos e poderosas nações buscar o Senhor dos exércitos em Jerusalém, fazer as suas orações na presença do Senhor.
+
+[[v45-8-23]]
+
+^<<v45-8-23,23>>^ Isto diz o Senhor dos exércitos: Naqueles dias, dez homens de todas as línguas das nações lançarão mão de um judeu, agarrarão a fímbria do seu vestido, dizendo: Iremos convosco, porque soubemos que (o verdadeiro) Deus está convosco. (ver nota)
+
+'''
+
+xref:045-zacarias/045-zacarias-007.adoc#v45-7-0[&#60; Capítulo Anterior] | <<v45-8-0,Topo>> | xref:045-zacarias/045-zacarias-009.adoc#v45-9-0[Próximo Capítulo &#62;]

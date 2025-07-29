@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v7-4-0]]
+=== Juízes, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Juízes 4 narra a história de Débora, uma profetisa e juíza em Israel, que liderou o exército israelita para a batalha contra os cananeus, comandados por Sísera. Aqui estão cinco versículos relacionados aos temas abordados em Juízes 4:
+* Juízes 5:7: "Desfaleciam as vilas em Israel, e em Israel tu te levantaste, ó Débora, mãe em Israel; " Este versículo é parte do cântico de Débora e Baraque após a vitória sobre os cananeus. Ele destaca a liderança única de Débora como uma "mãe em Israel" que se levantou para liderar o povo em um momento de necessidade.
+* Josué 11:10: "E Josué, virando, tomou a cidade naquele mesmo dia, e matou a fio de espada o rei dela; e destruiu a ela, e a todos os que nela estavam; nada deixou dela que respirasse; e ao rei de Hormá, Josué queimou com fogo." Este versículo é parte de um relato sobre uma batalha anterior em que Josué liderou os israelitas contra os cananeus. A história de Débora em Juízes 4 é um exemplo semelhante de Deus ajudando os israelitas a derrotarem seus inimigos.
+* Juízes 5:15: "Por entre os barões de Issacar, e entre os de Débora, houve uma afluência de Baraque; ele correu a seus pés em meio ao vale; em Rubem foram grandes as imaginações do coração." Este versículo faz parte do cântico de Débora e descreve como Baraque, o comandante do exército israelita, liderou sua tropa para a batalha.
+* Números 20:16: "E quando clamamos ao SENHOR, ouviu a nossa voz, e mandou um anjo, e nos tirou do Egito; e eis-nos aqui em Cades, cidade do termo teu." Este versículo é parte de um relato da história de Israel no deserto, em que Deus os livrou da escravidão no Egito. A história de Débora em Juízes 4 é outra história de Deus ajudando os israelitas em sua luta contra a opressão.
+* Êxodo 15:20: "E Miriã, a profetisa, irmã de Arão, tomou o tamboril na sua mão, e todas as mulheres saíram atrás dela com tamboris e com danças." Este versículo é parte de um cântico de vitória que Moisés e o povo de Israel cantaram após Deus ter dividido o Mar Vermelho. O cântico de Débora em Juízes 5 é outro exemplo de um cântico de vitória em que a liderança feminina é destacada.
+****
+
+[[v7-4-1]]
+
+^<<v7-4-1,1>>^ Os filhos de Israel tornaram a fazer o mal na presença do Senhor, depois da morte de Aod,
+
+[[v7-4-2]]
+
+^<<v7-4-2,2>>^ e o Senhor entregou-os nas mãos de Jabin, rei de Canaan, que reinou em Asor; este teve por general do seu exército um chamado Sisara, o qual habitava em Haroset das gentes.
+
+[[v7-4-3]]
+
+^<<v7-4-3,3>>^ Os filhos de Israel clamaram ao Senhor, porque Jabin tinha novecentos carros de ferro, e tinha-os oprimido com violência durante vinte anos.
+
+[[v7-4-4]]
+
+^<<v7-4-4,4>>^ Naquele tempo vivia Débora profetisa, mulher de Lapidot, a qual julgava o povo.
+
+[[v7-4-5]]
+
+^<<v7-4-5,5>>^ Sentava-se debaixo duma palmeira, que se chamava do seu nome, entre Rama e Betel, sobre o monte de Efraim, e os filhos de Israel iam ter com ela em todos os seus litígios.
+
+[[v7-4-6]]
+
+^<<v7-4-6,6>>^ Ela mandou chamar Barac, filho de Abinoem, (natural) de Cedes de Neftali, e disse-Ihe: O Senhor Deus de Israel ordena-te que vás e conduzas o exército ao monte Tabor, levando contigo dez mil combatentes dos filhos de Neftali e dos filhos de Zabulon.
+
+[[v7-4-7]]
+
+^<<v7-4-7,7>>^ Estando tu no lugar da torrente de Cison, eu farei que venham à tua presença Sisara, general do exército de Jabin, os seus carros e toda a sua gente, e tos entregarei nas mãos.
+
+[[v7-4-8]]
+
+^<<v7-4-8,8>>^ Barac disse-lhe: Se vieres comigo, irei; se não quiseres vir comigo, não irei.
+
+[[v7-4-9]]
+
+^<<v7-4-9,9>>^ Ela respondeu-lhe: Está bem, eu irei contigo, mas desta vez não te será atribuída a vitória, porque Sisara será entregue nas mãos duma mulher. Levantou-se, pois, Débora e partiu com Barac para Cedes.
+
+[[v7-4-10]]
+
+^<<v7-4-10,10>>^ Ele, chamando os de Zabulon e Neftali, marchou com dez mil combatentes, tendo Débora em sua companhia.
+
+[[v7-4-11]]
+
+^<<v7-4-11,11>>^ Ora Haber Cineu havia muito tempo que se tinha separado dos outros Cineus seus irmãos, filhos de Hobab, parente de Moisés, e tinha estendido as suas tendas até ao vale chamado Senim, e estava junto de Cedes.
+
+[[v7-4-12]]
+
+^<<v7-4-12,12>>^ Foi anunciado a Sisara que Barac, filho de Abinoem, tinha avançado até ao monte Tabor.
+
+[[v7-4-13]]
+
+^<<v7-4-13,13>>^ Sisara juntou novecentos carros de ferro, e fez marchar todo o exército desde Haroset das gentes até à torrente de Cison.
+
+[[v7-4-14]]
+
+^<<v7-4-14,14>>^ Débora disse a Barac: Levanta-te, porque este é o dia em que o Senhor entregou Sisara nas tuas mãos; eis que ele mesmo é o teu guia. Desceu pois Barac do monte Tabor, com os dez mil combatentes.
+
+[[v7-4-15]]
+
+^<<v7-4-15,15>>^ O Senhor desbaratou Sisara, e todos seus carros, toda a sua gente, que caíram ao fio da espada, logo que Barac se deixou ver, de tal sorte que Sisara, saltando do seu carro, fugiu a pé.
+
+[[v7-4-16]]
+
+^<<v7-4-16,16>>^ Barac foi seguindo os carros fugitivos e o exército até Haroset das gentes, e toda a multidão dos inimigos foi morta, sem escapar um só homem.
+
+[[v7-4-17]]
+
+^<<v7-4-17,17>>^ Entretanto Sisara fugindo chegou à tenda de Jael, mulher de Haber Cineu, porque havia paz entre Jabin, rei de Asor, e a casa de Haber Cineu.
+
+[[v7-4-18]]
+
+^<<v7-4-18,18>>^ Jael pois, saindo ao encontro de Sisara, disse-lhe: Entra, meu senhor; entra, não temas. Ele entrou na tenda e, coberto por ela com um manto,
+
+[[v7-4-19]]
+
+^<<v7-4-19,19>>^ disse-lhe: Peço-te que me dês um pouco de água, porque tenho muita sede. Ela abriu um odre de leite, deu-lhe de beber e cobriu-o.
+
+[[v7-4-20]]
+
+^<<v7-4-20,20>>^ Sisara disse-lhe: Põe-te à porta da tenda e, se alguém vier perguntar-te: Está aqui alguém? — responder-lhe-ás: Não está ninguém.
+
+[[v7-4-21]]
+
+^<<v7-4-21,21>>^ Jael, pois, mulher de Haber, tomou um prego da lenda, tomando também um martelo, e, entrando sem ser vista nem ouvida, aplicou o prego à fonte da cabeça de Sisara, e, dando com o martelo, cravou-o no cérebro até entrar pela terra; ele, profundamente adormecido, desfaleceu e morreu. (ver nota)
+
+[[v7-4-22]]
+
+^<<v7-4-22,22>>^ Quando chegou Barac em seguimento de Sisara, Jael, saindo-lhe ao encontro, disse-lhe: Vem, e eu te mostrarei o homem que procuras. Ele, entrando em casa dela, viu Sisara que jazia morto, e o prego encravado na sua fonte.
+
+[[v7-4-23]]
+
+^<<v7-4-23,23>>^ Naquele dia, pois, Deus humilhou Jabin, rei de Canaan, diante dos filhos de Israel,
+
+[[v7-4-24]]
+
+^<<v7-4-24,24>>^ os quais cresciam cada dia, e com mão forte oprimiam Jabin, rei de Canaan, até que o destruíram.
+
+'''
+
+xref:007-juizes/007-juizes-003.adoc#v7-3-0[&#60; Capítulo Anterior] | <<v7-4-0,Topo>> | xref:007-juizes/007-juizes-005.adoc#v7-5-0[Próximo Capítulo &#62;]

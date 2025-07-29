@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v5-16-0]]
+=== Deuteronômio, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 16 é um capítulo que estabelece as instruções para as festas religiosas anuais de Israel, incluindo a Páscoa, a Festa dos Pães Asmos e a Festa das Semanas. Além disso, é enfatizado o princípio da justiça, através da indicação de juízes e oficiais imparciais, bem como a proibição da idolatria. Abaixo estão cinco versículos relacionados a esses temas, excluindo versículos de Deuteronômio 16:
+* Provérbios 21:3: "Fazer o que é justo e direito é mais aceitável ao Senhor do que oferecer sacrifícios." Este versículo destaca a importância da justiça e da retidão, valores que são reforçados em Deuteronômio 16.
+* Salmos 82:2-4: "Até quando julgareis injustamente, e tereis respeito às pessoas dos ímpios? Defendei o pobre e o órfão; fazei justiça ao aflito e ao necessitado. Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios." Este salmo clama por justiça e compaixão pelos menos favorecidos, um tema presente em Deuteronômio 16.
+* Deuteronômio 17:8-10: "Se houver questão difícil entre homicídio e homicídio, entre causa e causa, entre ferida e ferida, em questões de litígio dentro das tuas portas, então te levantarás e subirás ao lugar que escolher o Senhor teu Deus; E virás aos sacerdotes levitas, e ao juiz que houver naqueles dias, e inquirirás; e te anunciarão a sentença daquele juízo. E farás conforme à sentença que te anunciarem no lugar que escolher o Senhor; e cuidarás de fazer conforme a tudo o que te ensinarem." Esse versículo complementa a instrução sobre juízes imparciais em Deuteronômio 16, reforçando a importância da justiça em disputas legais.
+* 2 Reis 23:5: "E tirou os sacerdotes idólatras que os reis de Judá tinham estabelecido para queimarem incenso nos altos nas cidades de Judá, e ao redor de Jerusalém; como também os que queimavam incenso a Baal, ao sol, e à lua, e aos planetas, e a todo o exército dos céus." A proibição da idolatria em Deuteronômio 16 é um tema que se estende por toda a Bíblia, como nesse exemplo em 2 Reis.
+* Levítico 23:4-5: "Estas são as festas fixas do SENHOR, as convocações sagradas que vocês proclamarão no tempo certo. No primeiro mês do ano vocês celebrarão a festa de Páscoa." Este versículo menciona a festa da Páscoa, que é uma das festas religiosas estabelecidas em Deuteronômio 16.
+****
+
+[[v5-16-1]]
+
+^<<v5-16-1,1>>^ Observa o mês dos frutos novos, que é o primeiro da primavera, para celebrares a páscoa em honra do Senhor teu Deus, porque neste mês o Senhor teu Deus, tirou-te do Egipto de noite.
+
+[[v5-16-2]]
+
+^<<v5-16-2,2>>^ Imolarás a páscoa ao Senhor teu Deus, ovelhas e bois, no lugar que o Senhor teu Deus escolher, para aí habitar o seu nome.
+
+[[v5-16-3]]
+
+^<<v5-16-3,3>>^ Não comerás durante esta festa pão fermentado; durante sete dias comerás (pão) sem fermento, pão da aflição — porque saíste do Egipto à pressa — para te lembrares do dia da tua saída do Egipto, durante toda a vida.
+
+[[v5-16-4]]
+
+^<<v5-16-4,4>>^ Durante sete dias não aparecerá em todos os teus limites pão fermentado, e, das carnes da vítima imolada à tarde, no primeiro dia, não ficará nada para ( o outro dia) pela manhã
+
+[[v5-16-5]]
+
+^<<v5-16-5,5>>^ Não poderás imolar a páscoa em qualquer das tuas cidades, que o Senhor teu Deus está para te dar,
+
+[[v5-16-6]]
+
+^<<v5-16-6,6>>^ mas (sòmente) no lugar que o Senhor teu Deus tiver escolhido, para aí habitar o seu nome; imolarás a páscoa de tarde, ao pôr do sol, tempo em que saíste do Egipto.
+
+[[v5-16-7]]
+
+^<<v5-16-7,7>>^ Cozerás a vítima e comê-la-ás no lugar que o Senhor teu Deus tiver escolhido: levantando-te pela manhã, voltarás para as tuas tendas.
+
+[[v5-16-8]]
+
+^<<v5-16-8,8>>^ Durante seis dias comerás (pães ázimos), e no sétimo dia não trabalharás, porque é a assembléia solene em honra do Senhor teu Deus.
+
+[[v5-16-9]]
+
+^<<v5-16-9,9>>^ Contarás sete semanas desde o dia em que meteres a fouce na seara,
+
+[[v5-16-10]]
+
+^<<v5-16-10,10>>^ e celebrarás a festa das Semanas em honra do Senhor teu Deus, (com) a oblação voluntária da tua mão, a qual oferecerás segundo a bênção do Senhor teu Deus.
+
+[[v5-16-11]]
+
+^<<v5-16-11,11>>^ Alegrar-te-ás diante do Senhor teu Deus, tu, teu filho e tua filha, o teu servo e a tua serva, o Levita, que mora dentro das tuas portas, o estrangeiro, o órfão e a viúva, que vivem contigo no lugar que o Senhor teu Deus tiver escolhido para aí habitar o seu nome.
+
+[[v5-16-12]]
+
+^<<v5-16-12,12>>^ Recordar-te-ás que foste escravo no Egipto, e terás cuidado de cumprir estas leis.
+
+[[v5-16-13]]
+
+^<<v5-16-13,13>>^ Celebrarás também durante sete dias a solenidade dos Tabernáculos, quando tiveres recolhido os teus frutos da eira e do lagar.
+
+[[v5-16-14]]
+
+^<<v5-16-14,14>>^ Alegrar-te-ás nesta festa, tu, teu filho e a tua filha, o teu servo e a tua serva, e também o Levita e o estrangeiro, o órfão e a viúva, que estão dentro das tuas portas.
+
+[[v5-16-15]]
+
+^<<v5-16-15,15>>^ Durante sete dias celebrarás esta festa em honra do Senhor teu Deus, no lugar que o Senhor tiver escolhido, e o Senhor teu Deus te abençoará em todos os teus frutos, e em todo o trabalho das tuas mãos, e viverás alegre.
+
+[[v5-16-16]]
+
+^<<v5-16-16,16>>^ Toldos os teus varões aparecerão três vezes por ano diante do Senhor teu Deus no lugar que tiver ele escolhido: na solenidade dos pães ázimos, na solenidade das semanas e na Solenidade dos tabernáculos. Não aparecerão diante do Senhor com as mãos vazias,
+
+[[v5-16-17]]
+
+^<<v5-16-17,17>>^ mas cada um oferecerá segundo o que tiver, e segundo a bênção que o Senhor seu Deus Ihe tiver dado.
+
+[[v5-16-18]]
+
+^<<v5-16-18,18>>^ Estabelecerás juízes e magistrados em todas as cidades que o Senhor teu Deus te tiver dado, em cada uma das tuas tribos, para que julguem o povo com justo juízo,
+
+[[v5-16-19]]
+
+^<<v5-16-19,19>>^ sem se inclinarem para uma das partes. Não farás acepção de pessoas, nem receberás dádivas porque as dádivas cegam os olhos dos sábios, e transtornam as palavras dos justos.
+
+[[v5-16-20]]
+
+^<<v5-16-20,20>>^ Seguirás rigorosamente o que é justo, para que vivas e possuas a terra que o Senhor teu Deus te tiver dado.
+
+[[v5-16-21]]
+
+^<<v5-16-21,21>>^ Não plantarás aschera junto do altar do Senhor teu Deus. Não farás para ti, nem levantarás nenhuma estátua, coisais que o Senhor teu Deus aborrece. (ver nota)
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-015.adoc#v5-15-0[&#60; Capítulo Anterior] | <<v5-16-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-017.adoc#v5-17-0[Próximo Capítulo &#62;]

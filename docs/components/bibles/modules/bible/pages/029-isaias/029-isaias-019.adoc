@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v29-19-0]]
+=== Isaías, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 19 fala sobre a profecia do julgamento de Deus sobre o Egito e a promessa de redenção para o povo egípcio. Nesse capítulo, também é mencionado o papel que o Egito terá no futuro plano de Deus para o mundo. Abaixo estão cinco versículos relacionados com os temas abordados em Isaías 19:
+* Jeremias 46:25: "O Senhor dos Exércitos, o Deus de Israel, disse: Eis que eu castigarei Amom de No, e a Faraó, e o Egito, juntamente com seus deuses e seus reis; sim, castigarei a Faraó, e a todos os que nele confiam." Este versículo fala sobre o castigo que Deus trará sobre o Egito e seus deuses, que está em linha com a profecia de Isaías 19.
+* Ezequiel 29:13: "Porque assim diz o Senhor Deus: Também farei cessar a multidão do Egito pela mão de Nabucodonosor, rei de Babilônia." Este versículo fala sobre a queda do Egito nas mãos do rei Nabucodonosor, o que pode ser visto como uma realização da profecia de Isaías 19.
+* Zacarias 10:11: "Ele passará pelo mar de aflição, e ferirá as ondas no mar, e todas as profundezas do rio se secarão; e a soberba da Assíria será derrubada, e o cetro do Egito se retirará." Este versículo fala sobre a soberba do Egito e como seu poder será quebrado por Deus.
+* Salmo 87:4: "Farei menção de Raabe e de Babilônia àqueles que me conhecem; eis que da Filístia, e de Tiro, e da Etiópia, se dirá: Este homem nasceu ali." Este versículo pode ser interpretado como uma referência ao papel que o Egito terá no futuro plano de Deus, mencionado em Isaías 19.
+* Apocalipse 11:8: "E jazerão os seus corpos na praça da grande cidade que espiritualmente se chama Sodoma e Egito, onde também o seu Senhor foi crucificado." Este versículo fala sobre a cidade em que Jesus foi crucificado, que é comparada a Sodoma e Egito. Embora não esteja diretamente relacionado à profecia de Isaías 19, sugere que o Egito é visto como um símbolo de corrupção e opressão na Bíblia.
+****
+
+[[v29-19-1]]
+
+^<<v29-19-1,1>>^ Oráculo sobre o Egito. Eis que o Senhor, levado sobre uma nuvem veloz, entra no Egito: os ídolos do Egito comovem-se diante da sua face, o coração do Egito mirra-se em seu peito.
+
+[[v29-19-2]]
+
+^<<v29-19-2,2>>^ Farei com que os Egípcios se levantem contra os Egípcios: pelejará cada um contra o seu irmão, cada um contra o seu amigo, uma cidade contra outra cidade, um reino contra outro reino.
+
+[[v29-19-3]]
+
+^<<v29-19-3,3>>^ O espírito do Egito dissipar-se-á dentro dele, e eu aniquilarei o seu conselho: eles consultarão os seus ídolos e os seus feiticeiros, os seus evocadores dos mortos e os seus adivinhos.
+
+[[v29-19-4]]
+
+^<<v29-19-4,4>>^ Entregarei o Egito na mão dum senhor cruel, e um rei temível os dominará, diz o Senhor Deus dos exércitos.
+
+[[v29-19-5]]
+
+^<<v29-19-5,5>>^ As águas do mar secarão, e o rio tornar-se-á seco e árido.
+
+[[v29-19-6]]
+
+^<<v29-19-6,6>>^ As ribeiras se esgotarão, os canais do Egito diminuirão e secarão. As canas e os juncos murcharão.
+
+[[v29-19-7]]
+
+^<<v29-19-7,7>>^ Os prados das margens do Nilo, os campos semeados ao longo do rio, tudo secará, cairá, desaparecerá.
+
+[[v29-19-8]]
+
+^<<v29-19-8,8>>^ Ficarão desolados os pescadores, chorarão todos os que lançam anzol ao rio, ficarão consternados os que estendem redes sobre a superfície das águas.
+
+[[v29-19-9]]
+
+^<<v29-19-9,9>>^ Ficarão confundidos os que trabalham em linho; os que cardam e tecem, desalentados;
+
+[[v29-19-10]]
+
+^<<v29-19-10,10>>^ os tecelões, aflitos; todos os operários, desolados.
+
+[[v29-19-11]]
+
+^<<v29-19-11,11>>^ Os príncipes de Tanis são loucos, os sábios conselheiros de Faraó dão um conselho insensato. Como ousais dizer a Faraó: Eu sou filho de sábios, filho de reis antigos?
+
+[[v29-19-12]]
+
+^<<v29-19-12,12>>^ — Onde estão agora os teus sábios? Eles te anunciem e apontem o que o Senhor dos exércitos tem resolvido sobre o Egito.
+
+[[v29-19-13]]
+
+^<<v29-19-13,13>>^ Loucos se tornaram os príncipes de Tanis, estão iludidos os príncipes de Mênfis; os chefes das tribos desencaminham o Egito.
+
+[[v29-19-14]]
+
+^<<v29-19-14,14>>^ O Senhor difundiu no meio dele um espírito de vertigem; eles fizeram errar o Egito em todas as suas obras, como erra o homem embriagado e que vomita,
+
+[[v29-19-15]]
+
+^<<v29-19-15,15>>^ O Egito está incapaz de conduzir a bom termo o que devera fazer a cabeça e a cauda, a palma e o junco.
+
+[[v29-19-16]]
+
+^<<v29-19-16,16>>^ Naquele dia ficarão os Egípcios como (tímidas) mulheres: pasmarão e temerão diante do movimento da mão do Senhor dos exércitos, a qual descarregará contra eles.
+
+[[v29-19-17]]
+
+^<<v29-19-17,17>>^ E tornar-se-á o terror do Egito a terra de Judá; todo o que se lembrar dela, encher-se-á de pavor, à vista dos desígnios do Senhor dos exércitos, formados contra o Egito.
+
+[[v29-19-18]]
+
+^<<v29-19-18,18>>^ Naquele dia haverá cinco cidades na terra do Egito, que falarão a língua de Canaan e que jurarão pelo Senhor dos exércitos: Uma delas será chamada a Cidade do Sol.
+
+[[v29-19-19]]
+
+^<<v29-19-19,19>>^ Naquele dia haverá um altar do Senhor no meio da terra do Egito, e um monumento ao Senhor junto da sua fronteira.
+
+[[v29-19-20]]
+
+^<<v29-19-20,20>>^ Isto servirá de sinal e de testemunho ao Senhor dos exércitos na terra do Egito; quando clamarem ao Senhor, à vista daqueles que os atribulam, ele lhes enviará um salvador e um defensor que os livre.
+
+[[v29-19-21]]
+
+^<<v29-19-21,21>>^ O Senhor será conhecido pelo Egito, e os Egípcios conhecerão o Senhor naquele dia, honrá-lo-ão com hóstias e ofertas, farão ao Senhor votos e cumpri-los-ão.
+
+[[v29-19-22]]
+
+^<<v29-19-22,22>>^ O Senhor ferirá o Egito com uma chaga e curá-la-á, e eles voltar-se-ão para o Senhor, que se lhes mostrará aplacado e os sarará.
+
+[[v29-19-23]]
+
+^<<v29-19-23,23>>^ Naquele dia haverá um caminho do Egito para a Assíria: os Assírios entrarão no Egito, e os Egípcios na Assíria, e os Egípcios com os Assírios servirão (o Senhor).
+
+[[v29-19-24]]
+
+^<<v29-19-24,24>>^ Naquele dia Israel unir-se-á, como terceiro, ao Egito e à Assíria, para ser uma bênção no meio da terra.
+
+[[v29-19-25]]
+
+^<<v29-19-25,25>>^ O Senhor dos exércitos abençoá-los-á, dizendo: Bem-aventurados sejam o meu povo do Egito, o Assírio, obra de minhas mãos, e Israel, minha herança!
+
+'''
+
+xref:029-isaias/029-isaias-018.adoc#v29-18-0[&#60; Capítulo Anterior] | <<v29-19-0,Topo>> | xref:029-isaias/029-isaias-020.adoc#v29-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v16-11-0]]
+=== Neemias, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 de Neemias trata da divisão do povo de Israel em Jerusalém após a reconstrução dos muros. Os líderes foram selecionados por meio de sorteio e uma parte do povo se estabeleceu na cidade, enquanto outros moraram em cidades vizinhas para repovoar a região. A seguir estão cinco versículos relacionados aos temas abordados em Neemias 11:
+* Josué 14:1: "Estes são os que receberam a herança na terra de Canaã, que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das tribos dos filhos de Israel, lhes repartiram por sorteio." Este versículo descreve como a terra de Canaã foi dividida entre as tribos de Israel, um processo semelhante ao sorteio que ocorreu em Neemias 11.
+* 1 Crônicas 9:2: "Os primeiros habitantes que se estabeleceram nas suas possessões e nas suas cidades foram os israelitas, os sacerdotes, os levitas e os servos do templo." Este versículo fala sobre a importância dos sacerdotes, levitas e servos do templo em Israel, um grupo que também é mencionado em Neemias 11 como parte daqueles que moravam em Jerusalém.
+* Neemias 7:4: "E a cidade era grande e espaçosa; mas havia pouca gente dentro dela, e as casas ainda não estavam reconstruídas." Este versículo descreve a situação da cidade de Jerusalém antes da repovoação descrita em Neemias 11.
+* Josué 21:2: "Eles falaram a eles em Siló, na terra de Canaã, dizendo: O Senhor mandou por meio de Moisés que nos fossem dadas cidades para habitarmos, e os seus arrabaldes para o nosso gado." Este versículo se relaciona com Neemias 11, pois ambos tratam da necessidade de as tribos de Israel terem cidades para habitar.
+* Ezequiel 48:30-31: "E estas são as saídas da cidade: no lado norte, quatro mil e quinhentos côvados por medida. E as portas da cidade serão segundo os nomes das tribos de Israel: três portas para o norte: a porta de Rúben, uma; a porta de Judá, outra; a porta de Levi, outra." Este versículo descreve a cidade de Jerusalém, incluindo sua divisão em tribos. Isso se relaciona com a seleção dos líderes por sorteio em Neemias 11, que representavam as tribos de Israel que habitavam a cidade.
+****
+
+[[v16-11-1]]
+
+^<<v16-11-1,1>>^ Os príncipes do povo habitaram em Jerusalém, mas o resto do povo deitou sortes, para tirarem uma parte de dez, a qual habitaria em Jerusalém, cidade santa, ficando as restantes nove partes nas outras cidades.
+
+[[v16-11-2]]
+
+^<<v16-11-2,2>>^ O povo abençoou todos os homens que se ofereceram voluntariamente para habitar em Jerusalém.
+
+[[v16-11-3]]
+
+^<<v16-11-3,3>>^ Estes são os principais da província que habitaram em Jerusalém. Nas cidades de Judá, cada um se estabeleceu na sua possessão, na sua cidade: os Israelitas, os sacerdotes, os Levitas, os Natineus e os filhos dos servos de Solomão.
+
+[[v16-11-4]]
+
+^<<v16-11-4,4>>^ Em Jerusalém habitaram filhos de Judá e filhos de Benjamim. Dos filhos de Judá: Ataias, filho de Azião, filho de Zacarias, filho de Amarias, filho de Safatias, filho de Malaleel, dos filhos de Farés;
+
+[[v16-11-5]]
+
+^<<v16-11-5,5>>^ Maasias, filho de Baruque, filho de Colboza, filho de Hazias, filho de Adaias, filho de Joiarib, filho de Zacarias, filho de Sela.
+
+[[v16-11-6]]
+
+^<<v16-11-6,6>>^ Todos os filhos de Farés, que habitaram em Jerusalém, eram quatrocentos e sessenta e oito homens valentes.
+
+[[v16-11-7]]
+
+^<<v16-11-7,7>>^ Os filhos de Benjamim (que habitaram em Jerusalém) foram estes: Selum, filho de Mosolão, filho de Joed, filho de Fadaias, filho de Colaias, filho de Masias, filho de Eteel, filho de Isaías,
+
+[[v16-11-8]]
+
+^<<v16-11-8,8>>^ e depois dele Gebai Selai: novecentos e vinte e oito homens.
+
+[[v16-11-9]]
+
+^<<v16-11-9,9>>^ Joel, filho de Zecri, era seu chefe, e Judas, filho de Senua, ocupava o segundo posto na cidade.
+
+[[v16-11-10]]
+
+^<<v16-11-10,10>>^ Dos sacerdotes: Idaias, filho de Joarib, Jaquim,
+
+[[v16-11-11]]
+
+^<<v16-11-11,11>>^ Saraias, filho de Helcias, filho de Mosolão, filho de Sadoc, filho de Meraiot, filho de Aquitob, príncipe da casa de Deus,
+
+[[v16-11-12]]
+
+^<<v16-11-12,12>>^ e os seus irmãos que serviam no templo: oitocentos e vinte e dois; Adaias, filho de Jeroão, filho de Felelias , filho de Amsi, filho de Zacarias, filho de Fasur, filho de Melquias,
+
+[[v16-11-13]]
+
+^<<v16-11-13,13>>^ e seus irmãos, príncipes das famílias: duzentos e quarenta e dois; Amassai, filho de Azreel, filho de Aazi, filho de Mosolamot, filho de Emer,
+
+[[v16-11-14]]
+
+^<<v16-11-14,14>>^ e os seus irmãos, que eram de grande vigor: cento e vinte e oito. Era seu chefe Zabdiel, filho de Hagdolim.
+
+[[v16-11-15]]
+
+^<<v16-11-15,15>>^ Dos Levitas: Semeias, filho de Hasub, filho de Azaricão, filho de Hasabias, filho de Boni;
+
+[[v16-11-16]]
+
+^<<v16-11-16,16>>^ Sabatai e Josabed, superintendentes de todas as obras que se faziam exteriormente na casa de Deus, (que eram) dos principais entre os Levitas
+
+[[v16-11-17]]
+
+^<<v16-11-17,17>>^ Matania, filho de Mica, filho de Zebedei, filho de Asaf, chefe dos que louvavam e publicavam a glória do Senhor na oração; Becbecias, o segundo entre seus irmãos, e Ada, filho de Samua, filho de Galai, filho de Iditum.
+
+[[v16-11-18]]
+
+^<<v16-11-18,18>>^ Todos os Levitas na cidade santa eram duzentos e oitenta e quatro.
+
+[[v16-11-19]]
+
+^<<v16-11-19,19>>^ Os porteiros, Acub, Telmon e seus irmãos, que guardavam as portas, eram cento e setenta e dois.
+
+[[v16-11-20]]
+
+^<<v16-11-20,20>>^ O resto dos sacerdotes e dos Levitas de Israel (estavam espalhados) em todas as cidades de Judá, cada um na sua possessão.
+
+[[v16-11-21]]
+
+^<<v16-11-21,21>>^ Os Natineus habitavam em Ofel. Siaa e Gasfa eram (chefes) dos Natineus.
+
+[[v16-11-22]]
+
+^<<v16-11-22,22>>^ O chefe dos Levitas em Jerusalém era Azi, filho de Bani, filho de Hasabias, filho de Matanias, filho de Mica, um dos cantores ao serviço da casa de Deus, que eram da estirpe de Asaf.
+
+[[v16-11-23]]
+
+^<<v16-11-23,23>>^ O rei (David) tinha posto um regulamento sobre eles, e a ordem que devia ser observada todos os dias entre os cantores.
+
+[[v16-11-24]]
+
+^<<v16-11-24,24>>^ Fataias, filho de Mesezebel, dos filhos de Zara, filho de Judá, era comissário do rei para todos os negócios do povo.
+
+[[v16-11-25]]
+
+^<<v16-11-25,25>>^ Quanto às aldeias e suas cercanias, alguns dos filhos de Judá habitaram em Cariatarbe, nas suas cercanias, em Dibon, e nas suas cercanias, em Cabseel e nas suas cercanias,
+
+[[v16-11-26]]
+
+^<<v16-11-26,26>>^ em Jesué, em Molada, em Betfalet,
+
+[[v16-11-27]]
+
+^<<v16-11-27,27>>^ em Hasersual, em Bersabee e nas suas cercanias,
+
+[[v16-11-28]]
+
+^<<v16-11-28,28>>^ em Siceleg, em Mocona e nas suas cercanias,
+
+[[v16-11-29]]
+
+^<<v16-11-29,29>>^ em Remon, em Saraa, em Jerimut,
+
+[[v16-11-30]]
+
+^<<v16-11-30,30>>^ em Zanos, em Odolão e nas suas cercanias, em Laquis e no seu território, em Azeca e nas suas cercanias. Estabeleceram-se desde Bersabee até ao vale de Enom.
+
+[[v16-11-31]]
+
+^<<v16-11-31,31>>^ Os filhos de Benjamim estabeleceram-se desde Geba, em Mecmas, em Hai, era Betel e nas suas cercanias,
+
+[[v16-11-32]]
+
+^<<v16-11-32,32>>^ em Anatot, em Nobe, em Ananias,
+
+[[v16-11-33]]
+
+^<<v16-11-33,33>>^ em Asor, em Rama, e em Getaim,
+
+[[v16-11-34]]
+
+^<<v16-11-34,34>>^ em Hadid, em Seboim e em Nebalat, em Lod
+
+[[v16-11-35]]
+
+^<<v16-11-35,35>>^ e em Ono, vale dos Operários.
+
+[[v16-11-36]]
+
+^<<v16-11-36,36>>^ Os Levitas tinham as suas porções em Judá e Benjamim.
+
+'''
+
+xref:016-neemias/016-neemias-010.adoc#v16-10-0[&#60; Capítulo Anterior] | <<v16-11-0,Topo>> | xref:016-neemias/016-neemias-012.adoc#v16-12-0[Próximo Capítulo &#62;]

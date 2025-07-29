@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v10-9-0]]
+=== II Samuel, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 9 narra como o rei Davi mostrou bondade a um descendente de Saul chamado Mefibosete, filho de Jônatas. Davi queria honrar o relacionamento que tinha com Jônatas, que era o seu melhor amigo. Ele procurou por um descendente de Jônatas para mostrar bondade por amor ao amigo. Davi tratou Mefibosete com bondade e lhe deu um lugar à mesa do rei, restaurando a sua posição e a sua herança.
+* Salmo 41:1: "Bem-aventurado aquele que atende ao pobre; o SENHOR o livrará no dia do mal." Este salmo fala sobre como o SENHOR ajuda os pobres e necessitados, e como aqueles que os ajudam também serão abençoados. Davi demonstrou isso com sua bondade a Mefibosete.
+* Provérbios 19:17: "O que se compadece do pobre ao SENHOR empresta, e este lhe paga o seu benefício." Este provérbio fala sobre como ajudar os pobres é emprestar ao SENHOR, e que Ele irá recompensar aqueles que ajudam. Davi foi generoso com Mefibosete, e Deus recompensou a sua bondade.
+* Isaías 61:1: "O Espírito do SENHOR Deus está sobre mim; porque o SENHOR me ungiu, para pregar boas novas aos mansos; enviou-me a restaurar os contritos de coração, a proclamar liberdade aos cativos e a abertura de prisão aos presos." Este verso fala sobre como Deus chama aqueles que são ungidos para ajudar os necessitados e os cativos. Davi, como ungido de Deus, mostrou bondade a Mefibosete e o libertou da sua prisão de pobreza e solidão.
+* Mateus 5:7: "Bem-aventurados os misericordiosos, porque alcançarão misericórdia." Jesus ensinou que a misericórdia é uma virtude importante, e aqueles que a mostram serão recompensados. Davi mostrou misericórdia a Mefibosete e foi recompensado com a alegria de ver a felicidade dele.
+* Tiago 2:14-17: "De que aproveita, irmãos, alguém dizer que tem fé, se não tiver obras? Porventura essa fé pode salvá-lo? E, se o irmão ou a irmã estiverem nus, e tiverem falta de mantimento quotidiano, e algum de vós lhes disser: Ide em paz, aquentai-vos, e fartai-vos; e não lhes derdes as coisas necessárias para o corpo, que proveito virá daí? Assim também a fé, se não tiver obras, é morta em si mesma." Tiago ensina que a fé sem obras é inútil, e que devemos agir em conformidade com nossa fé. Davi demonstrou sua fé em Deus agindo com bondade para com Mefibosete.
+****
+
+[[v10-9-1]]
+
+^<<v10-9-1,1>>^ Davide disse: Sabeis se ficou alguém da casa de Saul, para que eu lhe faça bem por amor de Jónatas?
+
+[[v10-9-2]]
+
+^<<v10-9-2,2>>^ Ora havia um criado da casa de Saul, chamado Siba, que o rei chamou à sua presença, e ao qual disse: Tu és Siba? E ele respondeu: Sou eu, teu servo.
+
+[[v10-9-3]]
+
+^<<v10-9-3,3>>^ O rei disse: Porventura ficou alguém da casa de Saul, para quem eu possa usar de misericórdia (grande como) de Deus? Siba respondeu ao rei: Ficou ainda um filho de Jónatas, aleijado dos pés.
+
+[[v10-9-4]]
+
+^<<v10-9-4,4>>^ Onde está ele? disse Davide. Siba disse ao rei: Está em Lodabar, em casa de Maquir, filho de Amiel.
+
+[[v10-9-5]]
+
+^<<v10-9-5,5>>^ Mandou, pois, o rei Davide buscá-lo, e o fez trazer de Lodabar, de casa de Maquir, filho de Amiel.
+
+[[v10-9-6]]
+
+^<<v10-9-6,6>>^ Mifiboset, filho de Jónatas, filho de Saul, tendo chegado à presença de Davide, prostrou-se com o rosto por terra e fez-lhe uma profunda reverência. Davide disse: Mifiboset? Ele respondeu: Aqui tens o teu servo.
+
+[[v10-9-7]]
+
+^<<v10-9-7,7>>^ Davide disse-lhe: Não temas, porque eu estou resolvido a fazer-te todo o bem em atenção a Jónatas, teu pai, restituir-te-ei todos os bens de Saul, teu avô, e tu comerás sempre à minha mesa.
+
+[[v10-9-8]]
+
+^<<v10-9-8,8>>^ Mifiboset, inclinando-se profundamente, disse: Quem sou eu, teu servo, para tu teres olhado para um cão morto como eu sou?
+
+[[v10-9-9]]
+
+^<<v10-9-9,9>>^ Mandou o rei chamar Siba, criado de Saul, e disse-lhe: Eu dei ao filho do teu amo tudo o que pertencia a Saul e a toda a sua casa.
+
+[[v10-9-10]]
+
+^<<v10-9-10,10>>^ Tu, pois, com teus filhos e servos, cultivar-lhe-ás as suas terras, e cuidarás de subministrar ao filho do teu amo alimentos para que se sustente; Mifiboset, porém, filho do teu amo, comerá sempre à minha mesa. Ora Siba tinha quinze filhos e vinte servos.
+
+[[v10-9-11]]
+
+^<<v10-9-11,11>>^ Siba disse ao rei: Conforme tu mandaste, ó rei meu senhor, ao teu servo, assim o fará teu servo. Quanto a Mifiboset (repetiu Davide) comerá à minha mesa, como um dos filhos do rei.
+
+[[v10-9-12]]
+
+^<<v10-9-12,12>>^ Mifiboset tinha um filho ainda criança, chamado Mica, e toda a parentela da casa de Siba estava ao seu serviço.
+
+[[v10-9-13]]
+
+^<<v10-9-13,13>>^ Vivia Mifiboset em Jerusalém, porque todos os dias comia à mesa do rei. Era coxo de ambos os pés.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-008.adoc#v10-8-0[&#60; Capítulo Anterior] | <<v10-9-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-010.adoc#v10-10-0[Próximo Capítulo &#62;]

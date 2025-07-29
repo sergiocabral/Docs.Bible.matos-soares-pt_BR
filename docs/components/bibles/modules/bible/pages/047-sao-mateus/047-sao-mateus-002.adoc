@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v47-2-0]]
+=== São Mateus, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Mateus 2 narra a história dos magos do oriente que visitaram Jesus após seu nascimento, seguindo uma estrela que os guiou até Belém. Eles perguntam sobre o nascimento do "rei dos judeus", o que preocupa o rei Herodes, que tenta enganá-los para descobrir a localização de Jesus e matá-lo. Os magos, no entanto, são avisados em sonho para não voltar a Herodes e voltam para suas casas por outro caminho. Abaixo estão cinco versículos relacionados com os temas abordados em São Mateus 2:
+* São João 1:9 - "A verdadeira luz, que ilumina todo homem, estava chegando ao mundo." Esta passagem fala da vinda de Jesus como a verdadeira luz que ilumina a todos, o que se relaciona com a estrela que guiou os magos até ele.
+* Isaías 60:3 - "As nações caminharão à tua luz, e os reis, ao fulgor do teu alvorecer." Este verso fala sobre a luz que brilhará sobre Jerusalém, atraindo as nações e os reis. Isso se relaciona com os magos, que vieram de outro país para encontrar Jesus, o rei dos judeus.
+* Jeremias 31:15 - "Assim diz o Senhor: Uma voz é ouvida em Ramá, lamentação e grande pranto: Raquel chora seus filhos; ela recusa ser consolada, porque já não existem." Este verso fala do lamento das mães por seus filhos, o que se relaciona com o massacre de Herodes das crianças de Belém, como descrito em São Mateus 2:16-18.
+* Oséias 11:1 - "Quando Israel era menino, eu o amei; e do Egito chamei o meu filho." Este verso fala da chamada de Deus para Israel, mas pode ser interpretado como uma prefiguração da chamada de Deus para Jesus, como seu filho amado. Isso se relaciona com a fuga da família de Jesus para o Egito para escapar da perseguição de Herodes.
+* Miquéias 5:2 - "E tu, Belém-Efrata, pequena demais para figurar como grupo de milhares de Judá, de ti me sairá aquele que há de reinar em Israel, e cujas origens são desde os tempos antigos, desde os dias da eternidade." Este verso profetiza que um rei surgiria de Belém, que se relaciona com o nascimento de Jesus em Belém, conforme descrito em São Mateus 2:1.
+****
+
+[[v47-2-1]]
+
+^<<v47-2-1,1>>^ Tendo pois nascido Jesus em Belém de Judá, tempo do rei Herodes, eis que uns magos vieram do Oriente a Jerusalém,
+
+[[v47-2-2]]
+
+^<<v47-2-2,2>>^ dizendo; "Onde está o rei dos judeus, que acaba de nascer? Porque nós vimos a sua estrela no oriente, e viemos adorá-lo."
+
+[[v47-2-3]]
+
+^<<v47-2-3,3>>^ Ao ouvir isto, o rei Herodes turbou-se, e toda (a cidade de) Jerusalém com ele.
+
+[[v47-2-4]]
+
+^<<v47-2-4,4>>^ E, convocando todos os príncipes dos sacerdotes e os escribas do povo, perguntou-lhes onde havia de nascer o Messias.
+
+[[v47-2-5]]
+
+^<<v47-2-5,5>>^ Eles disseram-lhe: "Em Belém de Judá, porque assim foi escrito pelo profeta:
+
+[[v47-2-6]]
+
+^<<v47-2-6,6>>^ E tu, Belém, terra de Judá, de modo algum és a menor entre as principais (cidades) de Judá, porque de ti sairá um chefe, que apascentará Israel, meu povo (Mic. 5, 2)."
+
+[[v47-2-7]]
+
+^<<v47-2-7,7>>^ Então Herodes, tendo chamado secretamente os magos, inquiriu deles cuidadosamente acerca do tempo em que lhes tinha aparecido a estrela;
+
+[[v47-2-8]]
+
+^<<v47-2-8,8>>^ depois, enviando-os a Belém, disse; "Ide, informai-vos bem acerca do menino, e, quando o encontrardes, comunicai-mo, a fim de que também eu o vá adorar."
+
+[[v47-2-9]]
+
+^<<v47-2-9,9>>^ Eles, tendo ouvido as palavras do rei, partiram; e eis que a estrela que tinham visto no Oriente, ia adiante deles, até que, chegando sobre (o lugar) onde estava o menino, parou.
+
+[[v47-2-10]]
+
+^<<v47-2-10,10>>^ Vendo (novamente) a estrela, ficaram possuídos de grandíssima alegria.
+
+[[v47-2-11]]
+
+^<<v47-2-11,11>>^ Entraram na casa, viram o menino com Maria, sua mãe, e, prostrando-se, o adoraram; e, abrindo os seus tesouros, lhe ofereceram presentes de ouro, incenso e mirra. (ver nota)
+
+[[v47-2-12]]
+
+^<<v47-2-12,12>>^ Em seguida, avisados por Deus em sonhos para não tornarem a Herodes, voltaram por outro caminho para a sua terra.
+
+[[v47-2-13]]
+
+^<<v47-2-13,13>>^ Tendo eles partido, eis que um anjo do Senhor apareceu em sonhos a José, e lhe disse: "Levanta-te, toma o menino e sua mãe, foge para Egipto, e fica lá até que eu te avise, porque Herodes vai procurar o menino para lhe tirar a vida."
+
+[[v47-2-14]]
+
+^<<v47-2-14,14>>^ E ele, levantando-se de noite, tomou o menino e sua mãe, e retirou-se para o Egipto.
+
+[[v47-2-15]]
+
+^<<v47-2-15,15>>^ Lá esteve até à morte de Herodes, cumprindo-se deste modo o que tinha sido dito pelo Senhor por meio do profeta: Do Egipto chamei o meu filho (Os. 11, 1).
+
+[[v47-2-16]]
+
+^<<v47-2-16,16>>^ Então Herodes, vendo que tinha sido enganado pelos magos, irou-se em extremo, e mandou matar todos os meninos, que havia em Belém e em todos os seus arredores, da idade de dois anos para baixo, segundo a data que tinha averiguado dos magos.
+
+[[v47-2-17]]
+
+^<<v47-2-17,17>>^ Então se cumpriu o que estava predito pelo profeta Jeremias (Je. 31, 15);
+
+[[v47-2-18]]
+
+^<<v47-2-18,18>>^ Uma voz se ouviu em Ramá, pranto e grande lamentação: Raquel chorando os seus filhos, sem admitir consolação, porque já não existem.
+
+[[v47-2-19]]
+
+^<<v47-2-19,19>>^ Morto Herodes, o anjo do Senhor apareceu em sonhos a José no Egipto,
+
+[[v47-2-20]]
+
+^<<v47-2-20,20>>^ e disse-lhe: "Levanta-te, toma o menino e sua mãe, e vai para terra de Israel, porque morreram os que procuravam (tirar) a vida do menino."
+
+[[v47-2-21]]
+
+^<<v47-2-21,21>>^ Ele levantou-se, tomou o menino e sua mãe, e voltou para a terra de Israel.
+
+[[v47-2-22]]
+
+^<<v47-2-22,22>>^ Mas, ouvindo dizer que Arquelau reinava na Judeia em lugar de seu pai Herodes, temeu ir para lá; e, avisado por Deus em sonhos, retirou-se para a região da Galileia,
+
+[[v47-2-23]]
+
+^<<v47-2-23,23>>^ e foi habitar numa cidade chamada Nazaré, cumprindo-se deste modo o que tinha sido predito pelos profetas: Será chamado Nasareno (Is. 11, 1).
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-001.adoc#v47-1-0[&#60; Capítulo Anterior] | <<v47-2-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-003.adoc#v47-3-0[Próximo Capítulo &#62;]

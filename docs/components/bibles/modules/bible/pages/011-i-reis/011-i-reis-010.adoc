@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v11-10-0]]
+=== I Reis, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 10 de 1 Reis descreve a visita da rainha de Sabá a Salomão, após ouvir falar de sua sabedoria e riqueza. Durante a visita, Salomão demonstra sua sabedoria em resposta às perguntas da rainha e mostra a ela suas riquezas e o Templo que construiu. Os seguintes versículos da Bíblia estão relacionados com os temas abordados em 1 Reis 10:
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento; mas os insensatos desprezam a sabedoria e a instrução." Este versículo destaca a importância do temor a Deus e da sabedoria divina, que é demonstrada por Salomão na visita da rainha de Sabá.
+* 2 Crônicas 9:1: "Ora, a rainha de Sabá, ouvindo a fama de Salomão, veio a Jerusalém para prová-lo com questões difíceis; trazia consigo um grande séquito, e camelos carregados de especiarias, e muitíssimo ouro, e pedras preciosas." Este versículo é uma referência à visita da rainha de Sabá a Salomão, que é o tema central de 1 Reis 10.
+* Salmos 72:10-11: "Os reis de Társis e das ilhas trarão presentes; os reis de Sabá e de Seba oferecerão dons. E todos os reis se prostrarão diante dele; todas as nações o servirão." Este Salmo profetiza sobre o reinado de um rei justo e poderoso, que é uma referência a Salomão e é relacionado à sua visita da rainha de Sabá.
+* 1 Coríntios 3:12-14: "E, se alguém sobre este fundamento formar um edifício de ouro, prata, pedras preciosas, madeira, feno, palha, a obra de cada um se manifestará; pois o Dia a demonstrará, porque será revelado no fogo, e o fogo provará qual seja a obra de cada um." Este versículo destaca a ideia de que as riquezas terrenas, como as mostradas por Salomão à rainha de Sabá, não são duradouras e não são o verdadeiro tesouro.
+* Mateus 6:19-21: "Não ajunteis tesouros na terra, onde a traça e a ferrugem os consomem, e onde os ladrões minam e roubam; mas ajuntai tesouros no céu, onde nem a traça nem a ferrugem os consomem, e onde os ladrões não minam nem roubam. Porque onde estiver o teu tesouro, aí estará também o teu coração." Este versículo destaca a ideia de que as riquezas verdadeiras são as que estão no céu e que nosso foco deve estar em Deus, não nas riquezas materiais.
+****
+
+[[v11-10-1]]
+
+^<<v11-10-1,1>>^ A rainha de Sabá, tendo ouvido falar da fama de Salomão no nome do Senhor, foi experimentá-lo com enigmas.
+
+[[v11-10-2]]
+
+^<<v11-10-2,2>>^ Chegada a Jerusalém com grande comitiva, riquezas e camelos, que levavam aromas e infinita quantidade de ouro e pedras preciosas, apresentou-se diante do rei Salomão e falou-lhe de tudo o que ela tinha no seu coração.
+
+[[v11-10-3]]
+
+^<<v11-10-3,3>>^ Salomão instruíu-a em todas as coisas sobre que ela o interrogou; não houve nenhuma que o rei ignorasse e sobre a qual lhe não respondesse.
+
+[[v11-10-4]]
+
+^<<v11-10-4,4>>^ Quando a rainha de Sabá viu toda a sabedoria de Salomão, a casa que ele tinha feito,
+
+[[v11-10-5]]
+
+^<<v11-10-5,5>>^ os manjares da sua mesa, os aposentos dos seus servidores, as habitações e os uniformes dos seus oficiais, os seus copeiros, os holocaustos que ele oferecia na casa do Senhor, ficou fora de si
+
+[[v11-10-6]]
+
+^<<v11-10-6,6>>^ e disse ao rei: É verdadeiro o que eu ouvi no meu país
+
+[[v11-10-7]]
+
+^<<v11-10-7,7>>^ acerca de tudo o que te diz respeito e da tua sabedoria; eu não dava crédito aos que mo diziam, até que eu mesma vim, vi com os meus olhos e reconheci que me não tinham dito metade do que era; é maior a tua sabedoria e as tuas obras, do que a fama que havia chegado até mim.
+
+[[v11-10-8]]
+
+^<<v11-10-8,8>>^ Bem-aventurados os teus homens, bem-aventurados os tens servos, que gozam sempre da tua presença, que ouvem a tua sabedoria.
+
+[[v11-10-9]]
+
+^<<v11-10-9,9>>^ Bem-dito seja o Senhor, teu Deus, a quem agradaste, e que te colocou sobre o trono de Israel. Porque o Senhor amou sempre Israel, é que te constituiu rei, a fim de governares com equidade e justiça.
+
+[[v11-10-10]]
+
+^<<v11-10-10,10>>^ Presenteou o rei com cento e vinte talentos de ouro e grandíssima quantidade de aromas e pedras preciosas; nunca foram levados a Jerusalém tantos aromas, como os que a rainha de Sabá deu ao rei Salomão.
+
+[[v11-10-11]]
+
+^<<v11-10-11,11>>^ A frota de Hirão, que trazia o ouro de Ofir, trouxe de Ofir também uma grande quantidade de sãndalo e pedras preciosas,
+
+[[v11-10-12]]
+
+^<<v11-10-12,12>>^ O rei mandou fazer deste sândalo os balaústres do templo do Senhor e da casa real, e cítaras e liras para os cantores; nunca mais foram transportadas nem vistas semelhantes madeiras até ao dia de hoje.
+
+[[v11-10-13]]
+
+^<<v11-10-13,13>>^ O rei Salomão deu à rainha de Sabá tudo o que ela desejou e pediu, além dos presentes que ele mesmo lhe fez com real liberalidade. A rainha voltou e foi para o seu reino com os seus servos.
+
+[[v11-10-14]]
+
+^<<v11-10-14,14>>^ O peso de ouro, que era levado a Salomão todos os anos, era de seiscentos e sessenta e seis talentos,
+
+[[v11-10-15]]
+
+^<<v11-10-15,15>>^ sem contar o que lhe traziam os homens, que eram os recebedores dos tributos, os negociantes, os que vendiam quinquilharias, os reis da Arábia e os governadores do país.
+
+[[v11-10-16]]
+
+^<<v11-10-16,16>>^ O rei Salomão fez duzentos grandes escudos de ouro puríssimo, gastando-se nas chapas de cada escudo seiscentos siclos de ouro.
+
+[[v11-10-17]]
+
+^<<v11-10-17,17>>^ Fez trezentos pequenos escudos de ouro fino, gastando-se, em cada um três minas de ouro. O rei colocou-os na Casa do Bosque do Líbano.
+
+[[v11-10-18]]
+
+^<<v11-10-18,18>>^ Fez mais o rei Salomão um grande trono de marfim, e guarneceu-o de ouro puríssimo.
+
+[[v11-10-19]]
+
+^<<v11-10-19,19>>^ O trono tinha seis degraus; a parte superior era arredondada, pelo espaldar; dois braços, um dum lado, e outro doutro, sustinham o assento; havia dois leões junto de cada braço.
+
+[[v11-10-20]]
+
+^<<v11-10-20,20>>^ Havia outros doze leões postos sobre os degraus, seis de cada lado. Não se fez obra semelhante em nenhum outro reino (do mundo).
+
+[[v11-10-21]]
+
+^<<v11-10-21,21>>^ Todos os vasos, por onde bebia o rei Salomão, eram de ouro: toda a baixela da Casa do Bosque do Líbano era de ouro puríssimo; não havia prata, nem se fazia apreço algum dela no tempo de Salomão.
+
+[[v11-10-22]]
+
+^<<v11-10-22,22>>^ Salomão tinha no mar barcos de Tarsis, que acompanhavam a frota de Hirão. Uma vez, cada três anos, os barcos de Tarsis traziam ouro, prata, marfim, macacos e pavões.
+
+[[v11-10-23]]
+
+^<<v11-10-23,23>>^ O rei Salomão excedeu todos os reis do mundo em riquezas e sabedoria.
+
+[[v11-10-24]]
+
+^<<v11-10-24,24>>^ Toda a terra desejava conhecer de vista a Salomão, para ouvir a sabedoria que Deus tinha depositado no seu coração.
+
+[[v11-10-25]]
+
+^<<v11-10-25,25>>^ Todos lhe mandavam cada ano presentes, vasos de prata e de ouro, vestes, armas de guerra, aromas, cavalos e machos.
+
+[[v11-10-26]]
+
+^<<v11-10-26,26>>^ Juntou Salomão um grande número de carros e de cavaleiros: teve mil e quatrocentos carros, e doze mil cavaleiros, que distribuiu pelas cidades fortificadas e por Jerusalém, junto da sua pessoa.
+
+[[v11-10-27]]
+
+^<<v11-10-27,27>>^ Fez que houvesse tanta abundância de prata em Jerusalém como de pedras, e tornou o cedro tão comum como os sicómoros que nascem nas campinas.
+
+[[v11-10-28]]
+
+^<<v11-10-28,28>>^ Do Egipto e de Coa eram trazidos cavalos para Salomão, pois os mercadores do rei os compravam em Coa e lhos traziam, por um preço estabelecido.
+
+[[v11-10-29]]
+
+^<<v11-10-29,29>>^ Uma quadriga trazida do Egipto custava-lhe seiscentos siclos de prata, e um cavalo cento e cinqüenta. Também, da mesma forma, traziam cavalos para todos os reis dos Heteus e da Síria.
+
+'''
+
+xref:011-i-reis/011-i-reis-009.adoc#v11-9-0[&#60; Capítulo Anterior] | <<v11-10-0,Topo>> | xref:011-i-reis/011-i-reis-011.adoc#v11-11-0[Próximo Capítulo &#62;]

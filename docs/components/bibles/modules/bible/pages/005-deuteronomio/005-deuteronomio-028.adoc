@@ -1,0 +1,291 @@
+include::./index.adoc[]
+
+[[v5-28-0]]
+=== Deuteronômio, 28
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 28 descreve as bênçãos e maldições que viriam sobre o povo de Israel, dependendo de se eles obedeceriam ou não aos mandamentos de Deus. As primeiras 14 versículos descrevem as bênçãos que viriam sobre eles caso obedecessem, enquanto os versículos seguintes falam das maldições que viriam sobre eles caso desobedecessem. Aqui estão cinco versículos relacionados com os temas abordados em Deuteronômio 28:
+* Josué 1:8 - "Não se aparte da tua boca o livro desta lei, antes medita nele dia e noite, para que tenhas cuidado de fazer conforme tudo quanto nele está escrito; porque então farás prosperar o teu caminho, e serás bem sucedido." Este versículo destaca a importância da obediência aos mandamentos de Deus, uma das principais mensagens de Deuteronômio 28.
+* Provérbios 3:33 - "A maldição do Senhor habita na casa do ímpio, mas a morada dos justos abençoará." Este versículo destaca a ideia de que a desobediência aos mandamentos de Deus traz maldições, outra mensagem importante de Deuteronômio 28.
+* Mateus 7:24-27 - "Todo aquele, pois, que escuta estas minhas palavras e as pratica, assemelhá-lo-ei ao homem prudente, que edificou a sua casa sobre a rocha... E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e não caiu, porque estava edificada sobre a rocha." Este versículo destaca a importância de construir nossas vidas sobre a base sólida da obediência aos mandamentos de Deus, algo que Deuteronômio 28 enfatiza repetidamente.
+* Gálatas 6:7 - "Não erreis: Deus não se deixa escarnecer; porque tudo o que o homem semear, isso também ceifará." Este versículo destaca a ideia de que há consequências para nossas ações, uma mensagem que é central em Deuteronômio 28.
+* Apocalipse 22:14 - "Bem-aventurados aqueles que guardam os seus mandamentos, para que tenham direito à árvore da vida, e possam entrar na cidade pelas portas." Este versículo destaca a ideia de que a obediência aos mandamentos de Deus é recompensada, algo que é uma das principais mensagens de Deuteronômio 28.
+****
+
+[[v5-28-1]]
+
+^<<v5-28-1,1>>^ Se tu ouvires a voz do Senhor teu Deus, pondo em prática e observando todos os seus mandamentos, que hoje te prescrevo, o Senhor teu Deus te exaltará sobre todas as nações da terra.
+
+[[v5-28-2]]
+
+^<<v5-28-2,2>>^ Todas estas bênçãos virão sobre ti, e te alcançarão, contanto que ouças os preceitos do Senhor teu Deus:
+
+[[v5-28-3]]
+
+^<<v5-28-3,3>>^ Tu serás bendito na cidade e bendito no campo.
+
+[[v5-28-4]]
+
+^<<v5-28-4,4>>^ Será bendito o fruto do teu ventre, o fruto da tua terra, o fruto dos teus animais, as crias de gado graúdo e de gado miúdo.
+
+[[v5-28-5]]
+
+^<<v5-28-5,5>>^ Benditos os teus celeiros, benditas as tuas sobras.
+
+[[v5-28-6]]
+
+^<<v5-28-6,6>>^ Serás bendito ao entrar e ao sair.
+
+[[v5-28-7]]
+
+^<<v5-28-7,7>>^ O Senhor fará cair na tua presença os teus inimigos, que se levantam contra ti: eles virão contra ti por um só caminho, e por sete fugirão da tua presença.
+
+[[v5-28-8]]
+
+^<<v5-28-8,8>>^ O Senhor derramará a (sua) bênção sobre os teus celeiros e sobre todas as obras das tuas mãos. Abençoar-te-á na terra que receberes.
+
+[[v5-28-9]]
+
+^<<v5-28-9,9>>^ O Senhor te confirmará como seu povo santo, conforme ele te jurou, se observares os mandamentos do Senhor teu Deus e andares nos seus caminhos.
+
+[[v5-28-10]]
+
+^<<v5-28-10,10>>^ Todos os povos da terra verão que é invocado sobre ti o nome do Senhor, e temer-te-ão.
+
+[[v5-28-11]]
+
+^<<v5-28-11,11>>^ O Senhor te fará cumular de todos os bens, do fruto do teu ventre, do fruto dos teus gados, do fruto da tua terra, que o Senhor jurou a teus pais que te havia de dar.
+
+[[v5-28-12]]
+
+^<<v5-28-12,12>>^ O Senhor abrirá o seu óptimo tesouro, o céu, para dar a seu tempo a chuva à tua terra, e abençoará todas as obras das tuas mãos. Tu emprestarás a muitas gentes, e de nenhum receberás emprestado.
+
+[[v5-28-13]]
+
+^<<v5-28-13,13>>^ O Senhor te colocará à frente, e não na cauda: estarás sempre de cima, e não debaixo, contanto que ouças os mandamentos do Senhor teu Deus, que eu hoje te prescrevo, os observes, ponhas em prática,
+
+[[v5-28-14]]
+
+^<<v5-28-14,14>>^ e não te desvies deles nem para a direita nem para a esquerda, para seguires os deuses estranhos e servi-los.
+
+[[v5-28-15]]
+
+^<<v5-28-15,15>>^ Porém, se tu não quiseres ouvir a voz do Senhor teu Deus, para observar e pôr em prática todos os seus mandamentos e leis, que eu hoje te prescrevo, virão sobre ti e te alcançarão todas estas maldições:
+
+[[v5-28-16]]
+
+^<<v5-28-16,16>>^ Serás maldito na cidade, maldito no campo.
+
+[[v5-28-17]]
+
+^<<v5-28-17,17>>^ Maldito o teu celeiro, malditas as tuas sobras.
+
+[[v5-28-18]]
+
+^<<v5-28-18,18>>^ Maldito o fruto do teu ventre, o fruto da tua terra, as crias das tuas vacas e das tuas ovelhas.
+
+[[v5-28-19]]
+
+^<<v5-28-19,19>>^ Serás maldito ao entrar, e maldito ao sair.
+
+[[v5-28-20]]
+
+^<<v5-28-20,20>>^ O Senhor mandará sobre ti a fome a carestia, e a maldição sobre todas as obras que fizeres até te destruir e exterminar dentro de pouco tempo, por causa dos teus péssimos desígnios, pelos quais me abandonaste.
+
+[[v5-28-21]]
+
+^<<v5-28-21,21>>^ O Senhor te fará pegar a peste, até que ela te consuma da terra em que entrarás para a possuir.
+
+[[v5-28-22]]
+
+^<<v5-28-22,22>>^ O Senhor te fira com a fraqueza, com febre e com frio, com calor e secura, com ar corrompido e com ferrugem, e te persiga até que pereças.
+
+[[v5-28-23]]
+
+^<<v5-28-23,23>>^ O céu, que está por cima de ti, seja de bronze, e a terra, que pisas, seja de ferro.
+
+[[v5-28-24]]
+
+^<<v5-28-24,24>>^ Em lugar de chuva mande o Senhor sobre a tua terra areia, e do céu caia cinza sobre ti até que sejas destruído.
+
+[[v5-28-25]]
+
+^<<v5-28-25,25>>^ O Senhor te faça cair diante de teus inimigos: por um caminho saias contra eles, e por sete fujas, e sejas disperso por todos os reinos da terra.
+
+[[v5-28-26]]
+
+^<<v5-28-26,26>>^ Sirva o teu cadáver de pasto a todas as aves do céu e às feras da terra, e não haja quem as afugente.
+
+[[v5-28-27]]
+
+^<<v5-28-27,27>>^ O Senhor te castigue com a úlcera do Egipto, e (fira) de hemorroidas, sarna e tinha, de que te não poderás curar.
+
+[[v5-28-28]]
+
+^<<v5-28-28,28>>^ O Senhor te fira de loucura, de cegueira e de frenesi,
+
+[[v5-28-29]]
+
+^<<v5-28-29,29>>^ de sorte que andes às apalpadelas ao meio dia como um cego costuma andar às apalpadelas nas trevas, e não acertes nos teus caminhos. Em todo o tempo sejas oprimido pela violência e despojado (dos teus bens), e não tenhas quem te livre.
+
+[[v5-28-30]]
+
+^<<v5-28-30,30>>^ Recebas uma mulher, e outro durma com ela. Edifiques uma casa, e não a habites. Plantes uma vinha, e outro a vindime.
+
+[[v5-28-31]]
+
+^<<v5-28-31,31>>^ O teu boi seja imolado diante de ti e não comas dele. O teu jumento te seja arrebatado na tua presença, e não te seja restituído. As tuas ovelhas sejam dadas aos teus inimigos, e não haja quem te socorra.
+
+[[v5-28-32]]
+
+^<<v5-28-32,32>>^ Os teus filhos e as tuas filhas sejam entregues a outro povo, e vejam-no os teus olhos, desfaleçam de os ver todo o dia, e não haja força na tua mão.
+
+[[v5-28-33]]
+
+^<<v5-28-33,33>>^ Os frutos da tua terra e do teu trabalho coma-os um povo que tu não conheces, e sejas sempre oprimido e esmagado.
+
+[[v5-28-34]]
+
+^<<v5-28-34,34>>^ Enlouqueças por causa do terror daquilo que os teus olhos hão-de ver.
+
+[[v5-28-35]]
+
+^<<v5-28-35,35>>^ O Senhor te fira com a chaga maligna nos joelhos e nas pernas, e não possas ser curado: (depois) cubra-te dela desde a planta do pé até ao alto da cabeça.
+
+[[v5-28-36]]
+
+^<<v5-28-36,36>>^ O Senhor te levará a ti e ao teu rei, que tiveres estabelecido sobre ti, a uma nação que nem tu nem teus pais conhecem: lá servirás a deuses estranhos, ao pau e à pedra.
+
+[[v5-28-37]]
+
+^<<v5-28-37,37>>^ Serás objecto de pasmo, de ludibrio e de fábula para todos os povos, onde o Senhor te houver levado.
+
+[[v5-28-38]]
+
+^<<v5-28-38,38>>^ Lançarás muita semente à terra e recolherás muito pouco, porque os gafanhotos devorarão tudo.
+
+[[v5-28-39]]
+
+^<<v5-28-39,39>>^ Plantarás a vinha, e a cavarás, mas não beberás o vinho, nem dela colherás coisa alguma, porque será destruída pelos vermes.
+
+[[v5-28-40]]
+
+^<<v5-28-40,40>>^ Terás oliveiras em todas as tuas terras, mas não te ungirás com azeite, porque as azeitonas cairão.
+
+[[v5-28-41]]
+
+^<<v5-28-41,41>>^ Gerarás filhos e filhas, mas não serão para ti porque irão para o cativeiro.
+
+[[v5-28-42]]
+
+^<<v5-28-42,42>>^ Todas as tuas árvores e os frutos da tua terra consumi-los-ão os insectos.
+
+[[v5-28-43]]
+
+^<<v5-28-43,43>>^ O estrangeiro que vive contigo no país, levantar-se-á contra ti, cada vez mais alto; e tu descerás cada vez mais baixo.
+
+[[v5-28-44]]
+
+^<<v5-28-44,44>>^ Ele te emprestará, e tu não lhe emprestarás. Ele estará à cabeça, e tu na cauda.
+
+[[v5-28-45]]
+
+^<<v5-28-45,45>>^ Todas estas maldições virão sobre ti, e, perseguindo-te, te alcançarão, até que sejas destruído, porque não ouviste a voz do Senhor teu Deus, nem observaste os seus mandamentos nem as leis que ele te prescreveu.
+
+[[v5-28-46]]
+
+^<<v5-28-46,46>>^ Essas maldições serão, para ti e para a tua posteridade, como um sinal e um prodígio, para sempre
+
+[[v5-28-47]]
+
+^<<v5-28-47,47>>^ Visto que não serviste ao Senhor teu Deus com gosto e alegria de coração, na abundância de todas as coisas,
+
+[[v5-28-48]]
+
+^<<v5-28-48,48>>^ servirás o inimigo, que o Senhor enviará contra ti, com fome e com sede, com nudez e com falta de tudo; ele porá sobre o teu pescoço um jugo de ferro, até que te destrua.
+
+[[v5-28-49]]
+
+^<<v5-28-49,49>>^ O Senhor fará vir sobre ti de longe, das extremidades da terra, uma nação que voa como a águia, cuja língua tu não poderás compreender,
+
+[[v5-28-50]]
+
+^<<v5-28-50,50>>^ nação em extremo arrogante, que não terá respeito pelo velho nem se compadecerá do menino,
+
+[[v5-28-51]]
+
+^<<v5-28-51,51>>^ que devorará o fruto dos teus gados, os frutos da tua terra, até que pereças, que não te deixará nem trigo, nem vinho, nem azeite, nem manadas de bois, nem rebanhos de ovelhas, até que te disperse
+
+[[v5-28-52]]
+
+^<<v5-28-52,52>>^ até que te aniquile em todas as tuas cidades, e sejam derribados, em toda a tua terra, os teus muros sólidos e altos, em que punhas a tua confiança. Serás sitiado dentro das tuas portas, em toda a terra, que o Senhor teu Deus te dará.
+
+[[v5-28-53]]
+
+^<<v5-28-53,53>>^ Comerás o fruto do teu ventre, as carnes dos teus filhos e de tuas filhas, que o Senhor teu Deus te tiver dado, tamanhas serão a angústia e a fome, com que te oprimirá o teu inimigo.
+
+[[v5-28-54]]
+
+^<<v5-28-54,54>>^ O homem mais delicado dos teus, o mais habituado ao luxo, terá inveja ao próprio irmão, à (sua) mulher, que repousa sobre o seu seio, aos filhos que ainda lhe restam (que ainda não devorou)
+
+[[v5-28-55]]
+
+^<<v5-28-55,55>>^ e não lhes dará das carnes de seus filhos, que ele comerá, por não ter outra coisa, no cerco e na penúria, com que te afligirão os teus inimigos em todas as tuas cidades.
+
+[[v5-28-56]]
+
+^<<v5-28-56,56>>^ A mulher, de entre vós, mais delicada e mais dada ao luxo, que nem sequer tentava pousar na terra a planta do pé, por causa da sua excessiva brandura e delicadeza, olhará com maus olhos o marido do seu coração, o seu filho e a sua filha (não querendo repartir com eles)
+
+[[v5-28-57]]
+
+^<<v5-28-57,57>>^ as secundinas, que sairão do seu ventre, e os filhos que no mesmo momento lhe nascerem, porque os comerá ocultamente pela falta de todas as coisas, no cerco e na devastação com que te oprimirá o teu inimigo dentro das tuas portas.
+
+[[v5-28-58]]
+
+^<<v5-28-58,58>>^ Se não cuidares de pôr em prática todas as palavras desta lei, que estão escritas neste volume, e não temeres este nome glorioso e terrível: Iavé (Senhor) teu Deus —
+
+[[v5-28-59]]
+
+^<<v5-28-59,59>>^ o Senhor aumentará as tuas pragas e as pragas da tua descendência, pragas grandes e permanentes, doenças horríveis e pertinazes.
+
+[[v5-28-60]]
+
+^<<v5-28-60,60>>^ Voltará contra ti todas as aflições do Egipto, que temeste, e elas se agarrarão a ti.
+
+[[v5-28-61]]
+
+^<<v5-28-61,61>>^ Além disso, o Senhor enviará sobre ti, até te destruir, todas as enfermidades e pragas, que não estão escritas no livro desta lei.
+
+[[v5-28-62]]
+
+^<<v5-28-62,62>>^ Ficareis em pequeno número, vós que antes, pela multidão, éreis como as estrelas do céu, porque não foi ouvida a voz do Senhor vosso Deus.
+
+[[v5-28-63]]
+
+^<<v5-28-63,63>>^ E, assim como o Senhor de comprazia em vos fazer bem e em vos multiplicar, assim se comprazerá em vos perder, em vos destruir, de maneira que sejais exterminados daquela terra, em cuja posse estais para entrar.
+
+[[v5-28-64]]
+
+^<<v5-28-64,64>>^ O Senhor te dispersará entre todos os povos, desde uma extremidade da terra até à outra; lá servirás a deuses estranhos, que tu e teus pais ignoram, a paus e a pedras.
+
+[[v5-28-65]]
+
+^<<v5-28-65,65>>^ Também não terás repouso entre estes povos, nem a planta do teu pé terá descanso, porque o Senhor te dará ali um coração medroso, uns olhos lânguidos, e uma alma consumida de tristeza.
+
+[[v5-28-66]]
+
+^<<v5-28-66,66>>^ A tua vida estará como suspensa por um fio diante de ti. Temerás de noite e de dia, e não acreditarás na tua vida.
+
+[[v5-28-67]]
+
+^<<v5-28-67,67>>^ Pela manhã dirás: Quem me dera a tarde? — e à tarde; Quem me dera a manhã? — por causa do temor do teu coração, e por causa daquelas coisas que verás com os teus olhos.
+
+[[v5-28-68]]
+
+^<<v5-28-68,68>>^ O Senhor te reconduzirá em navios ao Egipto, pelo caminho do qual ele te tinha dito que não o veríeis mais. Lá sereis vendidos aos vossos inimigos como escravos, e escravas, e não haverá quem vos compre.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-027.adoc#v5-27-0[&#60; Capítulo Anterior] | <<v5-28-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-029.adoc#v5-29-0[Próximo Capítulo &#62;]

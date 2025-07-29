@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v23-8-0]]
+=== II Macabeus, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Macabeus 8 narra a batalha dos macabeus contra Nicanor, general do rei Antíoco Epifânio, e a subsequente vitória dos judeus. Alguns temas abordados no capítulo incluem a coragem e fé dos macabeus, a estratégia de guerra e a ajuda divina que eles recebem. Aqui estão cinco versículos relacionados com esses temas:
+* 2 Macabeus 8:18: "E invocando o Senhor dos mundos, que sem armas cai o poder diante dos que têm confiança na sua proteção, eles derrubaram os inimigos." Este versículo destaca a importância da confiança em Deus para a vitória na guerra, algo que os macabeus demonstraram ao longo da luta contra os selêucidas.
+* Salmo 20:7: "Alguns confiam em carros e outros em cavalos, mas nós confiamos no nome do Senhor nosso Deus." Este salmo reforça a ideia de que a confiança em Deus é mais importante do que a confiança em armas ou estratégias humanas.
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor." Este provérbio salienta que, embora a preparação para a guerra seja importante, a vitória é finalmente atribuída a Deus.
+* 1 Coríntios 15:57: "Mas graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo." Este versículo enfatiza que a vitória é dada por Deus através de Cristo, que é a fonte da força e coragem dos cristãos.
+* Efésios 6:10: "Finalmente, fortalecei-vos no Senhor e na força do seu poder." Este verso incentiva os cristãos a se fortalecerem em Deus e na Sua força, assim como os macabeus fizeram durante a batalha contra Nicanor.
+****
+
+[[v23-8-1]]
+
+^<<v23-8-1,1>>^ Entretanto Judas Macabeu e os seus companheiros entravam às escondidas nas povoações, convocando os seus parentes: tomando consigo os que se mantinham firmes na religião judaica, conseguiram unir ao seu partido seis mil homens.
+
+[[v23-8-2]]
+
+^<<v23-8-2,2>>^ Pediam ao Senhor que olhasse benignamente para o seu povo que andava pisado por todos; que se compadecesse do templo, que era contaminado pelos ímpios;
+
+[[v23-8-3]]
+
+^<<v23-8-3,3>>^ que tivesse compaixão da cidade, que estava destruída, e, em breve, completamente arrasada, e que ouvisse a voz do sangue que clamava para ele;
+
+[[v23-8-4]]
+
+^<<v23-8-4,4>>^ que se lembrasse das injustas mortes das crianças inocentes e das blasfémias proferidas contra o seu nome, e que se revestisse de indignação contra estes excessos.
+
+[[v23-8-5]]
+
+^<<v23-8-5,5>>^ Macabeu, pois, chefe de grande número de gente, tornou-se invencível para os gentios, porque a ira do Senhor tinha-se (já) convertido em misericórdia.
+
+[[v23-8-6]]
+
+^<<v23-8-6,6>>^ Dando de improviso sobre cidades e aldeias, incendiava-as, e, ocupando os lugares mais vantajosos, desbaratava numerosos inimigos.
+
+[[v23-8-7]]
+
+^<<v23-8-7,7>>^ Era principalmente de noite que fazia as suas correrias. A fama do seu valor espalhava-se por toda a parte.
+
+[[v23-8-8]]
+
+^<<v23-8-8,8>>^ Então Filipe, vendo os progressos que este homem ia fazendo, de dia para dia, os seus êxitos cada vez mais numerosos, escreveu a Ptolomeu, governador da Celesídria e da Fenícia, a pedir-lhe auxílio para defender os interesses do rei.
+
+[[v23-8-9]]
+
+^<<v23-8-9,9>>^ Ptolomeu enviou-lhe logo Nicanor, filho de Patroclo, um dos grandes amigos do rei, dando-lhe não menos de vinte mil homens de diversas nações, para extinguir toda a raça dos Judeus, agregando-lhe por companheiro a Górgias, general de larga experiência nas coisas da guerra.
+
+[[v23-8-10]]
+
+^<<v23-8-10,10>>^ Nicanor contava (obter o dinheiro preciso para) pagar o tributo de dois mil talentos, que o rei devia dar aos Romanos, vendendo prisioneiros judeus.
+
+[[v23-8-11]]
+
+^<<v23-8-11,11>>^ Enviou, pois, sem perda de tempo, pelas cidades marítimas, a convidar os negociantes a que fossem comprar escravos judeus, prometendo-lhe dar-lhes noventa escravos por cada talento, sem pensar no castigo do Todo-Poderoso, que estava para cair sobre ele.
+
+[[v23-8-12]]
+
+^<<v23-8-12,12>>^ Logo que Judas teve conhecimento da chegada de Nicanor, deu parte dela aos que o acompanhavam,
+
+[[v23-8-13]]
+
+^<<v23-8-13,13>>^ Alguns deles, deixando-se possuir de medo e não confiando na justiça de Deus, fugiram para diversos lugares.
+
+[[v23-8-14]]
+
+^<<v23-8-14,14>>^ Outros, porém, vendiam tudo o que lhes restava, e, ao mesmo tempo, rogavam ao Senhor que os livrasse do ímpio Nicanor, o qual, antes da batalha, os tinha já vendido.
+
+[[v23-8-15]]
+
+^<<v23-8-15,15>>^ Quando não fosse por amor deles, (que Deus os salvasse) ao menos em consideração da aliança feita com seus país, e porque o seu nome santo e magnífico havia sido invocado sobre eles.
+
+[[v23-8-16]]
+
+^<<v23-8-16,16>>^ Macabeu, reunidos os seis mil homens que estavam com ele, conjurava-os a que não receassem os seus inimigos, que não tivessem medo daquela multidão de adversários que injustamente os vinham atacar, mas que pelejassem corajosamente,
+
+[[v23-8-17]]
+
+^<<v23-8-17,17>>^ tendo diante dos olhos o ímpio desacato cometido contra o santo lugar, como também a opressão imposta a cidade arruinada e a abolição das instituições dos antigos.
+
+[[v23-8-18]]
+
+^<<v23-8-18,18>>^ Eles, dizia-lhes, somente confiam nas suas armas e na sua audácia; porém nós confiamos em Deus Todo-Poderoso, capaz de destruir com um gesto não só os que vêm para nos atacar mas ainda o mundo inteiro.
+
+[[v23-8-19]]
+
+^<<v23-8-19,19>>^ Lembrou-lhes também o socorro dado por Deus a seus pais, como (por exemplo) quando do exército de Senaquerib tinham perecido cento e oitenta mil homens;
+
+[[v23-8-20]]
+
+^<<v23-8-20,20>>^ (recordou) a batalha travada contra os Gálatas, em Babilônia, com tal felicidade que, não tendo ousado entrar em acção os Macedónios, seus aliados, eles, que ao todo eram só seis mil, mataram cento e vinte mil homens, por causa do socorro recebido do céu, alcançando por isso enormes vantagens.
+
+[[v23-8-21]]
+
+^<<v23-8-21,21>>^ Depois de os ter, assim, enchido de coragem e disposto a morrer pelas leis e pela pátria, dividiu o exército em quatro corpos,
+
+[[v23-8-22]]
+
+^<<v23-8-22,22>>^ dando o comando (de três) desses corpos a seus irmãos Simão, José e Jónatas, cada um dos quais chefiava mil e quinhentos homens.
+
+[[v23-8-23]]
+
+^<<v23-8-23,23>>^ Além disto, mandou a Eleázar que lesse o livro santo e deu-lhe como santo-e-senha: Auxílio de Deus. Depois disto pôs-se à frente do primeiro corpo e acometeu Nicanor.
+
+[[v23-8-24]]
+
+^<<v23-8-24,24>>^ Graças ao favor do Todo-Poderoso, mataram mais de nove mil homens; a maior parte do exército de Nicanor, enfraquecida com as feridas que recebera, foi obrigada a fugir.
+
+[[v23-8-25]]
+
+^<<v23-8-25,25>>^ Também se apoderaram de todo o dinheiro dos que tinham vindo para os comprar. Foram perseguindo (os fugitivos) até longe,
+
+[[v23-8-26]]
+
+^<<v23-8-26,26>>^ mas voltaram, vendo-se apertados pelo tempo, porque era véspera do sábado, motivo por que não continuaram a persegui-los.
+
+[[v23-8-27]]
+
+^<<v23-8-27,27>>^ Tendo depois recolhido as armas e os despojos dos inimigos, celebraram o sábado, bem-dizendo repetidamente ao Senhor e glorificando-o, por os ter livrado naquele dia, derramando sobre eles como que os primeiros alvores da sua misericórdia.
+
+[[v23-8-28]]
+
+^<<v23-8-28,28>>^ Depois do sábado, repartiram dos despojos com as vítimas da perseguição, com as viúvas e com os órfãos, reservando o resto para si e para seus filhos.
+
+[[v23-8-29]]
+
+^<<v23-8-29,29>>^ Executadas estas coisas, fizeram todos a sua oração em comum, conjurando o misericordioso Senhor que se reconciliasse completamente com seus servos.
+
+[[v23-8-30]]
+
+^<<v23-8-30,30>>^ Daqueles que estavam com Timóteo e com Báquides e que vinham contra eles, mataram mais de vinte mil homens, e tomaram valentemente altas fortalezas. Repartiram muitos despojos, dividindo-os em duas partes iguais: uma para eles, e outra para os perseguidos, para os órfãos, as viúvas e também para os velhos.
+
+[[v23-8-31]]
+
+^<<v23-8-31,31>>^ Recolhidas as armas dos inimigos, puseram-nas todas de reserva, cuidadosamente, em lugares convenientes, e levaram o resto dos despojos para Jerusalém.
+
+[[v23-8-32]]
+
+^<<v23-8-32,32>>^ Mataram também Filarques, que estava com Timóteo, homem perverso, que tinha feito muito mal aos Judeus.
+
+[[v23-8-33]]
+
+^<<v23-8-33,33>>^ Quando estavam em Jerusalém rendendo a Deus acções de graças por esta vitória, Calistenes e outros mais, que tinham queimado as sagradas portas, refugiaram-se numa pequena casa; (os Judeus) nela os queimaram, dando-lhes a recompensa que mereciam as suas impiedades.
+
+[[v23-8-34]]
+
+^<<v23-8-34,34>>^ Nicanor, porém, homem perversissimo, que tinha trazido mil negociantes para lhes vender os escravos judeus,
+
+[[v23-8-35]]
+
+^<<v23-8-35,35>>^ humilhado com o socorro do Senhor por aqueles mesmos que tinha considerado como uma gente de nada, largada a vestidura de honra, correndo sozinho, como escravo fugitivo, pelo meio dos campos, chegou desacompanhado a Antioquia, numa aflição, pela perda do seu exército.
+
+[[v23-8-36]]
+
+^<<v23-8-36,36>>^ Ele, que prometera aos Romanos que lhes pagaria o tributo com o que tirasse da venda dos cativos de Jerusalém, publicava então que os Judeus tinham um protector (Deus), e que por isso eram invulneráveis, porque seguiam as leis que lhes tinha dado.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-007.adoc#v23-7-0[&#60; Capítulo Anterior] | <<v23-8-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-009.adoc#v23-9-0[Próximo Capítulo &#62;]

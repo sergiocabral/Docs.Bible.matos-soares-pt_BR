@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v47-6-0]]
+=== São Mateus, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Mateus 6 contém o discurso de Jesus sobre práticas religiosas, como a oração, o jejum e a doação de esmolas. Ele ensina seus seguidores a não buscar a atenção dos outros ao praticar essas ações, mas sim fazer tudo em secreto para agradar a Deus. Ele também ensina sobre a importância de confiar em Deus para suprir as necessidades diárias e de não se preocupar com o futuro.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Jesus enfatiza a importância da confiança em Deus e não em si mesmo.
+* Mateus 6:14-15: "Porque, se perdoarem as ofensas uns dos outros, o Pai celestial também lhes perdoará. Mas se não perdoarem uns aos outros, o Pai celestial não lhes perdoará as ofensas." Jesus ensina a importância do perdão para obter o perdão de Deus.
+* Lucas 11:9-10: "Por isso lhes digo: peçam, e lhes será dado; busquem, e encontrarão; batam, e a porta lhes será aberta. Pois todo o que pede, recebe; o que busca, encontra; e àquele que bate, a porta será aberta." Jesus ensina seus seguidores a confiar em Deus para suprir suas necessidades e a pedir em oração.
+* Mateus 6:24: "Ninguém pode servir a dois senhores; pois odiará um e amará o outro, ou se dedicará a um e desprezará o outro. Vocês não podem servir a Deus e ao Dinheiro." Jesus adverte seus seguidores sobre a idolatria do dinheiro e a importância de servir somente a Deus.
+* Lucas 12:22-23: "Portanto, eu lhes digo: não se preocupem com suas próprias vidas, quanto ao que comer ou beber; nem com seus próprios corpos, quanto ao que vestir. Não é a vida mais importante do que a comida, e o corpo mais importante do que a roupa?" Jesus ensina sobre a importância de confiar em Deus para suprir as necessidades diárias e não se preocupar com o futuro.
+****
+
+[[v47-6-1]]
+
+^<<v47-6-1,1>>^ Guardai-vos de fazer as boas obras diante dos homens, com o fim de serdes vistos por eles, doutra sorte não tereis direito à recompensa do vosso Pai, que está nos céus.
+
+[[v47-6-2]]
+
+^<<v47-6-2,2>>^ Quando pois dás esmola, não faças tocar a trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem louvados pelos homens. Em verdade vos digo que já receberam a sua recompensa.
+
+[[v47-6-3]]
+
+^<<v47-6-3,3>>^ Mas, quando dás esmola, não saiba a tua mão esquerda o que faz a tua direita,
+
+[[v47-6-4]]
+
+^<<v47-6-4,4>>^ para que a tua esmola fique em segredo, e teu Pai, que vê (o que fazes) em segredo, te pagará.
+
+[[v47-6-5]]
+
+^<<v47-6-5,5>>^ Quando orais, não sejais como os hipócritas, que gostam de orar em pé nas sinagogas e nos cantos das praças, a fim de serem vistos pelos homens. Em verdade vos digo que já receberam a sua recompensa.
+
+[[v47-6-6]]
+
+^<<v47-6-6,6>>^ Tu, porém, quando orares, entra no teu quarto, e, fechada a porta, ora a teu Pai em segredo; e teu Pai, que vê (o que se passa) em segredo, te dará a recompensa. (ver nota)
+
+[[v47-6-7]]
+
+^<<v47-6-7,7>>^ Nas vossas orações não useis muitas palavras como os gentios, os quais julgam que serão ouvidos à força de palavras. (ver nota)
+
+[[v47-6-8]]
+
+^<<v47-6-8,8>>^ Não os imiteis, porque vosso Pai sabe o que vos é necessário, antes que vós lho peçais.
+
+[[v47-6-9]]
+
+^<<v47-6-9,9>>^ Vós pois orai assim: Pai nosso, que estás nos céus, santificado seja o teu nome.
+
+[[v47-6-10]]
+
+^<<v47-6-10,10>>^ Venha o teu reino. Seja feita a tua vontade, assim na terra como no céu.
+
+[[v47-6-11]]
+
+^<<v47-6-11,11>>^ O pão nosso de cada dia nos dá hoje.
+
+[[v47-6-12]]
+
+^<<v47-6-12,12>>^ Perdoa-nos as nossas ofensas assim como nós perdoamos aos que nos têm ofendido.
+
+[[v47-6-13]]
+
+^<<v47-6-13,13>>^ E não nos deixes cair em tentação, mas livra-nos do mal.
+
+[[v47-6-14]]
+
+^<<v47-6-14,14>>^ Porque, se vós perdoardes aos homens as suas ofensas, também vosso Pai celeste vos perdoará.
+
+[[v47-6-15]]
+
+^<<v47-6-15,15>>^ Mas, se não perdoardes aos homens, tão pouco vosso Pai vos perdoará as vossas ofensas.
+
+[[v47-6-16]]
+
+^<<v47-6-16,16>>^ Quando jejuais, não vos mostreis tristes como os hipócritas, que desfiguram os seus rostos para mostrar aos homens que jejuam. Na verdade vos digo que já receberam a sua recompensa.
+
+[[v47-6-17]]
+
+^<<v47-6-17,17>>^ Mas tu, quando jejuas, unge a tua cabeça e lava o teu rosto,
+
+[[v47-6-18]]
+
+^<<v47-6-18,18>>^ a fim de que não pareças aos homens que jejuas, mas a teu Pai, que está presente ao (que há de mais) secreto. e teu Pai, que vê no secreto, te dará a recompensa.
+
+[[v47-6-19]]
+
+^<<v47-6-19,19>>^ Não acumuleis para vós tesouros na terra, onde a ferrugem e a traça (os) consomem, e onde os ladrões perfuram as paredes e roubam.
+
+[[v47-6-20]]
+
+^<<v47-6-20,20>>^ Entesourai para vós tesouros no céu, onde nem a ferrugem, nem a traça (os) consomem, e onde os ladrões não perfuram as paredes nem roubara.
+
+[[v47-6-21]]
+
+^<<v47-6-21,21>>^ Porque onde está o teu tesouro, aí está também o teu coração.
+
+[[v47-6-22]]
+
+^<<v47-6-22,22>>^ O olho é a lâmpada do corpo. Se o teu olho for são, todo o teu corpo terá luz. (ver nota)
+
+[[v47-6-23]]
+
+^<<v47-6-23,23>>^ Mas, se teu olho for defeituoso, todo o teu corpo estará em trevas. Se pois a luz, que há em ti, é trevas, quão espessas serão as próprias trevas!
+
+[[v47-6-24]]
+
+^<<v47-6-24,24>>^ Ninguém pode servir a dois senhores; porque ou há-de odiar um e amar o outro, ou há-de afeiçoar-se a um e desprezar o outro. Não podeis servir a Deus e a riqueza. (ver nota)
+
+[[v47-6-25]]
+
+^<<v47-6-25,25>>^ Portanto vos digo: Não vos preocupeis (demasiadamente), nem com a vossa vida, acerca do que haveis de comer, nem com o vosso corpo, acerca do que haveis de vestir. Porventura não vaie mais a vida qué o alimento, e o corpo mais que o vestido?
+
+[[v47-6-26]]
+
+^<<v47-6-26,26>>^ Olhai para as aves do céu, que não semeiam, nem ceifam, nem fazem provisões nos celeiros, e contudo vosso Pai celeste as sustenta. Porventura não valeis vós muito mais do que elas?
+
+[[v47-6-27]]
+
+^<<v47-6-27,27>>^ Qual de vós, por mais que se afadigue, pode acrescentar um só côvado à duração da sua vida?
+
+[[v47-6-28]]
+
+^<<v47-6-28,28>>^ E porque vos inquietais com o vestido? Considerai como crescem os lírios do campo: não trabalham nem fiam.
+
+[[v47-6-29]]
+
+^<<v47-6-29,29>>^ Digo-vos todavia que nem Salomão, em toda a sua glória, se vestiu como um deles.
+
+[[v47-6-30]]
+
+^<<v47-6-30,30>>^ Se pois Deus veste assim uma erva do campo, que hoje existe, e amanhã é lançada no forno, quanto mais a vós, homens de pouca fé !
+
+[[v47-6-31]]
+
+^<<v47-6-31,31>>^ Não vos aflijais pois, dizendo: Que comeremos? Que beberemos? Com que nos vestiremos?
+
+[[v47-6-32]]
+
+^<<v47-6-32,32>>^ Os gentios é que procuram com excessivo cuidado todas estas coisas. Vosso Pai sabe que tendes necessidade delas.
+
+[[v47-6-33]]
+
+^<<v47-6-33,33>>^ Buscai, pois, em primeiro lugar, o reino de Deus e a sua justiça, e todas estas coisas vos serão dadas por acréscimo.
+
+[[v47-6-34]]
+
+^<<v47-6-34,34>>^ Não vos preocupeis, pois, demasiadamente, pelo dia de amanhã; o dia de amanhã terá as suas preocupações próprias. A cada dia basta o seu cuidado.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-005.adoc#v47-5-0[&#60; Capítulo Anterior] | <<v47-6-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-007.adoc#v47-7-0[Próximo Capítulo &#62;]

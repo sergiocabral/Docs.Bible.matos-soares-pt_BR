@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v51-8-0]]
+=== Atos dos Apóstolos, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Atos dos Apóstolos 8, é narrado o ministério de Filipe, um dos sete diáconos escolhidos pela igreja em Jerusalém. Ele pregou e realizou milagres na cidade de Samaria, levando muitas pessoas a se converterem ao cristianismo, incluindo um feiticeiro chamado Simão. Posteriormente, Filipe encontra um etíope e o conduz ao batismo após explicar as Escrituras para ele.
+* Isaías 53:7-8: "Ele foi oprimido e afligido, mas não abriu a sua boca; como um cordeiro foi levado ao matadouro, e como a ovelha muda perante os seus tosquiadores, assim ele não abriu a sua boca. Da opressão e do juízo foi tirado; e quem contará o tempo da sua vida? Porque foi cortado da terra dos viventes; pela transgressão do meu povo ele foi atingido." Este versículo descreve a submissão de Jesus à vontade de Deus, mesmo que isso signifique sofrer e morrer.
+* Atos dos Apóstolos 8:4: "Aqueles que foram dispersos iam por toda parte pregando a palavra." Após a morte de Estêvão, os cristãos foram dispersos por toda a Judeia e Samaria, mas isso não os impediu de continuar pregando o evangelho.
+* Atos dos Apóstolos 8:12: "Mas, quando creram em Filipe, que lhes pregava acerca do Reino de Deus e do nome de Jesus Cristo, eram batizados, tanto homens como mulheres." Este versículo mostra como o ministério de Filipe foi bem-sucedido em levar as pessoas a crerem em Jesus e a serem batizadas em seu nome.
+* Atos dos Apóstolos 8:20-21: "Disse, porém, Pedro: O teu dinheiro seja contigo para perdição, pois cuidaste que o dom de Deus se alcança por dinheiro. Não tens parte nem sorte nesta palavra, porque o teu coração não é reto diante de Deus." Simão, o feiticeiro, tentou comprar o poder de Deus com dinheiro, mas Pedro o repreendeu e disse que seu coração não estava correto diante de Deus.
+* Atos dos Apóstolos 8:39-40: "E, quando saíram da água, o Espírito do Senhor arrebatou a Filipe, e não o viu mais o eunuco; e, jubiloso, continuou o seu caminho. Mas Filipe achou-se em Azoto e, indo passando, anunciava o evangelho em todas as cidades, até que chegou a Cesaréia." Este versículo mostra como o ministério de Filipe não se limitou a Samaria e ao encontro com o etíope, mas ele continuou pregando o evangelho em todas as cidades por onde passava.
+****
+
+[[v51-8-1]]
+
+^<<v51-8-1,1>>^ Saulo aprovava a morte de Estêvão. Naquele dia levantou-se uma grande perseguição contra a Igreja que estava em Jerusalém, e todos se dispersaram pelas províncias da Judeia e da Samaria, excepto os Apóstolos.
+
+[[v51-8-2]]
+
+^<<v51-8-2,2>>^ Alguns homens piedosos sepultaram Estêvão e fizeram um grande pranto sobre ele.
+
+[[v51-8-3]]
+
+^<<v51-8-3,3>>^ Saulo assolava a Igreja, entrando pelas casas, e, tirando com violência homens e mulheres, os fazia meter na prisão.
+
+[[v51-8-4]]
+
+^<<v51-8-4,4>>^ Ora os que se tinham dispersado, iam de uma parte para outra, anunciando a palavra de Deus.
+
+[[v51-8-5]]
+
+^<<v51-8-5,5>>^ Filipe, tendo chegado à cidade de Samaria, pregava aí Cristo.
+
+[[v51-8-6]]
+
+^<<v51-8-6,6>>^ As multidões estavam unanimemente atentas ao que Filipe dizia, ouvindo-o e vendo os milagres que fazia.
+
+[[v51-8-7]]
+
+^<<v51-8-7,7>>^ Com efeito, de muitos que tinham espíritos imundos, estes saíam dando grandes gritos. E muitos paralíticos e coxos foram curados.
+
+[[v51-8-8]]
+
+^<<v51-8-8,8>>^ Pelo que houve grande alegria naquela cidade.
+
+[[v51-8-9]]
+
+^<<v51-8-9,9>>^ Ora já se encontrava lá um homem, chamado Simão, que exercia a magia, assombrando os Samaritanos, dizendo que era um grande personagem;
+
+[[v51-8-10]]
+
+^<<v51-8-10,10>>^ e todos lhe davam ouvidos, desde o menor até ao maior, dizendo: "Este homem é o poder de Deus que se chama grande."
+
+[[v51-8-11]]
+
+^<<v51-8-11,11>>^ Aderiam a ele, porque, com as suas artes mágicas, os trazia seduzidos desde há muito tempo.
+
+[[v51-8-12]]
+
+^<<v51-8-12,12>>^ Porém, depois que creram em Filipe, que lhes anunciava o reino de Deus e o nome de Jesus Cristo, iam-se baptizando homens e mulheres.
+
+[[v51-8-13]]
+
+^<<v51-8-13,13>>^ Creu também o mesmo Simão, e, tendo-se baptizado, ligou-se a Filipe, deslumbrado pelos prodígios e grandes milagres que se faziam.
+
+[[v51-8-14]]
+
+^<<v51-8-14,14>>^ Ora os apóstolos que estavam em Jerusalém, tendo ouvido dizer que a Samaria havia recebido a palavra de Deus, mandaram-lhes lá Pedro e João,
+
+[[v51-8-15]]
+
+^<<v51-8-15,15>>^ os quais, tendo chegado, fizeram oração por eles, a fim de receberem o Espírito Santo,
+
+[[v51-8-16]]
+
+^<<v51-8-16,16>>^ porque ele ainda não tinha descido sobre nenhum deles, mas somente tinham sido baptizados em nome do Senhor Jesus.
+
+[[v51-8-17]]
+
+^<<v51-8-17,17>>^ Então Pedro e João impuseram-lhes as mãos, e eles receberam o Espírito Santo.
+
+[[v51-8-18]]
+
+^<<v51-8-18,18>>^ Quando Simão viu que se dava o Espírito Santo por meio da imposição das mãos dos Apóstolos, ofereceu-lhes dinheiro,
+
+[[v51-8-19]]
+
+^<<v51-8-19,19>>^ dizendo: "Dai-me também a mim esse poder, a fim de que todo aquele, a quem eu impuser as mãos, receba o Espírito Santo. Pedro, porém, disse-lhe:
+
+[[v51-8-20]]
+
+^<<v51-8-20,20>>^ "O teu dinheiro pereça contigo, visto que julgaste que o dom de Deus se pode adquirir com dinheiro.
+
+[[v51-8-21]]
+
+^<<v51-8-21,21>>^ Tu não tens parte nem gerência neste ministério, porque o teu coração não é recto diante de Deus.
+
+[[v51-8-22]]
+
+^<<v51-8-22,22>>^ Faze, pois, penitência desta tua maldade e roga a Deus que, se é possível, te seja perdoado este pensamento do teu coração.
+
+[[v51-8-23]]
+
+^<<v51-8-23,23>>^ Porque eu vejo-te cheio de amargosíssimo fel e entre os laços da iniquidade."
+
+[[v51-8-24]]
+
+^<<v51-8-24,24>>^ Simão respondeu: "Rogai por mim ao Senhor, para que não venha sobre mim nada do que acabais de dizer."
+
+[[v51-8-25]]
+
+^<<v51-8-25,25>>^ Eles, depois de terem dado testemunho e anunciado a palavra do Senhor, voltaram para Jerusalém e anunciavam o Evangelho por muitas aldeias dos Samaritanos.
+
+[[v51-8-26]]
+
+^<<v51-8-26,26>>^ Um anjo do Senhor falou a Filipe, nestes termos: "Levanta-te e segue para o lado do meio-dia pela estrada que vai de Jerusalém a Gaza: esta está deserta."
+
+[[v51-8-27]]
+
+^<<v51-8-27,27>>^ Ele, levantando-se, partiu. E eis que um homem etíope, ministro de Cândace, rainha da Etiópia, o qual era superintendente de todos os seus tesouros, tinha ido a Jerusalém, para adorar (a Deus),
+
+[[v51-8-28]]
+
+^<<v51-8-28,28>>^ e voltava sentado sobre o seu carro, lendo o profeta Isaías.
+
+[[v51-8-29]]
+
+^<<v51-8-29,29>>^ Então disse o Espírito a Filipe: "Avança e aproxima-te desse carro."
+
+[[v51-8-30]]
+
+^<<v51-8-30,30>>^ Correndo Filipe, ouviu que o etíope lia o profeta Isaías, e disse: "Compreendes o que lês?"
+
+[[v51-8-31]]
+
+^<<v51-8-31,31>>^ Ele disse: "Como o poderei (eu compreender) se não houver alguém que mo explique?" E rogou a Filipe que subisse e se sentasse junto dele.
+
+[[v51-8-32]]
+
+^<<v51-8-32,32>>^ A passagem da Escritura que ia lendo, era esta: Como ovelha foi levado ao matadouro; e, como cordeiro mudo diante daquele que o tosquia, assim ele não abriu a sua boca.
+
+[[v51-8-33]]
+
+^<<v51-8-33,33>>^ Na sua humilhação foi consumado o seu julgamento. Quem poderá descrever a sua descendência? pois que a sua vida foi arrancada da terra (Is. 53, 7-8).
+
+[[v51-8-34]]
+
+^<<v51-8-34,34>>^ O eunuco disse a Filipe: "Peço-te (que me digas) de quem disse isto o profeta? De si mesmo, ou de algum outro?"
+
+[[v51-8-35]]
+
+^<<v51-8-35,35>>^ Abrindo Filipe a sua boca e principiando por esta (passagem da) Escritura, anunciou-lhe Jesus.
+
+[[v51-8-36]]
+
+^<<v51-8-36,36>>^ Ora, continuando eles o seu caminho, encontraram água. O eunuco disse: "Eis água; que motivo me impede de ser baptizado?"
+
+[[v51-8-37]]
+
+^<<v51-8-37,37>>^ (Filipe disse: "Se crês de todo o coração, isso é possível." Ele respondeu: "Creio que Jesus Cristo é o Filho de Deus.") (ver nota)
+
+[[v51-8-38]]
+
+^<<v51-8-38,38>>^ Mandou parar o carro, e desceram os dois à água, Filipe e o eunuco, e Filipe o baptizou.
+
+[[v51-8-39]]
+
+^<<v51-8-39,39>>^ Tendo saído da água, o Espírito Santo arrebatou Filipe, e o eunuco não o viu mais. E continuava alegremente o seu caminho.
+
+[[v51-8-40]]
+
+^<<v51-8-40,40>>^ Filipe encontrou-se em Azoto.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-007.adoc#v51-7-0[&#60; Capítulo Anterior] | <<v51-8-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-009.adoc#v51-9-0[Próximo Capítulo &#62;]

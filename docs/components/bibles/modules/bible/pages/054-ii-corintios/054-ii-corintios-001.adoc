@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v54-1-0]]
+=== II Coríntios, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 de 2 Coríntios fala sobre o conforto de Deus em meio às aflições e tribulações que os cristãos enfrentam. Paulo encoraja os coríntios a confiarem em Deus em todos os momentos e compartilha sua própria experiência de sofrimento e consolo divino. Ele enfatiza que Deus é o Pai das misericórdias e o Deus de toda a consolação, que nos consola em todas as nossas tribulações para que possamos consolar os outros que também passam por dificuldades.
+* Salmos 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Este versículo mostra que Deus é nosso refúgio e fortaleza, o mesmo tema de 2 Coríntios 1.
+* 2 Coríntios 7:6: "Mas Deus, que consola os abatidos, nos consolou com a vinda de Tito." Aqui, Paulo reforça que Deus é quem consola os que estão sofrendo, e Tito foi um instrumento usado por Deus para trazer conforto a Paulo e aos coríntios.
+* Isaías 49:13: "Exultai, ó céus, e alegra-te, ó terra, e vós, montes, estalai com júbilo, porque o SENHOR consolou o seu povo, e dos seus aflitos se compadecerá." Este versículo mostra que Deus é aquele que consola seu povo em suas aflições e sofrimentos, assim como Paulo fala em 2 Coríntios 1.
+* Salmos 34:18: "Perto está o SENHOR dos que têm o coração quebrantado e salva os contritos de espírito." Este versículo fala sobre como Deus está perto daqueles que têm o coração quebrantado, o que é um tema comum em 2 Coríntios 1.
+* 2 Coríntios 4:8-10: "Em tudo somos atribulados, mas não angustiados; perplexos, mas não desanimados. Perseguidos, mas não desamparados; abatidos, mas não destruídos; trazendo sempre no corpo o morrer de Jesus, para que também a sua vida se manifeste em nosso corpo." Este trecho de 2 Coríntios 4 fala sobre as dificuldades que os cristãos enfrentam, mas que não os deixam desanimados, pois a vida de Jesus se manifesta em seus corpos. Esse tema se relaciona com a mensagem de conforto e consolação de 2 Coríntios 1.
+****
+
+[[v54-1-1]]
+
+^<<v54-1-1,1>>^ Paulo, Apóstolo de Jesus Cristo, pela vontade de Deus, e Timóteo, nosso irmão, à Igreja de Deus que está em Corinto e a todos os santos que há por toda a Acaia.
+
+[[v54-1-2]]
+
+^<<v54-1-2,2>>^ Graça vos seja dada e paz, da parte de Deus nosso Pai e do Senhor Jesus Cristo.
+
+[[v54-1-3]]
+
+^<<v54-1-3,3>>^ Bendito seja Deus, Pai de Nosso Senhor Jesus Cristo, Pai de misericórdias e Deus de toda a consolação,
+
+[[v54-1-4]]
+
+^<<v54-1-4,4>>^ o qual nos consola em todas as nossas tribulações, para que também possamos consolar os que estão em qualquer angústia, pela consolação que recebemos de Deus.
+
+[[v54-1-5]]
+
+^<<v54-1-5,5>>^ Porque, à medida que crescem em nós os sofrimentos de Cristo, cresce também por Cristo a nossa consolação.
+
+[[v54-1-6]]
+
+^<<v54-1-6,6>>^ Se somos atribulados, é para vossa consolação e salvação; se somos consolados, é para vossa consolação, a qual vos faz suportar os mesmos sofrimentos que nós também suportamos.
+
+[[v54-1-7]]
+
+^<<v54-1-7,7>>^ É firme a nossa esperança em relação a vós, sabendo que, assim como sois companheiros nas aflições, assim o sereis também na consolação.
+
+[[v54-1-8]]
+
+^<<v54-1-8,8>>^ Em verdade, não queremos, irmãos, que ignoreis a tribulação que nos aconteceu na Ásia, como fomos oprimidos acima das nossas forças, de sorte que até desesperamos de conservar a vida.
+
+[[v54-1-9]]
+
+^<<v54-1-9,9>>^ Trazíamos em nós a sentença de morte, para não pormos a nossa confiança em nós, mas em Deus, que ressuscita os mortos, (ver nota)
+
+[[v54-1-10]]
+
+^<<v54-1-10,10>>^ o qual nos livrou de tamanho perigo de morte e nos livrará. Sim, livrar-nos-á, nós o esperamos. (ver nota)
+
+[[v54-1-11]]
+
+^<<v54-1-11,11>>^ Ajudar-nos-eis, também, orando por nós, para que este benefício que nos foi obtido por muitas pessoas, lhes seja também ocasião de dar graças por nós.
+
+[[v54-1-12]]
+
+^<<v54-1-12,12>>^ Porque a nossa glória é esta: o testemunho da nossa consciência, de que, com a santidade e sinceridade que vêm de Deus, não com uma sabedoria carnal, mas com a graça de Deus, nos temos conduzido no mundo e, especialmente, convosco.
+
+[[v54-1-13]]
+
+^<<v54-1-13,13>>^ Porque não vos escrevemos outra coisa, nas nossas cartas, senão o que nelas ledes e compreendeis. E espero que o reconhecereis plenamente,
+
+[[v54-1-14]]
+
+^<<v54-1-14,14>>^ como, em parte, tendes reconhecido que somos a vossa glória, como vós a nossa, no dia de Nosso Senhor Jesus Cristo.
+
+[[v54-1-15]]
+
+^<<v54-1-15,15>>^ Nesta persuasão, quis primeiro ir ter convosco, para que recebêsseis uma segunda graça,
+
+[[v54-1-16]]
+
+^<<v54-1-16,16>>^ e passar por vós (quando fosse) para a Macedónia, e da Macedónia ir outra vez ter convosco e ser acompanhado por (alguns de) vós até à Judeia,
+
+[[v54-1-17]]
+
+^<<v54-1-17,17>>^ Tendo eu, pois, formado este desígnio, procedi porventura levianamente ? Ou, quando tomo uma resolução, tomo-a segundo a carne, de sorte que haja em mim sim e não ?
+
+[[v54-1-18]]
+
+^<<v54-1-18,18>>^ Mas Deus é fiel (testemunha de) que não há sim e não no meu falar convosco.
+
+[[v54-1-19]]
+
+^<<v54-1-19,19>>^ Porque o Filho de Deus, Jesus Cristo, que vos foi pregado por nós, (isto é), por mim, por Silvano e por Timóteo, não foi sim e não, mas foi (sempre) sim.
+
+[[v54-1-20]]
+
+^<<v54-1-20,20>>^ Com efeito, todas as promessas de Deus encontraram o seu sim nele e, por isso é também por ele que dizemos o nosso Amen para glória de Deus. (ver nota)
+
+[[v54-1-21]]
+
+^<<v54-1-21,21>>^ Ora, aquele que nos confirma em Cristo convosco e que nos ungiu, é Deus,
+
+[[v54-1-22]]
+
+^<<v54-1-22,22>>^ o qual nos imprimiu o seu selo e pôs em nossos corações o penhor do Espirito (Santo). (ver nota)
+
+[[v54-1-23]]
+
+^<<v54-1-23,23>>^ Ora eu chamo a Deus por testemunha sobre a minha alma de que (foi) para ser indulgente convosco que não fui mais a Corinto; não porque pretendamos dominar sobre a vossa fé, mas porque somos cooperadores do vosso gozo, pois estais firmes na fé.
+
+'''
+
+xref:053-i-corintios/053-i-corintios-016.adoc#v53-16-0[&#60; Capítulo Anterior] | <<v54-1-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-002.adoc#v54-2-0[Próximo Capítulo &#62;]

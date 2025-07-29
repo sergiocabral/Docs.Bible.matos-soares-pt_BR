@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v10-14-0]]
+=== II Samuel, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 14 narra a história de Joabe, o comandante do exército de Davi, que engana o rei para que ele permita que seu filho rebelde, Absalão, retorne a Jerusalém após ter fugido por causa de ter assassinado seu irmão. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Provérbios 20:22: "Não diga: 'Vou pagar o mal com o mal'; espere pelo Senhor, e ele agirá a seu favor." Este versículo fala sobre o conceito de justiça divina e a importância de confiar em Deus para fazer o que é certo em vez de agir com vingança. Isso é relevante para a história de Joabe, que manipulou a situação para trazer Absalão de volta à cidade.
+* Provérbios 28:13: "Quem encobre as suas transgressões jamais prosperará, mas quem as confessa e deixa, alcançará misericórdia." Este versículo enfatiza a importância da confissão e do arrependimento para alcançar a misericórdia de Deus. Isso é relevante para a história de Absalão, que matou seu irmão e fugiu para evitar a punição.
+* Salmos 32:5: "Confessei-te o meu pecado e a minha iniquidade não encobri. Disse: confessarei ao Senhor as minhas transgressões; e tu perdoaste a culpa do meu pecado." Este versículo fala sobre a importância da confissão de pecados e do perdão de Deus. Isso é relevante para a história de Davi, que teve um caso com Bate-Seba e tentou encobrir o pecado.
+* Provérbios 31:8-9: "Abre a tua boca a favor do mudo, pela causa de todos os que são designados à destruição. Abre a tua boca; julga retamente e faze justiça aos pobres e aos necessitados." Este versículo fala sobre a importância de defender os fracos e oprimidos e de agir com justiça. Isso é relevante para a história de Joabe, que usou a situação para seus próprios fins, sem considerar o bem-estar do povo.
+* Salmos 51:10: "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito estável." Este versículo fala sobre o pedido de Davi por purificação e renovação espiritual após seu pecado com Bate-Seba. Isso é relevante para a história de Davi, que é abordada em 2 Samuel 14, e enfatiza a importância da confissão e do arrependimento para a renovação espiritual.
+****
+
+[[v10-14-1]]
+
+^<<v10-14-1,1>>^ Joab, filho de Sarvia, advertindo que o coração do rei estava inclinado para Absalão,
+
+[[v10-14-2]]
+
+^<<v10-14-2,2>>^ mandou vir de Tecua uma mulher hábil, e disse-lhe: Finge que estás de luto, toma um vestido de dó, e não te unjas com óleo, para pareceres uma mulher que chora um morto há muito tempo.
+
+[[v10-14-3]]
+
+^<<v10-14-3,3>>^ Apresentar-te-ás ao rei, e lhe dirás tais e tais palavras. E Joab pôs-lhe na boca tudo o que havia de dizer.
+
+[[v10-14-4]]
+
+^<<v10-14-4,4>>^ Tendo-se apresentado ao rei esta mulher de Tecua, lançou-se por terra diante dele, fez-lhe uma profunda reverência e disse: Salva-me, ó rei.
+
+[[v10-14-5]]
+
+^<<v10-14-5,5>>^ O rei disse-lhe: Que tens? Ela respondeu: Ai! eu sou uma mulher viúva: morreu o meu marido.
+
+[[v10-14-6]]
+
+^<<v10-14-6,6>>^ A tua serva tinha dois filhos, os quais tiveram uma briga no campo entre si, e não houve ninguém que os pudesse apartar; um feriu o outro, e matou-o.
+
+[[v10-14-7]]
+
+^<<v10-14-7,7>>^ Agora toda a parentela, levantando-se contra a tua serva, diz: Dá-nos esse que matou o seu irmão, para o matarmos em castigo do sangue do seu irmão, a quem matou, e tirarmos do mundo o herdeiro. Assim pretendem apagar a única brasa que me ficou, de modo que não se conserve o nome do meu marido, nem resto algum sobre a terra.
+
+[[v10-14-8]]
+
+^<<v10-14-8,8>>^ O rei disse à mulher: Vai para tua casa, que darei ordem em teu favor.
+
+[[v10-14-9]]
+
+^<<v10-14-9,9>>^ A mulher de Tecua, porém, disse ao rei: Sobre mim, ó rei meu senhor, recaia a culpa, e sobre a casa de meu pai; mas o rei e o seu trono sejam inocentes.
+
+[[v10-14-10]]
+
+^<<v10-14-10,10>>^ O rei disse: Se alguém te contradisser, traze-o à minha presença, e está certa de que ele te não inquietará mais.
+
+[[v10-14-11]]
+
+^<<v10-14-11,11>>^ Ela disse: Recorde-se o rei do Senhor seu Deus, para que se não multipliquem os parentes do morto, para tomarem vingança e de modo algum matem o meu filho. Ele respondeu: Viva o Senhor! (juro) que não há-de cair no chão um único cabelo do teu filho.
+
+[[v10-14-12]]
+
+^<<v10-14-12,12>>^ Disse então a mulher: Permite que a tua serva diga uma palavra ao rei, meu senhor. Ele disse: Fala.
+
+[[v10-14-13]]
+
+^<<v10-14-13,13>>^ A mulher disse: Por que pensaste tu (fazer) uma coisa semelhante contra o povo de Deus? Proferindo tal sentença, o rei se dá por culpado, pelo facto, de não chamar aquele que desterrou.
+
+[[v10-14-14]]
+
+^<<v10-14-14,14>>^ Nós todos vamos morrendo, e corremos pela terra como águas, que não voltam mais. Deus não quer que alguma alma pereça, antes está sempre disposto a revogar a sentença, para que se não perca de todo o que está abatido.
+
+[[v10-14-15]]
+
+^<<v10-14-15,15>>^ Se, agora, vim dizer esta palavra ao rei, foi porque o povo me aterrou. A tua serva disse: Falarei ao rei, a ver se dalgum modo consigo dele a graça que lhe peço.
+
+[[v10-14-16]]
+
+^<<v10-14-16,16>>^ Sim, o rei ouvir-me-á e livrará a sua serva da mão de todos os que me querem exterminar a mim e ao meu filho da herança (do povo) de Deus.
+
+[[v10-14-17]]
+
+^<<v10-14-17,17>>^ A tua serva disse: Que a palavra do rei, meu senhor me tranquilize, porque o rei meu senhor é como um anjo de Deus, para discernir o bem do mal. E, agora, que o Senhor teu Deus seja contigo.
+
+[[v10-14-18]]
+
+^<<v10-14-18,18>>^ Respondendo o rei, disse à mulher: Não me encubras o que te vou perguntar. A mulher disse: Fala, ó rei, meu senhor.
+
+[[v10-14-19]]
+
+^<<v10-14-19,19>>^ O rei disse: Não é verdade que a mão de Joab anda contigo em tudo isto? Respondeu a mulher: Por tua vida, ó rei meu senhor, em nada se aparta (da verdade) tudo o que disse o rei meu senhor, nem para a direita nem para a esquerda, porque com efeito o teu servo Joab é quem me deu esta ordem, e quem pôs todas estas palavras na boca da tua serva.
+
+[[v10-14-20]]
+
+^<<v10-14-20,20>>^ Foi o teu servo Joab que me mandou servir desta parábola. Porém tu, ó rei meu senhor, és sábio como o é um anjo de Deus, para entenderes tudo o que se passa sobre a terra.
+
+[[v10-14-21]]
+
+^<<v10-14-21,21>>^ O rei disse a Joab: Vou fazer o que pedes; anda, faze voltar o jovem Absalão.
+
+[[v10-14-22]]
+
+^<<v10-14-22,22>>^ Joab, prostrando-se por terra sobre o seu rosto, fez uma profunda reverência, abençoou o rei, e disse: Hoje, ó rei meu senhor, o teu servo conheceu que achou graça diante dos teus olhos, porque deferiste a súplica do teu servo.
+
+[[v10-14-23]]
+
+^<<v10-14-23,23>>^ Partiu, logo, Joab, foi a Gessur e conduziu Absalão para Jerusalém
+
+[[v10-14-24]]
+
+^<<v10-14-24,24>>^ Mas o rei disse: Volte para sua casa, sem aparecer diante de mim. Absalão foi, e não viu a face do rei.
+
+[[v10-14-25]]
+
+^<<v10-14-25,25>>^ Em todo o Israel não havia homem tão belo, nem tão gentil, como Absalão; da planta dos pés até à cabeça não havia nele defeito algum.
+
+[[v10-14-26]]
+
+^<<v10-14-26,26>>^ Quando cortava o cabelo (o que fazia um a vez cada ano, porque o incomodava a cabeleira), o cabelo da sua cabeça pesava duzentos ciclos, pelo peso real.
+
+[[v10-14-27]]
+
+^<<v10-14-27,27>>^ Absalão teve três filhos e uma filha chamada Tamar, de extrema formosura.
+
+[[v10-14-28]]
+
+^<<v10-14-28,28>>^ Absalão esteve em Jerusalém dois anos, e não viu a face do rei.
+
+[[v10-14-29]]
+
+^<<v10-14-29,29>>^ Mandou chamar Joab para o enviar ao rei, mas ele não quis ir. Chamou-o segunda vez, e, tendo ele recusado ir,
+
+[[v10-14-30]]
+
+^<<v10-14-30,30>>^ disse aos seus servos: Vós sabeis que Joab tem um campo junto do meu, que está semeado de cevada; ide, pois, e lançai-lhe o fogo. Os servos de Absalão puseram fogo à seara. Indo os servos de Joab ter com seu amo, rasgadas as suas vestes, disseram-lhe: Os servos de Absalão puseram fogo a parte do teu campo.
+
+[[v10-14-31]]
+
+^<<v10-14-31,31>>^ Joab levantou-se, foi a casa de Absalão, e disse: Porque puseram os teus servos fogo à minha seara?
+
+[[v10-14-32]]
+
+^<<v10-14-32,32>>^ Absalão respondeu a Joab: Eu mandei-te chamar, pedindo-te que viesses ter comigo, para te enviar ao rei a dizer-lhe: Por que vim eu de Gessur? Melhor me era estar lá; alcança-me pois a graça de ver a face do rei; todavia, se ele se recorda (ainda) da minha iniquidade, mande-me matar.
+
+[[v10-14-33]]
+
+^<<v10-14-33,33>>^ Então Joab, apresentando-se ao rei, contou-lhe tudo. Absalão foi chamado, entrou à presença do rei, prostrou-se com a face por terra diante dele, e o rei beijou Absalão (em sinal de reconciliação completa).
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-013.adoc#v10-13-0[&#60; Capítulo Anterior] | <<v10-14-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-015.adoc#v10-15-0[Próximo Capítulo &#62;]

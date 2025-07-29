@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v12-8-0]]
+=== II Reis, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 de 2 Reis relata a história de Hazael, um homem que acabaria se tornando rei da Síria, e sua interação com o profeta Eliseu e o rei Jeorão de Israel. Hazael visita Eliseu disfarçado e pergunta sobre a saúde do rei Jeorão, enquanto na verdade ele estava interessado em saber se seria capaz de se tornar rei. Mais tarde, Eliseu envia um de seus discípulos para ungir Hazael como rei da Síria, mas também profetiza que ele causará muita destruição. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Reis 8:
+* Isaías 7:16: "Pois antes que o menino saiba dizer ‘Papai’ ou ‘Mamãe’, o poder de Damasco e o despojo de Samaria serão levados pelo rei da Assíria". Este versículo fala sobre a queda de Damasco, que é mencionada em 2 Reis 8:7.
+* 2 Reis 9:14: "Então Jeú, filho de Jeosafá e neto de Ninsi, conspirou contra Jorão". Este versículo começa a história de Jeú, que mais tarde se torna rei de Israel. A história de Jeú é importante porque ele é o escolhido por Deus para punir a casa de Acabe por sua idolatria e maldade, um tema recorrente em 2 Reis.
+* Isaías 7:8: "Porque a cabeça da Síria é Damasco, e a cabeça de Damasco é Rezim". Este versículo também fala sobre a queda de Damasco e a derrota da Síria.
+* Oséias 1:4: "Então o Senhor disse a Oseias: "Dê-lhe o nome de Jezreel, porque em pouco tempo castigarei a dinastia de Jeú pelo massacre em Jezreel, e acabarei com o reino de Israel". Este versículo fala sobre a punição que Deus planeja para a casa de Jeú, que é mencionado em 2 Reis 9:7.
+* 2 Reis 10:32: "Naqueles dias, o Senhor começou a reduzir o território de Israel. Hazael derrotou os israelitas em toda a extensão leste do Jordão". Este versículo fala sobre as ações de Hazael, que é apresentado em 2 Reis 8 como um futuro rei da Síria e que acaba causando destruição em Israel, cumprindo a profecia de Eliseu.
+****
+
+[[v12-8-1]]
+
+^<<v12-8-1,1>>^ Eliseu falou àquela mulher, cujo filho tinha ressuscitado, dizendo: Levanta-te, com a tua família, sai do teu país e habita onde te parecer melhor, porque o Senhor chamou a fome, e ela virá sobre a terra durante sete anos.
+
+[[v12-8-2]]
+
+^<<v12-8-2,2>>^ Ela levantou-se e fez conforme o que o homem de Deus lhe tinha dito; indo com toda a sua família , habitou sete anos na terra dos Filisteus.
+
+[[v12-8-3]]
+
+^<<v12-8-3,3>>^ Terminados os sete anos, a mulher voltou da terra dos Filisteus e foi ter com o rei a reclamar a sua casa e as suas fazendas.
+
+[[v12-8-4]]
+
+^<<v12-8-4,4>>^ O rei estava então a falar com Giezi, criado do homem de Deus, dizendo: Conta-me todas as maravilhas que Eliseu tem feito.
+
+[[v12-8-5]]
+
+^<<v12-8-5,5>>^ Enquanto ele contava ao rei como Eliseu tinha ressuscitado um morto, apareceu a mulher, cujo filho ressuscitara, reclamando ante o rei a sua casa e as suas fazendas. Giezi disse: Ó rei meu senhor, é esta aquela mulher, e este é o seu filho, que Eliseu ressuscitou.
+
+[[v12-8-6]]
+
+^<<v12-8-6,6>>^ E o rei interrogou a mulher, a qual lhe contou (tudo). O rei deu-lhe um eunuco (para ir com ela), dizendo: Faze-lhe restituir tudo o que é seu, assim como todos os rendimentos de suas fazendas, desde o dia em que ela deixou o país até ao presente.
+
+[[v12-8-7]]
+
+^<<v12-8-7,7>>^ Eliseu foi também a Damasco. Benadad, rei da Síria, estava doente. Avisaram-no, dizendo: O homem de Deus chegou aqui.
+
+[[v12-8-8]]
+
+^<<v12-8-8,8>>^ O rei disse a Hazael: Toma contigo presentes, vai ao encontro do homem de Deus e consulta o Senhor por meio dele, perguntando-lhe se eu poderei escapar desta minha doença.
+
+[[v12-8-9]]
+
+^<<v12-8-9,9>>^ Foi, pois, Hazael ao encontro do homem de Deus, levando consigo presentes e todas as coisas mais preciosas de Damasco em quarenta camelos carregados. Tendo-se apresentado a Eliseu, disse: Teu filho Benadad, rei da Síria, enviou-me a ti para saber se poderá sarar da sua doença.
+
+[[v12-8-10]]
+
+^<<v12-8-10,10>>^ Eliseu respondeu: Vai e dize-lhe : Sararás. O Senhor, porém, mostrou-me que ele morrerá certamente (de morte violenta).
+
+[[v12-8-11]]
+
+^<<v12-8-11,11>>^ Depois (Eliseu) fitou de tal forma Hazael que o rosto dele corou. E o homem de Deus chorou.
+
+[[v12-8-12]]
+
+^<<v12-8-12,12>>^ Hazael disse-lhe: Por que chora o meu Senhor? Eliseu respondeu-lhe: Porque sei os males que farás aos filhos de Israel. Queimarás as suas cidades fortes, passarás à espada os seus jovens, esmagarás as suas crianças, rasgarás pelo meio o ventre das mulheres grávidas.
+
+[[v12-8-13]]
+
+^<<v12-8-13,13>>^ Hazael disse-lhe: Quem sou eu, teu servo, senão um cão, para (que possa) fazer tão grandes coisas? Eliseu respondeu: O Senhor mostrou-me que tu serás rei da Síria.
+
+[[v12-8-14]]
+
+^<<v12-8-14,14>>^ Hazael, depois de deixar Eliseu, voltou para o seu senhor, o qual lhe perguntou: Que te disse Eliseu? Ele respondeu-lhe: Disse-me que recobrarás a saúde.
+
+[[v12-8-15]]
+
+^<<v12-8-15,15>>^ Ao outro dia, Hazael pegou numa coberta, molhou-a em água, estendeu-a sobre o rosto do rei, o qual morreu (sufocado). Hazael reinou em seu lugar.
+
+[[v12-8-16]]
+
+^<<v12-8-16,16>>^ No ano quinto de Jorão, filho de Acab, rei de Israel, e de Josafat, rei de Judá, reinou Jorão, filho de Josafat, rei de Judá.
+
+[[v12-8-17]]
+
+^<<v12-8-17,17>>^ Tinha trinta e dois anos quando começou a reinar, e reinou oito anos em Jerusalém.
+
+[[v12-8-18]]
+
+^<<v12-8-18,18>>^ Andou pelos caminhos dos reis de Israel, como tinha andado a casa de Acab, porque uma filha de Acab era sua mulher, e praticou o mal diante do Senhor.
+
+[[v12-8-19]]
+
+^<<v12-8-19,19>>^ Porém o Senhor não quis exterminar Judá, por causa de David e, seu servo, conforme a promessa que lhe tinha feito de que conservaria sempre uma lâmpada na sua posteridade.
+
+[[v12-8-20]]
+
+^<<v12-8-20,20>>^ No tempo do seu reinado rebelou-se Edom, para não estar debaixo do jugo de Judá, e constituiu para si um rei.
+
+[[v12-8-21]]
+
+^<<v12-8-21,21>>^ Jorão foi a Seira com todos os seus carros, saiu de noite e bateu os Idumeus, que o tinham cercado, e os comandantes das carroças; mas o povo fugiu para as suas tendas. (ver nota)
+
+[[v12-8-22]]
+
+^<<v12-8-22,22>>^ Edom sacudiu o jugo de Judá até ao dia de hoje. Naquele mesmo tempo revoltou-se também Lobna.
+
+[[v12-8-23]]
+
+^<<v12-8-23,23>>^ Quanto ao resto das acções de Jorão, a tudo o que ele fez, não se encontram todas essas coisas escritas no livro das Crônicas dos reis de Judá?
+
+[[v12-8-24]]
+
+^<<v12-8-24,24>>^ Jorão adormeceu com seus pais, e foi sepultado com eles na cidade de Davide. E em seu lugar reinou seu filho Ocozias.
+
+[[v12-8-25]]
+
+^<<v12-8-25,25>>^ No ano duodécimo de Jorão, filho de Acab, rei de Israel, subiu ao trono Ocozias, filho de Jorão, rei de Judá.
+
+[[v12-8-26]]
+
+^<<v12-8-26,26>>^ Tinha Ocozias vinte e dois anos quando começou a reinar, e reinou um ano em Jerusalém. Sua mãe chamava-se Atalia, filha de Anri, rei de Israel.
+
+[[v12-8-27]]
+
+^<<v12-8-27,27>>^ Ele seguiu os mesmos passos que a casa de Acab, praticou o mal diante do Senhor, como a casa de Acab, porque era genro da casa de Acab.
+
+[[v12-8-28]]
+
+^<<v12-8-28,28>>^ Foi com Jorão, filho de Acab, combater contra Hazael, rei da Síria, em Ramot de Galaad. Os Sírios feriram Jorão,
+
+[[v12-8-29]]
+
+^<<v12-8-29,29>>^ o qual voltou a Jezrael para se curar dos ferimentos que os Sírios lhe tinham causado, em Ramot, enquanto pelejava contra Hazael, rei da Síria. Ocozias, filho de Jorão, rei de Judá, foi a Jezrael para visitar Jorão, filho de Acab, que estava lá doente.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-007.adoc#v12-7-0[&#60; Capítulo Anterior] | <<v12-8-0,Topo>> | xref:012-ii-reis/012-ii-reis-009.adoc#v12-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v21-117-0]]
+=== Salmos, 117
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 117 é o capítulo mais curto da Bíblia e é uma convocação a todas as nações e povos para louvarem ao Senhor. Os versículos abaixo foram selecionados por abordarem temas semelhantes de adoração e louvor a Deus.
+* Salmo 22:27: "Todos os confins da terra se lembrarão e se voltarão para o SENHOR, e todas as famílias das nações se prostrarão diante dele." Este versículo fala sobre como todas as nações e povos adorarão ao Senhor.
+* Salmo 66:4: "Toda a terra te adora e canta louvores a ti, canta louvores ao teu nome." Este versículo também se refere ao louvor universal ao Senhor.
+* Salmo 86:9: "Todas as nações que fizeste virão e adorarão diante de ti, Senhor, e glorificarão o teu nome." Esse versículo mostra que Deus é adorado não apenas pelos judeus, mas também por todas as nações.
+* Salmo 96:1: "Cantem ao Senhor um novo cântico; cantem ao Senhor, todos os habitantes da terra!" Este versículo incentiva todas as pessoas a cantarem novas canções de louvor a Deus.
+* Salmo 117:2: "Porque grande é o seu amor por nós, e a fidelidade do Senhor dura para sempre. Aleluia!" Este versículo reforça o motivo pelo qual todos os povos e nações devem louvar ao Senhor - porque Ele é amoroso e fiel.
+****
+
+[[v21-117-1]]
+
+^<<v21-117-1,1>>^ Aleluia. Dai graças ao Senhor, porque é bom, porque a sua misericórdia é eterna.
+
+[[v21-117-2]]
+
+^<<v21-117-2,2>>^ Diga a casa de Israel: "A sua misericórdia é eterna."
+
+[[v21-117-3]]
+
+^<<v21-117-3,3>>^ Diga a casa de Aarão: "A sua misericórdia é eterna."
+
+[[v21-117-4]]
+
+^<<v21-117-4,4>>^ Digam os que temem o Senhor: "A sua misericórdia é eterna."
+
+[[v21-117-5]]
+
+^<<v21-117-5,5>>^ No meio da tribulação invoquei o Senhor, o Senhor ouviu-me e livrou-me (do perigo).
+
+[[v21-117-6]]
+
+^<<v21-117-6,6>>^ O Senhor está comigo: não temo; que pode fazer-me o homem?
+
+[[v21-117-7]]
+
+^<<v21-117-7,7>>^ O Senhor, o meu auxílio, está comigo, e confundidos verei os meus inimigos.
+
+[[v21-117-8]]
+
+^<<v21-117-8,8>>^ É melhor buscar refúgio no Senhor, que esperar no homem.
+
+[[v21-117-9]]
+
+^<<v21-117-9,9>>^ É melhor buscar refúgio no Senhor, que confiar nos príncipes.
+
+[[v21-117-10]]
+
+^<<v21-117-10,10>>^ Todas as gentes me cercaram, mas eu esmaguei-as em nome do Senhor.
+
+[[v21-117-11]]
+
+^<<v21-117-11,11>>^ Cercaram-me por todos os lados, mas eu esmaguei-as em nome do Senhor.
+
+[[v21-117-12]]
+
+^<<v21-117-12,12>>^ Cercaram-me como abelhas; abrasaram-me como o fogo abrasa os espinheiros, mas eu esmaguei-as em nome do Senhor.
+
+[[v21-117-13]]
+
+^<<v21-117-13,13>>^ Fui empurrado violentamente, para cair, mas o Senhor susteve-me.
+
+[[v21-117-14]]
+
+^<<v21-117-14,14>>^ O Senhor é a minha força, a minha fortaleza; tornou-se o meu salvador.
+
+[[v21-117-15]]
+
+^<<v21-117-15,15>>^ Grito de júbilo e de salvação, (ouve-se) nas tendas dos justos: A dextra do Senhor actuou com firmeza,
+
+[[v21-117-16]]
+
+^<<v21-117-16,16>>^ a dextra do Senhor levantou-me, a dextra do Senhor actuou com firmeza.
+
+[[v21-117-17]]
+
+^<<v21-117-17,17>>^ Não morrerei, mas viverei, e narrarei as obras do Senhor.
+
+[[v21-117-18]]
+
+^<<v21-117-18,18>>^ Castigou-me, castigou-me o Senhor, mas não me entregou à morte.
+
+[[v21-117-19]]
+
+^<<v21-117-19,19>>^ Abri-me (ó sacerdotes) as portas (do templo) da justiça; depois de entrar por elas, darei graças ao Senhor. (ver nota)
+
+[[v21-117-20]]
+
+^<<v21-117-20,20>>^ Esta é a porta do Senhor, os justos entrarão por ela.
+
+[[v21-117-21]]
+
+^<<v21-117-21,21>>^ Dar-te-ei graças (Senhor), porque me ouviste e te tornaste o meu salvador.
+
+[[v21-117-22]]
+
+^<<v21-117-22,22>>^ A pedra que os edificadores rejeitaram, esta foi posta por pedra angular.
+
+[[v21-117-23]]
+
+^<<v21-117-23,23>>^ Foi o Senhor que fez isto, e é uma coisa admirável aos nossos olhos.
+
+[[v21-117-24]]
+
+^<<v21-117-24,24>>^ Este é o dia que fez o Senhor; regozijemo-nos e alegremo-nos nele.
+
+[[v21-117-25]]
+
+^<<v21-117-25,25>>^ Ó Senhor, salva; ó Senhor, dá prosperidade!
+
+[[v21-117-26]]
+
+^<<v21-117-26,26>>^ Bendito o que vem em nome do Senhor; nós vos bendizemos da casa do Senhor.
+
+[[v21-117-27]]
+
+^<<v21-117-27,27>>^ O Senhor é Deus, e faz brilhar sobre nós a sua luz. Ordenai o cortejo com frondosos ramos, até aos ângulos do altar.
+
+[[v21-117-28]]
+
+^<<v21-117-28,28>>^ Tu és o meu Deus, e eu te dou graças; ó meu Deus, eu te exalto com louvores.
+
+[[v21-117-29]]
+
+^<<v21-117-29,29>>^ Dai graças ao Senhor, porque é bom, porque a sua misericórdia é eterna.
+
+'''
+
+xref:021-salmos/021-salmos-116.adoc#v21-116-0[&#60; Capítulo Anterior] | <<v21-117-0,Topo>> | xref:021-salmos/021-salmos-118.adoc#v21-118-0[Próximo Capítulo &#62;]

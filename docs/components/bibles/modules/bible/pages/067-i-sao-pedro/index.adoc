@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v67-0-0]]
+== I São Pedro
+
+[cols="8*^"]
+|===
+| xref:067-i-sao-pedro/067-i-sao-pedro-001.adoc#v67-1-0[1]
+| xref:067-i-sao-pedro/067-i-sao-pedro-002.adoc#v67-2-0[2]
+| xref:067-i-sao-pedro/067-i-sao-pedro-003.adoc#v67-3-0[3]
+| xref:067-i-sao-pedro/067-i-sao-pedro-004.adoc#v67-4-0[4]
+| xref:067-i-sao-pedro/067-i-sao-pedro-005.adoc#v67-5-0[5]
+|
+|
+|
+|===

@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v29-40-0]]
+=== Isaías, 40
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 40 é um capítulo que fala sobre a consolação de Deus para o seu povo. Ele começa com a voz de alguém clamando no deserto preparando o caminho para o Senhor e termina com uma promessa de que aqueles que esperam no Senhor renovarão suas forças. Aqui estão cinco versículos relacionados com os temas abordados em Isaías 40:
+* Salmos 31:24 - "Sede fortes, e revigore-se o vosso coração, vós todos que esperais no SENHOR." Este verso encoraja os que esperam no Senhor a serem fortes e a renovar suas forças.
+* Isaías 41:10 - "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este verso fala sobre a presença constante de Deus com o seu povo, oferecendo-lhes fortalecimento e sustento.
+* Salmos 46:1-2 - "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. Portanto, não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares." Este verso fala sobre a confiança em Deus como nosso refúgio e fortaleza.
+* Isaías 43:2 - "Quando passares pelas águas, estarei contigo, e quando pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem a chama arderá em ti." Este verso fala sobre a presença protetora de Deus em meio aos desafios da vida.
+* Salmos 27:14 - "Espera no SENHOR, anima-te, e ele fortalecerá o teu coração; espera, pois, no SENHOR." Este verso encoraja aqueles que esperam no Senhor a serem animados e fortalecidos pelo seu poder.
+****
+
+[[v29-40-1]]
+
+^<<v29-40-1,1>>^ Consolai, consolai o meu povo, diz o vosso Deus. (ver nota)
+
+[[v29-40-2]]
+
+^<<v29-40-2,2>>^ Falai ao coração de Jerusalém e clamai-lhe que a sua servidão terminou, que está perdoada a sua iniquidade, que ela recebeu da mão do Senhor o duplo por todos os seus pecados.
+
+[[v29-40-3]]
+
+^<<v29-40-3,3>>^ Uma voz grita: Abri caminho ao Senhor no deserto, aplanai na solidão as veredas do nosso Deus. (ver nota)
+
+[[v29-40-4]]
+
+^<<v29-40-4,4>>^ Todo o vale seja alteado, toda a montanha e toda a colina sejam rebaixadas, todos os cumes arrasados, todos os terrenos escabrosos aplanados.
+
+[[v29-40-5]]
+
+^<<v29-40-5,5>>^ Então a glória do Senhor se manifestará, e todos os homens a verão ao mesmo tempo, porque a boca do Senhor falou. (ver nota)
+
+[[v29-40-6]]
+
+^<<v29-40-6,6>>^ (Ouvi) uma voz dizer: Clama. Respondi: Que hei-de clamar? - (Clama que) toda a carne é feno e que toda a sua glória é como a flor dos campos.
+
+[[v29-40-7]]
+
+^<<v29-40-7,7>>^ Seca o feno, murcha a flor, quando o sopro do Senhor passa por cima. Verdadeiramente o povo é feno;
+
+[[v29-40-8]]
+
+^<<v29-40-8,8>>^ seca o feno, murcha a flor, mas a palavra de nosso Senhor permanece para sempre.
+
+[[v29-40-9]]
+
+^<<v29-40-9,9>>^ Sobe a um alto monte, tu, que anuncias a boa nova a Sião; levanta com força a tua voz, tu, que anuncias a boa nova a Jerusalém; levanta-a, não temas. Dize às cidades de Judá: Eis aí o vosso Deus;
+
+[[v29-40-10]]
+
+^<<v29-40-10,10>>^ eis que o Senhor Deus vem com fortaleza, eis que o seu braço domina; a sua recompensa está com ele, e o seu trabalho à sua frente.
+
+[[v29-40-11]]
+
+^<<v29-40-11,11>>^ Apascentará como um pastor o seu rebanho; nos seus braços recolherá os cordeiros, tomá-los-á no seu seio, e conduzirá docemente as ovelhas que amamentam. (ver nota)
+
+[[v29-40-12]]
+
+^<<v29-40-12,12>>^ Quem é que mediu as águas com a concavidade da sua mão, e os céus com o seu palmo? Quem mediu com o alqueire toda a massa da terra, e pesou as montanhas na báscula, e os outeiros na balança? (ver nota)
+
+[[v29-40-13]]
+
+^<<v29-40-13,13>>^ Quem dirigiu o espírito do Senhor? Quem foi o seu conselheiro, e lhe mostrou (o que devia fazer)?
+
+[[v29-40-14]]
+
+^<<v29-40-14,14>>^ Com quem tomou ele conselho, quem o instruiu e lhe ensinou a vereda da justiça, quem lhe ensinou a sabedoria e lhe mostrou o caminho da inteligência?
+
+[[v29-40-15]]
+
+^<<v29-40-15,15>>^ Eis que (todas) as nações são (diante dele) como uma gota de água num balde, como um grão na balança; as ilhas são também (diante dele) como poeira.
+
+[[v29-40-16]]
+
+^<<v29-40-16,16>>^ Não bastará o Líbano para queimar, e não bastarão os seus animais para um holocausto (digno dele). (ver nota)
+
+[[v29-40-17]]
+
+^<<v29-40-17,17>>^ Todos os povos na sua presença são como se não existissem; ele os considera como um nada, uma coisa que não existe.
+
+[[v29-40-18]]
+
+^<<v29-40-18,18>>^ A quem, pois, comparareis vós Deus, ou que imagem fareis dele? (ver nota)
+
+[[v29-40-19]]
+
+^<<v29-40-19,19>>^ O ídolo é fundido ou esculpido pelo artista, o ourives reveste-o de ouro e adorna-o com cadeias de prata.
+
+[[v29-40-20]]
+
+^<<v29-40-20,20>>^ O que faz uma oferta pobre, escolhe madeira incorrutível, procura um artista hábil para assentar a estátua, de modo que não dê de si.
+
+[[v29-40-21]]
+
+^<<v29-40-21,21>>^ Porventura não o sabeis vós (que é Deus)? Não o ouvistes? Não vos foi isto anunciado desde o princípio? Porventura não chegou ao nosso conhecimento (que foi ele) que estabeleceu os fundamentos da terra?
+
+[[v29-40-22]]
+
+^<<v29-40-22,22>>^ Ele é o que está sentado sobre a redondeza da terra, cujos habitantes são (diante dele) como gafanhotos; é ele que estende os céus como um véu, e o desenrola como uma tenda para habitar.
+
+[[v29-40-23]]
+
+^<<v29-40-23,23>>^ É ele que aniquila (e confunde) os poderosos e reduz a nada os juízes da terra.
+
+[[v29-40-24]]
+
+^<<v29-40-24,24>>^ Logo que foram plantados, logo que semeados, logo que o seu tronco se arraigou na terra, repentinamente sopra sobre eles, fá-los secar, e um torvelinho os leva como palha.
+
+[[v29-40-25]]
+
+^<<v29-40-25,25>>^ A quem me comparareis, que seja igual a mim, diz o Santo?
+
+[[v29-40-26]]
+
+^<<v29-40-26,26>>^ Levantai os vossos olhos para o alto, e considerai quem criou esses corpos celestes; quem faz marchar em ordem o exército (dos astros) e os chama a todos pelos seus nomes, cuja força é tão grande, cuja energia é tão poderosa, que nem um só falta (à chamada).
+
+[[v29-40-27]]
+
+^<<v29-40-27,27>>^ Por que dizes, pois, ó Jacob, e afirmas, ó Israel: O meu caminho está escondido ao Senhor, e o meu direito passa despercebido ao meu Deus?
+
+[[v29-40-28]]
+
+^<<v29-40-28,28>>^ Porventura não o sabes, ou não o ouviste? O Senhor é um Deus eterno, que criou os confins da terra; ele não se cansa, não se fatiga, e a sua sabedoria é impenetrável.
+
+[[v29-40-29]]
+
+^<<v29-40-29,29>>^ Ele dá força ao fatigado e multiplica o vigor do fraco.
+
+[[v29-40-30]]
+
+^<<v29-40-30,30>>^ Os adolescentes cansam-se, fatigam-se, os jovens vacilam;
+
+[[v29-40-31]]
+
+^<<v29-40-31,31>>^ porém, os que esperam no Senhor, adquirem sempre novas forças, terão asas como de águia, correrão e não se fatigarão, andarão e não desfalecerão.
+
+'''
+
+xref:029-isaias/029-isaias-039.adoc#v29-39-0[&#60; Capítulo Anterior] | <<v29-40-0,Topo>> | xref:029-isaias/029-isaias-041.adoc#v29-41-0[Próximo Capítulo &#62;]

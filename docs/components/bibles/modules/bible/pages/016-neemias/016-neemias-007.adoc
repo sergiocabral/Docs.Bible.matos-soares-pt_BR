@@ -1,0 +1,311 @@
+include::./index.adoc[]
+
+[[v16-7-0]]
+=== Neemias, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Neemias 7 relata a organização do povo após a reconstrução dos muros de Jerusalém. Neemias é encarregado de selecionar líderes e estabelecer um registro genealógico do povo que retornou do exílio babilônico. Ele nomeia Hanani e Hananias para supervisionar a cidade e os portões, e também designa guardas para proteger a cidade. Abaixo estão cinco versículos relacionados com os temas abordados em Neemias 7:
+* Neemias 7:5: "E meu Deus colocou em meu coração reunir os nobres, os oficiais e o povo para que pudessem ser registrados por genealogia." Neemias inicia o processo de registro genealógico do povo que retornou do exílio.
+* Esdras 2:59-60: "Estes foram os que subiram de Tel-Melá, Tel-Harsá, Querube, Adom e Imer, mas não puderam provar que suas famílias e seus descendentes eram de Israel: Descendentes de Delaías, dos filhos de Tobias e dos descendentes de Neco." Este versículo faz parte da lista de pessoas que retornaram do exílio babilônico, mas não puderam provar sua genealogia.
+* Esdras 2:62: "Eles procuraram seu registro genealógico, mas não o encontraram, então foram excluídos do sacerdócio como impuros." Este versículo fala sobre aqueles que não puderam provar sua genealogia, e portanto, foram excluídos do sacerdócio.
+* Neemias 7:2: "Eu coloquei meu irmão Hanani, e Hananias, líder do palácio, sobre Jerusalém, porque ele era um homem fiel e temia a Deus mais do que muitos outros." Neemias escolhe líderes confiáveis ​​para supervisionar a cidade e os portões.
+* Neemias 7:3: "E eu lhes disse: não abram as portas de Jerusalém até o sol estar quente, e enquanto os porteiros ainda estiverem lá, trave as portas e trave-as enquanto ainda estiverem em guarda. Nomeei alguns dos habitantes de Jerusalém como guardas e também atribuí a cada um uma seção do muro para reparar." Neemias nomeia guardas para proteger a cidade e designa seções do muro para serem reparadas por cada um deles.
+****
+
+[[v16-7-1]]
+
+^<<v16-7-1,1>>^ Depois que os muros foram restaurados e que pus os batentes (das portas), fiz o censo dos porteiros, dos cantores, e dos Levitas.
+
+[[v16-7-2]]
+
+^<<v16-7-2,2>>^ Dei as minhas ordens a meu irmão Hanani e a Anauias, chefe da cidadela de Jerusalém (o qual me parecia homem sincero e temente a Deus, mais do que os outros).
+
+[[v16-7-3]]
+
+^<<v16-7-3,3>>^ Disse-lhes: Não se abram as portas de Jerusalém, até que o sol esteja alto; à tarde, enquanto os guardas ainda estiverem presentes, as portas serão fechadas e trancadas; de noite, farão a guarda os habitantes de Jerusalém, cada um por seu turno, cada um diante da sua casa.
+
+[[v16-7-4]]
+
+^<<v16-7-4,4>>^ A cidade, porém, era muito larga e grande, e dentro dela era pouco o povo, e não estavam reconstruídas todas as casas.
+
+[[v16-7-5]]
+
+^<<v16-7-5,5>>^ Deus, pois, inspirou no meu coração o juntar os grandes, os magistrados e o povo, para fazer o seu recenseamento. Encontrei o registo genealógico daqueles que tinham vindo primeiro, e nele se achou escrito o seguinte:
+
+[[v16-7-6]]
+
+^<<v16-7-6,6>>^ Estes são os filhos da província (da Judeia) que vieram do cativeiro, os quais Nabucodonosor, rei de Babilônia, tinha deportado, e que voltaram para Jerusalém e para a Judeia, cada um para a sua cidade.
+
+[[v16-7-7]]
+
+^<<v16-7-7,7>>^ Vieram sob a direcção de Zorobabel, Josué, Neemias, Azarias, Raamias, Nabamani, Hordoqueu, Belsão, Mesfarat, Begoai, Naum, Baana. O número dos homens (que vieram) do povo de Israel é este:
+
+[[v16-7-8]]
+
+^<<v16-7-8,8>>^ Filhos de Faros, dois mil cento e setenta e dois;
+
+[[v16-7-9]]
+
+^<<v16-7-9,9>>^ filhos de Safatias, trezentos e setenta e dois;
+
+[[v16-7-10]]
+
+^<<v16-7-10,10>>^ filhos de Aréa, seiscentos e cinquenta e dois;
+
+[[v16-7-11]]
+
+^<<v16-7-11,11>>^ filhos de Faat-Moab, dos descendentes de Josué e de Joab, dois mil oitocentos e dezoito;
+
+[[v16-7-12]]
+
+^<<v16-7-12,12>>^ filhos de Elão, mil e duzentos e cinquenta e quatro;
+
+[[v16-7-13]]
+
+^<<v16-7-13,13>>^ filhos de Zetua, oitocentos e quarenta e cinco;
+
+[[v16-7-14]]
+
+^<<v16-7-14,14>>^ filhos de Zacai, setecentos e sessenta;
+
+[[v16-7-15]]
+
+^<<v16-7-15,15>>^ filhos de Banui, seiscentos e quarenta e oito;
+
+[[v16-7-16]]
+
+^<<v16-7-16,16>>^ filhos de Bebai, seiscentos e vinte e oito;
+
+[[v16-7-17]]
+
+^<<v16-7-17,17>>^ filhos de Azgad, dois mil trezentos e vinte e dois;
+
+[[v16-7-18]]
+
+^<<v16-7-18,18>>^ filhos de Adonicão, seiscentos e sessenta e sete;
+
+[[v16-7-19]]
+
+^<<v16-7-19,19>>^ filhos de Beguai, dois mil e sessenta e sete;
+
+[[v16-7-20]]
+
+^<<v16-7-20,20>>^ filhos de Adin, seiscentos e cinquenta e cinco;
+
+[[v16-7-21]]
+
+^<<v16-7-21,21>>^ filhos de Ater, filho de Hezequias, noventa e oito;
+
+[[v16-7-22]]
+
+^<<v16-7-22,22>>^ filhos de Hasem, trezentos e vinte e oito;
+
+[[v16-7-23]]
+
+^<<v16-7-23,23>>^ filhos de Besai, trezentos e vinte e quatro;
+
+[[v16-7-24]]
+
+^<<v16-7-24,24>>^ filhos de Haref, cento e doze;
+
+[[v16-7-25]]
+
+^<<v16-7-25,25>>^ filhos de Gabaon, noventa e cinco;
+
+[[v16-7-26]]
+
+^<<v16-7-26,26>>^ filhos de Belém e de Netofa, cento e oitenta e oito;
+
+[[v16-7-27]]
+
+^<<v16-7-27,27>>^ homens de Anatot, cento e vinte e oito;
+
+[[v16-7-28]]
+
+^<<v16-7-28,28>>^ homens de Betazmot, quarenta e dois;
+
+[[v16-7-29]]
+
+^<<v16-7-29,29>>^ homens de Cariatiarim, de Cefira e de Berot, setecentos e quarenta e três;
+
+[[v16-7-30]]
+
+^<<v16-7-30,30>>^ homens de Rama e Geba, seiscentos e vinte e um;
+
+[[v16-7-31]]
+
+^<<v16-7-31,31>>^ homens de Macmas, cento e vinte e dois;
+
+[[v16-7-32]]
+
+^<<v16-7-32,32>>^ homens de Betei e de Hai, cento e vinte e três;
+
+[[v16-7-33]]
+
+^<<v16-7-33,33>>^ homens da outra Nebo, cinquenta e dois;
+
+[[v16-7-34]]
+
+^<<v16-7-34,34>>^ filhos da outra Elão, mil e duzentos e cinquenta e quatro;
+
+[[v16-7-35]]
+
+^<<v16-7-35,35>>^ filhos de Harem, trezentos e vinte;
+
+[[v16-7-36]]
+
+^<<v16-7-36,36>>^ filhos de Jericó, trezentos e quarenta e cinco;
+
+[[v16-7-37]]
+
+^<<v16-7-37,37>>^ filhos de Lod, de Hadid e de Ono, setecentos e vinte e um;
+
+[[v16-7-38]]
+
+^<<v16-7-38,38>>^ filhos de Senaa, três mil novecentos e trinta.
+
+[[v16-7-39]]
+
+^<<v16-7-39,39>>^ Sacerdotes: Filhos de Idaias, da casa de Josué, novecentos e setenta e três;
+
+[[v16-7-40]]
+
+^<<v16-7-40,40>>^ filhos de Emer, mil e cinquenta e dois;
+
+[[v16-7-41]]
+
+^<<v16-7-41,41>>^ filhos de Fasur, mil e duzentos e quarenta e sete;
+
+[[v16-7-42]]
+
+^<<v16-7-42,42>>^ filhos de Arem, mil e dezassete. Levitas:
+
+[[v16-7-43]]
+
+^<<v16-7-43,43>>^ filhos de Josué e de Cedmiel, filhos (ou descendentes)
+
+[[v16-7-44]]
+
+^<<v16-7-44,44>>^ de Oduia, setenta e quatro. Cantores:
+
+[[v16-7-45]]
+
+^<<v16-7-45,45>>^ filhos de Asaf, cento e quarenta e oito.
+
+[[v16-7-46]]
+
+^<<v16-7-46,46>>^ Porteiros: filhos de Selum, filhos de Ater, filhos de Telmon, filhos de Acub, filhos de Hatita, filhos de Sobai, cento e trinta e oito.
+
+[[v16-7-47]]
+
+^<<v16-7-47,47>>^ Natineus: filhos de Soa, filhos de Hasufa, filhos de Tebaot,
+
+[[v16-7-48]]
+
+^<<v16-7-48,48>>^ filhos de Ceros, filhos de Siaa, filhos de Fadon, filhos de Lebana, filhos de Hagaba, filhos de Selmai,
+
+[[v16-7-49]]
+
+^<<v16-7-49,49>>^ filhos de Hanan, filhos de Gedel, filhos de Gaer,
+
+[[v16-7-50]]
+
+^<<v16-7-50,50>>^ filhos de Raaia, filhos de Rasin, filhos de Necoda,
+
+[[v16-7-51]]
+
+^<<v16-7-51,51>>^ filhos de Gesem, filhos de Aza, filhos de Fasea,
+
+[[v16-7-52]]
+
+^<<v16-7-52,52>>^ filhos de Besai, filhos de Munim, filhos de Nefusim,
+
+[[v16-7-53]]
+
+^<<v16-7-53,53>>^ filhos de Bacbuc, filhos de Hacufa, filhos de Harhur,
+
+[[v16-7-54]]
+
+^<<v16-7-54,54>>^ filhos de Beslot, filhos de Maida, filhos de Harsa,
+
+[[v16-7-55]]
+
+^<<v16-7-55,55>>^ filhos de Bercos, filhos de Sisara, filhos de Tema,
+
+[[v16-7-56]]
+
+^<<v16-7-56,56>>^ filhos de Nasia, filhos de Halifa.
+
+[[v16-7-57]]
+
+^<<v16-7-57,57>>^ Filhos dos servos de Salomão; filhos de Sotai, filhos de Soferet, filhos de Farida,
+
+[[v16-7-58]]
+
+^<<v16-7-58,58>>^ filhos de Jaala, filhos de Darcon, filhos de Jedel,
+
+[[v16-7-59]]
+
+^<<v16-7-59,59>>^ filhos de Safatias, filhos de Hatil, filhos de Foqueret-Asebaím, filhos de Amon.
+
+[[v16-7-60]]
+
+^<<v16-7-60,60>>^ Todos os Natineus e os filhos dos servos de Salomão eram trezentos e noventa e dois.
+
+[[v16-7-61]]
+
+^<<v16-7-61,61>>^ Eis os que vieram de Telmela, de Tel-Harsa, de Queruh, de Adon, e de Emer, e que não puderam declarar a casa de seus pais, nem a sua raça, nem se eram do povo de Israel:
+
+[[v16-7-62]]
+
+^<<v16-7-62,62>>^ Os filhos de Dalaia, os filhos de Tobias, os filhos de Necoda, seiscentos e quarenta e dois.
+
+[[v16-7-63]]
+
+^<<v16-7-63,63>>^ Entre os sacerdotes: os filhos de Habia, os filhos de Acos, os filhos de Berzelai, que tinha casado com uma das filhas de Berzelai, de Galaad, e ficou conhecido por esse nome.
+
+[[v16-7-64]]
+
+^<<v16-7-64,64>>^ Estes buscaram o registo dos seus nomes no livro genealógico, mas não o encontraram, e foram excluídos do sacerdócio.
+
+[[v16-7-65]]
+
+^<<v16-7-65,65>>^ O governador intimou-lhes que não comessem das ofertas sagradas, até que houvesse um sacerdote douto e erudito (que resolvesse o assunto).
+
+[[v16-7-66]]
+
+^<<v16-7-66,66>>^ Toda esta multidão, como se fosse um só homem, era de quarenta e duas mil trezentas e sessenta pessoas,
+
+[[v16-7-67]]
+
+^<<v16-7-67,67>>^ sem falar nos seus escravos e escravas, que eram sete mil trezentos e trinta e sete. Havia entre eles duzentos e quarenta e cinco cantores e cantoras.
+
+[[v16-7-68]]
+
+^<<v16-7-68,68>>^ Tinham setecentos e trinta e seis cavalos, duzentos e quarenta e cinco machos,
+
+[[v16-7-69]]
+
+^<<v16-7-69,69>>^ quatrocentos e trinta e cinco camelos, seis mil setecentos e vinte jumentos.
+
+[[v16-7-70]]
+
+^<<v16-7-70,70>>^ Alguns dos chefes das famílias contribuíram para a obra. O governador deu para o tesouro mil dáricos de ouro, cinquenta laças e quinhentas e trinta túnicas sacerdotais.
+
+[[v16-7-71]]
+
+^<<v16-7-71,71>>^ Alguns dos chefes das famílias deram para o tesouro da obra vinte mil dracmas de ouro e duas mil e duzentas minas de prata.
+
+[[v16-7-72]]
+
+^<<v16-7-72,72>>^ O resto do povo deu vinte mil dáricos de ouro, duas mil minas de prata e sessenta e sete túnicas sacerdotais.
+
+[[v16-7-73]]
+
+^<<v16-7-73,73>>^ Os sacerdotes, os Levitas, os porteiros, os cantores, o resto do povo, os Natineus e todos os Israelitas ficaram habitando nas suas cidades.
+
+'''
+
+xref:016-neemias/016-neemias-006.adoc#v16-6-0[&#60; Capítulo Anterior] | <<v16-7-0,Topo>> | xref:016-neemias/016-neemias-008.adoc#v16-8-0[Próximo Capítulo &#62;]

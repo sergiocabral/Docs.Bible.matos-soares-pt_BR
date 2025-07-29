@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v4-9-0]]
+=== Números, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Números 9 descreve como os filhos de Israel celebraram a Páscoa no deserto do Sinai, seguindo as instruções dadas por Deus a Moisés. Além disso, o capítulo também trata da nuvem que cobria o Tabernáculo e guiava os israelitas em sua jornada. Abaixo estão cinco versículos relacionados com esses temas:
+* Êxodo 12:14 - "Este dia vos será por memória, e celebrá-lo-eis por festa ao Senhor; nas vossas gerações o celebrareis por estatuto perpétuo." Este versículo se refere à instituição da Páscoa como uma celebração anual para o povo de Israel.
+* Êxodo 13:21 - "E o Senhor ia adiante deles, de dia numa coluna de nuvem para os guiar pelo caminho, e de noite numa coluna de fogo para os iluminar, para que caminhassem de dia e de noite." Esse versículo destaca a presença de Deus guiando os filhos de Israel por meio de uma coluna de nuvem durante a jornada pelo deserto.
+* Números 9:15 - "E no dia em que foi levantado o Tabernáculo, a nuvem cobriu o Tabernáculo sobre a tenda do testemunho; e à tarde havia sobre o Tabernáculo, como que uma aparência de fogo, até à manhã." Esse versículo destaca a importância da nuvem que cobria o Tabernáculo, indicando a presença de Deus no meio do povo.
+* Números 9:18 - "No dia em que o Tabernáculo foi armado, a nuvem cobriu o Tabernáculo, a saber, a tenda do testemunho; e à tarde havia sobre o Tabernáculo, como que uma aparência de fogo, até à manhã." Esse versículo repete a informação anterior para enfatizar a importância da nuvem no acampamento dos israelitas.
+* Salmos 32:8 - "Instruir-te-ei e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos." Esse versículo destaca a importância da orientação divina na vida dos crentes e pode ser relacionado à presença da nuvem que guiava os filhos de Israel durante sua jornada no deserto.
+****
+
+[[v4-9-1]]
+
+^<<v4-9-1,1>>^ Senhor falou a Moisés no deserto do Sinai, no primeiro mês do segundo ano depois que tinham saído da terra do Egito, e disse:
+
+[[v4-9-2]]
+
+^<<v4-9-2,2>>^ Os filhos de Israel celebrem a Páscoa no tempo estabelecido,
+
+[[v4-9-3]]
+
+^<<v4-9-3,3>>^ no dia catorze deste mês à tarde, segundo todas as suas cerimônias e os seus filhos.
+
+[[v4-9-4]]
+
+^<<v4-9-4,4>>^ Moisés mandou aos filhos de Israel que celebrassem a Páscoa.
+
+[[v4-9-5]]
+
+^<<v4-9-5,5>>^ Eles celebraram-na no tempo estabelecido, no dia catorze do mês à tarde, no monte Sinai. Os filhos de Israel fizeram tudo conforme o Senhor tinha ordenado a Moisés.
+
+[[v4-9-6]]
+
+^<<v4-9-6,6>>^ Alguns que se achavam impuros, por se terem chegado a um morto, os quais não podiam fazer a Páscoa naquele dia, foram ter com Moisés e Aarão e
+
+[[v4-9-7]]
+
+^<<v4-9-7,7>>^ disseram-lhes: Estamos impuros por causa de nos termos chegado a um morto; por que havemos nós de ser privados de fazer a oblação ao Senhor no tempo estabelecido, entre os filhos de Israel?
+
+[[v4-9-8]]
+
+^<<v4-9-8,8>>^ Moisés respondeu-lhes: Esperai que eu consulte o Senhor, para saber o que ordenará acerca de vós.
+
+[[v4-9-9]]
+
+^<<v4-9-9,9>>^ O Senhor falou a Moisés, dizendo:
+
+[[v4-9-10]]
+
+^<<v4-9-10,10>>^ Dize aos filhos de Israel: O homem que estiver impuro por causa dum morto, ou se achar em jornada longe de vós, faça a Páscoa do Senhor
+
+[[v4-9-11]]
+
+^<<v4-9-11,11>>^ no dia catorze do segundo mês, entre as duas luzes (ao findar o dia). Comê-la-á com pães ázimos e ervas amargas,
+
+[[v4-9-12]]
+
+^<<v4-9-12,12>>^ não deixará nada para a manhã seguinte, nem quebrará os ossos, observará todos os ritos da Páscoa.
+
+[[v4-9-13]]
+
+^<<v4-9-13,13>>^ Se alguém está puro, não se encontra em viagem, e todavia não celebra a Páscoa, será exterminado do seu povo, porque não ofereceu no tempo estabelecido o sacrifício do Senhor; esse levará o seu pecado.
+
+[[v4-9-14]]
+
+^<<v4-9-14,14>>^ Do mesmo modo o peregrino e o estrangeiro, se morarem entre vós, farão a Páscoa em honra do Senhor com as suas cerimônias e os seus ritos. O mesmo preceito será guardado entre vós, tanto pelo estrangeiro como pelo natural.
+
+[[v4-9-15]]
+
+^<<v4-9-15,15>>^ No dia, pois, em que o tabernáculo foi erecto, a nuvem o cobriu. Da tarde, porém, até manhã estava sobre o tabernáculo como uma espécie de fogo.
+
+[[v4-9-16]]
+
+^<<v4-9-16,16>>^ Assim acontecia continuamente: De dia cobria-o a nuvem, e de noite como que uma espécie de fogo.
+
+[[v4-9-17]]
+
+^<<v4-9-17,17>>^ Quando se levantava a nuvem que cobria o tabernáculo, então punham-se em marcha os filhos de Israel; no lugar onde a nuvem parava, ai acampavam.
+
+[[v4-9-18]]
+
+^<<v4-9-18,18>>^ A ordem do Senhor partiam, e à sua ordem assentavam o tabernáculo. Todo o tempo em que a nuvem estava parada sobre o tabernáculo, permaneciam no mesmo lugar:
+
+[[v4-9-19]]
+
+^<<v4-9-19,19>>^ se acontecia estar parada sobre ele muito tempo, os filhos de Israel estavam às ordens do Senhor, e não partiam
+
+[[v4-9-20]]
+
+^<<v4-9-20,20>>^ durante todo o tempo em que a nuvem estava sobre o tabernáculo. Ao mandado do Senhor levantavam as tendas e ao seu mandado as desarmavam.
+
+[[v4-9-21]]
+
+^<<v4-9-21,21>>^ Se a nuvem se detinha desde a tarde até de manhã, e logo ao romper do dia se elevava do tabernáculo, partiam; se, depois de um dia e uma noite, se retirava, desmanchavam as tendas;
+
+[[v4-9-22]]
+
+^<<v4-9-22,22>>^ se, porém, se detinha sobre o tabernáculo dois dias ou um mês ou mais tempo, os filhos de Israel ficavam no mesmo lugar, e não partiam, mas logo que a nuvem se elevava, levantavam o acampamento.
+
+[[v4-9-23]]
+
+^<<v4-9-23,23>>^ Ao mandado do Senhor assentavam as tendas, e ao seu mandado partiam; estavam sempre atentos ao Sinal do Senhor, como este tinha ordenado por meio de Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-008.adoc#v4-8-0[&#60; Capítulo Anterior] | <<v4-9-0,Topo>> | xref:004-numeros/004-numeros-010.adoc#v4-10-0[Próximo Capítulo &#62;]

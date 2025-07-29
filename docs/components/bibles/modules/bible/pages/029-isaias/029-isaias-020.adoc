@@ -1,0 +1,43 @@
+include::./index.adoc[]
+
+[[v29-20-0]]
+=== Isaías, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 20 é um capítulo curto que descreve a ação do profeta Isaías, que foi instruído por Deus a andar nu e descalço por três anos como um sinal de julgamento contra o Egito e a Etiópia. Além disso, Deus fala sobre a queda da cidade de Asdode. A seguir, estão cinco versículos relacionados com os temas abordados em Isaías 20:
+* 2 Reis 18:21: "Agora, veja, você está confiando no Egito, aquele bastão de cana esmagado, que perfura a mão de qualquer um que nele se apóia. Tal é o Faraó, rei do Egito, para todos os que nele confiam." Este versículo fala sobre a confiança equivocada que o rei Ezequias depositou no Egito em vez de confiar em Deus.
+* Jeremias 46:25: "O Senhor dos Exércitos, o Deus de Israel, disse: Eis que eu estou trazendo sobre Amon, de No e sobre Faraó e sobre o Egito, juntamente com seus deuses e seus reis, sim, sobre Faraó e sobre aqueles que confiam nele." Este versículo fala sobre a punição de Deus sobre aqueles que confiam no Egito e em seus deuses.
+* Isaías 19:1: "Profecia contra o Egito: Veja, o Senhor cavalga sobre uma nuvem rápida e vem ao Egito; e os ídolos do Egito tremem diante dele, e o coração dos egípcios se derrete no meio deles." Este versículo mostra como Deus é poderoso sobre o Egito e seus deuses.
+* Amós 1:8: "E eu destruirei o habitante de Asdode e o que detém o cetro de Ascalom; e voltarei a minha mão contra Ecrom, e o remanescente dos filisteus perecerá, diz o Senhor Deus." Este versículo fala sobre a destruição de Asdode, uma cidade filisteia, que é mencionada em Isaías 20.
+* Isaías 30:2: "Que descem ao Egito sem buscar a minha boca; para fortalecerem a si mesmos com a força de Faraó, e para se refugiarem à sombra do Egito!" Este versículo mostra como confiar no Egito e em sua força em vez de buscar a Deus é uma tolice.
+****
+
+[[v29-20-1]]
+
+^<<v29-20-1,1>>^ No ano em que Tartan, enviado por Sargão, rei dos Assírios, foi contra Azot e a combateu e tomou,
+
+[[v29-20-2]]
+
+^<<v29-20-2,2>>^ nesse tempo o Senhor falou a Isaías, filho de Amós, dizendo; Vai, desata de teus rins o saco e tira o calçado de teus pés. Isaías fê-lo assim, indo nu (isto é, só com a roupa interior) e descalço.
+
+[[v29-20-3]]
+
+^<<v29-20-3,3>>^ E o Senhor disse: Assim como o meu servo Isaías andou três anos nu e descalço, para ser um sinal e um prognóstico para o Egito e a Etiópia,
+
+[[v29-20-4]]
+
+^<<v29-20-4,4>>^ assim o rei dos Assírios levará os cativos do Egito e os deportados da Etiópia, moços e velhos, nus e descalços, com os dorsos descobertos, para ignomínia do Egito.
+
+[[v29-20-5]]
+
+^<<v29-20-5,5>>^ Então temerão e se envergonharão os que tinham posto a sua esperança na Etiópia, e a sua glória no Egito.
+
+[[v29-20-6]]
+
+^<<v29-20-6,6>>^ Os habitantes deste litoral dirão naquele dia: Eis aqueles em que pusemos a nossa esperança! A que homens recorremos nós, implorando socorro, para nos livrarem do rei dos Assírios! E como poderemos nós escapar?
+
+'''
+
+xref:029-isaias/029-isaias-019.adoc#v29-19-0[&#60; Capítulo Anterior] | <<v29-20-0,Topo>> | xref:029-isaias/029-isaias-021.adoc#v29-21-0[Próximo Capítulo &#62;]

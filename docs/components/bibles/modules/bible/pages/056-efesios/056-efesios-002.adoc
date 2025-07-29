@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v56-2-0]]
+=== Efésios, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Efésios 2 fala sobre a salvação pela graça de Deus através da fé em Jesus Cristo. O capítulo descreve como, antes da salvação, estávamos mortos em nossos pecados e éramos objetos da ira de Deus, mas agora, em Cristo, somos salvos pela graça através da fé. A seguir, estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Efésios 2.
+* Romanos 3:23-24: "Porque todos pecaram e destituídos estão da glória de Deus; sendo justificados gratuitamente pela sua graça, pela redenção que há em Cristo Jesus." Este versículo mostra que todos pecaram e precisam da graça de Deus para serem justificados. Isso está relacionado com o tema da salvação pela graça em Efésios 2.
+* João 3:16: "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna." Este versículo descreve a oferta de salvação através de Jesus Cristo e é relevante para o tema da salvação em Efésios 2.
+* Romanos 5:8: "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores." Este versículo destaca o amor de Deus por nós e como Cristo morreu por nossos pecados. Isso está relacionado com o tema da salvação pela graça em Efésios 2.
+* Atos 4:12: "E em nenhum outro há salvação, porque debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos." Este versículo declara que a salvação só é possível através de Jesus Cristo, o que está relacionado com o tema da salvação em Efésios 2.
+* Colossenses 2:13-14: "E a vós, quando estáveis mortos nos pecados, e na incircuncisão da vossa carne, vos vivificou juntamente com ele, perdoando-vos todas as ofensas. Havendo riscado a cédula que era contra nós nas suas ordenanças, a qual de alguma maneira nos era contrária, e a tirou do meio de nós, cravando-a na cruz." Este versículo fala sobre como Cristo nos vivificou quando estávamos mortos em nossos pecados e perdoou todas as nossas ofensas. Isso está relacionado com o tema da salvação pela graça em Efésios 2.
+****
+
+[[v56-2-1]]
+
+^<<v56-2-1,1>>^ E a vós (deu a vida espiritual), quando estáveis mortos pelos vossos delitos e pecados,
+
+[[v56-2-2]]
+
+^<<v56-2-2,2>>^ nos quais andastes outrora, segundo o costume deste mundo, segundo o príncipe que exerce o poder sobre o ar, o espírito que agora opera nos filhos da desobediência, (ver nota)
+
+[[v56-2-3]]
+
+^<<v56-2-3,3>>^ entre os quais também todos nós vivíamos outrora, segundo os desejos da nossa carne, fazendo a vontade da carne e dos apetites, e éramos por natureza filhos da ira, como todos os outros.
+
+[[v56-2-4]]
+
+^<<v56-2-4,4>>^ Mas Deus, que é rico em misericórdia, pela extrema caridade, com que nos amou,
+
+[[v56-2-5]]
+
+^<<v56-2-5,5>>^ estando nós mortos pelos pecados, convivificou-nos em Cristo, (por cuja graça fostes salvos).
+
+[[v56-2-6]]
+
+^<<v56-2-6,6>>^ Com ele nos ressuscitou (para uma vida nova) e nos fez sentar nos céus com Jesus Cristo,
+
+[[v56-2-7]]
+
+^<<v56-2-7,7>>^ a fim de mostrar aos séculos futuros as abundantes riquezas da sua graça, por meio da sua bondade para conosco em Jesus Cristo.
+
+[[v56-2-8]]
+
+^<<v56-2-8,8>>^ Porque pela graça fostes salvos, mediante a fé, e isto não (vem) de vós, porque é um dom de Deus;
+
+[[v56-2-9]]
+
+^<<v56-2-9,9>>^ não (vem) das (vossas) obras (praticadas sem a sua graça), para que ninguém se glorie.
+
+[[v56-2-10]]
+
+^<<v56-2-10,10>>^ Realmente somos obra sua, criados em Jesus Cristo para (fazer) boas obras, que Deus preparou para caminharmos nelas.
+
+[[v56-2-11]]
+
+^<<v56-2-11,11>>^ Por isso lembrai-vos, vós, os gentios de origem, chamados incircuncidados pelos que se chamam circuncidados na sua carne por mão de homem,
+
+[[v56-2-12]]
+
+^<<v56-2-12,12>>^ (lembrai-vos) que estáveis nesse tempo sem Cristo, separados da sociedade de Israel, estranhos às alianças, sem esperança da promessa e sem Deus neste mundo. (ver nota)
+
+[[v56-2-13]]
+
+^<<v56-2-13,13>>^ Mas agora (que viveis espiritualmente) em Jesus Cristo, vós, que outrora estáveis longe, fostes aproximados pelo sangue de Cristo.
+
+[[v56-2-14]]
+
+^<<v56-2-14,14>>^ Porque ele é a nossa paz, ele que de dois povos fez um só, destruindo a parede de inimizade que os separava, (ver nota)
+
+[[v56-2-15]]
+
+^<<v56-2-15,15>>^ e abolindo na sua carne a lei com os seus mandamentos e prescrições, para formar em si mesmo dos dois um só homem novo, fazendo a paz,
+
+[[v56-2-16]]
+
+^<<v56-2-16,16>>^ e para os reconciliar a ambos, tornados um só corpo, com Deus, por meio da cruz, destruindo a inimizade em si mesmo.
+
+[[v56-2-17]]
+
+^<<v56-2-17,17>>^ E assim veio anunciar a paz a vós (gentios), que estáveis longe, e a paz aos (Judeus), que estavam perto,
+
+[[v56-2-18]]
+
+^<<v56-2-18,18>>^ porquanto é por ele que uns e outros temos acesso ao Pai mediante um mesmo Espírito.
+
+[[v56-2-19]]
+
+^<<v56-2-19,19>>^ Vós, pois, já não sois hóspedes, nem adventícios, mas sois concidadãos dos santos e membros da família de Deus,
+
+[[v56-2-20]]
+
+^<<v56-2-20,20>>^ edificados sobre o fundamento dos apóstolos e dos profetas, sendo o mesmo Jesus Cristo a principal pedra angular,
+
+[[v56-2-21]]
+
+^<<v56-2-21,21>>^ sobre o qual todo o edifício (espiritual) bem ordenado se levanta para ser um templo santo no Senhor,
+
+[[v56-2-22]]
+
+^<<v56-2-22,22>>^ sobre o qual vós sois também juntamente edificados para morada de Deus, mediante o Espírito (Santo).
+
+'''
+
+xref:056-efesios/056-efesios-001.adoc#v56-1-0[&#60; Capítulo Anterior] | <<v56-2-0,Topo>> | xref:056-efesios/056-efesios-003.adoc#v56-3-0[Próximo Capítulo &#62;]

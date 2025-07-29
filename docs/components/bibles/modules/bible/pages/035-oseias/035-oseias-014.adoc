@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v35-14-0]]
+=== Oséias, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 14 de Oséias é um convite ao arrependimento e à restauração do relacionamento entre Deus e o povo de Israel. É um chamado para que eles voltem ao Senhor e reconheçam a sua dependência dele, e não de ídolos ou de outros deuses. Os versículos selecionados abaixo estão relacionados com a temática principal do capítulo, o arrependimento e a busca por Deus.
+* Salmos 51:17: "Sacrifícios agradáveis a ti são o espírito quebrantado; coração compungido e contrito, não o desprezarás, ó Deus." Este verso enfatiza que o arrependimento verdadeiro é o que agrada a Deus, mais do que qualquer sacrifício ou oferenda que possamos oferecer.
+* Isaías 55:6-7: "Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; volte-se ao Senhor, que se compadecerá dele; e para o nosso Deus, porque é rico em perdoar." Este verso reforça a mensagem central do capítulo 14 de Oséias, que é a busca por Deus e o arrependimento dos nossos pecados.
+* Jeremias 31:18-19: "Certamente ouvi Efraim lamentando-se: Castigaste-me, e fui castigado como novilho ainda não domesticado; faze-me voltar para que eu volte, porque tu és o Senhor, meu Deus. Porque, depois que me desviei, arrependi-me; e depois que compreendi, bati na minha coxa; envergonhado estou e confundido, porque suportei o opróbrio da minha mocidade." Este verso mostra o arrependimento genuíno de Efraim (um dos nomes dados a Israel) e o desejo de voltar para o Senhor.
+* Lucas 15:11-32: A parábola do filho pródigo é um exemplo vivo de arrependimento e reconciliação. O filho mais novo desperdiça a sua herança e acaba vivendo em extrema pobreza, até que decide voltar para a casa do seu pai. Ele reconhece os seus erros, pede perdão e é recebido com alegria pelo pai. Esta parábola ilustra o amor de Deus pelo seu povo e a sua disposição em perdoar aqueles que se arrependem verdadeiramente.
+* Apocalipse 2:4-5: "Tenho, porém, contra ti que deixaste o teu primeiro amor. Lembra-te, pois, de onde caíste, e arrepende-te, e pratica as primeiras obras; e se não, brevemente virei a ti, e removerei do seu lugar o teu candeeiro, se não te arrependeres." Este verso destaca a importância do arrependimento contínuo e da busca constante por Deus, para que não percamos o nosso primeiro amor e a nossa comunhão com Ele.
+****
+
+[[v35-14-1]]
+
+^<<v35-14-1,1>>^ A Samaria será castigada, porque se revoltou contra o seu Deus. (Os sem habitantes) cairão ao fio da espada, serão esmagados os seus meninos, e abertos os ventres das mulheres grávidas.
+
+[[v35-14-2]]
+
+^<<v35-14-2,2>>^ Converte-te, ó Israel, ao Senhor teu Deus, porque pela iniquidade é que caiste.
+
+[[v35-14-3]]
+
+^<<v35-14-3,3>>^ Tomai convosco palavras (de arrependimento), convertei-vos ao Senhor, dizei-lhe; Tira-nos todas as nossas iniquidades, aceita este bem (ou bom desejo que temos); queremos oferecer-te, como sacrifício, os louvores dos nossos lábios.
+
+[[v35-14-4]]
+
+^<<v35-14-4,4>>^ Assur não nos salvará (mas sim tu Senhor); não montaremos (arrogantes) em cavalos e nunca mais chamaremos Deus à obra das nossas mãos. (Fazemos esta súplica) porque em ti o órfão encontra compaixão,
+
+[[v35-14-5]]
+
+^<<v35-14-5,5>>^ Curarei a sua infidelidade (responde o Senhor), amá-los-ei espontâneamente, porque já o meu furor se afastou deles.
+
+[[v35-14-6]]
+
+^<<v35-14-6,6>>^ Serei como o orvalho para Israel; crescerá como um lírio, e deitará raízes como o Líbano.
+
+[[v35-14-7]]
+
+^<<v35-14-7,7>>^ Estender-se-ão os seus ramos, a sua glória será como a da oliveira, o seu perfume como o do Líbano.
+
+[[v35-14-8]]
+
+^<<v35-14-8,8>>^ Virão repousar debaixo da sua sombra; viverão de trigo e propagar-se-ão como a vinha; a sua nomeada será como a do vinho do Líbano.
+
+[[v35-14-9]]
+
+^<<v35-14-9,9>>^ (Depois disto) que terá Efraim de comum com os ídolos? Fui eu que o afligi e que o tornei feliz ; sou como um cipreste sempre verdejante; em mim terão origem os teus frutos (ó Israel).
+
+[[v35-14-10]]
+
+^<<v35-14-10,10>>^ Quem é o sábio que compreenderá estas coisas (que escrevi)? Quem tem inteligência para as conhecer? Porque os caminhos do Senhor são rectos; por eles andarão os justos, mas neles cairão os prevaricadores. (ver nota)
+
+'''
+
+xref:035-oseias/035-oseias-013.adoc#v35-13-0[&#60; Capítulo Anterior] | <<v35-14-0,Topo>> | xref:036-joel/036-joel-001.adoc#v36-1-0[Próximo Capítulo &#62;]

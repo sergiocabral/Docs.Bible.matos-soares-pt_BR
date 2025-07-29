@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v28-48-0]]
+=== Eclesiástico, 48
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 48 contém um elogio aos grandes profetas da história de Israel, especialmente Elias e Eliseu. Eles são descritos como instrumentos de Deus para realizar grandes obras e restaurar a fé do povo. Abaixo estão cinco versículos relacionados com os temas abordados em Eclesiástico 48:
+* 1 Reis 17:1 - "O profeta Elias, de Tisbe em Gileade, disse a Acabe: 'Juro pelo nome do Senhor, o Deus de Israel, a quem sirvo, que não cairá orvalho nem chuva nos próximos anos, a menos que eu o ordene'". Este versículo introduz Elias, um dos grandes profetas do Antigo Testamento, que é elogiado em Eclesiástico 48 por suas realizações.
+* 2 Reis 2:11 - "Enquanto estavam caminhando e conversando, eis que um carro de fogo, puxado por cavalos de fogo, separou os dois, e Elias foi levado ao céu num redemoinho." Este versículo descreve a ascensão de Elias ao céu, um evento impressionante que demonstra a grandeza e poder do profeta.
+* 2 Reis 5:14 - "Então desceu, mergulhou no Jordão sete vezes, como o homem de Deus havia lhe ordenado, e sua carne ficou como a de uma criança, e ele ficou curado." Este versículo descreve a cura do general sírio Naamã pelas mãos de Eliseu, outro grande profeta que é elogiado em Eclesiástico 48.
+* 2 Reis 13:21 - "Enquanto estavam sepultando um homem, viram uma gangue de ladrões e jogaram o homem no túmulo de Eliseu. Quando o corpo do homem tocou os ossos de Eliseu, ele voltou à vida e se levantou." Este versículo descreve outro milagre realizado por Eliseu, no qual um homem morto é ressuscitado ao tocar nos ossos do profeta.
+* Malaquias 4:5 - "Eis que eu enviarei a vocês o profeta Elias, antes que chegue o grande e temível dia do Senhor." Este versículo profetiza a volta de Elias no futuro para anunciar a chegada do Messias. Esta profecia é mencionada em Eclesiástico 48:10 como uma promessa de que Elias ainda desempenharia um papel importante na história de Israel.
+****
+
+[[v28-48-1]]
+
+^<<v28-48-1,1>>^ Surgiu depois o profeta Elias, como um fogo. As suas palavras ardiam como um facho. Fez vir sobre eles a fome.
+
+[[v28-48-2]]
+
+^<<v28-48-2,2>>^ Os que o irritavam pela sua inveja foram reduzidos a um pequeno número, porque não podiam suportar os preceitos do Senhor. (ver nota)
+
+[[v28-48-3]]
+
+^<<v28-48-3,3>>^ Com a palavra do Senhor fechou o céu, e fez cair fogo do mesmo céu por três vezes.
+
+[[v28-48-4]]
+
+^<<v28-48-4,4>>^ Quão glorioso te tornaste, Elias, pelos teus prodígios! Quem pode gloriar-se de ser como tu?
+
+[[v28-48-5]]
+
+^<<v28-48-5,5>>^ Tu que fizeste sair um morto do sepulcro, arrancando-o à morte, em virtude da palavra do Senhor Deus;
+
+[[v28-48-6]]
+
+^<<v28-48-6,6>>^ que precipitaste os reis na desgraça, que desfizeste sem trabalho o seu poder, e, no meio da sua glória, os fizeste cair do leito (na sepultura);
+
+[[v28-48-7]]
+
+^<<v28-48-7,7>>^ que ouviste sobre o Sinai o juízo do Senhor, e sobre o Horeb os decretos da sua vingança; (ver nota)
+
+[[v28-48-8]]
+
+^<<v28-48-8,8>>^ que sagraste reis para vingar crimes, e estabeleceste profetas para teus sucessores;
+
+[[v28-48-9]]
+
+^<<v28-48-9,9>>^ que foste arrebatado (ao céu) num redemoinho de fogo, num carro tirado por cavalos ardentes;
+
+[[v28-48-10]]
+
+^<<v28-48-10,10>>^ tu, que foste designado nos decretos dos tempos para abrandar a ira do Senhor, para reconciliar o coração dos pais com os filhos, e para restabelecer as tribos de Jacob.
+
+[[v28-48-11]]
+
+^<<v28-48-11,11>>^ Bem-aventurados os que te viram, e que foram honrados com a tua amizade!
+
+[[v28-48-12]]
+
+^<<v28-48-12,12>>^ Quanto a nos, vivemos só durante esta vida, e depois da morte não teremos um nome como o teu.
+
+[[v28-48-13]]
+
+^<<v28-48-13,13>>^ Elias foi envolto num redemoinho, mas o seu espírito ficou em Eliseu, o qual não temeu príncipe algum em seus dias, e, em poder, não foi vencido por ninguém.
+
+[[v28-48-14]]
+
+^<<v28-48-14,14>>^ Nada houve que o pudesse dominar, e, ainda depois de morto, o seu corpo profetizou.
+
+[[v28-48-15]]
+
+^<<v28-48-15,15>>^ Em sua vida fez prodígios, e na morte operou maravilhas.
+
+[[v28-48-16]]
+
+^<<v28-48-16,16>>^ Com todas estas maravilhas o povo não fez penitência, não se afastou dos seus pecados, até que foi expulso da sua terra, e espalhado por todo o mundo.
+
+[[v28-48-17]]
+
+^<<v28-48-17,17>>^ Ficou muito pouca gente (na Palestina), e (somente) um príncipe da casa de Davide.
+
+[[v28-48-18]]
+
+^<<v28-48-18,18>>^ Alguns deles fizeram o que era do agrado de Deus, outros cometeram muitos pecados.
+
+[[v28-48-19]]
+
+^<<v28-48-19,19>>^ Ezequias fortificou a sua cidade, conduziu água para o centro dela, abriu com ferro um rochedo, e fez reservatórios para água.
+
+[[v28-48-20]]
+
+^<<v28-48-20,20>>^ Durante o seu reinado veio Senaquerib. que enviou Rabsaces, o qual levantou a sua mão contra eles. estendeu a sua mão contra Sião, ensoberbecendo-se com o seu poder.
+
+[[v28-48-21]]
+
+^<<v28-48-21,21>>^ Então (os Israelitas) ficaram sobressaltados nos seus corações e nas suas mãos sentiram dores como as mulheres que estão de parto.
+
+[[v28-48-22]]
+
+^<<v28-48-22,22>>^ Invocaram o Senhor misericordioso, levantando ao céu as suas mãos estendidas, e o Santo, o Senhor Deus, ouviu logo a sua voz.
+
+[[v28-48-23]]
+
+^<<v28-48-23,23>>^ Não mais se lembrou dos seus pecados, não os entregou aos seus inimigos, mas purificou-os por mão do santo profeta Isaías.
+
+[[v28-48-24]]
+
+^<<v28-48-24,24>>^ Dissipou o Acampamento dos Assírios, e o anjo do Senhor os exterminou.
+
+[[v28-48-25]]
+
+^<<v28-48-25,25>>^ Porque Ezequias fez o que era do agrado de Deus, andou com fortaleza pelo caminho de Davide seu Pai, como lhe tinha recomendado Isaías, profeta grande e fiel diante de Deus.
+
+[[v28-48-26]]
+
+^<<v28-48-26,26>>^ Em seus dias, o Sol voltou para trás, e ele (o profeta) prolongou a vida do rei.
+
+[[v28-48-27]]
+
+^<<v28-48-27,27>>^ Com o seu grande espírito (profético) viu os últimos tempos, e consolou os que choravam em Sião. Até ao fim dos séculos
+
+[[v28-48-28]]
+
+^<<v28-48-28,28>>^ mostrou o que devia acontecer, e as coisas ocultas antes que sucedessem.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-047.adoc#v28-47-0[&#60; Capítulo Anterior] | <<v28-48-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-049.adoc#v28-49-0[Próximo Capítulo &#62;]

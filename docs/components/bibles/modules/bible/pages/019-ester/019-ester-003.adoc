@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v19-3-0]]
+=== Ester, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ester 3 é o capítulo em que o personagem Hamã, um dos conselheiros do rei persa, elabora um plano para exterminar todos os judeus do reino. Ele consegue convencer o rei a emitir um decreto que autoriza a matança, gerando grande angústia e temor entre o povo judeu. A seguir, cinco versículos relacionados com os temas abordados em Ester 3:
+* Provérbios 29:2: "Quando os justos se engrandecem, o povo se alegra, mas quando o ímpio domina, o povo geme." O livro de Ester retrata claramente essa realidade: o povo sofre as consequências da maldade e ganância de Hamã, um homem ímpio que alcançou grande poder no reino.
+* Isaías 10:1-2: "Ai dos que decretam leis injustas, dos que escrevem leis de opressão para negar justiça aos pobres, para arrebatar o direito dos aflitos do meu povo, para despojar as viúvas e roubar dos órfãos!" O decreto de Hamã foi um exemplo de uma lei injusta que tinha como objetivo oprimir e eliminar um grupo específico de pessoas.
+* Salmos 37:7: "Descansa no Senhor e espera nele com paciência; não te irrites por causa daquele que prospera em seu caminho, por causa do homem que leva a cabo seus maus desígnios." Esse salmo traz uma mensagem de confiança em Deus, mesmo quando os ímpios prosperam e promovem a injustiça. Essa é uma mensagem importante para os judeus de Ester 3, que precisavam confiar que Deus cuidaria deles e que Hamã não teria a última palavra.
+* Provérbios 26:27: "O que faz uma cova, nela cairá; e quem rola uma pedra, para ela voltará." Esse provérbio fala sobre o fato de que a maldade que uma pessoa semeia eventualmente retorna a ela. Esse princípio se aplica a Hamã, que planejou o extermínio dos judeus, mas acabou sendo enforcado na forca que havia preparado para o líder judeu Mordecai.
+* Romanos 12:19: "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: 'Minha é a vingança; eu retribuirei', diz o Senhor." Esse versículo destaca a importância de não buscar vingança pessoal, mas confiar que Deus é justo e trará justiça no momento certo. Essa é uma lição que os judeus de Ester 3 precisaram aprender, já que inicialmente foram incentivados a lutar contra seus inimigos, mas acabaram sendo orientados a confiar que Deus lutaria por eles.
+****
+
+[[v19-3-1]]
+
+^<<v19-3-1,1>>^ Depois destes acontecimentos, o rei Assuero exaltou Aman, filho de Amadati, que era da linhagem de Agag, e pôs o seu assento sobre todos os grandes que o cercavam.
+
+[[v19-3-2]]
+
+^<<v19-3-2,2>>^ Todos os servos do rei, que estavam à porta do palácio dobravam os joelhos, prostravam-se diante de Aman, porque assim lhes tinha mandado o imperador; só Mardoqueu não dobrava os joelhos nem se prostrava diante dele, (por considerar isto um acto de idolatria).
+
+[[v19-3-3]]
+
+^<<v19-3-3,3>>^ Os servos do rei, que guardavam as portas do palácio, disseram-lhe: Por que não cumpres as ordens do rei como os outros?
+
+[[v19-3-4]]
+
+^<<v19-3-4,4>>^ Depois de lhe dizerem isto muitas vezes, vendo que não os queria ouvir, referiram-no a Aman, querendo saber se ele persistiria nesta resolução, porque lhes tinham dito que era judeu.
+
+[[v19-3-5]]
+
+^<<v19-3-5,5>>^ Aman, ao ver que Mardoqueu não dobrava os joelhos nem se prostrava diante dele, concebeu grande ira;
+
+[[v19-3-6]]
+
+^<<v19-3-6,6>>^ porém parecia-lhe nada vingar-se só em Mardoqueu, porque tinha ouvido dizer que era judeu de nação, e quis antes acabar com todo o povo de (que era filho) Mardoqueu, com todos os judeus que viviam no reino de Assuero.
+
+[[v19-3-7]]
+
+^<<v19-3-7,7>>^ No ano duodécimo do reinado de Assuero, no primeiro mês, chamado Nisan, foi diante de Anan lançada na urna a sorte, que se chama Pur, para se saber em que dia e em que mês devia ser trucidada a nação dos Judeus, e caiu a sorte no duodécimo mês, chamado Adar.
+
+[[v19-3-8]]
+
+^<<v19-3-8,8>>^ Então Aman disse ao rei Assuero: Há um povo disperso por todas as províncias do teu reino, que vive separado de todos os outros, que pratica novas leis e cerimônias, e que, além disso, despreza as ordens do rei. Não é do interesse do rei, deixar essa gente em sossego.
+
+[[v19-3-9]]
+
+^<<v19-3-9,9>>^ Se te apraz, ordena a sua perda, e eu pesarei aos tesoureiros do teu erário dez mil talentos (provenientes da confiscação dos bens dos Judeus).
+
+[[v19-3-10]]
+
+^<<v19-3-10,10>>^ Então o rei tirou do seu dedo o anel que costumava trazer, e deu-o a Aman, filho de Amadati, da linhagem de Agag, inimigo dos Judeus,
+
+[[v19-3-11]]
+
+^<<v19-3-11,11>>^ e disse-lhe: O dinheiro que prometes seja teu, e relativamente ao povo faz o que quiseres.
+
+[[v19-3-12]]
+
+^<<v19-3-12,12>>^ Foram chamados os secretários do rei no mês primeiro de Nisan, no dia treze do mesmo mês, e foi escrito, em nome do rei Assuero, como tinha ordenado Aman, a todos os governadores das províncias e aos chefes de cada povo, a cada província conforme (os caracteres da) sua escrita, a cada povo em sua própria língua. Escreveu-se em nome do rei Assuero, e o edito foi selado com o selo real.
+
+[[v19-3-13]]
+
+^<<v19-3-13,13>>^ Foram enviadas cartas pelos correios do rei a todas as províncias, para que matassem, exterminassem todos os Judeus, jovens e velhos, meninos e mulheres, num mesmo dia, isto é, a treze do mês duodécimo, que se chama Adar, e saqueassem os seus bens.
+
+[[v19-3-14]]
+
+^<<v19-3-14,14>>^ Foi mandada cópia do edito a todos os povos, edito que devia ser promulgado como lei em cada província, para que todas as províncias fossem informadas e se preparassem para o referido dia.
+
+[[v19-3-15]]
+
+^<<v19-3-15,15>>^ Os correios, que tinham sido enviados, apressavam-se a cumprir a ordem do rei. Logo se afixou em Susa o edito, enquanto o rei e Aman celebravam um banquete, e todos os Judeus, que havia na cidade, se debulhavam em lágrimas.
+
+'''
+
+xref:019-ester/019-ester-002.adoc#v19-2-0[&#60; Capítulo Anterior] | <<v19-3-0,Topo>> | xref:019-ester/019-ester-004.adoc#v19-4-0[Próximo Capítulo &#62;]

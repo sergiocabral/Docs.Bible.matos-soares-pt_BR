@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v9-4-0]]
+=== I Samuel, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de 1 Samuel relata a batalha entre os filhos de Israel e os filisteus, onde os filisteus derrotaram os israelitas e capturaram a Arca da Aliança. Os israelitas tinham a crença equivocada de que a Arca lhes daria vantagem na batalha, mas não levaram em consideração a necessidade de obedecer aos mandamentos de Deus e se arrependerem de seus pecados. A Arca, que deveria ser um símbolo da presença de Deus, acabou sendo capturada pelos inimigos de Israel, que foram punidos por terem agido de forma imprudente.
+* Salmos 44:9-10: "Mas agora tu nos rejeitaste e nos confundiste; já não sais com os nossos exércitos. Fazes-nos recuar diante do inimigo, e aqueles que nos odeiam nos saqueiam à vontade." O salmista expressa a angústia e o sentimento de abandono que os israelitas devem ter sentido durante a batalha contra os filisteus, uma vez que acreditavam que Deus estava ao seu lado, mas foram derrotados.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez do espírito precede a queda." Os israelitas agiram de forma imprudente, acreditando que a Arca da Aliança lhes daria vantagem na batalha. Isso demonstra uma atitude orgulhosa e soberba, que acabou levando à sua derrota e à captura da Arca pelos filisteus.
+* Isaías 1:16-17: "Lavai-vos e purificai-vos; tirai a maldade de vossos atos de diante dos meus olhos; cessai de fazer o mal. Aprendei a fazer bem; procurai o que é justo; ajudai o oprimido; fazei justiça ao órfão; tratai da causa das viúvas." Os israelitas não levaram em conta a necessidade de se arrependerem de seus pecados e obedecerem aos mandamentos de Deus. Isaías reforça a importância de se arrepender e buscar a justiça e a bondade.
+* Jeremias 3:3: "Por isso as chuvas foram retidas, e não houve chuva serôdia; contudo, tu tens uma fronte de prostituta, não queres ter vergonha." A captura da Arca da Aliança pelos filisteus foi um sinal da punição de Deus pela desobediência e pecado dos israelitas. Jeremias usa a metáfora da prostituição para descrever a infidelidade de Israel em relação a Deus.
+* Oséias 6:6: "Porque eu quero o amor leal e não o sacrifício, e o conhecimento de Deus mais do que os holocaustos." Os israelitas acreditavam que a posse da Arca da Aliança lhes daria vantagem na batalha, mas esqueceram a importância de obedecer aos mandamentos de Deus e se arrependerem de seus pecados. Oséias enfatiza que Deus valoriza mais o amor leal e o conhecimento dele do que simplesmente rituais e sacrifícios.
+****
+
+[[v9-4-1]]
+
+^<<v9-4-1,1>>^ Aconteceu naqueles dias que os Filisteus se reuniram para fazer guerra aos Israelitas; Israel saiu ao encontro dos Filisteus, para os combater, e acampou junto da Pedra do socorro. Os Filisteus, porém, foram a Afec,
+
+[[v9-4-2]]
+
+^<<v9-4-2,2>>^ e dispuzeram-se para pelejar contra Israel. Travada a batalha, Israel voltou as costas aos Filisteus, e foram mortos naquele combate por aqui e por ali, pelos campos, cerca de quatro mil homens.
+
+[[v9-4-3]]
+
+^<<v9-4-3,3>>^ Depois que o povo voltou para o arraial, os anciães de Israel disseram: Por que nos destroçou hoje o Senhor diante dos Filisteus? Façamos vir para nós de Silo a arca da aliança do Senhor; venha para o meio de nós, para que nos salve da mão de nossos inimigos.
+
+[[v9-4-4]]
+
+^<<v9-4-4,4>>^ O povo mandou, pois, a Silo, e trouxeram de lá a arca da aliança do Senhor dos exércitos, que está sentado sobre os Querubins. Os dois filhos de Heli, Ofni e Finéias, estavam com a arca da aliança do Senhor.
+
+[[v9-4-5]]
+
+^<<v9-4-5,5>>^ Logo que a arca da aliança do Senhor chegou ao acampamento, todo o Israel rompeu num grande clamor, que ressoou pela terra.
+
+[[v9-4-6]]
+
+^<<v9-4-6,6>>^ Os Filisteus ouviram o ruído do clamor e disseram: Que gritaria é esta tão grande no acampamento dos Hebreus? E souberam que a arca do Senhor tinha chegado ao acampamento.
+
+[[v9-4-7]]
+
+^<<v9-4-7,7>>^ Os Filisteus temeram, porque diziam: Deus chegou ao acampamento. E disseram:
+
+[[v9-4-8]]
+
+^<<v9-4-8,8>>^ Ai de nós! Coisa assim não havia acontecido até agora! Ai de nós! Quem nos salvará da mão destes Deuses excelsos? Estes são os Deuses que feriram o Egipto com toda a sorte de pragas no deserto. (ver nota)
+
+[[v9-4-9]]
+
+^<<v9-4-9,9>>^ Mas coragem, ó Filisteus! Portai-vos varonilmente, não venhais a ser escravos dos Hebreus, como eles o foram de nós; tende coragem e combatei.
+
+[[v9-4-10]]
+
+^<<v9-4-10,10>>^ Combateram, pois, os Filisteus, e Israel foi derrotado, fugindo cada um para a sua tenda; a derrota foi sobremaneira grande, tendo sido mortos de Israel trinta mil homens de pé.
+
+[[v9-4-11]]
+
+^<<v9-4-11,11>>^ A arca de Deus foi tomada, e os dois filhos de Heli, Ofni e Finéias, foram mortos. (ver nota)
+
+[[v9-4-12]]
+
+^<<v9-4-12,12>>^ Ora, no mesmo dia, um homem (da tribo) de Benjamim, escapando da batalha, correu até Silo, com a roupa rasgada e a cabeça coberta de pó.
+
+[[v9-4-13]]
+
+^<<v9-4-13,13>>^ Ao chegar, Heli estava sentado na cadeira, junto ao caminho, esperando (notícias), porque o seu coração estava tremendo de medo pela arca de Deus. Aquele homem depois que entrou, espalhou a notícia pela cidade e toda a cidade levantou grande clamor.
+
+[[v9-4-14]]
+
+^<<v9-4-14,14>>^ Heli ouviu o rumo do clamor e disse: Que ruído tumultuoso é este? O tal homem apressou-se e foi dar a notícia a Heli.
+
+[[v9-4-15]]
+
+^<<v9-4-15,15>>^ Heli tinha noventa e oito anos; os seus olhos estavam parados, e ele não podia ver.
+
+[[v9-4-16]]
+
+^<<v9-4-16,16>>^ (O homem) disse a Heli: Eu venho da batalha, escapei hoje do campo de combate. Heli disse-lhe: Que sucedeu, meu filho?
+
+[[v9-4-17]]
+
+^<<v9-4-17,17>>^ O que trazia a nova respondeu: Israel fugiu diante dos Filisteus e houve grande mortandade no povo; além disto também os teus dois filhos, Ofni e Finéias, foram mortos, e a arca de Deus foi tomada.
+
+[[v9-4-18]]
+
+^<<v9-4-18,18>>^ Logo que ele nomeou a arca de Deus, Heli caiu da cadeira para trás junto da porta, e, fracturando o crânio, expirou, porque era um homem velho, muito avançado em anos. Tinha julgado Israel durante quarenta anos.
+
+[[v9-4-19]]
+
+^<<v9-4-19,19>>^ Sua nora, mulher de Finéias, estava grávida e próxima do parto. Tendo ouvido a nova de que a arca de Deus havia sido tomada, e que seu sogro e seu marido tinham morrido, inclinou-se e deu á luz, porque de repente foi acometida das dores.
+
+[[v9-4-20]]
+
+^<<v9-4-20,20>>^ Quando estava para expirar, disseram-lhe as que estavam em volta dela: Não temas, pois deste à luz um filho. Mas ela não respondeu, nem deu atenção a isto.
+
+[[v9-4-21]]
+
+^<<v9-4-21,21>>^ Chamou o filho Icabod, dizendo: Foi levada a glória (para longe) de Israel; (ela disse isto) por causa de ter sido tomada a arca de Deus, e por ter sido morto o seu sogro e o seu marido. (ver nota)
+
+[[v9-4-22]]
+
+^<<v9-4-22,22>>^ Ela disse: Foi levada (para longe) a glória de Israel, porque foi tomada a arca de Deus.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-003.adoc#v9-3-0[&#60; Capítulo Anterior] | <<v9-4-0,Topo>> | xref:009-i-samuel/009-i-samuel-005.adoc#v9-5-0[Próximo Capítulo &#62;]

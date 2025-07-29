@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v13-16-0]]
+=== I Crônicas, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 16 é um capítulo que descreve a celebração do retorno da Arca da Aliança a Jerusalém e a instalação dela na Tenda que Davi havia preparado para ela. Durante a celebração, Davi liderou a adoração a Deus e ofereceu sacrifícios. Abaixo estão cinco versículos relacionados com temas abordados neste capítulo:
+* Salmos 96:4: "Porque grande é o Senhor, e digno de louvor muito mais temível do que todos os deuses." Este versículo fala da grandeza de Deus e de sua superioridade sobre todas as outras divindades, o que pode ser relacionado com a adoração a Deus que Davi liderou em 1 Crônicas 16.
+* Salmos 105:1: "Louvai ao Senhor, invocai o seu nome, fazei conhecidas as suas obras entre os povos." Este salmo fala da importância de proclamar as obras de Deus entre as nações, o que é relevante para a celebração da instalação da Arca da Aliança em 1 Crônicas 16.
+* Salmos 34:1: "Bendirei ao Senhor em todo o tempo; o seu louvor estará continuamente na minha boca." Este versículo fala da importância de louvar a Deus em todas as circunstâncias, o que é relevante para a adoração que Davi liderou em 1 Crônicas 16.
+* Salmos 136:1: "Louvai ao Senhor, porque ele é bom, porque a sua benignidade dura para sempre." Este salmo é um hino de louvor que se repete várias vezes a frase "Porque a sua benignidade dura para sempre", o que pode ser relacionado com a celebração da instalação da Arca da Aliança em 1 Crônicas 16.
+* Salmos 30:4: "Cantai louvores ao Senhor, vós que sois seus santos, e dai graças ao seu santo nome." Este versículo fala da importância de dar graças a Deus e louvá-lo por suas obras, o que é relevante para a adoração que Davi liderou em 1 Crônicas 16.
+****
+
+[[v13-16-1]]
+
+^<<v13-16-1,1>>^ Levaram a arca de Deus e colocaram-na no meio do tabernáculo, que Davide lhe tinha levantado, e ofereceram holocaustos e hóstias pacíficas diante de Deus.
+
+[[v13-16-2]]
+
+^<<v13-16-2,2>>^ Tendo Davide acabado de oferecer os holocaustos e as hóstias pacíficas, abençoou o povo em nome do Senhor.
+
+[[v13-16-3]]
+
+^<<v13-16-3,3>>^ Distribuiu a todos um por um, tanto a homens como a mulheres, uma torta de pão, um pedaço de carne de vaca assada e flor de farinha frita em azeite.
+
+[[v13-16-4]]
+
+^<<v13-16-4,4>>^ Estabeleceu dentre os Levitas os que haviam de servir diante da arca do Senhor, fazer comemoração das suas obras, glorificar e louvar o Senhor Deus de Israel.
+
+[[v13-16-5]]
+
+^<<v13-16-5,5>>^ Nomeou Azaf chefe, Zacarias o segundo, e depois Jaiel, Semiramot, Jeiel, Matatias, Eliab, Banaias e Obededom: Jeiel para tocar harpas e cítaras, Asaf para tocar os címbalos,
+
+[[v13-16-6]]
+
+^<<v13-16-6,6>>^ e os sacerdotes Banaias e Jazlel para tocarem continuamente a trombeta diante da arca da aliança do Senhor.
+
+[[v13-16-7]]
+
+^<<v13-16-7,7>>^ Naquele dia Davide constituiu Asaf primeiro cantor, para cantar os louvores ao Senhor com seus irmãos, (dizendo):
+
+[[v13-16-8]]
+
+^<<v13-16-8,8>>^ Louvai o Senhor, e invocai o seu nome: tornai conhecidas as suas obras entre os povos.
+
+[[v13-16-9]]
+
+^<<v13-16-9,9>>^ Cantai em seu louvor, salmodiai para sua glória, anunciai todas as suas maravilhas.
+
+[[v13-16-10]]
+
+^<<v13-16-10,10>>^ Louvai o seu santo nome; alegre-se o coração dos que buscam o Senhor.
+
+[[v13-16-11]]
+
+^<<v13-16-11,11>>^ Buscai o Senhor e a sua fortaleza; buscai sempre a sua face.
+
+[[v13-16-12]]
+
+^<<v13-16-12,12>>^ Lembrai-vos das maravilhas que ele fez, dos seus prodígios e dos juízos da sua boca,
+
+[[v13-16-13]]
+
+^<<v13-16-13,13>>^ vós que sois os descendentes de Israel, seu servo, filhos de Jacob, seu escolhido.
+
+[[v13-16-14]]
+
+^<<v13-16-14,14>>^ Ele é o Senhor nosso Deus; em toda a terra se exercem os seus juízos.
+
+[[v13-16-15]]
+
+^<<v13-16-15,15>>^ Lembrai-vos eternamente do seu pacto, da palavra que disse para mil gerações (isto é, para sempre),
+
+[[v13-16-16]]
+
+^<<v13-16-16,16>>^ (do pacto) que fez com Abraão, do seu juramento a Isaac,
+
+[[v13-16-17]]
+
+^<<v13-16-17,17>>^ do que firmemente estabeleceu com Jacob, e com Israel como pacto eterno,
+
+[[v13-16-18]]
+
+^<<v13-16-18,18>>^ dizendo: Eu hei-de dar-te a terra de Canaan, como parte da vossa herança.
+
+[[v13-16-19]]
+
+^<<v13-16-19,19>>^ Quando eles eram em pequeno número, pobres e estrangeiros nela,
+
+[[v13-16-20]]
+
+^<<v13-16-20,20>>^ quando passavam de nação em nação, dum reino para outro povo,
+
+[[v13-16-21]]
+
+^<<v13-16-21,21>>^ não permitiu que alguém lhes fizesse mal, antes por causa deles castigou reis:
+
+[[v13-16-22]]
+
+^<<v13-16-22,22>>^ Não toqueis (disse) os meus ungidos, não façais mal aos meus profetas.
+
+[[v13-16-23]]
+
+^<<v13-16-23,23>>^ Cantai ao Senhor, (ó habitantes) de toda a terra; anunciai de dia em dia a salvação que vos deu.
+
+[[v13-16-24]]
+
+^<<v13-16-24,24>>^ Publicai a sua glória entre as gentes, e as suas maravilhas entre todos os povos,
+
+[[v13-16-25]]
+
+^<<v13-16-25,25>>^ porque o Senhor é grande e digno de todo o louvor, é mais terrível que todos os deuses,
+
+[[v13-16-26]]
+
+^<<v13-16-26,26>>^ pois todos os deuses das gentes são ídolos. O Senhor (é o que) fez os céus;
+
+[[v13-16-27]]
+
+^<<v13-16-27,27>>^ a majestade e o esplendor estão diante dele, a fortaleza e a alegria na sua morada.
+
+[[v13-16-28]]
+
+^<<v13-16-28,28>>^ Tributai ao Senhor, ó famílias dos povos, tributai ao Senhor glória e poder,
+
+[[v13-16-29]]
+
+^<<v13-16-29,29>>^ tributai ao Senhor a glória devida ao seu nome; trazei ofertas e vinde à sua presença, adorai o Senhor com os santos ornamentos.
+
+[[v13-16-30]]
+
+^<<v13-16-30,30>>^ Trema a terra diante da sua face, porque ele deu fundamentos estáveis ao universo.
+
+[[v13-16-31]]
+
+^<<v13-16-31,31>>^ Alegrem-se os céus, e exulte a terra! Diga-se entre as nações: O Senhor é o rei.
+
+[[v13-16-32]]
+
+^<<v13-16-32,32>>^ Brama o mar e tudo o que nele se contêm; exultem os campos e tudo o que há neles.
+
+[[v13-16-33]]
+
+^<<v13-16-33,33>>^ Que as árvores do bosque soltem gritos de alegria diante do Senhor, porque ele vem julgar a terra.
+
+[[v13-16-34]]
+
+^<<v13-16-34,34>>^ Dai glória ao Senhor, porque é bom, porque a sua misericórdia é eterna.
+
+[[v13-16-35]]
+
+^<<v13-16-35,35>>^ Dizei: Salva-nos, ó Deus nosso Salvador, junta-nos e tira-nos do meio das gentes, para que celebremos o teu santo nome, e ponhamos a nossa glória em te louvar.
+
+[[v13-16-36]]
+
+^<<v13-16-36,36>>^ Bem-dito seja o Senhor Deus de Israel, de eternidade em eternidade. Todo o povo diga: "Amen!" e: "Louvai o Senhor".
+
+[[v13-16-37]]
+
+^<<v13-16-37,37>>^ Davide deixou ali, diante da arca da aliança do Senhor, Asaf e os seus irmãos, para servirem continuamente na presença da arca, todos os dias, e por seus turnos.
+
+[[v13-16-38]]
+
+^<<v13-16-38,38>>^ Deixou também Obededom e os seus irmãos, que eram sessenta e oito, e estabeleceu como porteiros a Obededom, filho de Iditun, e a Hosa.
+
+[[v13-16-39]]
+
+^<<v13-16-39,39>>^ Pôs o sacerdote Sadoc e os seus irmãos sacerdotes diante do tabernáculo do Senhor no lugar alto, que havia em Gabon,
+
+[[v13-16-40]]
+
+^<<v13-16-40,40>>^ para oferecerem continuamente holocaustos ao Senhor, de manhã e de tarde, em cima do altar dos holocaustos, conforme tudo o que está escrito na lei do Senhor, prescrita a Israel.
+
+[[v13-16-41]]
+
+^<<v13-16-41,41>>^ Depois dele, estavam Heman, Iditun e os outros que tinham sido escolhidos e designados cada um por seu nome para louvar o Senhor, dizendo que a sua misericórdia é eterna.
+
+[[v13-16-42]]
+
+^<<v13-16-42,42>>^ Heman e Iditun tocavam também a trombeta, e os címbalos, e (tinham) instrumentos músicos para cantarem louvores a Deus. Destinou para porteiros os filhos de Iditun.
+
+[[v13-16-43]]
+
+^<<v13-16-43,43>>^ E todo o povo voltou para sua casa, e também Davide para a sua, a fim de a abençoar.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-015.adoc#v13-15-0[&#60; Capítulo Anterior] | <<v13-16-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-017.adoc#v13-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v20-19-0]]
+=== Jó, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 19 é um capítulo em que Jó expressa sua angústia e desespero diante da situação em que se encontra, clamando por compaixão e justiça. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os de espírito oprimido." Este versículo fala sobre como Deus está próximo dos que sofrem e se sentem oprimidos, oferecendo-lhes salvação e consolo.
+* Isaías 61:1: "O Espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu para pregar boas-novas aos mansos; enviou-me a restaurar os contritos de coração, a proclamar libertação aos cativos e a pôr em liberdade os algemados." Este versículo fala sobre a missão do Messias em trazer esperança e restauração aos que sofrem.
+* Salmos 88:14-15: "Por que, Senhor, rejeitas a minha alma? Por que escondes de mim o teu rosto? Sou oprimido desde a mocidade e venho sofrendo teus terrores; estou desesperado." Este salmo apresenta uma oração de desespero semelhante à de Jó, em que o salmista clama pela ajuda de Deus diante de sua angústia.
+* Isaías 49:15-16: "Acaso pode uma mulher esquecer-se do seu bebê que ainda mama, de modo que não se compadeça dele, do filho do seu ventre? Mas ainda que esta viesse a se esquecer dele, eu, todavia, não me esquecerei de ti. Eis que nas palmas das minhas mãos te gravei; os teus muros estão continuamente perante mim." Este versículo fala sobre o amor e cuidado de Deus por seus filhos, mostrando que ele nunca os abandona ou esquece.
+* Salmos 31:9: "Compadece-te de mim, Senhor, porque estou angustiado; consumidos estão de tristeza os meus olhos, a minha alma e o meu corpo." Este salmo apresenta uma oração semelhante à de Jó, em que o salmista clama por compaixão diante de sua angústia e sofrimento.
+****
+
+[[v20-19-1]]
+
+^<<v20-19-1,1>>^ Job, respondendo, disse:
+
+[[v20-19-2]]
+
+^<<v20-19-2,2>>^ Até quando afligireis a minha alma, e me atormentareis com os vossos discursos?
+
+[[v20-19-3]]
+
+^<<v20-19-3,3>>^ Eis que já por dez vezes me injuriais, e não vos envergonhais de me oprimir.
+
+[[v20-19-4]]
+
+^<<v20-19-4,4>>^ Ainda que eu tenha errado, o meu erro ficará comigo.
+
+[[v20-19-5]]
+
+^<<v20-19-5,5>>^ Porém vós levantais-vos contra mim, aduzindo como prova os meus tormentos.
+
+[[v20-19-6]]
+
+^<<v20-19-6,6>>^ Entendei sequer agora que foi Deus que me oprimiu, e que me envolveu nas suas redes.
+
+[[v20-19-7]]
+
+^<<v20-19-7,7>>^ Eis que eu clamo padecendo violência, e ninguém me ouve, levanto a minha voz, e não há quem me faça justiça.
+
+[[v20-19-8]]
+
+^<<v20-19-8,8>>^ (O Senhor) por todas as partes fechou o meu caminho, e não posso passar; pôs trevas no meu caminho.
+
+[[v20-19-9]]
+
+^<<v20-19-9,9>>^ Despojou-me da minha glória, tirou-me a coroa da cabeça.
+
+[[v20-19-10]]
+
+^<<v20-19-10,10>>^ Demoliu-me por todos os lados, e pereço; desenraizou a minha esperança como (quem desenraíza) uma árvore.
+
+[[v20-19-11]]
+
+^<<v20-19-11,11>>^ O seu furor acendeu-se contra mim, tratou-me como seu inimigo
+
+[[v20-19-12]]
+
+^<<v20-19-12,12>>^ De tropel vieram as suas milicias, entrincheiraram-se no meu caminho, e cercaram a minha casa.
+
+[[v20-19-13]]
+
+^<<v20-19-13,13>>^ Pôs longe de mim os meus irmãos, e os meus conhecidos como estranhos se apartaram de mim.
+
+[[v20-19-14]]
+
+^<<v20-19-14,14>>^ Os meus vizinhos abandonaram-me, os meus íntimos esqueceram-se de mim.
+
+[[v20-19-15]]
+
+^<<v20-19-15,15>>^ Os que moravam em minha casa, (mesmo) as minhas servas, olharam-me como um estranho, sou como um desconhecido, a seus olhos.
+
+[[v20-19-16]]
+
+^<<v20-19-16,16>>^ Chamo o meu servo, e ele não me responde, vejo-me obrigado a suplicar-lhe com a minha boca.
+
+[[v20-19-17]]
+
+^<<v20-19-17,17>>^ Minha mulher em horror do meu hálito, e peço graça aos filhos das minhas entranhas.
+
+[[v20-19-18]]
+
+^<<v20-19-18,18>>^ Até os loucos me desprezam; quando me levanto, riem-se de mim.
+
+[[v20-19-19]]
+
+^<<v20-19-19,19>>^ Os que, noutro tempo, eram meus confidentes, têm horror de mim e aqueles a quem eu mais amava, voltam-se contra mim.
+
+[[v20-19-20]]
+
+^<<v20-19-20,20>>^ A’ minha pele, consumidas as carnes, pegaram-se os meus ossos, e só me restam os lábios ao redor dos meus dentes.
+
+[[v20-19-21]]
+
+^<<v20-19-21,21>>^ Compadecei-vos de mim, compadecei-vos de mim, ao menos vós, que sois meus amigos. porque a mão do Senhor me feriu.
+
+[[v20-19-22]]
+
+^<<v20-19-22,22>>^ Por que me perseguis vós como Deus, e vos fartais das minhas carnes? (ver nota)
+
+[[v20-19-23]]
+
+^<<v20-19-23,23>>^ Quem me dera que as minhas palavras fossem escritas! Quem me dera que se imprimissem num livro
+
+[[v20-19-24]]
+
+^<<v20-19-24,24>>^ com um ponteiro de ferro, sobre uma lâmina de chumbo, ou que, com cinzel, se gravassem na pedra!
+
+[[v20-19-25]]
+
+^<<v20-19-25,25>>^ Porque eu sei que o meu Redentor vive, e que surgirá finalmente na terra. (ver nota)
+
+[[v20-19-26]]
+
+^<<v20-19-26,26>>^ Então, revestido da minha pele, na minha própria carne verei o meu Deus.
+
+[[v20-19-27]]
+
+^<<v20-19-27,27>>^ Eu mesmo o verei, os meus olhos o hão-de contemplar, e não os de outro: as minhas entranhas se consomem nesta espectativa.
+
+[[v20-19-28]]
+
+^<<v20-19-28,28>>^ Por que dizeis, pois agora: Perscrutemo-lo, e acharemos nele razão de o condenar?
+
+[[v20-19-29]]
+
+^<<v20-19-29,29>>^ Fugi da espada (de Deus). porque a espada é vingadora das iniquidades, e sabei que há uma justiça.
+
+'''
+
+xref:020-jo/020-jo-018.adoc#v20-18-0[&#60; Capítulo Anterior] | <<v20-19-0,Topo>> | xref:020-jo/020-jo-020.adoc#v20-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v32-1-0]]
+=== Baruc, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Baruc 1 é um capítulo do Antigo Testamento que apresenta uma oração de confissão do povo judeu após a destruição de Jerusalém e do Templo pelo rei Nabucodonosor da Babilônia. Eles reconhecem que o desastre foi uma consequência da desobediência a Deus e pedem perdão pelos seus pecados. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Baruc 1:
+* 2 Crônicas 36:15-16: "E o Senhor Deus de seus pais enviou-lhes persistente advertência por intermédio dos seus mensageiros, porque ele tinha compaixão do seu povo e da sua habitação. Eles, porém, zombaram dos mensageiros de Deus, desprezaram as suas palavras e zombaram dos seus profetas, até que a ira do Senhor se acendeu contra o seu povo, e não houve mais remédio". Este versículo mostra como Deus advertiu o povo de Jerusalém por meio dos profetas, mas eles não ouviram e, por isso, sofreram as consequências.
+* Lamentações 1:8: "Jerusalém cometeu pecado grave; por isso, ela se tornou objeto de zombaria; todos os que a honravam, agora a desprezam, porque viram a sua nudez; ela, por sua vez, geme e vira-se de costas". Este versículo mostra como Jerusalém sofreu a humilhação devido à sua desobediência a Deus.
+* Salmos 106:6-7: "Nós pecamos, como nossos pais, cometemos iniquidades e maldades. Nossos pais, no Egito, não atentaram para as tuas maravilhas; não se lembraram da multidão das tuas misericórdias; pelo contrário, rebelaram-se junto ao mar, o mar Vermelho". Este versículo reconhece que o povo de Deus repetiu os pecados de seus antepassados e não valorizou as misericórdias de Deus.
+* Ezequiel 20:13: "Mas a casa de Israel se rebelou contra mim no deserto, não me seguiram e rejeitaram as minhas leis. Os que as observam viverão por elas; mas os que as desprezam morrerão por causa delas". Este versículo mostra como a desobediência às leis de Deus resultou em morte e destruição para o povo.
+* Isaías 64:10-11: "As tuas santas cidades se tornaram um deserto; Sião se tornou um deserto, Jerusalém está desolada. A nossa casa santa e gloriosa, onde os nossos pais te louvaram, foi consumida pelo fogo; tudo o que era precioso para nós virou ruínas". Este versículo destaca a tristeza e desolação que o povo sentiu quando Jerusalém e o Templo foram destruídos.
+****
+
+[[v32-1-1]]
+
+^<<v32-1-1,1>>^ Eis as palavras do livro que escreveu Baruch, filho de Nérias. filho de Maasias, filho de Sedecias. filho de Sedei, filho de Helcias, em Babilónia, (ver nota)
+
+[[v32-1-2]]
+
+^<<v32-1-2,2>>^ no ano quinto, a sete do mês. no tempo em que os Caldeus tomaram Jerusalém e a incendiaram.
+
+[[v32-1-3]]
+
+^<<v32-1-3,3>>^ Baruch leu as palavras deste livro aos ouvidos de Jeconias, filho de Joaquim, rei de Judá e aos ouvidos de todas as pessoas que tinham vindo ouvir ler este livro,
+
+[[v32-1-4]]
+
+^<<v32-1-4,4>>^ aos ouvidos dos grandes, dos príncipes reais, dos anciães e de todo o povo, que habitavam em Babilônia, junto do rio Sodi,
+
+[[v32-1-5]]
+
+^<<v32-1-5,5>>^ os quais, ouvindo-o. choravam, jejuavam e oravam na presença do Senhor,
+
+[[v32-1-6]]
+
+^<<v32-1-6,6>>^ Juntaram dinheiro conforme as posses de cada um.
+
+[[v32-1-7]]
+
+^<<v32-1-7,7>>^ e enviaram-no a Jerusalém, a Joaquim, filho de Helcias, filho de Salom, sacerdote, assim como aos outros sacerdotes e a todas as pessoas que se achavam com ele em Jerusalém,
+
+[[v32-1-8]]
+
+^<<v32-1-8,8>>^ Baruch tinha Já recuperado os utensílios do templo do Senhor, que haviam sido levados do templo, para os restituir à terra de Judá, a dez do mês de Sivan, utensílios de prata, que Sedecias filho de Josias, rei de Judá, mandara fazer (ver nota)
+
+[[v32-1-9]]
+
+^<<v32-1-9,9>>^ depois que Nabucodonosor rei de Babilônia, aprisionou Jeconias, os príncipes, todos os grandes e o povo da terra, e os levou de Jerusalém para Babilônia.
+
+[[v32-1-10]]
+
+^<<v32-1-10,10>>^ E disseram: Aí mandamos dinheiro; comprai com ele vítimas, para os holocaustos e sacrifícios de expiação, e incenso; preparai oblações e levai-as ao altar do Senhor nosso Deus:
+
+[[v32-1-11]]
+
+^<<v32-1-11,11>>^ Rogai-lhe pela vida de Nabucodonosor rei de Babilônia, e pela vida de Baltasar, seu filho, para que os seus dias sobre a terra sejam como os dias do céu.
+
+[[v32-1-12]]
+
+^<<v32-1-12,12>>^ Que o Senhor alumie os nossos olhos, a fim de que vivamos debaixo da sombra de Nabucodonosor. rei de Babilônia, e debaixo da sombra de Baltasar, seu filho, os sirvamos muitos dias e achemos graça na sua presença.
+
+[[v32-1-13]]
+
+^<<v32-1-13,13>>^ Orai também ao Senhor nosso Deus por nós mesmos, porque pecámos contra o Senhor nosso Deus, e o seu furor não se apartou de nós até este dia.
+
+[[v32-1-14]]
+
+^<<v32-1-14,14>>^ Lede este livro, que vos mandamos para ser lido em alta voz no templo do Senhor, no dia da Festa (dos tabernáculos) e nos dias sagrados.
+
+[[v32-1-15]]
+
+^<<v32-1-15,15>>^ Direis : Ao Senhor nosso Deus pertence a justiça, mas a nós a confusão do rosto, a nós, homens de Judá e habitantes de Jerusalém,
+
+[[v32-1-16]]
+
+^<<v32-1-16,16>>^ aos nossos reis, aos nossos príncipes, sacerdotes e profetas e aos nossos pais,
+
+[[v32-1-17]]
+
+^<<v32-1-17,17>>^ pois pecámos diante do Senhor,
+
+[[v32-1-18]]
+
+^<<v32-1-18,18>>^ não lhe quisemos estar sujeitos, não ouvimos a voz do Senhor nosso Deus, para andarmos segundo os preceitos que nos deu.
+
+[[v32-1-19]]
+
+^<<v32-1-19,19>>^ Desde o dia em que tirou nossos pais da terra do Egipto até hoje temos sido rebeldes ao Senhor nosso Deus, e, levianamente, não ouvimos a sua voz,
+
+[[v32-1-20]]
+
+^<<v32-1-20,20>>^ (Por isso) se nos têm pegado muitos males e a maldição que o Senhor predisse a Moisés, seu servo, quando tirou nossos pais da terra do Egipto, para nos dar a terra que mana leite e mel, como se vê no dia de hoje.
+
+[[v32-1-21]]
+
+^<<v32-1-21,21>>^ Não ouvimos a voz do Senhor nosso Deus, segundo todas as palavras dos profetas que nos enviou;
+
+[[v32-1-22]]
+
+^<<v32-1-22,22>>^ cada um de nós andou segundo o sentido e a inclinação do seu coração corrompido, a servir deuses estranhos, a praticar más obras diante dos olhos do Senhor nosso Deus.
+
+'''
+
+xref:031-lamentacoes/031-lamentacoes-005.adoc#v31-5-0[&#60; Capítulo Anterior] | <<v32-1-0,Topo>> | xref:032-baruc/032-baruc-002.adoc#v32-2-0[Próximo Capítulo &#62;]

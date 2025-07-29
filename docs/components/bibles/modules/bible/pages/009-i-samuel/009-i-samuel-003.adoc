@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v9-3-0]]
+=== I Samuel, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 3 narra a chamada de Samuel para ser um profeta de Deus. Deus falou com Samuel pela primeira vez quando ele era ainda uma criança servindo no templo de Deus. O capítulo mostra a importância de ouvir a voz de Deus e obedecê-la. Aqui estão cinco versículos relacionados com temas abordados neste capítulo:
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo destaca a importância de confiar em Deus e ouvir Sua orientação, em vez de confiar em nossa própria compreensão limitada.
+* Isaías 30:21: "Quando vocês se desviarem para a direita ou para a esquerda, suas orelhas ouvirão uma voz atrás de vocês, dizendo: "Este é o caminho; sigam-no"." Este versículo fala sobre como Deus guia Seu povo, mesmo quando eles se desviam do caminho certo, Ele chama para que voltem ao caminho certo.
+* João 10:27: "As minhas ovelhas ouvem a minha voz; eu as conheço, e elas me seguem." Este versículo mostra que, assim como Samuel ouviu a voz de Deus, aqueles que são verdadeiramente de Deus ouvem e seguem a Sua voz.
+* Atos 9:6: "Levante-se, entre na cidade e lhe será dito o que você deve fazer". Este versículo mostra como Deus chamou Saulo, mais tarde conhecido como Paulo, para o ministério. Ele obedeceu a voz de Deus, seguindo as instruções dadas a ele.
+* Tiago 1:22: "Sejam praticantes da palavra, e não apenas ouvintes, enganando-se a si mesmos." Este versículo enfatiza a importância de não apenas ouvir a palavra de Deus, mas também obedecê-la e colocá-la em prática. Isso é especialmente importante quando se trata de ouvir a voz de Deus e seguir Sua orientação.
+****
+
+[[v9-3-1]]
+
+^<<v9-3-1,1>>^ Entretanto o menino Samuel servia o Senhor sob a direcção de Heli. A palavra do Senhor era rara, naqueles dias, e a visão não era freqüente.
+
+[[v9-3-2]]
+
+^<<v9-3-2,2>>^ Ora aconteceu, certo dia, que Heli estava deitado no seu aposento. (Os seus olhos tinham-se escurecido, e não podia ver).
+
+[[v9-3-3]]
+
+^<<v9-3-3,3>>^ Antes que fosse apagada a lâmpada de Deus, Samuel dormia no templo do Senhor, onde estava a arca de Deus.
+
+[[v9-3-4]]
+
+^<<v9-3-4,4>>^ O Senhor chamou Samuel, o qual respondendo, disse: Eis-me aqui.
+
+[[v9-3-5]]
+
+^<<v9-3-5,5>>^ Samuel correu a Heli e disse: Eis-me aqui, pois tu me chamaste. Ele respondeu: Não te chamei; volta e dorme. E ele retirou-se e dormiu.
+
+[[v9-3-6]]
+
+^<<v9-3-6,6>>^ O Senhor voltou novamente a chamar Samuel. Samuel, levantando-se, foi a Heli e disse: Eis-me aqui, pois me chamaste. Heli respondeu: Não te chamei, meu filho; volta e dorme.
+
+[[v9-3-7]]
+
+^<<v9-3-7,7>>^ Samuel ainda não conhecia o Senhor, porque não lhe tinha sido ainda revelada a palavra do Senhor.
+
+[[v9-3-8]]
+
+^<<v9-3-8,8>>^ O Senhor voltou novamente a chamar Samuel pela terceira vez. Ele, levantando-se, foi a Heli,
+
+[[v9-3-9]]
+
+^<<v9-3-9,9>>^ e disse: Eis-me aqui, pois me chamaste. Compreendeu então Heli que o Senhor chamava o menino, e disse a Samuel: Vai e dorme. Se te chamarem outra vez, dirás: Fala, Senhor, porque o teu servo escuta. Samuel, pois, retirou-se e dormiu no seu aposento.
+
+[[v9-3-10]]
+
+^<<v9-3-10,10>>^ O Senhor veio, parou e chamou como das outras vezes: Samuel, Samuel. Samuel respondeu-lhe: Fala, Senhor, porque o teu servo escuta.
+
+[[v9-3-11]]
+
+^<<v9-3-11,11>>^ O Senhor disse a Samuel: Vou fazer uma coisa em Israel, que, a todo o que a ouvir, fará que fiquem retinindo ambos os ouvidos (de terror).
+
+[[v9-3-12]]
+
+^<<v9-3-12,12>>^ Naquele dia cumprirei contra Heli todas as coisas que, disse sobre a sua casa; começarei e acabarei.
+
+[[v9-3-13]]
+
+^<<v9-3-13,13>>^ Eu predisse-lhe que exerceria o meu juízo contra a sua casa para sempre, por causa da iniquidade, que ele sabia que seus filhos cometiam, procedendo indignamente, e que não corrigiu (como devia).
+
+[[v9-3-14]]
+
+^<<v9-3-14,14>>^ Por isso jurei à casa de Heli que a iniquidade da sua casa jamais se expiaria com vítimas nem com ofertas.
+
+[[v9-3-15]]
+
+^<<v9-3-15,15>>^ Samuel dormiu até pela manhã; depois abriu as portas da casa do Senhor. Samuel temia dizer a Heli a visão.
+
+[[v9-3-16]]
+
+^<<v9-3-16,16>>^ Porém Heli chamou Samuel e disse: Samuel, meu filho! Ele respondeu: Eis-me aqui.
+
+[[v9-3-17]]
+
+^<<v9-3-17,17>>^ Heli perguntou-lhe: Qual é a palavra que o Senhor te disse? Não mo encubras, te peço; o Senhor te trate com toda a severidade, se me encobrires alguma das palavras que te foram ditas.
+
+[[v9-3-18]]
+
+^<<v9-3-18,18>>^ Samuel, pois descobriu-lhe todas as palavras sem lhe ocultar nada. Heli respondeu: Ele é o Senhor; faça o que for agradável aos seus olhos.
+
+[[v9-3-19]]
+
+^<<v9-3-19,19>>^ Samuel crescia, e o Senhor era com ele, e nenhuma das suas palavras caiu no chão. (ver nota)
+
+[[v9-3-20]]
+
+^<<v9-3-20,20>>^ Todo Israel, desde Dan até Bersabée, conheceu que Samuel era um fiel profeta do Senhor.
+
+[[v9-3-21]]
+
+^<<v9-3-21,21>>^ O Senhor continuou a aparecer em Silo, porque em Silo é que o Senhor se manifestara a Samuel, segundo a palavra do Senhor. E a palavra de Samuel chegou a todo o Israel.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-002.adoc#v9-2-0[&#60; Capítulo Anterior] | <<v9-3-0,Topo>> | xref:009-i-samuel/009-i-samuel-004.adoc#v9-4-0[Próximo Capítulo &#62;]

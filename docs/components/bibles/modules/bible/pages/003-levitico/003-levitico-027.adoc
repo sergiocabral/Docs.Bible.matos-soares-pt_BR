@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v3-27-0]]
+=== Levítico, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 27 do livro de Levítico trata da consagração de pessoas e bens ao Senhor, mediante o voto. Os versículos a seguir abordam temas relacionados a esse assunto:
+* Números 30:2: "Quando alguém fizer um voto ao Senhor ou jurar solenemente, não poderá violar a sua palavra, mas terá de cumprir tudo o que disse." Esse versículo faz referência ao cumprimento dos votos feitos ao Senhor, conforme o que foi estabelecido em Levítico 27.
+* Deuteronômio 23:21: "Se fizeres um voto ao Senhor, teu Deus, não tardarás em cumpri-lo, pois o Senhor, teu Deus, certamente te pedirá contas, e pecado haverá em ti." Novamente, é enfatizada a importância de se cumprir os votos feitos ao Senhor, de acordo com o que foi estabelecido em Levítico 27.
+* 1 Samuel 1:28: "Por isso, agora eu o dedico ao Senhor. Por todos os dias de sua vida, ele pertencerá ao Senhor." Nesse versículo, a mãe de Samuel cumpre o voto que havia feito ao Senhor de dedicar seu filho ao serviço divino, o que é semelhante ao que é tratado em Levítico 27.
+* Eclesiastes 5:4-5: "Quando fizeres algum voto a Deus, não tardes em cumpri-lo; porque não se agrada de tolos; o que votares, paga-o. Melhor é que não votes do que votes e não pagues." Esse versículo enfatiza a importância de se cumprir os votos feitos ao Senhor, assim como foi estabelecido em Levítico 27.
+* Mateus 5:33-34: "Outrossim, ouvistes o que foi dito aos antigos: Não jurarás falso, mas cumprirás rigorosamente para com o Senhor os teus juramentos. Eu, porém, vos digo que de maneira alguma jureis; nem pelo céu, porque é o trono de Deus." Nesse versículo, Jesus ensina sobre a importância da sinceridade e da honestidade em relação aos votos e juramentos feitos ao Senhor, o que está em linha com o que foi estabelecido em Levítico 27.
+****
+
+[[v3-27-1]]
+
+^<<v3-27-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-27-2]]
+
+^<<v3-27-2,2>>^ Fala aos filhos de Israel, e dize-Ihes: Se um homem fizer um voto a Deus, avaliar-se-ão as pessoas relativamente ao Senhor, como tu as avalias.
+
+[[v3-27-3]]
+
+^<<v3-27-3,3>>^ Um homem, dos vinte aos sessenta anos, avaliá-lo-ás em cinquenta siclos de prata, segundo a medida do santuário;
+
+[[v3-27-4]]
+
+^<<v3-27-4,4>>^ Se for mulher, avaliá-la-ás em trinta.
+
+[[v3-27-5]]
+
+^<<v3-27-5,5>>^ Dos cinco anos até aos vinte avaliarás o homem em vinte siclos; a mulher em dez.
+
+[[v3-27-6]]
+
+^<<v3-27-6,6>>^ De um mês até aos cinco anos, avaliarás em cinco siclos um menino; uma menina, em três.
+
+[[v3-27-7]]
+
+^<<v3-27-7,7>>^ Aos sessenta anos e daí para cima avaliarás o homem em quinze siclos; a mulher, em dez.
+
+[[v3-27-8]]
+
+^<<v3-27-8,8>>^ Se for um pobre, e não puder pagar o valor da tua avaliação apresentar-se-á ao sacerdote, e dará o que este avaliar e vir que ele pode dar.
+
+[[v3-27-9]]
+
+^<<v3-27-9,9>>^ O animal, que pode ser imolado ao Senhor, se alguém o prometer como voto, será coisa santa,
+
+[[v3-27-10]]
+
+^<<v3-27-10,10>>^ e não poderá ser trocado, nem um bom por um mau, nem um mau por um bom; mas, se o trocar, tanto o que foi trocado, como aquele por que se trocou, ficará consagrado ao Senhor.
+
+[[v3-27-11]]
+
+^<<v3-27-11,11>>^ Se alguém faz voto dum animal impuro que não pode ser imolado ao Senhor, leve-o diante do sacerdote,
+
+[[v3-27-12]]
+
+^<<v3-27-12,12>>^ o qual, julgando se é bom ou mau, determinará o preço.
+
+[[v3-27-13]]
+
+^<<v3-27-13,13>>^ Se o oferente o quiser resgatar, juntará uma quinta parte sobre a avaliação.
+
+[[v3-27-14]]
+
+^<<v3-27-14,14>>^ Se alguém faz voto da casa e a consagra ao Senhor, o sacerdote a examinará para ver se é boa ou má, e será vendida pelo preço que ele tiver fixado;
+
+[[v3-27-15]]
+
+^<<v3-27-15,15>>^ mas, se o que fez o voto quiser resgatá-la, dará, a mais, uma quinta parte sobre a avaliação, e terá a casa.
+
+[[v3-27-16]]
+
+^<<v3-27-16,16>>^ Se fizer voto, e consagrar ao Senhor um campo, que possui, será avaliado o preço conforme o que leva de semente; se o campo é semeado com trinta alqueires de cevada, será vendido por cinquenta siclos de prata.
+
+[[v3-27-17]]
+
+^<<v3-27-17,17>>^ Se fez voto dum campo logo no princípio do ano do jubileu, será avaliado em tanto quanto pode valer.
+
+[[v3-27-18]]
+
+^<<v3-27-18,18>>^ Mas, se faz o voto algum tempo depois, o sacerdote calculará o preço segundo o número dos anos que restam até ao jubileu, e isto se abaterá ao preço.
+
+[[v3-27-19]]
+
+^<<v3-27-19,19>>^ Porém, se aquele que fez o voto quiser resgatar o campo, juntará uma quinta parte ao preço fixado, e possui-lo-á.
+
+[[v3-27-20]]
+
+^<<v3-27-20,20>>^ Mas, se o não quiser resgatar ou for vendido a outro qualquer, aquele que fez voto dele não poderá resgatá-lo,
+
+[[v3-27-21]]
+
+^<<v3-27-21,21>>^ porque, quando chegar o dia do jubileu, (o campo) será consagrado ao Senhor, e pertencerá ao sacerdote.
+
+[[v3-27-22]]
+
+^<<v3-27-22,22>>^ Se alguém consagra ao Senhor um campo comprado por ele, campo que não faça parte da herança dos maiores,
+
+[[v3-27-23]]
+
+^<<v3-27-23,23>>^ o sacerdote fixará o preço conforme o número dos anos que restam até ao jubileu; aquele que fez o voto, dará este preço ao Senhor.
+
+[[v3-27-24]]
+
+^<<v3-27-24,24>>^ No ano do jubileu, o campo tornará para o antigo dono, que o tinha vendido, e que fazia parte da sua herança.
+
+[[v3-27-25]]
+
+^<<v3-27-25,25>>^ Toda a avaliação se fará pelo peso do siclo do santuário. O siclo tem vinte óbolos.
+
+[[v3-27-26]]
+
+^<<v3-27-26,26>>^ Ninguém poderá consagrar ou fazer voto dos primogênitos, que, como primogênitos, pertencem ao Senhor: seja um boi, seja uma ovelha, são do Senhor.
+
+[[v3-27-27]]
+
+^<<v3-27-27,27>>^ Porém, se o animal é impuro, aquele que o ofereceu, o resgatará segundo a sua avaliação, e juntará a quinta parte do preço; se o não quiser resgatar, será vendido a outro pelo preço fixado por ti.
+
+[[v3-27-28]]
+
+^<<v3-27-28,28>>^ Tudo o que é consagrado ao Senhor, seja um homem, um animal ou um campo, não se venderá, nem se poderá resgatar. Tudo o que uma vez foi consagrado, será uma das coisa santíssima (pertencente) ao Senhor.
+
+[[v3-27-29]]
+
+^<<v3-27-29,29>>^ Toda a pessoa consagrada, que se oferece por um homem, não será resgatada, mas será posta à morte.
+
+[[v3-27-30]]
+
+^<<v3-27-30,30>>^ Todos os dízimos da terra, ou sejam de grão, ou de frutas das árvores, são do Senhor, a ele são consagrados.
+
+[[v3-27-31]]
+
+^<<v3-27-31,31>>^ Mas, se alguém quiser resgatar os seus dízimos, ajuntará ao seu valor uma quinta parte deles.
+
+[[v3-27-32]]
+
+^<<v3-27-32,32>>^ De todos os dízimos de bois, ovelhas e cabras, que passam por baixo do cajado do pastor, todo o décimo (animal), será consagrado ao Senhor. (ver nota)
+
+[[v3-27-33]]
+
+^<<v3-27-33,33>>^ Não se escolherá bom nem mau, nem se trocará por outro; se alguém o trocar, tanto o substituído como o que substituiu, será consagrado ao Senhor, e não será resgatado.
+
+[[v3-27-34]]
+
+^<<v3-27-34,34>>^ Estes são os mandamentos que o Senhor deu a Moisés para os filhos de Israel no monte Sinai.
+
+'''
+
+xref:003-levitico/003-levitico-026.adoc#v3-26-0[&#60; Capítulo Anterior] | <<v3-27-0,Topo>> | xref:004-numeros/004-numeros-001.adoc#v4-1-0[Próximo Capítulo &#62;]

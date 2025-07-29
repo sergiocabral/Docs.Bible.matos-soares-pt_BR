@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v14-5-0]]
+=== II Crônicas, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 5 de 2 Crônicas continua o relato da construção do Templo de Salomão em Jerusalém. Neste capítulo, o foco é na dedicação do templo, onde Salomão e os sacerdotes trouxeram a Arca da Aliança para o Santo dos Santos e realizaram sacrifícios ao Senhor. Deus manifestou sua presença no templo enchendo-o com uma nuvem. Aqui estão cinco versículos relacionados com os temas abordados em 2 Crônicas 5:
+* 1 Reis 8:10-11: "E sucedeu que, saindo os sacerdotes do santuário, a nuvem encheu a casa do Senhor. De maneira que os sacerdotes não podiam permanecer ali, para ministrar, por causa da nuvem; porque a glória do Senhor enchera a casa do Senhor." Este versículo relata um acontecimento semelhante ao que ocorreu em 2 Crônicas 5, quando Deus manifestou sua presença no templo de Salomão.
+* Êxodo 40:34-35: "Então a nuvem cobriu a tenda da congregação, e a glória do Senhor encheu o tabernáculo. E Moisés não podia entrar na tenda da congregação, porque a nuvem estava sobre ela, e a glória do Senhor a enchia." Este versículo relata um acontecimento semelhante ao que ocorreu em 2 Crônicas 5, quando Deus manifestou sua presença no templo de Salomão.
+* Salmos 22:3: "Mas tu és santo, tu que habitas entre os louvores de Israel." Este versículo fala sobre Deus habitando entre os louvores de Israel, e é relevante para o momento de adoração que ocorreu no templo de Salomão em 2 Crônicas 5.
+* Levítico 16:2: "Disse o Senhor a Moisés: 'Diga a Arão, seu irmão, que ele não entre em qualquer momento no Lugar Santo, atrás da cortina, diante do propiciatório sobre a arca, senão ele morrerá; pois aparecerei na nuvem sobre o propiciatório'." Este versículo fala sobre a importância da reverência e santidade no acesso ao lugar santíssimo, onde a Arca da Aliança é colocada em 2 Crônicas 5.
+* 1 Crônicas 6:49: "Mas Arão e seus filhos ofereciam sacrifícios sobre o altar do holocausto e sobre o altar do incenso, para todo o serviço do lugar santíssimo, e para fazer propiciação por Israel, conforme tudo o que ordenou Moisés, o servo de Deus." Este versículo fala sobre os sacrifícios que são oferecidos no lugar santíssimo, como parte do ritual de adoração a Deus, e é relevante para o relato dos sacrifícios que ocorreram no templo de Salomão em 2 Crônicas 5.
+****
+
+[[v14-5-1]]
+
+^<<v14-5-1,1>>^ Salomão mandou trazer e colocar nos tesouros da casa de Deus tudo o que, Davide, seu pai, tinha oferecido; a prata, o ouro e todos os vasos.
+
+[[v14-5-2]]
+
+^<<v14-5-2,2>>^ Depois disto convocou em Jerusalém todos os anciães de Israel, todos os príncipes das tribos, e os chefes de famílias dos filhos de Israel, para transportarem a arca da aliança do Senhor da cidade de Davide, que é Sião.
+
+[[v14-5-3]]
+
+^<<v14-5-3,3>>^ Foram à presença do rei todos os varões de Israel no dia solene do sétimo mês,
+
+[[v14-5-4]]
+
+^<<v14-5-4,4>>^ e tendo chegado todos os anciães de Israel, os Levitas levaram a arca
+
+[[v14-5-5]]
+
+^<<v14-5-5,5>>^ e introduziram-na (no templo), com tudo o que pertencia ao tabernáculo. Os sacerdotes com os Levitas levaram os vasos do santuário, que havia no tabernáculo.
+
+[[v14-5-6]]
+
+^<<v14-5-6,6>>^ Entretanto o rei Salomão, todo o povo de Israel, todos os que se tinham reunido diante da arca, imolavam carneiros e bois sem número, tão grande era a quantidade das vítimas.
+
+[[v14-5-7]]
+
+^<<v14-5-7,7>>^ Os sacerdotes puseram a arca da aliança do Senhor no lugar, isto é, no santuário do templo, no Santo dos Santos, debaixo das asas dos querubins,
+
+[[v14-5-8]]
+
+^<<v14-5-8,8>>^ de modo que os querubins estendiam as suas asas sobre o lugar em que a arca estava posta, e cobriam a mesma arca e os seus varais.
+
+[[v14-5-9]]
+
+^<<v14-5-9,9>>^ Estes eram bastante compridos para que as suas extremidades pudessem ser vistas de diante do santuário; mas, se alguém estava um tanto fora, já não os podia ver. Ali tem estado a arca até ao dia de hoje.
+
+[[v14-5-10]]
+
+^<<v14-5-10,10>>^ Na arca não havia outra coisa além das duas tábuas que Moisés ali tinha posto em Horeb, quando o Senhor deu a lei aos filhos de Israel, na sua saída do Egito.
+
+[[v14-5-11]]
+
+^<<v14-5-11,11>>^ Logo que os sacerdotes saíram do santuário, (porque todos os sacerdotes que puderam achar-se ali, se purificaram, visto que naquele tempo ainda não estavam distribuídos entre eles os turnos e ordem dos ministérios),
+
+[[v14-5-12]]
+
+^<<v14-5-12,12>>^ tanto os Levitas como os cantores, isto é, os que estavam debaixo da direção de Asaf, e os que estavam debaixo da direção de Heman e de Iditun, seus filhos e irmãos, revestidos de vestes de linho fino, tocavam címbalos, cítaras e harpas, postos em pé, do lado oriental do altar, acompanhados de cento e vinte sacerdotes, que tocavam trombetas.
+
+[[v14-5-13]]
+
+^<<v14-5-13,13>>^ Quando, nesse momento, todos formavam um concerto com as trombetas, as vozes, os címbalos e outros instrumentos músicos, quando louvavam ao Senhor, dizendo: bem-dizei o Senhor, porque é bom e porque a sua misericórdia, é eterna — encheu-se a casa de Deus de uma nuvem,
+
+[[v14-5-14]]
+
+^<<v14-5-14,14>>^ e os sacerdotes não podiam estar (ali), nem exercer as suas funções, por causa da nuvem, pois a glória do Senhor tinha enchido a casa de Deus.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-004.adoc#v14-4-0[&#60; Capítulo Anterior] | <<v14-5-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-006.adoc#v14-6-0[Próximo Capítulo &#62;]

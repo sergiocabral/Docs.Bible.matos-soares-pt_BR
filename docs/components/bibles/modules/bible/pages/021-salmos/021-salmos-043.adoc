@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v21-43-0]]
+=== Salmos, 43
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 43 apresenta uma oração de um salmista que clama a Deus por ajuda e justiça em meio a uma situação difícil. O salmista expressa sua tristeza e sua angústia diante de seus inimigos, que zombam dele e o acusam injustamente. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 43:
+* Salmos 42:9 - "Digo a Deus, minha rocha: 'Por que te esqueceste de mim? Por que devo sair vagueando e oprimido pelo inimigo?'" O salmista está clamando a Deus por ajuda, questionando por que ele parece ter sido esquecido e deixado sozinho diante de seus inimigos.
+* Salmos 42:11 - "Por que você está assim tão triste, ó minha alma? Por que está assim tão perturbada dentro de mim? Ponha a sua esperança em Deus! Pois ainda o louvarei; ele é o meu Salvador e o meu Deus." O salmista encoraja a si mesmo a ter esperança em Deus, apesar de sua tristeza e angústia.
+* Salmos 44:24 - "Por que escondes o rosto e te esqueces da nossa miséria e opressão?" O salmista questiona por que Deus parece estar ausente em sua situação difícil e opressiva.
+* Salmos 35:23 - "Desperta, Senhor! Levanta-te, meu Deus! Defende-me segundo a tua justiça, ó Senhor, meu Deus; não permitas que triunfem sobre mim." O salmista clama a Deus por justiça e proteção contra seus inimigos.
+* Salmos 55:12-14 - "Se fosse um inimigo que me insultasse, eu poderia suportar; se fosse um adversário que se levantasse contra mim, eu poderia me esconder. Mas és tu, homem como eu, meu companheiro, meu amigo íntimo! Juntos desfrutávamos de doces momentos; íamos com a multidão à casa de Deus." O salmista expressa sua tristeza diante da traição de um amigo íntimo, que agora se tornou um inimigo e o acusa injustamente.
+****
+
+[[v21-43-1]]
+
+^<<v21-43-1,1>>^ Ao mestre do coro. Dos filhos de Coré. Maskil. (ver nota)
+
+[[v21-43-2]]
+
+^<<v21-43-2,2>>^ Nós, ó Deus, ouvimos com os nossos próprios ouvidos, nossos pais contaram-nos a obra que fizeste nos seus dias nos dias antigos.
+
+[[v21-43-3]]
+
+^<<v21-43-3,3>>^ Tu, com a tua mão, expulsas as gentes, os estabeleceste a eles (em seu lugar), destruídas as nações, os dilataste,
+
+[[v21-43-4]]
+
+^<<v21-43-4,4>>^ De facto, não foi com a sua espada que conquistaram este país, nem foi o seu braço que os salvou, mas a tua dextra e o teu braço, e a serenidade do teu rosto, porque os amaste.
+
+[[v21-43-5]]
+
+^<<v21-43-5,5>>^ Tu és o meu rei e o meu Deus, que deste as vitórias a Jacob.
+
+[[v21-43-6]]
+
+^<<v21-43-6,6>>^ Por ti rechaçámos os nossos adversários, e em teu nome calcámos os nossos agressores.
+
+[[v21-43-7]]
+
+^<<v21-43-7,7>>^ Não foi no meu arco que pus confiança, nem foi a minha espada que me salvou.
+
+[[v21-43-8]]
+
+^<<v21-43-8,8>>^ Foste tu que nos salvaste dos nossos adversários, e confundiste os que nos tinham ódio.
+
+[[v21-43-9]]
+
+^<<v21-43-9,9>>^ Em Deus nos gloriávamos sem cessar, e o teu nome celebrávamos sempre.
+
+[[v21-43-10]]
+
+^<<v21-43-10,10>>^ Tu agora porém, repeliste-nos e cobriste-nos de confusão, já não sais, ó Deus, á frente dos nossos exércitos.
+
+[[v21-43-11]]
+
+^<<v21-43-11,11>>^ Fizeste-nos ceder diante dos nossos adversários, e os que nos odeiam encheram-se de despojos
+
+[[v21-43-12]]
+
+^<<v21-43-12,12>>^ Entregaste-nos, como ovelhas para o matadouro, dispersaste-nos entre as nações.
+
+[[v21-43-13]]
+
+^<<v21-43-13,13>>^ Vendeste o teu povo por preço vil e pouco lucraste em o ter vendido.
+
+[[v21-43-14]]
+
+^<<v21-43-14,14>>^ Tornaste-nos o opróbrio dos nossos vizinhos; um objecto de escárnio a zombaria para aqueles que estão ao redor de nós.
+
+[[v21-43-15]]
+
+^<<v21-43-15,15>>^ Fizeste de nós a fábula das nações, os povos abanam a cabeça, escarnecendo de nós.
+
+[[v21-43-16]]
+
+^<<v21-43-16,16>>^ A minha ignomínia está todo o dia diante de mim, e o meu rosto cobre-se de confusão,
+
+[[v21-43-17]]
+
+^<<v21-43-17,17>>^ à voz do que me afronta e vitupera, por causa do inimigo e do opressor.
+
+[[v21-43-18]]
+
+^<<v21-43-18,18>>^ Todas estas coisas vieram sobre nós, e, ainda assim, não nos temos esquecido de ti, nem violámos o teu pacto,
+
+[[v21-43-19]]
+
+^<<v21-43-19,19>>^ nem o nosso coração tornou atrás (para seguir os falsos deuses), nem se desviaram os nossos passos do teu caminho,
+
+[[v21-43-20]]
+
+^<<v21-43-20,20>>^ quando nos humilhaste no lugar da aflição, e nos cobriste de trevas.
+
+[[v21-43-21]]
+
+^<<v21-43-21,21>>^ Se tivéssemos esquecido o nome do nosso Deus, se tivéssemos estendido as mãos para algum deus estranho,
+
+[[v21-43-22]]
+
+^<<v21-43-22,22>>^ porventura Deus não teria averiguado tudo isto? Em verdade ele conhece os segredos do coração.
+
+[[v21-43-23]]
+
+^<<v21-43-23,23>>^ Mas, por amor de ti, somos entregues à morte todos os dias, somos considerados como ovelhas para o matadouro. (ver nota)
+
+[[v21-43-24]]
+
+^<<v21-43-24,24>>^ Desperta! Por que dormes Senhor? Acordai Não nos rejeites para sempre!
+
+[[v21-43-25]]
+
+^<<v21-43-25,25>>^ Por que escondes o teu rosto? Esqueces-te da nossa miséria e da nossa opressão?
+
+[[v21-43-26]]
+
+^<<v21-43-26,26>>^ Porquanto a nossa alma está humilhada até ao pó, e o nosso peito como que está pegado à terra.
+
+[[v21-43-27]]
+
+^<<v21-43-27,27>>^ Levanta-te, Senhor, em nosso auxílio, e livra-nos pela tua misericórdia.
+
+'''
+
+xref:021-salmos/021-salmos-042.adoc#v21-42-0[&#60; Capítulo Anterior] | <<v21-43-0,Topo>> | xref:021-salmos/021-salmos-044.adoc#v21-44-0[Próximo Capítulo &#62;]

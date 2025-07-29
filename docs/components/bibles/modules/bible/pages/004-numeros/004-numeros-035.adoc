@@ -1,0 +1,154 @@
+include::./index.adoc[]
+
+[[v4-35-0]]
+=== Números, 35
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Números 35 fala sobre a distribuição das cidades dos levitas e a criação das cidades de refúgio para aqueles que cometessem homicídio involuntário. Essas cidades serviriam como um lugar seguro para aqueles que acidentalmente tiraram a vida de alguém, evitando que fossem mortos pelos vingadores da vítima. Aqui estão quatro versículos relacionados aos temas abordados em Números 35:
+* Deuteronômio 19:2-4: "Designe três cidades para você no meio da sua terra, que o Senhor, o seu Deus, lhe dá para possuir. Prepare as estradas e divida em três partes a área da sua terra que o Senhor, o seu Deus, está dando a você como herança, para que qualquer assassino possa fugir para essas cidades. Este é o procedimento legal para os assassinos que fugirem para lá e viverem: um que feriu alguém sem intenção não deve ser morto antes de ter tido um julgamento diante da assembleia." Este versículo se relaciona com a criação das cidades de refúgio mencionadas em Números 35 e descreve o processo legal a ser seguido para aqueles que fugirem para lá.
+* Josué 20:1-3: "Então o Senhor disse a Josué: 'Diga aos israelitas que designem as cidades de refúgio, das quais lhes falei por meio de Moisés, para que qualquer que matar um homem sem intenção possa fugir para lá e encontrar proteção da vingança do assassino. Ele fugirá para uma dessas cidades e apresentará seu caso às portas da cidade. Então a cidade receberá o homem e lhe dará um lugar para viver entre eles.'" Este versículo também se relaciona com a criação das cidades de refúgio e descreve como elas foram estabelecidas como um lugar de proteção para aqueles que cometeram homicídio involuntário.
+* Deuteronômio 4:41-42: "Então Moisés separou três cidades a leste do Jordão, para onde poderia fugir o homem que matasse alguém sem intenção e não tivesse rancor do morto. Ele poderia fugir para uma dessas cidades e salvar a própria vida." Este versículo faz referência à criação das cidades de refúgio e descreve a localização das três cidades que foram estabelecidas a leste do Jordão.
+* Provérbios 18:10: "O nome do Senhor é uma torre forte; os justos correm para ela e estão seguros." Este versículo pode ser aplicado ao tema das cidades de refúgio, pois elas serviam como um lugar seguro para aqueles que buscavam proteção contra a vingança dos vingadores da vítima.
+****
+
+[[v4-35-1]]
+
+^<<v4-35-1,1>>^ Disse também o Senhor a Moisés estas coisas nas planícies de Moab, junto do Jordão, defronte de Jericó:
+
+[[v4-35-2]]
+
+^<<v4-35-2,2>>^ Manda aos filhos de Israel que dêem das suas possessões aos Levitas
+
+[[v4-35-3]]
+
+^<<v4-35-3,3>>^ cidades para habitarem, e os seus subúrbios, para que eles morem nas cidades, e os subúrbios sejam para os seus gados e animais.
+
+[[v4-35-4]]
+
+^<<v4-35-4,4>>^ Estes subúrbios estender-se-ão dos muros das cidades para fora mil passos em roda.
+
+[[v4-35-5]]
+
+^<<v4-35-5,5>>^ Serão de dois mil côvados para o oriente, de dois mil côvados para o meio-dia, dois mil côvados para o ocidente, e dois mil côvados para o setentrião, ficando a cidade no meio. Estes são os lugares das pastagens das suas cidades.
+
+[[v4-35-6]]
+
+^<<v4-35-6,6>>^ Das mesmas cidades que deres aos Levitas, seis serão destinadas para refúgio dos fugitivos, a fim de que nelas se acolha aquele que tiver derramado sangue (involuntariamente); além destas (seis), haverá (para os Levitas) outras quarenta e duas cidades,
+
+[[v4-35-7]]
+
+^<<v4-35-7,7>>^ isto é, ao todo quarenta e oito com os seus subúrbios.
+
+[[v4-35-8]]
+
+^<<v4-35-8,8>>^ Essas cidades que se hão-de dar das possessões dos filhos de Israel, serão tomadas mais dos que têm mais, e menos dos que têm menos: cada um dará cidades aos Levitas na proporção da sua herança.
+
+[[v4-35-9]]
+
+^<<v4-35-9,9>>^ O Senhor disse a Moisés:
+
+[[v4-35-10]]
+
+^<<v4-35-10,10>>^ Fala aos filhos de Israel e dize-lhes: Quando, passado o Jordão, tiverdes entrado na terra de Canaan,
+
+[[v4-35-11]]
+
+^<<v4-35-11,11>>^ determinai que cidades devem ser para refúgio dos fugitivos, que involuntariamente derramarem sangue.
+
+[[v4-35-12]]
+
+^<<v4-35-12,12>>^ Quando o fugitivo se tiver refugiado nelas, o vingador do sangue não poderá matá-lo, enquanto se não apresentar diante da assembleia, enquanto não for julgada a sua causa.
+
+[[v4-35-13]]
+
+^<<v4-35-13,13>>^ Dessas cidades que se devem destinar a refúgio.
+
+[[v4-35-14]]
+
+^<<v4-35-14,14>>^ três serão do lado de lá do Jordão, e três na terra de Canaan,
+
+[[v4-35-15]]
+
+^<<v4-35-15,15>>^ e (serão) tanto para os filhos de Israel, como para os estrangeiros e peregrinos, a fim de que a elas se acolha aquele que involuntariamente tiver derramado sangue.
+
+[[v4-35-16]]
+
+^<<v4-35-16,16>>^ Se alguém ferir com ferro, e o ferido morrer, (o agressor) é réu de homicídio, também ele morrerá.
+
+[[v4-35-17]]
+
+^<<v4-35-17,17>>^ Se alguém atirar uma pedrada, e o ferido morrer (dela), será castigado da mesma maneira.
+
+[[v4-35-18]]
+
+^<<v4-35-18,18>>^ Se morrer o que foi ferido com pau, será vingado com o sangue do que o feriu.
+
+[[v4-35-19]]
+
+^<<v4-35-19,19>>^ O vingador do sangue matará o homicida: logo que o apanhar, o matará.
+
+[[v4-35-20]]
+
+^<<v4-35-20,20>>^ Se algum homem por ódio empurrar outro, ou lhe atirar com alguma coisa à traição,
+
+[[v4-35-21]]
+
+^<<v4-35-21,21>>^ ou se, sendo seu inimigo, o ferir com a mão, e ele morrer, o percussor será réu de homicídio; o vingador do sangue, logo que der com ele, o matará
+
+[[v4-35-22]]
+
+^<<v4-35-22,22>>^ Porém, se ele acidentalmente, e não por ódio
+
+[[v4-35-23]]
+
+^<<v4-35-23,23>>^ nem por inimizade, fez alguma destas coisas,
+
+[[v4-35-24]]
+
+^<<v4-35-24,24>>^ e se provar diante do povo, e tiver sido ventilada a causa de sangue entre o que feriu e o vingador do sangue,
+
+[[v4-35-25]]
+
+^<<v4-35-25,25>>^ será livre da mão do vingador como inocente, e por sentença será reconduzido à cidade, a que se tinha refugiado, e ali ficará até à morte do sumo sacerdote, que foi sagrado com o santo óleo. (ver nota)
+
+[[v4-35-26]]
+
+^<<v4-35-26,26>>^ Se o que matou for encontrado fora dos limites das cidades, que estão destinadas para os fugitivos,
+
+[[v4-35-27]]
+
+^<<v4-35-27,27>>^ e for morto por aquele que é vingador do sangue, não será culpado o que matar,
+
+[[v4-35-28]]
+
+^<<v4-35-28,28>>^ porque o fugitivo devia residir na cidade até à morte do pontífice. Depois que este morrer, o homicida pode voltar para a sua terra.
+
+[[v4-35-29]]
+
+^<<v4-35-29,29>>^ Estas determinações serão perpétuas, e serão leis em todos os lugares que habitardes.
+
+[[v4-35-30]]
+
+^<<v4-35-30,30>>^ O homicida será castigado, ouvidas as testemunhas: ninguém será condenado pela deposição de uma só testemunha.
+
+[[v4-35-31]]
+
+^<<v4-35-31,31>>^ Não recebereis dinheiro pelo resgate daquele que é réu de sangue, pois ele deve ser morto.
+
+[[v4-35-32]]
+
+^<<v4-35-32,32>>^ Os desterrados e os fugitivos de nenhum modo poderão voltar para as suas cidades antes da morte do pontífice.
+
+[[v4-35-33]]
+
+^<<v4-35-33,33>>^ Não manchareis a terra da vossa habitação, a qual se contamina com o sangue dos inocentes, e não pode ser purificada senão com o sangue daquele que derramou o sangue do outro.
+
+[[v4-35-34]]
+
+^<<v4-35-34,34>>^ Não profaneis a terra que habitais, onde também eu habito, porque eu sou o Senhor, que habito entre os filhos de Israel.
+
+'''
+
+xref:004-numeros/004-numeros-034.adoc#v4-34-0[&#60; Capítulo Anterior] | <<v4-35-0,Topo>> | xref:004-numeros/004-numeros-036.adoc#v4-36-0[Próximo Capítulo &#62;]

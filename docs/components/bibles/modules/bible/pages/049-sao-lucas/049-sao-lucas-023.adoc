@@ -1,0 +1,243 @@
+include::./index.adoc[]
+
+[[v49-23-0]]
+=== São Lucas, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Lucas 23 relata o julgamento, condenação e crucificação de Jesus. Além disso, o capítulo também apresenta algumas pessoas envolvidas na crucificação, como Pilatos e os criminosos crucificados ao lado de Jesus. Abaixo estão cinco versículos relacionados com os temas abordados em São Lucas 23:
+* Isaías 53:5: "Mas ele foi ferido pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados." Este verso profético de Isaías se relaciona com a crucificação de Jesus, em que Ele foi ferido e morto pelos pecados da humanidade.
+* João 19:11: "Respondeu Jesus: 'Não terias nenhuma autoridade sobre mim, se não te fosse dada de cima; por isso, quem me entregou a ti cometeu pecado maior'". Jesus afirma que Pilatos não teria autoridade sobre Ele se não fosse permitido por Deus, e que a verdadeira culpa recai sobre aqueles que O entregaram.
+* Marcos 15:34: "E, à hora nona, bradou Jesus em alta voz, dizendo: Eli, Eli, lemá sabactâni, que quer dizer: Deus meu, Deus meu, por que me desamparaste?" Este verso apresenta as últimas palavras de Jesus na cruz, quando Ele sentiu o abandono de Deus em Sua morte.
+* Marcos 15:38: "E o véu do santuário rasgou-se em duas partes, de alto a baixo." Este verso descreve um evento sobrenatural que ocorreu após a morte de Jesus, quando o véu do templo foi rasgado, indicando que agora todos têm acesso direto a Deus.
+* Marcos 15:46: "E, tendo comprado um pano de linho e tirando-o da cruz, envolveu-o nele e depositou-o num sepulcro lavrado na rocha; e revolveu uma pedra para a porta do sepulcro." Este verso narra o sepultamento de Jesus, que é um momento crucial na história da salvação, pois marca o início da ressurreição e da vitória sobre a morte.
+****
+
+[[v49-23-1]]
+
+^<<v49-23-1,1>>^ Levantando-se toda a multidão, levaram-no a Pilatos.
+
+[[v49-23-2]]
+
+^<<v49-23-2,2>>^ Começaram a acusá-lo, dizendo: "Encontrámos este homem sublevando a nossa nação, proibindo dar tributo a César, e dizendo que é o Cristo Rei."
+
+[[v49-23-3]]
+
+^<<v49-23-3,3>>^ Pilatos interrogou-o: "Tu és o rei dos Judeus?" Ele, respondendo, disse: "Tu o dizes."
+
+[[v49-23-4]]
+
+^<<v49-23-4,4>>^ Então Pilatos disse aos príncipes dos sacerdotes e ao povo: "Não encontro neste homem crime algum."
+
+[[v49-23-5]]
+
+^<<v49-23-5,5>>^ Porém eles insistiam, cada vez mais, dizendo: "Ele subleva o povo, ensinando por toda a Judeia, desde a Galileia, oude começou, até aqui."
+
+[[v49-23-6]]
+
+^<<v49-23-6,6>>^ Pilatos, ouvindo falar da Galileia, perguntou se aquele homem era galileu.
+
+[[v49-23-7]]
+
+^<<v49-23-7,7>>^ Quando soube que era da jurisdição de Herodes, remeteu-o a Herodes, que, naqueles dias, se encontrava também em Jerusalém.
+
+[[v49-23-8]]
+
+^<<v49-23-8,8>>^ Herodes, tendo visto Jesus, teve grande alegria, porque havia muito tempo tinha desejo de o ver, por ter ouvido dele muitas coisas, e esperava ver-lhe fazer algum milagre.
+
+[[v49-23-9]]
+
+^<<v49-23-9,9>>^ Fez-lhe muitas perguntas. Mas ele nada lhe respondeu.
+
+[[v49-23-10]]
+
+^<<v49-23-10,10>>^ Estavam presentes os príncipes dos sacerdotes e os escribas, acusando-o com grande insistência.
+
+[[v49-23-11]]
+
+^<<v49-23-11,11>>^ Herodes com os seus guardas desprezou-o, fez escárnio dele, mandando-o vestir com uma vestidura branca, e tornou-o a enviar a Pilatos.
+
+[[v49-23-12]]
+
+^<<v49-23-12,12>>^ Naquele dia, ficaram amigos Herodes e Pilatos; porque antes eram inimigos um do outro.
+
+[[v49-23-13]]
+
+^<<v49-23-13,13>>^ Pilatos, tendo chamado os príncipes dos sacerdotes, os magistrados e o povo,
+
+[[v49-23-14]]
+
+^<<v49-23-14,14>>^ disse-lhes: "Vós apresentaste-me este homem como amotinador do povo; ora, interrogando-o eu diante de vós, não encontrei nele culpa alguma daquelas de que o acusais.
+
+[[v49-23-15]]
+
+^<<v49-23-15,15>>^ Nem Herodes tão-pouco, porque no-lo remeteu. Nada lhe foi encontrado que mereça morte.
+
+[[v49-23-16]]
+
+^<<v49-23-16,16>>^ Por isso soltá-lo-ei depois de castigado."
+
+[[v49-23-17]]
+
+^<<v49-23-17,17>>^ (Ora Pilatos era obrigado a soltar-lhes, pela festa (da Páscoa), um preso.)
+
+[[v49-23-18]]
+
+^<<v49-23-18,18>>^ Mas todo o povo exclamou a uma voz, dizendo : "Faz morrer este, e solta-nos Barrabás;
+
+[[v49-23-19]]
+
+^<<v49-23-19,19>>^ o qual tinha sido preso por causa de uma sedição levantada na cidade, e por homicidio.
+
+[[v49-23-20]]
+
+^<<v49-23-20,20>>^ Pilatos, que desejava livrar Jesus, falou-lhes de novo.
+
+[[v49-23-21]]
+
+^<<v49-23-21,21>>^ Eles, porém, tornaram a gritar: "Crucifica-o, crucifica-o!"
+
+[[v49-23-22]]
+
+^<<v49-23-22,22>>^ Ele disse-lhes terceira vez: "Mas, que mal fez ele? Não encontro nele causa alguma de morte; castigá-lo-ei, pois, e o soltarei."
+
+[[v49-23-23]]
+
+^<<v49-23-23,23>>^ Eles, porém, insistiam em altos gritos que fosse crucificado ; e os seus clamores iam crescendo.
+
+[[v49-23-24]]
+
+^<<v49-23-24,24>>^ Pilatos, pois, decretou que se executasse o que eles pediam.
+
+[[v49-23-25]]
+
+^<<v49-23-25,25>>^ Soltou-lhes aquele que tinha sido preso por causa de sedição e de homicídio, como eles reclamavam; e abandonou Jesus ao arbítrio deles.
+
+[[v49-23-26]]
+
+^<<v49-23-26,26>>^ Quando o iam conduzindo, agarraram um certo Simão Cireneu, que voltava do campo; e puseram a cruz sobre ele, para que a levasse após de Jesus.
+
+[[v49-23-27]]
+
+^<<v49-23-27,27>>^ Seguia-o uma grande multidão de povo e de mulheres, que batiam no peito, e o lamentavam.
+
+[[v49-23-28]]
+
+^<<v49-23-28,28>>^ Porém Jesus, voltando-se para elas, disse : "Filhas de Jerusalém, não choreis sobre mim, mas chorai sobre vós mesmas e sobre vossos filhos.
+
+[[v49-23-29]]
+
+^<<v49-23-29,29>>^ Porque eis que virá tempo em que se dirá: Ditosas as estéreis, os seios que não geraram, e os peitos que não amamentaram.
+
+[[v49-23-30]]
+
+^<<v49-23-30,30>>^ Então começarão os homens a dizer aos montes : Caí sobre nós; e aos outeiros : Cobri-nos (Os. 10,8). 31 Porque, se isto se faz no lenho verde, que se fará no seco?"
+
+[[v49-23-31]]
+
+^<<v49-23-31,31>>^ Eram também levados com Jesus outros dois, que eram malfeitores, para serem mortos. (ver nota)
+
+[[v49-23-32]]
+
+^<<v49-23-32,32>>^ Jesus morre sobre a Cruz.
+
+[[v49-23-33]]
+
+^<<v49-23-33,33>>^ Quando chegaram ao lugar que se chama Calvário, ali o crucificaram a ele e aos ladrões, um à direita e outro à esquerda.
+
+[[v49-23-34]]
+
+^<<v49-23-34,34>>^ Jesus dizia: "Pai, perdoa-lhes, porque não sabem o que fazem ." Dividindo os seus vestidos, sortearam-nos (S. 21,19).
+
+[[v49-23-35]]
+
+^<<v49-23-35,35>>^ O povo estava observando. Os príncipes dos sacerdotes ( com o povo ) o escarneciam, dizendo: "Salvou os outros, salve-se a si mesmo, se é o Cristo, o escolhido de Deus."
+
+[[v49-23-36]]
+
+^<<v49-23-36,36>>^ Insultavam-no também os soldados, os quais, aproximando-se dele e oferecendo-lhe vinagre,
+
+[[v49-23-37]]
+
+^<<v49-23-37,37>>^ diziam : "Se és o rei dos Judeus, salva-te a ti mesmo."
+
+[[v49-23-38]]
+
+^<<v49-23-38,38>>^ Estava também por cima da sua cabeça uma inscrição : Este é o rei dos Judeus.
+
+[[v49-23-39]]
+
+^<<v49-23-39,39>>^ Um daqueles ladrões, que estavam pendurados, blasfemava contra ele, dizendo: "Se és o Cristo, salva-te a ti mesmo e a nós."
+
+[[v49-23-40]]
+
+^<<v49-23-40,40>>^ O outro, porém, tomando a palavra, repreendia-o, dizendo: "Nem tu temes a Deus, estando no mesmo suplício?"
+
+[[v49-23-41]]
+
+^<<v49-23-41,41>>^ Nós estamos na verdade justamente, porque recebemos o castigo que merecem as nossas acções, mas este não fez nenhum mal.
+
+[[v49-23-42]]
+
+^<<v49-23-42,42>>^ E dizia a Jesus: "Senhor, lembra-te de mim, quando entrares no teu reino."
+
+[[v49-23-43]]
+
+^<<v49-23-43,43>>^ Jesus disse-lhe: "Em verdade te digo: Hoje estarás comigo no paraíso."
+
+[[v49-23-44]]
+
+^<<v49-23-44,44>>^ Era então quase a hora, sexta, e toda a terra ficou coberta de trevas até à hora nona;
+
+[[v49-23-45]]
+
+^<<v49-23-45,45>>^ escureceu-se o sol, e rasgou-se pelo meio o véu do templo.
+
+[[v49-23-46]]
+
+^<<v49-23-46,46>>^ Jesus, exclamando em alta voz, disse: "Pai, nas tuas mãos encomendo o meu espírito (S. 30,6)." Dizendo isto, expirou.
+
+[[v49-23-47]]
+
+^<<v49-23-47,47>>^ O centurião, vendo o que tinha acontecido, glorificou a Deus, dizendo : "Na verdade este homem era justo."
+
+[[v49-23-48]]
+
+^<<v49-23-48,48>>^ E toda a multidão que assistia a este espectáculo, e via o que sucedia, retirava-se, batendo no peito.
+
+[[v49-23-49]]
+
+^<<v49-23-49,49>>^ Todos os conhecidos de Jesus, e as mulheres que o tinham seguido desde a Galileia, estavam de longe observando estas coisas.
+
+[[v49-23-50]]
+
+^<<v49-23-50,50>>^ Então um homem, chamado José, que era membro do Sinédrio, varão bom e justo,
+
+[[v49-23-51]]
+
+^<<v49-23-51,51>>^ que não tinha concordado com a determinação dos outros, nem com os seus actos, oriundo de Arimateia, cidade da Judeia, que também esperava o reino de Deus,
+
+[[v49-23-52]]
+
+^<<v49-23-52,52>>^ foi ter com Pilatos, e pediu-lhe o corpo de Jesus.
+
+[[v49-23-53]]
+
+^<<v49-23-53,53>>^ Tendo-o descido da cruz, envolveu-o num lençol, e depositou-o num sepulcro aberto na rocha, no qual ainda ninguém tinha sido sepultado,
+
+[[v49-23-54]]
+
+^<<v49-23-54,54>>^ Era o dia da Preparação, e o sábado ia começar. (ver nota)
+
+[[v49-23-55]]
+
+^<<v49-23-55,55>>^ Ora as mulheres, que tinham ido da Galileia com Jesus, indo atrás de José, observaram o sepulcro, e de que modo o corpo de Jesus fora nele depositado.
+
+[[v49-23-56]]
+
+^<<v49-23-56,56>>^ Voltando, prepararam aromas e bálsamos. No sábado, estiveram em repouso, segundo a lei.
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-022.adoc#v49-22-0[&#60; Capítulo Anterior] | <<v49-23-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-024.adoc#v49-24-0[Próximo Capítulo &#62;]

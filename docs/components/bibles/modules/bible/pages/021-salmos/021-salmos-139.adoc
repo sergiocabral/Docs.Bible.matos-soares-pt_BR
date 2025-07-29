@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-139-0]]
+=== Salmos, 139
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 139 é uma meditação poética sobre a onipresença e a onisciência de Deus, que conhece profundamente o ser humano desde o seu nascimento até a sua morte. Os temas principais são a relação íntima entre Deus e o ser humano, a sua onipotência criadora e o seu cuidado providencial. Seguem abaixo cinco versículos relacionados com esses temas:
+* Gênesis 1:27: "Criou Deus, pois, o homem à sua imagem, à imagem de Deus o criou; homem e mulher os criou." Esse versículo fala da criação do ser humano à imagem de Deus, um tema que é mencionado no Salmo 139 nos versos que afirmam que fomos formados no seio da nossa mãe pela mão divina.
+* Provérbios 15:3: "Os olhos do Senhor estão em todo lugar, observando atentamente os maus e os bons." Esse versículo enfatiza a onipresença e a onisciência de Deus, temas que são centrais no Salmo 139 nos versos que falam da presença divina em todos os lugares e da capacidade de Deus conhecer os nossos pensamentos mais íntimos.
+* Jeremias 1:5: "Antes que eu te formasse no ventre materno, eu te conheci, e, antes que saísses da madre, te consagrei e te constituí profeta às nações." Esse versículo fala da escolha divina desde o ventre materno, um tema que é abordado no Salmo 139 nos versos que falam da predestinação divina e da busca de Deus pelos seus servos.
+* Mateus 10:29-31: "Não se vendem dois pardais por uma moedinha? Contudo, nenhum deles cai no chão sem o consentimento do Pai de vocês. E até os cabelos da cabeça de vocês estão todos contados. Portanto, não tenham medo; vocês valem mais do que muitos pardais!" Esse versículo fala do cuidado providencial de Deus, que é um tema presente no Salmo 139 nos versos que falam da proteção divina desde o ventre materno e do acompanhamento divino em todos os momentos da vida.
+* Romanos 8:38-39: "Pois estou convencido de que nem morte nem vida, nem anjos nem demônios, nem o presente nem o futuro, nem quaisquer poderes, nem altura nem profundidade, nem qualquer outra coisa na criação será capaz de nos separar do amor de Deus que está em Cristo Jesus, nosso Senhor." Esse versículo fala do amor incondicional de Deus, um tema central no Salmo 139 nos versos que afirmam que fomos tecidos no ventre materno pelo amor divino e que somos conhecidos profundamente por Deus.
+****
+
+[[v21-139-1]]
+
+^<<v21-139-1,1>>^ Ao mestre do coro. Salmo. De Davide.
+
+[[v21-139-2]]
+
+^<<v21-139-2,2>>^ Livra-me, Senhor, do homem malvado, preserva-me do homem violento:
+
+[[v21-139-3]]
+
+^<<v21-139-3,3>>^ dos que maquinam maldades no coração, que todo o dia provocam litígios.
+
+[[v21-139-4]]
+
+^<<v21-139-4,4>>^ Aguçam as suas línguas como a serpente: têm veneno de áspides debaixo de seus lábios.
+
+[[v21-139-5]]
+
+^<<v21-139-5,5>>^ Salva-me, Senhor, das mãos do iníquo, protege-me do homem violento: (dos) que procuram desviar os meus passos,
+
+[[v21-139-6]]
+
+^<<v21-139-6,6>>^ (dos que são) orgulhosos e me armam ocultamente um laço, e estendem as suas cordas à maneira de rede, e junto do caminho me põem tropeços.
+
+[[v21-139-7]]
+
+^<<v21-139-7,7>>^ Eu digo ao Senhor: Tu és o meu Deus; atende, Senhor, à voz da minha súplica.
+
+[[v21-139-8]]
+
+^<<v21-139-8,8>>^ Ó Senhor Deus, meu poderoso auxílio! Tu pões a coberto a minha cabeça no dia da batalha.
+
+[[v21-139-9]]
+
+^<<v21-139-9,9>>^ Não cedas, Senhor, aos desejos do iníquo, não secundes os seus planos.
+
+[[v21-139-10]]
+
+^<<v21-139-10,10>>^ Erguem a cabeça os que me rodeiam: oprima-os a malícia dos seus lábios.
+
+[[v21-139-11]]
+
+^<<v21-139-11,11>>^ Chovam sobre eles carvões ardentes; sejam precipitados numa cova, para que não mais se levantem.
+
+[[v21-139-12]]
+
+^<<v21-139-12,12>>^ O homem de má língua não durará sobre a terra; o homem violento será colhido de improviso pela desdita.
+
+[[v21-139-13]]
+
+^<<v21-139-13,13>>^ Sei que o Senhor dá razão ao indigente, e justiça aos pobres.
+
+[[v21-139-14]]
+
+^<<v21-139-14,14>>^ Sim, os justos celebrarão o teu nome, os homens rectos habitarão na tua presença.
+
+'''
+
+xref:021-salmos/021-salmos-138.adoc#v21-138-0[&#60; Capítulo Anterior] | <<v21-139-0,Topo>> | xref:021-salmos/021-salmos-140.adoc#v21-140-0[Próximo Capítulo &#62;]

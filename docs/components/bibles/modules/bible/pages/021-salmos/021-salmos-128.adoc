@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-128-0]]
+=== Salmos, 128
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 128 é um cântico de ação de graças que celebra a bênção de ter uma vida plena e próspera no temor do Senhor, especialmente através da família. Os versículos selecionados abaixo destacam o papel da família na vida de um crente e como essa bênção se estende a toda a comunidade.
+* Salmos 127:3-5: "Os filhos são herança do Senhor, uma recompensa que ele dá. Como flechas nas mãos do guerreiro são os filhos nascidos na juventude. Como é feliz o homem que tem a sua aljava cheia deles! Não será humilhado quando enfrentar seus inimigos no tribunal." Esses versículos afirmam que os filhos são um presente de Deus e que ter uma família grande é uma bênção. O Salmo 128 pode ser visto como uma continuação desses versículos, pois destaca como a bênção da família se estende à comunidade.
+* Provérbios 31:10-12: "Mulher virtuosa, quem a encontrará? O seu valor muito excede o de joias preciosas. O coração do seu marido confia nela, e não lhe faltará coisa alguma. Ela lhe faz bem e não mal, todos os dias da sua vida." Esses versículos descrevem a mulher virtuosa, que é vista como uma bênção para seu marido e família. Essa figura pode ser vista como uma representação da mulher mencionada no Salmo 128, que trabalha com seu marido para construir uma vida plena e próspera no temor do Senhor.
+* Provérbios 22:6: "Instrua a criança segundo os objetivos que você tem para ela, e mesmo com o passar dos anos não se desviará deles." Esse versículo destaca a importância de ensinar as crianças a seguir a vontade de Deus. O Salmo 128 fala sobre a bênção que é ter filhos e netos que seguem o caminho do Senhor.
+* 1 Timóteo 5:8: "Se alguém não cuida de seus parentes, e especialmente dos de sua própria família, negou a fé e é pior que um descrente." Esse versículo destaca a importância de cuidar da família. O Salmo 128 celebra a bênção que é ter uma família próspera e saudável, e sugere que isso é alcançado através do trabalho conjunto do marido e da esposa.
+* Gálatas 3:28: "Não há judeu nem grego, escravo nem livre, homem nem mulher; pois todos são um em Cristo Jesus." Esse versículo destaca a unidade que temos em Cristo, independentemente das diferenças sociais ou culturais. O Salmo 128 celebra a bênção de uma família que trabalha junta para viver em harmonia no temor do Senhor. Isso sugere que a bênção da família pode se estender a toda a comunidade, independentemente das diferenças culturais ou sociais.
+****
+
+[[v21-128-1]]
+
+^<<v21-128-1,1>>^ Cântico das subidas. Muito me têm combatido desde a minha juventude, diga-o agora Israel:
+
+[[v21-128-2]]
+
+^<<v21-128-2,2>>^ Muito me têm perseguido desde a minha juventude, mas não prevaleceram contra mim.
+
+[[v21-128-3]]
+
+^<<v21-128-3,3>>^ Sobre o meu dorso lavraram os lavradores, abriram longos os seus sulcos.
+
+[[v21-128-4]]
+
+^<<v21-128-4,4>>^ O Senhor, porém, que é justo, cortou as cordas dos ímpios. (ver nota)
+
+[[v21-128-5]]
+
+^<<v21-128-5,5>>^ Fiquem confundidos e retrocedam, todos os que odeiam Sião.
+
+[[v21-128-6]]
+
+^<<v21-128-6,6>>^ Sejam como a erva dos telhados, a qual seca antes de ser arrancada;
+
+[[v21-128-7]]
+
+^<<v21-128-7,7>>^ da qual o que a sega não enche a sua mão, nem (enche) seus braços o que apanha seus feixes.
+
+[[v21-128-8]]
+
+^<<v21-128-8,8>>^ Nem os que passam dizem: "A bênção do Senhor sobre vós! Nós vos abençoamos em nome do Senhor."
+
+'''
+
+xref:021-salmos/021-salmos-127.adoc#v21-127-0[&#60; Capítulo Anterior] | <<v21-128-0,Topo>> | xref:021-salmos/021-salmos-129.adoc#v21-129-0[Próximo Capítulo &#62;]

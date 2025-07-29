@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v5-13-0]]
+=== Deuteronômio, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 13 trata da importância de se manter fiel ao Senhor e da punição para aqueles que tentam levar os israelitas para adorar outros deuses. O capítulo adverte sobre a presença de falsos profetas que podem tentar seduzir o povo com sinais e maravilhas para que se voltem contra o Senhor. Abaixo estão cinco versículos relacionados aos temas abordados em Deuteronômio 13:
+* Deuteronômio 4:35 - "Foi-te mostrado, para que soubesses que o Senhor é Deus; nenhum outro há senão ele." Este versículo enfatiza a exclusividade do Senhor como Deus e a importância de não se desviar para outros deuses.
+* Deuteronômio 6:14-15 - "Não sigais outros deuses, dos deuses dos povos que houver à roda de vós; Porque o Senhor teu Deus é um Deus zeloso no meio de ti, para que a ira do Senhor teu Deus se não acenda contra ti e te destrua de sobre a terra." Este versículo reforça a proibição de adorar outros deuses e as graves consequências que podem ocorrer se alguém se desviar do Senhor.
+* Jeremias 23:16 - "Assim diz o Senhor dos exércitos: Não deis ouvidos às palavras dos profetas que entre vós profetizam; fazem-vos desvanecer; falam da visão do seu coração, não da boca do Senhor." Este versículo adverte sobre os falsos profetas que podem tentar enganar o povo com palavras que não vêm do Senhor.
+* 2 Coríntios 11:13-15 - "Porque tais falsos apóstolos são obreiros fraudulentos, transfigurando-se em apóstolos de Cristo. E não é maravilha, porque o próprio Satanás se transfigura em anjo de luz. Não é muito, pois, que os seus ministros se transfigurem em ministros da justiça; o fim dos quais será conforme as suas obras." Este versículo destaca a presença de falsos profetas e ensina a importância de discernir a verdadeira mensagem do Senhor.
+* João 10:27-28 - "As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem; E dou-lhes a vida eterna, e nunca hão de perecer, e ninguém as arrebatará da minha mão." Este versículo fala sobre a importância de ouvir a voz do Senhor e seguir seus caminhos, a fim de evitar ser enganado por falsos profetas ou ensinamentos enganosos.
+****
+
+[[v5-13-1]]
+
+^<<v5-13-1,1>>^ Se se levantar no meio de ti um profeta, ou alguém que diga que teve um sonho, se predisser algum sinal ou prodígio
+
+[[v5-13-2]]
+
+^<<v5-13-2,2>>^ suceder o que ele anunciou, e te disser: Vamos, sigamos os deuses estranhos, que não conheces, e sirvá-mo-los,
+
+[[v5-13-3]]
+
+^<<v5-13-3,3>>^ não ouvirás as palavras de tal profeta ou sonhador, porque o Senhor Vosso Deus vos põe à prova, para se tomar manifesto se o amais ou não de todo o vosso coração e de toda a vossa alma.
+
+[[v5-13-4]]
+
+^<<v5-13-4,4>>^ Segui o Senhor vosso Deus, temei-o, guardai os seus mandamentos e ouvi a sua voz; a ele servireis, a ele vos unireis.
+
+[[v5-13-5]]
+
+^<<v5-13-5,5>>^ Aquele profeta, ou sonhador será posto à morte, porque vos falou pala vos afastar do Senhor vosso Deus, que vos tirou da terra do Egipto, e vos resgatou da casa da escravidão, (falando-te) pala te desviar do caminho que o Senhor teu Deus te ordenou. Assim tirarás o mal do meio de ti.
+
+[[v5-13-6]]
+
+^<<v5-13-6,6>>^ Se o teu irmão, filho de tua mãe, ou teu filho ou tua filha ou tua mulher que repousa sobre o teu seio, ou o amigo, a quem amas como à tua alma, te quiser persuadir, dizendo-te em segredo: Vamos e sirvamos a deuses estranhos desconhecidos de ti e de teus pais,
+
+[[v5-13-7]]
+
+^<<v5-13-7,7>>^ (deuses de qualquer) dos povos, que estão à tua volta, quer perto quer longe, desde uma extremidade da terra até à outra —
+
+[[v5-13-8]]
+
+^<<v5-13-8,8>>^ não cedas ao que te diz, nem o ouças, nem teus olhos lhe perdoem, de modo que tenhas compaixão dele e o encubras,
+
+[[v5-13-9]]
+
+^<<v5-13-9,9>>^ mas logo o denunciarás (aos juízes); seja a tua mão a primeira contra ele, para o matar, e depois a mão de todo o povo.
+
+[[v5-13-10]]
+
+^<<v5-13-10,10>>^ Morrerá coberto de pedras, porque quis apartar-te do Senhor teu Deus, que te tirou da terra do Egipto, da casa da servidão.
+
+[[v5-13-11]]
+
+^<<v5-13-11,11>>^ Assim todo o Israel, ouvindo isto temerá fazer coisa semelhante a esta.
+
+[[v5-13-12]]
+
+^<<v5-13-12,12>>^ Se em uma das tuas cidades, que o Senhor teu Deus te há-de dar para habitação, ouvires alguns que dizem:
+
+[[v5-13-13]]
+
+^<<v5-13-13,13>>^ Pessoas malvadas saíram do meio de ti e andam a perverter os habitantes da sua cidade, dizendo: Vamos, e sirvamos aos deuses estranhos, que vós não conheceis —
+
+[[v5-13-14]]
+
+^<<v5-13-14,14>>^ informa-te com solicitude e diligência, e, averiguada a verdade do facto, se achares ser certo o que se disse, se efectivamente se cometeu uma tal abominação,
+
+[[v5-13-15]]
+
+^<<v5-13-15,15>>^ imediatamente farás passar à espada os habitantes daquela cidade, e destruí-la-ás assim como tudo o que há nela, até os gados.
+
+[[v5-13-16]]
+
+^<<v5-13-16,16>>^ Juntarás também no meio das suas praças todos os móveis que nela se acharem, e queimá-los-ás juntamente com a cidade, de maneira que consumas tudo em honra do Senhor teu Deus: será um perpétuo montão de ruínas, não Será mais reedificada.
+
+[[v5-13-17]]
+
+^<<v5-13-17,17>>^ Não se te pegue às mãos nada deste anátema, para que o Senhor aplaque a ira do seu furor, se compadeça de ti, e te multiplique como jurou a teus pais, (ver nota)
+
+[[v5-13-18]]
+
+^<<v5-13-18,18>>^ enquanto tu ouvires a voz do Senhor teu Deus, guardando todos os seus preceitos, que eu te prescrevo hoje, fazendo o que é agradável aos olhos do Senhor teu Deus.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-012.adoc#v5-12-0[&#60; Capítulo Anterior] | <<v5-13-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-014.adoc#v5-14-0[Próximo Capítulo &#62;]

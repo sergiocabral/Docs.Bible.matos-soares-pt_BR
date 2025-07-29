@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v7-13-0]]
+=== Juízes, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 13 do livro de Juízes conta a história do nascimento de Sansão. Um anjo do Senhor apareceu à esposa de Manoá, que era estéril, e anunciou que ela daria à luz um filho que seria consagrado a Deus desde o ventre e começaria a libertar Israel do jugo dos filisteus. Depois disso, o anjo se foi e Manoá e sua esposa reconheceram que haviam visto o próprio Deus.
+* Ezequiel 16:6: "E passei por ti, e te vi a revolver-te no teu sangue, e disse-te: Ainda que estejas no teu sangue, vive; sim, disse-te: Ainda que estejas no teu sangue, vive." Este versículo fala da misericórdia de Deus ao salvar alguém que estava à beira da morte, assim como Sansão foi escolhido por Deus antes mesmo de nascer.
+* Isaías 49:1: "Ouvi-me, ilhas, e escutai, povos de longe: O SENHOR me chamou desde o ventre; desde as entranhas de minha mãe fez menção do meu nome." Este versículo mostra que Deus já tem um plano para a vida de alguém desde o ventre materno, assim como aconteceu com Sansão.
+* Jeremias 1:5: "Antes que te formasse no ventre te conheci, e antes que saísses da madre te santifiquei; às nações te dei por profeta." Este versículo mostra que Deus tem um propósito para a vida de cada pessoa desde antes de seu nascimento, assim como com Sansão.
+* Salmos 22:10: "Desde o ventre minha mãe me sustentaste; tu és aquele que me tiraste das entranhas de minha mãe; o meu louvor será sempre para ti." Este versículo fala da proteção e cuidado que Deus tem para com seus filhos, assim como aconteceu com Sansão desde antes de seu nascimento.
+* Mateus 1:21: "E dará à luz um filho e chamarás o seu nome JESUS, porque ele salvará o seu povo dos seus pecados." Este versículo fala sobre o nascimento de Jesus, que também foi anunciado por um anjo e teve um propósito especial, assim como com Sansão.
+****
+
+[[v7-13-1]]
+
+^<<v7-13-1,1>>^ Os filhos de Israel tornaram a fazer o mal na presença do Senhor e ele os entregou nas mãos dos Filisteus durante quarenta anos.
+
+[[v7-13-2]]
+
+^<<v7-13-2,2>>^ Ora havia um homem de Saraa, da linhagem de Dan, chamado Manué, cuja mulher era estéril,
+
+[[v7-13-3]]
+
+^<<v7-13-3,3>>^ à qual apareceu o anjo do Senhor, e lhe disse: Tu és estéril e sem filhos, mas conceberás e darás à luz um filho.
+
+[[v7-13-4]]
+
+^<<v7-13-4,4>>^ Toma cuidado, não bebas vinho nem coisa que possa embriagar, nem comas coisa alguma impura,
+
+[[v7-13-5]]
+
+^<<v7-13-5,5>>^ porque conceberás e darás à luz um filho, cuja cabeça não será tocada por navalha, pois que ele será Nazareno de Deus, desde o ventre de sua mãe, e será o primeiro a livrar Israel das mãos dos Filisteus. (ver nota)
+
+[[v7-13-6]]
+
+^<<v7-13-6,6>>^ Ela indo ter com seu marido, disse-lhe: Veio ter comigo um homem de Deus, que tinha um rosto de anjo, em extremo terrível. Não lhe perguntei donde tinha vindo, nem ele me deu a conhecer o seu nome,
+
+[[v7-13-7]]
+
+^<<v7-13-7,7>>^ mas disse-me: Conceberás e darás à luz um filho; toma cuidado, não bebas vinho nem coisa que possa embriagar, e não comas coisa alguma impura, porque o menino será Nazareno de Deus, desde o ventre de sua mãe até ao dia da sua morte.
+
+[[v7-13-8]]
+
+^<<v7-13-8,8>>^ Então Manué fez oração ao Senhor, dizendo: Peço-te, Senhor, que o homem de Deus, que enviaste, venha outra vez, e nos ensine o que devemos fazer acerca do menino, que há-de nascer.
+
+[[v7-13-9]]
+
+^<<v7-13-9,9>>^ O Senhor ouviu a oração de Manué, e o anjo de Deus apareceu de novo à sua mulher, estando sentada no campo. Não estava com ela seu marido Manué. Ela, tendo visto o anjo,
+
+[[v7-13-10]]
+
+^<<v7-13-10,10>>^ imediatamente correu a dar a seu marido a notícia, dizendo: Eis que me apareceu o homem, que eu tinha visto antes.
+
+[[v7-13-11]]
+
+^<<v7-13-11,11>>^ Ele levantou-se, seguiu sua mulher, e, tendo chegado ao homem, disse-Ihe: És tu que falaste a esta mulher? Ele respondeu: Sou eu.
+
+[[v7-13-12]]
+
+^<<v7-13-12,12>>^ Manué disse-lhe: Quando se tiver cumprido a tua palavra, que queres tu que faça o menino? ou de que coisa se deverá ele abster?
+
+[[v7-13-13]]
+
+^<<v7-13-13,13>>^ O anjo do Senhor respondeu a Manué: Abstenha-se tua mulher de tudo o que eu lhe disse:
+
+[[v7-13-14]]
+
+^<<v7-13-14,14>>^ não coma nada do que nasce da vinha; não beba vinho, nem coisa que possa embriagar; não coma coisa alguma impura; observe e cumpra o que lhe ordenei.
+
+[[v7-13-15]]
+
+^<<v7-13-15,15>>^ Manué disse ao anjo do Senhor: Rogo-te que condescendas com minhas súplicas, e que te preparemos um cabrito.
+
+[[v7-13-16]]
+
+^<<v7-13-16,16>>^ O anjo respondeu-lhe: Ainda que me faças violência, não comerei do teu pão, mas, se queres fazer um holocausto, oferece-o ao Senhor. Manué, que não sabia que era o anjo do Senhor,
+
+[[v7-13-17]]
+
+^<<v7-13-17,17>>^ disse-lhe: Qual é o teu nome, para que, cumprida que seja a tua palavra, nos te honremos?
+
+[[v7-13-18]]
+
+^<<v7-13-18,18>>^ O anjo respondeu-lhe: Porque perguntas tu o meu nome, que é admirável (ou incompreensível)?
+
+[[v7-13-19]]
+
+^<<v7-13-19,19>>^ Tomou pois Manué o cabrito e as libações, e pô-lo sobre a pedra, oferecendo-o ao Senhor, que operou um prodígio, aos olhos de Manué e de sua mulher.
+
+[[v7-13-20]]
+
+^<<v7-13-20,20>>^ Quando a chama do altar subiu ao céu, subiu também o anjo do Senhor junto com a chama. À vista disto, Manué e sua mulher caíram com os rostos por terra,
+
+[[v7-13-21]]
+
+^<<v7-13-21,21>>^ e não lhes apareceu mais o anjo do Senhor. Manué compreendeu logo que era o anjo do Senhor,
+
+[[v7-13-22]]
+
+^<<v7-13-22,22>>^ e disse para sua mulher: Certamente morreremos, porque vimos Deus.
+
+[[v7-13-23]]
+
+^<<v7-13-23,23>>^ A mulher respondeu-lhe: Se o Senhor nos quisesse matar, não teria recebido de nossas mãos o holocausto e as libações, nem nos teria mostrado todas estas coisas, nem nos teria dito o que está para acontecer.
+
+[[v7-13-24]]
+
+^<<v7-13-24,24>>^ Ela deu à luz um filho e pôs-lhe o nome do Sansão. O menino cresceu, e o Senhor o abençoou.
+
+[[v7-13-25]]
+
+^<<v7-13-25,25>>^ E o espírito do Senhor começou a ser com ele no campo de Dan entre Saraa e Estaol.
+
+'''
+
+xref:007-juizes/007-juizes-012.adoc#v7-12-0[&#60; Capítulo Anterior] | <<v7-13-0,Topo>> | xref:007-juizes/007-juizes-014.adoc#v7-14-0[Próximo Capítulo &#62;]

@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v1-37-0]]
+=== Gênesis, 37
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Gênesis 37, é narrada a história de José, o filho preferido de Jacó, que é vendido como escravo pelos seus próprios irmãos devido a ciúmes e inveja. Os versículos escolhidos são:
+* Provérbios 14:30 - "O coração tranquilo é a vida do corpo, mas a inveja é a podridão dos ossos." Os irmãos de José são consumidos pela inveja e ela se torna a raiz de suas más ações.
+* Gálatas 5:19-21 - "As obras da carne são manifestas, as quais são: adultério, prostituição, impureza, lascívia, idolatria, feitiçarias, inimizades, porfias, emulações, iras, pelejas, dissensões, heresias, invejas, homicídios, bebedices, glutonarias, e coisas semelhantes a estas, acerca das quais vos declaro, como já antes vos disse, que os que cometem tais coisas não herdarão o Reino de Deus." As más ações dos irmãos de José são um exemplo das obras da carne mencionadas por Paulo.
+* 2 Coríntios 12:10 - "Por isso sinto prazer nas fraquezas, nas injúrias, nas necessidades, nas perseguições, nas angústias, por amor de Cristo. Porque quando sou fraco, então é que sou forte." José passa por muitas dificuldades, mas é fortalecido pela sua fé em Deus.
+* Romanos 8:28 - "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados por seu decreto." A história de José é uma prova de que mesmo as situações mais difíceis podem ser usadas por Deus para cumprir seus planos.
+* Tiago 1:2-4 - "Meus irmãos, tende por motivo de grande gozo o passardes por várias provações, sabendo que a provação da vossa fé opera a paciência; e a paciência tenha a sua obra perfeita, para que sejais perfeitos e completos, sem faltar em coisa alguma." A história de José é um exemplo de como as provações podem fortalecer a fé e a paciência de uma pessoa.
+****
+
+[[v1-37-1]]
+
+^<<v1-37-1,1>>^ Habitou, pois Jacob na terra de Canaan, na qual seu pai tinha vivido como peregrino
+
+[[v1-37-2]]
+
+^<<v1-37-2,2>>^ Esta é a sua posteridade: Quando José, ainda jovem, tendo dezasseis anos, apascentava o rebanho com seus irmãos, filhos de Bala e de Zelfa, mulheres de seu pai, fez saber a seu pai a péssima fama deles.
+
+[[v1-37-3]]
+
+^<<v1-37-3,3>>^ Ora Israel amava José mais que todos os seus (outros) filhos, porque o gerara na velhice, e fez-lhe uma túnica de várias cores.
+
+[[v1-37-4]]
+
+^<<v1-37-4,4>>^ Vendo, pois, seus irmãos que de era amado pelo pai mais que todos os (outros) filhos, odiavam-no, e não lhe podiam falar com bom modo.
+
+[[v1-37-5]]
+
+^<<v1-37-5,5>>^ Sucedeu também que ele referiu a seus irmãos um sonho que tivera, o que foi causa de maior ódio.
+
+[[v1-37-6]]
+
+^<<v1-37-6,6>>^ Disse-lhes: Ouvi o sonho que eu tive:
+
+[[v1-37-7]]
+
+^<<v1-37-7,7>>^ parecia-me que atávamos no campo os feixes, e que o meu feixe como que se erguia, ficava de pé, e que os vossos, estando em roda, se prostravam diante do meu.
+
+[[v1-37-8]]
+
+^<<v1-37-8,8>>^ Responderam seus irmãos: Porventura serás nosso rei ou seremos sujeitos ao teu domínio? Estes sonhos e estas conversas acenderam mais a inveja e o ódio.
+
+[[v1-37-9]]
+
+^<<v1-37-9,9>>^ Teve ainda outro sonho, o qual referiu a seus irmãos: Vi em sonhos que o sol, a lua onze estrelas como que me adoravam.
+
+[[v1-37-10]]
+
+^<<v1-37-10,10>>^ Ora, tendo ele contado isto a seu pai e aos irmãos, seu pai repreendeu-o e disse: Que quer dizer este sonho, que tiveste? Porventura eu, tua mãe, e teus irmãos te adoraremos, prostrados por terra?
+
+[[v1-37-11]]
+
+^<<v1-37-11,11>>^ Seus irmãos, por isto, tinham-lhe inveja; porem o pai meditava a coisa em silêncio.
+
+[[v1-37-12]]
+
+^<<v1-37-12,12>>^ Como seus irmãos estivessem em Siquem apascentando os rebanhos do pai,
+
+[[v1-37-13]]
+
+^<<v1-37-13,13>>^ Israel disse-lhe: Teus irmãos apascentam as ovelhas em Siquem: vem, enviar-te-ei a eles. Respondeu (José):
+
+[[v1-37-14]]
+
+^<<v1-37-14,14>>^ Estou pronto. (Jacob) disse-lhe: Vai, vê se tudo corre bem a teus irmãos e aos rebanhos, e traze-me noticias do que se passa. (Sendo) mandado do vale de Hebron, (José) chegou a Siquem,
+
+[[v1-37-15]]
+
+^<<v1-37-15,15>>^ e, andando errante pelo campo, um homem encontrou-o e perguntou-Ihe o que procurava.
+
+[[v1-37-16]]
+
+^<<v1-37-16,16>>^ Ele respondeu: Procuro meus irmãos; indica-me onde apascentam os rebanhos.
+
+[[v1-37-17]]
+
+^<<v1-37-17,17>>^ O homem disse-lhe: Retiraram-se deste lugar, e ouvi-lhes dizer: Vamos para Dotain. Partiu, pois, José atrás de seus irmãos e encontrou-os em Dotain.
+
+[[v1-37-18]]
+
+^<<v1-37-18,18>>^ Eles, porém, tendo-o visto ao longe, antes que se aproximasse, resolveram matá-lo.
+
+[[v1-37-19]]
+
+^<<v1-37-19,19>>^ Diziam entre si: Eis ai vem o sonhador;
+
+[[v1-37-20]]
+
+^<<v1-37-20,20>>^ vinde, matemo-lo, lancemo-lo em uma cisterna velha, diremos: Uma fera cruel o devorou; então se verá de que lhe aproveitam os seus sonhos.
+
+[[v1-37-21]]
+
+^<<v1-37-21,21>>^ Ruben, porém, ouvindo isto, esforçava-se por o livrar das suas mãos, dizendo:
+
+[[v1-37-22]]
+
+^<<v1-37-22,22>>^ Não lhe tireis a vida, nem lhe derrameis o sangue, mas lançai-o nesta cisterna, que está no deserto, e conservai puras as vossas mãos. Diria isto porque queria livrá-lo das suas mãos e restitui-lo a seu pai.
+
+[[v1-37-23]]
+
+^<<v1-37-23,23>>^ Logo que (José) chegou junto de seus irmãos, despiram-no da túnica talar de várias cores
+
+[[v1-37-24]]
+
+^<<v1-37-24,24>>^ e lançaram-no na cisterna velha, que não tinha água.
+
+[[v1-37-25]]
+
+^<<v1-37-25,25>>^ Depois, sentando-se para comer pão, viram uns viajantes Ismaelitas, que vinham de Galaad, com seus camelos carregados de aromas, resina e mirra, para o Egito.
+
+[[v1-37-26]]
+
+^<<v1-37-26,26>>^ Judá então disse a seus irmãos: de que nos aproveita matar o nosso irmão e ocultar a sua morte?
+
+[[v1-37-27]]
+
+^<<v1-37-27,27>>^ É melhor que se venda aos Ismaelitas, e que se não manchem as nossas mãos, porque é nosso irmão, é nossa carne. Concordaram os irmãos com o que ele diria.
+
+[[v1-37-28]]
+
+^<<v1-37-28,28>>^ Quando passaram os negociantes Madianitas, tiraram-no da cisterna e venderam-no por vinte dinheiros de prata aos Ismaelitas: estes levaram-no para o Egito.
+
+[[v1-37-29]]
+
+^<<v1-37-29,29>>^ Tendo voltado Ruben à cisterna não encontrou José.
+
+[[v1-37-30]]
+
+^<<v1-37-30,30>>^ Rasgadas as suas vestes, foi ter com seus irmãos-e disse: O rapaz não aparece, e eu para onde irei?
+
+[[v1-37-31]]
+
+^<<v1-37-31,31>>^ Tomaram então a sua túnica, tingiram-na no sangue de um cabrito, que mataram,
+
+[[v1-37-32]]
+
+^<<v1-37-32,32>>^ mandaram-na levar ao pai, e dizer-lhe: Encontrámos esta túnica: vê se é a túnica de teu filho, ou não.
+
+[[v1-37-33]]
+
+^<<v1-37-33,33>>^ O pai, tendo-a reconhecido, disse: A túnica é de meu filho, uma cruel fera o comeu, uma besta devorou José.
+
+[[v1-37-34]]
+
+^<<v1-37-34,34>>^ Rasgadas as suas vestes, cobriu-se de cilício, chorando seu filho por muito tempo.
+
+[[v1-37-35]]
+
+^<<v1-37-35,35>>^ E, tendo-se juntado todos os seus filhos para suavizarem a dor do pai, ele não quis admitir consolação, mas disse: Chorando, descerei até junto de meu filho, à morada dos mortos.
+
+[[v1-37-36]]
+
+^<<v1-37-36,36>>^ Enquanto ele perseverava no pranto,
+
+[[v1-37-37]]
+
+^<<v1-37-37,37>>^ os Madianitas venderam José no Egito a Putifar, eunuco de Faraó, general dos exércitos.
+
+'''
+
+xref:001-genesis/001-genesis-036.adoc#v1-36-0[&#60; Capítulo Anterior] | <<v1-37-0,Topo>> | xref:001-genesis/001-genesis-038.adoc#v1-38-0[Próximo Capítulo &#62;]

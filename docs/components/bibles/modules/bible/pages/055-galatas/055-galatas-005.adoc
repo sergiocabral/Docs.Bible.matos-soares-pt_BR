@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v55-5-0]]
+=== Gálatas, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 5 de Gálatas aborda a questão da liberdade cristã e como ela deve ser exercida através do amor e da prática dos frutos do Espírito. Os versículos abaixo foram selecionados por abordarem temas relacionados a essa questão:
+* Romanos 14:1 "Acolhei o que é débil na fé, não, porém, para discutir opiniões." O apóstolo Paulo exorta os cristãos a serem tolerantes e pacientes com os irmãos mais fracos na fé, sem se envolver em discussões desnecessárias que possam gerar divisões na igreja.
+* 1 Coríntios 8:9 "Mas vede que essa liberdade não venha, de algum modo, a ser tropeço para os fracos." Paulo novamente enfatiza a importância de se ter cuidado com a liberdade cristã, de forma que ela não se torne motivo de escândalo ou de tropeço para aqueles que ainda estão em um estágio mais fraco na fé.
+* Efésios 5:9 "Porque o fruto da luz consiste em toda bondade, e justiça, e verdade," Aqui, Paulo faz referência ao fruto da luz, que deve ser praticado pelos cristãos. Esse fruto inclui a bondade, a justiça e a verdade, entre outras características que se relacionam diretamente com os frutos do Espírito mencionados em Gálatas 5.
+* 1 João 4:7 "Amados, amemo-nos uns aos outros, porque o amor procede de Deus; e todo aquele que ama é nascido de Deus e conhece a Deus." João enfatiza a importância do amor entre os irmãos em Cristo, que é um reflexo do amor que Deus tem por nós. Esse amor é o que deve motivar as ações dos cristãos em relação aos outros.
+* Tiago 2:17 "Assim também a fé, se não tiver obras, por si só está morta." Tiago destaca a importância de se ter uma fé ativa, que se manifeste através de obras concretas. Essa é uma maneira prática de se exercer a liberdade cristã, através do amor ao próximo e da prática dos frutos do Espírito.
+****
+
+[[v55-5-1]]
+
+^<<v55-5-1,1>>^ Foi para gozarmos desta liberdade que Cristo nos libertou. Permanecei firmes e não vos deixeis prender de novo ao jugo da escravidão (da lei antiga).
+
+[[v55-5-2]]
+
+^<<v55-5-2,2>>^ Eis que eu, Paulo, vos digo que, se vos fazeis circuncidar, Cristo não vos aproveitará nada.
+
+[[v55-5-3]]
+
+^<<v55-5-3,3>>^ Declaro de novo a todo o homem que se circuncida, que está obrigado a guardar toda a lei.
+
+[[v55-5-4]]
+
+^<<v55-5-4,4>>^ Não tendes nada de comum com Cristo, vós que procurais a justificação na lei: decaístes da graça.
+
+[[v55-5-5]]
+
+^<<v55-5-5,5>>^ Quanto a nós, é do Espirito pela fé que aguardamos a esperança da justiça.
+
+[[v55-5-6]]
+
+^<<v55-5-6,6>>^ Porque, em Jesus Cristo, nem a circuncisão vale coisa alguma nem a incircuncisão, mas sim a fé que obra (animada) pela caridade.
+
+[[v55-5-7]]
+
+^<<v55-5-7,7>>^ Vós corríeis bem (na vida cristã ); quem vos impediu de obedecer à verdade?
+
+[[v55-5-8]]
+
+^<<v55-5-8,8>>^ Esta persuasão (em que estais de que a circuncisão é necessária) não vem daquele que vos chama.
+
+[[v55-5-9]]
+
+^<<v55-5-9,9>>^ Um pouco de fermento altera toda a massa.
+
+[[v55-5-10]]
+
+^<<v55-5-10,10>>^ Eu confio de vós, no Senhor, que não tereis outros sentimentos; mas aquele que vos perturba, quem quer que ele seja, sofrerá a condenação.
+
+[[v55-5-11]]
+
+^<<v55-5-11,11>>^ Quanto a mim, irmãos, se ainda prego a circuncisão (como falsamente dizem os que vos seduzem), por que sou ainda perseguido. Logo, cessou o escândalo da cruz!
+
+[[v55-5-12]]
+
+^<<v55-5-12,12>>^ Oxalá que fossem mesmo mutilados os que vos perturbam.
+
+[[v55-5-13]]
+
+^<<v55-5-13,13>>^ Vós, irmãos, fostes chamados à liberdade; convém somente que não façais desta liberdade um pretexto para viver segundo a carne, mas servi-vos uns aos outros pela caridade,
+
+[[v55-5-14]]
+
+^<<v55-5-14,14>>^ porque toda a lei se encerra nesta palavra: Amarás o teu próximo como a ti mesmo (Lv. 19, 18).
+
+[[v55-5-15]]
+
+^<<v55-5-15,15>>^ Se vós, porém, vos mordeis e vos devorais uns aos outros (como fazem as feras), vede não vos consumais uns aos outros.
+
+[[v55-5-16]]
+
+^<<v55-5-16,16>>^ Digo-vos pois: andai segundo o Espírito (de Deus) e não satisfareis os desejos da carne.
+
+[[v55-5-17]]
+
+^<<v55-5-17,17>>^ Efetivamente, a carne tem desejos contrários ao espírito, e o espírito desejos contrários à carne: estas coisas (a carne e o espirito) são contrárias entre si, para que não façais tudo aquilo que quereis.
+
+[[v55-5-18]]
+
+^<<v55-5-18,18>>^ Se, porém, sois guiados pelo Espírito, não estais debaixo da lei.
+
+[[v55-5-19]]
+
+^<<v55-5-19,19>>^ Ora as obras da carne são manifestas: são a fornicação, a impureza, a luxúria,
+
+[[v55-5-20]]
+
+^<<v55-5-20,20>>^ a idolatria os malefícios, as inimizades, as contendas, as invejas, as iras, as rixas, as discórdias, as seitas,
+
+[[v55-5-21]]
+
+^<<v55-5-21,21>>^ os ciúmes, a embriaguez, as glutonerias e outras coisas semelhantes, sobre as quais vos previno, como já vos disse, que os que as praticam não possuirão o reino de Deus,
+
+[[v55-5-22]]
+
+^<<v55-5-22,22>>^ Ao contrário, o fruto do Espírito é caridade, gozo, paz, longanimidade, afabilidade, bondade, fidelidade,
+
+[[v55-5-23]]
+
+^<<v55-5-23,23>>^ mansidão, temperança. Contra estas coisas não há Lei.
+
+[[v55-5-24]]
+
+^<<v55-5-24,24>>^ Os que são de Cristo crucificaram a sua carne com suas paixões e concupiscências.
+
+[[v55-5-25]]
+
+^<<v55-5-25,25>>^ Se vivemos pelo Espirito, conduzamo-nos também pelo Espírito.
+
+[[v55-5-26]]
+
+^<<v55-5-26,26>>^ Não nos façamos ávidos da vanglória, provocando-nos uns aos outros e tendo inveja uns dos outros.
+
+'''
+
+xref:055-galatas/055-galatas-004.adoc#v55-4-0[&#60; Capítulo Anterior] | <<v55-5-0,Topo>> | xref:055-galatas/055-galatas-006.adoc#v55-6-0[Próximo Capítulo &#62;]

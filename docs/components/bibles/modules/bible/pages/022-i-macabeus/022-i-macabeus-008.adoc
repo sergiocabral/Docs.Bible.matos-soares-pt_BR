@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v22-8-0]]
+=== I Macabeus, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 do livro de 1 Macabeus fala sobre as relações políticas e diplomáticas entre o povo judeu e a República Romana. Ele narra como Judas Macabeu, líder da rebelião judaica contra a dominação selêucida, buscou ajuda de Roma para garantir a independência de seu povo. Os versículos abaixo foram escolhidos por sua relação com os temas abordados neste capítulo:
+* Romanos 13:1-2: "Toda pessoa esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Deus; e as autoridades que existem foram instituídas por Deus. De modo que aquele que se opõe à autoridade resiste à ordenação de Deus; e os que resistem trarão sobre si mesmos a condenação." Esse trecho da carta de Paulo aos Romanos destaca a importância de submeter-se às autoridades governamentais estabelecidas por Deus. Isso pode ser visto como uma explicação teológica da aliança entre os judeus e os romanos, uma vez que Judas Macabeu buscou a ajuda dos romanos para libertar seu povo da opressão selêucida.
+* Provérbios 22:29: "Você já viu um homem hábil em seu trabalho? Ele ficará diante dos reis; não ficará diante de homens obscuros." Este provérbio enfatiza a importância do trabalho e da habilidade em conseguir o reconhecimento das autoridades. Isso pode ser aplicado à estratégia de Judas Macabeu de buscar a ajuda dos romanos, apresentando a eles a habilidade e a força de seu povo na luta contra a opressão.
+* Eclesiastes 3:1: "Tudo tem o seu tempo determinado, e há tempo para todo propósito debaixo do céu." Este versículo destaca a importância do timing correto na tomada de decisões. Pode ser aplicado à estratégia de Judas Macabeu de buscar a ajuda dos romanos em um momento em que a república estava expandindo seu poder e interessada em estabelecer alianças com novos aliados.
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor." Este provérbio destaca a importância da preparação e do planejamento, mas também a necessidade de reconhecer que a vitória vem de Deus. Isso pode ser visto como uma reflexão da estratégia de Judas Macabeu de buscar a ajuda dos romanos, que poderiam fornecer recursos militares e apoio diplomático, mas que, em última instância, a vitória dependeria da vontade de Deus.
+* Eclesiastes 9:18: "Melhor é a sabedoria do que as armas de guerra; e um só pecador destrói muitos bens." Este versículo destaca a importância da sabedoria na tomada de decisões e a necessidade de evitar conflitos desnecessários. Pode ser aplicado à estratégia de Judas Macabeu de buscar a ajuda dos romanos como uma solução diplomática para a opressão selêucida, em vez de uma guerra prolongada e potencialmente destrutiva.
+****
+
+[[v22-8-1]]
+
+^<<v22-8-1,1>>^ Ora Judas ouviu falar da reputação dos Romanos: que eram grandemente poderosos, bons para os seus aliados, e que davam a sua amizade a todos os que se aproximavam deles, porque o seu poder era grande.
+
+[[v22-8-2]]
+
+^<<v22-8-2,2>>^ Ouviu também contar as suas batalhas, as proezas realizadas na Galácia, de que se tinham assenhoreado e que haviam tornado sua tributária:
+
+[[v22-8-3]]
+
+^<<v22-8-3,3>>^ quanto tinham feito no país de Espanha, para se apoderarem das minas de prata e de ouro, que ali há, e como conquistaram todas estas terras pela sua prudência e paciência,
+
+[[v22-8-4]]
+
+^<<v22-8-4,4>>^ embora se encontrassem tais terras muito distantes; igualmente, (ouviu) como derrotaram reis, que os tinham vindo atacar desde as extremidades, do mundo, infligindo-lhes tão grande mortandade no seus exércitos que os outros lhe pagavam tributo todos os anos.
+
+[[v22-8-5]]
+
+^<<v22-8-5,5>>^ (Soube) que tinham vencido em batalha a Filipe e a Perseu, rei dos Geteus, e batido e subjugado aos outros, que haviam tomado armas contra eles;
+
+[[v22-8-6]]
+
+^<<v22-8-6,6>>^ que pelos mesmos havia sido desbaratado Antíoco, o Grande, rei da Asia, o qual lhes movera guerra, trazendo cento e vinte elefantes, cavalaria, carros e um exército multo numeroso;
+
+[[v22-8-7]]
+
+^<<v22-8-7,7>>^ que o tinham tomado vivo, e imposto, a ele e aos seus sucessores, um grande tributo, entrega de reféns e de parte do seu reino (a saber):
+
+[[v22-8-8]]
+
+^<<v22-8-8,8>>^ o país dos Índios, dos Medos e dos Lídios, as mais belas das suas províncias, as quais, depois de recebidas, deram ao rei Eumenes. (ver nota)
+
+[[v22-8-9]]
+
+^<<v22-8-9,9>>^ (Soube também Judas) que os que estavam na Grécia tinham querido marchar (contra os Romanos) e destruí-los, mas que estes, sabedores de tal plano,
+
+[[v22-8-10]]
+
+^<<v22-8-10,10>>^ enviaram contra eles um dos seus generais e lhes deram batalha, mataram muita gente, levaram cativas as suas mulheres e os seus filhos, saquearam-nos, tornaram-se senhores do seu pais, destruíram as suas fortalezas, reduzindo-os à escravidão até ao dia de hoje.
+
+[[v22-8-11]]
+
+^<<v22-8-11,11>>^ Tinham arruinado e subjugado ao seu império os outros reinos e iIhas que lhes haviam resistido.
+
+[[v22-8-12]]
+
+^<<v22-8-12,12>>^ Por outro lado (ouviu) que conservavam cuidadosamente as alianças feitas com os seus amigos e com os que neles confiam; que assim se tornaram senhores dos reinos vizinhos e mesmo dos que lhes ficavam longe, e que todos quantos ouvem o seu nome os temem;
+
+[[v22-8-13]]
+
+^<<v22-8-13,13>>^ que reinam os que eles querem ajudar a reinar, e que são postos fora os que eles não querem; que, desta forma, (os Romanos) se achavam muito engrandecidos.
+
+[[v22-8-14]]
+
+^<<v22-8-14,14>>^ (Finalmente Judas ouviu dizer) que, sem embargo de todas estas coisas, nenhum entre eles trazia diadema, nem se vestia de púrpura, para se engrandecer;
+
+[[v22-8-15]]
+
+^<<v22-8-15,15>>^ que tinham estabelecido nm senado em que todos os dias deliberam trezentos e vinte (senadores), tendo sempre conselho sobre os negócios da república, para bom governo do povo;
+
+[[v22-8-16]]
+
+^<<v22-8-16,16>>^ que confiam cada ano a autoridade suprema a um só homem, para este mandar em todos os seus estados, obedecendo assim todos a um só, sem haver entre eles nem inveja, nem ciúme.
+
+[[v22-8-17]]
+
+^<<v22-8-17,17>>^ Judas (em vista de tudo isto) escolheu Eupolemo, filho de João, filho de Acos e Jasão, filho de Eleazar, e enviou-os a Roma para contratar amizade e aliança com eles,
+
+[[v22-8-18]]
+
+^<<v22-8-18,18>>^ a fim de que lhes tirassem o jugo dos Gregos, porque viam que eles reduziam à escravidão o reino de Israel
+
+[[v22-8-19]]
+
+^<<v22-8-19,19>>^ Depois de uma viagem muito longa, chegaram a Roma, entraram no senado e disseram:
+
+[[v22-8-20]]
+
+^<<v22-8-20,20>>^ Judas Macabeu, seus irmãos e o povo dos Judeus enviaram-nos a vós para fazer aliança e paz convosco, a fim de que nos conteis no número dos vossos aliados e amigos.
+
+[[v22-8-21]]
+
+^<<v22-8-21,21>>^ Esta proposta agradou aos Romanos.
+
+[[v22-8-22]]
+
+^<<v22-8-22,22>>^ Eis o rescrito que fizeram gravar em lâminas de bronze e enviaram a Jerusalém, para ali servirem como dum monumento de paz e aliança (que tinham feito com os Judeus):
+
+[[v22-8-23]]
+
+^<<v22-8-23,23>>^ Felicidade aos Romanos e à nação dos Judeus, por mar e por terra, para sempre! Que a espada e o inimigo estejam (sempre) longe deles!
+
+[[v22-8-24]]
+
+^<<v22-8-24,24>>^ Se sobrevier uma guerra aos Romanos, primeiramente, ou a quaisquer dos seus aliados, em toda a extensão dos seus domínios,
+
+[[v22-8-25]]
+
+^<<v22-8-25,25>>^ a nação dos Judeus lhes dará auxilio de todo o (seu) coração, conforme o permitirem as circunstâncias;
+
+[[v22-8-26]]
+
+^<<v22-8-26,26>>^ os Judeus não darão nem subministrarão aos inimigos de Roma, trigo, nem armas, nem dinheiro, nem embarcações, porque assim é que pareceu bem aos Romanos; (os Judeus) cumprirão o estabelecido, sem receberem nade deles.
+
+[[v22-8-27]]
+
+^<<v22-8-27,27>>^ Da mesma sorte, se sobrevier primeiro uma guerra à nação dos Judeus, os Romanos os ajudarão de todo o coração, segundo lhes permitir o tempo;
+
+[[v22-8-28]]
+
+^<<v22-8-28,28>>^ não darão aos combatentes trigo, nem armas, nem dinheiro, nem embarcações, porque assim é que aprouve aos Romanos; estes cumprirão o estabelecido com fidelidade.
+
+[[v22-8-29]]
+
+^<<v22-8-29,29>>^ Tal é o pacto que os Romanos fazem com os Judeus.
+
+[[v22-8-30]]
+
+^<<v22-8-30,30>>^ Porém, se no futuro, uns ou outros quiserem acrescentar ou tirar alguma coisa ao que vai escrito aqui, eles o poderão fazer de comum acordo; e tudo o que acrescentarem ou tirarem ficará válido.
+
+[[v22-8-31]]
+
+^<<v22-8-31,31>>^ Pelo que toca aos danos que o rei Demétrio tem feito ao povo dos Judeus, já lhe escrevemos sobre isso, nestes termos: Por que tens feito pesar o teu jugo sobre os Judeus, nossos amigos e aliados?
+
+[[v22-8-32]]
+
+^<<v22-8-32,32>>^ Se eles vierem outra vez representar-nos as suas queixas, sustentaremos os seus direitos contra ti e te faremos guerra por mar e por terra.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-007.adoc#v22-7-0[&#60; Capítulo Anterior] | <<v22-8-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-009.adoc#v22-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v62-1-0]]
+=== II Timóteo, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 de 2 Timóteo apresenta uma exortação de Paulo a Timóteo para que ele não se envergonhe do testemunho de Cristo, nem tampouco dos seus sofrimentos. Paulo relembra a fé sincera que havia em Timóteo, assim como a de sua avó Loide e de sua mãe Eunice. O apóstolo reforça a importância de guardar o bom depósito que lhe foi confiado pelo Espírito Santo e de não se desviar da verdade. Com base nesses temas, os versículos selecionados são:
+* Romanos 1:16: "Porque não me envergonho do evangelho de Cristo, pois é o poder de Deus para salvação de todo aquele que crê, primeiro do judeu e também do grego." Esse versículo fala sobre a importância de não se envergonhar do evangelho, assim como Paulo exorta Timóteo em 2 Timóteo 1. O evangelho é a mensagem de salvação de Deus para todos os que creem, independentemente de sua origem.
+* 2 Timóteo 2:2: "E o que de minha parte ouviste através de muitas testemunhas, isso mesmo transmite a homens fiéis e também idôneos para instruir a outros." Paulo pede a Timóteo que transmita o que aprendeu a outros homens fiéis. Isso faz parte da missão de todo cristão: transmitir a mensagem do evangelho a outras pessoas.
+* 2 Coríntios 1:22: "que também nos selou e nos deu o penhor do Espírito em nosso coração." Paulo fala sobre o Espírito Santo, que é o penhor da nossa herança em Cristo. O Espírito Santo é quem nos capacita a guardar o bom depósito que nos foi confiado, assim como Paulo exorta Timóteo em 2 Timóteo 1.
+* Colossenses 2:8: "Tende cuidado, para que ninguém vos venha a enredar com sua filosofia e vãs sutilezas, conforme a tradição dos homens, conforme os rudimentos do mundo e não segundo Cristo." Paulo alerta os cristãos de Colossos sobre a importância de não se desviarem da verdade, assim como ele exorta Timóteo em 2 Timóteo 1. É preciso ter cuidado com as filosofias e tradições humanas que podem levar à apostasia.
+* 1 Timóteo 6:20: "Ó Timóteo, guarda o depósito que te foi confiado, tendo horror aos clamores vãos e profanos e às oposições da falsamente chamada ciência." Paulo novamente exorta Timóteo a guardar o bom depósito que lhe foi confiado. É preciso ter cuidado com os falsos ensinos que podem levar à perdição.
+****
+
+[[v62-1-1]]
+
+^<<v62-1-1,1>>^ Paulo, apóstolo de Jesus Cristo pela vontade de Deus, segundo a promessa da vida, que há em Jesus Cristo, (ver nota)
+
+[[v62-1-2]]
+
+^<<v62-1-2,2>>^ a Timóteo, caríssimo filho: graça, misericórdia e paz, da parte de Deus Pai e da de Jesus Cristo Nosso Senhor.
+
+[[v62-1-3]]
+
+^<<v62-1-3,3>>^ Dou graças a Deus, a quem, desde os meus ascendentes, sirvo com consciência pura, quando, sem cessar faço memória de ti nas minhas orações, de noite e de dia,
+
+[[v62-1-4]]
+
+^<<v62-1-4,4>>^ desejando ver-te, lembrado das tuas lágrimas, para me encher de alegria,
+
+[[v62-1-5]]
+
+^<<v62-1-5,5>>^ trazendo à memória aquela fé que há em ti não fingida, a qual habitou primeiro em tua avó Loide e na tua mãe Eunice, e estou certo que também habita em ti.
+
+[[v62-1-6]]
+
+^<<v62-1-6,6>>^ Pelo qual motivo te admoesto que reanimes a graça de Deus, que está em ti pela imposição das minhas mãos. (ver nota)
+
+[[v62-1-7]]
+
+^<<v62-1-7,7>>^ Deus, com efeito, não nos deu (em nossa ordenação) um espírito de timidez, mas de fortaleza, de caridade e de temperança.
+
+[[v62-1-8]]
+
+^<<v62-1-8,8>>^ Portanto, não te envergonhes do testemunho de Nosso Senhor, nem de mim, seu prisioneiro, mas participa comigo dos trabalhos do Evangelho, segundo a virtude de Deus, (ver nota)
+
+[[v62-1-9]]
+
+^<<v62-1-9,9>>^ que nos salvou e chamou com uma santa vocação, não pelas nossas obras, mas segundo o seu (mero) beneplácito e a graça que nos foi dada em Jesus Cristo, antes de todos os séculos,
+
+[[v62-1-10]]
+
+^<<v62-1-10,10>>^ e que agora foi manifestada pela aparição de nosso Salvador Jesus Cristo, o qual destruía a morte e fez brilhar a vida (eterna) e a imortalidade, por meio do Evangelho,
+
+[[v62-1-11]]
+
+^<<v62-1-11,11>>^ para o qual fui constituído pregador, apóstolo e doutor.
+
+[[v62-1-12]]
+
+^<<v62-1-12,12>>^ Por cuja causa também sofro estas coisas, mas não me envergonho, porque sei em quem pus a minha confiança e estou certo de que ele é poderoso para guardar o meu depósito até esse dia. (ver nota)
+
+[[v62-1-13]]
+
+^<<v62-1-13,13>>^ Conserva a forma das sãs palavras que ouviste de mim, (baseando-te) na fé e no amor em Jesus Cristo.
+
+[[v62-1-14]]
+
+^<<v62-1-14,14>>^ Guarda o bom depósito por meio do Espirito Santo, que habita em nós.
+
+[[v62-1-15]]
+
+^<<v62-1-15,15>>^ Tu sabes que se apartaram de mim todos os que estão na Ásia, entre os quais Figelo e Hermógenes.
+
+[[v62-1-16]]
+
+^<<v62-1-16,16>>^ O Senhor use de misericórdia com a família de Onesífero, porque muitas vezes me consolou e não teve vergonha das minhas cadeias,
+
+[[v62-1-17]]
+
+^<<v62-1-17,17>>^ antes, tendo chegado a Roma, me procurou com diligência e me encontrou.
+
+[[v62-1-18]]
+
+^<<v62-1-18,18>>^ O Senhor lhe conceda a graça de encontrar misericórdia diante do Senhor naquele dia (em que há-de vir julgar os vivos e os mortos). Quantos serviços ele me prestou em Éfeso, melhor que ninguém o sabes tu.
+
+'''
+
+xref:061-i-timoteo/061-i-timoteo-006.adoc#v61-6-0[&#60; Capítulo Anterior] | <<v62-1-0,Topo>> | xref:062-ii-timoteo/062-ii-timoteo-002.adoc#v62-2-0[Próximo Capítulo &#62;]

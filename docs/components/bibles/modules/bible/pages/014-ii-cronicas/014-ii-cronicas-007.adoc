@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v14-7-0]]
+=== II Crônicas, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 7 narra a conclusão da construção do Templo de Salomão e a sua dedicação a Deus. O capítulo descreve a glória de Deus que encheu o templo e a resposta de Deus à oração de Salomão. Também são registradas as celebrações realizadas em honra ao Senhor após a dedicação. A seguir estão cinco versículos relacionados aos temas abordados em 2 Crônicas 7:
+* Salmos 27:4: "Uma coisa pedi ao Senhor, é o que procuro: que eu possa viver na casa do Senhor todos os dias da minha vida, para contemplar a bondade do Senhor e buscar sua orientação no seu templo." Este versículo destaca a importância do Templo como um lugar de adoração e busca da orientação divina.
+* 2 Crônicas 6:40: "Agora, ó meu Deus, que os teus olhos estejam abertos e os teus ouvidos atentos à oração que eu te faço neste lugar." Esse versículo se refere à oração de Salomão pedindo que Deus ouça as orações feitas no Templo. É uma lembrança da importância da oração em um lugar consagrado a Deus.
+* 1 Reis 8:11: "Os sacerdotes não puderam continuar a ministrar por causa da nuvem, pois a glória do Senhor encheu a casa do Senhor." Esse versículo descreve a glória de Deus que encheu o Templo após a sua conclusão, mostrando a importância da presença de Deus naquele lugar.
+* Salmos 122:1: "Eu me alegrei quando me disseram: 'Vamos à casa do Senhor'". Esse versículo destaca a alegria de ir ao Templo e adorar ao Senhor em comunidade.
+* 2 Crônicas 7:3: "Quando todos os filhos de Israel viram o fogo descer e a glória do Senhor sobre o templo, ajoelharam-se com o rosto em terra no pavimento, adoraram e deram graças ao Senhor, dizendo: 'Ele é bom! O seu amor dura para sempre'." Esse versículo registra a resposta do povo à manifestação da glória de Deus no Templo, mostrando a importância da adoração e da gratidão a Deus.
+****
+
+[[v14-7-1]]
+
+^<<v14-7-1,1>>^ Quando Salomão terminou a sua oração, desceu fogo do céu e consumiu os holocaustos e as vítimas, e a majestade do Senhor encheu a casa.
+
+[[v14-7-2]]
+
+^<<v14-7-2,2>>^ Os sacerdotes não podiam entrar no templo do Senhor, porque a majestade do Senhor tinha enchido o seu templo.
+
+[[v14-7-3]]
+
+^<<v14-7-3,3>>^ Todos os filhos de Israel viram descer o fogo e a glória do Senhor, sobre o templo, e, prostrados com o rosto em terra sobre o pavimento, adoraram e louvaram o Senhor, dizendo: Ele é bom e a sua misericórdia é eterna.
+
+[[v14-7-4]]
+
+^<<v14-7-4,4>>^ o rei e todo o povo imolavam vítimas diante do Senhor.
+
+[[v14-7-5]]
+
+^<<v14-7-5,5>>^ O rei Salomão ofereceu em sacrifício vinte e dois bois e cento e vinte mil carneiros. Foi assim que o rei, com todo o povo, dedicou a casa a Deus.
+
+[[v14-7-6]]
+
+^<<v14-7-6,6>>^ Ao mesmo tempo os sacerdotes estavam aplicados às suas funções, e os Levitas, ao som dos instrumentos músicos, cantavam os hinos do Senhor, que o rei Davide tinha composto para louvar o Senhor, (repetindo): porque a sua misericórdia é eterna; cantavam os hinos de Davide ao som dos instrumentos que tocavam com as suas mãos; os sacerdotes diante deles tocavam as trombetas, e todo o Israel estava em pé.
+
+[[v14-7-7]]
+
+^<<v14-7-7,7>>^ Salomão consagrou também o meio do átrio, que está diante do templo do Senhor, porque ali tinha ele oferecido os holocaustos e a gordura das vítimas pacíficas, pois o altar de bronze, que ele tinha feito, não podia bastar para os holocaustos e sacrifícios e gordura.
+
+[[v14-7-8]]
+
+^<<v14-7-8,8>>^ Salomão celebrou então a festa solene (dos tabernáculos) durante (outros) sete dias, e todo o Israel com ele, sendo muito grande o ajuntamento, desde a entrada de Emat até à torrente do Egito.
+
+[[v14-7-9]]
+
+^<<v14-7-9,9>>^ Ao oitavo dia, fez uma reunião solene, porque tinha feito a dedicação do altar nos sete dias, e celebrado a solenidade dos tabernáculos durante (outros) sete dias.
+
+[[v14-7-10]]
+
+^<<v14-7-10,10>>^ Por fim, no dia vigésimo terceiro do sétimo mês, despediu o povo para as suas tendas cheio de alegria e de contentamento pelas graças que o Senhor tinha feito a Davide, a Salomão e ao povo de Israel.
+
+[[v14-7-11]]
+
+^<<v14-7-11,11>>^ Terminou Salomão a casa do Senhor, o palácio real e tudo o que dentro em seu coração tinha determinado fazer na casa do Senhor e no seu próprio palácio, e foi bem sucedido.
+
+[[v14-7-12]]
+
+^<<v14-7-12,12>>^ O Senhor apareceu-lhe, de noite, e disse: Ouvi a tua oração e escolhi para mim este lugar para casa de sacrifício.
+
+[[v14-7-13]]
+
+^<<v14-7-13,13>>^ Quando porventura eu fechar o céu, e não cair chuva, quando mandar aos gafanhotos que devorem a terra ou mandar a peste ao meu povo,
+
+[[v14-7-14]]
+
+^<<v14-7-14,14>>^ se o meu povo, sobre que foi invocado o meu nome, convertendo-se, me rogar e buscar a minha face, e fizer penitência dos seus maus caminhos, eu também o ouvirei do céu, perdoarei os seus pecados e purificarei a sua terra.
+
+[[v14-7-15]]
+
+^<<v14-7-15,15>>^ Os meus olhos também se abrirão e os meus ouvidos atenderão à oração daquele que a fizer neste lugar.
+
+[[v14-7-16]]
+
+^<<v14-7-16,16>>^ Eu escolho e santifico este lugar, a fim de nele estar o meu nome para sempre, e os meus olhos e o meu coração estarem fixos nele em todo o tempo.
+
+[[v14-7-17]]
+
+^<<v14-7-17,17>>^ Quanto a ti, se andares na minha presença, como andou Davide, teu pai, se procederes em tudo conforme as ordens que te tenho dado, guardares os meus preceitos e leis,
+
+[[v14-7-18]]
+
+^<<v14-7-18,18>>^ eu conservarei o trono do teu reino, como o prometi a Davide, teu pai, quando disse: Não faltará varão da tua linhagem, que reine em Israel.
+
+[[v14-7-19]]
+
+^<<v14-7-19,19>>^ Mas, se vos desviardes (de mim) e deixardes as leis e os mandamentos que vos propus, para servirdes os deuses estranhos e os adorardes,
+
+[[v14-7-20]]
+
+^<<v14-7-20,20>>^ eu vos arrancarei da terra, que vos dei, lançarei para longe da minha presença este templo, que consagrei ao meu nome, e o farei objecto do sarcasmo e escárneo de todos os povos.
+
+[[v14-7-21]]
+
+^<<v14-7-21,21>>^ Este templo, por muito ilustre que haja sido, causará espanto a todos os que passarem, os quais dirão: Por que motivo tratou o Senhor assim esta terra e este templo?
+
+[[v14-7-22]]
+
+^<<v14-7-22,22>>^ Responder-lhes-ão: Porque deixaram o Senhor Deus de seus pais, que os tinha tirado da terra do Egito, e porque tomaram deuses estranhos e os adoraram e reverenciaram; por isso vieram sobre eles todos estes males.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-006.adoc#v14-6-0[&#60; Capítulo Anterior] | <<v14-7-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-008.adoc#v14-8-0[Próximo Capítulo &#62;]

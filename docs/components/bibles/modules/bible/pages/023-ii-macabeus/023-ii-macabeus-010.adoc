@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v23-10-0]]
+=== II Macabeus, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 10 de 2 Macabeus conta a história de como Judas Macabeu liderou seus homens para reconquistar o Templo de Jerusalém e purificá-lo após a profanação pelos selêucidas. Ele também descreve como Judas e seus homens celebraram a Festa da Dedicação, que comemora a rededicação do Templo. Os versículos selecionados abaixo estão relacionados com os temas do capítulo:
+* 2 Crônicas 7:16: "Pois agora escolhi e consagrei esta casa para que nela esteja o meu nome para sempre; nela estarão fixos os meus olhos e o meu coração todos os dias." Este versículo fala sobre a importância do Templo como um lugar de adoração e presença de Deus.
+* Salmos 118:27: "O Senhor é Deus, e ele nos deu a sua luz. Formai um cortejo com ramos até aos chifres do altar." Este salmo é frequentemente cantado durante a Festa da Dedicação, e o verso selecionado fala sobre a alegria de louvar a Deus no Templo.
+* Isaías 60:1-3: "Levanta-te, resplandece, porque já vem a tua luz, e a glória do Senhor vai nascendo sobre ti. Pois eis que as trevas cobrem a terra, e a escuridão os povos; mas sobre ti o Senhor virá nascer, e a sua glória se verá sobre ti." Este trecho profético fala sobre a restauração de Israel e a chegada do Messias.
+* Hebreus 9:22-24: "Ora, quase todas as coisas, segundo a lei, se purificam com sangue; e sem derramamento de sangue não há remissão. Era necessário, portanto, que as figuras das coisas celestes fossem purificadas com tais sacrifícios, mas as próprias coisas celestes, com sacrifícios superiores a esses. Porque Cristo não entrou num santuário feito por mãos, figura do verdadeiro, mas no próprio céu, para agora comparecer por nós perante a face de Deus." Este trecho da carta aos Hebreus faz uma conexão entre o sacrifício de Jesus e a purificação do Templo.
+* Apocalipse 21:22-23: "Mas nela não vi templo, porque o seu templo é o Senhor Deus Todo-Poderoso, e o Cordeiro." Este verso descreve a visão do apóstolo João da Nova Jerusalém, onde não há templo físico porque Deus é o templo.
+****
+
+[[v23-10-1]]
+
+^<<v23-10-1,1>>^ Entretanto Macabeu e os seus companheiros, graças à protecção do Senhor, recobraram o templo e a cidade,
+
+[[v23-10-2]]
+
+^<<v23-10-2,2>>^ demoliram os altares, que os estrangeiros, tinham levantado na praça pública, assim como os santuários (dos ídolos).
+
+[[v23-10-3]]
+
+^<<v23-10-3,3>>^ Depois de terem purificado o templo, erigiram nele outro altar, e, tendo feito sair algumas faíscas de fogo de pedra, ofereceram sacrifícios, após uma interrupção de dois anos, e puseram o incenso, as lâmpadas, e os pães da proposição.
+
+[[v23-10-4]]
+
+^<<v23-10-4,4>>^ Feitas estas coisas, prostrados por terra, rogavam ao Senhor que não permitisse que tornassem a cair em tão grandes males, mas que, no caso de novamente pecarem, os castigasse com brandura e não os entregasse a homens ímpios e bárbaros.
+
+[[v23-10-5]]
+
+^<<v23-10-5,5>>^ No dia em que o templo tinha sido profanado pelos estrangeiros, nesse mesmo foi purificado, no dia vinte e cinco do mês de Casleu.
+
+[[v23-10-6]]
+
+^<<v23-10-6,6>>^ Celebraram esta festa com alegria durante oito dias, como a dos tabernáculos, lembrando-se de que, pouco tempo antes, tinham passado a solenidade dos tabernáculos nos montes e nas cavernas, como feras.
+
+[[v23-10-7]]
+
+^<<v23-10-7,7>>^ Pelo que levavam nas mãos tirsos, ramos verdes e palmas, e cantavam hinos em honra daquele que lhes tinha concedido a dita de purificar o seu templo.
+
+[[v23-10-8]]
+
+^<<v23-10-8,8>>^ E, por um decreto lavrado com o acordo de todos, mandaram a toda a nação judaica que celebrasse a festa anualmente naqueles mesmos dias.
+
+[[v23-10-9]]
+
+^<<v23-10-9,9>>^ Tal foi o fim da vida de Antíoco, chamado Epífanes.
+
+[[v23-10-10]]
+
+^<<v23-10-10,10>>^ Agora vamos falar de Eupator, filho deste ímpio Antíoco, expondo resumidamente os males que sucederam durante as guerras.
+
+[[v23-10-11]]
+
+^<<v23-10-11,11>>^ Quando começou a reinar, pôs à frente dos negócios do reino um certo Lísias, que nomeou também chefe militar supremo da Celesíria e da Fenícia.
+
+[[v23-10-12]]
+
+^<<v23-10-12,12>>^ Porque Ptolomeu, cognominado Macron, que foi o primeiro a observar a justiça para com os judeus, principalmente por causa do injusto tratamento praticado com eles, e a tentar governá-los pacificamente,
+
+[[v23-10-13]]
+
+^<<v23-10-13,13>>^ foi acusado disto na presença de Eupator pelos seus favoritos. Ouvindo que o tratavam muitas vezes de traidor, por ter deixado Chipre, que o rei Filometor lhe tinha confiado, e passado para o partido de Antíoco Epífanes, e vendo que não podia mais exercer honrosamente o seu cargo, matou-se com veneno.
+
+[[v23-10-14]]
+
+^<<v23-10-14,14>>^ Ora Górgias, tornado chefe militar destas regiões, tomava consigo tropas estrangeiras e aproveitava todas as ocasiões para molestar os Judeus.
+
+[[v23-10-15]]
+
+^<<v23-10-15,15>>^ Por outra parte, os Idumeus, senhores de praças fortes, incomodavam os Judeus, recolhiam os que tinham sido expulsos de Jerusalém e buscavam ocasiões de fazer guerra (contra Judas).
+
+[[v23-10-16]]
+
+^<<v23-10-16,16>>^ Entretanto os que andavam com Macabeu, tendo conjurado pelas suas orações o Senhor a que viesse em seu auxilio, atacaram as fortalezas dos Idumeus.
+
+[[v23-10-17]]
+
+^<<v23-10-17,17>>^ Depois de vigorosos esforços, apoderaram-se daqueles lugares, rechaçaram os que combatiam sobre os muros e mataram os que se lhes puseram diante; entre todos passaram à espada não menos de vinte mil homens.
+
+[[v23-10-18]]
+
+^<<v23-10-18,18>>^ Nove mil homens, pelo menos, refugiaram-se em duas fortalezas, onde tinham tudo o que era necessário para bem se defenderem.
+
+[[v23-10-19]]
+
+^<<v23-10-19,19>>^ Macabeu deixou, para as expugnar, Simão e José, assim como Zaqueu e os seus companheiros, em número suficiente, e marchou em pessoa para onde as necessidades mais urgentes da guerra o chamavam.
+
+[[v23-10-20]]
+
+^<<v23-10-20,20>>^ Mas os homens de Simão, levados da cobiça, foram subornados com dinheiro por alguns dos que estavam nas torres, e, tendo recebido setenta mil dracmas, deixaram escapar vários deles.
+
+[[v23-10-21]]
+
+^<<v23-10-21,21>>^ Quando chegou ao conhecimento de Macabeu o que se tinha passado, reunindo os príncipes do povo, acusou aqueles homens de terem vendido seus irmãos por dinheiro, deixando escapar os seus inimigos.
+
+[[v23-10-22]]
+
+^<<v23-10-22,22>>^ Mandou, pois, matar esses traidores e apoderou-se imediatamente das duas fortalezas.
+
+[[v23-10-23]]
+
+^<<v23-10-23,23>>^ Continuando a ser coroadas de êxito as suas empresas guerreiras, matou dentro destas duas fortalezas mais de vinte mil homens.
+
+[[v23-10-24]]
+
+^<<v23-10-24,24>>^ Porém Timóteo, que antes tinha sido vencido pelos Judeus, levando um exército de tropas estrangeiras e reunida muita cavalaria da Ásia, foi à Judeia para se tornar senhor dela pelas armas.
+
+[[v23-10-25]]
+
+^<<v23-10-25,25>>^ Ao mesmo tempo que vinha chegando, Macabeu e os seus companheiros, faziam oração ao Senhor, lançando terra sobre suas cabeças, tendo cingidos os seus rins de cilícios.
+
+[[v23-10-26]]
+
+^<<v23-10-26,26>>^ Prostrados junto do altar pediram a Deus que lhes fosse favorável, que se declarasse inimigo de seus inimigos e adversário de seus adversários, como promete a lei.
+
+[[v23-10-27]]
+
+^<<v23-10-27,27>>^ Tomadas as armas depois da oração, avançaram até muito longe da cidade e fizeram alto perto dos inimigos.
+
+[[v23-10-28]]
+
+^<<v23-10-28,28>>^ Aos primeiros alvores do dia, travaram batalha os dois exércitos, tendo uns, além da sua coragem, o Senhor por garantia da vitória e bom êxito das suas armas, e indo os outros ao combate movidos apenas pela sua fogosidade.
+
+[[v23-10-29]]
+
+^<<v23-10-29,29>>^ No maior ardor da peleja apareceram do céu aos inimigos cinco homens resplandecentes, sobre cavalos adornados de freios de ouro, que serviam de guia aos Judeus.
+
+[[v23-10-30]]
+
+^<<v23-10-30,30>>^ Dois deles, tendo no meio de si Macabeu, cobrindo-o com suas armas, guardavam-no para que andasse sem risco da sua pessoa; lançavam dardos e raios, contra os Inimigos, que iam caindo feridos de cegueira e cheios de turbação.
+
+[[v23-10-31]]
+
+^<<v23-10-31,31>>^ Foram mortos vinte mil e quinhentos homens de pé e seiscentos cavaleiros.
+
+[[v23-10-32]]
+
+^<<v23-10-32,32>>^ Timóteo fugiu para Gazara, praça fortificada, de que era governador Quereias.
+
+[[v23-10-33]]
+
+^<<v23-10-33,33>>^ Macabeu e os seus, alegres e ardorosos, sitiaram a praça durante quatro dias.
+
+[[v23-10-34]]
+
+^<<v23-10-34,34>>^ Os que estavam dentro, confiados na força da praça, blasfemavam sem medida e proferiam palavras abomináveis.
+
+[[v23-10-35]]
+
+^<<v23-10-35,35>>^ Porém, amanhecendo o dia quinto, vinte jovens dos que estavam com Macabeu, irritados no seu Interior por causa destas blasfêmias, lançaram-se corajosamente aos muros, subiram acima deles, com um ardor intrépido, matando quantos se aproximavam.
+
+[[v23-10-36]]
+
+^<<v23-10-36,36>>^ Subindo também outros, começaram a pôr fogo às torres e às portas, e acenderam fogueiras em que queimaram vivos aqueles blasfemadores; outros despedaçaram as portas, abriram caminho, fizeram entrar o resto do exército e apoderaram-se da cidade.
+
+[[v23-10-37]]
+
+^<<v23-10-37,37>>^ Mataram Timóteo, que estava escondido numa cisterna; também mataram o seu irmão Quereias e Apolófanes.
+
+[[v23-10-38]]
+
+^<<v23-10-38,38>>^ Realizada esta façanha, cantando hinos e cânticos bem-diziam ao Senhor, que tinha feito tão grandes coisas em Israel e lhes tinha dado a vitória.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-009.adoc#v23-9-0[&#60; Capítulo Anterior] | <<v23-10-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-011.adoc#v23-11-0[Próximo Capítulo &#62;]

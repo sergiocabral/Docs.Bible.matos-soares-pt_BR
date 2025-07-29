@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-149-0]]
+=== Salmos, 149
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 149 é um cântico de louvor que exalta a grandeza e o poder de Deus, bem como a alegria que os seus servos devem ter ao adorá-lo. Os versículos escolhidos relacionados com os temas do capítulo são:
+* Isaías 61:10: "Com grande alegria me regozijarei no SENHOR, a minha alma se alegra no meu Deus, porque ele me vestiu com as vestes da salvação e sobre mim pôs o manto da justiça, como noivo que se adorna de turbante e como noiva que se enfeita de joias." Este versículo fala sobre a alegria que o povo de Deus sente ao ser salvo e justificado por Ele.
+* Salmos 33:2-3: "Louvem o SENHOR com harpa, cantem-lhe canções com lira de dez cordas. Entoem-lhe um cântico novo; toquem com arte e com júbilo." Este versículo incentiva a adoração a Deus por meio da música, mostrando a importância de cantar para o Senhor e louvá-lo com alegria.
+* Salmos 150:1-2: "Louvai ao SENHOR! Louvai a Deus no seu santuário; louvai-o no firmamento, obra do seu poder. Louvai-o pelos seus feitos poderosos; louvai-o conforme a sua muita grandeza." Esse versículo é um convite para louvar a Deus em todos os lugares e circunstâncias, ressaltando a grandeza de suas obras e ações poderosas.
+* Salmos 148:1-2: "Louvai ao SENHOR. Louvai ao SENHOR desde os céus, louvai-o nas alturas. Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos." Neste versículo, é enfatizado que até os anjos louvam e adoram ao Senhor, evidenciando a importância da adoração a Deus.
+* Salmos 95:1-2: "Vinde, cantemos ao SENHOR; jubilemos diante da rocha da nossa salvação! Apresentemo-nos diante dele com ações de graças, e celebremo-lo com salmos de louvor." Este versículo convida as pessoas a virem adorar e louvar a Deus com ações de graça e cânticos de louvor.
+****
+
+[[v21-149-1]]
+
+^<<v21-149-1,1>>^ Aleluia. Cantai ao Senhor um cântico novo; (ressoe) o seu louvor na assembleia dos santos.
+
+[[v21-149-2]]
+
+^<<v21-149-2,2>>^ Alegre-se Israel no seu criador, os filhos de Sião regozijem-se em seu rei.
+
+[[v21-149-3]]
+
+^<<v21-149-3,3>>^ Louvem o seu nome entre danças, cantem-lhe salmos com o tímpano e a cítara,
+
+[[v21-149-4]]
+
+^<<v21-149-4,4>>^ porque o Senhor ama o seu povo e glorifica os humildes com a vitória.
+
+[[v21-149-5]]
+
+^<<v21-149-5,5>>^ Exultem os santos de glória, alegrem-se em seus leitos.
+
+[[v21-149-6]]
+
+^<<v21-149-6,6>>^ Os louvores de Deus estejam na sua boca, e espadas de dois fios nas suas mãos,
+
+[[v21-149-7]]
+
+^<<v21-149-7,7>>^ para exercer (a divina) vingança entre as gentes, e castigos entre os povos;
+
+[[v21-149-8]]
+
+^<<v21-149-8,8>>^ para prender os seus reis com grilhões, e os seus nobres com algemas de ferro;
+
+[[v21-149-9]]
+
+^<<v21-149-9,9>>^ para executar contra eles a sentença determinada: tal é a gloria reservada a todos os seus santos. Aleluia.
+
+'''
+
+xref:021-salmos/021-salmos-148.adoc#v21-148-0[&#60; Capítulo Anterior] | <<v21-149-0,Topo>> | xref:021-salmos/021-salmos-150.adoc#v21-150-0[Próximo Capítulo &#62;]

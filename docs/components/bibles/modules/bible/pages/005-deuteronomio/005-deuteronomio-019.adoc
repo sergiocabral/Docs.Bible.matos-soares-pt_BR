@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v5-19-0]]
+=== Deuteronômio, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 19 trata das cidades de refúgio, que eram lugares designados para onde alguém que cometeu um homicídio não intencional poderia fugir para se proteger da vingança dos parentes da vítima. As três cidades de refúgio deveriam ser distribuídas de forma equitativa na terra de Israel. O capítulo também instrui que ninguém deve testemunhar falsamente contra o seu próximo, e que aqueles que testemunharem devem ser cuidadosos em suas palavras e ações.
+* Provérbios 14:5: "A testemunha fiel não mentirá, mas a falsa testemunha falará mentiras." Este versículo destaca a importância da veracidade do testemunho e a gravidade de testemunhar falsamente contra outra pessoa.
+* Mateus 5:21-22: "Ouvistes que foi dito aos antigos: Não matarás; mas qualquer que matar será réu de juízo. Eu, porém, vos digo que qualquer que, sem motivo, se encolerizar contra seu irmão, será réu de juízo; e qualquer que disser a seu irmão: Raca, será réu do sinédrio; e qualquer que lhe disser: Louco, será réu do fogo do inferno." Jesus reitera a importância de não matar, mas também enfatiza a importância de controlar a raiva e ser cuidadoso com as palavras que são ditas.
+* Êxodo 23:7: "De palavras de falsidade te afastarás, e não matarás o inocente e o justo; porque não justificarei o ímpio." Este versículo destaca a importância de evitar a falsidade e de não matar injustamente.
+* Provérbios 19:5: "A falsa testemunha não ficará impune, e o que respira mentiras não escapará." Este versículo destaca a consequência da falsa testemunha e da mentira, que é a punição divina.
+* Isaías 1:17: "Aprendei a fazer bem; procurai o que é justo; ajudai o oprimido; fazei justiça ao órfão; tratai da causa das viúvas." Este versículo enfatiza a importância da justiça e de tratar os vulneráveis com bondade e compaixão, temas que estão relacionados com a ideia de cidades de refúgio em Deuteronômio 19.
+****
+
+[[v5-19-1]]
+
+^<<v5-19-1,1>>^ Quando o Senhor teu Deus tiver exterminado de os povos, cuja terra te há-de dar, quando a possuíres, e habitardes nas suas cidades e casas,
+
+[[v5-19-2]]
+
+^<<v5-19-2,2>>^ separarás para ti três cidades no meio do país cuja posse o Senhor teu Deus te há-de dar.
+
+[[v5-19-3]]
+
+^<<v5-19-3,3>>^ Aplanarás com cuidado o caminho e dividirás em três porções iguais todo o território que o Senhor te der, por herança, para que o que está fugitivo por homicídio, tenha um lugar vizinho a que se acolha.
+
+[[v5-19-4]]
+
+^<<v5-19-4,4>>^ Eis o caso do homicida fugitivo, cuja vida se deve conservar; será quando ferir o seu próximo sem querer, sem antes ter sido seu inimigo, nem ontem nem ante-ontem.
+
+[[v5-19-5]]
+
+^<<v5-19-5,5>>^ Assim, se um foi com outro cortar lenha a uma mata, e se, ao tempo que cortava a lenha, lhe escapou o machado da mão, e saindo o ferto fora do cato, feriu o seu amigo, e o matou, ele se acolherá a uma das sobreditas cidades, e viverá.
+
+[[v5-19-6]]
+
+^<<v5-19-6,6>>^ Doutro modo poderia suceder que algum parente daquele, cujo sangue foi derramado, estimulado da sua dor, o seguisse e o prendesse, se o caminho fosse muito longo, e matasse um homem, que não merece a morte, visto não se provar que antes tivesse tido inimizade com o que foi morto.
+
+[[v5-19-7]]
+
+^<<v5-19-7,7>>^ Portanto mando-te que ponhas à parte três cidades.
+
+[[v5-19-8]]
+
+^<<v5-19-8,8>>^ Quando o Senhor teu Deus tiver alargado os teus limites, como jurou a teus pais, e te tiver dado toda a terra que lhes prometeu dar-te
+
+[[v5-19-9]]
+
+^<<v5-19-9,9>>^ (Se guardares os seus mandamentos, se fizeres o que ou hoje te prescrevo, amando o Senhor teu Deus e andando sempre pelos seus caminhos) juntarás a essas três cidades outras três,
+
+[[v5-19-10]]
+
+^<<v5-19-10,10>>^ para que se não derrame o sangue inocente no meio da terra que o Senhor teu Deus te der por herança, e não caia sangue sobre ti. (ver nota)
+
+[[v5-19-11]]
+
+^<<v5-19-11,11>>^ Se alguém, tendo ódio ao seu próximo, armar ciladas à sua vida e, levantando-se, o ferir e matar, e se refugiar em uma das sobreditas cidades,
+
+[[v5-19-12]]
+
+^<<v5-19-12,12>>^ os anciães da sua cidade mandarão tirá-lo do lugar do refúgio, e o entregarão nas mãos do vingador do sangue, para ser morto. (ver nota)
+
+[[v5-19-13]]
+
+^<<v5-19-13,13>>^ Não terás compaixão dele, e tirarás de Israel o reato do sangue inocente, para que te suceda bem. (ver nota)
+
+[[v5-19-14]]
+
+^<<v5-19-14,14>>^ Não moverás, nem transportarás os marcos do teu próximo, que teus predecessores fixaram na herança que o Senhor teu Deus te der, no país que ele te entregar.
+
+[[v5-19-15]]
+
+^<<v5-19-15,15>>^ Não valerá contra alguém uma só testemunha, qualquer que for o delito ou o crime; tudo será verificado sobre o depoimento de duas ou três testemunhas.
+
+[[v5-19-16]]
+
+^<<v5-19-16,16>>^ Se se apresentar uma testemunha falsa contra um homem, acusando-o de prevaricação,
+
+[[v5-19-17]]
+
+^<<v5-19-17,17>>^ ambos os contendores comparecerão diante do Senhor na presença dos sacerdotes e juízes que estiverem em exercício naqueles dias.
+
+[[v5-19-18]]
+
+^<<v5-19-18,18>>^ Quando estes, depois dum diligentíssimo exame, conhecerem que a testemunha disse uma mentira contra o seu irmão,
+
+[[v5-19-19]]
+
+^<<v5-19-19,19>>^ far-lhe-ão o que ele tinha intenção de fazer ao seu irmão, e tirarás o mal do meio de ti,
+
+[[v5-19-20]]
+
+^<<v5-19-20,20>>^ para que os outros, ouvindo isto, tenham medo, e, de nenhum modo, se atrevam a fazer tais coisas.
+
+[[v5-19-21]]
+
+^<<v5-19-21,21>>^ Não terás compaixão dele, mas exigirás vida por vida, olho por olho, dente por dente, mão por mão, pé por pé.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[&#60; Capítulo Anterior] | <<v5-19-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[Próximo Capítulo &#62;]

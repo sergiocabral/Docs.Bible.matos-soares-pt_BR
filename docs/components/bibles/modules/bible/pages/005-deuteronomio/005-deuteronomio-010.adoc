@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v5-10-0]]
+=== Deuteronômio, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 10 enfatiza a grandeza e a bondade de Deus, bem como a importância de obedecer aos Seus mandamentos. Moisés lembra o povo de como Deus renovou as tábuas da lei depois que eles as quebraram, e de como Ele os guiou pelo deserto durante quarenta anos. Ele também exorta o povo a temer o Senhor, servir a Ele com todo o coração e guardar os mandamentos que Ele lhes deu.
+* Salmos 111:10: "O temor do SENHOR é o princípio da sabedoria; bom entendimento têm todos os que cumprem os seus mandamentos; o seu louvor permanece para sempre." Este versículo enfatiza a importância do temor do Senhor e da obediência aos Seus mandamentos, que é um tema central de Deuteronômio 10.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo encoraja a confiança total em Deus e a busca pela Sua orientação, que também é um tema de Deuteronômio 10.
+* Isaías 6:8: "Depois disto ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por nós? Então disse eu: Eis-me aqui, envia-me a mim." Este versículo fala sobre a disposição de Isaías de ser enviado por Deus em uma missão, uma atitude semelhante àquela que Moisés encoraja no povo de Israel em Deuteronômio 10.
+* Josué 22:5: "Tão somente tende cuidado de guardar com diligência o mandamento e a lei que Moisés, o servo do SENHOR, vos ordenou: que ameis ao SENHOR, vosso Deus, e andeis em todos os seus caminhos, e guardeis os seus mandamentos, e vos achegueis a ele, e o sirvais com todo o vosso coração e com toda a vossa alma." Este versículo enfatiza a importância de guardar diligentemente os mandamentos de Deus e de amá-Lo com todo o coração, como também é mencionado em Deuteronômio 10.
+* Mateus 22:37-39: "Respondeu-lhe Jesus: Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de todo o teu entendimento. Este é o grande e primeiro mandamento. E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo." Este versículo fala sobre os dois maiores mandamentos de Deus: amá-Lo com todo o coração, alma e entendimento, e amar o próximo como a si mesmo, que também são valores enfatizados em Deuteronômio 10.
+****
+
+[[v5-10-1]]
+
+^<<v5-10-1,1>>^ Naquele tempo o Senhor disse-me: Corta duas tábuas de pedra iguais às primeiras, e sobe a mim ao monte; faze também uma arca de madeira.
+
+[[v5-10-2]]
+
+^<<v5-10-2,2>>^ Eu escreverei nestas tábuas as palavras que estavam naquelas que tu quebrastes antes, e tu guardá-las-ás na arca,
+
+[[v5-10-3]]
+
+^<<v5-10-3,3>>^ Eu, pois, fiz uma arca de pau de acácia. Tendo cortado duas tábuas de pedra como as primeiras, subi ao monte com elas nas mãos.
+
+[[v5-10-4]]
+
+^<<v5-10-4,4>>^ O (Senhor) escreveu nestas tábuas, como tinha escrito nas primeiras, as dez palavras que tinha dito sobre o monte, do meio do fogo, estando o povo junto, e deu-mas.
+
+[[v5-10-5]]
+
+^<<v5-10-5,5>>^ Voltando do monte, desci e pus as tábuas na arca que tinha feito, e elas lá estão hoje, como o Senhor me ordenou.
+
+[[v5-10-6]]
+
+^<<v5-10-6,6>>^ Os filhos de Israel transportaram os acampamentos de Boroth, (que era) dos filhos de Jacan, a Mosera, onde morreu e foi sepultado Aarão, em lugar do qual Eleázaro, seu filho, exerceu as funções do sacerdócio.
+
+[[v5-10-7]]
+
+^<<v5-10-7,7>>^ De lá passaram a Gadgad, e, tendo partido deste lugar, foram acampar em Jetebata, terra de águas e de torrentes.
+
+[[v5-10-8]]
+
+^<<v5-10-8,8>>^ Naquele tempo (o Senhor) separou a tribo de Levi, para levar a arca da aliança do Senhor, para estar na sua presença, para o Servir e bem-dizer em seu nome até ao dia de hoje.
+
+[[v5-10-9]]
+
+^<<v5-10-9,9>>^ Por isso Levi não teve parte nem herança com seus irmãos, porque o Senhor mesmo é a herança, como lhe prometeu o Senhor teu Deus.
+
+[[v5-10-10]]
+
+^<<v5-10-10,10>>^ Eu estive sobre o monte, como antes, quarenta dias e quarenta noites, e o Senhor ouviu-me também esta vez, não quis exterminar-te,
+
+[[v5-10-11]]
+
+^<<v5-10-11,11>>^ e disse-me: Vai e marcha diante do teu povo, para que entre e possua a terra que eu jurei a seus pais dar-lhes.
+
+[[v5-10-12]]
+
+^<<v5-10-12,12>>^ E agora, ó Israel, que é o que o Senhor teu Deus pede de ti, senão que temas o Senhor teu Deus, andando nos seus caminhos, amando e servindo o Senhor teu Deus de todo o teu coração e de toda a tua alma,
+
+[[v5-10-13]]
+
+^<<v5-10-13,13>>^ observando os mandamentos do Senhor e as suas leis que hoje te prescrevo, para que sejas feliz?
+
+[[v5-10-14]]
+
+^<<v5-10-14,14>>^ Repara que o céu é do Senhor teu Deus, assim como o céu dos céus, a terra e tudo o que há nela.
+
+[[v5-10-15]]
+
+^<<v5-10-15,15>>^ Não obstante isto, o Senhor uniu-se estreitamente a teus pais e amou-os, e escolheu a sua linhagem depois deles, isto é, a vós, dentre todas as nações, como hoje está provado.
+
+[[v5-10-16]]
+
+^<<v5-10-16,16>>^ Circuncidai, pois, o vosso coração, e não endureçais mais a vossa cerviz. (ver nota)
+
+[[v5-10-17]]
+
+^<<v5-10-17,17>>^ porque o Senhor vosso Deus é o Deus dos deuses, o Senhor dos senhores, o Deus grande, poderoso, e terrível, que não faz acepção de pessoas, nem (recebe) presentes.
+
+[[v5-10-18]]
+
+^<<v5-10-18,18>>^ EIe faz justiça ao órfão e à viúva, ama o peregrino e dá-lhe o sustento e vestuário.
+
+[[v5-10-19]]
+
+^<<v5-10-19,19>>^ Amai vós, também, os estrangeiros, porque fostes estrangeiros na terra do Egipto.
+
+[[v5-10-20]]
+
+^<<v5-10-20,20>>^ Temerás o Senhor teu Deus, só a ele servirás, estarás unido a ele, e jurarás pelo seu nome.
+
+[[v5-10-21]]
+
+^<<v5-10-21,21>>^ Ele é a tua glória e o teu Deus, que fez por ti estas grandes e terríveis coisas que os teus olhos viram.
+
+[[v5-10-22]]
+
+^<<v5-10-22,22>>^ Em número de setenta pessoas, os teus pais desceram ao Egipto, e agora o Senhor teu Deus multiplicou-te como as estrelas de céu.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-009.adoc#v5-9-0[&#60; Capítulo Anterior] | <<v5-10-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-011.adoc#v5-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v5-6-0]]
+=== Deuteronômio, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 6 contém a famosa passagem do "Shema Yisrael", que é uma afirmação central da fé judaica. O capítulo exorta os israelitas a amar a Deus com todo o seu coração, alma e força, e a ensinar os mandamentos de Deus a seus filhos e gerações futuras. Também destaca a importância de manter os mandamentos de Deus, lembrar das bênçãos que Deus concedeu ao povo de Israel e não se esquecer de Deus quando se estabelecer na Terra Prometida.
+* Êxodo 20:6: "Mas mostro amor a milhares dos que me amam e guardam os meus mandamentos". Este versículo destaca a importância de amar a Deus e obedecer seus mandamentos, que são temas centrais de Deuteronômio 6.
+* Deuteronômio 11:18-19: "Ponham estas minhas palavras em seu coração e em sua alma; amarrem-nas como um sinal nas mãos e prendam-nas na testa. Ensinem-nas a seus filhos, conversando a respeito delas quando estiverem sentados em casa e quando estiverem andando pelo caminho, quando se deitarem e quando se levantarem". Esse versículo fala da importância de ensinar os mandamentos de Deus às gerações futuras, um tema central em Deuteronômio 6.
+* Deuteronômio 30:16: "Pois lhe ordeno hoje que ame o Senhor, o seu Deus, ande nos seus caminhos e guarde os seus mandamentos, decretos e ordenanças; então você viverá e se multiplicará, e o Senhor, o seu Deus, o abençoará na terra que você está entrando para possuir". Este versículo destaca a importância de amar a Deus e obedecer seus mandamentos para receber bênçãos e prosperidade, um tema importante em Deuteronômio 6.
+* Provérbios 22:6: "Ensine a criança no caminho em que deve andar, e mesmo quando envelhecer não se desviará dele". Este versículo fala da importância de ensinar os filhos desde cedo sobre os caminhos de Deus, um tema que é enfatizado em Deuteronômio 6.
+* Josué 24:15: "Mas, se não lhes agrada servir ao Senhor, escolham hoje a quem irão servir, se aos deuses que os seus antepassados serviram além do Eufrates, ou aos deuses dos amorreus, em cuja terra vocês estão vivendo. Mas eu e a minha família serviremos ao Senhor". Este versículo destaca a importância de fazer uma escolha consciente de servir a Deus e seguir seus mandamentos, um tema central em Deuteronômio 6.
+****
+
+[[v5-6-1]]
+
+^<<v5-6-1,1>>^ Estes são os preceitos, as cerimônias, as ordenações, que o Senhor vosso Deus me mandou ensinar-vos, para que as observeis na terra, à qual estais para passar, a fim de tomar posse dela,
+
+[[v5-6-2]]
+
+^<<v5-6-2,2>>^ para que temas o Senhor teu Deus, e, observando todos os seus mandamentos e preceitos, que eu te intimo a ti, a teus filhos e netos, durante todos os dias da tua vida, vivas largos anos.
+
+[[v5-6-3]]
+
+^<<v5-6-3,3>>^ Ouve, ó Israel, cuida de fazer o que o Senhor te mandou, para que te suceda bem e te multipliques muito na terra que mana leite e mel, como te prometeu o Senhor Deus de teus pais.
+
+[[v5-6-4]]
+
+^<<v5-6-4,4>>^ Ouve, ó Israel: o Senhor nosso Deus é o único Senhor.
+
+[[v5-6-5]]
+
+^<<v5-6-5,5>>^ Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, com toda a tua força.
+
+[[v5-6-6]]
+
+^<<v5-6-6,6>>^ Estas palavras, que eu hoje te intimo, estarão (gravadas) no teu coração;
+
+[[v5-6-7]]
+
+^<<v5-6-7,7>>^ tu as ensinarás a teus filhos, e as meditarás sentado em tua casa, andando pelo caminho, estando no leito, e ao levantar-te.
+
+[[v5-6-8]]
+
+^<<v5-6-8,8>>^ Atá-las-ás à tua mão como um sinal, elas estarão como um frontal diante dos teus olhos,
+
+[[v5-6-9]]
+
+^<<v5-6-9,9>>^ e escrevê-las-ás sobre o limiar e sobre as portas da tua casa.
+
+[[v5-6-10]]
+
+^<<v5-6-10,10>>^ Quando o Senhor teu Deus te tiver introduzido na terra que a teus pais Abraão, Isaac e Jacob, jurou dar-te: grandes e excelentes cidades, que tu não edificaste,
+
+[[v5-6-11]]
+
+^<<v5-6-11,11>>^ casas cheias de todos os bens, que não encheste, cisternas, que não abriste, vinhas e olivais, que não plantaste;
+
+[[v5-6-12]]
+
+^<<v5-6-12,12>>^ quando comeres e te fartares
+
+[[v5-6-13]]
+
+^<<v5-6-13,13>>^ abstém-te cuidadosamente de esquecer o Senhor, que te tirou da terra do Egipto, da morada da escravidão. Temerás o Senhor teu Deus, só a ele servirás, e jurarás pelo seu nome.
+
+[[v5-6-14]]
+
+^<<v5-6-14,14>>^ Não seguirás os deuses estrangeiros de nenhuma das nações, que estão à roda de ti,
+
+[[v5-6-15]]
+
+^<<v5-6-15,15>>^ porque um Deus zeloso, o Senhor teu Deus, está no meio de ti, não suceda que o furor do Senhor teu Deus se acenda contra ti, e te extermine da superfície da terra.
+
+[[v5-6-16]]
+
+^<<v5-6-16,16>>^ Não tentarás o Senhor teu Deus, como o tentaste no Lugar da Tentação.
+
+[[v5-6-17]]
+
+^<<v5-6-17,17>>^ Guarda os preceitos do Senhor teu Deus, as leis e as cerimônias que te prescreveu:
+
+[[v5-6-18]]
+
+^<<v5-6-18,18>>^ faze o que é agradável e bom diante do Senhor, para que te suceda bem, e para que entrando, possuas aquela terra excelente, que o Senhor jurou a teus pais
+
+[[v5-6-19]]
+
+^<<v5-6-19,19>>^ quando exterminasse diante de ti todos os teus inimigos, como disse.
+
+[[v5-6-20]]
+
+^<<v5-6-20,20>>^ Quando teu filho amanhã te perguntar, dizendo: Que são estas leis, cerimônias, ordenações, que o Senhor nosso Deus nos prescreveu?
+
+[[v5-6-21]]
+
+^<<v5-6-21,21>>^ - tu lhe responderás: Nós estávamos escravos de Faraó no Egipto, e o Senhor tirou-nos do Egipto com mão poderosa,
+
+[[v5-6-22]]
+
+^<<v5-6-22,22>>^ e à nossa vista fez no Egipto milagres e grandes prodígios contra Faraó e contra toda a sua casa,
+
+[[v5-6-23]]
+
+^<<v5-6-23,23>>^ e tirou-nos de lá, para nos fazer entrar na posse da terra que, com juramento, havia prometido a nossos pais.
+
+[[v5-6-24]]
+
+^<<v5-6-24,24>>^ O Senhor mandou-nos que observássemos todas estas leis, que temêssemos o Senhor nosso Deus, para que nos suceda bem durante todos os dias da nossa vida, como sucede hoje.
+
+[[v5-6-25]]
+
+^<<v5-6-25,25>>^ Será para nós justiça guardar e observar todos os seus preceitos na presença do Senhor nosso Deus, como ele no-lo mandou.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-005.adoc#v5-5-0[&#60; Capítulo Anterior] | <<v5-6-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-007.adoc#v5-7-0[Próximo Capítulo &#62;]

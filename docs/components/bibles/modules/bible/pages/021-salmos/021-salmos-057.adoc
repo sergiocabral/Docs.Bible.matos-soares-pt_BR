@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v21-57-0]]
+=== Salmos, 57
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 57 é uma oração de Davi quando ele fugia de Saul e se escondia numa caverna. Ele clama a Deus por ajuda e proteção, reconhecendo que apenas Ele é capaz de salvá-lo. Davi expressa sua confiança em Deus e sua fidelidade, e pede que Ele envie Sua misericórdia e verdade. A seguir estão cinco versículos relacionados com os temas abordados em Salmo 57:
+* Salmos 7:10: "Meu escudo está em Deus, que salva os retos de coração." Davi confia em Deus para protegê-lo e salvá-lo.
+* Salmos 18:2: "O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Davi reconhece que somente Deus pode protegê-lo e salvá-lo, e Ele é sua fortaleza e refúgio.
+* Salmos 31:3: "Pois tu és a minha rocha e a minha fortaleza; por amor do teu nome, conduze-me e guia-me." Davi confia em Deus para guiá-lo e protegê-lo por amor ao Seu nome.
+* Salmos 46:1: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade." Davi encontra refúgio em Deus, confiando que Ele é um auxílio presente em momentos de adversidade.
+* Salmos 59:9: "Ó minha força, é em ti que confio; tu, ó Deus, és o meu refúgio." Davi confia em Deus como sua força e refúgio, reconhecendo que só Ele é capaz de salvá-lo.
+****
+
+[[v21-57-1]]
+
+^<<v21-57-1,1>>^ Ao mestre do coro. Segundo a melodia de "Não destruas"... De Davide. Miktãm.
+
+[[v21-57-2]]
+
+^<<v21-57-2,2>>^ Porventura, ó poderosos, fazeis verdadeiramente justiça? Porventura, ó filhos dos homens, é com rectidão que julgais?
+
+[[v21-57-3]]
+
+^<<v21-57-3,3>>^ Ao contrário, vós cometeis iniquidades no coração, e as vossas mãos espalham injustiças na terra.
+
+[[v21-57-4]]
+
+^<<v21-57-4,4>>^ Extraviaram-se os ímpios desde o seio materno, erraram, desde o seu nascimento, os que falam mentira.
+
+[[v21-57-5]]
+
+^<<v21-57-5,5>>^ Têm um veneno semelhante ao veneno das serpentes, ao veneno do áspide (que se faz) surdo, que fecha os seus ouvidos, (ver nota)
+
+[[v21-57-6]]
+
+^<<v21-57-6,6>>^ para não ouvir a voz dos encantadores, do encantador que encanta com mestria.
+
+[[v21-57-7]]
+
+^<<v21-57-7,7>>^ Ó Deus, quebrai-lhes os dentes na sua própria boca; ó Senhor, quebra as queixadas desses leões. (ver nota)
+
+[[v21-57-8]]
+
+^<<v21-57-8,8>>^ Desapareçam, como as águas que correm; se atirarem as suas setas, que fiquem embotadas.
+
+[[v21-57-9]]
+
+^<<v21-57-9,9>>^ Passem como a lesma que se vai dissolvendo, como aborto de mulher, que não viu o sol.
+
+[[v21-57-10]]
+
+^<<v21-57-10,10>>^ Antes que as vossas panelas se aqueçam ao fogo do espinheiro verde, sejam eles arrebatados pelo vendaval.
+
+[[v21-57-11]]
+
+^<<v21-57-11,11>>^ Alegrar-se-à o justo ao ver a vingança : lavará os seus pés no sangue do ímpio.
+
+[[v21-57-12]]
+
+^<<v21-57-12,12>>^ E os homens dirão: "Deveras há recompensa para o justo, deveras há um Deus que julga sobre a terra."
+
+'''
+
+xref:021-salmos/021-salmos-056.adoc#v21-56-0[&#60; Capítulo Anterior] | <<v21-57-0,Topo>> | xref:021-salmos/021-salmos-058.adoc#v21-58-0[Próximo Capítulo &#62;]

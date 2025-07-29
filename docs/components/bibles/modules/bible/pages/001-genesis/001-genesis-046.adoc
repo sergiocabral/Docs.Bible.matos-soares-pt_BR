@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v1-46-0]]
+=== Gênesis, 46
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 46 relata a jornada de Jacó e sua família para o Egito, onde José os aguarda para salvá-los da fome que assolava a terra. Jacó oferece sacrifícios a Deus em Beer-Sheba antes de partir e, ao chegar no Egito, ele é apresentado a Faraó. Os cinco versículos abaixo foram selecionados por sua relevância com os temas abordados neste capítulo.
+* Gênesis 28:13-15: "E eis que o Senhor estava em cima dela, e disse: Eu sou o Senhor Deus de Abraão teu pai, e o Deus de Isaque; esta terra em que estás deitado, darei a ti e à tua descendência. E a tua descendência será como o pó da terra, e estender-se-á ao ocidente, e ao oriente, e ao norte, e ao sul; e em ti e na tua descendência serão benditas todas as famílias da terra. E eis que estou contigo, e te guardarei por onde quer que fores, e te farei tornar a esta terra; porque não te deixarei, até que haja cumprido aquilo de que te tenho falado." A jornada de Jacó e sua família para o Egito é um exemplo da fidelidade de Deus em cumprir suas promessas de proteção e bênção para a descendência de Abraão.
+* Êxodo 1:7: "E os filhos de Israel frutificaram, e aumentaram muito, e multiplicaram-se, e foram fortalecidos grandemente; de maneira que a terra se encheu deles." O cumprimento da promessa de Deus de que a descendência de Abraão seria numerosa começa a ser visto quando Jacó e sua família chegam ao Egito.
+* Êxodo 20:12: "Honra a teu pai e a tua mãe, para que se prolonguem os teus dias na terra que o Senhor teu Deus te dá." Jacó honrou seu pai e avô antes dele, e agora ele e sua família estão sendo abençoados pela fidelidade de Deus a essas promessas.
+* Êxodo 23:25: "E servireis ao Senhor vosso Deus, e ele abençoará o vosso pão e a vossa água; e eu tirarei do meio de ti as enfermidades." A bênção de Deus sobre Jacó e sua família é evidente no fato de que eles encontraram um lugar para viver no Egito durante a fome e foram recebidos pelo Faraó.
+* Josué 24:15: "Porém, se vos parece mal aos vossos olhos servir ao Senhor, escolhei hoje a quem sirvais; se aos deuses a quem serviram vossos pais, que estavam dalém do rio, ou aos deuses dos amorreus, em cuja terra habitais; porém eu e a minha casa serviremos ao Senhor." A decisão de Jacó e sua família de confiar em Deus e seguir seus planos é um exemplo para nós de como devemos confiar em Deus em todas as circunstâncias da vida.
+****
+
+[[v1-46-1]]
+
+^<<v1-46-1,1>>^ Partiu, pois, Israel com tudo o que possuía foi ao poço do juramento. Tendo imolado aí vítimas ao Deus de seu pai Isaac,
+
+[[v1-46-2]]
+
+^<<v1-46-2,2>>^ ouviu-o numa visão de noite, que o chamava e lhe dizia: Jacob, Jacob! Ao qual ele respondeu: Eis-me aqui.
+
+[[v1-46-3]]
+
+^<<v1-46-3,3>>^ Deus disse-lhe: Eu sou o Deus fortíssimo de teu pai; não temas, vai para o Egito, porque eu te farei ser uma grande nação.
+
+[[v1-46-4]]
+
+^<<v1-46-4,4>>^ Eu irei para lá contigo e te reconduzirei de lá quando voltares: e José porá as suas mãos sobre os teus olhos.
+
+[[v1-46-5]]
+
+^<<v1-46-5,5>>^ Jacob partiu do poço do juramento, e seus filhos colocaram-no com seus meninos e suas mulheres sobre os carros que Faraó tinha mandado para o transportar,
+
+[[v1-46-6]]
+
+^<<v1-46-6,6>>^ com tudo o que ele possuía na terra de Canaan, e foi para o Egito com toda a sua família,
+
+[[v1-46-7]]
+
+^<<v1-46-7,7>>^ com seus filhos, netos e filhas, e toda a sua descendência juntamente.
+
+[[v1-46-8]]
+
+^<<v1-46-8,8>>^ Eis os nomes dos filhos de Israel, que entraram no Egito, quando ele para lá foi com seus filhos. O primogénito (era) Ruben.
+
+[[v1-46-9]]
+
+^<<v1-46-9,9>>^ Os filhos de Ruben (eram) Henoch, Fallu, Hesron e Carmi.
+
+[[v1-46-10]]
+
+^<<v1-46-10,10>>^ Os filhos de Simeão (eram) Jamuel, Jarnin, Aod, Jaquin, Soar e Saul, filho duma Cananeia.
+
+[[v1-46-11]]
+
+^<<v1-46-11,11>>^ Os filhos de Levi (eram) Gerson Caath e Merari.
+
+[[v1-46-12]]
+
+^<<v1-46-12,12>>^ Os filhos de Judá (eram) Her, Onan, Sela, Farés e Zara: mas Her e Onan morreram na terra de Canaan. A Farés nasceram as filhas Hesron e Hamul.
+
+[[v1-46-13]]
+
+^<<v1-46-13,13>>^ Os filhos de Issacar (eram) Tola, Fua, Job e Semron.
+
+[[v1-46-14]]
+
+^<<v1-46-14,14>>^ Os filhos de Zabulon (eram) Sared, Elon e Jaelel.
+
+[[v1-46-15]]
+
+^<<v1-46-15,15>>^ Estes são os filhas de Lia, que ela gerou na Mesopotâmia da Síria, com Dina, sua filha. Os seus filhos e filhas (eram), ao todo, trinta e três.
+
+[[v1-46-16]]
+
+^<<v1-46-16,16>>^ Os filhos de Gad (eram) Sefion, Hagi, Suni, Esebon, Heri, Arodi, e Arel.
+
+[[v1-46-17]]
+
+^<<v1-46-17,17>>^ Os filhos de Aser (eram) Jame, Jesua Jessui e Béria, e também Sara, irmã deles. Os filhos de Béria (eram) Heber e Melquiel.
+
+[[v1-46-18]]
+
+^<<v1-46-18,18>>^ Estes são os filhos de Zélfa, (a criada) que Labão tinha dado a sua filha Lia; ela os deu à luz a Jacob: (ao todo) dezasseis pessoas.
+
+[[v1-46-19]]
+
+^<<v1-46-19,19>>^ Os filhos de Raquel, mulher de Jacob, (eram) José e Benjamim.
+
+[[v1-46-20]]
+
+^<<v1-46-20,20>>^ A José, na terra do Egito, nasceram os filhos Manassés e Efraim, que lhe deu à luz Aseneth, filha de Putifar, sacerdote de Heliópolis.
+
+[[v1-46-21]]
+
+^<<v1-46-21,21>>^ Os filhos de Benjamim (eram) Bela, Becor, Asbel, Gera, Naaman, Equi, Ros, Mofim, Ofim e Ared.
+
+[[v1-46-22]]
+
+^<<v1-46-22,22>>^ Estes são os filhos que Raquel deu à luz a Jacob: ao todo catorze pessoas.
+
+[[v1-46-23]]
+
+^<<v1-46-23,23>>^ Filhos de Dan: Husim.
+
+[[v1-46-24]]
+
+^<<v1-46-24,24>>^ Os filhos de Neftali (eram) Jasiel, Guni, Jeser e Salem.
+
+[[v1-46-25]]
+
+^<<v1-46-25,25>>^ Estes são os filhos de Bala, que Labão tinha dado a sua filha Raquel; ela os deu à luz a Jacob: ao todo sete pessoas.
+
+[[v1-46-26]]
+
+^<<v1-46-26,26>>^ Todas as pessoas que entraram com Jacob no Egito, e que descendiam dele, não contando com as mulheres de seus filhos, eram sessenta e seis.
+
+[[v1-46-27]]
+
+^<<v1-46-27,27>>^ Os filhos de José, que lhe tinham nascido no Egito, eram dois. Todas as pessoas da casa de Jacob, que entraram no Egito, foram setenta.
+
+[[v1-46-28]]
+
+^<<v1-46-28,28>>^ (Jacob) enviou Judá adiante de si a José, para o avisar que lhe saísse ao encontro em Gessen.
+
+[[v1-46-29]]
+
+^<<v1-46-29,29>>^ Quando chegou, José tendo mandado aparelhar o seu coche, foi ao encontro de seu pai no mesmo lugar, e, quando o viu, lançou-se ao seu pescoço, e, abraçando-o, chorou.
+
+[[v1-46-30]]
+
+^<<v1-46-30,30>>^ O pai disse a José: Agora morrerei contente, porque vi a tua face e tu vives ainda.
+
+[[v1-46-31]]
+
+^<<v1-46-31,31>>^ (José), porém disse a seus irmãos e a toda a família de seu pai: Irei levar a nova a Faraó e lhe direi: Meus irmãos e toda a família de meu pai, que estavam na terra de Canaan, vieram para mim.
+
+[[v1-46-32]]
+
+^<<v1-46-32,32>>^ São homens pastores de ovelhas, que se ocupam em apascentar rebanhos: trouxeram consigo o seu gado e os rebanhos, e tudo o que podiam ter.
+
+[[v1-46-33]]
+
+^<<v1-46-33,33>>^ Quando (Faraó) vos chamar e vos disser: Que ocupação é a vossa?
+
+[[v1-46-34]]
+
+^<<v1-46-34,34>>^ Responder-lhes-eis: Nós, teus servos, somos proprietários de gado, desde a nossa infância até ao presente, assim nós, como nossos país. Direis isto, para poderdes habitar na terra de Gessen, porque os Egípcios detestam todos os pastores.
+
+'''
+
+xref:001-genesis/001-genesis-045.adoc#v1-45-0[&#60; Capítulo Anterior] | <<v1-46-0,Topo>> | xref:001-genesis/001-genesis-047.adoc#v1-47-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v34-8-0]]
+=== Daniel, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Daniel 8 é um capítulo da Bíblia que relata uma visão que Daniel teve sobre um carneiro e um bode que lutavam entre si. Essa visão era uma representação da luta entre o império Medo-Persa e o império Grego. Abaixo estão cinco versículos relacionados com os temas abordados em Daniel 8:
+* Daniel 7:6: "Depois disto, eu continuava olhando, e eis aqui outro, semelhante a um leopardo, e tinha quatro asas de ave nas suas costas; tinha também este animal quatro cabeças, e foi-lhe dado domínio." Este versículo fala sobre um animal que se assemelha ao bode com chifres mencionado em Daniel 8:5, que representa o império Grego.
+* Isaías 14:13-14: "E tu dizias no teu coração: Eu subirei ao céu, acima das estrelas de Deus exaltarei o meu trono, e no monte da congregação me assentarei, aos lados do norte. Subirei sobre as alturas das nuvens, e serei semelhante ao Altíssimo." Esse versículo faz referência à arrogância do rei da Babilônia, que é mencionado em Daniel 8:10-11.
+* Apocalipse 12:7-9: "E houve batalha no céu; Miguel e os seus anjos batalhavam contra o dragão, e batalhavam o dragão e os seus anjos; mas não prevaleceram; nem mais o seu lugar se achou nos céus. E foi precipitado o grande dragão, a antiga serpente, chamada o diabo, e Satanás, que engana todo o mundo; ele foi precipitado na terra, e os seus anjos foram lançados com ele." Este versículo faz referência à luta entre o carneiro e o bode em Daniel 8:7-8, que simbolizam a luta entre o bem e o mal.
+* Isaías 44:28-45:1: "Assim diz Ciro, rei da Pérsia: Todas as nações do mundo me entregou o Senhor Deus dos exércitos, e ele me deu ordem para que lhe edificasse uma casa em Jerusalém, que está em Judá. Assim diz o Senhor ao seu ungido, a Ciro, a quem tomo pela mão direita, para abater as nações diante de sua face, e descingir os lombos dos reis, e para abrir diante dele as portas, que não se fecharão." Este versículo se relaciona com Daniel 8:20-22, que menciona a ascensão do império Persa e do seu grande rei.
+* Mateus 24:15-16: "Quando, pois, virdes que a abominação da desolação, de que falou o profeta Daniel, está no lugar santo; quem lê, entenda; então, os que estiverem na Judeia fujam para os montes." Este versículo se relaciona com Daniel 8:13-14, que fala sobre a profanação do templo e a necessidade de sua purificação. Jesus faz referência a essa profecia de Daniel e alerta sobre a necessidade de fugir quando a abominação da desolação for colocada no lugar santo. Esse versículo também aponta para a importância da compreensão das profecias bíblicas e da sua aplicação na vida diária dos cristãos.
+****
+
+[[v34-8-1]]
+
+^<<v34-8-1,1>>^ No terceiro ano do reinado do rei Baltasar, tive uma visão, eu, Daniel, depois da que tinha tido anteriormente. (ver nota)
+
+[[v34-8-2]]
+
+^<<v34-8-2,2>>^ Nesta visão que tive, encontrava-me na fortaleza de Susa, na província de Elam ; contemplando a visão, eu estava à porta de Ulai. (ver nota)
+
+[[v34-8-3]]
+
+^<<v34-8-3,3>>^ Levantei os meus olhos para olhar, e eis que vi, em pé diante da ribeira, um carneiro, que tinha duas hastes elevadas; uma era mais alta do que a outra, mas cresceu depois dela. (ver nota)
+
+[[v34-8-4]]
+
+^<<v34-8-4,4>>^ Vi que o carneiro dava marradas contra o ocidente, contra o aquilão e contra o meio-dia e nenhuma besta lhe podia resistir, ninguém podia livrar-se do seu poder; fazia quanto queria e tornava-se poderoso.
+
+[[v34-8-5]]
+
+^<<v34-8-5,5>>^ Estava eu considerando isto e eis que um bode vinha do ocidente sobre a face de toda a terra, e (tão rapidamente que) não tocava na terra; este bode tinha uma grande haste entre os seus olhos. (ver nota)
+
+[[v34-8-6]]
+
+^<<v34-8-6,6>>^ Dirigiu-se contra aquele carneiro que tinha hastes, o qual eu tinha visto era pé. diante da ribeira, e correu para ele com todo o ímpeto da sua força.
+
+[[v34-8-7]]
+
+^<<v34-8-7,7>>^ Vi-o chegar perto do carneiro: atacou-o com fúria, feriu-o e quebrou-lhe as duas hastes, sem que o carneiro lhe pudesse resistir; tendo-o lançado por terra, pisou-o aos pés, e não houve quem pudesse livrar o carneiro do seu poder.
+
+[[v34-8-8]]
+
+^<<v34-8-8,8>>^ Ora o bode tornou-se extraordinariamente grande; mas, quando se fez forte, quebrou-se o sua grande haste, e formaram-se em lugar dela quatro hastes para os quatro ventos do céu.
+
+[[v34-8-9]]
+
+^<<v34-8-9,9>>^ Porém, duma destas saiu uma haste pequena, que se tornou grande para o meio-dia, para o oriente e para a terra esplêndida (de Israel). (ver nota)
+
+[[v34-8-10]]
+
+^<<v34-8-10,10>>^ Elevou-se até ao exército do céu e deitou abaixo legiões e estrelas, e pisou-as aos pés. (ver nota)
+
+[[v34-8-11]]
+
+^<<v34-8-11,11>>^ Elevou-se até contra o príncipe do exército (do céu), tirou-lhe o sacrifício perpétuo e destruiu o lugar do seu santuário. (ver nota)
+
+[[v34-8-12]]
+
+^<<v34-8-12,12>>^ Foi-lhe dado poder contra o sacrifício perpétuo, por causa dos pecados (do povo); lançou a terra a verdade e teve feliz sucesso nos seus empreendimentos.
+
+[[v34-8-13]]
+
+^<<v34-8-13,13>>^ Então ouvi um santo falar, e um outro santo perguntar ao que falava: Até quando durará (o que) a visão (anuncia) quanto ao sacrifício perpétuo e ao pecado (causa) da desolação que foi feita? Até quando serão calcados aos pés o santuário e o exército?
+
+[[v34-8-14]]
+
+^<<v34-8-14,14>>^ Ele respondeu-lhe: Até duas mil e trezentas tardes e manhãs; depois disso, o santuário será restabelecido.
+
+[[v34-8-15]]
+
+^<<v34-8-15,15>>^ Ora, enquanto eu Daniel, tinha esta visão e procurava a sua inteligência, apresentou-se diante de mim um ser com figura de homem.
+
+[[v34-8-16]]
+
+^<<v34-8-16,16>>^ E ouvi uma voz de homem no meio de Ulai, a qual gritou: Gabriel, explica-lhe esta visão.
+
+[[v34-8-17]]
+
+^<<v34-8-17,17>>^ Ele velo até junto do lugar onde eu estava; quando se aproximou, cai espavorido com o rosto por terra, e ele disse-me: Entende, filho de homem, que esta visão se cumprirá no tempo do fim.
+
+[[v34-8-18]]
+
+^<<v34-8-18,18>>^ Enquanto me estava falando, desfaleci com o rosto por terra; ele, porém, tocou-me, fez-me pôr em pé. (ver nota)
+
+[[v34-8-19]]
+
+^<<v34-8-19,19>>^ Depois disse-me: Mostrar-te-ei o que há-de suceder no fim da cólera, porque o tempo tem o seu fim.
+
+[[v34-8-20]]
+
+^<<v34-8-20,20>>^ O carneiro que viste, que tinha duas hastes, significa os reis dos Medos e dos Persas.
+
+[[v34-8-21]]
+
+^<<v34-8-21,21>>^ O bode é o rei dos Gregos; a grande haste, que tinha entre os seus dois olhos, é o primeiro rei. (ver nota)
+
+[[v34-8-22]]
+
+^<<v34-8-22,22>>^ Quanto às quatro hastes, que, depois de quebrada aquela primeira, se levantaram em seu lugar, são as quatro realezas que se levantarão da sua nação, mas sem terem a sua força.
+
+[[v34-8-23]]
+
+^<<v34-8-23,23>>^ Depois do seu reinado, quando chegarem ao cúmulo as suas iniquidades, levantar-se-á um rei, de rosto duro, e compreendedor de enigmas; (ver nota)
+
+[[v34-8-24]]
+
+^<<v34-8-24,24>>^ o seu poder crescerá, mas não pelas próprias forças; fará devastações incríveis; tudo lhe correrá bem; matará os poderosos e o povo dos santos. (ver nota)
+
+[[v34-8-25]]
+
+^<<v34-8-25,25>>^ Pela sua habilidade, terão bom êxito os dolos que urdir; (com isto) tornar-se-á arrogante o seu coração, e em plena paz, matará muitíssimos; levantar-se-á contra (Deus) o príncipe dos príncipes, porém será aniquilado sem intervir mão de homem.
+
+[[v34-8-26]]
+
+^<<v34-8-26,26>>^ Aquela visão da tarde e da manhã, que te foi representada, é verdadeira. Porém guarda segredo sobre a visão, porque ela não sucederá senão depois de muitos dias.
+
+[[v34-8-27]]
+
+^<<v34-8-27,27>>^ Então eu, Daniel, perdi as forças e fiquei doente alguns dias. Depois levantei-me para me ocupar dos negócios do rei. Estava pasmado da visão, sem haver ninguém que a pudesse interpretar (dum modo claro).
+
+'''
+
+xref:034-daniel/034-daniel-007.adoc#v34-7-0[&#60; Capítulo Anterior] | <<v34-8-0,Topo>> | xref:034-daniel/034-daniel-009.adoc#v34-9-0[Próximo Capítulo &#62;]

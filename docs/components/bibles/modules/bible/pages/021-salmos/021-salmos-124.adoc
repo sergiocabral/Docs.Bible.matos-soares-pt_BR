@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v21-124-0]]
+=== Salmos, 124
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 124 é um hino de agradecimento que celebra a proteção de Deus contra os inimigos. O salmista expressa gratidão pelo livramento de Deus e afirma que, se não fosse pelo Senhor, eles teriam sido destruídos. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 124:
+* Salmos 121:8: "O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre." Este versículo afirma a proteção de Deus sobre os filhos de Israel em todas as suas jornadas, tanto em suas saídas quanto em suas entradas.
+* Salmos 125:2: "Assim como estão em redor de Jerusalém os montes, assim o Senhor está em volta do seu povo desde agora e para sempre." Este versículo compara a proteção de Deus em torno de seu povo à paisagem montanhosa de Jerusalém que os cerca.
+* Salmos 118:13: "Empurraram-me com força, para me derrubar, mas o Senhor me ajudou." Este versículo fala sobre a ajuda que Deus oferece em momentos de perigo e adversidade, quando os inimigos tentam derrubar o salmista.
+* Salmos 91:11: "Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos." Este versículo fala sobre a proteção angelical de Deus sobre aqueles que o temem e o amam.
+* Salmos 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem-presente na angústia." Este versículo afirma a proteção de Deus como uma fortaleza inabalável que oferece refúgio em momentos de necessidade e angústia.
+****
+
+[[v21-124-1]]
+
+^<<v21-124-1,1>>^ Cântico das subidas. Os que confiam no Senhor são (firmes) como o monte de Sião, que não é abalado, que permanece para sempre.
+
+[[v21-124-2]]
+
+^<<v21-124-2,2>>^ Montes circundam Jerusalém: assim o Senhor circunda o seu povo, agora e para sempre.
+
+[[v21-124-3]]
+
+^<<v21-124-3,3>>^ Porque não permanecerá o ceptro dos ímpios sobre a herança dos justos, para que os justos não estendam à iniquidade as suas mãos.
+
+[[v21-124-4]]
+
+^<<v21-124-4,4>>^ Faz bem, Senhor, aos bons e aos rectos do coração.
+
+[[v21-124-5]]
+
+^<<v21-124-5,5>>^ Porém aos que se desviam para caminhos tortuosos, expulse-os o Senhor com os malfeitores. A paz seja sobre Israel!
+
+'''
+
+xref:021-salmos/021-salmos-123.adoc#v21-123-0[&#60; Capítulo Anterior] | <<v21-124-0,Topo>> | xref:021-salmos/021-salmos-125.adoc#v21-125-0[Próximo Capítulo &#62;]

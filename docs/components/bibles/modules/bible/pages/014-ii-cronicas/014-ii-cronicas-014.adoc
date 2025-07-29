@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v14-14-0]]
+=== II Crônicas, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 14 narra a história do rei Asa de Judá, que fez o que era bom e reto perante o Senhor, fortalecendo as cidades de Judá e vencendo uma grande batalha contra o exército etíope que o ameaçava. Os versículos selecionados são:
+* Deuteronômio 20:4 - "Pois o Senhor, o seu Deus, os acompanha e lutará por vocês contra os seus inimigos, para dar a vitória a vocês." Este versículo ilustra como Asa foi vitorioso na batalha contra os etíopes porque contou com a ajuda de Deus.
+* Provérbios 21:31 - "O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor." Este versículo destaca a importância de se preparar para a batalha, mas a vitória é concedida pelo Senhor.
+* Salmos 33:16-17 - "O rei não se salva pelo tamanho do seu exército; o guerreiro não escapa pela sua grande força. O cavalo é vã esperança de vitória; apesar de sua grande força, é incapaz de salvar." Este versículo enfatiza que a vitória não depende apenas do tamanho ou da força do exército, mas da ajuda de Deus.
+* 2 Crônicas 20:12 - "Não sabemos o que fazer, mas os nossos olhos se voltam para ti." Este versículo mostra a confiança de Asa em Deus e sua dependência da orientação divina.
+* 2 Crônicas 20:17 - "Não precisarão lutar nessa batalha. Tomem suas posições; permaneçam firmes e vejam o livramento que o Senhor lhes dará, ó Judá e Jerusalém. Não tenham medo nem desanimem. Saiam para enfrentá-los amanhã, e o Senhor estará com vocês’". Este versículo mostra como Deus garantiu a vitória para Asa e seu exército sem a necessidade de lutar na batalha.
+****
+
+[[v14-14-1]]
+
+^<<v14-14-1,1>>^ Abia adormeceu com seus pais, e sepultaram-no na cidade de Davide. Em seu lugar reinou Asa, seu filho, em cujo tempo esteve o país em paz durante dez anos.
+
+[[v14-14-2]]
+
+^<<v14-14-2,2>>^ Asa fez o que era justo e agradável aos olhos do seu Deus. Destruiu os altares de culto estranho, e os (altares dos) lugares altos (consagrados aos ídolos).
+
+[[v14-14-3]]
+
+^<<v14-14-3,3>>^ Quebrou as estátuas, cortou os ascheras
+
+[[v14-14-4]]
+
+^<<v14-14-4,4>>^ e ordenou a Judá que buscasse o Senhor Deus de seus pais e observasse a lei e todos os preceitos,
+
+[[v14-14-5]]
+
+^<<v14-14-5,5>>^ e tirou de todas as cidades de Judá os lugares altos e as estátuas.
+
+[[v14-14-6]]
+
+^<<v14-14-6,6>>^ Mandou reparar as cidades fortes de Judá, porque estava em sossego, não havia guerra alguma em seus dias, por lhe ter o Senhor concedido a paz.
+
+[[v14-14-7]]
+
+^<<v14-14-7,7>>^ Disse a Judá: Reparemos estas cidades, cinjamo-las de muros e fortifiquemo-Ias com torres, portas e fechaduras, enquanto tudo está livre de guerras, porque buscamos o Senhor Deus de nossos pais, e ele nos deu paz com os povos vizinhos. Repararam, pois, as praças, e não apareceu nada que os estorvasse.
+
+[[v14-14-8]]
+
+^<<v14-14-8,8>>^ Asa teve no seu exército trezentos mil homens de Judá, armados de escudos e lanças, e de Benjamim duzentos e oitenta mil homens, armados de escudos e de flechas, todos eles homens fortíssimos.
+
+[[v14-14-9]]
+
+^<<v14-14-9,9>>^ Zara Etíope foi contra eles com o seu exército, composto dum milhão de homens e trezentos carros, e chegou até Maresa.
+
+[[v14-14-10]]
+
+^<<v14-14-10,10>>^ Asa marchou ao seu encontro e formou o exército em batalha no vale de Sefata, que está perto de Maresa.
+
+[[v14-14-11]]
+
+^<<v14-14-11,11>>^ Asa invocou o Senhor Deus, dizendo: Senhor, não há diferença alguma para ti entre o socorrer o fraco ou o forte; socorre-nos, pois, Senhor nosso Deus, porque, confiados em ti e no teu nome, viemos contra esta multidão. Senhor, tu és o nosso Deus, não prevaleça o homem contra ti.
+
+[[v14-14-12]]
+
+^<<v14-14-12,12>>^ O Senhor desbaratou os Etíopes, à vista de Asa e de Judá, e os Etíopes fugiram.
+
+[[v14-14-13]]
+
+^<<v14-14-13,13>>^ Asa e o povo, que com ele estava, foram-nos perseguindo até Gerara, e os Etíopes foram derrotados sem ficar nenhum, porque foram destroçados pelo Senhor e pelo seu exército. (Judá e Benjamim) levaram muitos despojos.
+
+[[v14-14-14]]
+
+^<<v14-14-14,14>>^ Destruíram todas as cidades nos arredores de Gerara, porque um grande temor se tinha apossado de todos, e saquearam as cidades, donde levaram grande presa.
+
+[[v14-14-15]]
+
+^<<v14-14-15,15>>^ Atacaram também os recintos dos animais e levaram consigo uma grande quantidade de ovelhas e de camelos. Depois voltaram para Jerusalém.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-013.adoc#v14-13-0[&#60; Capítulo Anterior] | <<v14-14-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-015.adoc#v14-15-0[Próximo Capítulo &#62;]

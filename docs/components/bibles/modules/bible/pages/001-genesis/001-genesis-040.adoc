@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v1-40-0]]
+=== Gênesis, 40
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 40 conta a história de José na prisão, onde ele encontra dois servos do faraó que foram presos por terem desagradado o faraó. Eles tiveram sonhos e José, por sua vez, interpretou seus sonhos, prevendo que um seria libertado e o outro executado. Aqui estão cinco versículos relacionados aos temas do capítulo:
+* Salmos 146:7: "Ele defende a causa dos oprimidos e dá alimento aos famintos." José estava preso injustamente, mas Deus estava com ele e lhe deu sabedoria para interpretar os sonhos dos servos. Este versículo ressalta a bondade e a justiça de Deus, que protege os oprimidos e atende às suas necessidades.
+* Eclesiastes 3:1: "Para tudo há uma ocasião certa; há um tempo certo para cada propósito debaixo do céu." O fato de que um dos servos seria libertado e o outro executado demonstra como as coisas acontecem no tempo certo de Deus. Este versículo nos lembra que há um propósito e um tempo para tudo o que acontece em nossas vidas.
+* Isaías 42:6-7: "Eu, o Senhor, o chamei em justiça; tomei-o pela mão e o guardei; dei-o como aliança para o povo e como luz para as nações." José foi chamado por Deus para interpretar os sonhos dos servos e, dessa forma, tornou-se uma luz para eles. Este versículo mostra como Deus nos chama para cumprir um propósito específico em nossas vidas.
+* Provérbios 16:3: "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." José confiou em Deus mesmo durante sua prisão injusta, e Deus o abençoou com sabedoria e favor. Este versículo nos ensina a entregar todos os nossos planos e ações a Deus, confiando que Ele nos conduzirá ao sucesso.
+* Mateus 25:36: "Estive preso e vocês me visitaram". Quando José interpretou os sonhos dos servos, ele demonstrou bondade e cuidado com eles, mesmo estando preso. Este versículo nos lembra que devemos demonstrar amor e cuidado pelos outros, inclusive pelos que estão na prisão, seguindo o exemplo de Jesus.
+****
+
+[[v1-40-1]]
+
+^<<v1-40-1,1>>^ Depois disto, aconteceu que dois eunucos, o copeiro do rei do Egito e o padeiro, pecaram contra o seu senhor.
+
+[[v1-40-2]]
+
+^<<v1-40-2,2>>^ Faraó, irado contra eles (um era chefe dos copeiros, e outro dos padeiros)
+
+[[v1-40-3]]
+
+^<<v1-40-3,3>>^ mandou-os meter no cárcere do chefe da guarda, no qual estava também preso José.
+
+[[v1-40-4]]
+
+^<<v1-40-4,4>>^ O guarda do cárcere entregou-os a José que também os servia. Estiveram um certo tempo, ali, encarcerados.
+
+[[v1-40-5]]
+
+^<<v1-40-5,5>>^ Ambos, numa noite, tiveram um sonho, que, por sua interpretação, se referia a eles.
+
+[[v1-40-6]]
+
+^<<v1-40-6,6>>^ Tendo ido José junto deles, pela manhã, e vendo-os tristes,
+
+[[v1-40-7]]
+
+^<<v1-40-7,7>>^ interrogou-os: Por que razão está hoje o vosso semblante mais triste que de costume?
+
+[[v1-40-8]]
+
+^<<v1-40-8,8>>^ Eles responderam: Tivemos um sonho, e não há quem no-lo interprete. José disse-lhes: Porventura não pertence a Deus a interpretação? Contai-me o que vistes.
+
+[[v1-40-9]]
+
+^<<v1-40-9,9>>^ O copeiro-mor foi o primeiro que contou o seu sonho: Eu via diante de mim uma cepa,
+
+[[v1-40-10]]
+
+^<<v1-40-10,10>>^ na qual havia três varas, crescer pouco a pouco em gomos, e, depois das flores, amadurecerem as uvas.
+
+[[v1-40-11]]
+
+^<<v1-40-11,11>>^ (Eu tinha) a taça de Faraó na minha mão; tomei as uvas, espremi-as na taça, que tinha na mão, e apresentei de beber a Faraó.
+
+[[v1-40-12]]
+
+^<<v1-40-12,12>>^ José respondeu: A interpretação do sonho é esta: As três varas são três dias ainda (que aqui estarás),
+
+[[v1-40-13]]
+
+^<<v1-40-13,13>>^ depois dos quais se lembrará Faraó dos teus serviços e te restituirá ao antigo cargo: tu lhe apresentarás a taça conforme o teu oficio, como costumavas fazer antes.
+
+[[v1-40-14]]
+
+^<<v1-40-14,14>>^ Sòmente lembra-te de mim e usa para comigo de compaixão, quando fores feliz; solicita a Faraó que me tire deste cárcere,
+
+[[v1-40-15]]
+
+^<<v1-40-15,15>>^ porque, por fraude, fui tirado da terra dos Hebreus, e, estando inocente, fui lançado nesta prisão.
+
+[[v1-40-16]]
+
+^<<v1-40-16,16>>^ Vendo o padeiro-mor que (José) tinha interpretado sabiamente o sonho, disse: Também eu tive um sonho: (parecia-me) ter três cestos de farinha sobre a minha cabeça,
+
+[[v1-40-17]]
+
+^<<v1-40-17,17>>^ e que, no cesto que estava mais alto, levava todos os manjares, que a arte de padeiro pode preparar, e que as aves comiam dele.
+
+[[v1-40-18]]
+
+^<<v1-40-18,18>>^ José respondeu: A interpretação do sonho é esta: Os três cestos são três dias ainda (que te restam),
+
+[[v1-40-19]]
+
+^<<v1-40-19,19>>^ depois dos quais Faraó mandará tirar-te a cabeça, te suspenderá em uma forca, e as aves devorarão as tuas carnes.
+
+[[v1-40-20]]
+
+^<<v1-40-20,20>>^ (Com efeito) três dias depois, era o dia do nascimento de Faraó, o qual, dando um grande banquete aos seus criados, se lembrou à mesa do copeiro-mór e do padeiro-mór.
+
+[[v1-40-21]]
+
+^<<v1-40-21,21>>^ Restituiu um ao seu lugar, para lhe ministrar a taça,
+
+[[v1-40-22]]
+
+^<<v1-40-22,22>>^ e mandou suspender o outro num patíbulo, pelo que foi comprovada a verdade do intérprete.
+
+[[v1-40-23]]
+
+^<<v1-40-23,23>>^ Não obstante sucederem-lhe prôsperamente as coisas, o copeiro-mór esqueceu-se do seu intérprete.
+
+'''
+
+xref:001-genesis/001-genesis-039.adoc#v1-39-0[&#60; Capítulo Anterior] | <<v1-40-0,Topo>> | xref:001-genesis/001-genesis-041.adoc#v1-41-0[Próximo Capítulo &#62;]

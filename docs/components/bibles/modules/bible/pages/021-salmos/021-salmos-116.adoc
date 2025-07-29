@@ -1,0 +1,27 @@
+include::./index.adoc[]
+
+[[v21-116-0]]
+=== Salmos, 116
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 116 é um cântico de agradecimento por livramento de uma situação de aflição. O salmista declara seu amor pelo Senhor e reconhece que somente Ele é capaz de livrá-lo da morte. O salmista também declara sua disposição em oferecer um sacrifício de agradecimento e servir ao Senhor.
+* Salmos 30:2-3: "Senhor meu Deus, clamei a ti por socorro, e tu me curaste. Senhor, tiraste a minha alma da sepultura; prestes a descer à cova, devolveste-me a vida." Este verso fala sobre a cura e livramento do salmista, assim como no Salmo 116. O salmista reconhece que Deus é quem pode curar e salvar.
+* Salmos 56:12-13: "Farei os votos que te fiz, ó Deus; a ti apresentarei minhas ofertas de gratidão. Pois tu me livraste da morte e os meus pés de tropeçarem, para que eu ande diante de Deus na luz da vida." Assim como no Salmo 116, o salmista aqui reconhece que foi livrado da morte pelo Senhor e promete fazer votos e ofertas de gratidão.
+* Salmos 66:16-19: "Venham e ouçam todos vocês que temem a Deus; vou contar-lhes o que ele fez por mim. Clamei a ele com a boca; louvei-o com a língua. Se eu tivesse mantido o pecado no coração, o Senhor não me teria ouvido; mas Deus me ouviu; deu atenção à minha oração." Este verso destaca a importância de clamar e louvar a Deus, assim como o salmista fez em sua aflição no Salmo 116.
+* Salmos 118:17: "Não morrerei; mas vivo ficarei para anunciar o que o Senhor fez." Este verso é uma declaração de vitória e agradecimento pelo livramento do Senhor. O salmista reconhece que foi salvo da morte e agora tem o propósito de anunciar o que o Senhor fez.
+* Salmos 146:7-8: "Ele defende a causa dos oprimidos e dá alimento aos famintos. O Senhor liberta os presos; o Senhor dá vista aos cegos, o Senhor levanta os abatidos; o Senhor ama os justos." Este verso destaca as ações de Deus em favor dos necessitados, e sua disposição em livrar e curar os que clamam por Ele, assim como no Salmo 116.
+****
+
+[[v21-116-1]]
+
+^<<v21-116-1,1>>^ Aleluia. Nações, louvai todas o Senhor, ó povos todos glorificai-o, (ver nota)
+
+[[v21-116-2]]
+
+^<<v21-116-2,2>>^ porque sobre nós foi confirmada a sua misericórdia, e a fidelidade do Senhor permanece eternamente.
+
+'''
+
+xref:021-salmos/021-salmos-115.adoc#v21-115-0[&#60; Capítulo Anterior] | <<v21-116-0,Topo>> | xref:021-salmos/021-salmos-117.adoc#v21-117-0[Próximo Capítulo &#62;]

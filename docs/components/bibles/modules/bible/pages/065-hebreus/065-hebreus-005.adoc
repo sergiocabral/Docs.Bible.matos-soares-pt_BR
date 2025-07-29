@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v65-5-0]]
+=== Hebreus, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Hebreus 5 trata da importância do sacerdócio e do papel do Sumo Sacerdote em oferecer sacrifícios pelos pecados do povo. O autor compara o Sumo Sacerdote a Jesus Cristo, destacando que Jesus também foi chamado por Deus para ser Sumo Sacerdote e oferecer sacrifícios pelos pecados da humanidade. O capítulo também aborda a necessidade de maturidade espiritual e conhecimento da palavra de Deus para poder discernir entre o bem e o mal. Abaixo estão cinco versículos relacionados com os temas abordados em Hebreus 5, colocados em ordem de proximidade com os temas do capítulo.
+* Levítico 16:34: "E isto será um estatuto perpétuo para vós, a fim de que possais fazer expiação pelos filhos de Israel por todos os seus pecados, uma vez por ano. E ele fez como o Senhor lhe ordenara." Este versículo fala sobre a importância do Sumo Sacerdote em oferecer sacrifícios pelos pecados do povo, um tema central em Hebreus 5.
+* Salmos 110:4: "O Senhor jurou e não se arrependerá: 'Tu és sacerdote para sempre segundo a ordem de Melquisedeque'". Este versículo é citado em Hebreus 5:6, onde o autor destaca que Jesus Cristo foi nomeado Sumo Sacerdote por Deus, assim como Melquisedeque.
+* Provérbios 3:1-2: "Filho meu, não te esqueças da minha lei, mas guarda no teu coração os meus mandamentos; pois eles prolongarão os teus dias e te acrescentarão anos de vida e paz." Este versículo fala sobre a importância de conhecer e seguir a palavra de Deus, um tema abordado em Hebreus 5:12-14.
+* Hebreus 4:15: "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; antes, foi ele tentado em todas as coisas, à nossa semelhança, mas sem pecado." Este versículo destaca a semelhança entre Jesus Cristo e o Sumo Sacerdote em termos de sua humanidade e capacidade de compreender as fraquezas humanas.
+* Hebreus 6:1: "Por isso, deixando os rudimentos da doutrina de Cristo, prossigamos até a perfeição, não lançando de novo o fundamento de arrependimento de obras mortas e de fé em Deus." Este versículo fala sobre a necessidade de maturidade espiritual e crescimento na fé, um tema central em Hebreus 5.
+****
+
+[[v65-5-1]]
+
+^<<v65-5-1,1>>^ Todo pontífice, tomado dentre os homens, é constituído a favor dos homens naquelas coisas que se referem a Deus, para que ofereça dons e sacrifícios pelos pecados,
+
+[[v65-5-2]]
+
+^<<v65-5-2,2>>^ o qual se possa condoer daqueles que ignoram e erram, porque também está cercado de enfermidade;
+
+[[v65-5-3]]
+
+^<<v65-5-3,3>>^ por isso deve oferecer sacrifícios pelos seus próprios pecados, como pelos do povo.
+
+[[v65-5-4]]
+
+^<<v65-5-4,4>>^ E nenhum se arroga esta honra, senão o que é chamado por Deus, como Aarão.
+
+[[v65-5-5]]
+
+^<<v65-5-5,5>>^ Por isso mesmo, Cristo não se deu a si mesmo a glória de ser pontífice, mas recebeu-a daquele que lhe disse: Tu és meu Filho, eu hoje te gerei (Ps. 2, 7).
+
+[[v65-5-6]]
+
+^<<v65-5-6,6>>^ Como também diz noutro lugar: Tu és sacerdote eternamente, segundo a ordem de Melquisedeque (Ps. 109, 4).
+
+[[v65-5-7]]
+
+^<<v65-5-7,7>>^ Nos dias da sua vida mortal, oferecendo, com grande brado e com lágrimas, preces e súplicas, ao que o podia salvar da morte (pela ressurreição), foi atendido pela sua piedade (para com Deus),
+
+[[v65-5-8]]
+
+^<<v65-5-8,8>>^ e, embora fosse Filho de Deus, (e conhecesse tudo), aprendeu (por experiência própria) a obediência pelas coisas que sofreu;
+
+[[v65-5-9]]
+
+^<<v65-5-9,9>>^ consumado em perfeição, tornou-se a causa da salvação eterna para todos os que lhe obedecem,
+
+[[v65-5-10]]
+
+^<<v65-5-10,10>>^ sendo chamado por Deus pontífice segundo a ordem de Melquisedeque.
+
+[[v65-5-11]]
+
+^<<v65-5-11,11>>^ Sobre este assunto (do sacerdócio de Cristo) tínhamos muitas coisas que dizer, e coisas difíceis de explicar, porque vos tornastes tardos para compreender.
+
+[[v65-5-12]]
+
+^<<v65-5-12,12>>^ Com efeito, devendo vós ser já mestres, atendendo ao tempo (decorrido desde que vos convertestes), tendes ainda necessidade de que novamente vos ensinem os primeiros rudimentos da palavra de Deus: tornaste-vos tais que tendes necessidade de leite, e não de alimento sólido.
+
+[[v65-5-13]]
+
+^<<v65-5-13,13>>^ Ora o que está ainda a leite, é incapaz da doutrina da justiça, porque é menino. (ver nota)
+
+[[v65-5-14]]
+
+^<<v65-5-14,14>>^ O alimento sólido, porém, é para os perfeitos, para aqueles que pelo hábito têm os sentidos exercitados para discernir o bem e o mal.
+
+'''
+
+xref:065-hebreus/065-hebreus-004.adoc#v65-4-0[&#60; Capítulo Anterior] | <<v65-5-0,Topo>> | xref:065-hebreus/065-hebreus-006.adoc#v65-6-0[Próximo Capítulo &#62;]

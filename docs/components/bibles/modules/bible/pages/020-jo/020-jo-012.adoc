@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v20-12-0]]
+=== Jó, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 12 é um capítulo em que Jó responde a Zofar, um dos amigos que o visitam e tentam consolá-lo em meio às suas aflições. Jó refuta a posição de Zofar, afirmando que a sabedoria não é exclusividade dos amigos, mas também é concedida por Deus aos que sofrem. Ele fala sobre a soberania de Deus e a natureza passageira da vida humana. Abaixo estão cinco versículos relacionados com os temas abordados em Jó 12:
+* Salmos 147:5 - "Grande é o nosso Senhor e tremendo, acima de todos os deuses." Este versículo destaca a soberania de Deus, um tema recorrente em Jó 12.
+* Tiago 1:5 - "Mas, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não censura, e ser-lhe-á dada." Jó 12 fala sobre a sabedoria concedida por Deus aos que sofrem, e este versículo em Tiago reforça essa ideia.
+* Salmos 90:10 - "Os dias dos nossos anos são setenta anos, e se alguns, pela sua robustez, chegam a oitenta anos, o orgulho deles é canseira e enfado, pois cedo se corta e vamos voando." Assim como Jó, este versículo destaca a brevidade da vida humana.
+* Isaías 40:28 - "Não sabes, não ouviste que o eterno Deus, o SENHOR, o Criador dos fins da terra, nem se cansa nem se fatiga? É inescrutável o seu entendimento." Este versículo reforça a soberania e a infinitude de Deus, temas presentes em Jó 12.
+* Provérbios 3:5-6 - "Confia no SENHOR de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo destaca a importância da confiança em Deus, um tema presente em Jó 12.
+****
+
+[[v20-12-1]]
+
+^<<v20-12-1,1>>^ Mas Job, respondendo, disse: (ver nota)
+
+[[v20-12-2]]
+
+^<<v20-12-2,2>>^ Em verdade, só vós sois homens (sábios), e convosco morrerá a sabedoria!
+
+[[v20-12-3]]
+
+^<<v20-12-3,3>>^ Eu também tenho entendimento como vós, e não vos sou inferior; pois quem ignora isso que vós sabeis? (ver nota)
+
+[[v20-12-4]]
+
+^<<v20-12-4,4>>^ Sou objecto de riso dos meus amigos, eu que invocava Deus e a quem Deus respondia; objecto de riso o justo, o inocente!...
+
+[[v20-12-5]]
+
+^<<v20-12-5,5>>^ Desprezo ao desgraçado! Assim pensa o que é ditoso. Desprezo aquele cujos pés vacilam.
+
+[[v20-12-6]]
+
+^<<v20-12-6,6>>^ As casas dos ladrões estão na abundância, seguros estão os que atrevidamente provocam a Deus e que não têm outro deus senão o seu braço.
+
+[[v20-12-7]]
+
+^<<v20-12-7,7>>^ Pergunta, porém, aos animais, e eles te ensinarão, às aves do céu, e elas te indicarão.
+
+[[v20-12-8]]
+
+^<<v20-12-8,8>>^ Fala com a terra, e ela te responderá, e os peixes do mar te instruirão. (ver nota)
+
+[[v20-12-9]]
+
+^<<v20-12-9,9>>^ Quem ignora que a mão de Deus fez todas as coisas,
+
+[[v20-12-10]]
+
+^<<v20-12-10,10>>^ que ele tem na sua mão a alma de todo o vivente, e o sopro da vida de toda a carne humana.
+
+[[v20-12-11]]
+
+^<<v20-12-11,11>>^ Porventura o ouvido não distingue as palavras, como o paladar distingue o sabor dos alimentos ?
+
+[[v20-12-12]]
+
+^<<v20-12-12,12>>^ A sabedoria acha-se nos velhos, e a prudência na vida dilatada. (ver nota)
+
+[[v20-12-13]]
+
+^<<v20-12-13,13>>^ A sabedoria e a fortaleza estão em Deus; ele possui o conselho e a inteligência.
+
+[[v20-12-14]]
+
+^<<v20-12-14,14>>^ Se ele destruir, ninguém há que edifique, se aprisionar um homem, ninguém há que o solte.
+
+[[v20-12-15]]
+
+^<<v20-12-15,15>>^ Se retiver as águas, tudo secará, e, se as soltar, submergirão a terra.
+
+[[v20-12-16]]
+
+^<<v20-12-16,16>>^ Nele residem a fortaleza e a sabedoria; ele conhece o enganador e o que é enganado.
+
+[[v20-12-17]]
+
+^<<v20-12-17,17>>^ Ele conduz os conselheiros a um fim insensato, e conduz os juízes à estupidez. (ver nota)
+
+[[v20-12-18]]
+
+^<<v20-12-18,18>>^ Ele desata o cinturão dos reis, e cinge os seus rins com uma corda.
+
+[[v20-12-19]]
+
+^<<v20-12-19,19>>^ Deixa ir os sacerdotes sem glória, e abate os poderosos.
+
+[[v20-12-20]]
+
+^<<v20-12-20,20>>^ Troca as palavras dos homens mais hábeis, e tira o conselho aos velhos.
+
+[[v20-12-21]]
+
+^<<v20-12-21,21>>^ Faz cair o desprezo sobre os príncipes, e afrouxa a cintura dos fortes.
+
+[[v20-12-22]]
+
+^<<v20-12-22,22>>^ Tira das trevas as coisas mais ocultas, e traz à luz a (própria) sombra da morte.
+
+[[v20-12-23]]
+
+^<<v20-12-23,23>>^ Multiplica as nações e as destrói, e, depois de destruídas, as restitui ao seu primeiro estado.
+
+[[v20-12-24]]
+
+^<<v20-12-24,24>>^ Ele muda o coração dos príncipes do povo da terra, transvia-os em desertos sem caminhos;
+
+[[v20-12-25]]
+
+^<<v20-12-25,25>>^ Job faz uma longa enumeração dos males que, por permissão de Deus, sobrevêm a toda a classe de pessoas e de povos, para mostrar não tanto o seu poder como a independência em que está a sua ação dos méritos dessas pessoas e povos.
+
+[[v20-12-26]]
+
+^<<v20-12-26,26>>^ andam às apalpadelas nas trevas, longe da luz; fá-los andar errantes como ébrios.
+
+'''
+
+xref:020-jo/020-jo-011.adoc#v20-11-0[&#60; Capítulo Anterior] | <<v20-12-0,Topo>> | xref:020-jo/020-jo-013.adoc#v20-13-0[Próximo Capítulo &#62;]

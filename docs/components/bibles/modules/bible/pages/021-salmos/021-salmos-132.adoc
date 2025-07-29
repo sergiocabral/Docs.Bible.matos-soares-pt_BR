@@ -1,0 +1,31 @@
+include::./index.adoc[]
+
+[[v21-132-0]]
+=== Salmos, 132
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 132 é uma oração pelo favor divino sobre o rei Davi e sua dinastia, pedindo a Deus que cumpra suas promessas e estabeleça seu trono para sempre em Jerusalém. Os temas abordados incluem a fidelidade de Deus às suas promessas, o papel do rei como líder e protetor do povo e a importância do templo em Jerusalém como local de adoração. Abaixo estão cinco versículos relacionados com esses temas:
+* 2 Samuel 7:16: "E a tua casa e o teu reino serão firmados para sempre diante de ti; teu trono será estabelecido para sempre." Esta é a promessa de Deus a Davi de que sua dinastia seria estabelecida para sempre.
+* Salmo 2:6: "Fui eu que consagrei o meu rei em Sião, meu santo monte." Este versículo fala sobre a instalação do rei escolhido por Deus em seu trono em Jerusalém.
+* 2 Crônicas 6:41: "Agora, pois, levanta-te, SENHOR Deus, para o teu lugar de descanso, tu e a arca do teu poder; sejam os teus sacerdotes, ó SENHOR Deus, vestidos de salvação, e os teus santos exultem no bem." Este versículo fala sobre a importância do templo em Jerusalém como local de adoração e invoca a presença de Deus ali.
+* Salmo 72:4: "Que ele faça justiça aos pobres do povo, salve os filhos dos necessitados e esmague o opressor." Este versículo descreve o papel do rei como líder e protetor do povo.
+* Salmo 89:34: "Não violarei a minha aliança nem alterarei o que saiu dos meus lábios." Este versículo enfatiza a fidelidade de Deus em cumprir suas promessas e manter sua aliança com o povo.
+****
+
+[[v21-132-1]]
+
+^<<v21-132-1,1>>^ Cântico das subidas. Eia! bendizei ao Senhor, vós, todos os servos do Senhor, vós que assistis na casa do Senhor, durante as horas nocturnas.
+
+[[v21-132-2]]
+
+^<<v21-132-2,2>>^ E como um azeite precioso derramado na cabeça, que desce sobre a barba, a barba de Aarão, que desce sobre a orla do seu vestido; (ver nota)
+
+[[v21-132-3]]
+
+^<<v21-132-3,3>>^ é como o orvalho do Hermon, que desce sobre o monte Sião; o Senhor derrama ali a sua bênção, a vida para sempre.
+
+'''
+
+xref:021-salmos/021-salmos-131.adoc#v21-131-0[&#60; Capítulo Anterior] | <<v21-132-0,Topo>> | xref:021-salmos/021-salmos-133.adoc#v21-133-0[Próximo Capítulo &#62;]

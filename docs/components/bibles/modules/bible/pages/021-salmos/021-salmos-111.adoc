@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v21-111-0]]
+=== Salmos, 111
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 111 é um cântico de louvor a Deus, destacando sua grandeza e poder, bem como suas obras maravilhosas em favor do seu povo. O salmista começa o salmo proclamando que dará graças ao Senhor de todo o coração e com a assembleia dos justos (v. 1). A seguir, ele lista algumas das grandes obras que Deus realizou em favor do seu povo. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 111:
+* Salmos 92:4: "Pois tu, Senhor, me alegraste pelos teus feitos; exultarei nas obras das tuas mãos." Este versículo destaca a alegria que o salmista sente ao contemplar as obras maravilhosas de Deus, o que é um tema comum ao Salmo 111.
+* Salmos 103:2: "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios." Assim como o Salmo 111, este versículo enfatiza a importância de lembrar das grandes obras de Deus e de dar graças a ele por suas bênçãos.
+* Salmos 145:4: "Uma geração louvará as tuas obras à outra, e anunciará os teus poderosos feitos." Este versículo destaca a importância de compartilhar o testemunho das grandes obras de Deus de uma geração para outra, o que está em linha com o tema do Salmo 111.
+* Salmos 107:31: "Exaltem-no na congregação do povo, e o louvem na assembleia dos anciãos." Este versículo destaca a importância de louvar a Deus em comunidade, o que é um tema central no Salmo 111.
+* Salmos 139:14: "Eu te louvo, porque de um modo terrível e tão maravilhoso fui formado; maravilhosas são as tuas obras, e a minha alma o sabe muito bem." Este versículo enfatiza a maravilha da criação humana e destaca a grandeza das obras de Deus, o que está em linha com os temas abordados no Salmo 111.
+****
+
+[[v21-111-1]]
+
+^<<v21-111-1,1>>^ Aleluia. Bem-aventurado o homem que teme o Senhor, que põe as suas delícias nos seus mandamentos.
+
+[[v21-111-2]]
+
+^<<v21-111-2,2>>^ Poderosa será a sua posteridade sobre a terra; bendita será a geração dos justos.
+
+[[v21-111-3]]
+
+^<<v21-111-3,3>>^ Haverá abundância e riquezas na sua casa, e a sua munificência durará sempre.
+
+[[v21-111-4]]
+
+^<<v21-111-4,4>>^ Nas trevas (do infortúnio) surge como uma luz para os rectos; (ele é) clemente, misericordioso e justo.
+
+[[v21-111-5]]
+
+^<<v21-111-5,5>>^ Ditoso o homem que se compadece e empresta (aos pobres), que dispõe as suas coisas com justiça.
+
+[[v21-111-6]]
+
+^<<v21-111-6,6>>^ Jamais vacilará; a memória do justo será eterna.
+
+[[v21-111-7]]
+
+^<<v21-111-7,7>>^ Não temerá ouvir notícias funestas; o seu coração está firme, esperando no Senhor.
+
+[[v21-111-8]]
+
+^<<v21-111-8,8>>^ Inalterável está o seu coração, não temerá, até que veja os seus adversários confundidos.
+
+[[v21-111-9]]
+
+^<<v21-111-9,9>>^ Distribui, dá aos pobres, a sua munificência durará sempre; o seu poder será exaltado com glória.
+
+[[v21-111-10]]
+
+^<<v21-111-10,10>>^ Vê-lo-á o pecador e se indignará, rangerá os dentes e se consumirá; porém o desejo dos pecadores perecerá.
+
+'''
+
+xref:021-salmos/021-salmos-110.adoc#v21-110-0[&#60; Capítulo Anterior] | <<v21-111-0,Topo>> | xref:021-salmos/021-salmos-112.adoc#v21-112-0[Próximo Capítulo &#62;]

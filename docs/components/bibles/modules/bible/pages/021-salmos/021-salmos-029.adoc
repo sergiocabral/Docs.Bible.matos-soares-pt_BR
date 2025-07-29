@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v21-29-0]]
+=== Salmos, 29
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmo 29 é um cântico de adoração que exalta a majestade e o poder de Deus manifestados na natureza, especialmente na tempestade. A seguir estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Salmo 29.
+* Jó 38:25-27: "Quem abriu canais para as torrentes do dilúvio, e um caminho para o relâmpago dos trovões, para regar a terra deserta e árida, e fazer crescer nela a relva?" Este verso faz parte do discurso de Deus a Jó, em que Ele o lembra de que é o criador e sustentador da natureza. A referência aos trovões e à chuva conecta-se com a descrição da tempestade em Salmo 29.
+* Isaías 30:30: "E o Senhor fará ouvir a sua voz majestosa, e fará ver o abaixamento do seu braço, com indignação ardente e labaredas de fogo consumidor, com turbilhões, tempestades e pedra de saraiva." Este verso fala do juízo de Deus sobre o povo de Israel, que virá com tempestade e fogo. A linguagem da tempestade e do trovão novamente se relaciona com o Salmo 29.
+* Jeremias 10:13: "Quando ele troveja, as águas rugem nos céus; ele faz subir as nuvens desde os confins da terra, faz os relâmpagos para a chuva, e faz sair o vento dos seus tesouros." Este verso descreve o poder e a autoridade de Deus sobre a natureza, incluindo o trovão e a chuva. Novamente, esses elementos se conectam com a tempestade descrita em Salmo 29.
+* Ezequiel 1:24: "E, quando andavam, ouvia-se o ruído das suas asas, como o ruído de muitas águas, como a voz do Onipotente, um estrondo como o barulho de um exército em movimento; e, parando eles, abaixavam as suas asas." Este verso descreve uma visão do profeta Ezequiel, em que ele vê criaturas celestiais com asas que fazem um som semelhante ao das águas e à voz de Deus. O som das águas é outra imagem que aparece no Salmo 29.
+* Apocalipse 4:5-6: "E do trono saíam raios, vozes e trovões; diante do trono ardiam sete lâmpadas de fogo, que são os sete espíritos de Deus; e diante do trono havia como que um mar de vidro, semelhante ao cristal." Este verso descreve a visão de João do trono de Deus no céu, cercado por fenômenos naturais poderosos, incluindo trovões e um mar de vidro. A imagem do trono e do trovão se relaciona com o tema de Deus como o governante soberano e poderoso apresentado no Salmo 29.
+****
+
+[[v21-29-1]]
+
+^<<v21-29-1,1>>^ Salmo. Cântico para a festa da dedicação do Templo. De Davide.
+
+[[v21-29-2]]
+
+^<<v21-29-2,2>>^ Eu te exaltarei, Senhor, porque me libertaste e não permitiste que os meus inimigos se alegrassem à minha custa.
+
+[[v21-29-3]]
+
+^<<v21-29-3,3>>^ Senhor, meu Deus, clamei a ti, e tu me saraste;
+
+[[v21-29-4]]
+
+^<<v21-29-4,4>>^ Senhor, tiraste dos infernos a minha alma, puseste-me a salvo dos que descem à cova.
+
+[[v21-29-5]]
+
+^<<v21-29-5,5>>^ Santos do Senhor, cantai-lhe salmos, dai graças ao seu santo nome,
+
+[[v21-29-6]]
+
+^<<v21-29-6,6>>^ Efectivamente a sua indignação dura um instante, e a sua benevolência dura toda a vida. De tarde estaremos em lágrimas, e de manhã em alegria.
+
+[[v21-29-7]]
+
+^<<v21-29-7,7>>^ Eu porém disse seguro de mim: "Não terei jamais mudança."
+
+[[v21-29-8]]
+
+^<<v21-29-8,8>>^ Senhor, foi por teu favor que me concedeste honra e poderio; apenas escondeste de mim o teu rosto, fiquei conturbado.
+
+[[v21-29-9]]
+
+^<<v21-29-9,9>>^ A ti, Senhor, clamo, imploro a misericórdia do meu Deus:
+
+[[v21-29-10]]
+
+^<<v21-29-10,10>>^ "Que vantagem virá do meu sangue, da minha descida à cova? Porventura o pó cantará os teus louvores, ou anunciará a tua fidelidade?"
+
+[[v21-29-11]]
+
+^<<v21-29-11,11>>^ Ouve-me, Senhor, e compadece-te de mim; Senhor sê o meu protector.
+
+[[v21-29-12]]
+
+^<<v21-29-12,12>>^ Converteste-me o meu pranto em dança (de júbilo), tu desataste o meu saco (de penitência) e cingiste-me de alegria,
+
+[[v21-29-13]]
+
+^<<v21-29-13,13>>^ para que a minha alma te cante e não se cale. Senhor, Deus meu, eu te louvarei eternamente.
+
+'''
+
+xref:021-salmos/021-salmos-028.adoc#v21-28-0[&#60; Capítulo Anterior] | <<v21-29-0,Topo>> | xref:021-salmos/021-salmos-030.adoc#v21-30-0[Próximo Capítulo &#62;]

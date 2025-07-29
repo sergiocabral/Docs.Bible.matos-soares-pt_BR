@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v24-7-0]]
+=== Provérbios, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 7 apresenta uma cena em que um jovem é seduzido por uma mulher imoral. O capítulo serve como um alerta para os jovens sobre os perigos da tentação e da falta de discernimento, destacando a importância da sabedoria e da fidelidade.
+* 1 Coríntios 10:12: "Aquele, pois, que cuida estar em pé, olhe não caia." Este versículo alerta que devemos estar vigilantes em relação à tentação e não nos considerarmos imunes à queda.
+* 1 Timóteo 4:12: "Ninguém despreze a tua mocidade, mas sê um exemplo para os fiéis na palavra, no procedimento, no amor, na fé, na pureza." Este versículo exorta os jovens a viverem uma vida de pureza e a serem exemplos de fidelidade e sabedoria.
+* Provérbios 2:16-17: "Livrar-te-á da mulher estranha, da estrangeira que lisonjeia com as suas palavras, a qual deixa o guia da sua mocidade e se esquece da aliança do seu Deus." Este versículo enfatiza a importância de se manter longe da imoralidade sexual e da tentação da mulher estranha.
+* 1 João 2:15-16: "Não ameis o mundo, nem o que há no mundo. Se alguém ama o mundo, o amor do Pai não está nele. Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não vem do Pai, mas do mundo." Este versículo destaca a importância de se afastar do mundo e das suas tentações, incluindo a imoralidade sexual.
+* Provérbios 9:10: "O temor do SENHOR é o princípio da sabedoria, e o conhecimento do Santo é prudência." Este versículo enfatiza a importância de buscar a sabedoria de Deus e temê-lo, como meio de evitar a tentação e a queda na imoralidade sexual.
+****
+
+[[v24-7-1]]
+
+^<<v24-7-1,1>>^ Meu filho, guarda as minhas palavras, esconde no teu coração os meus preceitos.
+
+[[v24-7-2]]
+
+^<<v24-7-2,2>>^ Filho, observa os meus mandamentos, e viverás; (guarda) a minha lei como a menina dos teus olhos.
+
+[[v24-7-3]]
+
+^<<v24-7-3,3>>^ Traze-a ligada aos teus dedos, escreve-a nas tábuas do teu coração.
+
+[[v24-7-4]]
+
+^<<v24-7-4,4>>^ Dize á sabedoria: Tu és minha irmã; e chama à inteligência tua amiga,
+
+[[v24-7-5]]
+
+^<<v24-7-5,5>>^ para que te guardem da mulher estranha, da alheia que tem palavras lúbricas.
+
+[[v24-7-6]]
+
+^<<v24-7-6,6>>^ Da janela de minha casa eu olhava por entre as grades,
+
+[[v24-7-7]]
+
+^<<v24-7-7,7>>^ e vi uns incautos, e (entre eles) notei um jovem insensato, (ver nota)
+
+[[v24-7-8]]
+
+^<<v24-7-8,8>>^ que passava pela rua junto da esquina, e se dirigia para a sua casa,
+
+[[v24-7-9]]
+
+^<<v24-7-9,9>>^ no crepúsculo vespertino, ao chegar das trevas e obscuridade da noite.
+
+[[v24-7-10]]
+
+^<<v24-7-10,10>>^ Eis que uma mulher lhe sai ao encontro, ornada como uma prostituta, de coração dissimulado, faladora e andeja,
+
+[[v24-7-11]]
+
+^<<v24-7-11,11>>^ irrequieta e procaz, cujos pés não podem parar dentro de casa;
+
+[[v24-7-12]]
+
+^<<v24-7-12,12>>^ umas vezes na rua, outras na praça, outras ás esquinas, sempre à espreita.
+
+[[v24-7-13]]
+
+^<<v24-7-13,13>>^ (Esta mulher) apanha o (incauto) jovem, beija-o, e com uma cara sem vergonha faz-lhe carícias dizendo:
+
+[[v24-7-14]]
+
+^<<v24-7-14,14>>^ Eu devia oferecer um sacrifício, hoje cumpri os meus votos;
+
+[[v24-7-15]]
+
+^<<v24-7-15,15>>^ por isso te sai ao encontro, à tua procura, e eis que te achei.
+
+[[v24-7-16]]
+
+^<<v24-7-16,16>>^ Adornei a minha cama com cobertas, cobri-a com colchas bordadas de linho do Egipto;
+
+[[v24-7-17]]
+
+^<<v24-7-17,17>>^ perfumei a minha câmara de mirra, de aloés e de cinamomo.
+
+[[v24-7-18]]
+
+^<<v24-7-18,18>>^ Vem, embriaguemo-nos de amor. gozemos as delícias da sensualidade até que amanheça o dia,
+
+[[v24-7-19]]
+
+^<<v24-7-19,19>>^ porque o meu marido não está em casa; foi fazer uma jornada muito longa.
+
+[[v24-7-20]]
+
+^<<v24-7-20,20>>^ levou consigo a bolsa cheia de dinheiro; lá para o dia da lua cheia é que voltará a sua casa.
+
+[[v24-7-21]]
+
+^<<v24-7-21,21>>^ Meteu-o assim na rede com as suas muitas palavras, arrastou-o com as lisonjas dos seus lábios.
+
+[[v24-7-22]]
+
+^<<v24-7-22,22>>^ Ele segue-a logo, como um boi que é levado para o açougue, como um veado colhido no laço,
+
+[[v24-7-23]]
+
+^<<v24-7-23,23>>^ até que uma seta lhe trespassa o fígado., ou como a ave que, apressada, corre para a armadilha, sem saber que se trata do perigo da sua vida.
+
+[[v24-7-24]]
+
+^<<v24-7-24,24>>^ Ouve-me pois agora, meu filho, e está atento às palavras da minha boca.
+
+[[v24-7-25]]
+
+^<<v24-7-25,25>>^ Não se deixe arrastar o teu espírito pelos caminhos desta mulher, nem sigas, seduzido, as suas veredas.
+
+[[v24-7-26]]
+
+^<<v24-7-26,26>>^ Porque a muitos feriu e derribou, muitos foram mortos por ela.
+
+[[v24-7-27]]
+
+^<<v24-7-27,27>>^ A sua casa é o caminho da sepultura, o qual penetra até às entranhas da morte.
+
+'''
+
+xref:024-proverbios/024-proverbios-006.adoc#v24-6-0[&#60; Capítulo Anterior] | <<v24-7-0,Topo>> | xref:024-proverbios/024-proverbios-008.adoc#v24-8-0[Próximo Capítulo &#62;]

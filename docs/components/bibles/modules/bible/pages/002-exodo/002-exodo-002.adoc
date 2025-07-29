@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v2-2-0]]
+=== Êxodo, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Êxodo 2 relata o nascimento de Moisés e sua fuga do Egito, onde acabou por ser criado na casa de um sacerdote em Midiã. Moisés se tornaria o grande líder dos israelitas e o instrumento de Deus para libertá-los da escravidão egípcia. A seguir, estão cinco versículos de diferentes livros da Bíblia relacionados com os temas abordados em Êxodo 2:
+* Gênesis 39:20: "Assim que José chegou perto da casa, ela pegou-o pela túnica e disse: 'Vamos, deita-te comigo!' Mas ele deixou a túnica nas mãos dela, fugiu e saiu para fora." Esse versículo ilustra a importância da fuga de Moisés do Egito para escapar da morte certa. Moisés teve que fugir para Midiã, assim como José fugiu da sedução da esposa de Potifar.
+* Deuteronômio 32:10: "Encontrou-o numa terra deserta, num ermo de uivos selvagens, cercou-o de cuidados, protegeu-o como a menina dos seus olhos." Este versículo destaca como Deus cuidou de Moisés e o protegeu na terra estrangeira de Midiã, assim como Deus protegeu e cuidou de Israel durante a jornada pelo deserto.
+* Isaías 43:1: "Mas agora, assim diz o Senhor, aquele que o criou, ó Jacó, aquele que o formou, ó Israel: 'Não tema, pois eu o resgatei; eu o chamei pelo nome; você é meu.'" Este versículo mostra como Deus libertou Israel da escravidão egípcia e os chamou pelo nome, assim como Deus usou Moisés para libertar os israelitas e guiá-los ao encontro da aliança com Deus.
+* Hebreus 11:24-25: "Pela fé, Moisés, quando se tornou grande, recusou ser chamado filho da filha do faraó, preferindo ser maltratado com o povo de Deus a desfrutar os prazeres transitórios do pecado." Esse versículo destaca a escolha de Moisés de renunciar ao conforto e privilégio da casa do faraó para estar ao lado do seu povo escravizado e sofrer por causa deles, assim como Jesus renunciou aos seus privilégios divinos para sofrer e morrer pelos pecados do mundo.
+* Êxodo 3:10: "Agora vá, pois eu o estou enviando ao faraó para tirar do Egito o meu povo, os israelitas." Esse versículo inicia a chamada de Moisés por Deus para liderar a libertação dos israelitas da escravidão egípcia, e é o ponto de partida para a missão de Moisés que começou com a sua fuga do Egito e culminou com a entrega da lei e da aliança no Monte Sinai.
+****
+
+[[v2-2-1]]
+
+^<<v2-2-1,1>>^ Depois disto, um homem da família de Levi partiu e tomou para esposa uma mulher da sua estirpe.
+
+[[v2-2-2]]
+
+^<<v2-2-2,2>>^ Ela concebeu e deu à luz um filho, e, vendo-o muito lindo, escondeu-o por espaço de três meses.
+
+[[v2-2-3]]
+
+^<<v2-2-3,3>>^ Todavia não podendo mais tê-lo escondido, tomou um cesto de junco, barrou-lo com betume e pez, meteu dentro o menino e expô-lo num canavial junto da margem do rio,
+
+[[v2-2-4]]
+
+^<<v2-2-4,4>>^ estando ao longe a sua irmã a observar o que (lhe) sucederia.
+
+[[v2-2-5]]
+
+^<<v2-2-5,5>>^ A filha do Faraó veio lavar-se ao rio, e as suas donzelas caminhavam ao longo da margem. Tendo ela visto o cesto no canavial, mandou uma das suas criadas trazer-lho:
+
+[[v2-2-6]]
+
+^<<v2-2-6,6>>^ abrindo-o, e vendo nele um menino que vagia, compadecida dele, disse: Este é um dos meninos dos hebreus.
+
+[[v2-2-7]]
+
+^<<v2-2-7,7>>^ A irmã do menino disse-lhe: Queres que vá e que te chame uma mulher hebreia, que possa aleitar o menino?
+
+[[v2-2-8]]
+
+^<<v2-2-8,8>>^ Ela respondeu: Vai. A donzela partiu e chamou sua mãe.
+
+[[v2-2-9]]
+
+^<<v2-2-9,9>>^ E a filha de Faraó disse-lhe: Toma este menino e aleita-mo: eu te darei a paga. A mulher tomou, aleitou o menino, e, quando estava crescido, entregou-o à filha do Faraó,
+
+[[v2-2-10]]
+
+^<<v2-2-10,10>>^ que o adoptou por filho, e pôs-lhe o nome de Moisés, dizendo: eu o tirei da água.
+
+[[v2-2-11]]
+
+^<<v2-2-11,11>>^ Naqueles dias, sendo Moisés já grande, saiu a visitar seus irmãos e viu a sua aflição. Um dia reparou que um homem egípcio maltratava um dos hebreus seus irmãos.
+
+[[v2-2-12]]
+
+^<<v2-2-12,12>>^ Tendo olhado para uma e outra parte, vendo que não estava ali ninguém, matou o egípcio e escondeu-o na areia.
+
+[[v2-2-13]]
+
+^<<v2-2-13,13>>^ Saindo no dia seguinte, viu dois hebreus rixando, e disse ao agressor: Por que feres o teu próximo?
+
+[[v2-2-14]]
+
+^<<v2-2-14,14>>^ Ele respondeu: Quem te constituiu principe e juiz sobre nós? Acaso queres tu matar-me, como mataste o egípcio? Moisés temeu e disse: Como é que tal coisa se descobriu?
+
+[[v2-2-15]]
+
+^<<v2-2-15,15>>^ Faraó foi informado do acontecimento e procurava matar Moisés; ele, porém, fugindo da sua vista, parou na terra de Madian e assentou-se junto de um poço.
+
+[[v2-2-16]]
+
+^<<v2-2-16,16>>^ Ora o sacerdote de Madian tinha sete filhas, as quais foram tirar água. Tendo enchido as pias, queriam dar de beber aos rebanhos de seu pai,
+
+[[v2-2-17]]
+
+^<<v2-2-17,17>>^ mas sobrevieram os pastores e lançaram-nas fora dali. Moisés levantou-se, e, tomando a defesa das moças, deu de beber às suas ovelhas.
+
+[[v2-2-18]]
+
+^<<v2-2-18,18>>^ Quando elas voltaram para casa de Raquel, seu pai, este disse-lhes: Por que viestes mais cedo do que o costume?
+
+[[v2-2-19]]
+
+^<<v2-2-19,19>>^ Responderam: Um homem egipcio livrou-nos das mãos dos pastores, e, além disso, tirou água connosco e deu de beber às ovelhas.
+
+[[v2-2-20]]
+
+^<<v2-2-20,20>>^ Ele disse: Onde está? Por que deixastes partir esse homem? Chamai-o para comer pão.
+
+[[v2-2-21]]
+
+^<<v2-2-21,21>>^ Consentiu Moisés em ficar em casa dele, e tomou por mulher a Séfora, sua filha.
+
+[[v2-2-22]]
+
+^<<v2-2-22,22>>^ Ela deu à luz um filho, a quem Moisés pôs o nome de Gersão, dizendo: Fui peregrino numa terra estrangeira.
+
+[[v2-2-23]]
+
+^<<v2-2-23,23>>^ Muito tempo depois, porém, morreu o rei do Egipto. Os filhos de Israel, gemendo debaixo do peso dos trabalhos, clamaram, e o seu clamor, por causa dos trabalhos, subiu até Deus,
+
+[[v2-2-24]]
+
+^<<v2-2-24,24>>^ o qual ouviu os seus gemidos, e se lembrou da aliança que tinha feito com Abraão, Isaac e Jacob.
+
+[[v2-2-25]]
+
+^<<v2-2-25,25>>^ O Senhor olhou para os filhos de Israel e reconheceu-os (por seus filhos).
+
+'''
+
+xref:002-exodo/002-exodo-001.adoc#v2-1-0[&#60; Capítulo Anterior] | <<v2-2-0,Topo>> | xref:002-exodo/002-exodo-003.adoc#v2-3-0[Próximo Capítulo &#62;]

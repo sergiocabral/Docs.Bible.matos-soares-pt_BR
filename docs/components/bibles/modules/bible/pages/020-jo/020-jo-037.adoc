@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v20-37-0]]
+=== Jó, 37
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 37 é um capítulo em que Eliú continua a falar sobre a grandeza de Deus, o poder da natureza e a incapacidade do homem em compreender completamente os caminhos de Deus. Abaixo estão cinco versículos relacionados com esses temas:
+* Jó 36:26: "Eis que Deus é grande e não o podemos compreender; o número dos seus anos é inescrutável." Este versículo enfatiza a grandeza e a incompreensibilidade de Deus, um tema central em Jó 37.
+* Jó 38:4: "Onde estavas tu, quando eu fundava a terra? Faze-mo saber, se tens inteligência." Deus está questionando Jó sobre sua capacidade de compreender os caminhos de Deus, destacando a ideia de que o homem é incapaz de entender totalmente a grandeza de Deus.
+* Salmos 147:5: "Grande é o nosso Senhor, e de grande poder; o seu entendimento é infinito." Este versículo destaca a grandeza de Deus e sua sabedoria incompreensível.
+* Isaías 40:26: "Levantai ao alto os vossos olhos, e vede: quem criou estas coisas? Aquele que faz sair o seu exército de estrelas, todas bem contadas, as quais ele chama pelos seus nomes; por ser ele grande em força e forte em poder, nem uma só vem a faltar." Este versículo destaca a grandeza e o poder de Deus, bem como a sua capacidade de criar e manter todas as coisas.
+* Salmos 29:4: "A voz do SENHOR é poderosa; a voz do SENHOR é cheia de majestade." Este versículo fala sobre a voz poderosa de Deus, outro tema presente em Jó 37.
+****
+
+[[v20-37-1]]
+
+^<<v20-37-1,1>>^ Por isto se espantou o meu coração, e (como que) se moveu do seu lugar.
+
+[[v20-37-2]]
+
+^<<v20-37-2,2>>^ Ouvi, ouvi a sua voz terrível, o som que sai da sua boca.
+
+[[v20-37-3]]
+
+^<<v20-37-3,3>>^ Ele o espalha na imensidão dos céus, e a sua luz chega às extremidades da terra.
+
+[[v20-37-4]]
+
+^<<v20-37-4,4>>^ Depois (do relâmpago) ruge o trovão, ribomba com a sua voz majestosa; nada pode deter os raios, quando for ouvida a sua voz.
+
+[[v20-37-5]]
+
+^<<v20-37-5,5>>^ Deus troveja maravilhosamente com a sua voz, ele faz coisas grandes e impenetráveis.
+
+[[v20-37-6]]
+
+^<<v20-37-6,6>>^ Ele manda à neve que caia sobre a terra, e às chuvas copiosas, que sejam fortes.
+
+[[v20-37-7]]
+
+^<<v20-37-7,7>>^ Ele põe um selo sobre a mão de todos os homens, para que cada um conheça as suas obras.
+
+[[v20-37-8]]
+
+^<<v20-37-8,8>>^ A fera mete-se no seu esconderijo, e fica na sua cova.
+
+[[v20-37-9]]
+
+^<<v20-37-9,9>>^ Do austro sai a tempestade, e o frio do setentrião.
+
+[[v20-37-10]]
+
+^<<v20-37-10,10>>^ O gelo forma-se ao sopro de Deus, e depois derramam-se as águas em abundância.
+
+[[v20-37-11]]
+
+^<<v20-37-11,11>>^ Carrega de vapores as nuvens, e as nuvens (com relâmpagos) espalham a sua luz,
+
+[[v20-37-12]]
+
+^<<v20-37-12,12>>^ em todas as direções, girando por onde quer que as conduz a vontade daquele que as governa, executando tudo quanto ele lhes manda sobre a face de toda a terra,
+
+[[v20-37-13]]
+
+^<<v20-37-13,13>>^ quer para castigo do mundo, quer para seu beneficio.
+
+[[v20-37-14]]
+
+^<<v20-37-14,14>>^ Ouve, Job, estas coisas: pára e considera as maravilhas de Deus.
+
+[[v20-37-15]]
+
+^<<v20-37-15,15>>^ Sabes tu porventura como ele as opera, como faz brilhar o relâmpago nas suas nuvens?
+
+[[v20-37-16]]
+
+^<<v20-37-16,16>>^ Porventura conheces como se equilibram no ar as nuvens, e os prodígios daquele que tudo sabe?
+
+[[v20-37-17]]
+
+^<<v20-37-17,17>>^ Como é que as tuas vestes se aquecem, quando o vento do meio-dia sopra sobre a terra?
+
+[[v20-37-18]]
+
+^<<v20-37-18,18>>^ Formaste tu porventura juntamente com ele os céus, que são tão sólidos como um espelho de bronze!
+
+[[v20-37-19]]
+
+^<<v20-37-19,19>>^ (Se é assim) mostra-nos o que lhe poderemos dizer, porque nós, envolvidos em trevas, não sabemos.
+
+[[v20-37-20]]
+
+^<<v20-37-20,20>>^ Quem lhe referirá o que eu digo? Se um homem se atrever a falar, ficará oprimido.
+
+[[v20-37-21]]
+
+^<<v20-37-21,21>>^ Agora (os homens) não vêem a luz, (porque) o ar repentinamente se condensa em nuvens; mas (daqui a um instante, já poderão ver, porque) um vento que passa as dissipará.
+
+[[v20-37-22]]
+
+^<<v20-37-22,22>>^ Do setentrião vem áureo resplendor, e Deus veste-se de terrível majestade.
+
+[[v20-37-23]]
+
+^<<v20-37-23,23>>^ Não podemos alcançar o Omnipotente: ele é grande em fortaleza, em equidade, em sua justiça, não responde a ninguém.
+
+[[v20-37-24]]
+
+^<<v20-37-24,24>>^ Por isso os homens o temerão! Ele não olha para os que se julgam sábios.
+
+'''
+
+xref:020-jo/020-jo-036.adoc#v20-36-0[&#60; Capítulo Anterior] | <<v20-37-0,Topo>> | xref:020-jo/020-jo-038.adoc#v20-38-0[Próximo Capítulo &#62;]

@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v9-21-0]]
+=== I Samuel, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 21 conta como Davi foge de Saul e vai em busca de ajuda do sacerdote Aimeleque. O capítulo aborda temas como fuga, perseguição, mentira, sacrifício e confiança em Deus.
+* Salmos 31:2-3: "Inclina os teus ouvidos para mim, livra-me depressa; sê a minha firme rocha, uma casa fortíssima que me salve. Pois tu és a minha rocha e a minha fortaleza; por causa do teu nome, guia-me e encaminha-me." Este versículo destaca a confiança de Davi em Deus, que busca proteção em meio à perseguição de Saul.
+* Provérbios 12:19: "O lábio veraz permanece para sempre, mas a língua mentirosa dura só um momento." Este versículo fala sobre a importância da honestidade e da verdade, valores que Davi viola ao mentir para Aimeleque sobre sua missão e sobre sua comitiva.
+* Levítico 24:9: "E será de Arão e de seus filhos, e o comerão no lugar santo; porque é coisa santíssima para ele, dos manjares que se queimam ao Senhor. Estatuto perpétuo será." Este versículo fala sobre a lei dos pães da proposição, que Davi pede para Aimeleque e que é violada quando Davi come os pães sagrados destinados somente aos sacerdotes.
+* Salmos 56:13: "Pois tu livraste a minha alma da morte; não livrarás dos meus pés a minha vida, para que eu ande diante de Deus na luz dos viventes?" Este versículo destaca a gratidão de Davi por ter sido protegido por Deus, que o livrou da morte em diversas ocasiões.
+* Salmos 22:22-23: "Então anunciarei o teu nome aos meus irmãos, cantar-te-ei louvores no meio da congregação. Vós que temeis ao Senhor, louvai-o; todos vós, descendência de Jacó, glorificai-o; e temei-o todos vós, descendência de Israel." Este versículo destaca a importância da adoração e do louvor a Deus, que é o que Davi faz ao buscar abrigo em um santuário e oferecer sacrifícios a Deus.
+****
+
+[[v9-21-1]]
+
+^<<v9-21-1,1>>^ Partiu depois Davide para Nobe, para junto do (Sumo) sacerdote Aquimelec. Aquimelec ficou surpreendido com a chegada de Davide e disse-lhe: Como vens tu só, e ninguém vem contigo?
+
+[[v9-21-2]]
+
+^<<v9-21-2,2>>^ Davide respondeu ao (Sumo) sacerdote Aquimelec: O rei deu-me uma ordem e disse: Não saiba ninguém a causa por que te enviei, nem quais as ordens que te dei. Por isso também eu disse aos meus criados que lhe esperassem num certo lugar.
+
+[[v9-21-3]]
+
+^<<v9-21-3,3>>^ E, agora, se tens à mão alguma coisa, ainda que não seja mais que cinco pães, dá-ma, ou o que quer que encontrares.
+
+[[v9-21-4]]
+
+^<<v9-21-4,4>>^ Respondendo o sacerdote a Davide, disse-lhe: Eu não tenho à mão pães vulgares, mas sòmente o pão santo; (todavia eu tos darei) se os teus servos estão limpos, principalmente no que toca a mulheres.
+
+[[v9-21-5]]
+
+^<<v9-21-5,5>>^ Davide, respondendo ao sacerdote, disse-lhe: No tocante a mulheres, certamente temo-nos abstido desde ontem e ante-ontem, depois que partimos, e os vasos dos (meus) criados conservaram-se puros; e, se a nossa missão é profana, pode ser santificada por aquele que a cumpre. (ver nota)
+
+[[v9-21-6]]
+
+^<<v9-21-6,6>>^ O sacerdote deu-lhe, então, do pão santificado, porque não havia ali senão os pães da proposição, que tinham sido tirados da presença do Senhor, para se porem outros quentes.
+
+[[v9-21-7]]
+
+^<<v9-21-7,7>>^ Achava-se ali naquele dia dentro do tabernáculo do Senhor um certo homem dos criados de Saul, chamado Doeg, Idumeu, o mais poderoso dos pastores de Saul.
+
+[[v9-21-8]]
+
+^<<v9-21-8,8>>^ Davide disse a Aquimelec: Tens aqui à mão uma lança ou uma espada? Eu não trouxe comigo a minha espada, nem as minhas armas, porque a ordem do rei urgia.
+
+[[v9-21-9]]
+
+^<<v9-21-9,9>>^ O sacerdote disse: Eis aqui a espada de Golias, Filisteu, que tu mataste no vale do Terebinto; está embrulhada num pano detrás do éfode; se a queres levar, leva-a, porque não há aqui outra senão esta. Davide disse: Não há outra como esta, dá-ma.
+
+[[v9-21-10]]
+
+^<<v9-21-10,10>>^ Levantou-se Davide e fugiu naquele mesmo dia da presença, de Saul, e foi a (refugiar-te em, casa de) Aquis, rei de Get.
+
+[[v9-21-11]]
+
+^<<v9-21-11,11>>^ Os criados de Aquis, tendo visto Davide, disseram ao rei: Porventura não é este aquele Davide (respeitado como) rei do seu país? Não é este aquele a quem cantavam nas danças, dizendo: Saul matou mil, e Davide dez mil?
+
+[[v9-21-12]]
+
+^<<v9-21-12,12>>^ Considerou Davide estas palavras no seu coração, e teve muito medo de Aquis, rei de Get.
+
+[[v9-21-13]]
+
+^<<v9-21-13,13>>^ Então fingiu ter perdido o juízo diante deles. Fez de louco no meio deles, pôs-se a rabiscar nas portas e deixava escorrer a saliva sobre a barba.
+
+[[v9-21-14]]
+
+^<<v9-21-14,14>>^ Aquis disse aos seus criados : Vistes que este homem está louco; por que o trouxestes à minha presença?
+
+[[v9-21-15]]
+
+^<<v9-21-15,15>>^ Porventura faltam-nos loucos, para trazerdes este para fazer loucuras na minha presença? Deve ele entrar em minha casa?
+
+'''
+
+xref:009-i-samuel/009-i-samuel-020.adoc#v9-20-0[&#60; Capítulo Anterior] | <<v9-21-0,Topo>> | xref:009-i-samuel/009-i-samuel-022.adoc#v9-22-0[Próximo Capítulo &#62;]

@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v21-78-0]]
+=== Salmos, 78
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 78 é um poema que fala sobre a importância de ensinar as gerações futuras sobre as maravilhas de Deus e Seus mandamentos. O autor do Salmo usa a história de Israel para mostrar que Deus tem sido fiel ao longo dos anos, mas muitas vezes Seu povo se esquece de Suas bênçãos e rebelam-se contra Ele. A seguir, estão cinco versículos selecionados em ordem de proximidade com os temas do capítulo, mas excluindo os versículos do Salmo 78:
+* Deuteronômio 6:6-7: "E estas palavras que hoje te ordeno estarão no teu coração; e as intimarás a teus filhos e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te e levantando-te." Este versículo enfatiza a importância de ensinar a Palavra de Deus às gerações futuras, não apenas por meio da instrução verbal, mas também por meio de exemplo.
+* Juízes 2:10: "Depois que toda aquela geração foi reunida a seus pais, levantou-se outra geração que não conhecia o Senhor, nem tampouco as obras que fizera por Israel." Este versículo mostra o fracasso do povo de Israel em transmitir a fé e o conhecimento de Deus para as gerações seguintes, o que resultou em sua rebelião.
+* 2 Crônicas 34:31: "Então o rei se pôs em pé no seu lugar, e fez a aliança perante o Senhor, de andar após o Senhor, e de guardar os seus mandamentos, e os seus testemunhos, e os seus estatutos, de todo o seu coração, e de toda a sua alma, cumprindo as palavras da aliança que estavam escritas naquele livro." Este versículo destaca a importância da obediência aos mandamentos de Deus, que devem ser escritos em nossos corações e seguidos com sinceridade.
+* Provérbios 22:6: "Instrui o menino no caminho em que deve andar, e, até quando envelhecer, não se desviará dele." Este versículo mostra a importância de ensinar as crianças desde cedo sobre a Palavra de Deus, para que possam crescer em conhecimento e fé.
+* 2 Timóteo 2:2: "E o que de mim, entre muitas testemunhas, ouviste, confia-o a homens fiéis, que sejam idôneos para também ensinarem os outros." Este versículo destaca a importância de ensinar a Palavra de Deus a outras pessoas, não apenas para a transmissão de conhecimento, mas para ajudá-las a crescer em fé e relacionamento com Deus.
+****
+
+[[v21-78-1]]
+
+^<<v21-78-1,1>>^ Salmo. De Asaf. Ó Deus, vieram as nações à tua herança contaminaram o teu santo templo, reduziram Jerusalém a um montão de ruínas.
+
+[[v21-78-2]]
+
+^<<v21-78-2,2>>^ Deram os cadáveres dos teus servos em pasto às aves do céu, as carnes dos teus santos aos animais da terra.
+
+[[v21-78-3]]
+
+^<<v21-78-3,3>>^ Derramaram o seu sangue como água à roda de Jerusalém, e não havia quem lhes desse sepultura.
+
+[[v21-78-4]]
+
+^<<v21-78-4,4>>^ Tornámo-nos o opróbrio dos nossos vizinhos, o escárnio e a mofa daqueles que nos rodeiam.
+
+[[v21-78-5]]
+
+^<<v21-78-5,5>>^ Até quando, Senhor? Permanecereis irado sempre? O teu zelo arderá sempre como o fogo?
+
+[[v21-78-6]]
+
+^<<v21-78-6,6>>^ Derrama a tua ira sobre as nações, que te não conhecem, e sobre os reinos que não invocam o teu nome.
+
+[[v21-78-7]]
+
+^<<v21-78-7,7>>^ Com efeito eles devoraram Jacob, e devastaram a sua morada.
+
+[[v21-78-8]]
+
+^<<v21-78-8,8>>^ Não recordes contra nós as culpas dos nossos antepassados, venha, quanto antes, ao nosso encontro a tua misericórdia, porque estamos reduzidos a grande miséria.
+
+[[v21-78-9]]
+
+^<<v21-78-9,9>>^ Ajuda-nos, ó Deus da nossa salvação, para glória do teu nome, livra-nos, e perdoa os nossos pecados, por amor do teu nome.
+
+[[v21-78-10]]
+
+^<<v21-78-10,10>>^ Para que hão-de dizer as gentes: "Onde está o Deus deles?" Seja notória entre as gentes, diante dos nossos olhos, a vingança do sangue dos teus servos, que tem sido derramado.
+
+[[v21-78-11]]
+
+^<<v21-78-11,11>>^ Chegue à tua presença o gemido dos cativos; com o poder do teu braço livra os condenados à morte.
+
+[[v21-78-12]]
+
+^<<v21-78-12,12>>^ Retribui aos nossos vizinhos, sete vezes no seu seio, o opróbrio que eles te fizeram, Senhor.
+
+[[v21-78-13]]
+
+^<<v21-78-13,13>>^ Nós, porém, teu povo e ovelhas de teu pasto, nós te glorificaremos para sempre; de geração em geração publicaremos os teus louvores.
+
+'''
+
+xref:021-salmos/021-salmos-077.adoc#v21-77-0[&#60; Capítulo Anterior] | <<v21-78-0,Topo>> | xref:021-salmos/021-salmos-079.adoc#v21-79-0[Próximo Capítulo &#62;]

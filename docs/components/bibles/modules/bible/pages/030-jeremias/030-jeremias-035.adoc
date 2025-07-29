@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v30-35-0]]
+=== Jeremias, 35
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 35 narra a história dos Recabitas, uma família que havia se comprometido a seguir os mandamentos de seu ancestral Jonadabe. Deus usa a fidelidade dos Recabitas como um exemplo para o povo de Judá, que havia se afastado Dele. Os versículos relacionados aos temas deste capítulo são:
+* Êxodo 20:12: "Honra teu pai e tua mãe, a fim de que tenhas vida longa na terra que o Senhor,o teu Deus, te dá." Os Recabitas honraram e obedeceram a seu ancestral, Jonadabe, demonstrando respeito pelas tradições e ensinamentos de seus antepassados.
+* Provérbios 20:7: "O justo anda na sua integridade; felizes são seus filhos depois dele." Os Recabitas foram recompensados pela sua fidelidade e integridade, sendo prometido a eles que sempre teriam descendentes.
+* Neemias 8:1-3: Este capítulo conta sobre a leitura pública da lei de Deus e como as pessoas a ouviram e entenderam. Os Recabitas também mantiveram a tradição oral de sua família e obedeceram a ela com diligência.
+* Mateus 7:21: "Nem todo aquele que me diz: 'Senhor, Senhor', entrará no Reino dos céus, mas apenas aquele que faz a vontade de meu Pai que está nos céus." Os Recabitas foram fiéis à vontade de seu ancestral, mostrando que a obediência é mais importante do que simplesmente dizer as palavras certas.
+* Atos 5:29: "Pedro e os outros apóstolos responderam: 'É preciso obedecer antes a Deus do que aos homens!'" Os Recabitas escolheram obedecer a Deus e às tradições de sua família, mesmo que isso significasse desobedecer ao rei de Judá.
+****
+
+[[v30-35-1]]
+
+^<<v30-35-1,1>>^ Palavra que foi dirigida pelo Senhor a Jeremias, no tempo de Joaquim, filho de Josias, rei de Judá, a qual dizia:
+
+[[v30-35-2]]
+
+^<<v30-35-2,2>>^ Vai a casa dos Recabitas e fala-lhes. Introduzi-los-ás na casa do Senhor, numa das salas, e lá lhes darás vinho a beber.
+
+[[v30-35-3]]
+
+^<<v30-35-3,3>>^ Então tomei Jesonias, filho de Jeremias, filho de Habsanias, seus irmãos, todos os seus filhos e toda a casa dos Recabitas,
+
+[[v30-35-4]]
+
+^<<v30-35-4,4>>^ e introduzi-os na casa do Senhor, no aposento dos filhos de Hanan, filho de Jegdelias, homem de Deus, que estava junto à câmara dos chefes, por cima do quarto de Maasias, filho de Selun, que era o guarda do vestíbulo.
+
+[[v30-35-5]]
+
+^<<v30-35-5,5>>^ Pus diante dos filhos da família dos Recabitas ânforas cheias de vinho e copos, e disse-lhes: Bebei vinho.
+
+[[v30-35-6]]
+
+^<<v30-35-6,6>>^ Eles, porém, responderam: Não beberemos vinho, porque Jonadab, filho de Recab, nosso pai, deu-nos este preceito: Não bebereis jámais vinho nem vós, nem vossos filhos;
+
+[[v30-35-7]]
+
+^<<v30-35-7,7>>^ não edificareis casa, nem fareis sementeiras, nem plantareis vinhas, nem as possuireis, mas habitareis em cabanas todos os dias da vossa vida, para que vivais muitos dias sobre a face da terra, na qual viveis peregrinando.
+
+[[v30-35-8]]
+
+^<<v30-35-8,8>>^ Temos, pois, obedecido à voz de Jonadab, filho de Recab, nosso pai, em todas as coisas que nos mandou, em não beber vinho em todos os nossos dias, nós e nossas mulheres, nossos filhos e filhas,
+
+[[v30-35-9]]
+
+^<<v30-35-9,9>>^ em não edificar casas para nossa morada, em não ter vinhas, nem campos, nem sementeiras.
+
+[[v30-35-10]]
+
+^<<v30-35-10,10>>^ Temos habitado sob tendas e temos obedecido em tudo o que nos mandou Jonadab, nosso pai.
+
+[[v30-35-11]]
+
+^<<v30-35-11,11>>^ Quando Nabucodonosor, rei de Babilônia, entrou em nossa terra, dissemos: Vinde e entremos em Jerusalém, para fugir do exército dos Caldeus e para escapar do exército da Síria. E ficamos em Jerusalém.
+
+[[v30-35-12]]
+
+^<<v30-35-12,12>>^ Então foi dirigida a palavra do Senhor a Jeremias, a qual dizia:
+
+[[v30-35-13]]
+
+^<<v30-35-13,13>>^ Assim fala o Senhor dos exércitos, o Deus de Israel: Vai e dize aos homens de Judá e aos habitantes de Jerusalém: Não recebereis vós a minha admoestação de modo que obedeçais às minhas palavras? - diz o Senhor.
+
+[[v30-35-14]]
+
+^<<v30-35-14,14>>^ As palavras de Jonadab, filho de Recab, pelas quais mandou a seus filhos que não bebessem vinho, têm sido observadas; não o têm bebido até ao dia de hoje, porque obedeceram ao preceito de seu pai. Porém eu tenho-vos falado, madrugando muito para vos falar, e não me obedecestes.
+
+[[v30-35-15]]
+
+^<<v30-35-15,15>>^ Enviei-vos todos os meus servos, os profetas, insistentemente, mandando-os dizer: Converta-se cada um de vós do seu caminho perverso e emende o seu proceder; não ande após os deuses estranhos, nem os adore. Então habitareis na terra que vos dei a vós e a vossos pais. Porém não inclinastes o vosso ouvido, não me ouvistes.
+
+[[v30-35-16]]
+
+^<<v30-35-16,16>>^ Sim, os filhos de Jonadab, filho de Recab, guardaram com firmeza o preceito que seu pai lhes tinha dado; mas este povo não me tem obedecido!
+
+[[v30-35-17]]
+
+^<<v30-35-17,17>>^ Pelo que, isto diz o Senhor dos exércitos, o Deus de Israel: Eis que farei vir sobre Judá e sobre todos os habitantes de Jerusalém todas as calamidades com que os tenho ameaçado: com efeito, tenho-lhes falado, e não ouvem, tenho-os chamado, e não me respondem.
+
+[[v30-35-18]]
+
+^<<v30-35-18,18>>^ Então Jeremias disse à família dos Recabitas: Assim fala o Senhor dos exércitos, o Deus de Israel: Porque tendes obedecido ao preceito de Jonadab, vosso pai, guardado todas as suas ordens, feito todas as coisas que vos mandou,
+
+[[v30-35-19]]
+
+^<<v30-35-19,19>>^ portanto, isto diz o Senhor dos exércitos, o Deus de Israel: Não faltará varão da estirpe de Jonadab, filho de Recab, que esteja sempre na minha presença todos os dias.
+
+'''
+
+xref:030-jeremias/030-jeremias-034.adoc#v30-34-0[&#60; Capítulo Anterior] | <<v30-35-0,Topo>> | xref:030-jeremias/030-jeremias-036.adoc#v30-36-0[Próximo Capítulo &#62;]

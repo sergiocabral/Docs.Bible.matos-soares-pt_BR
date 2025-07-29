@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v26-5-0]]
+=== Cântico dos Cânticos, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Cânticos 5 é um capítulo que descreve um sonho da amada sobre o amado e a busca que ela faz por ele. Através da linguagem poética, o capítulo apresenta temas como o amor, a beleza, a busca e a saudade. A seguir, estão cinco versículos relacionados com esses temas:
+* Provérbios 8:17: "Eu amo aqueles que me amam, e quem me procura me encontra." Este versículo fala sobre a busca por sabedoria e como é importante amá-la e procurá-la.
+* Salmos 63:1: "Ó Deus, tu és o meu Deus, eu te busco intensamente; a minha alma tem sede de ti! Todo o meu ser anseia por ti, numa terra seca, exausta e sem água." Este versículo retrata a busca por Deus, como uma necessidade da alma, que anseia por Ele.
+* 1 Pedro 1:8: "Vocês o amam, mesmo sem terem visto a ele; e, embora não o vejam agora, creem nele e exultam com alegria indizível e gloriosa," Este versículo fala sobre a fé em Deus, e como é possível amá-lo mesmo sem vê-lo.
+* Isaías 44:20: "Ele se alimenta de cinza. O seu coração enganado o desvia, de modo que ele não pode livrar a sua alma, nem dizer: Não há uma mentira na minha mão direita?" Este versículo descreve como o coração enganado pode levar alguém a se alimentar de coisas sem valor, como a cinza, e se afastar da verdade.
+* Jeremias 2:32: "Será que uma virgem pode esquecer a sua jóia, ou uma noiva o seu enfeite? Contudo, o meu povo se esqueceu de mim por dias sem fim." Este versículo mostra como é fácil esquecer-se de Deus, mesmo quando Ele é a jóia mais valiosa que temos.
+****
+
+[[v26-5-1]]
+
+^<<v26-5-1,1>>^ Venha o meu amado para o seu jardim, e coma dos seus belos frutos! Eu vim para o meu jardim, irmã minha esposa; colhi a minha mirra e o meu bálsamo; comi o favo com o meu mel; bebi o meu vinho com o meu leite. Comei, amigos, e bebei, inebriai-vos caríssimos.
+
+[[v26-5-2]]
+
+^<<v26-5-2,2>>^ Eu durmo, mas o meu coração vela... Eis a voz do meu amado, que bate (dizendo): Abre-me, ó minha irmã, amiga minha, pomba minha, imaculada minha, porque a minha cabeça está cheia de orvalho, e os anéis do meu cabelo (estão cheios) de gotas da noite. (ver nota)
+
+[[v26-5-3]]
+
+^<<v26-5-3,3>>^ (Eu respondi-lhe): Despojei-me da minha túnica, como hei-de vesti-la novamente? Lavei os meus pés, como hei-de tornar a sujá-los?
+
+[[v26-5-4]]
+
+^<<v26-5-4,4>>^ O meu amado meteu a sua mão pela abertura (da porta), e o meu coração estremeceu.
+
+[[v26-5-5]]
+
+^<<v26-5-5,5>>^ Levantei-me para abrir ao meu amado: as minhas mãos destilaram mirra, e os meus dedos a mirra mais preciosa, sobre a aldrava da fechadura.
+
+[[v26-5-6]]
+
+^<<v26-5-6,6>>^ Abri a minha porta ao meu amado, tirando-lhe o ferrolho, mas ele já se tinha ido, já tinha desaparecido. A minha alma ficava fora de si ao som da sua voz. Busquei-o, mas não o achei; chamei-o, e ele não me respondeu.
+
+[[v26-5-7]]
+
+^<<v26-5-7,7>>^ Encontraram-me os guardas que rondam a cidade, bateram-me, feriram-me. Tiraram-me o meu manto, os guardas das muralhas. (ver nota)
+
+[[v26-5-8]]
+
+^<<v26-5-8,8>>^ Eu vos conjuro, filhas de Jerusalém, que, se encontrardes o meu amado, Ihe façais saber que desfaleço de amor.
+
+[[v26-5-9]]
+
+^<<v26-5-9,9>>^ Que tem o teu amado a mais que (qualquer) outro amado, ó formosíssima entre todas as mulheres? Que tem o teu amado a mais que (qualquer) outro, para que assim nos conjures (a que o procuremos)?
+
+[[v26-5-10]]
+
+^<<v26-5-10,10>>^ O meu amado é cândido e rubicundo, escolhido entre milhares. (ver nota)
+
+[[v26-5-11]]
+
+^<<v26-5-11,11>>^ A sua cabeça é do oiro mais puro: as suas madeixas flexíveis são negras como um corvo.
+
+[[v26-5-12]]
+
+^<<v26-5-12,12>>^ Os seus olhos são como pombas (que repousam) junto dos regatos, que, lavadas em leite, se conservam junto das grandes correntes de água.
+
+[[v26-5-13]]
+
+^<<v26-5-13,13>>^ As suas faces são como canteiros de balsameiros, como maciços de plantas odoríferas. Os seus lábios são lírios, que destilam a mirra mais preciosa.
+
+[[v26-5-14]]
+
+^<<v26-5-14,14>>^ As suas mãos são (conto) cilindros de oiro, esmaltadas de pedras de Tharsis. O seu peito é de marfim, guarnecido de safiras.
+
+[[v26-5-15]]
+
+^<<v26-5-15,15>>^ As suas pernas são colunas de mármore branco, sustentadas sobre bases de oiro. O seu aspecto (majestoso) é como o do Líbano, elegante como os cedros.
+
+[[v26-5-16]]
+
+^<<v26-5-16,16>>^ A sua boca é só doçura, todo ele é um encanto. Tal é o meu amado, tal é o meu amigo, ó filhas de Jerusalém.
+
+[[v26-5-17]]
+
+^<<v26-5-17,17>>^ Para onde foi o teu amado, ó tu, que és a mais formosa de todas as mulheres? Para onde se retirou o teu amado? (Dize) que nós o buscaremos contigo.
+
+'''
+
+xref:026-cantico-dos-canticos/026-cantico-dos-canticos-004.adoc#v26-4-0[&#60; Capítulo Anterior] | <<v26-5-0,Topo>> | xref:026-cantico-dos-canticos/026-cantico-dos-canticos-006.adoc#v26-6-0[Próximo Capítulo &#62;]

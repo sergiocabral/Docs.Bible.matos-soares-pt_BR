@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v5-7-0]]
+=== Deuteronômio, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 7 trata da separação que o povo de Israel deve fazer dos povos que habitam a terra prometida, para evitar que sejam corrompidos por suas práticas e crenças. Além disso, o capítulo destaca a fidelidade de Deus em cumprir suas promessas aos que o amam e guardam seus mandamentos. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Deuteronômio 7.
+* Josué 23:6: "Portanto, sede vós muito firmes para guardardes e fazerdes tudo quanto está escrito no livro da lei de Moisés, para que dele não vos desvieis nem para a direita nem para a esquerda," Este versículo mostra a importância da obediência à lei de Deus para permanecer fiel a ele e evitar a corrupção pelas práticas de outros povos.
+* Salmos 105:8-11: "Lembrou-se da sua santa palavra, e de Abraão, seu servo. E trouxe para fora o seu povo com alegria, e os seus escolhidos com regozijo. E deu-lhes as terras dos gentios, e herdaram o trabalho dos povos, Para que guardassem os seus preceitos, e observassem as suas leis. Louvai ao Senhor." Este salmo relembra como Deus cumpriu suas promessas ao povo de Israel ao dar-lhes a terra prometida e destaca que essa herança vem com a responsabilidade de guardar os preceitos e leis de Deus.
+* 1 Coríntios 15:33: "Não vos enganeis: as más conversações corrompem os bons costumes." Este versículo alerta para o perigo de se misturar com pessoas que têm crenças e práticas diferentes das de Deus e como isso pode levar à corrupção.
+* 2 Coríntios 6:14: "Não vos ponhais em jugo desigual com os incrédulos; porque que sociedade tem a justiça com a injustiça? ou que comunhão tem a luz com as trevas?" Este versículo reforça a ideia de separação do povo de Deus dos povos incrédulos para evitar a contaminação espiritual.
+* Hebreus 10:23: "Retenhamos firmes a confissão da nossa esperança; porque fiel é o que prometeu." Este versículo destaca a fidelidade de Deus em cumprir suas promessas e encoraja o povo de Deus a permanecer fiel em sua esperança e confiança nele.
+****
+
+[[v5-7-1]]
+
+^<<v5-7-1,1>>^ Quando o Senhor teu Deus te tiver introduzido na terra, de que vais tomar posse, e tiver exterminado diante de ti muitas nações, o Heteu, o Gergeseu, o Amorreu, o Cananeu, o Fereseu o Heveu, e o Jebuseu, sete nações muito mais numerosas e mais fortes do que tu,
+
+[[v5-7-2]]
+
+^<<v5-7-2,2>>^ quando o Senhor teu Deus tas tiver entregado, tu as combatarás até ao extermínio, não farás aliança com elas, nem as tratarás com compaixão. (ver nota)
+
+[[v5-7-3]]
+
+^<<v5-7-3,3>>^ Não contrairás com elas matrimônios, não darás tua filha a seu filho, nem tomarás sua filha para teu filho,
+
+[[v5-7-4]]
+
+^<<v5-7-4,4>>^ porque ela seduzirá o teu filho para que me não siga, mas sirva antes a deuses estranhos, e o furor do Senhor se acenderá, e te destruirá logo.
+
+[[v5-7-5]]
+
+^<<v5-7-5,5>>^ Antes ao contrário fareis assim: Deitai abaixo os seus altares, quebrai as estátuas, cortai os Ascherim, queimai as esculturas. (ver nota)
+
+[[v5-7-6]]
+
+^<<v5-7-6,6>>^ Com efeito tu és um povo consagrado ao Senhor teu Deus. O Senhor teu Deus te escolheu para seres um povo particular, entre todos os povos que há na terra.
+
+[[v5-7-7]]
+
+^<<v5-7-7,7>>^ Não (foi) porque excedêsseis em número todas as nações, que o Senhor se uniu a vós e vos escolheu, pois vós sois o mais pequeno de todos os povos,
+
+[[v5-7-8]]
+
+^<<v5-7-8,8>>^ mas foi porque o Senhor vos amou e guardou o juramento que tinha feito a vossos pais; por isso vos tirou com mão poderosa, e vos resgatou da casa da escravidão, do poder de Faraó, rei do Egipto.
+
+[[v5-7-9]]
+
+^<<v5-7-9,9>>^ Saberás que o Senhor teu Deus é o Deus forte e fiel, que guarda o seu pacto e a sua misericórdia até mil gerações com aqueles que o amam e observam os seus preceitos,
+
+[[v5-7-10]]
+
+^<<v5-7-10,10>>^ e que castiga prontamente os que o aborrecem de modo a exterminá-los, sem demora, dando-lhes na cara imediatamente o que merecem.
+
+[[v5-7-11]]
+
+^<<v5-7-11,11>>^ Guarda, pois, os preceitos, cerimônias e ordenações, que eu hoje te mando observar.
+
+[[v5-7-12]]
+
+^<<v5-7-12,12>>^ Se, depois de teres ouvido estas ordenações, as guardares e praticares, também o Senhor teu Deus guardará a teu respeito o pacto e a misericórdia que jurou a teus pais.
+
+[[v5-7-13]]
+
+^<<v5-7-13,13>>^ Amar-te-á, multiplicar-te-á e abençoará o fruto do teu ventre, o fruto da tua terra, o teu trigo, o teu vinho novo, o teu azeite, as crias das tuas vacas e das tuas ovelhas, na terra que ele jurou a teus pais dar-te.
+
+[[v5-7-14]]
+
+^<<v5-7-14,14>>^ Serás bendito entre todos os povos. Não haverá no meio de ti quem seja estéril de um nem de outro sexo, nem entre os homens nem entre os teus rebanhos.
+
+[[v5-7-15]]
+
+^<<v5-7-15,15>>^ O Senhor afastará de ti todas as doenças; não fará cair sobre ti, mas sobre os teus inimigos, as terríveis pragas do Egipto, que tu conheces.
+
+[[v5-7-16]]
+
+^<<v5-7-16,16>>^ Devorarás todos os povos, que o Senhor teu Deus está para te entregar. Não os pouparão teus olhos, e não servirás aos seus deuses, para que não venham a ser causa da tua ruína.
+
+[[v5-7-17]]
+
+^<<v5-7-17,17>>^ Se disseres no teu coração: Estas nações são mais numerosas do que eu, como poderei eu extingui-las?
+
+[[v5-7-18]]
+
+^<<v5-7-18,18>>^ — não as temas, mas lembra-te do que o Senhor teu Deus fez a Faraó e a todos os Egípcios,
+
+[[v5-7-19]]
+
+^<<v5-7-19,19>>^ das grandíssimas pragas que os teus olhos viram, dos milagres, dos prodígios, da mão poderosa e do braço estendido, com que o Senhor teu Deus, te tirou para fora: o mesmo fará ele a todos os povos que tentes.
+
+[[v5-7-20]]
+
+^<<v5-7-20,20>>^ Além disso o Senhor teu Deus mandará vespas contra eles, até destruir e exterminar todos os que tiverem fugido ou tiverem podido esconder-se,
+
+[[v5-7-21]]
+
+^<<v5-7-21,21>>^ Não os temerás, porque o Senhor teu Deus está no meio de ti, Deus grande e terrível.
+
+[[v5-7-22]]
+
+^<<v5-7-22,22>>^ Ele mesmo destruirá estas nações diante de ti, pouco a pouco. Tu não as poderás destruir a um tempo, a fim de que se não multipliquem contra ti as feras da terra.
+
+[[v5-7-23]]
+
+^<<v5-7-23,23>>^ O Senhor teu Deus os dará em teu poder, e lançará grande consternação no meio deles até que todos sejam destruídos.
+
+[[v5-7-24]]
+
+^<<v5-7-24,24>>^ Entregará nas tuas mãos os seus reis, e farás perecer os seus nomes de debaixo do céu. Ninguém te poderá resistir, até que os tenhas reduzido a pó.
+
+[[v5-7-25]]
+
+^<<v5-7-25,25>>^ Queimarás no fogo as suas esculturas: não cobiçarás a prata nem o ouro de que são feitas, nem delas tomarás nada para ti, para que não tropeces, visto serem a abominação do Senhor teu Deus.
+
+[[v5-7-26]]
+
+^<<v5-7-26,26>>^ E não levarás para a tua casa qualquer coisa abominável, para que te não tornes anátema, como ela. Detestá-la-ás como imundície, abominá-la-ás como coisa imunda e sórdida, porque é um anátema.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-006.adoc#v5-6-0[&#60; Capítulo Anterior] | <<v5-7-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-008.adoc#v5-8-0[Próximo Capítulo &#62;]

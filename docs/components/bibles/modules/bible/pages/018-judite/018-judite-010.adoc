@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v18-10-0]]
+=== Judite, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 10 descreve como Judite se preparou para entrar no acampamento assírio disfarçada como uma cativa. Ela jejuou e orou por três dias antes de sair da cidade e, ao chegar ao acampamento, ela atraiu a atenção de Holofernes, o general assírio, que ficou encantado com sua beleza. Ela o enganou com histórias falsas sobre o povo de Israel e ganhou sua confiança. Em seguida, ela o embriagou e cortou sua cabeça, dando a vitória a Israel. Abaixo estão cinco versículos relacionados com os temas abordados em Judite 10:
+* 1 Samuel 16:7: "O Senhor não vê como o homem: o homem vê a aparência, mas o Senhor vê o coração." Este versículo destaca que a beleza exterior não é o mais importante, mas sim o coração da pessoa. Judite usou sua beleza para atrair a atenção de Holofernes, mas foi sua inteligência e sabedoria que a levaram à vitória.
+* Provérbios 31:30: "A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada." Esse versículo reforça a ideia de que a beleza não é o mais importante e que o temor ao Senhor é o que deve ser valorizado. Judite demonstrou um grande temor a Deus em sua preparação para a batalha e sua confiança em Deus para a vitória.
+* Salmos 27:14: "Espere no Senhor. Seja forte! Coragem! Espere no Senhor." Este versículo encoraja a perseverança e a confiança em Deus. Judite mostrou grande perseverança e confiança em Deus em sua preparação para a batalha.
+* Provérbios 14:15: "O simples crê em tudo, mas o prudente analisa bem seus passos." Esse versículo destaca a importância da prudência e da análise cuidadosa antes de agir. Judite usou sua inteligência e sabedoria para analisar cuidadosamente seus passos antes de agir.
+* Provérbios 31:25: "Ela é revestida de força e dignidade; sorri diante do futuro." Este versículo descreve uma mulher forte e digna, que enfrenta o futuro com confiança. Judite demonstrou grande força e dignidade em sua preparação para a batalha e sua confiança em Deus para a vitória.
+****
+
+[[v18-10-1]]
+
+^<<v18-10-1,1>>^ Quando acabou de clamar ao Senhor, (Judit) levantou-se do lugar onde se tinha prostrado diante do Senhor.
+
+[[v18-10-2]]
+
+^<<v18-10-2,2>>^ Chamou a sua criada, desceu à sua habitação, tirou o cilício, despiu-se dos hábitos da sua viuvez,
+
+[[v18-10-3]]
+
+^<<v18-10-3,3>>^ lavou o seu corpo, ungiu-se da mais fina mirra, arranjou o cabelo, pôs uma coifa sobre a cabeça, vestiu-se com os vestidos de gala, calçou as sandálias, pôs os braceletes, o colar, as arrecadas, os anéis, (numa palavra) ornou-se com todos os seus enfeites.
+
+[[v18-10-4]]
+
+^<<v18-10-4,4>>^ O Senhor aumentou-lhe ainda a gentileza porque todo este adorno procedia, não de algum mau desejo, mas de virtude; por isso o Senhor deu-lhe tal formosura, que apareceu aos olhos de todos com encanto incomparável.
+
+[[v18-10-5]]
+
+^<<v18-10-5,5>>^ Mandou à sua criada que levasse uma garrafa de vinho, uma almotolia de azeite, farinhas, passas, pão e queijo, e partiu.
+
+[[v18-10-6]]
+
+^<<v18-10-6,6>>^ Ao chegar à porta da cidade, encontraram Ozias e os anciãos da cidade, que a estavam esperando.
+
+[[v18-10-7]]
+
+^<<v18-10-7,7>>^ Eles, ao vê-la, ficaram estupefactos e maravilhados da sua beleza.
+
+[[v18-10-8]]
+
+^<<v18-10-8,8>>^ Não lhe perguntando, contudo, coisa alguma, deixaram-na passar, dizendo: O Deus de nossos pais te dê graça, e corrobore com a sua fortaleza todas as resoluções do teu coração, para que Jerusalém se glorie em li, e o teu nome seja colocado no número dos santos e justos.
+
+[[v18-10-9]]
+
+^<<v18-10-9,9>>^ Os que estavam ali disseram todos a uma voz: Assim seja, assim seja.
+
+[[v18-10-10]]
+
+^<<v18-10-10,10>>^ Judit, orando ao Senhor, passou as portas com a sua escrava.
+
+[[v18-10-11]]
+
+^<<v18-10-11,11>>^ Quando ela descia do monte, ao amanhecer do dia, saíram-lhe ao encontro as guardas avançadas dos Assírios e prenderam-na, dizendo: Donde vens tu? e para onde vais?
+
+[[v18-10-12]]
+
+^<<v18-10-12,12>>^ Ela respondeu: Eu sou uma das filhas dos Hebreus que fugi da presença deles porque previ que eles vos hão-de ser entregues a saque, visto que, desprezando-vos, não quiseram render-se a vós voluntariamente, para encontrarem misericórdia, a vossos olhos. (ver nota)
+
+[[v18-10-13]]
+
+^<<v18-10-13,13>>^ Por toda esta causa pensei comigo: Irei à presença do príncipe Holofernes, para lhe descobrir os seus segredos, para lhe mostrar por que entrada os possa tomar, sem que pereça um só homem do seu exército.
+
+[[v18-10-14]]
+
+^<<v18-10-14,14>>^ Tendo aqueles homens ouvido as suas palavras, contemplavam o seu rosto, e nos seus olhos estava o pasmo, porquanto admiravam-se muito da sua formosura.
+
+[[v18-10-15]]
+
+^<<v18-10-15,15>>^ Disseram-lhe: Tu salvaste a tua vida, porque tomaste tal resolução de vir ter com o nosso príncipe;
+
+[[v18-10-16]]
+
+^<<v18-10-16,16>>^ podes estar certa de que, quando te apresentares diante dele, ele te há-de tratar bem, e tu lhe hás-de ganhar o coração. Levaram-na, pois, à tenda de Holofernes, declarando quem era.
+
+[[v18-10-17]]
+
+^<<v18-10-17,17>>^ Mal havia entrado ela à sua presença, logo Holofermes ficou cativo de seus olhos.
+
+[[v18-10-18]]
+
+^<<v18-10-18,18>>^ Os seus oficiais disseram-lhe: Quem poderá desprezar o povo dos Hebreus, que tem mulheres tão belas? Não temos nós razão suficiente de combater contra eles, (só) para as adquirir?
+
+[[v18-10-19]]
+
+^<<v18-10-19,19>>^ Judit, vendo Holofernes assentado debaixo de um docel feito de púrpura, tecido de ouro, com esmeraldas, e pedras preciosas,
+
+[[v18-10-20]]
+
+^<<v18-10-20,20>>^ depois de Ler olhado para o seu rosto, fez-lhe uma profunda reverência, prostrando-se por terra. Os criados de Holofernes levantaram-na por ordem do seu senhor.
+
+'''
+
+xref:018-judite/018-judite-009.adoc#v18-9-0[&#60; Capítulo Anterior] | <<v18-10-0,Topo>> | xref:018-judite/018-judite-011.adoc#v18-11-0[Próximo Capítulo &#62;]

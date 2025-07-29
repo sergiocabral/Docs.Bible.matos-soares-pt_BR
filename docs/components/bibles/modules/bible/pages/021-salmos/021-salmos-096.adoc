@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v21-96-0]]
+=== Salmos, 96
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 96 é um hino de louvor e adoração a Deus, que descreve a grandeza e a majestade do Senhor, e exorta todas as nações e povos a renderem-lhe culto e glória. Os versículos selecionados abaixo destacam alguns dos temas presentes no Salmo 96:
+* Isaías 52:7 - "Como são belos sobre os montes os pés do mensageiro que anuncia a paz, que traz boas-novas, que proclama a salvação, que diz a Sião: ‘O seu Deus reina!’" Este versículo fala sobre a proclamação da paz e da salvação que são trazidas pelo Senhor, que é o Rei de todo o universo.
+* 1 Crônicas 16:23-24 - "Cantem ao Senhor, todas as terras! Anunciem dia após dia a sua salvação! Proclamem a sua glória entre as nações, seus feitos maravilhosos entre todos os povos!" Este versículo exorta todas as nações a proclamarem a glória e as maravilhas do Senhor.
+* Apocalipse 15:4 - "Quem não temerá, Senhor, e não glorificará o teu nome? Pois só tu és santo; por isso, todas as nações virão e se prostrarão diante de ti, pois os teus atos de justiça se tornaram manifestos." Este versículo fala sobre a santidade e justiça do Senhor, e a adoração que todas as nações prestarão a ele.
+* Salmos 29:2 - "Rendei ao Senhor a glória devida ao seu nome, adorai o Senhor na beleza da santidade." Este versículo destaca a importância de render culto e adoração ao Senhor.
+* Salmos 145:10-12 - "Todas as tuas obras te louvarão, Senhor, e os teus fiéis te bendirão. Eles falarão da glória do teu reino e proclamarão o teu poder, para que todos saibam dos teus feitos poderosos, dos feitos maravilhosos que só tu podes realizar." Este versículo destaca a grandeza e a majestade do Senhor, e como suas obras poderosas são proclamadas por seus fiéis.
+****
+
+[[v21-96-1]]
+
+^<<v21-96-1,1>>^ O Senhor reina: regozije-se a terra, alegrem-se as numerosas ilhas. (ver nota)
+
+[[v21-96-2]]
+
+^<<v21-96-2,2>>^ Nuvens e escuridão estão ao redor dele, a justiça e o direito são a base do seu trono. (ver nota)
+
+[[v21-96-3]]
+
+^<<v21-96-3,3>>^ O fogo avança diante dele, e abrasa ao redor os seus inimigos.
+
+[[v21-96-4]]
+
+^<<v21-96-4,4>>^ Os seus relâmpagos iluminam o mundo; a terra vê e treme.
+
+[[v21-96-5]]
+
+^<<v21-96-5,5>>^ Os montes fundem-se como cera diante do Senhor, diante do dominador de toda terra,
+
+[[v21-96-6]]
+
+^<<v21-96-6,6>>^ Os céus proclamam a sua justiça, e todos os povos vêem a sua glória.
+
+[[v21-96-7]]
+
+^<<v21-96-7,7>>^ Confundidos sejam todos os que adoram está tuas, e os que se gloriam nos ídolos; perante ele se prostram todos os deuses.
+
+[[v21-96-8]]
+
+^<<v21-96-8,8>>^ Sião ouve e alegra-se, e as cidades de Judá regozijam-se, por causa dos teus juízos, Senhor.
+
+[[v21-96-9]]
+
+^<<v21-96-9,9>>^ Com efeito, Senhor, és excelso sobre toda a terra, sumamente elevado acima de todos os deuses.
+
+[[v21-96-10]]
+
+^<<v21-96-10,10>>^ O Senhor ama os que odeiam o mal, guarda as almas dos seus santos, livra-os da mão dos ímpios.
+
+[[v21-96-11]]
+
+^<<v21-96-11,11>>^ Nasce a luz para os justos, e a alegria para os rectos de coração.
+
+[[v21-96-12]]
+
+^<<v21-96-12,12>>^ Alegrai-vos, justos, no Senhor, e celebrai o seu santo nome.
+
+'''
+
+xref:021-salmos/021-salmos-095.adoc#v21-95-0[&#60; Capítulo Anterior] | <<v21-96-0,Topo>> | xref:021-salmos/021-salmos-097.adoc#v21-97-0[Próximo Capítulo &#62;]

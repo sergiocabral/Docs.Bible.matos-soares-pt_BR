@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v13-5-0]]
+=== I Crônicas, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 5 de 1 Crônicas começa com a genealogia de Rúben, o primogênito de Jacó. Em seguida, o capítulo relata a guerra dos filhos de Rúben, Gade e a meia tribo de Manassés contra os hagarenos. A seguir estão cinco versículos relacionados com os temas abordados em 1 Crônicas 5:
+* Números 32:1: "Os filhos de Rúben e os filhos de Gade possuíam um grande número de gado. Vendo que as terras de Jazer e Gileade eram adequadas para a criação de animais," Este versículo é importante para entender a situação de prosperidade material dos filhos de Rúben e Gade e como isso influenciou na escolha de suas terras.
+* Josué 22:10: "Quando chegaram a Gelilote, na terra de Canaã, os filhos de Rúben, os filhos de Gade e a meia tribo de Manassés construíram ali um grande altar, à vista dos israelitas." Este versículo relata uma ação que desagradou o restante dos israelitas, pois interpretaram como um ato de rebelião e infidelidade à aliança com Deus.
+* Números 32:20: "Respondeu-lhes Moisés: Se fizerdes isto, se vos preparardes para a guerra, e passardes armados diante do Senhor," Este versículo é uma resposta de Moisés às tribos de Rúben e Gade, que pediam para ficar com as terras conquistadas a leste do Jordão, mas sem lutar com as outras tribos.
+* 1 Samuel 13:14: "Mas agora o teu reino não subsistirá; o Senhor buscou para si um homem segundo o seu coração, e já lhe ordenou que seja príncipe sobre o seu povo, porquanto não guardaste o que o Senhor te ordenara." Este versículo é uma referência ao reinado de Saul, que perdeu a liderança de Israel por desobedecer a Deus. Em 1 Crônicas 5:25, o capítulo menciona que os filhos de Gade habitaram a terra de Golã, que foi um dos lugares onde Saul foi enterrado.
+* Isaías 9:1: "Mas haverá um dia em que a escuridão não terá mais lugar na terra de Zebulom e Naftali. Os que sofrem agora serão envolvidos por uma grande luz. Assim como a luz brilha na escuridão, assim brilhará uma grande luz sobre essa terra." Este versículo fala sobre a restauração da terra de Zebulom e Naftali, que foram locais de grande sofrimento para o povo de Israel, mas que serão agraciados com uma grande luz. O capítulo 5 de 1 Crônicas menciona que os filhos de Rúben, Gade e a meia tribo de Manassés possuíam terras em Gileade, que fazia parte da região de Zebulom e Naftali.
+****
+
+[[v13-5-1]]
+
+^<<v13-5-1,1>>^ Eis os filhos de Ruben, primogênito de Israel (porque este foi o seu primogênito, em bora, por ter manchado o tálamo de seu pai, fosse o seu direito de primogenitura dado aos filhos de José, filho de Israel, deixando (desta forma) Ruben de ser considerado primogênito;
+
+[[v13-5-2]]
+
+^<<v13-5-2,2>>^ quanto a Judá, que era o mais valente de todos os seus irmãos, da sua estirpe saíram príncipes, mas o direito da primogenitura foi adjudicado a José).
+
+[[v13-5-3]]
+
+^<<v13-5-3,3>>^ Eis, pois os filhos de Ruben, primogênito de Israel: Enoc, Falu, Esron e Carmi.
+
+[[v13-5-4]]
+
+^<<v13-5-4,4>>^ Filho de Joel: Samia, pai de Gog, cujo filho foi Semei.
+
+[[v13-5-5]]
+
+^<<v13-5-5,5>>^ Mica, foi filho de Semei; Rela, filho de Mica; Baal, filho de Rela;
+
+[[v13-5-6]]
+
+^<<v13-5-6,6>>^ Beera, filho de Baal, a quem Telgatfaluasar, rei dos Assírios, levou cativo, e que foi príncipe na tribo de Ruben.
+
+[[v13-5-7]]
+
+^<<v13-5-7,7>>^ Os seus irmãos e toda a sua parentela, quando se fez a lista deles por famílias, tiveram por príncipes a Jeiel e Zacarias.
+
+[[v13-5-8]]
+
+^<<v13-5-8,8>>^ Bala, filho de Azaz, filho de Sama, filho de Joel, estabeleceu-se em Aroer, até Nebo e Beelmeou.
+
+[[v13-5-9]]
+
+^<<v13-5-9,9>>^ Habitou também para o oriente, até à entrada do deserto e até ao rio Eufrates, porque possuia grande quantidade de gado na terra de Galaad.
+
+[[v13-5-10]]
+
+^<<v13-5-10,10>>^ No reinado de Saul (os seus descendentes) pelejaram contra os Agareus, mataram-nos, e habitaram em lugar deles nas suas tendas, em todo o território que olhava para o oriente de Galaad.
+
+[[v13-5-11]]
+
+^<<v13-5-11,11>>^ Os filhos, porém, de Gad, estabeleceram-se defronte deles, no país de Basan até Selca;
+
+[[v13-5-12]]
+
+^<<v13-5-12,12>>^ Joel era o chefe, Safan o segundo, e em seguida Janai e Safar, em Basan.
+
+[[v13-5-13]]
+
+^<<v13-5-13,13>>^ Os seus irmãos, segundo as casas de suas parentelas, eram: Miguel, Mosolão, Sebe, Jorai, Jacan, Zie e Heber, ao todo sete.
+
+[[v13-5-14]]
+
+^<<v13-5-14,14>>^ Estes foram filhos de Abiail, filho de Uri, filho de Jara, filho de Galaad, filho de Miguel, filho de Jesesi, filho de Jedo, filho de Buz.
+
+[[v13-5-15]]
+
+^<<v13-5-15,15>>^ Foram também seus irmãos os filhos de Abdiel, filho de Guni, chefe das suas casas patriarcais.
+
+[[v13-5-16]]
+
+^<<v13-5-16,16>>^ Habitaram em Galaad e em Basan, nas aldeias e em todos os subúrbios de Saron, dum extremo ao outro.
+
+[[v13-5-17]]
+
+^<<v13-5-17,17>>^ Todos estes foram contados no tempo de Joatão, rei de Judá, e no tempo de Joroboão, rei de Israel.
+
+[[v13-5-18]]
+
+^<<v13-5-18,18>>^ Os filhos de Ruben, de Gad e da meia tribo de Manassés, foram homens muito guerreiros, que traziam escudos e espadas, que manejavam o arco, hábeis para a guerra, em número de quarenta e quatro mil setecentos e sessenta, que marchavam a combater.
+
+[[v13-5-19]]
+
+^<<v13-5-19,19>>^ Fizeram guerra contra os Agareus, mas os Itureus, os de Nafis e de Nodab,
+
+[[v13-5-20]]
+
+^<<v13-5-20,20>>^ prestaram-lhes auxílio. Foram entregues nas suas mãos os Agareus e todos os que os tinham auxiliado, porque invocaram a Deus quando pelejavam, e ele ouviu-os, porque tinham confiado nele.
+
+[[v13-5-21]]
+
+^<<v13-5-21,21>>^ Apoderaram-se de tudo o que possuíam: de cinquenta mil camelos, duzentas e cinquenta mil ovelhas, dois mil jumentos e cem mil pessoas.
+
+[[v13-5-22]]
+
+^<<v13-5-22,22>>^ Houve muitos mortos, porque foi guerra (feita com o auxílio) do Senhor. Habitaram em seu lugar até à transmigração (para Babilónia).
+
+[[v13-5-23]]
+
+^<<v13-5-23,23>>^ Também os filhos da meia tribo de Manassés possuíram as terras desde os confins de Basan até Baal, Hermon, Sanir e o monte de Hermon, porque eram em grande número.
+
+[[v13-5-24]]
+
+^<<v13-5-24,24>>^ Os chefes das casas das suas linhagens foram Efer, Jesi, Eliel, Ezriel, Jeremias, Odoias e Jediel, homens fortíssimos e possantes, famosos, chefes das suas famílias patriarcais.
+
+[[v13-5-25]]
+
+^<<v13-5-25,25>>^ Abandonaram, porém, o Deus de seus pais, e prostituiram-se seguindo os deuses dos povos da terra, que Deus exterminou diante deles.
+
+[[v13-5-26]]
+
+^<<v13-5-26,26>>^ Por isso Deus de Israel suscitou o espírito de Ful, rei dos Assírios, e o espírito de Telgatfalnasar, rei de Assur, que transportou a tribo de Ruben, a tribo de Gad e a meia tribo de Manassés para Laela, para Habor, para Ara e para o rio Gozan, até ao dia de hoje.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-004.adoc#v13-4-0[&#60; Capítulo Anterior] | <<v13-5-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-006.adoc#v13-6-0[Próximo Capítulo &#62;]

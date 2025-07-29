@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v21-45-0]]
+=== Salmos, 45
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 45 é um poema em honra a um rei, provavelmente Salomão, mas com possíveis referências ao Messias. O capítulo exalta a beleza, a justiça, a sabedoria e o poder do rei, e o compara a Deus. O capítulo termina com uma exortação para que os povos e reis da terra prestem homenagem ao rei de Israel.
+* Isaías 9:6: "Porque um menino nos nasceu, um filho nos foi dado, e o governo está sobre os seus ombros. E ele será chamado Maravilhoso Conselheiro, Deus Forte, Pai Eterno, Príncipe da Paz." Este versículo profetiza sobre o nascimento do Messias, que seria um líder sábio e poderoso.
+* Provérbios 31:30: "A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada." Este versículo destaca a importância de qualidades interiores como o temor a Deus, que são mais valiosas do que a beleza exterior.
+* Hebreus 1:8-9: "Mas acerca do Filho ele diz: 'O teu trono, ó Deus, subsiste para todo o sempre; cetro de justiça é o cetro do teu Reino. Amaste a justiça e odiaste a iniqüidade; por isso Deus, o teu Deus, te escolheu dentre os teus companheiros ungindo-te com óleo de alegria'." Este versículo faz referência ao Salmo 45 e declara que o Messias é o próprio Deus.
+* 1 Crônicas 29:11: "Teus, Senhor, são a grandeza, o poder, a glória, a majestade e o esplendor, pois tudo o que há nos céus e na terra é teu. Teu, Senhor, é o Reino; tu estás acima de tudo." Este versículo enfatiza que Deus é o Rei supremo e que todo poder e autoridade vem dele.
+* Mateus 2:2: "E perguntaram: 'Onde está o recém-nascido Rei dos judeus? Vimos a sua estrela no oriente e viemos adorá-lo'." Este versículo se refere à visita dos magos a Jesus, que foram até ele para adorá-lo como um rei.
+****
+
+[[v21-45-1]]
+
+^<<v21-45-1,1>>^ Ao mestre do coro, Dos filhos de Coré. Segundo a melodia de "As Virgens..." Cântico.
+
+[[v21-45-2]]
+
+^<<v21-45-2,2>>^ Deus é nosso refúgio e nossa força; grandemente se tem mostrado (nosso) auxílio nas angústias.
+
+[[v21-45-3]]
+
+^<<v21-45-3,3>>^ Por isso não tememos, ainda que a terra se subverta, e caiam os montes para o meio do mar.
+
+[[v21-45-4]]
+
+^<<v21-45-4,4>>^ Bramem e encrespem-se as suas águas, estremeçam os montes ao seu embate: o Senhor dos exércitos está connosco, é uma cidadela para nós o Deus de Jacob.
+
+[[v21-45-5]]
+
+^<<v21-45-5,5>>^ As correntes dum rio alegram a cidade de Deus, o tabernáculo mais santo do Altíssimo.
+
+[[v21-45-6]]
+
+^<<v21-45-6,6>>^ Deus está no meio dela, não se abalará; Deus a ajudará desde o raiar da manhã.
+
+[[v21-45-7]]
+
+^<<v21-45-7,7>>^ As nações se amotinaram, os reinos se agitaram; (Deus) fez ouvir a sua voz e a terra se desagregou;
+
+[[v21-45-8]]
+
+^<<v21-45-8,8>>^ O Senhor dos exércitos está connosco o Deus de Jacob é a nossa cidadela.
+
+[[v21-45-9]]
+
+^<<v21-45-9,9>>^ Vinde, vede as obras do Senhor, as maravilhas que operou sobre a terra.
+
+[[v21-45-10]]
+
+^<<v21-45-10,10>>^ E ele quem reprime as guerras até à extremidade do mundo, quebra os arcos e faz em pedaços as lanças, e queima ao fumo os escudos.
+
+[[v21-45-11]]
+
+^<<v21-45-11,11>>^ "Desisti e reconhecei que eu sou Deus, excelso entre as gentes, e excelso sobre (toda) a terra."
+
+[[v21-45-12]]
+
+^<<v21-45-12,12>>^ O Senhor dos exércitos está connosco; O Deus de Jacob é a nossa cidadela.
+
+'''
+
+xref:021-salmos/021-salmos-044.adoc#v21-44-0[&#60; Capítulo Anterior] | <<v21-45-0,Topo>> | xref:021-salmos/021-salmos-046.adoc#v21-46-0[Próximo Capítulo &#62;]

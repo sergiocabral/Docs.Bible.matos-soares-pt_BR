@@ -1,0 +1,110 @@
+include::./index.adoc[]
+
+[[v5-21-0]]
+=== Deuteronômio, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 21 trata de questões legais e sociais relacionadas a crimes, morte, casamento e herança. O capítulo começa com instruções sobre como lidar com um assassinato não resolvido, estabelecendo um ritual para purificar a terra e encontrar o culpado. Em seguida, são dadas orientações para a escolha de uma esposa de guerra, incluindo um período de luto e a possibilidade de divórcio. O capítulo continua com as regras sobre a primogenitura e a herança, e termina com a punição de um filho desobediente e rebelde.
+* Levítico 24:17-18: "Aquele que matar qualquer homem, certamente será morto. E aquele que matar um animal, restituirá; mas aquele que matar um homem, será morto." Esse versículo estabelece a lei da retribuição, que é mencionada em Deuteronômio 21:1-9. Se um assassinato não resolvido ocorresse, a comunidade deveria realizar um ritual para purificar a terra e encontrar o culpado, caso contrário, a culpa seria atribuída a toda a comunidade.
+* Juízes 21:10-12: "Então congregaram-se contra aquele lugar doze mil homens, dos filhos de Israel, e enviaram homens para verificar o assunto, os quais, voltando, trouxeram a notícia de que nenhuma pessoa daquela cidade havia escapado." Esse versículo fala sobre a punição de uma cidade inteira por causa do pecado de um indivíduo, que é mencionado em Deuteronômio 21:10-14. Se uma mulher prisioneira de guerra fosse escolhida como esposa, mas o marido não a desejasse mais, ela deveria ser libertada, mas não poderia ser vendida ou maltratada.
+* 2 Reis 9:26: "Vês aqui o sangue de Nabote e o sangue de seus filhos, diz o Senhor; também te pagarei neste mesmo pedaço de terra, diz o Senhor. Agora, pois, toma-o e lança-o naquele campo, segundo a palavra do Senhor." Esse versículo fala sobre a punição de um assassino, que é mencionada em Deuteronômio 21:1-9. Se um assassinato não resolvido ocorresse, a comunidade deveria realizar um ritual para purificar a terra e encontrar o culpado, caso contrário, a culpa seria atribuída a toda a comunidade.
+* Provérbios 13:24: "O que não faz uso da vara odeia seu filho, mas o que o ama, desde cedo o disciplina." Esse versículo fala sobre a punição de um filho desobediente e rebelde, que é mencionada em Deuteronômio 21:18-21. Se um filho fosse desobediente e rebelde, seus pais deveriam levá-lo aos líderes da cidade para que ele fosse punido.
+****
+
+[[v5-21-1]]
+
+^<<v5-21-1,1>>^ Quando na terra, que o Senhor teu Deus te há-de dar, for encontrado o cadáver dum homem (que foi) morto, e se ignorar (quem é) o réu do homicídio,
+
+[[v5-21-2]]
+
+^<<v5-21-2,2>>^ sairão os anciães e os teus juízes, e medirão o espaço que vai desde onde está o cadáver até cada cidade do contorno:
+
+[[v5-21-3]]
+
+^<<v5-21-3,3>>^ tendo conhecido (qual é) a mais vizinha de todas, os anciães dessa cidade tomarão da manada uma novilha, que não tenha ainda levado jugo, nem fendido a terra com o arado,
+
+[[v5-21-4]]
+
+^<<v5-21-4,4>>^ e conduzi-la-ão a um vale áspero e pedregoso, que nunca tenha sido lavrado nem semeado, e aí cortarão o pescoço à novilha.
+
+[[v5-21-5]]
+
+^<<v5-21-5,5>>^ Aproximar-se-ão os sacerdotes filhos de Levi porque o Senhor teu Deus os escolheu para serem seus ministros, para abençoarem em seu nome, e para que, por decisão deles, se julgue toda a causa, e toda a percussão.
+
+[[v5-21-6]]
+
+^<<v5-21-6,6>>^ Os anciães daquela cidade irão junto do morto, e lavarão as suas mãos sobre a novilha que foi morta no vale.
+
+[[v5-21-7]]
+
+^<<v5-21-7,7>>^ Depois dirão: As nossas mãos não derramaram este sangue, nem os nossos olhos viram.
+
+[[v5-21-8]]
+
+^<<v5-21-8,8>>^ Sê propício ao teu povo de Israel, que tu, ó Senhor, remiste, e não lhe imputes o sangue inocente (derramado) no meio do teu povo de Israel. Assim será tirado o reato deste sangue,
+
+[[v5-21-9]]
+
+^<<v5-21-9,9>>^ e tu não ficarás responsável pelo sangue do inocente, que foi derramado, quando tiveres feito o que o Senhor mandou.
+
+[[v5-21-10]]
+
+^<<v5-21-10,10>>^ Se saíres a pelejar contra os teus inimigos, e o Senhor teu Deus os entregar nas tuas mãos, se os fizeres cativos
+
+[[v5-21-11]]
+
+^<<v5-21-11,11>>^ e vires entre o número dos prisioneiros uma mulher formosa, e enamorado dela, a quiseres ter por esposa
+
+[[v5-21-12]]
+
+^<<v5-21-12,12>>^ conduzi-la-ás a tua casa, ela rapará os cabelos, cortará as unhas, (ver nota)
+
+[[v5-21-13]]
+
+^<<v5-21-13,13>>^ deporá o vestido com que foi aprisionada, e, ficando sentada em tua casa, chorará seu pai e sua mãe durante um mês; depois a tomarás para ti, dormirás com ela, será tua mulher.
+
+[[v5-21-14]]
+
+^<<v5-21-14,14>>^ Se, porém, depois ela não agradar ao teu coração, deixá-la-ás livre, não a poderás vender por dinheiro, nem oprimir com o teu poder, visto que a humilhaste.
+
+[[v5-21-15]]
+
+^<<v5-21-15,15>>^ Se um homem possuir duas mulheres, uma a quem ama, outra a quem aborrece, e tiverem (ambas) tido filhos dele, se o filho da que ele aborrece for o primogênito, (ver nota)
+
+[[v5-21-16]]
+
+^<<v5-21-16,16>>^ quando esse homem quiser repartir os seus bens entre os seus filhos, não poderá fazer (seu) primogênito o filho daquela que ele ama, e preferi-lo ao filho da que ele aborrece,
+
+[[v5-21-17]]
+
+^<<v5-21-17,17>>^ mas reconhecerá por primogênito o filho da que ele aborrece, dar-lhe-á uma porção dupla de tudo o que tem, porque este é o primeiro de seus filhos, a ele pertence o direito da primogênitura.
+
+[[v5-21-18]]
+
+^<<v5-21-18,18>>^ Se um homem tiver gerado um filho rebelde e contumaz, que não atende às ordens do pai ou da mãe e que, mesmo castigado, não quer obedecer,
+
+[[v5-21-19]]
+
+^<<v5-21-19,19>>^ seu pai e sua mãe pegarão nele e o conduzirão aos anciães daquela cidade à porta do juízo,
+
+[[v5-21-20]]
+
+^<<v5-21-20,20>>^ e Ihes dirão: Este nosso filho é um rebelde e contumaz, despreza ouvir as nossas admoestações, passa a vida na embriaguez e na dissolução.
+
+[[v5-21-21]]
+
+^<<v5-21-21,21>>^ O povo da cidade o apedrejará, e ele morrerá, para que tireis o mal do meio de vós, e todo o Israel, ouvido isto, tema.
+
+[[v5-21-22]]
+
+^<<v5-21-22,22>>^ Quando um homem tiver cometido um crime que deve ser punido com a morte, e, condenado à morte, for pendurado no patíbulo,
+
+[[v5-21-23]]
+
+^<<v5-21-23,23>>^ o seu cadáver não ficará no lenho, mas será sepultado no mesmo dia, porque é maldito de Deus aquele que está pendente do lenho, e tu, de nenhuma sorte, contaminarás a terra que o Senhor teu Deus te der por herança.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[&#60; Capítulo Anterior] | <<v5-21-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[Próximo Capítulo &#62;]

@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v21-85-0]]
+=== Salmos, 85
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 85 é uma oração pedindo a restauração e a bênção de Deus sobre a nação de Israel. O salmista expressa sua confiança em Deus e sua fidelidade, bem como sua esperança na salvação que vem somente do Senhor. Os versículos abaixo são exemplos de temas abordados no Salmo 85:
+* Isaías 30:18: "Mas o Senhor espera o momento de ser bondoso com vocês; ele ainda se levantará para mostrar-lhes compaixão. Pois o Senhor é Deus de justiça. Como são felizes todos os que nele esperam!" Este versículo destaca a paciência e a bondade de Deus, temas presentes no Salmo 85.
+* Salmos 84:12: "Senhor dos Exércitos, como é feliz aquele que em ti confia!" A confiança em Deus é uma das principais mensagens do Salmo 85, e este versículo destaca essa verdade.
+* Jeremias 33:15: "Nos seus dias, Judá será salvo, e Israel viverá em segurança. Este é o nome pelo qual ele será chamado: Senhor, Justiça Nossa". Este versículo fala da justiça e da salvação que Deus trará ao seu povo, temas que são abordados no Salmo 85.
+* Salmos 89:14: "A justiça e o direito são os alicerces do teu trono; o amor e a fidelidade vão à tua frente." Este versículo destaca a justiça e a fidelidade de Deus, características que o salmista reconhece e confia.
+* Isaías 45:8: "Chuva de cima, ó céus, e que as nuvens derramem a justiça; abra-se a terra e produza a salvação, e com ela brote a justiça. Eu, o Senhor, criei tudo isso." Este versículo fala da justiça e da salvação que vêm de Deus e que são esperadas pelos fiéis.
+****
+
+[[v21-85-1]]
+
+^<<v21-85-1,1>>^ Súplica. De Davide. inclina, Senhor, o teu ouvido, ouve-me porque eu sou desvalido e pobre.
+
+[[v21-85-2]]
+
+^<<v21-85-2,2>>^ Guarda a minha alma, porque te sou dedicado; salva o teu servo, que espera em ti. Tu és o meu Deus:
+
+[[v21-85-3]]
+
+^<<v21-85-3,3>>^ tem misericórdia de mim, porque a ti clamo sem cessar.
+
+[[v21-85-4]]
+
+^<<v21-85-4,4>>^ Alegra a alma do teu servo, porque a ti, Senhor, elevo a minha alma.
+
+[[v21-85-5]]
+
+^<<v21-85-5,5>>^ Em verdade, Senhor, és bom e clemente, cheio de misericórdia para todos os que te invocam.
+
+[[v21-85-6]]
+
+^<<v21-85-6,6>>^ Presta ouvidos, Senhor, à minha oração, atende à voz da minha súplica.
+
+[[v21-85-7]]
+
+^<<v21-85-7,7>>^ No dia da minha tribulação clamo a ti, porque me ouvirás.
+
+[[v21-85-8]]
+
+^<<v21-85-8,8>>^ Não há semelhante a ti entre os deuses, ó Senhor; nem há obra que á tua obra se compare:
+
+[[v21-85-9]]
+
+^<<v21-85-9,9>>^ Todas as nações que fizeste, virão e te adorarão, Senhor, e glorificarão o teu nome.
+
+[[v21-85-10]]
+
+^<<v21-85-10,10>>^ Porque tu és grande e operas maravilhas: só tu és Deus.
+
+[[v21-85-11]]
+
+^<<v21-85-11,11>>^ Ensina-me, Senhor, o teu caminho, para que eu ande na tua verdade; dirige o meu coração para que tema o teu nome.
+
+[[v21-85-12]]
+
+^<<v21-85-12,12>>^ Louvar-te-ei, Senhor Deus meu, com todo o meu coração, glorificarei o teu nome eternamente,
+
+[[v21-85-13]]
+
+^<<v21-85-13,13>>^ porque a tua misericórdia foi grande para comigo, e livraste a minha alma do profundo dos infernos.
+
+[[v21-85-14]]
+
+^<<v21-85-14,14>>^ Ó Deus, levantaram-se contra mim, homens soberbos, e um tropel de poderosos atenta contra a minha vida, sem que te tenham presente diante dos seus olhos.
+
+[[v21-85-15]]
+
+^<<v21-85-15,15>>^ Mas tu és, Senhor, Deus misericordioso e benigno, lento para a ira, cheio de clemência e de fidelidade.
+
+[[v21-85-16]]
+
+^<<v21-85-16,16>>^ Põe os olhos em mim, tem piedade de mim, dá o teu poder ao teu servo, e salva o filho da tua escrava.
+
+[[v21-85-17]]
+
+^<<v21-85-17,17>>^ Dá-me um sinal do teu favor, para que vejam aqueles que me odeiam, para sua confusão, que tu, Senhor, me tens socorrido e consolado.
+
+'''
+
+xref:021-salmos/021-salmos-084.adoc#v21-84-0[&#60; Capítulo Anterior] | <<v21-85-0,Topo>> | xref:021-salmos/021-salmos-086.adoc#v21-86-0[Próximo Capítulo &#62;]

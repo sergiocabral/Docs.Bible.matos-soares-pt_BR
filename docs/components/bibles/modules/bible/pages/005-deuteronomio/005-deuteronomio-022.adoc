@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v5-22-0]]
+=== Deuteronômio, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 22 apresenta várias leis que tratam de questões de justiça social e moral, incluindo as leis que governam o casamento, o divórcio, a fidelidade conjugal, a restituição de bens perdidos e o tratamento justo de animais. Abaixo estão cinco versículos relacionados com os temas abordados em Deuteronômio 22:
+* Provérbios 22:28: "Não mude a fronteira antiga que seus ancestrais estabeleceram." Este versículo destaca a importância da justiça e da equidade na distribuição de terras, um tema presente em Deuteronômio 22.
+* Levítico 19:19: "Guardem os meus decretos. Não permitam que os seus animais se misturem com outras espécies. Não plante duas espécies diferentes na mesma vinha. Não usem roupas feitas de duas espécies diferentes de tecido." Este versículo enfatiza a importância da separação e da pureza na vida cotidiana, um tema presente em Deuteronômio 22.
+* Malaquias 2:16: "Odeio o divórcio", diz o SENHOR, Deus de Israel. "E odeio aquele que cobre a sua túnica de violência", diz o SENHOR dos Exércitos. "Portanto, tenha cuidado com a sua própria vida e não seja infiel." Este versículo destaca a importância da fidelidade conjugal, um tema presente em Deuteronômio 22.
+* Isaías 1:17: "Aprendam a fazer o bem; busquem a justiça, corrijam os opressores. Defendam os direitos dos órfãos, lutem pelas causas das viúvas." Este versículo enfatiza a importância da justiça social, um tema presente em Deuteronômio 22.
+* 1 Coríntios 7:10-11: "Aos casados dou esta instrução, não eu, mas o Senhor: A mulher não deve se separar do seu marido. Mas, se o fizer, que permaneça sem se casar ou então reconcilie-se com o marido. E o marido não deve divorciar-se da sua mulher." Este versículo destaca a importância da fidelidade conjugal e da tentativa de reconciliação em vez do divórcio, um tema presente em Deuteronômio 22.
+****
+
+[[v5-22-1]]
+
+^<<v5-22-1,1>>^ Se vires extraviados o boi ou a ovelha do teu irmão, não passarás adiante, mas reconduzi-los-ás a teu irmão, (ver nota)
+
+[[v5-22-2]]
+
+^<<v5-22-2,2>>^ ainda que este irmão não viva contigo nem tu o conheças: levá-los-ás para tua casa, e estarão junto de ti até que teu irmão os procure; então Ihes entregarás.
+
+[[v5-22-3]]
+
+^<<v5-22-3,3>>^ O mesmo farás a respeito do jumento, da roupa e de (outra) qualquer coisa de teu irmão, que se perder; se a encontrareis, não a desprezes.
+
+[[v5-22-4]]
+
+^<<v5-22-4,4>>^ Se vires o jumento ou o boi de teu irmão caídos no caminho, não voltarás os olhos para o lado, mas ajudá-lo-ás a levantá-los.
+
+[[v5-22-5]]
+
+^<<v5-22-5,5>>^ A mulher não se vestirá de homem, nem o homem se vestirá de mulher, porque aquele que tal faz é abominável diante de Deus.
+
+[[v5-22-6]]
+
+^<<v5-22-6,6>>^ Se, indo pelo caminho, encontrares sobre uma árvore ou na terra o ninho duma ave, e a mãe posta sobre os filhinhos ou sobre os ovos, não a apanharás com os filhos, (ver nota)
+
+[[v5-22-7]]
+
+^<<v5-22-7,7>>^ mas deixá-la-ás ir, tomando (em seguida) os filhos, para que sejas bem sucedido e vivas muito tempo.
+
+[[v5-22-8]]
+
+^<<v5-22-8,8>>^ Quando edificares uma casa nova, farás um parapeito à roda do tecto, para que se não derrame sangue em tua casa, no caso de alguém cair de lá abaixo.
+
+[[v5-22-9]]
+
+^<<v5-22-9,9>>^ Não semearás na tua vinha duas classes de sementes, para que se não considere sagrada toda a colheita: o grão semeado e o produto da vinha. (ver nota)
+
+[[v5-22-10]]
+
+^<<v5-22-10,10>>^ Não lavrarás com um boi e um asno juntamente.
+
+[[v5-22-11]]
+
+^<<v5-22-11,11>>^ Não te vestirás com tecidos mistos de lã e de linho.
+
+[[v5-22-12]]
+
+^<<v5-22-12,12>>^ Porás na capa com que te cobrires borlas aos quatro cantos.
+
+[[v5-22-13]]
+
+^<<v5-22-13,13>>^ Se um homem, depois de casar com uma mulher, lhe ganhar aversão
+
+[[v5-22-14]]
+
+^<<v5-22-14,14>>^ e lhe imputar delitos e a difamar, dizendo: recebi esta mulher e, aproximando-me dela, não achei virgem -
+
+[[v5-22-15]]
+
+^<<v5-22-15,15>>^ Seu pai e sua mãe a tomarão, e levarão consigo as provas da sua virgindade aos anciães da cidade que estão à porta.
+
+[[v5-22-16]]
+
+^<<v5-22-16,16>>^ O pai dirá: Eu dei minha filha por mulher a este (homem), mas porque ele Ihe tem aversão,
+
+[[v5-22-17]]
+
+^<<v5-22-17,17>>^ levanta-lhe uma péssima reputação, chegando a dizer: Não achei virgem a tua filha. Contudo eis as provas da virgindade de minha filha. Então estenderão a roupa diante dos anciães da cidade,
+
+[[v5-22-18]]
+
+^<<v5-22-18,18>>^ e os anciães daquela cidade pegarão naquele homem, e fá-lo-ão açoutar,
+
+[[v5-22-19]]
+
+^<<v5-22-19,19>>^ condenando-o, além disso, a cem siclos de prata, que ele dará ao pai da donzela, porque espalhou uma péssima reputação contra uma virgem de Israel, e a terá por mulher, não podendo repudiá-la durante todo o tempo da sua vida.
+
+[[v5-22-20]]
+
+^<<v5-22-20,20>>^ Porém se o que ele opõe é verdade, e a donzela não foi encontrada virgem,
+
+[[v5-22-21]]
+
+^<<v5-22-21,21>>^ lança-la-ão fora das portas da casa de seu pai, e os homens daquela cidade a apedrejarão, até a matarem, porque cometeu um crime detestável em Israel, tendo caído em fornicação em casa de seu pai. Assim tirarás o mal do meio de ti.
+
+[[v5-22-22]]
+
+^<<v5-22-22,22>>^ Se um homem dormir com a mulher de outro, morrerão ambos, isto é, o adúltero e a adúltera. Assim tirarás o mal (do meio) de Israel.
+
+[[v5-22-23]]
+
+^<<v5-22-23,23>>^ Se um homem se tiver desposado com uma donzela virgem, e achando-a algum na cidade, a desflorar,
+
+[[v5-22-24]]
+
+^<<v5-22-24,24>>^ conduzirás um e outro à porta da cidade, e serão apedrejados: a donzela, porque, estando na cidade, não gritou; o homem, porque humilhou a noiva do seu próximo, e tu tirarás o mal do meio de ti.
+
+[[v5-22-25]]
+
+^<<v5-22-25,25>>^ Mas se um homem encontrar no campo uma donzela que está desposada, e, fazendo-lhe violência, a desonrar, morrerá ele somente.
+
+[[v5-22-26]]
+
+^<<v5-22-26,26>>^ A donzela não sofrerá nada, nem é ré de morte, porque, da mesma sorte que um ladrão se levanta contra seu irmão, e lhe tira a vida, assim também sofreu a donzela.
+
+[[v5-22-27]]
+
+^<<v5-22-27,27>>^ Ela estava só no campo; gritou, e não houve ninguém que a livrasse.
+
+[[v5-22-28]]
+
+^<<v5-22-28,28>>^ Se um homem encontrar uma donzela virgem, que não tem esposo, e, tomando-a à força, a desonrar, e a causa for levada a juízo,
+
+[[v5-22-29]]
+
+^<<v5-22-29,29>>^ o que a desonrou dará ao pai da donzela cinqüenta siclos de prata, e tê-la-á por mulher, porque a humilhou, não podendo repudiá-la em todos os dias da sua vida.
+
+[[v5-22-30]]
+
+^<<v5-22-30,30>>^ Nenhum homem desposará a mulher de seu pai, nem descobrirá nela o que o pejo oculta.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-021.adoc#v5-21-0[&#60; Capítulo Anterior] | <<v5-22-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-023.adoc#v5-23-0[Próximo Capítulo &#62;]

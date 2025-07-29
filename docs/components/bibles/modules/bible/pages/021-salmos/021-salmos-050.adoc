@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-50-0]]
+=== Salmos, 50
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmo 50 é um salmo que fala sobre a justiça divina e a necessidade de oferecer sacrifícios verdadeiros ao Senhor. O Salmo começa com a declaração de que Deus, o Senhor, convoca a terra desde o nascer ao pôr-do-sol e que Ele vem para julgar o seu povo. A seguir, são mencionados os sacrifícios que o povo oferecia a Deus, e Deus chama a atenção para o fato de que Ele não precisa desses sacrifícios, mas sim de corações sinceros e oferece perdão aos que o buscam de verdade.
+* 1 Reis 8:23: "e disse: “Senhor, Deus de Israel, não há Deus como tu nos céus acima ou na terra abaixo, tu que guardas a tua aliança de amor com os teus servos que te adoram de todo o coração." Este versículo fala sobre o amor de Deus pelos que o adoram de todo o coração.
+* Salmos 51:16-17: "Pois não te deleitas em sacrifícios; do contrário, eu os traria; em holocaustos não te agradas. Os sacrifícios que agradam a Deus são um espírito quebrantado; um coração quebrantado e contrito, ó Deus, não desprezarás." Esse verso se relaciona com a ideia do Salmo 50 de que Deus não precisa dos sacrifícios, mas sim de corações sinceros e arrependidos.
+* Isaías 1:11: "O que me importa o grande número de seus sacrifícios?”, diz o Senhor. “Já estou farto dos holocaustos de carneiros e da gordura de novilhos gordos. Não tenho nenhum prazer no sangue de touros, de cordeiros e de bodes." Este versículo reforça a ideia de que Deus não precisa dos sacrifícios, mas sim de corações verdadeiramente dedicados a Ele.
+* Oséias 6:6: "Pois eu quero amor, e não sacrifícios; conhecimento de Deus, em vez de holocaustos." Este verso se relaciona com a ideia do Salmo 50 de que o Senhor não precisa dos sacrifícios, mas sim de corações sinceros e amorosos.
+* Jeremias 7:22: "Pois quando os tirei do Egito, não falei com eles nem lhes dei ordens a respeito de holocaustos e sacrifícios." Este versículo reforça a ideia de que os sacrifícios não são a essência do relacionamento com Deus, mas sim uma expressão exterior da comunhão com Ele.
+****
+
+[[v21-50-1]]
+
+^<<v21-50-1,1>>^ Ao mestre do coro. Salmo. De Davide.
+
+[[v21-50-2]]
+
+^<<v21-50-2,2>>^ Quando o profeta Natan foi ter com ele, depois de haver pecado com Betsabé.
+
+[[v21-50-3]]
+
+^<<v21-50-3,3>>^ Tem piedade de mim, ó Deus, segundo a tua misericórdia; segundo a multidão das tuas clemências, apaga a minha iniquidade.
+
+[[v21-50-4]]
+
+^<<v21-50-4,4>>^ Lava-me inteiramente da minha culpa, purifica-me do meu pecado,
+
+[[v21-50-5]]
+
+^<<v21-50-5,5>>^ Porque eu reconheço a minha maldade, e o meu pecado está sempre diante de mim.
+
+[[v21-50-6]]
+
+^<<v21-50-6,6>>^ Pequei contra ti só, fiz o que é mau diante dos teus olhos, para que te manifestes justo na tua sentença, recto no teu juízo. (ver nota)
+
+[[v21-50-7]]
+
+^<<v21-50-7,7>>^ Eis que nasci na culpa, e minha mãe concebeu-me no pecado.
+
+[[v21-50-8]]
+
+^<<v21-50-8,8>>^ Eis que te comprazes na sinceridade do coração, e no meu íntimo me ensinas a sabedoria.
+
+[[v21-50-9]]
+
+^<<v21-50-9,9>>^ Asperge-me com o hissope, e serei purificado; lava-me, e me tornarei mais branco que a neve.
+
+[[v21-50-10]]
+
+^<<v21-50-10,10>>^ Faz-me sentir gozo e alegria, exultem os ossos que trituraste.
+
+[[v21-50-11]]
+
+^<<v21-50-11,11>>^ Aparta o teu rosto dos meus pecados e apaga todas as minhas culpas.
+
+[[v21-50-12]]
+
+^<<v21-50-12,12>>^ Cria em mim, ó Deus, um coração puro e renova em mim um espírito firme.
+
+[[v21-50-13]]
+
+^<<v21-50-13,13>>^ Não me arremesses da tua presença e não retires de mim o teu espírito santo.
+
+[[v21-50-14]]
+
+^<<v21-50-14,14>>^ Dá-me a alegria da tua salvação e revigora-me com um espírito generoso.
+
+[[v21-50-15]]
+
+^<<v21-50-15,15>>^ Ensinarei aos iníquos os teus caminhos, e os pecadores se converterão a ti.
+
+[[v21-50-16]]
+
+^<<v21-50-16,16>>^ Livra-me da pena do sangue, ó Deus, Deus meu salvador; a minha língua exulte com a tua justiça.
+
+[[v21-50-17]]
+
+^<<v21-50-17,17>>^ Senhor, abrirás os meus lábios, e a minha boca anunciará os teus louvores.
+
+[[v21-50-18]]
+
+^<<v21-50-18,18>>^ Com efeito, não te apraz o sacrifício; e se te oferecesse um holocausto, não o aceitarias. (ver nota)
+
+[[v21-50-19]]
+
+^<<v21-50-19,19>>^ O meu sacrifício, ó Deus, é um espírito contrito: não desprezaria, ó Deus, um coração contrito e humilhado.
+
+[[v21-50-20]]
+
+^<<v21-50-20,20>>^ Senhor, sê benigno com Sião por tua bondade, reconstruindo os muros de Jerusalém.
+
+[[v21-50-21]]
+
+^<<v21-50-21,21>>^ Então aceitarás os sacrifícios legítimos, as oferendas e os holocaustos; então oferecerão bezerros sobre o teu altar.
+
+'''
+
+xref:021-salmos/021-salmos-049.adoc#v21-49-0[&#60; Capítulo Anterior] | <<v21-50-0,Topo>> | xref:021-salmos/021-salmos-051.adoc#v21-51-0[Próximo Capítulo &#62;]

@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v62-2-0]]
+=== II Timóteo, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 da Segunda Epístola de Timóteo trata de uma série de exortações do apóstolo Paulo a Timóteo, seu discípulo e colaborador na pregação do Evangelho. Entre os temas abordados estão a necessidade de perseverança na fé, a importância do ensino correto e fiel das Escrituras, a necessidade de evitar contendas e debates infrutíferos e a importância de viver de acordo com os princípios do Evangelho.
+* Provérbios 22:17-19: "Inclina o teu ouvido e ouve as palavras dos sábios, e aplica o teu coração ao meu conhecimento; pois é coisa agradável guardá-las dentro de ti, e juntamente sejam elas ordenadas nos teus lábios, para que a tua confiança esteja no Senhor; faço-te saber hoje, sim, a ti." O versículo destaca a importância de ouvir e guardar as palavras de sabedoria, um tema presente no capítulo 2 de 2 Timóteo, onde Paulo exorta Timóteo a ensinar a verdade da Palavra de Deus.
+* Provérbios 23:12: "Aplica o teu coração à instrução e os teus ouvidos às palavras do conhecimento." Esse versículo reforça a importância da instrução e do conhecimento, temas que são mencionados no capítulo 2 de 2 Timóteo, onde Paulo incentiva Timóteo a transmitir fielmente o ensino bíblico e a não se envolver em contendas inúteis.
+* 1 Coríntios 9:25: "E todo aquele que luta de tudo se abstém; eles o fazem para alcançar uma coroa corruptível, nós, porém, uma incorruptível." Esse versículo destaca a importância da disciplina e da perseverança, temas que são mencionados no capítulo 2 de 2 Timóteo, onde Paulo incentiva Timóteo a perseverar na fé e a se dedicar ao trabalho de proclamar o Evangelho.
+* Efésios 6:11: "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo." Esse versículo fala da necessidade de estar preparado para enfrentar as tentações e armadilhas do diabo, um tema presente no capítulo 2 de 2 Timóteo, onde Paulo adverte Timóteo a evitar contendas e a se afastar das más influências.
+* 1 Pedro 3:15: "Antes, santificai a Cristo, como Senhor, em vosso coração, estando sempre preparados para responder a todo aquele que vos pedir a razão da esperança que há em vós." Esse versículo destaca a importância de estar preparado para dar testemunho da fé em Jesus Cristo, um tema que é mencionado no capítulo 2 de 2 Timóteo, onde Paulo incentiva Timóteo a ser um obreiro aprovado, que não se envergonha do Evangelho.
+****
+
+[[v62-2-1]]
+
+^<<v62-2-1,1>>^ Tu, pois, meu filho, fortifica-te na graça que está em Jesus Cristo,
+
+[[v62-2-2]]
+
+^<<v62-2-2,2>>^ e o que ouviste de mim, diante de muitas testemunhas, confia-o a homens fiéis, capazes combater de instruir também a outros.
+
+[[v62-2-3]]
+
+^<<v62-2-3,3>>^ Suporta os trabalhos como um bom soldado de Jesus Cristo,
+
+[[v62-2-4]]
+
+^<<v62-2-4,4>>^ Ninguém, que se alistou na milícia, se embaraça com negócios civis, se quer agradar àquele que o alistou.
+
+[[v62-2-5]]
+
+^<<v62-2-5,5>>^ Efetivamente também o que combate nos jogos públicos não é coroado, senão depois que combateu segundo as regras.
+
+[[v62-2-6]]
+
+^<<v62-2-6,6>>^ O lavrador que trabalha, deve ser o primeiro a ter parte nos frutos da colheita.
+
+[[v62-2-7]]
+
+^<<v62-2-7,7>>^ Reflete no que te digo, porque o Senhor te dará a inteligência em todas as coisas.
+
+[[v62-2-8]]
+
+^<<v62-2-8,8>>^ Lembra-te que o Senhor Jesus Cristo, que descende do sangue de David, ressuscitou dos mortos, segundo o meu Evangelho,
+
+[[v62-2-9]]
+
+^<<v62-2-9,9>>^ pelo qual sofro até estar em prisões, como um malfeitor; mas a palavra de Deus não está presa (como eu).
+
+[[v62-2-10]]
+
+^<<v62-2-10,10>>^ Portanto sofro tudo por amor dos escolhidos, para que também eles consigam a salvação que está em Jesus Cristo, com a glória eterna.
+
+[[v62-2-11]]
+
+^<<v62-2-11,11>>^ Palavra segura é esta: Se morrermos com ele, também com ele viveremos; (ver nota)
+
+[[v62-2-12]]
+
+^<<v62-2-12,12>>^ se perseverarmos, reinaremos também com ele; se o negarmos, ele também nos negará a nós
+
+[[v62-2-13]]
+
+^<<v62-2-13,13>>^ se formos infiéis, ele permanecerá fiel, porque não pode negar-se a si mesmo.
+
+[[v62-2-14]]
+
+^<<v62-2-14,14>>^ Recorda estas coisas, dando testemunho, diante do Senhor, de que é preciso evitar contendas de palavras, porque isto nada aproveita, senão para perverter os que as ouvem,
+
+[[v62-2-15]]
+
+^<<v62-2-15,15>>^ Esforça-te por te apresentares a Deus digno de aprovação, como um operário que não tem de que se envergonhar, que distribui retamente a palavra da verdade.
+
+[[v62-2-16]]
+
+^<<v62-2-16,16>>^ Evita as conversas vãs e ímpias porque contribuem muito para a impiedade,
+
+[[v62-2-17]]
+
+^<<v62-2-17,17>>^ e a palavra de quem se entrega a tais conversas vai lavrando como gangrena; neste caso estão Himeneu e Fileto,
+
+[[v62-2-18]]
+
+^<<v62-2-18,18>>^ que se extraviaram da verdade, dizendo que já se deu a ressurreição, e perverteram a fé de alguns.
+
+[[v62-2-19]]
+
+^<<v62-2-19,19>>^ Porém o fundamento de Deus está firme, tendo este selo: O senhor conhece os que são seus (Nm. 16, 5), e: Afaste se da iniquidade todo aquele que invoca o nome do Senhor (Is. 26, 13).
+
+[[v62-2-20]]
+
+^<<v62-2-20,20>>^ Ora numa grande casa há não somente vasos de ouro e de prata, mas também vasos de pau e de barro; uns (são destinados) para usos honrosos, outros para usos vulgares.
+
+[[v62-2-21]]
+
+^<<v62-2-21,21>>^ Se algum, pois, se purificar destas coisas, será um vaso de honra, santificado e útil ao Senhor, preparado para toda a obra boa.
+
+[[v62-2-22]]
+
+^<<v62-2-22,22>>^ Foge das paixões da juventude, segue a justiça, a fé, a caridade e a paz com aqueles que invocam o Senhor com um coração puro.
+
+[[v62-2-23]]
+
+^<<v62-2-23,23>>^ Evita questões loucas e desacertadas, sabendo que produzem contendas.
+
+[[v62-2-24]]
+
+^<<v62-2-24,24>>^ Ora não convém que o servo do Senhor se ponha a altercar, mas que seja manso para com todos, pronto para instruir, paciente,
+
+[[v62-2-25]]
+
+^<<v62-2-25,25>>^ que corrija com mansidão os opositores, na esperança de que Deus lhes dará a graça de se converterem ao conhecimento da verdade
+
+[[v62-2-26]]
+
+^<<v62-2-26,26>>^ e de se tornarem razoáveis, uma vez desprendidos dos laços do demônio, que os tem escravos da sua vontade.
+
+'''
+
+xref:062-ii-timoteo/062-ii-timoteo-001.adoc#v62-1-0[&#60; Capítulo Anterior] | <<v62-2-0,Topo>> | xref:062-ii-timoteo/062-ii-timoteo-003.adoc#v62-3-0[Próximo Capítulo &#62;]

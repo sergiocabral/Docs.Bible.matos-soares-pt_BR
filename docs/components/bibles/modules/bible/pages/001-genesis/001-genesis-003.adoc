@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v1-3-0]]
+=== Gênesis, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 3 é o terceiro capítulo da Bíblia e descreve a queda do homem em pecado. Ele relata como a serpente tentou Eva a comer do fruto proibido da árvore do conhecimento do bem e do mal, como Eva deu o fruto para Adão comer, como Deus confrontou o casal sobre o pecado e pronunciou a maldição sobre a serpente, a mulher e o homem, e como Deus expulsou o homem e a mulher do jardim do Éden. A seguir, estão cinco versículos da Bíblia que se relacionam com temas abordados em Gênesis 3:
+* Romanos 5:12: "Portanto, assim como por um só homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todos os homens, porquanto todos pecaram." Esse versículo se relaciona com a queda do homem em pecado e destaca como o pecado e a morte entraram no mundo através de Adão, conforme descrito em Gênesis 3.
+* 1 João 2:16: "Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não procede do Pai, mas procede do mundo." Esse versículo se relaciona com a tentação de Eva pela serpente, que incluiu a concupiscência da carne e a concupiscência dos olhos, conforme descrito em Gênesis 3.
+* Apocalipse 12:9: "E foi precipitado o grande dragão, a antiga serpente, que se chama diabo e Satanás, que engana todo o mundo; foi precipitado na terra, e os seus anjos foram lançados com ele." Esse versículo se relaciona com a serpente que tentou Eva a comer do fruto proibido da árvore do conhecimento do bem e do mal, conforme descrito em Gênesis 3.
+* Gálatas 3:13: "Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós; porque está escrito: Maldito todo aquele que for pendurado no madeiro." Esse versículo se relaciona com a maldição pronunciada por Deus sobre o homem e a mulher após a queda, conforme descrito em Gênesis 3, e destaca como Cristo nos resgatou dessa maldição ao se tornar maldição por nós.
+* Apocalipse 22:14: "Bem-aventurados aqueles que lavam as suas vestiduras no sangue do Cordeiro, para que tenham direito à árvore da vida, e possam entrar na cidade pelas portas." Esse versículo se relaciona com a expulsão do homem e da mulher do jardim do Éden, conforme descrito em Gênesis 3, e destaca como podemos ter acesso à árvore da vida através da redenção pelo sangue de Jesus.
+****
+
+[[v1-3-1]]
+
+^<<v1-3-1,1>>^ Mas a serpente era o mais astuto de todos os animais da terra que o Senhor Deus tinha feito. E ela disse à mulher: por que vos mandou Deus que não comêsseis de toda a árvore do paraíso?
+
+[[v1-3-2]]
+
+^<<v1-3-2,2>>^ Respondeu-lhe a mulher: nós comemos do fruto das árvores, que estão no paraíso,
+
+[[v1-3-3]]
+
+^<<v1-3-3,3>>^ mas do fruto da árvore, que está no meio do paraíso, Deus nos mandou que não comêssemos, e nem a tocássemos, não suceda que morramos.
+
+[[v1-3-4]]
+
+^<<v1-3-4,4>>^ Porém a serpente disse à mulher: vós de nenhum modo morrereis;
+
+[[v1-3-5]]
+
+^<<v1-3-5,5>>^ mas Deus sabe que, em qualquer dia que comerdes dele, se abrirão os vossos olhos, e sereis como deuses, conhecendo o bem e o mal.
+
+[[v1-3-6]]
+
+^<<v1-3-6,6>>^ Viu, pois, a mulher que (o fruto) do árvore era bom para comer, formoso aos olhos e desejável para alcançar a sabedoria, e tirou do fruto dela, e comeu: e deu a seu marido, que também comeu.
+
+[[v1-3-7]]
+
+^<<v1-3-7,7>>^ E os olhos de ambos se abriram: e, tendo conhecido que estavam nus, coseram folhas de figueira, e fizeram para si cinturas.
+
+[[v1-3-8]]
+
+^<<v1-3-8,8>>^ E, tendo ouvido a voz do Senhor Deus, que passeava pelo paraíso, à hora da brisa, depois do meio-dia, Adão e sua mulher esconderam-se da face do Senhor Deus no meio das árvores do paraíso. (ver nota)
+
+[[v1-3-9]]
+
+^<<v1-3-9,9>>^ E o Senhor Deus chamou por Adão, e disse-lhe: onde estás?
+
+[[v1-3-10]]
+
+^<<v1-3-10,10>>^ E ele respondeu: ouvi a tua voz no paraíso, e tive medo, porque estava nu, e escondi-me.
+
+[[v1-3-11]]
+
+^<<v1-3-11,11>>^ Disse-lhe Deus: mas quem te fez conhecer que estavas nu? acaso comeste da árvore, de que eu tinha ordenado que não comesses?
+
+[[v1-3-12]]
+
+^<<v1-3-12,12>>^ Adão disse: a mulher, que me deste por companheira, deu-me (do fruto) da árvore, e comi.
+
+[[v1-3-13]]
+
+^<<v1-3-13,13>>^ E o Senhor Deus disse para a mulher: por que fizeste isto? Ela respondeu: a serpente enganou-me, e comi.
+
+[[v1-3-14]]
+
+^<<v1-3-14,14>>^ E o Senhor Deus disse à serpente: pois que fizeste isto, és maldita entre todos os animais e bestas da terra; andarás de rastos sobre o teu peito, e comerás terra todos os dias da tua vida.
+
+[[v1-3-15]]
+
+^<<v1-3-15,15>>^ Porei inimizades entre ti e a mulher, e entre a tua posteridade e a posteridade dela. Ela te pisará a cabeça e tu armarás traições ao seu calcanhar.
+
+[[v1-3-16]]
+
+^<<v1-3-16,16>>^ Disse também à mulher: multiplicarei os teus trabalhos, e (especialmente os de) teus partos. Darás à luz com dor os filhos, e desejarás com ardor a teu marido, que te dominará.
+
+[[v1-3-17]]
+
+^<<v1-3-17,17>>^ E disse a Adão: porque deste ouvidos à voz de tua mulher, e comeste da árvore, de que eu te tinha ordenado que não comesses, a terra será maldita por tua causa; tirarás dela o sustento com trabalhos penosos todos os dias da tua vida.
+
+[[v1-3-18]]
+
+^<<v1-3-18,18>>^ Ela te produzirá espinhos e abrolhos, e tu comerás a erva da terra.
+
+[[v1-3-19]]
+
+^<<v1-3-19,19>>^ Comerás o pão com o suor do teu rosto, até que voltes à terra, de que foste tomado, porque tu és pó, e em pó te hás-de tornar.
+
+[[v1-3-20]]
+
+^<<v1-3-20,20>>^ E Adão pôs a sua mulher o nome de Eva, porque ela era a mãe de todos os viventes.
+
+[[v1-3-21]]
+
+^<<v1-3-21,21>>^ Fez também o Senhor Deus a Adão e a sua mulher umas túnicas de peles, e os vestiu
+
+[[v1-3-22]]
+
+^<<v1-3-22,22>>^ E disse: Eis que Adão se tornou como um de nós, conhecendo o bem e o mal; agora pois (expulsemo-lo do paraíso), para que não suceda que ele estenda a sua mão, tome também da árvore da vida, coma e viva eternamente.
+
+[[v1-3-23]]
+
+^<<v1-3-23,23>>^ E o Senhor Deus lançou-o fora do jardim do Eden, para que cultivasse a terra, de que tinha sido tomado.
+
+[[v1-3-24]]
+
+^<<v1-3-24,24>>^ E expulsou Adão, e pôs diante do jardim do Eden Querubins brandindo uma espada de fogo, para guardar o caminho da árvore da vida.
+
+'''
+
+xref:001-genesis/001-genesis-002.adoc#v1-2-0[&#60; Capítulo Anterior] | <<v1-3-0,Topo>> | xref:001-genesis/001-genesis-004.adoc#v1-4-0[Próximo Capítulo &#62;]

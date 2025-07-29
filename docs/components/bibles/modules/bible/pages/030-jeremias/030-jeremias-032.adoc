@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v30-32-0]]
+=== Jeremias, 32
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 32 narra a história em que Deus instrui Jeremias a comprar um campo em Anatote, mesmo sabendo que a cidade seria conquistada pelos babilônios e o povo seria exilado. Jeremias obedece a Deus e compra o campo, mostrando que Deus iria trazer o povo de volta para sua terra. Abaixo estão cinco versículos relacionados aos temas abordados em Jeremias 32:
+* Ezequiel 37:11-12: "Então me disse: Filho do homem, estes ossos são toda a casa de Israel; eis que dizem: Os nossos ossos se secaram, e pereceu a nossa esperança; estamos de todo exterminados. Portanto profetiza, e dize-lhes: Assim diz o Senhor DEUS: Eis que eu abrirei as vossas sepulturas, e vos farei subir das vossas sepulturas, ó povo meu, e vos trarei à terra de Israel." Este versículo fala sobre Deus trazendo de volta os filhos de Israel do exílio e restaurando a esperança do povo.
+* Deuteronômio 30:3-4: "Então o SENHOR, teu Deus, te fará voltar do teu cativeiro, e se compadecerá de ti, e tornará a ajuntar-te dentre todas as nações entre as quais te espalhou o SENHOR, teu Deus. Se os teus desterrados estiverem na extremidade do céu, de lá te ajuntará o SENHOR, teu Deus, e de lá te tomará." Este versículo fala sobre Deus trazendo de volta os filhos de Israel do exílio, não importa onde eles estejam.
+* Isaías 43:5-6: "Não temas, pois, porque sou contigo; trarei a tua descendência desde o oriente, e te ajuntarei desde o ocidente. Direi ao norte: Dá; e ao sul: Não retenhas; trazei meus filhos de longe e minhas filhas das extremidades da terra." Este versículo fala sobre Deus trazendo de volta os filhos de Israel de todas as partes do mundo para sua terra natal.
+* Jeremias 29:14: "E deixar-me-eis buscar-vos e achar-vos quando me buscardes de todo o vosso coração." Este versículo fala sobre como Deus estaria pronto para ouvir as orações do seu povo quando eles buscaram a Ele de todo o coração.
+* Jeremias 31:33: "Mas este é o pacto que farei com a casa de Israel depois daqueles dias, diz o SENHOR: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo." Este versículo fala sobre a restauração da aliança entre Deus e Seu povo, mostrando que Deus estaria sempre presente para ajudar e guiar Seu povo.
+****
+
+[[v30-32-1]]
+
+^<<v30-32-1,1>>^ Palavra que foi dirigida a Jeremias pelo Senhor, no décimo ano de Sedecias, rei de Judá, que corresponde ao ano décimo oitavo de Nabucodonosor.
+
+[[v30-32-2]]
+
+^<<v30-32-2,2>>^ Cercava então o exército do rei de Babilônia Jerusalém, e o profeta Jeremias estava recluso no átrio da guarda da casa do rei de Judá.
+
+[[v30-32-3]]
+
+^<<v30-32-3,3>>^ De facto, Sedecias, rei de Judá, tinha-o mandado prender, dizendo: Por que vaticinas desta forma: Isto diz o Senhor: Eis que entregarei esta cidade nas mãos do rei de Babilônia, que a tomará;
+
+[[v30-32-4]]
+
+^<<v30-32-4,4>>^ e Sedecias, rei de Judá, não escapará da mão dos Caldeus, mas será entregue nas mãos do rei de Babilônia, e falará com ele boca a boca, e os seus olhos verão os olhos dele;
+
+[[v30-32-5]]
+
+^<<v30-32-5,5>>^ e Sedecias será levado por ele para Babilônia, e ali estará até que eu o visite, diz o Senhor; e, se pelejardes contra os Caldeus, não tereis bom sucesso?
+
+[[v30-32-6]]
+
+^<<v30-32-6,6>>^ Jeremias, pois, (estando preso) disse: Foi-me dirigida a palavra do Senhor, nos seguintes termos:
+
+[[v30-32-7]]
+
+^<<v30-32-7,7>>^ Eis que teu primo Hanameel, filho de Selum, virá ter contigo, dizendo; Compra o meu campo, que está em Anatoth, porque te compete a ti comprá-lo por seres o parente mais próximo.
+
+[[v30-32-8]]
+
+^<<v30-32-8,8>>^ E veio ter comigo Hanameel, filho de meu tio, conforme a palavra do Senhor, ao átrio da guarda, e disse-me: Compra-me o campo que tenho em Anatoth, na terra de Benjamim, porque compete-te a ti por direito de herança o possuí-lo, visto seres o parente mais próximo. Reconheci que era palavra do Senhor,
+
+[[v30-32-9]]
+
+^<<v30-32-9,9>>^ e comprei o campo a Hanameel, filho de meu tio, que está em Anatoth. e pesei-lhe por ele dezassete siclos de prata.
+
+[[v30-32-10]]
+
+^<<v30-32-10,10>>^ Fiz uma escritura de contrato, selei-a, chamei testemunhas e pesei o dinheiro numa balança.
+
+[[v30-32-11]]
+
+^<<v30-32-11,11>>^ E tomei a escritura de compra selada com as estipulações do contrato e as cláusulas, assim como a sua cópia aberta.
+
+[[v30-32-12]]
+
+^<<v30-32-12,12>>^ Entreguei tudo a Baruch, filho de Neri, filho de Maasias, em presença de Hanameel, meu primo, em presença das testemunhas que tinham assinado a escritura de compra, e em presença de todos os Judeus, que estavam no átrio da guarda.
+
+[[v30-32-13]]
+
+^<<v30-32-13,13>>^ E dei ordem a Baruch, diante deles, dizendo:
+
+[[v30-32-14]]
+
+^<<v30-32-14,14>>^ Assim fala o Senhor dos exércitos, o Deus de Israel: Toma estes documentos, este exemplar da escritura de compra, cerrado, e este outro que está aberto, e mete-os numa vasilha de barro, para que se possam conservar muito tempo. (ver nota)
+
+[[v30-32-15]]
+
+^<<v30-32-15,15>>^ Porque eis o que diz o Senhor dos exércitos, o Deus de Israel: Ainda se hão-de comprar casas, campos e vinhas, nesta terra.
+
+[[v30-32-16]]
+
+^<<v30-32-16,16>>^ Roguei ao Senhor, depois que entreguei a escritura de compra a Baruch, filho de Néria, assim:
+
+[[v30-32-17]]
+
+^<<v30-32-17,17>>^ Ah! Senhor Deus: Foste tu que fizeste o céu e a terra com o teu grande poder e com o teu braço estendido. Nada te é impossível.
+
+[[v30-32-18]]
+
+^<<v30-32-18,18>>^ Usas de misericórdia com milhares, e lanças o castigo da iniquidade dos pais no íntimo de seus filhos, depois deles. Ó Deus grande e poderoso, Senhor dos exércitos é o teu nome.
+
+[[v30-32-19]]
+
+^<<v30-32-19,19>>^ Grande em teus conselhos, potente nas tuas obras, os teus olhos estão abertos sobre todos os caminhos dos filhos de Adão, para retribuíres a cada um segundo as suas vias, segundo os frutos do seu proceder.
+
+[[v30-32-20]]
+
+^<<v30-32-20,20>>^ Fizeste sinais e prodígios na terra do Egito, e, até ao dia de hoje, em Israel e entre os homens. Granjeaste um (grande) nome como tens hoje.
+
+[[v30-32-21]]
+
+^<<v30-32-21,21>>^ Tiraste o teu povo de Israel da terra do Egito com sinais e prodígios, com mão forte e braço estendido, e com grande terror.
+
+[[v30-32-22]]
+
+^<<v30-32-22,22>>^ Depois destes-lhes esta terra, como o tinhas jurado a seus pais, uma terra que mana leite e mel.
+
+[[v30-32-23]]
+
+^<<v30-32-23,23>>^ E eles entraram e tomaram posse dela, mas não obedeceram à tua voz, nem andaram na tua lei: não cumpriram nada do que lhes mandaste que fizessem. (Por isso) aconteceram-lhes todos estes males.
+
+[[v30-32-24]]
+
+^<<v30-32-24,24>>^ Eis que estão levantadas as plataformas de ataque contra a cidade para ser tomada. Vai ser entregue nas mãos dos atacantes Caldeus, pela espada, pela fome e pela peste. Todas as coisas que disseste (ó Senhor), tudo acontece, como tu mesmo o estás vendo.
+
+[[v30-32-25]]
+
+^<<v30-32-25,25>>^ E tu, Senhor Deus, (não obstante) dizes-me: Compra um campo por dinheiro e toma testemunhas - quando a cidade é entregue nas mãos dos Caldeus!
+
+[[v30-32-26]]
+
+^<<v30-32-26,26>>^ Foi dirigida a palavra do Senhor a Jeremias, nos termos seguintes:
+
+[[v30-32-27]]
+
+^<<v30-32-27,27>>^ Eu sou o Senhor, o Deus de toda a carne; haverá pois coisa alguma que me seja impossível?
+
+[[v30-32-28]]
+
+^<<v30-32-28,28>>^ Portanto, isto diz o Senhor: Vou entregar esta cidade nas mãos dos Caldeus, e nas mãos de Nabucodonosor, rei de Babilônia, que a tomará.
+
+[[v30-32-29]]
+
+^<<v30-32-29,29>>^ Virão os Caldeus pelejar contra esta cidade, entrarão nela e lhe porão fogo; queimarão as casas em cujos terraços sacrificavam a Baal e ofereciam a deuses estranhos libações, para me irritarem.
+
+[[v30-32-30]]
+
+^<<v30-32-30,30>>^ Porque os filhos de Israel e os filhos de Judá têm feito incessantemente o mal diante dos meus olhos desde a sua mocidade; os filhos de Israel, com efeito, nada fizeram senão irritar-me com as obras das suas mãos diz o Senhor.
+
+[[v30-32-31]]
+
+^<<v30-32-31,31>>^ Esta cidade tornou-se objecto do meu furor e da minha indignação, desde o dia em que a edificaram até hoje, em que a vou tirar da minha presença.
+
+[[v30-32-32]]
+
+^<<v30-32-32,32>>^ por causa da maldade que os filhos de Israel e os filhos de Judá cometeram: (serão tirados da minha presença) eles e os seus reis, os seus grandes, os seus sacerdotes, os seus profetas, os varões de Judá e os habitantes de Jerusalém.
+
+[[v30-32-33]]
+
+^<<v30-32-33,33>>^ Voltaram para mim as costas e não o rosto, quando os ensinava infatigavelmente e os corrigia, não quiseram ouvir nem receber o ensino.
+
+[[v30-32-34]]
+
+^<<v30-32-34,34>>^ Puseram os seus ídolos na casa que tem o meu nome, para a profanarem.
+
+[[v30-32-35]]
+
+^<<v30-32-35,35>>^ Edificaram a Baal os altares que estão no Vale do Filho de Hinnom, para fazerem sacrifícios de seus filhos e de suas filhas a Moloch, coisa que nunca lhes mandei, nem me passou pelo pensamento, induzindo assim Judá a (um tão grande) pecado.
+
+[[v30-32-36]]
+
+^<<v30-32-36,36>>^ Agora, por causa disto, assim diz o Senhor Deus de Israel a esta cidade, da qual vos dizeis que será entregue nas mãos do rei de Babilônia pela espada, pela fome e pela peste:
+
+[[v30-32-37]]
+
+^<<v30-32-37,37>>^ Eis que os congregarei de todas as terras, para onde os lancei no meu furor, na minha ira, na minha grande indignação; conduzi-los-ei a este lugar e farei que habitem nele sem temor.
+
+[[v30-32-38]]
+
+^<<v30-32-38,38>>^ Serão o meu povo, e eu serei o seu Deus.
+
+[[v30-32-39]]
+
+^<<v30-32-39,39>>^ Dar-lhe-ei um mesmo coração e um só caminho, para que me temam sempre, para seu bem e para bem de seus filhos depois deles.
+
+[[v30-32-40]]
+
+^<<v30-32-40,40>>^ Farei com eles uma aliança eterna e não deixarei de lhes fazer bem; infundirei o meu temor no seu coração, para que se não apartem de mim.
+
+[[v30-32-41]]
+
+^<<v30-32-41,41>>^ A minha alegria será fazer-lhes bem; estabelecê-los-ei nesta terra sòlidamente, com todo o meu coração e com toda a minha alma.
+
+[[v30-32-42]]
+
+^<<v30-32-42,42>>^ Porque isto diz o Senhor: Assim como fiz vir sobre este povo todo este grande mal, assim farei vir sobre eles todo o bem que lhes anuncio.
+
+[[v30-32-43]]
+
+^<<v30-32-43,43>>^ De novo serão possuídos (por seus donos) os campos nesta terra, da qual vós dizeis que está toda deserta, sem homens nem animais, entregue nas mãos dos Caldeus.
+
+[[v30-32-44]]
+
+^<<v30-32-44,44>>^ Os campos serão comprados por dinheiro e registados em escritura, pôr-se-lhes-á o selo, tomar-se-ão testemunhas, na terra de Benjamim, e nos arredores de Jerusalém, nas cidades de Judá, nas cidades das montanhas, nas cidades das planícies e nas cidades que estão ao meio-dia, porque farei voltar os seus cativos, diz o Senhor.
+
+'''
+
+xref:030-jeremias/030-jeremias-031.adoc#v30-31-0[&#60; Capítulo Anterior] | <<v30-32-0,Topo>> | xref:030-jeremias/030-jeremias-033.adoc#v30-33-0[Próximo Capítulo &#62;]

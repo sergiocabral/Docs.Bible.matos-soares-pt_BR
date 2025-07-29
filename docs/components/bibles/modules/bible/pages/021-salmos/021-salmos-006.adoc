@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-6-0]]
+=== Salmos, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 6 é uma oração de lamento em que o salmista clama por misericórdia e cura divina em meio a uma enfermidade ou crise. Os versículos selecionados abaixo se relacionam com os temas abordados no Salmo 6:
+* Salmos 30:2 - "Senhor, meu Deus, clamei a ti por socorro, e tu me curaste." Este versículo do Salmo 30 expressa a confiança do salmista na cura divina e se relaciona com o tema do Salmo 6, que é a oração por cura em meio a uma enfermidade.
+* Salmos 41:4 - "Ó Senhor, tem compaixão de mim! Cura-me, pois pequei contra ti." Este versículo do Salmo 41 expressa o pedido de cura divina do salmista em meio a um sentimento de culpa e arrependimento. Ele se relaciona com o tema do Salmo 6, que é a oração por misericórdia e cura em meio a uma enfermidade.
+* Salmos 103:2-3 - "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios. Ele é quem perdoa todas as tuas iniquidades, quem sara todas as tuas enfermidades." Este trecho do Salmo 103 destaca a misericórdia e a cura divina como benefícios concedidos pelo Senhor. Ele se relaciona com o tema do Salmo 6, que é a oração por misericórdia e cura em meio a uma enfermidade.
+* Isaías 38:16-17 - "Senhor, por estas coisas se vive, e em todas elas está a vida do meu espírito; por isso, restaura-me e faze-me viver. Eis que foi para a minha paz que eu estive em grande amargura; tu, porém, amaste a minha alma e a livraste da cova da corrupção, porque lançaste para trás de ti todos os meus pecados." Este trecho do livro de Isaías expressa a gratidão do rei Ezequias pela cura divina concedida por Deus em meio a uma doença grave. Ele se relaciona com o tema do Salmo 6, que é a oração por cura em meio a uma enfermidade.
+* Tiago 5:15 - "E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados." Este versículo destaca a importância da oração em meio à enfermidade e a confiança na cura divina concedida por meio da fé. Ele se relaciona com o tema do Salmo 6, que é a oração por cura em meio a uma enfermidade.
+****
+
+[[v21-6-1]]
+
+^<<v21-6-1,1>>^ Ao mestre do coro. Para instrumentos de corda. Salmo. De Davide.
+
+[[v21-6-2]]
+
+^<<v21-6-2,2>>^ Senhor, não me arguas na tua ira, nem me castigues no teu furor.
+
+[[v21-6-3]]
+
+^<<v21-6-3,3>>^ Tem piedade de mim. Senhor, porque sou enfermo; sara-me, Senhor, porque (até) os meus ossos estremeceram,
+
+[[v21-6-4]]
+
+^<<v21-6-4,4>>^ E a minha alma turbou-se em extremo; mas tu, Senhor, até quando?...
+
+[[v21-6-5]]
+
+^<<v21-6-5,5>>^ Volta-te, Senhor, pega na minha alma, salva-me pela tua misericórdia,
+
+[[v21-6-6]]
+
+^<<v21-6-6,6>>^ porque na morte não há quem se lembre de ti: na habitação dos mortos quem canta os teus louvores?
+
+[[v21-6-7]]
+
+^<<v21-6-7,7>>^ Estou esgotado à força de tanto gemer, rego o meu leito com lágrimas, todas as noites, banho com elas o lugar do meu descanso.
+
+[[v21-6-8]]
+
+^<<v21-6-8,8>>^ Os meus olhos anuviam-se de tristeza, envelhecem por causa de todos os meus inimigos.
+
+[[v21-6-9]]
+
+^<<v21-6-9,9>>^ Afastai-vos de mim todos os que praticais a iniquidade, porque o Senhor ouviu a voz do meu pranto;
+
+[[v21-6-10]]
+
+^<<v21-6-10,10>>^ O Senhor ouviu a minha súplica, o Senhor acolheu a minha oração.
+
+[[v21-6-11]]
+
+^<<v21-6-11,11>>^ Sejam confundidos e em extremo conturbados todos os meus inimigos; retirem-se e confundam-se, num instante.
+
+'''
+
+xref:021-salmos/021-salmos-005.adoc#v21-5-0[&#60; Capítulo Anterior] | <<v21-6-0,Topo>> | xref:021-salmos/021-salmos-007.adoc#v21-7-0[Próximo Capítulo &#62;]

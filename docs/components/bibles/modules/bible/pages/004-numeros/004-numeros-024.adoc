@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v4-24-0]]
+=== Números, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 24 do livro de Números, vemos a conclusão da história de Balaão, um profeta pagão que foi contratado pelo rei Balaque para amaldiçoar o povo de Israel. No entanto, em vez disso, Balaão foi inspirado pelo Espírito de Deus e acabou abençoando o povo de Israel três vezes. Abaixo estão cinco versículos relacionados aos temas abordados em Números 24:
+* Gênesis 12:3 - "Abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; em ti serão benditas todas as famílias da terra." Esse versículo é citado por Balaão em sua terceira bênção ao povo de Israel (Números 24:9) e mostra como Deus havia prometido abençoar aqueles que abençoassem o povo de Israel e amaldiçoar aqueles que os amaldiçoassem.
+* Números 23:19 - "Deus não é homem para que minta, nem filho de homem para que se arrependa. Acaso ele fala e deixa de agir? Acaso promete e deixa de cumprir?" Esse versículo, citado por Balaão em sua segunda bênção ao povo de Israel (Números 23:19-20), destaca a fidelidade e a veracidade de Deus em cumprir suas promessas, incluindo suas promessas ao povo de Israel.
+* Números 24:17 - "Vê-lo-ei, mas não agora; contemplá-lo-ei, mas não de perto. Uma estrela sairá de Jacó; um cetro se levantará de Israel." Esse versículo é parte da terceira bênção de Balaão ao povo de Israel e é frequentemente interpretado como uma profecia messiânica, que se cumpriria no nascimento de Jesus Cristo, descendente de Jacó e Rei de Israel.
+* Deuteronômio 23:4-5 - "Não procurem a paz nem a prosperidade deles enquanto viverem. Não detenham o seu progresso nem lhes prestem ajuda." Esses versículos são uma referência à maldição que Balaão tentou lançar sobre o povo de Israel, que acabou se transformando em bênção (Números 24:10-11). Aqui, Deus ordena que os israelitas não façam alianças ou amizades com os amonitas e os moabitas, pois eles haviam se recusado a ajudar os israelitas em sua jornada pelo deserto.
+* Apocalipse 2:14 - "Contudo, algumas coisas tenho contra vocês: há entre vocês os que seguem a doutrina de Balaão, que ensinou Balaque a armar ciladas contra os israelitas, induzindo-os a comer alimentos sacrificados a ídolos e a cometer imoralidade sexual." Esse versículo, parte da mensagem de Jesus à igreja de Pérgamo, faz referência à história de Balaão e alerta os cristãos sobre o perigo de seguir ensinamentos que se assemelham aos de Balaão, que tentou amaldiçoar o povo de Deus.
+****
+
+[[v4-24-1]]
+
+^<<v4-24-1,1>>^ Balaão, vendo que agradava ao Senhor que abençoasse Israel, não foi como antes procurar agouro, mas, voltando o seu rosto para o deserto,
+
+[[v4-24-2]]
+
+^<<v4-24-2,2>>^ e levantando os olhos, viu Israel acampado nas tendas segundo as suas tribos. Vendo sobre ele o Espírito de Deus,
+
+[[v4-24-3]]
+
+^<<v4-24-3,3>>^ retomou o fio da sua parábola e disse: Palavra de Balaão, filho de Beor: palavra do homem que tem os olhos fechados; (ver nota)
+
+[[v4-24-4]]
+
+^<<v4-24-4,4>>^ palavra do que ouve as palavras de Deus, que viu as visões do Omnipotente, que cai e que (deste modo) se lhe abrem os olhos.
+
+[[v4-24-5]]
+
+^<<v4-24-5,5>>^ Que formosos são os teus pavilhões, ó Jacob, e as tuas tendas, ó Israel!
+
+[[v4-24-6]]
+
+^<<v4-24-6,6>>^ Alargam-se como extensos vales, como jardins junto dos rios que os regam, como aloés que o Senhor plantou, como cedros junto das águas.
+
+[[v4-24-7]]
+
+^<<v4-24-7,7>>^ A água correrá dos seus baldes, e a sua posteridade crescerá em abundantes águas. O seu rei será mais poderoso do que Agag, e o seu reino será exaltado. (ver nota)
+
+[[v4-24-8]]
+
+^<<v4-24-8,8>>^ Deus, que o tirou do Egito, é para ele como a força do rinoceronte. Ele devorará os povos, seus inimigos, e lhes quebrará os ossos, e os trespassará com as frechas.
+
+[[v4-24-9]]
+
+^<<v4-24-9,9>>^ Deitando-se, adormece como o leão, e como a leoa, que ninguém se atreverá a acordar. Quem te abençoar, será também bendito; quem te amaldiçoar, será tido por amaldiçoado.
+
+[[v4-24-10]]
+
+^<<v4-24-10,10>>^ Balac, irado contra Balaão, batendo as mãos, disse-lhe: Eu chamei-te para amaldiçoares os meus inimigos, tu, pelo contrário, os abençoaste (já) por três vezes.
+
+[[v4-24-11]]
+
+^<<v4-24-11,11>>^ Volta para a tua terra. Eu na verdade tinha determinado honrar-te com magnificência, mas o Senhor privou-te da honra (que te estava) destinada.
+
+[[v4-24-12]]
+
+^<<v4-24-12,12>>^ Balaão respondeu a Balac: Pois não disse eu aos teus mensageiros, que me mandaste:
+
+[[v4-24-13]]
+
+^<<v4-24-13,13>>^ Ainda que Balac me desse a sua casa cheia de prata e de ouro, não poderia eu transgredir a palavra do Senhor meu Deus, para fazer de minha cabeça qualquer coisa de bem ou de mal; mas eu hei-de dizer tudo o que o Senhor tiver dito?
+
+[[v4-24-14]]
+
+^<<v4-24-14,14>>^ Contudo, voltando para o meu povo, darei um conselho sobre o que esse povo há-de fazer ao teu povo, no fim dos tempos.
+
+[[v4-24-15]]
+
+^<<v4-24-15,15>>^ Prosseguindo, pois, a parábola, tornou a dizer: Palavra de Balaão, filho de Beor; palavra do homem que tem os olhos fechados;
+
+[[v4-24-16]]
+
+^<<v4-24-16,16>>^ palavra daquele que ouve as palavras de Deus, que conhece a doutrina do Altíssimo, que contempla as visões do Omnipotente,
+
+[[v4-24-17]]
+
+^<<v4-24-17,17>>^ Eu o verei, mas não agora, eu o contemplarei, mas não de perto. NASCERÁ UMA ESTRELA DE JACOB, e levantar-se-á ceptro de Israel, que ferirá os dois flancos de Moab, e destruirá os filhos do tumulto. (ver nota)
+
+[[v4-24-18]]
+
+^<<v4-24-18,18>>^ A Idumeia será sua possessão; Seir passará para os seus inimigos; Israel acrescentará o seu poder.
+
+[[v4-24-19]]
+
+^<<v4-24-19,19>>^ De Jacob sairá um dominador, que arruinará os restos das cidades.
+
+[[v4-24-20]]
+
+^<<v4-24-20,20>>^ Olhando para Amalec, (Balaão) continuou a sua parábola: Amalec é a primeira das nações, mas o seu fim será o extermínio. (ver nota)
+
+[[v4-24-21]]
+
+^<<v4-24-21,21>>^ A seguir, vendo o Cineu, prosseguiu a sua parábola: A tua habitação é verdadeiramente forte, e o teu ninho assente no rochedo:
+
+[[v4-24-22]]
+
+^<<v4-24-22,22>>^ apesar disso, o Cineu se irá consumindo, por quanto tempo poderás tu durar? Assur te cativará.
+
+[[v4-24-23]]
+
+^<<v4-24-23,23>>^ E, outra vez, prosseguindo a parábola, disse: Ai! quem viverá quando Deus fizer estas coisas? (ver nota)
+
+[[v4-24-24]]
+
+^<<v4-24-24,24>>^ Virão de Citim nas suas galés, e vencerão os Assírios, e devastarão Heber e por fim também eles mesmos perecerão.
+
+[[v4-24-25]]
+
+^<<v4-24-25,25>>^ Balaão levantou-se, e voltou para a sua terra. Balac também voltou pelo caminho, por onde tinha vindo.
+
+'''
+
+xref:004-numeros/004-numeros-023.adoc#v4-23-0[&#60; Capítulo Anterior] | <<v4-24-0,Topo>> | xref:004-numeros/004-numeros-025.adoc#v4-25-0[Próximo Capítulo &#62;]

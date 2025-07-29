@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v16-12-0]]
+=== Neemias, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 12 de Neemias narra a dedicação dos muros de Jerusalém após sua reconstrução. Nele, são listados os sacerdotes e levitas que lideraram o povo na celebração da dedicação, além dos músicos e cantores que acompanharam o evento. A seguir estão cinco versículos relacionados aos temas abordados em Neemias 12:
+* 1 Crônicas 25:6: "Todos estes foram sob a direção de seus pais para o canto na casa do Senhor, com címbalos, saltérios e harpas, para o ministério na casa de Deus, sob a direção do rei, de Asafe, de Jedutum e de Hemã." Este versículo menciona a importância dos músicos e cantores no serviço do templo, uma função destacada no capítulo 12 de Neemias.
+* Neemias 12:31: "Então fiz subir os príncipes de Judá sobre o muro, e constituí duas grandes companhias de louvores e ações de graças, a primeira das quais ia para a direita sobre o muro para a porta do monturo." Aqui, Neemias relata como organizou a celebração da dedicação, com duas companhias de louvor e ações de graças lideradas pelos príncipes de Judá.
+* Salmos 147:7: "Cantai ao Senhor em ação de graças; cantai louvores com harpa ao nosso Deus." Este versículo ressalta a importância do louvor e da ação de graças, elementos presentes na celebração da dedicação dos muros de Jerusalém.
+* Neemias 12:27: "À dedicação dos muros de Jerusalém buscaram os levitas de todos os lugares para trazê-los a Jerusalém, a fim de celebrarem a dedicação com alegria, com louvores, com canto, com saltérios, com harpas." Aqui, Neemias destaca como os levitas se uniram para celebrar a dedicação dos muros com alegria, louvores e música.
+* 2 Crônicas 7:6: "E os sacerdotes estavam nos seus postos, como também os levitas com os instrumentos musicais do Senhor, que o rei Davi tinha feito para dar graças ao Senhor, porque a sua misericórdia dura para sempre, quando Davi louvava por meio deles; e os sacerdotes tocavam trombetas diante deles; e todo o Israel estava em pé." Este versículo descreve outra celebração de dedicação, desta vez do templo construído por Salomão, e destaca a presença dos sacerdotes e levitas com seus instrumentos musicais, outro elemento presente na celebração da dedicação dos muros de Jerusalém.
+****
+
+[[v16-12-1]]
+
+^<<v16-12-1,1>>^ Estes são os sacerdotes e os Levitas que voltaram com Zorobabel, filho de Salatiel, e com Josué: Saraias, Jeremias, Esdras,
+
+[[v16-12-2]]
+
+^<<v16-12-2,2>>^ Amarias, Meluc, Hatus,
+
+[[v16-12-3]]
+
+^<<v16-12-3,3>>^ Sequepias, Reum, Merimut,
+
+[[v16-12-4]]
+
+^<<v16-12-4,4>>^ Ado, Genton, Abias,
+
+[[v16-12-5]]
+
+^<<v16-12-5,5>>^ Miamin, Madias, Belga,
+
+[[v16-12-6]]
+
+^<<v16-12-6,6>>^ Semeias, Joiarib, Idaias, Selum, Amoc, Heleias,
+
+[[v16-12-7]]
+
+^<<v16-12-7,7>>^ Idaias. Estes eram os principais dentre os sacerdotes e seus irmãos, no tempo de Josué.
+
+[[v16-12-8]]
+
+^<<v16-12-8,8>>^ Os Levitas eram: Jesua, Benui, Cedmiel, Sarebias, Juda, Matanias, que presidiam com seus irmãos aos hinos;
+
+[[v16-12-9]]
+
+^<<v16-12-9,9>>^ Beebecias e Hani, seus irmãos, alternavam com eles.
+
+[[v16-12-10]]
+
+^<<v16-12-10,10>>^ Josué gerou Joaquim, Joaquim gerou Eliasib, Eliasib gerou Jojada,
+
+[[v16-12-11]]
+
+^<<v16-12-11,11>>^ Jojada gerou Jonatan, Jonatan gerou Jedoa.
+
+[[v16-12-12]]
+
+^<<v16-12-12,12>>^ No tempo de Joaquim, os chefes de famílias sacerdotais eram: Da de Saraias, Maraias; da de Jeremias, Hanania;
+
+[[v16-12-13]]
+
+^<<v16-12-13,13>>^ da de Esdras, Mosolão; da de Amarias, Joanan;
+
+[[v16-12-14]]
+
+^<<v16-12-14,14>>^ da de Milico (ou Meluc), Jonatan; da de Sebenias, José;
+
+[[v16-12-15]]
+
+^<<v16-12-15,15>>^ da de Haram, Edna; da de Maraiot, Helci;
+
+[[v16-12-16]]
+
+^<<v16-12-16,16>>^ da de Ado, Zacarias; da de Genton, Mosolão;
+
+[[v16-12-17]]
+
+^<<v16-12-17,17>>^ da de Abias, Zecri; da de Miamin e de Moadia, Feiti;
+
+[[v16-12-18]]
+
+^<<v16-12-18,18>>^ da de Belga, Samua; da de Semaias, Jonatan;
+
+[[v16-12-19]]
+
+^<<v16-12-19,19>>^ da de Joiarib, Matanai; da de Jodaias, Azi;
+
+[[v16-12-20]]
+
+^<<v16-12-20,20>>^ da de Selai (ou Selum), Gelai; da de Amoc, Heber;
+
+[[v16-12-21]]
+
+^<<v16-12-21,21>>^ da de Heleias, Hasebias; da de Idaias, Natanael.
+
+[[v16-12-22]]
+
+^<<v16-12-22,22>>^ No tempo de Eliasib, de Jojada, de Joanan e de Jedoa, os Levitas, chefes de famílias, e os sacerdotes foram inscritos sob o reinado de Dario, rei dos Persas.
+
+[[v16-12-23]]
+
+^<<v16-12-23,23>>^ Os filhos de Levi, chefes de famílias, foram inscritos no livro dos anais, até ao tempo de Jonatan, filho de Eliasib.
+
+[[v16-12-24]]
+
+^<<v16-12-24,24>>^ Os chefes dos Levitas eram: Hesebias, Serebías e Josué, filho de Cedmiel, encarregados com seus irmãos, pelas suas classes, de louvarem e darem glória (a Deus), segundo o preceito de David, homem de Deus, e de fazerem igualmente o seu serviço por ordem.
+
+[[v16-12-25]]
+
+^<<v16-12-25,25>>^ Matanias, Becbecias, Obedias, Mosolão, Teimou, Acub, eram os guardas das portas e dos vestíbulos que estavam em frente das portas.
+
+[[v16-12-26]]
+
+^<<v16-12-26,26>>^ Estes viviam no tempo de Joaquim, filho de Josué, filho de Josedec, e no tempo de Neemias, governador, e de Esdras, sacerdote e escriba.
+
+[[v16-12-27]]
+
+^<<v16-12-27,27>>^ Para a dedicação dos muros de Jerusalém buscaram-se os Levitas de todos os seus lugares, para virem a Jerusalém celebrar a dedicação com alegria, com acções de graças, cânticos, ao toque de címbalos, de saltérios e de cítaras.
+
+[[v16-12-28]]
+
+^<<v16-12-28,28>>^ Juntaram-se os filhos dos cantores do campo dos arredores de Jerusalém, assim como das aldeias de Netufati,
+
+[[v16-12-29]]
+
+^<<v16-12-29,29>>^ de Bel-Galgal e dos territórios de Geba e de Azmavet, porque os cantores tinham edificado aldeias para si em volta de Jerusalém.
+
+[[v16-12-30]]
+
+^<<v16-12-30,30>>^ Tendo-se purificado os sacerdotes e os Levitas, purificaram também o povo, as portas e os muros.
+
+[[v16-12-31]]
+
+^<<v16-12-31,31>>^ Então fiz subir aos muros os príncipes de Judá, e formei dois grandes coros dos que cantavam louvores. Um dos coros caminhou para a direita sobre os muros, para a banda da porta da Esterqueira;
+
+[[v16-12-32]]
+
+^<<v16-12-32,32>>^ atrás foi Osaias, com metade dos príncipes de Judá,
+
+[[v16-12-33]]
+
+^<<v16-12-33,33>>^ com Azarias, Esdras, Mosolão, Juda, Benjamim, Semeias e Jeremias.
+
+[[v16-12-34]]
+
+^<<v16-12-34,34>>^ Dos filhos dos sacerdotes (iam) com as trombetas Zacarias, filho de Jonatan, filho de Semeias, filho de Matanias, filho de Miqueias, filho de Zecur, filho de Asaf,
+
+[[v16-12-35]]
+
+^<<v16-12-35,35>>^ e seus irmãos Semeias, Azareel, Malalai, Galalai, Maai, Natanael, Juda e Hanani, com os instrumentos músicos de David, homem de Deus. Esdras, o escriba, estava diante deles. À porta da Fonte,
+
+[[v16-12-36]]
+
+^<<v16-12-36,36>>^ defronte deles subiram pelos degraus da cidade de David, onde se eleva o muro sobre a casa de David, e até à porta das Aguas, para o Oriente.
+
+[[v16-12-37]]
+
+^<<v16-12-37,37>>^ O segundo coro dos que davam graças caminhava pelo lado oposto, e eu seguia-o com a outra metade do povo sobre os muros. Passando pelo lado de cima da torre dos Fornos, caminhou-se até à parte mais larga do muro;
+
+[[v16-12-38]]
+
+^<<v16-12-38,38>>^ depois, sobre a porta de Efraim, sobre a porta velha, sobre a porta dos Peixes, sobre a torre de Hananeel, sobre a torre de Mea, até à porta do Rebanho. Fez-se paragem na porta da Prisão.
+
+[[v16-12-39]]
+
+^<<v16-12-39,39>>^ Os dois coros dos que cantavam os louvores do Senhor pararam na casa de Deus, assim como eu e metade dos magistrados comigo,
+
+[[v16-12-40]]
+
+^<<v16-12-40,40>>^ e os sacerdotes Eliacim, Maasias, Miamin, Miqueias, Elioenai, Zacarias, Ananias, com as trombetas,
+
+[[v16-12-41]]
+
+^<<v16-12-41,41>>^ e Maasias, Semeias, Eleazar, Azi, Joanan, Melquias, Elão e Ezer. Os cantores cantavam em alta voz; Jézraia era seu chefe.
+
+[[v16-12-42]]
+
+^<<v16-12-42,42>>^ Naquele dia, ofereceram grandes sacrifícios e alegraram-se, porque Deus tinha dado ao povo um grande motivo de alegria. Também suas mulheres e filhos se encheram de gozo, e a alegria de Jerusalém ouviu-se de longe.
+
+[[v16-12-43]]
+
+^<<v16-12-43,43>>^ Escolheram-se, por esse tempo, entre os sacerdotes e os Levitas, homens que fossem superintendentes das câmaras do tesouro das libações, primícias e dizímos, encarregados de recolher dos campos e das cidades as porções legais para os sacerdotes e Levitas. Judá se alegrou, por causa dos sacerdotes e dos Levitas que estavam presentes,
+
+[[v16-12-44]]
+
+^<<v16-12-44,44>>^ fazendo o serviço do seu Deus e os ritos da expiação, e dos cantores e porteiros que procediam conforme o preceito de David e de Salomão, seu filho.
+
+[[v16-12-45]]
+
+^<<v16-12-45,45>>^ Desde o princípio, no tempo de David e de Asaf, se tinham estabelecido chefes dos cantores, os quais cantavam hinos e louvores a Deus.
+
+[[v16-12-46]]
+
+^<<v16-12-46,46>>^ Todo o Israel, no tempo de Zorobabel e no tempo de Neemias, dava aos cantores e aos porteiros as suas porções diárias; apresentava-se a oblação santa (dos dízimos) aos Levitas, e os Levitas apresentavam-na (por sua vez) aos filhos de Aarão.
+
+'''
+
+xref:016-neemias/016-neemias-011.adoc#v16-11-0[&#60; Capítulo Anterior] | <<v16-12-0,Topo>> | xref:016-neemias/016-neemias-013.adoc#v16-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v3-24-0]]
+=== Levítico, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 24 do livro de Levítico trata das leis que envolvem o azeite e o pão da proposição, bem como a punição para aqueles que blasfemam o nome de Deus. Os versículos selecionados são os seguintes:
+* Êxodo 27:20-21: "Também ordenarás aos filhos de Israel que te tragam azeite puro de oliveiras, batido, para o candelabro, para que se mantenha acesa a lâmpada continuamente. Na tenda da congregação, fora do véu que está diante do testemunho, Arão e seus filhos a porão em ordem, desde a tarde até pela manhã, perante o Senhor; é estatuto perpétuo para as suas gerações, da parte dos filhos de Israel." Este versículo aborda o uso do azeite puro para manter a lâmpada do candelabro acesa continuamente, como um símbolo da presença de Deus no meio do povo.
+* Êxodo 25:30: "E porás sobre a mesa pão da proposição perante a minha face continuamente." Este versículo se refere ao pão da proposição que é colocado na mesa no santuário como uma oferta contínua para Deus.
+* Levítico 24:11-12: "E o filho da mulher israelita blasfemou o nome do Senhor, e o amaldiçoou; então o trouxeram a Moisés (e o nome de sua mãe era Selomite, filha de Dibri, da tribo de Dã). E o puseram na prisão, até que se declarasse a sentença pela boca do Senhor." Este versículo descreve a punição para aqueles que blasfemam o nome do Senhor, que é a prisão até que a sentença seja declarada.
+* Mateus 12:31-32: "Por isso eu vos digo: Todo o pecado e blasfêmia se perdoará aos homens, mas a blasfêmia contra o Espírito não será perdoada aos homens. E, se qualquer disser alguma palavra contra o Filho do homem, ser-lhe-á perdoado; mas, se alguém falar contra o Espírito Santo, não lhe será perdoado, nem neste século nem no futuro." Este versículo se refere ao pecado da blasfêmia contra o Espírito Santo, que é considerado um pecado imperdoável.
+* Tiago 1:26: "Se alguém cuida ser religioso, e não refreia a sua língua, mas engana o seu coração, a religião desse é vã." Este versículo destaca a importância de controlar a língua e não falar de forma blasfema ou enganosa, para que a religião não seja em vão.
+****
+
+[[v3-24-1]]
+
+^<<v3-24-1,1>>^ O Senhor falou a Moisés, dizendo;
+
+[[v3-24-2]]
+
+^<<v3-24-2,2>>^ Ordena aos filhos de Israel que te tragam azeite de oliveira puríssimo e claro, para manter continuamente acesas as lâmpadas,
+
+[[v3-24-3]]
+
+^<<v3-24-3,3>>^ fora do véu do testemunho no tabernáculo da reunião. Aarão as porá diante do Senhor, desde a tarde até pela manhã, com culto e rito perpétuo nas vossas gerações.
+
+[[v3-24-4]]
+
+^<<v3-24-4,4>>^ Serão sempre colocadas diante do Senhor, sobre o candeeiro muito limpo.
+
+[[v3-24-5]]
+
+^<<v3-24-5,5>>^ Tomarás também flor de farinha, e cozerás dela doze pães, cada um dos quais terá duas dízimas (do efi),
+
+[[v3-24-6]]
+
+^<<v3-24-6,6>>^ e os porás sobre a mesa puríssima do Senhor, seis de uma parte e seis da outra:
+
+[[v3-24-7]]
+
+^<<v3-24-7,7>>^ porás sobre eles incenso lucidíssimo, para que o pão seja monumento de oferta feita ao Senhor.
+
+[[v3-24-8]]
+
+^<<v3-24-8,8>>^ Cada sábado se mudarão estes pães diante do Senhor, depois de terem sido recebidos dos filhos de Israel; é uma aliança perpétua.
+
+[[v3-24-9]]
+
+^<<v3-24-9,9>>^ Pertencerão a Aarão e a seus filhos, para os comerem no lugar santo, porque são coisa santíssima entre as oferendas feitas pelo fogo ao Senhor. É uma lei perpétua.
+
+[[v3-24-10]]
+
+^<<v3-24-10,10>>^ O filho de uma mulher israelita, que ela tivera de Egípcio que vivia entre os filhos de Israel, saiu fora e contendeu nos acampamentos com um Israelita.
+
+[[v3-24-11]]
+
+^<<v3-24-11,11>>^ Tendo blasfemado e amaldiçoado o nome do Senhor, foi levado a Moisés (sua mãe chamava-se Salumite, filha de Dabri, da tribo de Dan),
+
+[[v3-24-12]]
+
+^<<v3-24-12,12>>^ e puseram-no em prisão, até saberem o que o Senhor ordenaria.
+
+[[v3-24-13]]
+
+^<<v3-24-13,13>>^ O Senhor falou a Moisés,
+
+[[v3-24-14]]
+
+^<<v3-24-14,14>>^ dizendo: Tira o blasfemo para fora do arraial, e, todos os que o ouviram, ponham as suas mãos sobre a cabeça dele, e todo o povo o apedreje.
+
+[[v3-24-15]]
+
+^<<v3-24-15,15>>^ Dirás aos filhos de Israel: O homem que amaldiçoar o seu Deus, levará o seu pecado;
+
+[[v3-24-16]]
+
+^<<v3-24-16,16>>^ o que blasfemar o nome do Senhor, será punido de morte; todo o povo o apedrejará, quer seja cidadão, quer seja forasteiro. O que blasfemar o nome do Senhor, seja punido de morte.
+
+[[v3-24-17]]
+
+^<<v3-24-17,17>>^ O que ferir e matar um homem, seja punido de morte.
+
+[[v3-24-18]]
+
+^<<v3-24-18,18>>^ O que ferir um animal, restituirá outro em seu lugar, isto é, animal por animal.
+
+[[v3-24-19]]
+
+^<<v3-24-19,19>>^ O que ferir qualquer dos seus compatriotas, assim como fez, assim se lhe fará a ele:
+
+[[v3-24-20]]
+
+^<<v3-24-20,20>>^ quebradura, por quebradura, olho por olho, dente por dente: qual for o mal que tiver feito, tal será o que há-de sofrer.
+
+[[v3-24-21]]
+
+^<<v3-24-21,21>>^ O que matar um jumento, restituirá outro. O que matar um homem, será punido (de morte):
+
+[[v3-24-22]]
+
+^<<v3-24-22,22>>^ Seja entre vós igual a justiça, quer delinquisse o forasteiro, quer o indígena. Eu sou o Senhor vosso Deus.
+
+[[v3-24-23]]
+
+^<<v3-24-23,23>>^ Quando Moisés falou aos filhos de Israel, tiraram o que tinha blasfemado para fora dos acampamentos, e apedrejaram-no. Os filhos de Israel fizeram como o Senhor tinha ordenado a Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-023.adoc#v3-23-0[&#60; Capítulo Anterior] | <<v3-24-0,Topo>> | xref:003-levitico/003-levitico-025.adoc#v3-25-0[Próximo Capítulo &#62;]

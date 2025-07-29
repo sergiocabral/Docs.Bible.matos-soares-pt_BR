@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v39-3-0]]
+=== Jonas, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jonas 3 conta a segunda ida do profeta Jonas à cidade de Nínive, onde ele pregou a mensagem de Deus e os ninivitas se arrependeram de seus pecados. Os versículos relacionados com os temas abordados em Jonas 3 são:
+* Isaías 55:6-7: "Buscai o SENHOR enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno, os seus pensamentos e se converta ao SENHOR, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar." Este versículo mostra que Deus está sempre pronto para perdoar aqueles que se arrependem de seus pecados, mesmo aqueles que são considerados ímpios ou malignos.
+* Mateus 12:41: "Os ninivitas se levantarão, no Juízo, com esta geração e a condenarão; porque se arrependeram com a pregação de Jonas. E eis aqui quem é maior do que Jonas." Neste versículo, Jesus faz referência aos ninivitas e como eles se arrependeram diante da pregação de Jonas, destacando a importância do arrependimento e da conversão.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo mostra que, assim como os ninivitas se arrependeram e foram perdoados, todos os que confessam seus pecados e se arrependem podem ser perdoados e purificados por Deus.
+* Ezequiel 18:32: "Porque não tenho prazer na morte de ninguém, diz o SENHOR Deus. Portanto, convertei-vos e vivei." Este versículo mostra o desejo de Deus de que todos se arrependam e vivam, mostrando que ele não deseja a morte dos pecadores, mas que eles se voltem para ele e vivam.
+* 2 Pedro 3:9: "Não retarda o Senhor a sua promessa, como alguns a julgam demorada; pelo contrário, ele é longânimo para convosco, não querendo que nenhum pereça, senão que todos cheguem ao arrependimento." Este versículo destaca a paciência e longanimidade de Deus, que espera que todos se arrependam e cheguem ao conhecimento da verdade.
+****
+
+[[v39-3-1]]
+
+^<<v39-3-1,1>>^ Foi dirigida segunda vez a Jonas a palavra do Senhor, nestes termos:
+
+[[v39-3-2]]
+
+^<<v39-3-2,2>>^ Levanta-te e vai a Nínive, a grande cidade, e faze nela a pregação que eu te ordenar.
+
+[[v39-3-3]]
+
+^<<v39-3-3,3>>^ Jonas levantou-se e foi a Nínive, segundo a ordem do Senhor. Ora Nínive era uma cidade grande, diante de Deus, que tinha três dias de caminho.
+
+[[v39-3-4]]
+
+^<<v39-3-4,4>>^ Jonas começou a entrar na cidade, andando por ela um dia. Clamava assim: Daqui a quarenta dias será Nínive destruída.
+
+[[v39-3-5]]
+
+^<<v39-3-5,5>>^ Os Nínivitas creram em Deus, ordenaram um jejum público e vestiram-se de saco, desde o maior ao menor.
+
+[[v39-3-6]]
+
+^<<v39-3-6,6>>^ Chegada esta nova ao rei de Nínive, ele levantou-se do seu trono, tirou o seu manto, cobriu-se de saco e sentou-se sobre a cinza.
+
+[[v39-3-7]]
+
+^<<v39-3-7,7>>^ Depois fez-se clamar por seus príncipes: Os homens e os animais, os bois e as ovelhas não comam nada, não sejam levados a pastar, nem bebam água.
+
+[[v39-3-8]]
+
+^<<v39-3-8,8>>^ Os homens e os animais cubram-se de saco e clamem ao Senhor com força; cada um se converta do seu mau caminho e da violência que há nas suas mãos.
+
+[[v39-3-9]]
+
+^<<v39-3-9,9>>^ Quem sabe se Deus se virá a arrepender, se aplacará o ardor da sua ira, de sorte que não pereçamos?
+
+[[v39-3-10]]
+
+^<<v39-3-10,10>>^ Deus viu as suas obras (de penitência), como se convertiam do seu mau caminho, e, arrependendo-se do mal que tinha resolvido fazer-lhes, não lho fez.
+
+'''
+
+xref:039-jonas/039-jonas-002.adoc#v39-2-0[&#60; Capítulo Anterior] | <<v39-3-0,Topo>> | xref:039-jonas/039-jonas-004.adoc#v39-4-0[Próximo Capítulo &#62;]

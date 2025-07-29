@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v14-1-0]]
+=== II Crônicas, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 1 relata a ascensão de Salomão ao trono de Israel e seu pedido por sabedoria a Deus. Salomão ofereceu sacrifícios a Deus em Gibeom e foi abençoado com sabedoria e riquezas. Ele também fez alianças com outros reis e acumulou cavalos e carruagens.
+* Provérbios 2:6 - "Pois o Senhor concede sabedoria, e de sua boca vêm o conhecimento e a compreensão." Salomão pediu sabedoria a Deus em 2 Crônicas 1:10, e este versículo mostra que a sabedoria vem de Deus.
+* Provérbios 8:10 - "Recebei o meu ensino e não a prata; escolhei o conhecimento, e não a riqueza." Salomão acumulou riquezas em 2 Crônicas 1:14-15, mas este versículo enfatiza a importância do conhecimento acima da riqueza.
+* 1 Reis 10:28-29 - "Os cavalos importados do Egito custavam seiscentos siclos de prata, e os cavalos de Carquemis e da Síria, que Salomão comprava, custavam ainda mais. Eram comprados por meio dos comerciantes dos reis e dos governadores da região." 2 Crônicas 1:16 menciona que Salomão tinha muitas carruagens e cavalos, e este versículo mostra o custo desses animais.
+* Salmos 20:7 - "Alguns confiam em carros e outros em cavalos, mas nós confiamos no nome do Senhor, o nosso Deus." Salomão tinha muitas carruagens e cavalos em 2 Crônicas 1:14-15, mas este versículo enfatiza a importância de confiar em Deus, não nas coisas materiais.
+* 1 Reis 3:12 - "Portanto, concederei a você sabedoria e conhecimento, e também lhe darei riquezas, bens e honra, como nenhum rei antes de você teve e nenhum depois de você terá." Deus concedeu sabedoria e riquezas a Salomão em 2 Crônicas 1, e este versículo mostra que essa bênção foi prometida a ele anteriormente em 1 Reis 3.
+****
+
+[[v14-1-1]]
+
+^<<v14-1-1,1>>^ Salomão, filho de Davide, foi confirmado no seu reino; o Senhor, seu Deus, era com ele, e o exaltou em alto grau.
+
+[[v14-1-2]]
+
+^<<v14-1-2,2>>^ Salomão convocou todo o Israel, os chefes de milhar, os centuriões, os juízes, os príncipes de todo o Israel, os chefes das famílias,
+
+[[v14-1-3]]
+
+^<<v14-1-3,3>>^ e foi com toda esta multidão ao alto de Gabaon, onde estava o tabernáculo da aliança de Deus, que Moisés, servo de Deus, tinha feito no deserto.
+
+[[v14-1-4]]
+
+^<<v14-1-4,4>>^ Quanto à arca de Deus, Davide tinha-a trazido de Cariatiarim para o lugar que lhe tinha preparado, e onde lhe tinha erigido um tabernáculo, isto é, para Jerusalém.
+
+[[v14-1-5]]
+
+^<<v14-1-5,5>>^ O altar de bronze, que tinha feito Beseleel, filho de Uri, filho de Hur, estava lá (em, Gabaon) diante do tabernáculo do Senhor, e Salomão, com toda a multidão, foi em busca dele.
+
+[[v14-1-6]]
+
+^<<v14-1-6,6>>^ Ali, sobre o altar de bronze, que estava diante do tabernáculo da aliança do Senhor, Salomão imolou mil vítimas.
+
+[[v14-1-7]]
+
+^<<v14-1-7,7>>^ Naquela mesma noite apareceu-lhe Deus, dizendo: Pede-me o que queres que eu te dê.
+
+[[v14-1-8]]
+
+^<<v14-1-8,8>>^ Salomão disse a Deus: Tu usaste com Davide, meu pai, de grande misericórdia, e a mim me constituíste rei em seu lugar,
+
+[[v14-1-9]]
+
+^<<v14-1-9,9>>^ Agora, pois, Senhor Deus, cumpra-se a tu a palavra, que disseste a meu pai Davide, pois que tu me estabeleceste rei sobre o teu grande povo, que é tão inumerável como o pó da terra.
+
+[[v14-1-10]]
+
+^<<v14-1-10,10>>^ Dá-me sabedoria e inteligência, a fim de que eu saiba conduzir-me bem diante do teu povo. Pois, quem poderá governar dignamente este teu povo, que é tão grande?
+
+[[v14-1-11]]
+
+^<<v14-1-11,11>>^ Deus disse a Salomão: Visto que isso agradou mais ao teu coração, e não me pediste riquezas, nem bens, nem glória, nem a morte dos que te odeiam, nem muitos dias de vida, antes me pediste sabedoria e inteligência para poderes governar o meu povo, sobre o qual eu te constituí rei,
+
+[[v14-1-12]]
+
+^<<v14-1-12,12>>^ a sabedoria e a inteligência te são dadas; além disso, te darei riquezas, bens e glória, de modo que nenhum rei, nem antes de ti, nem depois de ti, te seja semelhante.
+
+[[v14-1-13]]
+
+^<<v14-1-13,13>>^ Salomão, pois, voltou do alto de Gabaon de diante do tabernáculo da aliança para Jerusalém, e reinou sobre Israel.
+
+[[v14-1-14]]
+
+^<<v14-1-14,14>>^ Juntou um grande número de carros e de cavaleiros teve: mil e quatrocentos carros e doze mil cavaleiros, e mandou-os estar nas cidades destinadas aos carros e em Jerusalém junto ao rei.
+
+[[v14-1-15]]
+
+^<<v14-1-15,15>>^ O rei fez com que a prata e o ouro fossem em Jerusalém tão comuns como as pedras, e os cedros tão numerosos com o os sicómoros, que nascem nos campos.
+
+[[v14-1-16]]
+
+^<<v14-1-16,16>>^ Eram-lhe trazidos cavalos do Egito e de Coa pelos negociantes do rei, que iam e os compravam por preço determinado:
+
+[[v14-1-17]]
+
+^<<v14-1-17,17>>^ um tiro de quatro cavalos por seiscentos siclos de prata; e um cavalo por cento e cinquenta. Assim se fazia a compra também para todos os reis dos Heteus e da Síria.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-029.adoc#v13-29-0[&#60; Capítulo Anterior] | <<v14-1-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-002.adoc#v14-2-0[Próximo Capítulo &#62;]

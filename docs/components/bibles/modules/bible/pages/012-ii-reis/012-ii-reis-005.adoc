@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v12-5-0]]
+=== II Reis, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Reis 5 narra a história de Naamã, um oficial sírio que tinha lepra e foi curado por Deus por meio do profeta Eliseu. Os temas abordados neste capítulo incluem fé, humildade, obediência e cura divina.
+* Tiago 2:14-17: "De que adianta, meus irmãos, alguém dizer que tem fé se não tem obras? Acaso a fé pode salvá-lo? Se um irmão ou irmã estiver necessitando de roupas e do alimento de cada dia e um de vocês lhe disser: "Vá em paz, aqueça-se e alimente-se até satisfazer-se", sem porém lhe dar nada, de que adianta isso? Assim também a fé, por si só, se não for acompanhada de obras, está morta." Este versículo destaca a importância de não apenas professar fé, mas também colocá-la em ação através de boas obras, como a humildade e obediência de Naamã ao seguir as instruções de Eliseu.
+* Salmos 103:3: "Ele perdoa todos os seus pecados e cura todas as suas enfermidades." Este versículo fala sobre a cura divina e o poder de Deus para curar todas as doenças, como a lepra de Naamã.
+* Mateus 8:2-3: "Eis que um leproso aproximou-se dele e, prostrando-se de joelhos, disse: 'Senhor, se quiseres, podes purificar-me'. Jesus estendeu a mão, tocou nele e disse: 'Quero. Seja purificado!' Imediatamente ele foi purificado da lepra." Este versículo mostra outro exemplo de cura divina por meio do toque de Jesus, que é semelhante ao toque de Eliseu em Naamã.
+* Lucas 17:11-19: "Aconteceu que, quando se dirigia para Jerusalém, Jesus passou entre Samaria e Galileia. Ao entrar em uma aldeia, dez homens leprosos dirigiram-se a ele. Ficaram a certa distância e gritaram em alta voz: 'Jesus, Mestre, tem misericórdia de nós!' Ao vê-los, ele disse: 'Vão mostrar-se aos sacerdotes'. E, enquanto iam, foram purificados. Um deles, quando viu que estava curado, voltou, louvando a Deus em alta voz. Prostrou-se aos pés de Jesus e lhe agradeceu. Era samaritano." Este versículo conta a história de dez homens leprosos que foram curados por Jesus, mas apenas um deles voltou para agradecer. É uma lição sobre a importância da gratidão e da fé na cura divina.
+* Tiago 5:14: "Algum de vocês está doente? Chame os presbíteros da igreja, para que orem por ele e o unjam com óleo em nome do Senhor." Esse versículo fala sobre a importância da oração na cura de doenças e na busca por ajuda espiritual. Na história de Naamã, ele busca a cura física para a sua lepra, mas a lição que podemos aprender é que devemos confiar em Deus e buscar ajuda espiritual para todas as nossas necessidades, incluindo a saúde. Através da oração e do apoio da comunidade de fé, podemos encontrar a cura e a força para enfrentar os desafios da vida.
+****
+
+[[v12-5-1]]
+
+^<<v12-5-1,1>>^ Naaman, general do exército do rei da Síria, era um homem poderoso e de grande consideração junto do seu amo, porque, por meio dele, o Senhor salvou a Síria; era um homem valente e rico, mas leproso.
+
+[[v12-5-2]]
+
+^<<v12-5-2,2>>^ Ora uns guerrilheiros, que tinham saído da Síria para fazer uma incursão, levaram cativa do país de Israel uma pequena rapariga, que ficou ao serviço da mulher de Naaman.
+
+[[v12-5-3]]
+
+^<<v12-5-3,3>>^ Ela disse à sua ama: Prouvera a Deus que o meu senhor tivesse ido ter com o profeta que está em Samaria; sem dúvida ele o teria curado da lepra que padece.
+
+[[v12-5-4]]
+
+^<<v12-5-4,4>>^ Tendo ouvido isto, Naaman foi ter com o seu senhor, e contou-lhe o acontecido, dizendo: Uma rapariga do país de Israel disse isto e Isto.
+
+[[v12-5-5]]
+
+^<<v12-5-5,5>>^ O rei da Síria respondeu-lhe: Vai, que eu enviarei uma carta ao rei de Israel. Partindo, pois, Naaman, e levando dez talentos de prata, seis mil escudos de ouro, e dez vestes sobressalentes,
+
+[[v12-5-6]]
+
+^<<v12-5-6,6>>^ entregou ao rei de Israel a carta concebida nestes termos: Quando receberes esta carta, saberás que eu te enviei Naaman meu servo, para o curares da sua lepra.
+
+[[v12-5-7]]
+
+^<<v12-5-7,7>>^ O rei de Israel, lida a carta, rasgou as suas vestes e disse; Porventura sou eu Deus, que posso tirar e dar a vida, para que este me mande dizer que cure um homem da lepra? Adverti, e vereis que ele anda buscando pretextos contra mim.
+
+[[v12-5-8]]
+
+^<<v12-5-8,8>>^ Tendo ouvido isto Eliseu, homem de Deus, isto é, que o rei de Israel tinha rasgado as suas vestes, mandou-lhe dizer: Por que rasgaste as tuas vestes? Venha (esse homem) ter comigo, e saberá que há um profeta em Israel.
+
+[[v12-5-9]]
+
+^<<v12-5-9,9>>^ Foi, pois, Naaman com os seus cavalos e carros, e parou à porta da casa de Eliseu.
+
+[[v12-5-10]]
+
+^<<v12-5-10,10>>^ Eliseu enviou-lhe um mensageiro a dizer: Vai, lava-te sete vezes no Jordão, e a tua carne será curada: ficarás limpo.
+
+[[v12-5-11]]
+
+^<<v12-5-11,11>>^ Naaman, agastado, retirava-se, dizendo: Eu julgava que ele sairia a receber-me e que, posto em pé, invocaria o nome do Senhor, seu Deus, que me tocaria, com a sua mão, o lugar da lepra, e que me curaria.
+
+[[v12-5-12]]
+
+^<<v12-5-12,12>>^ Porventura Abana e Farfar, rios de Damasco, não são melhores do que todas as águas de Israel, para eu me lavar nelas e ficar limpo? Como ele voltasse e se retirasse irritado,
+
+[[v12-5-13]]
+
+^<<v12-5-13,13>>^ aproximaram-se dele os seus servos e disseram-lhe: Pai, ainda que o profeta te tivesse ordenado uma coisa muito difícil, tu devias sem dúvida fazê-la; quanto mais agora que ele te disse: Lava-te e ficarás limpo.
+
+[[v12-5-14]]
+
+^<<v12-5-14,14>>^ Então Naaman foi e lavou-se sete vezes no Jordão, conforme a palavra do homem de Deus, e a sua carne tornou-se como a carne dum menino muito tenro, ficando limpo.
+
+[[v12-5-15]]
+
+^<<v12-5-15,15>>^ Voltando para o homem de Deus com toda a sua comitiva, foi, apresentou-se diante dele, e disse: Verdadeiramente conheço que não há outro Deus em toda a terra, senão o de Israel. Rogo-te que recebas do teu servo esta oferta.
+
+[[v12-5-16]]
+
+^<<v12-5-16,16>>^ Mas ele respondeu: Viva o Senhor, em cuja presença estou, que não a aceitarei. Por mais que (Naaman) instasse, de nenhum modo condescendeu.
+
+[[v12-5-17]]
+
+^<<v12-5-17,17>>^ Naaman disse: Seja como tu queres, mas peço-te que me permitas levar dois machos carregados da terra deste país, porque o teu servo não sacrificará mais holocaustos ou vitimas aos deuses estrangeiros, mas só ao Senhor.
+
+[[v12-5-18]]
+
+^<<v12-5-18,18>>^ Uma coisa há, todavia, pela qual hás-de rogar ao Senhor pelo teu servo: quando o meu senhor entrar no templo de Remon para adorar, apoiando-se no meu braço, e quando eu (para prestar tal serviço) também me prostrar no templo de Remon, enquanto ele adora, que o Senhor me perdoe esta coisa a mim, teu servo.
+
+[[v12-5-19]]
+
+^<<v12-5-19,19>>^ Eliseu respondeu: Vai em paz. Quando Naaman se retirou e estava já a certa distância,
+
+[[v12-5-20]]
+
+^<<v12-5-20,20>>^ Giezi, criado do homem de Deus, disse: Meu amo perdoou a este Naaman, Siro, não querendo receber nada do que ele lhe trouxera. Viva o Senhor que eu correrei atrás dele, e receberei dele alguma coisa.
+
+[[v12-5-21]]
+
+^<<v12-5-21,21>>^ Giezi foi no alcance de Naaman, o qual vendo-o ir correndo para ele, saltou do carro a recebê-lo, e disse: Vai tudo bem?
+
+[[v12-5-22]]
+
+^<<v12-5-22,22>>^ Ele respondeu: Muito bem; o meu senhor enviou-me a dizer-te: Nesta hora chegaram do monte de Efraim dois jovens dos filhos dos profetas: dá para eles um talento de prata e duas das vestes sobressalentes.
+
+[[v12-5-23]]
+
+^<<v12-5-23,23>>^ Naaman disse: É melhor que aceites dois talentos. (Naaman) insistiu e atou os dois talentos de prata e as duas vestes em dois sacos e carregou com eles dois dos seus servos, que os levaram diante de Giezi.
+
+[[v12-5-24]]
+
+^<<v12-5-24,24>>^ Chegando à colina, Giezi tomou-os das suas mãos, guardou-os em sua casa, e despediu os homens, que se retiraram.
+
+[[v12-5-25]]
+
+^<<v12-5-25,25>>^ E, tendo entrado, apresentou-se diante do seu senhor. Eliseu disse-lhe: Donde vens, Giezi? Ele respondeu-lhe: Teu servo não foi a parte alguma.
+
+[[v12-5-26]]
+
+^<<v12-5-26,26>>^ Mas Eliseu disse: Não estava eu presente em espírito, quando aquele homem desceu do carro ao teu encontro? Este é o momento de receber dinheiro, vestes, olivais, vinhas, ovelhas, bois, servos e servas?
+
+[[v12-5-27]]
+
+^<<v12-5-27,27>>^ A lepra de Naaman se pegará a ti e a toda a tua geração para sempre. E Giezi saiu da sua presença com lepra branca como a neve.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-004.adoc#v12-4-0[&#60; Capítulo Anterior] | <<v12-5-0,Topo>> | xref:012-ii-reis/012-ii-reis-006.adoc#v12-6-0[Próximo Capítulo &#62;]

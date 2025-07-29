@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v12-21-0]]
+=== II Reis, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 21 de 2 Reis descreve o reinado do rei Manassés, que foi um dos piores reis de Judá. Ele praticou a idolatria e fez coisas más aos olhos do Senhor, levando Judá a pecar. Manassés também construiu altares pagãos dentro do templo em Jerusalém e até sacrificou seu próprio filho em um desses altares. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em 2 Reis 21:
+* Deuteronômio 18:10-12: "Não se achará entre ti quem faça passar pelo fogo a seu filho ou a sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro; nem encantador, nem quem consulte um espírito adivinhador, nem mágico, nem quem consulte os mortos; pois todo aquele que faz estas coisas é abominável ao Senhor." Este versículo destaca a proibição de práticas pagãs e supersticiosas, como sacrificar crianças, consultar adivinhos ou fazer feitiçaria, que foram cometidas pelo rei Manassés.
+* 2 Crônicas 33:11-13: "Pelo que o Senhor trouxe sobre eles os chefes do exército do rei da Assíria, os quais prenderam a Manassés com ganchos, e o amarraram com cadeias de bronze, e o levaram para Babilônia. E, estando ele em angústia, implorou ao Senhor seu Deus, e humilhou-se muito perante o Deus de seus pais; e lhe dirigiu as suas orações, e o Senhor se aplacou para com ele, e ouviu a sua súplica, e o tornou a trazer a Jerusalém, ao seu reino." Este versículo descreve a punição que Deus enviou sobre Manassés por seus pecados, mas também destaca a misericórdia e o perdão de Deus quando o rei se arrependeu e clamou a ele.
+* Provérbios 22:6: "Instrui o menino no caminho em que deve andar, e, até quando envelhecer, não se desviará dele." Este versículo destaca a importância da educação e formação das crianças na fé e nos valores corretos desde cedo, algo que Manassés falhou ao sacrificar seu próprio filho e permitir a idolatria em Judá.
+* Êxodo 34:14: "Porque não te inclinarás diante de outro deus; pois o Senhor, cujo nome é Zeloso, é Deus zeloso." Este versículo destaca a exclusividade do culto ao verdadeiro Deus, e a proibição de adorar outros deuses, algo que Manassés violou ao adotar a idolatria.
+* Isaías 55:7: "Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele; e volte para o nosso Deus, porque é rico em perdoar." Este versículo destaca a possibilidade de arrependimento e conversão, algo que o rei Manassés não fez em 2 Reis 21. A mensagem é clara: mesmo aqueles que são considerados ímpios ou malignos podem se voltar para Deus e serem perdoados.
+****
+
+[[v12-21-1]]
+
+^<<v12-21-1,1>>^ Manassés tinha doze anos quando começou a reinar, e reinou cinqüenta e cinco anos em Jerusalém. Sua mãe chamava-se Hafsiba.
+
+[[v12-21-2]]
+
+^<<v12-21-2,2>>^ Ele fez o mal diante do Senhor, seguindo os ídolos das nações que o Senhor tinha expulsado diante dos filhos de Israel.
+
+[[v12-21-3]]
+
+^<<v12-21-3,3>>^ Reedificou os lugares altos, que seu pai Ezequias tinha destruído, levantou os altares de Baal, plantou aschera, como tinha feito Acab, rei de Israel, e adorou todo o exército do céu, e prestou-lhe culto.
+
+[[v12-21-4]]
+
+^<<v12-21-4,4>>^ Construiu altares (idólatras) na casa do Senhor, da qual o Senhor tinha dito: Eu estabelecerei o meu nome em Jerusalém.
+
+[[v12-21-5]]
+
+^<<v12-21-5,5>>^ Edificou altares a todo o exército do céu nos dois átrios do templo do Senhor.
+
+[[v12-21-6]]
+
+^<<v12-21-6,6>>^ Fez passar seu (próprio) filho pelo fogo; entregou-se a adivinhações, observou agouros. Instituiu magos, multiplicou os arúspices, de sorte que cometeu o mal diante do Senhor provocando a sua cólera.
+
+[[v12-21-7]]
+
+^<<v12-21-7,7>>^ Pôs também o ídolo de Astarte, que tinha feito, no templo do Senhor, do qual o Senhor tinha dito a Davide e a Salomão, seu filho: Neste templo e em Jerusalém, que eu escolhi dentre rodas as tribos de Israel, estabelecerei o meu nome para sempre.
+
+[[v12-21-8]]
+
+^<<v12-21-8,8>>^ Não mais permitirei que os israelitas ponham o pé fora da terra que dei a seus pais, contanto que eles guardem tudo o que eu lhes mandei, toda a lei que meu servo Moisés lhes deu.
+
+[[v12-21-9]]
+
+^<<v12-21-9,9>>^ Eles, porém, não ouviram, mas foram seduzidos por Manassés, para fazerem ainda pior do que tinham feito as gentes que o Senhor tinha exterminado à vista dos filhos de Israel.
+
+[[v12-21-10]]
+
+^<<v12-21-10,10>>^ Falou, pois, o Senhor por meio dos profetas, seus servos, dizendo:
+
+[[v12-21-11]]
+
+^<<v12-21-11,11>>^ Porque Manassés, rei de Judá, cometeu estas abominações, ainda mais detestáveis do que tudo quanto os Amorreus tinham feito antes dele, e fez pecar também Judá com as suas infâmias,
+
+[[v12-21-12]]
+
+^<<v12-21-12,12>>^ por isso diz o Senhor Deus de Israel: Vou fazer cair tais pragas sobre Jerusalém e Judá, que, a todo o que ouvir falar delas, ficar-lhe-ão retinindo (de terror) ambos os ouvidos.
+
+[[v12-21-13]]
+
+^<<v12-21-13,13>>^ Estenderei sobre Jerusalém a (mesma) corda de Samaria e o peso da casa de Acab; limparei Jerusalém, como quem esfrega um prato, virando-o dum lado e doutro.
+
+[[v12-21-14]]
+
+^<<v12-21-14,14>>^ Abandonarei os restos da minha herança e os entregarei nas mãos de seus inimigos, para serem assolados e roubados por todos os seus adversários,
+
+[[v12-21-15]]
+
+^<<v12-21-15,15>>^ porque cometeram o mal diante de mim e não deixaram de me irritar, desde o dia em que seus pais saíram do Egipto até hoje.
+
+[[v12-21-16]]
+
+^<<v12-21-16,16>>^ Além disto, Manassés derramou arroios de sangue inocente, enchendo Jerusalém até à boca, afora os seus pecados com que tinha feito pecar Judá, induzindo-o a fazer o mal diante do Senhor.
+
+[[v12-21-17]]
+
+^<<v12-21-17,17>>^ O resto das acções de Manassés, tudo o que ele fez, o pecado que cometeu, não está tudo escrito no livro das Crônicas dos reis de Judá?
+
+[[v12-21-18]]
+
+^<<v12-21-18,18>>^ Manassés adormeceu com seus pais, e foi sepultado no jardim de sua casa, no jardim de Oza. Em seu lugar reinou seu filho Amon.
+
+[[v12-21-19]]
+
+^<<v12-21-19,19>>^ Tinha Amon vinte e dois anos, quando começou a reinar, e reinou dois anos em Jerusalém. Sua mãe chamava-se Messalemet, filha de Harus de Jeteba.
+
+[[v12-21-20]]
+
+^<<v12-21-20,20>>^ Ele fez o mal diante do Senhor, como tinha feito Manassés, seu pai.
+
+[[v12-21-21]]
+
+^<<v12-21-21,21>>^ Andou por todos os caminhos por onde tinha andado seu pai, serviu as abominações que tinha servido seu pai e adorou-as:
+
+[[v12-21-22]]
+
+^<<v12-21-22,22>>^ abandonou o Senhor Deus de seus pais, e não andou no caminho do Senhor.
+
+[[v12-21-23]]
+
+^<<v12-21-23,23>>^ Seus servos armaram-lhe traições, e mataram-no em sua casa.
+
+[[v12-21-24]]
+
+^<<v12-21-24,24>>^ Porém o povo do país matou todos aqueles que tinham conspirado contra o rei Amon, e constituiu rei a Josias, seu filho, em seu lugar.
+
+[[v12-21-25]]
+
+^<<v12-21-25,25>>^ O resto das acções de Amon está escrito no livro das Crônicas dos reis de Judá.
+
+[[v12-21-26]]
+
+^<<v12-21-26,26>>^ Sepultaram-no no seu sepulcro, no jardim de Oza. Seu filho Josias reinou em seu lugar.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-020.adoc#v12-20-0[&#60; Capítulo Anterior] | <<v12-21-0,Topo>> | xref:012-ii-reis/012-ii-reis-022.adoc#v12-22-0[Próximo Capítulo &#62;]

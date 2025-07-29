@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v1-6-0]]
+=== Gênesis, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 6 narra a história do Dilúvio, um evento em que Deus decide destruir a humanidade devido à sua corrupção e maldade, preservando apenas Noé e sua família, bem como uma representação de cada tipo de animal, em uma arca. Os versículos selecionados são:
+* Isaías 54:9: "Porque isto será para mim como as águas de Noé; pois jurei que as águas de Noé não inundariam mais a terra, e assim jurei que não me irarei mais contra ti, nem te repreenderei." Este versículo faz referência ao Dilúvio de Noé como uma promessa de Deus de que nunca mais destruirá a terra com água.
+* 2 Pedro 2:5: "E não poupou o mundo antigo, mas preservou Noé, pregador da justiça, com mais sete pessoas, quando trouxe o dilúvio sobre um mundo de ímpios." Este versículo menciona Noé como um pregador da justiça e a destruição do mundo ímpio pelo Dilúvio.
+* Mateus 24:37-39: "Pois assim como foi nos dias de Noé, assim será também a vinda do Filho do Homem. Porquanto, assim como nos dias anteriores ao dilúvio, comiam, bebiam, casavam e davam-se em casamento, até ao dia em que Noé entrou na arca, e não o perceberam, até que veio o dilúvio, e os levou a todos; assim será também a vinda do Filho do Homem." Este versículo compara o Dilúvio com a segunda vinda de Jesus, enfatizando a necessidade de estar preparado para o julgamento.
+* Gênesis 9:11: "Estabeleço a minha aliança convosco: jamais será exterminada criatura alguma por causa das águas do dilúvio; jamais haverá outro dilúvio para destruir a terra." Este versículo é Deus estabelecendo a aliança com Noé após o Dilúvio, prometendo nunca mais destruir a terra com água.
+* Hebreus 11:7: "Pela fé, Noé, divinamente instruído acerca de acontecimentos que ainda não se viam e sendo temente a Deus, construiu uma arca para salvar a sua família; e por meio da fé condenou o mundo e tornou-se herdeiro da justiça que é segundo a fé." Este versículo destaca a fé de Noé em obedecer a Deus e construir a arca, bem como sua justiça e salvação da destruição.
+****
+
+[[v1-6-1]]
+
+^<<v1-6-1,1>>^ Ora, tendo os homens começado a multiplicar-se sobre a terra, e tendo gerado filhas,
+
+[[v1-6-2]]
+
+^<<v1-6-2,2>>^ vendo os filhos de Deus que as filhas dos homens eram formosas, tomaram por suas mulheres as que, dentre todas, lhes agradaram.
+
+[[v1-6-3]]
+
+^<<v1-6-3,3>>^ E Deus disse: o meu espirito não permanecerá para sempre no homem, porque é carne. Os seus dias serão cento e vinte anos.
+
+[[v1-6-4]]
+
+^<<v1-6-4,4>>^ Ora, naquele tempo, havia gigantes sobre a terra, e também depois, quando depois os filhos de Deus tiveram comércio com as filhas dos homens, e elas geraram filhos, que foram homens possantes e desde há muito afamados.
+
+[[v1-6-5]]
+
+^<<v1-6-5,5>>^ Deus, vendo que era grande a malicia dos homens sobre a terra, e que todos os pensamentos do seu coração estavam continuamente aplicados ao mal,
+
+[[v1-6-6]]
+
+^<<v1-6-6,6>>^ arrependeu-se de ter feito o homem sobre a terra. E, tocado de íntima dor de coração,
+
+[[v1-6-7]]
+
+^<<v1-6-7,7>>^ disse: exterminarei da face da terra o homem que criei; desde o homem até aos animais, desde os répteis até às aves do céu, porque me pesa de os ter feito.
+
+[[v1-6-8]]
+
+^<<v1-6-8,8>>^ Porém Noé achou graça diante do Senhor.
+
+[[v1-6-9]]
+
+^<<v1-6-9,9>>^ Esta é a posteridade de Noé. Noé foi um homem justo e perfeito entre os homens do seu tempo, e sempre andou com Deus.
+
+[[v1-6-10]]
+
+^<<v1-6-10,10>>^ Gerou três filhos: Sem, Cam e Jafeth.
+
+[[v1-6-11]]
+
+^<<v1-6-11,11>>^ Ora a terra estava corrompida diante de Deus e cheia de iniquidade.
+
+[[v1-6-12]]
+
+^<<v1-6-12,12>>^ Vendo, pois. Deus que a terra estava corrompida (porque toda a carne (todo o homem) tinha corrompido o seu caminho sobre a terra),
+
+[[v1-6-13]]
+
+^<<v1-6-13,13>>^ disse a Noé: o fim de todos chegou diante de mim; a terra, por suas obras, está cheia de iniquidade, e eu os exterminarei com a terra.
+
+[[v1-6-14]]
+
+^<<v1-6-14,14>>^ Faze uma arca de madeiras resinosas: farás na arca uns pequenos quartos e calafetá-la-ás com betume por dentro e por fora.
+
+[[v1-6-15]]
+
+^<<v1-6-15,15>>^ E hás-de fazê-la do seguinte modo: o comprimento da arca será de trezentos côvados, a largura de cincoenta côvados, e a altura de trinta côvados.
+
+[[v1-6-16]]
+
+^<<v1-6-16,16>>^ Farás na arca uma janela, um côvado abaixo do seu cume; porás a porta da arca a um lado; farás nela um andar em baixo, um segundo, e um terceiro andar.
+
+[[v1-6-17]]
+
+^<<v1-6-17,17>>^ Eis que estou para derramar as águas do dilúvio sobre a terra, para fazer morrer toda a carne em que há sopro de vida debaixo do céu; tudo o que há sobre a terra perecerá.
+
+[[v1-6-18]]
+
+^<<v1-6-18,18>>^ Mas contigo estabelecerei a minha aliança: e entrarás na arca tu e teus filhos, tua mulher e as mulheres de teus filhos contigo.
+
+[[v1-6-19]]
+
+^<<v1-6-19,19>>^ De cada espécie de animais, farás entrar na arca dois, macho e fêmea, para que vivam contigo.
+
+[[v1-6-20]]
+
+^<<v1-6-20,20>>^ Das aves, segundo a sua espécie, e das bestas, segundo a sua espécie, de todos os répteis da terra, segundo a sua espécie, de todos entrarão contigo dois, para que possam conservar-se.
+
+[[v1-6-21]]
+
+^<<v1-6-21,21>>^ Tomarás também contigo de todas as coisas que se podem comer, e as levarás junto de ti, (na arca), e servirão de alimento a ti e aos animais.
+
+[[v1-6-22]]
+
+^<<v1-6-22,22>>^ Fez, pois, Noé tudo o que Deus lhe tinha ordenado.
+
+'''
+
+xref:001-genesis/001-genesis-005.adoc#v1-5-0[&#60; Capítulo Anterior] | <<v1-6-0,Topo>> | xref:001-genesis/001-genesis-007.adoc#v1-7-0[Próximo Capítulo &#62;]

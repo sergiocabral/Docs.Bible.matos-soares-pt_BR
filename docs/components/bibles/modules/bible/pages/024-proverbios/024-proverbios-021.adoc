@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v24-21-0]]
+=== Provérbios, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 21 do livro de Provérbios aborda temas relacionados à justiça, sabedoria e comportamento humano. Provérbios 21:3 destaca a importância de praticar a justiça e o direito, enquanto Provérbios 21:9 adverte sobre a dificuldade de conviver com pessoas briguentas e conflituosas. Já Provérbios 21:13 enfatiza a importância de ajudar os necessitados e Provérbios 21:21 ressalta que aqueles que buscam a justiça e a misericórdia encontrarão a vida, a justiça e a honra. Finalmente, Provérbios 21:23 destaca a importância de guardar a boca e manter a língua sob controle, evitando a fofoca e a difamação.
+* Isaías 1:17: "Aprendei a fazer o bem; buscai a justiça, acabai com a opressão, fazei justiça ao órfão, defendei a causa da viúva." Este versículo incentiva a prática da justiça, assim como Provérbios 21:3.
+* Provérbios 20:3: "Honra é do homem o desviar-se de questões, mas todo insensato é intrometido." Este versículo destaca a importância de evitar conflitos e brigas, assim como Provérbios 21:9.
+* Salmos 112:9: "Ele espalhou, deu aos necessitados; a sua justiça subsiste para sempre, o seu poder será exaltado em glória." Este versículo enfatiza a importância de ajudar os necessitados, assim como Provérbios 21:13.
+* Isaías 56:1: "Assim diz o Senhor: Mantende o juízo e fazei justiça, porque a minha salvação está prestes a vir, e a minha justiça, para se manifestar." Este versículo destaca a importância da justiça, assim como Provérbios 21:3 e 21:21.
+* Salmos 34:13: "Guarda a tua língua do mal e os teus lábios de falarem o engano." Este versículo enfatiza a importância de controlar a língua, evitando fofocas e difamações, assim como Provérbios 21:23.
+****
+
+[[v24-21-1]]
+
+^<<v24-21-1,1>>^ O coração do rei está na mão do Senhor como a água corrente; ele o inclinará para qualquer parte que quiser.
+
+[[v24-21-2]]
+
+^<<v24-21-2,2>>^ Todo o caminho do homem lhe parece, a ele próprio. direito; o Senhor porém pesa os corações.
+
+[[v24-21-3]]
+
+^<<v24-21-3,3>>^ Fazer misericórdia e justiça é mais agradável ao Senhor do que o.s sacrifícios (materiais).
+
+[[v24-21-4]]
+
+^<<v24-21-4,4>>^ A soberba do coração torna altivos os olhos; o luzeiro dos impios é o pecado.
+
+[[v24-21-5]]
+
+^<<v24-21-5,5>>^ Os pensamentos do homem diligente produzem sempre abundância; todo o precipitado, porém, está sempre na pobreza.
+
+[[v24-21-6]]
+
+^<<v24-21-6,6>>^ Juntar tesouros cora uma língua de mentira é desatinada vaidade e laço de morte.
+
+[[v24-21-7]]
+
+^<<v24-21-7,7>>^ As rapinas dos ímpios levá-los-ão à sua ruína, porque não quiseram praticar a justiça.
+
+[[v24-21-8]]
+
+^<<v24-21-8,8>>^ O caminho do perverso é um caminho desviado, mas, quando o homem é puro, são rectas as suas obras.
+
+[[v24-21-9]]
+
+^<<v24-21-9,9>>^ Melhor é estar assentado a um canto do terraço, do que habitar com uma mulher litigiosa.
+
+[[v24-21-10]]
+
+^<<v24-21-10,10>>^ A alma do Impio deseja o mal; não se compadecerá do seu próximo.
+
+[[v24-21-11]]
+
+^<<v24-21-11,11>>^ Com o castigo do corrupto ficará mais sábio o inexperiente; se se adverte o homem sábio, adquirirá mais ciência.
+
+[[v24-21-12]]
+
+^<<v24-21-12,12>>^ O Justo reflecte maduramente sobre a casa do ímpio, e precipita os maus na desventura.
+
+[[v24-21-13]]
+
+^<<v24-21-13,13>>^ Aquele que fecha os ouvidos ao clamor do pobre, esse mesmo também clamará e não será ouvido.
+
+[[v24-21-14]]
+
+^<<v24-21-14,14>>^ Um presente secreto extingue as iras; e a dádiva oferecida às ocultas, aplaca a maior indignação.
+
+[[v24-21-15]]
+
+^<<v24-21-15,15>>^ O justo encontra a sua alegria na prática da justiça; porém os que cometem a iniquidade, estão em (continuo) susto.
+
+[[v24-21-16]]
+
+^<<v24-21-16,16>>^ O homem que se extraviar do caminho da sabedoria terá por morada a assembleia dos mortos.
+
+[[v24-21-17]]
+
+^<<v24-21-17,17>>^ Aquele que ama a alegria (na intemperança), parará na indigência; o que ama o vinho e os perfumes, não enriquecerá.
+
+[[v24-21-18]]
+
+^<<v24-21-18,18>>^ O ímpio é entregue (à expiação) em lugar do justo, e o iníquo em lugar dos rectos. (ver nota)
+
+[[v24-21-19]]
+
+^<<v24-21-19,19>>^ Melhor é habitar numa terra deserta, do que com uma mulher litigiosa e colérica.
+
+[[v24-21-20]]
+
+^<<v24-21-20,20>>^ Na casa do justo há tesouro precioso e azeite (aromatizado); porém um insensato dissipará tudo.
+
+[[v24-21-21]]
+
+^<<v24-21-21,21>>^ Aquele que exerce a justiça e a misericórdia, achará vida, justiça e glória.
+
+[[v24-21-22]]
+
+^<<v24-21-22,22>>^ O sábio tornou-se senhor da cidade dos valentes, e destruiu a fortaleza em que ela confiava.
+
+[[v24-21-23]]
+
+^<<v24-21-23,23>>^ Aquele que guarda a sua boca e a sua língua, preserva a sua alma de angústias.
+
+[[v24-21-24]]
+
+^<<v24-21-24,24>>^ O soberbo e presumido é chamado petulante, porque procede com excesso de insolência.
+
+[[v24-21-25]]
+
+^<<v24-21-25,25>>^ Os desejos matam o preguiçoso, porque as suas mãos não querem fazer nada;
+
+[[v24-21-26]]
+
+^<<v24-21-26,26>>^ passa todo o dia a desejar com ardor, mas o que é justo dá (aos outros) largamente.
+
+[[v24-21-27]]
+
+^<<v24-21-27,27>>^ O sacrifício dos ímpios é abominável, sobretudo quando o oferecem com má intenção.
+
+[[v24-21-28]]
+
+^<<v24-21-28,28>>^ A testemunha mentirosa perecerá; o homem que escuta, falará com constância.
+
+[[v24-21-29]]
+
+^<<v24-21-29,29>>^ O ímpio mostra no seu rosto uma segurança desavergonhada; porém o que é recto corrige o seu caminho.
+
+[[v24-21-30]]
+
+^<<v24-21-30,30>>^ Não há sabedoria, não há prudência. Deus. não há conselho (que prevaleça) contra o Senhor.
+
+[[v24-21-31]]
+
+^<<v24-21-31,31>>^ Prepara-se o cavalo para o dia da batalha; mas o Senhor é quem dá a vitória.
+
+'''
+
+xref:024-proverbios/024-proverbios-020.adoc#v24-20-0[&#60; Capítulo Anterior] | <<v24-21-0,Topo>> | xref:024-proverbios/024-proverbios-022.adoc#v24-22-0[Próximo Capítulo &#62;]

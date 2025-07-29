@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v21-42-0]]
+=== Salmos, 42
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 42 é um salmo de lamentação que expressa a tristeza e a saudade do salmista pela presença de Deus. Ele anseia por Deus como uma pessoa sedenta anseia por água. Abaixo estão cinco versículos relacionados aos temas abordados no Salmo 42:
+* Salmos 63:1: "Ó Deus, tu és o meu Deus; eu te busco intensamente. A minha alma tem sede de ti! Todo o meu ser anseia por ti, numa terra seca, exausta e sem água." Este verso reflete a mesma intensa busca por Deus expressa pelo salmista em Salmo 42.
+* Salmos 63:6: "Lembro-me de ti enquanto vou dormir; medito em ti durante as vigílias da noite." Este verso sugere que a busca por Deus é constante, mesmo durante o sono e a noite.
+* Salmos 84:2: "Como é agradável o lugar da tua habitação, Senhor dos Exércitos!" Este verso expressa a saudade do salmista pela presença de Deus, assim como em Salmo 42.
+* Salmos 119:82: "Os meus olhos estão cansados de tanto esperar pela tua promessa, e eu pergunto: "Quando me consolarás?"" Este verso mostra a impaciência do salmista ao esperar pela consolação de Deus, o que também é expresso em Salmo 42.
+* Isaías 55:6: "Busquem o Senhor enquanto é possível achá-lo; clamem por ele enquanto está perto." Este verso é uma exortação para buscar a Deus, o que se relaciona com o anseio do salmista em Salmo 42.
+****
+
+[[v21-42-1]]
+
+^<<v21-42-1,1>>^ Faz-me justiça, ó Deus, e defende a minha causa contra uma gente não santa; livra-me do homem enganador e iníquo,
+
+[[v21-42-2]]
+
+^<<v21-42-2,2>>^ porque tu és, ó Deus, a minha fortaleza: por que me repeliste? Por que ando triste, sob a opressão do meu inimigo? (ver nota)
+
+[[v21-42-3]]
+
+^<<v21-42-3,3>>^ Envia a tua luz e a tua fidelidade: elas me guiem, me conduzam ao teu santo monte e aos teus tabernáculos.
+
+[[v21-42-4]]
+
+^<<v21-42-4,4>>^ E subirei ao altar de Deus, ao Deus do meu júbilo e da minha alegria, e te louvarei ao som da citara, ó Deus, Deus meu!
+
+[[v21-42-5]]
+
+^<<v21-42-5,5>>^ Por que te deprimes, minha alma? Por que te conturbas dentro de mim? Espera em Deus, porque novamente o hei-de louvar, (a ele que é) a salvação do meu rosto e o meu Deus.
+
+'''
+
+xref:021-salmos/021-salmos-041.adoc#v21-41-0[&#60; Capítulo Anterior] | <<v21-42-0,Topo>> | xref:021-salmos/021-salmos-043.adoc#v21-43-0[Próximo Capítulo &#62;]

@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v25-3-0]]
+=== Eclesiastes, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiastes 3 é um capítulo que trata da dualidade da vida e do tempo, mostrando que há um tempo certo para tudo debaixo do céu, como nascer, morrer, plantar, colher, amar, odiar, chorar, rir, entre outras coisas. Alguns dos temas abordados são a transitoriedade da vida, a inevitabilidade da morte e a importância de se aproveitar cada momento.
+* Salmos 90:12: "Ensina-nos a contar os nossos dias para que o nosso coração alcance sabedoria." O salmista pede a Deus que o ensine a contar seus dias para que ele possa viver de forma sábia e consciente, reconhecendo a brevidade da vida.
+* Tiago 4:14: "Vocês nem sabem o que lhes acontecerá amanhã! Que é a sua vida? Vocês são como a neblina que aparece por um pouco de tempo e depois se dissipa." O apóstolo Tiago também destaca a brevidade da vida e sua incerteza, lembrando que a vida humana é como uma neblina que desaparece rapidamente.
+* Hebreus 9:27: "E, assim como aos homens está ordenado morrerem uma só vez, vindo, depois disto, o juízo." O autor de Hebreus enfatiza que a morte é inevitável e que todos terão que prestar contas a Deus no juízo final.
+* Salmo 39:4: "Faze-me conhecer, Senhor, o meu fim, e qual a medida dos meus dias, para que eu saiba quanto sou frágil." O salmista clama a Deus para que lhe mostre a brevidade da vida e sua fragilidade, reconhecendo que sua existência é finita e que precisa aproveitar cada momento.
+* Mateus 6:34: "Portanto, não se preocupem com o amanhã, pois o amanhã trará suas próprias preocupações. Basta a cada dia o seu próprio mal." Jesus ensina que devemos viver um dia de cada vez, sem nos preocuparmos excessivamente com o futuro, mas sim aproveitando o presente.
+****
+
+[[v25-3-1]]
+
+^<<v25-3-1,1>>^ Todas as coisas têm o seu tempo, todas elas passam debaixo do céu segundo o termo que a cada uma foi prescrito.
+
+[[v25-3-2]]
+
+^<<v25-3-2,2>>^ Há tempo de nascer, e tempo de morrer. Há tempo de plantar, e tempo de arrancar o que se plantou.
+
+[[v25-3-3]]
+
+^<<v25-3-3,3>>^ Há tempo de matar, e tempo de sarar. Há tempo de destruir, e tempo de edificar.
+
+[[v25-3-4]]
+
+^<<v25-3-4,4>>^ Há tempo de chorar, e tempo de rir. Há tempo de se afligir, e tempo de dançar.
+
+[[v25-3-5]]
+
+^<<v25-3-5,5>>^ Há tempo de espalhar pedras, e tempo de as ajuntar. Há tempo de dar abraços, e tempo de se afastar deles.
+
+[[v25-3-6]]
+
+^<<v25-3-6,6>>^ Há tempo de adquirir, e tempo de perder. Há tempo de guardar, e tempo de lançar fora.
+
+[[v25-3-7]]
+
+^<<v25-3-7,7>>^ Há tempo de rasgar, e tempo de coser. Há tempo de calar, e tempo de falar. (ver nota)
+
+[[v25-3-8]]
+
+^<<v25-3-8,8>>^ Há tempo de amor, e tempo de ódio. Há tempo de guerra, e tempo de paz.
+
+[[v25-3-9]]
+
+^<<v25-3-9,9>>^ Que proveito tira o homem de todo o seu trabalho (realizado sem Deus)
+
+[[v25-3-10]]
+
+^<<v25-3-10,10>>^ Eu vi o trabalho penoso que Deus deu aos filhos dos homens, para que sejam atormentados por ele.
+
+[[v25-3-11]]
+
+^<<v25-3-11,11>>^ Todas as coisas que Deus fez são boas, no seu tempo. Além disso, pôs no seu coração a duração inteira, sem que ninguém possa compreender a obra divina, dum extremo ao outro.
+
+[[v25-3-12]]
+
+^<<v25-3-12,12>>^ E eu reconheci que não havia nada melhor, do que alegrar-se o homem, e fazer o bem, enquanto lhe dura a vida.
+
+[[v25-3-13]]
+
+^<<v25-3-13,13>>^ Todo o homem que come, bebe e tira o bem do seu trabalho, recebe isto por um dom de Deus.
+
+[[v25-3-14]]
+
+^<<v25-3-14,14>>^ Aprendi também que todas as obras que Deus faz duram perpètuamente; nós não lhes podemos acrescentar nem tirar nada: Deus procede assim para que seja temido. (ver nota)
+
+[[v25-3-15]]
+
+^<<v25-3-15,15>>^ O que foi feito, é o que existe; as coisas que hão-de ser, já foram; Deus faz voltar aquilo que passou.
+
+[[v25-3-16]]
+
+^<<v25-3-16,16>>^ Eu vi debaixo do sol a injustiça no lugar do direito, e a iniquidade no lugar da justiça.
+
+[[v25-3-17]]
+
+^<<v25-3-17,17>>^ E disse no meu coração: Deus (um dia) julgará o justo e o ímpio, porque há um tempo para todas as coisas e para todas as obras.
+
+[[v25-3-18]]
+
+^<<v25-3-18,18>>^ Eu disse no meu coração acerca dos filhos dos homens, que Deus os prova e lhes mostra que são semelhantes aos brutos. (ver nota)
+
+[[v25-3-19]]
+
+^<<v25-3-19,19>>^ Por isso os homens morrem como os brutos, e (em ter que morrer) é igual a condição de uns e outros; como morre o homem, assim morrem também os brutos; todos têm o mesmo sopro (de vida), e o homem não tem nada de mais do que o bruto; tudo é vaidade. (ver nota)
+
+[[v25-3-20]]
+
+^<<v25-3-20,20>>^ E todos vão parar a um mesmo lugar. De terra foram feitos e à terra voltam.
+
+[[v25-3-21]]
+
+^<<v25-3-21,21>>^ Quem sabe se o sopro de vida dos filhos dos homens subirá às alturas, e se o sopro de vida dos brutos descerá ao fundo, à terra?
+
+[[v25-3-22]]
+
+^<<v25-3-22,22>>^ E reconheci que nada havia melhor do que alegrar-se o homem nas suas obras, e que esta era a parte que lhe cabia. Porque, quem o poderá pôr em estado de conhecer o que há-de acontecer depois dele?
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-002.adoc#v25-2-0[&#60; Capítulo Anterior] | <<v25-3-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-004.adoc#v25-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v5-27-0]]
+=== Deuteronômio, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 27 é um capítulo que apresenta instruções sobre a cerimônia de consagração da Lei de Deus na Terra Prometida. O povo de Israel deveria realizar essa cerimônia ao entrar na terra que Deus havia prometido a eles. A cerimônia consistia em escrever a Lei em pedras grandes e erigir um altar ao Senhor. Metade do povo deveria ficar em pé no Monte Gerizim, e a outra metade deveria ficar no Monte Ebal, enquanto os sacerdotes proferiam bênçãos e maldições. Seguem abaixo cinco versículos relacionados aos temas abordados em Deuteronômio 27:
+* Deuteronômio 6:6-9: "Estas palavras que hoje lhe ordeno estarão em seu coração. Você as ensinará com diligência aos seus filhos e delas falará quando estiver sentado em sua casa, quando estiver andando pelo caminho, quando se deitar e quando se levantar. Amarrá-las-á como sinal em suas mãos e serão como faixas na sua testa. Escrevê-las-á nos batentes da sua casa e nos seus portões". Este versículo ressalta a importância de ensinar a Lei de Deus às gerações futuras, tema central da cerimônia descrita em Deuteronômio 27.
+* Deuteronômio 31:12-13: "Reúna o povo, homens, mulheres e crianças, e os estrangeiros residentes em suas cidades, para que ouçam e aprendam a temer o Senhor, o seu Deus, e sigam cuidadosamente todas as palavras desta lei. Seus filhos, que não a conhecem, a ouvirão e aprenderão a temer o Senhor, o seu Deus, enquanto viverem na terra para a qual vocês estão indo, cruzando o Jordão para tomá-la como herança". Este versículo destaca novamente a importância de ensinar a Lei de Deus às gerações futuras.
+* Josué 8:30-35: Este trecho narra a realização da cerimônia descrita em Deuteronômio 27. As instruções dadas em Deuteronômio foram seguidas à risca pelos israelitas, o que mostra a importância que davam à consagração da Lei de Deus.
+* Neemias 8:1-8: Este trecho descreve outra ocasião em que a Lei de Deus foi lida publicamente para o povo de Israel. Novamente, o objetivo era ensinar a Lei aos ouvintes e renovar o compromisso do povo com ela.
+* Salmos 1:1-2: "Bem-aventurado o homem que não segue o conselho dos ímpios, não se detém no caminho dos pecadores, nem se assenta na roda dos zombadores! Antes, seu prazer está na lei do Senhor, e nessa lei medita dia e noite". Este versículo destaca a importância de seguir a Lei de Deus e meditar nela constantemente, tema central da cerimônia descrita em Deuteronômio 27.
+****
+
+[[v5-27-1]]
+
+^<<v5-27-1,1>>^ Moisés, com os anciães de Israel, deu esta ordem ao povo: Observai todos os mandamentos que eu vos prescrevo.
+
+[[v5-27-2]]
+
+^<<v5-27-2,2>>^ Quando, passado o Jordão, tiveres entrado na terra que o Senhor teu Deus te há-de dar, levantarás umas pedras grandes e as revestirás de cal,
+
+[[v5-27-3]]
+
+^<<v5-27-3,3>>^ para que possas escrever sobre elas todas as palavras desta lei, depois que tiveres passado o Jordão, para entrares na terra que o Senhor teu Deus te dará, terra que mana leite e mel, como ele jurou a teus pais.
+
+[[v5-27-4]]
+
+^<<v5-27-4,4>>^ Quando, pois tiverdes passado o Jordão, levantai as pedras que eu hoje vos ordeno, sobre o monte Hebal, revestindo-as de cal.
+
+[[v5-27-5]]
+
+^<<v5-27-5,5>>^ Edificarás aí um altar ao Senhor teu Deus com pedras, que o ferro não tenha tocado,
+
+[[v5-27-6]]
+
+^<<v5-27-6,6>>^ com pedras informes e por polir; oferecerás sobre ele holocaustos ao Senhor teu Deus,
+
+[[v5-27-7]]
+
+^<<v5-27-7,7>>^ oferecerás sacrifícios pacíficos, e ali comerás, e te regalarás diante do Senhor teu Deus.
+
+[[v5-27-8]]
+
+^<<v5-27-8,8>>^ Escreverás distinta e claramente sobre as pedras todas as palavras desta lei.
+
+[[v5-27-9]]
+
+^<<v5-27-9,9>>^ Moisés e os sacerdotes da linhagem de Levi disseram a todo o Israel: Guarda silêncio e ouve, ó Israel; hoje tornaste-te o povo do Senhor teu Deus;
+
+[[v5-27-10]]
+
+^<<v5-27-10,10>>^ ouvirás a sua voz, e observarás os mandamentos e Ieis que eu te prescrevo.
+
+[[v5-27-11]]
+
+^<<v5-27-11,11>>^ Moisés naquele (mesmo) dia deu esta ordem ao povo:
+
+[[v5-27-12]]
+
+^<<v5-27-12,12>>^ Passado o Jordão, estarão sobre o monte de Garizim, para abençoar o povo, estes: Simeão, Levi, Judá, Issacar, José e Benjamim.
+
+[[v5-27-13]]
+
+^<<v5-27-13,13>>^ E estarão da outra parte sobre o monte Hebal, para deitarem a maldição, estoutros: Ruben, Gad, Aser, Zabulon, Dan e Neftali.
+
+[[v5-27-14]]
+
+^<<v5-27-14,14>>^ E os Levitas tomarão a palavra e dirão em alta voz a todos os homens de Israel:
+
+[[v5-27-15]]
+
+^<<v5-27-15,15>>^ Maldito o homem que faz escultura ou imagem fundida, coisa abominável para o Senhor, obra das mãos dos artífices, e a coloca num lugar escondido. Todo o povo responderá: Assim seja.
+
+[[v5-27-16]]
+
+^<<v5-27-16,16>>^ Maldito o que não honra seu pai e sua mãe. E todo o povo dirá: Assim seja.
+
+[[v5-27-17]]
+
+^<<v5-27-17,17>>^ Maldito o que desloca os marcos do seu próximo. — E todo o povo dirá: Assim seja.
+
+[[v5-27-18]]
+
+^<<v5-27-18,18>>^ Maldito o que faz um cego errar no caminho. — Todo o povo dirá: Assim seja.
+
+[[v5-27-19]]
+
+^<<v5-27-19,19>>^ Maldito o que viola o direito do estrangeiro, do órfão e da viúva. — Todo o povo dirá: Assim seja.
+
+[[v5-27-20]]
+
+^<<v5-27-20,20>>^ Maldito o que dorme com a mulher de seu pai, e que levanta a coberta de seu tálamo. — Todo o povo dirá: Assim seja.
+
+[[v5-27-21]]
+
+^<<v5-27-21,21>>^ Maldito o que peca com qualquer animal. — Todo o povo dirá: Assim seja.
+
+[[v5-27-22]]
+
+^<<v5-27-22,22>>^ Maldito o que dorme com sua irmã, filha de seu pai, ou de sua mãe. — Todo o povo dirá: Assim seja.
+
+[[v5-27-23]]
+
+^<<v5-27-23,23>>^ Maldito o que dorme com sua sogra. — Todo o povo dirá: Assim seja.
+
+[[v5-27-24]]
+
+^<<v5-27-24,24>>^ Maldito o que fere o seu próximo à traição. — Todo o povo dirá: Assim seja.
+
+[[v5-27-25]]
+
+^<<v5-27-25,25>>^ Maldito o que recebe dádivas para derramar o sangue dum inocente. — Todo o povo dirá: Assim seja.
+
+[[v5-27-26]]
+
+^<<v5-27-26,26>>^ Maldito o que não conserva as palavras desta lei, e as não põe em prática. — Todo o povo dirá: Assim seja.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[&#60; Capítulo Anterior] | <<v5-27-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[Próximo Capítulo &#62;]

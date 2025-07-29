@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v45-10-0]]
+=== Zacarias, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Zacarias 10 é um capítulo que fala sobre a restauração do povo de Deus e o cuidado que Deus tem por suas ovelhas. O profeta encoraja o povo a buscar o Senhor e a confiar em sua liderança, pois Ele proverá tudo o que eles precisam. Abaixo estão cinco versículos relacionados com os temas abordados em Zacarias 10.
+* Isaías 40:11: "Como pastor ele cuidará do seu rebanho, com o braço ajuntará os cordeirinhos e os levará no colo; guiará suavemente as ovelhas que amamentam." Este versículo retrata a imagem de Deus como um pastor amoroso que cuida de suas ovelhas, assim como é mencionado em Zacarias 10:2-3.
+* Ezequiel 34:11: "Pois assim diz o Soberano, o Senhor: Eu mesmo buscarei as minhas ovelhas e cuidarei delas." Esse versículo destaca o cuidado que Deus tem por suas ovelhas, como é enfatizado em Zacarias 10:3-4.
+* Jeremias 31:10: "Ouçam a palavra do Senhor, ó nações, e anunciem nas ilhas distantes: 'Aquele que dispersou Israel os reunirá e os guardará, como um pastor que cuida do seu rebanho'." Este versículo mostra como Deus trará seu povo de volta para sua terra e cuidará dele como um pastor cuida de suas ovelhas, como é mencionado em Zacarias 10:8.
+* Salmos 23:1: "O Senhor é o meu pastor; nada me faltará." Esse versículo retrata Deus como um pastor que guia e provê para suas ovelhas, como é enfatizado em Zacarias 10:3-4.
+* Jeremias 50:6: "O meu povo foi ovelha extraviada; os seus pastores a levaram a perder-se nos montes. Foram de monte em monte, esquecendo-se do seu curral." Este versículo fala sobre o povo de Deus que se perdeu por causa de seus pastores infiéis, mas Deus promete trazer suas ovelhas de volta para casa, como é mencionado em Zacarias 10:2-3.
+****
+
+[[v45-10-1]]
+
+^<<v45-10-1,1>>^ Pedi ao Senhor chuvas serôdias, e o Senhor fará brilhar o relâmpago, dar-vos-á chuvas em abundância, a cada um erva no campo.
+
+[[v45-10-2]]
+
+^<<v45-10-2,2>>^ (Como já vistes) os terafins deram respostas vãs,os adivinhos tiveram visões mentirosas; os sonhos apresentados são vãos, as consolações são consolações falsas; por isso (os vossos crédulos pais) foram levados como um rebanho, foram afligidos, porque não tinham pastor.
+
+[[v45-10-3]]
+
+^<<v45-10-3,3>>^ O meu furor acende-se contra os pastores, castigarei os bodes. Sim, o Senhor dos exércitos terá cuidado do seu rebanho, da casa de Judá, e fará dela como que o seu cavalo de glória na guerra. (ver nota)
+
+[[v45-10-4]]
+
+^<<v45-10-4,4>>^ De Judá sairá o ângulo, dele a estaca, dele o arco de guerra, dele todos os chefes.
+
+[[v45-10-5]]
+
+^<<v45-10-5,5>>^ Serão como heróis que, nas refregas, pisarão aos pés o inimigo, como a lama das ruas; pelejarão valorosamente, porque o Senhor está com eles; e por eles serão confundidos os cavaleiros (dos seus adversários).
+
+[[v45-10-6]]
+
+^<<v45-10-6,6>>^ Fortalecerei a casa de Judá, salvarei a casa de José; restabelecê-los-ei porque me compadecerei deles; serão como se os não tivesse rejeitado, porque eu sou o Senhor seu Deus: ouvi-los-ei.
+
+[[v45-10-7]]
+
+^<<v45-10-7,7>>^ (Os de) Efraim serão como heróis, e o seu coração se alegrará como (com) o vinho; os seus filhos os verão e se alegrarão, e o seu coração exultará no Senhor.
+
+[[v45-10-8]]
+
+^<<v45-10-8,8>>^ Eu lhes assobiarei e os congregarei, porque os resgatei; multiplicá-los-ei, como antes se tinham multiplicado.
+
+[[v45-10-9]]
+
+^<<v45-10-9,9>>^ Semeá-los-ei por entre os povos, e eles de longe de recordarão de mim; instruirão seus filhos, e tomarão a vir.
+
+[[v45-10-10]]
+
+^<<v45-10-10,10>>^ Reconduzi-los-ei da terra do Egipto, congregá-los-ei da Assíria, introduzi-los-ei na terra de Galaad e no Líbano, e não se achará lá lugar (bastante) para eles (por serem numerosos).
+
+[[v45-10-11]]
+
+^<<v45-10-11,11>>^ Israel passará o mar, do Egipto, (o Senhor) ferirá as ondas do mar, todas as profundidades do Nilo ficarão descobertas. A soberba de Assur será humilhada, e o ceptro do Egipto será tirado.
+
+'''
+
+xref:045-zacarias/045-zacarias-009.adoc#v45-9-0[&#60; Capítulo Anterior] | <<v45-10-0,Topo>> | xref:045-zacarias/045-zacarias-011.adoc#v45-11-0[Próximo Capítulo &#62;]

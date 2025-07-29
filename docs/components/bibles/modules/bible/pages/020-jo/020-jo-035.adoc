@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v20-35-0]]
+=== Jó, 35
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 35 é um capítulo em que Eliú continua seu discurso, argumentando que as ações dos homens não afetam a Deus e que é importante buscar a Deus com sinceridade e humildade. Ele também fala sobre a justiça divina e a importância de confiar em Deus, em vez de confiar nas próprias obras. Abaixo estão cinco versículos relacionados com os temas abordados em Jó 35:
+* Salmos 22:24: "Porque não desprezou, nem abominou a aflição do aflito, nem escondeu dele o seu rosto; antes, quando ele clamou, o ouviu." Este verso fala sobre como Deus não despreza ou abandona os aflitos, mas os ouve quando clamam a Ele, relacionando-se com a mensagem de Eliú sobre a importância de buscar a Deus com sinceridade.
+* Salmos 145:17: "Justo é o Senhor em todos os seus caminhos, e santo em todas as suas obras." Este verso fala sobre a justiça de Deus e sua santidade em todas as obras, o que se relaciona com o discurso de Eliú sobre a justiça divina.
+* Provérbios 3:34: "Certamente ele escarnecerá dos escarnecedores, mas dará graça aos mansos." Este verso fala sobre como Deus recompensa os humildes e mansos, em oposição aos escarnecedores, o que se relaciona com a mensagem de Eliú sobre a importância de buscar a Deus com humildade.
+* Eclesiastes 3:14: "Eu sei que tudo quanto Deus faz durará eternamente; nada se lhe deve acrescentar, e nada se lhe deve tirar; e isso faz Deus para que haja temor diante dele." Este verso fala sobre como tudo o que Deus faz é eterno e não pode ser mudado, o que se relaciona com a mensagem de Eliú sobre a importância de confiar em Deus, em vez de confiar nas próprias obras.
+* Isaías 40:31: "Mas os que esperam no Senhor renovarão as suas forças e subirão com asas como águias; correrão e não se cansarão; caminharão e não se fatigarão." Este verso fala sobre como aqueles que esperam no Senhor serão renovados e não se cansarão, relacionando-se com a mensagem de Eliú sobre a importância de confiar em Deus e não nas próprias forças.
+****
+
+[[v20-35-1]]
+
+^<<v20-35-1,1>>^ Eliú, falando de novo, disse:
+
+[[v20-35-2]]
+
+^<<v20-35-2,2>>^ Parece-te porventura justo o teu pensamento, quando disseste: Eu tenho razão contra Deus?
+
+[[v20-35-3]]
+
+^<<v20-35-3,3>>^ Ou quando disseste: de que me serve a minha inocência, que vantagem tirei de não pecar?
+
+[[v20-35-4]]
+
+^<<v20-35-4,4>>^ Eu, portanto, responderei aos teus discursos e aos teus amigos contigo.
+
+[[v20-35-5]]
+
+^<<v20-35-5,5>>^ Levanta os olhos ao céu e vê, contempla como o firmamento é mais alto que tu.
+
+[[v20-35-6]]
+
+^<<v20-35-6,6>>^ Se pecares, que dano farás tu a Deus? Se as tuas iniquidades se multiplicarem, que prejuízo lhe causarás?
+
+[[v20-35-7]]
+
+^<<v20-35-7,7>>^ Se obrares com justiça, que proveito lhe darás ou que receberá ele da lua mão?
+
+[[v20-35-8]]
+
+^<<v20-35-8,8>>^ A tua impiedade só poderá fazer mal a um homem, que é teu semelhante; a tua justiça só poderá ser útil ao afilho do homem.
+
+[[v20-35-9]]
+
+^<<v20-35-9,9>>^ Eles (os oprimidos) clamam por causa da gravidade da opressão, e lamentam-se por causa da violência do braço dos tiranos.
+
+[[v20-35-10]]
+
+^<<v20-35-10,10>>^ Mas nenhum disse: Onde está o Deus que me criou, que inspira cânticos de júbilo em plena noite;
+
+[[v20-35-11]]
+
+^<<v20-35-11,11>>^ que nos instrui mais que aos animais da terra, e nos ilustra mais que às aves do céu?
+
+[[v20-35-12]]
+
+^<<v20-35-12,12>>^ Clamam então, e Deus não os ouve por causa da soberba dos maus.
+
+[[v20-35-13]]
+
+^<<v20-35-13,13>>^ Deus não ouve gritos vãos o Omnipotente não os atende.
+
+[[v20-35-14]]
+
+^<<v20-35-14,14>>^ Ainda quando tenhas dito: "(Deus") não atende", - a (tua) causa está já diante dele, espera o seu julgamento.
+
+[[v20-35-15]]
+
+^<<v20-35-15,15>>^ Mas, agora, porque a sua cólera ainda se não manifestou, há motivo para dizer que ele não faz caso do crime?
+
+[[v20-35-16]]
+
+^<<v20-35-16,16>>^ Logo Job em vão abriu a sua boca, insensatamente multiplicou palavras.
+
+'''
+
+xref:020-jo/020-jo-034.adoc#v20-34-0[&#60; Capítulo Anterior] | <<v20-35-0,Topo>> | xref:020-jo/020-jo-036.adoc#v20-36-0[Próximo Capítulo &#62;]

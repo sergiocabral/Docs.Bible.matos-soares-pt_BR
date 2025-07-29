@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v18-15-0]]
+=== Judite, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 15 narra a vitória de Judite sobre o exército assírio liderado por Holofernes. Ela consegue decapitar Holofernes enquanto ele dormia, causando a desorganização do exército inimigo e sua posterior derrota pelos israelitas liderados por Ozias. Abaixo estão cinco versículos relacionados com os temas abordados em Judite 15:
+* Juízes 4:21: "Então Jael, mulher de Héber, pegou uma estaca da tenda, pegou um martelo em sua mão, e foi silenciosamente até Sísera, e cravou a estaca em sua cabeça, e a pregou no chão, enquanto ele estava profundamente adormecido de cansaço. Assim ele morreu." Assim como Jael conseguiu matar Sísera, um general inimigo, enquanto ele dormia, Judite consegue decapitar Holofernes, líder do exército assírio, enquanto ele dormia.
+* Êxodo 15:3: "O Senhor é guerreiro; o Senhor é o seu nome." A vitória de Judite é mais uma demonstração do poder de Deus como guerreiro e protetor de seu povo.
+* Salmos 68:1: "Deus se levanta, seus inimigos são dispersados, e seus adversários fogem diante dele." Esse versículo descreve a vitória de Deus sobre seus inimigos, que é semelhante à vitória de Judite sobre Holofernes e o exército assírio.
+* Isaías 41:10: "Não tenha medo, pois estou com você; não se apavore, pois sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa." Judite pode ter encontrado coragem e força para enfrentar o exército assírio sabendo que Deus estava com ela e a ajudaria a vencer.
+* Josué 1:9: "Não te ordenei que sejas forte e corajoso? Não tenha medo nem desanime, pois o Senhor, o seu Deus, estará com você onde quer que vá." Este versículo encoraja Josué a liderar o povo de Israel para a terra prometida e pode ter servido como inspiração para Judite, que liderou seu povo à vitória contra os assírios.
+****
+
+[[v18-15-1]]
+
+^<<v18-15-1,1>>^ Quando todo o exército soube que Holofernes tinha sido decapitado, perderam a razão e o conselho, e, agitados unicamente pelo temor e pelo pavor, buscaram a salvação na fuga.
+
+[[v18-15-2]]
+
+^<<v18-15-2,2>>^ Nenhum falava sequer ao seu companheiro, mas de cabeça baixa, tendo abandonado tudo, aflitos por se escaparem dos Hebreus, pois que os ouviam vir armados sobre eles, fugiam pelos caminhos dos campos e pelas veredas dos outeiros.
+
+[[v18-15-3]]
+
+^<<v18-15-3,3>>^ Os Israelitas, vendo-os fugir, perseguiram-nos. Desceram (o monte), tocando trombetas e gritando atrás deles.
+
+[[v18-15-4]]
+
+^<<v18-15-4,4>>^ E, como os Assírios, desordenados, iam fugindo precipitadamente, os filhos de Israel, que os perseguiam juntos em um só batalhão, destroçavam todos os que podiam encontrar.
+
+[[v18-15-5]]
+
+^<<v18-15-5,5>>^ Ozias mandou mensageiros a todas as cidades e províncias de Israel.
+
+[[v18-15-6]]
+
+^<<v18-15-6,6>>^ Assim cada província e cada cidade mandaram em seu alcance uma juventude escolhida e armada, e perseguiram-nos ao fio da espada até aos seus extremos confins.
+
+[[v18-15-7]]
+
+^<<v18-15-7,7>>^ Os que tinham ficado em Betúlia, entraram no acampamento dos Assírios e levaram os despojos que os Assírios na sua fuga tinham deixado, voltando muito carregados.
+
+[[v18-15-8]]
+
+^<<v18-15-8,8>>^ Aqueles que tornaram vitoriosos para Betúlia, trouxeram consigo tudo o que era dos Assírios, de modo que eram inumeráveis os gados, os animais de tiro e todas as suas bagagens; desta forma todos, desde o mais pequeno até ao maior, ficaram ricos com os seus despojos.
+
+[[v18-15-9]]
+
+^<<v18-15-9,9>>^ O sumo pontífice Joaquim foi de Jerusalém a Betúlia com todos os seus anciãos, para ver Judit.
+
+[[v18-15-10]]
+
+^<<v18-15-10,10>>^ Tendo ela saído a recebê-los, abençoaram-na todos a uma voz, dizendo: Tu és a glória de Jerusalém, tu a alegria de Israel, tu a honra do nosso povo.
+
+[[v18-15-11]]
+
+^<<v18-15-11,11>>^ Procedeste varonilmente e o teu coração foi cheio de força. Porque amaste a castidade, porque depois do teu marido, não conheceste outro homem, por isso a mão do Senhor te fortaleceu, e serás bendita eternamente.
+
+[[v18-15-12]]
+
+^<<v18-15-12,12>>^ Todo o povo respondeu: Assim seja, assim seja.
+
+[[v18-15-13]]
+
+^<<v18-15-13,13>>^ Trinta dias mal bastaram para o povo de Israel recolher os despojos dos Assírios.
+
+[[v18-15-14]]
+
+^<<v18-15-14,14>>^ Tudo aquilo que se soube ter pertencido a Holofernes, deram-no a Judit: ouro, prata, vestes, pedras preciosas, objectos de diversa espécie, tudo lhe foi dado pelo povo.
+
+[[v18-15-15]]
+
+^<<v18-15-15,15>>^ Todo o povo rejubilou, com as mulheres, com as donzelas e com os jovens, ao som de harpas e cítaras.
+
+'''
+
+xref:018-judite/018-judite-014.adoc#v18-14-0[&#60; Capítulo Anterior] | <<v18-15-0,Topo>> | xref:018-judite/018-judite-016.adoc#v18-16-0[Próximo Capítulo &#62;]

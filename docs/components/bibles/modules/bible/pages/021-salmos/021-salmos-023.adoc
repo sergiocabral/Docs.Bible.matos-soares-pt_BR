@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v21-23-0]]
+=== Salmos, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 23 é um dos mais conhecidos e amados salmos da Bíblia. Nele, o salmista Davi expressa sua confiança em Deus como o seu pastor, provedor e protetor. Ele reconhece que Deus cuida dele em todas as áreas de sua vida e que nada lhe faltará. Abaixo estão cinco versículos relacionados aos temas abordados neste salmo:
+* Salmos 28:9 - "Salva o teu povo, e abençoa a tua herança; apascenta-os e exalta-os para sempre." Este versículo fala sobre Deus como pastor do Seu povo, abençoando e cuidando deles para sempre.
+* Isaías 40:11 - "Como pastor ele apascentará o seu rebanho, entre os seus braços recolherá os cordeirinhos e os levará no seu regaço; as que amamentam ele guiará mansamente." Este versículo retrata Deus como um pastor amoroso que cuida gentilmente de Seu rebanho.
+* João 10:11 - "Eu sou o bom Pastor. O bom Pastor dá a vida pelas ovelhas." Este versículo fala sobre Jesus como o Bom Pastor, que dá a vida por suas ovelhas.
+* Hebreus 13:20-21 - "Ora, o Deus de paz, que pelo sangue da aliança eterna tornou a trazer dos mortos a nosso Senhor Jesus Cristo, grande Pastor das ovelhas, vos aperfeiçoe em toda a boa obra, para fazerdes a sua vontade, operando em vós o que perante ele é agradável, por Jesus Cristo, a quem seja glória para todo o sempre. Amém!" Este versículo descreve Jesus como o Grande Pastor das ovelhas e pede que Deus aperfeiçoe Seu povo em toda boa obra.
+* Apocalipse 7:17 - "Porque o Cordeiro que está no meio do trono os apascentará e lhes servirá de guia para as fontes da água da vida; e Deus limpará de seus olhos toda lágrima." Este versículo retrata Jesus como o Cordeiro no meio do trono, que apascenta e guia Seu povo para as fontes da água da vida.
+****
+
+[[v21-23-1]]
+
+^<<v21-23-1,1>>^ Salmo. De Davide. Do Senhor é a terra e tudo que ela encerra, a redondeza da terra e os que a habitam.
+
+[[v21-23-2]]
+
+^<<v21-23-2,2>>^ Efectivamente ele a fundou sobre os mares, e a consolidou sobre os rios.
+
+[[v21-23-3]]
+
+^<<v21-23-3,3>>^ Quem subirá ao monte do Senhor, ou quem estará no seu lugar santo?
+
+[[v21-23-4]]
+
+^<<v21-23-4,4>>^ O inocente de mãos e limpo de coração, o que não inclina às vaidades a sua alma, nem fez juramentos dolosos ao seu próximo,
+
+[[v21-23-5]]
+
+^<<v21-23-5,5>>^ Este receberá bênçãos do Senhor, recompensa de Deus, seu Salvador.
+
+[[v21-23-6]]
+
+^<<v21-23-6,6>>^ Tal é a geração dos que o buscam, dos que buscam a face do Deus de Jacob.
+
+[[v21-23-7]]
+
+^<<v21-23-7,7>>^ Levantai, ó portas, os vossos dintéís; levantai-vos, ó pórticos antigos, para que entre o Rei da glória!
+
+[[v21-23-8]]
+
+^<<v21-23-8,8>>^ "Quem é este Rei da glória?" "É O Senhor forte e poderoso, o Senhor poderoso nas batalhas."
+
+[[v21-23-9]]
+
+^<<v21-23-9,9>>^ Levantai, ó portas, os vossos dintéís, levantai-vos, ó pórticos antigos, para que entre o Rei da glória!
+
+[[v21-23-10]]
+
+^<<v21-23-10,10>>^ "Quem é esse Rei da glória?" "O Senhor dos exércitos: esse é o Rei da glória."
+
+'''
+
+xref:021-salmos/021-salmos-022.adoc#v21-22-0[&#60; Capítulo Anterior] | <<v21-23-0,Topo>> | xref:021-salmos/021-salmos-024.adoc#v21-24-0[Próximo Capítulo &#62;]

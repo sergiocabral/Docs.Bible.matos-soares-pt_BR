@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v50-16-0]]
+=== São João, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 16 do Evangelho de João é marcado por um discurso de Jesus aos seus discípulos pouco antes de sua prisão e morte. Ele fala sobre a vinda do Espírito Santo, que os ajudará a compreender a verdade e a guiará em seu testemunho. Jesus também prevê que seus discípulos passarão por tribulações e perseguições, mas que terão paz e alegria nele. Com base nesses temas, aqui estão cinco versículos da Bíblia que se relacionam com o capítulo de João 16:
+* Atos dos Apóstolos 1:8: "Mas recebereis poder, ao descer sobre vós o Espírito Santo, e ser-me-eis testemunhas, tanto em Jerusalém, como em toda a Judéia e Samaria, e até os confins da terra." Nesse versículo, Jesus promete o poder do Espírito Santo para que seus discípulos sejam suas testemunhas em todo o mundo, como ele ensina em João 16:7-15.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda a consolação, que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, pela consolação com que nós mesmos somos consolados por Deus." Nesses versículos, o apóstolo Paulo fala sobre a consolação de Deus em meio à tribulação, um tema abordado por Jesus em João 16:16-33.
+* Romanos 5:3-5: "E não somente isto, mas também nos gloriamos nas tribulações, sabendo que a tribulação produz a paciência, e a paciência a experiência, e a experiência a esperança. E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado." Nesses versículos, Paulo ensina que a tribulação pode produzir frutos espirituais e que o Espírito Santo nos fortalece em meio a ela, como Jesus ensina em João 16:16-33.
+* Filipenses 4:7: "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus." Nesse versículo, Paulo fala sobre a paz de Deus que guarda os corações dos crentes, um tema abordado por Jesus em João 16:16-33, quando ele diz que deixará aos seus discípulos a sua paz.
+* Tiago 1:2-4: "Meus irmãos, tende por motivo de toda a alegria o passardes por várias provações, sabendo que a provação da vossa fé produz a paciência; e a paciência tenha a sua obra perfeita, para que sejais perfeitos e completos, sem faltar em coisa alguma." Nesses versículos, Tiago ensina sobre a alegria que pode ser encontrada em meio às provações, um tema abordado por Jesus em João 16:16.
+****
+
+[[v50-16-1]]
+
+^<<v50-16-1,1>>^ Eu disse-vos estas coisas, para que vos não escandalizeis. (ver nota)
+
+[[v50-16-2]]
+
+^<<v50-16-2,2>>^ Lançar-vos-ão fora das sinagogas. Virá tempo, em que todo o que vos matar, julgará prestar culto a Deus.
+
+[[v50-16-3]]
+
+^<<v50-16-3,3>>^ Procederão deste modo, porque não conheceram nem o Pai, nem a mim.
+
+[[v50-16-4]]
+
+^<<v50-16-4,4>>^ Ora eu disse-vos estas coisas para que, quando chegar esse tempo, vos lembreis de que vo-las disse. Não vos disse isto, porém, desde o princípio, porque estava convosco. (ver nota)
+
+[[v50-16-5]]
+
+^<<v50-16-5,5>>^ Agora vou para aquele que me enviou, e nenhum de vós me pergunta: Para onde vais?
+
+[[v50-16-6]]
+
+^<<v50-16-6,6>>^ Mas, porque vos disse estas coisas, a tristeza encheu o vosso coração.
+
+[[v50-16-7]]
+
+^<<v50-16-7,7>>^ Todavia digo-vos a verdade: A vós convém que eu vá porque, se não for, o Defensor não virá a vós; mas, se for, eu vo-lo enviarei.
+
+[[v50-16-8]]
+
+^<<v50-16-8,8>>^ Ele, quando vier, convencerá o mundo, quanto ao pecado, à justiça e ao juízo.
+
+[[v50-16-9]]
+
+^<<v50-16-9,9>>^ Quanto ao pecado, porque não creram em mim;
+
+[[v50-16-10]]
+
+^<<v50-16-10,10>>^ quanto à justiça, porque vou para o Pai, e vós não me vereis mais; (ver nota)
+
+[[v50-16-11]]
+
+^<<v50-16-11,11>>^ quanto ao juízo, porque o príncipe deste mundo já está julgado.
+
+[[v50-16-12]]
+
+^<<v50-16-12,12>>^ Tenho ainda muitas coisas a dizer-vos, mas não as podeis compreender agora.
+
+[[v50-16-13]]
+
+^<<v50-16-13,13>>^ Quando vier, porém, o Espírito de verdade, ele vos guiará no caminho da verdade integral, porque não falará de si mesmo, mas dirá tudo o que tiver ouvido, e anunciar-vos-á as coisas que estão para vir.
+
+[[v50-16-14]]
+
+^<<v50-16-14,14>>^ Ele me glorificará, porque receberá do que é meu e vo-lo anunciará.
+
+[[v50-16-15]]
+
+^<<v50-16-15,15>>^ Tudo o que o Pai tem, é meu. Por isso eu vos disse que ele receberá do que é meu e vo-lo anunciará.
+
+[[v50-16-16]]
+
+^<<v50-16-16,16>>^ Um pouco, e já não me vereis; outra vez um pouco, e ver-me-eis, porque vou para o Pai." (ver nota)
+
+[[v50-16-17]]
+
+^<<v50-16-17,17>>^ Disseram então entre si alguns dos seus discípulos: "Que é isto que ele nos diz; Um pouco, e já me não vereis, e outra vez um pouco, e ver-me-eis? Que significa também: Porque vou para o Pai?"
+
+[[v50-16-18]]
+
+^<<v50-16-18,18>>^ Diziam pois: "Que é isto que ele diz: Um pouco? Não sabemos o que ele quer dizer."
+
+[[v50-16-19]]
+
+^<<v50-16-19,19>>^ Jesus, conhecendo que queriam interrogá-lo, disse-lhes: "Vós perguntais uns aos outros por que é que eu disse: Um pouco, e já me não vereis, e outra vez um pouco, e ver-me-eis.
+
+[[v50-16-20]]
+
+^<<v50-16-20,20>>^ Em verdade, em verdade, vos digo, que haveis de chorar e gemer, e o mundo se há-de alegrar; haveis de estar tristes, mas a vossa tristeza há-de converter-se em alegria.
+
+[[v50-16-21]]
+
+^<<v50-16-21,21>>^ A mulher, quando dá à luz, está em sofrimento, porque chegou a sua hora, mas, depois que deu à luz um menino, já se não lembra da sua aflição, pelo gozo que sente de ter nascido um homem para o mundo.
+
+[[v50-16-22]]
+
+^<<v50-16-22,22>>^ Vós, pois, também estais agora tristes, mas hei-de ver-vos de novo, e o vosso coração se alegrará, e ninguém vos tirará a vossa alegria.
+
+[[v50-16-23]]
+
+^<<v50-16-23,23>>^ Naquele dia, não me interrogareis sobre nada. Em verdade, em verdade, vos digo, que, se pedirdes a meu Pai alguma coisa em meu nome, ele vo-la dará. (ver nota)
+
+[[v50-16-24]]
+
+^<<v50-16-24,24>>^ Até agora não pedistes nada em meu nome; pedi e recebereis, para que o vosso gozo seja completo.
+
+[[v50-16-25]]
+
+^<<v50-16-25,25>>^ Tenho-vos dito estas coisas em parábolas. Mas vem o tempo em que não vos falarei já por parábolas, mas abertamente vos falarei do Pai.
+
+[[v50-16-26]]
+
+^<<v50-16-26,26>>^ Nesse dia pedireis, em meu nome, e não vos digo que hei-de rogar ao Pai por vós, (ver nota)
+
+[[v50-16-27]]
+
+^<<v50-16-27,27>>^ porque o mesmo Pai vos ama, porque vós me amaste e crestes que saí do Pai.
+
+[[v50-16-28]]
+
+^<<v50-16-28,28>>^ Saí do Pai e vim ao mundo; outra vez deixo o mundo e vou para o Pai."
+
+[[v50-16-29]]
+
+^<<v50-16-29,29>>^ Os seus discípulos disseram-lhe: "Eis que agora falas claramente, e não usas nenhuma parábola.
+
+[[v50-16-30]]
+
+^<<v50-16-30,30>>^ Agora conhecemos que sabes tudo, e que não é necessário que alguém te interrogue. Por isso cremos que saíste de Deus."
+
+[[v50-16-31]]
+
+^<<v50-16-31,31>>^ Jesus respondeu-lhes: "Credes agora?
+
+[[v50-16-32]]
+
+^<<v50-16-32,32>>^ Eis vem a hora, e já chegou, em que sereis espalhados, cada um para seu lado, e em que me deixareis só; mas eu não estou só, porque o Pai está comigo.
+
+[[v50-16-33]]
+
+^<<v50-16-33,33>>^ Disse-vos estas coisas, para que tenhais paz em mim. Haveis de ter aflições no mundo; mas tende confiança, eu venci o mundo."
+
+'''
+
+xref:050-sao-joao/050-sao-joao-015.adoc#v50-15-0[&#60; Capítulo Anterior] | <<v50-16-0,Topo>> | xref:050-sao-joao/050-sao-joao-017.adoc#v50-17-0[Próximo Capítulo &#62;]

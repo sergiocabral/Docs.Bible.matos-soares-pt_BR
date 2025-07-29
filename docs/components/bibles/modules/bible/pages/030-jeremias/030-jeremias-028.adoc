@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v30-28-0]]
+=== Jeremias, 28
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 28 relata a disputa entre o profeta Hananias e Jeremias. Hananias afirma que Deus irá quebrar o jugo de Nabucodonosor e que os utensílios do templo que foram levados para a Babilônia seriam devolvidos em breve. No entanto, Jeremias alerta que essas palavras são falsas e que o cativeiro na Babilônia duraria setenta anos. Abaixo estão cinco versículos relacionados com os temas abordados em Jeremias 28:
+* Jeremias 14:14: "Então disse-me o Senhor: Os profetas profetizam falsamente em meu nome; não os enviei, nem lhes dei ordem, nem lhes falei; visão falsa, e adivinhação, e vaidade, e o engano do seu coração é o que eles vos profetizam." O versículo alerta para a existência de falsos profetas, como Hananias, que enganam o povo com suas palavras falsas em nome de Deus.
+* Deuteronômio 13:1-3: "Se levantar no meio de ti um profeta, ou sonhador de sonhos, e te anunciar um sinal ou prodígio, e suceder o tal sinal ou prodígio de que te houver falado, dizendo: Vamos após outros deuses, que não conheceste, e sirvamo-los; não ouvirás as palavras desse profeta ou sonhador de sonhos; porque o Senhor vosso Deus vos prova, para saber se amais o Senhor vosso Deus com todo o vosso coração, e com toda a vossa alma." Este versículo ressalta a importância de não seguir falsos profetas que buscam desviar o povo da verdadeira adoração a Deus.
+* Jeremias 14:15: "Portanto assim diz o Senhor acerca dos profetas que profetizam em meu nome, sem que eu os tenha mandado, e que dizem: Nem espada nem fome haverá nesta terra: Esses profetas serão consumidos pela espada e pela fome." O versículo mostra que os falsos profetas que falam em nome de Deus sem ter sido enviado por Ele sofrerão as consequências de suas falsas palavras.
+* Mateus 24:24: "Porque se levantarão falsos cristos e falsos profetas, e farão grandes sinais e prodígios; de tal maneira que, se possível fora, enganariam até os escolhidos." Esse versículo alerta para a existência de falsos profetas que fazem sinais e prodígios para enganar as pessoas, e afirma que até os cristãos podem ser enganados se não estiverem atentos.
+* 1 João 4:1: "Amados, não creiais a todo o espírito, mas provai se os espíritos são de Deus; porque muitos falsos profetas têm saído pelo mundo." O versículo exorta os cristãos a testarem os espíritos para verificar se as mensagens e ensinamentos são de fato de Deus, pois muitos falsos profetas estão atuando no mundo.
+****
+
+[[v30-28-1]]
+
+^<<v30-28-1,1>>^ Naquele mesmo ano, no princípio do reinado de Sedecias, rei de Judá, no quinto mês do seu quarto ano, sucedeu que Ananias, filho de Azur, profeta (falso) de Gabaon, me disse, na casa do Senhor em presença dos sacerdotes e de todo o povo, as seguintes palavras:
+
+[[v30-28-2]]
+
+^<<v30-28-2,2>>^ Assim fala o Senhor dos exércitos, o Deus de Israel: Eu quebrei o jugo do rei de Babilônia.
+
+[[v30-28-3]]
+
+^<<v30-28-3,3>>^ Depois de passados ainda dois anos completos farei voltar a este lugar todos os objetos da casa do Senhor, que Nabucodonosor, rei de Babilônia, levou daqui e transportou a Babilônia.
+
+[[v30-28-4]]
+
+^<<v30-28-4,4>>^ Farei que voltem para este mesmo lugar Jeconias, filho de Joaquim, rei de Judá, e todos os de Judá que foram levados cativos para Babilônia, diz o Senhor, porque hei-de quebrar o jugo do rei de Babilônia.
+
+[[v30-28-5]]
+
+^<<v30-28-5,5>>^ Mas o profeta Jeremias respondeu ao profeta Ananias, diante dos sacerdotes e diante de todo o povo que estava na casa do Senhor.
+
+[[v30-28-6]]
+
+^<<v30-28-6,6>>^ O profeta Jeremias disse: Amen, oxalá que assim o faça o Senhor! Realize o Senhor as palavras que profetizaste: que sejam restituídos os objetos à casa do Senhor, e todos os cativos voltem de Babilônia a este lugar!
+
+[[v30-28-7]]
+
+^<<v30-28-7,7>>^ Porém, ouve esta palavra que eu digo aos teus ouvidos e aos ouvidos de todo o povo:
+
+[[v30-28-8]]
+
+^<<v30-28-8,8>>^ Os profetas, que existiram antes de mim e antes de ti, desde o princípio profetizaram também a muitas terras e a grandes reinos a desolação e a fome.
+
+[[v30-28-9]]
+
+^<<v30-28-9,9>>^ Quanto ao profeta que (agora) profetiza a paz, quando se cumprir a sua palavra, (então) se saberá que é profeta verdadeiramente enviado pelo Senhor.
+
+[[v30-28-10]]
+
+^<<v30-28-10,10>>^ Então o (falso) profeta Ananias tirou o jugo do pescoço do profeta Jeremias e quebrou-o.
+
+[[v30-28-11]]
+
+^<<v30-28-11,11>>^ Ananias falou em presença de todo o povo, dizendo: Isto diz o Senhor: Assim quebrarei eu o jugo de Nabucodonosor, rei de Babilônia, daqui a dois anos, tirando-o de cima da cerviz de todas as nações.
+
+[[v30-28-12]]
+
+^<<v30-28-12,12>>^ Então o profeta Jeremias foi-se pelo seu caminho. Depois que Ananias profeta quebrou o jugo tirado do pescoço do profeta Jeremias, foi dirigida a palavra do Senhor a Jeremias, nos termos seguintes:
+
+[[v30-28-13]]
+
+^<<v30-28-13,13>>^ Vai e dize a Ananias: Isto diz o Senhor: Quebraste um jugo de madeira, mas, em vez dele, farei um jugo de ferro.
+
+[[v30-28-14]]
+
+^<<v30-28-14,14>>^ Porque isto diz o Senhor dos exércitos, o Deus de Israel: Eu ponho um jugo de ferro sobre o pescoço de todas estas nações, para que sirvam a Nabucodonosor, rei de Babilônia, e na realidade o servirão: além disto, dei-lhe até os animais do campo.
+
+[[v30-28-15]]
+
+^<<v30-28-15,15>>^ Depois o profeta Jeremias disse ao profeta Ananias: Ouve, Ananias: O Senhor não te enviou, e tu és causa de que este povo tenha posto a sua confiança numa mentira.
+
+[[v30-28-16]]
+
+^<<v30-28-16,16>>^ Portanto isto diz o Senhor: Vou retirar-te da face da terra; morrerás este ano, porque pregaste a revolta contra o Senhor.
+
+[[v30-28-17]]
+
+^<<v30-28-17,17>>^ E o profeta Ananias morreu naquele ano, no sétimo mês.
+
+'''
+
+xref:030-jeremias/030-jeremias-027.adoc#v30-27-0[&#60; Capítulo Anterior] | <<v30-28-0,Topo>> | xref:030-jeremias/030-jeremias-029.adoc#v30-29-0[Próximo Capítulo &#62;]

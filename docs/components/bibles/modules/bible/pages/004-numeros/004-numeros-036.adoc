@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v4-36-0]]
+=== Números, 36
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 36 de Números fala sobre a herança das filhas de Zelofeade e a importância da preservação das heranças dentro das tribos de Israel. Neste capítulo, as filhas de Zelofeade se aproximam de Moisés para pedir a confirmação de sua herança paterna, já que seu pai havia morrido sem ter filhos homens. Moisés consulta o Senhor e determina que as filhas de Zelofeade possam se casar com quem quiserem, contanto que se casem dentro de sua própria tribo, para que a herança não seja transferida para outra tribo. Aqui estão quatro versículos relacionados com os temas abordados em Números 36:
+* Levítico 25:46: "Vocês poderão comprá-los como propriedade e passá-los como herança aos seus filhos, como propriedade para serem mantidos permanentemente." Este versículo fala sobre a propriedade como herança e como os filhos poderiam herdar a propriedade de seus pais. Isso é relevante para o capítulo 36 de Números, que também fala sobre a importância da herança dentro das tribos de Israel.
+* Ezequiel 46:16-18: "Assim diz o Senhor Deus: Se vocês derem uma propriedade a um dos seus filhos, ela pertencerá a ele para sempre. Mas se vocês derem uma propriedade a um estrangeiro residente, a propriedade será dele somente até o ano do Jubileu, quando deverá ser devolvida a vocês." Este versículo fala sobre as regras para a transferência de propriedade e como ela deve permanecer dentro da família. Isso é semelhante ao que é discutido no capítulo 36 de Números, em que as filhas de Zelofeade são incentivadas a se casar dentro de sua própria tribo para manter sua herança dentro da tribo.
+* Deuteronômio 19:14: "Não mudem os marcos antigos nem invadam a propriedade de seus vizinhos, que seus antepassados legaram a vocês como herança na terra que o Senhor, o seu Deus, está dando a vocês para possuí-la." Este versículo fala sobre a importância de respeitar as fronteiras e as propriedades que foram passadas de geração em geração. Isso se relaciona com o capítulo 36 de Números, que fala sobre a importância de preservar as heranças dentro das tribos de Israel.
+* Provérbios 13:22: "O homem bom deixa herança aos seus filhos e aos filhos de seus filhos, mas a riqueza do pecador é armazenada para os justos." Este versículo fala sobre a importância de deixar uma herança para a próxima geração. Isso é relevante para o capítulo 36 de Números, que também fala sobre a importância da herança e de mantê-la dentro da tribo.
+****
+
+[[v4-36-1]]
+
+^<<v4-36-1,1>>^ Os chefes das casas patriarcais dos descendentes de Galaad, filho de Maquir, filho de Manasses, da linhagem dos filhos de José, aproximaram-se e falaram a Moisés, em presença dos príncipes de Israel, e disseram-lhe:
+
+[[v4-36-2]]
+
+^<<v4-36-2,2>>^ O Senhor ordenou a ti, nosso Senhor, que dividisses por sorte a terra entre os filhos de Israel, e que desses às filhas de Salfaad, nosso irmão, a herança devida ao pai.
+
+[[v4-36-3]]
+
+^<<v4-36-3,3>>^ Ora, se os homens de outra tribo as receberem por mulheres, segui-las-á a sua herança e, transferida a outra tribo, será diminuída a nossa herança.
+
+[[v4-36-4]]
+
+^<<v4-36-4,4>>^ E assim acontecerá que, quando chegar o (ano do) jubileu, isto é, o ano quinquagésimo da remissão, será confundida a distribuição feita por sortes, e a possessão de uns passará aos outros.
+
+[[v4-36-5]]
+
+^<<v4-36-5,5>>^ Moisés respondeu aos filhos de Israel, por ordem do Senhor: A tribo dos filhos de José falou bem.
+
+[[v4-36-6]]
+
+^<<v4-36-6,6>>^ Eis a lei promulgada pelo Senhor para as filhas de Salfaad: Casem com quem quiserem, contanto que seja com homens da sua tribo,
+
+[[v4-36-7]]
+
+^<<v4-36-7,7>>^ para que a possessão dos filhos de Israel não passe de tribo para tribo. Por isso, todos os varões tomarão mulheres dá sua tribo e família:
+
+[[v4-36-8]]
+
+^<<v4-36-8,8>>^ todas as mulheres que tiverem uma herança, em qualquer das tribos de Israel, tomarão maridos da mesma tribo, para que a herança fique nas famílias,
+
+[[v4-36-9]]
+
+^<<v4-36-9,9>>^ e as tribos não se misturem entre si, mas permaneçam
+
+[[v4-36-10]]
+
+^<<v4-36-10,10>>^ como foram separadas pelo Senhor. As filhas de Salfaad fizeram como lhes tinha sido mandado:
+
+[[v4-36-11]]
+
+^<<v4-36-11,11>>^ Maala, Tersa, Hegla, Melca e Noa, casaram com os filhos de seu tio paterno,
+
+[[v4-36-12]]
+
+^<<v4-36-12,12>>^ da família de Manassés, que foi filho de José e a possessão, que lhes tinha sido adjudicada, permaneceu na tribo e família de seu pai.
+
+[[v4-36-13]]
+
+^<<v4-36-13,13>>^ Estas são as leis e as ordens dadas pelo Senhor por meio de Moisés aos filhos de Israel, nas planícies de Moab, junto do Jordão, defronte de Jericó.
+
+'''
+
+xref:004-numeros/004-numeros-035.adoc#v4-35-0[&#60; Capítulo Anterior] | <<v4-36-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-001.adoc#v5-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v21-83-0]]
+=== Salmos, 83
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 83 é um salmo de súplica em que o salmista clama a Deus para que Ele venha em socorro do seu povo, que está sendo cercado pelos inimigos. O salmista enumera os vários povos que se uniram contra Israel, e suplica a Deus para que os derrote. A seguir, estão cinco versículos relacionados aos temas abordados em Salmo 83, em ordem de proximidade com o capítulo:
+* Salmos 2:1-2: "Por que se amotinam os gentios, e os povos imaginam coisas vãs? Os reis da terra se levantam, e os governadores juntos se mancomunam contra o SENHOR e contra o seu ungido." Este trecho de Salmo 2 também fala da rebelião dos povos contra Deus e Seus ungidos, tal como o salmista de Salmo 83.
+* Salmos 56:9: "Quando eu a ti clamar, então voltarão para trás os meus inimigos; isto sei eu, porque Deus é por mim." O salmista de Salmo 56 também clama a Deus para que os seus inimigos sejam derrotados.
+* Salmos 35:1: "Pleiteia, SENHOR, com aqueles que pleiteiam comigo; peleja contra os que pelejam contra mim." Neste salmo, o salmista clama a Deus para que venha em seu socorro e lute contra os seus inimigos.
+* Salmos 140:1-2: "Livra-me, ó SENHOR, do homem mau; guarda-me do homem violento, que pensa o mal no coração; continuamente se ajuntam para guerrear." O salmista de Salmo 140 também clama a Deus para que o proteja dos seus inimigos.
+* Salmos 18:37-40: "Persegui os meus inimigos, e os alcancei; não voltei senão depois de os ter consumido. Atravessei-os, de sorte que não puderam levantar-se; caíram debaixo dos meus pés. Pois me cingiste de força para a peleja; fizeste abater debaixo de mim aqueles que contra mim se levantaram. Deste-me também o pescoço dos meus inimigos, para que eu pudesse destruir os que me odeiam." Este trecho de Salmo 18 fala da vitória de Deus sobre os inimigos do salmista, tal como o salmista de Salmo 83 suplica.
+****
+
+[[v21-83-1]]
+
+^<<v21-83-1,1>>^ Ao mestre do coro. Segundo a melodia de "Os lagares..." Dos filhos de Coré. Salmo.
+
+[[v21-83-2]]
+
+^<<v21-83-2,2>>^ Quão amável é a tua morada, Senhor dos exércitos!
+
+[[v21-83-3]]
+
+^<<v21-83-3,3>>^ A minha alma suspira, desfalece, desejando os átrios do Senhor; o meu coração e a minha carne exultam em Deus vivo.
+
+[[v21-83-4]]
+
+^<<v21-83-4,4>>^ Até o pássaro encontra uma casa, e a andorinha um ninho onde possa pôr os seus filhinhos: (sejam minha casa) os teus altares, Senhor dos exércitos, rei meu, e Deus meu!
+
+[[v21-83-5]]
+
+^<<v21-83-5,5>>^ Bem-aventurados, Senhor, os que moram na tua casa: eles te louvam sem cessar.
+
+[[v21-83-6]]
+
+^<<v21-83-6,6>>^ Bem-aventurado o homem que de ti recebe auxilio, quando decide empreender viagens santas:
+
+[[v21-83-7]]
+
+^<<v21-83-7,7>>^ ao passar por um árido vale, será (cheio de águas, para o transeunte) como um manancial, revesti-lo-á de bênçãos a primeira chuva. (ver nota)
+
+[[v21-83-8]]
+
+^<<v21-83-8,8>>^ Avançarão (os peregrinos) com vigor sempre crescente, verão o Deus dos deuses em Sião.
+
+[[v21-83-9]]
+
+^<<v21-83-9,9>>^ Senhor, Deus dos exércitos, ouve a minha oração; presta ouvidos, ó Deus de Jacob.
+
+[[v21-83-10]]
+
+^<<v21-83-10,10>>^ O Deus, nosso escudo, olha para nós, e põe os olhos no rosto do teu ungido (Davide).
+
+[[v21-83-11]]
+
+^<<v21-83-11,11>>^ Em verdade, é melhor um só dia nos teus átrios, que milhares, fora deles; prefiro deter-me no limiar da casa de Deus, a morar nas tendas dos pecadores.
+
+[[v21-83-12]]
+
+^<<v21-83-12,12>>^ Porque sol e escudo é o Senhor Deus: graça e glória dá o Senhor, não nega bens aos que andam na inocência.
+
+[[v21-83-13]]
+
+^<<v21-83-13,13>>^ Senhor dos exércitos, bem-aventurado o homem que em ti confia.
+
+'''
+
+xref:021-salmos/021-salmos-082.adoc#v21-82-0[&#60; Capítulo Anterior] | <<v21-83-0,Topo>> | xref:021-salmos/021-salmos-084.adoc#v21-84-0[Próximo Capítulo &#62;]

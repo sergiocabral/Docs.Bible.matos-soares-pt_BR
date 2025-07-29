@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v12-20-0]]
+=== II Reis, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 20 de 2 Reis relata a história de Ezequias, rei de Judá, que adoece gravemente. Deus envia o profeta Isaías para dizer a Ezequias que ele vai morrer, mas Ezequias ora a Deus e pede que sua vida seja poupada. Deus atende a sua oração e lhe dá mais 15 anos de vida. Ezequias pede um sinal de Deus para confirmar que ele será curado e Deus faz a sombra do sol retroceder 10 graus como um sinal para Ezequias. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Reis 20.
+* Salmos 30:2: "Senhor meu Deus, a ti clamei por socorro, e tu me curaste." Este versículo mostra a atitude de Ezequias ao orar a Deus por cura em sua doença.
+* Isaías 38:1: "Naqueles dias, Ezequias ficou doente e quase morreu. O profeta Isaías, filho de Amoz, foi até ele e lhe disse: 'Assim diz o Senhor: Dê suas ordens à sua família, porque você vai morrer; você não se recuperará'." Este versículo introduz o tema da doença de Ezequias e a intervenção de Deus através do profeta Isaías.
+* Isaías 38:4: "Então a palavra do Senhor veio a Isaías: 'Vá e diga a Ezequias: Assim diz o Senhor, o Deus de Davi, seu pai: Ouvi sua oração e vi suas lágrimas; vou acrescentar quinze anos à sua vida'." Este versículo mostra a resposta de Deus à oração de Ezequias e sua disposição em ouvir e atender a oração do rei.
+* Isaías 38:8: "Eis que farei a sombra do sol retroceder dez degraus nos degraus que já desceu no relógio solar de Acaz. Então o sol retrocedeu dez degraus nos degraus em que já tinha descido." Este versículo descreve o sinal miraculoso que Deus deu a Ezequias como confirmação de sua cura.
+* Isaías 38:18-19: "Pois não é o Sheol que te louva, nem a morte que te exalta; não é entre os que descem à cova que se espera em tua fidelidade. Os vivos, somente os vivos, te louvam como eu hoje. Um pai conta aos seus filhos a tua fidelidade." Este versículo mostra a atitude de Ezequias depois de sua cura, que foi louvar a Deus por sua misericórdia e fidelidade.
+****
+
+[[v12-20-1]]
+
+^<<v12-20-1,1>>^ Por aquele tempo Ezequias adoeceu de morte. O profeta Isaías, filho de Amos, foi ter com ele e disse-lhe: Eis o que diz o Senhor Deus: Põe em ordem a tua casa, porque vais morrer, não viverás (mais).
+
+[[v12-20-2]]
+
+^<<v12-20-2,2>>^ Ele virou o rosto para a parede e fez oração ao Senhor, dizendo:
+
+[[v12-20-3]]
+
+^<<v12-20-3,3>>^ Peço-te, Senhor, lembra-te, te suplico, de que eu andei diante de ti, em verdade e com um coração recto, e que fiz o que era do teu agrado. Depois Ezequias derramou abundantes lágrimas.
+
+[[v12-20-4]]
+
+^<<v12-20-4,4>>^ Antes que Isaías tivesse passado metade do átrio, Senhor falou-lhe, dizendo:
+
+[[v12-20-5]]
+
+^<<v12-20-5,5>>^ Volta e dize a Ezequias, condutor do meu povo: Eis o que diz o Senhor Deus de Davide, teu pai: Eu ouvi a tua oração, vi as tuas lágrimas. Vou curar-te : daqui a três dias irás ao templo do Senhor.
+
+[[v12-20-6]]
+
+^<<v12-20-6,6>>^ Acrescentarei quinze anos aos dias da tua vida: além disto, eu te livrarei a ti e a esta cidade da mão do rei dos Assírios, e protegerei esta cidade por amor de mim e por amor de Davide, meu servo.
+
+[[v12-20-7]]
+
+^<<v12-20-7,7>>^ Isaías disse: Trazei-me cá uma massa de figos. Tendo-lha trazido, puseram-na sobre a úlcera do rei, que ficou curado.
+
+[[v12-20-8]]
+
+^<<v12-20-8,8>>^ Ezequias tinha dito a Isaías: Qual será o sinal de que o Senhor me curará e de que, dentro em três dias, irei ao templo do Senhor?
+
+[[v12-20-9]]
+
+^<<v12-20-9,9>>^ Isaías respondeu-lhe: Será este o sinal que te dará o Senhor, de que há-de cumprir a sua palavra: Queres que a sombra (nesse refúgio solar) se adiante dez graus, ou que retroceda dez graus?
+
+[[v12-20-10]]
+
+^<<v12-20-10,10>>^ Ezequias disse: É fácil que a sombra se adiante dez graus; não quero que se faça isto, mas que volte atrás dez graus.
+
+[[v12-20-11]]
+
+^<<v12-20-11,11>>^ O profeta Isaías invocou, pois, o Senhor, e fez que a sombra voltasse pelas linhas, pelas quais já tinha passado no relógio de Acaz, dez graus atrás.
+
+[[v12-20-12]]
+
+^<<v12-20-12,12>>^ Naquele tempo Berodac Baladan, filho de Baladan, rei dos Babilônios, enviou uma carta e presentes a Ezequias, porque tinha sabido que Ezequias tinha estado doente.
+
+[[v12-20-13]]
+
+^<<v12-20-13,13>>^ Ezequias alegrou-se com a sua vinda, e mostrou-lhes a casa dos aromas, o ouro e a prata, os aramas, os unguentos, o seu arsenal e tudo o que tinha em seus tesouros. Não houve nada em seu palácio, nem coisa que fosse sua, que Ezequias não lhe mostrasse.
+
+[[v12-20-14]]
+
+^<<v12-20-14,14>>^ O profeta Isaías foi ter com o rei Ezequias e disse-lhe: Que te disseram estes homens? Donde vieram eles para te falar? Ezequias respondeu-lhe: vieram ver-me dum país muito remoto de Babilônia.
+
+[[v12-20-15]]
+
+^<<v12-20-15,15>>^ Ele respondeu: Que viram eles em tua casa? Ezequias disse: Viram tudo quanto há no meu palácio; não há nada nos meus tesouros que eu lhes não mostrasse.
+
+[[v12-20-16]]
+
+^<<v12-20-16,16>>^ Então Isaías disse a Ezequias: Ouve a palavra do Senhor;
+
+[[v12-20-17]]
+
+^<<v12-20-17,17>>^ Eis virão dias em que será transportado para Babilônia tudo o que há em tua casa, tudo o que teus pais juntaram até este dia; não ficará coisa alguma, diz o Senhor.
+
+[[v12-20-18]]
+
+^<<v12-20-18,18>>^ Até os teus mesmos filhos, que saírem de ti, que tiveres gerado, serão levados, e farão deles eunucos no palácio do rei de Babilônia.
+
+[[v12-20-19]]
+
+^<<v12-20-19,19>>^ Ezequias respondeu a Isaías: É justa a palavra do Senhor que tu me anuncias; haja paz e verdade (ao menos) durante os meus dias.
+
+[[v12-20-20]]
+
+^<<v12-20-20,20>>^ O resto das acções de Ezequias, o seu grande valor, a construção do reservatório e do aqueduto pelo qual conduziu a água para a cidade, não está tudo isto escrito no livro das Crônicas dos reis de Judá?
+
+[[v12-20-21]]
+
+^<<v12-20-21,21>>^ Ezequias adormeceu com seus pais. Em seu lugar reinou seu filho Manassés.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-019.adoc#v12-19-0[&#60; Capítulo Anterior] | <<v12-20-0,Topo>> | xref:012-ii-reis/012-ii-reis-021.adoc#v12-21-0[Próximo Capítulo &#62;]

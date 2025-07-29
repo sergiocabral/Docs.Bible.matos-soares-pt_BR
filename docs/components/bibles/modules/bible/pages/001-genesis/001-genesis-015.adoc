@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v1-15-0]]
+=== Gênesis, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 15 de Gênesis começa com Deus reafirmando sua promessa de dar a Abraão uma descendência numerosa e uma terra para habitarem. Abraão expressa sua preocupação em relação a isso, e Deus faz um pacto com ele, simbolizado pelo sacrifício de animais. Abraão adormece e Deus lhe dá uma visão profética do futuro do seu povo. Abaixo estão cinco versículos relacionados com os temas abordados em Gênesis 15:
+* Salmos 105:9-11: "Ele se lembra para sempre da sua aliança, da palavra que ordenou, para mil gerações, da aliança que fez com Abraão, do juramento que fez a Isaque. Ele o confirmou como decreto a Jacó, como aliança eterna a Israel". Este salmo fala da aliança que Deus fez com Abraão e como ela foi estendida a seus descendentes.
+* Romanos 4:3: "Pois, que diz a Escritura? Abraão creu em Deus, e isso lhe foi creditado como justiça". Este verso é uma referência ao momento em que Deus fez a promessa de uma grande descendência a Abraão, e ele creu em Deus.
+* Hebreus 6:13-14: "Quando Deus fez a promessa a Abraão, como não tinha ninguém maior por quem jurar, jurou por si mesmo, dizendo: Certamente o abençoarei e lhe multiplicarei os descendentes". Este verso destaca o fato de que Deus fez uma promessa a Abraão e a cumpriu.
+* Gálatas 3:16: "As promessas foram feitas a Abraão e ao seu descendente. A Escritura não diz: "E aos descendentes", querendo significar muitos, mas "E ao seu descendente", querendo significar um só, que é Cristo". Este verso destaca a importância da descendência de Abraão e sua relação com Jesus Cristo.
+* João 8:56: "Abraão, pai de vocês, alegrou-se com o pensamento de ver o meu dia; ele o viu e alegrou-se". Este verso fala da visão profética que Deus deu a Abraão, mostrando-lhe o futuro, inclusive a vinda de Jesus Cristo.
+****
+
+[[v1-15-1]]
+
+^<<v1-15-1,1>>^ Passado isto, falou o Senhor a Abrão numa visão, dizendo: não temas, Abrão, eu sou o teu protetor e a tua recompensa (será) excessivamente grande.
+
+[[v1-15-2]]
+
+^<<v1-15-2,2>>^ Abrão respondeu; Senhor Deus, que me darás tu? Eu irei sem filhos, e o herdeiro da minha casa é este Eliezer de Damasco.
+
+[[v1-15-3]]
+
+^<<v1-15-3,3>>^ E acrescentou Abrão: a mim não me deste filhos, e meu escravo será meu herdeiro.
+
+[[v1-15-4]]
+
+^<<v1-15-4,4>>^ Imediatamente o Senhor lhe dirigiu a palavra, dizendo: este não será o teu herdeiro, mas terás por herdeiro aquele que nascer de ti.
+
+[[v1-15-5]]
+
+^<<v1-15-5,5>>^ Depois conduziu-o fora, e disse-lhe: olha para o céu e conta, se podes, as estrelas. Depois acrescentou: assim será a tua descendência.
+
+[[v1-15-6]]
+
+^<<v1-15-6,6>>^ Creu Abrão em Deus, e (este ato de fé) lhe foi imputado como justiça.
+
+[[v1-15-7]]
+
+^<<v1-15-7,7>>^ Disse-lhe mais o Senhor: eu sou o Senhor que te tirei de Ur dos Caldeus, para te dar esta terra, e a possuíres.
+
+[[v1-15-8]]
+
+^<<v1-15-8,8>>^ Abrão respondeu: Senhor Deus, por onde poderei eu conhecer que a hei-de possuir?
+
+[[v1-15-9]]
+
+^<<v1-15-9,9>>^ E o Senhor continuou: toma-me (para sacrificar) uma vaca de três anos, uma cabra de três anos, um carneiro de três anos, e também uma rola e uma pomba.
+
+[[v1-15-10]]
+
+^<<v1-15-10,10>>^ Ele, tomando todos estes animais, dividiu-os pelo meio e pôs as duas partes uma defronte da outra, mas não dividiu as aves.
+
+[[v1-15-11]]
+
+^<<v1-15-11,11>>^ Ora as aves (de rapina) desciam sobre os cadáveres, e Abrão as enxotava.
+
+[[v1-15-12]]
+
+^<<v1-15-12,12>>^ Ao pôr do sol, veio um profundo sono a Abrão, e um horror grande e tenebroso o acometeu.
+
+[[v1-15-13]]
+
+^<<v1-15-13,13>>^ E foi-lhe dito: sabe, desde agora, que a tua descendência será peregrina numa terra não sua, e será reduzida à escravidão, e afligida durante quatrocentos anos.
+
+[[v1-15-14]]
+
+^<<v1-15-14,14>>^ Mas eu exercerei os meus juízos sobre o povo ao qual estiverem sujeitos: e sairão depois (desse país) com grandes riquezas.
+
+[[v1-15-15]]
+
+^<<v1-15-15,15>>^ Tu, porém, irás em paz para teus pais, e serás sepultado numa ditosa velhice.
+
+[[v1-15-16]]
+
+^<<v1-15-16,16>>^ Mas, à quarta geração, (os teus) voltarão para aqui, porque as iniquidades dos Amorreus não estão ainda completas.
+
+[[v1-15-17]]
+
+^<<v1-15-17,17>>^ Quando, pois, se pôs o sol, formaram-se densas trevas, apareceu um forno fumegante e um facho ardente, que passavam pelo meio dos animais divididos.
+
+[[v1-15-18]]
+
+^<<v1-15-18,18>>^ Naquele dia fez o Senhor aliança com Abrão, dizendo: darei à tua descendência esta terra, desde o rio do Egito até ao grande rio Eufrates,
+
+[[v1-15-19]]
+
+^<<v1-15-19,19>>^ os Cineus, os Cenezeus, os Oedmoneus,
+
+[[v1-15-20]]
+
+^<<v1-15-20,20>>^ os Heteus, os Ferezeus e também os Rafaim,
+
+[[v1-15-21]]
+
+^<<v1-15-21,21>>^ os Amorreus, os Cananeus, os Gergeseus e os Jebuseus.
+
+'''
+
+xref:001-genesis/001-genesis-014.adoc#v1-14-0[&#60; Capítulo Anterior] | <<v1-15-0,Topo>> | xref:001-genesis/001-genesis-016.adoc#v1-16-0[Próximo Capítulo &#62;]

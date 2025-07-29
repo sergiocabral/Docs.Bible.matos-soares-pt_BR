@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v54-8-0]]
+=== II Coríntios, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Coríntios 8 trata sobre a coleta de dinheiro que Paulo estava organizando para ajudar os cristãos pobres em Jerusalém. Ele encoraja os coríntios a contribuir com generosidade e cita o exemplo dos macedônios, que mesmo sendo pobres, deram voluntariamente e além do que podiam. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* 1 Coríntios 16:2 - "No primeiro dia da semana, cada um de vós ponha de parte o que puder ajuntar, conforme a sua prosperidade, para que não se façam as coletas quando eu chegar." Esse versículo mostra que a coleta de dinheiro para ajudar os irmãos necessitados era uma prática comum entre os cristãos na época de Paulo.
+* Lucas 21:1-4 - "E, olhando, viu os ricos lançarem as suas ofertas na arca do tesouro; e viu também uma pobre viúva lançar ali duas pequenas moedas; e disse: Em verdade vos digo que lançou mais do que todos esta pobre viúva." Esse versículo ilustra o conceito de dar com generosidade e sacrifício, mesmo que o valor seja pequeno.
+* Provérbios 11:24-25 - "Ao que espalha liberalmente, ainda se lhe acrescenta mais; e ao que retém mais do que é justo, ser-lhe-á em pura perda. A alma bondosa será engordada; e o que regar também será regado." Esse versículo destaca a bênção que vem ao dar generosamente.
+* 2 Coríntios 9:6-7 - "Mas digo isto: Que o que semeia pouco, pouco também ceifará; e o que semeia em abundância, em abundância ceifará. Cada um contribua segundo propôs no seu coração, não com tristeza ou por necessidade; porque Deus ama ao que dá com alegria." Esse versículo reforça a ideia de que devemos dar com alegria e sem coação.
+* 1 João 3:17 - "Mas aquele que tiver o mundo, e vir o seu irmão necessitando, e fechar-lhe o seu coração, como está nele o amor de Deus?" Esse versículo destaca a importância de ajudar os irmãos necessitados e demonstra que isso é uma prova do amor de Deus em nós.
+****
+
+[[v54-8-1]]
+
+^<<v54-8-1,1>>^ Ora nós vos fazemos conhecer, Irmãos, a graça de Deus que foi dada às igrejas da Macedónia:
+
+[[v54-8-2]]
+
+^<<v54-8-2,2>>^ no meio das muitas tribulações com que foram provados (os cristãos), superabundou a sua alegria, e a sua extrema pobreza difundiu-se em riquezas da sua liberalidade.
+
+[[v54-8-3]]
+
+^<<v54-8-3,3>>^ Dou testemunho de que foram espontâneamente liberais, segundo as suas posses e ainda acima das suas posses,
+
+[[v54-8-4]]
+
+^<<v54-8-4,4>>^ rogando-nos com muito encarecimento a graça de tomar parte nesta assistência aos santos.
+
+[[v54-8-5]]
+
+^<<v54-8-5,5>>^ Ultrapassaram as nossas esperanças. Deram-se a si mesmos, primeiro ao Senhor, depois a nós pela vontade de Deus,
+
+[[v54-8-6]]
+
+^<<v54-8-6,6>>^ de maneira que rogamos a Tito que, assim como começou, acabe também entre vós esta obra de generosidade.
+
+[[v54-8-7]]
+
+^<<v54-8-7,7>>^ Mas, assim como em tudo abundais; na fé, na eloquência, na ciência, em toda a solicitude e na caridade para connosco — assim também abundeis nesta sua obra de generosidade.
+
+[[v54-8-8]]
+
+^<<v54-8-8,8>>^ Não falo como quem manda, experimentar com (o exemplo da) solicitude dos outros a sinceridade da vossa caridade.
+
+[[v54-8-9]]
+
+^<<v54-8-9,9>>^ Com efeito conheceis a liberalidade de Nosso Senhor Jesus Cristo, que, sendo rico, se fez pobre por vós, a fim de que fósseis ricos pela sua pobreza.
+
+[[v54-8-10]]
+
+^<<v54-8-10,10>>^ lsto é um conselho que vos dou, porque é útil para vós, que (primeiro) começastes não só a fazer, mas também a desejar (tirar a colecta) desde o ano passado.
+
+[[v54-8-11]]
+
+^<<v54-8-11,11>>^ Agora, pois, acabai a obra, para que, assim como a vontade está pronta para querer, também o esteja para cumprir, segundo os vossos meios.
+
+[[v54-8-12]]
+
+^<<v54-8-12,12>>^ Se a vontade está pronta para dar, é aceite segundo aquilo que se tem, não segundo aquilo que se não tem.
+
+[[v54-8-13]]
+
+^<<v54-8-13,13>>^ Não se pretende que os outros tenham alivio e vós fiqueis em aflição, mas que haja igualdade.
+
+[[v54-8-14]]
+
+^<<v54-8-14,14>>^ Na circunstância presente a vossa abundância supra a sua indigência, para que também a sua abundância supra a vossa indigência, de maneira que haja igualdade, como está escrito;
+
+[[v54-8-15]]
+
+^<<v54-8-15,15>>^ O que havia colhido muito, não teve de mais, e o que havia colhido pouco, não teve de menos (Ex. 16, 18).
+
+[[v54-8-16]]
+
+^<<v54-8-16,16>>^ Graças a Deus, que pôs no coração de Tito a mesma solicitude por vós,
+
+[[v54-8-17]]
+
+^<<v54-8-17,17>>^ porque não só recebeu bem o meu pedido, mas, sendo mais solícito, espontâneamente partiu a visitar-vos.
+
+[[v54-8-18]]
+
+^<<v54-8-18,18>>^ Enviamos também com ele aquele irmão, que é louvado em todas as igrejas, pelo que tem feito pelo Evangelho,
+
+[[v54-8-19]]
+
+^<<v54-8-19,19>>^ e, não sòmente por isto, mas também porque foi escolhido pelas igrejas por companheiro da nossa peregrinação para esta beneficência, em que nos empenhamos, para glória do Senhor e satisfação do nosso coração,
+
+[[v54-8-20]]
+
+^<<v54-8-20,20>>^ evitando assim (senão acompanhado de pessoas escolhidas pelas igrejas) que ninguém nos possa censurar (por qualquer irregularidade) a respeito desta abundante quantia, de que temos o encargo.
+
+[[v54-8-21]]
+
+^<<v54-8-21,21>>^ Verdadeiramente procuramos fazer o bem, não só diante de Deus, mas também diante dos homens.
+
+[[v54-8-22]]
+
+^<<v54-8-22,22>>^ Com eles enviamos também um nosso irmão, cuja solicitude muitas vezes temos experimentado em muitas coisas, e que agora é muito mais solícito, pela grande confiança que tem em vós.
+
+[[v54-8-23]]
+
+^<<v54-8-23,23>>^ Quanto a Tito, é meu companheiro e cooperador junto de vós; quanto a nossos irmãos, são os enviados das igrejas, a glória de Cristo.
+
+[[v54-8-24]]
+
+^<<v54-8-24,24>>^ Neles, pois, mostrai, em face das igrejas, a prova da vossa caridade e por que nos gloriamos de vós.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-007.adoc#v54-7-0[&#60; Capítulo Anterior] | <<v54-8-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-009.adoc#v54-9-0[Próximo Capítulo &#62;]

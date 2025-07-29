@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-100-0]]
+=== Salmos, 100
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 100 é um cântico de louvor e ação de graças ao Senhor. Nele, o salmista convida toda a terra a adorar e servir a Deus com alegria e gratidão. Os versículos a seguir são relacionados com os temas abordados nesse salmo:
+* Salmos 34:1 - "Louvarei ao Senhor em todo o tempo; o seu louvor estará continuamente na minha boca." Assim como no Salmo 100, este versículo também enfatiza a importância de louvar a Deus em todo tempo.
+* Salmos 95:1 - "Vinde, cantemos ao Senhor; jubilemos à rocha da nossa salvação." Esse verso convida as pessoas a cantar e jubilar ao Senhor, o que está em sintonia com o convite do salmista em Salmo 100.
+* Salmos 103:1 - "Bendize, ó minha alma, ao Senhor, e tudo o que há em mim bendiga o seu santo nome." Esse verso expressa a gratidão do salmista por tudo o que Deus fez por ele, o que também é um tema presente no Salmo 100.
+* Salmos 106:1 - "Louvai ao Senhor. Louvai ao Senhor, porque ele é bom, porque a sua benignidade dura para sempre." Esse verso reconhece a bondade de Deus e o convida a ser louvado, algo que também é enfatizado no Salmo 100.
+* Salmos 118:1 - "Dai graças ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre." Esse verso expressa gratidão a Deus por sua bondade e misericórdia, o que está em sintonia com o tema de ação de graças presente no Salmo 100.
+****
+
+[[v21-100-1]]
+
+^<<v21-100-1,1>>^ De Davide. Salmo. Eu cantarei a graça e a justiça; a ti, Senhor, entoarei salmos. (ver nota)
+
+[[v21-100-2]]
+
+^<<v21-100-2,2>>^ Andarei por caminho imaculado: quando virás a mim? Caminharei na inocência do meu coração, na minha casa.
+
+[[v21-100-3]]
+
+^<<v21-100-3,3>>^ Eu não porei diante dos meus olhos coisa injusta; odeio o que comete prevaricações: não se unirá a mim.
+
+[[v21-100-4]]
+
+^<<v21-100-4,4>>^ O coração depravado estará longe de mim; não conhecerei o que é mau.
+
+[[v21-100-5]]
+
+^<<v21-100-5,5>>^ Ao que secretamente diz mal do seu próximo, eu o exterminarei. O que tem olhos altivos e coração inchado, não o tolerarei.
+
+[[v21-100-6]]
+
+^<<v21-100-6,6>>^ Os meus olhos fixam-se nos fiéis da terra, para que habitem comigo. O que anda por caminho imaculado, esse me servirá.
+
+[[v21-100-7]]
+
+^<<v21-100-7,7>>^ Não habitará na minha casa o que comete fraude; o que diz mentiras não subsistirá diante dos meus olhos.
+
+[[v21-100-8]]
+
+^<<v21-100-8,8>>^ Cada dia exterminarei todos os pecados da terra, suprimindo da cidade do Senhor todos os que cometem a iniquidade.
+
+'''
+
+xref:021-salmos/021-salmos-099.adoc#v21-99-0[&#60; Capítulo Anterior] | <<v21-100-0,Topo>> | xref:021-salmos/021-salmos-101.adoc#v21-101-0[Próximo Capítulo &#62;]

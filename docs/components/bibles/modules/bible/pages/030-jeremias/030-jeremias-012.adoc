@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v30-12-0]]
+=== Jeremias, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 12 trata da justiça de Deus e da compreensão do profeta sobre o sofrimento dos justos diante dos ímpios. O capítulo começa com Jeremias questionando a Deus sobre por que os ímpios prosperam enquanto os justos sofrem. Deus responde a Jeremias que ele terá que lidar com seus vizinhos, que o traíram e o atacaram. A seguir estão cinco versículos relacionados com os temas abordados em Jeremias 12:
+* Salmos 37:7: "Descansa no SENHOR e espera nele; não te indignes por causa daquele que prospera em seu caminho, por causa do homem que executa astutos intentos." Este versículo incentiva a confiar em Deus e não ficar com inveja dos ímpios que prosperam em seus caminhos, pois no final a justiça de Deus prevalecerá.
+* Isaías 13:11: "Castigarei o mundo por causa da sua maldade, e os ímpios por causa da sua iniquidade; farei cessar a arrogância dos atrevidos, e abaterei a altivez dos cruéis." Deus promete punir os ímpios por sua iniquidade e arrogância, mostrando que a justiça será feita, embora possa levar tempo.
+* 2 Tessalonicenses 1:6-7: "Porquanto é justo diante de Deus retribuir com tribulação aos que vos atribulam, e a vós, que sois atribulados, alívio juntamente conosco. Isso será na revelação do Senhor Jesus desde o céu, com os anjos do seu poder." Este versículo fala sobre a justiça de Deus, que retribuirá com tribulação aqueles que causaram tribulação aos justos.
+* Hebreus 11:32-38: Estes versículos descrevem muitos exemplos de justos que sofreram, mas permaneceram fiéis a Deus. Eles incluem Abraão, Moisés, Gideão e muitos outros que foram perseguidos, torturados e mortos por causa de sua fé. O autor da Epístola aos Hebreus argumenta que, embora esses justos tenham sofrido, Deus ainda era fiel e os recompensou.
+* Tiago 5:7-8: "Sede, pois, irmãos, pacientes até à vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba a chuva temporã e serôdia. Sede vós também pacientes e fortalecei o vosso coração, porque a vinda do Senhor está próxima." Tiago incentiva a paciência e perseverança nos momentos de sofrimento, confiando na vinda do Senhor e em sua justiça final.
+****
+
+[[v30-12-1]]
+
+^<<v30-12-1,1>>^ Tu és muito justo, ó Senhor, para que dispute contigo; todavia eu te direi coisas justas. Por que motivo é próspero o caminho dos ímpios, e vivem em paz todos os que prevaricam e fazem mal?
+
+[[v30-12-2]]
+
+^<<v30-12-2,2>>^ Tu os plantas (no mundo), e lançam raízes; medram e dão fruto; estás perto dos seus lábios, porém longe do seu coração.
+
+[[v30-12-3]]
+
+^<<v30-12-3,3>>^ Mas tu, Senhor, me conheces, me vês, experimentas como o meu coração está contigo. Leva-os como ovelhas para o matadouro, destina-os para o dia da matança.
+
+[[v30-12-4]]
+
+^<<v30-12-4,4>>^ Até quando há-de chorar a terra, secar-se a erva de todo o campo? Por causa da maldade dos seus habitantes perecem animais e aves, porque dizem: Ele não verá o nosso fim.
+
+[[v30-12-5]]
+
+^<<v30-12-5,5>>^ Se te fatigaste em seguir, correndo, os que iam a pé, como poderás competir com os que vão a cavalo? Se nem estás em sossego numa terra de paz, que farás no meio dos matagais do Jordão (povoado de feras)? (ver nota)
+
+[[v30-12-6]]
+
+^<<v30-12-6,6>>^ Sim, os teus próprios irmãos, os da casa de teu pai, te atraiçoam. Por trás de ti, criticam-te desabridamente. Não te fies neles, (mesmo) quando te falarem com doçura.
+
+[[v30-12-7]]
+
+^<<v30-12-7,7>>^ (Para os castigar, diz o Senhor) deixei a minha casa (ou templo), abandonei a minha herança; entreguei o objecto das delícias da minha alma às mãos dos seus inimigos.
+
+[[v30-12-8]]
+
+^<<v30-12-8,8>>^ A minha herança (o meu povo) tornou-se para mim como um leão na selva; levantou a voz (blasfemando) contra mim; por isso eu a aborreci.
+
+[[v30-12-9]]
+
+^<<v30-12-9,9>>^ Porventura a minha herança é como uma ave multicolor, cercada de abutres? Vinde, congregai-vos todos os animais da terra, apressai-vos a devorá-la.
+
+[[v30-12-10]]
+
+^<<v30-12-10,10>>^ Numerosos pastores destruíram a minha vinha, pisaram a minha propriedade, trocaram a minha deliciosa herança em deserto de solidão.
+
+[[v30-12-11]]
+
+^<<v30-12-11,11>>^ Devastaram-na, e ela está de luto diante de mim; foi inteiramente desolada toda a terra (de Judá), porque não há ninguém que considere no seu coração.
+
+[[v30-12-12]]
+
+^<<v30-12-12,12>>^ Por todas as alturas do deserto chegam desvastadores, porque a espada do Senhor devora o país, desde um extremo ao outro, não há paz para nenhum vivente.
+
+[[v30-12-13]]
+
+^<<v30-12-13,13>>^ Semearam trigo e colheram espinhos; trabalharam, mas em vão; receberam a herança, mas não lhes aproveitou. Tende vergonha dos vossos frutos, por causa da grande cólera do Senhor.
+
+[[v30-12-14]]
+
+^<<v30-12-14,14>>^ Assim fala o Senhor: Todos os vizinhos malvados, que tocam (ou usurpam) a herança que reparti pelo meu povo de Israel, vou arrancá-los da sua terra e arrancar a casa de Judá do meio deles.
+
+[[v30-12-15]]
+
+^<<v30-12-15,15>>^ Mas, quando os tiver arrancado, voltar-me-ei e terei piedade deles, fá-los-ei voltar cada um à sua herança, cada um à sua terra.
+
+[[v30-12-16]]
+
+^<<v30-12-16,16>>^ Se eles, escarmentados, aprenderem os caminhos do meu povo, de maneira que jurem em meu nome (dizendo): Vive o Senhor - como ensinaram o meu povo a jurar por Baal, _(então) serão estabelecidos no meio do meu povo. Porém, se não ouvirem, arrancarei pela raiz e exterminarei aquela gente, diz o Senhor.
+
+'''
+
+xref:030-jeremias/030-jeremias-011.adoc#v30-11-0[&#60; Capítulo Anterior] | <<v30-12-0,Topo>> | xref:030-jeremias/030-jeremias-013.adoc#v30-13-0[Próximo Capítulo &#62;]

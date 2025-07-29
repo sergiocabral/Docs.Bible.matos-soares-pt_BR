@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v28-47-0]]
+=== Eclesiástico, 47
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 47 de Eclesiástico destaca a figura do rei Davi, sua história e realizações. Davi é reconhecido como um líder forte e sábio, que conduziu o povo de Israel com justiça. Além disso, o capítulo destaca a importância da sabedoria e da fidelidade a Deus para alcançar a prosperidade e a glória. Seguem abaixo cinco versículos relacionados com os temas abordados em Eclesiástico 47:
+* 1 Reis 2:10-11: "E Davi dormiu com seus pais, e foi sepultado na cidade de Davi. E o tempo que reinou sobre Israel foi quarenta anos: sete anos reinou em Hebrom, e em Jerusalém reinou trinta e três." Este versículo descreve o fim da vida de Davi e sua importância como rei de Israel.
+* 2 Crônicas 1:7-10: "Naquela mesma noite apareceu Deus a Salomão e lhe disse: Pede o que queres que eu te dê. E disse-lhe Salomão: Dá-me agora sabedoria e conhecimento, para que possa sair e entrar perante este povo; pois quem poderia julgar este teu grande povo? E Deus disse a Salomão: Porquanto houve isto em teu coração, e não pediste riquezas, bens, honra, nem a vida dos que te odeiam, nem tampouco pediste muitos dias de vida, mas pediste para ti sabedoria e conhecimento, para poderes julgar o meu povo, sobre o qual te constituí rei;" Este versículo destaca a importância da sabedoria e como a busca por ela pode trazer bênçãos e prosperidade.
+* Provérbios 14:34: "A justiça exalta as nações, mas o pecado é a vergonha dos povos." Esse versículo destaca a importância da justiça e da integridade para a prosperidade de um povo.
+* Salmos 101:6: "Os meus olhos estarão sobre os fiéis da terra, para que habitem comigo; o que anda num caminho reto, esse me servirá." Este versículo destaca a importância da fidelidade a Deus e à sua vontade.
+* Provérbios 28:20: "O homem fiel será coberto de bênçãos, mas o que se apressa a enriquecer não ficará impune." Este versículo destaca a importância da fidelidade e da integridade para a prosperidade e a bênção de Deus.
+****
+
+[[v28-47-1]]
+
+^<<v28-47-1,1>>^ Depois disto, levantou-se Natan profeta no tempo de Davide.
+
+[[v28-47-2]]
+
+^<<v28-47-2,2>>^ Assim como a gordura da vítima se separa da carne, assim Davide foi separado (ou escolhido) dentre os filhos de Israel. (ver nota)
+
+[[v28-47-3]]
+
+^<<v28-47-3,3>>^ Brincou com os leões como com cordeiros, e tratou os ursos como cordeirinhos.
+
+[[v28-47-4]]
+
+^<<v28-47-4,4>>^ Não foi ele quem, na sua mocidade, matou o gigante, e quem tirou o opróbrio do seu povo?
+
+[[v28-47-5]]
+
+^<<v28-47-5,5>>^ Levantando a mão, com a pedra da funda fez cair por terra o orgulho de Golias,
+
+[[v28-47-6]]
+
+^<<v28-47-6,6>>^ porque ele invocou o Senhor Todo-Poderoso, o qual deu à sua dextra força para derrubar um homem valente na guerra, e para exaltar o poder do seu povo.
+
+[[v28-47-7]]
+
+^<<v28-47-7,7>>^ Também foi celebrado por causa (da morte) dos dez mil homens, tornou-se ilustre com as bênçãos do Senhor, e foi-lhe oferecida uma coroa de glória,
+
+[[v28-47-8]]
+
+^<<v28-47-8,8>>^ porque desbaratou os inimigos por todas as partes, exterminou os Filisteus, seus adversários, até ao dia de hoje, abateu o seu poder para sempre.
+
+[[v28-47-9]]
+
+^<<v28-47-9,9>>^ Em todas as suas obras deu graças ao Santo e ao Excelso com palavras de louvor.
+
+[[v28-47-10]]
+
+^<<v28-47-10,10>>^ Louvou o Senhor de todo o seu coração, amou a Deus que o criou e lhe deu força contra os inimigos.
+
+[[v28-47-11]]
+
+^<<v28-47-11,11>>^ Estabeleceu cantores para estarem diante do altar, e compôs suaves melodias para os seus cânticos.
+
+[[v28-47-12]]
+
+^<<v28-47-12,12>>^ Deu esplendor às festividades, brilho aos dias solenes até ao fim da sua vida, para que louvassem o santo nome do Senhor, e engrandecessem desde manhã a santidade de Deus.
+
+[[v28-47-13]]
+
+^<<v28-47-13,13>>^ O Senhor o purificou dos seus pecados, exaltou para sempre o seu poder, e assegurou-lhe, por um pacto, a realeza e um trono de glória em Israel.
+
+[[v28-47-14]]
+
+^<<v28-47-14,14>>^ Sucedeu-lhe seu filho sábio; o Senhor, por amor dele, destruiu todo o poder dos seus inimigos.
+
+[[v28-47-15]]
+
+^<<v28-47-15,15>>^ Salomão reinou em dias de paz; Deus submeteu-lhe todos os seus inimigos, para que fundasse uma casa ao seu nome, e lhe preparasse um santuário eterno. Quão bem instruído foste na tua mocidade!
+
+[[v28-47-16]]
+
+^<<v28-47-16,16>>^ Foste cheio de sabedoria, como um rio. A tua alma cobriu a terra,
+
+[[v28-47-17]]
+
+^<<v28-47-17,17>>^ e encheste-la de sentenças misteriosas. O teu nome tornou-se célebre até às ilhas remotas, e foste amado na tua paz.
+
+[[v28-47-18]]
+
+^<<v28-47-18,18>>^ Os teus cânticos, provérbios, parábolas e interpretações foram admirados por toda a terra.
+
+[[v28-47-19]]
+
+^<<v28-47-19,19>>^ Em nome do Senhor Deus, que é chamado o Deus de Israel,
+
+[[v28-47-20]]
+
+^<<v28-47-20,20>>^ ajuntaste ouro, como se fosse estanho, e amontoaste prata como chumbo;
+
+[[v28-47-21]]
+
+^<<v28-47-21,21>>^ (mas) depois inclinaste-te para as mulheres, entregaste à libertinagem o teu corpo,
+
+[[v28-47-22]]
+
+^<<v28-47-22,22>>^ puseste mácula na tua glória, profanaste a tua geração, fazendo com que viesse a ira sobre os teus filhos, o castigo sobre a tua loucura,
+
+[[v28-47-23]]
+
+^<<v28-47-23,23>>^ causando com isso um cisma no reino, e fazendo sair de Efraim uma dominação cruel.
+
+[[v28-47-24]]
+
+^<<v28-47-24,24>>^ Mas Deus não abandonará a sua misericórdia, não destruirá nem aniquilará as suas obras, não arrancará pela raiz a posteridade de (Daride) seu escolhido, não exterminará a linhagem desse varão amante do Senhor.
+
+[[v28-47-25]]
+
+^<<v28-47-25,25>>^ Por isso deixou um resto a Jacob, e a Davide (um rebento) da sua linhagem.
+
+[[v28-47-26]]
+
+^<<v28-47-26,26>>^ E morreu Salomão com seus pais.
+
+[[v28-47-27]]
+
+^<<v28-47-27,27>>^ Deixou depois de si um filho, (que foi causa da) loucura do povo.
+
+[[v28-47-28]]
+
+^<<v28-47-28,28>>^ um homem falto de prudência, chamado Roboão, que afastou de si o povo com o seu (mau) conselho;
+
+[[v28-47-29]]
+
+^<<v28-47-29,29>>^ e Joroboão, filho de Nabat, que fez pecar Israel, e abriu a Efraim o caminho do pecado. Houve grandíssima inundação dos seus crimes,
+
+[[v28-47-30]]
+
+^<<v28-47-30,30>>^ por causa dos quais foram muitas vezes lançados fora da sua terra.
+
+[[v28-47-31]]
+
+^<<v28-47-31,31>>^ (Israel) entregou-se a todo o género de maldades, até que veio a vingança, que pôs um termo a todos os pecados. (ver nota)
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-046.adoc#v28-46-0[&#60; Capítulo Anterior] | <<v28-47-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-048.adoc#v28-48-0[Próximo Capítulo &#62;]

@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v13-15-0]]
+=== I Crônicas, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 15 narra a segunda tentativa de Davi de trazer a arca da aliança para Jerusalém, desta vez seguindo as instruções de Deus para transportá-la corretamente. O capítulo destaca a importância da adoração e da música no culto a Deus. A partir deste capítulo, escolhi cinco versículos relacionados aos temas de adoração, música, santidade, obediência e liderança, que podem ser encontrados em outras partes da Bíblia.
+* Salmos 95:6: "Ó, vinde, adoremos e prostremo-nos; ajoelhemos diante do SENHOR, que nos criou." Davi entendeu a importância de adorar a Deus com reverência e submissão. Este versículo do Salmo 95 destaca a importância de adorar a Deus com humildade.
+* Salmos 150:4: "Louvai-o com adufes e danças; louvai-o com instrumentos de cordas e com flautas." Davi valorizava a música no culto a Deus, e este versículo do Salmo 150 destaca a importância de usar instrumentos musicais para louvar a Deus.
+* Levítico 11:44: "Porque eu sou o SENHOR, vosso Deus; portanto, santificai-vos e sede santos, porque eu sou santo." Davi entendeu a importância da santidade na adoração a Deus, e este versículo de Levítico destaca a importância da santidade em nossas vidas.
+* Deuteronômio 28:1: "E será que, se ouvires a voz do SENHOR teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu hoje te ordeno, o SENHOR teu Deus te exaltará sobre todas as nações da terra." Davi aprendeu com seus erros anteriores e seguiu as instruções de Deus para transportar a arca corretamente. Este versículo de Deuteronômio destaca a importância da obediência aos mandamentos de Deus.
+* 2 Crônicas 5:12-13: "E tocavam os levitas, todos eles, címbalos, alaúdes e harpas, estando já duzentos e vinte cantores com suas vozes uníssonas, para fazerem ouvir um só som, para louvarem e celebrarem ao SENHOR; e, levantando eles a voz com trombetas, címbalos e outros instrumentos musicais, e louvando ao SENHOR, dizendo: Porque ele é bom, porque a sua benignidade dura para sempre, então a casa se encheu de uma nuvem, a saber, a casa do SENHOR." Este versículo de 2 Crônicas destaca a importância da liderança de Davi na organização do culto a Deus e como a adoração e a música podem levar à manifestação da presença de Deus.
+****
+
+[[v13-15-1]]
+
+^<<v13-15-1,1>>^ Edificou também casa para si, na cidade de Davide, e edificou um lugar (próprio) para a arca de Deus e levantou-lhe um tabernáculo.
+
+[[v13-15-2]]
+
+^<<v13-15-2,2>>^ Então disse Davide: Não é permitido que a arca de Deus seja levada por alguém senão pelos Levitas, aos quais o Senhor escolheu para a levarem e para serem seus ministros perpètuamente.
+
+[[v13-15-3]]
+
+^<<v13-15-3,3>>^ Congregou, pois, todo o Israel em Jerusalém, para trasladar a arca de Deus ao lugar, que lhe tinha preparado.
+
+[[v13-15-4]]
+
+^<<v13-15-4,4>>^ Convocou também os filhos de Aarão e os Levitas:
+
+[[v13-15-5]]
+
+^<<v13-15-5,5>>^ dos filhos de Caat, Uriel, que era o chefe, com seus irmãos em número de cento e vinte;
+
+[[v13-15-6]]
+
+^<<v13-15-6,6>>^ dos filhos de Merari, o principal, que era Asaia, com seus irmãos em número de duzentos e vinte;
+
+[[v13-15-7]]
+
+^<<v13-15-7,7>>^ dos filhos de Gerson, o principal que era Joel, com seus irmãos em número de cento e trinta;
+
+[[v13-15-8]]
+
+^<<v13-15-8,8>>^ dos filhos de Elisafan, o principal, que era Semeias, com seus irmãos em número de duzentos;
+
+[[v13-15-9]]
+
+^<<v13-15-9,9>>^ dos filhos de Hebron, o principal, que era Eliel, com seus irmãos em número de oitenta;
+
+[[v13-15-10]]
+
+^<<v13-15-10,10>>^ dos filhos de Oziel, o principal, que era Aminadab, com seus irmãos em número de cento e doze.
+
+[[v13-15-11]]
+
+^<<v13-15-11,11>>^ Davide chamou os sacerdotes Sadoc e Ablatar, os Levitas Uriel, Asala, Joel, Semeias, Eliel e Aminadab,
+
+[[v13-15-12]]
+
+^<<v13-15-12,12>>^ e disse-lhes: Vós, que sois os chefes das famílias levíticas, purificai-vos com vossos irmãos e transportai a arca do Senhor Deus de Israel ao lugar que lhe foi preparado.
+
+[[v13-15-13]]
+
+^<<v13-15-13,13>>^ Com efeito, da primeira vez, porque não estáveis presentes, nos feriu o Senhor, porque não fomos buscar (a arca) segundo as determinações da lei.
+
+[[v13-15-14]]
+
+^<<v13-15-14,14>>^ Os sacerdotes, pois, e os Levitas purificaram-se, para transportar a arca do Senhor Deus de Israel.
+
+[[v13-15-15]]
+
+^<<v13-15-15,15>>^ Os filhos de Levi tomaram a arca de Deus aos ombros pelos varais, como Moisés tinha ordenado conforme a palavra do Senhor.
+
+[[v13-15-16]]
+
+^<<v13-15-16,16>>^ Davide disse aos chefes dos Levitas que constituíssem dentre seus irmãos cantores com instrumentos músicos, isto é, com cítaras, harpas e címbalos, a fim de que ressoasse até ao céu o som da alegria.
+
+[[v13-15-17]]
+
+^<<v13-15-17,17>>^ Constituíram, pois, dos Levitas: Heman, filho de Joel, e, dentre os seus irmãos, Asaf, filho de Baraquias; dos filhos de Merari, seus irmãos, (constituíram) Etan, filho de Cusala;
+
+[[v13-15-18]]
+
+^<<v13-15-18,18>>^ com eles, os seus irmãos de segunda ordem (ou coro) Zacarias, Ben, Jazlel, Semlramot, Jaiel, Ani, Eliab, Banalas, Maasias, Matatias, Elifalu, Macenias, Obededom e Jeiel, que eram porteiros.
+
+[[v13-15-19]]
+
+^<<v13-15-19,19>>^ Os cantores Heman, Asaf e Etan tocavam címbalos de bronze.
+
+[[v13-15-20]]
+
+^<<v13-15-20,20>>^ Zacarias, Oziel, Semlramot, Jaiel, Ani, Eliab, Maasias e Banaias, cantavam, ao som de cítaras, hinos misteriosos.
+
+[[v13-15-21]]
+
+^<<v13-15-21,21>>^ Matatias, Ellfalu, Macenias, Obededom, Jeiel e Ozazlu cantavam, ao som das harpas na oitava (inferior), cânticos triunfais.
+
+[[v13-15-22]]
+
+^<<v13-15-22,22>>^ Conenias, chefe dos Levitas, presidia ao canto para dar o tom, porque era muito entendido.
+
+[[v13-15-23]]
+
+^<<v13-15-23,23>>^ Baraquias e Elcana eram porteiros da arca.
+
+[[v13-15-24]]
+
+^<<v13-15-24,24>>^ Os sacerdotes Sebenlas, Josafat, Natanael, Amasai, Zacarias, Banaias e Eliezer, tocavam trombetas diante da arca de Deus. Obededom e Jeías eram (também) porteiros da arca.
+
+[[v13-15-25]]
+
+^<<v13-15-25,25>>^ Davide, todos os anciães de Israel e os chefes de milhar, foram com alegria para trasladarem da casa de Obededom (para Jerusalém) a arca da aliança do Senhor.
+
+[[v13-15-26]]
+
+^<<v13-15-26,26>>^ Tendo Deus assistido aos Levitas, que levavam a arca da aliança do Senhor, foram imolados sete touros e sete carneiros.
+
+[[v13-15-27]]
+
+^<<v13-15-27,27>>^ Davide estava vestido duma túnica de linho fino, e, da mesma forma, todos os Levitas que levavam a arca, e os cantores e Conénias, regente do coro dos cantores. Davide estava também vestido dum éfode de linho.
+
+[[v13-15-28]]
+
+^<<v13-15-28,28>>^ Todo o Israel acompanhava a arca da aliança do Senhor, com vozes de júbilo, ao som de clarins, trombetas, címbalos, harpas e cítaras.
+
+[[v13-15-29]]
+
+^<<v13-15-29,29>>^ Quando a arca da aliança do Senhor chegou à cidade de Davide, Micol, filha de Saul, olhando da janela, viu que o rei Davide saltava e dançava (diante da arca) e desprezou-o no seu coração.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-014.adoc#v13-14-0[&#60; Capítulo Anterior] | <<v13-15-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-016.adoc#v13-16-0[Próximo Capítulo &#62;]

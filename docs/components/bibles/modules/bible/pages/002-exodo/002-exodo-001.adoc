@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v2-1-0]]
+=== Êxodo, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Êxodo 1 é o início do livro de Êxodo, onde é relatada a opressão dos israelitas no Egito e o início do plano de Deus para libertá-los. O capítulo começa com a introdução da história dos israelitas no Egito, que haviam se multiplicado muito e foram vistos como uma ameaça pelos egípcios. O faraó então decide oprimi-los, escravizando-os e ordenando que as parteiras matem os recém-nascidos do sexo masculino. Abaixo seguem cinco versículos relacionados com os temas abordados em Êxodo 1:
+* Êxodo 2:24: "E ouviu Deus o seu gemido, e lembrou-se Deus da sua aliança com Abraão, com Isaque, e com Jacó." Este versículo mostra que Deus ouviu o clamor dos israelitas e se lembrou de sua aliança com Abraão, Isaque e Jacó, prometendo libertá-los do Egito.
+* Deuteronômio 26:7: "E clamamos ao SENHOR Deus de nossos pais; e o SENHOR ouviu a nossa voz, e viu a nossa aflição, e o nosso trabalho, e a nossa opressão." Aqui, vemos que os israelitas clamaram ao Senhor durante sua opressão no Egito, e Deus os ouviu e viu sua aflição e opressão.
+* Salmos 81:6: "Eu tirei do ombro dele a carga, as suas mãos foram livres dos cestos." Este versículo fala da libertação dos israelitas do Egito, onde Deus tirou a carga da opressão de seus ombros e os libertou para que tivessem mãos livres.
+* Êxodo 3:7: "E disse o SENHOR: Tenho visto atentamente a aflição do meu povo, que está no Egito, e tenho ouvido o seu clamor por causa dos seus exatores, porque conheci as suas dores." Aqui, Deus fala diretamente com Moisés e afirma ter visto a aflição do seu povo no Egito e ouvido seu clamor por causa da opressão.
+* Isaías 43:1: "Mas agora assim diz o SENHOR que te criou, ó Jacó, e que te formou, ó Israel: Não temas, porque eu te remi; chamei-te pelo teu nome, tu és meu." Este versículo fala da libertação e redenção de Israel pelo Senhor, que os chamou pelo nome e prometeu não abandoná-los.
+****
+
+[[v2-1-1]]
+
+^<<v2-1-1,1>>^ Estes são os nomes dos filhos de Israel que entraram no Egipto com Jacob cada um deles entrou com sua família:
+
+[[v2-1-2]]
+
+^<<v2-1-2,2>>^ Ruben, Simeão, Levi, Judá,
+
+[[v2-1-3]]
+
+^<<v2-1-3,3>>^ Issacar, Zabuloh, Benjamim,
+
+[[v2-1-4]]
+
+^<<v2-1-4,4>>^ Dan, Neftali, Gad e Aser.
+
+[[v2-1-5]]
+
+^<<v2-1-5,5>>^ Eram setenta todas as pessoas provindas de Jacob. José estava (já) no Egipto.
+
+[[v2-1-6]]
+
+^<<v2-1-6,6>>^ Depois da sua morte e da de todos os seus irmãos, e de toda aquela geração,
+
+[[v2-1-7]]
+
+^<<v2-1-7,7>>^ os filhos de Israel cresceram e multiplicaram-se: tendo-se tornado extremamente numerosos e fortes, encheram aquela terra.
+
+[[v2-1-8]]
+
+^<<v2-1-8,8>>^ Entretanto levantou-se no Egípto um novo rei, que não conhecia José,
+
+[[v2-1-9]]
+
+^<<v2-1-9,9>>^ e disse ao seu povo: O povo dos filhos de Israel é mais numeroso e forte que nós.
+
+[[v2-1-10]]
+
+^<<v2-1-10,10>>^ Vinde, oprimámo-Io com astúcia para que ele não se multiplique e para que, se sobrevier contra nós alguma guerra, se não una contra os nossos inimigos, e, depois de nos vencer; saia deste país.
+
+[[v2-1-11]]
+
+^<<v2-1-11,11>>^ Portanto estabeleceu sobre eles inspectores de obras, para os oprimirem com trabalhos penosos; assim edificaram a Faraó, para servirem de armazéns, as cidades de Fitom e Ramessés.
+
+[[v2-1-12]]
+
+^<<v2-1-12,12>>^ Mas, quanto mais os oprimiam, tanto mais se multiplicavam e cresciam.
+
+[[v2-1-13]]
+
+^<<v2-1-13,13>>^ Os Egípcios odiavam os filhos de Israel e os afligiam com insultos,
+
+[[v2-1-14]]
+
+^<<v2-1-14,14>>^ fazendo-lhes passar uma vida amarga com penosos trabalhos de barro, de tejolos e do campo, com toda espécie de Serviço duramente imposto.
+
+[[v2-1-15]]
+
+^<<v2-1-15,15>>^ O rei do Egipto falou também às parteiras dos hebreus, uma das quais se chamava Séfoira, e a outra Fua,
+
+[[v2-1-16]]
+
+^<<v2-1-16,16>>^ ordenando-lhes: Quando assistirdes às mulheres hebreias, e chegar o tempo do parto se for menino, matai-o, se for menina, conservai-a.
+
+[[v2-1-17]]
+
+^<<v2-1-17,17>>^ Contudo as parteiras temeram a Deus e não obedeceram à ordem do rei do Egipto, mas conservavam os meninos.
+
+[[v2-1-18]]
+
+^<<v2-1-18,18>>^ Então, tendo-as chamado, o rei disse-lhes: O que é que quisestes fazer, conservando os meninos?
+
+[[v2-1-19]]
+
+^<<v2-1-19,19>>^ Elas responderam: As mulheres hebreias não são como as egípcias, pois sabem assistir-se no seu parto, e, antes de nós chegarmos, dão à luz.
+
+[[v2-1-20]]
+
+^<<v2-1-20,20>>^ Por isto, Deus fez bem às parteiras: e o povo cresceu, e se fortificou extraordinàriamente.
+
+[[v2-1-21]]
+
+^<<v2-1-21,21>>^ Visto que as parteiras temeram a Deus, ele fez prosperar as suas casas.
+
+[[v2-1-22]]
+
+^<<v2-1-22,22>>^ Então ordenou Faraó a todo o seu povo, dizendo: Tudo o que nascer do sexo masculino lançai-o ao rio: tudo o (que nascer) do sexo feminino conservai-o.
+
+'''
+
+xref:001-genesis/001-genesis-050.adoc#v1-50-0[&#60; Capítulo Anterior] | <<v2-1-0,Topo>> | xref:002-exodo/002-exodo-002.adoc#v2-2-0[Próximo Capítulo &#62;]

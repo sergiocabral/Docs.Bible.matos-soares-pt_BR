@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v56-6-0]]
+=== Efésios, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Efésios 6 é um capítulo que trata do relacionamento entre pais e filhos, senhores e servos, e a armadura de Deus. A seguir, estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Efésios 6.
+* Colossenses 3:20-21: "Vós, filhos, obedecei em tudo a vossos pais, porque isto é agradável ao Senhor. Pais, não irriteis a vossos filhos, para que não percam o ânimo." Este versículo fala sobre o relacionamento entre pais e filhos e a importância da obediência dos filhos e da paciência dos pais, o que é abordado em Efésios 6.
+* 1 Pedro 2:18: "Vós, servos, sujeitai-vos com todo o temor aos senhores, não somente aos bons e humanos, mas também aos maus." Este versículo fala sobre a submissão dos servos aos seus senhores, o que é abordado em Efésios 6.
+* 1 Tessalonicenses 5:8: "Mas nós, que somos do dia, sejamos sóbrios, vestindo-nos da couraça da fé e do amor, e tendo por capacete a esperança da salvação." Este versículo fala sobre a importância da fé, do amor e da esperança como parte da armadura de Deus, que é descrita em Efésios 6.
+* 1 Pedro 5:8-9: "Sede sóbrios, vigiai, porque o diabo, vosso adversário, anda em derredor, bramando como leão, buscando a quem possa tragar; ao qual resisti firmes na fé, sabendo que as mesmas aflições se cumprem entre os vossos irmãos no mundo." Este versículo fala sobre a importância de estar alerta e resistir às investidas do diabo, o que é abordado em Efésios 6.
+* 1 Timóteo 6:12: "Combate a boa batalha da fé, apodera-te da vida eterna, para a qual também foste chamado, tendo já feito boa confissão diante de muitas testemunhas." Este versículo fala sobre a importância de lutar pela fé e tomar posse da vida eterna, o que é abordado em Efésios 6 através da descrição da armadura de Deus e da necessidade de estar pronto para a batalha espiritual.
+****
+
+[[v56-6-1]]
+
+^<<v56-6-1,1>>^ Filhos, obedecei a vossos pais no Senhor, porque isto é justo.
+
+[[v56-6-2]]
+
+^<<v56-6-2,2>>^ Honra teu pai e tua mãe, que é o primeiro mandamento que tem promessa,
+
+[[v56-6-3]]
+
+^<<v56-6-3,3>>^ a fim de que sejas feliz e tenhas larga vida sobre a terra (Dt. 5, 16).
+
+[[v56-6-4]]
+
+^<<v56-6-4,4>>^ E vós, pais, não provoqueis à ira os vossos filhos (tratando-os com excessiva severidade), mas educai-os na disciplina e nas instruções do Senhor.
+
+[[v56-6-5]]
+
+^<<v56-6-5,5>>^ Servos, obedecei a vossos senhores segundo a carne, com temor e reverência, na sinceridade do vosso coração, como a Cristo,
+
+[[v56-6-6]]
+
+^<<v56-6-6,6>>^ não os servindo só quando sob as suas vistas, como por agradar aos homens, mas como servos de Cristo, fazendo do bom coração a vontade de Deus,
+
+[[v56-6-7]]
+
+^<<v56-6-7,7>>^ servindo-os com boa vontade, como se servísseis o Senhor e não os homens.
+
+[[v56-6-8]]
+
+^<<v56-6-8,8>>^ sabendo que cada um receberá do Senhor a paga do bem que tiver feito, quer seja escravo quer livre.
+
+[[v56-6-9]]
+
+^<<v56-6-9,9>>^ E vós, senhores, fazei o mesmo com eles, pondo de parte as ameaças, sabendo que o Senhor, tanto deles como vosso, está nos céus, e que não faz acepção de pessoas.
+
+[[v56-6-10]]
+
+^<<v56-6-10,10>>^ De resto, irmãos, fortalecei-vos no Senhor, no seu poder soberano.
+
+[[v56-6-11]]
+
+^<<v56-6-11,11>>^ Revesti-vos da armadura de Deus, para que possais resistir às ciladas do demônio,
+
+[[v56-6-12]]
+
+^<<v56-6-12,12>>^ porque nós não temos que lutar (somente) contra a carne e o sangue, mas sim contra os principados e potestades (do inferno), contra os dominadores deste mundo tenebroso, contra os espíritos malignos (espalhados) pelos ares. (ver nota)
+
+[[v56-6-13]]
+
+^<<v56-6-13,13>>^ Portanto, tomai a armadura de Deus, para que possais resistir no dia mau e ficar de pé depois de ter vencido tudo. (ver nota)
+
+[[v56-6-14]]
+
+^<<v56-6-14,14>>^ Estai, pois, firmes, tendo cingido os vossos rins com a verdade, vestindo a couraça da justiça,
+
+[[v56-6-15]]
+
+^<<v56-6-15,15>>^ tendo os pés calçados de zelo para ir anunciar o Evangelho da paz;
+
+[[v56-6-16]]
+
+^<<v56-6-16,16>>^ sobretudo tomai o escudo da fé, com que possais apagar todos os dardos inflamados do (espírito) maligno;
+
+[[v56-6-17]]
+
+^<<v56-6-17,17>>^ tomai também o elmo da salvação e a espada do espírito, que é a palavra de Deus.
+
+[[v56-6-18]]
+
+^<<v56-6-18,18>>^ Fazei continuamente pelo Espírito toda a sorte de orações e de súplicas. Ocupai-vos nisto mesmo com toda a perseverança, rogando por todos os santos (ver nota)
+
+[[v56-6-19]]
+
+^<<v56-6-19,19>>^ e por mim, para que me seja dado, quando abrir a boca, pregar com liberdade o mistério do Evangelho,
+
+[[v56-6-20]]
+
+^<<v56-6-20,20>>^ do qual eu, mesmo com as algemas, sou embaixador, e para que eu fale corajosamente dele, como devo.
+
+[[v56-6-21]]
+
+^<<v56-6-21,21>>^ Para que saibais também o estado das minhas coisas e o que eu faço, de tudo vos informará Tíquico, nosso irmão muito amado e ministro fiel no Senhor.
+
+[[v56-6-22]]
+
+^<<v56-6-22,22>>^ Eu vo-lo envio expressamente para que saibais o que é feito de nós e para que console os vossos corações.
+
+[[v56-6-23]]
+
+^<<v56-6-23,23>>^ Paz aos irmãos, caridade e fé, da parte de Deus Pai e da do Senhor Jesus Cristo.
+
+[[v56-6-24]]
+
+^<<v56-6-24,24>>^ A graça seja com todos os que amam a Nosso Senhor Jesus Cristo de um modo inalterável.
+
+'''
+
+xref:056-efesios/056-efesios-005.adoc#v56-5-0[&#60; Capítulo Anterior] | <<v56-6-0,Topo>> | xref:057-filipenses/057-filipenses-001.adoc#v57-1-0[Próximo Capítulo &#62;]

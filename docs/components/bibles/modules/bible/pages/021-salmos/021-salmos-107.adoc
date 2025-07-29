@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-107-0]]
+=== Salmos, 107
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 107 é um hino de agradecimento a Deus por sua bondade e misericórdia em resgatar os que clamam por ajuda em situações de aflição. O salmista descreve quatro situações em que as pessoas clamam por ajuda: perigos no deserto, prisão, doença e tempestade no mar. Em cada situação, o povo clama por ajuda e Deus os resgata. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 107:
+* Isaías 61:1: "O Espírito do Soberano, o Senhor, está sobre mim, porque o Senhor ungiu-me para levar boas notícias aos pobres. Enviou-me para cuidar dos que estão com o coração quebrantado, anunciar liberdade aos cativos e libertação das trevas aos prisioneiros." Este versículo fala sobre a missão de Cristo na Terra, que era libertar os cativos e cuidar dos que estão com o coração quebrantado, como aqueles que clamam por ajuda nas situações descritas no Salmo 107.
+* Salmos 18:16-17: "Ele estendeu a mão do alto e me segurou; tirou-me das águas profundas. Livrou-me do meu inimigo poderoso, dos meus adversários, que eram mais fortes do que eu." Este versículo fala sobre Deus resgatando o salmista da morte certa, assim como Ele resgata aqueles que clamam por ajuda em situações de perigo, como a tempestade no mar descrita no Salmo 107.
+* Salmos 30:2-3: "Ó Senhor meu Deus, clamei a ti por socorro, e tu me curaste. Senhor meu Deus, a ti clamei por socorro, e fui curado." Este versículo fala sobre Deus curando aqueles que clamam por ajuda em situações de doença, como descrito no Salmo 107.
+* Isaías 43:19: "Vou fazer uma coisa nova, agora mesmo vai brotar. Vocês não o percebem? Vou abrir um caminho no deserto e fazer rios correrem na terra seca." Este versículo fala sobre Deus fazendo um caminho onde não havia, assim como Ele guia e salva aqueles que clamam por ajuda em situações de perigo no deserto, como descrito no Salmo 107.
+* Salmos 146:7-8: "Ele faz justiça aos oprimidos e dá pão aos famintos. O Senhor liberta os presos." Este versículo fala sobre Deus libertando aqueles que estão presos, assim como descrito na situação de prisão no Salmo 107.
+****
+
+[[v21-107-1]]
+
+^<<v21-107-1,1>>^ Cântico. Salmo. De Davide. (ver nota)
+
+[[v21-107-2]]
+
+^<<v21-107-2,2>>^ O meu coração, ó Deus, está firme, o meu coração está firme; vou cantar e entoar salmos.
+
+[[v21-107-3]]
+
+^<<v21-107-3,3>>^ Desperta, ó minha alma, despertai saltério e citara! Eu despertarei a aurora.
+
+[[v21-107-4]]
+
+^<<v21-107-4,4>>^ Louvar-te-ei no meio dos povos, Senhor, entoar-te-ei salmos entre as nações,
+
+[[v21-107-5]]
+
+^<<v21-107-5,5>>^ porque a tua misericórdia é (tão) grande (que chega) até ao céu, e a tua fidelidade até às nuvens.
+
+[[v21-107-6]]
+
+^<<v21-107-6,6>>^ Mostra-te excelso, ó Deus, sobre os céus, brilhe sobre a terra a tua glória.
+
+[[v21-107-7]]
+
+^<<v21-107-7,7>>^ Para que sejam livres os teus dilectos, socorre-nos com a tua direita e ouve-nos.
+
+[[v21-107-8]]
+
+^<<v21-107-8,8>>^ Deus falou no seu santuário: "Exultarei e repartirei (à minha vontade) Siquém, e medirei o vale de Sucot;
+
+[[v21-107-9]]
+
+^<<v21-107-9,9>>^ minha é a terra de Galaad, minha a terra de Manassés; Efraim é o elmo da minha cabeça, Judá o meu ceptro;
+
+[[v21-107-10]]
+
+^<<v21-107-10,10>>^ Moab é bacia para me lavar; poisarei o meu calçado sobre Edom, triunfarei da Filisteia."
+
+[[v21-107-11]]
+
+^<<v21-107-11,11>>^ Quem me conduzirá à cidade fortificada? Quem me conduzirá até Edom?
+
+[[v21-107-12]]
+
+^<<v21-107-12,12>>^ Porventura não és tu, ó Deus, que nos repeliste, que já não sais, ó Deus, à frente dos nossos exércitos?
+
+[[v21-107-13]]
+
+^<<v21-107-13,13>>^ Dá-nos auxilio contra o inimigo, porque é vão o socorro do homem.
+
+[[v21-107-14]]
+
+^<<v21-107-14,14>>^ Em Deus faremos proezas, e ele calcará os nossos inimigos.
+
+'''
+
+xref:021-salmos/021-salmos-106.adoc#v21-106-0[&#60; Capítulo Anterior] | <<v21-107-0,Topo>> | xref:021-salmos/021-salmos-108.adoc#v21-108-0[Próximo Capítulo &#62;]

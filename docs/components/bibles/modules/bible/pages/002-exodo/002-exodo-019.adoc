@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v2-19-0]]
+=== Êxodo, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Êxodo 19 trata do momento em que Deus se revela ao povo de Israel no monte Sinai. Ele instrui Moisés a subir a montanha e receber os mandamentos da lei, para que o povo saiba como se comportar diante da presença divina. O capítulo é marcado por uma forte sensação de santidade e temor, e mostra como Deus se comunica com seu povo de maneira direta e poderosa. A partir dessa premissa, podemos encontrar os seguintes versículos relacionados:
+* Salmos 68:8: "A terra estremeceu, e os céus gotejaram perante a face de Deus; o próprio Sinai tremeu perante a face de Deus, o Deus de Israel." Este versículo descreve a intensidade da presença divina no monte Sinai, como se fosse um evento sísmico que abalou toda a região.
+* Mateus 5:17: "Não penseis que vim revogar a lei ou os profetas; não vim revogar, vim cumprir." Jesus, em seu discurso do sermão da montanha, reafirma a importância da lei de Deus como um guia para a conduta humana, assim como foi revelada a Moisés no monte Sinai.
+* Hebreus 12:18-21: "Pois não chegastes ao fogo palpável, nem à escuridão, nem à tempestade, nem ao som de trombeta, nem à voz de palavras, a qual os que a ouviram pediram que não se lhes falasse mais; porque não podiam suportar o que lhes era ordenado: Se até um animal tocar o monte, será apedrejado." Este trecho do Novo Testamento faz referência ao momento em que Deus se revelou a Moisés no monte Sinai, descrevendo a santidade e o temor que envolviam essa experiência.
+* Atos 7:38: "Este é o que esteve entre a congregação no deserto, com o anjo que lhe falava no monte Sinai, e com nossos pais, e recebeu palavras vivas para no-las transmitir." Este versículo se refere a Moisés como o intermediário entre Deus e o povo de Israel, que recebeu as leis divinas diretamente no monte Sinai e as transmitiu aos demais.
+* Apocalipse 19:16: "Na sua veste e na sua coxa tem escrito este nome: REI DOS REIS E SENHOR DOS SENHORES." Esse versículo descreve a figura divina de Jesus, que é representado como o rei supremo que governa sobre toda a criação, incluindo a lei que foi revelada a Moisés no monte Sinai.
+****
+
+[[v2-19-1]]
+
+^<<v2-19-1,1>>^ No primeiro dia do terceiro mês, depois da saída dos Israelitas da terra do Egipto, chegaram ao deserto de Sinai.
+
+[[v2-19-2]]
+
+^<<v2-19-2,2>>^ Tendo partido de Rafidim, e chegando ao deserto de Sinai, acamparam naquele mesmo lugar, e Israel levantou aí as suas tendas defrontes do monte.
+
+[[v2-19-3]]
+
+^<<v2-19-3,3>>^ Moisés subiu (para ir falar) a Deus e o Senhor o chamou do alto do monte, dizendo: Dirás estas coisas à casa de Jacob e anunciarás aos filhos de Israel:
+
+[[v2-19-4]]
+
+^<<v2-19-4,4>>^ Vós mesmos vistes o que eu fiz aos Egípcios, de que modo vos trouxe sobre asas de águia, e vos tomei para mim. (ver nota)
+
+[[v2-19-5]]
+
+^<<v2-19-5,5>>^ Se, portanto, ouvirdes a minha voz e observardes a minha aliança, sereis para mim a porção escolhida dentre todos os povos, porque toda a terra é minha.
+
+[[v2-19-6]]
+
+^<<v2-19-6,6>>^ Sereis para mim um reino sacerdotal e uma nação santa. Estas são as palavras que dirás aos filhos de Israel.
+
+[[v2-19-7]]
+
+^<<v2-19-7,7>>^ Moisés foi, e, convocados os anciães do povo expôs tudo o que o Senhor tinha mandado.
+
+[[v2-19-8]]
+
+^<<v2-19-8,8>>^ Todo o povo respondeu a uma voz: Faremos tudo o que o Senhor disse. E Moisés, tendo referido ao Senhor as palavras do povo,
+
+[[v2-19-9]]
+
+^<<v2-19-9,9>>^ o Senhor disse-lhe: Brevemente virei a ti na escuridão duma nuvem, para que o povo me ouça quando te falo, e te creia para sempre. Moisés, pois, referiu as palavras do povo ao Senhor,
+
+[[v2-19-10]]
+
+^<<v2-19-10,10>>^ o qual lhe disse: Vai ter com o povo, e santifica-o hoje e amanhã. Que lavem as suas vestes
+
+[[v2-19-11]]
+
+^<<v2-19-11,11>>^ e estejam preparados para o terceiro dia, porque, no terceiro dia, o Senhor descerá à vista de todo o povo sobre o monte Sinai.
+
+[[v2-19-12]]
+
+^<<v2-19-12,12>>^ Tu fixarás em roda limites ao povo, dizendo; Guardai-vos de subir ao monte, nem toqueis nos seus limites; todo o que tocar o monte será punido de morte.
+
+[[v2-19-13]]
+
+^<<v2-19-13,13>>^ Mão alguma o tocará, mas (quem o tocar) será apedrejado ou trespassado com setas: quer seja uma besta, quer seja um homem, não viverá: quando começar a soar a trombeta, então subam ao monte. (ver nota)
+
+[[v2-19-14]]
+
+^<<v2-19-14,14>>^ Moisés desceu do monte para o povo e o santificou. Depois de terem lavado as suas vestes,
+
+[[v2-19-15]]
+
+^<<v2-19-15,15>>^ disse-lhes: Estai preparados para o terceiro dia, e não vos chegueis a mulher alguma.
+
+[[v2-19-16]]
+
+^<<v2-19-16,16>>^ Quando, ao terceiro dia, raiava a manhã, começaram a ouvir-se trovões, fuzilaram relâmpagos, uma nuvem muito espessa cobriu o monte, e o som duma trombeta atroava muito forte: o povo que estava no acampamento tremia.
+
+[[v2-19-17]]
+
+^<<v2-19-17,17>>^ Quando Moisés os conduziu fora do acampamento (para irem) ao encontro de Deus, pararam nas faldas do monte.
+
+[[v2-19-18]]
+
+^<<v2-19-18,18>>^ Todo o monte Sinai fumegava, porque o Senhor tinha descido sobre ele no meio de fogo, e dele, como duma fornalha, se elevava fumo, e todo o monte tremia fortemente.
+
+[[v2-19-19]]
+
+^<<v2-19-19,19>>^ O som da trombeta ia aumentando pouco a pouco, e se espalhava mais ao longe. Moisés falava, e Deus respondia-lhe com uma voz.
+
+[[v2-19-20]]
+
+^<<v2-19-20,20>>^ O Senhor, pois, desceu sobre o monte Sinai, no cimo mesmo do monte, e chamou Moisés ao mais alto dele. Tendo lá subido,
+
+[[v2-19-21]]
+
+^<<v2-19-21,21>>^ (o Senhor) disse-lhe: Desce e proíbe expressamente ao povo que atravesse os limites marcados, para se aproximar do Senhor e o ver, não suceda que pereça um grande número deles.
+
+[[v2-19-22]]
+
+^<<v2-19-22,22>>^ Os sacerdotes também que se aproximam do Senhor, santifiquem-se para que ele os não fira (de morte).
+
+[[v2-19-23]]
+
+^<<v2-19-23,23>>^ Moisés disse ao Senhor: O povo não poderá subir ao monte Sinai, visto que tu intimaste e ordenaste, dizendo: Põe limites ao redor do monte, e santificai-o.
+
+[[v2-19-24]]
+
+^<<v2-19-24,24>>^ O Senhor disse-lhe: Vai, desce, e (em seguida) subirás tu, e Aarão contigo: os sacerdotes, porém, e o povo não ultrapassem os limites, nem subam para o Senhor, não suceda que ele os mate.
+
+[[v2-19-25]]
+
+^<<v2-19-25,25>>^ Moisés desceu ao povo, e referiu-lhes tudo.
+
+'''
+
+xref:002-exodo/002-exodo-018.adoc#v2-18-0[&#60; Capítulo Anterior] | <<v2-19-0,Topo>> | xref:002-exodo/002-exodo-020.adoc#v2-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,138 @@
+include::./index.adoc[]
+
+[[v30-44-0]]
+=== Jeremias, 44
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Jeremias 44, Deus condena o povo de Judá por sua desobediência contínua e por persistir em adorar deuses estrangeiros. O povo se recusa a ouvir a mensagem de Deus e afirma que continuará a adorar a "rainha do céu". Deus afirma que o povo sofrerá punições severas por sua desobediência, incluindo a destruição e o exílio. Seguem abaixo cinco versículos relacionados com os temas abordados em Jeremias 44:
+* Deuteronômio 28:15: "No entanto, se vocês não obedecerem ao Senhor, o seu Deus, e não seguirem cuidadosamente todos os seus mandamentos e decretos que hoje lhes dou, todas estas maldições virão sobre vocês e os alcançarão." Este versículo mostra como Deus advertiu o povo de Judá para que obedecesse aos seus mandamentos ou enfrentaria consequências graves.
+* Êxodo 20:3-6: "Não terás outros deuses diante de mim. Não farás para ti imagem esculpida, nem figura alguma do que há em cima no céu, nem embaixo na terra, nem nas águas debaixo da terra. Não te prostrarás diante delas nem lhes prestarás culto, porque eu, o Senhor, o teu Deus, sou Deus zeloso, que puno a iniquidade dos pais nos filhos até a terceira e quarta geração daqueles que me desprezam." Este versículo enfatiza a importância da adoração exclusiva de Deus e como a idolatria é um pecado grave.
+* Isaías 66:3-4: "Quem sacrifica bois é como quem mata uma pessoa; quem oferece ovelhas é como quem quebra o pescoço de um cachorro; quem apresenta ofertas de cereais é como quem oferece sangue de porco; quem queima incenso é como quem adora um ídolo. Eles escolhem os seus próprios caminhos, e têm prazer em suas abominações; por isso, eu também escolherei o que os aflige, e trarei sobre eles o que tanto temiam. Porque, quando clamei, ninguém respondeu; quando falei, eles não ouviram. Pelo contrário, fizeram o que era mau aos meus olhos e escolheram o que me desagrada." Este versículo mostra como Deus reprova a adoração de ídolos e como os que persistem em seguir seus próprios caminhos são punidos.
+* 2 Crônicas 36:16-17: "Mas eles zombaram dos mensageiros de Deus, desprezaram as suas palavras e ridicularizaram os seus profetas, até que a ira do Senhor se acendeu contra o seu povo e não houve mais remédio. Por isso, ele trouxe contra eles o rei dos babilônios, que matou os seus jovens à espada em sua casa de santuário e não poupou nem mesmo os jovens, nem as mulheres, nem os idosos, nem os doentes; ele entregou todos nas mãos do seu inimigo." Este trecho da Segunda Crônicas descreve a desobediência do povo de Judá às palavras de Deus e aos avisos de seus profetas. Essa desobediência resultou na ira de Deus e na sua consequente punição, que se manifestou através da invasão babilônica e do massacre do povo. Isso se relaciona com Jeremias 44, onde o profeta repreende o povo por continuar em seus caminhos pecaminosos e por se recusar a ouvir a palavra de Deus, o que levaria a mais destruição e castigo divino. Ambos os textos enfatizam a importância de obedecer a Deus e de arrepender-se dos pecados para evitar a ira divina.
+****
+
+[[v30-44-1]]
+
+^<<v30-44-1,1>>^ Palavra chegada a Jeremias para todos os Judeus que habitavam na terra do Egito, aos que moravam em Migdol, em Tafnis, em Menfis e na terra de Faturés:
+
+[[v30-44-2]]
+
+^<<v30-44-2,2>>^ Assim fala o Senhor dos Exércitos, o Deus de Israel: Vós vistes todos os males que fiz vir sobre Jerusalém e sobre todas as cidades de Judá: ei-las hoje desertas e despovoadas,
+
+[[v30-44-3]]
+
+^<<v30-44-3,3>>^ por causa da maldade que cometeram para provocar a minha indignação, indo sacrificar e prestar culto a deuses estranhos, que não conheciam, assim como nem vós, nem vossos pais.
+
+[[v30-44-4]]
+
+^<<v30-44-4,4>>^ Com grande solicitude, enviei-vos todos os meus servos os profetas, enviei-os para vos dizer: Não cometais esta abominação, que detesto.
+
+[[v30-44-5]]
+
+^<<v30-44-5,5>>^ Mas não ouviram, não inclinaram o seu ouvido para se converterem das suas maldades e para não mais sacrificarem a deuses estranhos.
+
+[[v30-44-6]]
+
+^<<v30-44-6,6>>^ Então acendeu-se a minha indignação, o meu furor, e consumiu as cidades de Judá e as ruas de Jerusalém, que foram reduzidas a ruínas e a deserto, como hoje se está vendo.
+
+[[v30-44-7]]
+
+^<<v30-44-7,7>>^ E agora, isto diz o Senhor dos exércitos, o Deus de Israel: Por que cometeis vós tão grande mal contra vós mesmos, de forma que no meio de Judá pereçam homens e mulheres, crianças e meninos de peito, sem que fique resto algum de vós,
+
+[[v30-44-8]]
+
+^<<v30-44-8,8>>^ pela provocação que me fazeis com as obras de vossas mãos, sacrificando a deuses estranhos na terra do Egito, na qual entrastes para nela habitar? Por que causais assim o vosso extermínio e vos tornais objecto de maldição e de opróbrio de todas as nações da terra?
+
+[[v30-44-9]]
+
+^<<v30-44-9,9>>^ Porventura estais esquecidos das maldades de vossos pais, das maldades dos reis de Judá, das maldades das suas mulheres, das vossas próprias maldades e das maldades de vossas mulheres, cometidas na terra de Judá e nas ruas de Jerusalém?
+
+[[v30-44-10]]
+
+^<<v30-44-10,10>>^ Não se arrependeram até hoje, não tiveram temor, nem andaram na minha lei nem nos mandamentos que vos dei a vós e a vossos pais.
+
+[[v30-44-11]]
+
+^<<v30-44-11,11>>^ Portanto assim fala o Senhor dos exércitos, o Deus de Israel: Eis que voltarei o meu rosto para vós para vosso mal, para destruição de Judá.
+
+[[v30-44-12]]
+
+^<<v30-44-12,12>>^ Tomarei os restos de Judá que se obstinaram em entrar na terra do Egito e habitar nela. Serão todos consumidos na terra do Egipto: cairão mortos à espada e de fome; serão consumidos, desde o mais pequeno até ao maior, à espada e à fome; ficarão sendo um objecto de execração, de horror, de maldição e de opróbrio.
+
+[[v30-44-13]]
+
+^<<v30-44-13,13>>^ Castigarei os (Judeus) que habitam na terra do Egito, como castiguei Jerusalém com a espada, a fome e a peste.
+
+[[v30-44-14]]
+
+^<<v30-44-14,14>>^ Dos que restavam de Judá, que foram habitar na terra do Egito, não haverá quem escape, quem sobreviva e torne à terra de Judá, à qual eles tanto suspiram voltar para lá morarem. Não voltarão, senão alguns poucos fugitivos.
+
+[[v30-44-15]]
+
+^<<v30-44-15,15>>^ Então todos os homens que sabiam que suas mulheres sacrificavam a deuses estranhos, e todas as mulheres, de que havia ali grande multidão, e todo o povo que morava na terra do Egito, em Faturés, responderam a Jeremias:
+
+[[v30-44-16]]
+
+^<<v30-44-16,16>>^ Não receberemos de ti a palavra que disseste em nome do Senhor.
+
+[[v30-44-17]]
+
+^<<v30-44-17,17>>^ Antes cumpriremos todas as promessas que fizemos de sacrificar à Rainha do céu e de lhe oferecer libações, como fazíamos nós e nossos pais, nossos reis e nossos chefes, na cidades de Judá e nas ruas de Jerusalém. Então tínhamos fartura de pão, éramos felizes, não sabíamos o que era a desgraça.
+
+[[v30-44-18]]
+
+^<<v30-44-18,18>>^ Porém, desde aquele tempo em que cessamos de sacrificar à Rainha do céu e de lhe oferecer libações, estamos necessitados de tudo e temos sido consumidos pela espada e pela fome.
+
+[[v30-44-19]]
+
+^<<v30-44-19,19>>^ Se sacrificávamos à Rainha do céu e lhe oferecíamos libações, porventura fazíamos-lhe nós as tortas para a honrar e oferecíamos-lhe as libações sem o consentimento dos nossos maridos? (ver nota)
+
+[[v30-44-20]]
+
+^<<v30-44-20,20>>^ Então Jeremias falou a todo o povo, aos maridos, às mulheres, a todos os que lhe tinham dado esta resposta, dizendo:
+
+[[v30-44-21]]
+
+^<<v30-44-21,21>>^ Não se lembrou o Senhor dos (infames) sacrifícios que oferecestes nas cidades de Judá e nas ruas de Jerusalém, vós e vossos pais, vossos reis e vossos chefes e o povo da terra, não chegou isto ao seu coração?
+
+[[v30-44-22]]
+
+^<<v30-44-22,22>>^ Visto que o Senhor não podia já sofrer mais, por causa da malícia dos vossos atos e por causa das abominações que cometestes, a vossa terra se converteu num deserto, pavoroso e maldito, em que ninguém habita, como hoje se vê.
+
+[[v30-44-23]]
+
+^<<v30-44-23,23>>^ Porque sacrificastes aos ídolos, pecastes contra o Senhor, não ouvistes a voz do Senhor, não andastes na sua lei, nos seus mandamentos e instruções, por isso vos vieram estes males, como hoje se vê.
+
+[[v30-44-24]]
+
+^<<v30-44-24,24>>^ Depois Jeremias disse a todo o povo e a todas as mulheres: Ouvi a palavra do Senhor, vós todos os de Judá, que estais na terra do Egito:
+
+[[v30-44-25]]
+
+^<<v30-44-25,25>>^ Assim fala o Senhor dos exércitos, o Deus de Israel: Vós e vossas mulheres, o que dizeis (prometeis) com vossa boca, cumpris com vossas mãos. (Com efeito) dissestes: Cumpriremos os votos que fizemos de sacrificar à Rainha do céu e de lhe oferecer libações. Pois bem! Cumpri os vossos votos, ponde-os por obra.
+
+[[v30-44-26]]
+
+^<<v30-44-26,26>>^ Porém ouvi a palavra do Senhor, vós todos os de Judá, que habitais na terra do Egito: Eis que juro pelo meu grande nome, diz o Senhor, que de nenhum modo será pronunciado mais o meu nome pela boca de nenhum homem judeu em toda a terra do Egito; nenhum dirá: Vive o Senhor Iavé!
+
+[[v30-44-27]]
+
+^<<v30-44-27,27>>^ Eis que vigiarei sobre eles, para seu mal, não para seu bem; todos os varões de Judá, que há na terra do Egito, perecerão à espada e à fome, até que de todo sejam consumidos.
+
+[[v30-44-28]]
+
+^<<v30-44-28,28>>^ Os que escaparem da espada, saindo da terra do Egito, voltarão à terra de Judá em pequeno número; todos os restos de Judá, que entraram na terra do Egito, para morarem nela, saberão qual é a palavra que será cumprida: se a minha, se a deles.
+
+[[v30-44-29]]
+
+^<<v30-44-29,29>>^ E isto vos servirá de sinal, diz o Senhor, de que vos hei-de castigar neste lugar, para que saibas que verdadeiramente se cumprirão contra vós as minhas palavras para vosso mal.
+
+[[v30-44-30]]
+
+^<<v30-44-30,30>>^ Assim fala o Senhor: Vou entregar o Faraó Hofra, rei do Egito, nas mãos dos seus inimigos, nas mãos dos que querem tirar-lhe a vida, assim como entreguei Sedecias, rei de Judá, nas mãos de Nabucodonosor, rei de Babilônia, seu inimigo que procurava (também) tirar-lhe a vida.
+
+'''
+
+xref:030-jeremias/030-jeremias-043.adoc#v30-43-0[&#60; Capítulo Anterior] | <<v30-44-0,Topo>> | xref:030-jeremias/030-jeremias-045.adoc#v30-45-0[Próximo Capítulo &#62;]

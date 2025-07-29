@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v21-62-0]]
+=== Salmos, 62
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 62 é um hino de confiança em Deus em meio às adversidades. Nele, o salmista declara que a sua salvação vem somente do Senhor e que ele é a sua rocha, fortaleza e refúgio seguro. O salmo também exalta a confiabilidade de Deus e o encoraja o povo a confiar nele em todas as situações. Seguem abaixo cinco versículos relacionados com os temas abordados em Salmo 62:
+* Salmos 18:2: "O Senhor é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Este verso destaca a confiabilidade de Deus como rocha, fortaleza e refúgio seguro, assim como o salmista declara em Salmo 62.
+* Salmos 27:1: "O Senhor é a minha luz e a minha salvação; de quem terei medo? O Senhor é o meu forte refúgio; de quem terei medo?" Este verso ressalta a confiança em Deus em meio às adversidades, assim como o salmista declara em Salmo 62.
+* Salmos 37:5: "Entregue o seu caminho ao Senhor; confie nele, e ele agirá." Este verso encoraja a confiança total em Deus e em sua fidelidade, assim como o salmista declara em Salmo 62.
+* Salmos 46:1: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade." Este verso destaca a proteção e segurança encontrada em Deus em todas as situações, assim como o salmista declara em Salmo 62.
+* Salmos 118:8: "É melhor buscar refúgio no Senhor do que confiar nos homens." Este verso ressalta a superioridade da confiança em Deus sobre a confiança em qualquer ser humano, assim como o salmista declara em Salmo 62.
+****
+
+[[v21-62-1]]
+
+^<<v21-62-1,1>>^ Salmo. De Davide, quando morava no deserta da Iduméa.
+
+[[v21-62-2]]
+
+^<<v21-62-2,2>>^ Ó Deus, tu és o meu Deus: Busco-te com solicitude; de ti está sedenta a minha alma, deseja-te a minha carne, como terra árida e sedenta, sem água.
+
+[[v21-62-3]]
+
+^<<v21-62-3,3>>^ Desta maneira te contemplo no santuário, para ver o teu poder e a tua glória.
+
+[[v21-62-4]]
+
+^<<v21-62-4,4>>^ Porque a tua graça é melhor que a vida, os meus lábios te louvarão.
+
+[[v21-62-5]]
+
+^<<v21-62-5,5>>^ Assim te bendirei em minha vida: invocando o teu nome, levantarei as minhas mãos.
+
+[[v21-62-6]]
+
+^<<v21-62-6,6>>^ Como de banha e de gordura será saciada a minha alma, e com lábios de júbilo te louvará a minha boca,
+
+[[v21-62-7]]
+
+^<<v21-62-7,7>>^ quando me lembrar de ti sobre o meu leito, e sobre ti meditar durante as minhas vigílias.
+
+[[v21-62-8]]
+
+^<<v21-62-8,8>>^ Em verdade te tornaste o meu auxiliador, e à sombra das tuas asas me regozijo.
+
+[[v21-62-9]]
+
+^<<v21-62-9,9>>^ A minha alma está intimamente unida a ti, a tua dextra me sustenta.
+
+[[v21-62-10]]
+
+^<<v21-62-10,10>>^ Porém os que procuram tirar-me a vida, entrarão nas profundidades da terra.
+
+[[v21-62-11]]
+
+^<<v21-62-11,11>>^ Serão entregues ao poder da espada, e virão a ser presa das raposas.
+
+[[v21-62-12]]
+
+^<<v21-62-12,12>>^ Entretanto o rei alegrar-se-á em Deus, gloriar-se-á todo o que jura por ele, pois será fechada a boca aos que proferiam coisas iníquas.
+
+'''
+
+xref:021-salmos/021-salmos-061.adoc#v21-61-0[&#60; Capítulo Anterior] | <<v21-62-0,Topo>> | xref:021-salmos/021-salmos-063.adoc#v21-63-0[Próximo Capítulo &#62;]

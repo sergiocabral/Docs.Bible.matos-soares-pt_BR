@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v29-25-0]]
+=== Isaías, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 25 é um capítulo que fala sobre a salvação e a glória que Deus trará para o Seu povo. O profeta Isaías começa o capítulo louvando a Deus por Sua justiça e fidelidade e, em seguida, fala sobre a destruição dos inimigos de Israel e a restauração de Jerusalém. Ele descreve um banquete celestial que Deus preparará para todos os povos, no qual a morte será destruída e o choro será afastado. Abaixo estão cinco versículos relacionados aos temas abordados em Isaías 25:
+* Salmos 23:4: "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque Tu estás comigo; o Teu bordão e o Teu cajado me consolam." Esse versículo fala sobre a presença de Deus e Seu cuidado amoroso mesmo nos momentos mais difíceis, incluindo a morte.
+* Isaías 60:19: "Não haverá mais sol para te iluminar de dia, nem Lua e estrelas para te alumiar de noite; o Senhor será a tua luz para sempre, o teu Deus será a tua glória." Esse versículo fala sobre a presença de Deus como luz e glória para o Seu povo, uma imagem que também aparece em Isaías 25.
+* 1 Coríntios 15:54: "E, quando este corpo corruptível se revestir de incorruptibilidade, e o que é mortal se revestir de imortalidade, então se cumprirá a palavra que está escrita: 'A morte foi destruída pela vitória!'" Esse versículo fala sobre a vitória sobre a morte que Cristo trouxe através de Sua ressurreição, um tema que também aparece em Isaías 25.
+* Apocalipse 7:17: "Pois o Cordeiro que está no centro do trono os apascentará e os guiará para as fontes da água da vida. E Deus enxugará dos seus olhos toda lágrima." Esse versículo fala sobre o banquete celestial e a destruição do choro, que também são mencionados em Isaías 25.
+* 2 Coríntios 5:1: "Sabemos que, se a nossa habitação terrestre, este tabernáculo, for desfeito, temos da parte de Deus um edifício, uma casa eterna nos céus, não feita por mãos humanas." Esse versículo fala sobre a esperança da vida eterna que os cristãos têm em Deus, uma esperança que também é enfatizada em Isaías 25.
+****
+
+[[v29-25-1]]
+
+^<<v29-25-1,1>>^ Senhor, tu és o meu Deus; eu te exaltarei, apregoarei o teu nome, porque fizeste maravilhas, realizando os teus antigos e fiéis desígnios.
+
+[[v29-25-2]]
+
+^<<v29-25-2,2>>^ Porque tu reduziste a cidade (do mal) a um montão de pedras, a cidade forte a uma ruína; a cidadela dos estranhos não é mais uma cidade, jamais será reedificada.
+
+[[v29-25-3]]
+
+^<<v29-25-3,3>>^ Por isso te louvará um povo forte, a cidade das nações robustas temer-te-á,
+
+[[v29-25-4]]
+
+^<<v29-25-4,4>>^ porque te tornaste fortaleza para o pobre, fortaleza para o necessitado na sua tribulação, refúgio contra a tempestade, sombra contra o calor. Com efeito, o orgulho dos poderosos é como um furacão que investe contra uma muralha.
+
+[[v29-25-5]]
+
+^<<v29-25-5,5>>^ Como o ardor (do sol) sobre uma terra árida, humilharás a insolência dos bárbaros; como o calor ardente (é abafado) por uma nuvem, assim se extinguirá o canto triunfal dos tiranos.
+
+[[v29-25-6]]
+
+^<<v29-25-6,6>>^ O Senhor dos exércitos fará neste monte para todos os povos (fiéis) um banquete de manjares substanciosos, de vinhos bons, de viandas gordas e tenras, de vinhos escolhidos e depurados.
+
+[[v29-25-7]]
+
+^<<v29-25-7,7>>^ Neste monte tirará o véu que vela todos os povos, a cobertura estendida sobre todas as nações. (ver nota)
+
+[[v29-25-8]]
+
+^<<v29-25-8,8>>^ Aniquilará a morte para sempre; o Senhor Deus enxugará as lágrimas de todas as faces, e tirará de cima de toda a terra o opróbrio do seu povo. Foi o Senhor que o disse.
+
+[[v29-25-9]]
+
+^<<v29-25-9,9>>^ Dir-se-á naquele dia: Eis o nosso Deus, de quem esperávamos a salvação; este é que é o Senhor, em quem pusemos a nossa esperança; exultemos, alegremo-nos com a salvação que vem dele.
+
+[[v29-25-10]]
+
+^<<v29-25-10,10>>^ Porque neste monte repousará a mão do Senhor, e Moab será pisado debaixo dele. como se pisam as palhas no monturo.
+
+[[v29-25-11]]
+
+^<<v29-25-11,11>>^ Aí estenderá as suas mãos por baixo dele. como as estende o nadador para nadar; (porém Deus) abaterá o seu orgulho, quebrando-lhe o esforço das suas mãos.
+
+[[v29-25-12]]
+
+^<<v29-25-12,12>>^ As fortificações das tuas altas muralhas (ó Moab) derrubá-las-á (ó Senhor), atirá-las-á à terra, ao pó.
+
+'''
+
+xref:029-isaias/029-isaias-024.adoc#v29-24-0[&#60; Capítulo Anterior] | <<v29-25-0,Topo>> | xref:029-isaias/029-isaias-026.adoc#v29-26-0[Próximo Capítulo &#62;]

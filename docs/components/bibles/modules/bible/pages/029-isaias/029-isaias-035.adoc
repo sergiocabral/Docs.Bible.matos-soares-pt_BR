@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v29-35-0]]
+=== Isaías, 35
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 35 é um capítulo que fala sobre a restauração da terra e a alegria do povo de Deus. O profeta Isaías descreve um cenário em que o deserto floresce e a alegria substitui a tristeza. Ele fala sobre como Deus vai curar os enfermos, trazer justiça e proteção para o Seu povo. Aqui estão cinco versículos relacionados com os temas abordados em Isaías 35:
+* Salmos 107:35: "Mas transforma o deserto em água, e a terra seca em fontes de água." Este verso fala sobre como Deus é capaz de transformar o deserto em um lugar fértil e cheio de vida, exatamente como descrito em Isaías 35.
+* Salmos 30:5: "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas a alegria vem pela manhã." Este verso fala sobre como Deus pode transformar a tristeza em alegria, assim como Isaías 35 descreve a alegria substituindo a tristeza.
+* Lucas 4:18: "O Espírito do Senhor está sobre mim, pelo que me ungiu para evangelizar os pobres; enviou-me para proclamar libertação aos cativos, e restauração da vista aos cegos, para pôr em liberdade os oprimidos." Este verso fala sobre como Jesus veio para curar os enfermos e libertar os oprimidos, como descrito em Isaías 35.
+* Mateus 11:5: "Os cegos veem, e os coxos andam; os leprosos são limpos, e os surdos ouvem; os mortos são ressuscitados, e aos pobres é anunciado o evangelho." Este verso fala sobre os milagres que Jesus realizou, curando enfermos e dando esperança aos necessitados, assim como Isaías 35 descreve a cura dos enfermos.
+* 2 Pedro 3:13: "Mas nós, segundo a sua promessa, aguardamos novos céus e nova terra, nos quais habita justiça." Este verso fala sobre a promessa de Deus de trazer justiça e restauração para o Seu povo, assim como descrito em Isaías 35.
+****
+
+[[v29-35-1]]
+
+^<<v29-35-1,1>>^ (Então) o deserto e a terra árida se alegrarão, e a solidão exultará e florescerá como um lírio.
+
+[[v29-35-2]]
+
+^<<v29-35-2,2>>^ Florescerá exuberantemente, rejubilará, soltará gritos de alegria; a glória do Líbano ser-lhe-á dada, a formosura do Carmelo e de Saron; os seus habitantes verão a glória do Senhor, a magnificência do nosso Deus.
+
+[[v29-35-3]]
+
+^<<v29-35-3,3>>^ Confortai as mãos frouxas, robustecei os joelhos débeis.
+
+[[v29-35-4]]
+
+^<<v29-35-4,4>>^ Dizei aos pusilânimes: Tomai ânimo, não temais: Eis o vosso Deus, que vem executar a vingança, eis que chega a retribuição divina! Deus mesmo virá, e vos salvará!
+
+[[v29-35-5]]
+
+^<<v29-35-5,5>>^ Então se abrirão os olhos dos cegos, e se desimpedirão os ouvidos dos surdos.
+
+[[v29-35-6]]
+
+^<<v29-35-6,6>>^ Então saltará o coxo como um veado, e desatar-se-á alegremente a língua dos mudos. Rebentarão mananciais de águas no deserto, e torrentes na solidão.
+
+[[v29-35-7]]
+
+^<<v29-35-7,7>>^ A terra, que estava árida, se converterá em um lago, e a terra, que ardia de sede, se converterá em fontes de águas. Nas cavernas, em que antes habitavam os chacais, nascerá a verdura da cana e do junco. (ver nota)
+
+[[v29-35-8]]
+
+^<<v29-35-8,8>>^ Haverá ali uma vereda, um caminho, que se chamará o caminho santo; não passará por ele o impuro; este (caminho) será um caminho direito, de sorte que até os apoucados andem por ele sem se perderem.
+
+[[v29-35-9]]
+
+^<<v29-35-9,9>>^ Não haverá ali leão, nem animal (algum) feroz por ali passará; por esse caminho andarão os que tiverem sido salvos (do pecado),
+
+[[v29-35-10]]
+
+^<<v29-35-10,10>>^ os remidos do Senhor por ele voltarão e virão a Sião, cantando os seus louvores; uma alegria eterna coroará a sua cabeça; serão repletos de gozo e alegria, e deles fugirão a dor e o gemido.
+
+'''
+
+xref:029-isaias/029-isaias-034.adoc#v29-34-0[&#60; Capítulo Anterior] | <<v29-35-0,Topo>> | xref:029-isaias/029-isaias-036.adoc#v29-36-0[Próximo Capítulo &#62;]

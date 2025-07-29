@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v40-6-0]]
+=== Miquéias, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Miquéias 6 trata do julgamento de Deus sobre a nação de Israel por sua infidelidade e injustiça. Deus chama Israel para prestar contas por sua desobediência e oferece um caminho para a reconciliação através do arrependimento e do retorno à obediência. Aqui estão cinco versículos relacionados com os temas abordados em Miquéias 6:
+* Salmos 50:6 - "Os céus proclamam a sua justiça, pois Deus é o juiz." Este versículo fala sobre Deus como o juiz justo, que trará justiça e julgamento sobre a terra, incluindo Israel.
+* Isaías 1:18 - "Venham, vamos refletir juntos, diz o Senhor: ainda que os seus pecados sejam vermelhos como escarlate, se tornarão brancos como a neve." Este versículo destaca a oferta de Deus de perdão e reconciliação para aqueles que se arrependem de seus pecados e voltam para Ele.
+* Jeremias 22:3 - "Assim diz o Senhor: Pratiquem o direito e a justiça, e livrem o oprimido da mão do opressor." Este versículo reforça a ênfase de Deus na justiça e no cuidado com os menos favorecidos, algo que Israel falhou em cumprir.
+* Oséias 6:6 - "Pois eu quero amor leal, e não sacrifícios; conhecimento de Deus, em vez de holocaustos." Este versículo destaca a importância do coração e da motivação por trás das ações, em vez de apenas seguir rituais e tradições religiosas vazias.
+* Amós 5:24 - "Corra a justiça como um rio, a retidão como um ribeiro perene!" Este versículo retrata a justiça e a retidão como algo contínuo e fluindo, algo que Deus espera de Seu povo.
+****
+
+[[v40-6-1]]
+
+^<<v40-6-1,1>>^ Ouvi o que (me) diz o Senhor: Levanta-te (ó profeta), expõe o teu processo diante das montanhas, e ouçam as colinas a tua voz. (ver nota)
+
+[[v40-6-2]]
+
+^<<v40-6-2,2>>^ Ouvi, montanhas e sólidos fundamentos da terra, o processo do Senhor, porque o Senhor quer entrar em juízo com o seu povo, vai pleitear com Israel.
+
+[[v40-6-3]]
+
+^<<v40-6-3,3>>^ Povo meu, que é que te fiz, ou em que te fui molesto? Responde-me.
+
+[[v40-6-4]]
+
+^<<v40-6-4,4>>^ Tirei-te da terra do Egipto, livrei-te da casa da escravidão e enviei diante de ti Moisés, Aarão e Maria.
+
+[[v40-6-5]]
+
+^<<v40-6-5,5>>^ Povo meu, peço-te que te lembres do desígnio (contra ti) de Balac, rei de Moab, e do que lhe respondeu Balaão, filho de Beor, (em teu favor, obrigado por mim); (lembra-te de como te protegi) desde Setim até Gálgala, para reconheceres as mercês do Senhor.
+
+[[v40-6-6]]
+
+^<<v40-6-6,6>>^ Com que (ofertas) me apresentarei ao Senhor (responde o povo) e me prostrarei diante do Deus excelso? Oferecer-lhe porventura holocaustos, novilhos de um ano?
+
+[[v40-6-7]]
+
+^<<v40-6-7,7>>^ Porventura o Senhor receberá com agrado milhares de carneiros ou miriades de torrentes de azeite? Porventura sacrificar-lhe-ei pela minha maldade o meu filho primogênito, o fruto das minhas entranhas pelo pecado da minha alma?
+
+[[v40-6-8]]
+
+^<<v40-6-8,8>>^ Já te foi mostrado, ó homem, (responde o profeta) o que te é bom, o que o Senhor requer de ti: que pratiques a justiça, que ames a bondade e que andes humildemente diante do teu Deus.
+
+[[v40-6-9]]
+
+^<<v40-6-9,9>>^ A voz do Senhor clama à cidade. É sabedoria (ó Deus) temer o teu nome. Ouve, tribo; ouve, assembleia da cidade!
+
+[[v40-6-10]]
+
+^<<v40-6-10,10>>^ Ainda estão na casa do ímpio tesouros de iniquidade e um efa desfalcado e maldito!
+
+[[v40-6-11]]
+
+^<<v40-6-11,11>>^ Porventura poderei eu aprovar a balança injusta e o saquitel de pesos enganosos?
+
+[[v40-6-12]]
+
+^<<v40-6-12,12>>^ Visto que os ricos desta (cidade) estão cheios de iniquidades, os seus habitantes proferem a mentira e a sua língua é enganadora na sua boca,
+
+[[v40-6-13]]
+
+^<<v40-6-13,13>>^ por isso vou começar a ferir-te, a devastar-te, por causa dos teus pecados.
+
+[[v40-6-14]]
+
+^<<v40-6-14,14>>^ Comerás e não te fartarás; a fome reinará no meio de ti; procurarás resguardar (os teus bens) mas não os salvarás, e os que salvares, eu os entregarei ao fio da espada.
+
+[[v40-6-15]]
+
+^<<v40-6-15,15>>^ Semearás e não segarás; espremerás a azeitona e não terás azeite com que te ungir; (pisarás) os cachos e não lhes beberás o vinho.
+
+[[v40-6-16]]
+
+^<<v40-6-16,16>>^ Observaste os preceitos (idolátricos) de Amri e todas as práticas da casa de Acab, seguiste os seus (maus) conselhos, para que eu te entregue á devastação, e os teus moradores (ó Jerusalém) ao escárnio, e a fim de que suporteis o opróbrio do meu povo.
+
+'''
+
+xref:040-miqueias/040-miqueias-005.adoc#v40-5-0[&#60; Capítulo Anterior] | <<v40-6-0,Topo>> | xref:040-miqueias/040-miqueias-007.adoc#v40-7-0[Próximo Capítulo &#62;]

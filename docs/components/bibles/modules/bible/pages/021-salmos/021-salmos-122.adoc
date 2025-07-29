@@ -1,0 +1,35 @@
+include::./index.adoc[]
+
+[[v21-122-0]]
+=== Salmos, 122
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 122 é um cântico de peregrinação que celebra a alegria e a honra de adorar a Deus no templo em Jerusalém. É um convite para que todos se reúnam para adorar ao Senhor em um só lugar e expressa a paz e a prosperidade que Jerusalém desfruta quando o povo está unido em adoração. A seguir estão cinco versículos relacionados com os temas abordados no Salmo 122:
+* Salmos 133:1 - "Oh! quão bom e quão suave é que os irmãos vivam em união!" Este versículo expressa a importância da união do povo de Deus, e como é bom e agradável quando os irmãos vivem em harmonia.
+* Isaías 2:3 - "E virão muitos povos, e dirão: Vinde, subamos ao monte do Senhor, à casa do Deus de Jacó, para que nos ensine os seus caminhos, e andemos nas suas veredas; porque de Sião sairá a lei, e de Jerusalém a palavra do Senhor." Este versículo se relaciona com a alegria de adorar a Deus em um só lugar, e como as pessoas se reunirão em Jerusalém para aprender a Palavra do Senhor.
+* Salmos 135:21 - "Bendito seja o Senhor desde Sião, que habita em Jerusalém. Louvai ao Senhor." Este versículo se relaciona com a honra de adorar a Deus no templo em Jerusalém, que é um lugar de bênção e louvor.
+* Salmos 48:2 - "Grande é o Senhor e mui digno de ser louvado, na cidade do nosso Deus, no seu monte santo." Este versículo também se relaciona com a honra de adorar a Deus no templo em Jerusalém, e como Deus é digno de louvor e adoração em todos os lugares.
+* Neemias 8:1 - "E todo o povo se ajuntou como um só homem, na praça, diante da porta das águas; e disseram a Esdras, o escriba, que trouxesse o livro da lei de Moisés, que o Senhor tinha ordenado a Israel." Este versículo fala sobre o povo de Deus se reunindo em um só lugar para ouvir a Palavra de Deus, o que se relaciona com a alegria e a importância de adorar ao Senhor em união.
+****
+
+[[v21-122-1]]
+
+^<<v21-122-1,1>>^ Cântico das subidas. Levanto os meus olhos para ti (ó Deus), que habitas nos céus.
+
+[[v21-122-2]]
+
+^<<v21-122-2,2>>^ Vede que, assim como os olhos dos servos estão fixos nas mãos dos seus senhores, como os olhos da escrava nas mãos de sua senhora, assim os nossos olhos estão fixos no Senhor nosso Deus, até que tenha misericórdia de nós.
+
+[[v21-122-3]]
+
+^<<v21-122-3,3>>^ Tem misericórdia de nós, Senhor, tem misericórdia de nós, porque estamos, em extremo, fartos de desprezo;
+
+[[v21-122-4]]
+
+^<<v21-122-4,4>>^ a nossa alma está muito farta de ser o objecto de escárnio dos ricos, de desprezo dos soberbos.
+
+'''
+
+xref:021-salmos/021-salmos-121.adoc#v21-121-0[&#60; Capítulo Anterior] | <<v21-122-0,Topo>> | xref:021-salmos/021-salmos-123.adoc#v21-123-0[Próximo Capítulo &#62;]

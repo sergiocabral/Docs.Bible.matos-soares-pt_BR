@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v20-16-0]]
+=== Jó, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 16 de Jó apresenta a continuação do diálogo entre Jó e seus amigos, que tentam explicar o motivo pelo qual ele está sofrendo. Neste capítulo, Jó lamenta o fato de que seus amigos não conseguem compreender sua dor e afirma que Deus é o responsável por seus sofrimentos. Ele também expressa a esperança de que Deus testemunhe a sua inocência.
+* Salmos 22:1 - "Deus meu, Deus meu, por que me desamparaste? Por que te alongas das palavras do meu bramido e não me auxilias?" Este versículo expressa a dor e a angústia de alguém que se sente abandonado por Deus, como Jó se sente em sua situação de sofrimento.
+* Salmos 69:20 - "Afrontas quebrantaram o meu coração, e estou fraquíssimo; esperei por alguém que tivesse compaixão, mas não houve nenhum; e por consoladores, mas não os achei." Este versículo reflete a solidão e a tristeza de alguém que está passando por um momento difícil e não encontra conforto ou ajuda.
+* Isaías 53:3 - "Era desprezado, e o mais rejeitado entre os homens, homem de dores, e experimentado nos trabalhos; e, como um de quem os homens escondiam o rosto, era desprezado, e não fizemos dele caso algum." Este versículo fala sobre alguém que é desprezado e sofre, mas que, no final, é reconhecido e valorizado. Jó também passa por essa experiência, sendo desprezado e ignorado por seus amigos, mas esperando que Deus o reconheça.
+* Romanos 8:18 - "Porque para mim tenho por certo que as aflições deste tempo presente não são para comparar com a glória que em nós há de ser revelada." Este versículo fala sobre como as dificuldades que enfrentamos nesta vida são temporárias e insignificantes em comparação com a recompensa que nos espera no futuro. Jó também parece estar ciente dessa perspectiva.
+* 2 Coríntios 1:3-4 - "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação, que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus." Este versículo fala sobre como Deus é o consolador em nossas tribulações e como podemos usar nossas experiências para ajudar e consolar os outros. Jó também busca consolo em Deus e espera que seus amigos possam aprender com sua experiência.
+****
+
+[[v20-16-1]]
+
+^<<v20-16-1,1>>^ Job, respondendo, disse:
+
+[[v20-16-2]]
+
+^<<v20-16-2,2>>^ Tenho ouvido muitas vezes esses discursos; todos vós sois uns consoladores aflitivos.
+
+[[v20-16-3]]
+
+^<<v20-16-3,3>>^ Quando terão fim esses discursos de vento? Que coisa te constrange a falar assim?
+
+[[v20-16-4]]
+
+^<<v20-16-4,4>>^ Eli também podia falar como vós, se vós estivésseis no meu lugar.
+
+[[v20-16-5]]
+
+^<<v20-16-5,5>>^ Eu também vos consolaria com lindas frases e (compassivo) moveria a minha cabeça sobre vós;
+
+[[v20-16-6]]
+
+^<<v20-16-6,6>>^ eu vos fortaleceria com as minhas palavras, e moveria os meus lábios, como compadecendo-me de vós.
+
+[[v20-16-7]]
+
+^<<v20-16-7,7>>^ Mas que farei? Se eu falar, nem por isso se aplacará a minha dor; se me calar, nem por isso ela se afastará de mim.
+
+[[v20-16-8]]
+
+^<<v20-16-8,8>>^ Mas agora a minha dor me oprime, e todos os meus membros estão reduzidos a nada.
+
+[[v20-16-9]]
+
+^<<v20-16-9,9>>^ As minhas rugas dão testemunho contra mim, um falso raciocinador levanta-se diante da minha face para me contradizer.
+
+[[v20-16-10]]
+
+^<<v20-16-10,10>>^ Juntou o seu furor contra mim, com olhos terríveis me olhou o meu inimigo, e, ameaçando-me, rangeu os seus dentes contra mim.
+
+[[v20-16-11]]
+
+^<<v20-16-11,11>>^ (Os meus amigos) abrem as suas bocas contra mim, e, ultrajando-me, ferem a minha face, todos se lançam, juntamente, contra mim.
+
+[[v20-16-12]]
+
+^<<v20-16-12,12>>^ Deus encerrou-me debaixo do poder do injusto, entregou-me nas mãos dos ímpios.
+
+[[v20-16-13]]
+
+^<<v20-16-13,13>>^ Eu estava em paz, ele arruinou-me, pegou-me pela nuca e despedaçou-me, pôs-me como alvo (dos seus tiros).
+
+[[v20-16-14]]
+
+^<<v20-16-14,14>>^ Cercou-me com suas lanças, atravessou-me os rins, não me perdoou, e espalhou pela terra as minhas entranhas.
+
+[[v20-16-15]]
+
+^<<v20-16-15,15>>^ Despedaçou-me com feridas sobre feridas, lançou-se a mim como um gigante.
+
+[[v20-16-16]]
+
+^<<v20-16-16,16>>^ Levo um cilício cosido sobre a minha pele, e cobri de cinza a minha carne.
+
+[[v20-16-17]]
+
+^<<v20-16-17,17>>^ O meu rosto inchou à força de chorar, e as minhas pálpebras escureceram-se.
+
+[[v20-16-18]]
+
+^<<v20-16-18,18>>^ Sofri isto sem que houvesse maldade nas minhas mãos. quando eu oferecia a Deus orações puras.
+
+[[v20-16-19]]
+
+^<<v20-16-19,19>>^ Ó terra, não cubras o meu sangue, nem o meu clamor ache em li lugar no qual seja sufocado.
+
+[[v20-16-20]]
+
+^<<v20-16-20,20>>^ A minha testemunha está no céu, e está nas alturas o meu defensor. (ver nota)
+
+[[v20-16-21]]
+
+^<<v20-16-21,21>>^ Os meus amigos escarnecem-me, mas os meus olhos recorrem a Deus, desfeitos em lágrimas.
+
+[[v20-16-22]]
+
+^<<v20-16-22,22>>^ Oxalá se fizesse o juízo entre Deus e o homem, (tão publicamente) como se faz o de um filho do homem com o seu semelhante!
+
+[[v20-16-23]]
+
+^<<v20-16-23,23>>^ Vê, pois, que os meus breves anos passam, e que eu caminho por uma vereda, pela qual não voltarei.
+
+'''
+
+xref:020-jo/020-jo-015.adoc#v20-15-0[&#60; Capítulo Anterior] | <<v20-16-0,Topo>> | xref:020-jo/020-jo-017.adoc#v20-17-0[Próximo Capítulo &#62;]

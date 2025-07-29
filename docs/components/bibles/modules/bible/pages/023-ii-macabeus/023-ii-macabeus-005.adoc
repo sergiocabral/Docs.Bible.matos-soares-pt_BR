@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v23-5-0]]
+=== II Macabeus, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 5 de 2 Macabeus relata a chegada do novo governador da Síria, chamado Andrônico, que foi enviado pelo rei Antíoco Epifânio para subjugar os judeus. Andrônico trouxe consigo uma grande quantidade de soldados e foi responsável por uma terrível perseguição aos judeus, que culminou na profanação do Templo. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* 1 Reis 11:7: "Então edificou Salomão um alto a Quemós, a abominação dos moabitas, sobre o monte fronteiro a Jerusalém, e a Moloc, a abominação dos filhos de Amom." Este versículo fala sobre a prática de Salomão de construir altares para os deuses pagãos Quemós e Moloc, o que é descrito como uma abominação. A profanação do Templo pelos soldados de Andrônico pode ser considerada uma abominação semelhante.
+* Jeremias 4:7: "Subiu um leão da sua ramada, e um destruidor de gentes; ele já partiu, saiu do seu lugar, para fazer da tua terra uma assolação, e as tuas cidades ficarão em ruínas, sem habitante." Este versículo descreve a chegada de um destruidor que deixará as cidades em ruínas e sem habitantes. A chegada de Andrônico com seus soldados teve um efeito semelhante na terra dos judeus.
+* Lamentações 1:8: "Jerusalém gravemente pecou, por isso se tornou em instabilidade; todos os que a honravam a desprezam, porque viram a sua nudez; ela também geme e volta para trás." Este versículo se refere à queda de Jerusalém devido aos pecados de seus habitantes. A profanação do Templo por Andrônico pode ser vista como uma consequência do pecado dos judeus.
+* Ezequiel 7:21: "E darás o ouro por refugo, e a prata por escória; não te poderão salvar no dia da ira do Senhor; não fartarão a tua alma, nem te encherão o ventre, porque foram o tropeço da tua maldade." Este versículo fala sobre a inutilidade dos tesouros acumulados pelos homens no dia da ira do Senhor. O saque do Templo pelos soldados de Andrônico sugere a mesma ideia de que os tesouros terrenos não têm valor no dia do juízo.
+* Isaías 64:10: "A tua cidade santa está deserta; Sião se tornou em deserto, Jerusalém está assolada." Este versículo descreve a desolação da cidade santa de Jerusalém. A perseguição dos judeus por Andrônico e seus soldados resultou na desolação de Jerusalém e do Templo.
+****
+
+[[v23-5-1]]
+
+^<<v23-5-1,1>>^ Por este mesmo tempo preparou Antioco a segunda expedição contra o Egipto.
+
+[[v23-5-2]]
+
+^<<v23-5-2,2>>^ Aconteceu que em toda a cidade de Jerusalém, por espaço de quarenta dias, se viram homens a cavalo, correndo pelo ar, vestidos de ouro e armados de lanças, à semelhança de coortes,
+
+[[v23-5-3]]
+
+^<<v23-5-3,3>>^ cavalos ordenados em esquadrões, ataques e cargas dum e doutro lado, movimentos de escudos, grande multidão de lanças, espadas nuas, tiros de dardos, resplendor de armaduras e ouro e de couraça de todo o género.
+
+[[v23-5-4]]
+
+^<<v23-5-4,4>>^ Portanto todos rogavam (a Deus) que tais prodígios fossem em seu favor.
+
+[[v23-5-5]]
+
+^<<v23-5-5,5>>^ Tendo-se espalhado o falso rumor de que Antioco morrera, Jasão, tomando consigo não menos de mil homens, acometeu de improviso a cidade. Os cidadãos concorreram de todas as partes aos muros, mas ele por fim apoderou-se da cidade, e Menelau fugiu para a cidadela.
+
+[[v23-5-6]]
+
+^<<v23-5-6,6>>^ Entretanto Jasão fazia impiedosa matança dos seus próprios concidadãos, não considerando que uma vitória ganha contra os compatriotas é o maior desastre, mas agindo como se alcançasse um troféu dos seus inimigos, e não dos seus concidadãos.
+
+[[v23-5-7]]
+
+^<<v23-5-7,7>>^ Todavia não lhe foi possível apoderar-se do poder, mas recebeu a confusão como fruto da sua perfídia e retirou-se fugitivo outra vez para a terra dos Amonitas.
+
+[[v23-5-8]]
+
+^<<v23-5-8,8>>^ Por fim, apertado por Aretas, rei dos Árabes, fugindo de cidade em cidade, aborrecido de todos, detestado como violador das leis, execrando como carrasco da pátria e dos concidadãos, foi empurrado para o Egipto.
+
+[[v23-5-9]]
+
+^<<v23-5-9,9>>^ Aquele que tinha lançado fora da sua terra tantas pessoas, pereceu longe da sua pátria, levado para a Lacedemónia pela esperança de achar lá algum refúgio por causa do parentesco.
+
+[[v23-5-10]]
+
+^<<v23-5-10,10>>^ Ele, que tinha deixado os corpos de muitos sem sepultara, não foi chorado nem sepultado, não achando sequer um lugar no túmulo de seus pais.
+
+[[v23-5-11]]
+
+^<<v23-5-11,11>>^ Ao conhecer tais acontecimentos, o rei pensou que os Judeus abandonariam a aliança feita com ele, e, por isso, tendo voltado do Egipto com o ânimo enfurecido, tomou a cidade pelas armas.
+
+[[v23-5-12]]
+
+^<<v23-5-12,12>>^ Mandou aos soldados que ferissem sem piedade, todos os que lhes caíssem nas mãos, e que, entrando nas casas, fizessem matança dos que aí se refugiassem.
+
+[[v23-5-13]]
+
+^<<v23-5-13,13>>^ Houve, pois, uma grande mortandade de jovens e velhos, um massacre de mulheres e de crianças, de donzelas e de meninos de peito.
+
+[[v23-5-14]]
+
+^<<v23-5-14,14>>^ Em três dias houve oitenta mil vítimas: quarenta mil assassinadas, e outras tantas vendidas (como escravas).
+
+[[v23-5-15]]
+
+^<<v23-5-15,15>>^ Mas nem ainda esta crueldade foi bastante a Antíoco; ousou, além disso, entrar no templo, que era o lugar mais santo de todo o mundo, conduzido por Menelau, que foi traidor às leis e à pátria,
+
+[[v23-5-16]]
+
+^<<v23-5-16,16>>^ tomou com as suas impuras mãos os vasos sagrados e arrebatou com as suas mãos profanas as ofertas que os outros reis tinham ali posto para realçar a glória e a dignidade deste lugar.
+
+[[v23-5-17]]
+
+^<<v23-5-17,17>>^ Assim Antíoco, inchado de soberba, não considerava que Deus, por causa dos pecados dos que moravam na cidade, se tinha irado por pouco tempo contra eles, e que, por isso, é que também acontecera o desacato feito aquele lugar (santo).
+
+[[v23-5-18]]
+
+^<<v23-5-18,18>>^ Doutra sorte, se eles não estivessem culpados de muitos pecados, (este príncipe), a exemplo de Heliodoro, que foi enviado pelo rei Seleuco a despojar o erário, teria sido açoutado também, como ele, logo que chegou, e sentiria castigada a sua audácia.
+
+[[v23-5-19]]
+
+^<<v23-5-19,19>>^ Porém, Deus não escolheu o povo por amor do lugar (ou templo), mas escolheu este por amor do povo.
+
+[[v23-5-20]]
+
+^<<v23-5-20,20>>^ Por isso também este lugar participou das desgraças do povo, bem como depois participou com ele dos bens; desamparado por causa da ira do Deus omnipotente, veio de novo a ser elevado à glória anterior, quando o soberano Senhor se reconciliou (com o seu povo).
+
+[[v23-5-21]]
+
+^<<v23-5-21,21>>^ Tendo Antíoco tirado do templo mil e oitocentos talentos, voltou sem demora para Antioquia, deixando-se possuir dum tal excesso de soberba e elevando-se tanto no coração, que lhe parecia que podia navegar sobre a terra e caminhar sobre o mar.
+
+[[v23-5-22]]
+
+^<<v23-5-22,22>>^ Entretanto deixou ali governadores para afligirem o povo: em Jerusalém a Filipe, originário da Frigia, mais cruel em seus costumes do que aquele mesmo que o havia estabelecido,
+
+[[v23-5-23]]
+
+^<<v23-5-23,23>>^ e em Garizim a Andronico, aos quais juntou Menelau, mais encarniçado que os outros contra os seus concidadãos.
+
+[[v23-5-24]]
+
+^<<v23-5-24,24>>^ Mandou-lhes também Antioco o detestável Apolónio, com um exército de vinte e dois mil homens, com ordem de matar todos os adultos e de vender as mulheres e as crianças.
+
+[[v23-5-25]]
+
+^<<v23-5-25,25>>^ Apolónio, logo que chegou a Jerusalém, fingindo que só buscava a paz, esteve quieto até ao santo dia de sábado; nele, quando os Judeus estavam em descanso, ordenou aos seus soldados que tomassem armas.
+
+[[v23-5-26]]
+
+^<<v23-5-26,26>>^ Então mandou matar todos os que saíram a ver este espectáculo, e, correndo a cidade com os seus soldados, tirou a vida a grande número de pessoas.
+
+[[v23-5-27]]
+
+^<<v23-5-27,27>>^ Entretanto Judas Macabeu, que era o décimo, retirou-se a um lugar despovoado e passava ali a vida nos montes com os seus entre as feras; apenas comiam ervas do campo, para não se mancharem.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-004.adoc#v23-4-0[&#60; Capítulo Anterior] | <<v23-5-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-006.adoc#v23-6-0[Próximo Capítulo &#62;]

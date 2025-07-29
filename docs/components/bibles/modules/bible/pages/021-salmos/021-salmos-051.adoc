@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-51-0]]
+=== Salmos, 51
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 51 é um salmo penitencial atribuído ao rei Davi após o seu pecado com Bate-Seba. No salmo, Davi clama por misericórdia e perdão a Deus, reconhecendo a sua culpa e pedindo para que o Senhor crie um coração puro nele. Os versículos relacionados com os temas abordados em Salmo 51 são:
+* 1 Reis 15:5: "Porque Davi fez o que era reto perante o Senhor e não se desviou de tudo o que lhe ordenara em todos os dias da sua vida, senão no caso de Urias, o heteu." Esse versículo mostra a história de Davi, como um homem que sempre procurou fazer o que era reto aos olhos de Deus, mas que caiu em pecado e precisou pedir perdão.
+* Isaías 1:18: "Vinde, pois, e arrazoemos, diz o Senhor; ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, tornar-se-ão como a lã." Este versículo mostra que Deus está disposto a perdoar e lavar todos os nossos pecados, nos tornando puros novamente.
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e deixa alcançará misericórdia." Esse versículo mostra que a confissão é um passo importante para alcançar o perdão de Deus.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo reforça a importância da confissão e mostra a fidelidade de Deus em nos perdoar.
+* Romanos 3:23-24: "Porque todos pecaram e destituídos estão da glória de Deus; sendo justificados gratuitamente pela sua graça, pela redenção que há em Cristo Jesus." Esse versículo destaca a nossa natureza pecaminosa e mostra que a justificação e o perdão vêm pela graça de Deus através de Cristo.
+****
+
+[[v21-51-1]]
+
+^<<v21-51-1,1>>^ Ao mestre do coro. Maskil De Davide,
+
+[[v21-51-2]]
+
+^<<v21-51-2,2>>^ depois que Doeg Idumeu foi informar Saul, dizendo: Davide entrou em casa de Aquimeleque.
+
+[[v21-51-3]]
+
+^<<v21-51-3,3>>^ Por que te glorias da tua malícia, ó infame prepotente? A toda a hora
+
+[[v21-51-4]]
+
+^<<v21-51-4,4>>^ maquinas a perdição, a tua língua é como navalha afiada, ó artífice de enganos. (ver nota)
+
+[[v21-51-5]]
+
+^<<v21-51-5,5>>^ Amas mais o mal que o bem, a mentira mais do que dizer o que é justo.
+
+[[v21-51-6]]
+
+^<<v21-51-6,6>>^ Amas todas as palavras perniciosas, ó língua enganadora!
+
+[[v21-51-7]]
+
+^<<v21-51-7,7>>^ Por isso Deus te destruirá, te afastará para sempre, te arrancará da tua tenda e te desarreigará da terra dos vivos.
+
+[[v21-51-8]]
+
+^<<v21-51-8,8>>^ Ve-lo-ão os justos e temerão, e dele se rirão dizendo:
+
+[[v21-51-9]]
+
+^<<v21-51-9,9>>^ Eis o homem que não tomou a Deus por sua fortaleza, mas que esperou na multidão das suas riquezas e se reforçou nos seus crimes."
+
+[[v21-51-10]]
+
+^<<v21-51-10,10>>^ Eu, porém, sou como a oliveira verdejante na casa de Deus; confio na misericórdia de Deus para sempre.
+
+[[v21-51-11]]
+
+^<<v21-51-11,11>>^ Louvar-te-ei (Senhor) eternamente, porque actuaste, e pregarei o teu nome diante dos teus santos, porque é bom.
+
+'''
+
+xref:021-salmos/021-salmos-050.adoc#v21-50-0[&#60; Capítulo Anterior] | <<v21-51-0,Topo>> | xref:021-salmos/021-salmos-052.adoc#v21-52-0[Próximo Capítulo &#62;]

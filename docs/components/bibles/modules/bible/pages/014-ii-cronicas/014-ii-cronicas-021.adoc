@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v14-21-0]]
+=== II Crônicas, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 21 de 2 Crônicas conta a história do rei Jeorão, filho de Josafá, que governou Judá após a morte de seu pai. O capítulo descreve sua maldade e as consequências disso para seu reinado e para seu povo. Abaixo estão cinco versículos relacionados aos temas abordados no capítulo:
+* Provérbios 29:2: "Quando os justos governam, o povo se alegra; mas quando o ímpio domina, o povo geme." Este versículo fala sobre a relação entre justiça e alegria do povo, algo que é negligenciado por Jeorão em seu reinado.
+* Salmos 106:39: "Contaminaram-se com as suas obras e se corromperam com seus atos de prostituição." Este versículo fala sobre o pecado e a corrupção que Jeorão se envolveu, causando a degradação moral do povo de Judá.
+* Provérbios 10:27: "O temor do Senhor prolonga a vida, mas a vida dos ímpios é abreviada." Este versículo descreve a punição que Jeorão recebeu por sua maldade, pois sua vida foi encurtada por causa de seus pecados.
+* Ezequiel 18:20: "O filho não levará a iniquidade do pai, nem o pai levará a iniquidade do filho. A justiça do justo será sobre ele e a maldade do ímpio será sobre ele." Este versículo fala sobre a responsabilidade pessoal por nossas ações, algo que Jeorão ignorou ao seguir os passos de seu pai Josafá, que também cometeu pecados.
+* 1 João 1:9: "Se confessarmos nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo fala sobre o arrependimento e o perdão oferecido por Deus para aqueles que confessam seus pecados e se voltam para ele. Infelizmente, Jeorão não demonstrou arrependimento, e assim sofreu as consequências de seus atos.
+****
+
+[[v14-21-1]]
+
+^<<v14-21-1,1>>^ Josafat adormeceu com seus pais, e foi sepultado com eles na cidade de David. Seu filho Jorão reinou em seu lugar.
+
+[[v14-21-2]]
+
+^<<v14-21-2,2>>^ (Jorão) teve por irmãos os filhos de Josafat: Azarias, Jaiel, Zacarias, Azarias, Miguel e Safatias. Todos estes eram filhos de Josafat, rei da Judá.
+
+[[v14-21-3]]
+
+^<<v14-21-3,3>>^ Seu pai deu-lhes muitos dons em prata, ouro e em pensões, e cidades muito fortes em Judá mas entregou o reino a Jorão, por ser o primogênito.
+
+[[v14-21-4]]
+
+^<<v14-21-4,4>>^ Jorão tomou posse do reino de seu pai. Depois que se viu bem seguro, mandou matar à espada todos os seus irmãos e alguns dos grandes de Israel.
+
+[[v14-21-5]]
+
+^<<v14-21-5,5>>^ Jorão tinha trinta e dois anos quando começou a reinar, e reinou oito anos em Jerusalém.
+
+[[v14-21-6]]
+
+^<<v14-21-6,6>>^ Andou nos caminhos dos reis de Israel, como tinha feito a casa de Acab, porque sua mulher era filha de Acab. Fez o mal na presença do Senhor.
+
+[[v14-21-7]]
+
+^<<v14-21-7,7>>^ O Senhor, porém, não quis perder a casa de Davide, em atenção ao pacto que tinha feito com ele, porque tinha prometido que lhe daria uma lâmpada a ele e a seus filhos para sempre.
+
+[[v14-21-8]]
+
+^<<v14-21-8,8>>^ Naquele tempo Edom revoltou-se para não estar mais sujeito a Judá, e constituiu para si um rei.
+
+[[v14-21-9]]
+
+^<<v14-21-9,9>>^ Jorão, tendo ido (àquela província) com os seus generais e com toda a cavalaria que tinha consigo, levantou-se de noite e desbaratou Edom e todos os comandantes da sua cavalaria, que o tinham cercado.
+
+[[v14-21-10]]
+
+^<<v14-21-10,10>>^ Todavia Edom manteve-se rebelde até ao dia de hoje, para não estar debaixo do poder de Judá. No mesmo tempo revoltou-se também Lobna, para não estar debaixo da sua obediência, (isto aconteceu) porque ele tinha abandonado o Senhor Deus de seus pais.
+
+[[v14-21-11]]
+
+^<<v14-21-11,11>>^ Além disto erigiu lugares altos nas cidades de Judá; induziu os habitantes de Jerusalém a idolatrarem, Judá a prevaricar.
+
+[[v14-21-12]]
+
+^<<v14-21-12,12>>^ Então foi-lhe levada uma carta do profeta Elias, em que estava escrito: Eis o que diz o Senhor Deus de Davide, teu pai: Porque não andaste pelos caminhos de teu pai Josafat, nem pelos caminhos de Asa, rei de Judá,
+
+[[v14-21-13]]
+
+^<<v14-21-13,13>>^ mas seguiste o caminho dos reis de Israel; porque fizeste cair na idolatria Judá e os habitantes de Jerusalém, imitando a idolatria da casa de Acab; porque, além disso mataste teus irmãos, da casa de teu pai, melhores do que tu,
+
+[[v14-21-14]]
+
+^<<v14-21-14,14>>^ sabe que também o Senhor te ferirá com um grande flagelo a ti, ao teu povo, aos teus filhos, às tuas mulheres e a tudo o que te pertence.
+
+[[v14-21-15]]
+
+^<<v14-21-15,15>>^ Tu serás ferido no teu ventre com uma doença maligníssima, até que te saiam pouco a pouco as entranhas, durante longos dias.
+
+[[v14-21-16]]
+
+^<<v14-21-16,16>>^ O Senhor suscitou, pois, contra Jorão o espírito dos Filisteus e dos Árabes, que confinam com os Etíopes,
+
+[[v14-21-17]]
+
+^<<v14-21-17,17>>^ os quais entraram na terra de Judá, assolaram-na, saquearam tudo o que encontraram no palácio do rei, e, além disso (levaram) os seus filhos e mulheres, de sorte que não lhe ficou filho algum, senão Joacaz, que era o mais novo de todos.
+
+[[v14-21-18]]
+
+^<<v14-21-18,18>>^ Por sobre tudo isto, o Senhor feriu-o com uma doença incurável nas entranhas.
+
+[[v14-21-19]]
+
+^<<v14-21-19,19>>^ Sucedendo-se os dias uns aos outros, completou-se o período de dois anos; ele, consumido lentamente com a podridão, lançando fora até as suas entranhas, morreu em meio do mais acerbo sofrimento. O povo não lhe fez as exéquias queimando-lhe perfumes, segundo o costume, como tinha feito a seus antecessores.
+
+[[v14-21-20]]
+
+^<<v14-21-20,20>>^ Jorão tinha trinta e dois anos quando começou a reinar, e reinou oito anos em Jerusalém. Não andou com retidão. Sepultaram-no na cidade de Davide, mas não no sepulcro dos reis.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-020.adoc#v14-20-0[&#60; Capítulo Anterior] | <<v14-21-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-022.adoc#v14-22-0[Próximo Capítulo &#62;]

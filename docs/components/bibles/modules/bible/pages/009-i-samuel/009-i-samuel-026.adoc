@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v9-26-0]]
+=== I Samuel, 26
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 26 trata da segunda vez que Davi tem a oportunidade de matar Saul, mas escolhe não fazê-lo. Saul novamente persegue Davi, mas desta vez Davi consegue se infiltrar no acampamento de Saul e chegar até onde ele estava dormindo. Mesmo com a chance de se vingar, Davi escolhe poupar a vida de Saul e demonstra sua fidelidade a Deus. Os versículos selecionados são:
+* Provérbios 24:17-18: "Não se alegre quando o seu inimigo cair, nem exulte o seu coração quando ele tropeçar, para que o Senhor não o veja, e isso lhe desagrade, e desvie dele a sua ira." Esse versículo alerta sobre o perigo de se alegrar com a queda do inimigo, pois Deus é quem deve julgar as ações dos homens.
+* Romanos 12:19: "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: 'Minha é a vingança; eu retribuirei', diz o Senhor." Esse versículo reforça a ideia de que a vingança não é algo que os cristãos devem buscar, mas sim deixar nas mãos de Deus.
+* 2 Timóteo 2:22-24: "Fuja das paixões malignas da juventude e siga a justiça, a fé, o amor e a paz, juntamente com os que invocam o Senhor com um coração puro. Não discuta com ninguém; sejam amáveis para com todos, aptos para ensinar, pacientes e humildes. Não devemos revidar o mal com o mal, mas procurar sempre fazer o bem.
+* Efésios 4:31-32: "Livrem-se de toda amargura, indignação e ira, gritaria e calúnia, bem como de toda maldade. Sejam bondosos e compassivos uns para com os outros, perdoando-se mutuamente, assim como Deus os perdoou em Cristo." Esse versículo enfatiza a importância do perdão e da bondade como virtudes cristãs.
+* Mateus 5:44: "Eu, porém, lhes digo: Amem os seus inimigos e orem por aqueles que os perseguem." Esse versículo ensina a amar e orar pelos inimigos, em vez de se vingar ou se alegrar com a queda deles. É uma demonstração de amor ao próximo e de obediência aos ensinamentos de Jesus.
+****
+
+[[v9-26-1]]
+
+^<<v9-26-1,1>>^ Os Zifeus foram (novamente) ter com Saul a Gabaa, dizendo; Davide está escondido na colina de Aquila, que está defronte do deserto.
+
+[[v9-26-2]]
+
+^<<v9-26-2,2>>^ Saul levantou-se e desceu ao deserto de Zif, tomando consigo três mil homens escolhidos de Israel, para ir em busca de Davide no deserto de Zif.
+
+[[v9-26-3]]
+
+^<<v9-26-3,3>>^ Saul acampou em Gabaa, na colina de Aquila, que está defronte do deserto sobre o caminho; Davide morava no deserto. Vendo que Saul o tinha ido buscar pelo deserto,
+
+[[v9-26-4]]
+
+^<<v9-26-4,4>>^ enviou espiões e soube com toda a certeza que (Saul) tinha chegado ali.
+
+[[v9-26-5]]
+
+^<<v9-26-5,5>>^ Davide levantou-se caladamente e foi ao lugar onde estava Saul. Tendo visto o lugar onde Saul dormia, com Abner, filho de Ner, general das suas tropas, quando Saul dormia na tenda, e ao redor dele toda a sua gente,
+
+[[v9-26-6]]
+
+^<<v9-26-6,6>>^ Davide disse a Aquimelec Heteu, e a Abisai, filho de Sarvla, irmão de Joab: Quem descerá comigo ao acampamento de Saul? Abisai disse: Eu descerei contigo.
+
+[[v9-26-7]]
+
+^<<v9-26-7,7>>^ Foram, pois, Davide e Abisai de noite ao povo, e encontraram Saul deitado e dormindo na sua tenda com a sua lança fixa na terra, à cabeceira, e Abner e toda a sua gente dormindo ao redor dele.
+
+[[v9-26-8]]
+
+^<<v9-26-8,8>>^ Abisai disse a Davide: Deus entregou-te hoje nas mãos o teu inimigo; agora, peço-te, deixa-mo pregar à terra com a lança, dum só golpe: (um só golpe bastará) não será necessário segundo.
+
+[[v9-26-9]]
+
+^<<v9-26-9,9>>^ Davide disse a Abisai: Não o mates! Quem estenderá a sua mão, contra o ungido do Senhor, e ficará impune?
+
+[[v9-26-10]]
+
+^<<v9-26-10,10>>^ Davide disse: Viva o Senhor que, a não ser que o Senhor o mate, ou chegue o dia da sua morte, ou pereça estando em batalha, (não morrerá);
+
+[[v9-26-11]]
+
+^<<v9-26-11,11>>^ não permita o Senhor que eu estenda a minha mão contra o ungido do Senhor. Toma a lança, que está à sua cabeceira, e o copo da água, e vamo-nos.
+
+[[v9-26-12]]
+
+^<<v9-26-12,12>>^ Tomou Davide a lança e o copo da água, que estavam à cabeceira de Saul, e foram-se. Não houve ninguém que visse, ouvisse, ou despertasse. Todos dormiam, porque o Senhor os tinha sepultado num profundo sono.
+
+[[v9-26-13]]
+
+^<<v9-26-13,13>>^ Tendo Davide passado á parte oposta e parado ao longe, no alto do monte, havendo entre eles grande distância,
+
+[[v9-26-14]]
+
+^<<v9-26-14,14>>^ bradou ao povo, e a Abner filho de Ner, dizendo: Não responderás Abner? Abner, respondendo, disse: Quem és tu que estás gritando e desassossegas o rei?
+
+[[v9-26-15]]
+
+^<<v9-26-15,15>>^ Davide disse a Abner: Não és tu um homem (valente)? E quem há em Israel como tu? Como, pois, não guardaste o rei, teu Senhor? Alguém do povo entrou aí para matar o rei, teu senhor.
+
+[[v9-26-16]]
+
+^<<v9-26-16,16>>^ Não é bom isto, que fizeste; viva o Senhor, que vós mereceis a morte, vós que tão mal guardastes o vosso amo, o ungido do Senhor; vede, agora, onde está a lança do rei, onde está o copo da água, que estava à sua cabeceira.
+
+[[v9-26-17]]
+
+^<<v9-26-17,17>>^ Saul reconheceu a voz de Davide e disse: Não é esta a tua voz, meu filho Davide? Davide disse: É a minha voz, ó rei, meu senhor.
+
+[[v9-26-18]]
+
+^<<v9-26-18,18>>^ E acrescentou: Por que motivo persegue o meu senhor o seu servo? Que fiz eu? Que maldade está na minha mão?
+
+[[v9-26-19]]
+
+^<<v9-26-19,19>>^ Ouve, pois, agora, te rogo, ó rei meu senhor, as palavras de teu servo: Se o Senhor te incita contra mim, receba ele o perfume do meu sacrifício; se, porém, são os filhos dos homens, malditos sejam diante do Senhor, porque me expulsaram hoje, para que eu não habite na herança do Senhor, dizendo: Vai, serve a deuses estranhos.
+
+[[v9-26-20]]
+
+^<<v9-26-20,20>>^ E agora não seja derramado o meu sangue na terra, diante do Senhor, porque o rei de Israel saiu em busca duma pulga, assim como se persegue uma perdiz pelos montes.
+
+[[v9-26-21]]
+
+^<<v9-26-21,21>>^ Saul disse: Pequei; volta, meu filho Davide, porque não te tornarei a fazer mal daqui em diante, pois que a minha vida foi hoje preciosa aos teus olhos, porque é manifesto que procedi nesciamente e que cometi uma grande falta.
+
+[[v9-26-22]]
+
+^<<v9-26-22,22>>^ Respondendo Davide, disse: Eis a lança do rei; venha cá um de seus criados, e leve-a.
+
+[[v9-26-23]]
+
+^<<v9-26-23,23>>^ O Senhor retribuirá a cada um conforme a sua justiça e fidelidade; o Senhor entregou-te hoje na minha mão, e eu não quis estender a minha mão contra o ungido do Senhor.
+
+[[v9-26-24]]
+
+^<<v9-26-24,24>>^ Assim como a tua vida foi hoje preciosa aos meus olhos, assim a minha seja preciosa aos olhos do Senhor, e ele me livre de toda a tribulação.
+
+[[v9-26-25]]
+
+^<<v9-26-25,25>>^ Disse Saul a Davide: Bem-dito sejas tu, meu filho Davide; certamente serás bem sucedido nas tuas empresas. Com isto foi Davide ao seu caminho, e Saul voltou para sua casa.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-025.adoc#v9-25-0[&#60; Capítulo Anterior] | <<v9-26-0,Topo>> | xref:009-i-samuel/009-i-samuel-027.adoc#v9-27-0[Próximo Capítulo &#62;]

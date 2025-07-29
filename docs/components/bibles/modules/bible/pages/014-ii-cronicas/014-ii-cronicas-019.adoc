@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v14-19-0]]
+=== II Crônicas, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 19 relata a história do rei Josafá, que após sua vitória sobre os moabitas e amonitas, retorna a Jerusalém e é confrontado pelo profeta Jeú, que o adverte sobre a aliança que fez com o rei Acabe, que era um homem ímpio. Josafá então estabelece juízes em todas as cidades de Judá e os instrui a julgar com justiça e temor a Deus. Os versículos abaixo foram selecionados por sua similaridade com os temas abordados no capítulo.
+* Provérbios 21:3: "Praticar a justiça e o direito é mais aceitável ao Senhor do que oferecer sacrifícios." Este versículo destaca a importância da justiça e do direito aos olhos de Deus, que valoriza mais a prática dessas virtudes do que as ofertas e sacrifícios.
+* Deuteronômio 16:18-20: "Designarás juízes e oficiais em todas as cidades que o Senhor teu Deus te dá, segundo as tuas tribos; e eles julgarão o povo com justiça. Não torcerás o juízo, não farás acepção de pessoas, nem receberás suborno; porquanto o suborno cega os olhos dos sábios e perverte as palavras dos justos. Seguirás somente a justiça, para que vivas e possuas a terra que o Senhor teu Deus te dá." Esses versículos instruem sobre a nomeação de juízes e a importância de julgar com justiça, sem acepção de pessoas e sem ser corrompido pelo suborno.
+* Provérbios 28:5: "Os homens maus não entendem o juízo, mas os que buscam ao Senhor entendem tudo." Este versículo ressalta a importância da busca por Deus para compreender o juízo e a justiça.
+* 2 Crônicas 19:6-7: "Disse mais a juízes: Vede o que fazeis, porque não julgais da parte do homem, senão da parte do Senhor, e ele está convosco quando vindicais. Agora, pois, seja o temor do Senhor convosco; tomai cuidado e fazei-o, porque não há no Senhor nosso Deus iniqüidade, nem acepção de pessoas, nem aceita suborno." Esses versículos reforçam a mensagem de Josafá aos juízes, instruindo-os a julgar com a consciência de que estão agindo em nome de Deus, que é justo e não aceita suborno.
+* Miquéias 6:8: "Ele te declarou, ó homem, o que é bom e o que o Senhor pede de ti: que pratiques a justiça, e ames a misericórdia, e andes humildemente com o teu Deus." Este versículo resume os princípios que Josafá ensinou aos juízes de Judá, destacando a importância da justiça, da misericórdia e da humildade diante de Deus.
+****
+
+[[v14-19-1]]
+
+^<<v14-19-1,1>>^ Josafat, rei de Judá, voltou em paz para sua casa em Jerusalém.
+
+[[v14-19-2]]
+
+^<<v14-19-2,2>>^ Jeú, o vidente, filho de Hanani, saiu-lhe ao encontro e disse-lhe: Tu dás socorro a um ímpio e estreitas os laços da amizade com os que odeiam o Senhor, e por isso eras digno da ira do Senhor;
+
+[[v14-19-3]]
+
+^<<v14-19-3,3>>^ porém foram encontradas em ti obras boas, porque exterminaste da terra de Judá os ascheras e dispuseste o teu coração a buscar o Senhor Deus de teus pais.
+
+[[v14-19-4]]
+
+^<<v14-19-4,4>>^ Josafat, de volta a Jerusalém, saiu outra vez a visitar o povo, desde Bersabé até ao monte de Efraim, e reconduziu-o ao culto do Senhor Deus de seus pais.
+
+[[v14-19-5]]
+
+^<<v14-19-5,5>>^ Estabeleceu juízes no país em todas as cidades fortes de Judá, em cada um dos seus lugares.
+
+[[v14-19-6]]
+
+^<<v14-19-6,6>>^ Dando as suas ordens aos juízes, disse: Vêde o que fazeis, porque não exerceis a justiça dum homem, mas sim a do Senhor: tudo o que julgardes, recairá sobre vós.
+
+[[v14-19-7]]
+
+^<<v14-19-7,7>>^ O temor do Senhor seja convosco. Fazei todas as coisas com diligência, porque no Senhor nosso Deus não há iniquidade, nem acepção de pessoas, nem cobiça de dávidas.
+
+[[v14-19-8]]
+
+^<<v14-19-8,8>>^ Josafat estabeleceu também, em Jerusalém, Levitas, sacerdotes e chefes das famílias de Israel, para administrarem justiça aos seus habitantes, em nome do Senhor, e julgarem as causas.
+
+[[v14-19-9]]
+
+^<<v14-19-9,9>>^ Deu-lhes as seguintes instruções: Procedereis no temor do Senhor, com fidelidade e com um coração perfeito.
+
+[[v14-19-10]]
+
+^<<v14-19-10,10>>^ Em toda a causa, que vos vier de vossos irmãos que habitam nas suas cidades, (para julgardes) entre família e família, todas as vezes que a questão for sobre a lei, sobre os mandamentos, sobre as cerimônias e sobre os preceitos, instruí-os, para que não pequem contra o Senhor, para que a sua ira não caia sobre vós e sobre vossos irmãos. Se assim procederdes, não pecareis.
+
+[[v14-19-11]]
+
+^<<v14-19-11,11>>^ Com este fim Amarias, vosso sacerdote e pontífice, presidirá às coisas que dizem respeito a Deus; Zabadias, filho de Ismael, que é o chefe da casa de Judá, presidirá aos negócios que dizem respeito ao serviço do rei. Tendes convosco por mestres os Levitas. Confortai-vos, pois, e sede diligentes.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-018.adoc#v14-18-0[&#60; Capítulo Anterior] | <<v14-19-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-020.adoc#v14-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-76-0]]
+=== Salmos, 76
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 76 é um hino de louvor que celebra a grandeza e o poder de Deus. Nele, o salmista descreve a vitória do Senhor sobre seus inimigos e exalta seu domínio sobre todas as nações. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 76:
+* Salmos 47:8: "Deus reina sobre as nações; Deus está sentado em seu santo trono." Este versículo fala sobre a soberania de Deus e sua posição como governante sobre todas as nações.
+* Isaías 2:4: "Ele julgará entre as nações e decidirá por muitos povos. Eles transformarão suas espadas em arados e suas lanças em foices. Nenhuma nação levantará a espada contra outra, nem treinará mais para a guerra." Este versículo fala sobre a paz que Deus trará ao mundo quando ele julgar entre as nações e decidir justamente.
+* Salmos 82:8: "Levanta-te, ó Deus, julga a terra, pois todas as nações são tuas heranças." Este versículo fala sobre o domínio de Deus sobre todas as nações e sua responsabilidade de julgá-las.
+* Isaías 33:22: "Porque o Senhor é o nosso juiz, o Senhor é o nosso legislador, o Senhor é o nosso rei; é ele quem nos salvará." Este versículo fala sobre o papel de Deus como juiz, legislador e rei, e sua capacidade de salvar.
+* Apocalipse 19:6: "Então ouvi algo como o clamor de uma grande multidão, como o som de muitas águas e como o estrondo de fortes trovões, que dizia: 'Aleluia! Pois reina o Senhor nosso Deus, o Todo-Poderoso!'" Este versículo fala sobre a vitória final de Deus sobre seus inimigos e a celebração dos santos por sua soberania.
+****
+
+[[v21-76-1]]
+
+^<<v21-76-1,1>>^ Ao mestre do coro. Segundo Idithum. De Asaf. Salmo.
+
+[[v21-76-2]]
+
+^<<v21-76-2,2>>^ A minha voz sobe até Deus, e clamo, a minha voz sobe até Deus para que me ouça;
+
+[[v21-76-3]]
+
+^<<v21-76-3,3>>^ no dia da minha angústia busco a Deus. Estende-se a minha mão de noite (para ele) sem se cansar, a minha alma recusa toda a consolação.
+
+[[v21-76-4]]
+
+^<<v21-76-4,4>>^ Ao recordar-me de Deus, gemo; quando repenso (nos meus sofrimentos), o meu espírito desfalece.
+
+[[v21-76-5]]
+
+^<<v21-76-5,5>>^ Conservas em vigília os meus olhos, estou perturbado e não posso falar.
+
+[[v21-76-6]]
+
+^<<v21-76-6,6>>^ Penso nos dias antigos, os anos afastados
+
+[[v21-76-7]]
+
+^<<v21-76-7,7>>^ eu recordo: medito (nisto) de noite em meu coração, reflicto, e o meu espírito esquadrinha.
+
+[[v21-76-8]]
+
+^<<v21-76-8,8>>^ "Porventura Deus há-de abandonar-nos, para sempre, e não voltará a ser-nos propício?
+
+[[v21-76-9]]
+
+^<<v21-76-9,9>>^ Porventura terá acabado para sempre a sua graça, ficará anulada a sua promessa por todas as gerações?
+
+[[v21-76-10]]
+
+^<<v21-76-10,10>>^ Porventura esqueceu-se Deus de usar de clemência?Porventura deteve, na sua ira, a sua misericórdia?"
+
+[[v21-76-11]]
+
+^<<v21-76-11,11>>^ Então eu digo: "Esta é a minha dor: está mudada a dextra do Altíssimo."
+
+[[v21-76-12]]
+
+^<<v21-76-12,12>>^ Lembro-me das obras do Senhor, sim, recordo-me das tuas maravilhas de outrora.
+
+[[v21-76-13]]
+
+^<<v21-76-13,13>>^ Medito em todas as tuas obras e vou reflectindo sobre as tuas proezas.
+
+[[v21-76-14]]
+
+^<<v21-76-14,14>>^ O teu caminho, ó Deus, é santo: que deus há grande como o nosso Deus?
+
+[[v21-76-15]]
+
+^<<v21-76-15,15>>^ Tu és o Deus que opera maravilhas, fizeste conhecer entre os povos o teu poder.
+
+[[v21-76-16]]
+
+^<<v21-76-16,16>>^ Redimiste com o teu braço o teu povo, os filhos de Jacob e de José.
+
+[[v21-76-17]]
+
+^<<v21-76-17,17>>^ Viram-te as águas (do mar Vermelho), ó Deus, viram-te as águas: tremeram e agitaram-se as ondas.
+
+[[v21-76-18]]
+
+^<<v21-76-18,18>>^ As nuvens descarregaram águas a torrentes, as nuvens fizeram soar a sua voz, e voaram as tuas setas.
+
+[[v21-76-19]]
+
+^<<v21-76-19,19>>^ O teu trovão ribombou no turbilhão, os relâmpagos iluminaram o mundo: abalou-se e tremeu a terra.
+
+[[v21-76-20]]
+
+^<<v21-76-20,20>>^ Pelo mar abriu-se o teu caminho, e o teu atalho pelo meio das muitas águas, sem aparecerem os teus vestígios.
+
+[[v21-76-21]]
+
+^<<v21-76-21,21>>^ Conduziste o teu povo como um rebanho, pela mão de Moisés e de Aarão.
+
+'''
+
+xref:021-salmos/021-salmos-075.adoc#v21-75-0[&#60; Capítulo Anterior] | <<v21-76-0,Topo>> | xref:021-salmos/021-salmos-077.adoc#v21-77-0[Próximo Capítulo &#62;]

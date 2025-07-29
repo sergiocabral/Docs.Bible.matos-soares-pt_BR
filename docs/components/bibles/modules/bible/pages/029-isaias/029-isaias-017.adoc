@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v29-17-0]]
+=== Isaías, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 17 fala sobre a profecia da destruição de Damasco. O capítulo começa com a declaração de que Damasco deixará de ser uma cidade e se tornará um monte de ruínas. Em seguida, o profeta aponta que Israel também será afetado por essa destruição. Os versículos escolhidos são:
+* Amós 1:3-4: "Assim diz o Senhor: Por três transgressões de Damasco, e por quatro, não revogarei a sua punição, porque trilharam a Gileade com trilhos de ferro. Por isso, porei fogo à casa de Hazael, o qual consumirá os palácios de Ben-Hadade." Esses versículos mostram que a destruição de Damasco era uma punição divina pelo mal que a cidade havia cometido, como invadir a Gileade e subjugar seu povo.
+* Jeremias 49:23-24: "Sobre Damasco. Envergonhada está Hamate e Arpade, porque ouviram más notícias; estão desalentadas. O mar está agitado, não se pode sossegar. Damasco desmaiou, voltou-se para fugir, e o tremor a tomou; angústias e dores se apoderaram dela, como da mulher que está de parto." Esses versículos descrevem a angústia que tomou conta de Damasco quando soube da sua iminente destruição.
+* Salmos 83:3-4: "Tramam astutamente contra o teu povo, e conspiram contra os teus protegidos. Dizem: Vinde, e desarraiguemo-los para que não sejam nação, e não haja mais memória do nome de Israel." Esses versículos mostram que os inimigos de Israel, como a Síria, estavam conspirando para destruir a nação.
+* Isaías 7:8: "Porque a cabeça da Síria é Damasco, e a cabeça de Damasco é Rezim (e dentro de sessenta e cinco anos Efraim será quebrantado, para que não seja mais povo)." Esse versículo faz uma referência à aliança entre a Síria e Israel, que era uma ameaça para Judá na época de Isaías.
+* 2 Reis 16:9: "E o rei da Assíria lhe deu ouvidos; e subiu o rei da Assíria contra Damasco, e tomou-a, levando cativo o povo para Quir, e matando a Rezim." Esse versículo relata como o rei da Assíria conquistou Damasco e levou seu povo cativo para Quir, cumprindo assim a profecia de Isaías.
+****
+
+[[v29-17-1]]
+
+^<<v29-17-1,1>>^ Oráculo contra Damasco. Eis que Damasco deixará de ser cidade, será apenas um montão de ruínas.
+
+[[v29-17-2]]
+
+^<<v29-17-2,2>>^ As cidades de Aroer serão abandonadas aos rebanhos, e estes repousarão ali, e não haverá quem os espante.
+
+[[v29-17-3]]
+
+^<<v29-17-3,3>>^ Será tirado todo o auxílio a Efraim, e a realeza a Damasco; os restos da Síria serão como a glória dos filhos de Israel, diz o Senhor dos exércitos.
+
+[[v29-17-4]]
+
+^<<v29-17-4,4>>^ Naquele dia ficará atenuada a glória de Jacob, e a gordura da sua carne desaparecerá.
+
+[[v29-17-5]]
+
+^<<v29-17-5,5>>^ Será como quando o segador, na ceifa, junta o que ficou por segar, e com a mão colhe as espigas; será como quando se respiga no vale de Rafaim.
+
+[[v29-17-6]]
+
+^<<v29-17-6,6>>^ Restará um rabisco, como quando se vareja uma oliveira, da qual sòmente ficam, nas pontas altas, duas ou três azeitonas, ou quatro ou cinco nos ramos frutíferos, diz o Senhor Deus de Israel.
+
+[[v29-17-7]]
+
+^<<v29-17-7,7>>^ Naquele dia voltará o homem os olhos para o seu Criador, seus olhos contemplarão o santo de Israel.
+
+[[v29-17-8]]
+
+^<<v29-17-8,8>>^ Não olhará mais para os altares que tinham feito as suas mãos, não contemplará mais as obras que os seus dedos fabricaram, os ascherás e as imagens do Sol.
+
+[[v29-17-9]]
+
+^<<v29-17-9,9>>^ Naquele dia as tuas cidades fortes serão abandonadas como as cidades desertas dos Amorreus e Heveus, que foram abandonadas à chegada dos filhos de Israel, ficarão sem habitantes
+
+[[v29-17-10]]
+
+^<<v29-17-10,10>>^ porque te esqueceste de Deus, teu Salvador, não te lembraste do teu poderoso defensor! Poderás fazer plantações de delícias e semear grão estrangeiro;
+
+[[v29-17-11]]
+
+^<<v29-17-11,11>>^ no dia da plantação, vê-las-ás despontar; uma bela manhã a tua plantação dá flor, mas a colheita é nula, no dia da desgraça, o mal é irremediável.
+
+[[v29-17-12]]
+
+^<<v29-17-12,12>>^ Ah! Ruido de povos numerosos, semelhante ao ruido do mar! Tumulto de multa gente, semelhante ao barulho de impetuosas águas!
+
+[[v29-17-13]]
+
+^<<v29-17-13,13>>^ Os povos bramem, como enormes massas de água; porém (Deus) os ameaça, e eles fugirão para longe, serão dispersos, como o pó dos montes pelo impulso do vento, e como um turbilhão de poeira diante da tempestade.
+
+[[v29-17-14]]
+
+^<<v29-17-14,14>>^ À tarde eis a consternação; antes da manhã, já não existirão. Esta é a paga daqueles que nos destruíram, a sorte dos que nos saqueiam.
+
+'''
+
+xref:029-isaias/029-isaias-016.adoc#v29-16-0[&#60; Capítulo Anterior] | <<v29-17-0,Topo>> | xref:029-isaias/029-isaias-018.adoc#v29-18-0[Próximo Capítulo &#62;]

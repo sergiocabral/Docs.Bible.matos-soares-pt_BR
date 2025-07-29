@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v30-40-0]]
+=== Jeremias, 40
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 40 descreve como o governador da Babilônia, Nabuzaradã, designa Gedalias como governador de Judá após a queda de Jerusalém. Gedalias convida os judeus que haviam fugido para se juntarem a ele em Mizpá, mas um dos líderes, Ismael, conspira contra ele e o mata, levando os habitantes de Mizpá como prisioneiros. Seguem abaixo cinco versículos relacionados com os temas abordados em Jeremias 40:
+* 2 Reis 25:22-24: "Então o rei da Babilônia nomeou Gedalias, filho de Aicam, filho de Safã, governador sobre a terra, e confiou-lhe os homens, mulheres e crianças do povo que não haviam sido levados para o exílio na Babilônia. Gedalias jurou perante eles que iria protegê-los e incentivou-os a trabalhar na terra e a obedecer aos caldeus que haviam sido deixados para administrar a região." Este versículo descreve a nomeação de Gedalias como governador por Nabuzaradã.
+* Jeremias 39:14: "Gedalias, filho de Aicam, neto de Safã, veio a eles e lhes jurou que não precisavam ter medo dos caldeus que haviam ficado na Babilônia, mas que deveriam se submeter a eles e viver em paz na terra." Este versículo mostra como Gedalias tenta tranquilizar os judeus que haviam fugido e os convida para se juntarem a ele em Mizpá.
+* Jeremias 40:7: "Ouvindo todos os comandantes do exército que estavam no campo, eles e os seus homens, que o rei da Babilônia havia nomeado Gedalias, filho de Aicam, governador do país, e que havia confiado a ele homens, mulheres e crianças, dos mais pobres da terra que não haviam sido levados para o exílio na Babilônia," Este versículo mostra como Gedalias é reconhecido como governador pelos líderes do exército.
+* Jeremias 41:2: "Ismael, filho de Netanias, e os dez homens que estavam com ele levantaram-se e atacaram Gedalias, filho de Aicam, neto de Safã, matando-o com a espada, juntamente com os caldeus que estavam com ele em Mizpá." Esse versículo descreve o assassinato de Gedalias por Ismael.
+* Jeremias 41:10: "Então todo o povo, desde o menor até o maior, e os comandantes do exército, fugiram e foram para o Egito, com medo dos caldeus." Este versículo mostra como os judeus fogem para o Egito após o assassinato de Gedalias, temendo a represália dos babilônios.
+****
+
+[[v30-40-1]]
+
+^<<v30-40-1,1>>^ Palavra que foi dirigida pelo Senhor a Jeremias, depois que Nabuzardan, chefe da guarda, o mandou livre de Rama, onde ele estava carregado de cadeias, no meio de todos os cativos que fazia sair de Jerusalém e de Judá, para serem levados a Babilônia. (ver nota)
+
+[[v30-40-2]]
+
+^<<v30-40-2,2>>^ O chefe da guarda, tomando de parte a Jeremias disse-lhe: O Senhor teu Deus anunciou esta calamidade contra este lugar
+
+[[v30-40-3]]
+
+^<<v30-40-3,3>>^ e trouxe-lha. O Senhor executou o que tinha dito. Vós pecastes contra o Senhor, não ouvistes a sua voz: por isso vos atingiu esta desgraça.
+
+[[v30-40-4]]
+
+^<<v30-40-4,4>>^ Agora, eis que te tirei as cadeias que tinhas nas tuas mãos; se queres vir comigo a Babilônia, vem, que porei os meus olhos em ti; mas, se te desagrada vir comigo a Babilônia, fica. Eis aí está toda a terra à tua vista; para o lugar que escolheres, para onde quiseres ir, vai.
+
+[[v30-40-5]]
+
+^<<v30-40-5,5>>^ Podes, pois, (se preferes ficar) viver com Godolias, filho de Aicão, filho de Safan, a quem o rei de Babilônia constituiu governador das cidades de Judá, e (assim) habitar com ele no meio do povo; ou então vai para qualquer parte que mais te agradar. Deu-lhe também o chefe da guarda mantimentos e presentes e deixou-o ir.
+
+[[v30-40-6]]
+
+^<<v30-40-6,6>>^ Jeremias foi para casa de Godolias, filho de Aicão, em Masfa, e habitou com ele no meio do povo que tinha ficado no país.
+
+[[v30-40-7]]
+
+^<<v30-40-7,7>>^ Quando todos os principais do exército, que estavam dispersos pelas províncias, souberam, eles e os seus companheiros, que o rei da Babilônia tinha posto por governador do país a Godolias, filho de Aicão, e que lhe tinha confiado os homens, as mulheres, as crianças e os pobres da terra, que não tinham sido levados a Babilônia,
+
+[[v30-40-8]]
+
+^<<v30-40-8,8>>^ foram ter com Godolias a Masfa. (Os que foram a Masfa, eram): Ismael, filho de Natanias, Joanan e Jonatan, filhos de Carée, Saraias, filho de Taneumet, e os filhos de Ofi, (naturais) de Netofa, e Jezonias, filho de Maacati, eles e as suas gentes.
+
+[[v30-40-9]]
+
+^<<v30-40-9,9>>^ Godolias, filho de Aicão, filho de Safan, assegurou-lhes, sob juramento a eles e aos seus companheiros: Não temais servir os Caldeus, habitai na terra e servi o rei de Babilônia, que passareis bem.
+
+[[v30-40-10]]
+
+^<<v30-40-10,10>>^ Eu habito em Masfa para executar as ordens dos Caldeus que nos forem enviadas. Quanto a vós, fazei a colheita do vinho, dos frutos e do azeite, armazenai-os, e conservai-vos nas cidades que ocupais.
+
+[[v30-40-11]]
+
+^<<v30-40-11,11>>^ Do mesmo modo, todos os Judeus que estavam em Moab, entre os filhos de Amon, na Idumeia e em todas as demais regiões, quando ouviram que o rei de Babilônia tinha deixado os restantes na Judeia e constituído por governador a Godolias, filho de Aicão, filho de Safan,
+
+[[v30-40-12]]
+
+^<<v30-40-12,12>>^ todos estes judeus (digo) voltaram de todos os lugares, por onde se encontraram dispersos, vieram para a terra de Judá, para junto de Godolias, (que estava) em Masfa. Aí colheram vinho e trigo em grandíssima quantidade.
+
+[[v30-40-13]]
+
+^<<v30-40-13,13>>^ Joanan, filho de Carée e todos os chefes do exército, que estavam dispersos pelas províncias, foram ter com Godolias, a Masfa
+
+[[v30-40-14]]
+
+^<<v30-40-14,14>>^ e disseram-lhe: Sabes que Baalis, rei dos filhos de Amon, mandou Ismael, filho de Natanias, para te tirar a vida? Mas Godolias, filho de Aicão, não lhes deu crédito.
+
+[[v30-40-15]]
+
+^<<v30-40-15,15>>^ Joanan, filho de Carée, falou em segredo com Godolias em Masfa, dizendo: Irei e matarei Ismael, filho de Natanias, sem que ninguém o saiba, para evitar que ele te tire a vida, que sejam dispersos todos os Judeus que se acolheram a ti e pereçam os restos de Judá.
+
+[[v30-40-16]]
+
+^<<v30-40-16,16>>^ Porém Godolias, filho de Aicão, disse a Joanan, filho de Carée: Não faças tal coisa, porque o que dizes de Ismael é falso.
+
+'''
+
+xref:030-jeremias/030-jeremias-039.adoc#v30-39-0[&#60; Capítulo Anterior] | <<v30-40-0,Topo>> | xref:030-jeremias/030-jeremias-041.adoc#v30-41-0[Próximo Capítulo &#62;]

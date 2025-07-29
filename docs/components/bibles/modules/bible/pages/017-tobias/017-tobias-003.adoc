@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v17-3-0]]
+=== Tobias, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de Tobias relata a oração de Sara, filha de Raguel, que se encontrava aflita por causa de um demônio que a perseguia e aterrorizava, fazendo com que ela desejasse a morte. Tobias, um parente de Sara, é enviado para curá-la e acabar com o mal que a assombrava. Abaixo estão cinco versículos relacionados com os temas abordados em Tobias 3:
+* Tobias 6:16: "Então, Rafael chamou os dois e lhes disse: 'Bendizei a Deus e proclamai diante de todos os viventes as boas obras que ele fez por vós, dando-lhe graças em alta voz". Este versículo destaca a importância de agradecer a Deus por suas bênçãos, algo que é feito durante toda a oração de Sara.
+* 2 Coríntios 12:7: "E para que não me ensoberbecesse com a grandeza das revelações, foi-me posto um espinho na carne, um mensageiro de Satanás, para me esbofetear, a fim de que não me exalte demais". Esse versículo fala sobre o apóstolo Paulo, que também enfrentou um mensageiro de Satanás, como Sara, e como ele orou para que Deus o ajudasse.
+* Tiago 4:7: "Sujeitai-vos, pois, a Deus; mas resisti ao diabo, e ele fugirá de vós". Esse versículo encoraja os cristãos a resistirem ao diabo e a confiarem em Deus para ajudá-los a superar suas tentações e provações.
+* 1 Pedro 5:8-9: "Sede sóbrios e vigilantes, porque o diabo, vosso adversário, anda em derredor, bramando como leão, buscando a quem possa tragar; ao qual resisti firmes na fé, sabendo que as mesmas aflições se cumprem entre os vossos irmãos no mundo". Este versículo fala sobre a necessidade de estar alerta e resistir ao diabo, pois ele está sempre à procura de alguém para tentar.
+* Efésios 6:12: "Porque não temos que lutar contra a carne e o sangue, mas, sim, contra os principados, contra as potestades, contra os príncipes das trevas deste século, contra as hostes espirituais da maldade, nos lugares celestiais". Este versículo fala sobre a natureza espiritual da batalha que os cristãos enfrentam, e como eles devem estar equipados com as armaduras de Deus para resistir às investidas do diabo.
+****
+
+[[v17-3-1]]
+
+^<<v17-3-1,1>>^ Então Tobias deu um suspiro e começou a orar com lágrimas,
+
+[[v17-3-2]]
+
+^<<v17-3-2,2>>^ dizendo: Tu és justo, Senhor, todos os teus juízos são justos, todos os teus caminhos são misericórdia, verdade e justiça.
+
+[[v17-3-3]]
+
+^<<v17-3-3,3>>^ Agora, pois, Senhor, lembra-te de mim, não tomes vingança dos meus pecados, não te lembres dos meus delitos nem dos de meus pais.
+
+[[v17-3-4]]
+
+^<<v17-3-4,4>>^ Porque não obedecemos aos teus preceitos, por isso fomos entregues ao saque, ao cativeiro e à morte, e tornamo-nos objecto de riso e opróbrio para todas as nações, por entre as quais nos espaIhaste.
+
+[[v17-3-5]]
+
+^<<v17-3-5,5>>^ Agora, Senhor, os teus castigos são grandes, porque nós não procedemos segundo os teus preceitos, não andámos sinceramente na tua presença.
+
+[[v17-3-6]]
+
+^<<v17-3-6,6>>^ Senhor, trata-me segundo a tua vontade, mas manda que o meu espírito seja recebido em paz, porque é melhor para mim morrer do que viver.
+
+[[v17-3-7]]
+
+^<<v17-3-7,7>>^ Naquele mesmo dia aconteceu que Sara, filha de Raguel, que estava em Ecbatana, cidade dos Medos, ouviu-se ultrajar por uma das criadas de seu pai,
+
+[[v17-3-8]]
+
+^<<v17-3-8,8>>^ porque tinha sido casada com sete maridos, e um demônio chamado Asmodeu os tinha morto, quando eles se aproximavam dela.
+
+[[v17-3-9]]
+
+^<<v17-3-9,9>>^ Tendo Sara repreendido a criada por uma falta qualquer, ela respondeu-lhe: Não vejamos nós jamais sobre a terra filho nem filha nascida de ti, ó assassina dos teus maridos!
+
+[[v17-3-10]]
+
+^<<v17-3-10,10>>^ Porventura queres tu também matar-me a mim, como já mataste sete maridos? A estas palavras subiu Sara ao quarto mais alto da sua casa e durante três dias e três noites não comeu nem bebeu.
+
+[[v17-3-11]]
+
+^<<v17-3-11,11>>^ Perseverando em oração, pedia a Deus com lágrimas, que a livrasse deste opróbrio.
+
+[[v17-3-12]]
+
+^<<v17-3-12,12>>^ Ao terceiro dia, acabou a oração bendizendo o Senhor, assim:
+
+[[v17-3-13]]
+
+^<<v17-3-13,13>>^ Bendito é o teu nome, ó Deus de nossos pais, que, depois de te irares, usas de misericórdia, e no tempo da aflição perdoas os pecados aos que te invocam.
+
+[[v17-3-14]]
+
+^<<v17-3-14,14>>^ Para ti, Senhor, volto a minha face, para ti dirijo os meus olhos.
+
+[[v17-3-15]]
+
+^<<v17-3-15,15>>^ Peço-te, Senhor, que me livres do laço desta ignomínia, ou que, ao menos, me tires do cimo da terra.
+
+[[v17-3-16]]
+
+^<<v17-3-16,16>>^ Tu sabes, Senhor, que eu nunca desejei (ilicitamente) nenhum homem, que conservei a minha alma pura de toda a concupiscência.
+
+[[v17-3-17]]
+
+^<<v17-3-17,17>>^ Nunca acompanhei com gente licenciosa, nem tive comércio com os que se portam com leviandade.
+
+[[v17-3-18]]
+
+^<<v17-3-18,18>>^ Consenti em tomar marido por teu temor, e não por paixão.
+
+[[v17-3-19]]
+
+^<<v17-3-19,19>>^ Ou eu fui indigna deles, ou porventura eles não foram dignos de mim; talvez me tenhas reservado para outro marido (da minha mesma tribo de Neftali).
+
+[[v17-3-20]]
+
+^<<v17-3-20,20>>^ Não está ao alcance dos homens (perscrutar) os teus desígnios.
+
+[[v17-3-21]]
+
+^<<v17-3-21,21>>^ Todavia todo o que te rende culto tem por certo que a sua vida, se for provada, será coroada; se for atribulada, será livre; se for castigada, poderá acolher-se à tua misericórdia.
+
+[[v17-3-22]]
+
+^<<v17-3-22,22>>^ Com efeito, tu não te deleitas com a nossa perdição: depois da tormenta, dás a bonança, depois das lágrimas e suspiros, infundes a alegria.
+
+[[v17-3-23]]
+
+^<<v17-3-23,23>>^ Seja o teu nome, ó Deus de Israel, bendito pelos séculos.
+
+[[v17-3-24]]
+
+^<<v17-3-24,24>>^ Foram ouvidas, ao mesmo tempo, as orações de ambos, diante da majestade do sumo Deus.
+
+[[v17-3-25]]
+
+^<<v17-3-25,25>>^ Rafael, santo anjo do Senhor, foi enviado para curar Tobias e Sara, cujas orações tinham sido apresentadas simultaneamente diante do Senhor.
+
+'''
+
+xref:017-tobias/017-tobias-002.adoc#v17-2-0[&#60; Capítulo Anterior] | <<v17-3-0,Topo>> | xref:017-tobias/017-tobias-004.adoc#v17-4-0[Próximo Capítulo &#62;]

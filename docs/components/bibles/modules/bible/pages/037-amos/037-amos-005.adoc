@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v37-5-0]]
+=== Amós, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 5 de Amós fala sobre a condenação do povo de Israel por sua hipocrisia e injustiça. O profeta chama o povo ao arrependimento e à busca da justiça. Abaixo estão cinco versículos relacionados com os temas abordados em Amós 5.
+* Isaías 1:17: "Aprendam a fazer o bem; busquem a justiça, acabem com a opressão. Defendam o direito do órfão e protejam a causa da viúva." Este versículo fala sobre a importância da busca pela justiça e da proteção dos mais vulneráveis, temas abordados em Amós 5.
+* Jeremias 22:3: "Assim diz o Senhor: Pratiquem a justiça e a retidão; livrem das mãos do opressor aquele que foi roubado. Não maltratem nem façam violência ao estrangeiro, ao órfão ou à viúva; não derramem sangue inocente neste lugar." Este versículo também fala sobre a busca pela justiça e proteção dos mais vulneráveis.
+* Provérbios 21:3: "Praticar a justiça e a retidão é mais aceitável ao Senhor do que oferecer sacrifícios." Este versículo enfatiza que a busca pela justiça é mais importante do que rituais religiosos, tema abordado em Amós 5.
+* Isaías 58:6: "Este não é o jejum que escolhi: que vocês soltem as correntes da injustiça, desfaçam as cordas do jugo, ponham em liberdade os oprimidos e rompam todo jugo?" Este versículo destaca que o verdadeiro jejum deve ser acompanhado pela prática da justiça e libertação dos oprimidos.
+* Salmos 106:3: "Felizes os que agem com retidão em todos os tempos." Este versículo enfatiza a importância da retidão e da justiça em todas as circunstâncias, tema abordado em Amós 5.
+****
+
+[[v37-5-1]]
+
+^<<v37-5-1,1>>^ Ouvi esta palavra, que é a lamentação que faço sobre vós, ó casa de Israel! Ela caiu e não tornará mais a levantar-se,
+
+[[v37-5-2]]
+
+^<<v37-5-2,2>>^ a virgem de Israel! Está deitada sobre a sua ferra, e ninguém a levanta.
+
+[[v37-5-3]]
+
+^<<v37-5-3,3>>^ Porque isto diz o Senhor Deus: A cidade que punha em pé de guerra mil homens, ficará reduzida a cem; e aquela que punha cem, ficará reduzida a dez; (isto sucederá) na casa de Israel.
+
+[[v37-5-4]]
+
+^<<v37-5-4,4>>^ Porquanto isto diz o Senhor à casa de Israel: Buscai-me e vivereis.
+
+[[v37-5-5]]
+
+^<<v37-5-5,5>>^ Não busqueis a Betei, nem entreis em Gálgala, nem passeis por Bersabé, porque Gálgala será levada cativa, e Betel ficará reduzida a nada.
+
+[[v37-5-6]]
+
+^<<v37-5-6,6>>^ Buscai o Senhor e vivereis, não suceda que venha sobre a casa de José, como um fogo, e a abrase, sem haver em Betei quem o apague.
+
+[[v37-5-7]]
+
+^<<v37-5-7,7>>^ Convertem o direito em absinto, e abandonam a justiça na terra!
+
+[[v37-5-8]]
+
+^<<v37-5-8,8>>^ Aquele que criou as Plêiades e o Orião, que transforma as trevas em luz da aurora e muda o dia em noite, que chama as águas do mar e as derrama sobre a face da terra, o seu nome é: O Senhor.
+
+[[v37-5-9]]
+
+^<<v37-5-9,9>>^ Ele derriba os fortes e atira a ruína sobre a fortaleza.
+
+[[v37-5-10]]
+
+^<<v37-5-10,10>>^ Eles aborrecem o que repreende à porta (da cidade, nos julgamentos), abominam o que fala com integridade.
+
+[[v37-5-11]]
+
+^<<v37-5-11,11>>^ Portanto, já que esmagais o pobre e lhe impondes tributos de trigo, não habitareis nas casas de pedra de silharia, que edificastes; das excelentes vinhas que plantastes, não bebereis o vinho.
+
+[[v37-5-12]]
+
+^<<v37-5-12,12>>^ Porque eu conheço as vossas muitas maldades e os vossos graves pecados; sois inimigos do justo, aceitais dádivas e oprimis os pobres à porta (da cidade, nos julgamentos).
+
+[[v37-5-13]]
+
+^<<v37-5-13,13>>^ Por isso o prudente se cala neste tempo, porque é tempo mau.
+
+[[v37-5-14]]
+
+^<<v37-5-14,14>>^ Buscai o bem, e não o mal, para que vivais e o Senhor Deus dos exércitos estará convosco, como vós dizeis (que está).
+
+[[v37-5-15]]
+
+^<<v37-5-15,15>>^ Aborrecei o mal, amai o bem, fazei reinar a justiça na porta (da cidade, nos julgamentos); então, talvez o Senhor Deus dos exércitos se compadecerá dos restos de José.
+
+[[v37-5-16]]
+
+^<<v37-5-16,16>>^ Por cuja causa isto diz Iavé, o Senhor Deus dos exércitos: Por todas as praças soarão gritos: em todas as ruas se ouvirá dizer: Ai, ai! Serão convidados para este luto os lavradores, e para este pranto os que sabem carpir.
+
+[[v37-5-17]]
+
+^<<v37-5-17,17>>^ Em todas as vinhas haverá pranto, porque eu hei-de passar pelo meio de ti, diz o Senhor.
+
+[[v37-5-18]]
+
+^<<v37-5-18,18>>^ Ai dos que desejam o dia do Senhor! Que será o dia do de vós? O dia do Senhor é um dia de trevas e não de luz.
+
+[[v37-5-19]]
+
+^<<v37-5-19,19>>^ Como se um homem fugisse dum leão e lhe saísse ao encontro um urso, ou como se, tendo entrado em casa e segurando-se com a sua mão à parede, o mordesse uma cobra (assim sereis vós perante o inevitável castigo de Deus).
+
+[[v37-5-20]]
+
+^<<v37-5-20,20>>^ Que será, pois, o dia do Senhor senão trevas, e não claridade, escuridão, e não luz?
+
+[[v37-5-21]]
+
+^<<v37-5-21,21>>^ Eu aborreço e rejeito as vossas festas; não sinto gosto nos vossos ajuntamentos.
+
+[[v37-5-22]]
+
+^<<v37-5-22,22>>^ Se me ofereceis os vossos holocaustos e os vossos presentes, não os aceito; não ponho os olhos nas vítimas gordas, que me ofereceis nos vossos sacrifícios pacíficos.
+
+[[v37-5-23]]
+
+^<<v37-5-23,23>>^ Aparta de mim o ruído dos teus cânticos; não quero ouvir a música das tuas harpas.
+
+[[v37-5-24]]
+
+^<<v37-5-24,24>>^ Antes (o que quero é que) corra o direito como água (abundante) e a justiça como torrente que não seca.
+
+[[v37-5-25]]
+
+^<<v37-5-25,25>>^ Porventura, ó casa de Israel, oferecestes-me vós sacrifícios e oblações no deserto, onde estivestes quarenta anos?
+
+[[v37-5-26]]
+
+^<<v37-5-26,26>>^ Vós sim, levastes o tabernáculo de Sakut, vosso rei, e Kevan, vosso ídolo, a estrela do vosso deus (Saturno), coisas que fizestes por vossas mãos.
+
+[[v37-5-27]]
+
+^<<v37-5-27,27>>^ Eu vos deportarei para além de Damasco (para a Assíria), diz o Senhor, cujo nome é Deus dos exércitos.
+
+'''
+
+xref:037-amos/037-amos-004.adoc#v37-4-0[&#60; Capítulo Anterior] | <<v37-5-0,Topo>> | xref:037-amos/037-amos-006.adoc#v37-6-0[Próximo Capítulo &#62;]

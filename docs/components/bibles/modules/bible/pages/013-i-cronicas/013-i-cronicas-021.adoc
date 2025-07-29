@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v13-21-0]]
+=== I Crônicas, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 21 relata como Davi, incentivado por Satanás, ordenou um recenseamento de Israel, desafiando a lei de Deus e desafiando a sua confiança em Deus. Como resultado, Deus enviou um anjo para punir o povo de Israel com uma praga. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Crônicas 21:
+* Êxodo 30:12: "Quando fizeres o recenseamento dos filhos de Israel, cada um deles dará ao Senhor o resgate da sua vida quando for contado; para que não haja praga entre eles, quando os contares." Este versículo destaca a importância de seguir as leis de Deus, inclusive na realização de recenseamentos, a fim de evitar a ira divina.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; em todos os seus caminhos reconheça a ele, e ele endireitará as suas veredas." Este versículo destaca a importância da confiança em Deus e na obediência a ele em todas as circunstâncias.
+* Salmos 106:29-30: "Provocaram-no com os seus feitos; e uma praga irrompeu entre eles. Então Fineias se levantou e intercedeu, e cessou a praga." Este versículo destaca como a desobediência às leis de Deus pode resultar em uma praga, mas a intercessão pode trazer alívio.
+* 2 Samuel 24:10: "Mas, depois de ter contado o povo, Davi sentiu remorsos e disse ao Senhor: 'Eu pequei muito ao fazer isso. Agora, Senhor, apaga a culpa do teu servo, pois agi muito tolo.'" Este versículo mostra que, mesmo quando tomamos decisões erradas, ainda podemos pedir perdão a Deus e buscar sua misericórdia.
+* Tiago 4:7-8: "Portanto, submetam-se a Deus. Resistam ao diabo, e ele fugirá de vocês. Aproximem-se de Deus, e ele se aproximará de vocês. Pecadores, limpem as mãos, e vocês, que têm a mente dividida, purifiquem o coração." Este versículo destaca a importância da submissão a Deus, resistência ao diabo e busca pela pureza do coração.
+****
+
+[[v13-21-1]]
+
+^<<v13-21-1,1>>^ Levantou-se, pois, Satanás contra Israel, e incitou Davide a fazer o recenseamento de Israel.
+
+[[v13-21-2]]
+
+^<<v13-21-2,2>>^ Davide disse a Joab e aos principais do povo: Ide, contai Israel desde Bersabé até Dan, e trazei-me o número, para eu o saber.
+
+[[v13-21-3]]
+
+^<<v13-21-3,3>>^ Joab respondeu: O Senhor multiplique o seu povo cem vezes mais do que ele é. Porventura, ó rei, meu senhor, não são todos servos teus? Por que procura o meu senhor fazer uma coisa que será imputada como pecado a Israel?
+
+[[v13-21-4]]
+
+^<<v13-21-4,4>>^ Contudo preveleceu a ordem do rei. Joab partiu, andou girando por todo o Israel e voltou para Jerusalém.
+
+[[v13-21-5]]
+
+^<<v13-21-5,5>>^ Deu a Davide a lista daqueles que tinha recenseado: o número total de Israel era de um milhão e cem mil homens capazes de tomar armas; o de Judá era de quatrocentos e setenta mil homens de guerra.
+
+[[v13-21-6]]
+
+^<<v13-21-6,6>>^ Joab não contou os da tribo de Levi, nem os da tribo de Benjamim, porque lhe repugnava a ordem do rei.
+
+[[v13-21-7]]
+
+^<<v13-21-7,7>>^ Esta ordem desagradou a Deus, o qual feriu Israel.
+
+[[v13-21-8]]
+
+^<<v13-21-8,8>>^ Davide disse a Deus: Eu cometi um grande pecado em fazer isto, peço-te que perdoes a culpa ao teu servo, porque procedi nèsciamente.
+
+[[v13-21-9]]
+
+^<<v13-21-9,9>>^ O Senhor falou a Gad, vidente de Davide, dizendo:
+
+[[v13-21-10]]
+
+^<<v13-21-10,10>>^ Vai, fala a Davide e dize-lhe: Eis o que diz o Senhor: Eu te dou três coisas à escolha; escolhe uma qual quiseres, e eu ta farei.
+
+[[v13-21-11]]
+
+^<<v13-21-11,11>>^ Tendo ido Gad à presença de Davide, disse-lhe: Eis o que diz o Senhor: Escolhe o que quiseres:
+
+[[v13-21-12]]
+
+^<<v13-21-12,12>>^ ou sofrer a fome durante três anos, ou fugir diante dos teus inimigos durante três meses, sem poderes escapar da sua espada, ou estar debaixo da espada do Senhor durante três dias, grassando a peste pelo país, e fazendo estragos o anjo do Senhor em todas as terras de Israel. Vê, pois, agora que hei-de responder a quem me enviou.
+
+[[v13-21-13]]
+
+^<<v13-21-13,13>>^ Davide respondeu a Gad: De toda a parte me vejo em grandes angústias, mas para mim é melhor cair nas mãos do Senhor, porque é de muita misericórdia, do que cair nas mãos dos homens.
+
+[[v13-21-14]]
+
+^<<v13-21-14,14>>^ Mandou, pois o Senhor a peste a Israel, e morreram de Israel setenta mil homens.
+
+[[v13-21-15]]
+
+^<<v13-21-15,15>>^ Mandou também um anjo a Jerusalém, para a assolar; porém quando estava a ser assolada, o Senhor olhou e compadeceu-se dum mal tão grande, e mandou ao anjo exterminador: Basta, retira já a tua mão. O anjo do Senhor estava perto da eira de Ornan Jebuseu.
+
+[[v13-21-16]]
+
+^<<v13-21-16,16>>^ Davide, levantando os olhos, viu o anjo do Senhor, que estava entre o céu e a terra, com um a espada desembainhada na sua mão, voltada contra Jerusalém; (à sua vista), tanto ele como os seus anciães, cobertos de cilícios, prostraram-se com os rostos por terra.
+
+[[v13-21-17]]
+
+^<<v13-21-17,17>>^ Davide disse a Deus: Porventura não sou eu quem mandou fazer o recenseamento do povo? Fui eu que pequei, eu o que fiz o mal; mas este rebanho, que mereceu ele? Volte-se, pois, te peço, Senhor meu Deus, a tua mão contra mim e contra a casa de meu pai, mas que o teu povo não seja castigado.
+
+[[v13-21-18]]
+
+^<<v13-21-18,18>>^ O anjo do Senhor mandou a Gad que dissesse a Davide que fosse e que levantasse um altar ao Senhor Deus na eira de Ornan Jebuseu.
+
+[[v13-21-19]]
+
+^<<v13-21-19,19>>^ Foi, pois, Davide, conforme a ordem que Gad lhe tinha intimado da parte do Senhor.
+
+[[v13-21-20]]
+
+^<<v13-21-20,20>>^ Ornan e quatro filhos seus, que com ele estavam, tendo levantado os olhos e visto o anjo, esconderam-se; naquela ocasião estavam debulhando trigo na eira.
+
+[[v13-21-21]]
+
+^<<v13-21-21,21>>^ Quando Davide se dirigia para Ornan, viu-o Ornan, e, saindo da sua eira ao seu encontro, fez-lhe uma profunda reverência, prostrando-se por terra.
+
+[[v13-21-22]]
+
+^<<v13-21-22,22>>^ Davide disse-lhe: cede-me o sítio da tua eira, para eu edificar nele um altar ao Senhor; cede-me pelo dinheiro que valer para que cesse a praga de cima do povo.
+
+[[v13-21-23]]
+
+^<<v13-21-23,23>>^ Ornan respondeu a Davide: Toma-a, e o rei senhor faça dela o que for do seu agrado; eu darei também os bois para o holocausto, os trilhos para lenha, e trigo para o sacrifício; darei tudo de boa vontade.
+
+[[v13-21-24]]
+
+^<<v13-21-24,24>>^ O rei Davide disse-lhe: Não se fará assim, mas eu te hei-de dar o dinheiro que ela vale, porque eu não devo tirar-te o que é teu, e oferecer assim ao Senhor holocaustos que não me custam nada.
+
+[[v13-21-25]]
+
+^<<v13-21-25,25>>^ Deu, pois, Davide a Ornan, pelo terreno, seiscentos siclos de ouro de justo peso.
+
+[[v13-21-26]]
+
+^<<v13-21-26,26>>^ Levantou ali um altar ao Senhor, ofereceu holocaustos e hóstias pacíficas e invocou o Senhor, e ele o ouviu, mandando do céu fogo sobre o altar do holocausto.
+
+[[v13-21-27]]
+
+^<<v13-21-27,27>>^ Então o Senhor mandou ao anjo, e ele meteu a sua espada na bainha.
+
+[[v13-21-28]]
+
+^<<v13-21-28,28>>^ Imediatamente Davide, vendo que o Senhor o tinha ouvido na eira de Ornan Jebuseu, imolou ali vítimas.
+
+[[v13-21-29]]
+
+^<<v13-21-29,29>>^ O tabernáculo do Senhor, que Moisés tinha feito no deserto, e o altar dos holocaustos, estavam então no alto de Gabaon.
+
+[[v13-21-30]]
+
+^<<v13-21-30,30>>^ Davide não teve força para ir até ao altar, para ali fazer oração a Deus, porque tinha ficado em extremo aterrado de espanto, ao ver a espada do anjo do Senhor.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-020.adoc#v13-20-0[&#60; Capítulo Anterior] | <<v13-21-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-022.adoc#v13-22-0[Próximo Capítulo &#62;]

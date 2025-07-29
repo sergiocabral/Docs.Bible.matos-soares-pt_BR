@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v19-7-0]]
+=== Ester, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ester 7 narra o momento culminante da história de Ester, quando ela revela a conspiração de Hamã para matar seu povo ao rei Assuero e consegue salvar a si mesma e aos judeus da Pérsia da destruição. Os versículos relacionados com os temas abordados em Ester 7 são:
+* Provérbios 26:27: "O que faz uma cova, nela cairá; e a pedra voltará sobre quem a revolve." Este versículo fala sobre como as más ações de uma pessoa podem se voltar contra ela, o que é exatamente o que acontece com Hamã quando seu plano maligno é revelado e ele é executado na própria forca que havia preparado para Mardoqueu.
+* Salmos 7:15-16: "Ele fez uma cova e a cavou, mas caiu na cova que preparou. A sua violência voltará sobre a sua própria cabeça, e sobre a sua própria fronte descerá a sua maldade." Este versículo também retrata a ideia de que aqueles que planejam o mal acabarão sofrendo as consequências de suas ações.
+* Eclesiastes 10:8: "O que abrir uma cova, nela cairá; e o que romper o muro, uma serpente o morderá." Este versículo tem uma mensagem semelhante aos dois anteriores, que é a de que aqueles que planejam o mal acabarão sofrendo as consequências de suas ações.
+* Provérbios 28:18: "O que anda sinceramente será salvo, mas o perverso em seus caminhos cairá logo." Este versículo destaca a importância de agir com sinceridade e honestidade, o que é exemplificado por Ester em contraste com a maldade e astúcia de Hamã.
+* Provérbios 11:5: "A justiça do sincero endireitará o seu caminho, mas o perverso pela sua perversidade cairá." Este versículo também enfatiza a importância da justiça e da retidão, que é o que prevalece no final da história de Ester quando Hamã é derrotado e a justiça é feita para o povo judeu.
+****
+
+[[v19-7-1]]
+
+^<<v19-7-1,1>>^ Entraram, pois, o rei e Aman, para o banquete de Ester.
+
+[[v19-7-2]]
+
+^<<v19-7-2,2>>^ Também neste segundo dia o rei, enquanto bebia o vinho, disse-lhe: Que petição é a tua, ó Ester, para que te seja concedida? Que queres que se faça? Ainda que peças metade do meu reino, a terás.
+
+[[v19-7-3]]
+
+^<<v19-7-3,3>>^ Ester respondeu-lhe: Ó rei, se eu achei graça aos teus olhos, se assim te apraz, concede-me a minha vida, pela qual te rogo, e do meu povo, pelo qual intercedo.
+
+[[v19-7-4]]
+
+^<<v19-7-4,4>>^ Eu e o meu povo estamos condenados a ser destroçados, degolados, exterminados. Oxalá fossemos ao menos vendidos como escravos e como escravas; este mal seria suportável, e gemendo me calaria; mas agora temos um inimigo, cuja crueldade recaí sobre o mesmo rei.
+
+[[v19-7-5]]
+
+^<<v19-7-5,5>>^ Respondendo o rei Assuero, disse: Quem é e onde está esse, cujo coração medita tais coisas?
+
+[[v19-7-6]]
+
+^<<v19-7-6,6>>^ Então Ester disse: O nosso inimigo e perseguidor é este perverso Aman. Aman, ouvindo isto, ficou logo aturdido, não podendo suportar os olhares do rei nem da rainha.
+
+[[v19-7-7]]
+
+^<<v19-7-7,7>>^ O rei levantou-se irado, e do lugar do banqueta passou ao jardim do palácio. Aman ficou para rogar à, rainha Ester pela própria vida, porque reconheceu que o rei tinha resolvido a sua ruína.
+
+[[v19-7-8]]
+
+^<<v19-7-8,8>>^ Tendo Assuero voltado do jardim do palácio e entrado na sala do banquete, encontrou Aman que se tinha lançado no leito (ou sofá), em que estava Ester (durante o banquete), e disse: Até, estando eu presente, quer na minha própria casa fazer violência à rainha? Ainda não tinha saído da boca do rei esta palavra, quando logo lhe cobriram a cara (como condenado à morte).
+
+[[v19-7-9]]
+
+^<<v19-7-9,9>>^ Harbona, um dos eunucos que estavam ao serviço ordinário do rei, disse: Sabei (ó rei) que em casa de Aman está, levantado um madeiro, que tem cinqüenta côvados de altura, o qual ele tinha preparado para Mardoqueu, que falou em defesa do rei. O rei disse-lhe: Pendurai-o-nele.
+
+[[v19-7-10]]
+
+^<<v19-7-10,10>>^ Foi, pois, Aman pendurado no patíbulo que ele tinha preparado para Mardoqueu. E a ira do rei aplacou-se.
+
+'''
+
+xref:019-ester/019-ester-006.adoc#v19-6-0[&#60; Capítulo Anterior] | <<v19-7-0,Topo>> | xref:019-ester/019-ester-008.adoc#v19-8-0[Próximo Capítulo &#62;]

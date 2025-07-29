@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v3-18-0]]
+=== Levítico, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 18 trata das proibições sexuais na lei de Deus para o povo de Israel. Os versículos selecionados abaixo tratam de diferentes aspectos dos relacionamentos sexuais proibidos e suas consequências:
+* Deuteronômio 27:20: "Maldito aquele que se deitar com a mulher de seu pai, pois profanou o leito de seu pai." Este versículo condena a relação sexual com a esposa do pai, uma das proibições mencionadas em Levítico 18:8.
+* Provérbios 6:32: "O que comete adultério não tem juízo; destrói a si mesmo." Este versículo adverte sobre a gravidade do adultério, um pecado sexual proibido em Levítico 18:20.
+* I Coríntios 6:9: "Não sabeis que os injustos não herdarão o Reino de Deus? Não vos enganeis: nem impuros, nem idólatras, nem adúlteros, nem efeminados, nem homossexuais." Este versículo menciona alguns dos pecados sexuais proibidos em Levítico 18 e reforça a importância de obedecer a lei de Deus para herdar o Reino de Deus.
+* II Samuel 13:14: "Mas ele não quis ouvir e, sendo mais forte, a violentou e a possuiu." Este versículo descreve o estupro de Tamar por Amnon, um pecado sexual proibido em Levítico 18:25.
+* Romanos 1:26-27: "Por causa disso, os entregou Deus a paixões infames; porque até as mulheres mudaram o modo natural de suas relações íntimas por outro, contrário à natureza; semelhantemente, os homens também, deixando o contato natural da mulher, se inflamaram mutuamente em sua sensualidade, cometendo torpeza, homens com homens, e recebendo em si mesmos a merecida punição do seu erro." Este versículo menciona o pecado da homossexualidade, que é proibido em Levítico 18:22.
+****
+
+[[v3-18-1]]
+
+^<<v3-18-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-18-2]]
+
+^<<v3-18-2,2>>^ Fala aos filhos de Israel, e dize-lhes: Eu sou o Senhor vosso Deus:
+
+[[v3-18-3]]
+
+^<<v3-18-3,3>>^ vós não procediereis conforme os costumes do país do Egipto, em que habitastes, nem vos portareis segundo o costume da terra de Canaan, na qual eu vos hei-de introduzir, nem andareis segundo as suas leis.
+
+[[v3-18-4]]
+
+^<<v3-18-4,4>>^ Praticareis os meus mandamentos, observareis os meus preceitos, andareis neles. Eu Sou o Senhor vosso Deus.
+
+[[v3-18-5]]
+
+^<<v3-18-5,5>>^ Guardai as minhas leis e os meus mandamentos; o homem que os observa, viverá por eles. Eu sou o Senhor.
+
+[[v3-18-6]]
+
+^<<v3-18-6,6>>^ Nenhum homem se aproximará duma mulher, que lhe é próxima por sangue, para descobrir a sua nudez. Eu sou o Senhor.
+
+[[v3-18-7]]
+
+^<<v3-18-7,7>>^ Não descobrirás a nudez de teu pai nem a nudez de tua mãe; ela é tua mãe, não descobrirás a sua nudez.
+
+[[v3-18-8]]
+
+^<<v3-18-8,8>>^ Não descobrirás a nudez da mulher de teu pai, porque é nudez de seu pai.
+
+[[v3-18-9]]
+
+^<<v3-18-9,9>>^ Não descobrirás a nudez de tua irmã, por parte do pai, ou por parte da mãe, tenha ela nascido dentro ou fora de casa.
+
+[[v3-18-10]]
+
+^<<v3-18-10,10>>^ Não descobrirás a nudez da filha de teu filho, nem da filha de tua filha, porque é tua nudez.
+
+[[v3-18-11]]
+
+^<<v3-18-11,11>>^ Não descobrirás a nudez da filha da mulher de teu pai, a qual ela deu à luz a teu: pai, porque é tua irmã.
+
+[[v3-18-12]]
+
+^<<v3-18-12,12>>^ Não descobrirás a nudez da irmã de teu pai, porque é carne de teu pai.
+
+[[v3-18-13]]
+
+^<<v3-18-13,13>>^ Não descobrirás a nudez da irmã de tua mãe, porque é carne da tua mãe.
+
+[[v3-18-14]]
+
+^<<v3-18-14,14>>^ Não descobrirás a nudez de teu tio paterno, nem te aproximarás da sua mulher, a qual é tua parente por afinidade.
+
+[[v3-18-15]]
+
+^<<v3-18-15,15>>^ Não descobrirás a nudez de tua nora, porque é mulher de teu filho; não descobrirás a sua nudez.
+
+[[v3-18-16]]
+
+^<<v3-18-16,16>>^ Não descobrirás a nudez da mulher de teu irmão, porque é nudez de teu irmão.
+
+[[v3-18-17]]
+
+^<<v3-18-17,17>>^ Não descobrirás a nudez de uma mulher e da sua filha, nem tomarás a filha do seu filho, nem a filha de sua filha, para descobrires a sua nudez, porque são carne dessa (mulher), e isso é um crime.
+
+[[v3-18-18]]
+
+^<<v3-18-18,18>>^ Não tomarás por mulher secundária a irmã de tua mulher, nem descobrirás a sua nudez enquanto tua mulher for viva.
+
+[[v3-18-19]]
+
+^<<v3-18-19,19>>^ Não te aproximarás da mulher que padece o seu mênstruo, nem descobrirás a sua nudez.
+
+[[v3-18-20]]
+
+^<<v3-18-20,20>>^ Não te unirás com mulher do teu próximo, nem te mancharás com semelhante união.
+
+[[v3-18-21]]
+
+^<<v3-18-21,21>>^ Não darás nenhum de teus filhos para ser passado (pelo fogo), em honra de Moloch, nem profanarás o nome do teu Deus. Eu sou o Senhor.
+
+[[v3-18-22]]
+
+^<<v3-18-22,22>>^ Não te aproximarás dum homem como se fosse mulher, porque é uma abominação.
+
+[[v3-18-23]]
+
+^<<v3-18-23,23>>^ Não te juntarás com animal algum nem te mancharás com ele. À mulher não se prostituirá a nenhum animal, nem se misturará com ele, porque é uma perversidade.
+
+[[v3-18-24]]
+
+^<<v3-18-24,24>>^ Não vos mancheis com nenhuma dessas coisas, com que se têm contaminado todas as gentes que eu expulsarei da vossa vista.
+
+[[v3-18-25]]
+
+^<<v3-18-25,25>>^ Mancharam esta terra, castigarei seus crimes e a terra vomitará seus habitantes.
+
+[[v3-18-26]]
+
+^<<v3-18-26,26>>^ Guardai as minhas leis e os meus mandamentos, e não cometais nenhuma destas abominações, tanto os naturais como os estrangeiros entre vós.
+
+[[v3-18-27]]
+
+^<<v3-18-27,27>>^ Todas estas execrações cometeram os que foram antes de vós habitantes desta terra, e assim a contaminaram.
+
+[[v3-18-28]]
+
+^<<v3-18-28,28>>^ Vede, pois, não suceda que, assim como ela vomitou a gente que aqui estava antes de vós, vos vomite também a vós, se fizerdes outro tanto.
+
+[[v3-18-29]]
+
+^<<v3-18-29,29>>^ Todo aquele que cometer alguma destas abominações, será eliminado do meio do seu povo.
+
+[[v3-18-30]]
+
+^<<v3-18-30,30>>^ Guardai os meus mandamentos. Não pratiqueis o que praticaram os que estiveram antes de vós, e não vos mancheis com estas (infâmias). Eu sou o Senhor vosso Deus.
+
+'''
+
+xref:003-levitico/003-levitico-017.adoc#v3-17-0[&#60; Capítulo Anterior] | <<v3-18-0,Topo>> | xref:003-levitico/003-levitico-019.adoc#v3-19-0[Próximo Capítulo &#62;]

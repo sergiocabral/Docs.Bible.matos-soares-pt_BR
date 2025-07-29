@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v2-25-0]]
+=== Êxodo, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Êxodo 25 descreve as instruções dadas por Deus a Moisés sobre a construção do tabernáculo, o lugar onde o povo de Israel adoraria a Deus durante sua jornada no deserto. Deus instrui Moisés a coletar ofertas do povo para construir o tabernáculo e todos os seus móveis. Os cinco versículos relacionados aos temas abordados em Êxodo 25 são:
+* Êxodo 25:8: "E me farão um santuário, e habitarei no meio deles." Deus ordena que um santuário seja construído para que Ele possa habitar no meio do Seu povo.
+* Êxodo 25:16: "E porás na arca o testemunho que eu te darei." Deus ordena que Moisés construa uma arca de madeira de acácia e coloque nela as tábuas com os Dez Mandamentos, que são o testemunho de Deus.
+* Êxodo 25:22: "E ali virei a ti, e falarei contigo de cima do propiciatório, do meio dos dois querubins que estão sobre a arca do testemunho, tudo o que eu te ordenar para os filhos de Israel." Deus promete aparecer no santuário e falar com Moisés de cima do propiciatório, que ficaria acima da arca do testemunho.
+* Êxodo 25:30: "E porás sobre a mesa o pão da proposição perante a minha face continuamente." Deus instrui Moisés a construir uma mesa de madeira de acácia e colocar nela o pão da proposição, que seria renovado semanalmente e servido como oferta a Deus.
+* Êxodo 25:40: "E olha que o faças conforme o seu modelo, que te foi mostrado no monte." Deus instrui Moisés a seguir cuidadosamente as instruções e desenhos que Ele lhe deu no monte Sinai para a construção do tabernáculo, móveis e utensílios, enfatizando a importância da obediência às Suas instruções precisas.
+****
+
+[[v2-25-1]]
+
+^<<v2-25-1,1>>^ o Senhor falou a Moisés assim;
+
+[[v2-25-2]]
+
+^<<v2-25-2,2>>^ Dize aos filhos de Israel que me tragam as primícias; vós as recebereis de todo o homem, que voluntariamente as oferecer,
+
+[[v2-25-3]]
+
+^<<v2-25-3,3>>^ Estas são as coisas que deveis receber: ouro, prata, cobre,
+
+[[v2-25-4]]
+
+^<<v2-25-4,4>>^ púrpura, violácea e escarlate e carmesim, linho fino e pêlo de cabra, (ver nota)
+
+[[v2-25-5]]
+
+^<<v2-25-5,5>>^ peles de carneiros tintas de vermelho e tintas de roxo, e pau de acácia;
+
+[[v2-25-6]]
+
+^<<v2-25-6,6>>^ azeite para acender as lâmpadas, aromas para óleo de unção e para perfume da incensação,
+
+[[v2-25-7]]
+
+^<<v2-25-7,7>>^ pedras de onix, e (outras) pedras preciosas para adornar o éfode e o peitoral.
+
+[[v2-25-8]]
+
+^<<v2-25-8,8>>^ Construir-me-ão um santuário, e eu habitarei no meio deles.
+
+[[v2-25-9]]
+
+^<<v2-25-9,9>>^ (Devem fazê-lo) conforme em tudo ao modelo do tabernáculo, que eu te mostrarei, e ao modelo de todos os seus vasos para o culto.
+
+[[v2-25-10]]
+
+^<<v2-25-10,10>>^ Fazei uma arca de pau de acácia, cujo comprimento meça dois côvados e meio, a largura covado e meio, a altura igualmente côvado e meio.
+
+[[v2-25-11]]
+
+^<<v2-25-11,11>>^ Revesti-la-ás de ouro puríssimo por dentro e por fora, e farás sobre ela uma coroa de ouro em roda:
+
+[[v2-25-12]]
+
+^<<v2-25-12,12>>^ (farás) quatro argolas de ouro, que porás nos quatro cantos da arca: duas argolas dum lado e duas doutro.
+
+[[v2-25-13]]
+
+^<<v2-25-13,13>>^ Farás também varais de pau de acácia, Cobri-los-ás de ouro,
+
+[[v2-25-14]]
+
+^<<v2-25-14,14>>^ e fá-los-ás passar por dentro das argolas que estão aos lados da arca, a fim de que sirvam para a transportar.
+
+[[v2-25-15]]
+
+^<<v2-25-15,15>>^ Estarão sempre metidos nas argolas: nunca se tirarão delas.
+
+[[v2-25-16]]
+
+^<<v2-25-16,16>>^ Porás na arca o testemunho que eu te hei-de dar. (ver nota)
+
+[[v2-25-17]]
+
+^<<v2-25-17,17>>^ Farás também o propiciatório de ouro puríssimo: o seu comprimento terá dois côvados e meio, e a largura côvado e meio. (ver nota)
+
+[[v2-25-18]]
+
+^<<v2-25-18,18>>^ Farás também dois querubins de ouro batido nas duas extremidades do oráculo.
+
+[[v2-25-19]]
+
+^<<v2-25-19,19>>^ Um querubim esteja dum lado, o outro do outro.
+
+[[v2-25-20]]
+
+^<<v2-25-20,20>>^ Estes querubins terão as asas estendidas para cima; cobrindo com elas o propiciatório, e estejam olhando um para o outro com os rostos voltados para o propiciátório, com o qual deve estar coberta a arca,
+
+[[v2-25-21]]
+
+^<<v2-25-21,21>>^ na qual porás o testemunho, que eu te hei-de dar.
+
+[[v2-25-22]]
+
+^<<v2-25-22,22>>^ De lá te darei as minhas ordens, em cima do propiciatório, e do meio dos dois querubins, que estarão sobre a arca do testemunho, e te direi todas as coisas que por meio de ti intimarei aos filhos de Israel.
+
+[[v2-25-23]]
+
+^<<v2-25-23,23>>^ Farás também uma mesa de pau de acácia, que tenha dois côvados de comprimento, um côvado de largura, e côvado e meio de altura.
+
+[[v2-25-24]]
+
+^<<v2-25-24,24>>^ Cobri-la-ás de ouro puríssimo, far-lhe-ás uma moldura de ouro em roda,
+
+[[v2-25-25]]
+
+^<<v2-25-25,25>>^ e (porás) sobre a mesma moldura uma coroa entalhada, de quatro dedos de altura: e, sobre este, outra coroa de ouro.
+
+[[v2-25-26]]
+
+^<<v2-25-26,26>>^ Farás também quatro argolas de ouro, e as porás nos quatro cantos da mesma mesa, uma em cada pé.
+
+[[v2-25-27]]
+
+^<<v2-25-27,27>>^ As argolas de ouro estarão da parte de baixo da coroa para se meterem por elas varais, a fim de a mesa poder ser transportada.
+
+[[v2-25-28]]
+
+^<<v2-25-28,28>>^ Farás varais de pau de acácia, e os cobrirás de ouro; servirão para transportar a mesa.
+
+[[v2-25-29]]
+
+^<<v2-25-29,29>>^ Prepararás também pratos, copos, incensórios e taças de ouro puríssimo em que se deverão oferecer as libações.
+
+[[v2-25-30]]
+
+^<<v2-25-30,30>>^ Porás sempre sobre a mesa os pães da proposição na minha presença. (ver nota)
+
+[[v2-25-31]]
+
+^<<v2-25-31,31>>^ Farás também um candeeiro de ouro puro, trabalhado a martelo, com a haste e os seus ramos, os copos, e esferazinhas, e açucenas, que sairão dele,
+
+[[v2-25-32]]
+
+^<<v2-25-32,32>>^ Seis ramos sairão dos seus lados, três dum lado, e três do outro.
+
+[[v2-25-33]]
+
+^<<v2-25-33,33>>^ Em um ramo haverá três copos em forma de flor de amendoeira, com uma esferazinha e uma açucena: e igualmente no outro ramo três copos em forma de flor de amendoeira, uma esferazinha e uma açucena: assim serão formados os seis ramos, que devem sair da haste.
+
+[[v2-25-34]]
+
+^<<v2-25-34,34>>^ E no mesmo candeeiro haverá quatro copos em forma de flor de amendoeira, e em cada um a sua esferazinha e a sua açucena.
+
+[[v2-25-35]]
+
+^<<v2-25-35,35>>^ Haverá três esferazinhas em três lugares da haste, e de cada uma sairão dois ramos, e serão ao todo seis ramos saindo da mesma haste.
+
+[[v2-25-36]]
+
+^<<v2-25-36,36>>^ As esferazinhas, pois, e os ramos serão da mesma peça (com o candeeiro), tudo de ouro finissímo, trabalhado a martelo.
+
+[[v2-25-37]]
+
+^<<v2-25-37,37>>^ Farás, além disso, sete lâmpadas, e pô-Ias-ás sobre o candeeiro, a fim de que dêem luz para a frente.
+
+[[v2-25-38]]
+
+^<<v2-25-38,38>>^ Também os espevitadores e os vasos onde se apague o morrão que se tiver tirado das lâmpadas. Serão feitos de ouro puríssimo.
+
+[[v2-25-39]]
+
+^<<v2-25-39,39>>^ Todo o peso do candeeiro com todos os seus vasos será um talento de ouro puríssimo. (ver nota)
+
+[[v2-25-40]]
+
+^<<v2-25-40,40>>^ Toma sentido, e faze conforme o modelo que te foi mostrado sobre o monte.
+
+'''
+
+xref:002-exodo/002-exodo-024.adoc#v2-24-0[&#60; Capítulo Anterior] | <<v2-25-0,Topo>> | xref:002-exodo/002-exodo-026.adoc#v2-26-0[Próximo Capítulo &#62;]

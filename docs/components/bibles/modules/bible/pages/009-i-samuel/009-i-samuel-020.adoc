@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v9-20-0]]
+=== I Samuel, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 20 de 1 Samuel narra a continuação do relacionamento entre Davi e Jônatas, filho do rei Saul. Neste capítulo, Jônatas se compromete a ajudar Davi a escapar da ira de seu pai e eles fazem um pacto de amizade. No entanto, o capítulo também trata da crescente hostilidade de Saul em relação a Davi e de sua determinação em matá-lo. A seguir, cinco versículos relacionados com os temas abordados em 1 Samuel 20:
+* Provérbios 17:17: "Em todo tempo ama o amigo, e na angústia se faz o irmão." Este verso destaca a importância da amizade verdadeira, que é capaz de superar as adversidades e se tornar uma relação de irmãos.
+* João 15:13: "Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos." Jônatas arrisca sua vida para ajudar Davi, mostrando um amor sacrificial e incondicional, que é um exemplo do amor de Cristo pelos seus amigos.
+* Salmo 119:63: "Sou amigo de todos os que te temem e guardam os teus preceitos." Davi e Jônatas eram amigos porque compartilhavam uma fé em Deus e um compromisso com a obediência aos seus mandamentos.
+* Provérbios 27:6: "Feridas feitas pelo amigo são fiéis, mas beijos do inimigo são enganosos." Saul demonstra ser um amigo infiel, ao mesmo tempo que finge amizade e mostra-se amigável para com Davi, ele secretamente deseja sua morte.
+* Salmo 27:1: "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a fortaleza da minha vida; de quem me recearei?" Davi confia em Deus para protegê-lo contra as ameaças de Saul e mantém sua fé inabalável, mesmo em meio à perseguição e ao perigo.
+****
+
+[[v9-20-1]]
+
+^<<v9-20-1,1>>^ Entretanto Davide fugiu de Naiot, que está em Rama, e, tendo ido, disse diante de Jónatas: Que fiz eu? Que iniquidade é a minha, que pecado é o meu contra teu pai, que procura a minha vida?
+
+[[v9-20-2]]
+
+^<<v9-20-2,2>>^ Ele respondeu-lhe: Não, tu não hás-de morrer, porque meu pai não faz coisa alguma, nem grande nem pequena, sem primeiro me dar parte; será só esta que meu pai me queira ocultar? De nenhum modo acontecerá isto.
+
+[[v9-20-3]]
+
+^<<v9-20-3,3>>^ E novamente o jurou a Davide. Davide disse-lhe; Teu pai sabe muito bem que eu caí em graça a teus olhos e dirá: Não saiba isto Jónatas, para que se não entristeça. Eu juro-te pelo Senhor e pela tua vida, que não há senão um passo, entre mim e a morte.
+
+[[v9-20-4]]
+
+^<<v9-20-4,4>>^ Jónatas disse a Davide: Eu farei por ti tudo o que a tua alma me disser.
+
+[[v9-20-5]]
+
+^<<v9-20-5,5>>^ Davide disse a Jónatas: Amanhã é a lua nova e eu costumo sentar-me junto ao rei para comer; deixa-me, pois, ir esconder no campo até à tarde do terceiro dia. (ver nota)
+
+[[v9-20-6]]
+
+^<<v9-20-6,6>>^ Se o teu pai, reparando, perguntar por mim, tu lhe responderás: Davide pediu-me permissão de ir com presteza a Belém , sua cidade, porque se faz lá um sacrifício solene por todos os da sua tribo.
+
+[[v9-20-7]]
+
+^<<v9-20-7,7>>^ Se ele disser: Está bem não terei que temer; mas se ele se irar, fica certo de que a sua má vontade (contra mim) chegou ao seu auge.
+
+[[v9-20-8]]
+
+^<<v9-20-8,8>>^ Usa, pois, de misericórdia com o teu servo, já que quiseste que eu, teu servo, fizesse contigo aliança (de amizade) no Senhor; mas se eu tenho alguma culpa, dá-me tu mesmo a morte, e não me faças comparecer diante de teu pai.
+
+[[v9-20-9]]
+
+^<<v9-20-9,9>>^ Jónatas disse: Longe de ti esteja isso, porque não é possível que, se eu souber ao certo que a má vontade de meu pai contra ti chegou ao seu auge, eu te não avise.
+
+[[v9-20-10]]
+
+^<<v9-20-10,10>>^ Davide respondeu a Jónatas: Quem me há-de avisar, se por acaso teu pai te responder com aspereza a meu respeito?
+
+[[v9-20-11]]
+
+^<<v9-20-11,11>>^ Jónatas disse a Davide: Vem, e saiamos fora ao campo. Tendo ambos saído ao campo,
+
+[[v9-20-12]]
+
+^<<v9-20-12,12>>^ Jónatas disse a Davide: Senhor Deus de Israel, se eu descobrir o intento de meu pai, amanhã ou depois de amanhã, e houver alguma coisa favorável para Davide, e eu to não mandar imediatamente dizer,
+
+[[v9-20-13]]
+
+^<<v9-20-13,13>>^ o Senhor trate a Jónatas com toda a severidade. Se, porém, a má vontade de meu pai perseverar contra ti, eu te avisarei disso e te deixarei ir em paz, e o Senhor seja contigo, como foi com meu pai.
+
+[[v9-20-14]]
+
+^<<v9-20-14,14>>^ Se eu viver, usarás comigo da misericórdia do Senhor; se porém morrer,
+
+[[v9-20-15]]
+
+^<<v9-20-15,15>>^ não deixarás nunca de usar de compaixão com a minha casa, quando o Senhor tiver exterminado todos os inimigos de Davide um por um; (todavia, se eu faltar à palavra) tire (também) o Senhor a Jónatas de sua casa e vingue-se dos inimigos de Davide.
+
+[[v9-20-16]]
+
+^<<v9-20-16,16>>^ Jónatas, pois, fez aliança com a casa de Davide, e o Senhor vingou-se dos inimigos de Davide.
+
+[[v9-20-17]]
+
+^<<v9-20-17,17>>^ Jónatas fez a Davide este novo juramento, pelo amor que lhe tinha, porque o amava como a sua própria alma.
+
+[[v9-20-18]]
+
+^<<v9-20-18,18>>^ Jónatas disse-lhe: Amanhã é a lua nova, e perguntar-se-á por ti,
+
+[[v9-20-19]]
+
+^<<v9-20-19,19>>^ porque o teu lugar se verá desocupado até depois de amanhã. Descerás, pois, sem demora, e irás para o sítio em que deves esconder-te, no dia em que se pode trabalhar (que é o primeiro depois da festa), e te sentarás junto da pedra chamada Ezel.
+
+[[v9-20-20]]
+
+^<<v9-20-20,20>>^ Eu atirarei junto a ela três setas e as arrojarei como quem se exercita em atirar ao alvo.
+
+[[v9-20-21]]
+
+^<<v9-20-21,21>>^ Mandarei também um criado e lhe direi: Vai e traze-me as setas.
+
+[[v9-20-22]]
+
+^<<v9-20-22,22>>^ Se eu disser ao criado: Olha que as setas estão para cá de ti; levanta-as tu então vem ter comigo, porque a paz está contigo e não há mal algum a temer. O Senhor vive! Todavia, se eu disser ao criado: Olha que as setas estão para lá de ti vai-te em paz, porque o Senhor quer que te retires.
+
+[[v9-20-23]]
+
+^<<v9-20-23,23>>^ Quanto, porém, à palavra que nós demos um ao outro, o Senhor seja (dela) para sempre (testemunha) entre mim e ti.
+
+[[v9-20-24]]
+
+^<<v9-20-24,24>>^ Escondeu-se, pois, Davide no campo. No dia da procura nova, o rei pôs-se à mesa para comer.
+
+[[v9-20-25]]
+
+^<<v9-20-25,25>>^ Tendo-se sentado (segundo o costume) na sua cadeira, que estava junto à parede, levantou-se Jónatas, Abner sentou-se ao lado de Saul, e o lugar de Davide apareceu vazio.
+
+[[v9-20-26]]
+
+^<<v9-20-26,26>>^ Naquele (primeiro) dia Saul não disse nada, porque julgou que talvez Davide se não tivesse achado limpo nem purificado.
+
+[[v9-20-27]]
+
+^<<v9-20-27,27>>^ Chegado o segundo dia da lua nova, apareceu ainda vazio o lugar de Davide. Saul disse a seu filho Jónatas: Por que não veio o filho de Isaí comer nem ontem nem hoje?
+
+[[v9-20-28]]
+
+^<<v9-20-28,28>>^ Jónatas respondeu a Saul: EIe pediu-me com instância que o deixasse ir a Belém
+
+[[v9-20-29]]
+
+^<<v9-20-29,29>>^ dizendo: Deixa-me ir, porque há na minha cidade um sacrifício solene, e um de meus irmãos convidou-me; se, pois, eu achei graça diante dos teus olhos, irei depressa e verei meus irmãos. Esta é a razão porque ele não veio à mesa do rei.
+
+[[v9-20-30]]
+
+^<<v9-20-30,30>>^ Então, Saul, Irado contra Jónatas, disse-lhe: Filho de mulher perversa e rebelde, não sei eu por ventura que amas o filho de Isaí, para confusão tua, e para confusão da tua indigna mãe?
+
+[[v9-20-31]]
+
+^<<v9-20-31,31>>^ Pois em todo o tempo em que o filho de Isaí viver na terra, nunca estarás seguro, nem tu nem o teu (direito ao) reino. Por isso manda buscá-lo já e traze-mo à minha presença porque é um filho da morte (ver nota)
+
+[[v9-20-32]]
+
+^<<v9-20-32,32>>^ Jónatas respondeu a Saul, seu pai: Por que há-de ele morrer? O que fez?
+
+[[v9-20-33]]
+
+^<<v9-20-33,33>>^ Saul pegou na sua lança para o atravessar. Jónatas compreendeu que seu pai tinha resolvido matar Davide.
+
+[[v9-20-34]]
+
+^<<v9-20-34,34>>^ Jónatas, pois, levantou-se da mesa todo encolerizado, e não comeu no segundo dia da lua nova, porque estava triste por causa de Davide, porque seu pai o tinha ultrajado.
+
+[[v9-20-35]]
+
+^<<v9-20-35,35>>^ Ao outro dia, pela manhã, saiu Jónatas ao campo, conforme a combinação feita com Davide, e levou consigo um rapaz,
+
+[[v9-20-36]]
+
+^<<v9-20-36,36>>^ ao qual disse: Vai e traze-me as setas que vou atirar. Enquanto o rapaz corria, atirou outra seta mais para além dele.
+
+[[v9-20-37]]
+
+^<<v9-20-37,37>>^ Chegou, pois, o rapaz ao lugar da seta que Jónatas tinha atirado, e Jónatas gritou-lhe: Olha que a seta está mais para lá de ti.
+
+[[v9-20-38]]
+
+^<<v9-20-38,38>>^ Jónatas tornou a gritar, como se se dirigisse ao rapaz, dizendo: Vai depressa, não te demores. O servo de Jónatas recolheu as setas e levou-as ao seu amo.
+
+[[v9-20-39]]
+
+^<<v9-20-39,39>>^ O servo ignorava completamente o motivo do que se fazia, porque só Jónatas e Davide o sabiam.
+
+[[v9-20-40]]
+
+^<<v9-20-40,40>>^ Deu Jonatas depois as suas armas ao rapaz e disse-lhe: Vai, leva-as à cidade.
+
+[[v9-20-41]]
+
+^<<v9-20-41,41>>^ Logo que o rapaz partiu, Davide saiu do lugar onde estava, que olhava para o meio-dia, e, Inclinando-se até à terra, prostrou-se três vezes (diante de Jónatas) e, beijando-se um ao outro, choraram ambos, mas Davide mais.
+
+[[v9-20-42]]
+
+^<<v9-20-42,42>>^ Disse Jónatas a Davide: Vai em paz; (lembra-te de) tudo o que nós ambos juramos em nome do Senhor, dizendo: O Senhor seja para sempre testemunha entre mim e tí, entre a minha geração e a tua geração.
+
+[[v9-20-43]]
+
+^<<v9-20-43,43>>^ Davide levantou-se e partiu. Jónatas voltou para a cidade.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-019.adoc#v9-19-0[&#60; Capítulo Anterior] | <<v9-20-0,Topo>> | xref:009-i-samuel/009-i-samuel-021.adoc#v9-21-0[Próximo Capítulo &#62;]

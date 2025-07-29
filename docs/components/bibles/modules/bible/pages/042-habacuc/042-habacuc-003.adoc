@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v42-3-0]]
+=== Habacuc, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de Habacuque é uma oração do profeta, em que ele expressa sua confiança em Deus, mesmo diante das dificuldades e adversidades que o povo de Judá estava enfrentando. Ele reconhece a grandeza e o poder de Deus e pede que Ele intervenha para salvar o Seu povo. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Habacuque 3:
+* Salmos 18:2: "O Senhor é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Este verso fala da confiança em Deus como protetor e salvador, assim como Habacuque expressa em sua oração.
+* Salmos 46:1: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade." Este verso reforça a ideia de que Deus é um abrigo seguro e constante para aqueles que confiam Nele, mesmo quando enfrentam dificuldades.
+* Isaías 40:28: "Vocês não sabem, nunca ouviram? O Senhor é o Deus eterno, o Criador de toda a terra. Ele não se cansa nem fica exausto; sua sabedoria é insondável." Este verso destaca a grandeza e o poder de Deus, temas centrais da oração de Habacuque.
+* Salmo 144:5: "Desce, Senhor, dos céus; toca os montes, para que fumeguem." Este verso faz um pedido para que Deus intervenha na terra, assim como Habacuque pede que Ele salve o Seu povo.
+* Isaías 35:4: "Digam aos desanimados de coração: 'Sejam fortes, não tenham medo! Vejam o seu Deus: a vingança vem, a retribuição divina; ele vem para salvá-los.'" Este verso traz uma mensagem de encorajamento para aqueles que estão passando por dificuldades, assim como Habacuque busca encorajar o povo de Judá em sua oração.
+****
+
+[[v42-3-1]]
+
+^<<v42-3-1,1>>^ Oração do profeta Habaeuc. No tom das lamentações.
+
+[[v42-3-2]]
+
+^<<v42-3-2,2>>^ Senhor, ouvi a tua mensagem e temi perante as tuas obras. Senhor, faze reviver a tua obra, agora que os anos se aproximam; agora que os anos se aproximam, torna-a manifesta! Quando estiveres irado, tu te lembrarás da (tua) misericórdia.
+
+[[v42-3-3]]
+
+^<<v42-3-3,3>>^ Deus vem de Teman, o Santo do Monte de Faran. A sua majestade cobre os céus, e a terra está cheia do seu louvor. (ver nota)
+
+[[v42-3-4]]
+
+^<<v42-3-4,4>>^ O seu resplendor é como a luz; das suas mãos brotam raios; é lá que está escondida a sua fortaleza.
+
+[[v42-3-5]]
+
+^<<v42-3-5,5>>^ A calamidade vai diante da sua face, a febre caminha sobre os seus passos.
+
+[[v42-3-6]]
+
+^<<v42-3-6,6>>^ Pára e mede a terra, olha e abala as nações; são reduzidas a pó as montanhas eternas, os outeiros antigos desfazem-se, seus caminhos de sempre.
+
+[[v42-3-7]]
+
+^<<v42-3-7,7>>^ Eu vi na aflição as tendas da Etiópia; os pavilhões da terra de Madian estão turbados.
+
+[[v42-3-8]]
+
+^<<v42-3-8,8>>^ Porventura é contra os rios, Senhor, que estás irado? É contra os rios o teu furor? Ou é contra o mar a tua indignação, quando montas sobre os teus cavalos, sobre teus carros triunfantes?
+
+[[v42-3-9]]
+
+^<<v42-3-9,9>>^ Mostra-se desnudado o teu arco; os juramentos são flechas da tua palavra. Tu fendes a terra, e dela saem torrentes.
+
+[[v42-3-10]]
+
+^<<v42-3-10,10>>^ Os montes, ao verem-te, ficam traspassados de dor: uma tromba de água passa, o abismo faz ouvir a sua voz, levanta as suas mãos ao alto. (ver nota)
+
+[[v42-3-11]]
+
+^<<v42-3-11,11>>^ O sol e a lua pararam na sua morada, avança-se à luz das tuas setas, ao resplendor da tua fulgurante lança.
+
+[[v42-3-12]]
+
+^<<v42-3-12,12>>^ Na tua cólera pisas aos pés a terra; com o teu furor esmagas as nações.
+
+[[v42-3-13]]
+
+^<<v42-3-13,13>>^ Tu saíste para salvação do teu povo, para salvar o teu Ungido. Abateste a casa do ímpio, descobriste os seus alicerces até baixo.
+
+[[v42-3-14]]
+
+^<<v42-3-14,14>>^ Atravessaste com os teus dardos o chefe dos seus guerreiros, povo, que vinham como um torvelinho para me destruírem, com gritos de alegria, como se fossem devorar um infeliz no seu esconderijo.
+
+[[v42-3-15]]
+
+^<<v42-3-15,15>>^ Lançaste os teus cavalos através do mar, no turbilhão de grandes (massas de) águas,
+
+[[v42-3-16]]
+
+^<<v42-3-16,16>>^ Ouvi (a tua voz), e as minhas entranhas comoveram-se; os meus lábios tremeram a essa voz. Penetra a podridão até aos meus ossos, os meus passos vacilam ao meu peso. Espero silencioso o dia da tribulação, que se deve levantar contra o povo que nos assalta.
+
+[[v42-3-17]]
+
+^<<v42-3-17,17>>^ Porque a figueira não rebentará e as vinhas não deitarão os seus gomos. Faltará o fruto da oliveira, e os campos não darão de comer. As ovelhas desaparecerão do aprisco, e não haverá bois nos estábulos.
+
+[[v42-3-18]]
+
+^<<v42-3-18,18>>^ Eu, porém, me regozijarei no Senhor, e exultarei no Deus, meu salvador.
+
+[[v42-3-19]]
+
+^<<v42-3-19,19>>^ Iavé, meu Senhor, é a minha fortaleza, ele que torna os meus pés (velozes) como os dos veados e me faz andar sobre as cumeadas. Ao regente do canto. Para instrumentos de corda. (ver nota)
+
+'''
+
+xref:042-habacuc/042-habacuc-002.adoc#v42-2-0[&#60; Capítulo Anterior] | <<v42-3-0,Topo>> | xref:043-sofonias/043-sofonias-001.adoc#v43-1-0[Próximo Capítulo &#62;]

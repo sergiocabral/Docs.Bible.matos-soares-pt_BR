@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v21-106-0]]
+=== Salmos, 106
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 106 é uma reflexão sobre a história de Israel e sua relação com Deus, abrangendo tanto a graça divina quanto a infidelidade humana. O salmista começa exortando o povo a dar graças a Deus, e depois faz um resumo da história de Israel, incluindo o Êxodo, o Sinai, a jornada pelo deserto e a conquista da terra prometida, enfatizando as inúmeras vezes que o povo se rebelou contra Deus e suas consequências. Aqui estão cinco versículos relacionados com os temas abordados em Salmo 106:
+* Salmos 106:1: "Louvai ao SENHOR. Louvai ao SENHOR, porque ele é bom; porque a sua benignidade dura para sempre." Este versículo é uma exortação para que as pessoas louvem ao Senhor, reconhecendo Sua bondade e misericórdia.
+* Salmos 106:6: "Pecámos, como os nossos pais; cometemos iniquidade, andámos perversamente." Este versículo reconhece a infidelidade do povo de Israel e sua tendência a se afastar de Deus.
+* Salmos 106:21-22: "Esqueceram-se de Deus, seu Salvador, que fizera grandes coisas no Egito, maravilhas na terra de Cam, temíveis coisas no Mar Vermelho." Este versículo destaca a graça de Deus na libertação do povo de Israel do Egito e Sua fidelidade em guiá-los através do deserto.
+* Salmos 106:32-33: "Irritaram-no também junto às águas de Meribá, e sucedeu mal a Moisés por causa deles; porque exacerbaram o seu espírito, de modo que falou imprudentemente com seus lábios." Este versículo lembra a infidelidade do povo de Israel em Meribá, onde eles reclamaram de Deus e provocaram a ira de Moisés.
+* Salmos 106:43: "Muitas vezes os livrou, mas rebelaram-se consigo no seu propósito, e foram abatidos pela sua iniquidade." Este versículo destaca a graça de Deus em livrar o povo de Israel de seus inimigos, mas também reconhece a infidelidade do povo em se rebelar contra Ele repetidamente.
+****
+
+[[v21-106-1]]
+
+^<<v21-106-1,1>>^ Louvai o Senhor, porque é bom, porque a sua misericórdia é eterna. (ver nota)
+
+[[v21-106-2]]
+
+^<<v21-106-2,2>>^ Assim digam os que foram resgatados pelo Senhor, os que ele resgatou da mão do inimigo, (ver nota)
+
+[[v21-106-3]]
+
+^<<v21-106-3,3>>^ e os que congregou de várias terras; do oriente e do ocidente, do aquião e do austro.
+
+[[v21-106-4]]
+
+^<<v21-106-4,4>>^ Andaram errantes pelo deserto, pela solidão, não encontraram caminho para uma cidade habitável. (ver nota)
+
+[[v21-106-5]]
+
+^<<v21-106-5,5>>^ Tinham fome e sede, a sua vida desfalecia neles.
+
+[[v21-106-6]]
+
+^<<v21-106-6,6>>^ E clamaram ao Senhor no meio das suas angústias, e ele os livrou das suas tribulações.
+
+[[v21-106-7]]
+
+^<<v21-106-7,7>>^ Conduziu-os por caminho direito, para que chegassem a uma cidade habitável.
+
+[[v21-106-8]]
+
+^<<v21-106-8,8>>^ Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,
+
+[[v21-106-9]]
+
+^<<v21-106-9,9>>^ porque saciou a alma faminta, encheu de bens a alma esfomeada.
+
+[[v21-106-10]]
+
+^<<v21-106-10,10>>^ Estiveram sentados no meio de trevas e na escuridão, prisioneiros na miséria e nos ferros, (ver nota)
+
+[[v21-106-11]]
+
+^<<v21-106-11,11>>^ Porque tinham sido rebeldes às palavras de Deus, tinham desprezado o conselho do Altíssimo.
+
+[[v21-106-12]]
+
+^<<v21-106-12,12>>^ Humilhou com trabalhos o seu coração; ficaram sem forças, e não houve quem os socorresse.
+
+[[v21-106-13]]
+
+^<<v21-106-13,13>>^ E clamaram ao Senhor no meio das suas angústias, e ele os livrou das suas tribulações.
+
+[[v21-106-14]]
+
+^<<v21-106-14,14>>^ Tirou-os das trevas (do cárcere) e da escuridão, quebrou as suas cadeias.
+
+[[v21-106-15]]
+
+^<<v21-106-15,15>>^ Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens,
+
+[[v21-106-16]]
+
+^<<v21-106-16,16>>^ porque arrombou as portas de bronze e quebrou os ferrolhos de ferro.
+
+[[v21-106-17]]
+
+^<<v21-106-17,17>>^ Estavam enfermos, por causa da sua iniquidade, e eram atormentados por causa dos seus delitos. (ver nota)
+
+[[v21-106-18]]
+
+^<<v21-106-18,18>>^ A sua alma aborrecia toda a comida, e chegaram às portas da morte.
+
+[[v21-106-19]]
+
+^<<v21-106-19,19>>^ E clamaram ao Senhor no meio das suas angústias, e ele os livrou das suas tribulações.
+
+[[v21-106-20]]
+
+^<<v21-106-20,20>>^ Enviou a sua palavra para os curar, para os livrar da ruína.
+
+[[v21-106-21]]
+
+^<<v21-106-21,21>>^ Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens.
+
+[[v21-106-22]]
+
+^<<v21-106-22,22>>^ Ofereçam sacrifícios de louvor, anunciem as suas obras com alegria.
+
+[[v21-106-23]]
+
+^<<v21-106-23,23>>^ Os que tinham descido ao mar em naus, para fazerem comércio sobre as grandes águas, (ver nota)
+
+[[v21-106-24]]
+
+^<<v21-106-24,24>>^ viram as obras do Senhor, as suas maravilhas no meio do mar.
+
+[[v21-106-25]]
+
+^<<v21-106-25,25>>^ Falou, e excitou um vento proceloso, que levantou para o alto as suas ondas.
+
+[[v21-106-26]]
+
+^<<v21-106-26,26>>^ Subiam até aos céus e desciam até aos abismos; a sua alma desfalecia no meio destes males.
+
+[[v21-106-27]]
+
+^<<v21-106-27,27>>^ Andavam à roda e cambaleavam como ébrios, e toda a sua perícia se desvaneceu.
+
+[[v21-106-28]]
+
+^<<v21-106-28,28>>^ E clamaram ao Senhor no meio das suas angústias, e ele os livrou das suas tribulações.
+
+[[v21-106-29]]
+
+^<<v21-106-29,29>>^ A tempestade serenou em doce brisa, ficaram silenciosas as ondas do mar.
+
+[[v21-106-30]]
+
+^<<v21-106-30,30>>^ Eles alegraram-se por as ver silenciosas, e (o Senhor) conduziu-os ao porto que desejavam.
+
+[[v21-106-31]]
+
+^<<v21-106-31,31>>^ Dêem graças ao Senhor pela sua misericórdia e pelas suas maravilhas em favor dos filhos dos homens
+
+[[v21-106-32]]
+
+^<<v21-106-32,32>>^ Exaltem-no na assembleia do povo, e louvem-no no conselho dos anciãos.
+
+[[v21-106-33]]
+
+^<<v21-106-33,33>>^ Converteu os rios em deserto, os mananciais das águas em terra sedenta, (ver nota)
+
+[[v21-106-34]]
+
+^<<v21-106-34,34>>^ a terra fértil em salsugem, por causa da malícia dos seus habitantes.
+
+[[v21-106-35]]
+
+^<<v21-106-35,35>>^ Converteu o deserto em lago de águas, e a terra árida em mananciais de águas. (ver nota)
+
+[[v21-106-36]]
+
+^<<v21-106-36,36>>^ Estabeleceu ali os famintos, e eles fundaram uma cidade habitável.
+
+[[v21-106-37]]
+
+^<<v21-106-37,37>>^ Semearam campos, plantaram vinhas, e colheram frutos abundantes.
+
+[[v21-106-38]]
+
+^<<v21-106-38,38>>^ E abençoou-os, e multiplicaram-se em extremo, e deu-lhes gado em número não escasso.
+
+[[v21-106-39]]
+
+^<<v21-106-39,39>>^ Depois foram reduzidos a poucos e abatidos, sob o peso dos infortúnios e da aflição.
+
+[[v21-106-40]]
+
+^<<v21-106-40,40>>^ Todavia, o que lança o desprezo sobre os príncipes, e os faz errar por ínvios desertos,
+
+[[v21-106-41]]
+
+^<<v21-106-41,41>>^ levantou o pobre da sua miséria, e fez as famílias numerosas como rebanhos.
+
+[[v21-106-42]]
+
+^<<v21-106-42,42>>^ Os justos vêem (estes coisas) e alegram-se, e toda a maldade fecha a sua boca.
+
+[[v21-106-43]]
+
+^<<v21-106-43,43>>^ Quem é sábio para considerar estas coisas e ponderar bem as misericórdias do Senhor?
+
+'''
+
+xref:021-salmos/021-salmos-105.adoc#v21-105-0[&#60; Capítulo Anterior] | <<v21-106-0,Topo>> | xref:021-salmos/021-salmos-107.adoc#v21-107-0[Próximo Capítulo &#62;]

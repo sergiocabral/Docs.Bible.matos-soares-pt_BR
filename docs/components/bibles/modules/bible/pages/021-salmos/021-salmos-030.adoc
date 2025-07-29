@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v21-30-0]]
+=== Salmos, 30
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 30 é um hino de agradecimento a Deus pela salvação, no qual o salmista expressa sua gratidão por ter sido curado e livrado da morte. Ele louva a Deus por ter transformado seu pranto em dança, seu luto em alegria e por ter removido seu cilício e cingido-o de alegria. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 30:
+* Salmos 103:2: "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios." Este versículo encoraja a gratidão a Deus por suas bênçãos e benefícios.
+* Salmos 40:2: "Tirou-me dum lago horrível, dum charco de lodo, pôs os meus pés sobre uma rocha, firmou os meus passos." Este versículo descreve a salvação e libertação de Deus.
+* Salmos 56:8: "Tu contas as minhas vagueações; põe as minhas lágrimas no teu odre; não estão elas no teu livro?" Este versículo destaca a preocupação de Deus com nossas aflições e tristezas.
+* Salmos 126:5: "Os que semeiam em lágrimas, com cânticos de júbilo segarão." Este versículo fala da alegria e da colheita que vêm após um período de sofrimento e tristeza.
+* Salmos 30:5: "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite; pela manhã, porém, vem o cântico de júbilo." Este versículo, que faz parte do próprio Salmo 30, enfatiza a transitoriedade do sofrimento e a promessa de alegria e vitória.
+****
+
+[[v21-30-1]]
+
+^<<v21-30-1,1>>^ Ao mestre do coro. Salmo. De Davide.
+
+[[v21-30-2]]
+
+^<<v21-30-2,2>>^ A ti recorro, ó Senhor: não permitas que eu seja confundido para sempre; livra-me, segundo a tua justiça!
+
+[[v21-30-3]]
+
+^<<v21-30-3,3>>^ Inclina para mim o teu ouvido, acode prontamente a livrar-me. Sê para mim uma rocha de refúgio, uma cidadela fortificada, para me pores a salvo.
+
+[[v21-30-4]]
+
+^<<v21-30-4,4>>^ Tu és a minha rocha e a minha cidadela, e por causa do teu nome me conduzirás e me guiarás.
+
+[[v21-30-5]]
+
+^<<v21-30-5,5>>^ Tu me tirarás do laço, que me armaram escondidamente, porque tu és o meu refúgio.
+
+[[v21-30-6]]
+
+^<<v21-30-6,6>>^ Nas tuas mãos encomendo o meu espírito: vós me libertareis, ó Senhor, Deus fiel.
+
+[[v21-30-7]]
+
+^<<v21-30-7,7>>^ Aborreces os que adoram ídolos vãos; eu, porém, é no Senhor que confio.
+
+[[v21-30-8]]
+
+^<<v21-30-8,8>>^ Regozijar-me-ei e alegrar-me-ei da tua misericórdia, porque olhaste para a minha miséria, socorreste a minha alma nas angústias,
+
+[[v21-30-9]]
+
+^<<v21-30-9,9>>^ não me entregaste nas mãos do inimigo, antes puseste os meus pés em lugar espaçoso.
+
+[[v21-30-10]]
+
+^<<v21-30-10,10>>^ Tem piedade de mim, Senhor, porque estou em angústias: definham de tristeza os meus olhos, a minha alma e o meu corpo.
+
+[[v21-30-11]]
+
+^<<v21-30-11,11>>^ Sim, a minha vida vai-se consumindo na dor, os meus anos em gemidos. Debilitou-se a minha força na aflição, os meus ossos consumiram-se.
+
+[[v21-30-12]]
+
+^<<v21-30-12,12>>^ Para todos os meus inimigos tornei-me um objecto de opróbrio, de ludibrio para os meus vizinhos, de terror para os meus conhecidos; os que me vêem fora (pelos caminhos) fogem de mim.
+
+[[v21-30-13]]
+
+^<<v21-30-13,13>>^ Caí no esquecimento dos corações, como um morto, reduzido à condição dum vaso quebrado.
+
+[[v21-30-14]]
+
+^<<v21-30-14,14>>^ Porque ouvi os assobios de muitos, o terror me rodeia! Concertando-se contra mim, resolveram tirar-me a vida.
+
+[[v21-30-15]]
+
+^<<v21-30-15,15>>^ Porém eu confio em ti, Senhor; eu digo: Tu és o meu Deus.
+
+[[v21-30-16]]
+
+^<<v21-30-16,16>>^ Nas tuas mãos está o meu destino: livra-me das mãos dos meus inimigos e dos que me perseguem.
+
+[[v21-30-17]]
+
+^<<v21-30-17,17>>^ Mostra sereno o teu rosto ao teu servo, salva-me pela tua misericórdia.
+
+[[v21-30-18]]
+
+^<<v21-30-18,18>>^ Senhor, não seja eu confundido, pois que te invoquei; sejam confundidos os ímpios, sejam reduzidos ao silêncio, lançados no abismo.
+
+[[v21-30-19]]
+
+^<<v21-30-19,19>>^ Tornem-se mudos os lábios mentirosos, que falam insolentemente contra o justo, com soberba e com desprezo,
+
+[[v21-30-20]]
+
+^<<v21-30-20,20>>^ Quão grande é, Senhor, a tua bondade, que tens reservada para os que te temem, que concedes aos que se refugiam em ti, à vista dos homens!
+
+[[v21-30-21]]
+
+^<<v21-30-21,21>>^ Sob a protecção do teu rosto os defendes das conjuras dos homens, oculta-los no tabernáculo contra as altercações das línguas.
+
+[[v21-30-22]]
+
+^<<v21-30-22,22>>^ Bendito seja o Senhor, porque maravilhosamente me mostrou a sua misericórdia na cidade fortificada.
+
+[[v21-30-23]]
+
+^<<v21-30-23,23>>^ Eu disse na minha ansiedade: "Fui expulso da tua presença." Tu, porém, ouviste a voz da minha,oração, quando a ti clamava.
+
+[[v21-30-24]]
+
+^<<v21-30-24,24>>^ Amai o Senhor, vós todos os seus santos! o Senhor guarda os que são fiéis, mas dá abundantemente a paga merecida aos que procedem com soberba.
+
+[[v21-30-25]]
+
+^<<v21-30-25,25>>^ Esforçai-vos e fortaleça-se o vosso coração, vós todos que esperais no Senhor.
+
+'''
+
+xref:021-salmos/021-salmos-029.adoc#v21-29-0[&#60; Capítulo Anterior] | <<v21-30-0,Topo>> | xref:021-salmos/021-salmos-031.adoc#v21-31-0[Próximo Capítulo &#62;]

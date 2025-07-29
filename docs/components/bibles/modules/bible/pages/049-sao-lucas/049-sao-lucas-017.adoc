@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v49-17-0]]
+=== São Lucas, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 17 de Lucas começa com Jesus ensinando sobre a importância de evitar o pecado e perdoar os outros, e em seguida, fala sobre a fé e a gratidão. Ele também fala sobre a natureza do reino de Deus e a volta de Jesus. Abaixo estão cinco versículos relacionados aos temas deste capítulo:
+* Provérbios 19:11: "A prudência do homem lhe granjeia o favor do SENHOR, mas o homem de coração perverso será objeto de sua ira." Esse versículo está relacionado à primeira parte do capítulo, em que Jesus fala sobre evitar o pecado e perdoar os outros. A prudência mencionada aqui é uma atitude sábia e cautelosa que evita ofender os outros e cometer erros que possam prejudicar a si mesmo e aos outros.
+* Marcos 11:24: "Por isso, vos digo que tudo o que pedirdes em oração, crede que recebestes, e será assim convosco." Este versículo está relacionado à segunda parte do capítulo, onde Jesus fala sobre a importância da fé. Aqui, Jesus encoraja seus seguidores a acreditarem que Deus ouvirá suas orações e as atenderá.
+* Colossenses 3:15: "E a paz de Cristo, para a qual também fostes chamados em um só corpo, domine em vossos corações; e sede agradecidos." Este versículo está relacionado à terceira parte do capítulo, onde Jesus cura dez leprosos e apenas um deles retorna para agradecer a Jesus. O versículo fala sobre a importância da gratidão e da paz que deve reinar nos corações dos cristãos.
+* Romanos 14:17: "Pois o reino de Deus não é comida nem bebida, mas justiça, paz e alegria no Espírito Santo." Este versículo está relacionado à quarta parte do capítulo, onde Jesus fala sobre a natureza do reino de Deus. Aqui, o apóstolo Paulo esclarece que o reino de Deus não é algo material ou físico, mas sim algo espiritual que traz justiça, paz e alegria aos cristãos.
+* Mateus 24:44: "Por isso, estai vós também preparados; porque o Filho do Homem virá à hora em que não pensais." Este versículo está relacionado à última parte do capítulo, onde Jesus fala sobre sua segunda vinda. Aqui, Jesus exorta seus seguidores a estarem sempre preparados para sua volta, pois ela pode acontecer a qualquer momento e de forma inesperada.
+****
+
+[[v49-17-1]]
+
+^<<v49-17-1,1>>^ Depois Jesus disse a seus discípulos: "É impossível que não venham escândalos, porém, ai daquele por quem eles vêm !
+
+[[v49-17-2]]
+
+^<<v49-17-2,2>>^ Seria melhor para ele que lhe fosse posta ao pescoço a mó de um moinho, e que fosse precipitado no mar, do que ser causa de escândalo para um destes pequeninos.
+
+[[v49-17-3]]
+
+^<<v49-17-3,3>>^ Estai com cuidado sobre vós. Se teu irmão pecar, repreende-o; e, se ele se arrepender, perdoa-lhe.
+
+[[v49-17-4]]
+
+^<<v49-17-4,4>>^ E, se pecar sete vezes no dia contra ti e sete vezes no dia for ter contigo, dizendo: Estou arrependido, perdoa-lhe."
+
+[[v49-17-5]]
+
+^<<v49-17-5,5>>^ Os apóstolos disseram ao Senhor: "Aumenta-nos a fé."
+
+[[v49-17-6]]
+
+^<<v49-17-6,6>>^ O Senhor disse-lhes: "Se tiverdes fé como um grão de mostarda, direis a esta amoreira: Arranca-te e transplanta-te para o mar, e ela vos obedecerá.
+
+[[v49-17-7]]
+
+^<<v49-17-7,7>>^ Qual é de vós, tendo um servo a lavrar ou a guardar gado, lhe dirá quando ele voltar do campo: Vem depressa, põe-te à mesa?
+
+[[v49-17-8]]
+
+^<<v49-17-8,8>>^ Não lhe dirá antes: Prepara-me a ceia, cinge-te, e serve-me, enquanto eu como e bebo; depois comerás tu e beberás?
+
+[[v49-17-9]]
+
+^<<v49-17-9,9>>^ Porventura, fica o senhor obrigado àquele servo, por ter feito o que lhe tinha mandado?
+
+[[v49-17-10]]
+
+^<<v49-17-10,10>>^ Assim também vós, depois de terdes feito tudo o que voe foi mandado, dizei: Somos servos inúteis; fizemos o que devíamos fazer."
+
+[[v49-17-11]]
+
+^<<v49-17-11,11>>^ Indo Jesus para Jerusalém, passou pela Samaria e pela Galileia.
+
+[[v49-17-12]]
+
+^<<v49-17-12,12>>^ Ao entrar numa aldeia, saíram-lhe ao encontro dez homens leprosos, que pararam ao longe,
+
+[[v49-17-13]]
+
+^<<v49-17-13,13>>^ e levantaram a voz, dizendo: "Jesus, Mestre, tem compaixão de nós."
+
+[[v49-17-14]]
+
+^<<v49-17-14,14>>^ Tendo-os ele visto, disse-lhes: "Ide, mostrai-vos aos sacerdotes." Aconteceu que, enquanto iam, ficaram limpos.
+
+[[v49-17-15]]
+
+^<<v49-17-15,15>>^ Um deles, quando viu que tinha ficado limpo, voltou atrás, glorificando a Deus em alta voz,
+
+[[v49-17-16]]
+
+^<<v49-17-16,16>>^ e prostrou-se por terra a seus pés, dando-lhe graças. Era um samaritano.
+
+[[v49-17-17]]
+
+^<<v49-17-17,17>>^ Jesus disse: "Não são dez os que foram curados? Os outros nove onde estão?
+
+[[v49-17-18]]
+
+^<<v49-17-18,18>>^ Não se encontrou quem voltasse, e desse glória a Deus, senão este estrangeiro?
+
+[[v49-17-19]]
+
+^<<v49-17-19,19>>^ Depois disse-lhe: Levanta-te, vai; a tua fé te salvou."
+
+[[v49-17-20]]
+
+^<<v49-17-20,20>>^ Tendo-lhe os fariseus perguntado quando viria o reino de Deus, respondeu-lhes: " O reino de Deus não virá com aparato.
+
+[[v49-17-21]]
+
+^<<v49-17-21,21>>^ Não se dirá: Ei-lo aqui ou ei-lo acolá. Porque eis que o reino de Deus está no meio de vós." (ver nota)
+
+[[v49-17-22]]
+
+^<<v49-17-22,22>>^ Depois disse aos seus discípulos: "Virá tempo em que vós desejareis ver um só dos dias do Filho do homem, e não o vereis.
+
+[[v49-17-23]]
+
+^<<v49-17-23,23>>^ E vos dirão: Ei-lo aqui, ou ei-lo acolá. Não vades, nem os sigais.
+
+[[v49-17-24]]
+
+^<<v49-17-24,24>>^ Porque, assim como o clarão brilhante de um relâmpago ilumina o céu de uma extremidade à outra, assim será o Filho do homem no seu dia.
+
+[[v49-17-25]]
+
+^<<v49-17-25,25>>^ Mas primeiro é necessário que ele sofra muito, e seja rejeitado por esta geração.
+
+[[v49-17-26]]
+
+^<<v49-17-26,26>>^ Como sucedeu nos dias de Noé, assim sucederá também quando vier o Filho do homem.
+
+[[v49-17-27]]
+
+^<<v49-17-27,27>>^ Comiam, bebiam, tomavam mulher e marido, até ao dia em que Noé entrou na arca; e veio o dilúvio, que exterminou a todos.
+
+[[v49-17-28]]
+
+^<<v49-17-28,28>>^ Como sucedeu também no tempo de Lot; comiam, bebiam, compravam, vendiam, plantavam e edificavam;
+
+[[v49-17-29]]
+
+^<<v49-17-29,29>>^ mas, no dia em que Lot saiu de Sodoma, choveu fogo e enxofre do céu, que exterminou a todos.
+
+[[v49-17-30]]
+
+^<<v49-17-30,30>>^ Assim será no dia em que se manifestar o Filho do homem.
+
+[[v49-17-31]]
+
+^<<v49-17-31,31>>^ Nesse dia quem estiver no terraço e tiver os seus móveis em casa, não desça a tomá-los; da mesma sorte, quem estiver no campo, não volte atrás.
+
+[[v49-17-32]]
+
+^<<v49-17-32,32>>^ Lembrai-vos da mulher de Lot.
+
+[[v49-17-33]]
+
+^<<v49-17-33,33>>^ O que procurar salvar a sua vida, perdê-la-á; o que a perder, salvá-la-á. (ver nota)
+
+[[v49-17-34]]
+
+^<<v49-17-34,34>>^ Eu vos digo: Nessa noite, de duas pessoas que estiverem num leito, uma será tomada, a outra deixada. (ver nota)
+
+[[v49-17-35]]
+
+^<<v49-17-35,35>>^ Duas mulheres estarão moendo juntas, uma será tomada, a outra deixada; (ver nota)
+
+[[v49-17-36]]
+
+^<<v49-17-36,36>>^ dois estarão no campo, um será tomado, o outro deixado."
+
+[[v49-17-37]]
+
+^<<v49-17-37,37>>^ Os discípulos disseram-lhe: "Onde será isso, Senhor?" (ver nota)
+
+[[v49-17-38]]
+
+^<<v49-17-38,38>>^ Ele respondeu-lhes: "Onde quer que estiver o corpo, juntar-se-ão aí também as águias."
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-016.adoc#v49-16-0[&#60; Capítulo Anterior] | <<v49-17-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-018.adoc#v49-18-0[Próximo Capítulo &#62;]

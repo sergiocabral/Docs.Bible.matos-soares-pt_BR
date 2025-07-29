@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v1-35-0]]
+=== Gênesis, 35
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 35 narra como Jacó e sua família retornam a Betel, o lugar onde Deus havia prometido a Jacó a terra de Canaã e onde Jacó fez um voto a Deus. Ao chegarem lá, eles constroem um altar a Deus e renomeiam a cidade para Betel. Neste capítulo, também é mencionada a morte da ama de leite de Rebeca, Debora, e a morte de Raquel, esposa de Jacó, que dá à luz seu segundo filho, Benjamim, antes de falecer. Aqui estão cinco versículos relacionados aos temas abordados em Gênesis 35:
+* Gênesis 28:16-17 - "Quando Jacó acordou do seu sono, pensou: ‘Sem dúvida o Senhor está neste lugar, mas eu não sabia!’ Teve medo e disse: ‘Este é um lugar terrível! Isto aqui é a casa de Deus, isto aqui é a porta dos céus!’" Este versículo faz referência ao momento em que Deus apareceu a Jacó em um sonho e fez promessas a ele em Betel. A construção do altar em Betel em Gênesis 35 é uma resposta àquela experiência de Deus.
+* 2 Coríntios 6:16 - "Que acordo há entre o templo de Deus e os ídolos? Pois somos santuário do Deus vivo. Como disse Deus: ‘Habitarei com eles e entre eles andarei; serei o seu Deus, e eles serão o meu povo’." Este versículo destaca a importância de reconhecer que somos santuários do Deus vivo e que Ele habita em nós. A construção do altar em Betel é um reconhecimento da presença de Deus naquele lugar.
+* Salmos 121:8 - "O Senhor guardará a tua saída e a tua chegada, desde agora e para sempre." Este versículo destaca a promessa de que Deus guardará e protegerá aqueles que confiam nele em suas jornadas. Jacó e sua família viajaram de volta a Betel e construíram um altar para Deus lá, confiando em sua proteção e guia.
+* Romanos 8:28 - "Sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito." Este versículo destaca a promessa de que Deus usa todas as coisas para o bem daqueles que o amam e são chamados de acordo com seu propósito. A morte de Raquel, embora triste, também levou ao nascimento de Benjamim, que se tornaria um importante líder de Israel.
+* Mateus 5:4 - "Bem-aventurados os que choram, pois serão consolados." Este versículo destaca a promessa de consolo para aqueles que choram. A morte de Raquel foi certamente uma ocasião para chorar, mas Deus promete consolo e conforto para aqueles que sofrem.
+****
+
+[[v1-35-1]]
+
+^<<v1-35-1,1>>^ Entretanto disse Deus a Jacob: Levanta-te, vai para Betel, fica aí e erige um altar ao Deus que te apareceu quando fugias de Esaú, teu irmão.
+
+[[v1-35-2]]
+
+^<<v1-35-2,2>>^ Jacob, convocada toda a sua família, disse: Lançai fora os deuses estranhos que estão no meio de vós, purificai-vos e mudai os vossos vestidos.
+
+[[v1-35-3]]
+
+^<<v1-35-3,3>>^ Levantai-vos e subamos para Betel, para erigirmos aí um altar a Deus. que me ouviu no dia da minha tribulação, e me acompanhou na minha jornada.
+
+[[v1-35-4]]
+
+^<<v1-35-4,4>>^ Deram-lhe, pois, todos os deuses estranhos que tinham, e as arrecadas que tinham nas orelhas, e ele enterrou estas coisas debaixo de um terebinto, que está por detrás da cidade de Siquem.
+
+[[v1-35-5]]
+
+^<<v1-35-5,5>>^ Tendo estes partido, o terror de Deus invadiu todas as cidades circunvizinhas, e não se atreveram a perseguir os que se retiravam.
+
+[[v1-35-6]]
+
+^<<v1-35-6,6>>^ Chegou, portanto Jacob, com toda a sua gente, a Luza, por apelido Betel, a qual está (situada) na terra de Canaan.
+
+[[v1-35-7]]
+
+^<<v1-35-7,7>>^ Edificou ai um altar, e pôs àquele lugar o nome de casa de Deus, porque ali lhe apareceu Deus, quando fugia de seu irmão.
+
+[[v1-35-8]]
+
+^<<v1-35-8,8>>^ No mesmo tempo morreu Débora, ama de Rebeca: foi ali sepultada debaixo de um carvalho ao pé de Betel, e aquele lugar foi chamado o Carvalho do pranto.
+
+[[v1-35-9]]
+
+^<<v1-35-9,9>>^ E Deus apareceu novamente a Jacob, depois que voltou da Mesopotâmia da Síria, e o abençoou
+
+[[v1-35-10]]
+
+^<<v1-35-10,10>>^ dizendo: Não te chamarás mais Jacob, mas teu nome será Israel. E chamou-O Israel.
+
+[[v1-35-11]]
+
+^<<v1-35-11,11>>^ Disse-lhe: Eu sou o Deus omnipotente: cresce e multiplica-te; nações e multidão de povos nascerão de ti, de ti procederão reis.
+
+[[v1-35-12]]
+
+^<<v1-35-12,12>>^ Dar-te-ei a ti e à tua posteridade, depois de ti, a terra que dei a Abraão e a Isaac.
+
+[[v1-35-13]]
+
+^<<v1-35-13,13>>^ Deus afastou-se do lugar em que lhe tinha falado e
+
+[[v1-35-14]]
+
+^<<v1-35-14,14>>^ ai levantou Jacob um padrão de pedra, fazendo sobre ele libações e derramando óleo.
+
+[[v1-35-15]]
+
+^<<v1-35-15,15>>^ À esse lugar pôs o nome de Betel.
+
+[[v1-35-16]]
+
+^<<v1-35-16,16>>^ Partindo dali, chegou, no tempo da primavera, a um lugar junto da estrada que conduz a Efrata, onde Raquel, tendo as dores do parto,
+
+[[v1-35-17]]
+
+^<<v1-35-17,17>>^ e sendo o parto difícil começou a estar em perigo (de vida). Disse-lhe a parteira: Não temas, porque ainda terás este filho.
+
+[[v1-35-18]]
+
+^<<v1-35-18,18>>^ Estando prestes a render o espirito, sob a violência da dor, estando iminente a morte, pôs ao seu filho o nome de Benoni, isto é, filho da minha dor: o pai porém, chamou-o Benjamim, isto é, filho da mão direita.
+
+[[v1-35-19]]
+
+^<<v1-35-19,19>>^ Raquel morreu e foi sepultada na estrada que conduz a Efrata, a qual é Belém.
+
+[[v1-35-20]]
+
+^<<v1-35-20,20>>^ Jacob levantou um monumento sobre o seu sepulcro: este é o monumento do sepulcro de Raquel, que ainda hoje existe.
+
+[[v1-35-21]]
+
+^<<v1-35-21,21>>^ Saindo dali, levantou a sua tenda da outra parte da Torre do rebanho.
+
+[[v1-35-22]]
+
+^<<v1-35-22,22>>^ Enquanto habitava naquela região foi Ruben e dormiu com Bala, mulher secundária de seu pai, e este veio a sabê-lo. Os filhos de Jacob eram doze. (ver nota)
+
+[[v1-35-23]]
+
+^<<v1-35-23,23>>^ Filhos de Lia: Ruben, o primogênito, Simeão, Levi, Judá, Issacar e Zabulon.
+
+[[v1-35-24]]
+
+^<<v1-35-24,24>>^ Filhos de Raquel: José e Benjamim.
+
+[[v1-35-25]]
+
+^<<v1-35-25,25>>^ Filhos de Bala, escrava de Raquel: Dan e Neftali.
+
+[[v1-35-26]]
+
+^<<v1-35-26,26>>^ Filhos de Zelfa, escrava de Lia: Gad e Aser. Estes são os filhos de Jacob, que lhe nasceram na Mesopotâmia da Síria.
+
+[[v1-35-27]]
+
+^<<v1-35-27,27>>^ Jacob foi depois ter com seu pai Isaac a Mambré, ã cidade de Arbeia, que é Hebron, na qual Abraão e Isaac viveram como peregrinos.
+
+[[v1-35-28]]
+
+^<<v1-35-28,28>>^ Todos os dias de Isaac foram cento e oitenta anos:
+
+[[v1-35-29]]
+
+^<<v1-35-29,29>>^ exausto (de forças) pela idade, morreu, e uniu-se ao seu povo, velho e cheio de dias. Esaú e Jacob, seus filhos, sepultaram-no.
+
+'''
+
+xref:001-genesis/001-genesis-034.adoc#v1-34-0[&#60; Capítulo Anterior] | <<v1-35-0,Topo>> | xref:001-genesis/001-genesis-036.adoc#v1-36-0[Próximo Capítulo &#62;]

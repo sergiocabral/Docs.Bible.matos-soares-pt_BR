@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v51-16-0]]
+=== Atos dos Apóstolos, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 16 de Atos dos Apóstolos relata a jornada missionária de Paulo e Silas na região da Macedônia. Eles pregam o evangelho em Filipos, onde enfrentam oposição e são presos, mas um terremoto liberta-os e eles levam o carcereiro e sua família a crer em Jesus. Depois, eles viajam para Tessalônica, onde mais uma vez enfrentam perseguição, e depois para Bereia, onde são bem recebidos. Aqui estão cinco versículos relacionados com os temas abordados em Atos 16:
+* Filipenses 1:6: "Estou plenamente certo de que aquele que começou boa obra em vocês vai completá-la até o dia de Cristo Jesus." Esse versículo destaca a ideia de perseverança e confiança na obra de Deus, mesmo em meio a dificuldades, o que é evidenciado na experiência de Paulo e Silas em Filipos.
+* 1 Tessalonicenses 2:2: "Ao contrário do que sabem, depois de termos sofrido e sido ultrajados em Filipos, como sabem, tivemos a coragem em nosso Deus de lhes falar o evangelho de Deus em meio a grande oposição." Neste versículo, Paulo relembra sua experiência em Filipos e como mesmo diante da oposição, eles continuaram a pregar o evangelho.
+* Filipenses 4:6-7: "Não fiquem ansiosos por coisa alguma, mas em tudo, pela oração e súplicas, e com ação de graças, apresentem seus pedidos a Deus. E a paz de Deus, que excede todo o entendimento, guardará o coração e a mente de vocês em Cristo Jesus." Esse versículo pode ser aplicado à experiência de Paulo e Silas em Filipos, onde apesar de estarem na prisão, eles se entregaram à oração e ação de graças, experimentando a paz de Deus em meio à adversidade.
+* Atos 16:31: "Eles responderam: ‘Creia no Senhor Jesus, e serão salvos, você e os de sua casa.’" Esse versículo contém a mensagem central do evangelho que Paulo e Silas pregavam em suas viagens missionárias, incluindo sua passagem por Filipos e Tessalônica.
+* 1 Tessalonicenses 1:6: "Recebestes a palavra com alegria do Espírito Santo, apesar de muita tribulação." Esse versículo destaca a alegria que os novos convertidos em Tessalônica experimentaram, apesar da perseguição e tribulação que enfrentavam, algo que Paulo e Silas certamente compartilhavam.
+****
+
+[[v51-16-1]]
+
+^<<v51-16-1,1>>^ Chegou a Derbe e a Listra. Havia lá um discípulo, chamado Timóteo, filho de uma mulher judia, convertida à fé, e de pai grego.
+
+[[v51-16-2]]
+
+^<<v51-16-2,2>>^ Os irmãos, que estavam em Listra e em Icónio, davam bom testemunho dele.
+
+[[v51-16-3]]
+
+^<<v51-16-3,3>>^ Quis Paulo que ele fosse consigo, e, tomando-o, o circuncidou, por causa dos Judeus que havia naqueles lugares, porque todos sabiam que o pai dele era grego.
+
+[[v51-16-4]]
+
+^<<v51-16-4,4>>^ Ao passar pelas cidades, recomendavam que guardassem as decisões tomadas pelos Apóstolos e pelos presbíteros de Jerusalém.
+
+[[v51-16-5]]
+
+^<<v51-16-5,5>>^ Assim, pois, as igrejas eram confirmadas na fé e cresciam em número cada dia.
+
+[[v51-16-6]]
+
+^<<v51-16-6,6>>^ Tendo atravessado a Frígia e a província da Galácia, foram proibidos (por então) pelo Espírito Santo de anunciar a palavra de Deus na Ásia.
+
+[[v51-16-7]]
+
+^<<v51-16-7,7>>^ Tendo chegado aos confins da Mísia, intentavam passar a Bitínia, mas não lho permitiu o Espirito de Jesus. (ver nota)
+
+[[v51-16-8]]
+
+^<<v51-16-8,8>>^ Depois de terem atravessado a Mísia, desceram a Tróade.
+
+[[v51-16-9]]
+
+^<<v51-16-9,9>>^ Durante a noite, Paulo teve uma visão: Apresentava-se diante dele, em pé, um homem da Macedônia, que lhe rogava: "Passa à Macedônia e ajuda-nos."
+
+[[v51-16-10]]
+
+^<<v51-16-10,10>>^ Logo que teve esta visão, procuramos partir para a Macedônia, certificados de que Deus nos chamava a ir lá evangelizar. (ver nota)
+
+[[v51-16-11]]
+
+^<<v51-16-11,11>>^ Tendo-nos, pois, feito à vela de Tróade, fomos em direcção à Samotrácia, e, no dia seguinte, a Neápolis;
+
+[[v51-16-12]]
+
+^<<v51-16-12,12>>^ daí a Filipos, que é uma colônia (romana) e principal cidade daquela parte da Macedônia. Nesta cidade nos detivemos alguns dias.
+
+[[v51-16-13]]
+
+^<<v51-16-13,13>>^ No dia de sábado, saímos fora das portas, junto de uma ribeira, onde julgávamos haver um lugar de oração. Sentando-nos, falávamos às mulheres que tinham concorrido.
+
+[[v51-16-14]]
+
+^<<v51-16-14,14>>^ Uma mulher, chamada Lidia, da cidade de Tiatira, que negociava em púrpura, temente a Deus, ouvia-nos. O Senhor abriu-lhe o coração, para atender àquelas coisas que Paulo dizia.
+
+[[v51-16-15]]
+
+^<<v51-16-15,15>>^ Tendo sido baptízada ela com sua família, fez este pedido: "Se julgais que sou fiel ao Senhor, entrai em minha casa e ficai nela." E forçou-nos a isso.
+
+[[v51-16-16]]
+
+^<<v51-16-16,16>>^ Aconteceu que, um dia, indo nós à oração, nos veio ao encontro uma jovem , que tinha um espírito pitónico, a qual com as suas advinhações dava muito lucro a seus amos.
+
+[[v51-16-17]]
+
+^<<v51-16-17,17>>^ Ela, seguindo a Paulo e a nós, gritava, dizendo: "Estes homens são servos do Deus excelso, que vos anunciam o caminho da salvação."
+
+[[v51-16-18]]
+
+^<<v51-16-18,18>>^ E fazia isto muitos dias. Paulo, porém, enfadado, tendo-se voltado (para ela), disse ao espírito: "Ordeno-te em nome de Jesus Cristo que saias dessa mulher" E ele, na mesma hora saiu.
+
+[[v51-16-19]]
+
+^<<v51-16-19,19>>^ Mas, vendo seus amos que se lhe tinha acabado a esperança do lucro, pegando em Paulo e em Silas, os levaram ao foro às autoridades,
+
+[[v51-16-20]]
+
+^<<v51-16-20,20>>^ e, apresentando-os aos magistrados, disseram: "Estes homens amotinam a nossa cidade. Sendo Judeus,
+
+[[v51-16-21]]
+
+^<<v51-16-21,21>>^ pregam um género de vida, que não nos é licito admitir nem praticar, sendo romanos."
+
+[[v51-16-22]]
+
+^<<v51-16-22,22>>^ Então o povo levantou-se contra eles, e os magistrados, depois de ordenarem que lhes arrancassem as vestes, mandaram que fossem açoutados com varas.
+
+[[v51-16-23]]
+
+^<<v51-16-23,23>>^ Tendo-os ferido com muitos açoutes, meteram-nos na prisão, mandando ao carcereiro que os guardasse com cuidado.
+
+[[v51-16-24]]
+
+^<<v51-16-24,24>>^ Ele, recebida esta ordem, meteu-os no segredo e apertou-lhes os pés no cepo.
+
+[[v51-16-25]]
+
+^<<v51-16-25,25>>^ Mas, pela meia-noite, Paulo e Silas oravam, cantando louvores a Deus, e os que estavam na prisão ouviam-nos.
+
+[[v51-16-26]]
+
+^<<v51-16-26,26>>^ Subitamente, sentiu-se um terramoto tão grande que se moveram os fundamentos do cárcere. Abriram-se logo todas as portas, e quebraram-se as cadeias de todos.
+
+[[v51-16-27]]
+
+^<<v51-16-27,27>>^ Despertado o carcereiro, e vendo abertas as portas do cárcere, tirando a espada, queria matar-se, julgando que haviam fugido os presos.
+
+[[v51-16-28]]
+
+^<<v51-16-28,28>>^ Mas Paulo gritou em alta voz: "Não te faças nenhum mal, porque estamos aqui todos."
+
+[[v51-16-29]]
+
+^<<v51-16-29,29>>^ Então, tendo pedido luz, entrou dentro, e, tremendo, lançou-se aos pés de Paulo e de Silas.
+
+[[v51-16-30]]
+
+^<<v51-16-30,30>>^ Depois, tirando-os para fora, disse: "Senhores, que é necessário que eu faça para me salvar?"
+
+[[v51-16-31]]
+
+^<<v51-16-31,31>>^ Eles responderam: "Crê no Senhor Jesus, e serás salvo tu e a tua família."
+
+[[v51-16-32]]
+
+^<<v51-16-32,32>>^ E pregaram a palavra do Senhor a ele e a todos os que estavam em sua casa.
+
+[[v51-16-33]]
+
+^<<v51-16-33,33>>^ Então, tomando cuidado deles naquela mesma hora da noite, lavou-lhes as chagas, e, imediatamente foi baptizado com toda a sua família.
+
+[[v51-16-34]]
+
+^<<v51-16-34,34>>^ Feito isto, levou-os a sua casa, pôs-lhes a mesa e alegrou-se com toda a sua família por ter crido em Deus.
+
+[[v51-16-35]]
+
+^<<v51-16-35,35>>^ Quando foi dia, os magistrados mandaram os litores dizer ao carcereiro: "Põe esses homens em liberdade."
+
+[[v51-16-36]]
+
+^<<v51-16-36,36>>^ O carcereiro levou esta nova a Paulo: "Os magistrados mandaram pôr-vos em liberdade. Agora, pois, saindo daqui, ide em paz."
+
+[[v51-16-37]]
+
+^<<v51-16-37,37>>^ Mas Paulo disse-lhes: "Açoutados publicamente, sem julgamento, sendo cidadãos romanos, metidos no cárcere, e agora fazem-nos sair em segredo? Não será assim, mas venham,
+
+[[v51-16-38]]
+
+^<<v51-16-38,38>>^ e tirem-nos eles mesmos." Os litores referiram estas palavras aos magistrados, os quais, ouvindo (dizer) que eram cidadãos romanos, tiveram medo.
+
+[[v51-16-39]]
+
+^<<v51-16-39,39>>^ Foram, pois, pediram-lhes desculpa, e, tirando-os para fora, lhes rogaram que saíssem da cidade.
+
+[[v51-16-40]]
+
+^<<v51-16-40,40>>^ Saindo do cárcere, entraram em casa de Lídia; e, tendo visto os irmãos, os consolaram, e partiram.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-015.adoc#v51-15-0[&#60; Capítulo Anterior] | <<v51-16-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-017.adoc#v51-17-0[Próximo Capítulo &#62;]

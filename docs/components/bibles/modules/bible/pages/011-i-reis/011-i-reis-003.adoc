@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v11-3-0]]
+=== I Reis, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Reis 3 relata a sabedoria de Salomão e sua escolha de pedir a Deus sabedoria em vez de riquezas ou fama. Deus fica satisfeito com a escolha de Salomão e lhe concede sabedoria excepcional, que é demonstrada em um julgamento que envolve duas mulheres disputando a maternidade de uma criança. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Reis 3:
+* Provérbios 2:6: "Porque o SENHOR dá a sabedoria, e da sua boca vem o conhecimento e o entendimento." Este versículo destaca que a sabedoria vem de Deus, que é exatamente o que Salomão pede em 1 Reis 3.
+* Provérbios 3:13: "Bem-aventurado o homem que acha sabedoria, e o homem que adquire conhecimento." Este versículo mostra a importância da sabedoria, que Salomão busca em 1 Reis 3.
+* Eclesiastes 1:16-18: "Falei eu com o meu coração, dizendo: Eu sou rico, e me tornei em muito mais do que todos os que antes de mim foram a Jerusalém; e também perseverou comigo o meu coração no conhecimento da sabedoria e do conhecimento. E apliquei o meu coração a conhecer a sabedoria e a conhecer os desvarios e as loucuras; e vim a saber que também isso era aflição de espírito. Porque na muita sabedoria há muito enfado; e o que aumenta em conhecimento, aumenta em dor." Estes versículos mostram que, embora a sabedoria seja valiosa, ela também pode trazer preocupações e desafios, como é o caso de Salomão em 1 Reis 3.
+* Provérbios 4:7: "A sabedoria é a principal coisa; adquire pois a sabedoria, emprega tudo o que possuis na aquisição de entendimento." Este versículo enfatiza a importância da sabedoria, que Salomão pede em 1 Reis 3.
+* Provérbios 16:16: "Quanto melhor é adquirir a sabedoria do que o ouro! e quanto mais excelente, adquirir a prudência do que a prata!" Este versículo ressalta que a sabedoria é mais valiosa do que riquezas materiais, uma lição que Salomão aprende em 1 Reis 3.
+****
+
+[[v11-3-1]]
+
+^<<v11-3-1,1>>^ Confirmou-se o reino na mão de Salomão, que se aparentou com Faraó, rei do Egipto, porque casou com uma sua filha. Levou a para a cidade de Davide, até que acabasse de edificar a sua casa e a do Senhor, e o muro à roda de Jerusalém
+
+[[v11-3-2]]
+
+^<<v11-3-2,2>>^ Entretanto o povo imolava nos lugares altos, porque até àquele dia não tinha ainda sido edificado templo ao nome do Senhor.
+
+[[v11-3-3]]
+
+^<<v11-3-3,3>>^ Ora Salomão amava o Senhor, conduzindo-se segundo os preceitos de Davide, seu pai; sòmente sacrificava e queimava incenso nos lugares altos.
+
+[[v11-3-4]]
+
+^<<v11-3-4,4>>^ Foi Salomão, pois, a Gabaon, para lá sacrificar, porque este era o mais considerável entre todos os lugares altos, e ofereceu mil holocaustos sobre aquele altar de Gabaon.
+
+[[v11-3-5]]
+
+^<<v11-3-5,5>>^ Apareceu o Senhor a Salomão, em sonhos, de noite, dizendo: Pede-me o que quiseres que eu te dê.
+
+[[v11-3-6]]
+
+^<<v11-3-6,6>>^ Salomão disse: Tu usaste de grande misericórdia com meu pai Davide, teu servo, segundo a verdade e justiça com que ele andou na tua presença, segundo a rectidão de coração para contigo; tu conservaste para com ele a tua grande misericórdia, dando-lhe um filho que se sentasse sobre o seu trono, como hoje se verifica.
+
+[[v11-3-7]]
+
+^<<v11-3-7,7>>^ Portanto, ó Senhor Deus, foste tu que me fizeste reinar a mim, teu servo, em lugar de Davide, meu pai; mas eu sou (como) um menino, que não se sabe ainda dirigir.
+
+[[v11-3-8]]
+
+^<<v11-3-8,8>>^ O teu servo está no meio do povo que tu escolheste, povo infinito, que não pode contar-se nem reduzir-se a número, pela sua multidão.
+
+[[v11-3-9]]
+
+^<<v11-3-9,9>>^ Tu, pois, concede ao teu servo um coração inteligente, para poder julgar o teu povo e discernir entre o bem e o mal; sem isto, com efeito, quem poderá julgar um povo tão numeroso?
+
+[[v11-3-10]]
+
+^<<v11-3-10,10>>^ Agradou ao Senhor esta oração, por ter Salomão pedido uma tal coisa.
+
+[[v11-3-11]]
+
+^<<v11-3-11,11>>^ O Senhor disse a Salomão: Visto que esta foi a petição que me fizeste, visto que não pediste para ti nem longa vida, nem riquezas, nem a morte de teus inimigos, mas pediste a sabedoria a fim de discernires o que é justo,
+
+[[v11-3-12]]
+
+^<<v11-3-12,12>>^ vou satisfazer o teu desejo: dou-te um coração tão cheio de sabedoria e de inteligência, que nenhum antes de ti te foi semelhante, nem se levantará outro depois de ti.
+
+[[v11-3-13]]
+
+^<<v11-3-13,13>>^ Além disso dou-te também o que me não pediste, a saber; riquezas e glória em tal grau, que não se encontrará rei semelhante a ti, durante toda a tua vida.
+
+[[v11-3-14]]
+
+^<<v11-3-14,14>>^ Se tu andares nos meus caminhos, guardares os meus preceitos e mandamentos, como teu pai os guardou, eu prolongarei os teus dias.
+
+[[v11-3-15]]
+
+^<<v11-3-15,15>>^ Então despertou Salomão, e compreendeu que era sonho. De volta a Jerusalém, pôs-se diante da arca da aliança do Senhor, ofereceu holocaustos, imolou vítimas pacíficas e deu a todos os seus servos um grande banquete.
+
+[[v11-3-16]]
+
+^<<v11-3-16,16>>^ Nesta ocasião foram ter com o rei duas mulheres públicas.
+
+[[v11-3-17]]
+
+^<<v11-3-17,17>>^ Uma delas disse: Digna-te, meu senhor, ouvir-me: Eu e esta mulher habitávamos numa mesma casa, e eu dei à luz no mesmo aposento em que ela estava.
+
+[[v11-3-18]]
+
+^<<v11-3-18,18>>^ Três dias depois de eu ter dado à luz, deu ela também à luz. Vivíamos juntas, e não havia na casa mais pessoa alguma conosco, além de nós ambas.
+
+[[v11-3-19]]
+
+^<<v11-3-19,19>>^ Ora, uma noite, morreu o filho desta mulher, porque estando a dormir, o abafou.
+
+[[v11-3-20]]
+
+^<<v11-3-20,20>>^ Levantando-se no mais profundo silêncio da noite, tirou-me o meu filho do meu lado, quando eu, tua escrava, dormia, pô-lo junto de si, e pôs junto de mim o seu filho, que estava morto.
+
+[[v11-3-21]]
+
+^<<v11-3-21,21>>^ Levantando-me eu pela manhã para amamentar o meu filho, apareceu-me morto; olhando para ele com mais atenção, já dia claro, vi que ele não era o meu, não era o que eu tinha dado à luz;
+
+[[v11-3-22]]
+
+^<<v11-3-22,22>>^ A outra mulher respondeu: Não é assim como tu dizes; o teu filho morreu e o meu é que está vivo. A primeira, pelo contrário, replicava: Mentes, porque o meu filho está vivo, e o teu é que morreu. E deste modo disputavam diante do rei.
+
+[[v11-3-23]]
+
+^<<v11-3-23,23>>^ Então disse o rei: Esta diz: O meu filho está vivo, e o teu filho está morto. Aquela responde: Não, mas o teu filho é que morreu, e o meu é que está vivo.
+
+[[v11-3-24]]
+
+^<<v11-3-24,24>>^ Disse, pois, o rei: Trazei-me cá um a espada. Sendo trazida uma espada ao rei,
+
+[[v11-3-25]]
+
+^<<v11-3-25,25>>^ este disse: Dividi em duas partes o menino, que está vivo, e dai metade a uma, e metade a outra.
+
+[[v11-3-26]]
+
+^<<v11-3-26,26>>^ A mulher, porém, cujo filho estava vivo, disse ao rei (porque as suas entranhas se enterneceram por seu filho)_: Senhor, peço-te que dês a ela o menino vivo, que não o mates. A outra, pelo contrário, dizia: Não seja nem para mim, nem para ti, mas divida-se.
+
+[[v11-3-27]]
+
+^<<v11-3-27,27>>^ Então o rei respondeu: Dai àquela o menino vivo, não se mate, porque é ela a sua mãe.
+
+[[v11-3-28]]
+
+^<<v11-3-28,28>>^ Todo o Israel teve conhecimento da sentença que o rei tinha dado, e temeu o rei, vendo que estava nele a sabedoria de Deus para fazer justiça.
+
+'''
+
+xref:011-i-reis/011-i-reis-002.adoc#v11-2-0[&#60; Capítulo Anterior] | <<v11-3-0,Topo>> | xref:011-i-reis/011-i-reis-004.adoc#v11-4-0[Próximo Capítulo &#62;]

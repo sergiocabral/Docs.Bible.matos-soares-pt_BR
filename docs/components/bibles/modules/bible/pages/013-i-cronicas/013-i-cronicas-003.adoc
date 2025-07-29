@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v13-3-0]]
+=== I Crônicas, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 3 é um capítulo que se concentra nas genealogias da família do rei Davi. Ele começa mencionando os filhos de Davi que nasceram em Hebrom e continua com uma lista dos filhos que nasceram em Jerusalém. O capítulo também menciona alguns dos descendentes de Davi que se tornaram reis de Judá. Alguns dos temas abordados em 1 Crônicas 3 incluem descendência, sucessão e realeza. Seguem abaixo cinco versículos relacionados a esses temas:
+* 2 Samuel 5:4: "E era Davi da idade de trinta anos e reinou quarenta anos." Esse versículo se relaciona com a menção aos anos de reinado de Davi em 1 Crônicas 3, que foi um rei bem-sucedido e importante na história de Israel.
+* 2 Samuel 7:12: "E, quando teus dias forem completos, e vieres a dormir com teus pais, então farei levantar depois de ti um dentre a tua descendência, que sairá das tuas entranhas, e estabelecerei o seu reino." Esse versículo fala da promessa de Deus a Davi de que um de seus descendentes continuaria seu reinado, o que se relaciona com a menção aos filhos e descendentes de Davi em 1 Crônicas 3.
+* 2 Reis 8:16: "E no quinto ano de Jorão, filho de Acabe, rei de Israel, sendo Jeosafá rei de Judá, começou a reinar Jeorão, filho de Jeosafá, rei de Judá." Esse versículo se relaciona com a menção aos descendentes de Davi que se tornaram reis de Judá, como Jeosafá e seu filho Jeorão, em 1 Crônicas 3.
+* 1 Reis 11:43: "E dormiu Salomão com seus pais, e foi sepultado na cidade de Davi, seu pai; e Roboão, seu filho, reinou em seu lugar." Esse versículo fala da morte do filho de Davi, Salomão, e da sucessão de seu filho Roboão, que é mencionado em 1 Crônicas 3.
+* Salmos 89:36: "A sua descendência durará para sempre, e o seu trono, como o sol diante de mim." Esse versículo fala da promessa de Deus a Davi de que sua descendência teria um trono que duraria para sempre, o que se relaciona com a menção aos filhos e descendentes de Davi em 1 Crônicas 3.
+****
+
+[[v13-3-1]]
+
+^<<v13-3-1,1>>^ Davide teve estes filhos, que lhe nasceram em Hebron: o primogênito Amnon, de Aquinoam Jezraelita; o segundo, Daniel, de Abigail do Carmelo;
+
+[[v13-3-2]]
+
+^<<v13-3-2,2>>^ o terceiro, Absalão, filho de Maaca, filha de Tolmal, rei de Gessur: o quarto, Adonias, filho de Agit;
+
+[[v13-3-3]]
+
+^<<v13-3-3,3>>^ o quinto, Safatias, filho de Abital; o sexto, Jetraão, filho de Egla, sua mulher.
+
+[[v13-3-4]]
+
+^<<v13-3-4,4>>^ Nasceram-lhe, portanto, seis filhos em Hebron, onde ele reinou durante sete anos e seis meses. Em Jerusalém reinou durante trinta e três anos.
+
+[[v13-3-5]]
+
+^<<v13-3-5,5>>^ Em Jerusalém nasceram-lhe estes fllhos: Simaa, Sobab, Natan e Salomão, todos quatro de Betsabé, filha de Amiel.
+
+[[v13-3-6]]
+
+^<<v13-3-6,6>>^ Teve mais Jebaar, Elisama,
+
+[[v13-3-7]]
+
+^<<v13-3-7,7>>^ Elifalet, Noge, Nefeg, Jafia,
+
+[[v13-3-8]]
+
+^<<v13-3-8,8>>^ e também Elisama, Eliada, Elifelet: nove ao todo.
+
+[[v13-3-9]]
+
+^<<v13-3-9,9>>^ Todos estes foram os filhos de Davide, sem contar os filhos das mulheres de segunda ordem. Tiveram uma irmã chamada Tamar.
+
+[[v13-3-10]]
+
+^<<v13-3-10,10>>^ O filho de Salomão foi Roboão, cujo filho Abia gerou Asa. Deste nasceu Josafat,
+
+[[v13-3-11]]
+
+^<<v13-3-11,11>>^ pai de Jorão; Jorão gerou Ocozias, do qual nasceu Joás;
+
+[[v13-3-12]]
+
+^<<v13-3-12,12>>^ Amasias, filho deste, gerou Azarias; Joatão, filho de Azarias,
+
+[[v13-3-13]]
+
+^<<v13-3-13,13>>^ gerou a Acaz, pai de Ezequias, de quem nasceu Manassés;
+
+[[v13-3-14]]
+
+^<<v13-3-14,14>>^ Manassés gerou Amon, pai de Josias.
+
+[[v13-3-15]]
+
+^<<v13-3-15,15>>^ Os filhos de Josias foram: Joanan, o primogênito, o segundo Joaquim, o terceiro Sedecias, o quarto Selum.
+
+[[v13-3-16]]
+
+^<<v13-3-16,16>>^ De Joaquim nasceram Jeconias e Sedecias.
+
+[[v13-3-17]]
+
+^<<v13-3-17,17>>^ Filhos de Jeconias foram: Asir, Salatiel,
+
+[[v13-3-18]]
+
+^<<v13-3-18,18>>^ Melquiron, Fadaia, Seneser, Jacemin, Sama e Nadabia.
+
+[[v13-3-19]]
+
+^<<v13-3-19,19>>^ De Fadaia nasceram Zorobabel e Semei. Zorobabel gerou Mosolão, Hananias, e Salomit, irmã deles,
+
+[[v13-3-20]]
+
+^<<v13-3-20,20>>^ e também estes cinco: Hasaban, Ool, Baraquias, Hasadias e Josahesed.
+
+[[v13-3-21]]
+
+^<<v13-3-21,21>>^ Hananias teve por filho a Faltlas, pai de Jeseias, cujo filho foi Rafaia; o filho deste foi Arnan, do qual nasceu Obdia, cujo filho foi Secenlas.
+
+[[v13-3-22]]
+
+^<<v13-3-22,22>>^ O filho de Secenias foi Semeia, do qual foram filhos Hatus, Jegaal, Baria, Naaria e Safat, em número de seis (contando o pai).
+
+[[v13-3-23]]
+
+^<<v13-3-23,23>>^ Os filhos de Naaria foram três: Elioenai, Ezequias e Ezricão.
+
+[[v13-3-24]]
+
+^<<v13-3-24,24>>^ Os filhos de Elloenai foram sete: Odulia, Eliasub, Feleia, Acub, Joanan, Dalaia e Anani.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-002.adoc#v13-2-0[&#60; Capítulo Anterior] | <<v13-3-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-004.adoc#v13-4-0[Próximo Capítulo &#62;]

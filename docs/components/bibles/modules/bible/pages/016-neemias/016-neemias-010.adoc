@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v16-10-0]]
+=== Neemias, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Neemias 10, o povo de Israel faz um acordo com Deus para seguir suas leis e estatutos e viver de acordo com sua vontade. O capítulo contém uma lista detalhada de pessoas que assinaram o acordo e comprometeram-se a cumprir as obrigações estipuladas. Abaixo estão cinco versículos relacionados com os temas abordados em Neemias 10:
+* Deuteronômio 27:26: "Maldito aquele que não confirmar as palavras desta lei, não as cumprindo. E todo o povo dirá: Amém!" Este versículo destaca a importância de seguir a lei de Deus e as consequências de não fazê-lo.
+* Josué 24:24: "E disse o povo a Josué: Serviremos ao Senhor nosso Deus, e obedeceremos à sua voz." Este versículo mostra o compromisso do povo de Israel em servir a Deus e seguir sua vontade.
+* Salmos 119:106: "Jurando eu, e o confirmarei, que guardarei os teus justos juízos." Este versículo enfatiza a importância de cumprir os mandamentos de Deus e seguir sua vontade.
+* Ezequiel 36:27: "E porei dentro de vós o meu Espírito, e farei que andeis nos meus estatutos, e guardeis os meus juízos, e os observeis." Este versículo mostra a promessa de Deus de dar a seu povo o Espírito Santo para ajudá-los a cumprir suas leis e estatutos.
+* Gálatas 6:2: "Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo." Este versículo destaca a importância da comunidade e da ajuda mútua na vida cristã e em seguir a vontade de Deus.
+****
+
+[[v16-10-1]]
+
+^<<v16-10-1,1>>^ Os que assinaram foram: Neemias, o governador, filho de Haquelai, Sedecias,
+
+[[v16-10-2]]
+
+^<<v16-10-2,2>>^ Saraias, Azarias, Jeremias,
+
+[[v16-10-3]]
+
+^<<v16-10-3,3>>^ Fasur, Amarias, Melquias,
+
+[[v16-10-4]]
+
+^<<v16-10-4,4>>^ Hato, Sebenias, Meluc,
+
+[[v16-10-5]]
+
+^<<v16-10-5,5>>^ Harem, Merimut, Obdias,
+
+[[v16-10-6]]
+
+^<<v16-10-6,6>>^ Daniel, Genton, Baruc,
+
+[[v16-10-7]]
+
+^<<v16-10-7,7>>^ Mosolão, Abias, Miamin,
+
+[[v16-10-8]]
+
+^<<v16-10-8,8>>^ Maazias, Belgai, Semeias. Estes eram sacerdotes.
+
+[[v16-10-9]]
+
+^<<v16-10-9,9>>^ Os Levitas (que assinaram) foram: Josué, filho de Azanias, Benui, dos filhos de Henadad, Cedmiel
+
+[[v16-10-10]]
+
+^<<v16-10-10,10>>^ e seus irmãos: Sebenias, Odaias, Celita, Falaías, Hanan,
+
+[[v16-10-11]]
+
+^<<v16-10-11,11>>^ Mica, Roob, Hasebias,
+
+[[v16-10-12]]
+
+^<<v16-10-12,12>>^ Zacur, Serebias, Sabanias,
+
+[[v16-10-13]]
+
+^<<v16-10-13,13>>^ Odaias, Bani, Baninu.
+
+[[v16-10-14]]
+
+^<<v16-10-14,14>>^ Chefes do povo: Faros, Faat-Moab, Elão, Zetu, Bani,
+
+[[v16-10-15]]
+
+^<<v16-10-15,15>>^ Boni, Azgad, Bebai,
+
+[[v16-10-16]]
+
+^<<v16-10-16,16>>^ Adonias, Begoai, Adin,
+
+[[v16-10-17]]
+
+^<<v16-10-17,17>>^ Ater, Ezequias, Azur,
+
+[[v16-10-18]]
+
+^<<v16-10-18,18>>^ Odaias, Hasum, Besai,
+
+[[v16-10-19]]
+
+^<<v16-10-19,19>>^ Haref, Analot, Nebai,
+
+[[v16-10-20]]
+
+^<<v16-10-20,20>>^ Megfias, Mosolão, Hazir,
+
+[[v16-10-21]]
+
+^<<v16-10-21,21>>^ Mesizabel, Sadoc, Jedua,
+
+[[v16-10-22]]
+
+^<<v16-10-22,22>>^ Feltias, Hanan, Anaias,
+
+[[v16-10-23]]
+
+^<<v16-10-23,23>>^ Oseias, Anania, Hasub,
+
+[[v16-10-24]]
+
+^<<v16-10-24,24>>^ Aloés, Falea, Sobec,
+
+[[v16-10-25]]
+
+^<<v16-10-25,25>>^ Reum, Hasebna, Maasias,
+
+[[v16-10-26]]
+
+^<<v16-10-26,26>>^ Equias, Hanan, Anan,
+
+[[v16-10-27]]
+
+^<<v16-10-27,27>>^ Meluc, Harim, Baana.
+
+[[v16-10-28]]
+
+^<<v16-10-28,28>>^ O resto do povo, os sacerdotes, os Levitas, os porteiros, os cantores, os Natineus, e todos os que se tinham separado dos povos das terras para abraçarem a lei de Deus, as suas mulheres, os seus filhos, as suas filhas,
+
+[[v16-10-29]]
+
+^<<v16-10-29,29>>^ todos os que tinham discernimento, juntaram-se a seus irmãos, os principais entre eles, e prometeram, sob juramento, que andariam na lei de Deus, que o Senhor tinha dado por meio de Moisés, servo de Deus, que guardariam e observariam todos os mandamentos do Senhor nosso Deus, as suas ordens, as suas leis.
+
+[[v16-10-30]]
+
+^<<v16-10-30,30>>^ Prometemos que não daríamos as nossas filhas ao povo da terra, nem tomaríamos as suas filhas para os nossos filhos.
+
+[[v16-10-31]]
+
+^<<v16-10-31,31>>^ Além disso, vindo os povos da terra trazer mercadorias e comestíveis para vender, aos sábados ou em dias santificados, nós não lhos compraremos, nem no sábado nem no dia santificado. (Também) deixaremos (a terra em descanso) no sétimo ano e perdoaremos todas as dívidas.
+
+[[v16-10-32]]
+
+^<<v16-10-32,32>>^ Nós nos imporemos a obrigação de dar cada ano a terça parte dum siclo para as obras da casa do nosso Deus,
+
+[[v16-10-33]]
+
+^<<v16-10-33,33>>^ para os pães da proposição, para a oblação perpétua, para o holocausto perpétuo, para os sacrifícios dos sábados, das neoménias, das festas solenes, para as coisas consagradas, para os sacrifícios pelo pecado, a fim de que (Deus) seja propício a Israel, e para todo o ministério da casa do nosso Deus.
+
+[[v16-10-34]]
+
+^<<v16-10-34,34>>^ Deitamos sortes entre os sacerdotes, os Levitas e o povo, acerca da lenha que se deve oferecer, para que fosse levada à casa do nosso Deus por cada uma das nossas famílias, à vez, no tempo devido, de ano a ano, para se queimar sobre o altar do Senhor nosso Deus, conforme está escrito na lei de Moisés.
+
+[[v16-10-35]]
+
+^<<v16-10-35,35>>^ Prometemos levar todos os anos à casa do Senhor as primícias da nossa terra, as primícias dos frutos de todas as árvores,
+
+[[v16-10-36]]
+
+^<<v16-10-36,36>>^ os primogênitos dos nossos filhos e dos nossos gados, como está escrito na lei, e os primogênitos dos nossos bois e das nossas ovelhas, para serem oferecidos na casa do nosso Deus aos sacerdotes que servem na casa do nosso Deus;
+
+[[v16-10-37]]
+
+^<<v16-10-37,37>>^ também prometemos levar aos sacerdotes, para o tesouro (da casa) do nosso Deus, as primícias dos nossos alimentos, dos nossos licores, dos frutos de todas as árvores, da vinha, do azeite, e pagar o dízimo da nossa terra aos Levitas. Os mesmos Levitas receberão em todas as cidades os dízimos dos nossos trabalhos.
+
+[[v16-10-38]]
+
+^<<v16-10-38,38>>^ O sacerdote da linhagem de Aarão terá parte com os Levitas nos dízimos que os Levitas receberem; os Levitas oferecerão na casa do nosso Deus o dízimo do dízimo, que tiverem recebido, para se guardar na casa do tesouro.
+
+[[v16-10-39]]
+
+^<<v16-10-39,39>>^ Com efeito, os filhos de Israel e os filhos de Levi, levarão as primícias do trigo, do vinho e do azeite, à casa do tesouro; ali estarão os vasos consagrados, e os sacerdotes, os cantores, os porteiros e os ministros. Assim não seremos descuidados para com a casa do nosso Deus.
+
+'''
+
+xref:016-neemias/016-neemias-009.adoc#v16-9-0[&#60; Capítulo Anterior] | <<v16-10-0,Topo>> | xref:016-neemias/016-neemias-011.adoc#v16-11-0[Próximo Capítulo &#62;]

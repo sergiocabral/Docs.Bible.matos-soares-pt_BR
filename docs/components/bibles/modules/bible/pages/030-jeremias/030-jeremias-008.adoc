@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v30-8-0]]
+=== Jeremias, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 de Jeremias trata da incredulidade e da falta de arrependimento do povo de Judá, que se recusa a reconhecer a gravidade de seus pecados e a se voltar para Deus. A seguir, apresento cinco versículos relacionados com esses temas:
+* Isaías 55:6-7: "Buscai ao SENHOR enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; volte-se ao SENHOR, que se compadecerá dele; e para o nosso Deus, porque é abundante em perdoar." Esse verso encoraja as pessoas a buscarem a Deus enquanto há tempo, abandonando seus caminhos pecaminosos e voltando-se para o Senhor, que é abundante em perdoar.
+* Ezequiel 33:11: "Dize-lhes: Tão certo como eu vivo, diz o Senhor JEOVÁ, que não tenho prazer na morte do ímpio, mas sim em que o ímpio se converta do seu caminho e viva. Convertei-vos, convertei-vos dos vossos maus caminhos; pois por que morrereis, ó casa de Israel?" Esse verso destaca o desejo de Deus de que as pessoas se voltem para Ele e vivam, em vez de persistirem em seus pecados e morrerem.
+* Salmos 51:17: "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus." Este versículo enfatiza que o verdadeiro sacrifício a Deus é um coração quebrantado e contrito, e não simplesmente rituais externos.
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e deixa, alcançará misericórdia." Esse verso destaca a importância da confissão e do abandono dos pecados, como condição para a misericórdia de Deus.
+* Isaías 1:18: "Vinde, pois, e arrazoemos, diz o SENHOR; ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã." Este versículo apresenta a oferta de perdão e restauração que Deus faz ao Seu povo, mesmo que seus pecados sejam muitos e graves.
+****
+
+[[v30-8-1]]
+
+^<<v30-8-1,1>>^ Naquele tempo, diz o Senhor, serão lançados fora das suas sepulturas os ossos dos reis de Judá, os ossos dos seus príncipes, os ossos dos sacerdotes, os ossos dos profetas e os ossos daqueles que habitaram em Jerusalém; (ver nota)
+
+[[v30-8-2]]
+
+^<<v30-8-2,2>>^ serão expostos ao sol, à lua e a toda a milícia (ou astros) do céu, que eles amaram e serviram, atrás de quem andaram, a quem consultaram e adoraram; não serão recolhidos nem sepultados: ficarão sobre a face da terra como esterco.
+
+[[v30-8-3]]
+
+^<<v30-8-3,3>>^ E escolherão antes a morte que a vida, todos os que ficarem desta raça perversa em todos os lugares, para onde eu os arrojar, diz o Senhor dos exércitos.
+
+[[v30-8-4]]
+
+^<<v30-8-4,4>>^ Dize-lhes: Assim fala o Senhor: Porventura o que cai não se levantará? E o que se desviou não voltará?
+
+[[v30-8-5]]
+
+^<<v30-8-5,5>>^ Por que, então, se desviou (de mim) este povo de Jerusalém com um obstinado descaminho? Apegam-se à mentira, não querem voltar.
+
+[[v30-8-6]]
+
+^<<v30-8-6,6>>^ Atendi e escutei: não falam como é mister; não há quem faça penitência do seu pecado, dizendo: Que fiz eu? (Pelo contrário) todos voltam à sua carreira, como um cavalo que se atira ao combate.
+
+[[v30-8-7]]
+
+^<<v30-8-7,7>>^ A cegonha conhece no céu a sua estação; a rola, a andorinha e a grua observam o tempo da sua arribação; mas o meu povo não conhece a lei do Senhor.
+
+[[v30-8-8]]
+
+^<<v30-8-8,8>>^ Como dizeis vós: Somos sábios, e a lei do Senhor está connosco? (Enganais-vos): verdadeiramente o cálamo mentiroso dos escribas transformou-a (à lei) em mentira.
+
+[[v30-8-9]]
+
+^<<v30-8-9,9>>^ Os (vossos) sábios estão confundidos, consternados e enredados. Rejeitaram a palavra do Senhor. E, afinal, que sabedoria há neles?
+
+[[v30-8-10]]
+
+^<<v30-8-10,10>>^ Pelo que darei as suas mulheres a estranhos, os seus campos a outros proprietários porque, desde o mais pequeno ao maior, todos se dão à ganância; desde o profeta ao sacerdote todos praticam a fraude.
+
+[[v30-8-11]]
+
+^<<v30-8-11,11>>^ Tratam, à toa, as chagas da filha do meu povo, dizendo: Paz, paz! - quando não há paz.
+
+[[v30-8-12]]
+
+^<<v30-8-12,12>>^ Serão confundidos, porque cometeram coisas abomináveis, ou antes, nem sequer sentem já vergonha, não sabem o que é envergonhar-se; portanto cairão entre os mortos, no tempo do seu castigo cairão, diz o Senhor.
+
+[[v30-8-13]]
+
+^<<v30-8-13,13>>^ Vou juntá-los todos, diz o Senhor; não há uvas nas vides, nem figos na figueira, e as folhas murcharam! E farei que sejam arrebatadas.
+
+[[v30-8-14]]
+
+^<<v30-8-14,14>>^ Por que estamos nós quietos (dirão os Judeus)? Juntai-vos, entremos nas cidades fortificadas, para aí perecer, pois o Senhor nosso Deus nos vai fazer morrer, nos dá a beber águas envenenadas, porque pecamos contra o Senhor.
+
+[[v30-8-15]]
+
+^<<v30-8-15,15>>^ Esperávamos a paz, e nenhum bem nos chega; o remédio, e eis que só há terror.
+
+[[v30-8-16]]
+
+^<<v30-8-16,16>>^ O estrépito da cavalaria inimiga ouve-se já desde Dan; ao som dos relinchos dos seus cavalos guerreiros estremece todo o país; vêm a devorar a terra e quanto há nela, a cidade e os seus habitantes.
+
+[[v30-8-17]]
+
+^<<v30-8-17,17>>^ Enviarei contra vós (Os Caldeus, como) serpentes e áspides contra os quais nada podem os encantamentos; eles vos morderão, diz o Senhor.
+
+[[v30-8-18]]
+
+^<<v30-8-18,18>>^ A minha dor é sem remédio, o meu coração angustiado dentro de mim.
+
+[[v30-8-19]]
+
+^<<v30-8-19,19>>^ Eis a voz lamentosa (de Jerusalém) da filha do meu povo, que clama de uma terra longínqua: Porventura não está o Senhor em Sião, ou não está o seu rei no meio dela? Por que razão (responde o Senhor) me irritaram os seus habitantes com os seus ídolos, com deuses alheios?
+
+[[v30-8-20]]
+
+^<<v30-8-20,20>>^ O tempo da ceifa passou (dizem os Israelitas), o estio findou, e nós não fomos salvos.
+
+[[v30-8-21]]
+
+^<<v30-8-21,21>>^ Estou ferido (continua Jeremias) com a ferida da filha do meu povo; o espanto apoderou-se de mim.
+
+[[v30-8-22]]
+
+^<<v30-8-22,22>>^ Porventura não há mais bálsamo em Galaad? Não se acha lá nenhum médico? Por que não foi pois fechada a ferida da filha do meu povo?
+
+'''
+
+xref:030-jeremias/030-jeremias-007.adoc#v30-7-0[&#60; Capítulo Anterior] | <<v30-8-0,Topo>> | xref:030-jeremias/030-jeremias-009.adoc#v30-9-0[Próximo Capítulo &#62;]

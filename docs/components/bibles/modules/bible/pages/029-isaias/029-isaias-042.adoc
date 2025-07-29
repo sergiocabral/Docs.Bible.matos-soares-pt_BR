@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v29-42-0]]
+=== Isaías, 42
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 42 de Isaías começa com a profecia de um Servo escolhido por Deus, que traria justiça às nações e luz aos povos. Ele seria gentil e compassivo, não iria desistir até que a justiça fosse estabelecida na terra. A seguir, cinco versículos relacionados com os temas abordados em Isaías 42:
+* Salmos 72:1-2: "Ó Deus, dá ao rei teus juízos e a tua justiça ao filho do rei. Ele julgará o teu povo com justiça e os teus pobres com equidade." Este salmo fala sobre a justiça e equidade que o rei deve ter para governar o povo com sabedoria.
+* João 12:46: "Eu sou a luz que vim ao mundo, para que todo aquele que crê em mim não permaneça nas trevas." Jesus se identifica como a luz do mundo, que traria a verdade e a esperança para as pessoas.
+* Mateus 12:18-21: "Eis aqui o meu servo, que escolhi, o meu amado, em quem a minha alma se compraz. Porei sobre ele o meu Espírito, e ele anunciará aos gentios o juízo. Não contenderá, nem clamará, nem alguém ouvirá nas ruas a sua voz. A cana trilhada não quebrará, nem apagará o pavio que fumega, até que faça vencedora a justiça." Este trecho cita a profecia de Isaías 42, que é aplicada a Jesus como o Servo escolhido por Deus.
+* Efésios 4:1-3: "Eu, pois, prisioneiro do Senhor, vos rogo que andeis como é digno da vocação com que fostes chamados, com toda humildade e mansidão, com longanimidade, suportando-vos uns aos outros em amor, procurando guardar a unidade do Espírito pelo vínculo da paz." Este versículo fala sobre a necessidade de agir com humildade e mansidão, virtudes que também são atribuídas ao Servo de Isaías 42.
+* 1 Pedro 2:23: "O qual, quando o injuriavam, não injuriava, e quando padecia não ameaçava, mas entregava-se àquele que julga justamente." Este versículo descreve a atitude pacífica e justa que o Servo de Isaías 42 deveria ter, e que também foi exemplificada por Jesus em sua vida terrena.
+****
+
+[[v29-42-1]]
+
+^<<v29-42-1,1>>^ Eis o meu servo, que eu amparo, o meu escolhido, no qual a minha alma põe a sua complacência; sobre ele derramei o meu espírito; ele espalhará a justiça entre as nações.
+
+[[v29-42-2]]
+
+^<<v29-42-2,2>>^ (Senão manso) não clamará, não falará alto, a sua voz não se ouvirá nas ruas.
+
+[[v29-42-3]]
+
+^<<v29-42-3,3>>^ Não quebrará a cana rachada, nem apagará a torcida que ainda fumega. Anunciará a justiça conforme a verdade.
+
+[[v29-42-4]]
+
+^<<v29-42-4,4>>^ Não desfalecerá, não desanimará, até estabelecer a justiça sobre a terra; e as ilhas esperam a sua doutrina.
+
+[[v29-42-5]]
+
+^<<v29-42-5,5>>^ Eis o que diz o Senhor Deus, que criou os céus e os estendeu, que firmou a terra e o que dela brota, que dá a respiração ao povo que habita sobre ela, e o sopro vital aos que a pisam:
+
+[[v29-42-6]]
+
+^<<v29-42-6,6>>^ Eu sou o Senhor, que te chamei na justiça, te tomei pela mão, te conservei, e te pus para seres a aliança do povo e a luz das nações;
+
+[[v29-42-7]]
+
+^<<v29-42-7,7>>^ para abrires os olhos dos cegos, para tirares da cadeia os prisioneiros, e do cárcere os que estão sentados nas trevas.
+
+[[v29-42-8]]
+
+^<<v29-42-8,8>>^ Eu sou o Senhor, este é o meu nome; não darei a outro a minha glória, nem cederei aos ídolos o louvor que só a mim pertence.
+
+[[v29-42-9]]
+
+^<<v29-42-9,9>>^ As primeiras coisas (que vos predisse) cumpriram-se; agora anuncio outras novas; far-vo-las-ei ouvir, antes que sucedam.
+
+[[v29-42-10]]
+
+^<<v29-42-10,10>>^ Cantai ao Senhor um cântico novo, (cantai) o seu louvor até às extremidades da terra, vós os que navegais sobre o mar, os que o povoais, vós, ilhas, e os vossos habitantes.
+
+[[v29-42-11]]
+
+^<<v29-42-11,11>>^ Elevem a sua voz o deserto e as suas cidades, assim como os acampamentos habitados por Cedar! Louvem-no os habitantes de Sela, soltem clamores de alegria, do alto dos montes.
+
+[[v29-42-12]]
+
+^<<v29-42-12,12>>^ Tributem glória ao Senhor, anunciem nas ilhas o seu louvor.
+
+[[v29-42-13]]
+
+^<<v29-42-13,13>>^ O Senhor, como um herói, sai a campo, como um guerreiro suscita o seu ardor; eleva a sua voz, solta o seu grito de guerra, desencadeia a sua força contra os seus inimigos.
+
+[[v29-42-14]]
+
+^<<v29-42-14,14>>^ Muito tempo estive calado, guardei silêncio, fui sofrido; (mas agora) como a que está com dores de parto, gemo, suspiro, estou ofegante.
+
+[[v29-42-15]]
+
+^<<v29-42-15,15>>^ Tornarei desertas as montanhas e os outeiros, secarei toda a sua verdura; converterei os rios em ilhas, e secarei os tanques.
+
+[[v29-42-16]]
+
+^<<v29-42-16,16>>^ Guiarei os cegos por um caminho que eles não conhecem, fá-los-ei andar por veredas que ignoram; mudarei diante deles as trevas em luz, e os caminhos pedregosos em planos. Tudo isto realizarei, não faltarei em nada.
+
+[[v29-42-17]]
+
+^<<v29-42-17,17>>^ Voltarão para trás, serão cobertos de confusão os que põem a sua confiança nos ídolos, os que dizem às estátuas de fundição: Vós sois os nossos deuses.
+
+[[v29-42-18]]
+
+^<<v29-42-18,18>>^ Surdos, ouvi, e vós, cegos, abri os olhos para ver.
+
+[[v29-42-19]]
+
+^<<v29-42-19,19>>^ Quem é cego, senão o meu servo (Israel)? E quem é Israel, surdo como o mensageiro que envio? Quem é cego como o meu íntimo? Quem é cego como o servo do Senhor?
+
+[[v29-42-20]]
+
+^<<v29-42-20,20>>^ Tu, que viste tantas coisas, não lhes prestaste atenção. Tu, que tinhas os ouvidos abertos, não ouviste.
+
+[[v29-42-21]]
+
+^<<v29-42-21,21>>^ O Senhor tinha querido, por causa da sua justiça, publicar uma lei grande e magnífica.
+
+[[v29-42-22]]
+
+^<<v29-42-22,22>>^ E eis este povo saqueado e devastado; foram presos todos, encerrados nos cárceres; foram entregues à pilhagem sem haver ninguém que os livre; expostos ao saque, sem que ninguém diga: Restitui.
+
+[[v29-42-23]]
+
+^<<v29-42-23,23>>^ Quem há entre vós que ouça isto, que atenda e escute para o futuro?
+
+[[v29-42-24]]
+
+^<<v29-42-24,24>>^ Quem entregou Jacob à pilhagem, e Israel aos devastadores? Porventura não foi o mesmo Senhor, contra o qual pecamos, não querendo seguir os seus caminhos, nem obedecer à sua lel?
+
+[[v29-42-25]]
+
+^<<v29-42-25,25>>^ Por isso (o Senhor descarregou sobre este povo) a indignação do seu furor, as violências da guerra, a qual lançou o fogo em volta dele, sem que ele o compreendesse, e queimou-o, sem que ele notasse (que era um castigo).
+
+'''
+
+xref:029-isaias/029-isaias-041.adoc#v29-41-0[&#60; Capítulo Anterior] | <<v29-42-0,Topo>> | xref:029-isaias/029-isaias-043.adoc#v29-43-0[Próximo Capítulo &#62;]

@@ -1,0 +1,43 @@
+include::./index.adoc[]
+
+[[v21-150-0]]
+=== Salmos, 150
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 150 é um cântico de louvor e adoração a Deus, exaltando-o por sua grandeza e poder. O salmista convoca todos a louvarem a Deus com todos os tipos de instrumentos musicais, bem como com danças e cânticos alegres. Abaixo estão cinco versículos relacionados ao tema abordado no Salmo 150:
+* Salmos 66:4 - "Toda a terra te adorará e cantará louvores a ti; cantará louvores ao teu nome". Este verso enfatiza a ideia de que todas as nações devem adorar a Deus e cantar louvores a ele, assim como é convocado no Salmo 150.
+* Salmos 98:4-6 - "Celebrai com júbilo ao Senhor, todas as terras; exultai e cantai de alegria. Cantai louvores ao Senhor com a harpa; com a harpa e a voz do canto. Com clarins e som de buzina, exultai diante do Rei, o Senhor". Este verso também convoca a todos a louvarem a Deus com instrumentos musicais, tal como no Salmo 150.
+* Salmos 135:3 - "Louvai ao Senhor, porque o Senhor é bom; cantai louvores ao seu nome, porque é agradável". Este verso enfatiza que devemos louvar a Deus por sua bondade e grandeza, assim como é expresso no Salmo 150.
+* Apocalipse 5:13 - "Ouvi todas as criaturas no céu, na terra, debaixo da terra e no mar, e tudo o que neles existe, que diziam: "Àquele que está sentado no trono e ao Cordeiro sejam o louvor, a honra, a glória e o poder, para todo o sempre!"" Este verso ilustra a ideia de que toda a criação deve louvar a Deus, como é convocado no Salmo 150.
+* Efésios 5:19 - "Falando entre vós em salmos, hinos e cânticos espirituais, cantando e louvando de coração ao Senhor". Este verso mostra que a adoração e a louvação a Deus devem ser um aspecto constante da vida cristã, não só algo para ser feito no templo ou igreja, como é mencionado no Salmo 150.
+****
+
+[[v21-150-1]]
+
+^<<v21-150-1,1>>^ Aleluia. Louvai o Senhor no seu santuário, louvai-o no seu augusto firmamento. (ver nota)
+
+[[v21-150-2]]
+
+^<<v21-150-2,2>>^ Louvai-o por suas obras grandiosas (em vosso favor), louvai-o por sua suma majestade.
+
+[[v21-150-3]]
+
+^<<v21-150-3,3>>^ Louvai-o ao som da trombeta, louvai-o com o saltério e a citara.
+
+[[v21-150-4]]
+
+^<<v21-150-4,4>>^ Louvai-o com tímpano e com dança, louvai-o com instrumentos de corda e com órgão.
+
+[[v21-150-5]]
+
+^<<v21-150-5,5>>^ Louvai-o com címbalos sonoros, louvai-o com címbalos ressonantes:
+
+[[v21-150-6]]
+
+^<<v21-150-6,6>>^ tudo o que respira louve o Senhor! Aleluia.
+
+'''
+
+xref:021-salmos/021-salmos-149.adoc#v21-149-0[&#60; Capítulo Anterior] | <<v21-150-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-001.adoc#v22-1-0[Próximo Capítulo &#62;]

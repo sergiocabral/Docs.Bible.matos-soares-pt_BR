@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v58-0-0]]
+== Colossenses
+
+[cols="8*^"]
+|===
+| xref:058-colossenses/058-colossenses-001.adoc#v58-1-0[1]
+| xref:058-colossenses/058-colossenses-002.adoc#v58-2-0[2]
+| xref:058-colossenses/058-colossenses-003.adoc#v58-3-0[3]
+| xref:058-colossenses/058-colossenses-004.adoc#v58-4-0[4]
+|
+|
+|
+|
+|===

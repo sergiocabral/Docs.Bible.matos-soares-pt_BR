@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-12-0]]
+=== Ester, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 29:28: "Ele morreu em boa velhice, cheio de dias, de riqueza e de honra; e seu filho Salomão reinou em seu lugar." Este versículo relata a morte do rei Davi, que aconteceu depois de uma vida longa e bem-sucedida. Em Ester 6, vemos a história de como o rei Assuero reconheceu os serviços prestados por Mardoqueu e decidiu honrá-lo, mostrando como a honra e a recompensa são importantes temas bíblicos.
+* Salmos 37:7: "Descansa no Senhor, e espera nele; não te indignes por causa daquele que prospera em seu caminho, por causa do homem que executa astutos intentos." Este versículo incentiva o descanso e a paciência em Deus, mesmo diante das adversidades e da aparente prosperidade dos ímpios. Em Ester 6, vemos como Mardoqueu, apesar de ter sido injustiçado por Hamã, confiou em Deus e acabou sendo recompensado pelo rei.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez do espírito precede a queda." Este versículo alerta sobre o perigo da arrogância e da autoconfiança exagerada, que podem levar à queda e à destruição. Em Ester 6, vemos como Hamã, por sua soberba e sua aversão a Mardoqueu, acabou sendo humilhado e derrotado diante de todos.
+* Gênesis 41:41-44: "E o faraó disse a José: Vê, eu te pus sobre toda a terra do Egito. E tirou o seu anel de sua mão, e o pôs na mão de José, e o vestiu de roupas finas de linho, e pôs um colar de ouro em seu pescoço. E o fez subir em seu segundo carro, e clamavam diante dele: Ajoelhai-vos; e o pôs sobre toda a terra do Egito." Este trecho conta como José, após interpretar os sonhos do faraó, foi elevado a uma posição de grande autoridade e honra no Egito. Em Ester 6, vemos como Mardoqueu também foi honrado e exaltado pelo rei Assuero, mostrando como Deus pode usar as circunstâncias para abençoar seus servos fiéis.
+****
+
+[[v19-12-1]]
+
+^<<v19-12-1,1>>^ Mardoqueu estava então na corte do rei com Ragata e Tara, eunucos do rei, os quais eram porteiros do palácio.
+
+[[v19-12-2]]
+
+^<<v19-12-2,2>>^ Tendo entendido os seus pensamentos e reconhecido exactamente os seus desígnios, descobriu que intentavam pôr a mão na pessoa do rei Artaxerxes; avisou disso o rei,
+
+[[v19-12-3]]
+
+^<<v19-12-3,3>>^ o qual, feito o processo de ambos, e tendo eles confessado, ordenou que fossem supliciados.
+
+[[v19-12-4]]
+
+^<<v19-12-4,4>>^ O rei mandou escrever nas Crônicas o que se tinha passado, e Mardoqueu também o pôs por escrito para conservar a sua memória,
+
+[[v19-12-5]]
+
+^<<v19-12-5,5>>^ O rei deu-lhe um lugar no palácio e mandou-lhe presentes pela denúncia.
+
+[[v19-12-6]]
+
+^<<v19-12-6,6>>^ Mas Aman, filho de Amadati, o Agagita, gozava de grande crédito junto do rei, e quis perder Mardoqueu e o seu povo, por causa dos dois eunucos do rei, que tinham sido mortos. (ver nota)
+
+'''
+
+xref:019-ester/019-ester-011.adoc#v19-11-0[&#60; Capítulo Anterior] | <<v19-12-0,Topo>> | xref:019-ester/019-ester-013.adoc#v19-13-0[Próximo Capítulo &#62;]

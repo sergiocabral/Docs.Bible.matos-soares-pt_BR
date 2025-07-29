@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v21-61-0]]
+=== Salmos, 61
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 61 é um salmo de Davi em que ele clama a Deus por ajuda e proteção. Davi se sente abatido e distante de Deus, mas confia em sua misericórdia e poder para ajudá-lo a superar seus problemas e fortalecê-lo. Ele pede para que Deus o conduza à rocha mais alta e para que o proteja sob as suas asas. Vasculhando toda a Bíblia, foram encontrados cinco versículos relacionados com os temas abordados em Salmo 61, apresentados a seguir em ordem de proximidade com os temas do capítulo:
+* Salmos 27:5: "Pois no dia da adversidade ele me esconderá no seu pavilhão; no recôndito do seu tabernáculo me esconderá; sobre uma rocha me elevará." Este versículo mostra que Davi confia em Deus para protegê-lo e escondê-lo durante suas adversidades.
+* Salmos 91:4: "Com suas penas te cobrirá, e debaixo das suas asas te refugiarás; sua verdade será o teu escudo e broquel." Este verso apresenta a imagem de Deus protegendo e cobrindo com suas asas aqueles que nele confiam, como Davi.
+* Salmos 62:7: "Em Deus está a minha salvação e a minha glória; a rocha da minha fortaleza, e o meu refúgio estão em Deus." Davi confia em Deus para ser sua rocha, sua fortaleza e refúgio.
+* Salmos 31:3: "Porque tu és a minha rocha e a minha fortaleza; assim, por amor do teu nome, guia-me e encaminha-me." Este versículo mostra que Davi confia em Deus como sua rocha e fortaleza, e pede a sua orientação.
+* Salmos 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Este verso apresenta Deus como um refúgio e fortaleza para aqueles que precisam de ajuda em tempos de angústia, o que é exatamente o que Davi busca em Salmo 61.
+****
+
+[[v21-61-1]]
+
+^<<v21-61-1,1>>^ Ao mestre do coro. Segundo Iduthum. Salmo. De Davide.
+
+[[v21-61-2]]
+
+^<<v21-61-2,2>>^ Só em Deus repousa a minha alma, dele vem a minha salvação.
+
+[[v21-61-3]]
+
+^<<v21-61-3,3>>^ Só ele é o meu rochedo e a minha salvação, o meu baluarte: por nada vacilarei.
+
+[[v21-61-4]]
+
+^<<v21-61-4,4>>^ Até quando arremetereis contra um homem tentareis todos derribá-lo, como a uma parede inclinada, como a um muro em ruína?
+
+[[v21-61-5]]
+
+^<<v21-61-5,5>>^ Sim, projectam precipitar-me do meu posto elevado, comprazem-se na mentira; com a sua boca me bendizem, mas em seu coração maldizem.
+
+[[v21-61-6]]
+
+^<<v21-61-6,6>>^ Sòmente em Deus repousa, ó minha alma, porque dele vem o que espero,
+
+[[v21-61-7]]
+
+^<<v21-61-7,7>>^ Só ele é o meu rochedo e a minha salvação, o meu baluarte: não vacilarei.
+
+[[v21-61-8]]
+
+^<<v21-61-8,8>>^ Em Déus está a minha salvação e a minha glória, o rochedo da minha força: o meu refúgio está em Deus.
+
+[[v21-61-9]]
+
+^<<v21-61-9,9>>^ Espera nele, ó povo, em todo o tempo, expandi diante dele os vossos corações: Deus é o nosso refúgio
+
+[[v21-61-10]]
+
+^<<v21-61-10,10>>^ Um sopro apenas são os filhos dos homens, falazes os filhos dos homens: postos na balança, vão acima, todos eles juntos são mais leves que um sopro.
+
+[[v21-61-11]]
+
+^<<v21-61-11,11>>^ Não confiéis na opressão, nem vos vangloriéis da rapina; se as riquezas aumentarem, não prendais a elas o vosso coração.
+
+[[v21-61-12]]
+
+^<<v21-61-12,12>>^ Deus disse uma coisa; estas duas eu ouvi: O poder é de Deus,
+
+[[v21-61-13]]
+
+^<<v21-61-13,13>>^ e tua, ó Senhor, é a graça; com efeito, retribuirás a cada um segundo as suas obras.
+
+'''
+
+xref:021-salmos/021-salmos-060.adoc#v21-60-0[&#60; Capítulo Anterior] | <<v21-61-0,Topo>> | xref:021-salmos/021-salmos-062.adoc#v21-62-0[Próximo Capítulo &#62;]

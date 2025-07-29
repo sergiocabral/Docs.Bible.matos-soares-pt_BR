@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v28-29-0]]
+=== Eclesiástico, 29
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 29 fala sobre a importância da amizade e do empréstimo de dinheiro. O capítulo começa com uma reflexão sobre a felicidade de se ter amigos verdadeiros e confiáveis, e também aborda o tema do empréstimo de dinheiro a amigos e a necessidade de ser cuidadoso nesse assunto. Com base nesses temas, seguem abaixo cinco versículos relacionados:
+* Provérbios 17:17: "Em todo tempo ama o amigo e para a hora da angústia nasce o irmão." Este versículo fala sobre a importância da amizade verdadeira, que deve ser cultivada em todos os momentos, especialmente nos momentos difíceis.
+* Provérbios 19:17: "Quem trata bem os pobres empresta ao Senhor, que lhe pagará o seu benefício." Esse versículo fala sobre a bondade em ajudar os pobres e necessitados, mostrando que emprestar dinheiro para aqueles que precisam é uma forma de ajudar o próximo.
+* Provérbios 22:7: "O rico domina sobre os pobres, e o que toma emprestado é servo do que empresta." Esse versículo aborda o perigo de se endividar e ficar subordinado ao credor, mostrando que é importante agir com sabedoria financeira.
+* Lucas 6:34-35: "E, se emprestais àqueles de quem esperais receber, que mérito tendes? Também os pecadores emprestam aos pecadores, para receberem outro tanto. Amai, porém, os vossos inimigos, fazei bem e emprestai, sem nada esperar em troca; e grande será o vosso galardão, e sereis filhos do Altíssimo; porque ele é benigno até para com os ingratos e maus." Esse versículo mostra que devemos emprestar não apenas para aqueles de quem esperamos receber de volta, mas também para aqueles que não são nossos amigos e inimigos, agindo com amor e generosidade.
+* Romanos 13:8: "A ninguém devais coisa alguma, a não ser o amor com que vos ameis uns aos outros; porque quem ama aos outros cumpriu a lei." Esse versículo enfatiza a importância de não ficar devendo nada a ninguém, mostrando que é importante ser honesto e justo em todas as nossas relações financeiras e interpessoais.
+****
+
+[[v28-29-1]]
+
+^<<v28-29-1,1>>^ Aquele que usa de misericórdia, empresta a juro ao seu próximo: aquele que tem a mão generosa, guarda os mandamentos.
+
+[[v28-29-2]]
+
+^<<v28-29-2,2>>^ Cumpre a tua palavra, e trata lealmente com ele. e em todo o tempo acharás o que te é necessário. (ver nota)
+
+[[v28-29-3]]
+
+^<<v28-29-3,3>>^ Muitos consideram o que se lhes emprestou como um achado, e causam desgosto àqueles que o ajudaram.
+
+[[v28-29-4]]
+
+^<<v28-29-4,4>>^ Beijara as mãos do que lhes empresta até que tenham recebido, e com voz humilde fazem (grandes) promessas;
+
+[[v28-29-5]]
+
+^<<v28-29-5,5>>^ porém, chegando o prazo de pagar a dívida, pedem espera. dizem palavras de enfado e de murmuração, e desculpam-se com o tempo (dizendo que a rida está difícil).
+
+[[v28-29-6]]
+
+^<<v28-29-6,6>>^ porém, chegando o prazo de pagar a dívida, pedem espera, dizem palavras de enfado e de murmuração, e desculpam-se com o tempo (dizendo que a rida está difícil).
+
+[[v28-29-7]]
+
+^<<v28-29-7,7>>^ Ainda que possam pagar, porão dificuldades, depois darão dificilmente metade do capital, e dirão que se deve considerar isso como uma coisa achada.
+
+[[v28-29-8]]
+
+^<<v28-29-8,8>>^ Se não (podem pagar), privam o credor do seu dinheiro, e, sem causa alguma, o ficarão tendo por inimigo;
+
+[[v28-29-9]]
+
+^<<v28-29-9,9>>^ pagar-lhe-ão com injúrias e maldições, e, à mercê e beneficio recebidos, corresponderão com ultrajes.
+
+[[v28-29-10]]
+
+^<<v28-29-10,10>>^ Muitos deixam de emprestar, não por desumanidade, mas porque temem ser defraudados sem o merecerem.
+
+[[v28-29-11]]
+
+^<<v28-29-11,11>>^ Apesar de tudo isto, sê magnânimo com o miserável e não o faças esperar pela esmola. (ver nota)
+
+[[v28-29-12]]
+
+^<<v28-29-12,12>>^ Por causa do mandamento acode ao pobre, e não o deixes ir com as mãos vazias na sua indigência.
+
+[[v28-29-13]]
+
+^<<v28-29-13,13>>^ Perde o teu dinheiro por amor do teu irmão e do teu amigo, e não o escondas debaixo duma pedra para ficar perdido.
+
+[[v28-29-14]]
+
+^<<v28-29-14,14>>^ Emprega o teu tesouro segundo os preceitos do Altíssimo, e isto te aproveitará mais do que o ouro.
+
+[[v28-29-15]]
+
+^<<v28-29-15,15>>^ Encerra a esmola no coração do pobre, e ela rogará por ti para te livrar de todo o mal.
+
+[[v28-29-16]]
+
+^<<v28-29-16,16>>^ Mais do que o escudo e do que a lança do esfor-
+
+[[v28-29-17]]
+
+^<<v28-29-17,17>>^ çado,
+
+[[v28-29-18]]
+
+^<<v28-29-18,18>>^ ela pelejará contra o teu inimigo.
+
+[[v28-29-19]]
+
+^<<v28-29-19,19>>^ O homem de bem dá fiança pelo seu próximo; e o que tiver perdido a vergonha o abandonará à sua sorte.
+
+[[v28-29-20]]
+
+^<<v28-29-20,20>>^ Não te esqueças do benefício que te fez o que ficou por teu fiador, porque ele expôs a sua vida por ti.
+
+[[v28-29-21]]
+
+^<<v28-29-21,21>>^ O pecador e o impuro fogem do seu fiador.
+
+[[v28-29-22]]
+
+^<<v28-29-22,22>>^ O pecador faz de conta que são seus os bens do seu fiador, e com coração ingrato abandona o seu libertador.
+
+[[v28-29-23]]
+
+^<<v28-29-23,23>>^ Um homem fica por fiador do seu próximo, e este, perdendo a vergonha, abandoná-lo-á.
+
+[[v28-29-24]]
+
+^<<v28-29-24,24>>^ Fianças imprudentes perderam a muitos que iam bem nos seus negócios, agitaram-nos como ondas do mar.
+
+[[v28-29-25]]
+
+^<<v28-29-25,25>>^ Fizeram emigrar para diversos lugares homens poderosos, que andaram errantes entre nações estranhas.
+
+[[v28-29-26]]
+
+^<<v28-29-26,26>>^ O pecador que viola o mandamento do Senhor meter-se-á em fianças ruinosas; e aquele que empreende muitos negócios, cairá sob a justiça.
+
+[[v28-29-27]]
+
+^<<v28-29-27,27>>^ Assiste ao teu próximo conforme as tuas posses, mas olha por ti, não caias tu também.
+
+[[v28-29-28]]
+
+^<<v28-29-28,28>>^ O essencial da vida do homem é a água, o pão, o vestuário e uma casa para cobrir a sua nudez.
+
+[[v28-29-29]]
+
+^<<v28-29-29,29>>^ Aquilo que o pobre come, debaixo de qualquer coberto de tábuas é melhor do que um festim magnífico numa casa estranha, quando se não tem domicílio próprio.
+
+[[v28-29-30]]
+
+^<<v28-29-30,30>>^ Contenta-te com o pouco ou muito que tiveres, e não ouvirás, com amargura, que és um estranho,
+
+[[v28-29-31]]
+
+^<<v28-29-31,31>>^ É uma vida desgraçada a daquele que se anda hospedando de casa em casa; em toda a parte em que for hóspede, não procederá com confiança, nem ousará abrir a boca.
+
+[[v28-29-32]]
+
+^<<v28-29-32,32>>^ Ele noutras ocasiões terá hospedado outros, terá dado de comer e de beber a ingratos, e, depois disto, ouvirá palavras amargas:
+
+[[v28-29-33]]
+
+^<<v28-29-33,33>>^ Anda, hóspede, vai pôr a mesa, e dá de comer aos outros do que tens à mão:
+
+[[v28-29-34]]
+
+^<<v28-29-34,34>>^ retira-te por causa da honra que devo aos meus amigos: necessito da minha casa para receber o meu irmão.
+
+[[v28-29-35]]
+
+^<<v28-29-35,35>>^ São duras estas (duas) coisas para um homem sensato: As palavras amargas dum hospedeiro e os insultos dum credor.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-028.adoc#v28-28-0[&#60; Capítulo Anterior] | <<v28-29-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-030.adoc#v28-30-0[Próximo Capítulo &#62;]

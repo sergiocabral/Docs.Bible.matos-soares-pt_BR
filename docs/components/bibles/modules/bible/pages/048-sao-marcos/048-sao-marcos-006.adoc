@@ -1,0 +1,243 @@
+include::./index.adoc[]
+
+[[v48-6-0]]
+=== São Marcos, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Marcos 6 narra alguns dos milagres e ensinamentos de Jesus, incluindo a sua visita à sua cidade natal de Nazaré, onde não é bem recebido. Jesus envia os discípulos em missão e alimenta uma multidão de cinco mil pessoas com apenas cinco pães e dois peixes. Também caminha sobre as águas e cura muitos doentes.
+* João 14:12: "Em verdade, em verdade vos digo que aquele que crê em mim fará também as obras que eu faço e outras maiores fará, porque eu vou para junto do Pai." Esse versículo se relaciona com os milagres de Jesus em São Marcos 6, pois destaca a promessa de que seus seguidores também poderão fazer obras tão grandes quanto as suas.
+* Romanos 10:17: "Logo a fé é pelo ouvir, e o ouvir pela palavra de Cristo." Este versículo se relaciona com o ensinamento de Jesus em São Marcos 6, pois enfatiza a importância de ouvir a palavra de Cristo e ter fé nela para receber seus benefícios.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Esse versículo se relaciona com o episódio em que Jesus caminha sobre as águas e Pedro se afoga. Ele lembra que devemos confiar em Deus em todos os momentos e que Ele nos guiará no caminho certo.
+* 2 Coríntios 9:8: "E Deus é poderoso para fazer abundar em vós toda a graça, a fim de que, tendo sempre, em tudo, toda suficiência, abundeis em toda boa obra." Este versículo se relaciona com a alimentação da multidão de cinco mil pessoas em São Marcos 6, pois destaca a capacidade de Deus de fornecer abundantemente para todas as nossas necessidades.
+* Tiago 5:14-15: "Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor. E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados." Esse versículo se relaciona com a cura dos doentes em São Marcos 6, pois enfatiza a importância da oração e da fé na busca da cura e da restauração da saúde.
+****
+
+[[v48-6-1]]
+
+^<<v48-6-1,1>>^ Tendo Jesus partido dali, foi para a sua pátria; e seguiam-no os seus discípulos.
+
+[[v48-6-2]]
+
+^<<v48-6-2,2>>^ Chegando o sábado, começou a ensinar na sinagoga. Os seus numerosos ouvintes admiravam-se e diziam : "Donde vêm a este todas estas coisas que diz? Que sabedoria é esta que lhe foi dada? E como se operam tais maravilhas pelas suas mãos?
+
+[[v48-6-3]]
+
+^<<v48-6-3,3>>^ Não é este o carpinteiro, filho de Maria, irmão de Tiago, de José, de Judas e de Simão? Não vivem aqui entre nós também suas irmãs?" E estavam perplexos a seu respeito.
+
+[[v48-6-4]]
+
+^<<v48-6-4,4>>^ Mas Jesus dizia-lhes: "Um profeta só deixa de ser honrado na sua pátria, entre os seus parentes e na sua própria casa."
+
+[[v48-6-5]]
+
+^<<v48-6-5,5>>^ E não podia fazer ali milagre algum; apenas curou alguns poucos enfermos, impondo-lhes as mãos. (ver nota)
+
+[[v48-6-6]]
+
+^<<v48-6-6,6>>^ E admirava-se da incredulidade deles. Depois andava ensinando pelas aldeias circunvizinhas.
+
+[[v48-6-7]]
+
+^<<v48-6-7,7>>^ Chamou os doze, e começou a enviá-los dois a dois, dando-lhes poder sobre os espíritos imundos.
+
+[[v48-6-8]]
+
+^<<v48-6-8,8>>^ Ordenou-lhes que não tomassem nada para o caminho, senão sòmente um bastão; nem alforge, nem pão, nem dinheiro na cintura;
+
+[[v48-6-9]]
+
+^<<v48-6-9,9>>^ mas que fossem calçados de sandálias, e não levassem duas túnicas.
+
+[[v48-6-10]]
+
+^<<v48-6-10,10>>^ E dizía-Ihes: "E m qualquer casa onde entrardes, ficai nela até sairdes daquele lugar.
+
+[[v48-6-11]]
+
+^<<v48-6-11,11>>^ Onde vos não receberem, nem vos ouvirem, retirando-vos de lá, sacudi o pó dos vossos pés em testemunho contra eles."
+
+[[v48-6-12]]
+
+^<<v48-6-12,12>>^ Tendo partido, pregavam aos povos que fizessem penitência.
+
+[[v48-6-13]]
+
+^<<v48-6-13,13>>^ Expeliam muitos demônios, ungiam com óleo muitos enfermos, e curavam-nos.
+
+[[v48-6-14]]
+
+^<<v48-6-14,14>>^ Ora o rei Herodes ouviu falar de Jesus, cujo nome se tinha tornado célebre. Dizia-se: "João Batista ressuscitou de entre os mortos; é por isso que o poder de fazer milagres opera nele."
+
+[[v48-6-15]]
+
+^<<v48-6-15,15>>^ Outros, porém, diziam : "É Elias." E outros diziam : "É um profeta, como um dos antigos profetas."
+
+[[v48-6-16]]
+
+^<<v48-6-16,16>>^ Herodes, tendo ouvido isto, disse: "Este é aquele João, a quem eu mandei degolar, e que ressuscitou dos mortos."
+
+[[v48-6-17]]
+
+^<<v48-6-17,17>>^ Porque Herodes tinha mandado prender João, e teve-o em ferros no cárcere por causa de Herodíades, mulher de Filipe, seu irmão, com a qual tinha casado (ilicitamente),
+
+[[v48-6-18]]
+
+^<<v48-6-18,18>>^ Porque João dizia a Herodes: "Não te é lícito ter a mulher de teu irmão."
+
+[[v48-6-19]]
+
+^<<v48-6-19,19>>^ Herodíades tinha-lhe rancor e queria fazê-lo morrer, porém não podia,
+
+[[v48-6-20]]
+
+^<<v48-6-20,20>>^ porque Herodes, sabendo que João era varão justo e santo, olhava-o com respeito, protegia-o, e, quando o ouvia, ficava muito perplexo, porém ouvia-o de boa vontade.
+
+[[v48-6-21]]
+
+^<<v48-6-21,21>>^ Chegando um dia oportuno, Herodes, no aniversário do seu nascimento, deu um banquete aos grandes da corte, aos tribunos e aos principais da Galileia.
+
+[[v48-6-22]]
+
+^<<v48-6-22,22>>^ Tendo entrado na sala a filha da mesma Herodíades, dançou e agradou a Herodes e aos seus convivas. O rei disse à moça: "Pede-me o que quiseres e eu to darei."
+
+[[v48-6-23]]
+
+^<<v48-6-23,23>>^ E jurou-lhe: "Tudo o que me pedires, te darei, ainda que seja metade do meu reino."
+
+[[v48-6-24]]
+
+^<<v48-6-24,24>>^ Ela, tendo saído, disse a sua mãe" "Que hei-de eu pedir?" Ela respondeu-lhe: "A cabeça de João Batista."
+
+[[v48-6-25]]
+
+^<<v48-6-25,25>>^ Tornando logo a entrar apressadamente junto do rei, fez este pedido: "Quero que imediatamente me dês num prato a cabeça de João Batista."
+
+[[v48-6-26]]
+
+^<<v48-6-26,26>>^ O rei entristeceu-se, mas, por causa do juramento e dos convivas, não quis desgostá-la.
+
+[[v48-6-27]]
+
+^<<v48-6-27,27>>^ Imediatamente mandou um guarda com ordem de trazer a cabeça de João. Ele foi degolá-lo no cárcere,
+
+[[v48-6-28]]
+
+^<<v48-6-28,28>>^ levou a sua cabeça num prato, deu-o à moça, e a moça a deu a sua mãe.
+
+[[v48-6-29]]
+
+^<<v48-6-29,29>>^ Tendo ouvido isto os seus discípulos, foram, tomaram o seu corpo, e o depuseram num sepulcro.
+
+[[v48-6-30]]
+
+^<<v48-6-30,30>>^ Tendo os Apóstolos voltado a Jesus, contaram-Ihe tudo o que tinham feito e ensinado.
+
+[[v48-6-31]]
+
+^<<v48-6-31,31>>^ Ele disse-Ihes: "Vinde aparte, a um lugar solitário, e descansai um pouco." Porque eram muitos os que iam e vinham, e nem tinham tempo para comer.
+
+[[v48-6-32]]
+
+^<<v48-6-32,32>>^ Entrando pois numa barca, retiraram-se aparte, a um lugar solitário.
+
+[[v48-6-33]]
+
+^<<v48-6-33,33>>^ Porém viram-nos partir, e muitos souberam para onde iam, e concorreram lá, a pé, de todas as cidades, e chegaram primeiro que eles.
+
+[[v48-6-34]]
+
+^<<v48-6-34,34>>^ Ao desembarcar, viu Jesus uma grande multidão. Teve compaixão deles, porque eram como ovelhas sem pastor, e começou a ensinar-lhes muitas coisas.
+
+[[v48-6-35]]
+
+^<<v48-6-35,35>>^ Fazendo-se tarde, chegaram-se a eles seus discípulos, dizendo: "Este lugar é solitário e a hora é já adiantada;
+
+[[v48-6-36]]
+
+^<<v48-6-36,36>>^ despede-os, a fim de que vão às quintas e povoados próximos e comprem alguma coisa para comer."
+
+[[v48-6-37]]
+
+^<<v48-6-37,37>>^ Ele respondeu-lhes: "Dai-lhes vós de comer." Eles disseram: "Iremos pois com duzentos dinheiros comprar pão para lhes darmos de comer?"
+
+[[v48-6-38]]
+
+^<<v48-6-38,38>>^ Jesus perguntou-lhes: "Quantos pães tendes vós? Ide ver." Depois de terem examinado, disseram-lhe: "Temos cinco, e dois peixes."
+
+[[v48-6-39]]
+
+^<<v48-6-39,39>>^ Então mandou-lhes que os fizessem recostar a todos, em grupos, sobre a relva verde.
+
+[[v48-6-40]]
+
+^<<v48-6-40,40>>^ E recostaram-se em grupos de cem e de cinquenta.
+
+[[v48-6-41]]
+
+^<<v48-6-41,41>>^ Jesus, tomando os cinco pães e os dois peixes, elevando os olhos ao céu, abençoou e partiu os pães, e os deu a seus discípulos para que lhos servissem; igualmente repartiu por todos os dois peixes.
+
+[[v48-6-42]]
+
+^<<v48-6-42,42>>^ Todos comeram e ficaram saciados.
+
+[[v48-6-43]]
+
+^<<v48-6-43,43>>^ E recolheram doze cestos cheios das sobras dos pães e dos peixes.
+
+[[v48-6-44]]
+
+^<<v48-6-44,44>>^ Os que tinham comido dos pães eram cinco mil homens.
+
+[[v48-6-45]]
+
+^<<v48-6-45,45>>^ Imediatamente Jesus obrigou seus discípulos a embarcar, para chegarem primeiro que ele à outra banda do lago, a Betsaida, enquanto despedia o povo,
+
+[[v48-6-46]]
+
+^<<v48-6-46,46>>^ Depois que os despediu, retirou-se a um monte a fazer oração.
+
+[[v48-6-47]]
+
+^<<v48-6-47,47>>^ Chegada a noite, encontrava-se a barca no meio do mar, e ele só em terra.
+
+[[v48-6-48]]
+
+^<<v48-6-48,48>>^ Vendo-os cansados de remar, (porque o vento lhes era contrário), cerca da quarta vigília da noite foi ter com eles, andando sobre o mar; e fez menção de passar adiante.
+
+[[v48-6-49]]
+
+^<<v48-6-49,49>>^ Quando eles o viram caminhar sobre o mar, julgaram que era um fantasma e gritaram
+
+[[v48-6-50]]
+
+^<<v48-6-50,50>>^ porque todos o viram e se assustaram. Mas ele falou-lhes logo e disse: "Tende confiança, sou eu, não temais."
+
+[[v48-6-51]]
+
+^<<v48-6-51,51>>^ Subiu em seguida para a barca a ir ter com eles, e o vento cessou. Ficaram extremamente estupefactos,
+
+[[v48-6-52]]
+
+^<<v48-6-52,52>>^ pois não tinham dado conta do que se tinha passado com os pães; o seu coração estava obcecado. (ver nota)
+
+[[v48-6-53]]
+
+^<<v48-6-53,53>>^ Tendo passado à outra banda, foram ao país de Genesaré, e lá aportaram.
+
+[[v48-6-54]]
+
+^<<v48-6-54,54>>^ Tendo desembarcado, logo o conheceram,
+
+[[v48-6-55]]
+
+^<<v48-6-55,55>>^ e, correndo por todo aquele país, começaram a trazer-lhe todos os doentes em leitos, onde sabiam que ele estava.
+
+[[v48-6-56]]
+
+^<<v48-6-56,56>>^ Em qualquer lugar a que chegava, nas aldeias, nas cidades ou nas herdades, punham os enfermos no meio das praças, e pediam-lhe que os deixasse tocar ao menos a orla do seu vestido. E todos os que o tocavam ficavam sãos.
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-005.adoc#v48-5-0[&#60; Capítulo Anterior] | <<v48-6-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-007.adoc#v48-7-0[Próximo Capítulo &#62;]

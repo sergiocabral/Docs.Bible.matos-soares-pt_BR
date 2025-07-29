@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v54-3-0]]
+=== II Coríntios, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em 2 Coríntios 3, Paulo fala sobre a superioridade do ministério do Novo Testamento em relação ao ministério do Antigo Testamento, enfatizando a superioridade da mensagem do evangelho de Cristo sobre a Lei de Moisés. Ele também destaca a natureza transformadora da mensagem de Cristo, que traz liberdade e vida em contraste com a "lei da morte" que a Lei de Moisés representava.
+* Romanos 7:6 - "Mas agora, por morrermos para aquilo a que estávamos sujeitos, fomos libertados da lei, para servirmos em novidade de espírito, e não na velhice da letra." Este versículo fala da libertação da Lei de Moisés que o evangelho traz, em contraste com o legalismo que caracterizava o judaísmo.
+* Gálatas 3:24-25 - "De maneira que a lei nos serviu de aio, para nos conduzir a Cristo, para que pela fé fôssemos justificados. Mas, depois que veio a fé, já não estamos debaixo de aio." Paulo usa essa metáfora da "lei como aio" para explicar como a Lei de Moisés levou as pessoas a Cristo, mas que agora, com a fé em Cristo, a Lei não é mais necessária.
+* 1 Pedro 1:23 - "Sendo de novo gerados, não de semente corruptível, mas da incorruptível, pela palavra de Deus, viva e que permanece para sempre." Pedro destaca a natureza transformadora da Palavra de Deus, que traz vida e renovação.
+* 2 Coríntios 5:17 - "Assim que, se alguém está em Cristo, nova criatura é: as coisas velhas já passaram; eis que tudo se fez novo." Paulo enfatiza a transformação radical que ocorre na vida de alguém quando ele é reconciliado com Deus por meio de Cristo.
+* Hebreus 8:13 - "Dizendo novo testamento, envelheceu o primeiro. Ora, o que foi tornado velho, e se envelhece, perto está de acabar." Este versículo enfatiza a superioridade do novo pacto em Cristo em relação ao Antigo Testamento, que estava ficando obsoleto.
+****
+
+[[v54-3-1]]
+
+^<<v54-3-1,1>>^ Começamos de novo a recomendar-nos a nós mesmos? Ou temos porventura necessidade, como alguns, de cartas de recomendação para vós ou de vós ?
+
+[[v54-3-2]]
+
+^<<v54-3-2,2>>^ A nossa carta sois vós, escrita em nossos corações, que é reconhecida e lida por todos os homens, (ver nota)
+
+[[v54-3-3]]
+
+^<<v54-3-3,3>>^ sendo manifesto que vós sois a carta de Cristo, escrita pelo nosso ministério, não com tinta, mas com o espírito de Deus vivo, não em tábuas de pedra (como a antiga lei), mas em tábuas de carne, sobre os vossos corações.
+
+[[v54-3-4]]
+
+^<<v54-3-4,4>>^ E temos esta confiança em Deus, por Cristo.
+
+[[v54-3-5]]
+
+^<<v54-3-5,5>>^ Não que sejamos capazes, por nós, de pensar alguma coisa (sobrenaturalmente boa), como vinda de nós mesmos, mas a nossa capacidade vem de Deus,
+
+[[v54-3-6]]
+
+^<<v54-3-6,6>>^ o qual também nos fez idôneos ministros da nova Aliança, não pela letra (da lei), mas pelo Espírito, porque a letra mata, mas o Espírito vivifica.
+
+[[v54-3-7]]
+
+^<<v54-3-7,7>>^ Ora, se o ministério da morte, gravado com letras sobre pedras, foi acompanhado de tal glória que os filhos de Israel não podiam olhar para o rosto de Moisés, por causa do esplendor, aliás transitório, do seu semblante,
+
+[[v54-3-8]]
+
+^<<v54-3-8,8>>^ quanto mais brilhante não será o ministério do Espírito?
+
+[[v54-3-9]]
+
+^<<v54-3-9,9>>^ De facto, se o ministério (da lei antiga, não obstante ser ocasião) de condenação, foi glorioso, de muito maior glória é o ministério da justiça.
+
+[[v54-3-10]]
+
+^<<v54-3-10,10>>^ Com efeito, o que resplandeceu nesta parte, não foi glorioso, em comparação da glória sublime (reservada aos ministros da nova lei), (ver nota)
+
+[[v54-3-11]]
+
+^<<v54-3-11,11>>^ pois, se o que é passageiro, é glorioso, muito mais glorioso será o que é permanente.
+
+[[v54-3-12]]
+
+^<<v54-3-12,12>>^ Tendo, pois, uma tal esperança, procedemos com grande firmeza,
+
+[[v54-3-13]]
+
+^<<v54-3-13,13>>^ e não como Moisés, o qual punha um véu sobre o seu rosto, para que os filhos de Israel não vissem o fim do que devia desaparecer.
+
+[[v54-3-14]]
+
+^<<v54-3-14,14>>^ Mas o seu espírito endurece-se, porque até ao dia de hoje permanece, quando fazem a leitura do Antigo Testamento, o mesmo véu, sem se levantar, porque é por Cristo que ele se tira.
+
+[[v54-3-15]]
+
+^<<v54-3-15,15>>^ Mas, ainda hoje, quando lêem Moisés, um véu está posto, sobre o seu coração.
+
+[[v54-3-16]]
+
+^<<v54-3-16,16>>^ Todavia, quando (Israel) se converter ao Senhor, será tirado o véu.
+
+[[v54-3-17]]
+
+^<<v54-3-17,17>>^ Ora o Senhor é o Espírito, e, onde está o Espírito do Senhor, aí está a liberdade.
+
+[[v54-3-18]]
+
+^<<v54-3-18,18>>^ Todos nós, pois, vendo de cara descoberta como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, pela ação do Senhor que é Espírito.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-002.adoc#v54-2-0[&#60; Capítulo Anterior] | <<v54-3-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-004.adoc#v54-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v51-25-0]]
+=== Atos dos Apóstolos, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 25 de Atos dos Apóstolos relata a continuação do julgamento de Paulo perante as autoridades romanas, agora na figura do governador Félix e, posteriormente, do seu sucessor, Festo. Em meio a essa situação, há intrigas políticas e religiosas envolvendo os judeus que acusam Paulo, bem como a possibilidade de libertá-lo, visto que ele não cometeu nenhum crime que justificasse a sua prisão. Abaixo seguem cinco versículos relacionados com os temas do capítulo:
+* Provérbios 18:17: "O primeiro a apresentar a sua causa parece sempre justo, até que outro venha e o questione." Esse versículo ilustra bem a situação de Paulo perante as autoridades romanas, pois os judeus o acusavam de forma contundente, mas ele também tinha argumentos válidos a seu favor.
+* Isaías 41:10: "Não temas, pois estou contigo; não te assombres, pois sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Esse versículo pode ser aplicado à situação de Paulo, que enfrentava adversidades e perseguições, mas tinha a confiança em Deus de que seria sustentado e ajudado.
+* Filipenses 4:6-7: "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus." Esses versículos podem ser aplicados a Paulo, que provavelmente orava e suplicava a Deus por sua situação, e encontrava paz em meio às adversidades.
+* 2 Coríntios 12:9-10: "E ele me disse: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. De boa vontade, pois, mais me gloriarei nas fraquezas, para que sobre mim repouse o poder de Cristo. Pelo que sinto prazer nas fraquezas, nas injúrias, nas necessidades, nas perseguições, nas angústias, por amor de Cristo. Porque quando sou fraco, então é que sou forte." Esse trecho fala sobre como a fraqueza humana é um meio pelo qual o poder de Deus se manifesta. Paulo enfrentava perseguições e adversidades, mas encontrava força em Deus.
+* Romanos 8:31: "Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós?" Esse versículo mostra que, quando temos Deus do nosso lado, não há nada que possa nos deter ou impedir que sua vontade se cumpra. Paulo tinha a convicção de que Deus estava com ele em meio às acusações e perseguições, o que lhe dava a certeza da vitória.
+****
+
+[[v51-25-1]]
+
+^<<v51-25-1,1>>^ Tendo, pois, chegado Festo à província (romana da Judeia) foi, passados três dias, de Cesareia a Jerusalém.
+
+[[v51-25-2]]
+
+^<<v51-25-2,2>>^ Aí os príncipes dos sacerdotes e os principais dos Judeus compareceram diante dele contra Paulo e lhe rogavam,
+
+[[v51-25-3]]
+
+^<<v51-25-3,3>>^ pedindo por favor, contra ele, que o mandassem conduzir a Jerusalém, armando-lhe ciladas para o matarem no caminho.
+
+[[v51-25-4]]
+
+^<<v51-25-4,4>>^ Mas Festo respondeu que Paulo estava preso em Cesareia, e que ele partiria (para lá) em breve.
+
+[[v51-25-5]]
+
+^<<v51-25-5,5>>^ "Por isso (disse ele), os que dentre vós são os principais, venham comigo, e, se algum crime há neste homem, acusem-no."
+
+[[v51-25-6]]
+
+^<<v51-25-6,6>>^ Tendo-se demorado entre eles não mais de oito ou dez dias, desceu a Cesareia, e, no dia seguinte, sentou-se no tribunal e mandou trazer Paulo.
+
+[[v51-25-7]]
+
+^<<v51-25-7,7>>^ Depois de ele ser trazido, rodearam-no os Judeus, que tinham vindo de Jerusalém, acusando-o de muitos e graves delitos, que não podiam provar.
+
+[[v51-25-8]]
+
+^<<v51-25-8,8>>^ Dizia Paulo em sua defesa: "Nada fiz de repreensível nem contra a lei dos Judeus, nem contra o templo, nem contra César."
+
+[[v51-25-9]]
+
+^<<v51-25-9,9>>^ Mas Festo, querendo ser agradável aos Judeus, respondeu a Paulo: "Queres ir a Jerusalém, e ser ali julgado destas coisas diante de mim?"
+
+[[v51-25-10]]
+
+^<<v51-25-10,10>>^ Paulo, porém, disse: "Estou diante do tribunal de César, é lá que devo ser julgado; nenhum mal fiz aos Judeus, como tu sabes muito bem.
+
+[[v51-25-11]]
+
+^<<v51-25-11,11>>^ Se lhes fiz algum mal ou coisa digna de morte, não recuso morrer, mas, se nada há daquilo de que estes me acusam, ninguém me pode entregar a eles. Apelo para César." (ver nota)
+
+[[v51-25-12]]
+
+^<<v51-25-12,12>>^ Então Festo, depois de ter conferido com o seu conselho, respondeu: "Apelaste para César? A César irás."
+
+[[v51-25-13]]
+
+^<<v51-25-13,13>>^ Alguns dias depois, o rei Agripa e Berenice foram a Cesareia para saudar Festo.
+
+[[v51-25-14]]
+
+^<<v51-25-14,14>>^ Demorando-se ali muitos dias, Festo falou de Paulo ao rei, dizendo: "Está (aqui) um certo homem, que Félix deixou prisioneiro,
+
+[[v51-25-15]]
+
+^<<v51-25-15,15>>^ sobre o qual, estando eu em Jerusalém, foram ter comigo os príncipes dos sacerdotes e os anciães dos Judeus, pedindo a sua condenação.
+
+[[v51-25-16]]
+
+^<<v51-25-16,16>>^ Respondi-lhes que não era costume dos Romanos condenar homem algum, antes de o acusado ter presentes os seus acusadores, e antes de se lhe ter facilitado o defender-se dos crimes de que o acusam.
+
+[[v51-25-17]]
+
+^<<v51-25-17,17>>^ Eles, pois, tendo acudido aqui sem a menor dilação, no dia seguinte, sentando-se no meu tribunal, mandei trazer este homem.
+
+[[v51-25-18]]
+
+^<<v51-25-18,18>>^ Comparecendo os seus acusadores, (vi que) nenhum delito lhe imputavam, dos que eu suspeitava,
+
+[[v51-25-19]]
+
+^<<v51-25-19,19>>^ mas tinham só contra ele algumas questões sobre a sua religião e sobre um certo Jesus já morto, o qual Paulo afirmava viver.
+
+[[v51-25-20]]
+
+^<<v51-25-20,20>>^ Estando eu embaraçado sobre semelhante questão, disse-lhe se queria ir a Jerusalém, e ali ser julgado destas coisas.
+
+[[v51-25-21]]
+
+^<<v51-25-21,21>>^ Mas, apelando Paulo para o julgamento de Augusto, ordenei que fosse guardado, até eu o remeter a César."
+
+[[v51-25-22]]
+
+^<<v51-25-22,22>>^ Agripa disse então a Festo: "Eu também queria ouvir este homem." "Amanhã, respondeu ele, o ouvirás."
+
+[[v51-25-23]]
+
+^<<v51-25-23,23>>^ No dia seguinte, tendo ido Agripa e Berenice com grande pompa, e entrado na sala de audiência com os tribunos e pessoas principais da cidade, foi trazido Paulo por ordem de Festo.
+
+[[v51-25-24]]
+
+^<<v51-25-24,24>>^ Festo disse: "Rei Agripa, e vós todos que aqui estais connosco, aqui tendes este homem, contra quem toda a multidão dos Judeus me fez recurso em Jerusalém, protestando em altos gritos que não convinha que ele vivesse mais.
+
+[[v51-25-25]]
+
+^<<v51-25-25,25>>^ Porém, reconheci que não fez coisa alguma digna de morte. Mas, tendo ele mesmo apelado para Augusto, determinei remeter-lho.
+
+[[v51-25-26]]
+
+^<<v51-25-26,26>>^ Dele não tenho coisa certa que escrever ao senhor. Por isso vo-lo apresentei, principalmente a ti, ó rei Agripa, a fim de que, feito o interrogatório, eu tenha alguma coisa para escrever.
+
+[[v51-25-27]]
+
+^<<v51-25-27,27>>^ Com efeito, parece-me sem razão enviar um homem preso, sem indicar os motivos."
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-024.adoc#v51-24-0[&#60; Capítulo Anterior] | <<v51-25-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-026.adoc#v51-26-0[Próximo Capítulo &#62;]

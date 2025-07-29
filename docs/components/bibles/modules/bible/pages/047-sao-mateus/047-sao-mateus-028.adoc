@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v47-28-0]]
+=== São Mateus, 28
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 28 de Mateus narra a ressurreição de Jesus e seu encontro com as mulheres no sepulcro. Depois, Jesus aparece aos discípulos e os instrui a pregar o evangelho a todas as nações. Aqui estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* Marcos 16:6: "Ele disse: 'Não tenhais medo. Procurais Jesus de Nazaré, que foi crucificado? Ele ressuscitou. Não está aqui. Vede o lugar onde o tinham colocado.'" Este versículo se refere ao momento em que as mulheres encontram o túmulo vazio e o anjo lhes diz que Jesus ressuscitou. Isso se relaciona com a narrativa em Mateus 28 que descreve a mesma cena.
+* Lucas 24:34: "Eles contavam o que tinha acontecido no caminho, e como o tinham reconhecido ao partir o pão." Este versículo se refere ao momento em que os discípulos reconhecem Jesus ressuscitado ao partir o pão. Isso se relaciona com a narrativa em Mateus 28 quando Jesus aparece aos discípulos e eles o adoram.
+* João 20:19: "Na tarde desse mesmo dia, o primeiro da semana, estando fechadas as portas do lugar onde se encontravam os discípulos por medo dos judeus, Jesus entrou e pôs-se no meio deles. Disse-lhes ele: 'A paz esteja convosco.'" Este versículo se refere ao momento em que Jesus aparece aos discípulos trancados em uma sala e lhes traz paz. Isso se relaciona com a narrativa em Mateus 28 quando Jesus instrui os discípulos a pregar o evangelho e promete estar com eles sempre.
+* Atos dos Apóstolos 1:8: "Mas recebereis a força do Espírito Santo que descerá sobre vós, e sereis minhas testemunhas em Jerusalém, em toda a Judeia e Samaria, e até os confins da terra." Este versículo se refere ao momento em que Jesus instrui os discípulos a pregarem o evangelho a todas as nações. Isso se relaciona com a narrativa em Mateus 28 quando Jesus dá a mesma instrução aos discípulos.
+* 1 Coríntios 15:20: "Mas agora Cristo ressuscitou dos mortos, como primícias dos que morreram." Este versículo se refere ao fato de que a ressurreição de Jesus é um evento chave na fé cristã. Isso se relaciona com a narrativa em Mateus 28, que é a história da ressurreição de Jesus e a base da crença cristã na salvação.
+****
+
+[[v47-28-1]]
+
+^<<v47-28-1,1>>^ Passado o sábado, ao amanhecer o primeiro dia da semana, foi Maria Madalena e a outra Maria visitar o sepulcro.
+
+[[v47-28-2]]
+
+^<<v47-28-2,2>>^ Eis que se deu um grande terremoto. Porque um anjo do Senhor desceu do céu, e, aproximando-se, revolveu a pedra do sepulcro, e sentou-se sobre ela.
+
+[[v47-28-3]]
+
+^<<v47-28-3,3>>^ O seu aspecto era como um relâmpago, e o seu vestido como a neve.
+
+[[v47-28-4]]
+
+^<<v47-28-4,4>>^ Com o temor que tiveram dele, aterraram-se os guardas, e ficaram como mortos.
+
+[[v47-28-5]]
+
+^<<v47-28-5,5>>^ Mas o anjo, tomando a palavra, disse às mulheres: "Vós não temais, porque sei que procurais a Jesus, que foi crucificado.
+
+[[v47-28-6]]
+
+^<<v47-28-6,6>>^ Ele já aqui não está, ressuscitou como tinha dito. Vinde e vede o lugar, onde o Senhor esteve depositado.
+
+[[v47-28-7]]
+
+^<<v47-28-7,7>>^ Ide já dizer aos seus discípulos que ele ressuscitou; e eis que vai adiante de vós para a Galileia; lá o vereis. Eis que eu vo-lo disse antes."
+
+[[v47-28-8]]
+
+^<<v47-28-8,8>>^ Saíram logo do sepulcro com medo e grande gáudio, e foram correndo dar a nova aos discípulos.
+
+[[v47-28-9]]
+
+^<<v47-28-9,9>>^ E eis que Jesus lhes saiu ao encontro e lhes disse: 'Eu vos saúdo." Elas aproximaram-se, abraçaram os seus pés e prostraram-se diante dele.
+
+[[v47-28-10]]
+
+^<<v47-28-10,10>>^ Então Jesus disse-lhes: "Não temais; ide, avisai meus irmãos, para que vão à Galileia; lá me verão."
+
+[[v47-28-11]]
+
+^<<v47-28-11,11>>^ Enquanto elas iam a caminho, foram à cidade alguns dos guardas, e noticiaram aos príncipes dos sacerdotes tudo o que tinha sucedido.
+
+[[v47-28-12]]
+
+^<<v47-28-12,12>>^ Tendo-se eles congregado com os anciãos, depois de tomarem conselho, deram uma grande soma de dinheiro aos soldados,
+
+[[v47-28-13]]
+
+^<<v47-28-13,13>>^ dizendo-lhes: "Dizei: Os seus discípulos vieram de noite, e, enquanto nós estávamos dormindo, o roubaram.
+
+[[v47-28-14]]
+
+^<<v47-28-14,14>>^ Se chegar isto aos ouvidos do governador, nós o aplacaremos e estareis seguros. "
+
+[[v47-28-15]]
+
+^<<v47-28-15,15>>^ Eles, recebido o dinheiro, fizeram como lhes tinha sido ensinado. E esta voz divulgou-se entre os Judeus e dura até ao dia de hoje.
+
+[[v47-28-16]]
+
+^<<v47-28-16,16>>^ Os onze discípulos partiram para a Galileia, para o monte que Jesus lhes tinha indicado.
+
+[[v47-28-17]]
+
+^<<v47-28-17,17>>^ Quando o viram, adoraram-no eles que a princípio tinham duvidado.
+
+[[v47-28-18]]
+
+^<<v47-28-18,18>>^ Jesus, aproximando-se, falou-lhes assim: "Foi-me dado todo o poder no céu e na terra.
+
+[[v47-28-19]]
+
+^<<v47-28-19,19>>^ Ide, pois, ensinai todas as gentes, baptizando-as em nome do Pai, e do Filho, e do Espírito Santo,
+
+[[v47-28-20]]
+
+^<<v47-28-20,20>>^ ensinando-as a observar todas as coisas que vos mandei. Eu estarei convosco todos os dias, até ao fim do mundo.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-027.adoc#v47-27-0[&#60; Capítulo Anterior] | <<v47-28-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-001.adoc#v48-1-0[Próximo Capítulo &#62;]

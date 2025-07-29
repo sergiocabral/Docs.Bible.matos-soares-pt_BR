@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v11-20-0]]
+=== I Reis, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em 1 Reis 20, o rei Ben-Hadade da Síria e seu exército cercam e atacam Samaria, a capital do reino de Israel. O profeta Eliseu prediz a vitória de Israel e orienta o rei Acabe a lutar contra os sírios. Israel consegue a vitória, mas permite que Ben-Hadade escape, o que desagrada a Deus. Em seguida, um profeta confronta Acabe por não ter matado o inimigo. Seguem abaixo cinco versículos relacionados com os temas abordados em 1 Reis 20:
+* 1 Reis 20:13: "Um profeta se aproximou do rei Acabe e disse: Assim diz o Senhor: Você viu essa grande multidão? Hoje eu a entregarei em suas mãos, e você saberá que eu sou o Senhor." O profeta Eliseu assegura a vitória de Israel, mostrando que Deus está do lado de seu povo.
+* 1 Reis 20:28: "Então o homem de Deus se aproximou do rei de Israel e disse: Assim diz o Senhor: Porque os sírios disseram: O Senhor é um deus das montanhas, mas não é um deus das planícies, eu entregarei todo este grande exército em suas mãos, e vocês saberão que eu sou o Senhor." Mais uma vez, Deus se revela como o Deus de Israel, capaz de derrotar os inimigos de seu povo.
+* 1 Reis 20:42: "Ele [o profeta] disse ao rei: Assim diz o Senhor: Porque você deixou escapar das mãos o homem que eu tinha destinado à destruição, agora a sua vida será tirada em lugar da vida dele, e o seu povo em lugar do povo dele." A mensagem do profeta mostra a importância de obedecer a Deus em tudo, e como um erro pode ter consequências graves.
+* 1 Reis 20:48: "Ele [Ben-Hadade] viveu escondido com o rei de Israel por algum tempo." O fato de Ben-Hadade ter sido poupado deixa evidente o problema do rei Acabe em lidar com a questão dos inimigos de Israel. Isso abre espaço para uma nova batalha no futuro.
+* 1 Reis 20:28-29: "Então o homem de Deus se aproximou do rei de Israel e disse: Assim diz o Senhor: Porque os sírios disseram: O Senhor é um deus das montanhas, mas não é um deus das planícies, eu entregarei todo este grande exército em suas mãos, e vocês saberão que eu sou o Senhor. Eles ficarão sabendo que eu sou o Senhor." A mensagem principal da passagem é a certeza da vitória de Israel em nome de Deus, mostrando que não importa a força ou a estratégia do inimigo, Deus é mais poderoso.
+****
+
+[[v11-20-1]]
+
+^<<v11-20-1,1>>^ Benadad, rei da Síria, juntou todo o seu exército. Tinha com ele trinta e dois reis, cavalos e carros. Subindo, pelejou contra Samaria e sitiou-a.
+
+[[v11-20-2]]
+
+^<<v11-20-2,2>>^ Enviando mensageiros à cidade a Acab, rei de Israel,
+
+[[v11-20-3]]
+
+^<<v11-20-3,3>>^ disse: Eis o que diz Benadad: A tua prata e o teu ouro são meus, as tuas mulheres e os teus filhos mais gentis são meus.
+
+[[v11-20-4]]
+
+^<<v11-20-4,4>>^ O rei de Israel respondeu: Como tu dizes, ó meu rei meu senhor, eu sou teu, e todas as minhas coisas.
+
+[[v11-20-5]]
+
+^<<v11-20-5,5>>^ Voltando os mensageiros, disseram: Eis o que diz Benadad, que nos enviou a ti: Tu me hás-de dar a tua prata e o teu ouro, as tuas mulheres e os teus filhos.
+
+[[v11-20-6]]
+
+^<<v11-20-6,6>>^ Amanhã, pois, a esta mesma hora, te enviarei os meus servos, os quais revistarão a tua casa e a casa dos teus servos; eles tomarão com as suas mãos tudo o que lhes aprouver, e o levarão.
+
+[[v11-20-7]]
+
+^<<v11-20-7,7>>^ Chamou o rei de Israel todos os anciães do povo e disse: Considerai e vede que ele nos quer perder, porque me mandou mensageiros a pedir minhas mulheres e filhos, a prata e o ouro, e eu não recusei.
+
+[[v11-20-8]]
+
+^<<v11-20-8,8>>^ Todos os anciães e todo o povo lhe responderam: Não lhe dês ouvidos, nem condescendas com ele.
+
+[[v11-20-9]]
+
+^<<v11-20-9,9>>^ Acab respondeu aos embaixadores de Benadad: Dizei ao rei, meu senhor: Farei todas as coisas que me mandaste pedir no princípio a mim, teu servo, mas esta (última) coisa não a posso fazer.
+
+[[v11-20-10]]
+
+^<<v11-20-10,10>>^ Voltando os mensageiros referiram, a resposta a Benadad. Então ele tornou-os enviar a dizer: Os deuses me tratem com a maior severidade se o pó de Samaria bastar para encher a cova da mão de todo o povo que me segue.
+
+[[v11-20-11]]
+
+^<<v11-20-11,11>>^ O rei de Israel, respondendo, disse: Dizei-lhe que não cante vitória antes da batalha.
+
+[[v11-20-12]]
+
+^<<v11-20-12,12>>^ Ora sucedeu que, quando Benadad ouviu esta resposta, estava bebendo nas suas tendas com os reis; disse aos seus servos: Cercai a cidade, E eles cercaram-na.
+
+[[v11-20-13]]
+
+^<<v11-20-13,13>>^ Neste momento, apresentando-se um profeta a Acab, rei de Israel, disse: Eis o que diz o Senhor: Viste toda esta inumerável multidão? Pois eu te declaro que hoje ta entregarei nas tuas mãos, para que tu saibas que eu sou o Senhor.
+
+[[v11-20-14]]
+
+^<<v11-20-14,14>>^ Acab disse: Por meio de quem? Ele respondeu-lhe: Eis o que diz o Senhor: Por meio dos servidores dos chefes das províncias. Acab disse: Quem começará a pelejar? O profeta disse-lhe: Tu.
+
+[[v11-20-15]]
+
+^<<v11-20-15,15>>^ Acab contou os servidores dos chefes das províncias, e achou que eram duzentos e trinta e dois; depois contou o povo de todos os filhos de Israel, e achou que (os aptos para combater) eram sete mil.
+
+[[v11-20-16]]
+
+^<<v11-20-16,16>>^ Saíram ao meio dia, quando Benadad bebia e se embriagava na sua tenda, com os trinta e dois reis, que tinham ido em seu socorro.
+
+[[v11-20-17]]
+
+^<<v11-20-17,17>>^ Os servidores dos chefes das províncias marchavam na primeira linha. Benadad mandou espiões, que lhe disseram: São homens que sairam de Samaria.
+
+[[v11-20-18]]
+
+^<<v11-20-18,18>>^ Ele disse: Ou eles venham tratar de paz, ou venham para pelejar, prendei-os vivos.
+
+[[v11-20-19]]
+
+^<<v11-20-19,19>>^ Avançaram, pois, os servidores dos chefes das províncias, e o resto do exército os seguia.
+
+[[v11-20-20]]
+
+^<<v11-20-20,20>>^ Cada um deles matou seu homem, e logo os Sírios fugiram, e Israel perseguiu-os. Benadad, rei da Síria, também fugiu a cavalo com alguns cavaleiros.
+
+[[v11-20-21]]
+
+^<<v11-20-21,21>>^ O rei de Israel, tendo também saído, matou cavalos e destruiu carros, fazendo um grande estrago nos Sírios.
+
+[[v11-20-22]]
+
+^<<v11-20-22,22>>^ Indo um profeta ter com o rei de Israel, disse lhe: Vai, cobra ânimo e considera o que tens para fazer, porque no ano próximo o rei da Síria voltará contra ele.
+
+[[v11-20-23]]
+
+^<<v11-20-23,23>>^ Os servos, porém, do rei da Síria disseram-lhe: Os deuses dos montes são seus deuses, e por isso eles nos venceram; é melhor que pelejemos com eles em campo raso, e vencê-los-emos.
+
+[[v11-20-24]]
+
+^<<v11-20-24,24>>^ Tu, pois, faze isto: Aparta do exército do os reis, e põe em seu lugar os primeiros oficiais;
+
+[[v11-20-25]]
+
+^<<v11-20-25,25>>^ levanta um exército semelhante ao que perdeste, com equivalente número de cavalos e carros. Nós pelejaremos contra eles em campo raso, e tu verás que os desbarataremos. Ele ouviu e seguiu o seu conselho.
+
+[[v11-20-26]]
+
+^<<v11-20-26,26>>^ Portanto, tendo passado um ano, fez Benadad o recenseamento dos Sírios e foi a Afec, para combater contra Israel.
+
+[[v11-20-27]]
+
+^<<v11-20-27,27>>^ Foi feito também o recenseamento dos filhos de Israel, que, providos de víveres, marcharam contra os Sírios. Acamparam em frente deles, com o dois pequenos rebanhos de cabras, ao passo que os Sírios cobriam o país.
+
+[[v11-20-28]]
+
+^<<v11-20-28,28>>^ Vindo um homem de Deus, disse ao rei de Israel: Eis o que diz o Senhor: Porque os Sírios disseram: O Senhor é Deus dos montes e não Deus dos vales eu te entregarei nas mãos toda esta grande multidão para que saibais que eu sou o Senhor.
+
+[[v11-20-29]]
+
+^<<v11-20-29,29>>^ Estiveram os exércitos ordenados em batalha sete dias, um em frente do outro, e ao sétimo dia deu-se a batalha: os filhos de Israel mataram num dia cem mil homens de pé, dos Sírios.
+
+[[v11-20-30]]
+
+^<<v11-20-30,30>>^ Os que escaparam, fugiram para a cidade de Afec, mas as muralhas cairam sobre os vinte e sete mil homens, que tinham restado. Benadad, fugindo, entrou na cidade e retirou-se ao lugar mais secreto duma câmara.
+
+[[v11-20-31]]
+
+^<<v11-20-31,31>>^ Os seus servos disseram-lhe: Nós tem os ouvido dizer que os reis da casa de Israel são clementes; ponhamos, pois, sacos sobre os nossos rins e cordas ao nosso pescoço, e vamos ter com o rei de Israel; talvez ele nos poupe a vida.
+
+[[v11-20-32]]
+
+^<<v11-20-32,32>>^ Cingiram-se com sacos pelos rins, puseram cordas ao pescoço e foram ter com o rei de Israel, dizendo-lhe: O teu servo Benadad diz: Concede-me, eu te peço, a vida. Ele responde: Se ainda vive, ele é meu irmão.
+
+[[v11-20-33]]
+
+^<<v11-20-33,33>>^ Os Sírios tom aram isto por bom preságio e, tomando logo a palavra da sua boca, disseram: Benadad é teu irmão. Ele disse-lhes: Ide e trazei-mo. Veio, pois, Benadad à presença de Acab, e este mandou-o subir para o seu carro.
+
+[[v11-20-34]]
+
+^<<v11-20-34,34>>^ Benadad disse-lhe: Eu te restituirei as cidades que meu pai tomou a teu pai; faze para ti praças em Damasco, como meu pai as fez em Samaria, e eu me retirarei de ti, depois de feita a aliança. Acab fez, pois, aliança com ele deixou-o ir livre,
+
+[[v11-20-35]]
+
+^<<v11-20-35,35>>^ Então um dos filhos dos profetas disse da parte do Senhor a um seu companheiro: Fere-me. Porém ele não o quis ferir.
+
+[[v11-20-36]]
+
+^<<v11-20-36,36>>^ Ele disse-lhe: Porque não quiseste ouvir a voz do Senhor, logo que te afastares de mim, um leão te matará. Mal se havia afastado um pouco dele, um leão o feriu e matou.
+
+[[v11-20-37]]
+
+^<<v11-20-37,37>>^ Encontrando depois outro homem, disse-lhe: Fere-me. Este homem acometeu-o e feriu-o.
+
+[[v11-20-38]]
+
+^<<v11-20-38,38>>^ Partiu, então o profeta, para encontrar o rei no caminho, e disfarçou-se, cobrindo o seu rosto com um véu.
+
+[[v11-20-39]]
+
+^<<v11-20-39,39>>^ Tendo passado o rei, gritou atrás dele e disse-lhe: O teu servo saiu a pelejar de perto, e, tendo fugido um homem, um outro mo trouxe e disse-me: Guarda-me este homem: se ele fugir, a tua vida responderá pela vida dele, ou pagarás um talento de prata.
+
+[[v11-20-40]]
+
+^<<v11-20-40,40>>^ Quando eu todo perturbado andava às voltas de uma parte para a outra, de repente desapareceu. O rei de Israel disse-lhe: Tal é a tua sentença, que tu mesmo pronunciaste.
+
+[[v11-20-41]]
+
+^<<v11-20-41,41>>^ Então ele tirou sùbitamente o véu que o disfarçava e o rei de Israel conheceu que era um dos profetas.
+
+[[v11-20-42]]
+
+^<<v11-20-42,42>>^ Ele disse ao rei: Ela o que diz o Senhor: Porque deixaste escapar das tuas mãos um homem digno de morte, a tua vida responderá pela sua vida, e o teu povo pelo seu povo.
+
+[[v11-20-43]]
+
+^<<v11-20-43,43>>^ O rei de Israel voltou para sua casa, sombrio e enfurecido, e chegou a Samaria.
+
+'''
+
+xref:011-i-reis/011-i-reis-019.adoc#v11-19-0[&#60; Capítulo Anterior] | <<v11-20-0,Topo>> | xref:011-i-reis/011-i-reis-021.adoc#v11-21-0[Próximo Capítulo &#62;]

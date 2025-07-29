@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v47-15-0]]
+=== São Mateus, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Mateus 15 fala sobre as controvérsias entre Jesus e os fariseus em relação aos rituais e tradições religiosas. Jesus ensina que o que contamina o homem não é o que entra pela boca, mas sim o que sai dela, ou seja, as palavras e ações. Ele critica os fariseus por seguirem tradições humanas em detrimento dos mandamentos de Deus.
+* Isaías 29:13: "O Senhor diz: 'Esse povo se aproxima de mim com a boca e me honra com os lábios, mas o seu coração está longe de mim. A adoração que me prestam é feita só de regras ensinadas por homens.'" Este verso se relaciona com a crítica de Jesus aos fariseus por seguir tradições humanas em vez dos mandamentos de Deus.
+* Isaías 6:9-10: "O Senhor disse: 'Vá e diga a este povo: "Embora vocês ouçam, nunca entenderão; embora vejam, nunca perceberão."' Este verso é citado por Jesus quando explica por que ele fala em parábolas, para que apenas aqueles com ouvidos espirituais possam entender a verdade.
+* Provérbios 4:23: "Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as fontes da vida." Esse verso se relaciona com a ideia de que o que contamina o homem não é o que entra pela boca, mas sim o que sai dela, ou seja, as palavras e ações que refletem o que está no coração.
+* Isaías 35:5-6: "Então se abrirão os olhos dos cegos e se desimpedirão os ouvidos dos surdos. O coxo saltará como um cervo, e a língua do mudo cantará de alegria." Esse verso se relaciona com os muitos milagres que Jesus realiza em São Mateus 15, curando os enfermos e os possuídos.
+* Colossenses 2:8: "Cuidado para que ninguém os escravize a filosofias vazias e enganosas que se baseiam nas tradições humanas e nos princípios elementares deste mundo, em vez de se basearem em Cristo." Este verso se relaciona com a crítica de Jesus aos fariseus por seguirem tradições humanas em detrimento dos mandamentos de Deus.
+****
+
+[[v47-15-1]]
+
+^<<v47-15-1,1>>^ Então aproximaram-se dele uns escribas e fariseus de Jerusalém, dizendo:
+
+[[v47-15-2]]
+
+^<<v47-15-2,2>>^ "Porque violam os teus discípulos a tradição dos antigos? Pois não lavam as mãos quando comem pão."
+
+[[v47-15-3]]
+
+^<<v47-15-3,3>>^ Ele respondeu-lhes: "E vós também porque transgredia o mandamento de Deus por causa da vossa tradição? Porque Deus disse: (ver nota)
+
+[[v47-15-4]]
+
+^<<v47-15-4,4>>^ Honra teu pai e tua mãe (Ex. 20, 12; Dt. 5, 16), e: O que amaldiçoar seu pai ou sua mãe, seja punido de morte (Ex. 21, 17).
+
+[[v47-15-5]]
+
+^<<v47-15-5,5>>^ Porém, vós dizeis: Qualquer que disser a seu pai ou a sua mãe: É oferta a Deus qualquer coisa minha que te possa ser útil, (ver nota)
+
+[[v47-15-6]]
+
+^<<v47-15-6,6>>^ não está mais obrigado a honrar seu pai ou sua mãe; e, assim, por causa da vossa tradição, tornastes nulo o mandamento de Deus.
+
+[[v47-15-7]]
+
+^<<v47-15-7,7>>^ Hipócritas, bem profetizou de vós Isaías, dizendo (Is. 29, 13):
+
+[[v47-15-8]]
+
+^<<v47-15-8,8>>^ Este povo honra-me com os lábios, mas o seu coração está longe de mim.
+
+[[v47-15-9]]
+
+^<<v47-15-9,9>>^ Em vão me prestam culto; as doutrinas que ensinam são preceitos humanos."
+
+[[v47-15-10]]
+
+^<<v47-15-10,10>>^ Depois, chamando a si as turbas, disse-Ihes: "Ouvi e entendei.
+
+[[v47-15-11]]
+
+^<<v47-15-11,11>>^ Não é aquilo que entra pela boca, que mancha o homem, mas aquilo que sai da boca, isso é que torna imundo o homem."
+
+[[v47-15-12]]
+
+^<<v47-15-12,12>>^ Então, aproximando-se dele os seus discípulos, disseram-lhe: "Sabes que os fariseus, ouvindo estas palavras, se escandalizaram?"
+
+[[v47-15-13]]
+
+^<<v47-15-13,13>>^ Jesus respondeu: "Toda a planta que meu Pai celestial não plantou, será arrancada pela raiz.
+
+[[v47-15-14]]
+
+^<<v47-15-14,14>>^ Deixai-os; são cegos, e guias de cegos; e, se um cego guia outro cego, ambos caem na fossa."
+
+[[v47-15-15]]
+
+^<<v47-15-15,15>>^ Pedro, tomando a palavra, disse-lhe: "Explica-nos essa parábola."
+
+[[v47-15-16]]
+
+^<<v47-15-16,16>>^ Jesus respondeu: "Também vós tendes tão pouca compreensão?
+
+[[v47-15-17]]
+
+^<<v47-15-17,17>>^ Não compreendeis que tudo o que entra pela boca passa ao ventre, e se lança depois num lugar escuso?
+
+[[v47-15-18]]
+
+^<<v47-15-18,18>>^ Mas as coisas que saem da boca, vêm do coração, e estas são as que mancham o homem;
+
+[[v47-15-19]]
+
+^<<v47-15-19,19>>^ porque do coração saem os maus pensamentos, os homicídios, os adultérios, as fornicações, os furtos, os falsos testemunhos, as palavras injuriosas.
+
+[[v47-15-20]]
+
+^<<v47-15-20,20>>^ Estas coisas são as que mancham o homem. O comer, porém, com as mãos por lavar não mancha o homem."
+
+[[v47-15-21]]
+
+^<<v47-15-21,21>>^ Partindo dali, retirou-se Jesus para a região de Tiro e de Sidónia.
+
+[[v47-15-22]]
+
+^<<v47-15-22,22>>^ E eis que uma Cananeia, que tinha saído daqueles arredores, gritou: "Senhor, Filho de David, tem piedade de mim! Minha filha está miseravelmente atormentada do demônio." (ver nota)
+
+[[v47-15-23]]
+
+^<<v47-15-23,23>>^ Ele, porém, não lhe respondeu palavra. Aproximando-se seus discípulos, pediram-lhe: "Despede-; porque vem gritando atrás de nós."
+
+[[v47-15-24]]
+
+^<<v47-15-24,24>>^ Ele respondeu: "Eu não fui enviado senão às ovelhas desgarradas da casa de Israel." (ver nota)
+
+[[v47-15-25]]
+
+^<<v47-15-25,25>>^ Ela, porém, veio, prostrou-se diante dele, dizendo: "Senhor, valei-me."
+
+[[v47-15-26]]
+
+^<<v47-15-26,26>>^ Ele respondeu: "Não é bom tomar o pão dos filhos e lançá-lo aos cães."
+
+[[v47-15-27]]
+
+^<<v47-15-27,27>>^ Ela replicou: "Assim é. Senhor, mas também os cachorrinhos comem das migalhas que caem da mesa dos seus donos."
+
+[[v47-15-28]]
+
+^<<v47-15-28,28>>^ Então Jesus disse-lhe: "Ó mulher, grande é a tua fé! Seja-te feito como queres." E, desde aquela hora, ficou sã a sua filha.
+
+[[v47-15-29]]
+
+^<<v47-15-29,29>>^ Tendo Jesus saído dali, dirigiu-se para o mar da Galileia; e, subindo a um monte, sentou-se aí.
+
+[[v47-15-30]]
+
+^<<v47-15-30,30>>^ E concorreu a ele uma grande multidão de povo, que trazia consigo coxos, cegos, mudos, estropiados e muitos outros. Lançaram-nos a seus pés, e ele os curou;
+
+[[v47-15-31]]
+
+^<<v47-15-31,31>>^ de sorte que as turbas se admiravam, vendo falar os mudos, andar os coxos, ver os cegos; e davam glória ao Deus de Israel.
+
+[[v47-15-32]]
+
+^<<v47-15-32,32>>^ Jesus, chamando os seus discípulos, disse: "Tenho piedade deste povo, porque há jã três dias que não se afastam de mim, e não têm que comer. Não quero despedi-los em jejum, para que não desfaleçam no caminho."
+
+[[v47-15-33]]
+
+^<<v47-15-33,33>>^ Os discípulos disseram-lhe: "Onde poderemos encontrar neste deserto pães bastantes para matar a fome a tão grande multidão?"
+
+[[v47-15-34]]
+
+^<<v47-15-34,34>>^ Jesus disse-lhes: "Quantos pães tendes vós?" Eles responderam: "Sete e uns poucos de peixinhos."
+
+[[v47-15-35]]
+
+^<<v47-15-35,35>>^ Ordenou então ao povo que se sentasse sobre a terra.
+
+[[v47-15-36]]
+
+^<<v47-15-36,36>>^ E, tomando os sete pães e os peixes, deu graças, partiu-os, deu-os aos seus discípulos, e os discípulos os deram ao povo.
+
+[[v47-15-37]]
+
+^<<v47-15-37,37>>^ Comeram todos, e saciaram-se. E dos bocados que sobejaram levantaram sete cestos cheios.
+
+[[v47-15-38]]
+
+^<<v47-15-38,38>>^ Os que tinham comido eram quatro mil homens, sem contar mulheres e crianças.
+
+[[v47-15-39]]
+
+^<<v47-15-39,39>>^ Em seguida, despedindo o povo, entrou Jesus numa barca, e foi para o território de Magadan.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-014.adoc#v47-14-0[&#60; Capítulo Anterior] | <<v47-15-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-016.adoc#v47-16-0[Próximo Capítulo &#62;]

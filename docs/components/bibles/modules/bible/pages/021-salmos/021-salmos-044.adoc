@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v21-44-0]]
+=== Salmos, 44
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 44 é uma lamentação do povo de Israel, que se sente abandonado por Deus e sofre derrotas constantes em batalhas. Eles relembram as grandes obras de Deus no passado, mas agora sentem-se esquecidos e rejeitados por Ele. Abaixo estão cinco versículos relacionados aos temas abordados no Salmo 44:
+* Salmos 44:9: "Mas agora tu nos rejeitaste e nos fizeste passar vergonha; já não sais à frente dos nossos exércitos." Neste verso, os escritores do salmo expressam sua sensação de abandono e rejeição por Deus, e como Ele não mais lidera suas batalhas.
+* Salmos 44:23: "Acorda, Senhor! Por que dormes? Desperta! Não nos rejeites para sempre." Aqui, os escritores imploram para que Deus acorde de Seu aparente sono e ajude-os em suas lutas.
+* Salmos 44:26: "Levanta-te! Socorre-nos! Resgata-nos por causa da tua fidelidade." Este verso é um apelo para que Deus ajude Israel em sua luta e os salve por Sua fidelidade.
+* Salmos 44:4: "Tu és o meu Rei e o meu Deus, que dá vitória a Jacó." Aqui, os escritores do salmo reconhecem a grandeza de Deus e Sua capacidade de dar vitória ao povo de Israel.
+* Salmos 44:17: "Tudo isso nos sobreveio, apesar de não te termos esquecido nem traído a tua aliança." Neste verso, o povo de Israel lamenta o fato de que eles estão sofrendo apesar de terem mantido sua fidelidade a Deus e Sua aliança.
+****
+
+[[v21-44-1]]
+
+^<<v21-44-1,1>>^ Ao mestre do coro. Segundo a melodia de "Os lírios". Dos filhos de Coré. Maskil. Canção de amor. (ver nota)
+
+[[v21-44-2]]
+
+^<<v21-44-2,2>>^ Saiu do meu coração uma palavra sublime: eu dedico ao rei este meu poema; a minha língua é (como) pena de ágil escriva.
+
+[[v21-44-3]]
+
+^<<v21-44-3,3>>^ Ultrapassas em formosura os filhos dos homens, a graça derramou-se nos teus lábios: por isso te abençoou Deus para sempre.
+
+[[v21-44-4]]
+
+^<<v21-44-4,4>>^ Cinge a tua espada ao teu lado, ó (rei) poderosíssimo, tua gala e teu ornato!
+
+[[v21-44-5]]
+
+^<<v21-44-5,5>>^ Avança triunfante em prol da fé e da justiça, e a tua dextra te ensine gloriosas façanhas.
+
+[[v21-44-6]]
+
+^<<v21-44-6,6>>^ As tuas setas são agudas, os povos submetem-se a ti, os inimigos do rei perdem o ânimo.
+
+[[v21-44-7]]
+
+^<<v21-44-7,7>>^ O teu trono, ó Deus, subsistirá por todos os séculos; o ceptro do teu reino é um ceptro de equidade.
+
+[[v21-44-8]]
+
+^<<v21-44-8,8>>^ Amas a justiça e aborreces a iniquidade: por isso te ungiu Deus, o teu Deus, com óleo de alegria, de preferência aos teus companheiros.
+
+[[v21-44-9]]
+
+^<<v21-44-9,9>>^ (Perfume de) mirra, de aloés e cássia (exalam) as tuas vestes; dos palácios de marfim o som das cítaras te alegra.
+
+[[v21-44-10]]
+
+^<<v21-44-10,10>>^ Filhas de reis saem ao teu encontro, a rainha está à tua dextra, ornada com ouro de Ofir.
+
+[[v21-44-11]]
+
+^<<v21-44-11,11>>^ Escuta, ó filha, e vê, inclina o teu ouvido, e esquece-te do teu povo e da casa de teu pai.
+
+[[v21-44-12]]
+
+^<<v21-44-12,12>>^ O rei desejará a tua beleza: ele é o teu Senhor, presta-lhe homenagem.
+
+[[v21-44-13]]
+
+^<<v21-44-13,13>>^ O povo de Tiro vem com presentes; o teu favor imploram os grandes do povo.
+
+[[v21-44-14]]
+
+^<<v21-44-14,14>>^ A filha do rei entra toda formosa; tecidos de ouro são os seus vestidos.
+
+[[v21-44-15]]
+
+^<<v21-44-15,15>>^ E apresentada ao rei coberta de recamadas vestes; as virgens que formam o seu séquito, suas companheiras, são-te conduzidas (ó rei).
+
+[[v21-44-16]]
+
+^<<v21-44-16,16>>^ São conduzidas com alegria e com regozijo, entram no palácio do rei.
+
+[[v21-44-17]]
+
+^<<v21-44-17,17>>^ Aos teus pais sucederão os teus filhos; estabelecê-los-às príncipes sobre toda a terra.
+
+[[v21-44-18]]
+
+^<<v21-44-18,18>>^ Recordarei o teu nome por todas as gerações; por isso os povos te louvarão pelos séculos dos séculos.
+
+'''
+
+xref:021-salmos/021-salmos-043.adoc#v21-43-0[&#60; Capítulo Anterior] | <<v21-44-0,Topo>> | xref:021-salmos/021-salmos-045.adoc#v21-45-0[Próximo Capítulo &#62;]

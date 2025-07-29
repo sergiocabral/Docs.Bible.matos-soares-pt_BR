@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v30-23-0]]
+=== Jeremias, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 23 de Jeremias apresenta uma série de profecias contra os líderes religiosos de Judá, que haviam se desviado do caminho do Senhor e levado o povo a se afastar da verdadeira adoração. O capítulo também fala sobre a promessa de Deus de enviar um líder justo para governar o seu povo. Abaixo estão cinco versículos relacionados aos temas abordados em Jeremias 23:
+* Isaías 55:6: "Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto." Este versículo enfatiza a importância de buscar o Senhor enquanto Ele ainda pode ser encontrado, antes que seja tarde demais. Os líderes religiosos de Judá negligenciaram essa busca e levaram o povo a seguir falsos deuses.
+* Ezequiel 34:2: "Ai dos pastores de Israel que se apascentam a si mesmos! Não devem os pastores apascentar as ovelhas?" Este versículo condena os líderes que se preocupam apenas com seus próprios interesses e não cuidam do povo que lhes foi confiado. Essa crítica é semelhante à que Jeremias faz aos líderes religiosos de Judá.
+* Miquéias 3:11: "Os seus chefes julgam por presentes, os seus sacerdotes ensinam por interesse, e os seus profetas adivinham por dinheiro; e ainda se encostam ao Senhor, dizendo: Não está o Senhor entre nós? Nenhum mal nos sobrevirá." Este versículo denuncia a corrupção dos líderes religiosos que se vendem por dinheiro e não se importam com a verdadeira adoração a Deus.
+* Zacarias 9:9: "Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém; eis que vem a ti o teu Rei; ele é justo e traz a salvação; humilde e cavalga sobre um jumento, sobre um jumentinho, filho de jumenta." Este versículo fala sobre a promessa de um líder justo que virá para governar o povo. Essa promessa é semelhante à que Jeremias faz em Jeremias 23:5-6.
+* Mateus 23:23: "Ai de vós, escribas e fariseus, hipócritas! porque dais o dízimo da hortelã, do endro e do cominho, e tendes omitido o que há de mais importante na lei, a saber, a justiça, a misericórdia e a fé; estas coisas, porém, devíeis fazer, sem omitir aquelas." Este versículo condena os líderes religiosos que se preocupam com as formalidades externas da religião, mas não se importam com as coisas mais importantes, como a justiça e a misericórdia. Isso é semelhante à crítica que Jeremias faz aos líderes de Judá em Jeremias 23:11-12.
+****
+
+[[v30-23-1]]
+
+^<<v30-23-1,1>>^ Ai dos pastores, que perdem e despedaçam o rebanho da minha pastagem! - diz o Senhor.
+
+[[v30-23-2]]
+
+^<<v30-23-2,2>>^ Portanto eis o que diz o Senhor Deus de Israel aos pastores, que apascentam o meu povo: Dispersastes e repelistes as minhas ovelhas, não tivestes cuidado delas. Pois vou ocupar-me de vós pelas vossas obras más, diz o Senhor.
+
+[[v30-23-3]]
+
+^<<v30-23-3,3>>^ Juntarei o resto das minhas ovelhas de todas as terras, para onde eu as tiver lançado, e fá-las-ei voltar aos seus prados, onde crescerão e se multiplicarão.
+
+[[v30-23-4]]
+
+^<<v30-23-4,4>>^ Estabelecerei sobre elas pastores que as apascentarão: não terão mais medo nem sobressalto, e não se perderá nenhuma, diz o Senhor.
+
+[[v30-23-5]]
+
+^<<v30-23-5,5>>^ Eis vêm dias, diz o Senhor, em que suscitarei a Davide um germen justo; reinará como rei sábio, praticará o direito e a justiça na terra.
+
+[[v30-23-6]]
+
+^<<v30-23-6,6>>^ Nesses dias Judá será salvo e Israel habitará sem temor. Eis o nome por que o chamarão: Iavé, nossa justiça.
+
+[[v30-23-7]]
+
+^<<v30-23-7,7>>^ Por esta causa eis que vêm dias, diz o Senhor, em que já não dirão: Vive o Senhor, que tirou os filhos de Israel da terra do Egito -
+
+[[v30-23-8]]
+
+^<<v30-23-8,8>>^ mas sim: Vive o Senhor, que tirou e trouxe a linhagem da casa de Israel da terra do Aquilão e de todas as terras, para onde os tinha lançado, e os fez habitar na sua terra.
+
+[[v30-23-9]]
+
+^<<v30-23-9,9>>^ Sobre os profetas. - O meu coração (diz Jeremias) está feito em pedaços dentro de mim mesmo, todos os meus ossos estremecem. Sou como um homem ébrio, como um homem cheio de vinho, por causa do Senhor e da sua santa palavra (tão desprezada pelo seu povo).
+
+[[v30-23-10]]
+
+^<<v30-23-10,10>>^ Porque a terra está cheia de adúlteros, porque a terra chora à vista da maldição e secaram-se as pastagens do deserto. A sua carreira é atrás da maldade, a sua força é a injustiça.
+
+[[v30-23-11]]
+
+^<<v30-23-11,11>>^ Até o profeta e o sacerdote se corromperam, e mesmo na minha casa encontrei os males que eles lá cometeram, diz o Senhor.
+
+[[v30-23-12]]
+
+^<<v30-23-12,12>>^ Por isso o seu caminho será como um caminho escorregadio nas trevas; serão impelidos e cairão nele, porque farei vir sobre eles males no tempo em que eu os castigar, diz o Senhor.
+
+[[v30-23-13]]
+
+^<<v30-23-13,13>>^ Nos profetas da Samaria vi a insensatez: profetizavam em nome de Baal e seduziam o meu povo de Israel!
+
+[[v30-23-14]]
+
+^<<v30-23-14,14>>^ Aos profetas de Jerusalém vi coisas horríveis: o adultério, a mentira; fortificaram as mãos dos malvados, para que nenhum se convertesse da sua maldade. Tornaram-se todos para mim como Sodoma, e os moradores de Jerusalém como Gomorra.
+
+[[v30-23-15]]
+
+^<<v30-23-15,15>>^ Portanto isto diz o Senhor dos exércitos acerca dos profetas: Vou alimentá-los com absinto e dar-lhes a beber águas envenenadas, porque dos profetas de Jerusalém é que se derramou a corrupção sobre toda a terra.
+
+[[v30-23-16]]
+
+^<<v30-23-16,16>>^ Assim fala o Senhor dos exércitos: Não queirais ouvir as palavras dos profetas, que vos profetizam: enganam-vos, contam as visões do seu coração, e não (o que sai) da boca do Senhor.
+
+[[v30-23-17]]
+
+^<<v30-23-17,17>>^ Dizem àqueles que me desprezam: O Senhor disse: Vós tereis a paz. E a todos aqueles que seguem a perversidade do seu coração dizem: Não virá sobre vós mal algum.
+
+[[v30-23-18]]
+
+^<<v30-23-18,18>>^ Mas quem assistiu ao conselho do Senhor, e viu e ouviu a sua palavra? Quem prestou atenção à sua palavra e a ouviu?
+
+[[v30-23-19]]
+
+^<<v30-23-19,19>>^ Eis que se levantará o redemoinho da indignação do Senhor, e a tempestade desencadeada cairá sobre a cabeça dos ímpios.
+
+[[v30-23-20]]
+
+^<<v30-23-20,20>>^ O furor do Senhor não retrocederá até que efetue e cumpra o desígnio do seu coração; nos últimos dias entenderás o desígnio (sobre vós).
+
+[[v30-23-21]]
+
+^<<v30-23-21,21>>^ Eu não enviava estes (falsos) profetas e eles corriam; não lhes dizia nada, e eles profetizavam.
+
+[[v30-23-22]]
+
+^<<v30-23-22,22>>^ Se tivessem assistido ao meu conselho, teriam feito saber as minhas palavras ao meu povo, tê-lo-iam desviado do seu mau caminho e das suas depravadas obras.
+
+[[v30-23-23]]
+
+^<<v30-23-23,23>>^ Porventura eu sou (sòmente) Deus de perto, diz o Senhor, e não também Deus de longe?
+
+[[v30-23-24]]
+
+^<<v30-23-24,24>>^ Poderá alguém ocultar-se em lugares secretos, sem que eu o veja? - diz o Senhor. Porventura não encho o céu e a terra? - diz o Senhor.
+
+[[v30-23-25]]
+
+^<<v30-23-25,25>>^ Eu ouvi as falas dos profetas, que em meu nome profetizavam a mentira e diziam: Tive um sonho, tive um sonho.
+
+[[v30-23-26]]
+
+^<<v30-23-26,26>>^ Até quando há-de durar esta ideia no coração dos profetas que vaticinam a mentira, que profetizam as imposturas do seu coração?
+
+[[v30-23-27]]
+
+^<<v30-23-27,27>>^ Querem fazer que o meu povo se esqueça do meu nome, pelos sonhos que contam uns aos outros, como seus pais se esqueceram do meu nome, por causa de Baal.
+
+[[v30-23-28]]
+
+^<<v30-23-28,28>>^ O profeta que tem um sonho, conte o seu sonho; o que tem a minha palavra, anuncie a minha palavra com toda a verdade (e ver-se-á a diferença). Que comparação há entre a palha e o trigo, diz o Senhor?
+
+[[v30-23-29]]
+
+^<<v30-23-29,29>>^ Não são as minhas palavras como um fogo, diz o Senhor, como um martelo que quebra a pedra? (ver nota)
+
+[[v30-23-30]]
+
+^<<v30-23-30,30>>^ Por esta causa eis que venho contra esses profetas, diz o Senhor, que roubam as minhas palavras uns aos outros.
+
+[[v30-23-31]]
+
+^<<v30-23-31,31>>^ Eis que venho contra os profetas, diz o Senhor, que tomam em suas línguas estas palavras: Diz o Senhor (não lhes tendo ele dito nada).
+
+[[v30-23-32]]
+
+^<<v30-23-32,32>>^ Eis que venho contra os profetas que sonham mentiras, diz o Senhor, que as contam e enganam o meu povo com as suas mentiras e com a sua loquacidade; não os enviei, não lhes dei ordem alguma, a eles que nenhum bem fazem a este povo, diz o Senhor.
+
+[[v30-23-33]]
+
+^<<v30-23-33,33>>^ Se te perguntar pois este povo, ou um profeta, ou um sacerdote, assim: Qual é o peso do Senhor? - responderás; Vós é que sois o peso; eu vos hei-de arrojar para longe de mim, diz o Senhor.
+
+[[v30-23-34]]
+
+^<<v30-23-34,34>>^ Quanto ao profeta, ao sacerdote, ou ao homem do povo que disser: Peso (ou oráculo) do Senhor - pedirei contas a tal homem e à sua casa.
+
+[[v30-23-35]]
+
+^<<v30-23-35,35>>^ Isto direis, cada um a seu vizinho e a seu irmão: Que respondeu o Senhor? Que disse o Senhor?
+
+[[v30-23-36]]
+
+^<<v30-23-36,36>>^ E não se dirá mais: Peso do Senhor - porque (de contrário) a cada um será peso o seu modo de falar, porque transtornastes as palavras do Deus vivo, do Senhor dos exércitos, nosso Deus.
+
+[[v30-23-37]]
+
+^<<v30-23-37,37>>^ Isto dirás ao profeta: Que te respondeu o Senhor? Que disse o Senhor?
+
+[[v30-23-38]]
+
+^<<v30-23-38,38>>^ Se disserdes: Peso do Senhor - neste caso eis o que diz o Senhor: Porque dissestes esta palavra: Peso do Senhor - tendo-vos eu mandado: Não digais: Peso do Senhor -
+
+[[v30-23-39]]
+
+^<<v30-23-39,39>>^ por causa disso, eis que eu mesmo vos tomarei e vos atirarei para longe da minha presença, assim como à cidade que vos dei a vós e a vossos pais.
+
+[[v30-23-40]]
+
+^<<v30-23-40,40>>^ Entregar-vos-ei a um opróbrio sempiterno, a uma eterna ignomínia, que nunca se apagará da memória.
+
+'''
+
+xref:030-jeremias/030-jeremias-022.adoc#v30-22-0[&#60; Capítulo Anterior] | <<v30-23-0,Topo>> | xref:030-jeremias/030-jeremias-024.adoc#v30-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v29-7-0]]
+=== Isaías, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 7 conta a história do rei Acaz de Judá, que está preocupado com o ataque planejado pelas nações vizinhas. Deus envia o profeta Isaías para tranquilizá-lo, prometendo que ele será protegido. O capítulo também inclui a profecia do nascimento do Messias por meio de uma virgem. Para encontrar versículos relacionados com os temas abordados em Isaías 7, podemos buscar por passagens que falam sobre a proteção divina, a fé em Deus e a vinda do Messias.
+* Salmo 46:1: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade." Este versículo destaca a proteção divina e como Deus é nosso refúgio em tempos difíceis.
+* Mateus 1:23: "A virgem ficará grávida e dará à luz um filho, e lhe chamarão Emanuel" (que significa "Deus conosco"). Este versículo cita a profecia do nascimento do Messias por uma virgem, que é mencionada em Isaías 7:14.
+* Romanos 8:31: "Que diremos, pois, diante dessas coisas? Se Deus é por nós, quem será contra nós?" Este versículo destaca a importância de ter fé em Deus e confiar em sua proteção.
+* Hebreus 13:5-6: "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele próprio disse: Não te deixarei, nem te desampararei. E assim, com toda a confiança, ousemos dizer: O Senhor é o meu ajudador, não temerei; que me poderá fazer o homem?" Este versículo enfatiza a confiança em Deus e como ele nunca nos abandonará.
+* 1 Pedro 1:20-21: "Ele foi conhecido antes da criação do mundo, mas foi revelado nestes últimos tempos em benefício de vocês. Por meio dele vocês creem em Deus, que o ressuscitou dentre os mortos e o glorificou, de modo que a fé e a esperança de vocês estão em Deus." Este versículo destaca a importância da vinda do Messias e como ele trouxe a fé e a esperança para as pessoas.
+****
+
+[[v29-7-1]]
+
+^<<v29-7-1,1>>^ Aconteceu no reinado de Acaz, filho de Joatan, filho de Ozias, rei de Judá, que Rasin, rei da Síria, e Faceia, filho de Romelia, rei de Israel, marcharam contra Jerusalém, para combater, e não a puderam conquistar.
+
+[[v29-7-2]]
+
+^<<v29-7-2,2>>^ Deram aviso à casa de Davide, dizendo: A Síria coligou-se com Efraim. Ao ouvir isto, ficou agitado o coração de Acaz e o coração do seu povo, como se agitam as árvores das selvas com o ímpeto do vento.
+
+[[v29-7-3]]
+
+^<<v29-7-3,3>>^ Então disse o Senhor a Isaías: Sai ao encontro de Acaz, tu e o teu filho Schear-Jasub, até à extremidade do aqueduto da piscina superior, no caminho que conduz ao campo do pisoeiro.
+
+[[v29-7-4]]
+
+^<<v29-7-4,4>>^ Dir-lhe-ás: Tranquiliza-te, não temas, não se desanime o teu coração, à vista destes dois troços de tições fumegantes à vista do furor de Rasin, rei da Síria, e do filho de Romelia;
+
+[[v29-7-5]]
+
+^<<v29-7-5,5>>^ (não temas) pelo facto de se terem confederado contra ti a Síria, Efraim e o filho de Romelia, dizendo:
+
+[[v29-7-6]]
+
+^<<v29-7-6,6>>^ Vamos contra Judá, batamo-lo, arranquemo-lo para nós, e ponhamos como rei no meio dele ao filho de Tabeel.
+
+[[v29-7-7]]
+
+^<<v29-7-7,7>>^ Estas coisas diz o Senhor Deus: Não subsistirá, não terá efeito este desígnio,
+
+[[v29-7-8]]
+
+^<<v29-7-8,8>>^ porque a capital da Síria é Damasco, e a cabeça de Damasco é Rasin. Dentro de sessenta e cinco anos, Efraim será arruinado e deixará de ser povo.
+
+[[v29-7-9]]
+
+^<<v29-7-9,9>>^ Samaria é a capital de Efraim, e o filho de Romelia soberano de Samaria. Se não credes, não subsistireis.
+
+[[v29-7-10]]
+
+^<<v29-7-10,10>>^ O Senhor continuou a falar com Acaz, dizendo:
+
+[[v29-7-11]]
+
+^<<v29-7-11,11>>^ Pede para ti ao Senhor teu Deus um sinal, quer no fundo da morada dos mortos, quer no mais alto do céu.
+
+[[v29-7-12]]
+
+^<<v29-7-12,12>>^ Respondeu Acaz: Não pedirei tal, não tentarei ao Senhor. (ver nota)
+
+[[v29-7-13]]
+
+^<<v29-7-13,13>>^ Isaías disse: Ouvi, pois, casa de Davide: Porventura não vos basta ser molestos aos homens, senão que também ousais sê-lo ao meu Deus?
+
+[[v29-7-14]]
+
+^<<v29-7-14,14>>^ Pois por isso o mesmo Senhor vos dará este sinal: Eis que a virgem concebeu e dá à luz um filho, e o chama Emanuel,
+
+[[v29-7-15]]
+
+^<<v29-7-15,15>>^ Ele comerá coalhada e mel, até que saiba rejeitar o mal e escolher o bem.
+
+[[v29-7-16]]
+
+^<<v29-7-16,16>>^ Porque, antes que o menino saiba rejeitar o mal e escolher o bem, a terra, cujos dois reis tu temes, será devastada.
+
+[[v29-7-17]]
+
+^<<v29-7-17,17>>^ O Senhor (por intervenção do rei dos Assírios) fará vir sobre ti, sobre o teu povo e sobre a casa de teu pai, dias tais quais não foram vistos desde que Efraim se separou de Judá.
+
+[[v29-7-18]]
+
+^<<v29-7-18,18>>^ Os Egípcios são comparados às moscas, e os Assírios, mais poderosos, a um enxame de abelhas.
+
+[[v29-7-19]]
+
+^<<v29-7-19,19>>^ Acontecerá, naqueles dias, que o Senhor assobiará à mosca que está no extremo dos rios do Egito, e à abelha que está na terra da Assíria.
+
+[[v29-7-20]]
+
+^<<v29-7-20,20>>^ Naquele dia o Senhor, por meio duma navalha alugada na banda de além do rio (Eufrates), por intervenção do rei dos Assírios, rapará a cabeça, o pelo das pernas e a barba toda.
+
+[[v29-7-21]]
+
+^<<v29-7-21,21>>^ Acontecerá também naquele dia que um homem criará uma vaca e duas ovelhas,
+
+[[v29-7-22]]
+
+^<<v29-7-22,22>>^ e, pela abundância do leite, sustentar-se-á de coalhada, porque todo aquele que tiver ficado no meio da terra, comerá coalhada e mel.
+
+[[v29-7-23]]
+
+^<<v29-7-23,23>>^ Acontecerá naquele dia que todo o lugar onde houver mil vides no valor de mil moedas de prata, se cobrirá de espinhos e abrolhos.
+
+[[v29-7-24]]
+
+^<<v29-7-24,24>>^ Com setas e arco entrarão ali, porque os abrolhos e os espinhos cobrirão toda aquela terra.
+
+[[v29-7-25]]
+
+^<<v29-7-25,25>>^ A todos os montes, que eram sachados, já se não irá pelo medo dos espinhos e dos abrolhos: servirão para pasto dos bois e para serem pisados dos gados.
+
+'''
+
+xref:029-isaias/029-isaias-006.adoc#v29-6-0[&#60; Capítulo Anterior] | <<v29-7-0,Topo>> | xref:029-isaias/029-isaias-008.adoc#v29-8-0[Próximo Capítulo &#62;]

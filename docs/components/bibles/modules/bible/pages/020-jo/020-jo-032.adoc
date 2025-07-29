@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v20-32-0]]
+=== Jó, 32
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 32 apresenta Eliú, um jovem que havia estado presente nas discussões de Jó e seus amigos, mas ainda não havia falado. Ele é descrito como um homem de grande sabedoria e zelo pela justiça. Eliú se apresenta como um novo interlocutor e se prepara para expor seus pensamentos sobre o sofrimento de Jó. Para fornecer cinco versículos relacionados com os temas abordados em Jó 32, os versículos de Jó 32 serão excluídos dos resultados.
+* Provérbios 2:6: "Pois o Senhor dá a sabedoria; da sua boca procedem o conhecimento e o discernimento." Este versículo de Provérbios destaca que a sabedoria vem de Deus e é uma dádiva que pode ser buscada e recebida.
+* Tiago 1:5: "Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente, de boa vontade; e lhe será concedida." Este versículo de Tiago incentiva os crentes a pedirem sabedoria a Deus quando sentirem falta dela, pois ele a concede livremente.
+* Colossenses 4:5-6: "Comportem-se sabiamente para com os que são de fora; aproveitem ao máximo todas as oportunidades. O seu falar seja sempre agradável e temperado com sal, para que saibam como responder a cada um." Este versículo de Colossenses destaca a importância de agir e falar sabiamente diante de outros, a fim de ser um bom testemunho.
+* Provérbios 4:7: "A sabedoria é a principal coisa; adquire pois a sabedoria, emprega tudo o que possuis na aquisição de entendimento." Este versículo de Provérbios enfatiza a importância da sabedoria e incentiva a busca constante pelo entendimento.
+* Efésios 5:15-16: "Portanto, tenham cuidado com a maneira como vocês vivem, não como insensatos, mas como sábios, aproveitando ao máximo cada oportunidade, porque os dias são maus." Este versículo de Efésios destaca a importância de viver com sabedoria e aproveitar as oportunidades que surgem.
+****
+
+[[v20-32-1]]
+
+^<<v20-32-1,1>>^ Por fim estes três homens cessaram de responder a Job, porque se tinha por justo.
+
+[[v20-32-2]]
+
+^<<v20-32-2,2>>^ Então Eliú, filho de Baraquel de Buz, da família de Ram, encheu-se de indignação, e irritou-se contra Job, porque este dizia que era justo diante de Deus.
+
+[[v20-32-3]]
+
+^<<v20-32-3,3>>^ Irritou-se também contra os seus amigos, por não terem achado resposta conveniente para lhe dar, e por, apesar disso, o haverem condenado.
+
+[[v20-32-4]]
+
+^<<v20-32-4,4>>^ Eliú havia esperado calado, enquanto eles falavam com Job, porquanto eram mais velhos.
+
+[[v20-32-5]]
+
+^<<v20-32-5,5>>^ Mas, quando viu que os três não lhe puderam responder, indignou-se fortemente.
+
+[[v20-32-6]]
+
+^<<v20-32-6,6>>^ Então, tomando a palavra Eliú, filho de Baraquel de Buz, disse: Sou novo ainda, e vós já velhos; portanto, abaixando a minha cabeça, não me atrevi a expor-vos o meu parecer.
+
+[[v20-32-7]]
+
+^<<v20-32-7,7>>^ Eu esperava que falasse (com argumentos sólidos) a idade mais madura, e que os muitos anos ensinassem a sabedoria,
+
+[[v20-32-8]]
+
+^<<v20-32-8,8>>^ Sentido deste versículo: Deus deu aos homens uma alma racional capaz de compreender a verdade, mas a verdadeira sabedoria provém de uma inspiração particular do mesmo Deus.
+
+[[v20-32-9]]
+
+^<<v20-32-9,9>>^ Mas, pelo que vejo, é o espirito de Deus nos homens, é a inspiração do Omnipotente que dá a inteligência.
+
+[[v20-32-10]]
+
+^<<v20-32-10,10>>^ Não são sábios os de muita idade, nem os anciãos os que julgam o que é justo.
+
+[[v20-32-11]]
+
+^<<v20-32-11,11>>^ Portanto falarei: Ouvi-me, eu vos mostrarei também o meu pensamento.
+
+[[v20-32-12]]
+
+^<<v20-32-12,12>>^ Falarei, e respirarei um pouco; abrirei os meus lábios, e responderei.
+
+[[v20-32-13]]
+
+^<<v20-32-13,13>>^ Não farei aceitação de pessoa, não adularei seja quem for.
+
+[[v20-32-14]]
+
+^<<v20-32-14,14>>^ Não sei usar circunlóquios, e por um pouco me suportará o meu Criador.
+
+'''
+
+xref:020-jo/020-jo-031.adoc#v20-31-0[&#60; Capítulo Anterior] | <<v20-32-0,Topo>> | xref:020-jo/020-jo-033.adoc#v20-33-0[Próximo Capítulo &#62;]

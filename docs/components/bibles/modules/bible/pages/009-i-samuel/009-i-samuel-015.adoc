@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v9-15-0]]
+=== I Samuel, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 15 de 1 Samuel narra a ordem de Deus para que Saul destrua completamente os amalequitas e tudo o que pertence a eles. No entanto, Saul não obedece completamente a Deus e poupa o rei amalequita e parte do gado. Como resultado, Deus retira a sua unção de Saul como rei de Israel. Abaixo estão cinco versículos relacionados com temas abordados neste capítulo:
+* Provérbios 21:3: "Fazer justiça e julgar com retidão é mais aceitável ao Senhor do que oferecer-lhe sacrifício." Este versículo destaca a importância da obediência à vontade de Deus e da justiça, que é mais valiosa do que qualquer sacrifício que possamos oferecer.
+* Isaías 1:19-20: "Se quiserdes e me ouvirdes, comereis o melhor desta terra. Mas, se recusardes e fordes rebeldes, sereis devorados à espada; porque a boca do Senhor o disse." Este versículo destaca a importância da obediência a Deus e a consequência da rebelião contra Ele.
+* Oséias 6:6: "Porque eu desejo a misericórdia, e não o sacrifício; e o conhecimento de Deus, mais do que os holocaustos." Este versículo enfatiza que Deus valoriza a misericórdia e a obediência mais do que qualquer sacrifício.
+* 1 Samuel 16:7: "Porque o Senhor não vê como vê o homem, pois o homem olha para o que está diante dos olhos, porém o Senhor olha para o coração." Este versículo fala sobre a importância do coração e da motivação por trás das ações, que é o que Deus valoriza.
+* 1 João 2:15-17: "Não ameis o mundo, nem o que há no mundo. Se alguém ama o mundo, o amor do Pai não está nele. Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não vem do Pai, mas do mundo. O mundo passa, e a sua concupiscência; mas aquele que faz a vontade de Deus permanece para sempre." Este versículo fala sobre a importância de não amar o mundo e suas coisas passageiras, mas sim fazer a vontade de Deus e permanecer em Sua presença. A desobediência de Saul em 1 Samuel 15 mostra a importância da obediência a Deus e a consequência da desobediência.
+****
+
+[[v9-15-1]]
+
+^<<v9-15-1,1>>^ Samuel disse a Saul: O Senhor enviou-me para que te ungisse rei sobre o seu povo de Israel. Ouve, agora, a voz do Senhor.
+
+[[v9-15-2]]
+
+^<<v9-15-2,2>>^ Estas coisas diz o Senhor dos exércitos: Eu recordei tudo o que Amalec tem feito a Israel, de que modo se lhe opôs no caminho, quando saia do Egipto.
+
+[[v9-15-3]]
+
+^<<v9-15-3,3>>^ Vai, pois, agora, fere Amalec, destroi tudo o que lhe pertence; não o poupes e não cobices nada das suas coisas, mas mata homens e mulheres, crianças e meninos de leite, bois e ovelhas, camelos e jumentos.
+
+[[v9-15-4]]
+
+^<<v9-15-4,4>>^ Saul convocou o povo, recenseou-o, (e foram encontrados) duzentos mil homens de pé e dez mil homens (da tribo) de Judá.
+
+[[v9-15-5]]
+
+^<<v9-15-5,5>>^ Tendo marchado Saul até à cidade de Amalec, dispôs emboscadas na torrente.
+
+[[v9-15-6]]
+
+^<<v9-15-6,6>>^ Saul disse aos Cineus: Ide-vos, retirai-vos, separai-vos dos Amalecitas, não suceda que eu vos envolva com eles, porque vós usastes de misericórdia com todos os filhos de Israel, quando vinham do Egipto. Retiraram-se, pois, os Cineus do meio dos Amelecitas.
+
+[[v9-15-7]]
+
+^<<v9-15-7,7>>^ Saul bateu os Amalecitas desde Hevila até Sur, que está defronte do Egipto.
+
+[[v9-15-8]]
+
+^<<v9-15-8,8>>^ Tomou vivo Agag, rei de Amalec, e passou ao fio da espada todo o povo.
+
+[[v9-15-9]]
+
+^<<v9-15-9,9>>^ Porém Saul e o povo perdoaram a Agag e (reservaram) o melhor dos rebanhos de ovelhas e de bois, os cordeiros e, em geral, tudo o que era bom, e não o quiseram destruir; mas tudo o que era vil e desprezível, isso destruiram. (ver nota)
+
+[[v9-15-10]]
+
+^<<v9-15-10,10>>^ O Senhor dirigiu a palavra a Samuel, dizendo:
+
+[[v9-15-11]]
+
+^<<v9-15-11,11>>^ Arrependo-me de ter feito rei a Saul, porque se afastou de mim, não cumpriu as minhas ordens. Samuel entristeceu-se e clamou ao Senhor durante toda a noite. (ver nota)
+
+[[v9-15-12]]
+
+^<<v9-15-12,12>>^ Tendo-se levantado Samuel, de madrugada, para ir ter com Saul, avisaram Samuel de que Saul tinha ido ao Carmelo, onde tinha levantado em sua própria honra um arco triunfal, e que, voltando (de lá), tinha passado e descido a Galgala. Foi, pois, Samuel em busca de Saul, e Saul estava oferecendo ao Senhor um holocausto das primícias da presa que tinha trazido de Amalec.
+
+[[v9-15-13]]
+
+^<<v9-15-13,13>>^ Chegando Samuel a Saul, Saul disse-lhe: Bem-dito sejas tu do Senhor; eu já cumpri a ordem do Senhor.
+
+[[v9-15-14]]
+
+^<<v9-15-14,14>>^ Samuel disse: E que balidos são estes de rebanhos, que ressoam aos meus ouvidos, e que mugidos são estes de bois, que ouço?
+
+[[v9-15-15]]
+
+^<<v9-15-15,15>>^ Saul disse: Trouxeram-nos de Amalec, porque o povo perdoou a tudo o que havia de melhor nas ovelhas e nas vacas, para se imolarem ao Senhor teu Deus; matámos, porém, o resto.
+
+[[v9-15-16]]
+
+^<<v9-15-16,16>>^ Samuel disse a Saul: Permite-me declarar-te o que o Senhor me disse está noite. Saul disse-lhe: Fala.
+
+[[v9-15-17]]
+
+^<<v9-15-17,17>>^ Samuel prosseguiu: Porventura quando tu eras pequeno aos teus olhos, não foste feito chefe das tribos de Israel? O Senhor ungiu-te rei sobre Israel,
+
+[[v9-15-18]]
+
+^<<v9-15-18,18>>^ o Senhor mandou-te a esta empresa e disse: Vai e mata os pecadores de Amalec, combate-os até ao extermínio.
+
+[[v9-15-19]]
+
+^<<v9-15-19,19>>^ Por que não ouviste tu a voz do Senhor, mas te deixaste arrastar pela cobiça da presa, fazendo o mal sob os olhos do Senhor?
+
+[[v9-15-20]]
+
+^<<v9-15-20,20>>^ Saul disse a Samuel: Antes pelo contrário, ouvi a voz do Senhor, segui o caminho pelo qual o Senhor me mandou, trouxe Agag, rei de Amalec, e matei os Amalecitas.
+
+[[v9-15-21]]
+
+^<<v9-15-21,21>>^ Mas o povo tomou da presa ovelhas e bois, como primícias do que foi morto, para os imolar ao Senhor seu Deus em Galgala.
+
+[[v9-15-22]]
+
+^<<v9-15-22,22>>^ Samuel disse: Porventura quer o Senhor holocaustos e vítimas e não quer antes que se obedeça à sua voz? A obediência vale mais que as vítimas; a docilidade vale mais que a gordura dos carneiros;
+
+[[v9-15-23]]
+
+^<<v9-15-23,23>>^ tamanho pecado é a rebelião como a superstição, a resistência como a idolatria. Porque, pois, tu rejeitaste a palavra do Senhor, o Senhor te rejeitou a tl, para que não sejas rei.
+
+[[v9-15-24]]
+
+^<<v9-15-24,24>>^ Saul disse a Samuel: Pequei, porque transgredi a ordem do Senhor e as tuas palavras, temendo o povo e obedecendo à sua voz. (ver nota)
+
+[[v9-15-25]]
+
+^<<v9-15-25,25>>^ Mas agora perdoa, te peço, o meu pecado, e vem comigo para adorar o Senhor.
+
+[[v9-15-26]]
+
+^<<v9-15-26,26>>^ Samuel disse a Saul: Não irei contigo, porque rejeitaste a palavra do Senhor, e o Senhor te rejeita a ti, para que não sejas rei de Israel.
+
+[[v9-15-27]]
+
+^<<v9-15-27,27>>^ Samuel voltou as costas para se retirar, mas Saul pegou na extremidade da sua capa, a qual se rasgou.
+
+[[v9-15-28]]
+
+^<<v9-15-28,28>>^ Samuel disse-lhe: Hoje o Senhor rasgou de sobre ti o reino de Israel, para o entregar a outro melhor do que tu.
+
+[[v9-15-29]]
+
+^<<v9-15-29,29>>^ Aquele (Senhor), a quem se deve o triunfo em Israel, não te perdoará, não se arrependerá, porque não é um homem, para se arrepender.
+
+[[v9-15-30]]
+
+^<<v9-15-30,30>>^ Saul disse: Pequei, mas honra-me nesta ocasião diante dos anciães do meu povo, diante de Israel, e volta comigo, para eu adorar o Senhor teu Deus.
+
+[[v9-15-31]]
+
+^<<v9-15-31,31>>^ Voltando, Samuel seguiu Saul, e Saul adorou o Senhor.
+
+[[v9-15-32]]
+
+^<<v9-15-32,32>>^ Samuel disse: Trazei-me Agag, rei de Amalec. E Agag dirigiu-se a ele muito alegre, dizendo consigo: certamente passou a amargura da morte.
+
+[[v9-15-33]]
+
+^<<v9-15-33,33>>^ Samuel disse: Assim como a tua espada tirou os filhos às mães, assim ficará sem filhos a tua mãe entre as mulheres. E Samuel o fez em pedaços diante do Senhor em Galgala.
+
+[[v9-15-34]]
+
+^<<v9-15-34,34>>^ Samuel retirou-se para Rama, e Saul foi para sua casa em Gabaa.
+
+[[v9-15-35]]
+
+^<<v9-15-35,35>>^ Samuel não viu mais Saul até ao dia da sua morte. Todavia Samuel chorava Saul, porque o Senhor se tinha arrependido de o ter constituído rei sobre Israel.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-014.adoc#v9-14-0[&#60; Capítulo Anterior] | <<v9-15-0,Topo>> | xref:009-i-samuel/009-i-samuel-016.adoc#v9-16-0[Próximo Capítulo &#62;]

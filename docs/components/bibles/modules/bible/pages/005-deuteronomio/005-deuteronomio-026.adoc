@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v5-26-0]]
+=== Deuteronômio, 26
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 26 fala sobre a oferta das primícias e a obrigação de trazer uma oferta ao Senhor como uma expressão de gratidão pelo que Ele fez pelo povo. Os versículos relacionados com os temas abordados em Deuteronômio 26 são:
+* Levítico 23:10-11: "Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra, que vos hei de dar, e fizerdes a sua colheita, então trareis ao sacerdote um molho, as primícias da vossa colheita, e ele moverá o molho perante o SENHOR, para que sejais aceitos; no dia seguinte ao sábado, o sacerdote o moverá". Esse versículo fala sobre a oferta das primícias, que é mencionada em Deuteronômio 26:1-11.
+* 2 Coríntios 9:7: "Cada um contribua segundo propôs no seu coração, não com tristeza ou por necessidade; porque Deus ama ao que dá com alegria". Esse versículo destaca a importância de dar com alegria e generosidade, que é um dos principais temas abordados em Deuteronômio 26.
+* Salmos 50:14: "Oferece a Deus sacrifício de louvor, e paga ao Altíssimo os teus votos". Esse versículo destaca que a oferta ao Senhor não é apenas um dever, mas também uma oportunidade para expressar louvor e gratidão a Ele, como é enfatizado em Deuteronômio 26.
+* 1 Crônicas 29:14: "Porque quem sou eu, e quem é o meu povo, que tivéssemos poder para tão voluntariamente dar como isto? Porque tudo vem de ti, e da tua mão to damos". Esse versículo destaca que todas as coisas vêm de Deus, e a oferta é uma forma de reconhecer isso e expressar gratidão, o que é o tema principal de Deuteronômio 26.
+* Malaquias 3:10: "Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa, e depois fazei prova de mim, diz o SENHOR dos Exércitos, se eu não vos abrir as janelas do céu, e não derramar sobre vós uma bênção tal, que dela vos advenha a maior abastança". Esse versículo destaca a importância de dar o dízimo e ofertar ao Senhor, prometendo que Ele abençoará aqueles que o fazem. Esse tema de dar com generosidade e ser abençoado por Deus é um tema recorrente em Deuteronômio 26.
+****
+
+[[v5-26-1]]
+
+^<<v5-26-1,1>>^ Quando tiveres entrado na terra de que o Senhor teu Deus está para te dar a posse, quando fores senhor dela e aí habitares,
+
+[[v5-26-2]]
+
+^<<v5-26-2,2>>^ tomarás as primícias de todos os teus filhos, pô-las-ás num cesto e irás ao lugar que o Senhor teu Deus tiver escolhido, para que seja invocado o seu nome.
+
+[[v5-26-3]]
+
+^<<v5-26-3,3>>^ Apresentar-te-ás ao sacerdote, que nessa altura estiver de serviço, e lhe dirás. Confesso hoje diante do Senhor teu Deus, que eu entrei na terra que ele jurou a nossos pais que nos daria.
+
+[[v5-26-4]]
+
+^<<v5-26-4,4>>^ O sacerdote, tomando da tua mão o cesto, o porá diante do altar do Senhor teu Deus.
+
+[[v5-26-5]]
+
+^<<v5-26-5,5>>^ Então dirás na presença do Senhor teu Deus: Meu pai era um Arameu prestes a morrer, que desceu ao Egipto, e lá esteve como forasteiro, tendo pouquíssimas pessoas consigo; aí tornou-se um povo grande, forte, e numeroso.
+
+[[v5-26-6]]
+
+^<<v5-26-6,6>>^ Os Egípcios nos afligiram e nos perseguiram, impondo-nos cargas pesadíssimas.
+
+[[v5-26-7]]
+
+^<<v5-26-7,7>>^ Então clamámos ao Senhor Deus de nossos pais, o qual nos ouviu, olhou para a nossa humilhação, trabalho e angústia,
+
+[[v5-26-8]]
+
+^<<v5-26-8,8>>^ e nos tirou do Egipto com mão forte e braço estendido, em meio de grande pavor, com sinais e portentos.
+
+[[v5-26-9]]
+
+^<<v5-26-9,9>>^ Introduziu-nos neste lugar, e deu-nos esta terra que mana Ieite e mel.
+
+[[v5-26-10]]
+
+^<<v5-26-10,10>>^ Por isso eu ofereço agora as primícias dos frutos da terra que o Senhor me deu. (Depois de tais palavras) deixarás (as ofertas) diante do Senhor teu Deus e adorarás o Senhor teu Deus.
+
+[[v5-26-11]]
+
+^<<v5-26-11,11>>^ Depois darás largas à tua alegria, por todos os bens que o Senhor teu Deus te tiver dado a ti e à tua casa, tu e o Levita, e o estrangeiro que está contigo.
+
+[[v5-26-12]]
+
+^<<v5-26-12,12>>^ Quando tiveres acabado de separar o dízimo de todos os teus frutos, no terceiro ano dos dízimos o darás ao Levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro das tuas portas e se fartem,
+
+[[v5-26-13]]
+
+^<<v5-26-13,13>>^ e dirás na presença do Senhor teu Deus: Eu tirei da minha casa o que te é consagrado, e dei-o ao Levita, ao estrangeiro, ao órfão e à viúva, como tu me ordenaste, não transgredi os teus mandamentos, nem me esqueci do teu preceito.
+
+[[v5-26-14]]
+
+^<<v5-26-14,14>>^ Não comi dessas coisas no meu luto, nem as separei para algum uso impuro, nada empreguei delas em funerais. Obedeci à voz do Senhor meu Deus, fiz tudo como me ordenaste.
+
+[[v5-26-15]]
+
+^<<v5-26-15,15>>^ Olha do teu santuário e da excelsa morada dos céus, e abençoa o teu povo de Israel, a terra que nos deste, como juraste a nossos pais, terra que mana leite e mel.
+
+[[v5-26-16]]
+
+^<<v5-26-16,16>>^ O Senhor teu Deus ordenou-te hoje que observes estes mandamentos e leis, e que os guardes e cumpras de todo o teu coração e de toda a tua alma.
+
+[[v5-26-17]]
+
+^<<v5-26-17,17>>^ Tu escoIheste hoje o Senhor, para ser o teu Deus, para andares pelos seus caminhos, observares os seus mandamentos, as suas ordenações e leis, para obedeceres ao seu mando.
+
+[[v5-26-18]]
+
+^<<v5-26-18,18>>^ O Senhor escolheu-te hoje para que sejas um povo especial, como ele te declarou, guardando tu todos os seus preceitos
+
+[[v5-26-19]]
+
+^<<v5-26-19,19>>^ dando-te ele superioridade sobre todas as nações que criou, em louvor, honra e glória, a fim de que sejas o povo santo do Senhor teu Deus, como ele disse.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[&#60; Capítulo Anterior] | <<v5-26-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-027.adoc#v5-27-0[Próximo Capítulo &#62;]

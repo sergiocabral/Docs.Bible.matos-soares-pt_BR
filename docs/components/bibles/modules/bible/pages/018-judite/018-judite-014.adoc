@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v18-14-0]]
+=== Judite, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 14 narra o plano de Judite para derrotar o exército assírio liderado por Holofernes, incluindo o engano que ela usa para se infiltrar no acampamento inimigo. Os versículos a seguir estão relacionados com os temas abordados neste capítulo:
+* Juízes 4:21: "Então Jael, mulher de Héber, pegou uma estaca de tenda e, com uma marreta na mão, se aproximou dele sorrateiramente e cravou a estaca na têmpora de Sísera, fazendo-a atravessar a cabeça até o chão. E ele morreu." Esse versículo relata a morte do general inimigo Sísera pelas mãos de uma mulher. A história é semelhante ao enredo de Judite, em que uma mulher usa astúcia para derrotar um líder militar poderoso.
+* 2 Reis 19:35: "Naquela noite, o anjo do Senhor saiu e matou cento e oitenta e cinco mil homens no acampamento assírio. Quando os sobreviventes se levantaram de manhã, só encontraram cadáveres." Esse versículo fala sobre a destruição sobrenatural do exército assírio. Embora a abordagem de Judite seja mais sutil, o resultado é o mesmo: a derrota do exército inimigo.
+* Jó 12:16: "Com ele está a força e a sabedoria; os enganados e os enganadores são dele." Este versículo fala sobre como Deus é soberano e tem controle sobre todas as coisas, incluindo aqueles que usam engano para alcançar seus objetivos. O plano de Judite envolve enganar Holofernes para que ele se torne complacente e vulnerável, mas a história mostra que Deus ainda está no controle.
+* Provérbios 21:30: "Não há sabedoria, nem entendimento, nem conselho que possa opor-se ao Senhor." Esse versículo enfatiza que ninguém pode se opor a Deus e vencer. Embora o plano de Judite seja astuto, é importante lembrar que é a vontade de Deus que finalmente prevalece.
+* Ezequiel 13:10: "Porquanto, sim, porquanto andaram enganando o meu povo, dizendo: Paz! Não havendo paz; e um, edificando a parede, e eis que outros a cobriam de argamassa malfeita;" Este versículo fala sobre aqueles que enganam o povo de Deus e constroem com más intenções. Embora Judite esteja lutando pela causa de seu povo, ela usa engano para alcançar seus objetivos. O versículo é um lembrete de que a construção deve ser baseada em fundações sólidas e verdadeiras.
+****
+
+[[v18-14-1]]
+
+^<<v18-14-1,1>>^ Disse, pois, Judit a todo o povo: Ouvi-me, irmãos, pendurai esta cabeça no alto dos nossos muros ;
+
+[[v18-14-2]]
+
+^<<v18-14-2,2>>^ quando tiver saído o sol, tome cada um as suas armas, e saí com ímpeto, não para descerdes até aos inimigos, mas como querendo acometê-los.
+
+[[v18-14-3]]
+
+^<<v18-14-3,3>>^ Então será necessário que as guardas avançadas corram a despertar o seu general para a batalha.
+
+[[v18-14-4]]
+
+^<<v18-14-4,4>>^ Quando os seus capitães tiverem corrido para a tenda de Holofernes, e quando o encontrarem decapitado, envolvido no seu próprio sangue, cairá sobre eles o temor.
+
+[[v18-14-5]]
+
+^<<v18-14-5,5>>^ Quando os virdes fugir, ide afoutos atrás deles, porque o Senhor os pisará debaixo dos vossos pés.
+
+[[v18-14-6]]
+
+^<<v18-14-6,6>>^ Então Aquior, vendo a maravilha que o Deus de Israel tinha feito, deixadas as superstições da gentilidade, creu em Deus, circuncidou-se e foi incorporado no povo de Israel, assim como toda a sua descendência até ao dia de hoje.
+
+[[v18-14-7]]
+
+^<<v18-14-7,7>>^ Logo que apareceu o dia, penduraram sobre os muros a cabeça de Holofernes, cada um tomou as suas armas, e saíram com muito estrondo e alarido.
+
+[[v18-14-8]]
+
+^<<v18-14-8,8>>^ Vendo isto as sentinelas avançadas, correram à tenda de Holofernes.
+
+[[v18-14-9]]
+
+^<<v18-14-9,9>>^ Os que estavam na tenda, indo e fazendo ruído à entrada da câmara, a fim de o despertar, procuravam, com arte, que Holofernes acordasse com o ruído que faziam, sem ser despertado por ninguém.
+
+[[v18-14-10]]
+
+^<<v18-14-10,10>>^ Com efeito, nenhum ousava abrir ou bater à porta da câmara do general dos Assirios.
+
+[[v18-14-11]]
+
+^<<v18-14-11,11>>^ Mas, tendo vindo os seus capitães, tribunos e todos os oficiais maiores do exército do rei dos Assirios, disseram aos camareiros:
+
+[[v18-14-12]]
+
+^<<v18-14-12,12>>^ Entrai e acordai-o, porque saíram os ratos das suas cavernas e tiveram o atrevimento de nos desafiar para o combate.
+
+[[v18-14-13]]
+
+^<<v18-14-13,13>>^ Então Vagao, tendo entrado na câmara de Holofernes, pôs-se diante da cortina e bateu com as mãos, porque imaginava que ele dormia com Judit.
+
+[[v18-14-14]]
+
+^<<v18-14-14,14>>^ Porém, aplicando o ouvido e não percebendo nenhum movimento de quem dormia, aproximou-se mais da cortina e, levantando-a, viu o cadáver de Holofernes sem cabeça, que jazia estendido sobre a terra, banhado no seu próprio sangue. (Perante esse espectáculo) gritou em alta voz, com lágrimas, e rasgou as suas vestes.
+
+[[v18-14-15]]
+
+^<<v18-14-15,15>>^ Tendo entrado na tenda de Judit, não a encontrou. Correu fora, para o povo,
+
+[[v18-14-16]]
+
+^<<v18-14-16,16>>^ e disse; Um a mulher hebreia pôs a confusão na casa do rei Nabucodonosor: ali jaz Holofernes estendido por terra, e a sua cabeça não está com o corpo.
+
+[[v18-14-17]]
+
+^<<v18-14-17,17>>^ Quando ouviram isto, os chefes do exército dos Assírios rasgaram todas as suas vestes, um receio e um pavor extremos os invadiram, e os seus ânimos ficaram completamente desconcertados.
+
+[[v18-14-18]]
+
+^<<v18-14-18,18>>^ E levantou-se um clamor espantoso no meio do seu acampamento.
+
+'''
+
+xref:018-judite/018-judite-013.adoc#v18-13-0[&#60; Capítulo Anterior] | <<v18-14-0,Topo>> | xref:018-judite/018-judite-015.adoc#v18-15-0[Próximo Capítulo &#62;]

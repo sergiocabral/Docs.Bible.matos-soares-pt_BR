@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v47-3-0]]
+=== São Mateus, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Mateus 3 apresenta a figura de João Batista, que veio preparar o caminho para a vinda de Jesus Cristo. O capítulo descreve seu ministério no deserto, onde ele pregava o arrependimento e o batismo para a remissão dos pecados. João Batista é um exemplo de humildade e devoção a Deus, que chamou o povo ao arrependimento e à fé. Os versículos selecionados a seguir tratam de temas relacionados a essa mensagem de arrependimento e preparação para a chegada de Jesus:
+* Isaías 40:3: "Voz do que clama no deserto: Preparai o caminho do Senhor; endireitai no ermo vereda a nosso Deus." Este versículo é citado em São Mateus 3:3, quando João Batista começa a pregar no deserto. A profecia de Isaías anuncia a chegada de um mensageiro que prepararia o caminho para o Senhor. João Batista cumpre essa profecia ao anunciar a vinda de Jesus Cristo.
+* Ezequiel 18:30: "Portanto, eu vos julgarei, a cada um conforme os seus caminhos, ó casa de Israel, diz o Senhor Deus. Tornai-vos, e convertei-vos de todas as vossas transgressões, e a iniquidade não vos servirá de tropeço." Este versículo destaca a importância do arrependimento e da mudança de vida. João Batista pregava a mesma mensagem de conversão e arrependimento, chamando o povo a se voltar para Deus e abandonar seus pecados.
+* Jeremias 7:3-4: "Assim diz o Senhor dos exércitos, Deus de Israel: Emendai os vossos caminhos e as vossas obras, e eu vos farei habitar neste lugar. Não confieis em palavras falsas, dizendo: Templo do Senhor, templo do Senhor, templo do Senhor é este." Este versículo adverte o povo contra a confiança vazia na religião, lembrando que Deus busca uma mudança real de coração e atitude. João Batista pregava a mesma mensagem, chamando as pessoas a se arrependerem de fato e a frutificarem em boas obras.
+* Mateus 3:8: "Produzi, pois, frutos dignos de arrependimento." Nesse versículo, João Batista exorta o povo a produzir frutos que evidenciem o arrependimento sincero. Ele não se contentava com palavras ou cerimônias religiosas vazias, mas buscava uma mudança real de vida no coração das pessoas.
+* Lucas 3:16: "Ele [Jesus] vos batizará com o Espírito Santo e com fogo." Esse versículo faz referência à promessa de Jesus de enviar o Espírito Santo, que batizaria os crentes em seu nome. João Batista, ao preparar o caminho para Jesus, antecipava essa promessa e anunciava que o batismo com o Espírito Santo seria uma das marcas da vinda do Messias.
+****
+
+[[v47-3-1]]
+
+^<<v47-3-1,1>>^ Naqueles dias apareceu João Baptista pregando no deserto da Judeia.
+
+[[v47-3-2]]
+
+^<<v47-3-2,2>>^ "Arrependei-vos, dizia, porque está próximo o reino dos céus."
+
+[[v47-3-3]]
+
+^<<v47-3-3,3>>^ Porque este é aquele de quem falou o profeta Isaías, quando disse (Is. 40, 3): Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas.
+
+[[v47-3-4]]
+
+^<<v47-3-4,4>>^ Este mesmo João trazia um vestido feito de peles de camelo e um cinto de couro em volta dos rins; e o seu alimento era gafanhotos e mel silvestre.
+
+[[v47-3-5]]
+
+^<<v47-3-5,5>>^ Então iam ter com ele Jerusalém e toda a Judeia e toda a região do Jordão;
+
+[[v47-3-6]]
+
+^<<v47-3-6,6>>^ e eram baptizados por ele no rio Jordão, confessando os seus pecados.
+
+[[v47-3-7]]
+
+^<<v47-3-7,7>>^ Vendo um grande número de fariseus e saduceus que vinham ao seu baptismo, disse-lhes: "Raça de viboras, quem vos ensinou a fugir à ira que vos ameaça?
+
+[[v47-3-8]]
+
+^<<v47-3-8,8>>^ Produzi, pois, verdadeiros frutos de penitência,
+
+[[v47-3-9]]
+
+^<<v47-3-9,9>>^ e não queirais dizer dentro de vós : Temos Abraão por pai! porque eu vos digo que Deus pode fazer destas pedras filhos de Abraão.
+
+[[v47-3-10]]
+
+^<<v47-3-10,10>>^ O machado já está posto à raiz das árvores. Toda a árvore que não dá bom fruto, será cortada e lançada no fogo.
+
+[[v47-3-11]]
+
+^<<v47-3-11,11>>^ Eu, na verdade, baptizo-vos com água para (vos levar à) penitência, mas o que há-de vir depois de mim é mais poderoso do que eu, e eu não sou digno de lhe levar as sandálias; ele vos baptizará no Espírito Santo e em fogo.
+
+[[v47-3-12]]
+
+^<<v47-3-12,12>>^ Ele tem a pá na sua mão, e limpará bem a sua eira, e recolherá o seu trigo no celeiro, mas queimará a palha num fogo inextinguível."
+
+[[v47-3-13]]
+
+^<<v47-3-13,13>>^ Então foi Jesus da Galileia ao Jordão e apresentou-se a João, para ser baptizado por ele.
+
+[[v47-3-14]]
+
+^<<v47-3-14,14>>^ Mas João opunha-se-lhe, dizendo: "Sou eu que devo ser baptizado por ti, e tu vens a mim !"
+
+[[v47-3-15]]
+
+^<<v47-3-15,15>>^ Jesus respondeu-lhe: "Deixa por agora, pois convém que cumpramos assim toda a justiça." Ele então concordou.
+
+[[v47-3-16]]
+
+^<<v47-3-16,16>>^ Logo que foi baptizado, Jesus saiu da água. E eis que se abriram os céus, e viu o Espírito de Deus descer como pomba, e vir sobre ele.
+
+[[v47-3-17]]
+
+^<<v47-3-17,17>>^ E eis (que se ouviu) uma voz do céu, que dizia: "Este é o meu Filho amado, no qual pus as minhas complacências." (ver nota)
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-002.adoc#v47-2-0[&#60; Capítulo Anterior] | <<v47-3-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-004.adoc#v47-4-0[Próximo Capítulo &#62;]

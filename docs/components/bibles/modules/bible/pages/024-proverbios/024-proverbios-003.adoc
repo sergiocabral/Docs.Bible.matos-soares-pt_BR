@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v24-3-0]]
+=== Provérbios, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 do livro de Provérbios contém diversos ensinamentos sobre sabedoria, justiça e prudência, além de incentivar a obediência a Deus e a confiança em seus caminhos. Os versículos selecionados abaixo abordam esses temas e se relacionam com o capítulo em questão:
+* Provérbios 2:6 - "Porque o Senhor dá a sabedoria, da sua boca vem o conhecimento e o entendimento." Assim como em Provérbios 3, este versículo destaca a importância da sabedoria, que vem de Deus.
+* Provérbios 4:7 - "A sabedoria é a principal coisa; adquire, pois, a sabedoria; e com todos os teus bens adquire o entendimento." Aqui novamente a sabedoria é destacada como algo fundamental para a vida.
+* Provérbios 8:13 - "O temor do Senhor é odiar o mal; a soberba e a arrogância, o mau caminho e a boca perversa, eu odeio." O temor do Senhor é um tema recorrente em Provérbios 3, e aqui vemos como ele está ligado a um comportamento justo.
+* Provérbios 16:3 - "Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos." Este versículo fala sobre confiar em Deus e seus caminhos, algo que é incentivado em Provérbios 3.
+* Provérbios 27:12 - "O prudente vê o mal e se esconde; mas os simples passam adiante e sofrem a pena." Ser prudente e evitar comportamentos perigosos é um tema abordado em Provérbios 3, como um caminho para a vida.
+****
+
+[[v24-3-1]]
+
+^<<v24-3-1,1>>^ Meu filho, não te esqueças dos meus ensinamentos, guarda no teu coração os meus preceitos,
+
+[[v24-3-2]]
+
+^<<v24-3-2,2>>^ porque eles te acrescentarão longos dias, anos de vida. e prosperidade.
+
+[[v24-3-3]]
+
+^<<v24-3-3,3>>^ Não se afastem de ti a misericórdia e a verdade; prende-as ao teu pescoço, grava-as sobre às tábuas do teu coração.
+
+[[v24-3-4]]
+
+^<<v24-3-4,4>>^ Assim acharás graça e boa opinião diante de Deus e dos homens.
+
+[[v24-3-5]]
+
+^<<v24-3-5,5>>^ Tem confiança no Senhor de todo o teu coração, e não te estribes na tua prudência.
+
+[[v24-3-6]]
+
+^<<v24-3-6,6>>^ Pensa nele em todos os teus caminhos, e ele mesmo aplanará as tuas sendas.
+
+[[v24-3-7]]
+
+^<<v24-3-7,7>>^ Não sejas sábio a teus próprios olhos; teme a Deus, e afasta-te do mal. (ver nota)
+
+[[v24-3-8]]
+
+^<<v24-3-8,8>>^ Isto será saúde para a tua carne, e suco para os teus ossos.
+
+[[v24-3-9]]
+
+^<<v24-3-9,9>>^ Honra o Senhor com os teus haveres, dá-lhe das primícias de todos os teus frutos,
+
+[[v24-3-10]]
+
+^<<v24-3-10,10>>^ e se encherão os teus celeiros de farturas, e transbordarão de vinho os teus lagares.
+
+[[v24-3-11]]
+
+^<<v24-3-11,11>>^ Não rejeites, meu filho, a correção do Senhor, nem te agaste quando ele te castiga,
+
+[[v24-3-12]]
+
+^<<v24-3-12,12>>^ porque o Senhor castiga aquele a quem ama, como um pai a seu filho querido.
+
+[[v24-3-13]]
+
+^<<v24-3-13,13>>^ Bem-aventurado o homem que achou a sabedoria, que alcançou a inteligência.
+
+[[v24-3-14]]
+
+^<<v24-3-14,14>>^ Vale mais a sua aquisição que a da prata, e os seus frutos são melhores que o oiro puro.
+
+[[v24-3-15]]
+
+^<<v24-3-15,15>>^ É mais preciosa que as pérolas, e não há tesouro que a iguale.
+
+[[v24-3-16]]
+
+^<<v24-3-16,16>>^ Na sua direita está uma larga vida, e as riquezas e a glória na sua esquerda. (ver nota)
+
+[[v24-3-17]]
+
+^<<v24-3-17,17>>^ Os seus caminhos são caminhos deliciosos, e são de paz todas as suas veredas.
+
+[[v24-3-18]]
+
+^<<v24-3-18,18>>^ É árvore da vida para aqueles que lançarem mão dela; bem-aventurado o que a não largar. (ver nota)
+
+[[v24-3-19]]
+
+^<<v24-3-19,19>>^ O Senhor fundou a terra pela sabedoria, consolidou os céus pela inteligência. (ver nota)
+
+[[v24-3-20]]
+
+^<<v24-3-20,20>>^ Pela ciência é que os abismos se romperam, e que as nuvens distilam orvalho.
+
+[[v24-3-21]]
+
+^<<v24-3-21,21>>^ Meu filho, nunca percas de vista estas coisas; guarda a prudência e o conselho;
+
+[[v24-3-22]]
+
+^<<v24-3-22,22>>^ serão a vida da tua alma, e (como que) um belo adorno para o teu pescoço.
+
+[[v24-3-23]]
+
+^<<v24-3-23,23>>^ Então andarás com confiança pelo teu caminho, e o teu pé não tropeçará.
+
+[[v24-3-24]]
+
+^<<v24-3-24,24>>^ Quando te deitares a repousar, não temerás; descansarás, e o teu sono será tranquilo.
+
+[[v24-3-25]]
+
+^<<v24-3-25,25>>^ Não receies nenhum terror imprevisto, nem a ruína reservada aos ímpios, quando vier,
+
+[[v24-3-26]]
+
+^<<v24-3-26,26>>^ porque o Senhor estará ao teu lado, e guardará o teu pé para não seres apanhado (no laço).
+
+[[v24-3-27]]
+
+^<<v24-3-27,27>>^ Não recuses um benefício ao que dele precisa, se estiver em teu poder concedê-lo.
+
+[[v24-3-28]]
+
+^<<v24-3-28,28>>^ Não digas ao teu próximo: "Vai e volta, àmanhã te darei (o que pedes)" quando tu lhe podes dar logo.
+
+[[v24-3-29]]
+
+^<<v24-3-29,29>>^ Não maquines nenhum mal contra o teu próximo, tendo ele confiança em ti.
+
+[[v24-3-30]]
+
+^<<v24-3-30,30>>^ Não litigues contra um homem sem motivo, quando ele te não fez mal nenhum.
+
+[[v24-3-31]]
+
+^<<v24-3-31,31>>^ Não tenhas inveja a homem injusto, nem sigas os seus caminhos,
+
+[[v24-3-32]]
+
+^<<v24-3-32,32>>^ porque o Senhor abomina todo o enganador, e a sua intimidade é com os corações rectos.
+
+[[v24-3-33]]
+
+^<<v24-3-33,33>>^ Haverá maldição, na casa do ímpio, enviada pelo Senhor, porém as habitações dos justos serão abençoadas.
+
+[[v24-3-34]]
+
+^<<v24-3-34,34>>^ Ele escarnecerá dos escarnecedores, e dará a sua graça aos humildes.
+
+[[v24-3-35]]
+
+^<<v24-3-35,35>>^ Os sábios possuirão a glória; o quinhão dos insensatos será a ignomínia.
+
+'''
+
+xref:024-proverbios/024-proverbios-002.adoc#v24-2-0[&#60; Capítulo Anterior] | <<v24-3-0,Topo>> | xref:024-proverbios/024-proverbios-004.adoc#v24-4-0[Próximo Capítulo &#62;]

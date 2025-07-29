@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-134-0]]
+=== Salmos, 134
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 134 é um breve cântico de adoração que exorta os servos do Senhor a bendizerem o Senhor no santuário durante a noite. É um chamado à adoração ao Deus verdadeiro e uma lembrança de que ele é o Criador de todas as coisas. Aqui estão cinco versículos da Bíblia que abordam temas semelhantes ao Salmo 134:
+* Salmos 113:3: "Desde o nascer do sol até ao ocaso, seja louvado o nome do Senhor." Esse versículo é um chamado à adoração contínua do Senhor, do amanhecer ao anoitecer, sem cessar.
+* Salmos 135:1-3: "Louvai ao Senhor. Louvai o nome do Senhor; louvai-o, servos do Senhor, que estais na casa do Senhor, nos átrios da casa do nosso Deus. Louvai ao Senhor, porque o Senhor é bom; cantai louvores ao seu nome, porque é agradável." Esses versículos exortam os servos do Senhor a louvá-lo em sua casa, nos átrios da casa do nosso Deus, por causa de sua bondade e graça.
+* Salmos 136:1-3: "Louvai ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre. Louvai ao Deus dos deuses; porque a sua benignidade dura para sempre. Louvai ao Senhor dos senhores; porque a sua benignidade dura para sempre." Esse Salmo é uma oração de agradecimento e louvor pela bondade do Senhor em todas as coisas, do começo ao fim.
+* Salmos 139:1-2: "Senhor, tu me sondaste, e me conheces. Tu conheces o meu sentar e o meu levantar; de longe entendes o meu pensamento." Esses versículos mostram que Deus conhece intimamente cada pessoa, e ele é digno de adoração e louvor.
+* Apocalipse 4:11: "Digno és, Senhor, de receber glória, e honra, e poder; porque tu criaste todas as coisas, e por tua vontade são e foram criadas." Esse versículo é um cântico de adoração a Deus, reconhecendo sua soberania e poder como o criador de todas as coisas.
+****
+
+[[v21-134-1]]
+
+^<<v21-134-1,1>>^ Aleluia. Louvai o nome do Senhor, louvai o Senhor, vós, seus servos, (ver nota)
+
+[[v21-134-2]]
+
+^<<v21-134-2,2>>^ vós, que assistis na casa do Senhor, nos átrios da casa do nosso Deus.
+
+[[v21-134-3]]
+
+^<<v21-134-3,3>>^ Louvai o Senhor, porque o Senhor é bom; cantai salmos ao seu nome, porque é suave.
+
+[[v21-134-4]]
+
+^<<v21-134-4,4>>^ Porque o Senhor escolheu para si Jacob, e Israel para sua possessão.
+
+[[v21-134-5]]
+
+^<<v21-134-5,5>>^ Sim, eu sei que o Senhor é grande, e que o nosso Dominador é mais que todos os deuses.
+
+[[v21-134-6]]
+
+^<<v21-134-6,6>>^ Tudo o que quer, o faz o Senhor, no céu, na terra, no mar e em todos os abismos das águas.
+
+[[v21-134-7]]
+
+^<<v21-134-7,7>>^ Ele faz subir as nuvens das extremidades da terra, com os relâmpagos provoca a chuva, faz sair os ventos dos seus reservatórios.
+
+[[v21-134-8]]
+
+^<<v21-134-8,8>>^ Feriu os primogênitos do Egipto, desde os homens até aos animais.
+
+[[v21-134-9]]
+
+^<<v21-134-9,9>>^ Operou sinais e prodígios no meio de ti, ó Egipto, contra Faraó e contra todos os seus servos.
+
+[[v21-134-10]]
+
+^<<v21-134-10,10>>^ Feriu nações numerosas e matou reis poderosos:
+
+[[v21-134-11]]
+
+^<<v21-134-11,11>>^ Seon, rei dos Amorreus, Og, rei de Basan, e todos os reis de Canaan.
+
+[[v21-134-12]]
+
+^<<v21-134-12,12>>^ E deu as terras deles em possessão, em possessão a Israel, seu povo.
+
+[[v21-134-13]]
+
+^<<v21-134-13,13>>^ Senhor, o teu nome permanece eternamente; Senhor, a tua memória passa de geração em geração.
+
+[[v21-134-14]]
+
+^<<v21-134-14,14>>^ Porque o Senhor proteje o seu povo, e tem compaixão dos seus servos.
+
+[[v21-134-15]]
+
+^<<v21-134-15,15>>^ Os ídolos dos gentios não são mais que prata e ouro, obras das mãos dos homens:
+
+[[v21-134-16]]
+
+^<<v21-134-16,16>>^ têm boca, e não falam: têm olhos, e não vêem;
+
+[[v21-134-17]]
+
+^<<v21-134-17,17>>^ têm ouvidos, e não ouvem; e não há alento de vida na sua boca.
+
+[[v21-134-18]]
+
+^<<v21-134-18,18>>^ Com eles se parecem os que os fazem, e todo o que confia neles,
+
+[[v21-134-19]]
+
+^<<v21-134-19,19>>^ Casa de Israel, bendiz ao Senhor; casa de Aarão, bendiz ao Senhor;
+
+[[v21-134-20]]
+
+^<<v21-134-20,20>>^ casa de Levi, bendiz ao Senhor; vós os que adorais o Senhor, bendizei ao Senhor.
+
+[[v21-134-21]]
+
+^<<v21-134-21,21>>^ Desde Sião seja bendito o Senhor, que habita em Jerusalém.
+
+'''
+
+xref:021-salmos/021-salmos-133.adoc#v21-133-0[&#60; Capítulo Anterior] | <<v21-134-0,Topo>> | xref:021-salmos/021-salmos-135.adoc#v21-135-0[Próximo Capítulo &#62;]

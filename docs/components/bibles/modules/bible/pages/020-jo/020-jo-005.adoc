@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v20-5-0]]
+=== Jó, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 5 de Jó, Elifaz, um dos amigos de Jó, responde à aflição de Jó e tenta consolá-lo. Elifaz argumenta que Deus não castiga os justos, e que Jó deve se arrepender de seus pecados para encontrar a restauração. A seguir estão cinco versículos relacionados com os temas abordados em Jó 5:
+* Salmos 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Este verso fala sobre as dificuldades que os justos enfrentam, mas também sobre a fidelidade de Deus em libertá-los.
+* Provérbios 3:11-12: "Não desprezes, filho meu, o castigo do Senhor, nem desmaies quando por ele fores repreendido; porque o Senhor castiga a quem ama, assim como o pai ao filho a quem quer bem." Este verso aborda a ideia de que o sofrimento pode ser um meio de correção e disciplina por parte de Deus.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda a consolação, que nos consola em todas as nossas tribulações, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus." Este verso fala sobre a consolação de Deus em tempos de tribulação, e a importância de compartilhar essa consolação com os outros.
+* Tiago 5:11: "Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó, e vistes o fim que o Senhor lhe deu; porque o Senhor é cheio de misericórdia e compassivo." Este verso menciona a paciência de Jó em meio à aflição, e enfatiza a compaixão e a misericórdia de Deus.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este verso fala sobre a presença de Deus e a sua fidelidade em sustentar e fortalecer aqueles que confiam nele.
+****
+
+[[v20-5-1]]
+
+^<<v20-5-1,1>>^ Chama, pois, (algum defensor), se é que há alguém que te responda. Para qual dos santos te voltaras?
+
+[[v20-5-2]]
+
+^<<v20-5-2,2>>^ Verdadeiramente a ira mata o insensato, e a inveja mata o louco.
+
+[[v20-5-3]]
+
+^<<v20-5-3,3>>^ Eu vi o (pecador) insensato com profundas raízes, mas, sìbitamente, foi destruída a sua morada.
+
+[[v20-5-4]]
+
+^<<v20-5-4,4>>^ Longe estão os seus filhos da salvação (ou felicidade), são pisados à porta (da cidade), e não há quem os livre.
+
+[[v20-5-5]]
+
+^<<v20-5-5,5>>^ A sua messe devora-a o faminto, salta sobre os espinhos para a arrebatar, e os sequiosos bebem as suas riquezas.
+
+[[v20-5-6]]
+
+^<<v20-5-6,6>>^ A desgraça não nasce do pó, e a dor não brota da terra.
+
+[[v20-5-7]]
+
+^<<v20-5-7,7>>^ O homem nasceu para sofrer, como os filhos da chama (faúlhas) paravoar.
+
+[[v20-5-8]]
+
+^<<v20-5-8,8>>^ Por mim, rogarei ao Senhor, dirigirei a minha oração a Deus,
+
+[[v20-5-9]]
+
+^<<v20-5-9,9>>^ que faz coisas grandes e impenetráveis maravilhas incontáveis,
+
+[[v20-5-10]]
+
+^<<v20-5-10,10>>^ que derrama a chuva sobre a face da terra, e tudo rega com as águas;
+
+[[v20-5-11]]
+
+^<<v20-5-11,11>>^ que exalta os humildes, e aos tristes alenta com prosperidades;
+
+[[v20-5-12]]
+
+^<<v20-5-12,12>>^ que dissipa os pensamentos dos malignos, para que as suas mãos não possam acabar o que tinham começado;
+
+[[v20-5-13]]
+
+^<<v20-5-13,13>>^ que apanha os astutos na sua própria astúcia, e que dissipa o desígnio dos maus.
+
+[[v20-5-14]]
+
+^<<v20-5-14,14>>^ De dia se encontram em trevas, e ao meio-dia andam às apalpadelas como de noite.
+
+[[v20-5-15]]
+
+^<<v20-5-15,15>>^ Ele salva o desvalido da espada da sua boca, e o pobre da mão do (homem) poderoso.
+
+[[v20-5-16]]
+
+^<<v20-5-16,16>>^ Volta a esperança ao indigente, e a iniquidade fecha a sua boca.
+
+[[v20-5-17]]
+
+^<<v20-5-17,17>>^ Bem-aventurado o homem a quem Deus corrige. Não desprezes, pois, a correção do Omnipotente,
+
+[[v20-5-18]]
+
+^<<v20-5-18,18>>^ porque ele fere e sara; dá o golpe e as suas mãos curam.
+
+[[v20-5-19]]
+
+^<<v20-5-19,19>>^ Seis... à sétima... Gradação usada para indicar um grande número.
+
+[[v20-5-20]]
+
+^<<v20-5-20,20>>^ Seis vezes te livrará da angústia, e à sétima o mal não te tocará.
+
+[[v20-5-21]]
+
+^<<v20-5-21,21>>^ No tempo da fome ele te salvará da morte, e no tempo da guerra do poder da espada.
+
+[[v20-5-22]]
+
+^<<v20-5-22,22>>^ Estarás a coberto do açoute da (má) língua. e não temerás a calamidade quando chegar.
+
+[[v20-5-23]]
+
+^<<v20-5-23,23>>^ Da desolação e da fome te rirás, e não temerás as feras da terra.
+
+[[v20-5-24]]
+
+^<<v20-5-24,24>>^ Até farás aliança com as pedras dos campos, e as feras da terra te serão pacificas.
+
+[[v20-5-25]]
+
+^<<v20-5-25,25>>^ Verás reinar a paz na tua casa, e, visitando as tuas terras, nada te verás faltar.
+
+[[v20-5-26]]
+
+^<<v20-5-26,26>>^ Verás também multiplicar-se a tua descendência, crescer a tua posteridade como a erva dos campos.
+
+[[v20-5-27]]
+
+^<<v20-5-27,27>>^ Entrarás, na maturidade, no sepulcro, como um feixe de trigo colhido a seu tempo.
+
+[[v20-5-28]]
+
+^<<v20-5-28,28>>^ Olha que assim é isto que nós observámos; escuta-o e tira dele proveito.
+
+'''
+
+xref:020-jo/020-jo-004.adoc#v20-4-0[&#60; Capítulo Anterior] | <<v20-5-0,Topo>> | xref:020-jo/020-jo-006.adoc#v20-6-0[Próximo Capítulo &#62;]

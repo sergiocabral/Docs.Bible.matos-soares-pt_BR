@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v50-4-0]]
+=== São João, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 do Evangelho de João relata o encontro de Jesus com uma mulher samaritana junto ao poço de Jacó. Durante a conversa, Jesus revela que é o Messias esperado e a mulher vai compartilhar a notícia com os seus conterrâneos. Abaixo seguem cinco versículos relacionados aos temas abordados nesse capítulo:
+* 1 Coríntios 3:6: "Eu plantei, Apolo regou, mas foi Deus quem deu o crescimento." Esse versículo faz referência à metáfora da colheita que Jesus usa durante a conversa com a mulher samaritana, mostrando que a semente que ele plantou irá germinar para a vida eterna.
+* João 6:35: "Eu sou o pão da vida; aquele que vem a mim não terá fome, e aquele que crê em mim nunca terá sede." Nesse versículo, Jesus usa uma linguagem metafórica para explicar que ele é a fonte de água viva, que sacia a sede espiritual da mulher samaritana.
+* Salmo 36:9: "Pois em ti está a fonte da vida; graças à tua luz vemos a luz." Esse salmo se relaciona com a revelação de Jesus à mulher samaritana como a fonte de água viva e a luz que guia para a salvação.
+* João 7:38: "Quem crer em mim, como diz a Escritura, rios de água viva correrão do seu ventre." Esse versículo se relaciona com a metáfora da água viva usada por Jesus durante a conversa com a mulher samaritana e mostra como a fé em Jesus pode transbordar em bênçãos para outros.
+* 1 João 4:16: "E nós conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e aquele que permanece no amor permanece em Deus, e Deus nele." Esse versículo se relaciona com a mensagem de amor que Jesus compartilha com a mulher samaritana e mostra como a fé em Deus pode transformar a vida das pessoas.
+****
+
+[[v50-4-1]]
+
+^<<v50-4-1,1>>^ Quando Jesus soube que os fariseus tinham ouvido que ele fazia mais discípulos e baptizava mais que João,
+
+[[v50-4-2]]
+
+^<<v50-4-2,2>>^ (todavia não era o próprio Jesus que baptizava, mas os seus discípulos),
+
+[[v50-4-3]]
+
+^<<v50-4-3,3>>^ deixou a Judeia, e foi outra vez para a Galileia.
+
+[[v50-4-4]]
+
+^<<v50-4-4,4>>^ Devia, por isso, passar pela Samaria.
+
+[[v50-4-5]]
+
+^<<v50-4-5,5>>^ Chegou, pois, a uma cidade da Samaria chamada Sicar, junto da herdade que Jacó deu a seu filho José.
+
+[[v50-4-6]]
+
+^<<v50-4-6,6>>^ Estava lá o poço de Jacó. Fatigado da viagem, Jesus sentou-se sobre a borda do poço. Era quase a hora sexta.
+
+[[v50-4-7]]
+
+^<<v50-4-7,7>>^ Veio uma mulher da Samaria tirar água. Jesus disse-lhe: "Dá-me de beber."
+
+[[v50-4-8]]
+
+^<<v50-4-8,8>>^ Os seus discípulos tinham ido à cidade comprar mantimentos.
+
+[[v50-4-9]]
+
+^<<v50-4-9,9>>^ Disse-lhe, porém, a mulher Samaritana: "Com o, sendo tu judeu, me pedes de beber a mim, que sou samaritana?" Com efeito os Judeus não comunicam com os Samaritanos.
+
+[[v50-4-10]]
+
+^<<v50-4-10,10>>^ Jesus respondeu: "Se tu conheceras o dom de Deus, e quem é que te diz: Dá-me de beber, certamente lhe pedirias, e ele te daria de uma água viva."
+
+[[v50-4-11]]
+
+^<<v50-4-11,11>>^ A mulher disse-lhe; "Senhor, tu não tens com que a tirar, e o poço é fundo; donde tens, pois, essa água viva?
+
+[[v50-4-12]]
+
+^<<v50-4-12,12>>^ És tu, porventura, maior do que o nosso pai Jacó, que nos deu este poço, do qual ele mesmo bebeu, e os seus filhos e os seus gados?"
+
+[[v50-4-13]]
+
+^<<v50-4-13,13>>^ Jesus respondeu: "Todo aquele que bebe desta água tornará a ter sede,
+
+[[v50-4-14]]
+
+^<<v50-4-14,14>>^ mas o que beber da água que eu lhe der, jamais terá sede: a água que eu lhe der, virá a ser nele uma fonte de água que salte para a vida eterna."
+
+[[v50-4-15]]
+
+^<<v50-4-15,15>>^ A mulher disse-lhe: "Senhor, dá-me dessa água, pára eu não ter mais sede, nem vir aqui tirá-la."
+
+[[v50-4-16]]
+
+^<<v50-4-16,16>>^ Jesus disse-lhe: "Vai, chama teu marido e vem cá."
+
+[[v50-4-17]]
+
+^<<v50-4-17,17>>^ A mulher respondeu: "Não tenho marido." Jesus replicou: "Disseste bem: não tenho marido;
+
+[[v50-4-18]]
+
+^<<v50-4-18,18>>^ porque tiveste cinco maridos, e o que agora tens, não é teu marido; isto disseste com verdade."
+
+[[v50-4-19]]
+
+^<<v50-4-19,19>>^ A mulher disse-lhe: "Senhor, vejo que és profeta.
+
+[[v50-4-20]]
+
+^<<v50-4-20,20>>^ Nossos pais adoraram sobre esta montanha, e vós dizeis que em Jerusalém é o lugar onde se deve adorar."
+
+[[v50-4-21]]
+
+^<<v50-4-21,21>>^ Jesus disse-lhe: "Mulher, crê-me que é chegada a hora, em que não adorareis o Pai, nem nesta montanha, nem em Jerusalém.
+
+[[v50-4-22]]
+
+^<<v50-4-22,22>>^ Vós adorais o que não conheceis, nós adoramos o que conhecemos, porque dos Judeus é que vem a salvação.
+
+[[v50-4-23]]
+
+^<<v50-4-23,23>>^ Mas vem a hora, e já chegou, em que os verdadeiros adoradores adorarão o Pai em espírito e verdade, porque é destes adoradores que o Pai deseja.
+
+[[v50-4-24]]
+
+^<<v50-4-24,24>>^ Deus é espírito, e em espírito e verdade é que o devem adorar os que o adoram."
+
+[[v50-4-25]]
+
+^<<v50-4-25,25>>^ A mulher disse-lhe: "Eu sei que deve vir o Messias que se chama Cristo; quando, pois, ele vier, nos anunciará todas as coisas."
+
+[[v50-4-26]]
+
+^<<v50-4-26,26>>^ Jesus disse-lhe: "Sou eu, que falo contigo."
+
+[[v50-4-27]]
+
+^<<v50-4-27,27>>^ Nisto chegaram seus discípulos, e maravilharam-se de que estivesse falando com uma mulher. Nenhum contudo lhe disse: "Que é o que perguntas?" ou: "Por que falas com ela?"
+
+[[v50-4-28]]
+
+^<<v50-4-28,28>>^ A mulher, então, deixou o seu cântaro, foi à cidade e disse àquela gente:
+
+[[v50-4-29]]
+
+^<<v50-4-29,29>>^ "Vinde ver um homem, que me disse tudo o que eu tenho feito; será este porventura o Cristo?"
+
+[[v50-4-30]]
+
+^<<v50-4-30,30>>^ Saíram da cidade e foram ter com ele.
+
+[[v50-4-31]]
+
+^<<v50-4-31,31>>^ Entretanto seus discípulos instavam com ele, dizendo: "Mestre, come."
+
+[[v50-4-32]]
+
+^<<v50-4-32,32>>^ Mas ele respondeu-lhes: "Eu tenho um alimento para comer, que vós não sabeis."
+
+[[v50-4-33]]
+
+^<<v50-4-33,33>>^ Pelo que diziam os discípulos uns para os outros: "Será caso que alguém lhe trouxesse de comer?"
+
+[[v50-4-34]]
+
+^<<v50-4-34,34>>^ Jesus disse-lhes: "A minha comida é fazer a vontade daquele que me enviou e cumprir a sua obra.
+
+[[v50-4-35]]
+
+^<<v50-4-35,35>>^ Não dizeis vós que ainda há quatro meses até à ceifa? Mãe eu digo-vos: Levantai os olhos e vede os campos que já estão branquejando para a ceifa.
+
+[[v50-4-36]]
+
+^<<v50-4-36,36>>^ O que sega recebe recompensa e junta o fruto para a vida eterna, para que assim o que semeia, como o que sega, juntamente se regozijem.
+
+[[v50-4-37]]
+
+^<<v50-4-37,37>>^ Porque nisto se verifica o ditado: Um é o que semeia, e outro o que sega.
+
+[[v50-4-38]]
+
+^<<v50-4-38,38>>^ Eu enviei-vos a segar o que vós não trabalhaste; outros trabalharam, e vós recolheis o fruto dos seus trabalhos."
+
+[[v50-4-39]]
+
+^<<v50-4-39,39>>^ Muitos Samaritanos daquela cidade creram em Jesus, por causa da palavra daquela mulher, que dava este testemunho: "Ele disse-me tudo o que tenho feito."
+
+[[v50-4-40]]
+
+^<<v50-4-40,40>>^ Vindo, pois, ter com ele os Samaritanos, pediram-lhe que ficasse com eles. Ficou lá dois dias.
+
+[[v50-4-41]]
+
+^<<v50-4-41,41>>^ Muitos mais creram nele em virtude da sua palavra.
+
+[[v50-4-42]]
+
+^<<v50-4-42,42>>^ E diziam à mulher: "Não é já pela tua palavra que cremos nele, mas é porque nós próprios o ouvimos, e sabemos que ele é verdadeiramente o Salvador do mundo."
+
+[[v50-4-43]]
+
+^<<v50-4-43,43>>^ Passados dois dias, partiu Jesus dali para a Galileia.
+
+[[v50-4-44]]
+
+^<<v50-4-44,44>>^ Porque o mesmo Jesus tinha afirmado que um profeta não tem respeito na sua pátria.
+
+[[v50-4-45]]
+
+^<<v50-4-45,45>>^ Tendo chegado à Galileia, receberam-no bem os Galileus, porque tinham visto todas as coisas que ele havia feito em Jerusalém no dia da festa; pois também tinham ido à festa
+
+[[v50-4-46]]
+
+^<<v50-4-46,46>>^ Foi, pois, novamente a Caná da Galileia, onde tinha convertido a água em vinho. Havia em Cafarnaum um funcionário real, cujo filho estava doente.
+
+[[v50-4-47]]
+
+^<<v50-4-47,47>>^ Este, tendo ouvido dizer que Jesus chegara da Judeia à Galileia, foi ter com ele e rogou-lhe que fosse a sua casa curar seu filho, que estava a morrer.
+
+[[v50-4-48]]
+
+^<<v50-4-48,48>>^ Jesus disse-lhe: "Vós, se não virdes milagres e prodígios, não credes."
+
+[[v50-4-49]]
+
+^<<v50-4-49,49>>^ O funcionário real disse-lhe: "Senhor, vem antes que meu filho morra"
+
+[[v50-4-50]]
+
+^<<v50-4-50,50>>^ Jesus disse-lhe: "Vai, o teu filho vive." Deu o homem crédito ao que Jesus lhe disse, e partiu
+
+[[v50-4-51]]
+
+^<<v50-4-51,51>>^ Quando já ia para casa, vieram os criados ao seu encontro, e deram-lhe a nova de que seu filho vivia.
+
+[[v50-4-52]]
+
+^<<v50-4-52,52>>^ Perguntou-lhes a hora em que o doente se achara melhor. Disseram-lhe: "Ontem, à hora sétima, o deixou a febre."
+
+[[v50-4-53]]
+
+^<<v50-4-53,53>>^ Reconheceu então o pai ser aquela mesma a hora em que Jesus lhe dissera: "Teu filho vive". Acreditou ele, assim como toda a sua família.
+
+[[v50-4-54]]
+
+^<<v50-4-54,54>>^ Foi este o segundo milagre que Jesus fez, depois de ter vindo da Judeia para a Galileia.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-003.adoc#v50-3-0[&#60; Capítulo Anterior] | <<v50-4-0,Topo>> | xref:050-sao-joao/050-sao-joao-005.adoc#v50-5-0[Próximo Capítulo &#62;]

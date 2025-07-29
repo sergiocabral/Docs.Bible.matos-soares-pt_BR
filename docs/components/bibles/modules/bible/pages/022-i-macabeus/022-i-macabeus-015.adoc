@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v22-15-0]]
+=== I Macabeus, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Macabeus 15 narra a aliança entre o rei Antíoco Eupátor e o general Lísias, que se opõem a Judas Macabeu e seu exército. Judas busca apoio do senado romano e envia uma carta ao poderoso governador romano, Lúcio, pedindo ajuda contra seus inimigos. A seguir, estão cinco versículos relacionados com os temas do capítulo:
+* Atos dos Apóstolos 23:24: "Prepara também cavalos, para que, pondo a Paulos sobre eles, o levem salvo a Félix, o governador." Assim como Judas Macabeu, o apóstolo Paulo também se envolveu em questões políticas e buscou ajuda do governador romano em situações de perigo.
+* Eclesiástico 3:26: "A vergonha é para meu filho a aflição da balança; mais vale a pobreza com integridade que a riqueza com a iniquidade." A integridade é uma virtude valorizada tanto no livro de Eclesiástico quanto na história de Judas Macabeu, que se recusa a se submeter aos poderosos e mantém sua luta pelos direitos de seu povo.
+* 2 Coríntios 8:21: "Porque nos preocupamos com aquilo que é honesto, não só diante do Senhor, mas também diante dos homens." A preocupação com a honestidade é outro valor que aparece na história de Judas Macabeu, que luta contra a corrupção e a opressão em nome da justiça.
+* Romanos 13:1: "Todo homem esteja sujeito às autoridades superiores; porque não há autoridade que não venha de Deus; e as autoridades que existem foram ordenadas por Deus." A relação entre os líderes religiosos e políticos também é um tema presente na história de Judas Macabeu, que busca alianças estratégicas para proteger seu povo.
+* 1 Timóteo 2:2: "Pelos reis e por todos os que estão em autoridade, para que tenhamos uma vida tranquila e sossegada em toda a piedade e honestidade." A oração pelos líderes e autoridades também é uma prática incentivada nas escrituras, como forma de buscar a paz e a prosperidade da sociedade.
+****
+
+[[v22-15-1]]
+
+^<<v22-15-1,1>>^ Então o rei Antíoco, filho de Demétrio enviou das ilhas do mar cartas a Simão, sumo pontífice chefe do povo dos Judeus, e a toda a sua nação.
+
+[[v22-15-2]]
+
+^<<v22-15-2,2>>^ O seu conteúdo era o seguinte; O rei Antioco a Simão, sumo pontífice e chefe, e à nação dos Judeus, saúde.
+
+[[v22-15-3]]
+
+^<<v22-15-3,3>>^ Tendo-se alguns homens perversos apoderado do reino de nossos pais, resolvi recuperá-lo e restabelecê-lo no estado em que antes se achava; (por isso) levantei um grande exército e mandei aparelhar navios de guerra.
+
+[[v22-15-4]]
+
+^<<v22-15-4,4>>^ Quero, pois, entrar nessas regiões para castigar aqueles que arruinaram as nossas terras e assolaram muitas cidades no meu reino.
+
+[[v22-15-5]]
+
+^<<v22-15-5,5>>^ Confirmo-te agora todas as isenções que os reis meus predecessores te deram e todos os dons que te concederem;
+
+[[v22-15-6]]
+
+^<<v22-15-6,6>>^ dou-te licença de cunhar moeda própria no teu país;
+
+[[v22-15-7]]
+
+^<<v22-15-7,7>>^ (quero) que Jerusalém e o santuário sejam livres e que todas as armas que mandaste fazer e todas as praças fortes que construíste e tens em teu poder, fiquem para ti.
+
+[[v22-15-8]]
+
+^<<v22-15-8,8>>^ Todas as dívidas ao tesouro real, passadas ou futuras, sejam-te perdoadas, desde agora e para sempre.
+
+[[v22-15-9]]
+
+^<<v22-15-9,9>>^ Quando tivermos entrado na posse do nosso reino, conceder-teremos a ti, à tua nação e ao templo, grandes honras, de maneira que fique manifesta a vossa glória em toda a terra.
+
+[[v22-15-10]]
+
+^<<v22-15-10,10>>^ No ano cento e setenta e quatro, entrou Antíoco no reino de seus pais; todas as tropas foram logo oferecer-se a ele, de sorte que poucos homens ficaram com Trifão.
+
+[[v22-15-11]]
+
+^<<v22-15-11,11>>^ O rei Antíoco perseguiu-o, e ele foi para Dora, fugindo pela costa do mar,
+
+[[v22-15-12]]
+
+^<<v22-15-12,12>>^ porque sabia que sobre ele estava iminente a desgraça, dado que o exército 0 havia abandonado.
+
+[[v22-15-13]]
+
+^<<v22-15-13,13>>^ Antíoco foi contra Dora com cento e vinte mil homens de guerra e oito mil cavaleiros.
+
+[[v22-15-14]]
+
+^<<v22-15-14,14>>^ Pôs cerco à cidade, e os navios bloquearam-na pelo lado do mar; fechou assim o cerco por mar e por terra, sem deixar entrar nem sair pessoa alguma.
+
+[[v22-15-15]]
+
+^<<v22-15-15,15>>^ Entretanto chegaram de Roma Numénio e os que tinham ido com ele, trazendo cartas escritas aos reis e aos povos, nas quais se continha o seguinte;
+
+[[v22-15-16]]
+
+^<<v22-15-16,16>>^ Lúcio, cônsul dos Romanos, ao rei Ptolomeu, saúde.
+
+[[v22-15-17]]
+
+^<<v22-15-17,17>>^ Os embaixadores dos Judeus vieram ter conosco, como amigos e aliados, enviados por Simão, sumo pontífice, e pelo povo dos Judeus, a fim de renovarem a antiga aliança e amizade.
+
+[[v22-15-18]]
+
+^<<v22-15-18,18>>^ Trouxeram um escudo de ouro de mil minas.
+
+[[v22-15-19]]
+
+^<<v22-15-19,19>>^ Aprouve-nos escrever aos reis e aos povos que lhes não façam mal nenhum, que não lhes movam guerra, nem às suas cidades, nem à sua terra, e que não dêem socorro aos que combaterem contra eles.
+
+[[v22-15-20]]
+
+^<<v22-15-20,20>>^ Julgámos que devíamos aceitar o escudo que nos trouxeram.
+
+[[v22-15-21]]
+
+^<<v22-15-21,21>>^ Se, pois, alguns homens corrompidos saíram do país deles para se refugiarem entre vós, remetei-os a Simão sumo sacerdote, para que ele os faça castigar conforme a sua lei.
+
+[[v22-15-22]]
+
+^<<v22-15-22,22>>^ Estas mesmas coisas escreveram ao rei Demétrio, a Atalo, a Ariarates, a Arsaces,
+
+[[v22-15-23]]
+
+^<<v22-15-23,23>>^ assim como a todos os países (seus aliados): a Lampsaco, aos Espartanos, a Delos, a Mindo, a Siciónia, a Caria, a Samos, a Panfilia, a Lícia, a Halicarnasso, a Rodes, a Fasélida, a Cós, a Side, a Arado, a Gortine, a Guido, a Ohipre e a Cirene.
+
+[[v22-15-24]]
+
+^<<v22-15-24,24>>^ Destas cartas mandaram uma cópia a Simão, sumo pontífice.
+
+[[v22-15-25]]
+
+^<<v22-15-25,25>>^ O rei Antíoco (como dissemos) pôs cerco a Dora, apertando-a por todos os lados e construindo máquinas guerra; encerrou dentro dela a Trifão, de tal sorte que não se podia entrar nem sair.
+
+[[v22-15-26]]
+
+^<<v22-15-26,26>>^ Então Simão mandou em seu auxílio dois mil homens escolhidos, com prata e ouro e muitos apetrechos,
+
+[[v22-15-27]]
+
+^<<v22-15-27,27>>^ mas Antíoco não os quis receber, antes, pelo contrário, rompeu todos os tratados que tinha feito e separou-se dele.
+
+[[v22-15-28]]
+
+^<<v22-15-28,28>>^ Depois enviou-lhe Atenóbio, um dos seus amigos, para tratar com ele, dizendo-lhe da sua parte; Vós ocupais Jope, Gazara e a cidadela de Jerusalém, que são cidades do meu reino;
+
+[[v22-15-29]]
+
+^<<v22-15-29,29>>^ tendes assolado os seus territórios, fizestes grande destroço no país e apoderastes-vos de muitos lugares no meu reino.
+
+[[v22-15-30]]
+
+^<<v22-15-30,30>>^ Agora, pois, entregai-me as cidades que tomastes e os tributos dos lugares de que vos assenhoreastes, fora das fronteiras da Judeia;
+
+[[v22-15-31]]
+
+^<<v22-15-31,31>>^ senão, pagai em compensação quinhentos talentos de prata, e pelos estragos que fizestes e tributos das cidades, outros quinhentos talentos; doutra sorte iremos fazer-vos guerra.
+
+[[v22-15-32]]
+
+^<<v22-15-32,32>>^ Foi Atenóbio, amigo do rei, a Jerusalém e viu o fausto de Simão, a sua baixela de ouro e prata, a sua extraordinária magnificência, e ficou maravilhado; entretanto referiu-lhe as palavras do rei.
+
+[[v22-15-33]]
+
+^<<v22-15-33,33>>^ Simão respondeu-lhe nestes termos: Não nos apoderámos de terra alheia, nem retemos os bens de outrem, mas apenas a herança de nossos pais, que durante algum tempo foi injustamente possuída pelos nossos inimigos.
+
+[[v22-15-34]]
+
+^<<v22-15-34,34>>^ Aproveitando a ocasião (favorável) recuperámos a herança de nossos pais.
+
+[[v22-15-35]]
+
+^<<v22-15-35,35>>^ Pelo que toca a Jope e Gazara, que reclamas, (sabe que) os destas cidades causavam muitos males entre o povo e no nosso país; (entretanto) estamos prontos a dar por estas cidades cem talentos, Átenóbio não lhe respondeu uma só palavra,
+
+[[v22-15-36]]
+
+^<<v22-15-36,36>>^ mas, Cheio de ira, tendo voltado para o rei, referiu-lhe esta resposta, o fausto de Simão e tudo o que tinha visto. O rei ficou em extremo irritado.
+
+[[v22-15-37]]
+
+^<<v22-15-37,37>>^ Entretanto fugiu Trifão numa nau para Ortosiada.
+
+[[v22-15-38]]
+
+^<<v22-15-38,38>>^ O rei Antíoco deu a Cendebeu o comando de toda a costa marítima e entregou-lhe um exército com a posto de infantaria e cavalaria.
+
+[[v22-15-39]]
+
+^<<v22-15-39,39>>^ Ordenou-lhe que fizesse avançar as suas tropas contra a mandou-lhe que edificasse Cedron, reforçasse as portas da cidade e atacasse o povo (Judeu). Entretanto o rei perseguia Trifão.
+
+[[v22-15-40]]
+
+^<<v22-15-40,40>>^ Cendebeu chegou a Jâmnia e começou a vexar o povo, a invadir a Judeia, a fazer prisioneiros e a matar gente. Edificou Cedron
+
+[[v22-15-41]]
+
+^<<v22-15-41,41>>^ e pôs ali cavalaria e infantaria, para que, saindo, fizessem correrias pelas terras da Judeia, segundo lhe tinha mandado o rei.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-014.adoc#v22-14-0[&#60; Capítulo Anterior] | <<v22-15-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-016.adoc#v22-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v54-7-0]]
+=== II Coríntios, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Coríntios 7 fala sobre o arrependimento e a tristeza segundo Deus, comparando com a tristeza mundana que não produz mudança. O capítulo destaca a alegria que vem do arrependimento e da reconciliação com Deus, assim como a importância de se manter um relacionamento sadio com outros cristãos.
+* 2 Coríntios 7:9-10 - "Assim, agora, realizo-me na alegria de ter em vós perfeita confiança, tanto em tudo que me concerne como em vós outros. Porque, ainda que vos entristeça, com a minha carta, não me arrependo; embora já me tivesse arrependido, visto que aquela carta vos entristeceu, por breve tempo." O apóstolo Paulo fala sobre a alegria de ter confiança naqueles que se arrependeram, mesmo que seu chamado ao arrependimento tenha causado tristeza momentânea.
+* 2 Coríntios 7:11 - "Porque a tristeza segundo Deus produz arrependimento para a salvação, que a ninguém traz pesar; mas a tristeza do mundo produz morte." Paulo contrasta a tristeza segundo Deus com a tristeza do mundo, destacando como a primeira leva ao arrependimento e à salvação, enquanto a segunda leva à morte.
+* 2 Coríntios 7:14 - "Porque, se de alguma maneira me gloriei de vós para com ele, não fiquei envergonhado; mas, como tudo quanto vos dissemos era a verdade, assim também o nosso orgulho para com Tito se verificou como verdadeiro." Paulo destaca a importância da verdade e da sinceridade nas relações entre os cristãos, e como a alegria de se relacionar com outros na fé pode ser genuína e sustentada quando a verdade é valorizada.
+* 2 Coríntios 7:16 - "Regozijo-me de poder em tudo confiar em vós." Paulo fala sobre sua alegria em confiar nos coríntios, destacando a importância da confiança mútua e da manutenção de um relacionamento sadio entre os cristãos.
+* 2 Coríntios 7:1 - "Tendo, pois, ó amados, tais promessas, purifiquemo-nos de toda impureza, tanto da carne como do espírito, aperfeiçoando a nossa santidade no temor de Deus." O capítulo começa com uma exortação à santidade e purificação, destacando como essas práticas são essenciais para manter um relacionamento saudável com Deus e com outros cristãos.
+****
+
+[[v54-7-1]]
+
+^<<v54-7-1,1>>^ Tendo, pois, estas promessas, meus carissimos, purifiquemo-nos de toda a imundície da carne e do espírito, levando ao fim a santificação no temor de Deus.
+
+[[v54-7-2]]
+
+^<<v54-7-2,2>>^ Recebei-nos dentro do vosso coração. A ninguém temos ofendido, a ninguém temos arruinado, a ninguém temos explorado.
+
+[[v54-7-3]]
+
+^<<v54-7-3,3>>^ Não digo isto para vos condenar, pois já vos declarei que estais nos nossos corações, para a vida e para a morte.
+
+[[v54-7-4]]
+
+^<<v54-7-4,4>>^ Tenho muita confiança em vós, muito me glorio de vós, estou cheio de consolação, inundado de alegria no meio de todas as nossas tribulações.
+
+[[v54-7-5]]
+
+^<<v54-7-5,5>>^ Em realidade, desde a nossa chegada à Macedónia, a nossa carne nenhum repouso teve, antes sofremos toda a tribulação: no exterior, combates; no interior, temores.
+
+[[v54-7-6]]
+
+^<<v54-7-6,6>>^ Deus, porém, que consola os humildes, consolou-nos com a chegada de Tito ;
+
+[[v54-7-7]]
+
+^<<v54-7-7,7>>^ e, não sòmente com a sua chegada, mas também com a consolação que recebeu de vós, referindo-me ele o vosso desejo (de me ver), o vosso pranto, o vosso zelo por mim, de sorte que a minha alegria aumentou.
+
+[[v54-7-8]]
+
+^<<v54-7-8,8>>^ Desta forma, embora eu vos tenha entristecido com a minha carta, não me arrependo disso; se bem que (a princípio) tenha sentido pesar, vendo que tal carta (ainda que por breve tempo) vos entristeceu,
+
+[[v54-7-9]]
+
+^<<v54-7-9,9>>^ agora folgo, não de vos ter entristecido, mas de que a vossa tristeza vos levou à penitência. Entristecestes-vos segundo Deus, de sorte que em nada recebestes detrimento de nós,
+
+[[v54-7-10]]
+
+^<<v54-7-10,10>>^ porque a tristeza, que é segundo Deus, produz uma penitência estável para a salvação, pelo contrário, a tristeza do século produz a morte (eterna).
+
+[[v54-7-11]]
+
+^<<v54-7-11,11>>^ Vede, pois, o que produziu em vós essa tristeza, segundo Deus: quanta solicitude (em reparar a vossa negligência), que justificação, que indignação, que temor, que desejo (de remediar o mal), que zelo, que (desejo de) severidade (pela injúria feita à Igreja)! Vós mostrastes em tudo que éreis inocentes neste negócio.
+
+[[v54-7-12]]
+
+^<<v54-7-12,12>>^ Portanto, se vos escrevi, não o fiz por causa do que fez a injúria, nem por causa do que a padeceu, mas sim para que a vossa solicitude por nós se manifestasse, entre vós, diante de Deus.
+
+[[v54-7-13]]
+
+^<<v54-7-13,13>>^ Eis o que nos consolou. Mas, na nossa consolação, ainda mais nos alegramos pela alegria de Tito, porque o seu espírito foi tranquilizado por todos vós.
+
+[[v54-7-14]]
+
+^<<v54-7-14,14>>^ Se, diante dele, me mostrei um pouco orgulhoso de vós, não me envergonho disso; pelo contrário, como tudo o que vos temos dito foi com verdade, assim também o elogio, que de vós fizemos a Tito, viu-se (pelos factos) ser verdade.
+
+[[v54-7-15]]
+
+^<<v54-7-15,15>>^ Por isso a sua ternura por vós é cada vez maior, ao lembrar-se da obediência de todos vós e de como o recebestes com temor e tremor,
+
+[[v54-7-16]]
+
+^<<v54-7-16,16>>^ Eu me alegro de poder contar em tudo convosco.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-006.adoc#v54-6-0[&#60; Capítulo Anterior] | <<v54-7-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-008.adoc#v54-8-0[Próximo Capítulo &#62;]

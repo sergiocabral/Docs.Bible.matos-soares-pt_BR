@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v25-10-0]]
+=== Eclesiastes, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 10 do livro de Eclesiastes, o autor discute a importância da sabedoria e da prudência em contraste com a insensatez e a loucura. Ele também destaca a importância de se manter calmo e controlado, mesmo em situações difíceis. Aqui estão cinco versículos relacionados com esses temas:
+* Provérbios 14:8: "O sábio considera bem os seus passos, mas o tolo engana-se a si mesmo." Este versículo destaca a importância da sabedoria e do discernimento na tomada de decisões, algo que é enfatizado em Eclesiastes 10.
+* Provérbios 12:16: "O insensato mostra logo toda a sua irritação, mas o homem prudente a ignora." Este versículo ressalta a importância de se manter calmo e controlado, mesmo em situações estressantes ou irritantes, algo que é enfatizado em Eclesiastes 10.
+* Provérbios 13:16: "Todo homem prudente age com conhecimento, mas o tolo espraia a sua loucura." Este versículo destaca a importância da prudência e da sabedoria na vida, algo que é enfatizado em Eclesiastes 10.
+* Provérbios 15:1: "A resposta branda desvia o furor, mas a palavra dura suscita a ira." Este versículo ressalta a importância de se manter calmo e controlado, mesmo em situações difíceis, algo que é enfatizado em Eclesiastes 10.
+* Provérbios 16:32: "Melhor é o longânimo do que o valente, e o que governa o seu espírito do que o que toma uma cidade." Este versículo destaca a importância de se manter calmo e controlado, e de governar o próprio espírito, algo que é enfatizado em Eclesiastes 10.
+****
+
+[[v25-10-1]]
+
+^<<v25-10-1,1>>^ A mosca que morre no unguento do perfumista infecta-o e corrompe-o. Um pouco de insensatez estraga a sabedoria e a glória (mais brilhante).
+
+[[v25-10-2]]
+
+^<<v25-10-2,2>>^ O coração do sábio está na sua mão direita, e o coração do insensato na sua esquerda. (ver nota)
+
+[[v25-10-3]]
+
+^<<v25-10-3,3>>^ O Insensato, mal se põe a caminho (mostra que) lhe falta o senso, e todos dizem: É um louco.
+
+[[v25-10-4]]
+
+^<<v25-10-4,4>>^ Se a cólera do príncipe se elevar contra ti, não abandones o teu posto, porque a calma evita grandes males.
+
+[[v25-10-5]]
+
+^<<v25-10-5,5>>^ Há um mal, que eu vi debaixo do sol, como derivado dum engano do príncipe:
+
+[[v25-10-6]]
+
+^<<v25-10-6,6>>^ o insensato elevado a uma sublime dignidade, e os ricos (em prudência) postos em baixo.
+
+[[v25-10-7]]
+
+^<<v25-10-7,7>>^ Eu vi escravos a cavalo, e príncipes andando a pé sobre a terra, como escravos.
+
+[[v25-10-8]]
+
+^<<v25-10-8,8>>^ Aquele que abriu uma cova (para outro lá cair) cairá nela; e o que desfaz (por maldade) uma parede, mordê-lo-á a cobra.
+
+[[v25-10-9]]
+
+^<<v25-10-9,9>>^ Aquele que transporta pedras será maltratado por elas, e o que racha lenha será ferido pelas lascas.
+
+[[v25-10-10]]
+
+^<<v25-10-10,10>>^ Se o ferro estiver embotado, e não for a amolar, é preciso redobrar de esforços, mas a sabedoria é preferível para o bom êxito,
+
+[[v25-10-11]]
+
+^<<v25-10-11,11>>^ Se a serpente morder, por falta de encantamento nenhum proveito há para o encantador (em saber encantar).
+
+[[v25-10-12]]
+
+^<<v25-10-12,12>>^ As palavras que saem da boca do sábio são cheias de graça; os lábios, porém, do insensato perdê-lo-ão.
+
+[[v25-10-13]]
+
+^<<v25-10-13,13>>^ As suas primeiras palavras são uma estultícia e as últimas que lhe saem da boca, são loucura maligna.
+
+[[v25-10-14]]
+
+^<<v25-10-14,14>>^ O insensato multiplica as palavras. O homem ignora o que houve antes dele; e quem lhe poderá indicar o que será depois?
+
+[[v25-10-15]]
+
+^<<v25-10-15,15>>^ O trabalho dos insensatos aflige-os; nem sequer sabem (o caminho para ir) à cidade. (ver nota)
+
+[[v25-10-16]]
+
+^<<v25-10-16,16>>^ Desgraçada de ti, terra, cujo rei é um menino (que não sabe governar), e cujos príncipes comem desde manhã (em orgias).
+
+[[v25-10-17]]
+
+^<<v25-10-17,17>>^ Ditosa a terra, cujo rei é de uma família ilustre, e cujos príncipes comem a seu tempo para se nutrirem, e não por prazer.
+
+[[v25-10-18]]
+
+^<<v25-10-18,18>>^ Pela preguiça (em fazer reparações) se irá abatendo o madeiramento do tecto, e pela incúria das mãos virá a chover em toda a casa.
+
+[[v25-10-19]]
+
+^<<v25-10-19,19>>^ Fazem-se festins para haver satisfação; o vinho alegra a vida e o dinheiro serve para tudo.
+
+[[v25-10-20]]
+
+^<<v25-10-20,20>>^ Não digas mal do rei, nem mesmo no teu pensamento, e não fales mal do rico, nem mesmo no retiro do teu quarto, porque as aves do céu levarão a tua voz, e os pássaros publicarão as tuas palavras.
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-009.adoc#v25-9-0[&#60; Capítulo Anterior] | <<v25-10-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-011.adoc#v25-11-0[Próximo Capítulo &#62;]

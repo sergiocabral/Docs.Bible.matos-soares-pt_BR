@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v21-91-0]]
+=== Salmos, 91
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 91 é conhecido como um salmo de proteção e segurança, onde o salmista declara sua confiança em Deus como refúgio e fortaleza. Ele menciona a proteção divina contra doenças, desastres naturais, perigos noturnos e ataques de inimigos. Abaixo estão cinco versículos relacionados com os temas abordados neste salmo:
+* Salmos 121:7-8: "O Senhor te guardará de todo mal; ele guardará a tua vida. O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre." Este versículo ressalta a proteção divina constante em todos os momentos da vida.
+* Provérbios 18:10: "O nome do Senhor é torre forte; o justo foge para ela e está seguro." Este versículo destaca o nome de Deus como uma fonte de segurança e proteção.
+* Mateus 4:6-7: "Se és o Filho de Deus, lança-te daqui abaixo; porque está escrito: Aos seus anjos dará ordens a teu respeito; e eles te susterão nas mãos, para que nunca tropeces em alguma pedra. Respondeu-lhe Jesus: Também está escrito: Não tentarás o Senhor teu Deus." Este trecho bíblico mostra a tentação de Satanás a Jesus para testar sua confiança em Deus e sua resistência à tentação.
+* 2 Timóteo 4:18: "E o Senhor me livrará de toda obra maligna e me levará salvo para o seu reino celestial. A ele seja glória para todo o sempre. Amém!" Este versículo enfatiza a proteção divina contra as obras malignas e a promessa da vida eterna no reino celestial.
+* Hebreus 13:5-6: "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele mesmo disse: Não te deixarei, nem te desampararei. Assim, afirmemos confiantemente: O Senhor é o meu auxílio, não temerei; que me poderá fazer o homem?" Este versículo destaca a confiança em Deus como fonte de segurança e a necessidade de evitar a ganância e o amor ao dinheiro.
+****
+
+[[v21-91-1]]
+
+^<<v21-91-1,1>>^ Salmo. Cântico. Para o dia de sábado.
+
+[[v21-91-2]]
+
+^<<v21-91-2,2>>^ Bom é louvar o Senhor, cantar salmos ao teu nome, ó Altíssimo:
+
+[[v21-91-3]]
+
+^<<v21-91-3,3>>^ anunciar pela manhã a tua misericórdia, e a tua fidelidade durante a noite.
+
+[[v21-91-4]]
+
+^<<v21-91-4,4>>^ com o saltério de dez cordas e a lira, com cântico ao som da cítara.
+
+[[v21-91-5]]
+
+^<<v21-91-5,5>>^ Em realidade me alegras, Senhor, com as tuas obras, eu exulto com as obras das tuas mãos.
+
+[[v21-91-6]]
+
+^<<v21-91-6,6>>^ Quão magníficas são, Senhor, as tuas obras! Quão profundos são os teus pensamentos!
+
+[[v21-91-7]]
+
+^<<v21-91-7,7>>^ O homem insensato não conhece, e o néscio não compreende estas coisas.
+
+[[v21-91-8]]
+
+^<<v21-91-8,8>>^ Embora os ímpios floresçam como a erva, e brilhem todos os que fazem o mal, estão destinados a eterno extermínio;
+
+[[v21-91-9]]
+
+^<<v21-91-9,9>>^ ao contrário, tu, Senhor, és eternamente excelso.
+
+[[v21-91-10]]
+
+^<<v21-91-10,10>>^ Pois eis que os teus inimigos, Senhor, eis que os teus inimigos perecerão: serão dispersados todos os que praticam o mal.
+
+[[v21-91-11]]
+
+^<<v21-91-11,11>>^ Exaltaste a minha força como a de um búfalo; ungiste-me com azeite puríssimo.
+
+[[v21-91-12]]
+
+^<<v21-91-12,12>>^ E os meus olhos olharam com desprezo para os meus inimigos, e os meus ouvidos ouviram alegres novas, acerca dos malignos que se levantam contra mim.
+
+[[v21-91-13]]
+
+^<<v21-91-13,13>>^ O justo florescerá como a palma, como o cedro do Líbano crescerá.
+
+[[v21-91-14]]
+
+^<<v21-91-14,14>>^ Plantados (os justos) na casa do Senhor, florescerão nos átrios do nosso Deus. (ver nota)
+
+[[v21-91-15]]
+
+^<<v21-91-15,15>>^ Darão frutos mesmo na velhice, estarão cheios de selva e de vigor,
+
+[[v21-91-16]]
+
+^<<v21-91-16,16>>^ para anunciar quão recto é o Senhor, minha Rocha, e que não há nele iniquidade.
+
+'''
+
+xref:021-salmos/021-salmos-090.adoc#v21-90-0[&#60; Capítulo Anterior] | <<v21-91-0,Topo>> | xref:021-salmos/021-salmos-092.adoc#v21-92-0[Próximo Capítulo &#62;]

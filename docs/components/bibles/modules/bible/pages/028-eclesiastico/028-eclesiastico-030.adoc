@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v28-30-0]]
+=== Eclesiástico, 30
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 30 trata da importância de cuidar dos pais na velhice e dos benefícios da felicidade doméstica. O capítulo também fala sobre o valor do trabalho árduo e da moderação em todas as coisas. Aqui estão cinco versículos relacionados com os temas abordados em Eclesiástico 30:
+* Provérbios 23:22: "Ouve teu pai, que te gerou; e não desprezes tua mãe, quando ela envelhecer." Este verso enfatiza a importância de cuidar dos pais na velhice e demonstrar respeito e gratidão por tudo que eles fizeram por nós.
+* 1 Timóteo 5:8: "Mas, se alguém não tem cuidado dos seus e principalmente dos da sua família, negou a fé e é pior do que o incrédulo." Este verso reforça a importância de cuidar dos membros da família, especialmente dos pais idosos.
+* Provérbios 31:28-29: "Levantam-se seus filhos e chamam-na bem-aventurada; seu marido também, e ele a louva, dizendo: Muitas mulheres fizeram o bem, mas tu és a melhor de todas." Este verso celebra a felicidade doméstica e destaca a importância da esposa e mãe em uma família.
+* Provérbios 12:11: "O que lavra a sua terra se fartará de pão; mas o que segue os ociosos se encherá de pobreza." Este verso destaca o valor do trabalho árduo e a importância de ser produtivo.
+* Filipenses 4:5: "Seja a vossa equidade conhecida de todos os homens. Perto está o Senhor." Este verso fala sobre a importância da moderação e equilíbrio em todas as coisas, como um meio de honrar a Deus e viver uma vida justa.
+****
+
+[[v28-30-1]]
+
+^<<v28-30-1,1>>^ Aquele que ama o seu filho, castiga-o com frequência, para que se alegre com isso mais tarde, e não ande a bater às portas dos outros.
+
+[[v28-30-2]]
+
+^<<v28-30-2,2>>^ Aquele que instruí o seu filho será louvado nele, e nele mesmo se gloriará entre os seus conhecidos.
+
+[[v28-30-3]]
+
+^<<v28-30-3,3>>^ Aquele que instruí o seu filho causa inveja ao seu inimigo, e entre os seus amigos se gloriará dele.
+
+[[v28-30-4]]
+
+^<<v28-30-4,4>>^ Morreu o seu pai, e foi como se não morresse, porque deixou depois de si um seu semelhante.
+
+[[v28-30-5]]
+
+^<<v28-30-5,5>>^ Em sua vida viu (o seu filho) e nele se alegrou; em sua morte não se entristeceu, nem se envergonhou diante dos seus adversários,
+
+[[v28-30-6]]
+
+^<<v28-30-6,6>>^ porque deixou um defensor da sua casa contra os inimigos, e alguém que será agradecido aos amigos.
+
+[[v28-30-7]]
+
+^<<v28-30-7,7>>^ Aquele que amimalha os seus filhos, terá que lhes pensar as feridas, e a qualquer palavra se turbarão as suas entranhas.
+
+[[v28-30-8]]
+
+^<<v28-30-8,8>>^ Um cavalo indomado torna-se intratável, e um filho deixado à sua vontade torna-se insolente.
+
+[[v28-30-9]]
+
+^<<v28-30-9,9>>^ Lisonjeia teu filho, e ele te causará terror; brinca com ele, e ele te entristecerá.
+
+[[v28-30-10]]
+
+^<<v28-30-10,10>>^ Não te ponhas a rir com ele, para que não venhas a sofrer por isso, para que, no fim, não tenhas de ranger os dentes. (ver nota)
+
+[[v28-30-11]]
+
+^<<v28-30-11,11>>^ Não lhe dês largas na sua mocidade, e não feches os olhos ao que ele se lembrar de fazer.
+
+[[v28-30-12]]
+
+^<<v28-30-12,12>>^ Encurva-lhe a cerviz na mocidade, fustiga-o nos flancos enquanto é menino, para que não suceda endurecer-se e não te obedeça, e venha a ser a dor da tua alma.
+
+[[v28-30-13]]
+
+^<<v28-30-13,13>>^ Instrui o teu filho, e trabalha por formá-lo, para que te não desonre com a sua vida vergonhosa.
+
+[[v28-30-14]]
+
+^<<v28-30-14,14>>^ Um pobre são e cheio de força vale mais do que um rico fraco e atormentado de doenças.
+
+[[v28-30-15]]
+
+^<<v28-30-15,15>>^ A saúde da alma, na santidade da justiça, vale mais do que todo o ouro e prata; um corpo robusto vale mais do que imensos bens.
+
+[[v28-30-16]]
+
+^<<v28-30-16,16>>^ Não há riqueza maior do que a saúde do corpo, nem contentamento igual à alegria do coração. (ver nota)
+
+[[v28-30-17]]
+
+^<<v28-30-17,17>>^ Melhor é a morte que uma vida amargurada, e o descanso eterno que um achaque perseverante.
+
+[[v28-30-18]]
+
+^<<v28-30-18,18>>^ Os bens escondidos numa boca cerrada são como manjares esquisitos postos num sepulcro.
+
+[[v28-30-19]]
+
+^<<v28-30-19,19>>^ De que servirá ao ídolo a oblação? Ele não a comerá, nem lhe tomará o cheiro.
+
+[[v28-30-20]]
+
+^<<v28-30-20,20>>^ Assim acontece ao que é repelido pelo Senhor e que leva o pago da sua iniquidade,
+
+[[v28-30-21]]
+
+^<<v28-30-21,21>>^ o qual vê (o alimento) com os seus olhos e geme, como um eunuco que abraça uma donzela e suspira.
+
+[[v28-30-22]]
+
+^<<v28-30-22,22>>^ Não abandones a tua alma à tristeza, e não te aflijas a ti mesmo nos teus pensamentos.
+
+[[v28-30-23]]
+
+^<<v28-30-23,23>>^ O júbilo do coração é a vida do homem e um tesouro inexaurível de santidade; a alegria do homem prolonga a sua vida.
+
+[[v28-30-24]]
+
+^<<v28-30-24,24>>^ Tem piedade da tua alma, procurando agradar a Deus, e aguenta-te; recolhe o teu coração na santidade do mesmo Deus e afugenta para longe de ti a tristeza.
+
+[[v28-30-25]]
+
+^<<v28-30-25,25>>^ Com efeito, a tristeza tem matado a muitos, e não há utilidade nela. (ver nota)
+
+[[v28-30-26]]
+
+^<<v28-30-26,26>>^ A inveja e a ira abreviam os dias, e os afans fazem chegar a velhice antes do tempo. Um coração generoso e bom está num contínuo festim, porque lhe preparam com diligência o seu alimento.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-029.adoc#v28-29-0[&#60; Capítulo Anterior] | <<v28-30-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-031.adoc#v28-31-0[Próximo Capítulo &#62;]

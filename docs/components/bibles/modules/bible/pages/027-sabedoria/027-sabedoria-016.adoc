@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v27-16-0]]
+=== Sabedoria, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 16 de Sabedoria fala sobre a ação de Deus na história de seu povo, mostrando como Ele age com justiça e misericórdia. Também destaca como os pecadores são punidos por seus atos e como aqueles que confiam em Deus são recompensados. Seguem abaixo cinco versículos relacionados com os temas abordados em Sabedoria 16:
+* Deuteronômio 7:9: "Saiba, portanto, que o Senhor, o seu Deus, é Deus; ele é o Deus fiel, que mantém a aliança e a bondade por mil gerações daqueles que o amam e obedecem aos seus mandamentos." Este versículo destaca a fidelidade de Deus para com seu povo e a importância da obediência aos seus mandamentos.
+* Salmos 145:17: "O Senhor é justo em todos os seus caminhos e bondoso em todas as suas obras." Este salmo exalta a justiça e a bondade de Deus, características que são evidenciadas no capítulo 16 de Sabedoria.
+* Eclesiástico 16:12-13: "Ele criou o homem desde o princípio, e o deixou nas mãos de seu conselho; se você quiser, guardarás os mandamentos e, para fazer sua vontade, ele te manterá fiel." Este versículo mostra como Deus criou o homem com a capacidade de escolher seus caminhos, mas também oferece a possibilidade de manter-se fiel a Ele.
+* Jeremias 17:10: "Eu, o Senhor, esquadrinho o coração e provo os pensamentos, para dar a cada um segundo os seus caminhos, segundo o fruto das suas obras." Este versículo enfatiza a justiça de Deus na recompensa ou punição de cada pessoa, de acordo com seus atos.
+* Mateus 25:46: "E estes irão para o castigo eterno, mas os justos, para a vida eterna." Este versículo fala sobre a separação entre os justos e os ímpios na vida após a morte, mostrando a importância de seguir os caminhos de Deus.
+****
+
+[[v27-16-1]]
+
+^<<v27-16-1,1>>^ Por isso foram justamente castigados por seres (vis) semelhantes (aos que adoravam) foram atormentados por uma multidão de animais.
+
+[[v27-16-2]]
+
+^<<v27-16-2,2>>^ Em lugar de tais penas, fizeste favores ao teu povo, satisfazendo o ardor do seu apetite, com um alimento maravilhoso, e dando-lhe por alimento codornizes.
+
+[[v27-16-3]]
+
+^<<v27-16-3,3>>^ Desta sorte, estando, muito embora, aqueles com vontade de comer, por causa do aspecto repugnante dos insectos enviados contra eles, viram transformar-se em aversão o apetite do necessário, enquanto que estes, postos em necessidade por pouco tempo, saborearam depois um maravilhoso manjar. (ver nota)
+
+[[v27-16-4]]
+
+^<<v27-16-4,4>>^ Importava que sobreviesse uma ruína inevitável aos opressores, e que aos outros somente se mostrasse de que modo eram atormentados os seus inimigos. (ver nota)
+
+[[v27-16-5]]
+
+^<<v27-16-5,5>>^ Com efeito, quando velo sobre eles o furor dos animais cruéis, e eram mortos pelas mordeduras de serpentes tortuosas,
+
+[[v27-16-6]]
+
+^<<v27-16-6,6>>^ a tua ira não durou até ao fim; eles só por pouco tempo foram perturbados para isso lhes servir de advertência; tiveram um sinal de salvação para os fazer lembrar dos mandamentos da tua lei.
+
+[[v27-16-7]]
+
+^<<v27-16-7,7>>^ Aquele que se voltava para o referido sinal, não era curado pelo que via, mas sim por ti, que és o Salvador de todos os homens.
+
+[[v27-16-8]]
+
+^<<v27-16-8,8>>^ Com isto mostraste aos nossos inimigos, que és tu o que livras de todo o mal.
+
+[[v27-16-9]]
+
+^<<v27-16-9,9>>^ Efectivamente aqueles foram mortos pelas mordeduras dos gafanhotos e das moscas, e não se encontrou remédio para lhes salvar a vida porque eram dignos de ser assim exterminados.
+
+[[v27-16-10]]
+
+^<<v27-16-10,10>>^ Porém, quanto aos teus filhos, nem os dentes dos dragões venenosos os puderam vencer, porque, sobrevindo a tua misericórdia, os curou.
+
+[[v27-16-11]]
+
+^<<v27-16-11,11>>^ Pois (somente) eram feridos a fim de que se lembrassem dos teus preceitos, e logo ficavam salvos, para que não sucedesse que completamente os esquecessem e ficassem excluídos dos teus benefícios.
+
+[[v27-16-12]]
+
+^<<v27-16-12,12>>^ Não foi erva que os sarou, nem remédio algum, mas sim a tua palavra, Senhor, que sara todas as coisas.
+
+[[v27-16-13]]
+
+^<<v27-16-13,13>>^ Tu, Senhor, és o que tens o poder da vida e da morte, e o que nos levas às portas da morte, e o que de lá nos tiras.
+
+[[v27-16-14]]
+
+^<<v27-16-14,14>>^ Um homem pode bem matar outro por malícia; porém, tendo saído o espírito, não o poderá fazer voltar, nem fará tornar a alma que já foi recebida (na habitação dos mortos).
+
+[[v27-16-15]]
+
+^<<v27-16-15,15>>^ À tua mão é impossível escapar.
+
+[[v27-16-16]]
+
+^<<v27-16-16,16>>^ Por isso os ímpios que negavam conhecer-te, pela fortaleza do teu braço foram açoitados, sendo atormentados por chuvas extraordinárias, saraivas, implacáveis tempestades, e consumidos pelo fogo.
+
+[[v27-16-17]]
+
+^<<v27-16-17,17>>^ E o que nisto havia de mais admirável era que, na água que tudo extingue, o fogo se ateava ainda mais, porque o universo combate pelos justos,
+
+[[v27-16-18]]
+
+^<<v27-16-18,18>>^ Umas vezes amansava-se o fogo, para não queimar os animais, que tinham sido enviados contra os ímpios, e isto para que, vendo eles uma tal maravilha, reconhecessem que um juízo de Deus os perseguia.
+
+[[v27-16-19]]
+
+^<<v27-16-19,19>>^ Outras vezes o fogo, contra a sua virtude natural, ardia na água, para consumir as produções duma terra iníqua.
+
+[[v27-16-20]]
+
+^<<v27-16-20,20>>^ Em contraposição de tudo isto alimentaste o teu povo com alimento dos anjos, deste-lhe, sem trabalho, pão vindo do céu completamente preparado, que tinha em si toda a delícia e se acomodava a todos os gostos.
+
+[[v27-16-21]]
+
+^<<v27-16-21,21>>^ Este alimento mostrava a doçura que tens para com teus filhos, pois, acomodando-se às vontade de cada um, transformava-se no que cada um queria.
+
+[[v27-16-22]]
+
+^<<v27-16-22,22>>^ A neve e o gelo aturavam a violência do fogo sem se fundirem, para que soubessem que destruía os frutos dos inimigos um fogo que ardia no meio da saraiva, que cintilava por entre a chuva.
+
+[[v27-16-23]]
+
+^<<v27-16-23,23>>^ fogo que, a seguir, esquecia a sua própria força, quando se tratava dos sustento dos justos.
+
+[[v27-16-24]]
+
+^<<v27-16-24,24>>^ A criatura, servindo-te a ti seu Criador, desenvolve a sua energia para atormentar os injustos, e abranda-a para fazer bem aqueles que em ti confiam.
+
+[[v27-16-25]]
+
+^<<v27-16-25,25>>^ Por isto ela, transformando-se em toda a sorte de gostos obedecia à tua generosidade que tudo sustenta, acomodando-se ao desejo dos necessitados,
+
+[[v27-16-26]]
+
+^<<v27-16-26,26>>^ a fim de que soubessem os teus filhos, a quem amaste, Senhor, que não são os frutos naturais que sustentam os homens, mas que é a tua palavra que conserva aqueles que crêem em ti.
+
+[[v27-16-27]]
+
+^<<v27-16-27,27>>^ O que pelo fogo não podia ser devorado, ao ser aquecido por um escasso raio do sol, imediatamente se desfazia.
+
+[[v27-16-28]]
+
+^<<v27-16-28,28>>^ para ensinar a todos que é preciso antecipar-se ao nascer do sol para te dar graça, e adorar-te desde o raiar da manhã.
+
+[[v27-16-29]]
+
+^<<v27-16-29,29>>^ A esperança do ingrato fundirá como o gelo do inverno, e se perderá como água inútil.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-015.adoc#v27-15-0[&#60; Capítulo Anterior] | <<v27-16-0,Topo>> | xref:027-sabedoria/027-sabedoria-017.adoc#v27-17-0[Próximo Capítulo &#62;]

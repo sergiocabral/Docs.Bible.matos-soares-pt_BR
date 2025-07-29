@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v9-9-0]]
+=== I Samuel, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 9 de 1 Samuel narra a história de como Saul, filho de Quis, foi escolhido por Deus para ser o primeiro rei de Israel. Saul é descrito como um jovem atraente, mas inseguro, que sai em busca das jumentas perdidas de seu pai. Durante a busca, ele encontra o profeta Samuel, que lhe diz que ele será ungido como o líder de Israel. Aqui estão cinco versículos relacionados com os temas abordados em 1 Samuel 9:
+* Gênesis 49:10: "O cetro não se apartará de Judá, nem o bastão de comando de seus descendentes, até que venha aquele a quem ele pertence e a quem os povos obedecerão". Este versículo é uma profecia sobre a linhagem de Judá, que é a tribo da qual Saul e seu pai Quis descendem. O cetro é um símbolo de poder real, e esta profecia é vista como uma promessa da chegada do Messias.
+* Deuteronômio 17:14-15: "Quando entrardes na terra que o Senhor vosso Deus vos dá, e a possuirdes, e nela habitardes, e então disserdes: 'Porei sobre mim um rei, como têm todas as nações em redor de mim', sem dúvida porás sobre ti um rei que o Senhor teu Deus escolher". Este versículo estabelece a lei que governará a escolha de um rei para Israel, que será feita pelo próprio Deus. Samuel escolhe Saul como rei de acordo com esta lei.
+* 1 Samuel 8:6-7: "Porém, não agradou esta palavra a Samuel, quando disseram: 'Dá-nos um rei que nos julgue'. Então Samuel orou ao Senhor. E disse o Senhor a Samuel: 'Ouve a voz do povo em tudo quanto te dizem, pois não te rejeitaram a ti, mas a mim, para que eu não reine sobre eles". Este versículo narra a relutância de Samuel em nomear um rei para Israel, e como Deus responde a essa relutância, permitindo que o povo escolha um rei mesmo que isso não fosse a vontade de Deus.
+* 1 Samuel 10:1: "Então Samuel tomou um frasco de azeite, e o derramou sobre a cabeça de Saul, e o beijou, e disse: 'Não te ungiu o Senhor por príncipe sobre a sua herança?'" Este versículo descreve a cerimônia de unção de Saul como rei de Israel. A unção com óleo era um ritual sagrado que simbolizava a escolha de Deus.
+* 1 Samuel 15:23: "Porque a rebelião é como o pecado de adivinhação, e a insubmissão é como a idolatria e culto aos ídolos do lar. Visto que rejeitaste a palavra do Senhor, ele também te rejeitou como rei." Neste versículo, o profeta Samuel confronta Saul por não ter obedecido a ordem de Deus de destruir totalmente os amalequitas e todo o seu gado, e por ter poupado o rei Agague. Samuel compara a desobediência de Saul à idolatria e à adivinhação, e anuncia a sua rejeição como rei de Israel. O versículo destaca a importância da obediência a Deus e a sua palavra, e as consequências da desobediência.
+****
+
+[[v9-9-1]]
+
+^<<v9-9-1,1>>^ Ora havia um homem (da tribo) de Benjamim, chamado Cis, filho de Abiel, filho de Seror, filho de Becorat, filho de Afia, filho dum homem de Jemini, forte e valoroso.
+
+[[v9-9-2]]
+
+^<<v9-9-2,2>>^ Ele tinha um filho chamado Saul, jovem e belo. Não havia entre os filhos de Israel outro mais belo que ele. Desde o ombro para cima sobressaia a todo o povo.
+
+[[v9-9-3]]
+
+^<<v9-9-3,3>>^ Tinham-se perdido as jumentas de Cis, pai de Saul, e Cis disse a Saul, seu filho: Toma contigo um dos criados, levanta-te e vai procurar as jumentas. Tendo eles atravessado o monte de Efraim
+
+[[v9-9-4]]
+
+^<<v9-9-4,4>>^ e o território de Salisa, sem as encontrarem, passaram também pela terra de Salim , mas não estavam lá; também (passaram) pela terra de Jemini e não as encontraram.
+
+[[v9-9-5]]
+
+^<<v9-9-5,5>>^ Chegados à terra de Sufi, Saul disse para o criado que ia com ele: Vem e voltemos, não suceda que meu pai, não pensando já nas jumentas, esteja com cuidado por nós.
+
+[[v9-9-6]]
+
+^<<v9-9-6,6>>^ O criado disse-lhe: Nesta cidade há um homem de Deus, varão famoso: tudo o que ele diz, sucede infalivelmente; vamos pois lá, a ver se ele nos dá alguma indicação sobre o fim que aqui nos trouxe.
+
+[[v9-9-7]]
+
+^<<v9-9-7,7>>^ Saul disse ao seu criado: Vamos lá; mas que levaremos nós ao homem de Deus? Acabou-se já o pão (que trazíamos) nos nossos alforjes, e não temos nenhum presente nem outra coisa para dar ao homem de Deus.
+
+[[v9-9-8]]
+
+^<<v9-9-8,8>>^ O criado, respondendo de novo a Saul, disse: Olha, tenho aqui um quarto de um siclo de prata; dêmo-lo ao homem de Deus, para que nos encaminhe em nossa jornada.
+
+[[v9-9-9]]
+
+^<<v9-9-9,9>>^ (Antigamente em Israel todo o que ia consultar a Deus falava assim: Vinde, e vamos ao Vidente. Aquele que hoje se chama Profeta, chamava-se então Vidente)
+
+[[v9-9-10]]
+
+^<<v9-9-10,10>>^ Saul disse ao seu criado: Dizes muito bem. Anda, vamos. E foram à cidade, onde residia o homem de Deus.
+
+[[v9-9-11]]
+
+^<<v9-9-11,11>>^ Quando subiam pela encosta da cidade, encontraram umas donzelas, que saíam a buscar água, e perguntaram-lhes: Está cá o Vidente?
+
+[[v9-9-12]]
+
+^<<v9-9-12,12>>^ Elas, respondendo, disseram-lhes: Está cá; ei-lo diante de ti, vai depressa porque ele veio hoje à cidade, porquanto hoje é um sacrifício do povo no lugar alto.
+
+[[v9-9-13]]
+
+^<<v9-9-13,13>>^ Ao entrar na cidade, encontrá-lo-eis antes que suba ao lugar alto para comer. O povo não comerá sem que ele chegue, porque ele (é o que) abençoa o sacrifício, e, só então, comem os que foram convidados. Subi pois agora, porque hoje o encontrareis. (ver nota)
+
+[[v9-9-14]]
+
+^<<v9-9-14,14>>^ Eles subiram à cidade, e, quando passavam pelo meio da cidade, apareceu Samuel, que se encontrou com eles, para subir ao lugar alto.
+
+[[v9-9-15]]
+
+^<<v9-9-15,15>>^ Ora o Senhor tinha revelado a Samuel a vinda de Saul, um dia antes que ele chegasse, dizendo:
+
+[[v9-9-16]]
+
+^<<v9-9-16,16>>^ Amanhã, a esta mesma hora, te enviarei eu um homem da terra de Benjamim, e tu o ungirás para chefe do meu povo de Israel; ele salvará o meu povo da mão dos Filisteus, porque eu olhei para o meu povo, pois o seu clamor chegou a mim .
+
+[[v9-9-17]]
+
+^<<v9-9-17,17>>^ Quando Samuel viu Saul, o Senhor disse-lhe: Eis o homem de quem te falei, este reinará sobre o meu povo.
+
+[[v9-9-18]]
+
+^<<v9-9-18,18>>^ Saul aproximou-se de Samuel, no meio da porta, e disse: peço-te que me digas onde é a casa do Vidente.
+
+[[v9-9-19]]
+
+^<<v9-9-19,19>>^ Samuel respondeu a Saul, dizendo: Sou eu o Vidente; sobe diante de mim ao lugar alto, e comereis hoje comigo. Amanhã te deixarei partir, e descobrir-te-ei tudo o que tens no teu coração.
+
+[[v9-9-20]]
+
+^<<v9-9-20,20>>^ Sobre as jumentas, que perdeste há três dias, não te dê isso cuidado, porque já foram encontradas. E de quem será tudo o que há de melhor em Israel? Não irá, porventura, ser teu e de toda a casa de teu pai? (ver nota)
+
+[[v9-9-21]]
+
+^<<v9-9-21,21>>^ Saul respondendo, disse: Não sou eu filho de Jemini, da mais pequena tribo de Israel, e não é a minha família a menor de todas as famílias da tribo de Benjamim? Por que me falas, pois, tu assim?
+
+[[v9-9-22]]
+
+^<<v9-9-22,22>>^ Samuel, tomando Saul e o seu criado, levou-os para a sala de jantar e deu-lhes o primeiro lugar entre todos os convidados. Estes eram cerca de trinta pessoas.
+
+[[v9-9-23]]
+
+^<<v9-9-23,23>>^ Samuel disse ao cozinheiro: Traze aquela porção, que eu te dei e que mandei que guardasses à parte.
+
+[[v9-9-24]]
+
+^<<v9-9-24,24>>^ Tomou, pois, o cozinheiro uma espádua, e a pôs diante de Saul. Samuel disse: Esta é a porção reservada para ti; põe-na diante de ti e come, porque foi reservada de propósito para ti, quando convidei o povo. E Saul comeu com Samuel naquele dia.
+
+[[v9-9-25]]
+
+^<<v9-9-25,25>>^ Desceram do lugar alto para a cidade, e (Samuel) falou com Saul sobre o terraço; a seguir, foram-se deitar.
+
+[[v9-9-26]]
+
+^<<v9-9-26,26>>^ Levantando-se pela manhã, ao raiar da aurora, Samuel chamou Saul sobre o terraço e disse-lhe: Levanta-te para eu te despedir. Saul levantou-se, e saíram ambos, isto é, ele e Samuel.
+
+[[v9-9-27]]
+
+^<<v9-9-27,27>>^ Quando desciam para a parte extrema da cidade, Samuel disse a Saul: Dize ao criado que passe e vá adiante de nós; tu para um pouco, para eu te comunicar a palavra do Senhor.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-008.adoc#v9-8-0[&#60; Capítulo Anterior] | <<v9-9-0,Topo>> | xref:009-i-samuel/009-i-samuel-010.adoc#v9-10-0[Próximo Capítulo &#62;]

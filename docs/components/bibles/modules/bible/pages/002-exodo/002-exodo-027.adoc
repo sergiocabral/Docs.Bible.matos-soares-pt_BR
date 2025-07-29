@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v2-27-0]]
+=== Êxodo, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 27 de Êxodo descreve as especificações do altar do holocausto e do átrio do tabernáculo. O altar deveria ser feito de madeira de acácia e revestido de bronze, com quatro chifres nos cantos. O átrio deveria ser cercado por cortinas de linho branco e sustentado por colunas de bronze. A seguir estão cinco versículos relacionados com temas abordados em Êxodo 27:
+* Levítico 1:5: "E degolará o novilho perante o Senhor, e os sacerdotes, filhos de Arão, oferecerão o sangue e espargirão o sangue em redor sobre o altar, que está diante da porta da tenda da congregação." Este versículo se relaciona com Êxodo 27, pois fala do uso do altar do holocausto para sacrifícios, que seria construído de acordo com as especificações detalhadas nesse capítulo.
+* Números 3:37: "E as colunas do pátio ao redor, com as suas bases, e as suas estacas, e as suas cordas." Esse versículo se relaciona com Êxodo 27, pois descreve as colunas de bronze que sustentariam as cortinas do átrio, as bases em que elas seriam fixadas e as estacas e cordas que as manteriam no lugar.
+* Isaías 60:18: "Nunca mais se ouvirá de violência na tua terra, desolação nem destruição nos teus termos; mas aos teus muros chamarás Salvação, e às tuas portas Louvor." Esse versículo se relaciona com Êxodo 27, pois fala da importância de proteger e cercar a área do tabernáculo, como é descrito no capítulo 27.
+* Ezequiel 43:15: "E o altar terá quatro côvados, e de quatro em quatro côvados será o seu chifre; e será todo o altar de quatro côvados." Esse versículo se relaciona com Êxodo 27, pois descreve as especificações do altar do holocausto, que deve ter quatro chifres, como é descrito no capítulo 27.
+* Hebreus 13:10: "Temos um altar, de que não têm direito de comer os que servem ao tabernáculo." Esse versículo se relaciona com Êxodo 27, pois fala da importância do altar do Novo Testamento, que é superior ao altar do Antigo Testamento, mas que tem suas raízes nas especificações do altar do holocausto descritas no capítulo 27.
+****
+
+[[v2-27-1]]
+
+^<<v2-27-1,1>>^ Farás também um altar de pau de acácia, o qual terá cinco côvados de comprimento e outros tantos de largura, isto é, será quadrado, e terá três côvados de altura.
+
+[[v2-27-2]]
+
+^<<v2-27-2,2>>^ Dos quatro cantos sairão dele quatro pontas: revesti-lo-ás de bronze.
+
+[[v2-27-3]]
+
+^<<v2-27-3,3>>^ Farás para o seu serviço caldeirais para recolher as cinzas, tenazes, garfos e braseiros: farás de bronze todos estes instrumentos.
+
+[[v2-27-4]]
+
+^<<v2-27-4,4>>^ (Farás) uma grelha de bronze em forma de rede, em cujos quatro cantos haverá quatro argolas de bronze,
+
+[[v2-27-5]]
+
+^<<v2-27-5,5>>^ que colocarás sob o rebordo do altar; a grelha subirá até meio do altar.
+
+[[v2-27-6]]
+
+^<<v2-27-6,6>>^ Farás também para o altar dois varais de pau de acácia, que revesarás de chapas de bronze,
+
+[[v2-27-7]]
+
+^<<v2-27-7,7>>^ enfiá-los-ás pelas argolas, e ficarão de um e outro lado do altar, a fim de servirem para o transportar.
+
+[[v2-27-8]]
+
+^<<v2-27-8,8>>^ Não o farás maciço, mas oco e côncavo por dentro, como te foi mostrado no monte.
+
+[[v2-27-9]]
+
+^<<v2-27-9,9>>^ Farás também o átrio do tabernáculo, de cujo lado austral, que olha para o medo dia, haverá cortinas de linho fino retorcido: este lado terá cem côvados de comprimento.
+
+[[v2-27-10]]
+
+^<<v2-27-10,10>>^ (Farás) vinte colunas com outras tantas bases de bronze, que terão os capitéis com os seus ornatos de prata.
+
+[[v2-27-11]]
+
+^<<v2-27-11,11>>^ Da mesma sorte também no lado do aquilão haverá cortinas numa extensão de cem côvados, vinte colunas e outras tantas bases de bronze, e seus capitéis de prata com seus ornatos.
+
+[[v2-27-12]]
+
+^<<v2-27-12,12>>^ Na largura, porém, do átrio, que olha para o ocidente, haverá cortinas de cinqüenta côvados, e dez colunas, e outras tantas bases.
+
+[[v2-27-13]]
+
+^<<v2-27-13,13>>^ Também na largura do átrio, que olha para o oriente, haverá cinquenta côvados
+
+[[v2-27-14]]
+
+^<<v2-27-14,14>>^ onde se porão dum lado cortinas de quinze côvados, e três colunas e outras tantas bases:
+
+[[v2-27-15]]
+
+^<<v2-27-15,15>>^ do outro lado haverá cortinas que tenham quinze côvados, três colunas e outras tantas bases.
+
+[[v2-27-16]]
+
+^<<v2-27-16,16>>^ Na entrada do átrio, far-se-á uma coberta de vinte côvados, de linho retorcido, púrpura violácea, escarlate e carmesim, com trabalho de bordado: (na entrada) terá quatro colunas com outras tantas bases.
+
+[[v2-27-17]]
+
+^<<v2-27-17,17>>^ Todas as colunas em volta do átrio serão revestidas de lâminas de prata, com capitéis de prata e bases de bronze.
+
+[[v2-27-18]]
+
+^<<v2-27-18,18>>^ O átrio terá cem côvados de comprido, cinqüenta de largura, e cinco de altura; (as suas cortinas) serão feitas de linho fino retorcido, e as bases serão de bronze.
+
+[[v2-27-19]]
+
+^<<v2-27-19,19>>^ Farás de bronze todos os vasos do tabernáculo para qualquer uso ou cerimônia, e também as suas escápulas e as do átrio.
+
+[[v2-27-20]]
+
+^<<v2-27-20,20>>^ Ordena aos filhos de Israel que te tragam azeite de oliveiras, o mais puro, e espremido num almofariz, para que arda sempre o candeeiro
+
+[[v2-27-21]]
+
+^<<v2-27-21,21>>^ no tabernáculo do testemunho, fora do véu, que está pendente diante do testemunho. Aarão e seus filhos o prepararão, para que dê luz até pela manhã diante do Senhor. Este culto será perpétuo (prestado) pelos filhos de Israel de geração em geração.
+
+'''
+
+xref:002-exodo/002-exodo-026.adoc#v2-26-0[&#60; Capítulo Anterior] | <<v2-27-0,Topo>> | xref:002-exodo/002-exodo-028.adoc#v2-28-0[Próximo Capítulo &#62;]

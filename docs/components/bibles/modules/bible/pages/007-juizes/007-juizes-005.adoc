@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v7-5-0]]
+=== Juízes, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Juízes 5, também conhecido como Cântico de Débora, é um poema que celebra a vitória de Israel sobre o exército de Canaã liderado por Sísera. O cântico foi escrito por Débora, uma profetisa e juíza em Israel. Abaixo estão cinco versículos relacionados aos temas abordados em Juízes 5:
+* Êxodo 15:1: "Então Moisés e os israelitas cantaram este cântico ao Senhor: 'Cantarei ao Senhor, pois ele é grandioso; atirou o cavalo e o seu cavaleiro no mar.'" Este é o cântico de Moisés celebrando a vitória de Israel sobre o exército do faraó. É relevante para Juízes 5, onde Débora canta um cântico semelhante celebrando a vitória de Israel sobre o exército de Canaã.
+* Isaías 41:10: "Não tenha medo, pois estou com você; não tenha medo, pois sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa." Este versículo fala sobre como Deus está com seu povo e os fortalece. É relevante para Juízes 5, onde a vitória de Israel sobre o exército de Canaã é creditada a Deus.
+* Salmos 83:18: "Que saibam que só tu, cujo nome é Senhor, és o Altíssimo sobre toda a terra." Este versículo fala sobre como Deus é o único Deus verdadeiro e supremo. É relevante para Juízes 5, onde a vitória de Israel é creditada a Deus, que é o único Deus verdadeiro e supremo.
+* Isaías 42:8: "Eu sou o Senhor; este é o meu nome! Não darei a outro a minha glória, nem a imagens o meu louvor." Este versículo fala sobre como Deus não compartilha sua glória com outros e não é adorado por meio de imagens. É relevante para Juízes 5, onde a vitória de Israel é creditada a Deus, que não é adorado por meio de imagens.
+* Salmos 68:1: "Deus surge e seus inimigos se dispersam; fogem diante dele os que o odeiam." Este versículo fala sobre como Deus é temido pelos seus inimigos. É relevante para Juízes 5, onde a vitória de Israel sobre o exército de Canaã é creditada a Deus, que é temido pelos seus inimigos.
+****
+
+[[v7-5-1]]
+
+^<<v7-5-1,1>>^ Naquele dia, Débora e Barac, filho de Abinoem, cantaram, dizendo: (ver nota)
+
+[[v7-5-2]]
+
+^<<v7-5-2,2>>^ ó vós (filhos) de Israel que expusestes voluntariamente as vossas vidas ao perigo, bendizei ao Senhor.
+
+[[v7-5-3]]
+
+^<<v7-5-3,3>>^ Ouvi, ó reis, escutai atentos, ó príncipes: Sou eu, eu sou a que cantarei ao Senhor, a que entoarei hinos ao Senhor Deus de Israel.
+
+[[v7-5-4]]
+
+^<<v7-5-4,4>>^ Senhor, quando tu saiste de Seir, e passaste pelas regiões de Edom, a terra estremeceu, e os céus e as nuvens desfizeram-se em água.
+
+[[v7-5-5]]
+
+^<<v7-5-5,5>>^ Os montes abalaram-se à vista do Senhor, e o Sinai diante da face do Senhor Deus de Israel.
+
+[[v7-5-6]]
+
+^<<v7-5-6,6>>^ Nos dias de Samgar, filho de Anat, nos dias de Jael, estavam desertos os caminhos, e aqueles que os percorriam, caminhavam por atalhos tortuosos.
+
+[[v7-5-7]]
+
+^<<v7-5-7,7>>^ Cessaram os valentes em Israel, e desapareceram até que se levantou Débora, ato que ela se levantou mãe em Israel.
+
+[[v7-5-8]]
+
+^<<v7-5-8,8>>^ Escolhiam-se novos deuses, a guerra estava à porta, e não se via escudo nem lança, entre os quarenta mil de Israel.
+
+[[v7-5-9]]
+
+^<<v7-5-9,9>>^ O meu coração ama os príncipes de Israel; vós os que voluntariamente vos expusestes ao perigo, bendizei ao Senhor.
+
+[[v7-5-10]]
+
+^<<v7-5-10,10>>^ Vós os que montais jumentas brancas os que vos sentais sobre tapetes, e os que andais pelos caminhos, cantai.
+
+[[v7-5-11]]
+
+^<<v7-5-11,11>>^ Aí onde foram quebrados os carros e se desbaratou o exército dos inimigos, (aí) sejam contadas as justiças do Senhor e a sua clemência para com os valentes de Israel; então o povo do Senhor desceu às portas, e alcançou o principado.
+
+[[v7-5-12]]
+
+^<<v7-5-12,12>>^ Levanta-te, levanta-te, ó Débora, levanta-te, levanta-te, e entoa um cântico; levanta-te, Barac, e toma os teus prisioneiros, ó filho de Abinoem.
+
+[[v7-5-13]]
+
+^<<v7-5-13,13>>^ Salvaram-se as relíquias do povo, o Senhor combateu entre os valentes.
+
+[[v7-5-14]]
+
+^<<v7-5-14,14>>^ Utilizou Efraim, para exterminar (os Cananeus) em Amalec, e serviu-se também de Benjamim contra os teus povos, ó Amalec: de Maquir desceram os príncipes, e de Zabulon os que comandaram o exército para combater. (ver nota)
+
+[[v7-5-15]]
+
+^<<v7-5-15,15>>^ Os capitães de Issacar foram com Débora, e seguiram as pisadas de Barac, o qual se lançou no perigo, como se fosse precipitado num abismo. Dividido Ruben contra si mesmo, levantou-se discórdia entre os seus homens de valor.
+
+[[v7-5-16]]
+
+^<<v7-5-16,16>>^ Por que habitas tu entre os dois termos (de Israel e dos seus inimigos), a ouvir os balidos dos rebanhos (em vez de ajudar os teus irmãos)? Dividido Ruben contra si mesmo, levantou-se discódia entre os seus homens de valor.
+
+[[v7-5-17]]
+
+^<<v7-5-17,17>>^ Galaad repousava na banda de além do Jordão, e Dan atendia às suas naus; Aser habitava na costa do mar e deixava-se estar nos seus portos.
+
+[[v7-5-18]]
+
+^<<v7-5-18,18>>^ Zabulon, porém, e Neftali expuseram-se à morte no país de Meromé.
+
+[[v7-5-19]]
+
+^<<v7-5-19,19>>^ Vieram os reis (inimigos) e combateram; os reis de Canaan combateram (contra Israel), em Tanac junto às águas de Magedo, mas não levaram presa alguma.
+
+[[v7-5-20]]
+
+^<<v7-5-20,20>>^ Combateu-se do céu contra eles; as estrelas, permanecendo na sua ordem e no seu curso, combateram contra Sisara.
+
+[[v7-5-21]]
+
+^<<v7-5-21,21>>^ A torrente de Cison arrastou os seus cadáveres, a torrente de Cadumim, a torrente de Cison. Calca, ó minha alma, estes valentes! (ver nota)
+
+[[v7-5-22]]
+
+^<<v7-5-22,22>>^ As unhas dos cavalos caíram com o ímpeto da fuga, e os mais robustos dos inimigos precipitaram-se uns sobre os outros.
+
+[[v7-5-23]]
+
+^<<v7-5-23,23>>^ Amaldiçoai a terra de Meroz, disse o anjo do Senhor; amaldiçoai os seus habitantes, porque não acudiram em auxílio (do povo) do Senhor, em auxílio dos seus valentes guerreiros.
+
+[[v7-5-24]]
+
+^<<v7-5-24,24>>^ Bendita seja entre as mulheres Jael, esposa de Haber Cineu, bendita seja na sua tenda.
+
+[[v7-5-25]]
+
+^<<v7-5-25,25>>^ Ela deu leite ao que lhe pedia água, e numa taça de príncipes ofereceu-lhe a nata.
+
+[[v7-5-26]]
+
+^<<v7-5-26,26>>^ Estendeu a mão esquerda a um prego, e a direita a um martelo de operário, e, buscando na cabeça lugar para a ferida, deu o golpe em Sisara, trespassando-lhe com força as fontes.
+
+[[v7-5-27]]
+
+^<<v7-5-27,27>>^ Caiu a seus pés, desfaleceu e expirou; contorceu-se a seu pés, e ficou estendido por terra exânime e miserável.
+
+[[v7-5-28]]
+
+^<<v7-5-28,28>>^ A mãe de Sisara, olhando pela janela, gritava, e do seu quarto dizia: Por que tarda em voltar o seu carro? Por que são tão pesados os pés dos seus quatro cavalos?
+
+[[v7-5-29]]
+
+^<<v7-5-29,29>>^ Mas uma de suas mulheres mais discreta do que as outras, respondeu à sogra estas palavras:
+
+[[v7-5-30]]
+
+^<<v7-5-30,30>>^ Talvez que a esta hora reparta os despojos, e escolha para si a mais formosa das cativas; vestidos de várias cores são dados dos despojos a Sisara, e várias jóias se lhe destinam para adorno do seu pescoço.
+
+[[v7-5-31]]
+
+^<<v7-5-31,31>>^ Assim pereçam, Senhor, todos os tens inimigos; os que porém te amam, brilhem como o sol quando nasce.
+
+[[v7-5-32]]
+
+^<<v7-5-32,32>>^ E (depois disto) esteve o país em paz durante quarenta anos.
+
+'''
+
+xref:007-juizes/007-juizes-004.adoc#v7-4-0[&#60; Capítulo Anterior] | <<v7-5-0,Topo>> | xref:007-juizes/007-juizes-006.adoc#v7-6-0[Próximo Capítulo &#62;]

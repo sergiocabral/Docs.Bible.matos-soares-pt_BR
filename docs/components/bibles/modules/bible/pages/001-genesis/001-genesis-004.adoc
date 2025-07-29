@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v1-4-0]]
+=== Gênesis, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Gênesis trata da história de Caim e Abel, os primeiros filhos de Adão e Eva. Caim, que era agricultor, ofereceu a Deus uma oferta de frutas e vegetais, enquanto Abel, que era pastor, ofereceu a Deus a gordura dos primeiros cordeiros nascidos em seu rebanho. Deus aceitou a oferta de Abel, mas não a de Caim, o que levou Caim a matar Abel. Aqui estão cinco versículos relacionados com os temas abordados em Gênesis 4:
+* 1 João 3:12: "Não sejamos como Caim, que pertencia ao Maligno e matou seu irmão. E por que o matou? Porque suas obras eram más e as de seu irmão eram justas." Este versículo fala da história de Caim e Abel como um exemplo do bem versus o mal e da importância de fazer boas obras.
+* Hebreus 11:4: "Pela fé Abel ofereceu a Deus um sacrifício superior ao de Caim. Pela fé ele foi reconhecido como justo, quando Deus aprovou as suas ofertas. Embora esteja morto, ainda fala por meio da fé." Este versículo destaca a importância da fé e da justiça, e como Abel foi reconhecido por Deus por suas ofertas e sua fé.
+* Provérbios 14:12: "Há caminho que parece certo ao homem, mas no final conduz à morte." Este versículo destaca a importância de seguir o caminho certo e de fazer escolhas sábias, para evitar consequências graves como a que Caim enfrentou.
+* Gênesis 4:15: "Mas o Senhor disse a Caim: 'Se alguém matar Caim, sofrerá vingança sete vezes maior'. E o Senhor colocou um sinal em Caim, para que ninguém que o encontrasse o matasse." Este versículo mostra que Deus puniu Caim por sua ação, mas também o protegeu da vingança de outros.
+* Gênesis 4:26: "A Sete também nasceu um filho, e ele o chamou de Enos. Naquela época os homens começaram a invocar o nome do Senhor." Este versículo destaca o início da adoração a Deus entre as pessoas, mostrando que mesmo em meio à violência e ao pecado, ainda havia aqueles que buscavam uma conexão com Deus.
+****
+
+[[v1-4-1]]
+
+^<<v1-4-1,1>>^ E Adão conheceu sua mulher Eva, a qual concebeu e deu à luz Caim, dizendo: alcancei um homem por (auxílio de) Deus.
+
+[[v1-4-2]]
+
+^<<v1-4-2,2>>^ E, depois, deu à luz seu irmão Abel. Abel foi pastor de ovelhas, e Caim lavrador.
+
+[[v1-4-3]]
+
+^<<v1-4-3,3>>^ Passado muito tempo, aconteceu oferecer Caim, em oblação ao Senhor, dos frutos da terra.
+
+[[v1-4-4]]
+
+^<<v1-4-4,4>>^ Abel também ofereceu dos primogênitos do seu rebanho, e das gorduras deles. O Senhor olhou para Abel, e para os seus dons;
+
+[[v1-4-5]]
+
+^<<v1-4-5,5>>^ não olhou, porém, para Caim, nem para os seus dons. Caim irou-se extremamente, e o seu semblante ficou abatido.
+
+[[v1-4-6]]
+
+^<<v1-4-6,6>>^ E o Senhor disse-lhe: por que estás irado? e por que está abatido o teu semblante?
+
+[[v1-4-7]]
+
+^<<v1-4-7,7>>^ Porventura, Se tu obrares bem, não receberás (por isso galardão)? Se obrares mal, estará logo o pecado à tua porta, Mas sob ti está o teu desejo, e tu o dominarás.
+
+[[v1-4-8]]
+
+^<<v1-4-8,8>>^ Caim disse a seu irmão Abel: saiamos fora. E, quando estavam no campo, investiu Caim contra seu irmão Abel, e matou-o.
+
+[[v1-4-9]]
+
+^<<v1-4-9,9>>^ E o Senhor disse a Caim: onde está teu irmão Abel? E ele respondeu: não sei. Porventura sou eu o guarda de meu irmão?
+
+[[v1-4-10]]
+
+^<<v1-4-10,10>>^ E o Senhor disse-lhe: Que fizeste? A voz do sangue de teu irmão ergue o seu clamor da terra até mim.
+
+[[v1-4-11]]
+
+^<<v1-4-11,11>>^ Agora, pois, serás maldito sobre a terra, que abriu a sua boca, e recebeu da tua mão o sangue de teu irmão.
+
+[[v1-4-12]]
+
+^<<v1-4-12,12>>^ Quando a cultivares, ela não te dará os seus frutos; serás vagabundo e fugitivo sobre a terra.
+
+[[v1-4-13]]
+
+^<<v1-4-13,13>>^ E Caim disse ao Senhor: Insuportavelmente grande é o meu castigo, grande demais para que eu mereça perdão.
+
+[[v1-4-14]]
+
+^<<v1-4-14,14>>^ Eis que tu hoje me expulsas desta terra, e eu me esconderei da tua face, e serei vagabundo e fugitivo na terra; portanto todo o que me achar, me matará.
+
+[[v1-4-15]]
+
+^<<v1-4-15,15>>^ E o Senhor disse-lhe: não será assim; mas qualquer que matar Caim, será castigado sete vezes mais. E o Senhor pôs um sinal em Caim, para que o não matasse ninguém que o encontrasse.
+
+[[v1-4-16]]
+
+^<<v1-4-16,16>>^ E Caim, tendo-se retirado de diante da face do Senhor, andou errante sobre a terra, e habitou no pais de Nod, que está ao nascente do Eden.
+
+[[v1-4-17]]
+
+^<<v1-4-17,17>>^ E Caim conheceu sua mulher, a qual concebeu e deu à luz Henoch. E edificou uma cidade, que chamou Henoch, do nome de seu filho.
+
+[[v1-4-18]]
+
+^<<v1-4-18,18>>^ Ora Henoch gerou Irad, Irad gerou Maviael, Maviael gerou Matusael, e Matusael gerou Lamech.
+
+[[v1-4-19]]
+
+^<<v1-4-19,19>>^ E este tomou duas mulheres, uma chamada Ada e outra Sela.
+
+[[v1-4-20]]
+
+^<<v1-4-20,20>>^ E Ada deu à luz Jabel, que foi pai dos que habitam sob tendas e entre rebanhos.
+
+[[v1-4-21]]
+
+^<<v1-4-21,21>>^ O nome de seu irmão foi Jubal, que foi o pai (ou mestre) dos que tocam citara e orgão.
+
+[[v1-4-22]]
+
+^<<v1-4-22,22>>^ Sela também deu à luz Tubalcain, que foi artifice de todos os instrumentos de bronze e de feno. E a irmã de Tubalcain foi Noema.
+
+[[v1-4-23]]
+
+^<<v1-4-23,23>>^ E Lantech disse a suas mulheres, Ada e Sela: Ouvi a minha voz, mulheres de Lamech, escutai as minhas palavras: eu matei um homem que me feriu, e um adolescente que me contundiu.
+
+[[v1-4-24]]
+
+^<<v1-4-24,24>>^ Caim será vingando sete vezes, mas Lamech setenta vezes sete.
+
+[[v1-4-25]]
+
+^<<v1-4-25,25>>^ E Adão conheceu outra vez sua mulher, a qual deu à luz um filho, e pôs-lhe o nome de Seth, dizendo: o Senhor deu-me outro filho em lugar de Abel, que Caim matou.
+
+[[v1-4-26]]
+
+^<<v1-4-26,26>>^ E nasceu também um filho a Seth, que ele chamou Enós. Este começou a invocar o nome do Senhor.
+
+'''
+
+xref:001-genesis/001-genesis-003.adoc#v1-3-0[&#60; Capítulo Anterior] | <<v1-4-0,Topo>> | xref:001-genesis/001-genesis-005.adoc#v1-5-0[Próximo Capítulo &#62;]

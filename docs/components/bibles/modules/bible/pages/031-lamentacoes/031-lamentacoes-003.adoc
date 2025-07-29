@@ -1,0 +1,283 @@
+include::./index.adoc[]
+
+[[v31-3-0]]
+=== Lamentações, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Lamentações 3 é um capítulo em que o autor expressa seu lamento e tristeza diante das aflições que está enfrentando. Ele se sente abatido, sofre e clama por ajuda e misericórdia. Abaixo estão cinco versículos relacionados com os temas do capítulo:
+* Salmos 22:1 - "Deus meu, Deus meu, por que me desamparaste?" Este versículo é uma expressão de angústia semelhante à do autor de Lamentações 3, que se sente abandonado e sozinho em sua dor.
+* Salmos 42:5 - "Por que estás abatida, ó minha alma, e por que te perturbas em mim? Espera em Deus, pois ainda o louvarei pela salvação da sua face." O salmista aqui está encorajando sua alma a confiar em Deus e esperar por sua ajuda, o que é uma mensagem semelhante à do autor de Lamentações 3.
+* Isaías 49:15 - "Porventura pode uma mulher esquecer-se tanto do filho que cria, que não se compadeça dele, do filho do seu ventre? Mas ainda que esta se esquecesse dele, contudo eu não me esquecerei de ti." Este versículo é um lembrete do amor incondicional de Deus por seu povo, mesmo em meio às dificuldades.
+* 2 Coríntios 4:8-9 - "Em tudo somos atribulados, mas não angustiados; perplexos, mas não desanimados; perseguidos, mas não desamparados; abatidos, mas não destruídos." O apóstolo Paulo aqui fala sobre a natureza das dificuldades que enfrentamos, mas enfatiza que podemos perseverar em Deus, assim como o autor de Lamentações 3.
+* Romanos 8:38-39 - "Porque estou certo de que, nem a morte, nem a vida, nem anjos, nem principados, nem coisas presentes, nem futuras, nem potestades, nem a altura, nem a profundidade, nem qualquer outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor." Este versículo é uma promessa de que o amor de Deus é inabalável e que podemos confiar em sua fidelidade, mesmo quando enfrentamos as maiores dificuldades.
+****
+
+[[v31-3-1]]
+
+^<<v31-3-1,1>>^ ALEF. Eu sou o homem que sentiu a miséria, debaixo da vara da sua indignação.
+
+[[v31-3-2]]
+
+^<<v31-3-2,2>>^ ALEF. Conduziu-me e fez-me andar pelas trevas, e não pela luz.
+
+[[v31-3-3]]
+
+^<<v31-3-3,3>>^ ALEF. Não cessa de voltar, contra mim só, a sua mão durante todo o dia.
+
+[[v31-3-4]]
+
+^<<v31-3-4,4>>^ BET. Consumiu a minha carne e minha pele, partiu os meus ossos.
+
+[[v31-3-5]]
+
+^<<v31-3-5,5>>^ BET. Ergueu construções contra mim, cercou-me de fel e de trabalho.
+
+[[v31-3-6]]
+
+^<<v31-3-6,6>>^ BET. Pôs-me nas trevas, como os que estão mortos para sempre.
+
+[[v31-3-7]]
+
+^<<v31-3-7,7>>^ CHIMEL. Cercou-me dum muro para que não possa sair; tornou pesados os meus grilhões.
+
+[[v31-3-8]]
+
+^<<v31-3-8,8>>^ CHIMEL. Ainda que eu clame e rogue, fica inacessível à minha oração.
+
+[[v31-3-9]]
+
+^<<v31-3-9,9>>^ CHIMEL. Fechou os meus caminhos com pedras de silharia, obstruiu as minhas veredas.
+
+[[v31-3-10]]
+
+^<<v31-3-10,10>>^ DALET. Tornou-se para mim como um urso em emboscada, como um leão em esconderijos.
+
+[[v31-3-11]]
+
+^<<v31-3-11,11>>^ DALET. Subverteu as minhas veredas, despedaçou-me, pôs-me na desolação.
+
+[[v31-3-12]]
+
+^<<v31-3-12,12>>^ DALET. Retesou (para disparar) o seu arco, e pôs-me como alvo das suas flechas.
+
+[[v31-3-13]]
+
+^<<v31-3-13,13>>^ HÉ. Cravou nos meus rins as setas da sua alvaja.
+
+[[v31-3-14]]
+
+^<<v31-3-14,14>>^ HÉ. Tornei-me o escárnio de todo o meu povo o assunto das suas cantilenas diárias.
+
+[[v31-3-15]]
+
+^<<v31-3-15,15>>^ HÉ. Encheu-me de amargura, embriagou-me de absinto.
+
+[[v31-3-16]]
+
+^<<v31-3-16,16>>^ VAU. Quebrou todos os meus dentes com areia, deu-me a comer cinza.
+
+[[v31-3-17]]
+
+^<<v31-3-17,17>>^ VAU. Está desterrada a minha alma da paz; já não sei o que é felicidade.
+
+[[v31-3-18]]
+
+^<<v31-3-18,18>>^ VAU. Eu disse: Desapareceu a minha força, assim como a esperança que tinha no Senhor.
+
+[[v31-3-19]]
+
+^<<v31-3-19,19>>^ ZAIN. Lembra-te da minha pobreza e tribulação absinto e fel (que me fazem beber).
+
+[[v31-3-20]]
+
+^<<v31-3-20,20>>^ ZAIN. Lembrando-me disto, sem cessar, a minha alma definha dentro de mim.
+
+[[v31-3-21]]
+
+^<<v31-3-21,21>>^ ZAIN. Mas eis o que repassarei no meu coração, para retomar esperança:
+
+[[v31-3-22]]
+
+^<<v31-3-22,22>>^ HET. Por graça do Senhor não fomos consumidos (inteiramente); sim, as suas comiserações não se esgotaram.
+
+[[v31-3-23]]
+
+^<<v31-3-23,23>>^ HET. Elas renovam-se todas as manhãs; grande é (ó Senhor) a tua fidelidade.
+
+[[v31-3-24]]
+
+^<<v31-3-24,24>>^ HET. A minha porção é o Senhor, disse a minha alma; portanto esperarei nele.
+
+[[v31-3-25]]
+
+^<<v31-3-25,25>>^ TET. O Senhor é bom para o que nele espera, para a alma que o busca.
+
+[[v31-3-26]]
+
+^<<v31-3-26,26>>^ TET. É bom esperar em silêncio a salvação (que vem de) Deus.
+
+[[v31-3-27]]
+
+^<<v31-3-27,27>>^ TET. É bom para o homem ter levado o jugo desde a sua mocidade.
+
+[[v31-3-28]]
+
+^<<v31-3-28,28>>^ JOD. Sente-se solitário e fique (resignado) em silêncio, se Deus lho impuser.
+
+[[v31-3-29]]
+
+^<<v31-3-29,29>>^ JOD. Ponha a sua boca no pó, a ver se há alguma esperança.
+
+[[v31-3-30]]
+
+^<<v31-3-30,30>>^ JOD. Ofereça a face ao que o fere, sacie-se de opróbrios.
+
+[[v31-3-31]]
+
+^<<v31-3-31,31>>^ CAF. Porque o Senhor não nos rejeita para sempre;
+
+[[v31-3-32]]
+
+^<<v31-3-32,32>>^ CAF. mesmo quando aflige, também se compadece (de nós), segundo a grande bondade.
+
+[[v31-3-33]]
+
+^<<v31-3-33,33>>^ CAF. Com efeito não humilha nem atormenta, por gosto, os filhos dos homens.
+
+[[v31-3-34]]
+
+^<<v31-3-34,34>>^ LAMED. Pisar aos seus pés todos os cativos da terra,
+
+[[v31-3-35]]
+
+^<<v31-3-35,35>>^ LAMED. violar o direito dum homem ante a presença do Altíssimo,
+
+[[v31-3-36]]
+
+^<<v31-3-36,36>>^ LAMED. prejudicar um homem na sua causa, o Senhor não há-de ver tudo isto?
+
+[[v31-3-37]]
+
+^<<v31-3-37,37>>^ MEM. Quem é que disse que se fizesse uma coisa, sem que o Senhor o mandasse?
+
+[[v31-3-38]]
+
+^<<v31-3-38,38>>^ MEM. Não saem da boca do Altíssimo os males e os bens?
+
+[[v31-3-39]]
+
+^<<v31-3-39,39>>^ MEM. Por que se queixa (pois) o homem, na sua vida? Queixe-se, sim, dos seus pecados.
+
+[[v31-3-40]]
+
+^<<v31-3-40,40>>^ NUN. Examinemos, investiguemos os nossos passos, e voltemos ao Senhor.
+
+[[v31-3-41]]
+
+^<<v31-3-41,41>>^ NUN. Levantemos os corações e as mãos para Deus nos céus.
+
+[[v31-3-42]]
+
+^<<v31-3-42,42>>^ NUN. Procedemos injustamente, fomos rebeldes; e tu não perdoaste.
+
+[[v31-3-43]]
+
+^<<v31-3-43,43>>^ SAMEG. Envolveste-te de cólera e perseguiste-nos, mataste sem misericórdia.
+
+[[v31-3-44]]
+
+^<<v31-3-44,44>>^ SAMEG. Puseste uma nuvem diante de ti, para a oração não passar.
+
+[[v31-3-45]]
+
+^<<v31-3-45,45>>^ SAMEC. Fizeste de nós varreduras e rebotalho, no meio dos povos.
+
+[[v31-3-46]]
+
+^<<v31-3-46,46>>^ FE. Abriram contra nós a sua boca todos os nossos inimigos.
+
+[[v31-3-47]]
+
+^<<v31-3-47,47>>^ FE. Foram a nossa parte o terror e a cova, a devastação e a ruína.
+
+[[v31-3-48]]
+
+^<<v31-3-48,48>>^ FE. Os meus olhos derramam rios de lágrimas, por causa da ruína da filha do meu povo.
+
+[[v31-3-49]]
+
+^<<v31-3-49,49>>^ AIN. Os meus olhos fundem-se em pranto contínuo, sem descanso,
+
+[[v31-3-50]]
+
+^<<v31-3-50,50>>^ AIN. até que olhe e veja o Senhor do alto dos céus.
+
+[[v31-3-51]]
+
+^<<v31-3-51,51>>^ AIN. Os meus olhos atormentam-me, chorando sobre todas as filhas da minha cidade.
+
+[[v31-3-52]]
+
+^<<v31-3-52,52>>^ SADE. Como a uma ave me deram caga, os meus inimigos sem causa.
+
+[[v31-3-53]]
+
+^<<v31-3-53,53>>^ SADE. Quiseram precipitar a minha vida na cova, puseram sobre mim uma pedra.
+
+[[v31-3-54]]
+
+^<<v31-3-54,54>>^ SADE. As águas submergiram a minha cabeça; eu disse então: Estou perdido.
+
+[[v31-3-55]]
+
+^<<v31-3-55,55>>^ COF. Invoquei, Senhor, o teu nome, do fundo da cova.
+
+[[v31-3-56]]
+
+^<<v31-3-56,56>>^ COF. Tu ouviste a minha voz: Não feches o teu ouvido aos meus soluços e clamores.
+
+[[v31-3-57]]
+
+^<<v31-3-57,57>>^ COF. Tu te aproximaste no dia em que te invoquei, e disseste: Não temas.
+
+[[v31-3-58]]
+
+^<<v31-3-58,58>>^ RES. Senhor, defendeste a causa da minha alma resgataste a minha vida.
+
+[[v31-3-59]]
+
+^<<v31-3-59,59>>^ RES. Viste, Senhor, a iniquidade deles contra mim; faze-me justiça.
+
+[[v31-3-60]]
+
+^<<v31-3-60,60>>^ RES. Viste todo o seu rancor, todas as suas maquinações contra mim.
+
+[[v31-3-61]]
+
+^<<v31-3-61,61>>^ SIN. Ouviste senhor, os seus vitupérios todas as suas maquinações contra mim,
+
+[[v31-3-62]]
+
+^<<v31-3-62,62>>^ SIN. os intentos dos meus adversários, o que tramam contra mim todo o dia.
+
+[[v31-3-63]]
+
+^<<v31-3-63,63>>^ SIN. Observa-os, quando sentados ou quando de pé: eu sou o objecto das suas canções (burlescas).
+
+[[v31-3-64]]
+
+^<<v31-3-64,64>>^ TAU. Tu, Senhor, lhes darás o pago, como merecem as obras das suas mãos.
+
+[[v31-3-65]]
+
+^<<v31-3-65,65>>^ TAU. Dar-lhes-ás o endurecimento de coração; caia sobre eles a tua maldição.
+
+[[v31-3-66]]
+
+^<<v31-3-66,66>>^ TAU. Tu os perseguirás com furor e exterminarás de debaixo dos céus, ó Senhor.
+
+'''
+
+xref:031-lamentacoes/031-lamentacoes-002.adoc#v31-2-0[&#60; Capítulo Anterior] | <<v31-3-0,Topo>> | xref:031-lamentacoes/031-lamentacoes-004.adoc#v31-4-0[Próximo Capítulo &#62;]

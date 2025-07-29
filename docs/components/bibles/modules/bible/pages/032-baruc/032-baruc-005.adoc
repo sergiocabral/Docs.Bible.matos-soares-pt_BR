@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v32-5-0]]
+=== Baruc, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Baruc 5 é um capítulo do Antigo Testamento que apresenta uma mensagem de esperança e restauração para o povo judeu. O capítulo descreve a promessa de Deus de trazer de volta o povo para Jerusalém, onde eles serão honrados e exaltados. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Baruc 5:
+* Isaías 40:1-2: "Consolai, consolai o meu povo, diz o vosso Deus. Falai benignamente a Jerusalém, e bradai-lhe que já é findo o tempo da sua guerra, que a sua iniquidade está perdoada; porque já recebeu em dobro da mão do Senhor por todos os seus pecados". Este versículo mostra a mensagem de consolo e perdão de Deus para o povo, bem como a promessa de restauração.
+* Isaías 62:2: "Então se verá o teu justo, e todos os reis se prostrarão diante de ti; por amor do Senhor, que é fiel, e do Santo de Israel, que te escolheu". Este versículo destaca a promessa de honra e exaltação de Deus para o Seu povo.
+* Jeremias 31:4: "Ainda te edificarei, e serás edificada, ó virgem de Israel; ainda serás adornada com os teus adufes, e sairás nas danças dos que folgam". Este versículo mostra a promessa de reconstrução e renovação de Deus para o Seu povo.
+* Isaías 49:23: "E os reis serão os teus aios, e as suas princesas as tuas amas; com o rosto em terra, diante de ti, adorarão, e lamberão o pó dos teus pés; e saberás que eu sou o Senhor, que não se confundem aqueles que esperam por mim". Este versículo mostra a promessa de honra e submissão dos líderes das nações para o povo de Deus.
+* Ezequiel 37:26-27: "Também farei um pacto de paz com eles; será uma aliança perpétua. Estabelecê-los-ei e multiplicá-los-ei, e porei o meu santuário no meio deles para sempre". Este versículo destaca a promessa de paz e proteção de Deus para o Seu povo.
+****
+
+[[v32-5-1]]
+
+^<<v32-5-1,1>>^ Tira, ó Jerusalém, os vestidos do teu luto e da tua aflição, e reveste-te para sempre da beleza da glória que te vem de Deus,
+
+[[v32-5-2]]
+
+^<<v32-5-2,2>>^ cobre-te do manto da justiça de Deus e põe sobre a tua cabeça o diadema da glória do Eterno.
+
+[[v32-5-3]]
+
+^<<v32-5-3,3>>^ Deus mostrará o teu resplendor a todos os que estão debaixo do céu.
+
+[[v32-5-4]]
+
+^<<v32-5-4,4>>^ O nome, que Deus te imporá para sempre, será: Paz da justiça e glória da piedade,
+
+[[v32-5-5]]
+
+^<<v32-5-5,5>>^ Levanta-te, ó Jerusalém, põe-te no alto e olha para o oriente! Vê teus filhos congregados, desde o poente ao levante, em virtude da palavra do Santo cheios de alegria por Deus se ter lembrado deles.
+
+[[v32-5-6]]
+
+^<<v32-5-6,6>>^ Quando partiram de ti, iam a pé, levados pelos inimigos; mas Deus os traz a ti conduzidos com honra, como príncipes reais.
+
+[[v32-5-7]]
+
+^<<v32-5-7,7>>^ Deus determinou abaixar todos os montes altos e as colinas eternas, e encher os vales para se tornar plana a terra, a fim de que Israel ande com segurança para glória de Deus.
+
+[[v32-5-8]]
+
+^<<v32-5-8,8>>^ Assim os bosques como todas as árvores de suave fragrância, darão sombra (agradável) a Israel por ordem de Deus.
+
+[[v32-5-9]]
+
+^<<v32-5-9,9>>^ Sim, Deus conduzirá Israel com júbilo, à luz da sua magestade, com a misericórdia e a justiça que dele procedem.
+
+'''
+
+xref:032-baruc/032-baruc-004.adoc#v32-4-0[&#60; Capítulo Anterior] | <<v32-5-0,Topo>> | xref:032-baruc/032-baruc-006.adoc#v32-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v12-1-0]]
+=== II Reis, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Reis 1 narra a história do rei Acazias, que caiu de um telhado e enviou mensageiros para consultar o deus Baal-Zebube sobre sua recuperação, em vez de buscar a Deus. O profeta Elias confronta os mensageiros e, posteriormente, o próprio rei Acazias, profetizando sua morte iminente. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Reis 1:
+* Deuteronômio 6:14: "Não sigam outros deuses, os deuses dos povos que estão ao redor de vocês." Este versículo fala sobre a importância de não seguir outros deuses além do Deus verdadeiro. Acazias cometeu o erro de consultar Baal-Zebube, um deus falso, em vez de buscar a Deus.
+* 1 Reis 22:53: "Adotaram os hábitos das nações que o Senhor havia expulsado diante deles, e fizeram o que o Senhor reprova." Este versículo se relaciona com o fato de Acazias seguir os costumes e práticas dos povos pagãos ao seu redor, em vez de seguir as leis e mandamentos de Deus.
+* 2 Crônicas 28:23: "Ofereceu sacrifícios aos deuses de Damasco, que o tinham derrotado; pois pensava: 'Visto que os deuses dos reis da Síria os ajudam, também os ajudarei se lhes oferecer sacrifícios'." Este versículo descreve o comportamento semelhante ao de Acazias, que recorreu a um deus estrangeiro para buscar cura, em vez de confiar em Deus.
+* Provérbios 14:12: "Há caminho que parece certo ao homem, mas no final conduz à morte." Este versículo se relaciona com a atitude de Acazias, que escolheu seguir um caminho que parecia certo para ele, mas que acabou levando-o à morte.
+* Tiago 4:7: "Sujeitem-se, portanto, a Deus. Resistam ao Diabo, e ele fugirá de vocês." Este versículo fala sobre a importância de se submeter a Deus e resistir ao Diabo. Acazias falhou em submeter-se a Deus e resistir às tentações do Diabo, o que resultou em sua morte prematura.
+****
+
+[[v12-1-1]]
+
+^<<v12-1-1,1>>^ Depois da morte de Acab, Moab revoltou-se contra Israel.
+
+[[v12-1-2]]
+
+^<<v12-1-2,2>>^ Ocozias caiu da janela do quarto alto (do palácio), que tinha em Samaria, e feriu-se gravemente. Enviou mensageiros, aos quais disse: Ide, consultai Beelzebub, deus de Acaron, se me poderei curar desta minha doença.
+
+[[v12-1-3]]
+
+^<<v12-1-3,3>>^ Porém o anjo do Senhor falou a Elias Tesbita, dizendo: Levanta-te, vai ao encontro dos mensageiros do rei de Samaria e dize-lhes: Porventura não há um Deus em Israel, para vós irdes consultar Beelzebub, deus de Acaron?
+
+[[v12-1-4]]
+
+^<<v12-1-4,4>>^ Por isso eis o que diz o Senhor: Não te levantarás da cama em que jazes, mas certissimamente morrerás. (Dito isto) Elias partiu.
+
+[[v12-1-5]]
+
+^<<v12-1-5,5>>^ Os mensageiros voltaram para Ocozias, o qual lhes disse: Por que voltastes?
+
+[[v12-1-6]]
+
+^<<v12-1-6,6>>^ Eles responderam-lhe: Um homem nos saiu ao encontro, e nos disse: Ide e tornai para o vosso rei, que vos mandou, e dizei-lhe: Eis o que diz o Senhor: Porventura, porque não há um Deus em Israel, é que mandas consultar Beelzebub, deus de Acaron? Pois por isso não te levantarás da cama em que jazes, mas certissimamente morrerás.
+
+[[v12-1-7]]
+
+^<<v12-1-7,7>>^ Ele disse-lhes: Que figura e que trajo é o desse homem, que se encontrou convosco e vos disse essas palavras?
+
+[[v12-1-8]]
+
+^<<v12-1-8,8>>^ Eles responderam: É um homem peludo, que anda cingido sobre os rins com uma cinta de couro. Ele disse: É Elias Tesbita.
+
+[[v12-1-9]]
+
+^<<v12-1-9,9>>^ Imediatamente mandou ter com ele um chefe, com os cinqüenta homens, que estavam debaixo do seu mando. Esse chefe foi ter com Elias, que estava sentado no cimo dum monte, e disse-lhe: (ó tu, que te tens por) homem de Deus, o rei mandou que venhas.
+
+[[v12-1-10]]
+
+^<<v12-1-10,10>>^ Respondendo Elias, disse ao capitão dos cinqüenta homens: Se eu sou homem de Deus, desça fogo do céu e te devore a ti e aos teus cinqüenta homens. Desceu fogo do céu, que o devorou, assim como aos cinqüenta homens que estavam com ele.
+
+[[v12-1-11]]
+
+^<<v12-1-11,11>>^ Ocozias enviou outra vez um outro chefe com os seus cinquenta homens, o qual, chegando junto de Elias, lhe disse: Homem de Deus, o rei diz isto: Apressa-te, vem.
+
+[[v12-1-12]]
+
+^<<v12-1-12,12>>^ Respondendo Elias, disse: Se eu sou homem de Deus, desça fogo do céu, que te devore a ti e aos teus cinqüenta homens. Desceu, pois, fogo do céu, que o devorou com os seus cinqüenta homens.
+
+[[v12-1-13]]
+
+^<<v12-1-13,13>>^ Enviou outra vez Ocozias terceiro chefe com os seus cinqüenta homens, o qual, tendo chegado, se pôs de joelhos diante de Elias e lhe suplicou assim: Homem de Deus, não desprezes a minha vida, nem as vidas dos teus servos que estão comigo.
+
+[[v12-1-14]]
+
+^<<v12-1-14,14>>^ Desceu fogo do céu, que devorou os dois primeiros chefes com os cinquenta que estavam com eles; mas agora eu te suplico que te compadeças da minha vida.
+
+[[v12-1-15]]
+
+^<<v12-1-15,15>>^ O anjo do Senhor disse a Elias: Desce com ele, não temas. Levantou-se Elias e desceu com este chefe, a ir ter com o rei,
+
+[[v12-1-16]]
+
+^<<v12-1-16,16>>^ e disse-lhe: Eis o que diz o Senhor: Porque enviaste mensageiros a consultar Beelzebub, deus de Acaron, como se não houvesse um Deus em Israel, que tu pudesses consultar, por isso tu não te levantarás da cama em que jazes, mas certissimamente morrerás.
+
+[[v12-1-17]]
+
+^<<v12-1-17,17>>^ Morreu Ocozias, conforme a palavra do Senhor, que Elias pronunciou, e em seu lugar reinou Jorão, seu irmão, no segundo ano de Jorão, filho de Josafat, rei de Judá, porque Ocozias não tinha filhos.
+
+[[v12-1-18]]
+
+^<<v12-1-18,18>>^ Quanto ao resto das acções de Ocozias, estão escritas no livro das Crônicas dos reis de Israel.
+
+'''
+
+xref:011-i-reis/011-i-reis-022.adoc#v11-22-0[&#60; Capítulo Anterior] | <<v12-1-0,Topo>> | xref:012-ii-reis/012-ii-reis-002.adoc#v12-2-0[Próximo Capítulo &#62;]

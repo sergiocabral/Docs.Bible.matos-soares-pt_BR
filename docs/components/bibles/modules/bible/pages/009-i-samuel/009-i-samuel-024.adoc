@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v9-24-0]]
+=== I Samuel, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 24 de 1 Samuel narra a história de Davi perdoando Saul. Depois de fugir de Saul por um tempo, Davi teve a oportunidade de matá-lo quando Saul entrou em uma caverna onde Davi e seus homens estavam escondidos. No entanto, Davi escolheu poupar a vida de Saul, mesmo quando seus homens o encorajavam a matá-lo. Aqui estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Provérbios 19:11 - "A prudência do homem o faz tardar em irar-se, e sua glória está em esquecer ofensas." Esse versículo destaca a sabedoria de Davi em escolher perdoar Saul em vez de se vingar.
+* Mateus 5:44 - "Eu, porém, vos digo: amai a vossos inimigos e orai pelos que vos perseguem." Esse versículo mostra a mensagem de amor e perdão que Jesus ensinou, que Davi parece ter aplicado ao perdoar Saul.
+* Romanos 12:19 - "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus, porque está escrito: Minha é a vingança; eu recompensarei, diz o Senhor." Esse versículo destaca que a vingança não deve ser buscada pelos indivíduos, mas sim pela justiça divina.
+* Provérbios 25:21-22 - "Se o teu inimigo tiver fome, dá-lhe pão para comer, e se tiver sede, dá-lhe água para beber, porque assim amontoarás brasas vivas sobre a sua cabeça, e o Senhor te recompensará." Esse versículo incentiva a amar e servir os inimigos em vez de buscar vingança.
+* Colossenses 3:13 - "Suportai-vos uns aos outros, perdoai-vos mutuamente, caso alguém tenha motivo de queixa contra outro. Assim como o Senhor vos perdoou, perdoai também vós." Esse versículo destaca a importância do perdão e da misericórdia entre as pessoas, como Davi demonstrou ao perdoar Saul.
+****
+
+[[v9-24-1]]
+
+^<<v9-24-1,1>>^ Saiu Davide dali e habitou nos lugares mais seguros de Engadi.
+
+[[v9-24-2]]
+
+^<<v9-24-2,2>>^ Voltando Saul de ter perseguido os Filisteus, vieram dizer-lhe: Davide está no deserto de Engadi.
+
+[[v9-24-3]]
+
+^<<v9-24-3,3>>^ Saul, tomando consigo três mil homens escolhidos entre todo o Israel, saiu em busca de Davide e de sua gente, indo até pelos rochedos mais escarpados, sòmente acessíveis às cabras.
+
+[[v9-24-4]]
+
+^<<v9-24-4,4>>^ Chegou a uns currais de ovelhas, que encontrou no caminho, e havia lá uma caverna, onde Saul entrou para fazer as suas necessidades. Davide e os seus estavam escondidos no interior da mesma caverna.
+
+[[v9-24-5]]
+
+^<<v9-24-5,5>>^ Os servos de Davide disseram -lhe: Eis o dia, do qual o Senhor te disse: Eu te entregarei o teu inimigo, para fazeres dele o que te parecer. Então Davide levantou-se e cortou muito de mansinho a orla do manto de Saul.
+
+[[v9-24-6]]
+
+^<<v9-24-6,6>>^ Logo depois o coração de Davide bateu-lhe, porque tinha cortado a orla do manto a Saul.
+
+[[v9-24-7]]
+
+^<<v9-24-7,7>>^ E disse para a sua gente: Deus me guarde de que eu faça uma tal coisa ao meu senhor, ao ungido do Senhor, que eu estenda a mão contra ele, pois é o ungido do Senhor,
+
+[[v9-24-8]]
+
+^<<v9-24-8,8>>^ Com estas palavras, Davide conteve a sua gente e não permitiu que se lançassem sobre Saul. Saul, saindo da caverna, prosseguiu o seu caminho.
+
+[[v9-24-9]]
+
+^<<v9-24-9,9>>^ Levantando-se também Davide atrás dele e, tendo saido da caverna, gritou atrás de Saul, dizendo: ó rei, meu selhor! Saul olhou para trás, e Davide, inclinando se até ao chão, fez-lhe uma profunda reverência,
+
+[[v9-24-10]]
+
+^<<v9-24-10,10>>^ e disse a Saul: Por que dás tu ouvidos às palavras dos que te dizem: Davide procura fazer-te mal?
+
+[[v9-24-11]]
+
+^<<v9-24-11,11>>^ Viste hoje com os teus olhos que o Senhor te entregou nas minhas mãos na caverna, e eu tive o pensamento de te matar, mas não o quis fazer, porque disse: Não estenderei a mão contra o meu senhor, porque é o ungido do Senhor.
+
+[[v9-24-12]]
+
+^<<v9-24-12,12>>^ Vê meu pai, e reconhece a orla do teu manto (que tenho) na minha mão. Cortando a extremidade do teu manto, não quis estender a minha mão contra ti; adverte, pois, e vê que eu não sou culpado de nenhum mal, nem de nenhuma iniquidade, que não pequei contra ti; tu, porém, andas buscando meios de me tirar a vida.
+
+[[v9-24-13]]
+
+^<<v9-24-13,13>>^ O Senhor julgue entre mim e ti, e o Senhor me vingue de ti, mas nunca a minha mão seja contra ti.
+
+[[v9-24-14]]
+
+^<<v9-24-14,14>>^ Dos ímpios sairá a impiedade, diz o antigo provérbio; a minha mão, pois, não seja contra ti. (ver nota)
+
+[[v9-24-15]]
+
+^<<v9-24-15,15>>^ A quem persegues tu, ó rei de Israel? A quem persegues? Persegues um cão morto, e uma pulga.
+
+[[v9-24-16]]
+
+^<<v9-24-16,16>>^ O Senhor seja juiz, julgue entre mim e ti, examine e julgue a minha causa, e me livre da tua mão.
+
+[[v9-24-17]]
+
+^<<v9-24-17,17>>^ Tendo Davide acabado de dizer estas palavras a Saul, Saul disse: Porventura é esta a tua voz, ó meu filho Davide? Saul levantou a sua voz e chorou.
+
+[[v9-24-18]]
+
+^<<v9-24-18,18>>^ E disse a Davide: Tu és mais justo do que eu, porque tu tens-me feito bem, e eu tenho-te retribuído com mal.
+
+[[v9-24-19]]
+
+^<<v9-24-19,19>>^ Tu mostraste hoje os bens que me tens feito, pois que, tendo-me o Senhor entregue nas tuas mãos, tu não me mataste.
+
+[[v9-24-20]]
+
+^<<v9-24-20,20>>^ Pois quem há que, encontrando o seu inimigo, o deixe ir sem lhe fazer mal? O Senhor te faça bem, em troca do que hoje me fizeste.
+
+[[v9-24-21]]
+
+^<<v9-24-21,21>>^ E agora, porque sei que certissimamente hás-de reinar, que hás-de ter na tua mão o reino de Israel,
+
+[[v9-24-22]]
+
+^<<v9-24-22,22>>^ jura-me pelo Senhor que não aniquilarás a minha geração depois de mim, nem extinguirás o meu nome da casa de meu pai.
+
+[[v9-24-23]]
+
+^<<v9-24-23,23>>^ Davide assim o jurou a Saul. Voltou, pois, Saul para sua casa, e Davide, com a sua gente, retirou-se a lugares mais seguros.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-023.adoc#v9-23-0[&#60; Capítulo Anterior] | <<v9-24-0,Topo>> | xref:009-i-samuel/009-i-samuel-025.adoc#v9-25-0[Próximo Capítulo &#62;]

@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v25-7-0]]
+=== Eclesiastes, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiastes 7 aborda diversos temas, como a sabedoria, a morte, a paciência e a bondade. O capítulo também traz reflexões sobre a importância de não ser excessivamente justo ou ímpio, mas buscar sempre um equilíbrio na vida. Abaixo seguem cinco versículos relacionados com esses temas:
+* Provérbios 16:32: "Melhor é o longânimo do que o valente, e o que domina o seu espírito do que o que toma uma cidade." Este versículo fala sobre a importância da paciência e do autocontrole, algo que é abordado em Eclesiastes 7:8, onde se diz que é melhor ter paciência do que ser orgulhoso.
+* Salmos 90:12: "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio." Esse versículo fala sobre a importância de valorizar o tempo e buscar a sabedoria. Essa reflexão é abordada em Eclesiastes 7:8-10, que fala sobre a importância de se aproveitar cada dia e não se preocupar demais com o passado ou o futuro.
+* Provérbios 7:1-2: "Filho meu, guarda as minhas palavras, e esconde dentro de ti os meus mandamentos. Guarda os meus mandamentos e vive; e a minha lei, como as meninas dos teus olhos." Esse versículo fala sobre a importância de guardar a sabedoria e os mandamentos de Deus. Em Eclesiastes 7:12, a sabedoria é descrita como uma defesa e um benefício para aqueles que a possuem.
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa alcançará misericórdia." Esse versículo fala sobre a importância de ser honesto consigo mesmo e com os outros. Em Eclesiastes 7:20, a natureza pecaminosa do ser humano é abordada, e é dito que não há homem justo sobre a terra que faça o bem e nunca peque.
+* Salmos 41:1-2: "Bem-aventurado é aquele que atende ao pobre; o SENHOR o livrará no dia do mal. O SENHOR o guardará, e o conservará em vida; será abençoado na terra, e tu não o entregarás à vontade dos seus inimigos." Esse versículo fala sobre a importância da bondade e da generosidade. Em Eclesiastes 7:15, a importância de se evitar a impiedade e a injustiça é abordada, e é dito que a sabedoria pode proteger o homem da destruição causada por essas coisas.
+****
+
+[[v25-7-1]]
+
+^<<v25-7-1,1>>^ Quem sabe o que é bom para o homem na vida. durante os dias da sua vida de vaidade, que passa como a sombra? Ou quem lhe poderá mostrar o que está para suceder depois dele debaixo do sol?
+
+[[v25-7-2]]
+
+^<<v25-7-2,2>>^ É melhor o bom nome do que os perfumes preciosos, e o dia da morte (do justo) do que o dia do nascimento.
+
+[[v25-7-3]]
+
+^<<v25-7-3,3>>^ É melhor ir a uma casa que está de luto, do que a uma casa de banquete, porque naquela recorda-se (com proveito) o fim de todos os homens, e o que está vivo considera (indo lá) no que (um dia) lhe há-de acontecer.
+
+[[v25-7-4]]
+
+^<<v25-7-4,4>>^ É melhor a tristeza do que o riso, porque o rosto triste faz bem ao coração.
+
+[[v25-7-5]]
+
+^<<v25-7-5,5>>^ (E assim) o coração dos sábios está na casa de luto, e o coração dos insensatos na casa de alegria (frívola)
+
+[[v25-7-6]]
+
+^<<v25-7-6,6>>^ É melhor ser repreendido pelo sábio, do que ouvir o canto (de adulação) dos insensatos.
+
+[[v25-7-7]]
+
+^<<v25-7-7,7>>^ Com efeito, como o crepitar dos espinhos que ardem debaixo de uma panela, assim é o riso do Insensato; mas também isto é vaidade.
+
+[[v25-7-8]]
+
+^<<v25-7-8,8>>^ A opressão pode enlouquecer o sábio, e os presentes corrompem o coração.
+
+[[v25-7-9]]
+
+^<<v25-7-9,9>>^ É melhor o fim duma coisa do que o princípio. É melhor o homem paciente, do que o arrogante.
+
+[[v25-7-10]]
+
+^<<v25-7-10,10>>^ Não sejas fácil em te irar, porque a ira repousa no coração do insensato.
+
+[[v25-7-11]]
+
+^<<v25-7-11,11>>^ Não digas: Donde vem que os tempos passados foram melhores que os de agora? Semelhante pergunta não é inspirada pela sabedoria.
+
+[[v25-7-12]]
+
+^<<v25-7-12,12>>^ A sabedoria com riqueza é útil, e aproveita aos que vêem o sol.
+
+[[v25-7-13]]
+
+^<<v25-7-13,13>>^ Porque, assim como a sabedoria protege, assim também protege o dinheiro; mas a sabedoria tem a vantagem de dar a vida (sobrenatural) ao seu possuidor.
+
+[[v25-7-14]]
+
+^<<v25-7-14,14>>^ Considera as obras de Deus: quem poderá endireitar o que ele fez curvado? (ver nota)
+
+[[v25-7-15]]
+
+^<<v25-7-15,15>>^ Goza dos bens no dia bom, reflecte no dia mau, porque Deus, assim como fez este, assim também fez aquele de forma que o homem não descubra o que há-de acontecer.
+
+[[v25-7-16]]
+
+^<<v25-7-16,16>>^ Eu também vi isto nos dias da minha vaidade: um justo que perece na sua justiça, e um ímpio que vive muito tempo na sua malícia. (ver nota)
+
+[[v25-7-17]]
+
+^<<v25-7-17,17>>^ Não sejas demasiado justo nem demasiado sábio; pois, para que te queres arruinar? (ver nota)
+
+[[v25-7-18]]
+
+^<<v25-7-18,18>>^ Não faças muito mal e não sejas insensato, para que não venhas a morrer antes do tempo.
+
+[[v25-7-19]]
+
+^<<v25-7-19,19>>^ Bom é que tomes conta disto e não ponhas de lado aquilo, porque o que teme a Deus, nada descura.
+
+[[v25-7-20]]
+
+^<<v25-7-20,20>>^ A sabedoria fez o sábio mais forte do que dez príncipes de uma cidade.
+
+[[v25-7-21]]
+
+^<<v25-7-21,21>>^ Não há homem justo sobre a terra, que faça o bem e que não peque.
+
+[[v25-7-22]]
+
+^<<v25-7-22,22>>^ Não inclines o teu coração a ouvir todas palavras que se dizem, para que não ouças talvez o teu servo dizer mal de ti. (ver nota)
+
+[[v25-7-23]]
+
+^<<v25-7-23,23>>^ A tua consciência sabe que também tu muitas vezes tens dito mal dos outros.
+
+[[v25-7-24]]
+
+^<<v25-7-24,24>>^ Tudo isto quis buscar na sabedoria. Eu disse: "Far-me-ei sábio", — mas a sabedoria está longe de mim.
+
+[[v25-7-25]]
+
+^<<v25-7-25,25>>^ Continua distante o que estava distante, e profundo, o profundo : quem o poderá sondar?
+
+[[v25-7-26]]
+
+^<<v25-7-26,26>>^ Pus-me a explorar e buscar, com a minha mente, a sabedoria e a razão das coisas, e reconheci que a maldade é uma demência, e que uma conduta insensata é um delírio.
+
+[[v25-7-27]]
+
+^<<v25-7-27,27>>^ Achei que é mais amargosa do que a morte a mulher (corrompida), a qual é um laço de caçadores, sendo o seu coração uma rede, e as suas mãos umas cadeias. Aquele que agrada a Deus, fugirá dela; o que, porém, é pecador, será apanhado por ela.
+
+[[v25-7-28]]
+
+^<<v25-7-28,28>>^ Eis o que eu achei, diz o Eclesiaste, depois de ter conferido uma coisa com outra, para encontrar a razão.
+
+[[v25-7-29]]
+
+^<<v25-7-29,29>>^ O que, porém, a minha alma ainda busca, sem ter encontrado (é o seguinte): Entre mil homens achei um (digno deste nome), e entre todas as mulheres nem uma só achei.
+
+[[v25-7-30]]
+
+^<<v25-7-30,30>>^ O que eu únicamente achei foi que Deus criou o homem recto, e que ele mesmo se meteu em infinitas questões (e perigos). Quem é como o sábio? E quem conhece a explicação das coisas?
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-006.adoc#v25-6-0[&#60; Capítulo Anterior] | <<v25-7-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-008.adoc#v25-8-0[Próximo Capítulo &#62;]

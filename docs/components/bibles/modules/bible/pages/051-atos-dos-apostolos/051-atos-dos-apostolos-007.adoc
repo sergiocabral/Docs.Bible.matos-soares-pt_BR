@@ -1,0 +1,259 @@
+include::./index.adoc[]
+
+[[v51-7-0]]
+=== Atos dos Apóstolos, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Atos dos Apóstolos 7 narra o discurso de Estêvão antes de ser apedrejado até a morte. Ele defende a fé cristã diante dos líderes religiosos judeus, explicando a história do povo de Israel e apontando como Jesus é a realização das promessas de Deus. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Gênesis 12:1 - "Então o Senhor disse a Abrão: 'Saia da sua terra, do meio dos seus parentes e da casa de seu pai, e vá para a terra que eu lhe mostrarei'". Estêvão começa sua defesa citando a história de Abraão, que deixou sua terra natal para seguir a Deus.
+* Êxodo 3:5 - "Disse Deus: 'Não se aproxime. Tire as sandálias dos pés, pois o lugar em que você está é terra santa'". Estêvão menciona Moisés e sua experiência com Deus na sarça ardente para enfatizar que Deus é santo e digno de adoração.
+* Isaías 66:1-2 - "Assim diz o Senhor: 'O céu é o meu trono, e a terra, o estrado dos meus pés. O que vocês construirão para mim? Onde me edificarão um templo? Será que podem construir para mim um templo tão grandioso quanto eu? Desde quando fiz o universo, todas essas coisas existem'". Estêvão argumenta que Deus não pode ser limitado a um único lugar, como o templo em Jerusalém.
+* Jeremias 7:2-7 - "Ouçam a palavra do Senhor, todo o povo de Judá que entra por estas portas para adorar o Senhor. Assim diz o Senhor dos Exércitos, o Deus de Israel: 'Corrijam o caminho que estão seguindo e as coisas que estão fazendo, e eu os farei habitar neste lugar. Não confiem em palavras enganosas, dizendo: 'Este é o templo do Senhor, o templo do Senhor, o templo do Senhor!'. Se vocês corrigirem o caminho que estão seguindo e as coisas que estão fazendo, se de fato praticarem a justiça, cada um a seu próximo, e não oprimiram o estrangeiro, o órfão e a viúva, nem derramarem sangue inocente neste lugar, e se vocês não seguirem outros deuses para sua própria ruína, então eu os farei habitar neste lugar, nesta terra que dei aos seus antepassados para sempre'". Estêvão acusa os líderes religiosos de serem hipócritas, pois eles estavam desobedecendo a Deus e confiando em sua posição como líderes do templo em vez de obedecerem a Deus.
+* Salmo 110:1 - "O Senhor disse ao meu Senhor: 'Senta-te à minha direita até que eu ponha os teus inimigos como estrado para os teus pés'". Estêvão encerra seu discurso apontando para a exaltação de Jesus, que está à direita de Deus e é o verdadeiro líder e salvador.
+****
+
+[[v51-7-1]]
+
+^<<v51-7-1,1>>^ Então o sumo sacerdote perguntou-lhe: "Estas coisas são assim?"
+
+[[v51-7-2]]
+
+^<<v51-7-2,2>>^ Ele respondeu: Irmãos e pais, ouvi: O Deus da glória apareceu a nosso pai Abraão, quando estava na Mesopotâmia, antes de habitar em Caran,
+
+[[v51-7-3]]
+
+^<<v51-7-3,3>>^ e disse-lhe: Sai da tua terra e da tua parentela, e vem para a terra que eu te mostrar ([Gn. 12,1]).
+
+[[v51-7-4]]
+
+^<<v51-7-4,4>>^ Então saiu ele da terra dos caldeus e habitou em Caran. De lá, depois que morreu seu pai, (Deus) o fez passar a esta terra, na qual agora habitais.
+
+[[v51-7-5]]
+
+^<<v51-7-5,5>>^ E não lhe deu herança nela, nem o espaço de um pé, mas prometeu dar-lhe a posse dela a ele e à sua posteridade depois dele, quando ainda não tinha filhos.
+
+[[v51-7-6]]
+
+^<<v51-7-6,6>>^ Deus disse-lhe que a sua descendência seria peregrina em terra estranha, a reduziriam à escravidão, e a maltratariam pelo espaço de quatrocentos anos.
+
+[[v51-7-7]]
+
+^<<v51-7-7,7>>^ Mas a nação, de quem tiver sido escrava, eu a julgarei, disse o Senhor, depois do que sairão e me adorarão neste lugar. (Gen. 16,13-14).
+
+[[v51-7-8]]
+
+^<<v51-7-8,8>>^ E deu-lhe a aliança da circuncisão; e assim gerou Isaac e o circuneidou, passados oito dias. Isaac (gerou e circuneidou) Jacob, e Jacob os doze patriarcas.
+
+[[v51-7-9]]
+
+^<<v51-7-9,9>>^ Os patriarcas, invejosos de José, venderam-no para ser levado ao Egipto, mas Deus estava com ele. (ver nota)
+
+[[v51-7-10]]
+
+^<<v51-7-10,10>>^ Livrou-o de todas as suas atribulações, deu-lhe graça e sabedoria diante de Faraó, rei do Egipto, o qual o fez governador do Egipto e de toda a sua casa.
+
+[[v51-7-11]]
+
+^<<v51-7-11,11>>^ Veio depois a fome por toda a terra do Egipto e de Canaan, e uma grande tribulação, e os nossos pais não achavam que comer.
+
+[[v51-7-12]]
+
+^<<v51-7-12,12>>^ Tendo Jacob ouvido dizer que havia trigo no Egipto, enviou (lá) nossos pais uma primeira vez;
+
+[[v51-7-13]]
+
+^<<v51-7-13,13>>^ na segunda, José foi reconhecido por seus irmãos, e foi descoberta ao Faraó a sua linhagem.
+
+[[v51-7-14]]
+
+^<<v51-7-14,14>>^ José mandou chamar seu pai Jacob e toda a sua família que constava de setenta e cinco pessoas.
+
+[[v51-7-15]]
+
+^<<v51-7-15,15>>^ Jacob desceu ao Egipto, onde morreu com nossos pais.
+
+[[v51-7-16]]
+
+^<<v51-7-16,16>>^ Foram trasladados para Siquiem e postos no sepulcro que Abraão tinha comprado à custa de dinheiro aos filhos de Hemor, em Siquem,
+
+[[v51-7-17]]
+
+^<<v51-7-17,17>>^ Mas, aproximando-se o tempo do cumprimento da promessa que Deus tinha feito com juramento a Abraão, o povo cresceu e multiplicou-se no Egipto, (ver nota)
+
+[[v51-7-18]]
+
+^<<v51-7-18,18>>^ até que apareceu outro rei no Egipto, que não tinha conhecimento de José.
+
+[[v51-7-19]]
+
+^<<v51-7-19,19>>^ Este, usando de astúcia contra a nossa raça, maltratou os nossos pais até ao ponto de os obrigar a expor seus filhos, para que não vivessem.
+
+[[v51-7-20]]
+
+^<<v51-7-20,20>>^ Naquele tempo nasceu Moisés, que era agradável a Deus. Foi criado (ocultamente) durante trés meses em casa de seu pai.
+
+[[v51-7-21]]
+
+^<<v51-7-21,21>>^ Depois, quando foi exposto, a filha de Faraó recolheu-o e criou-o como seu filho.
+
+[[v51-7-22]]
+
+^<<v51-7-22,22>>^ Moisés foi instruído em toda a ciência dos Egípcios, e era poderoso em palavras e obras.
+
+[[v51-7-23]]
+
+^<<v51-7-23,23>>^ Quando completou a idade de quarenta anos, veio-lhe ao coração o (desejo de) visitar seus irmãos, os filhos de Israel.
+
+[[v51-7-24]]
+
+^<<v51-7-24,24>>^ Vendo que um era maltratado, o defendeu, e vingou o que padecia a injúria, matando o egípcio.
+
+[[v51-7-25]]
+
+^<<v51-7-25,25>>^ Ora ele julgava que seus irmãos compreenderiam que Deus os havia de libertar por sua mão; mas eles não o compreenderam.
+
+[[v51-7-26]]
+
+^<<v51-7-26,26>>^ No dia seguinte, encontrou uns deles em rixa, e, querendo reconciliá-los, disse: Ó homens, vós sois irmãos, por que vos maltratais um ao outro?
+
+[[v51-7-27]]
+
+^<<v51-7-27,27>>^ Mas o que fazia injúria ao seu concidadão o repeliu, dizendo: Quem te constituiu chefe e juiz sobre nós? (ver nota)
+
+[[v51-7-28]]
+
+^<<v51-7-28,28>>^ Quereis porventura matar-me, como mataste ontem o egipcio?
+
+[[v51-7-29]]
+
+^<<v51-7-29,29>>^ A esta palavra Moisés fugiu e foi habitar na terra de Madian, onde gerou dois filhos.
+
+[[v51-7-30]]
+
+^<<v51-7-30,30>>^ Passados quarenta anos, apareceu-lhe no deserto do monte Sinai um anjo na chama de uma sarça que ardia. (ver nota)
+
+[[v51-7-31]]
+
+^<<v51-7-31,31>>^ Vendo isto, Moisés admirou-se de tal aparição, e, aproximando-se para observar, ouviu a voz do Senhor, que lhe disse:
+
+[[v51-7-32]]
+
+^<<v51-7-32,32>>^ Eu sou o Deus de teus pais, O Deus de Abraão, de Isaac e Jacob. Moisés, porém, aterrado, não ousava olhar.
+
+[[v51-7-33]]
+
+^<<v51-7-33,33>>^ O Senhor disse-lhe: Tira os sapatos dos teus pés, porque o lugar, onde estás, é uma terra santa.
+
+[[v51-7-34]]
+
+^<<v51-7-34,34>>^ Eu vi e considerei a aflição do meu povo, que reside no Egipto, ouvi os seus gemidos e desci a livrá-lo. Vem, pois, agora, e enviar-te-ei ao Egipto.
+
+[[v51-7-35]]
+
+^<<v51-7-35,35>>^ A este Moisés, a quem renegaram, dizendo: Quem te constituiu chefe e juiz? a este enviou Deus como chefe e libertador, pela mão do anjo que lhe apareceu na sarça.
+
+[[v51-7-36]]
+
+^<<v51-7-36,36>>^ Ele os fez sair, operando prodígios e milagres na terra do Egipto, no mar Vermelho e no deserto, durante quarenta anos.
+
+[[v51-7-37]]
+
+^<<v51-7-37,37>>^ Este é aquele Moisés que disse aos filhos de Israel: Deus vos suscitará dentre vossos irmãos um profeta como eu (Dt. 18, 15).
+
+[[v51-7-38]]
+
+^<<v51-7-38,38>>^ Este é o que esteve no meio da assembleia do povo no deserto com o Anjo, que lhe falava no monte Sinai, e com os nossos país, e o que recebeu palavras de vida, para no-las transmitir;
+
+[[v51-7-39]]
+
+^<<v51-7-39,39>>^ ele, a quem nossos pais não quiseram obedecer, antes repeliram. Voltaram-se em seus corações para o Egipto,
+
+[[v51-7-40]]
+
+^<<v51-7-40,40>>^ dizendo a Aarão; Faze-nos deuses, que vão adiante de nós, porque esse Moisés,' que nos tirou da terra do Egipto, não sabemos o que foi feito dele (Ex. 32,t-23).
+
+[[v51-7-41]]
+
+^<<v51-7-41,41>>^ Naqueles dias, fizeram um bezerro (de ouro) e ofereceram sacrifício ao ídolo, e alegravam-se das obras das suas mãos.
+
+[[v51-7-42]]
+
+^<<v51-7-42,42>>^ Mas Deus afastou-se deles e abandonou-os ao culto da milicia do céu, como está escrito no livro dos profetas: Por ventura oferecestes-me vós, casa de Israel, algumas vitimas e sacrifícios pelo espaço de quarenta anos no deserto? (ver nota)
+
+[[v51-7-43]]
+
+^<<v51-7-43,43>>^ Transportastes a tenda de Moloch e o astro do vosso deus Renfa, figuras que fizestes para as adorar. Pois eu vos transportarei para além de Babilônia (Am . 5,25-27).
+
+[[v51-7-44]]
+
+^<<v51-7-44,44>>^ O tabernáculo do testemunho esteve entre os nossos pais no deserto, segundo a ordem daquele que tinha prescrito a Moisés que o construísse segundo o modelo que tinha visto.
+
+[[v51-7-45]]
+
+^<<v51-7-45,45>>^ Nossos pais, tendo-o recebido, levaram-no sob a direcção de Josué, quando foram tomar posse da terra das nações, que Deus lançou de diante de nossos pais, até aos dias de David, (ver nota)
+
+[[v51-7-46]]
+
+^<<v51-7-46,46>>^ O qual achou graça diante de Deus, o pediu que lhe fosse permitido construir um tabernáculo para o Deus de Jacob. (ver nota)
+
+[[v51-7-47]]
+
+^<<v51-7-47,47>>^ Todavia foi Salomão que lhe edificou uma casa.
+
+[[v51-7-48]]
+
+^<<v51-7-48,48>>^ Porém o Altíssimo não habitava em templos feitos pela mão do homem, como diz o profeta;
+
+[[v51-7-49]]
+
+^<<v51-7-49,49>>^ O céu é o meu trono, e a terra o escabelo dos meus pés. Que casa me edificareis vós, diz o Senhor? Ou qual é o lugar do meu repouso?
+
+[[v51-7-50]]
+
+^<<v51-7-50,50>>^ Não fez porventura a minha mão todas estas coisas (Is. 66, 12).
+
+[[v51-7-51]]
+
+^<<v51-7-51,51>>^ Homens de cerviz dura, incircuncisos de coração e ouvidos, vós resistis sempre ao Espírito Santo; assim como (foram) vossos pais, assim (sois) vós também. (ver nota)
+
+[[v51-7-52]]
+
+^<<v51-7-52,52>>^ A qual dos profetas não perseguiram vossos pais? Mataram até os que prediziam a vinda do Justo, do qual agora fostes traidores e homicidas,
+
+[[v51-7-53]]
+
+^<<v51-7-53,53>>^ vós, que recebestes a lei por ministério dos anjos, e não a guardastes."
+
+[[v51-7-54]]
+
+^<<v51-7-54,54>>^ Ao ouvir tais palavras, enraiveciam-se nos seus corações e rangiam os dentes contra ele.
+
+[[v51-7-55]]
+
+^<<v51-7-55,55>>^ Mas, como ele estava cheio do Espírito Santo, olhando para o céu, viu a glória de Deus e Jesus que estava em pé à direita de Deus.
+
+[[v51-7-56]]
+
+^<<v51-7-56,56>>^ E disse: "Eis que vejo os céus abertos, e o Filho do homem, em pé, à direita de Deus."
+
+[[v51-7-57]]
+
+^<<v51-7-57,57>>^ Então eles, levantando um grande clamor, taparam os ouvidos, e todos juntos arremeteram contra ele com fúria.
+
+[[v51-7-58]]
+
+^<<v51-7-58,58>>^ E, tendo-o lançado fora da cidade, o apedrejavam; as testemunhas depuseram os seus vestidos aos pés de um jovem chamado Saulo.
+
+[[v51-7-59]]
+
+^<<v51-7-59,59>>^ Enquanto apedrejavam Estêvão, ele orava assim: "Senhor Jesus, recebe o meu espirito."
+
+[[v51-7-60]]
+
+^<<v51-7-60,60>>^ Depois posto de joelhos, clamou em voz alta: "Senhor, não lhes imputes este pecado." Tendo dito isto, adormeceu no Senhor.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-006.adoc#v51-6-0[&#60; Capítulo Anterior] | <<v51-7-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-008.adoc#v51-8-0[Próximo Capítulo &#62;]

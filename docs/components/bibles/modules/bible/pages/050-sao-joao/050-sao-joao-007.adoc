@@ -1,0 +1,231 @@
+include::./index.adoc[]
+
+[[v50-7-0]]
+=== São João, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 7 do Evangelho de João, Jesus vai a Jerusalém para a festa dos tabernáculos e ensina no templo. Ele enfrenta a oposição dos líderes religiosos e fala sobre sua missão e sua relação com Deus. Abaixo estão cinco versículos da Bíblia relacionados aos temas abordados em João 7:
+* Provérbios 1:22 - "Até quando, ó simples, amareis a simplicidade? E vós escarnecedores, desejareis o escárnio? E vós loucos, aborrecereis o conhecimento?" - Este versículo aborda a rejeição da sabedoria e do conhecimento, temas que são discutidos em João 7, onde os líderes religiosos se opõem à mensagem de Jesus.
+* João 5:39 - "Examinai as Escrituras, porque vós cuidais ter nelas a vida eterna, e são elas que de mim testificam" - Jesus usa as Escrituras para mostrar sua relação com Deus e cumprir a profecia. Este versículo destaca a importância da leitura e estudo das Escrituras.
+* João 7:16 - "A minha doutrina não é minha, mas daquele que me enviou" - Jesus ensina que sua mensagem vem de Deus e não de si mesmo. Este versículo é importante porque Jesus afirma sua autoridade e sua relação com Deus.
+* João 7:37-38 - "No último dia, o grande dia da festa, Jesus pôs-se em pé, e clamou, dizendo: Se alguém tem sede, venha a mim, e beba. Quem crê em mim, como diz a Escritura, rios de água viva correrão do seu ventre." - Este versículo destaca a oferta de Jesus de satisfazer a sede espiritual das pessoas e seu poder para dar vida eterna.
+* João 7:52 - "Responderam-lhe eles: És tu também da Galiléia? Examina e vê que da Galiléia nunca se levantou profeta" - Este versículo mostra a descrença dos líderes religiosos em Jesus e sua origem. É um exemplo da oposição que Jesus enfrenta em seu ministério.
+****
+
+[[v50-7-1]]
+
+^<<v50-7-1,1>>^ Depois disto, andava Jesus pela Galileia; não queria andar pela Judeia, visto que os Judeus queriam matar.
+
+[[v50-7-2]]
+
+^<<v50-7-2,2>>^ Estava próxima a festa dos Judeus, chamada dos Tabernáculos.
+
+[[v50-7-3]]
+
+^<<v50-7-3,3>>^ Disseram-lhe, pois, seus irmãos: "Sai daqui e vai para a Judeia, a fim de que também os teus discípulos vejam as obras que fazes.
+
+[[v50-7-4]]
+
+^<<v50-7-4,4>>^ Porque ninguém que deseja ser conhecido em público, faz coisa alguma em segredo. Já que fazes estas coisas, manifesta-te ao mundo."
+
+[[v50-7-5]]
+
+^<<v50-7-5,5>>^ Nem mesmo os seus irmãos criam nele.
+
+[[v50-7-6]]
+
+^<<v50-7-6,6>>^ Ainda não chegou o meu tempo de entrar triunfalmente em Jerusalém; vós, porém, podeis ir em qualquer ocasião à cidade santa, porque nada tendes a temer.
+
+[[v50-7-7]]
+
+^<<v50-7-7,7>>^ O mundo não pode odiar-vos, mas odeia-me a mim, porque faço ver que as suas obras são más.
+
+[[v50-7-8]]
+
+^<<v50-7-8,8>>^ Vós ide a essa festa; eu não vou (publicamente) a essa festa, porque não está ainda completo o meu tempo."
+
+[[v50-7-9]]
+
+^<<v50-7-9,9>>^ Tendo dito isto, deixou-se ficar na Galileia.
+
+[[v50-7-10]]
+
+^<<v50-7-10,10>>^ Mas, quando seus irmãos já tinham partido, então foi ele também à festa, não descobertamente, mas incógnito.
+
+[[v50-7-11]]
+
+^<<v50-7-11,11>>^ Ora os Judeus procuravam-no no dia da festa, e diziam: "Onde está ele?"
+
+[[v50-7-12]]
+
+^<<v50-7-12,12>>^ E havia um grande rumor entre o povo acerca dele. Uns diziam: "É um homem de bem." Outros, porém, diziam: "Não é, antes engana o povo."
+
+[[v50-7-13]]
+
+^<<v50-7-13,13>>^ Ninguém, contudo, ousava falar dele livremente, com medo dos Judeus.
+
+[[v50-7-14]]
+
+^<<v50-7-14,14>>^ Estando já em meio os dias da festa, foi Jesus ao templo, e ensinava.
+
+[[v50-7-15]]
+
+^<<v50-7-15,15>>^ Admiravam-se os Judeus, dizendo: "Como sabe este as Escrituras, não tendo estudado?"
+
+[[v50-7-16]]
+
+^<<v50-7-16,16>>^ Jesus respondeu-lhes: "A minha doutrina não é minha, mas daquele que me enviou.
+
+[[v50-7-17]]
+
+^<<v50-7-17,17>>^ Se alguém quiser fazer a vontade dele, reconhecerá se a minha doutrina vem de Deus, ou se falo de mim mesmo.
+
+[[v50-7-18]]
+
+^<<v50-7-18,18>>^ Quem fala de si mesmo, busca a própria glória; mas aquele que busca a glória de quem o enviou, esse é verdadeiro, e não há nele iniquidade.
+
+[[v50-7-19]]
+
+^<<v50-7-19,19>>^ Porventura não vos deu Moisés a lei? E, contudo, nenhum de vós observa a lei.
+
+[[v50-7-20]]
+
+^<<v50-7-20,20>>^ Porque procurais vós matar-me? "O povo respondeu: "Tu estás possesso do demônio; quem procura matar-te?"
+
+[[v50-7-21]]
+
+^<<v50-7-21,21>>^ Jesus replicou-lhes: "Eu fiz uma só obra, e todos estais por isso maravilhados.
+
+[[v50-7-22]]
+
+^<<v50-7-22,22>>^ Vós, contudo, porque Moisés vos deu a circuncisão (se bem que ela não vem de Moisés, mas dos patriarcas), circuncidais-vos, mesmo em dia de sábado.
+
+[[v50-7-23]]
+
+^<<v50-7-23,23>>^ Se, para não se violar a lei de Moisés, recebe um homem a circuncisão em dia de sábado, porque vos indignais comigo porque em dia de sábado curei um homem em todo o seu corpo?
+
+[[v50-7-24]]
+
+^<<v50-7-24,24>>^ Não julgueis segundo a aparência, mas julgai segundo a justiça."
+
+[[v50-7-25]]
+
+^<<v50-7-25,25>>^ Então alguns de Jerusalém diziam: "Não é este aquele que procuram matar?
+
+[[v50-7-26]]
+
+^<<v50-7-26,26>>^ Eis que fala com toda a liberdade e não lhe dizem nada. Será que os chefes do povo tenham verdadeiramente reconhecido que este é o Cristo?
+
+[[v50-7-27]]
+
+^<<v50-7-27,27>>^ Nós, porém, sabemos donde este é; e o Cristo, quando vier, ninguém saberá donde ele seja."
+
+[[v50-7-28]]
+
+^<<v50-7-28,28>>^ Jesus, que ensinava no templo, exclamou: "Vós me conheceis, e sabeis donde eu sou... eu não vim de mim mesmo, mas é verdadeiro aquele que me enviou, a quem vós não conheceis. (ver nota)
+
+[[v50-7-29]]
+
+^<<v50-7-29,29>>^ Mas eu conheço-o, porque procedo dele, e ele me enviou."
+
+[[v50-7-30]]
+
+^<<v50-7-30,30>>^ Procuraram então prendê-lo; mas ninguém lhe lançou as mãos, porque não tinha ainda chegado a sua hora.
+
+[[v50-7-31]]
+
+^<<v50-7-31,31>>^ Muitos do povo creram nele, e diziam: "Quando vier o Cristo, fará ele maior número de prodígios que os que este faz?"
+
+[[v50-7-32]]
+
+^<<v50-7-32,32>>^ Os fariseus ouviram este rumor que dele fazia o povo; e os príncipes dos sacerdotes e os fariseus enviaram guardas para o prenderem.
+
+[[v50-7-33]]
+
+^<<v50-7-33,33>>^ Jesus disse-lhes: "Ainda por um pouco estou convosco, depois vou para aquele que me enviou.
+
+[[v50-7-34]]
+
+^<<v50-7-34,34>>^ Vós me buscareis, e não me encontrareis; nem vós podeis vir onde eu estou."
+
+[[v50-7-35]]
+
+^<<v50-7-35,35>>^ Os Judeus disseram, pois, entre si: "Para onde é que irá ele, que o não encontraremos? Irá, porventura, para os que se acham dispersos entre as nações, e pregará aos gentios?
+
+[[v50-7-36]]
+
+^<<v50-7-36,36>>^ Que quer dizer esta palavra que ele nos disse: Vós me buscareis, e não me encontrareis, e onde eu estou, vós não podeis vir?"
+
+[[v50-7-37]]
+
+^<<v50-7-37,37>>^ No ultimo dia, o maior da festa, estava Jesus em pé, e em alta voz dizia: "Se alguém tem sede, venha a mim e beba.
+
+[[v50-7-38]]
+
+^<<v50-7-38,38>>^ O que crê em mim, como diz a Escritura (Is. 44, 3 ; Is. 55, 1 ; Ez. 47, 1 ...) do seu seio correrão rios de água viva."
+
+[[v50-7-39]]
+
+^<<v50-7-39,39>>^ Ora ele dizia isto falando do Espírito que haviam de receber os que cressem nele; porque ainda não tinha sido dado o Espírito, por não ter sido ainda glorificado Jesus.
+
+[[v50-7-40]]
+
+^<<v50-7-40,40>>^ Entretanto alguns daquela multidão, tendo ouvido estas palavras, diziam: "Este é verdadeiramente profeta."
+
+[[v50-7-41]]
+
+^<<v50-7-41,41>>^ Outros diziam: "Este é o Cristo." Alguns, porém, diziam: "Porventura é da Galileia que há-de vir o Cristo?
+
+[[v50-7-42]]
+
+^<<v50-7-42,42>>^ Não diz a Escritura: Que o Cristo há-de vir da geração de David e da aldeia de Belém, onde habitava David?." (R. 7,12 ; Ps. 88, 3-4 ; Mic. 5, 2)
+
+[[v50-7-43]]
+
+^<<v50-7-43,43>>^ Houve, portanto, dissenção entre o povo acerca dele.
+
+[[v50-7-44]]
+
+^<<v50-7-44,44>>^ Alguns deles queriam prendê-lo, mas nenhum pôs as mãos sobre ele.
+
+[[v50-7-45]]
+
+^<<v50-7-45,45>>^ Voltaram, pois, os guardas para os príncipes dos sacerdotes e fariseus, que lhes disseram: "Porque o não trouxestes preso?"
+
+[[v50-7-46]]
+
+^<<v50-7-46,46>>^ Os guardas responderam: "Nunca homem algum falou como este homem."
+
+[[v50-7-47]]
+
+^<<v50-7-47,47>>^ Os fariseus replicaram: "Por ventura também vós fostes seduzidos?
+
+[[v50-7-48]]
+
+^<<v50-7-48,48>>^ Houve, porventura, algum dentre os chefes do povo ou dos fariseus que cresse nele?
+
+[[v50-7-49]]
+
+^<<v50-7-49,49>>^ Quanto a esta plebe, que não conhece a lei, é maldita."
+
+[[v50-7-50]]
+
+^<<v50-7-50,50>>^ Nicodemos disse-lhes, que era um deles (o que tinha ido de noite ter com Jesus):
+
+[[v50-7-51]]
+
+^<<v50-7-51,51>>^ "A nossa lei condena, porventura, algum homem, antes de o ouvir, e antes de se informar sobre o que ele fez?"
+
+[[v50-7-52]]
+
+^<<v50-7-52,52>>^ Responderam: "És tu também galileu? Examina as Escrituras, e verás que da Galileia não sai profeta."
+
+[[v50-7-53]]
+
+^<<v50-7-53,53>>^ E foi cada um para sua casa.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-006.adoc#v50-6-0[&#60; Capítulo Anterior] | <<v50-7-0,Topo>> | xref:050-sao-joao/050-sao-joao-008.adoc#v50-8-0[Próximo Capítulo &#62;]

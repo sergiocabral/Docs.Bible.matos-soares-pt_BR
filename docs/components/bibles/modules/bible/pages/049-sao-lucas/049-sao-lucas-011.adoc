@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v49-11-0]]
+=== São Lucas, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 de São Lucas começa com os discípulos pedindo a Jesus que os ensine a orar. Em seguida, Jesus explica a importância da perseverança na oração e ensina sobre a relação entre pais e filhos. Ele também repreende os fariseus por sua hipocrisia e falta de amor a Deus. Por fim, Jesus alerta sobre o perigo de rejeitar a sabedoria de Deus e a necessidade de praticar a palavra de Deus em nossas vidas.
+* Provérbios 8:17: "Eu amo aqueles que me amam, e os que me procuram me encontram." Este versículo fala sobre a importância de buscar a sabedoria divina, tema que é abordado em várias partes do capítulo 11 de Lucas.
+* Mateus 6:7: "E, orando, não useis de vãs repetições, como os gentios, que pensam que por muito falar serão ouvidos." Esse versículo está relacionado ao ensinamento de Jesus sobre a oração, que é um tema central do capítulo 11 de Lucas.
+* Tiago 1:22: "E sede cumpridores da palavra, e não somente ouvintes, enganando-vos a vós mesmos." Esse versículo fala sobre a importância de praticar a palavra de Deus, algo que Jesus enfatiza ao final do capítulo 11 de Lucas.
+* Mateus 23:23: "Ai de vós, escribas e fariseus, hipócritas! pois que dizimais a hortelã, o endro e o cominho, e desprezais o mais importante da lei, o juízo, a misericórdia e a fé; deveis, porém, fazer estas coisas, e não omitir aquelas." Este versículo se relaciona com a repreensão que Jesus faz aos fariseus por sua hipocrisia e falta de amor a Deus no capítulo 11 de Lucas.
+* 1 João 5:14: "E esta é a confiança que temos nele, que, se pedirmos alguma coisa, segundo a sua vontade, ele nos ouve." Esse versículo está relacionado ao ensinamento de Jesus sobre a importância de perseverar na oração, tema abordado no início do capítulo 11 de Lucas.
+****
+
+[[v49-11-1]]
+
+^<<v49-11-1,1>>^ Estando ele a fazer oração em certo lugar, quando acabou, um dos seus discípulos disse-lhe: "Senhor, ensina-nos a orar, assim como também João ensinou aos seus discípulos."
+
+[[v49-11-2]]
+
+^<<v49-11-2,2>>^ Ele respondeu-lhes: "Quando orardes, dizei: Pai, santificado seja o teu nome. Venha o teu reino.
+
+[[v49-11-3]]
+
+^<<v49-11-3,3>>^ O pão nosso de cada dia nos dá hoje;
+
+[[v49-11-4]]
+
+^<<v49-11-4,4>>^ perdoa-nos os nossos pecados, pois que também nós perdoámos aos que nos ofenderam; e não nos deixes cair em tentação."
+
+[[v49-11-5]]
+
+^<<v49-11-5,5>>^ Disse-lhes mais: "Se algum de vós tiver um amigo, e for ter com ele à meia-noite para lhe dizer: "Amigo, empresta-me três pães,
+
+[[v49-11-6]]
+
+^<<v49-11-6,6>>^ porque um meu amigo acaba de chegar a minha casa de uma viagem, e não tenho nada que lhe dar;
+
+[[v49-11-7]]
+
+^<<v49-11-7,7>>^ e ele, respondendo lá de dentro, disser; Não me sejas importuno, a porta está agora fechada, os meus filhos e eu estamos deitados; não me posso levantar para tos dar...
+
+[[v49-11-8]]
+
+^<<v49-11-8,8>>^ digo-vos que, ainda que ele se não levantasse a dar-lhos, por ser seu amigo, certamente pela sua importunação se levantará, e lhe dará tudo aquilo de que precisar.
+
+[[v49-11-9]]
+
+^<<v49-11-9,9>>^ Eu digo-vos: Pedi, e dár-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á.
+
+[[v49-11-10]]
+
+^<<v49-11-10,10>>^ Porque todo aquele que pede, recebe; e o que busca, encontra; e ao que bate, se lhe abrirá.
+
+[[v49-11-11]]
+
+^<<v49-11-11,11>>^ Se um filho pedir pão, qual é entre vós o pai que lhe dará uma pedra? Ou, se lhe pedir um peixe, dar-lhe-á ele, em vez do peixe, uma serpente?
+
+[[v49-11-12]]
+
+^<<v49-11-12,12>>^ Ou se lhe pedir um ovo, porventura dar-lhe-á um escorpião?
+
+[[v49-11-13]]
+
+^<<v49-11-13,13>>^ Se pois vós, sendo maus, sabeis dar boas dádivas a vossos filhos, quanto mais o vosso Pai celestial dará o Espírito Santo aos que lho pedirem."
+
+[[v49-11-14]]
+
+^<<v49-11-14,14>>^ Jesus estava expelindo um demônio, que era mudo. Depois de ter expelido o demônio, o mudo falou, e as multidões ficaram maravilhadas.
+
+[[v49-11-15]]
+
+^<<v49-11-15,15>>^ Mas alguns disseram: "Ele expele os demônios por virtude de Belzebu, príncipe dos demônios."
+
+[[v49-11-16]]
+
+^<<v49-11-16,16>>^ Outros, para o tentarem, pediam-lhe um prodígio vindo do céu.
+
+[[v49-11-17]]
+
+^<<v49-11-17,17>>^ Ele, porém, conhecendo os seus pensamentos, disse-Ihes: "Todo o reino dividido contra si mesmo será devastado, e cairá casa sobre casa.
+
+[[v49-11-18]]
+
+^<<v49-11-18,18>>^ Se, pois, Satanás está dividido contra si mesmo, como estará em pé o seu reino? Porque vós dizeis que por virtude de Belzebu é que eu lanço fora os demônios.
+
+[[v49-11-19]]
+
+^<<v49-11-19,19>>^ Ora, se é por virtude de Belzebu que eu lanço fora os demônios, vossos filhos por virtude de quem os expelem? Por isso eles mesmos serão os vossos juízes.
+
+[[v49-11-20]]
+
+^<<v49-11-20,20>>^ Mas se eu, pelo dedo de Deus, lanço fora os demônios, certamente chegou a vós o reino de Deus. (ver nota)
+
+[[v49-11-21]]
+
+^<<v49-11-21,21>>^ Quando um valente armado, guarda o seu palácio, estão em segurança os bens que possui;
+
+[[v49-11-22]]
+
+^<<v49-11-22,22>>^ porém, se, sobrevindo outro mais valente do que ele, o vencer, tira-lhe as armas, em que confiava, e reparte os seus despojos. (ver nota)
+
+[[v49-11-23]]
+
+^<<v49-11-23,23>>^ Quem não é comigo, é contra mim; e quem não colhe comigo desperdiça.
+
+[[v49-11-24]]
+
+^<<v49-11-24,24>>^ Quando o espírito imundo saiu de um homem, anda por lugares secos, buscando repouso. Não o encontrando, diz: Voltarei para minha casa, donde sai. (ver nota)
+
+[[v49-11-25]]
+
+^<<v49-11-25,25>>^ Quando vem, a encontra varrida e adornada.
+
+[[v49-11-26]]
+
+^<<v49-11-26,26>>^ Então vai, toma consigo outros sete espíritos piores do que ele, e, entrando, habitam ali. E o último estado daquele homem torna-se pior do que o primeiro."
+
+[[v49-11-27]]
+
+^<<v49-11-27,27>>^ Aconteceu que, enquanto ele dizia estas palavras, uma mulher, levantando a voz do meio da multidão, disse-lhe: "Bem-aventurado o ventre que te trouxe, e os peitos a que foste amamentado."
+
+[[v49-11-28]]
+
+^<<v49-11-28,28>>^ Porém ele disse: "Antes bem-aventurados aqueles que ouvem a palavra de Deus, e a põem em prática." (ver nota)
+
+[[v49-11-29]]
+
+^<<v49-11-29,29>>^ Concorrendo as multidões, começou a dizer: "Esta geração é uma geração perversa; pede um sinal, mas não lhe será dado outro sinal, senão o sinal do profeta Jonas.
+
+[[v49-11-30]]
+
+^<<v49-11-30,30>>^ Porque, assim como Jonas foi um sinal para os ninivitas, assim o Filho do homem será um sinal para esta geração.
+
+[[v49-11-31]]
+
+^<<v49-11-31,31>>^ A rainha do meio-dia levantar-se-á no dia de juízo contra os homens desta geração, e condená-los-á, porque veio da extremidade da terra ouvir a sabedoria de Salomão; entretanto, eis aqui está quem é mais do que Salomão.
+
+[[v49-11-32]]
+
+^<<v49-11-32,32>>^ Os ninivitas levantar-se-ão no (dia de) juízo contra esta geração, e condená-la-ão, porque fizeram penitência com a pregação de Jonas; entretanto eis aqui está quem é mais do que Jonas!
+
+[[v49-11-33]]
+
+^<<v49-11-33,33>>^ Ninguém acende uma lucerna, e a põe em lugar escondido, nem debaixo do alqueire, mas sobre o candelabro, para que os que entram vejam a luz.
+
+[[v49-11-34]]
+
+^<<v49-11-34,34>>^ O teu olho é a lucerna do teu corpo. Se o teu olho for puro, todo o teu corpo terá luz; se, porém, for mau, também o teu corpo estará nas trevas. (ver nota)
+
+[[v49-11-35]]
+
+^<<v49-11-35,35>>^ Vê, pois, que a luz que está em ti não seja trevas.
+
+[[v49-11-36]]
+
+^<<v49-11-36,36>>^ Se, pois, o teu corpo for todo lúcido, sem ter parte alguma escura, todo ele será luminoso, e iluminar-te-á como uma lâmpada resplandecente."
+
+[[v49-11-37]]
+
+^<<v49-11-37,37>>^ Enquanto Jesus falava, um fariseu convidou-o a ir jantar com ele. Tendo entrado, pôs-se à mesa.
+
+[[v49-11-38]]
+
+^<<v49-11-38,38>>^ Ora o fariseu estranhou que ele não se tivesse lavado antes de comer.
+
+[[v49-11-39]]
+
+^<<v49-11-39,39>>^ Mas o Senhor disse-lhe: "Agora vós os fariseus limpais o que está por fora do vaso e do prato; mas o vosso interior está cheio de rapina e de iniquidade.
+
+[[v49-11-40]]
+
+^<<v49-11-40,40>>^ Néscios, quem fez o que está de fora, não fez também o que está por dentro?
+
+[[v49-11-41]]
+
+^<<v49-11-41,41>>^ Dai contudo esmola segundo os vossos meios, e tudo será puro para vós. (ver nota)
+
+[[v49-11-42]]
+
+^<<v49-11-42,42>>^ Mas ai de vós, fariseus, que pagais o dízimo da hortelã, da arruda, de toda a casta de ervas, e desprezais a justiça e o amor de Deus! Era necessário praticar estas coisas, mas não omitir aquelas.
+
+[[v49-11-43]]
+
+^<<v49-11-43,43>>^ Ai de vós, fariseus, que gostais de ter as primeiras cadeiras nas sinagogas, e as saudações nas praças!
+
+[[v49-11-44]]
+
+^<<v49-11-44,44>>^ Ai de vós, porque sois como os sepulcros que não se vêem, e sobre os quais se anda sem saber!"
+
+[[v49-11-45]]
+
+^<<v49-11-45,45>>^ Então um dos doutores da lei, tomando a palavra, disse-lhe: "Mestre, falando assim, também nos ofendes a nós."
+
+[[v49-11-46]]
+
+^<<v49-11-46,46>>^ Jesus respondeu-lhe: "Ai de vós também, doutores da lei, porque carregais os homens de pesos que não podem suportar, e vós nem com um dedo vosso lhe tocais a carga!
+
+[[v49-11-47]]
+
+^<<v49-11-47,47>>^ Ai de vós, que edificais sepulcros aos profetas, e foram vossos pais que lhes deram a morte!
+
+[[v49-11-48]]
+
+^<<v49-11-48,48>>^ Por certo dais a conhecer que aprovais as obras de vossos pais; porque eles os mataram, e vós edificais os seus sepulcros.
+
+[[v49-11-49]]
+
+^<<v49-11-49,49>>^ Por isso disse a sabedoria de Deus: Mandar-lhes-ei profetas e apóstolos, e eles darão a morte a uns, e perseguirão outros,
+
+[[v49-11-50]]
+
+^<<v49-11-50,50>>^ para que a esta geração se peça conta do sangue de todos os profetas, derramado desde o principio do mundo,
+
+[[v49-11-51]]
+
+^<<v49-11-51,51>>^ desde o sangue de Abel até ao sangue de Zacarias, que foi morto entre o altar e o templo. Sim, eu vos digo que será pedida conta disto a esta geração.
+
+[[v49-11-52]]
+
+^<<v49-11-52,52>>^ Ai de vós, doutores da lei, que usurpastes a chave da ciência, e nem entrastes vós, nem deixastes entrar os que queriam entrar!" (ver nota)
+
+[[v49-11-53]]
+
+^<<v49-11-53,53>>^ Dizendo-lhes ele estas coisas, começaram os fariseus e doutores da lei a insistir fortemente, e a importuná-lo com muitas perguntas,
+
+[[v49-11-54]]
+
+^<<v49-11-54,54>>^ armando-lhe laços, e buscando ocasião de lhe apanharem da boca alguma palavra para o acusarem.
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-010.adoc#v49-10-0[&#60; Capítulo Anterior] | <<v49-11-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-012.adoc#v49-12-0[Próximo Capítulo &#62;]

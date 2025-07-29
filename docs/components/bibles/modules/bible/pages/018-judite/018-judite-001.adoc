@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v18-1-0]]
+=== Judite, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O livro de Judite é um dos livros deuterocanônicos do Antigo Testamento que conta a história de Judite, uma viúva corajosa que salvou a cidade de Betúlia da invasão dos assírios. O capítulo 1 deste livro descreve a invasão dos assírios liderados por Nabucodonosor e como eles conquistaram várias cidades, incluindo Israel. Aqui estão cinco versículos relacionados com os temas abordados em Judite 1:
+* Isaías 10:5-6: "Ai da Assíria, vara da minha ira, em cujas mãos está a minha indignação! Eu a envio contra uma nação ímpia, e contra o povo do meu furor lhe dou ordens, para que lhe despoje e lhe tome o despojo, e o ponha para ser pisado aos pés como a lama das ruas." Este versículo fala sobre a punição que Deus está trazendo sobre a Assíria, que é usada como um instrumento da ira divina.
+* 2 Reis 18:13: "E, no ano décimo quarto do rei Ezequias, subiu Senaqueribe, rei da Assíria, contra todas as cidades fortificadas de Judá, e as tomou." Este versículo descreve como a Assíria invadiu e conquistou as cidades de Judá, incluindo Jerusalém.
+* Isaías 7:17: "O SENHOR fará vir sobre ti, sobre o teu povo e sobre a casa de teu pai, dias tais, quais nunca vieram desde o dia em que Efraim se apartou de Judá, isto é, o rei da Assíria." Este versículo fala sobre a ameaça que a Assíria representa para o povo de Deus e como eles enfrentarão dias difíceis.
+* 2 Reis 17:5-6: "Então, veio contra ele Salmaneser, rei da Assíria, e Oséias lhe foi sujeito e lhe pagava tributo. Mas o rei da Assíria descobriu que Oséias conspirava e enviou mensageiros a Sô, rei do Egito, e não pagava mais tributo ao rei da Assíria, como fazia anualmente." Este versículo descreve como o rei de Israel, Oséias, se submeteu à Assíria e como isso acabou em conspiração e traição.
+* 2 Reis 17:18: "Pelo que o SENHOR se indignou muito contra Israel e os removeu de diante da sua face, e nenhuma outra tribo ficou, senão só a de Judá." Este versículo descreve como a infidelidade e a desobediência de Israel levaram à sua punição divina, resultando em sua remoção da presença do Senhor.
+****
+
+[[v18-1-1]]
+
+^<<v18-1-1,1>>^ Arfaxad, rei dos Medes, tinha sujeitado ao seu império muitas nações. Edificou uma cidade poderosíssima, a que chamou Ecbatana,
+
+[[v18-1-2]]
+
+^<<v18-1-2,2>>^ de pedras cortadas à esquadria; fez os seus muros de setenta côvados de alto, de trinta côvados de largo, e pôs-lhes torres de cem côvados de altura.
+
+[[v18-1-3]]
+
+^<<v18-1-3,3>>^ Estas eram quadradas, e cada lado estendia-se por espaço de vinte pés. Fez as suas portas proporcionadas à altura das torres,
+
+[[v18-1-4]]
+
+^<<v18-1-4,4>>^ e gloriava-se da invencível força do seu exército e da magnificência dos seus carros (de guerra).
+
+[[v18-1-5]]
+
+^<<v18-1-5,5>>^ Porém, no ano duodécimo do seu reinado, Nabucodonosor, rei dos Assírios, que reinava na grande cidade de Nínive, fez guerra a Arfaxad, e venceu-o
+
+[[v18-1-6]]
+
+^<<v18-1-6,6>>^ na grande planície, que se chama de Ragau, junto do Eufrates. do Tigre e do Jadason, na planície de Eríoc, rei dos Elicos.
+
+[[v18-1-7]]
+
+^<<v18-1-7,7>>^ Então elevou-se o reino de Nabucodonosor, e o seu coração ensoberbeceu-se. Enviou mensageiros a todos os que habitavam na Cilícia, em Damasco, no Líbano,
+
+[[v18-1-8]]
+
+^<<v18-1-8,8>>^ aos povos que habitavam no Carmelo e em Cedar, aos habitantes da Galileia, na vasta campina de Esdrelon,
+
+[[v18-1-9]]
+
+^<<v18-1-9,9>>^ e a todos os que viviam na Samaria e da banda de além do rio Jordão, até Jerusalém, e em toda a terra de Gessen, até aos confins da Etiópia.
+
+[[v18-1-10]]
+
+^<<v18-1-10,10>>^ A todos estes enviou Nabucodonosor, rei dos Assírios, mensageiros,
+
+[[v18-1-11]]
+
+^<<v18-1-11,11>>^ mas todos, de comum acordo, protestaram, despediram-nos de mãos vazias, e até chegaram a lançá-los fora com desprezo.
+
+[[v18-1-12]]
+
+^<<v18-1-12,12>>^ Então o rei Nabucodonosor, indignado contra todas aquelas nações, jurou, pelo seu trono e pelo seu reino, que se havia de vingar de todas elas.
+
+'''
+
+xref:017-tobias/017-tobias-014.adoc#v17-14-0[&#60; Capítulo Anterior] | <<v18-1-0,Topo>> | xref:018-judite/018-judite-002.adoc#v18-2-0[Próximo Capítulo &#62;]

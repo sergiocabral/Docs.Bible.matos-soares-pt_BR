@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-11-0]]
+=== Ester, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 8:16: "Não sejas um detrator na presença dos príncipes, nem difames teu amigo na sua ausência." Este versículo aborda a importância da honestidade e da lealdade nas relações pessoais e profissionais.
+* Provérbios 15:1: "A resposta branda desvia o furor, mas a palavra dura suscita a ira." Este versículo nos ensina a importância de sermos pacientes e compassivos com os outros, mesmo em situações estressantes.
+* Provérbios 25:11: "Como maçãs de ouro em salvas de prata, assim é a palavra dita a seu tempo." Este versículo ressalta a importância da comunicação clara e oportuna nas relações interpessoais.
+* Romanos 12:17: "A ninguém torneis mal por mal; procurai fazer o bem perante todos os homens." Este versículo nos ensina a importância de sermos pacíficos e amorosos, mesmo quando somos tratados de forma injusta ou cruel.
+****
+
+[[v19-11-1]]
+
+^<<v19-11-1,1>>^ No ano quarto, reinando Ptolomeu e Cleópatra, Dositeu, que se dizia sacerdote e da linhagem de Levi, assim como Ptolomeu, seu filho, trouxeram esta carta de Purim, que disseram ter sido traduzida em Jerusalém por Lisímaco, filho de Ptolomeu. (ver nota)
+
+[[v19-11-2]]
+
+^<<v19-11-2,2>>^ No ano segundo do reinado do mui grande Artaxerxes (ou Assuero), no primeiro dia do mês de Nisan, Mardoqueu, filho de Jair, filho de Semei, filho de Cis, da tribo de Benjamim, teve um sonho.
+
+[[v19-11-3]]
+
+^<<v19-11-3,3>>^ Ele era um homem judeu, que morava na cidade de Susa, varão grande, dos primeiros da corte do rei.
+
+[[v19-11-4]]
+
+^<<v19-11-4,4>>^ Era do número dos cativos, que Nabucodonosor, rei de Babilônia, tinha levado de Jerusalém com Jeconias, rei de Judá.
+
+[[v19-11-5]]
+
+^<<v19-11-5,5>>^ O seu sonho foi este: Pareceu-lhe ouvir vozes, estrondos, trovões, terremotos e perturbações sobre a terra.
+
+[[v19-11-6]]
+
+^<<v19-11-6,6>>^ Depois, subitamente, apareceram dois grandes dragões, prontos para combater um contra o outro.
+
+[[v19-11-7]]
+
+^<<v19-11-7,7>>^ Ao grito deles, alvoroçaram-se todas as nações para combater o povo dos justos,
+
+[[v19-11-8]]
+
+^<<v19-11-8,8>>^ Foi aquele um dia de trevas e de perigo, de tribulação e de angústia, e houve grande temor sobre a terra.
+
+[[v19-11-9]]
+
+^<<v19-11-9,9>>^ Conturbou-se a nação dos justos, temendo os seus males, e preparou-se para a morte.
+
+[[v19-11-10]]
+
+^<<v19-11-10,10>>^ Clamaram a Deus, e, quando levantaram o grito, uma pequena fonte tornou-se um rio muito grande, e derramou águas em grandíssima abundância.
+
+[[v19-11-11]]
+
+^<<v19-11-11,11>>^ A luz e o sol brilharam, e os humildes foram exaltados e devoraram os grandes.
+
+[[v19-11-12]]
+
+^<<v19-11-12,12>>^ Quando Mardoqueu viu isto, levantou-se do leito e pôs-se a pensar no que Deus quereria fazer; tinha o sonho fixo em seu espírito, desejando saber o que significaria.
+
+'''
+
+xref:019-ester/019-ester-010.adoc#v19-10-0[&#60; Capítulo Anterior] | <<v19-11-0,Topo>> | xref:019-ester/019-ester-012.adoc#v19-12-0[Próximo Capítulo &#62;]

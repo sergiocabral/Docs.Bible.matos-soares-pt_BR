@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v17-2-0]]
+=== Tobias, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 2 do livro de Tobias, vemos Tobias deixando sua casa e partindo em uma jornada para recuperar uma dívida de um amigo. Durante sua viagem, Tobias encontra um estranho que ele não reconhece como sendo um anjo disfarçado de Rafael. Juntos, eles viajam para a cidade de Media, onde Tobias recupera a dívida de seu amigo e encontra sua futura esposa, Sara. Aqui estão cinco versículos relacionados aos temas abordados em Tobias 2:
+* Provérbios 16:7 - "Quando os caminhos de um homem agradam ao Senhor, até os seus inimigos fazem as pazes com ele." Tobias viajou em busca de uma dívida, mas seu comportamento virtuoso e piedoso resultou em uma bênção maior do que ele esperava.
+* Isaías 41:10 - "Não tenha medo, pois estou com você; não tenha medo, pois sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa." Tobias enfrentou muitos desafios em sua jornada, mas ele confiou em Deus e foi recompensado por sua fé.
+* Tiago 2:17 - "Da mesma forma, a fé por si só, sem obras, está morta." Tobias era um homem de fé, mas também estava disposto a agir em sua fé, como ao ajudar o cego em sua jornada.
+* 1 Pedro 4:8 - "Acima de tudo, amem-se sinceramente uns aos outros, porque o amor cobre uma multidão de pecados." A esposa de Tobias, Sara, era atormentada por um demônio e, com a ajuda de Rafael, Tobias foi capaz de libertá-la. Esse amor e fidelidade um pelo outro foram fundamentais para superar esse desafio.
+* Eclesiastes 3:1 - "Para tudo há uma ocasião certa; há um tempo certo para cada propósito debaixo do céu." A jornada de Tobias não foi fácil, mas ele foi recompensado por sua perseverança e paciência. Esses versículos mostram como a fé, a perseverança e a confiança em Deus podem ajudar a superar desafios e receber bênçãos além do esperado.
+****
+
+[[v17-2-1]]
+
+^<<v17-2-1,1>>^ Depois disto, num dia de festa do Senhor, estando preparado um grande banquete em casa de Tobias,
+
+[[v17-2-2]]
+
+^<<v17-2-2,2>>^ disse este a seu filho: Vai e traz aqui alguns da nossa tribo, que sejam tementes a Deus, para comerem connosco.
+
+[[v17-2-3]]
+
+^<<v17-2-3,3>>^ Tendo ele ido, na volta contou ao pai que um dos filhos de Israel jazia degolado na rua. Imediatamente Tobias, levantando-se da mesa, sem nada haver comido, foi junto do cadáver,
+
+[[v17-2-4]]
+
+^<<v17-2-4,4>>^ tomou-o e levou-o secretamente para sua casa, a fim de, depois do sol posto, o sepultar com precaução.
+
+[[v17-2-5]]
+
+^<<v17-2-5,5>>^ Depois de ter escondido o cadáver, pôs-se a comer com pranto e tremor,
+
+[[v17-2-6]]
+
+^<<v17-2-6,6>>^ recordando-se do que o Senhor tinha dito por meio do profeta Amós: Os vossos dias de festa converter-se-ão em lamentação e pranto.
+
+[[v17-2-7]]
+
+^<<v17-2-7,7>>^ Após o sol posto, saiu e sepultou-o.
+
+[[v17-2-8]]
+
+^<<v17-2-8,8>>^ Todos os seus vizinhos o arguiam, dizendo: Já por este motivo te mandaram matar; mal escapaste da sentença de morte, logo recomeças a sepultar os mortos?
+
+[[v17-2-9]]
+
+^<<v17-2-9,9>>^ Porém Tobias, temendo mais a Deus do que ao rei, levava os corpos dos que tinham sido mortos, escondia-os em sua casa e sepultava-os pelo meio da noite.
+
+[[v17-2-10]]
+
+^<<v17-2-10,10>>^ Sucedeu um dia que, cansado de enterrar mortos, ao chegar a sua casa deitou-se junto duma parede e adormeceu.
+
+[[v17-2-11]]
+
+^<<v17-2-11,11>>^ Enquanto dormia, caiu-lhe dum ninho de andorinhas um pouco de esterco quente sobre os olhos, e ficou cego.
+
+[[v17-2-12]]
+
+^<<v17-2-12,12>>^ O Senhor permitiu que lhe acontecesse esta prova, para que a sua paciência servisse assim de exemplo aos vindouros, como a do santo Job.
+
+[[v17-2-13]]
+
+^<<v17-2-13,13>>^ Como havia sempre temido a Deus, desde a sua infância, e guardado os seus mandamentos, não se entristeceu contra Deus, por lhe ter acontecido a desgraça da cegueira.
+
+[[v17-2-14]]
+
+^<<v17-2-14,14>>^ Permaneceu firme no temor de Deus, dando-lhe graças todos os dias da sua vida.
+
+[[v17-2-15]]
+
+^<<v17-2-15,15>>^ Assim como os reis (ou poderosos) insultavam o bem-aventurado Job, assim os parentes e amigos de Tobias escarneciam da sua conduta, dizendo:
+
+[[v17-2-16]]
+
+^<<v17-2-16,16>>^ Onde está a tua esperança, pela qual davas esmolas e sepultavas os mortos?
+
+[[v17-2-17]]
+
+^<<v17-2-17,17>>^ Porém Tobias os repreendia; Não faleis assim,
+
+[[v17-2-18]]
+
+^<<v17-2-18,18>>^ porque nós somos filhos dos santos (patriarcas) e esperamos aquela vida que Deus hã-de dar aos que nunca deixam de confiar nele.
+
+[[v17-2-19]]
+
+^<<v17-2-19,19>>^ Ana, sua mulher, ia todos os dias tecer, e do trabalho das suas mãos trazia o que podia ganhar para viver.
+
+[[v17-2-20]]
+
+^<<v17-2-20,20>>^ Assim aconteceu que, tendo recebido um cabrito, levou-o para casa
+
+[[v17-2-21]]
+
+^<<v17-2-21,21>>^ seu marido, tendo-o ouvido dar balidos, disse: Vede que não seja furtado; restituí-o a seus donos, porque a nós não nos é lícito comer nem tocar coisa alguma furtada.
+
+[[v17-2-22]]
+
+^<<v17-2-22,22>>^ A isto respondeu-lhe sua mulher com ira: Bem claro está que as tuas esperanças são vãs! Agora mostram o que valem as tuas esmolas!
+
+[[v17-2-23]]
+
+^<<v17-2-23,23>>^ Com estas e outras palavras semelhantes o insultava.
+
+'''
+
+xref:017-tobias/017-tobias-001.adoc#v17-1-0[&#60; Capítulo Anterior] | <<v17-2-0,Topo>> | xref:017-tobias/017-tobias-003.adoc#v17-3-0[Próximo Capítulo &#62;]

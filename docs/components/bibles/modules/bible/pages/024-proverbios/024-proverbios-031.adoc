@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v24-31-0]]
+=== Provérbios, 31
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 31 é um capítulo que fala sobre as qualidades de uma esposa virtuosa, que é trabalhadora, confiável, compassiva e sábia. Além disso, o capítulo também destaca a importância da justiça social e da sabedoria na liderança. Seguem abaixo cinco versículos relacionados com os temas abordados em Provérbios 31:
+* Provérbios 11:16: "A mulher graciosa alcança honra, e os homens violentos alcançam riquezas." Este versículo destaca a importância da graça e da bondade como características valiosas em uma mulher, em contraste com a ganância e a violência.
+* Provérbios 12:4: "A mulher virtuosa é a coroa do seu marido, mas a que o envergonha é como podridão nos seus ossos." Esse versículo reforça a importância da virtude em uma esposa, que traz honra e respeito para o marido.
+* Provérbios 14:1: "A mulher sábia edifica a sua casa, mas a tola a derruba com as próprias mãos." Esse versículo destaca a importância da sabedoria em uma mulher, que contribui para a estabilidade e crescimento do lar.
+* Provérbios 21:21: "O que segue a justiça e a bondade achará a vida, a justiça e a honra." Esse versículo destaca a importância da justiça e da bondade, tanto em relacionamentos pessoais quanto em liderança.
+* Provérbios 31:8-9: "Abre a tua boca a favor do mudo, pelo direito de todos que se acham desamparados. Abre a tua boca, julga retamente e faze justiça aos pobres e aos necessitados." Este versículo destaca a importância da justiça social e do cuidado com os mais vulneráveis na sociedade, que são responsabilidades de líderes sábios e compassivos.
+****
+
+[[v24-31-1]]
+
+^<<v24-31-1,1>>^ Palavras de Lamuel, rei de Massa, que lhe foram ensinadas por sua mãe.
+
+[[v24-31-2]]
+
+^<<v24-31-2,2>>^ Que (te direi eu) meu amado filho? Que (te direi eu), amado fruto das minhas entranhas? Que (te direi eu), filho da minha alma?
+
+[[v24-31-3]]
+
+^<<v24-31-3,3>>^ Não dês às mulheres o teu vigor, nem o teus caminhos às que perdem os reis.
+
+[[v24-31-4]]
+
+^<<v24-31-4,4>>^ Não é próprio dos reis, ó Lamuel, não convém aos reis beber vinho. nem a quem governa dar-se aos licores,
+
+[[v24-31-5]]
+
+^<<v24-31-5,5>>^ para que não suceda que eles bebam e se esqueçam da lei, e atraiçoem a causa de todos os infelizes.
+
+[[v24-31-6]]
+
+^<<v24-31-6,6>>^ Dá aos que estão aflitos um licor forte, e vinho aos que estão em amargura de coração,
+
+[[v24-31-7]]
+
+^<<v24-31-7,7>>^ para que eles bebam e se esqueçam da sua miséria, para que não se lembrem mais da sua dor.
+
+[[v24-31-8]]
+
+^<<v24-31-8,8>>^ Abre a tua boca a favor do mudo. a favor de todos os abandonados.
+
+[[v24-31-9]]
+
+^<<v24-31-9,9>>^ Abre a tua boca, ordena o que é justo, faze justiça ao necessitado e ao pobre.
+
+[[v24-31-10]]
+
+^<<v24-31-10,10>>^ Quem achará uma mulher virtuosa? O seu valor é muitíssimo superior ao das pérolas.
+
+[[v24-31-11]]
+
+^<<v24-31-11,11>>^ O coração de seu marido põe nela a sua confiança, e nunca lhe falta nada, em tempo algum.
+
+[[v24-31-12]]
+
+^<<v24-31-12,12>>^ Ela lhe dará o bem, e não o mal, em todos os dias da sua vida.
+
+[[v24-31-13]]
+
+^<<v24-31-13,13>>^ Ela procura lã e linho, e trabalha de mãos alegres.
+
+[[v24-31-14]]
+
+^<<v24-31-14,14>>^ É como a nau do negociante, que traz de longe o seu pão.
+
+[[v24-31-15]]
+
+^<<v24-31-15,15>>^ Levanta-se, ainda de noite, distribui o alimento pelos seus domésticos, determina o serviço das suas criadas.
+
+[[v24-31-16]]
+
+^<<v24-31-16,16>>^ Põe a mira em um campo, e compra-o planta uma vinha com o ganho das suas mãos.
+
+[[v24-31-17]]
+
+^<<v24-31-17,17>>^ Cinge os seus rins de fortaleza, e fortalece o seu braço.
+
+[[v24-31-18]]
+
+^<<v24-31-18,18>>^ Alegra-se com o seu prosperar: a sua lâmpada não se apaga de noite. (ver nota)
+
+[[v24-31-19]]
+
+^<<v24-31-19,19>>^ A sua mão pega na roca e os seus dedos fazem girar o fuso.
+
+[[v24-31-20]]
+
+^<<v24-31-20,20>>^ Abre a sua mão para o necessitado, e estende os seus braços para o pobre.
+
+[[v24-31-21]]
+
+^<<v24-31-21,21>>^ Não teme que venham sobre a sua família os rigores da neve, porque todos os seus domésticos andam vestidos de lã carmesim.
+
+[[v24-31-22]]
+
+^<<v24-31-22,22>>^ Faz para si cobertas, veste-se de linho finíssimo e de púrpura.
+
+[[v24-31-23]]
+
+^<<v24-31-23,23>>^ Seu marido é considerado nas portas da cidade, quando está assentado com os anciães da terra.
+
+[[v24-31-24]]
+
+^<<v24-31-24,24>>^ Faz camisas e vende-as, vende cintos ao mercador.
+
+[[v24-31-25]]
+
+^<<v24-31-25,25>>^ A fortaleza e o decoro são os seus atavios; ela ri-se do futuro.
+
+[[v24-31-26]]
+
+^<<v24-31-26,26>>^ Abre a sua boca com sabedoria, e a lei da bondade está na sua língua. (ver nota)
+
+[[v24-31-27]]
+
+^<<v24-31-27,27>>^ Vigia o andamento da sua casa, e não come o pão ociosa.
+
+[[v24-31-28]]
+
+^<<v24-31-28,28>>^ Levantam-se seus filhos e aclamam-na ditosíssima; (levanta-se) seu marido e dá-lhe louvores.
+
+[[v24-31-29]]
+
+^<<v24-31-29,29>>^ Muitas filhas ajuntaram riquezas; tu as excedeste a todas.
+
+[[v24-31-30]]
+
+^<<v24-31-30,30>>^ A graça é enganadora, e a formosura é vã; a mulher que teme ao Senhor, essa será louvada.
+
+[[v24-31-31]]
+
+^<<v24-31-31,31>>^ Dai-lhe o fruto das suas mãos, e as suas obras a louvem nas portas da cidade.
+
+'''
+
+xref:024-proverbios/024-proverbios-030.adoc#v24-30-0[&#60; Capítulo Anterior] | <<v24-31-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-001.adoc#v25-1-0[Próximo Capítulo &#62;]

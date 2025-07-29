@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v18-8-0]]
+=== Judite, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 8 descreve como Judite convenceu os anciãos de sua cidade a permitir que ela saísse dos portões da cidade para se render aos assírios. Ela usou sua sabedoria e eloquência para persuadi-los de que essa era a única maneira de salvar a cidade. Em seguida, ela foi para o acampamento dos assírios, onde enganou o general Holofernes e cortou sua cabeça, trazendo a vitória para Israel. Abaixo estão cinco versículos relacionados com os temas abordados em Judite 8:
+* Provérbios 14:1: "A mulher sábia edifica a sua casa, mas a insensata, com as próprias mãos, a derruba." Esse versículo enfatiza a importância da sabedoria e da inteligência feminina, uma qualidade que Judite demonstrou em grande medida.
+* 2 Timóteo 1:7: "Porque Deus não nos deu espírito de covardia, mas de poder, de amor e de equilíbrio." Este versículo relembra-nos que Deus nos dá o poder e a coragem necessários para enfrentar qualquer desafio, assim como Judite enfrentou o exército assírio.
+* Eclesiastes 9:10: "Tudo o que você puder fazer, faça com todo o seu empenho, pois na sepultura, para onde você vai, não há atividade nem planejamento, não há conhecimento nem sabedoria." Este versículo incentiva-nos a fazer o melhor que podemos em todas as situações, como Judite fez ao usar toda a sua sabedoria e inteligência para salvar sua cidade.
+* Filipenses 4:13: "Tudo posso naquele que me fortalece." Este versículo nos lembra que, com a força de Deus, podemos superar qualquer obstáculo, assim como Judite superou o exército assírio.
+* Provérbios 16:32: "Melhor é o longânimo do que o valente, e o que governa o seu espírito do que o que toma uma cidade." Esse versículo enfatiza a importância do autocontrole, uma qualidade que Judite demonstrou ao planejar cuidadosamente e executar seu plano com paciência e habilidade.
+****
+
+[[v18-8-1]]
+
+^<<v18-8-1,1>>^ Ora aconteceu que estas palavras foram ouvidas por Judit, viúva, a qual era filha de Merari, filho de Idox, filho de José, filho de Ozias, filho de Elai, filho de Jamnor, filho de Gedeão, filho de Rafaim, filho de Aquitob, filho do Melquias, filho de Enan, filho de Natanias, filho de Salatiel, filho de Simeão, filho de Ruben.
+
+[[v18-8-2]]
+
+^<<v18-8-2,2>>^ Seu marido foi Manassés, que morreu no tempo da ceifa da cevada (isto é, pela Páscoa);
+
+[[v18-8-3]]
+
+^<<v18-8-3,3>>^ enquanto ele vigiava os que atavam os feixes no campo, deu-lhe o ardor do sol na cabeça, e morreu em Betúlia, sua cidade, onde foi sepultado com seus pais.
+
+[[v18-8-4]]
+
+^<<v18-8-4,4>>^ Havia já três aoos e seis meses que Judit tinha ficado viúva
+
+[[v18-8-5]]
+
+^<<v18-8-5,5>>^ No andar superior de sua casa tinha feito para si um quarto retirado, no qual se conservava recolhida com as suas criadas;
+
+[[v18-8-6]]
+
+^<<v18-8-6,6>>^ trazendo um cílicío sobre os seus rins, jejuava todos os dias da sua vida, excepto nos sábados, nas neoménías e nas festas da casa de Israel. (ver nota)
+
+[[v18-8-7]]
+
+^<<v18-8-7,7>>^ Era de belíssimo aspecto, e seu marido tinha-Ihe deixado muitas riquezas, uma família numerosa e fazendas cheias de manadas de bois e de rebanhos de ovelhas.
+
+[[v18-8-8]]
+
+^<<v18-8-8,8>>^ Era estimadíssima de todos, porque tinha muito temor de Deus; não havia ninguém que dissesse dela uma palavra em desfavor.
+
+[[v18-8-9]]
+
+^<<v18-8-9,9>>^ Tendo, pois, ela sabido que Ozias tinha prometido entregar a cidade, passados cinco dias, mandou chamar os anciãos Cabri e Carmi.
+
+[[v18-8-10]]
+
+^<<v18-8-10,10>>^ Eles foram ter com ela, que lhes disse: Que palavra é esta, com a qual concordou Ozias, de entregar a cidade aos Assírios, se dentro de cinco dias vos não viesse socorro?
+
+[[v18-8-11]]
+
+^<<v18-8-11,11>>^ Quem sois vós, que assim provocais o Senhor?
+
+[[v18-8-12]]
+
+^<<v18-8-12,12>>^ Não é esta uma palavra que excite a sua misericórdia; antes provoca a sua ira, acende o seu furor.
+
+[[v18-8-13]]
+
+^<<v18-8-13,13>>^ Vós fixastes um prazo à misericórdia do Senhor, e ao vosso arbítrio lhe assinaste o dia.
+
+[[v18-8-14]]
+
+^<<v18-8-14,14>>^ Porém, porque o Senhor é paciente, arrependamo-nos disto mesmo, e, derramando lágrimas, imploremos a sua misericórdia,
+
+[[v18-8-15]]
+
+^<<v18-8-15,15>>^ pois Deus não ameaça como os homens, nem se inflama em ira como os filhos dos homens.
+
+[[v18-8-16]]
+
+^<<v18-8-16,16>>^ Por isso humilhemos diante dele as nossas almas e, postos num espirito de humildade, como seus servos,
+
+[[v18-8-17]]
+
+^<<v18-8-17,17>>^ digamos ao Senhor, com lágrimas, que use connosco da sua misericórdia segundo a sua vontade, para que, assim como se perturbou o nosso coração por causa da soberba dos nossos inimigos, assim também nós sejamos glorificados pela nossa humildade.
+
+[[v18-8-18]]
+
+^<<v18-8-18,18>>^ Nós não imitámos os pecados de nossos pais, que deixaram o seu Deus, para adorar deuses estranhos,
+
+[[v18-8-19]]
+
+^<<v18-8-19,19>>^ e que, por este pecado, foram entregues à espada, ao roubo e à confusão entre os seus inimigos; nós não conhecemos outro Deus senão o nosso.
+
+[[v18-8-20]]
+
+^<<v18-8-20,20>>^ Esperemos com humildade as suas consolações, e ele vingará o nosso sangue das aflições que nos causam os nossos inimigos; humilhará todas as nações que se levantam contra nós e cobri-las-á de ignomínia o Senhor nosso Deus.
+
+[[v18-8-21]]
+
+^<<v18-8-21,21>>^ Agora, irmãos, como vós sois os anciãos do povo de Deus, e de vós depende a sua vida, com as vossas palavras animai os seus corações, para que se lembrem que nossos pais foram tentados a fim de que se visse se verdadeiramente serviam ao seu Deus.
+
+[[v18-8-22]]
+
+^<<v18-8-22,22>>^ Devem recordar-se como nosso pai Abraão foi tentado, e como, depois de provado por meio de muitas tribulações, chegou a ser o amigo de Deus.
+
+[[v18-8-23]]
+
+^<<v18-8-23,23>>^ Assim Isaac, assim Jacob, assim Moisés e todos os que agradaram a Deus, passaram por muitas tribulações, permanecendo fiéis.
+
+[[v18-8-24]]
+
+^<<v18-8-24,24>>^ Aqueles, porém, que não aceitaram as provas com o temor do Senhor, que mostraram a sua impaciência e irromperam em injuriosas murmurações contra o Senhor,
+
+[[v18-8-25]]
+
+^<<v18-8-25,25>>^ foram feridos de morte pelo (Anjo) Exterminador e pereceram mordidos pelas serpentes.
+
+[[v18-8-26]]
+
+^<<v18-8-26,26>>^ Nós, pois, não nos impacientemos por causa do que sofremos,
+
+[[v18-8-27]]
+
+^<<v18-8-27,27>>^ mas, considerando que estes mesmos castigos são menores do que os nossos pecados, creiamos que estes flagelos do Senhor, com que, como seus servos, somos castigados, nos vieram para nossa emenda, e não para nossa perdição.
+
+[[v18-8-28]]
+
+^<<v18-8-28,28>>^ Então Ozias e os anciãos responderam-lhe: Tudo o que nos tens dito é verdade, e nada há repreensível nas tuas palavras.
+
+[[v18-8-29]]
+
+^<<v18-8-29,29>>^ Agora, pois, ora por nós, porque tu és uma mulher santa e temente a Deus.
+
+[[v18-8-30]]
+
+^<<v18-8-30,30>>^ Judit disse-lhes: Assim como reconheceis que o que eu vos disse é de Deus,
+
+[[v18-8-31]]
+
+^<<v18-8-31,31>>^ assim também sabereis por experiência que vem de Deus o que resolvi fazer; (entretanto) orai para que Deus torne eficaz a minha resolução.
+
+[[v18-8-32]]
+
+^<<v18-8-32,32>>^ Vós esta noite pôr-vos-eis à porta (da cidade), e eu sairei com a minha criada; fazei oração, para que, como vós dissestes, o Senhor, dentro de cinco dias, olhe para o seu povo de Israel.
+
+[[v18-8-33]]
+
+^<<v18-8-33,33>>^ Não quero, porém, que pretendais indagar o que tenciono fazer; enquanto eu mesmo não vos avisar, não se faça outra coisa, senão rogar por mim ao Senhor nosso Deus.
+
+[[v18-8-34]]
+
+^<<v18-8-34,34>>^ Ozias, príncipe de Judá, disse-lhe: Vai em paz, e o Senhor seja contigo, para tirar vingança dos nossos inimigos. E, tendo-a deixado, retiraram-se.
+
+'''
+
+xref:018-judite/018-judite-007.adoc#v18-7-0[&#60; Capítulo Anterior] | <<v18-8-0,Topo>> | xref:018-judite/018-judite-009.adoc#v18-9-0[Próximo Capítulo &#62;]

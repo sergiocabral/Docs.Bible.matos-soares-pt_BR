@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v20-20-0]]
+=== Jó, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 20 apresenta um discurso de Zofar, o terceiro amigo de Jó, que tenta convencê-lo a reconhecer a justiça de Deus em suas aflições e confessar seus pecados. Zofar faz uma descrição vívida do destino dos ímpios, argumentando que a punição divina sempre recai sobre eles. Os versículos a seguir abordam temas semelhantes aos tratados por Zofar:
+* Provérbios 10:27: "O temor do Senhor prolonga os dias, mas a vida dos ímpios é abreviada." Este versículo fala sobre o destino dos ímpios, que segundo Zofar em Jó 20, é marcado por sofrimento e morte prematura.
+* Salmos 37:35-36: "Vi um ímpio prepotente e a espalhar-se como frondosa árvore em solo nativo. Mas passou e já não existe; procurei-o, porém não pôde ser encontrado." Este Salmo também fala sobre o destino dos ímpios, que é comparado a uma árvore que seca e morre.
+* Provérbios 1:33: "Mas quem me ouvir viverá em segurança e estará tranquilo, sem temer nenhum mal". Este versículo destaca a importância de ouvir a sabedoria divina, que Zofar acredita que Jó está rejeitando.
+* Salmos 11:6: "Ele fará chover sobre os ímpios brasas e enxofre incandescente; um vento ressequido será o quinhão deles." Este Salmo também fala sobre o destino dos ímpios, que é descrito como uma chuva de fogo e enxofre, semelhante à descrição de Zofar em Jó 20.
+* Provérbios 13:9: "A luz dos justos brilha intensamente, mas a lâmpada dos ímpios se apaga." Este versículo destaca a diferença entre os justos e os ímpios, reforçando a ideia de que a punição divina sempre recai sobre os segundos.
+****
+
+[[v20-20-1]]
+
+^<<v20-20-1,1>>^ Sofar de Naama, tomando a palavra, disse:
+
+[[v20-20-2]]
+
+^<<v20-20-2,2>>^ Por isso os meus pensamentos me sugerem uma resposta, e estou impaciente por falar.
+
+[[v20-20-3]]
+
+^<<v20-20-3,3>>^ Ouvi recriminações injuriosas, mas tenho no meu espirito com que replicar.
+
+[[v20-20-4]]
+
+^<<v20-20-4,4>>^ Não sabes que, desde o principio, desde que o homem foi posto sobre a terra,
+
+[[v20-20-5]]
+
+^<<v20-20-5,5>>^ é breve a glória dos ímpios, e a alegria do ímpio dura um momento?
+
+[[v20-20-6]]
+
+^<<v20-20-6,6>>^ Se a sua soberba subir até ao céu, e a sua cabeça tocar nas nuvens,
+
+[[v20-20-7]]
+
+^<<v20-20-7,7>>^ por fim perecerá como o esterco; aqueles que o tinham visto dirão: Onde está ele?
+
+[[v20-20-8]]
+
+^<<v20-20-8,8>>^ Como um sonho, ele voa, e não será achado, desaparecerá como uma visão noturna.
+
+[[v20-20-9]]
+
+^<<v20-20-9,9>>^ Os olhos, que o tinham visto, não o verão mais, nem o verá mais a sua morada.
+
+[[v20-20-10]]
+
+^<<v20-20-10,10>>^ Os seus filhos indemnizarão os pobres, e as suas mãos restituirão as suas rapinas.
+
+[[v20-20-11]]
+
+^<<v20-20-11,11>>^ Os seus ossos estavam cheios das suas iniquidades ocultas, as quais com ele dormirão no pó.
+
+[[v20-20-12]]
+
+^<<v20-20-12,12>>^ Se o mal foi doce na sua boca, se o escondeu debaixo de sua língua, (ver nota)
+
+[[v20-20-13]]
+
+^<<v20-20-13,13>>^ se o reteve, sem o deixar, e o gostou no seu paladar,
+
+[[v20-20-14]]
+
+^<<v20-20-14,14>>^ este alimento se transformará nas suas entranhas, se converterá interiormente em fel de áspides.
+
+[[v20-20-15]]
+
+^<<v20-20-15,15>>^ Vomitará as riquezas, que devorou, e Deus lhas fará sair das entranhas.
+
+[[v20-20-16]]
+
+^<<v20-20-16,16>>^ Chupou veneno de áspides, a língua da víbora o matará.
+
+[[v20-20-17]]
+
+^<<v20-20-17,17>>^ Jamais veja ele as correntes de um rio, as torrentes de mel e de leite.
+
+[[v20-20-18]]
+
+^<<v20-20-18,18>>^ Restituirá o seu ganho sem o poder tragar, do fruto do seu comércio não gozará.
+
+[[v20-20-19]]
+
+^<<v20-20-19,19>>^ Porque oprimiu e despojou os pobres, roubou casas, que não edificou.
+
+[[v20-20-20]]
+
+^<<v20-20-20,20>>^ O seu apetite foi insaciável; e quando tiver o que cobiçava, não o poderá gozar.
+
+[[v20-20-21]]
+
+^<<v20-20-21,21>>^ Nada escapava á sua voracidade, e por isso não durará a sua felicidade.
+
+[[v20-20-22]]
+
+^<<v20-20-22,22>>^ No cúmulo da abundância, tudo lhe é pouco, e desventuras de toda a sorte desabam sobre ele.
+
+[[v20-20-23]]
+
+^<<v20-20-23,23>>^ Eis com que encherá o seu ventre: (Deus) enviará contra ele a ira do seu furor, e fará chover sobre ele os seus castigos.
+
+[[v20-20-24]]
+
+^<<v20-20-24,24>>^ Se escapar (por um lado) às armas de ferro, cairá (por outro) no arco de bronze.
+
+[[v20-20-25]]
+
+^<<v20-20-25,25>>^ A espada é tirada e sai da bainha, rutila e trespassa-o cruelmente; irão e virão sobre ele os terrores.
+
+[[v20-20-26]]
+
+^<<v20-20-26,26>>^ Todas as trevas lhe estão reservadas, devorá-lo-á um fogo, que o homem não acendeu, e consumirá o que restar da sua lenda.
+
+[[v20-20-27]]
+
+^<<v20-20-27,27>>^ Os céus revelarão a sua iniquidade, e a terra se levantará contra ele.
+
+[[v20-20-28]]
+
+^<<v20-20-28,28>>^ Desaparecerá de sua casa toda a sua abundância, desaparecerá no dia do furor de Deus.
+
+[[v20-20-29]]
+
+^<<v20-20-29,29>>^ Esta é a sorte reservada por Deus ao homem ímpio, esta é a herança que Deus lhe destina.
+
+'''
+
+xref:020-jo/020-jo-019.adoc#v20-19-0[&#60; Capítulo Anterior] | <<v20-20-0,Topo>> | xref:020-jo/020-jo-021.adoc#v20-21-0[Próximo Capítulo &#62;]

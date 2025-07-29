@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v37-6-0]]
+=== Amós, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 6 de Amós aborda a complacência e a arrogância de Israel em sua prosperidade, ignorando a justiça social e a vontade de Deus. Em vez de confiar em Deus e seguir seus mandamentos, eles confiam em sua própria riqueza e poder. Aqui estão cinco versículos relacionados com os temas do capítulo:
+* Provérbios 1:32 - "Porque a apostasia dos simples os matará, e a prosperidade dos tolos os destruirá." Este versículo fala sobre como a prosperidade pode levar as pessoas a se desviar de Deus e de seus caminhos, o que é exatamente o que aconteceu com Israel em Amós 6.
+* Eclesiastes 5:10 - "Quem ama o dinheiro jamais terá o suficiente; quem ama as riquezas jamais ficará satisfeito com os seus rendimentos. Isso também é vaidade." Este versículo enfatiza como a busca incessante por riquezas e prosperidade pode ser vã e insatisfatória.
+* Isaías 5:8 - "Ai daqueles que acrescentam casa a casa e juntam campo a campo até que não haja mais lugar para ninguém e sejam os únicos habitantes da terra!" Este versículo condena a ganância e a concentração de riqueza nas mãos de poucos, algo que também é criticado em Amós 6.
+* Jeremias 22:17 - "Mas os teus olhos e o teu coração estão somente para a tua ganância, para a tua violência, para derramares sangue inocente e para praticares a opressão e a extorsão." Este versículo acusa aqueles que colocam sua própria riqueza e poder acima da justiça e da compaixão pelos outros, novamente relacionando-se com as críticas de Amós 6.
+* 1 Timóteo 6:17 - "Manda aos ricos deste mundo que não sejam altivos, nem ponham a esperança na incerteza das riquezas, mas em Deus, que abundantemente nos dá todas as coisas para delas gozarmos." Este versículo incentiva os ricos a não se orgulharem de sua riqueza e a não confiar nela como sua segurança ou fonte de felicidade, algo que os israelitas em Amós 6 não entenderam.
+****
+
+[[v37-6-1]]
+
+^<<v37-6-1,1>>^ Ai de vós que viveis em Sião, na abundância, e que viveis sem receio no monte de Samaria; ai de vós, ó chefes do primeiro povo, aos quais acorre a casa de Israel!
+
+[[v37-6-2]]
+
+^<<v37-6-2,2>>^ Passai a Calne e contemplai; e ide de lá a Hamat, a grande; descei a Get dos Filisteus. Valeis mais que estes reinos, ou o seu território é mais extenso que o vosso?
+
+[[v37-6-3]]
+
+^<<v37-6-3,3>>^ Julgais distante o dia mau, e estais a aproximar-vos do reino da violência.
+
+[[v37-6-4]]
+
+^<<v37-6-4,4>>^ Deitados em leitos de marfim, estendidos com moleza nos seus divãs, comem os melhores cordeiros do rebanho e os mais escolhidos novilhos do estábulo.
+
+[[v37-6-5]]
+
+^<<v37-6-5,5>>^ Folgam ao som da harpa e inventam, como Davide, instrumentos músicos;
+
+[[v37-6-6]]
+
+^<<v37-6-6,6>>^ bebem vinho por grandes copos, perfumam-se com óleos preciosos, sem se compadecerem da ruína de José.
+
+[[v37-6-7]]
+
+^<<v37-6-7,7>>^ Por isso irão deportados à frente dos cativos, e, será disperso esse bando de voluptuosos.
+
+[[v37-6-8]]
+
+^<<v37-6-8,8>>^ O Senhor Deus jurou por sua vida - oráculo do Senhor Deus dos exércitos: Detesto a soberba de Jacob aborreço os seus palácios, e entregarei (ao domínio de outros) a cidade com tudo o que encerra.
+
+[[v37-6-9]]
+
+^<<v37-6-9,9>>^ Se numa casa ficarem dez homens, também esses mesmos morrerão.
+
+[[v37-6-10]]
+
+^<<v37-6-10,10>>^ Um parente, com um queimador (de aromas), virá para tirar de casa os ossos e dirá ao que está no mais interior da casa: Há mais alguém contigo?
+
+[[v37-6-11]]
+
+^<<v37-6-11,11>>^ Ele responderá: Não há mais. Então o outro lhe dirá: Silêncio! Não é ocasião de pronunciar o nome do Senhor.
+
+[[v37-6-12]]
+
+^<<v37-6-12,12>>^ Porque eis que o Senhor decreta: fará cair em ruínas a casa grande, e em destroços a casa pequena.
+
+[[v37-6-13]]
+
+^<<v37-6-13,13>>^ Porventura podem os cavalos correr entre rochedos, ou pode-se lavrar o mar com bois? Entretanto pretendeis converter o (justo) juízo em amargura, e em absinto o fruto da justiça. (ver nota)
+
+[[v37-6-14]]
+
+^<<v37-6-14,14>>^ Vós alegrai-vos por causa de Lodabar, dizeis: Não foi por nossa própria fortaleza que tomámos Carnaim?
+
+[[v37-6-15]]
+
+^<<v37-6-15,15>>^ Pois, casa de Israel, diz o Senhor Deus dos exércitos, vou suscitar contra vós uma nação que vos oprimirá desde a entrada de Hamat até à torrente do deserto.
+
+'''
+
+xref:037-amos/037-amos-005.adoc#v37-5-0[&#60; Capítulo Anterior] | <<v37-6-0,Topo>> | xref:037-amos/037-amos-007.adoc#v37-7-0[Próximo Capítulo &#62;]

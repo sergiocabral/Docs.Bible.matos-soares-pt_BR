@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v29-14-0]]
+=== Isaías, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 14 começa com a profecia da queda do rei da Babilônia, que havia oprimido o povo de Israel. O capítulo descreve a queda desse rei orgulhoso e arrogante, que agora será reduzido a um simples cadáver como qualquer outro homem. Em seguida, o povo de Israel é convocado a cantar um cântico de triunfo, pois a opressão do inimigo chegou ao fim.
+* Salmos 137:8-9: "Ó filha da Babilônia, devastadora; feliz aquele que te retribuir o que nos fizeste! Feliz aquele que pegar teus filhinhos e esmagá-los contra a rocha!" Este salmo expressa a amargura do povo de Israel em relação à Babilônia, que havia destruído o templo e levado o povo para o exílio.
+* Jeremias 50:34: "Contudo, o seu Redentor é forte, o Senhor dos Exércitos é o seu nome. Ele defenderá vigorosamente o meu povo na sua causa, para que possa dar descanso à terra e causar terror aos moradores da Babilônia." Neste versículo, Jeremias profetiza a derrota final da Babilônia e a libertação do povo de Deus.
+* Apocalipse 18:2: "Ele clamou com voz forte, dizendo: 'Caiu! Caiu a grande Babilônia! Ela se tornou morada de demônios e abrigo de todo espírito imundo, abrigo de toda ave impura e detestável!'" Neste versículo do livro de Apocalipse, a queda da Babilônia é anunciada novamente, desta vez sob a forma de uma cidade corrupta e imoral que atrai a ira de Deus.
+* Zacarias 2:7-9: "Aí, a cidade do Senhor dos Exércitos! Será um esplendor! Ele enviará os seus mensageiros para anunciarem a salvação, dizendo: 'Consolai-vos, consolai-vos, ó povo meu, diz o Senhor. Falai ao coração de Jerusalém, dizendo que ela já cumpriu o seu tempo, que a sua iniquidade está perdoada, que já recebeu em dobro da mão do Senhor, por todos os seus pecados.'" Este trecho de Zacarias fala da restauração de Jerusalém após o exílio babilônico e a queda da Babilônia.
+* Apocalipse 19:1-2: "Depois destas coisas, ouvi no céu como que um grande clamor de uma multidão que dizia: 'Aleluia! A salvação, a glória e o poder pertencem ao nosso Deus, pois verdadeiros e justos são os seus juízos. Ele julgou a grande prostituta que corrompia a terra com a sua prostituição, e vingou o sangue dos seus servos nas mãos dela!'" Este trecho do livro de Apocalipse também fala da queda da Babilônia, agora sob a forma de uma "prostituta" que corrompe a terra e que é finalmente julgada por Deus.
+****
+
+[[v29-14-1]]
+
+^<<v29-14-1,1>>^ Este seu tempo está próximo a vir, os seus dias não se prolongarão. O Senhor terá compaixão de Jacob, terá ainda como escolhido a Israel. De novo os (filhos de Israel) estabelecerá na sua terra; agregar-se-á a eles o estrangeiro, incorporar-se-á na casa de Jacob.
+
+[[v29-14-2]]
+
+^<<v29-14-2,2>>^ Tomá-los-ão (amigàvelmente) os povos, e conduzi-los-ão ao seu país. Possuí-los-á a casa de Israel na terra do Senhor como servos e como servas. Farão cativos aqueles que os tinham cativado, e sujeitarão os seus opressores.
+
+[[v29-14-3]]
+
+^<<v29-14-3,3>>^ Naquele tempo em que o Senhor te tiver dado descanso, depois do teu trabalho, da tua opressão, da dura servidão, a que estiveste sujeito,
+
+[[v29-14-4]]
+
+^<<v29-14-4,4>>^ entoarás este cântico contra o rei de Babilônia. Dirás: Como acabou o tirano, como terminou a opressão?
+
+[[v29-14-5]]
+
+^<<v29-14-5,5>>^ O Senhor despedaçou o bastão dos ímpios, a vara dos dominadores,
+
+[[v29-14-6]]
+
+^<<v29-14-6,6>>^ o que na sua indignação feria os povos sem cessar, o que sujeitava as nações no seu furor, o que cruelmente as perseguia.
+
+[[v29-14-7]]
+
+^<<v29-14-7,7>>^ Toda a terra está em descanso e em paz, em cantos de alegria.
+
+[[v29-14-8]]
+
+^<<v29-14-8,8>>^ Até os ciprestes e os cedros do Líbano exultaram com a tua perda. Desde que morreste (dizem eles), não subirá quem nos corte.
+
+[[v29-14-9]]
+
+^<<v29-14-9,9>>^ A habitação dos mortos comove-se à tua chegada, para sair ao teu encontro. Acorda, em tua honra, as sombras dos grandes, todos os-senhores da terra: faz levantar dos seus tronos todos os reis das nações.
+
+[[v29-14-10]]
+
+^<<v29-14-10,10>>^ Todos, dirigindo-te a palavra, te dirão; Também tu foste ferido como nós, vieste a ser-nos semelhante!
+
+[[v29-14-11]]
+
+^<<v29-14-11,11>>^ A tua glória foi abatida até à morada dos mortos, ao som das tuas harpas; debaixo de ti se estende por cama a podridão, e a tua coberta são os vermes!
+
+[[v29-14-12]]
+
+^<<v29-14-12,12>>^ Como caíste do céu, ó astro brilhante, filho da aurora? Como caíste por terra, tu que ferias as nações?
+
+[[v29-14-13]]
+
+^<<v29-14-13,13>>^ Tu, que dizias no teu coração: Subirei ao céu, estabelecerei o meu trono acima dos astros de Deus, sentar-me-ei sobre o monte da assembleia (dos deuses), na extremidade do aquilão:
+
+[[v29-14-14]]
+
+^<<v29-14-14,14>>^ sobrepujarei a altura das nuvens, serei semelhante ao Altíssimo.
+
+[[v29-14-15]]
+
+^<<v29-14-15,15>>^ E contudo foste precipitado na morada dos mortos, no mais profundo dos abismos.
+
+[[v29-14-16]]
+
+^<<v29-14-16,16>>^ Os que te virem inclinarão-se para ti, e te contemplarão, dizendo: Porventura é este aquele homem, que punha a terra em confusão, que fazia estremecer os reinos,
+
+[[v29-14-17]]
+
+^<<v29-14-17,17>>^ que fazia do mundo um deserto, que destruía as cidades, e que não abria (nunca) a prisão aos seus cativos?
+
+[[v29-14-18]]
+
+^<<v29-14-18,18>>^ Todos os reis das nações, todos, repousam com glória, cada um em sua morada.
+
+[[v29-14-19]]
+
+^<<v29-14-19,19>>^ Mas tu foste atirado para longe do teu sepulcro, como um tronco inútil e manchado, confundido com aqueles que foram mortos à espada, e precipitados pelas ladeiras rochosas do abismo, como um cadáver que se calca.
+
+[[v29-14-20]]
+
+^<<v29-14-20,20>>^ Não terás consórcio com eles nem ainda na sepultura porque arruinaste a tua terra, fizeste perecer o teu povo. Jamais se falará da raça dos celerados.
+
+[[v29-14-21]]
+
+^<<v29-14-21,21>>^ Preparai para seus filhos o massacre. por causa da iniquidade de seus pais. Que não se levantem para conquistar a terra. que não encham de cidades a face do mundo.
+
+[[v29-14-22]]
+
+^<<v29-14-22,22>>^ Levantar-me-ei contra eles, declara o Senhor dos exércitos, destruirei o nome de Babilônia e as suas relíquias, toda a raça e o seu renovo, declara o Senhor,
+
+[[v29-14-23]]
+
+^<<v29-14-23,23>>^ Reduzi-la-ei a um ninho de ouriços e a um pântano, e varrê-la-ei com a vassoura da destruição, diz o Senhor dos exércitos.
+
+[[v29-14-24]]
+
+^<<v29-14-24,24>>^ Jurou o Senhor dos exércitos, dizendo: Por certo que, como pensei, assim será; o que tracei na mente,
+
+[[v29-14-25]]
+
+^<<v29-14-25,25>>^ acontecerá. Destruirei na minha terra o Assírio, e sobre os meus montes o calcarei aos pés; será tirado a Israel o seu jugo, e o seu peso se descarregará dos seus ombros.
+
+[[v29-14-26]]
+
+^<<v29-14-26,26>>^ Eis o desígnio que eu formei acerca de toda a terra (referida), e eis a mão que está levantada sobre todas as nações.
+
+[[v29-14-27]]
+
+^<<v29-14-27,27>>^ O Senhor dos exércitos o decretou. Quem poderá opor-se? A sua mão está levantada. Quem a desviará?
+
+[[v29-14-28]]
+
+^<<v29-14-28,28>>^ No ano em que morreu o rei Acaz, foi anunciado este oráculo: (ver nota)
+
+[[v29-14-29]]
+
+^<<v29-14-29,29>>^ Não te alegres tu, ó terra dos Filisteus, por se ter despedaçado a vara que te feria, porque da estirpe da serpente nascerá um basilisco, e o que dele nascer será um dragão voador.
+
+[[v29-14-30]]
+
+^<<v29-14-30,30>>^ Então os mais pobres (de Israel) serão nutridos, e os indigentes repousarão com segurança; mas farei morrer de fome a tua raça (ó Filisteu), e acabarei com tudo o que restar de ti.
+
+[[v29-14-31]]
+
+^<<v29-14-31,31>>^ Dá uivos, ó porta! Grita cidade! Estremece todo, ó país dos Filisteus! Porque do norte vem uma nuvem de pó, vêm batalhões de fileiras cerradas.
+
+[[v29-14-32]]
+
+^<<v29-14-32,32>>^ Que se responderá aos mensageiros da (dita) nação? Que o Senhor fundou Sião, e que nele se abrigam os humildes do seu povo. (ver nota)
+
+'''
+
+xref:029-isaias/029-isaias-013.adoc#v29-13-0[&#60; Capítulo Anterior] | <<v29-14-0,Topo>> | xref:029-isaias/029-isaias-015.adoc#v29-15-0[Próximo Capítulo &#62;]

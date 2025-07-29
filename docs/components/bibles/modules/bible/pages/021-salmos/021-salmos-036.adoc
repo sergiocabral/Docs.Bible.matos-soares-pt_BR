@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v21-36-0]]
+=== Salmos, 36
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 36 é um poema que compara a bondade e a justiça de Deus com a maldade e a arrogância dos ímpios. O salmista expressa sua admiração pela grandeza de Deus, que é fiel e amoroso para com aqueles que o buscam. Ele contrasta isso com a arrogância e o pecado dos ímpios, que não têm temor de Deus em seus corações. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 36:
+* Salmo 33:5: "Ele ama a justiça e a retidão; a terra está cheia da bondade do Senhor." Este versículo fala da justiça e bondade de Deus, que são temas importantes em Salmo 36.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo fala da importância de confiar em Deus e buscar sua orientação em nossas vidas, um tema que é enfatizado em Salmo 36.
+* Romanos 3:23-24: "Porque todos pecaram e destituídos estão da glória de Deus, sendo justificados gratuitamente pela sua graça, mediante a redenção que há em Cristo Jesus." Este versículo fala da natureza pecaminosa da humanidade, que é contrastada com a justiça e bondade de Deus em Salmo 36.
+* Isaías 55:6-7: "Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele." Este versículo fala da importância de buscar a Deus e se afastar do pecado, um tema que é abordado em Salmo 36.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo fala do perdão de Deus para aqueles que se arrependem de seus pecados e o buscam, um tema que é enfatizado em Salmo 36.
+****
+
+[[v21-36-1]]
+
+^<<v21-36-1,1>>^ De Davide. Não te irrites por causa dos malfeitores, nem tenhas inveja dos que praticam a iniquidade, (ver nota)
+
+[[v21-36-2]]
+
+^<<v21-36-2,2>>^ pois como feno depressa cairão, e, como a erva verde, logo murcharão.
+
+[[v21-36-3]]
+
+^<<v21-36-3,3>>^ Espera no Senhor, e pratica o bem, para que habites a terra, e gozes de segurança.
+
+[[v21-36-4]]
+
+^<<v21-36-4,4>>^ Põe as tuas delícias no Senhor, e te concederá o que o teu coração deseja.
+
+[[v21-36-5]]
+
+^<<v21-36-5,5>>^ Encomenda ao Senhor o teu caminho, espera nele, e ele agirá.
+
+[[v21-36-6]]
+
+^<<v21-36-6,6>>^ E fará brilhar como lume a tua justiça, e o teu direito como o (sol do) meio-dia.
+
+[[v21-36-7]]
+
+^<<v21-36-7,7>>^ Descansa no Senhor, e espera nele. Não te exasperes por causa do que prospera no seu caminho, por causa do homem que maquina males.
+
+[[v21-36-8]]
+
+^<<v21-36-8,8>>^ Guarda-te da ira, e deixa o furor; Não te exasperes: isso só seria para mal.
+
+[[v21-36-9]]
+
+^<<v21-36-9,9>>^ Com efeito, os que cometem o mal serão exterminados, mas os que esperam no Senhor, esses possuirão a terra.
+
+[[v21-36-10]]
+
+^<<v21-36-10,10>>^ Ainda um pouco, e não mais existirá o ímpio; se buscares o seu lugar, não o acharás.
+
+[[v21-36-11]]
+
+^<<v21-36-11,11>>^ Mas os mansos possuirão a terra, e deleitar-se-ão na abundância da paz.
+
+[[v21-36-12]]
+
+^<<v21-36-12,12>>^ O ímpio maquina males contra o justo e range os dentes contra ele.
+
+[[v21-36-13]]
+
+^<<v21-36-13,13>>^ O Senhor zomba dele, porque vê que há-de chegar o seu dia.
+
+[[v21-36-14]]
+
+^<<v21-36-14,14>>^ Os ímpios desembainham a espada e retesam o seu arco, para abaterem o desgraçado e o pobre, para trucidarem os que seguem caminho recto.
+
+[[v21-36-15]]
+
+^<<v21-36-15,15>>^ A sua espada traspassarão seu próprio coração, e serão quebrados os seus arcos.
+
+[[v21-36-16]]
+
+^<<v21-36-16,16>>^ Mais vale o pouco ao justo, que as muitas riquezas aos ímpios,
+
+[[v21-36-17]]
+
+^<<v21-36-17,17>>^ porque os braços dos pecadores serão quebrados, aos justos, porém, sustenta-os o Senhor,
+
+[[v21-36-18]]
+
+^<<v21-36-18,18>>^ O Senhor cuida da vida dos bons, e a herança deles será eterna.
+
+[[v21-36-19]]
+
+^<<v21-36-19,19>>^ Não serão confundidos no tempo do infortúnio, e serão fartos nos dias de fome.
+
+[[v21-36-20]]
+
+^<<v21-36-20,20>>^ Os ímpios, ao contrário, perecerão, os inimigos do Senhor murcharão como o adorno dos prados, dissipar-se-ão como o fumo.
+
+[[v21-36-21]]
+
+^<<v21-36-21,21>>^ O pecador pede emprestado e não paga; o justo, porém, é compassivo e dá (ao necessitado).
+
+[[v21-36-22]]
+
+^<<v21-36-22,22>>^ Em realidade, os que (o Senhor) abençoar, possuirão a terra, e os que amaldiçoar, serão exterminados.
+
+[[v21-36-23]]
+
+^<<v21-36-23,23>>^ Os passos do homem (justo) são firmados pelo Senhor, e é-lhe grato o seu caminho.
+
+[[v21-36-24]]
+
+^<<v21-36-24,24>>^ Ainda que caia, não ficará prostrado, porque o Senhor o toma pela mão.
+
+[[v21-36-25]]
+
+^<<v21-36-25,25>>^ Fui menino e já sou velho, e nunca vi o justo desamparado, nem a sua descendência mendigando pão.
+
+[[v21-36-26]]
+
+^<<v21-36-26,26>>^ Sempre compassivo e empresta, e a sua descendência será abençoada.
+
+[[v21-36-27]]
+
+^<<v21-36-27,27>>^ Desvia-te do mal e faz o bem a fim de que permaneças para sempre.
+
+[[v21-36-28]]
+
+^<<v21-36-28,28>>^ O Senhor ama a justiça e não desampara os seus santos; os perversos serão exterminados, e a sua descendência eliminada.
+
+[[v21-36-29]]
+
+^<<v21-36-29,29>>^ Os justos possuirão a terra, e habitarão sobre ela para sempre.
+
+[[v21-36-30]]
+
+^<<v21-36-30,30>>^ A boca dos justos anuncia a sabedoria, a sua língua proclama o direito.
+
+[[v21-36-31]]
+
+^<<v21-36-31,31>>^ A lei do seu Deus está no seu coração, e não vacilam os seus passos (no caminho do Senhor).
+
+[[v21-36-32]]
+
+^<<v21-36-32,32>>^ O pecador observa o justo, e procura como há-de dar-lhe a morte.
+
+[[v21-36-33]]
+
+^<<v21-36-33,33>>^ Mas o Senhor não o abandonará nas suas mãos, nem o condenará, quando for julgado.
+
+[[v21-36-34]]
+
+^<<v21-36-34,34>>^ Confia no Senhor e guarda o seu caminho, e ele te exaltará para que possuas a terra; verás com satisfação o extermínio dos ímpios.
+
+[[v21-36-35]]
+
+^<<v21-36-35,35>>^ Vi o ímpio arrogante, dilatando-se como cedro frondoso.
+
+[[v21-36-36]]
+
+^<<v21-36-36,36>>^ Passei (dai a pouco), e já não existia; busquei-o, e não foi encontrado. (ver nota)
+
+[[v21-36-37]]
+
+^<<v21-36-37,37>>^ Observa o honesto, considera o justo: pois há posteridade para o homem pacífico.
+
+[[v21-36-38]]
+
+^<<v21-36-38,38>>^ Os pecadores porém serão todos aniquilados, a posteridade dos ímpios será eliminada.
+
+[[v21-36-39]]
+
+^<<v21-36-39,39>>^ A salvação dos justos vem do Senhor; ele é o seu refúgio no tempo da tribulação.
+
+[[v21-36-40]]
+
+^<<v21-36-40,40>>^ O Senhor os ajuda e os livra; livra-os dos ímpios e os protege, porque recorrem a ele.
+
+'''
+
+xref:021-salmos/021-salmos-035.adoc#v21-35-0[&#60; Capítulo Anterior] | <<v21-36-0,Topo>> | xref:021-salmos/021-salmos-037.adoc#v21-37-0[Próximo Capítulo &#62;]

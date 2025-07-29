@@ -1,0 +1,307 @@
+include::./index.adoc[]
+
+[[v21-77-0]]
+=== Salmos, 77
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 77 é um salmo de lamentação, em que o salmista expressa seu sofrimento e busca consolo em Deus. Ele questiona a Deus sobre o seu silêncio diante de suas aflições e lembra das obras maravilhosas que Deus fez no passado em favor do seu povo. A seguir, estão cinco versículos relacionados aos temas abordados em Salmo 77, em ordem de proximidade com o capítulo:
+* Salmos 22:2: "Deus meu, Deus meu, por que me desamparaste? Por que te alongas do meu auxílio e das palavras do meu bramido?" Assim como o salmista de Salmo 77, o salmista de Salmo 22 expressa sua dor e questiona o motivo do aparente abandono de Deus.
+* Salmos 13:1-2: "Até quando, SENHOR? Esquecer-te-ás de mim para sempre? Até quando esconderás de mim o teu rosto? Até quando consultarei com a minha alma, tendo tristeza no meu coração cada dia? Até quando se exaltará sobre mim o meu inimigo?" O salmista de Salmo 13 também se sente abandonado por Deus e se questiona sobre quanto tempo terá que suportar o sofrimento.
+* Salmos 44:23-24: "Desperta! Por que dormes, Senhor? Acorda! Não nos rejeites para sempre. Por que escondes o teu rosto e te esqueces da nossa miséria e opressão?" O salmista de Salmo 44 clama a Deus para que acorde e não os abandone em meio ao sofrimento.
+* Salmos 66:5: "Vinde, e vede as obras de Deus; é tremendo nos seus feitos para com os filhos dos homens." O salmista de Salmo 77 também lembra das obras maravilhosas de Deus no passado, e este versículo de Salmo 66 convida a todos a contemplarem as obras de Deus.
+* Salmos 86:7: "Invoco-te no dia da minha angústia, porque me respondes." Este versículo de Salmo 86 expressa a confiança do salmista em que Deus irá responder ao seu clamor, assim como o salmista de Salmo 77 espera encontrar consolo em Deus.
+****
+
+[[v21-77-1]]
+
+^<<v21-77-1,1>>^ MaskiL De Asaf. Escuta, povo meu, o meu ensinamento; inclina os teus ouvidos às palavras da minha boca.
+
+[[v21-77-2]]
+
+^<<v21-77-2,2>>^ Abrirei em parábolas a minha boca, publicarei os enigmas dos tempos antigos.
+
+[[v21-77-3]]
+
+^<<v21-77-3,3>>^ O que ouvimos e aprendemos, e o que nossos pais nos contaram,
+
+[[v21-77-4]]
+
+^<<v21-77-4,4>>^ não o ocultaremos aos seus filhos, narraremos à geração vindoura os louvores do Senhor, o seu poder e as maravilhas que fez.
+
+[[v21-77-5]]
+
+^<<v21-77-5,5>>^ Ele fixou uma regra em Jacob, estabeleceu uma lei em Israel, (no sentido de) que tudo o que ordenou aos nossos país, eles o fizessem conhecer a seus filhos,
+
+[[v21-77-6]]
+
+^<<v21-77-6,6>>^ para que o saiba a geração vindoura, os filhos que hão-de nascer, e estes se levantem e contem também a seus filhos,
+
+[[v21-77-7]]
+
+^<<v21-77-7,7>>^ para que ponham em Deus a sua esperança, e não se esqueçam das obras de Deus, mas observem os seus mandamentos;
+
+[[v21-77-8]]
+
+^<<v21-77-8,8>>^ para que não sejam como seus pais, uma geração rebelde e contumaz: uma geração, que não teve coração recto, nem espírito fiel a Deus.
+
+[[v21-77-9]]
+
+^<<v21-77-9,9>>^ Os filhos de Efraim, que lutavam com o arco, voltaram costas no dia da batalha.
+
+[[v21-77-10]]
+
+^<<v21-77-10,10>>^ Não guardaram a aliança feita com Deus, recusaram andar na sua lei,
+
+[[v21-77-11]]
+
+^<<v21-77-11,11>>^ esqueceram-se das suas obras e das maravilhas que fez à vista deles.
+
+[[v21-77-12]]
+
+^<<v21-77-12,12>>^ Diante de seus pais fez maravilhas na terra do Egipto, no campo de Tanis.
+
+[[v21-77-13]]
+
+^<<v21-77-13,13>>^ Dividiu o mar, por ele os fez passar, e conteve as águas como um dique.
+
+[[v21-77-14]]
+
+^<<v21-77-14,14>>^ Guiou-os de dia por meio duma nuvem, e toda a noite com resplendor de fogo.
+
+[[v21-77-15]]
+
+^<<v21-77-15,15>>^ Fendeu as pedras no deserto, e deu-lhes a beber água, como ondas abundantes.
+
+[[v21-77-16]]
+
+^<<v21-77-16,16>>^ Fez brotar arroios da pedra, e correr as águas como rios.
+
+[[v21-77-17]]
+
+^<<v21-77-17,17>>^ (Apesar disto) continuaram a pecar contra ele, a ofender o Altíssimo no deserto.
+
+[[v21-77-18]]
+
+^<<v21-77-18,18>>^ Tentaram a Deus nos seus corações, pedindo iguarias que fossem do seu gosto.
+
+[[v21-77-19]]
+
+^<<v21-77-19,19>>^ E falaram contra Deus. Disseram: "Porventura poderá Deus preparar uma mesa no deserto?
+
+[[v21-77-20]]
+
+^<<v21-77-20,20>>^ Sem dúvida ele feriu a pedra, e correram águas, manaram torrentes; porventura poderá também dar pão, ou preparar carne para o seu povo?"
+
+[[v21-77-21]]
+
+^<<v21-77-21,21>>^ Por isso o Senhor, ao ouvir isto, ardeu em ira, e um fogo se acendeu contra Jacob, e cresceu a ira contra Israel,
+
+[[v21-77-22]]
+
+^<<v21-77-22,22>>^ porque (os israelitas) não creram em Deus, nem esperaram no seu auxilio.
+
+[[v21-77-23]]
+
+^<<v21-77-23,23>>^ Porém, do alto mandou às nuvens e abriu as portas do céu;
+
+[[v21-77-24]]
+
+^<<v21-77-24,24>>^ fez chover sobre eles maná para comerem, deu-lhes um pão do céu. (ver nota)
+
+[[v21-77-25]]
+
+^<<v21-77-25,25>>^ O homem comeu o pão dos fortes: enviou-lhes víveres até à saciedade.
+
+[[v21-77-26]]
+
+^<<v21-77-26,26>>^ Levantou no céu o vento leste e enviou com o seu poder o vento sul.
+
+[[v21-77-27]]
+
+^<<v21-77-27,27>>^ Fez chover sobre eles carnes (tão abundantes) como pó, aves de penas como areia do mar,
+
+[[v21-77-28]]
+
+^<<v21-77-28,28>>^ que caíram no meio dos seus acampamentos, em redor das suas tendas.
+
+[[v21-77-29]]
+
+^<<v21-77-29,29>>^ Comeram c fartaram-se plenamente. Assim (Deus) satisfez o desejo deles.
+
+[[v21-77-30]]
+
+^<<v21-77-30,30>>^ Todavia, ainda não tinham acabado de saciar o seu apetite, ainda estavam as iguarias na sua boca,
+
+[[v21-77-31]]
+
+^<<v21-77-31,31>>^ quando a ira de Deus se inflamou contra eles e matou os mais robustos dentre eles, derribou os jovens de Israel.
+
+[[v21-77-32]]
+
+^<<v21-77-32,32>>^ Depois de tudo isto, voltaram a pecar, não creram nas suas maravilhas.
+
+[[v21-77-33]]
+
+^<<v21-77-33,33>>^ E consumiu rapidamente os seus dias, e os seus anos com extermínio repentino.
+
+[[v21-77-34]]
+
+^<<v21-77-34,34>>^ Quando os feria de morte, buscavam-no: convertendo-se, buscavam a Deus;
+
+[[v21-77-35]]
+
+^<<v21-77-35,35>>^ lembravam-se que Deus era a sua rocha (de defesa), que o Deus altíssimo era seu redentor.
+
+[[v21-77-36]]
+
+^<<v21-77-36,36>>^ Porém enganavam-no com a sua boca, com a sua língua lhe mentiam.
+
+[[v21-77-37]]
+
+^<<v21-77-37,37>>^ O seu coração não era recto com ele, nem eram fiéis à sua aliança.
+
+[[v21-77-38]]
+
+^<<v21-77-38,38>>^ Mas ele, misericordioso, perdoava a sua culpa, não os destruía; conteve muitas vezes a sua ira, não descarregou (contra eles) todo o seu furor.
+
+[[v21-77-39]]
+
+^<<v21-77-39,39>>^ Lembrou-se que eram carne (frágil), um sopro que passa e não volta.
+
+[[v21-77-40]]
+
+^<<v21-77-40,40>>^ Quantas vezes o provocaram no deserto, o contristaram na solidão
+
+[[v21-77-41]]
+
+^<<v21-77-41,41>>^ E voltaram a tentar a Deus, a exacerbar o santo de Israel.
+
+[[v21-77-42]]
+
+^<<v21-77-42,42>>^ Não se lembraram do que ele tinha feito no dia em que os libertou da mão do opressor,
+
+[[v21-77-43]]
+
+^<<v21-77-43,43>>^ quando fez resplandecer no Egipto os seus prodígios, e as suas maravilhas no campo de Tanis,
+
+[[v21-77-44]]
+
+^<<v21-77-44,44>>^ quando converteu em sangue os seus rios e os seus arrolos, para que não pudessem beber deles.
+
+[[v21-77-45]]
+
+^<<v21-77-45,45>>^ Enviou contra eles moscas, que os devoraram, e rãs, que os infestaram;
+
+[[v21-77-46]]
+
+^<<v21-77-46,46>>^ entregou as suas colheitas ao pulgão, e o fruto do seu trabalho ao gafanhoto.
+
+[[v21-77-47]]
+
+^<<v21-77-47,47>>^ Destruiu com saraiva as suas vinhas, e os seus sicómoros com geada.
+
+[[v21-77-48]]
+
+^<<v21-77-48,48>>^ E entregou à saraiva os seus jumentos, e os seus rebanhos aos raios.
+
+[[v21-77-49]]
+
+^<<v21-77-49,49>>^ Descarregou sobre eles o furor da sua ira, a indignação, o furor e a tribulação: um tropel de portadores de calamidade.
+
+[[v21-77-50]]
+
+^<<v21-77-50,50>>^ Abriu caminho à sua ira, não os preservou da morte, e entregou os seus animais à peste.
+
+[[v21-77-51]]
+
+^<<v21-77-51,51>>^ Feriu todo o primogênito no Egipto, as primícias dos seus partos, nas tendas de Cam.
+
+[[v21-77-52]]
+
+^<<v21-77-52,52>>^ E fez sair o seu povo como ovelhas, e guiou-os como um rebanho no deserto.
+
+[[v21-77-53]]
+
+^<<v21-77-53,53>>^ Conduziu-os seguros e não temeram, e o mar cobriu os seus inimigos.
+
+[[v21-77-54]]
+
+^<<v21-77-54,54>>^ E fez que chegassem à sua terra santa, aos montes que ele adquiriu com a sua dextra.
+
+[[v21-77-55]]
+
+^<<v21-77-55,55>>^ Expulsou de diante deles as gentes, e repartiu-lhas por sorte em herança, e fez habitar em suas tendas as tribos de Israel.
+
+[[v21-77-56]]
+
+^<<v21-77-56,56>>^ Eles, porém, tentaram e provocaram de novo ao Deus Altíssimo não guardaram os seus preceitos.
+
+[[v21-77-57]]
+
+^<<v21-77-57,57>>^ Fraquejaram e prevaricaram como seus pais, desviaram-se como um arco que falha.
+
+[[v21-77-58]]
+
+^<<v21-77-58,58>>^ Excitaram-no à ira nas suas colinas, e com os ídolos que esculpiram inflamaram-lhe o zelo.
+
+[[v21-77-59]]
+
+^<<v21-77-59,59>>^ Ouviu-os Deus, ardeu em furor e repudiou asperamente Israel.
+
+[[v21-77-60]]
+
+^<<v21-77-60,60>>^ E abandonou a morada de Silo, o tabernáculo, onde habitava entre os homens.
+
+[[v21-77-61]]
+
+^<<v21-77-61,61>>^ E entregou ao cativeiro (a Arca que era) a sua força, e (colocou) a sua glória nas mãos do inimigo.
+
+[[v21-77-62]]
+
+^<<v21-77-62,62>>^ Entregou o seu povo à espada, indignou-se contra, a sua herança.
+
+[[v21-77-63]]
+
+^<<v21-77-63,63>>^ O fogo devorou os seus jovens, e as suas virgens não celebraram desposórios.
+
+[[v21-77-64]]
+
+^<<v21-77-64,64>>^ Os seus sacerdotes pereceram à espada, e as suas viúvas não derramaram lágrimas.
+
+[[v21-77-65]]
+
+^<<v21-77-65,65>>^ E o Senhor despertou como de um sono, como um guerreiro dominado pelo vinho.
+
+[[v21-77-66]]
+
+^<<v21-77-66,66>>^ E feriu os seus inimigos pelas costas: infligiu-lhes uma eterna ignomínia.
+
+[[v21-77-67]]
+
+^<<v21-77-67,67>>^ E rejeitou o tabernáculo de José, e não escolheu a tribo de Efraim,
+
+[[v21-77-68]]
+
+^<<v21-77-68,68>>^ Mas escolheu a tribo de Judá, o monte de Sião que amou.
+
+[[v21-77-69]]
+
+^<<v21-77-69,69>>^ Edificou o seu santuário, como um céu, na terra que fundou para sempre.
+
+[[v21-77-70]]
+
+^<<v21-77-70,70>>^ Escolheu Davide, seu servo, e tomou-o do meio dos apriscos das ovelhas:
+
+[[v21-77-71]]
+
+^<<v21-77-71,71>>^ chamou-o, quando ia atrás das que amamentavam, para que apascentasse Jacob, seu povo, e Israel, sua herança.
+
+[[v21-77-72]]
+
+^<<v21-77-72,72>>^ E ele apascentou-os segundo a integridade do seu coração, e com a prudência das suas mãos os conduziu.
+
+'''
+
+xref:021-salmos/021-salmos-076.adoc#v21-76-0[&#60; Capítulo Anterior] | <<v21-77-0,Topo>> | xref:021-salmos/021-salmos-078.adoc#v21-78-0[Próximo Capítulo &#62;]

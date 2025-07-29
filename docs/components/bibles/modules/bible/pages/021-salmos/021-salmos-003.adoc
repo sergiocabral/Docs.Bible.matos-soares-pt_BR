@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-3-0]]
+=== Salmos, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 3 é uma oração do rei Davi em meio a uma situação de perigo e angústia. Ele clama a Deus por socorro e salvação, confiando em sua proteção e livramento. Os temas abordados neste salmo incluem a confiança em Deus em meio às adversidades, a certeza da salvação e a proteção divina. Seguem abaixo cinco versículos relacionados com esses temas:
+* Salmos 27:1: "O Senhor é a minha luz e a minha salvação; de quem terei medo? O Senhor é o meu refúgio; quem me poderá atacar?" Este verso fala sobre a confiança em Deus como fonte de luz, salvação e refúgio em meio aos perigos e medos da vida.
+* Salmos 91:2: "Eu declaro que o Senhor é o meu refúgio, o meu lugar seguro; ele é o meu Deus, em quem confio." Este verso também destaca a confiança em Deus como refúgio e lugar seguro, e a importância de declarar essa verdade para fortalecer a fé.
+* Salmos 138:7: "Se eu andar em meio à tribulação, tu me refazes a vida; estendes a tua mão contra a ira dos meus inimigos; a tua destra me salva." Este verso enfatiza a proteção e salvação divinas em meio às tribulações e oposições que enfrentamos na vida.
+* Salmos 142:5: "Clamo a ti, Senhor, e digo: Tu és o meu refúgio; és tudo o que tenho na terra dos viventes." Este verso reforça a ideia de que Deus é o refúgio e fortaleza em quem podemos confiar plenamente, em qualquer circunstância da vida.
+* Salmos 146:5: "Feliz aquele que tem o Deus de Jacó por seu auxílio, cuja esperança está no Senhor, no seu Deus." Este verso exalta a felicidade daqueles que confiam em Deus como auxílio e esperança, e que encontram nele a força e a proteção necessárias para enfrentar as adversidades da vida.
+****
+
+[[v21-3-1]]
+
+^<<v21-3-1,1>>^ Salmo, De Davide, quando foge de Absalão, seu filho.
+
+[[v21-3-2]]
+
+^<<v21-3-2,2>>^ Senhor, quão numerosos são os que me atormentam, muitos se levantam contra mim!
+
+[[v21-3-3]]
+
+^<<v21-3-3,3>>^ Muitos dizem a meu respeito: "Não há salvação para ele em Deus."
+
+[[v21-3-4]]
+
+^<<v21-3-4,4>>^ Porém tu, Senhor, és o meu escudo, a minha glória, o que exaltas a minha cabeça,
+
+[[v21-3-5]]
+
+^<<v21-3-5,5>>^ Com a minha voz clamei ao Senhor, e ele ouviu-me (benigno) do seu santo monte.
+
+[[v21-3-6]]
+
+^<<v21-3-6,6>>^ Deitei-me e adormeci: levantei-me, porque o Senhor me ampara.
+
+[[v21-3-7]]
+
+^<<v21-3-7,7>>^ Não temerei esse povo que, aos milhares, acampa em cerco contra mim.
+
+[[v21-3-8]]
+
+^<<v21-3-8,8>>^ Levanta-te, Senhor! Salva-me, Deus meu! Com efeito, tu feriste na cara todos os meus inimigos, quebraste os dentes dos pecadores.
+
+[[v21-3-9]]
+
+^<<v21-3-9,9>>^ Junto do Senhor há salvação: sobre o teu povo, (ó Deus) venha a tua bênção!
+
+'''
+
+xref:021-salmos/021-salmos-002.adoc#v21-2-0[&#60; Capítulo Anterior] | <<v21-3-0,Topo>> | xref:021-salmos/021-salmos-004.adoc#v21-4-0[Próximo Capítulo &#62;]

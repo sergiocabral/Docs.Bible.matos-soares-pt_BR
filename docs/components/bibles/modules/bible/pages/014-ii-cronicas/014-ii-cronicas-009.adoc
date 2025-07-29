@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v14-9-0]]
+=== II Crônicas, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 9 relata a visita da rainha de Sabá ao rei Salomão, que impressionou-a com sua sabedoria e riquezas. Ela ofereceu presentes a Salomão, e o capítulo descreve a grandeza do rei e de seu reino.
+* Provérbios 10:22: "A bênção do Senhor é que enriquece, e ele não acrescenta dores." Este versículo fala sobre como a verdadeira riqueza vem de Deus, e não pode ser alcançada apenas por meio de bens materiais, como os presentes que a rainha de Sabá ofereceu a Salomão.
+* Eclesiastes 7:12: "Porque a sabedoria serve de defesa, como o dinheiro serve de defesa; mas a excelência do conhecimento é que a sabedoria dá vida ao seu possuidor." Este versículo enfatiza a importância da sabedoria, que foi um dos atributos que impressionou a rainha de Sabá em Salomão.
+* Mateus 6:33: "Mas buscai primeiro o Reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas." Este versículo lembra-nos que devemos colocar Deus em primeiro lugar em nossas vidas, e que Ele nos fornecerá todas as coisas que precisamos.
+* 1 Reis 10:23: "Assim o rei Salomão excedeu a todos os reis da terra, tanto em riquezas como em sabedoria." Este versículo reforça o tema principal de 2 Crônicas 9, que é a grandeza de Salomão como rei e sua sabedoria.
+* Salmos 72:1-2: "Ó Deus, dá ao rei os teus juízos, e a tua justiça ao filho do rei. Julgue ele o teu povo com justiça, e os teus pobres com juízo." Este salmo é uma oração pelo bem-estar do rei, que é responsável por governar com justiça e cuidar de seu povo, como Salomão fez em seu reinado.
+****
+
+[[v14-9-1]]
+
+^<<v14-9-1,1>>^ A rainha de Sabá, tendo também ouvido falar da fama de Salomão, foi a Jerusalém para o experimentar com enigmas, levando consigo uma grande caravana de camelos, que iam carregados de aromas, de grande quantidade de ouro e de pedras preciosas. Logo que ela se apresentou a Salomão, expôs-lhe tudo o que tinha no seu coração.
+
+[[v14-9-2]]
+
+^<<v14-9-2,2>>^ Salomão explicou-lhe tudo que ela lhe propusera; não houve nada que ele lhe não pusesse claro.
+
+[[v14-9-3]]
+
+^<<v14-9-3,3>>^ Logo que ela viu a sabedoria de Salomão, a casa que ele tinha edificado,
+
+[[v14-9-4]]
+
+^<<v14-9-4,4>>^ os manjares da sua mesa, os aposentos dos seus servos, a habitação e o vestuário dos seus domésticos, os copeiros com os seus trajes, as vítimas que imolava na casa do Senhor, ficou espantada e como fora de si.
+
+[[v14-9-5]]
+
+^<<v14-9-5,5>>^ Disse ao rei: É verdade o que ouvi dizer na minha terra acerca de ti e da tua sabedoria.
+
+[[v14-9-6]]
+
+^<<v14-9-6,6>>^ Eu não acreditava no que me contavam, até que eu mesma vim e vi com os meus olhos; (então) reconheci que apenas me tinha sido dito metade da grandeza da tua sabedoria, pois excedes a fama que havia chegado até mim.
+
+[[v14-9-7]]
+
+^<<v14-9-7,7>>^ Bem-aventurados os teus povos, bem-aventurados os teus servos, que estão sempre diante de ti e que ouvem a tua sabedoria.
+
+[[v14-9-8]]
+
+^<<v14-9-8,8>>^ Bem-dito seja o Senhor teu Deus, que quis colocar-te sobre o seu trono como rei, em nome do Senhor teu Deus. Deus ama Israel, quer conservá-lo para sempre, e por isso te constituiu seu rei, a fim de o julgares e lhe administrares justiça.
+
+[[v14-9-9]]
+
+^<<v14-9-9,9>>^ Depois presenteou o rei com cento e vinte talentos de ouro, e uma prodigiosa quantidade de aromas e pedras preciosíssimas; nunca se tinham visto perfumes tão excelentes, como os que a rainha de Sabá deu ao rei Salomão.
+
+[[v14-9-10]]
+
+^<<v14-9-10,10>>^ Os servos de Hirão com os de Salomão trouxeram também ouro de Ofir, madeira de sândalo e pedras de grande valor.
+
+[[v14-9-11]]
+
+^<<v14-9-11,11>>^ Com esta madeira de sândalo fez o rei os degraus da casa do Senhor e do palácio, real, as harpas e as liras dos músicos: nunca se viu na terra de Judá madeira como esta.
+
+[[v14-9-12]]
+
+^<<v14-9-12,12>>^ O rei Salomão deu à rainha de Sabá tudo o que ela desejou e pediu, muito mais do que lhe tinha trazido. Depois ela, retirando-se, voltou para a sua terra com os seus servos.
+
+[[v14-9-13]]
+
+^<<v14-9-13,13>>^ O peso do ouro, que todos os anos era levado a Salomão, era de seiscentos e seis talentos de ouro,
+
+[[v14-9-14]]
+
+^<<v14-9-14,14>>^ sem contar aquela soma que recebia dos mercadores e traficantes; todos os reis da Arábia e os governadores das províncias levavam ouro e prata à Salomão.
+
+[[v14-9-15]]
+
+^<<v14-9-15,15>>^ Fez o rei Salomão duzentos grandes escudos de ouro, em cada um dos quais eram empregados seiscentos siclos de ouro,
+
+[[v14-9-16]]
+
+^<<v14-9-16,16>>^ e trezentos pequenos escudos de ouro, cada um dos quais levou trezentos siclos de ouro. O rei depositou-os no palácio do Bosque do Líbano.
+
+[[v14-9-17]]
+
+^<<v14-9-17,17>>^ Fez também o rei um grande trono de marfim, que revestiu de ouro puríssimo.
+
+[[v14-9-18]]
+
+^<<v14-9-18,18>>^ Tinha seis degraus, pelos quais se subia ao trono, um estrado de ouro, braços duma e outra parte, dois leões ao pé dos dois braços,
+
+[[v14-9-19]]
+
+^<<v14-9-19,19>>^ e mais outros doze leões postos duma e outra parte sobre os seis degraus. Não houve trono semelhante em nenhum outro reino.
+
+[[v14-9-20]]
+
+^<<v14-9-20,20>>^ Todos os vasos da mesa do rei eram de ouro e a baixela do palácio do Bosque do Líbano era de ouro puríssimo, porque naquele tempo a prata era reputada por nada.
+
+[[v14-9-21]]
+
+^<<v14-9-21,21>>^ Com efeito as frotas do rei iam a Tarsis, com os servos de Hirão, e chegavam, de três em três anos, trazendo de lá ouro e prata, marfim, bugios e pavões.
+
+[[v14-9-22]]
+
+^<<v14-9-22,22>>^ O rei Salomão ultrapassou todos os reis do mundo em riquezas e em sabedoria.
+
+[[v14-9-23]]
+
+^<<v14-9-23,23>>^ Todos os reis da terra desejavam ver o rosto de Salomão, para ouvirem a sabedoria de que Deus tinha dotado o seu coração,
+
+[[v14-9-24]]
+
+^<<v14-9-24,24>>^ e presenteavam-no todos os anos com vasos de prata e de ouro, vestes, armas, aromas, cavalos e machos.
+
+[[v14-9-25]]
+
+^<<v14-9-25,25>>^ Teve também Salomão quarenta mil cavalos nas suas cavalariças, doze mil coches, doze mil cavaleiros, e colocou-os nas cidades destinadas para os carros, e em Jerusalém, onde estava o rei.
+
+[[v14-9-26]]
+
+^<<v14-9-26,26>>^ Exerceu também o seu poder sobre todos os reis que havia desde o rio Eufrates, até à terra dos Filisteus e até às fronteiras do Egito.
+
+[[v14-9-27]]
+
+^<<v14-9-27,27>>^ Fez que em Jerusalém fosse tão comum a prata como as pedras, e que houvesse tanta multidão de cedros como são os sicómoros que nascem nos campos.
+
+[[v14-9-28]]
+
+^<<v14-9-28,28>>^ Eram-lhe trazidos cavalos do Egito e de todos os países.
+
+[[v14-9-29]]
+
+^<<v14-9-29,29>>^ O resto das ações de Salomão, tanto as primeiras como as últimas, estão escritas nos livros do profeta Natan, nos livros de Aias de Silo, e nas profecias de Ado, que profetizou contra Jeroboão, filho de Nabat.
+
+[[v14-9-30]]
+
+^<<v14-9-30,30>>^ Salomão reinou em Jerusalém sobre todo o Israel durante quarenta anos.
+
+[[v14-9-31]]
+
+^<<v14-9-31,31>>^ Adormeceu com seus pais, e foi sepultado na cidade de Davide. Roboão, seu filho, reinou em seu lugar.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-008.adoc#v14-8-0[&#60; Capítulo Anterior] | <<v14-9-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-010.adoc#v14-10-0[Próximo Capítulo &#62;]

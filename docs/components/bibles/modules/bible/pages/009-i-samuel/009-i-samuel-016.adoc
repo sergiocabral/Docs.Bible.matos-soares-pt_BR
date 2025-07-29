@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v9-16-0]]
+=== I Samuel, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 16 narra a história de Deus rejeitando Saul como rei de Israel e enviando Samuel para ungir o jovem Davi como seu sucessor. O capítulo trata de temas como a escolha de Deus, a obediência, a importância do caráter e a liderança. A seguir estão cinco versículos relacionados com esses temas, em ordem de proximidade com o capítulo:
+* 1 Crônicas 28:4: "Porém o SENHOR Deus de Israel me escolheu de toda a casa de meu pai, para que perpetuamente fosse rei sobre Israel; porque a Judá escolheu por líder, e a casa de meu pai na casa de Judá; e entre os filhos de meu pai se agradou de mim para me fazer rei sobre todo o Israel." Esse versículo fala sobre a escolha divina de Davi para ser rei, que é um tema central em 1 Samuel 16.
+* 1 Samuel 15:22: "Porém Samuel disse: Tem porventura o SENHOR tanto prazer em holocaustos e sacrifícios, como em que se obedeça à palavra do SENHOR? Eis que o obedecer é melhor do que o sacrificar; e o atender melhor é do que a gordura de carneiros." Este versículo fala da importância da obediência à palavra de Deus, que é um tema importante em 1 Samuel 16, já que Samuel obedece a Deus ao ungir Davi como rei.
+* 1 Pedro 5:2: "Apascentai o rebanho de Deus, que está entre vós, não por força, mas voluntariamente; não por torpe ganância, mas de ânimo pronto." Este versículo fala da importância da liderança e da responsabilidade de cuidar do povo de Deus, como Davi foi escolhido para liderar e pastorear o povo de Israel como seu rei.
+* 1 Timóteo 3:2: "Convém, pois, que o bispo seja irrepreensível, marido de uma mulher, vigilante, sóbrio, honesto, hospitaleiro, apto para ensinar." Este versículo fala da importância do caráter e da integridade do líder, como Deus escolheu Davi por causa de seu coração reto.
+* Salmos 78:70-72: "Escolheu a Davi seu servo, e o tirou dos apriscos das ovelhas; trouxe-o de detrás das que estavam criando, para apascentar a Jacó, seu povo, e a Israel, sua herança. E ele os apascentou, segundo a integridade do seu coração, e os guiou pela perícia de suas mãos." Este versículo fala sobre a escolha de Deus de Davi como rei e como ele foi um líder justo e compassivo para o povo de Israel.
+****
+
+[[v9-16-1]]
+
+^<<v9-16-1,1>>^ O Senhor disse a Samuel: Até quando chorarás tu Saul, tendo-o eu rejeitado para que não reine sobre Israel? Enche de óleo o teu (vaso feito de) chifre e vem, para eu te enviar a Isai de Belém, porque dentre os seus filhos, escolhi para mim um rei.
+
+[[v9-16-2]]
+
+^<<v9-16-2,2>>^ Samuel disse; Como hei-de eu ir? Saul o saberá e matar-me-á. O Senhor disse: Tomarás contigo um novilho da manada, e dirás: Eu vim para sacrificar ao Senhor.
+
+[[v9-16-3]]
+
+^<<v9-16-3,3>>^ Convidarás Isaí para comer da vítima e eu te mostrarei o que deves fazer; ungirás aquele que eu te designar.
+
+[[v9-16-4]]
+
+^<<v9-16-4,4>>^ Fez, pois, Samuel com o o Senhor lhe disse, e foi a Belém. Os anciães da cidade foram inquietos, aos seu encontro, e disseram: É de paz a tua vinda?
+
+[[v9-16-5]]
+
+^<<v9-16-5,5>>^ Ele respondeu: É de paz; vim para fazer um sacrifício ao Senhor; purificai-vos e vinde comigo ao sacrifício. Ele purificou Isai e seus filhos, e chamou-os ao sacrifício. Todavia Samuel chorava Saul, porque o Senhor se tinha arrependido de o ter constituído rei sobre Israel.
+
+[[v9-16-6]]
+
+^<<v9-16-6,6>>^ Tendo eles entrado, (Samuel) viu Eliab e disse: Porventura está diante do Senhor o seu ungido?
+
+[[v9-16-7]]
+
+^<<v9-16-7,7>>^ Mas o Senhor disse a Samuel: Não olhes para o seu vulto, nem para a altura da sua estatura, porque eu o rejeitei. Eu não julgo do homem pelo que aparece à vista: o homem vê o rosto, mas o Senhor olha para o coração.
+
+[[v9-16-8]]
+
+^<<v9-16-8,8>>^ Isaí chamou Abinadab e apresentou-o a Samuel, o qual disse: O Senhor também não escolheu este.
+
+[[v9-16-9]]
+
+^<<v9-16-9,9>>^ Isaí trouxe Sarna, do qual (Samuel) disse: Também a este não escolheu o Senhor.
+
+[[v9-16-10]]
+
+^<<v9-16-10,10>>^ Isai mandou, pois, vir os seus sete filhos diante de Samuel, e Samuel disse a Isaí: A nenhum destes escolheu o Senhor.
+
+[[v9-16-11]]
+
+^<<v9-16-11,11>>^ Samuel disse a Isaí: Porventura não tens mais filhos? Isaí respondeu: Ainda falta um pequeno, que anda apascentando as ovelhas. Samuel disse a Isaí: Manda-o vir, porque não nos sentaremos à mesa sem que ele venha aqui.
+
+[[v9-16-12]]
+
+^<<v9-16-12,12>>^ Mandou-o, pois, chamar e apresentou-o (a Samuel). Ele era loiro, de olhos formosos e belo aspecto. O Senhor disse: Levanta-te, unge-o, porque é esse mesmo (que eu escolhi).
+
+[[v9-16-13]]
+
+^<<v9-16-13,13>>^ Tomou, pois, Samuel o (vaso de) chifre com o óleo, e o ungiu no meio de seus Irmãos. Daquele dia em diante comunicou-se o espírito do Senhor a Davide, e Samuel, levantando-se, partiu para Rama.
+
+[[v9-16-14]]
+
+^<<v9-16-14,14>>^ O espírito do Senhor retirou-se de Saul, e atormentava-o um espírito maligno, por permissão do Senhor.
+
+[[v9-16-15]]
+
+^<<v9-16-15,15>>^ Os servos de Saul disseram-lhe: Um espírito maligno, enviado por Deus, te atormenta.
+
+[[v9-16-16]]
+
+^<<v9-16-16,16>>^ Se tu, nosso senhor, o mandas, os teus servos, que estão em tua presença, buscarão um homem que saiba tocar harpa, para que, quando o maligno espírito, enviado pelo Senhor, te atormentar, ele toque com sua mão, e experimentes assim algum alívio.
+
+[[v9-16-17]]
+
+^<<v9-16-17,17>>^ Saul disse aos seus servos: Buscai-me, então, um que saiba tocar bem, e trazei-o à minha presença.
+
+[[v9-16-18]]
+
+^<<v9-16-18,18>>^ Respondendo um dos seus criados, disse: Eu vi um dos filhos de Isai de Belém, que sabe tocar (harpa); é dotado de grande força, homem guerreiro, prudente nas palavras, de gentil presença, e o Senhor é com ele.
+
+[[v9-16-19]]
+
+^<<v9-16-19,19>>^ Mandou Saul mensageiros a Isaí, dizendo: Envia-me o teu filho Davide, que anda com os rebanhos.
+
+[[v9-16-20]]
+
+^<<v9-16-20,20>>^ Isaí tomou um Jumento carregado de pães, um ôdre de vinho e um cabrito, e mandou-o a Saul por mão de seu filho Davide.
+
+[[v9-16-21]]
+
+^<<v9-16-21,21>>^ Chegado a casa de Saul, Davide apresentou-se diante dele. Saul ganhou-lhe grande afeição e fê-lo seu escudeiro.
+
+[[v9-16-22]]
+
+^<<v9-16-22,22>>^ Saul mandou dizer a Isaí: Fique Davide junto de mim, porque achou graça diante dos meus olhos.
+
+[[v9-16-23]]
+
+^<<v9-16-23,23>>^ Todas as vezes que o espírito maligno, enviado pelo Senhor, se apoderava de Saul, Davide tomava a harpa, tocava-a com a mão, e Saul sentia alívio, achava-se melhor, porque o espírito maligno retirava-se dele.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-015.adoc#v9-15-0[&#60; Capítulo Anterior] | <<v9-16-0,Topo>> | xref:009-i-samuel/009-i-samuel-017.adoc#v9-17-0[Próximo Capítulo &#62;]

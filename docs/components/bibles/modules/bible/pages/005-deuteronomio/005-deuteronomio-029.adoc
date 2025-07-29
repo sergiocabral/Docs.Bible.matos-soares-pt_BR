@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v5-29-0]]
+=== Deuteronômio, 29
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 29 trata da renovação da aliança entre Deus e o povo de Israel, após a morte de Moisés. Neste capítulo, Moisés relembra ao povo todas as bênçãos e maldições que Deus havia prometido em relação à aliança, e os exorta a permanecer fiéis a ela. Seguem abaixo cinco versículos relacionados aos temas abordados em Deuteronômio 29:
+* Deuteronômio 30:19-20: "Hoje invoco o céu e a terra como testemunhas contra vocês, de que coloquei diante de vocês a vida e a morte, a bênção e a maldição. Agora escolham a vida, para que vocês e os seus filhos vivam e amem o Senhor, o seu Deus, ouçam a sua voz e se apeguem a ele. Pois o Senhor é a sua vida, e ele lhe dará muitos anos na terra que jurou dar aos seus antepassados, Abraão, Isaque e Jacó". Este versículo destaca a importância da escolha de seguir a aliança com Deus, tema central do capítulo 29 de Deuteronômio.
+* Deuteronômio 6:5: "Ame o Senhor, o seu Deus, de todo o seu coração, de toda a sua alma e de todas as suas forças". Este versículo reforça a importância do amor e obediência a Deus, que é a base da aliança entre Ele e o povo de Israel.
+* 1 Reis 8:61: "Que o seu coração esteja inteiramente dedicado ao Senhor, o nosso Deus, para seguir os seus decretos e obedecer aos seus mandamentos, como hoje". Este versículo destaca a importância da dedicação total a Deus e a obediência à Sua vontade, fundamentais para a aliança.
+* Jeremias 31:31-33: "Dias virão, declara o Senhor, em que farei uma nova aliança com Israel e com Judá. Não será como a aliança que fiz com os seus antepassados quando os tomei pela mão para tirá-los do Egito, pois eles quebraram a minha aliança, apesar de eu ser o Senhor deles. Esta é a aliança que farei com a comunidade de Israel depois daqueles dias, declara o Senhor. Porei a minha lei no íntimo deles e a escreverei nos seus corações. Serei o Deus deles, e eles serão o meu povo". Este versículo fala da promessa de uma nova aliança entre Deus e o povo de Israel, que será escrita nos corações dos fiéis e não apenas em tábuas de pedra.
+* Mateus 26:28: "Isto é o meu sangue, que ratifica a aliança, derramado em favor de muitos, para perdão de pecados". Este versículo se refere ao sacrifício de Jesus na cruz, que ratificou uma nova aliança entre Deus e a humanidade, por meio do perdão dos pecados.
+****
+
+[[v5-29-1]]
+
+^<<v5-29-1,1>>^ Estas são as palavras da aliança que o Senhor mandou a Moisés que fizesse com os filhos de Israel na terra de Moab, além da aliança que fez com eles em Horeb.
+
+[[v5-29-2]]
+
+^<<v5-29-2,2>>^ Moisés convocou todo o Israel e disse-lhe: Vós vistes tudo o que o Senhor fez diante de vós na terra do Egipto, a Faraó, a todos os seus servos e a todo o seu reino,
+
+[[v5-29-3]]
+
+^<<v5-29-3,3>>^ as grandes provas que se desenrolaram diante de teus olhos, esses sinais e grandes prodígios.
+
+[[v5-29-4]]
+
+^<<v5-29-4,4>>^ Porém, até ao dia presente, o Senhor não vos deu um coração que entenda, nem olhos que vejam, nem ouvidos que possam ouvir.
+
+[[v5-29-5]]
+
+^<<v5-29-5,5>>^ Ele vos conduziu quarenta anos pelo deserto; as vossas vestes não se romperam, nem os sapatos dos vossos pés se gastaram com a velhice.
+
+[[v5-29-6]]
+
+^<<v5-29-6,6>>^ Não comestes pão, nem bebestes vinho ou outro licor fermentado, para que soubésseis que eu sou o Senhor vosso Deus.
+
+[[v5-29-7]]
+
+^<<v5-29-7,7>>^ Assim chegastes a este lugar Seon, rei de Hesebon, e Og, rei de Basan, marcharam contra nós para nos combater. Nós os derrotámos,
+
+[[v5-29-8]]
+
+^<<v5-29-8,8>>^ tomámos o seu país, te demos a sua propriedade a Ruben, a Gad e à meia tribo de Manassés.
+
+[[v5-29-9]]
+
+^<<v5-29-9,9>>^ Observai, pois, as palavras desta aliança, cumpri-as, a fim de assegurardes o feliz êxito de tudo o que empreenderdes.
+
+[[v5-29-10]]
+
+^<<v5-29-10,10>>^ Vós estais hoje todos diante do Senhor vosso Deus, os vossos chefes, as vossas tribos, os anciães, os oficiais, todos varões de Israel.
+
+[[v5-29-11]]
+
+^<<v5-29-11,11>>^ os vossos filhos e as vossas mulheres, e o estrangeiro que mora contigo no acampamento, desde os que cortam lenha, aos que acarretam água;
+
+[[v5-29-12]]
+
+^<<v5-29-12,12>>^ (tu, ó Israel, estás diante do Senhor) para entrar na aliança do Senhor teu Deus, no juramento que o Senhor teu Deus faz hoje contigo,
+
+[[v5-29-13]]
+
+^<<v5-29-13,13>>^ a fim de te escolher como seu povo, e ele próprio ser o teu Deus, como te disse, e como jurou a teus pais, Abraão, Isaac e Jacob.
+
+[[v5-29-14]]
+
+^<<v5-29-14,14>>^ Não só convosco faço esta aliança, e confirmo estes juramentos,
+
+[[v5-29-15]]
+
+^<<v5-29-15,15>>^ faço-a com todos os presentes e ausentes.
+
+[[v5-29-16]]
+
+^<<v5-29-16,16>>^ Vós sabeis de que modo habitamos na terra do Egipto, como passamos pelo meio das nações, como, ao passá-las,
+
+[[v5-29-17]]
+
+^<<v5-29-17,17>>^ vistes as suas abominações e torpezas isto é, os seus ídolos, o pau e a pedra, a prata e o ouro, que elas adoravam.
+
+[[v5-29-18]]
+
+^<<v5-29-18,18>>^ Não haja entre vós homem ou mulher, família ou tribo, cujo coração esteja apartado do Senhor nosso Deus, de modo que vá servir os deuses daquelas nações; não haja entre vós raiz que produza fel e amargura.
+
+[[v5-29-19]]
+
+^<<v5-29-19,19>>^ Que ninguém, ao ouvir as palavras deste juramento, se lisonjeie no seu coração, dizendo: Eu terei paz, embora ande na depravação do meu coração, de sorte que o que está regado pereça com o que está seco.
+
+[[v5-29-20]]
+
+^<<v5-29-20,20>>^ O Senhor lhe não perdoe, mas se inflame então mais o seu furor e zelo contra aquele homem, e se ponham sobre ele todas as maldições, que estão escritas neste livro, o Senhor apague o seu nome de debaixo do céu,
+
+[[v5-29-21]]
+
+^<<v5-29-21,21>>^ e o extermine para sempre de todas as tribos de Israel, conforme as maldições que estão contidas no livro da lei e da aliança.
+
+[[v5-29-22]]
+
+^<<v5-29-22,22>>^ Dirão as gerações vindouras, os filhos que nascerem de vós, e os estrangeiros que vierem de longe, ao ver as pragas desta terra e as doenças, com que o Senhor a tiver afligido,
+
+[[v5-29-23]]
+
+^<<v5-29-23,23>>^ abrasando-a com enxofre e ardor de sal, de modo que se não semeie jamais, nem se crie nela verdura, à semelhança da destruição de Sodoma e Gomorra, de Adama e Seboim, que o Senhor destruiu na sua ira e furor,
+
+[[v5-29-24]]
+
+^<<v5-29-24,24>>^ (como também) dirão todas as nações: Por que é que o Senhor fez assim a esta terra? Donde o ardor de tamanha cólera?
+
+[[v5-29-25]]
+
+^<<v5-29-25,25>>^ Ser-lhes-á respondido: Porque abandonaram o pacto que o Senhor tinha feito com os seus pais, quando os tirou da terra do Egipto,
+
+[[v5-29-26]]
+
+^<<v5-29-26,26>>^ e serviram a deuses estranhos, adoraram deuses que não conheciam, aos quais não estavam obrigados a submeter-se;
+
+[[v5-29-27]]
+
+^<<v5-29-27,27>>^ por isso o furor do Senhor se acendeu contra esta terra, para fazer vir sobre ela todas as maldições que estão escritas neste livro,
+
+[[v5-29-28]]
+
+^<<v5-29-28,28>>^ e os expulsou da sua terra com ira e furor, com a maior indignação, e os atirou para uma terra estrangeira, como hoje se vê.
+
+[[v5-29-29]]
+
+^<<v5-29-29,29>>^ As coisas ocultas são do Senhor nosso Deus, as manifestas são para nós e para os nossos filhos perpetuamente, para que ponhamos em prática todas as palavras desta lei.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[&#60; Capítulo Anterior] | <<v5-29-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-030.adoc#v5-30-0[Próximo Capítulo &#62;]

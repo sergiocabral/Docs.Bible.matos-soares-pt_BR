@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v28-25-0]]
+=== Eclesiástico, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 25 apresenta um conjunto de provérbios sobre as mulheres, enfatizando a importância da escolha de uma esposa fiel e virtuosa. Os versículos escolhidos são:
+* Provérbios 18:22: "Aquele que encontra uma esposa encontra algo excelente; recebeu uma bênção do Senhor." Esse versículo destaca a importância da escolha de uma esposa como uma bênção de Deus e algo excelente na vida de um homem.
+* Provérbios 31:10: "Mulher virtuosa, quem a achará? O seu valor muito excede o de rubis." Esse versículo elogia a mulher virtuosa, que tem um valor incalculável.
+* 1 Coríntios 7:3: "O marido cumpra o seu dever para com a esposa, e da mesma forma a esposa para com o marido." Esse versículo enfatiza a importância do respeito mútuo e do cumprimento dos deveres conjugais na relação entre marido e esposa.
+* 1 Pedro 3:1: "Da mesma forma, mulheres, sujeite-se cada uma a seu marido, a fim de que, se ele não obedecer à palavra, seja ganho sem palavras, pelo procedimento de sua esposa." Esse versículo fala sobre a submissão da esposa ao marido e como isso pode influenciá-lo a seguir a palavra de Deus.
+* Efésios 5:25: "Maridos, amem suas mulheres, assim como Cristo amou a igreja e entregou-se por ela." Esse versículo fala sobre o amor que o marido deve ter pela esposa, comparando-o ao amor de Cristo pela igreja.
+****
+
+[[v28-25-1]]
+
+^<<v28-25-1,1>>^ Em três coisas se compraz o meu espírito, as quais têm a aprovação de Deus e dos homens:
+
+[[v28-25-2]]
+
+^<<v28-25-2,2>>^ A concórdia entre os irmãos, o amor dos próximos, a boa harmonia entre marido e mulher.
+
+[[v28-25-3]]
+
+^<<v28-25-3,3>>^ Há três sortes (de pessoas) que a minha alma aborrece, e cuja vida me é insuportável:
+
+[[v28-25-4]]
+
+^<<v28-25-4,4>>^ Um pobre soberbo, um rico mentiroso, um velho fátuo e insensato.
+
+[[v28-25-5]]
+
+^<<v28-25-5,5>>^ O que não ajuntaste na tua mocidade, como o acharás na tua velhice?
+
+[[v28-25-6]]
+
+^<<v28-25-6,6>>^ Quão belo é para os cabelos brancos o saber julgar, para os anciães o saber dar um conselho!
+
+[[v28-25-7]]
+
+^<<v28-25-7,7>>^ Quão bem parece a sabedoria nos velhos, e a inteligência e o conselho nas pessoas de alta jerarquia!
+
+[[v28-25-8]]
+
+^<<v28-25-8,8>>^ A experiência consumada é a coroa dos velhos, e o temor de Deus é a sua glória.
+
+[[v28-25-9]]
+
+^<<v28-25-9,9>>^ Nove coisas se apresentam ao meu espírito como muito felizes, e exporei uma décima aos homens por minhas palavras;
+
+[[v28-25-10]]
+
+^<<v28-25-10,10>>^ Um homem que encontra a sua alegria em seus filhos; o que vive o bastante para ver a ruína de seus inimigos:
+
+[[v28-25-11]]
+
+^<<v28-25-11,11>>^ aquele— feliz! — que vive com uma mulher de bom senso; o que não caiu pela sua língua; o que não serviu pessoas indignas dele;
+
+[[v28-25-12]]
+
+^<<v28-25-12,12>>^ aquele— feliz!—que encontrou um amigo verdadeiro; o que fala da justiça a um ouvido que lhe dá atenção;
+
+[[v28-25-13]]
+
+^<<v28-25-13,13>>^ aquele que — como é grande! — encontrou a sabedoria e a ciência; aquele que — a este nenhum se avantaja,— teme o Senhor.
+
+[[v28-25-14]]
+
+^<<v28-25-14,14>>^ O temor de Deus eleva-se sobre tudo.
+
+[[v28-25-15]]
+
+^<<v28-25-15,15>>^ Bem-aventurado o homem que recebeu o dom do temor de Deus; com quem se comparará aquele que o possui ?
+
+[[v28-25-16]]
+
+^<<v28-25-16,16>>^ O temor de Deus é o princípio do seu amor, mas inseparavelmente se lhe deve ajuntar um princípio de fé.
+
+[[v28-25-17]]
+
+^<<v28-25-17,17>>^ A tristeza do coração é a maior chaga, e a maldade da mulher é uma consumada malícia.
+
+[[v28-25-18]]
+
+^<<v28-25-18,18>>^ Toda a chaga, não porém a chaga do coração;
+
+[[v28-25-19]]
+
+^<<v28-25-19,19>>^ toda a malícia, não porém a malícia da mulher;
+
+[[v28-25-20]]
+
+^<<v28-25-20,20>>^ toda a aflição, não porém a proveniente dos que nos têm ódio;
+
+[[v28-25-21]]
+
+^<<v28-25-21,21>>^ toda a vingança, não porém a vingança que vem dos inimigos.
+
+[[v28-25-22]]
+
+^<<v28-25-22,22>>^ Não há veneno pior que o da serpente,
+
+[[v28-25-23]]
+
+^<<v28-25-23,23>>^ e não há ira pior que a da mulher. Será melhor viver com um leão e com um dragão, do que habitar com uma mulher má.
+
+[[v28-25-24]]
+
+^<<v28-25-24,24>>^ A maldade da mulher faz-lhe mudar de rosto, dá-lhe um aspecto sombrio como o dum urso, torna-o (escuro e áspero) como um saco. No meio dos seus vizinhos
+
+[[v28-25-25]]
+
+^<<v28-25-25,25>>^ lamenta-se o seu marido, e, ouvindo-os, suspira amargamente.
+
+[[v28-25-26]]
+
+^<<v28-25-26,26>>^ Toda a malícia é leve comparada com a malícia da mulher; que a sorte dos pecadores caia sobre ela.
+
+[[v28-25-27]]
+
+^<<v28-25-27,27>>^ O que é para os pés dum velho o subir um monte de areia, isso é para um homem sossegado uma mulher desbocada.
+
+[[v28-25-28]]
+
+^<<v28-25-28,28>>^ Não olhes para a formosura da mulher, e não cobices uma mulher pela sua formosura.
+
+[[v28-25-29]]
+
+^<<v28-25-29,29>>^ Da mulher (má) provêm a cólera, a audácia e uma grande confusão.
+
+[[v28-25-30]]
+
+^<<v28-25-30,30>>^ Se a mulher tem o mando, levanta-se contra seu marido.
+
+[[v28-25-31]]
+
+^<<v28-25-31,31>>^ Coração abatido, rosto triste e chaga do coração, eis (o que produz) uma mulher má.
+
+[[v28-25-32]]
+
+^<<v28-25-32,32>>^ Mãos fracas e joelhos vacilantes, eis (o que causa) a mulher que não faz ditoso seu marido.
+
+[[v28-25-33]]
+
+^<<v28-25-33,33>>^ Da mulher nasceu o princípio do pecado, e é por causa dela que todos morremos. (ver nota)
+
+[[v28-25-34]]
+
+^<<v28-25-34,34>>^ Não dês à tua água a mais ligeira abertura, nem à mulher má, liberdade de sair a público.
+
+[[v28-25-35]]
+
+^<<v28-25-35,35>>^ Se não andar sempre debaixo da tua mão, ela te cobrirá de confusão diante dos teus inimigos.
+
+[[v28-25-36]]
+
+^<<v28-25-36,36>>^ Separa-a do teu corpo, a fim de que não abuse sempre de ti. (ver nota)
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-024.adoc#v28-24-0[&#60; Capítulo Anterior] | <<v28-25-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-026.adoc#v28-26-0[Próximo Capítulo &#62;]

@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v21-86-0]]
+=== Salmos, 86
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 86 é uma oração de Davi pedindo a Deus que atenda suas súplicas e misericordiosamente o ajude. Ele clama a Deus como um servo fiel, expressando sua confiança em Deus e sua fé na bondade e compaixão divinas. Os versículos selecionados abaixo têm relação com os temas do salmo:
+* Isaías 55:6-7: "Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno, os seus pensamentos e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque é rico em perdoar." Esse verso fala sobre a importância de buscar a Deus enquanto Ele pode ser encontrado e pedir por seu perdão, lembrando a oração de Davi no Salmo 86 por misericórdia e perdão.
+* 2 Crônicas 30:9b: "Porque o Senhor, vosso Deus, é clemente e misericordioso e não desviará de vós o rosto, se vos converterdes a ele." Este verso reforça a ideia de que Deus é misericordioso e está sempre pronto para perdoar e ajudar aqueles que se voltam para Ele, assim como Davi está clamando por ajuda no Salmo 86.
+* Salmos 130:1-2: "Das profundezas clamo a ti, ó Senhor. Senhor, escuta a minha voz; sejam os teus ouvidos atentos à voz das minhas súplicas." Assim como Davi, o autor do Salmo 130 clama a Deus em oração, pedindo para que Ele ouça suas súplicas. Ambos expressam sua confiança na bondade e compaixão divinas.
+* 2 Samuel 22:31: "Quanto a Deus, o seu caminho é perfeito; a palavra do Senhor é provada; é um escudo para todos os que nele confiam." Este verso enfatiza a perfeição e a confiança que se pode ter na palavra e na proteção divina, algo que Davi também destaca em seu Salmo 86.
+* Filipenses 4:6-7: "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus." Este verso destaca a importância da oração e da confiança em Deus, lembrando a oração de Davi no Salmo 86 e reforçando a ideia de que Deus ouve e responde as orações de seus servos fiéis.
+****
+
+[[v21-86-1]]
+
+^<<v21-86-1,1>>^ Dos filhos de Coré. Salmo. Cântico. O Senhor ama a sua fundação sobre os montes santos:
+
+[[v21-86-2]]
+
+^<<v21-86-2,2>>^ (ama) as portas de Sião mais que todos os tabernáculos de Jacob.
+
+[[v21-86-3]]
+
+^<<v21-86-3,3>>^ Coisas gloriosas se dizem de ti, ó cidade de Deus!
+
+[[v21-86-4]]
+
+^<<v21-86-4,4>>^ Incluirei Raab e Babel entre os que me veneram; a Filisteia, Tiro e o povo da Etiópia, todos estes (povos) nasceram lá.
+
+[[v21-86-5]]
+
+^<<v21-86-5,5>>^ E de Sião se dirá: "Um por um, todos nasceram nela, e foi o próprio Altíssimo que a consolidou."
+
+[[v21-86-6]]
+
+^<<v21-86-6,6>>^ O Senhor escreverá do livro dos povos: "Estes nasceram lá."
+
+[[v21-86-7]]
+
+^<<v21-86-7,7>>^ E, formando um coro, cantarão: "Todas as minhas fontes estão em ti." (ver nota)
+
+'''
+
+xref:021-salmos/021-salmos-085.adoc#v21-85-0[&#60; Capítulo Anterior] | <<v21-86-0,Topo>> | xref:021-salmos/021-salmos-087.adoc#v21-87-0[Próximo Capítulo &#62;]

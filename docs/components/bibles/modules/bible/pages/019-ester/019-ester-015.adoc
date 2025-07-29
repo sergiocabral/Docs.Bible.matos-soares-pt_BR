@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v19-15-0]]
+=== Ester, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmos 9:16-17: "O Senhor é conhecido pelo julgamento que faz; o ímpio fica preso nas obras de suas mãos. Os ímpios voltam para o Sheol, todas as nações que se esquecem de Deus." Este versículo fala sobre como Deus julga aqueles que agem injustamente e se esquecem dele.
+* Provérbios 11:8: "O justo é libertado da angústia, mas o ímpio toma o seu lugar." Este versículo descreve como o justo é recompensado e o ímpio é punido.
+* Isaías 14:24: "O Senhor dos Exércitos jurou, dizendo: Certamente assim como pensei, assim sucederá, e assim como determinei, assim se efetuará." Este versículo destaca a autoridade e poder de Deus sobre todas as coisas.
+* 1 Coríntios 15:57: "Mas graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo." Este versículo fala sobre a vitória que Deus nos dá através de Jesus Cristo, mesmo em tempos difíceis e de luta.
+****
+
+[[v19-15-1]]
+
+^<<v19-15-1,1>>^ E mandou dizer-lhe (sem dúvida que foi Mardoqueu) que se apresentasse ao rei, para Ihe rogar pelo seu povo e pela sua pátria.
+
+[[v19-15-2]]
+
+^<<v19-15-2,2>>^ Lembra-te (lhe disse) dos dias da tua humilhação, de como foste criada pela minha mão. Aman, que é o segundo depois do rei, tem falado contra nós para nos fazer morrer;
+
+[[v19-15-3]]
+
+^<<v19-15-3,3>>^ tu, pois, invoca o Senhor e fala por nós ao rei; livra-nos da morte. E também encontrei o que se segue:
+
+[[v19-15-4]]
+
+^<<v19-15-4,4>>^ No dia terceiro, (Ester) depôs os vestidos que trazia e adornou-se com os da sua glória.
+
+[[v19-15-5]]
+
+^<<v19-15-5,5>>^ Brilhando neste traje real e invocando a Deus, que é governador e salvador de todos, tomou duas das suas criadas.
+
+[[v19-15-6]]
+
+^<<v19-15-6,6>>^ la-se apoiando sobre uma delas, como se, por debilidade, não pudesse suster o seu corpo delicado.
+
+[[v19-15-7]]
+
+^<<v19-15-7,7>>^ A outra criada ia atrás da sua senhora, segurando a extremidade das suas longas vestes.
+
+[[v19-15-8]]
+
+^<<v19-15-8,8>>^ (Ester) com a cor de rosa em seu rosto e com os olhos graciosos e brilhantes, ocultava a tristeza do seu coração, penetrado de um vivo temor.
+
+[[v19-15-9]]
+
+^<<v19-15-9,9>>^ Tendo passado, uma por uma, todas as portas, pôs-se diante do rei. Assuero estava sentado sobre o sólio real, vestido de manto real, resplandecendo com o ouro e pedras preciosas, e o seu aspecto era terrível.
+
+[[v19-15-10]]
+
+^<<v19-15-10,10>>^ Tendo ele levantado o rosto e manifestado em seus olhos cintilantes o furor do seu peito, a rainha desmaiou, e, trocando-se a sua cor em palidez, deixou cair a sua cabeça vacilante sobre a criada.
+
+[[v19-15-11]]
+
+^<<v19-15-11,11>>^ Então Deus amansou o coração do rei, o qual, apressado e inquieto, desceu rapidamente do trono, e, sustendo-a com seus braços até que voltou a si, a animava com estas palavras:
+
+[[v19-15-12]]
+
+^<<v19-15-12,12>>^ Que tens, Ester? Eu sou teu irmão, não temas. (ver nota)
+
+[[v19-15-13]]
+
+^<<v19-15-13,13>>^ Não morrerás, porque esta lei não foi feita para ti, mas só para todos os outros.
+
+[[v19-15-14]]
+
+^<<v19-15-14,14>>^ Aproxima-te, pois, e toca o ceptro.
+
+[[v19-15-15]]
+
+^<<v19-15-15,15>>^ Como ela não falasse, tomou o ceptro de ouro, pôs-lho sobre o seu colo, beijou-a e disse; Por que não me falas?
+
+[[v19-15-16]]
+
+^<<v19-15-16,16>>^ Ela respondeu-lhe: Eu vi-te, senhor, como um anjo de Deus, e o meu coração turbou-se com o temor da tua majestade,
+
+[[v19-15-17]]
+
+^<<v19-15-17,17>>^ porque tu, senhor, és digno de admiração, e o teu rosto cheio de graças.
+
+[[v19-15-18]]
+
+^<<v19-15-18,18>>^ Estando ainda a falar, desfaleceu de novo e ficou sem sentidos.
+
+[[v19-15-19]]
+
+^<<v19-15-19,19>>^ O rei estava consternado, e todos os seus servidores procuravam reanimá-la.
+
+'''
+
+xref:019-ester/019-ester-014.adoc#v19-14-0[&#60; Capítulo Anterior] | <<v19-15-0,Topo>> | xref:019-ester/019-ester-016.adoc#v19-16-0[Próximo Capítulo &#62;]

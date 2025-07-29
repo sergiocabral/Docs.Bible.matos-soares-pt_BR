@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v24-12-0]]
+=== Provérbios, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 12 apresenta vários ensinamentos sobre a importância de se buscar a sabedoria e de se viver uma vida justa e honesta. O capítulo destaca a diferença entre os caminhos dos justos e dos ímpios, enfatizando que os que seguem o caminho da justiça são abençoados por Deus.
+* Provérbios 10:9: "O que anda na sinceridade, anda confiante, mas o que perverte os seus caminhos será conhecido." Este versículo destaca a importância de se viver uma vida honesta e íntegra, pois aqueles que são sinceros em seus caminhos têm confiança e respeito.
+* Provérbios 15:1: "A resposta branda desvia o furor, mas a palavra dura suscita a ira." Este versículo destaca a importância de se controlar a língua e de falar de forma gentil e amorosa, ao invés de agir com ira e violência.
+* Provérbios 22:1: "Mais digno de ser escolhido é o bom nome do que as muitas riquezas, e a boa fama mais do que a prata e o ouro." Este versículo destaca a importância de se ter um bom nome e uma boa reputação, que são mais valiosos do que as riquezas materiais.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda a injustiça." Este versículo destaca a importância de se confessar os pecados e de buscar o perdão de Deus, para viver uma vida justa e em paz com Ele.
+* Provérbios 12:22: "Os lábios mentirosos são abomináveis ao Senhor, mas os que agem fielmente são o seu deleite." Este versículo destaca a importância da honestidade e da fidelidade em nossas palavras e ações, que são agradáveis a Deus e nos trazem bênçãos.
+****
+
+[[v24-12-1]]
+
+^<<v24-12-1,1>>^ Aquele que ama a correcção, ama a ciência; o que odeia as repreensões, é insensato.
+
+[[v24-12-2]]
+
+^<<v24-12-2,2>>^ Aquele que é bom terá do Senhor graça; mas o maldoso é por ele condenado.
+
+[[v24-12-3]]
+
+^<<v24-12-3,3>>^ O homem não se firmará pela impiedade, mas a raiz dos justos não será abalada.
+
+[[v24-12-4]]
+
+^<<v24-12-4,4>>^ A mulher diligente é a coroa do seu marido, porém a que faz coisas dignas de confusão é (como) a podridão nos seus ossos.
+
+[[v24-12-5]]
+
+^<<v24-12-5,5>>^ Os pensamentos dos justos são cheios de justiça, mas os conselhos dos ímpios são cheios de fraude.
+
+[[v24-12-6]]
+
+^<<v24-12-6,6>>^ As palavras dos ímpios são ciladas à vida, a boca dos justos é que os salva.
+
+[[v24-12-7]]
+
+^<<v24-12-7,7>>^ Os maus são derrubados, não subsistirão; mas a casa dos justos permanecerá firme.
+
+[[v24-12-8]]
+
+^<<v24-12-8,8>>^ O homem será conhecido pela sua inteligência, mas o que é de coração perverso estará exposto ao desprezo.
+
+[[v24-12-9]]
+
+^<<v24-12-9,9>>^ Mais vale o homem de condição humilde, que tem o preciso para viver, do que o jactancioso que não tem pão.
+
+[[v24-12-10]]
+
+^<<v24-12-10,10>>^ O justo olha (até) pela vida dos seus animais, porém as entranhas dos ímpios são cruéis. (ver nota)
+
+[[v24-12-11]]
+
+^<<v24-12-11,11>>^ Aquele que lavra a sua terra será saciado de pão, porém o que vai atrás de futilidades é muito insensato.
+
+[[v24-12-12]]
+
+^<<v24-12-12,12>>^ O impio deseja o despojo dos maus, mas a raiz dos justos há-de prosperar.
+
+[[v24-12-13]]
+
+^<<v24-12-13,13>>^ No pecado dos lábios há um laço funesto, porém o justo escapará da angústia.
+
+[[v24-12-14]]
+
+^<<v24-12-14,14>>^ Cada um será cheio de bens, conforme for o fruto da sua boca, e ser-lhe-á dada a retribuição, conforme forem as obras das suas mãos.
+
+[[v24-12-15]]
+
+^<<v24-12-15,15>>^ Ao insensato parece recto o seu proceder; o que porém é sábio ouve os conselhos.
+
+[[v24-12-16]]
+
+^<<v24-12-16,16>>^ O louco mostra logo a sua ira; o homem circunspecto dissimula a injúria.
+
+[[v24-12-17]]
+
+^<<v24-12-17,17>>^ O que fala verdade, declara o que é justo, a testemunha falsa profere enganos.
+
+[[v24-12-18]]
+
+^<<v24-12-18,18>>^ Há quem, falando inconsideradamente, fira como espada; porém a língua dos sábios cura as feridas.
+
+[[v24-12-19]]
+
+^<<v24-12-19,19>>^ A boca verdadeira será sempre constante, a língua mentirosa aguenta-se apenas um instante.
+
+[[v24-12-20]]
+
+^<<v24-12-20,20>>^ No coração dos que pensam males há engano; porém aqueles que têm conselhos de paz estarão na alegria.
+
+[[v24-12-21]]
+
+^<<v24-12-21,21>>^ Nenhuma adversidade atingirá o justo, mas os ímpios estarão cheios de mal.
+
+[[v24-12-22]]
+
+^<<v24-12-22,22>>^ Os lábios mentirosos são abominação para o Senhor, mas os que procedem fielmente agradam-lhe.
+
+[[v24-12-23]]
+
+^<<v24-12-23,23>>^ O homem avisado encobre a sua ciência, porém o coração dos Insensatos proclama a sua loucura.
+
+[[v24-12-24]]
+
+^<<v24-12-24,24>>^ A mão diligente dominará, a que é preguiçosa será sujeita a pagar tributos.
+
+[[v24-12-25]]
+
+^<<v24-12-25,25>>^ A amargura no coração do homem abate-o, porém uma boa palavra o alegrará.
+
+[[v24-12-26]]
+
+^<<v24-12-26,26>>^ Aquele que por amor do seu amigo não repara em sofrer alguma perda, é justo; o caminho dos impios é um desencaminhamento.
+
+[[v24-12-27]]
+
+^<<v24-12-27,27>>^ O indolente não achará proveito; pelo contrário, o diligente alcançará copiosa substância.
+
+[[v24-12-28]]
+
+^<<v24-12-28,28>>^ A vida está na vereda da justiça, porém o caminho tortuoso conduz à morte.
+
+'''
+
+xref:024-proverbios/024-proverbios-011.adoc#v24-11-0[&#60; Capítulo Anterior] | <<v24-12-0,Topo>> | xref:024-proverbios/024-proverbios-013.adoc#v24-13-0[Próximo Capítulo &#62;]

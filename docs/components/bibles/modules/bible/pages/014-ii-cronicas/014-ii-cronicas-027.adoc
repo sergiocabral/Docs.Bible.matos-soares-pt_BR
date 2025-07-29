@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v14-27-0]]
+=== II Crônicas, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 27 é um capítulo que fala sobre Jotão, filho de Uzias, que reinou em Judá e fez o que era reto aos olhos do Senhor. Ele fortificou cidades, construiu torres e muros, e teve vitórias em batalhas. A seguir, são apresentados cinco versículos relacionados aos temas abordados em 2 Crônicas 27:
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor." Este versículo destaca a importância da preparação e do esforço humano, mas também reconhece que a vitória final vem do Senhor.
+* Salmos 127:1: "Se o Senhor não edificar a casa, em vão trabalham os que a edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela." Este versículo destaca a importância da dependência de Deus para o sucesso e a proteção.
+* Provérbios 2:7-8: "Ele reserva a verdadeira sabedoria para os retos; é escudo para os que caminham com integridade. Ele protege os caminhos do justo e guarda a vereda dos seus fiéis." Este versículo destaca a importância da sabedoria e da integridade em seguir os caminhos de Deus.
+* Salmos 18:32-33: "Deus é o que me cinge de força e torna perfeito o meu caminho. Torna os meus pés como os das corças e me coloca nas minhas alturas." Este versículo destaca a ajuda e o fortalecimento que Deus dá aos seus fiéis.
+* Isaías 26:3: "Tu conservarás em paz aquele cuja mente está firme em ti; porque ele confia em ti." Este versículo destaca a importância da confiança em Deus para a paz e a estabilidade mental.
+****
+
+[[v14-27-1]]
+
+^<<v14-27-1,1>>^ Joatão tinha vinte e cinco anos, quando começou a reinar, e reinou dezasseis anos em Jerusalém. Sua mãe chamava-se Jerusa, filha de Sadoc.
+
+[[v14-27-2]]
+
+^<<v14-27-2,2>>^ Ele fez o que era recto diante do Senhor, seguindo tudo o que tinha feito Ozias, seu pai, excepto que não entrou no templo do Senhor. Todavia o povo continuou a delinquir.
+
+[[v14-27-3]]
+
+^<<v14-27-3,3>>^ Edificou a porta superior da casa do Senhor e mandou fazer muitas obras sobre o muro de Ofel.
+
+[[v14-27-4]]
+
+^<<v14-27-4,4>>^ Mandou também fundar cidades nos montes de Judá, e castelos e torres nos bosques.
+
+[[v14-27-5]]
+
+^<<v14-27-5,5>>^ Fez guerra ao rei dos Amonitas e venceu-os; por esse tempo deram-lhe os filhos de Amon cem talentos de prata, dez mil coros de trigo e outros tantos de cevada; isto mesmo lhe deram os filhos de Amon no segundo e terceiro ano.
+
+[[v14-27-6]]
+
+^<<v14-27-6,6>>^ Joatão tornou-se poderoso, porque se conduzia firmemente nos caminhos do Senhor seu Deus.
+
+[[v14-27-7]]
+
+^<<v14-27-7,7>>^ O resto das ações de Joatão, todas as suas guerras e empresas, tudo está escrito no livro dos reis de Israel e de Judá.
+
+[[v14-27-8]]
+
+^<<v14-27-8,8>>^ Tinha vinte e cinco anos, quando começou a reinar, e reinou dezasseis anos em Jerusalém.
+
+[[v14-27-9]]
+
+^<<v14-27-9,9>>^ Joatão adormeceu com seus pais, e sepultaram-no na cidade de David. Seu filho Acaz reinou em lugar dele.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-026.adoc#v14-26-0[&#60; Capítulo Anterior] | <<v14-27-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-028.adoc#v14-28-0[Próximo Capítulo &#62;]

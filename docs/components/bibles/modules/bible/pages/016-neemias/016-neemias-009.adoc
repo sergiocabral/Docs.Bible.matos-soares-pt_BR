@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v16-9-0]]
+=== Neemias, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Neemias 9 é um capítulo em que os levitas fazem uma oração de confissão pelos pecados de Israel e reafirmam a aliança com Deus. Os versículos relacionados aos temas abordados nesse capítulo são:
+* Deuteronômio 32:3-4: "Porque apelarei ao nome do Senhor; dai glória ao nosso Deus. Ele é a Rocha, cuja obra é perfeita, porque todos os seus caminhos justos são. Deus é fiel, que não tem iniquidade; justo e reto é ele." Nesse versículo, Moisés exalta a fidelidade e justiça de Deus, temas que são reforçados na oração dos levitas em Neemias 9.
+* Salmos 106:6: "Pecamos como nossos pais; cometemos a iniquidade, praticamos a impiedade." Esse salmo retrata a história de Israel e seus pecados contra Deus, tema que é relembrado na oração de confissão dos levitas em Neemias 9.
+* Isaías 53:6: "Todos nós, como ovelhas, nos desviamos; cada um se voltou para o seu próprio caminho; e o Senhor fez cair sobre ele a iniquidade de todos nós." Esse versículo destaca a natureza pecaminosa da humanidade e a necessidade de confissão e arrependimento, que são elementos presentes na oração dos levitas em Neemias 9.
+* Jeremias 31:33: "Mas esta é a aliança que farei com a casa de Israel depois daqueles dias, diz o Senhor: porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo." Esse versículo fala da aliança que Deus estabeleceu com Israel e que é reafirmada na oração dos levitas em Neemias 9.
+* Daniel 9:4: "E orei ao Senhor, meu Deus, e confessei e disse: Ah! Senhor! Deus grande e tremendo, que guardas a aliança e a misericórdia para com aqueles que te amam e guardam os teus mandamentos." Esse versículo retrata a confissão de Daniel pelos pecados de Israel e sua apelação à misericórdia de Deus, temas que também são abordados na oração dos levitas em Neemias 9.
+****
+
+[[v16-9-1]]
+
+^<<v16-9-1,1>>^ No dia vinte e quatro do mesmo mês, juntaram-se os filhos de Israel para um jejum, vestidos de saco, e com pó sobre (a cabeça).
+
+[[v16-9-2]]
+
+^<<v16-9-2,2>>^ Os da linhagem dos filhos de Israel foram separados de todos os filhos estrangeiros e, conservando-se de pé, confessaram os seus pecados e as iniquidades de seus pais.
+
+[[v16-9-3]]
+
+^<<v16-9-3,3>>^ Estando de pé, cada um em seu lugar, leu-se o livro da lei do Senhor seu Deus durante um quarto do dia, e durante outro quarto confessaram os seus pecados e adoraram o Senhor seu Deus.
+
+[[v16-9-4]]
+
+^<<v16-9-4,4>>^ Subiram à tribuna dos Levitas, Josué, Bani, Cedmiel, Sabanias, Boni, Serebías, Bani e Canani, e em altas vozes invocaram o Senhor seu Deus.
+
+[[v16-9-5]]
+
+^<<v16-9-5,5>>^ Os Levitas Josué, Cedmiel, Boni, Hasebnias, Serebias, Odaias, Sebenias e Fataias disseram : Levantai-vos, bendizei o Senhor vosso Deus de eternidade em eternidade. Seja bendito, Senhor, o sublime nome da tua glória, com toda a sorte de bênção e de louvor.
+
+[[v16-9-6]]
+
+^<<v16-9-6,6>>^ Foste tu, Senhor, tu só que fizeste o céu, o céu dos céus e toda a sua milícia, a terra e tudo o que há nela, os mares e tudo o que neles se contém; tu dás vida a todas estas coisas, e a milícia do céu te adora.
+
+[[v16-9-7]]
+
+^<<v16-9-7,7>>^ Foste tu, ó Senhor Deus, que escolheste Abrão, que o tiraste de Ur dos Caldeus e lhe deste o nome de Abraão.
+
+[[v16-9-8]]
+
+^<<v16-9-8,8>>^ Achaste o seu coração fiel aos teus olhos e fizeste aliança com ele de que lhe darias a terra dos Cananeus, dos Heteus, dos Amorreus, dos Fereseus, dos Jesubeus, dos Gergeseus, para a entregares à sua descendência, e cumpriste as tuas palavras, porque és justo.
+
+[[v16-9-9]]
+
+^<<v16-9-9,9>>^ Viste a aflição de nossos pais no Egipto, ouviste os seus clamores perto do mar vermelho,
+
+[[v16-9-10]]
+
+^<<v16-9-10,10>>^ operaste maravilhas e prodígios sobre Faraó, sobre todos os seus servos e sobre todo o povo daquele país, porque sabias que eles os tinham tratado com soberba, e alcançaste o renome que conservas ainda hoje.
+
+[[v16-9-11]]
+
+^<<v16-9-11,11>>^ Dividiste o mar diante deles, e eles passaram a pé enxuto pelo meio, mas precipitaste os seus perseguidores no fundo, como uma pedra que caí em águas profundas.
+
+[[v16-9-12]]
+
+^<<v16-9-12,12>>^ Foste o seu condutor de dia numa coluna de nuvem, e de noite numa coluna de fogo, para conhecerem o caminho por onde deviam seguir.
+
+[[v16-9-13]]
+
+^<<v16-9-13,13>>^ Deceste ao monte Sinai, do céu falaste com eles, e lhes deste ordenações justas, leis de verdade, preceitos e mandamentos excelentes.
+
+[[v16-9-14]]
+
+^<<v16-9-14,14>>^ Ensinaste-os a santificar o teu sábado, prescreveste-lhes, por meio de Moisés, teu servo, mandamentos, preceitos e lei.
+
+[[v16-9-15]]
+
+^<<v16-9-15,15>>^ Tu lhes deste também o pão do céu, quando tiveram fome, e lhes fizeste brotar água dum rochedo, quando tiveram sede, e lhes disseste que entrassem e possuíssem a terra, sobre a qual levantaste a tua mão, jurando que lha darias.
+
+[[v16-9-16]]
+
+^<<v16-9-16,16>>^ Porém eles e nossos pais procederam com soberba, endureceram as suas cervizes e não ouviram os teus mandamentos.
+
+[[v16-9-17]]
+
+^<<v16-9-17,17>>^ Não quiseram ouvir, não se lembraram das tuas maravilhas, que tinhas operado em seu favor. Endureceram as suas cervizes e, levados pela sua rebeldia, escolheram um chefe, a fim de voltarem para a sua escravidão, mas tu, ó Deus propício, clemente e misericordioso, sempre paciente, e de muita compaixão, tu não os desamparaste,
+
+[[v16-9-18]]
+
+^<<v16-9-18,18>>^ ainda mesmo quando eles fizeram para si um bezerro fundido e disseram: Este é o teu Deus (ó Israel) que te tirou do Egipto - ofendendo-te com graves ultrajes.
+
+[[v16-9-19]]
+
+^<<v16-9-19,19>>^ Tu, pela tua grande misericórdia, não os desamparaste no deserto; a coluna de nuvem não se apartou deles de dia, para os guiar pelo caminho, nem a coluna de fogo durante a noite, para lhes mostrar o caminho por onde deviam ir.
+
+[[v16-9-20]]
+
+^<<v16-9-20,20>>^ Deste-lhes o teu bom espírito, que os ensinasse, e não retiraste o teu maná da sua boca, e deste-lhes água na sua sede.
+
+[[v16-9-21]]
+
+^<<v16-9-21,21>>^ Tu os sustentaste durante quarenta anos no deserto, e não lhes faltou nada; as suas vestes não se fizeram velhas, e os seus pés não se magoaram.
+
+[[v16-9-22]]
+
+^<<v16-9-22,22>>^ Deste-lhes reinos e povos, repartindo-lhos por sorte, e eles possuíram o país de Seon, o país do rei de Hesebon e o país de Og, rei de Basan.
+
+[[v16-9-23]]
+
+^<<v16-9-23,23>>^ Multiplicaste os seus filhos, como as estrelas do céu, e os conduziste à terra, em que eles deviam entrar para a possuir, segundo a promessa que fizeste a seus pais.
+
+[[v16-9-24]]
+
+^<<v16-9-24,24>>^ Vieram seus filhos, possuíram a terra, e tu humilhaste diante deles os Cananeus, habitantes da terra; entregaste-lhos nas suas mãos, tanto os reis como os povos, para fazerem deles o que quisessem.
+
+[[v16-9-25]]
+
+^<<v16-9-25,25>>^ Eles tomaram cidades fortes e um país fértil, possuíram casas cheias de toda a sorte de bens, cisternas feitas pelos outros, vinhas, olivais e muitas árvores frutíferas; comeram, fartaram-se, engordaram e abundaram em delícias, devido à tua grande bondade.
+
+[[v16-9-26]]
+
+^<<v16-9-26,26>>^ Contudo provocaram-te à ira, retirando-se de ti, rejeitando com desprezo a tua lei e matando os teus profetas, que os conjuravam a voltar para ti. Cometeram grandes abominações,
+
+[[v16-9-27]]
+
+^<<v16-9-27,27>>^ e, então, tu os entregaste nas mãos dos seus inimigos, que os oprimiram. No tempo da sua tribulação, clamaram a ti, e tu os ouviste do céu; segundo a multidão das tuas misericórdias, deste-lhes salvadores, que os libertassem das mãos de seus inimigos.
+
+[[v16-9-28]]
+
+^<<v16-9-28,28>>^ Quando se viram em descanso, tornaram a fazer o mal diante de ti, e tu os deixaste nas mãos de seus inimigos, que os dominaram. Novamente se converteram e clamaram a ti, e tu os ouviste, do alto do céu, e livraste muitas vezes pela tua misericórdia.
+
+[[v16-9-29]]
+
+^<<v16-9-29,29>>^ Tu os exortaste a voltar para a tua lei, porém eles procederam com soberba, não ouviram os teus mandamentos, pecaram contra as tuas ordens, em cuja observância o homem acha a vida; voltaram-te as costas, endureceram a sua cerviz e não te deram ouvidos.
+
+[[v16-9-30]]
+
+^<<v16-9-30,30>>^ Durante muitos anos, tiveste paciência com eles; exortaste-os, por meio do teu espírito, pela boca dos teus profetas, mas eles não deram ouvidos, e então tu os entregaste nas mãos dos povos da terra.
+
+[[v16-9-31]]
+
+^<<v16-9-31,31>>^ Mesmo assim, pela tua grande misericórdia, não os confundiste de todo, nem os desamparaste, porque és um Deus misericordioso e clemente.
+
+[[v16-9-32]]
+
+^<<v16-9-32,32>>^ Agora, ó Deus nosso, grande e terrível, que conservas o teu pacto e a tua misericórdia, não apartes da tua face todos os males, que nos têm oprimido a nós, aos nossos reis, aos nossos príncipes, aos nossos sacerdotes, aos nossos profetas, aos nossos pais e a todo o teu povo, desde o tempo do rei da Assíria até hoje.
+
+[[v16-9-33]]
+
+^<<v16-9-33,33>>^ Tu és justo em todas as coisas que têm vindo sobre nós, porque procedeste com fidelidade, enquanto que nós procedemos impiamente.
+
+[[v16-9-34]]
+
+^<<v16-9-34,34>>^ Os nossos reis, os nossos príncipes, os nossos sacerdotes, os nossos pais, não guardaram a tua lei, não obedeceram aos teus mandamentos, nem às ordens que lhes intimaste.
+
+[[v16-9-35]]
+
+^<<v16-9-35,35>>^ (Pelo contrário) nos seus reinos, na muita abundância de bens que lhes tinhas dado, na terra tão espaçosa e fértil que tinhas entregado ao seu poder, não te serviram nem se converteram das suas péssimas inclinações.
+
+[[v16-9-36]]
+
+^<<v16-9-36,36>>^ Nós mesmo hoje somos escravos, e escravos na própria terra que deste a nossos pais, para comerem o pão e os frutos que ela produzisse!
+
+[[v16-9-37]]
+
+^<<v16-9-37,37>>^ Os seus frutos multiplicam-se para os reis que tu puseste sobre nós, por causa dos nossos pecados, e que dominam sobre os nossos corpos e sobre os nossos animais, como bem lhes apraz. Sim, encontramo-nos numa grande tribulação.
+
+[[v16-9-38]]
+
+^<<v16-9-38,38>>^ Em atenção a todas estas coisas, nós mesmos celebramos uma aliança, que escrevemos e que é assinada pelos nossos príncipes, pelos nossos Levitas e pelos nossos sacerdotes.
+
+'''
+
+xref:016-neemias/016-neemias-008.adoc#v16-8-0[&#60; Capítulo Anterior] | <<v16-9-0,Topo>> | xref:016-neemias/016-neemias-010.adoc#v16-10-0[Próximo Capítulo &#62;]

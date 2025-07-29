@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v6-8-0]]
+=== Josué, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 de Josué descreve a conquista da cidade de Ai pelos israelitas. Josué recebeu instruções de Deus sobre como atacar a cidade e, depois de uma emboscada bem-sucedida, Ai foi tomada pelos israelitas. Em seguida, Josué construiu um altar e fez sacrifícios ao Senhor. Aqui estão cinco versículos relacionados aos temas abordados em Josué 8:
+* Deuteronômio 7:2: "E, quando o Senhor teu Deus tos tiver entregue, e os ferires, totalmente os destruirás; não farás com eles aliança, nem terás piedade deles." Este versículo se relaciona com a destruição total de Ai pelos israelitas, cumprindo a ordem de Deus para não fazerem aliança com os habitantes da cidade.
+* Deuteronômio 27:5: "E ali edificarás um altar ao Senhor teu Deus, um altar de pedras; não levantarás sobre elas ferro." Este versículo se relaciona com o altar que Josué construiu após a conquista de Ai e como foi feito de acordo com as instruções de Deus.
+* Josué 6:18: "Todavia, guardai-vos do anátema; tudo o que for anátema será destruído do meio de Israel; nem no roubo fareis coisa alguma, para que não suceda que façais anátema, e o ponhais no meio da vossa tenda." Este versículo se relaciona com a importância de seguir as instruções de Deus e não se apropriar de nada do que foi considerado anátema, como aconteceu com Acã no capítulo anterior.
+* Deuteronômio 20:4: "Porque o Senhor vosso Deus é o que vai convosco, a pelejar por vós contra os vossos inimigos, para vos salvar." Este versículo se relaciona com a presença de Deus ao lado dos israelitas na batalha contra Ai e em todas as suas lutas.
+* Josué 4:24: "Para que todos os povos da terra conheçam que a mão do Senhor é forte, e para que vós temais ao Senhor vosso Deus para sempre." Este versículo se relaciona com o propósito maior da conquista de Ai, que era mostrar o poder de Deus aos povos da terra e fazer com que eles temessem o Senhor.
+****
+
+[[v6-8-1]]
+
+^<<v6-8-1,1>>^ O Senhor disse a Josué: Não temas, nem te acobardes; toma contigo todos os combatentes, e, levantando-te, sobe à cidade de Hai; eis que te entreguei nas tuas mãos o seu rei, o povo, a cidade e o seu território.
+
+[[v6-8-2]]
+
+^<<v6-8-2,2>>^ Farás à cidade de Hai e ao seu rei, como fizeste a Jericó e ao seu rei. Todavia repartireis entre vós a presa e todos os animais; põe uma emboscada à cidade por detrás dela.
+
+[[v6-8-3]]
+
+^<<v6-8-3,3>>^ Levantou-se Josué com todo o exército dos combatentes, para marchar contra Hai. Mandou de noite trinta mil homens escolhidos dos mais valentes,
+
+[[v6-8-4]]
+
+^<<v6-8-4,4>>^ dando-lhes esta ordem: Armai uma emboscada por detrás da cidade; não vos afasteis muito (dela), e estai todos apercebidos.
+
+[[v6-8-5]]
+
+^<<v6-8-5,5>>^ Eu e o resto da gente que está comigo, avançaremos pela parte oposta contra a cidade. Quando eles saírem contra nós, fugiremos e voltar-lhes-emos as costas, como primeiro fizemos,
+
+[[v6-8-6]]
+
+^<<v6-8-6,6>>^ até que, perseguindo-nos, se tenham afastado da cidade, pois dirão: fogem de nós como da primeira vez.
+
+[[v6-8-7]]
+
+^<<v6-8-7,7>>^ Enquanto formos fugindo, e eles seguindo-nos, vós saireis da emboscada e destruireis a cidade. O Senhor vosso Deus vo-la entregará nas vossas mãos.
+
+[[v6-8-8]]
+
+^<<v6-8-8,8>>^ Depois que a tiverdes tomado, ponde-lhe fogo e assim fareis tudo como eu mandei.
+
+[[v6-8-9]]
+
+^<<v6-8-9,9>>^ Despediu-os, e eles foram para o lugar da emboscada, entre Betei e Hai, ao poente da cidade de Hai. Josué ficou aquela noite no meio do povo.
+
+[[v6-8-10]]
+
+^<<v6-8-10,10>>^ Levantando-se de madrugada, passou revista à sua gente e marchou com os anciãos à frente do exército, sustentado com o grosso das suas tropas.
+
+[[v6-8-11]]
+
+^<<v6-8-11,11>>^ Tendo chegado e subido até junto de Hai, fizeram alto no lado setentrional da cidade, entre a qual e eles mediava um vale.
+
+[[v6-8-12]]
+
+^<<v6-8-12,12>>^ Josué tinha escolhido cinco mil homens, e tinha-os posto de emboscada entre Betei e Hai, ao poente da mesma cidade;
+
+[[v6-8-13]]
+
+^<<v6-8-13,13>>^ todo o resto do exército marchava em ordem de batalha para o setentrião, de sorte que os últimos daquela multidão alcançavam até ao poente da cidade. Josué marchou aquela noite e parou no meio do vale.
+
+[[v6-8-14]]
+
+^<<v6-8-14,14>>^ O rei de Hai, tendo visto isto, saiu a toda a pressa da cidade, ao amanhecer, com todo o exército, e encaminhou as suas tropas para a banda do deserto, ignorando que lhe ficava atrás uma emboscada.
+
+[[v6-8-15]]
+
+^<<v6-8-15,15>>^ Josué, porém, e todo o Israel foram-se retirando, fingindo medo, e fugindo pelo caminho do deserto.
+
+[[v6-8-16]]
+
+^<<v6-8-16,16>>^ Os de Hai, levantando ao mesmo tempo uma grande gritaria e animando-se mutuamente, foram-nos perseguindo. Quando já estavam longe da cidade,
+
+[[v6-8-17]]
+
+^<<v6-8-17,17>>^ sem que tivesse ficado nem sequer um em Hai e em Betei, que não saísse em perseguição de Israel, (deixando abertas as cidades donde tinham saído de tropel),
+
+[[v6-8-18]]
+
+^<<v6-8-18,18>>^ o Senhor disse o Josué: Levanta o escudo que tens na mão contra a cidade de Hai, porque eu ta entregarei.
+
+[[v6-8-19]]
+
+^<<v6-8-19,19>>^ Tendo ele levantado o escudo contra a cidade, imediatamente saíram os que estavam escondidos na emboscada e, encaminhando-se para a cidade, tomaram-na e puzeram-lhe fogo.
+
+[[v6-8-20]]
+
+^<<v6-8-20,20>>^ Os homens da cidade, que perseguiam Josué, olhando para trás e vendo o fumo da cidade que subia até ao céu, não puderam já fugir nem para cá nem para lá, principalmente quando os que davam mostra de fugir e corriam para o deserto, atacaram com grande esforço aqueles que os iam perseguindo.
+
+[[v6-8-21]]
+
+^<<v6-8-21,21>>^ Josué e todo o Israel, vendo que a cidade estava tomada e que dela subia o fumo, voltaram-se para trás e passaram à espada os de Hai.
+
+[[v6-8-22]]
+
+^<<v6-8-22,22>>^ Também os que tinham tomado e queimado a cidade, saindo dela para se unirem com os seus, começaram a bater os inimigos que estavam no meio. Assim, foram os inimigos feridos por uma e outra parte, de modo que nem um se salvou de tão grande multidão;
+
+[[v6-8-23]]
+
+^<<v6-8-23,23>>^ (os homens de Israel) tomaram vivo o rei da cidade de Hai e apresentaram-no a Josué.
+
+[[v6-8-24]]
+
+^<<v6-8-24,24>>^ Mortos pois todos aqueles que tinham perseguido Israel fugindo para o deserto, passados completamente todos, no mesmo lugar, ao fio da espada, voltaram os filhos de Israel e destruíram a cidade.
+
+[[v6-8-25]]
+
+^<<v6-8-25,25>>^ Os que morreram naquele dia entre homens e mulheres, foram doze mil, todos da cidade de Hai.
+
+[[v6-8-26]]
+
+^<<v6-8-26,26>>^ Josué não retirou a mão, que tinha levantada, segurando o escudo, até que foram mortos todos os habitantes de Hai.
+
+[[v6-8-27]]
+
+^<<v6-8-27,27>>^ Os animais e o despojo da cidade, os repartiram entre si os filhos de Israel, como o Senhor tinha ordenado a Josué.
+
+[[v6-8-28]]
+
+^<<v6-8-28,28>>^ Este pôs fogo (ao resto) da cidade, reduzindo-a para sempre a um montão (de ruínas),
+
+[[v6-8-29]]
+
+^<<v6-8-29,29>>^ e suspendeu de uma árvore o seu rei até à tarde. Ao pôr do sol, mandou que descessem o seu cadáver da árvore e o lançassem na mesma entrada da cidade, pondo sobre ele um grande montão de pedras, que (ali) permanece até ao dia de hoje.
+
+[[v6-8-30]]
+
+^<<v6-8-30,30>>^ Então Josué edificou um altar ao Senhor Deus de Israel sobre o monte Hebal,
+
+[[v6-8-31]]
+
+^<<v6-8-31,31>>^ conforme o que Moisés, servo do Senhor, tinha ordenado aos filhos de Israel, e como está escrito no livro da lei de Moisés, um altar de pedras toscas, nas quais não tocou ferro, e ofereceu sobre ele holocaustos ao Senhor, assim como sacrifícios pacíficos.
+
+[[v6-8-32]]
+
+^<<v6-8-32,32>>^ Escreveu sobre pedras o Deuteronómio da lei de Moisés, que ele tinha explicado diante dos filhos de Israel.
+
+[[v6-8-33]]
+
+^<<v6-8-33,33>>^ Todo o povo, os anciães, os capitães e os juízes, estavam em pé, a um e outro lado da arca, diante dos sacerdotes que levavam a arca da aliança do Senhor; (ali estavam) tanto os estrangeiros como os naturais, metade junto do monte Garizim, e a outra metade junto do Monte Hebal, como tinha mandado Moisés, servo do Senhor. Primeiramente (Josué) abençoou o povo de Israel.
+
+[[v6-8-34]]
+
+^<<v6-8-34,34>>^ Depois disto leu todas as palavras da bênção e da maldição, e tudo o que estava escrito no livro da lei.
+
+[[v6-8-35]]
+
+^<<v6-8-35,35>>^ Não omitiu nenhuma das coisas que Moisés tinha ordenado, leu-as todas diante de toda a multidão de Israel, das mulheres, dos meninos e dos estrangeiros, que moravam entre eles.
+
+'''
+
+xref:006-josue/006-josue-007.adoc#v6-7-0[&#60; Capítulo Anterior] | <<v6-8-0,Topo>> | xref:006-josue/006-josue-009.adoc#v6-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v10-11-0]]
+=== II Samuel, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 do livro de 2 Samuel relata a queda do rei Davi, que pecou ao se envolver com Bate-Seba, esposa de Urias, um dos seus soldados. O capítulo também conta como Davi tentou encobrir o seu pecado, mandando Urias para a linha de frente da batalha, onde ele foi morto. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Samuel 11:
+* 2 Samuel 12:7-9: "Então, disse Natã a Davi: Tu és o homem! Assim diz o Senhor, Deus de Israel: Eu te ungi rei sobre Israel e te livrei das mãos de Saul; dei-te a casa do teu senhor e as mulheres do teu senhor em teus braços e ainda te dei a casa de Israel e de Judá; e, se isso é pouco, deveria acrescentar-te tais e tais coisas?" O profeta Natã confronta Davi sobre o seu pecado e o repreende por ter quebrado a aliança com Deus.
+* 2 Samuel 12:13: "Então, disse Davi a Natã: Pequei contra o Senhor. E disse Natã a Davi: Também o Senhor perdoou o teu pecado; não morrerás." Davi reconhece o seu erro e pede perdão a Deus.
+* 2 Samuel 12:14: "Todavia, porquanto com este feito deste lugar a que os inimigos do Senhor blasfemem, também o filho que te nasceu certamente morrerá." Mesmo perdoado, Davi ainda sofre as consequências do seu pecado.
+* 2 Samuel 12:24-25: "E consolou Bate-Seba, mulher de Urias, pelo marido e tomou-a por sua mulher; ela lhe deu um filho, porém o Senhor não o permitiu viver. E deu-lhe um nome: Salomão. E o Senhor o amou." Davi casa com Bate-Seba e o filho deles, Salomão, se torna o futuro rei de Israel.
+* 2 Samuel 12:26-27: "Joabe pelejou contra Rabá dos filhos de Amom e tomou a cidade real. Então, Joabe enviou mensageiros a Davi, dizendo: Pelejei contra Rabá e tomei as águas da cidade." O capítulo termina com Joabe vencendo a batalha contra Rabá, uma vitória que Davi provavelmente teria liderado se não tivesse pecado.
+****
+
+[[v10-11-1]]
+
+^<<v10-11-1,1>>^ Ora sucedeu que, decorrido um ano, no tempo em que os reis costumam ir para a guerra, Davide enviou Joab com os seus oficiais e todo o (exército de) Israel, que destruíram os Amonitas, e sitiaram Raba. Davide, porém, ficou em Jerusalém.
+
+[[v10-11-2]]
+
+^<<v10-11-2,2>>^ Enquanto assim passavam as coisas, levantando-se, uma tarde, Davide de dormir a sesta, pôs-se a passear no terraço do palácio real e viu uma mulher que se banhava, defronte do seu terraço, mulher muito formosa.
+
+[[v10-11-3]]
+
+^<<v10-11-3,3>>^ Mandou o rei saber quem era aquela mulher. Disseram-lhe que era Betsabé, filha de Elião, mulher de Urias Heteu.
+
+[[v10-11-4]]
+
+^<<v10-11-4,4>>^ Então Davide mandou mensageiros, que Iha trouxessem. Ela veio e Davide dormiu com ela. Ela purificou-se logo da sua imundicie,
+
+[[v10-11-5]]
+
+^<<v10-11-5,5>>^ e voltou para sua casa tendo concebido. E mandou dizer a Davide: Concebi.
+
+[[v10-11-6]]
+
+^<<v10-11-6,6>>^ Davide mandou dizer a Joab: Envia-me Urias Heteu. Joab enviou Urias a Davide.
+
+[[v10-11-7]]
+
+^<<v10-11-7,7>>^ Urias apresentou-se a Davide, e Davide perguntou-lhe se passava bem Joab e o povo, e como ia a guerra.
+
+[[v10-11-8]]
+
+^<<v10-11-8,8>>^ Davide disse a Urias: Vai para tua casa, e lava os teus pés. Urias saiu do palácio do rei, e após ele foi-lhe mandado alimento da mesa real.
+
+[[v10-11-9]]
+
+^<<v10-11-9,9>>^ Urias, porém, dormiu junto da porta do palácio real com outros oficiais do seu senhor, e não foi a sua casa.
+
+[[v10-11-10]]
+
+^<<v10-11-10,10>>^ Avisaram disto a Davide, dizendo: Urias não foi a sua casa. Davide disse a Urias: Não vieste tu duma jornada? Por que não foste a tua casa?
+
+[[v10-11-11]]
+
+^<<v10-11-11,11>>^ Urias respondeu a Davide: Enquanto a arca de Deus, e Israel e Judá, habitam debaixo de tendas, e o meu senhor Joab e os servos do meu senhor dormem sobre a terra dura, eu deveria ir para minha casa comer, beber e dormir com minha mulher? Pela tua vida e pela saúde da tua alma (juro que) não farei tal coisa.
+
+[[v10-11-12]]
+
+^<<v10-11-12,12>>^ Disse Davide a Urias: Fica ainda hoje aqui, e amanhã te enviarei. Urias ficou em Jerusalém aquele dia e o seguinte.
+
+[[v10-11-13]]
+
+^<<v10-11-13,13>>^ Davide convidou-o a comer e a beber em sua presença, e embriagou-o, mas Urias, saindo já de noite, dormiu na sua cama com os oficiais do seu senhor, e não foi a sua casa.
+
+[[v10-11-14]]
+
+^<<v10-11-14,14>>^ Chegada a manhã, Davide escreveu um a carta a Joab, enviando-lha por mão de Urias. (ver nota)
+
+[[v10-11-15]]
+
+^<<v10-11-15,15>>^ Dizia na carta: Ponde Urias na frente, onde for mais rijo o combate, e desamparai-o, para que seja ferido e morra.
+
+[[v10-11-16]]
+
+^<<v10-11-16,16>>^ Joab, tendo sitiado a cidade, pôs Urias defronte do lugar onde sabia que estavam os homens mais valentes (dos inimigos).
+
+[[v10-11-17]]
+
+^<<v10-11-17,17>>^ Tendo os homens da cidade feito uma sortida, combatiam contra Joab, e morreram alguns do exército de Davide, morrendo também Urias Heteu.
+
+[[v10-11-18]]
+
+^<<v10-11-18,18>>^ Joab mandou dizer a Davide tudo o que se tinha passado no combate,
+
+[[v10-11-19]]
+
+^<<v10-11-19,19>>^ e deu ao mensageiro esta ordem; Depois que tiveres acabado de contar ao rei tudo o que se passou no combate,
+
+[[v10-11-20]]
+
+^<<v10-11-20,20>>^ se vires que ele se indigna e diz: Por que fostes vós combater tão perto dos muros? Não sabíeis que são muitos os dardos que se arremessam do alto do muro?
+
+[[v10-11-21]]
+
+^<<v10-11-21,21>>^ Quem matou Abimeleque, filho de Jerobaal? Não foi uma mulher que, do alto da muralha, atirou para cima dele um pedaço de mó de moinho, e o matou em Tebes? Porque vos aproximastes tanto dos muros? tu lhe dirás: Também morreu o teu servo Urias Heteu.
+
+[[v10-11-22]]
+
+^<<v10-11-22,22>>^ Partiu o mensageiro que, chegando junto de Davide, lhe referiu tudo o que Joab lhe tinha mandado,
+
+[[v10-11-23]]
+
+^<<v10-11-23,23>>^ O mensageiro disse a Davide: Os inimigos prevaleceram contra nós e fizeram uma saída contra o nosso acampamento, mas nós, dando sobre eles, os perseguimos até à porta da cidade.
+
+[[v10-11-24]]
+
+^<<v10-11-24,24>>^ Os frecheiros dirigiram os tiros contra os teus servos, do alto do muro, e morreram alguns dos servos do rei, morrendo também Urias Heteu, teu servo.
+
+[[v10-11-25]]
+
+^<<v10-11-25,25>>^ Davide disse ao mensageiro: Dirás isto a Joab: Não percas por isso o ânimo, porque os sucessos da guerra são vários; ora perece um, ora perece outro, aos golpes da espada; anima os teus soldados e esforça-os contra a cidade, para a destruires.
+
+[[v10-11-26]]
+
+^<<v10-11-26,26>>^ A mulher de Urias soube que Urias, seu marido, tinha morrido, e chorou por ele.
+
+[[v10-11-27]]
+
+^<<v10-11-27,27>>^ Passado o tempo do luto, Davide mandou-a vir para o seu palácio, tomou-a por sua mulher, e ela deu-lhe á luz um filho. Mas isto que Davide tinha feito foi desagradável aos olhos do Senhor.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-010.adoc#v10-10-0[&#60; Capítulo Anterior] | <<v10-11-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-012.adoc#v10-12-0[Próximo Capítulo &#62;]

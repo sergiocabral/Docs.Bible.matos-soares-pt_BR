@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v23-11-0]]
+=== II Macabeus, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 de 2 Macabeus relata a vitória do exército liderado por Judas Macabeu contra as forças do general babilônico Nicanor, que havia invadido a Judeia com a intenção de destruir o templo de Jerusalém. Os versículos abaixo foram escolhidos por tratarem de temas relacionados a esse episódio de luta e vitória:
+* 1 Samuel 17:47: "E toda esta congregação saberá que o Senhor não salva com a espada e com a lança; porque do Senhor é a guerra, e ele vos entregará na nossa mão." Essa passagem é uma declaração de fé de Davi, que confia no poder de Deus para derrotar o gigante Golias. Essa fé em Deus e em sua proteção é compartilhada por Judas Macabeu e seu exército, que sabem que sua vitória não depende apenas de sua habilidade militar, mas da ajuda divina.
+* Salmo 20:7: "Uns confiam em carros, outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus." Essa passagem destaca a importância da confiança em Deus em meio às batalhas. Enquanto outros povos confiavam em seu poderio militar, Judas Macabeu e seus soldados colocavam sua confiança em Deus e em sua proteção.
+* Salmo 144:1: "Bendito seja o Senhor, minha rocha, que ensina as minhas mãos para a peleja e os meus dedos para a guerra." Essa passagem destaca a importância da preparação e do treinamento para a guerra. Assim como o salmista atribui sua habilidade na batalha ao ensino de Deus, Judas Macabeu e seus soldados se preparam para a luta e contam com a ajuda divina para alcançar a vitória.
+* Isaías 31:5: "Como as aves voam, assim protegerá o Senhor dos exércitos a Jerusalém; protegendo, ele também livrará e salvará, passando por cima, livrando." Essa passagem é uma promessa de proteção divina sobre Jerusalém. Judas Macabeu e seu exército lutam para defender o templo de Jerusalém e proteger seu povo dos invasores estrangeiros.
+* Josué 10:25: "Disse-lhes Josué: Não temais, nem vos atemorizeis; esforçai-vos e tende bom ânimo, porque assim fará o Senhor a todos os vossos inimigos, contra os quais pelejardes." Essa passagem é uma mensagem de encorajamento e coragem para os soldados de Judas Macabeu. Assim como Josué encorajou seus homens a serem fortes e corajosos na luta contra os inimigos de Israel, Judas Macabeu inspira seus soldados a lutar com determinação e fé na vitória.
+****
+
+[[v23-11-1]]
+
+^<<v23-11-1,1>>^ Muito pouco tempo depois, Lísias, tutor do rei, seu parente e regente do reino, sentindo muito pesar pelo que tinha acontecido,
+
+[[v23-11-2]]
+
+^<<v23-11-2,2>>^ juntou oitenta mil homens de pé com toda a cavalaria e marchou contra os Judeus, imaginando poder fazer da cidade (santa) uma cidade helénica,
+
+[[v23-11-3]]
+
+^<<v23-11-3,3>>^ sujeitar a tributo o templo, como os outros templos dos pagãos, e pôr à venda todos os anos o sumo sacerdócio,
+
+[[v23-11-4]]
+
+^<<v23-11-4,4>>^ não fazendo reflexão alguma no poder de Deus, mas ensoberbecendo-se pela multidão da sua infantaria, pelos seus milhares de cavalos e oitenta elefantes.
+
+[[v23-11-5]]
+
+^<<v23-11-5,5>>^ Entrando, pois, na Judeia e abeirando-se de Betsur, praça forte situada num desfiladeiro, cinco estádios distante de Jerusalém, atacou-a. (ver nota)
+
+[[v23-11-6]]
+
+^<<v23-11-6,6>>^ Logo, porém, que Macabeu e os que estavam com ele souberam que Lisias atacava as fortalezas, com gemidos e lágrimas rogavam ao Senhor, acompanhados de todo o povo, que enviasse um bom anjo para salvação de Israel.
+
+[[v23-11-7]]
+
+^<<v23-11-7,7>>^ Macabeu foi o primeiro que tomou as armas e exortou os outros a exporem-se com ele ao perigo, para darem socorro a seu irmãos.
+
+[[v23-11-8]]
+
+^<<v23-11-8,8>>^ Quando marchavam todos juntos com ânimo resoluto, apareceu, ainda perto de Jerusalém, um homem a cavalo, que adiante deles, vestido de hábitos brancos, com armas de ouro, brandindo uma lança.
+
+[[v23-11-9]]
+
+^<<v23-11-9,9>>^ Então bem-disseram todos ao mesmo tempo ao Senhor misericordioso e encheram-se de coragem, prontos a pelejar, não só com os homens, mas também com os animais mais ferozes e a atravessar muros de ferro.
+
+[[v23-11-10]]
+
+^<<v23-11-10,10>>^ Marchavam em ordem de batalha, com este auxiliar vindo do céu, por misericórdia do Senhor.
+
+[[v23-11-11]]
+
+^<<v23-11-11,11>>^ Como leões, lançando-se impetuosamente sobre os seus inimigos, mataram onze mil homens da sua infantaria, mil e seiscentos de cavalaria,
+
+[[v23-11-12]]
+
+^<<v23-11-12,12>>^ e puseram em fuga todos os restantes. A maior parte deles não se puderam salvar, senão feridos e sem armas; até o mesmo Lísias só por meio duma vergonhosa fuga escapou.
+
+[[v23-11-13]]
+
+^<<v23-11-13,13>>^ Mas como ele não era insensato, considerando consigo mesmo a perda que tinha tido e reconhecendo que os Hebreus eram invencíveis, pois se escoravam no socorro de Deus Todo-Poderoso, mandou-lhes embaixadores,
+
+[[v23-11-14]]
+
+^<<v23-11-14,14>>^ a propor a reconciliação, sob condições razoáveis, oferecendo-se a persuadir o rei a que fizesse amizade com eles.
+
+[[v23-11-15]]
+
+^<<v23-11-15,15>>^ Anuiu Macabeu aos rogos de Lísias, atendendo em todas as coisas ao interesse do público, e o rei esteve por tudo o que Macabeu pediu em favor dos Judeus, na carta que escreveu a Lisias.
+
+[[v23-11-16]]
+
+^<<v23-11-16,16>>^ A carta que Lisias escreveu aos Judeus era concebida nestes termos: Lísias, ao povo dos Judeus, saúde,
+
+[[v23-11-17]]
+
+^<<v23-11-17,17>>^ João e Absalão, que me enviastes, ao entregar-me as vossas cartas, pediram-me que cumprisse as cláusulas que nelas se continham.
+
+[[v23-11-18]]
+
+^<<v23-11-18,18>>^ Expus ao rei tudo o que se lhe podia representar, e ele concordou naquilo que as circunstâncias permitiam,
+
+[[v23-11-19]]
+
+^<<v23-11-19,19>>^ Se, portanto, fordes fiéis ao rei nos vossos tratados, eu também daqui em diante me empenharei em vos fazer todo o bem que puder.
+
+[[v23-11-20]]
+
+^<<v23-11-20,20>>^ Pelo que toca a centos pormenores, dei explicações tanto aos que vós me enviastes, como aos que vos envio, para tratarem oralmente convosco.
+
+[[v23-11-21]]
+
+^<<v23-11-21,21>>^ Tende boa saúde. Ano cento e quarenta e oito, aos vinte e quatro dias do mês de Dióscoro. (ver nota)
+
+[[v23-11-22]]
+
+^<<v23-11-22,22>>^ A carta do rei continha o seguinte: O rei Antíoco, a Lísias, seu irmão, saúde.
+
+[[v23-11-23]]
+
+^<<v23-11-23,23>>^ Tendo sido o rei nosso pai trasladado para entre os deuses, e desejando nós que os que estão no nosso reino vivam em paz e se apliquem com cuidado aos seus negócios,
+
+[[v23-11-24]]
+
+^<<v23-11-24,24>>^ soubemos que os Judeus não condescederam com meu pai em passarem para os costumes dos Gregos, mas que querem conservar os seus, e que, por esta razão, nos pedem que lhes seja permitido viver segundo as suas leis.
+
+[[v23-11-25]]
+
+^<<v23-11-25,25>>^ Querendo, pois, que também este povo viva em paz, determinamos que lhes seja restituído o seu templo, para viverem conforme os costumes dos seus antepassados.
+
+[[v23-11-26]]
+
+^<<v23-11-26,26>>^ Tu, pois, farás bem em lhes mandares embaixadores, que concertem a paz com eles, para que, tendo conhecido a nossa vontade, recobrem confiança e tratem dos seus negócios particulares.
+
+[[v23-11-27]]
+
+^<<v23-11-27,27>>^ A carta do rei aos Judeus era do teor seguinte: O rei Antíoco, ao senado dos Judeus e aos outros Judeus, saúde.
+
+[[v23-11-28]]
+
+^<<v23-11-28,28>>^ Se estais de saúde, é isso que desejamos. Nós também passamos bem.
+
+[[v23-11-29]]
+
+^<<v23-11-29,29>>^ Veio ter conosco Menelau, dizendo que desejáveis ir ter com os vossos.
+
+[[v23-11-30]]
+
+^<<v23-11-30,30>>^ Por consequência, damos paz e segurança aos que quiserem ir até ao dia trinta do mês de Xantico.
+
+[[v23-11-31]]
+
+^<<v23-11-31,31>>^ Permitimos que os Judeus usem das suas comidas e vivam segundo as suas leis, como dantes, sem que nenhum deles sofra o menor detrimento pelas faltas cometidas por ignorância.
+
+[[v23-11-32]]
+
+^<<v23-11-32,32>>^ Mandamos-vos Menelau, para vos assegurar disto.
+
+[[v23-11-33]]
+
+^<<v23-11-33,33>>^ Saúde. Ano cento e quarenta e oito, aos quinze dias do mês de Xantico.
+
+[[v23-11-34]]
+
+^<<v23-11-34,34>>^ Também os Romanos mandaram uma carta concebida nestes termos: Quinto Mémio e Tito Mânlio, legados dos Romanos, ao povo dos Judeus, saúde.
+
+[[v23-11-35]]
+
+^<<v23-11-35,35>>^ Achamos bem aquelas coisas que Lísias, parente do rei, vos concedeu.
+
+[[v23-11-36]]
+
+^<<v23-11-36,36>>^ Pelo que toca às que ele julgou que deviam ser representadas ao rei, mandai quanto antes alguém, depois de terdes bem deliberado entre vós sobre a matéria, para determinarmos o que vos for mais conveniente, porque vamos para Antioquia.
+
+[[v23-11-37]]
+
+^<<v23-11-37,37>>^ Por isso mandai-nos depressa mensageiros, para sabermos qual é a vossa vontade.
+
+[[v23-11-38]]
+
+^<<v23-11-38,38>>^ Saúde. Ano cento e quarenta e oito, aos quinze dias do mês de Xantico.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-010.adoc#v23-10-0[&#60; Capítulo Anterior] | <<v23-11-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-012.adoc#v23-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v9-30-0]]
+=== I Samuel, 30
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 30 narra o episódio em que Davi e seus homens retornam a Ziclague e descobrem que a cidade foi saqueada e suas mulheres e filhos foram levados como cativos pelos amalequitas. Davi lidera seus homens em busca dos amalequitas e, com a ajuda de Deus, derrota-os e resgata suas famílias. Os versículos selecionados abaixo tratam de temas como a perda e recuperação de bens e família, a importância da confiança em Deus em momentos difíceis e a generosidade e responsabilidade social.
+* Gênesis 14:16: "E trouxe de volta todos os bens, e também trouxe de volta seu irmão Ló e seus bens, e as mulheres e o povo." Este versículo relata o resgate de Ló e seus bens após ele ter sido capturado pelos reis que guerreavam na região. Assim como Davi resgatou sua família e seus bens, Abrão também resgatou Ló e seus bens. Ambos confiaram em Deus e foram bem-sucedidos em sua missão.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os de espírito oprimido." Este verso fala sobre a proximidade de Deus com aqueles que estão passando por momentos difíceis. Quando Davi e seus homens chegaram a Ziclague e descobriram que suas famílias haviam sido capturadas, eles ficaram arrasados e com o coração quebrantado. Este versículo destaca a importância da confiança em Deus em momentos de adversidade.
+* Provérbios 3:27: "Não recuse um favor a quem dele precisa, estando em tuas mãos a capacidade de realizá-lo." Este verso fala sobre a importância de ser generoso e ajudar aqueles que precisam. Quando Davi e seus homens resgataram suas famílias, eles também encontraram um egípcio abandonado pelos amalequitas. Eles o alimentaram e cuidaram dele antes de interrogá-lo e descobrir a localização dos amalequitas. Este versículo destaca a importância da generosidade e da responsabilidade social.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai de misericórdias e Deus de toda consolação, que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em qualquer angústia, com a consolação com que nós mesmos somos consolados por Deus." Este trecho fala sobre a consolação que Deus nos oferece em momentos de tribulação e como podemos usá-la para consolar aqueles que também estão passando por dificuldades. Quando Davi e seus homens encontraram o egípcio abandonado pelos amalequitas, eles o alimentaram e cuidaram dele antes de interrogá-lo e descobrir a localização dos amalequitas. Este verso destaca a importância de sermos consolados por Deus para que possamos consolar os outros.
+* Mateus 6:19-21: "Não acumuleis para vós tesouros na terra, onde a traça e a ferrugem corroem e onde os ladrões furtam e roubam; mas ajuntai para vós tesouros no céu, onde nem a traça nem a ferrugem corrompem, e onde ladrões não escavam, nem roubam; pois onde está o teu tesouro, aí estará também o teu coração." Esses versículos abordam a importância de valorizar e investir em coisas eternas e não em tesouros terrenos, que são perecíveis e podem ser perdidos. O texto nos lembra que o lugar onde depositamos nossas riquezas revela a verdadeira posição de nossos corações.
+****
+
+[[v9-30-1]]
+
+^<<v9-30-1,1>>^ Tendo, ao terceiro dia, chegado Davide e os seus a Siceleg, os Amalecltas tinham pela banda do meio-dia feito uma incursão sobre Siceleg, que tomaram e queimaram
+
+[[v9-30-2]]
+
+^<<v9-30-2,2>>^ Tinham levado dali cativas as mulheres (e todos os habitantes), desde o mais pequeno até ao maior; não tinham matado ninguém, mas tinham levado tudo consigo, e voltavam pelo seu caminho.
+
+[[v9-30-3]]
+
+^<<v9-30-3,3>>^ Quando Davide e a sua gente chegaram à cidade, e a encontraram queimada, quando viram que suas mulheres filhos e filhas foram levados cativos,
+
+[[v9-30-4]]
+
+^<<v9-30-4,4>>^ levantaram as suas vozes e choraram até se lhes esgotarem as lágrimas.
+
+[[v9-30-5]]
+
+^<<v9-30-5,5>>^ Também tinham ido cativas as duas mulheres de Davide, Aquinoão de Jezrael, e Abigail, viúva de Nabal do Carmelo.
+
+[[v9-30-6]]
+
+^<<v9-30-6,6>>^ Davide afligiu-se em extremo, porque o povo queria apedrejá-lo, estando todos amargurados em seu coração por causa de seus filhos e filhas, mas Davide confortou-se no Senhor seu Deus.
+
+[[v9-30-7]]
+
+^<<v9-30-7,7>>^ Disse ao sacerdote Abiatar, filho de Aquimelec: Traze-me o éfode. Abiatar levou o éfode a Davide,
+
+[[v9-30-8]]
+
+^<<v9-30-8,8>>^ Davide consultou o Senhor, dizendo: Perseguirei eu estes ladrões e apanhá-los-ei, ou não? O Senhor respondeu-lhe: Persegue-os, porque indubitàvelmente os apanharás, e os esbuIharás da presa.
+
+[[v9-30-9]]
+
+^<<v9-30-9,9>>^ Partiu Davide, com os seiscentos homens que o acompanhavam, e foram até à torrente de Besor; alguns, que iam cansados, fizeram alto.
+
+[[v9-30-10]]
+
+^<<v9-30-10,10>>^ Prosseguiu Davide com quatrocentos homens, porque duzentos tinham ficado atrás, os quais, estando muito cansados, não podiam passar a torrente de Besor.
+
+[[v9-30-11]]
+
+^<<v9-30-11,11>>^ Encontraram no campo um Egípcio, levaram-no a Davide, deram-lhe pão a comer, água a beber,
+
+[[v9-30-12]]
+
+^<<v9-30-12,12>>^ um pedaço de torta de figos secos e dois cachos de uva passa. Depois que comeu, cobrou alento e recuperou as forças, porque havia três dias e três noites que não tinha comido pão, nem bebido água.
+
+[[v9-30-13]]
+
+^<<v9-30-13,13>>^ Disse-lhe então Davide: De quem és tu? Donde (vem) e para onde vais? Ele disse: Eu sou um jovem Egípcio, escravo dum Amalecita; o meu senhor, porém , abandonou-me, porque adoeci há três dias.
+
+[[v9-30-14]]
+
+^<<v9-30-14,14>>^ Nós fizemos uma incursão para a banda meridional de Cereti, para a banda de Judá e para o meio-dia de Caleb, e pusemos fogo a Siceleg.
+
+[[v9-30-15]]
+
+^<<v9-30-15,15>>^ Davide disse-lhe: Poderás tu guiar-me até onde está essa quadrilha? Ele respondeu: Jura-me por Deus, que me não matarás e que me não entregarás nas mãos do meu senhor, e eu te guiarei até onde está essa quadrilha. Davide jurou-lhe.
+
+[[v9-30-16]]
+
+^<<v9-30-16,16>>^ Tendo-o guiado, viram que (os Amalecitas) estavam recostados em terra por todo o campo, comendo, bebendo e dançando, por causa dos grandes despojos que tinham tomado do País dos Filisteus e do país de Judá.
+
+[[v9-30-17]]
+
+^<<v9-30-17,17>>^ Davide deu sobre eles, desde aquela tarde até á tarde do outro dia, e nenhum deles escapou, excepto quatrocentos jovens, que montaram nos camelos e fugiram
+
+[[v9-30-18]]
+
+^<<v9-30-18,18>>^ Recobrou Davide, pois, tudo o que os Amalecitas tinham tomado, e libertou as suas duas mulheres.
+
+[[v9-30-19]]
+
+^<<v9-30-19,19>>^ Não faltou coisa alguma nem pequena nem grande, assim de filhos como de filhas, e do despojo; tudo o que tinham apanhado, Davide o recuperou.
+
+[[v9-30-20]]
+
+^<<v9-30-20,20>>^ Davide tomou todos os rebanhos e manadas, e os fez caminhar com os seus homens, que diziam; Esta é a presa de Davide.
+
+[[v9-30-21]]
+
+^<<v9-30-21,21>>^ Foi Davide juntar-se com os duzentos homens, que, de cansados, tinham parado, e não puderam seguir Davide, aos quais tinha dado ordem de ficar junto da torrente de Besor. Eles foram ao encontro de Davide e dos que o acompanhavam. Davide, ao aproximar-se deles, saudou-os amigavelmente.
+
+[[v9-30-22]]
+
+^<<v9-30-22,22>>^ Porém, todos os malvados e perversos, dentre aqueles que tinham ido com Davide, começaram a dizer: Visto que eles não foram conosco, não lhe havemos de dar nada da presa que tomámos; contente-se cada um com reaver sua mulher e filhos; e, logo que os receberem, vão-se.
+
+[[v9-30-23]]
+
+^<<v9-30-23,23>>^ Mas Davide disse: Não fareis assim, meus irmãos, do que o Senhor nos entregou; ele nos conservou, e entregou em nossas mãos esses ladrões, que se tinham lançado sobre nós.
+
+[[v9-30-24]]
+
+^<<v9-30-24,24>>^ Ninguém dará ouvidos a essa proposta que fazeis; tanto o que pelejou, como o que ficou guardando a bagagem, terão igual parte na presa: ela se dividirá igualmente.
+
+[[v9-30-25]]
+
+^<<v9-30-25,25>>^ Isto foi posto em prática desde aquele dia, e daí por diante foi considerado como uma lei em Israel, até ao dia de hoje.
+
+[[v9-30-26]]
+
+^<<v9-30-26,26>>^ Chegou Davide a Siceleg, e da presa mandou dons aos anciães de Judá, seus amigos, dizendo: Aceitai este presente dos despojos dos inimigos do Senhor.
+
+[[v9-30-27]]
+
+^<<v9-30-27,27>>^ (Mandou também) aos que viviam em Betei, aos de Ramot para o meio-dia, aos de Jeter,
+
+[[v9-30-28]]
+
+^<<v9-30-28,28>>^ aos de Aroer, aos de Sefamot, aos de Estamo,
+
+[[v9-30-29]]
+
+^<<v9-30-29,29>>^ aos de Racal, aos das cidades de Jerameel, aos das cidades de Ceni,
+
+[[v9-30-30]]
+
+^<<v9-30-30,30>>^ aos de Aram a, aos do lago de Asan, aos de Atac,
+
+[[v9-30-31]]
+
+^<<v9-30-31,31>>^ aos de Hebron, e a todos os outros que viviam naqueles lugares em que Davide tinha morado com os seus.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-029.adoc#v9-29-0[&#60; Capítulo Anterior] | <<v9-30-0,Topo>> | xref:009-i-samuel/009-i-samuel-031.adoc#v9-31-0[Próximo Capítulo &#62;]

@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v40-3-0]]
+=== Miquéias, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de Miquéias apresenta uma acusação contra os líderes e governantes de Judá e Israel, que usam o seu poder para oprimir o povo e praticar a injustiça. Buscando em toda a Bíblia, encontrei os seguintes versículos relacionados com os temas abordados nesse capítulo:
+* Jeremias 23:1-2: "Ai dos pastores que destroem e dispersam as ovelhas do meu pasto! - diz o Senhor. Portanto, assim diz o Senhor, Deus de Israel, aos pastores que apascentam o meu povo: Vós dispersastes as minhas ovelhas, e as afugentastes, e não as visitastes; eis que visitarei sobre vós a maldade das vossas obras, diz o Senhor." Esse versículo condena os líderes que negligenciam as suas responsabilidades e causam danos ao povo, o que é semelhante à acusação apresentada contra os líderes em Miquéias 3.
+* Provérbios 28:15: "Como leão rugidor, e urso faminto, assim é o ímpio que domina sobre um povo pobre." Esse versículo fala sobre a opressão que os líderes ímpios podem exercer sobre o povo, o que é mencionado em Miquéias 3.
+* Ezequiel 22:27: "Os seus príncipes no meio dela são como lobos que arrebatam a presa, derramando sangue e destruindo vidas para satisfazer a sua ganância." Nesse versículo, os líderes são comparados a lobos que destroem e matam por causa da sua ganância, o que é semelhante à acusação contra os líderes em Miquéias 3.
+* Isaías 5:23: "Os que justificam o ímpio por presentes, e tiram aos justos a justiça!" Esse versículo condena a corrupção que os líderes podem praticar, aceitando subornos e negando justiça aos justos, o que é mencionado em Miquéias 3.
+* Salmos 82:2-4: "Até quando julgareis injustamente, e tereis respeito às pessoas dos ímpios? Fazei justiça ao pobre e ao órfão; justificai o aflito e o necessitado. Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios." Nesse versículo, os líderes são exortados a fazer justiça e defender os pobres e necessitados, o que é semelhante à acusação contra os líderes em Miquéias 3.
+****
+
+[[v40-3-1]]
+
+^<<v40-3-1,1>>^ Eu disse: Ouvi, príncipes de Jacob e chefes da casa de Israel: Porventura não é a vós que pertence saber o que é justo?
+
+[[v40-3-2]]
+
+^<<v40-3-2,2>>^ Não obstante isso, aborreceis o bem e achais o mal; arrancais a pele (ao povo) e a carne de cima dos seus ossos.
+
+[[v40-3-3]]
+
+^<<v40-3-3,3>>^ Comem a carne do meu povo, arrancam-lhe a pele, quebram-lhe os ossos, partem-no como (carne) para por num tacho como carne para dentro duma panela.
+
+[[v40-3-4]]
+
+^<<v40-3-4,4>>^ Um dia clamarão ao Senhor, e ele não os ouvirá; esconder-lhes-á a sua face nesse tempo, como o merece a iniquidade das suas acções.
+
+[[v40-3-5]]
+
+^<<v40-3-5,5>>^ Isto diz o Senhor acerca dos (falsos) profetas que seduzem o meu povo, que, quando têm alguma coisa para mastigar, pregam a paz, e, àquele que não lhes põe na boca coisa alguma, declaram a guerra.
+
+[[v40-3-6]]
+
+^<<v40-3-6,6>>^ Por Isso, em lugar de visões, tereis a noite, e as trevas em vez de revelação; por-se-á o sol para estes profetas, para eles se obscurecerá o dia.
+
+[[v40-3-7]]
+
+^<<v40-3-7,7>>^ Serão confundidos os videntes, cobrir-se-ão de vergonha os adivinhos; todos esconderão a barba, porque não haverá resposta de Deus (para eles).
+
+[[v40-3-8]]
+
+^<<v40-3-8,8>>^ Pelo que toca a mim, contudo, estou cheio da força do espírito do Senhor, da justiça e do vigor, para anunciar a Jacob a sua maldade, e a Israel o seu pecado.
+
+[[v40-3-9]]
+
+^<<v40-3-9,9>>^ Ouvi isto, príncipes da casa de Jacob e juízes da casa de Israel, vós que abominais a justiça e perverteis tudo o que ó recto,
+
+[[v40-3-10]]
+
+^<<v40-3-10,10>>^ edificando Sião com sangue, e Jerusalém com a iniquidade. (ver nota)
+
+[[v40-3-11]]
+
+^<<v40-3-11,11>>^ Os seus príncipes dão as sentenças por presentes, os seus sacerdotes decidem por interesse, os seus profetas adivinham por dinheiro; e (não obstante) apoiam-se no Senhor, dizendo: Não está o Senhor no meio de nós? A desgraça não virá sobre nós.
+
+[[v40-3-12]]
+
+^<<v40-3-12,12>>^ Em conseqüência disto, por vossa causa será lavrada Sião como um campo, Jerusalém será reduzida a um montão de pedras, e o monte do templo tornar-se-á como um cume brenhoso.
+
+'''
+
+xref:040-miqueias/040-miqueias-002.adoc#v40-2-0[&#60; Capítulo Anterior] | <<v40-3-0,Topo>> | xref:040-miqueias/040-miqueias-004.adoc#v40-4-0[Próximo Capítulo &#62;]

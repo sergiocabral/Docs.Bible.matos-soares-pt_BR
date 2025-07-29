@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v10-6-0]]
+=== II Samuel, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 6 relata a transferência da Arca da Aliança de Quiriate-Jearim para Jerusalém por Davi. Durante o transporte, Uzá toca na Arca e é morto por Deus. Depois disso, a Arca é deixada na casa de Obede-Edom e, depois de três meses, é levada para Jerusalém com grande celebração. Os versículos relacionados com os temas abordados em 2 Samuel 6 são:
+* Êxodo 25:10-22: "Farás também um propiciatório de ouro puro; o seu comprimento será de dois côvados e meio, e a sua largura de um côvado e meio. Farás também dois querubins de ouro; de ouro batido os farás nas duas extremidades do propiciatório. Fá-los-ás, pois, de modo que formem um só corpo com o propiciatório nas duas extremidades. Terão os querubins as suas asas estendidas para cima, cobrindo com elas o propiciatório e estarão um defronte do outro, voltados para o propiciatório." Esse versículo fala da Arca da Aliança e sua importância na adoração a Deus.
+* Números 4:15: "E, depois de Arão e seus filhos haverem coberto o santuário e todos os seus utensílios, e de se prepararem para partir, virá a tribo dos coatitas para levá-lo; mas não tocarão as coisas sagradas, para que não morram; esta é a incumbência dos coatitas com relação à tenda da congregação." Esse versículo fala sobre a maneira correta de transportar a Arca da Aliança e o perigo de tocá-la.
+* 1 Crônicas 13:9-10: "Chegaram, pois, a eira de Quidom; e Uzá estendeu a mão à arca de Deus e segurou-a, porque os bois tropeçavam. Então, a ira do Senhor se acendeu contra Uzá, e Deus o feriu ali por este erro; e morreu ali junto à arca de Deus." Esse versículo descreve a morte de Uzá ao tocar na Arca da Aliança, o que é semelhante ao que aconteceu em 2 Samuel 6.
+* Salmos 24:7-10: "Levantai, ó portas, as vossas cabeças; levantai-vos, ó portais eternos, para que entre o Rei da Glória! Quem é esse Rei da Glória? O Senhor, forte e poderoso, o Senhor poderoso na guerra. Levantai, ó portas, as vossas cabeças; levantai-vos, ó portais eternos, para que entre o Rei da Glória! Quem é esse Rei da Glória? O Senhor dos Exércitos; ele é o Rei da Glória!" Esse versículo fala sobre a importância de Deus e seu poder e presença na adoração.
+* 1 Crônicas 15:28: "Assim todo o Israel trouxe a arca da aliança do SENHOR com júbilo e ao som de buzinas, e de trombetas, e de címbalos, fazendo ressoar alaúdes e harpas." Este verso fala sobre a transferência da Arca da Aliança para Jerusalém e como os levitas e o povo de Israel a acompanharam com música e alegria. Isso mostra a importância da adoração e do louvor a Deus em celebrações de fé.
+****
+
+[[v10-6-1]]
+
+^<<v10-6-1,1>>^ Davide juntou de novo todos os homens escolhidos de Israel, em número de trinta mil,
+
+[[v10-6-2]]
+
+^<<v10-6-2,2>>^ levantou-se e partiu com toda a gente da tribo de Judá, que, estava com ele, para transportar a arca de Deus, sobre a qual é invocado o nome do Senhor dos exércitos, que tem o seu assento sobre ela, entre os querubins.
+
+[[v10-6-3]]
+
+^<<v10-6-3,3>>^ Puseram a arca de Deus sobre um carro novo, e levaram-na da casa de Abinadab, que estava sobre a colina. Oza e Ahlo, filhos de Abinadab, conduziam o carro novo.
+
+[[v10-6-4]]
+
+^<<v10-6-4,4>>^ Tendo-a tirado da casa de Abinadab, que estava sobre a colina, Ahio ia adiante da arca guardando a arca de Deus.
+
+[[v10-6-5]]
+
+^<<v10-6-5,5>>^ Davide, porém, e todo o Israel dançavam diante do Senhor ao som de toda a casta de instrumentos de madeira, e cítaras, e liras, e tímpanos, e sistros, e címbalos.
+
+[[v10-6-6]]
+
+^<<v10-6-6,6>>^ Quando chegaram à eira de Nacon, Oza estendeu a mão para a arca de Deus e susteve-a, porque os bois escoicinhavam, e tinham-na feito pender.
+
+[[v10-6-7]]
+
+^<<v10-6-7,7>>^ O Senhor indignou-se muito contra Oza, e feriu-o pela sua temeridade: Oza caiu morto ali mesmo junto da arca de Deus. (ver nota)
+
+[[v10-6-8]]
+
+^<<v10-6-8,8>>^ Davide contristou-se, porque o Senhor tinha ferido Oza. Aquele lugar ficou-se chamando até ao dia de hoje: Castigo de Oza.
+
+[[v10-6-9]]
+
+^<<v10-6-9,9>>^ Davide temeu o Senhor, naquele dia, dizendo: Como entrará a arca do Senhor em minha casa?
+
+[[v10-6-10]]
+
+^<<v10-6-10,10>>^ E não quis que levassem a arca do Senhor para sua casa, na cidade de Davide, mas fê-la ir para casa de Obededom, de Get.
+
+[[v10-6-11]]
+
+^<<v10-6-11,11>>^ A arca do Senhor esteve três meses em casa de Obededom, de Get, e o Senhor abençoou Obededom e toda a sua casa.
+
+[[v10-6-12]]
+
+^<<v10-6-12,12>>^ Foi anunciado ao rei Davide que o Senhor tinha abençoado Obededom e tudo o que lhe pertencia, por causa da arca de Deus. Foi então Davide, e levou a arca de Deus de casa de Obededom para a cidade de Davide, com um jubiloso cortejo.
+
+[[v10-6-13]]
+
+^<<v10-6-13,13>>^ Quando os que levavam a arca do Senhor tinham dado seis passos, foi oferecido um sacrifício de um boi e de um carneiro.
+
+[[v10-6-14]]
+
+^<<v10-6-14,14>>^ Davide dançava diante do Senhor com todas as suas forças, cingido dum éfode de linho.
+
+[[v10-6-15]]
+
+^<<v10-6-15,15>>^ Davide e toda a casa de Israel conduziram a arca do testamento do Senhor com júbilo e ao som de trombetas.
+
+[[v10-6-16]]
+
+^<<v10-6-16,16>>^ Quando entrou a arca do Senhor na cidade de Davide, Micol, filha de Saul, olhando da janela, viu o rei Davide dançando e saltando diante do Senhor, e desprezou-o em seu coração.
+
+[[v10-6-17]]
+
+^<<v10-6-17,17>>^ Introduziram a arca do Senhor e colocaram-na no seu lugar, no meio do tabernáculo, que Davide lhe tinha preparado; depois disto Davide ofereceu holocaustos e vítimas pacíficas diante do Senhor.
+
+[[v10-6-18]]
+
+^<<v10-6-18,18>>^ Quando acabou de oferecer os holocaustos e as vítimas pacíficas, abençoou o povo em nome do Senhor dos exércitos.
+
+[[v10-6-19]]
+
+^<<v10-6-19,19>>^ A seguir distribuiu a todo o povo de Israel, tanto a homens como a mulheres, a cada um um a torta de pão, um pedaço de carne de vaca assada, e uma pasta de uvas. E retirou-se todo o povo, cada um para sua casa.
+
+[[v10-6-20]]
+
+^<<v10-6-20,20>>^ Retirou-se também Davide a sua casa, para a abençoar. Micol, filha de Saul, tendo saído ao encontro de Davide, disse: Que bela figura fez hoje o rei de Israel, despindo-se (das suas insígnias), diante das escravas de seus vassalos, e desnudando-se como faria um chocarreiro
+
+[[v10-6-21]]
+
+^<<v10-6-21,21>>^ Davide disse a Micol: Diante do Senhor, que me escolheu, preferindo-me a teu pai e a toda a sua família, e que me mandou que fosse eu o condutor do povo do Senhor em Israel,
+
+[[v10-6-22]]
+
+^<<v10-6-22,22>>^ não só dançarei, mas também me farei mais vil do que me tenho feito, serei mais humilde aos teus olhos, e com isto aparecerei com mais glória diante das escravas, de que falaste.
+
+[[v10-6-23]]
+
+^<<v10-6-23,23>>^ E Micol, filha de Saul, não teve mais filhos até ao dia da sua morte.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-005.adoc#v10-5-0[&#60; Capítulo Anterior] | <<v10-6-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-007.adoc#v10-7-0[Próximo Capítulo &#62;]

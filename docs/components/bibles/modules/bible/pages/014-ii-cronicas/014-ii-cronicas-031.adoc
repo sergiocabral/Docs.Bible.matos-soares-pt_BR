@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v14-31-0]]
+=== II Crônicas, 31
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 31 relata como Ezequias organizou a administração dos recursos do templo e do reino, estabelecendo um sistema de ofertas e dízimos para sustentar os sacerdotes e levitas, bem como outras atividades religiosas. O capítulo também destaca a prosperidade do reino de Judá sob o reinado de Ezequias. A seguir, são apresentados cinco versículos relacionados aos temas abordados em 2 Crônicas 31:
+* Provérbios 3:9-10: "Honra ao Senhor com os teus bens, e com as primícias de toda a tua renda. E se encherão os teus celeiros com abundância, e transbordarão de mosto os teus lagares." Este versículo destaca a importância de honrar a Deus com nossos recursos financeiros e como isso pode resultar em bênçãos materiais.
+* Malaquias 3:10: "Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa, e depois fazei prova de mim, diz o Senhor dos Exércitos, se eu não vos abrir as janelas do céu, e não derramar sobre vós uma bênção tal, que dela vos advenha a maior abastança." Este versículo enfatiza a importância de trazer os dízimos para a casa de Deus e a promessa de bênçãos resultantes dessa prática.
+* Atos 20:35: "Em tudo vos tenho mostrado que, trabalhando assim, é necessário auxiliar os enfermos, e recordar as palavras do Senhor Jesus, que disse: Mais bem-aventurada coisa é dar do que receber." Este versículo destaca a importância de ajudar os necessitados com nossos recursos e como isso é uma forma de servir a Deus.
+* Lucas 21:1-4: "E, olhando ele, viu os ricos deitarem as suas ofertas na arca do tesouro; viu também uma pobre viúva deitar ali duas pequenas moedas; e disse: Em verdade vos digo que lançou mais do que todos esta pobre viúva; porque todos aqueles deitaram para as ofertas de Deus do que lhes sobeja; mas esta, da sua pobreza, deitou todo o sustento que tinha." Este versículo destaca a importância do sacrifício pessoal em nossas ofertas para Deus, independentemente do tamanho da contribuição.
+* Mateus 6:33: "Mas buscai primeiro o seu reino e a sua justiça, e todas estas coisas vos serão acrescentadas." Este versículo destaca a importância de colocar as coisas de Deus em primeiro lugar em nossas vidas e confiar que Ele suprirá todas as nossas necessidades.
+****
+
+[[v14-31-1]]
+
+^<<v14-31-1,1>>^ Feitas estas coisas segundo o rito, todos os Israelitas, que se encontravam nas cidades de Judá, saíram e despedaçaram os ídolos, talaram os ascheras, demoliram os lugares altos e destruíram os altares, não só em toda a terra de Judá e de Benjamim, mas também na de Efraim e de Manassés. Foi uma destruição total. Depois voltaram todos os filhos de Israel para as suas terras, para as suas cidades.
+
+[[v14-31-2]]
+
+^<<v14-31-2,2>>^ Ezequias restabeleceu as classes dos sacerdotes e Levitas, segundo as suas divisões, cada um no seu próprio ofício, tanto dos sacerdotes como dos Levitas, para os holocaustos e hóstias pacíficas, para servirem, para louvarem a Deus e cantarem às portas do acampamento (ou átrio dos sacerdotes da casa) do Senhor.
+
+[[v14-31-3]]
+
+^<<v14-31-3,3>>^ O rei contribuía da sua própria fazenda para que se oferecesse o holocausto perpétuo da manhã e da tarde, dos sábados, neoménias e outras solenidades, como está escrito na lei de Moisés.
+
+[[v14-31-4]]
+
+^<<v14-31-4,4>>^ Mandou também ao povo que morava em Jerusalém que desse aos sacerdotes e aos Levitas as suas porções, para estes se poderem aplicar ao cumprimento a lei do Senhor.
+
+[[v14-31-5]]
+
+^<<v14-31-5,5>>^ Tendo chegado isto aos ouvidos do povo, os filhos de Israel ofereceram muitas primícias de trigo, de vinho, de azeite e de mel; ofereceram o dízimo de tudo o que a terra produz.
+
+[[v14-31-6]]
+
+^<<v14-31-6,6>>^ Os filhos de Israel e de Judá, que moravam nas cidades de Judá, ofereceram também o dízimo dos bois e das ovelhas, e o dízimo das coisas santificadas, que tinham prometido por voto ao Senhor seu Deus. Levando tudo, fizeram grandes montões.
+
+[[v14-31-7]]
+
+^<<v14-31-7,7>>^ Começaram a formar estes montões no terceiro mês e acabaram-nos no sétimo mês.
+
+[[v14-31-8]]
+
+^<<v14-31-8,8>>^ Tendo entrado Ezequias e os seus príncipes, viram os montões e louvaram o Senhor e o povo de Israel.
+
+[[v14-31-9]]
+
+^<<v14-31-9,9>>^ Ezequias perguntou aos sacerdotes e aos Levitas por que estavam ali por terra aqueles montões.
+
+[[v14-31-10]]
+
+^<<v14-31-10,10>>^ O sumo sacerdote Azarias, da linhagem de Sadoc, respondeu-lhe: Desde que começaram a oferecer primícias na casa do Senhor, temos comido e nos temos saciado, e tem sobejado muito, porque o Senhor abençoou o seu povo. Esta abundância que vês é das sobras.
+
+[[v14-31-11]]
+
+^<<v14-31-11,11>>^ Mandou, então, Ezequias que se preparassem celeiros na casa do Senhor. Tendo-se feito isto,
+
+[[v14-31-12]]
+
+^<<v14-31-12,12>>^ recolheram dentro, fielmente, tanto as primícias como os dízimos, e tudo o que tinham oferecido por voto. Foi constituído superintendente disto o Levita Conenias, e Semei, seu irmão, em segundo lugar;
+
+[[v14-31-13]]
+
+^<<v14-31-13,13>>^ depois deste, (estavam) Jaiel, Azarias, Naat, Asael, Jerimot, Jozabad, Eliel, Jesmaquias, Maat e Banaias, que foram subordinados a Conenias e a Semei, seu irmão, por ordem do rei Ezequias e de Azarias, pontífice da casa de Deus.
+
+[[v14-31-14]]
+
+^<<v14-31-14,14>>^ Coré, filho de Jena Levita, que era guarda da porta oriental, estava encarregado dos dons que voluntariamente se ofereciam ao Senhor, e das primícias e das coisas consagradas ao Santo dos Santos.
+
+[[v14-31-15]]
+
+^<<v14-31-15,15>>^ Sob a sua direção estavam Eden, Benjamim, Jesué, Semeias, Amarias e Sequenias, nas cidades dos sacerdotes, para distribuírem fielmente aos seus irmãos as porções, tanto a pequenos como a grandes,
+
+[[v14-31-16]]
+
+^<<v14-31-16,16>>^ excepto aos varões inscritos de três anos para cima, a todos que entravam no templo do Senhor; faziam a distribuição de tudo aquilo que era necessário diàriamente para todos os ministérios e ofícios, segundo as suas classes.
+
+[[v14-31-17]]
+
+^<<v14-31-17,17>>^ Aos sacerdotes por famílias, e aos Levitas de vinte anos para cima, pelas suas classes e turmas,
+
+[[v14-31-18]]
+
+^<<v14-31-18,18>>^ a toda essa multidão, tanto às mulheres, como a seus filhos, dum e outro sexo, se davam fielmente alimentos daquelas coisas que tinham sido oferecidas.
+
+[[v14-31-19]]
+
+^<<v14-31-19,19>>^ Quanto aos sacerdotes, filhos de Aarão, que viviam pelos campos e pelos arrabaldes de cada cidade, havia homens, nominalmente designados, em cada localidade, que estavam encarregados de distribuir as porções a todos os varões da estirpe sacerdotal e levítica.
+
+[[v14-31-20]]
+
+^<<v14-31-20,20>>^ Ezequias fez tudo o que temos dito em todo o reino da Judá; fez o que era bom, recto e verdadeiro na presença do Senhor seu Deus.
+
+[[v14-31-21]]
+
+^<<v14-31-21,21>>^ Em tudo o que dizia respeito ao serviço da casa do Senhor, à lei e aos mandamentos, agiu sempre desejoso de buscar o seu Deus de todo o seu coração; assim o fez, e foi bem sucedido.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-030.adoc#v14-30-0[&#60; Capítulo Anterior] | <<v14-31-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-032.adoc#v14-32-0[Próximo Capítulo &#62;]

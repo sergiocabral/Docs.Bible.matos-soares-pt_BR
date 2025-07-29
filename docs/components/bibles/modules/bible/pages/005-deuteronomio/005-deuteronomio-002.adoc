@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v5-2-0]]
+=== Deuteronômio, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 2 narra a jornada dos israelitas pelo deserto e seu encontro com outras nações, incluindo os edomitas e moabitas. O capítulo destaca a importância de respeitar a terra e os povos que eles encontram no caminho para a terra prometida. Abaixo estão cinco versículos relacionados com os temas abordados em Deuteronômio 2:
+* Deuteronômio 2:4 - "Dai-lhe, pois, guerra; combate-o." Este versículo é uma instrução de Deus para os israelitas lutarem contra o povo de Seom, o rei dos amorreus. Ele mostra que, embora os israelitas estivessem em uma jornada para a terra prometida, eles ainda teriam que lutar por ela.
+* Deuteronômio 2:19 - "E não contendeste com eles, nem com Moabe; não os combateste, nem houve peleja." Moisés lembra os israelitas de que eles não devem lutar contra os moabitas, pois Deus lhes deu aquela terra como herança. Isso destaca a importância de respeitar a terra e os povos que não são inimigos.
+* Deuteronômio 2:25 - "Desde hoje começarei a pôr o terror e o medo de ti sobre os povos debaixo de todo o céu, os quais ouvirem a tua fama e tremerem diante de ti." Deus prometeu aos israelitas que colocaria o medo nos corações dos povos que eles encontrassem no caminho para a terra prometida. Isso mostra que a vitória dos israelitas não dependia apenas de suas habilidades militares, mas da intervenção divina.
+* Deuteronômio 2:30 - "E Seom, rei de Hesbom, não quis que passássemos pela sua terra; porque o Senhor teu Deus endureceu o seu espírito, e tornou obstinado o seu coração, para to entregar na tua mão, como hoje se vê." Este versículo destaca a crença de que Deus estava controlando o destino dos israelitas e que seus inimigos estavam sendo entregues em suas mãos por vontade divina.
+* Deuteronômio 2:37 - "Tão-somente às terras dos filhos de Amom não chegaste, nem a toda a ribeira do ribeiro Jaboque, nem às cidades na montanha, nem a lugar algum que o Senhor nosso Deus proibiu." Esse versículo lembra os israelitas de que não deveriam lutar contra os filhos de Amom, pois Deus não lhes deu essa terra. Isso destaca a importância de respeitar os limites definidos por Deus e não buscar mais do que lhes foi prometido.
+****
+
+[[v5-2-1]]
+
+^<<v5-2-1,1>>^ Partindo dali, fomos ao deserto, que leva ao mar Vermelho, como o Senhor me tinha dito, e andámos muito tempo à roda do monte Seir.
+
+[[v5-2-2]]
+
+^<<v5-2-2,2>>^ O Senhor disse-me:
+
+[[v5-2-3]]
+
+^<<v5-2-3,3>>^ Já basta o muito que andastes à roda deste monte: ide para o setentrião.
+
+[[v5-2-4]]
+
+^<<v5-2-4,4>>^ Dá esta ordem ao povo: Vós passareis pelos confins dos vossos irmãos, filhos de Esaú, que habitam em Seir, e eles terão medo de vós.
+
+[[v5-2-5]]
+
+^<<v5-2-5,5>>^ Abstende-vos, porém, de os atacar, porque eu não vos datei da terra deles nem quanto pode calcar a planta dum pé, visto eu ter dado a posse do monte Seir a Esaú.
+
+[[v5-2-6]]
+
+^<<v5-2-6,6>>^ Comprar-lhes-eis por dinheiro o alimento que comerdes, e também lhes comprareis a água que tirardes, e que beberdes.
+
+[[v5-2-7]]
+
+^<<v5-2-7,7>>^ O Senhor teu Deus abençoou-te em todas as obras das tuas mãos, ele cuidou da tua viagem, enquanto, caminhaste por este grande deserto. Durante quarenta anos habitou contigo, e não te faltou nada.
+
+[[v5-2-8]]
+
+^<<v5-2-8,8>>^ Depois que passamos as terras dos nossos irmãos, filhos de Esaú, que habitavam em Sier, pelo caminho da planície de Elath e d'e Asiongaber, chegámos ao caminho que conduz ao deserto de Moab.
+
+[[v5-2-9]]
+
+^<<v5-2-9,9>>^ Então o Senhor disse-me: Não pelejes contra os Moabitas, e não lhes faças guerra, porque eu não te darei nada da sua terra, visto que dei Ar em possessão aos filhos de Lote.
+
+[[v5-2-10]]
+
+^<<v5-2-10,10>>^ Os Emirs foram os seus primeiros habitantes, povo grande e forte e de tal estatura que se tinham por gigantes, da linhagem dos Enacins.
+
+[[v5-2-11]]
+
+^<<v5-2-11,11>>^ Eram consideradas refaitas, como os Enacins, mas os Moabitas chamam-nos Emins.
+
+[[v5-2-12]]
+
+^<<v5-2-12,12>>^ Em Seir habitaram primeiro os Horreus, mas, expulsos e destruídos estes, habitaram ali os filhos de Esaú, como fez o povo de Israel na terra da sua possessão, que o Senhor lhe deu.
+
+[[v5-2-13]]
+
+^<<v5-2-13,13>>^ Levantando-nos, então, para passar a torrente de Zared, chegámos a ela.
+
+[[v5-2-14]]
+
+^<<v5-2-14,14>>^ Ora o tempo em que caminhamos, desde Caldesbarne até à passagem da torrente de Zared, foi de trinta e oito anos. Entretanto extinguiu-se do campo toda a geração dos homens combatentes, como o Senhor tinha jurado.
+
+[[v5-2-15]]
+
+^<<v5-2-15,15>>^ A mão do Senhor foi contra eles, para os fazer perecer do meio do campo.
+
+[[v5-2-16]]
+
+^<<v5-2-16,16>>^ Depois que todos estes combatentes morreram,
+
+[[v5-2-17]]
+
+^<<v5-2-17,17>>^ o Senhor falou, dizendo:
+
+[[v5-2-18]]
+
+^<<v5-2-18,18>>^ Passarás hoje os confins de Moab, a cidade de Ar;
+
+[[v5-2-19]]
+
+^<<v5-2-19,19>>^ chegando às vizinhanças dos filhos de Amon, abstém-te de combater contra eles, nem lhes faças guerra, porque eu não te darei nada da terra dos filhos de Amon, porque a dei em possessão aos filhos de Lote.
+
+[[v5-2-20]]
+
+^<<v5-2-20,20>>^ Este país foi reputado o pais dos gigantes; nele, em outro tempo, habitaram os gigantes, que os Amonitas chamam Zomzomins,
+
+[[v5-2-21]]
+
+^<<v5-2-21,21>>^ povo grande e numeroso da mesma estatura que os Enacins. O Senhor os exterminou, diante dos Amonitas, e fez habitar estes em lugar daqueles.
+
+[[v5-2-22]]
+
+^<<v5-2-22,22>>^ O Senhor fez o mesmo pelos filhos de Esaú, que habitam, em Seir, exterminando os Horreus, e dando àqueles o pais destes, o qual possuem até ao presente.
+
+[[v5-2-23]]
+
+^<<v5-2-23,23>>^ Da mesma sorte os Heveus, que habitavam desde Haserim até Gaza, foram expulsos pelos Caftorins, os quais, tendo saído Caftor, os destruíram, e se estabeleceram no seu lugar.
+
+[[v5-2-24]]
+
+^<<v5-2-24,24>>^ Levantai-vos e passai a torrente do Amon. Entrego nas tuas mãos a Seon, rei de Heseblon, Amorreu, com a sua terra: Peleja contra ele.
+
+[[v5-2-25]]
+
+^<<v5-2-25,25>>^ Hoje começarei a meter o terror e o medo das tuas almas aos povos, que habitam debaixo de todo o céu, para que, ao ouvir o teu nome, tremam e sintam angústia, por causa de ti.
+
+[[v5-2-26]]
+
+^<<v5-2-26,26>>^ Então enviei do deserto de Cademot embaixadores a Seon, rei de Hesebon, com palavras de paz, dizendo:
+
+[[v5-2-27]]
+
+^<<v5-2-27,27>>^ Passaremos pela tua terra, iremos pela estrada real, não declinaremos nem para a direita, nem para a esquerda,
+
+[[v5-2-28]]
+
+^<<v5-2-28,28>>^ Vende-nos a preço os víveres para comermos; faze-nos pagar a água, e assim beberemos. Permite-nos somente a passagem,
+
+[[v5-2-29]]
+
+^<<v5-2-29,29>>^ (como fizeram os filhos de Esaú, que habitam em Seir, e os Moabitas, que habitam em Ar), até que cheguemos ao Jordão, e passemos à terra, que o Senhor nosso Deus está para nos dar.
+
+[[v5-2-30]]
+
+^<<v5-2-30,30>>^ Porém Seon, rei de Hesebon, não nos quis dar passagem, porque o Senhor teu Deus lhe tinha endurecido o espírito e empedernido o coração, para ele te ser entregue às mãos, como agora vês.
+
+[[v5-2-31]]
+
+^<<v5-2-31,31>>^ O Senhor disse-me: Comecei a entregar-te Seon e o seu país. Empreende a conquista pata dominares esta região.
+
+[[v5-2-32]]
+
+^<<v5-2-32,32>>^ Seon saiu ao nosso encontro com todo o seu povo, para nos dar batalha em Jasa.
+
+[[v5-2-33]]
+
+^<<v5-2-33,33>>^ O Senhor nosso Deus no-lo entregou, e nós o derrotámos com seus filhos e com todo o Seu povo.
+
+[[v5-2-34]]
+
+^<<v5-2-34,34>>^ Naquele tempo tomámos-lhe todas as suas cidades, mortos os seus habitantes, homens e mulheres e meninos, e nelas não deixámos nada.
+
+[[v5-2-35]]
+
+^<<v5-2-35,35>>^ excepto os animais, que tocaram aos saqueadores, e os despojos das cidades, que tomámos.
+
+[[v5-2-36]]
+
+^<<v5-2-36,36>>^ Desde Aroer, que está sobre a margem da torrente do Arnon, cidade situada no vale, até Galaad, não houve aldeia nem cidade, que escapasse às nossas mãos: todas no-Ias entregou o Senhor nosso Deus,
+
+[[v5-2-37]]
+
+^<<v5-2-37,37>>^ excepto a terra dos filhos de Amon, a que não chegamos, e todas as regiões adjacentes à torrente de Jeboc, e as cidades das montanhas, e todos os lugares, que o Senhor nosso Deus nos proibiu (que tomássemos).
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-001.adoc#v5-1-0[&#60; Capítulo Anterior] | <<v5-2-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-003.adoc#v5-3-0[Próximo Capítulo &#62;]

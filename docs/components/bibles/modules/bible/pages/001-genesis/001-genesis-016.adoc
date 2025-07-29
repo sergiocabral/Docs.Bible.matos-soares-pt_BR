@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v1-16-0]]
+=== Gênesis, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 16 trata da história de Sarai, esposa de Abrão, que não conseguia engravidar e resolveu oferecer sua serva egípcia, Hagar, para ter um filho em seu lugar. Hagar engravidou de Abrão, mas depois acabou sendo maltratada por Sarai e fugiu para o deserto. O capítulo aborda temas como a impaciência, a falta de confiança em Deus e as consequências das escolhas impulsivas. Abaixo seguem cinco versículos relacionados com esses temas, em ordem de proximidade com o capítulo:
+* Salmos 37:7: "Descanse no Senhor e aguarde por ele com paciência; não se aborreça com o sucesso dos outros, nem com aqueles que maquinam o mal." Este versículo fala sobre a importância da paciência e confiança em Deus, em vez de ficar frustrado com a prosperidade dos outros ou tentar resolver as coisas por conta própria.
+* Provérbios 14:29: "Quem é paciente tem grande entendimento, mas quem é impulsivo mostra insensatez." Esse versículo destaca a sabedoria da paciência em contraste com a insensatez das escolhas impulsivas, como as que Sarai fez ao oferecer Hagar para Abrão.
+* 1 Pedro 5:7: "Lancem sobre ele toda a sua ansiedade, porque ele cuida de vocês." Este versículo encoraja os cristãos a confiarem em Deus e entregarem suas preocupações a ele, em vez de tentar lidar com elas sozinhos, como Sarai fez ao tomar a decisão de oferecer Hagar a Abrão.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo fala sobre a importância de confiar em Deus e reconhecê-lo em todas as áreas da vida, em vez de depender apenas do próprio entendimento, como Sarai fez ao tentar resolver o problema da infertilidade com sua própria solução.
+* Isaías 40:31: "Mas aqueles que esperam no Senhor renovam suas forças. Voam alto como águias; correm e não ficam exaustos, andam e não se cansam." Este versículo fala sobre a força que vem de confiar em Deus e esperar nele, em vez de se apressar e tentar resolver as coisas por conta própria, como Sarai fez ao oferecer Hagar para Abrão.
+****
+
+[[v1-16-1]]
+
+^<<v1-16-1,1>>^ Ora Sarai, mulher de Abrão, não tinha gerado filhos; mas, tendo uma escrava egípcia, chamada Agar,
+
+[[v1-16-2]]
+
+^<<v1-16-2,2>>^ disse a seu marido: eis que o Senhor me fez estéril, para que não de à luz; toma, pois, a minha escrava, a ver se, ao menos por ela, posso ter filhos. Como Abrão anuísse aos seus rogos, (Sarai)
+
+[[v1-16-3]]
+
+^<<v1-16-3,3>>^ tomou Agar egípcia, sua escrava, passados dez anos desde que tinham começado a habitar na terra de Canaan, e deu-a por mulher a seu marido.
+
+[[v1-16-4]]
+
+^<<v1-16-4,4>>^ E ele aproximou-se dela, que concebeu; ela, vendo que tinha concebido, desprezou sua Senhora.
+
+[[v1-16-5]]
+
+^<<v1-16-5,5>>^ Sarai disse a Abrão: tu tratas-me dum modo injusto: eu dei-te a minha escrava para tua mulher, e ela, vendo que concebeu, despreza-me: o Senhor seja juiz entre mim e ti.
+
+[[v1-16-6]]
+
+^<<v1-16-6,6>>^ Abrão respondeu-lhe: eis que a tua escrava está em teu poder, usa dela como te aprouver. Então Sarai a maltratou e Agar fugiu.
+
+[[v1-16-7]]
+
+^<<v1-16-7,7>>^ Tendo-a o anjo do Senhor achado no deserto junto da fonte, que está no caminho de Sur no deserto,
+
+[[v1-16-8]]
+
+^<<v1-16-8,8>>^ disse-lhe: Agar, escrava de Sarai, donde vens e para onde vais? Ela respondeu: fujo da face de Sarai, minha senhora.
+
+[[v1-16-9]]
+
+^<<v1-16-9,9>>^ E o anjo do Senhor disse-lhe: volta pata a tua senhora, e humilha-te debaixo da sua mão.
+
+[[v1-16-10]]
+
+^<<v1-16-10,10>>^ E acrescentou: multiplicarei extraordinariamente a tua descendência e a farei tão numerosa que se não poderá contar.
+
+[[v1-16-11]]
+
+^<<v1-16-11,11>>^ Disse ainda mais: eis que concebeste, darás à luz um filho e lhe porás o nome de Ismael, parque o Senhor te ouviu na tua aflição.
+
+[[v1-16-12]]
+
+^<<v1-16-12,12>>^ Este será como um cavalo selvagem: a sua mão (se levantará) contra todos, e as mãos de todos (se levantarão) contra ele; levantará as suas tendas defronte de todos os seus irmãos.
+
+[[v1-16-13]]
+
+^<<v1-16-13,13>>^ Então (Agar) invocou o nome do Senhor que lhe falava, chamando-lhe Atta-El-Roi porque, dizia ela, não vi eu, aqui mesmo, o Deus que me via?
+
+[[v1-16-14]]
+
+^<<v1-16-14,14>>^ Por esta razão chamou ela àquele poço o Poço Lachai-Roi, o qual fica situado entre Cades e Barad.
+
+[[v1-16-15]]
+
+^<<v1-16-15,15>>^ Agar deu à luz um filho a Abrão, o qual lhe pôs o nome de Ismael
+
+[[v1-16-16]]
+
+^<<v1-16-16,16>>^ Tinha Abrão oitenta e seis anos, quando Agar lhe deu à luz Ismael.
+
+'''
+
+xref:001-genesis/001-genesis-015.adoc#v1-15-0[&#60; Capítulo Anterior] | <<v1-16-0,Topo>> | xref:001-genesis/001-genesis-017.adoc#v1-17-0[Próximo Capítulo &#62;]

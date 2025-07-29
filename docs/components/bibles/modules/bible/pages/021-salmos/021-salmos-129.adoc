@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-129-0]]
+=== Salmos, 129
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 129 é um salmo de súplica por livramento do sofrimento. Nele, o salmista clama a Deus por justiça e libertação das mãos dos seus inimigos. Os versículos relacionados com os temas abordados nesse salmo são:
+* Isaías 54:17: "Nenhuma arma forjada contra ti prosperará; e toda língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos do Senhor, e a sua justiça que provém de mim, diz o Senhor." Esse versículo fala da proteção que Deus concede aos seus servos e da sua justiça, que é a base para o clamor do salmista por livramento.
+* Salmo 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Esse versículo mostra que, embora os justos passem por muitas aflições, Deus os livra de todas elas.
+* Romanos 8:37: "Mas em todas estas coisas somos mais que vencedores, por aquele que nos amou." Esse versículo mostra que, por meio do amor de Deus, somos mais que vencedores em todas as nossas lutas.
+* Salmo 124:8: "O nosso socorro está no nome do Senhor, que fez o céu e a terra." Esse versículo mostra que o salmista confia no Senhor como seu socorro e protetor.
+* Salmo 86:7: "No dia da minha angústia clamarei a ti, pois tu me responderás." Esse versículo mostra a confiança do salmista de que Deus o ouvirá e responderá no dia da sua angústia.
+****
+
+[[v21-129-1]]
+
+^<<v21-129-1,1>>^ Cântico das subidas. Desde o mais profundo clamo a ti, Senhor;
+
+[[v21-129-2]]
+
+^<<v21-129-2,2>>^ Senhor, ouve a minha voz! Estejam atentos os teus ouvidos à voz da minha súplica.
+
+[[v21-129-3]]
+
+^<<v21-129-3,3>>^ Se conservares a lembrança dos delitos, ó Senhor, quem, Senhor, poderá subsistir (em tua presença)?
+
+[[v21-129-4]]
+
+^<<v21-129-4,4>>^ Porém junto de ti está o perdão dos pecados, para que com reverência sejas servido.
+
+[[v21-129-5]]
+
+^<<v21-129-5,5>>^ Espero no Senhor, na sua palavra espera a minha alma; à espera do Senhor está
+
+[[v21-129-6]]
+
+^<<v21-129-6,6>>^ a minha alma, mais do que a sentinela (à espera) da aurora. Mais do que a sentinela (à espera) da aurora,
+
+[[v21-129-7]]
+
+^<<v21-129-7,7>>^ Israel está à espera do Senhor, porque no Senhor está a misericórdia, e nele é abundante a redenção:
+
+[[v21-129-8]]
+
+^<<v21-129-8,8>>^ ele mesmo redimirá Israel de todas as suas iniquidades.
+
+'''
+
+xref:021-salmos/021-salmos-128.adoc#v21-128-0[&#60; Capítulo Anterior] | <<v21-129-0,Topo>> | xref:021-salmos/021-salmos-130.adoc#v21-130-0[Próximo Capítulo &#62;]

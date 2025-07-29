@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v30-5-0]]
+=== Jeremias, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 5 é um capítulo em que o profeta Jeremias acusa o povo de Judá de ser infiel a Deus e desobedecer seus mandamentos, resultando em punição divina. O capítulo fala sobre a falta de justiça e honestidade, o orgulho e a arrogância do povo, a corrupção e a idolatria. Abaixo estão cinco versículos relacionados com esses temas:
+* Provérbios 10:9: "Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido." O versículo fala sobre a importância da honestidade e da integridade, algo que o povo de Judá estava negligenciando.
+* Miquéias 6:8: "Ele te declarou, ó homem, o que é bom e o que o Senhor requer de ti: que pratiques a justiça, e ames a misericórdia, e andes humildemente com o teu Deus." Este versículo enfatiza a importância da justiça e da humildade diante de Deus, algo que o povo de Judá estava ignorando.
+* Jeremias 7:5-6: "Mas se deveras melhorardes os vossos caminhos e as vossas obras; se deveras praticardes a justiça entre o homem e o seu próximo, se não oprimirdes o estrangeiro, e nem ao órfão, nem à viúva, nem derramardes sangue inocente neste lugar, nem andardes após outros deuses para vosso próprio mal, então vos farei habitar neste lugar, na terra que dei a vós e a vossos pais para sempre." Este versículo destaca a importância da justiça social, da compaixão e da adoração exclusiva a Deus.
+* Jeremias 6:13-14: "Porque desde o menor deles até ao maior, cada um se dá à avareza; e desde o profeta até ao sacerdote, cada um pratica a falsidade. E curam a ferida do meu povo levianamente, dizendo: Paz, paz; quando não há paz." Este versículo denuncia a corrupção tanto dos líderes religiosos quanto do povo em geral.
+* Jeremias 2:11: "Porventura trocou alguma nação os seus deuses, ainda que não eram deuses? Mas o meu povo trocou a sua Glória por aquilo que é de nenhum proveito." Este versículo destaca a idolatria do povo de Judá, que abandonou o verdadeiro Deus para adorar ídolos sem valor.
+****
+
+[[v30-5-1]]
+
+^<<v30-5-1,1>>^ Percorrei as ruas de Jerusalém, olhai e informai-vos, procurai nas suas praças a ver se achais um só homem que faça justiça, busque a verdade, e eu perdoarei à cidade.
+
+[[v30-5-2]]
+
+^<<v30-5-2,2>>^ Mesmo quando dizem: Viva o Senhor - ainda assim juram falso.
+
+[[v30-5-3]]
+
+^<<v30-5-3,3>>^ Os teus olhos, ó Senhor, não buscam a fidelidade? Tu os feriste, e eles não o sentiram; moeste-os a golpes, e eles recusaram aceitar a correção: endureceram as suas frontes mais que uma pedra, e não quiseram voltar (a ti).
+
+[[v30-5-4]]
+
+^<<v30-5-4,4>>^ Então eu disse: Talvez sejam sòmente os da classe baixa que ignoram o caminho do Senhor, a lei do seu Deus.
+
+[[v30-5-5]]
+
+^<<v30-5-5,5>>^ Irei pois ter com os grandes e falar-lhes-ei, porque estes conhecem o caminho do Senhor, a lei do seu Deus. Vi porém que estes, ainda mais que os outros, quebraram à uma o jugo (do Senhor), romperam os laços (da lei divina).
+
+[[v30-5-6]]
+
+^<<v30-5-6,6>>^ Por isso o leão do bosque os fere; o lobo do deserto à noite os assalta, o leopardo anda vigilante sobre as suas cidades: todo aquele que sair, será despedaçado, porque se multiplicaram as suas prevaricações, se acumularam as suas apostasias.
+
+[[v30-5-7]]
+
+^<<v30-5-7,7>>^ Por que título poderei eu ser-te propício (ó povo rebelde)? Teus filhos abandonaram-me, e juram por aqueles que não são deuses; cumulei-os de bens, e eles adulteraram, entregaram-se às suas paixões em casa da meretriz.
+
+[[v30-5-8]]
+
+^<<v30-5-8,8>>^ Tornaram-se como cavalos de lançamento; quando estão no maior ardor; cada um relincha junto da mulher do seu próximo.
+
+[[v30-5-9]]
+
+^<<v30-5-9,9>>^ Pois não hei-de eu castigar estas coisas, diz o Senhor, e não me hei-de vingar duma tal gente?
+
+[[v30-5-10]]
+
+^<<v30-5-10,10>>^ Escalai os seus muros (ó povos da Caldeia) e destruí, mas não completamente; arrancai-lhe (à minha vinha) os sarmentos, porque não são do Senhor.
+
+[[v30-5-11]]
+
+^<<v30-5-11,11>>^ Têm prevaricado gravemente contra mim a casa de Israel e a casa de Judá diz o Senhor.
+
+[[v30-5-12]]
+
+^<<v30-5-12,12>>^ Negaram o Senhor e disseram: Não é ele (o verdadeiro Deus), nem virá mal sobre nós; não veremos a espada nem a fome (como vaticinaram os profetas).
+
+[[v30-5-13]]
+
+^<<v30-5-13,13>>^ Os profetas são apenas vento, e ninguém fala através deles. Estas coisas, pois, virão sobre eles (e não sobre nós).
+
+[[v30-5-14]]
+
+^<<v30-5-14,14>>^ Isto diz o Senhor Deus dos exércitos: Porque haveis proferido tais palavras, eu farei (ó Jeremias) com que as minhas palavras sejam fogo na tua boca, e que este povo seja lenha que tal fogo devorará.
+
+[[v30-5-15]]
+
+^<<v30-5-15,15>>^ Eis que eu farei vir sobre vós uma gente de longe, ó casa de Israel, diz o Senhor; uma gente robusta, uma gente antiga, uma gente cuja língua não conheces que não entendes a que diz.
+
+[[v30-5-16]]
+
+^<<v30-5-16,16>>^ A sua aljava é como um sepulcro aberto, todos eles são fortes (soldados).
+
+[[v30-5-17]]
+
+^<<v30-5-17,17>>^ Essa gente comerá as tuas searas e o teu pão; devorará os teus filhos e as tuas filhas; nutrir-se-á dos teus rebanhos e dos teus gados; devorará a tua vinha e a tua figueira, destruirá as tuas cidades fortificadas, nas quais tens posta a confiança.
+
+[[v30-5-18]]
+
+^<<v30-5-18,18>>^ Contudo, mesmo nesses dias, diz o Senhor, não acabarei de todo convosco.
+
+[[v30-5-19]]
+
+^<<v30-5-19,19>>^ Se disserdes: Por que nos fez o Senhor nosso Deus todas estas coisas? - responder-lhes-ás: Assim como me abandonastes e servistes a um deus estranho na vossa terra, assim servireis (agora) os estrangeiros em terra não vossa.
+
+[[v30-5-20]]
+
+^<<v30-5-20,20>>^ Anunciai isto à casa de Jacob, fazei-o ouvir em Judá, dizendo:
+
+[[v30-5-21]]
+
+^<<v30-5-21,21>>^ Ouve, povo insensato, que não tens coração! Vós, que tendes olhos e não vedes, que tendes seus ouvidos e não ouvis,
+
+[[v30-5-22]]
+
+^<<v30-5-22,22>>^ não me temereis a mim, diz o Senhor, não estremecereis diante de mim que pus a areia por limite do mar fronteira eterna que não atravessará? Levantar-se-ão as suas ondas, mas não poderão (ir mais adiante); rugirão, mas não a ultrapassarão. (ver nota)
+
+[[v30-5-23]]
+
+^<<v30-5-23,23>>^ Porém o coração deste povo tornou-se obstinado e rebelde; apartaram-se (de mim) e foram (atrás dos ídolos). (ver nota)
+
+[[v30-5-24]]
+
+^<<v30-5-24,24>>^ Não disseram no seu coração: Temamos o Senhor nosso Deus, que nos dá a seu tempo a chuva temporã e serôdia, e que nos assegura as semanas destinadas à colheita.
+
+[[v30-5-25]]
+
+^<<v30-5-25,25>>^ As vossas iniquidades transtornaram esta ordem, os vossos pecados apartaram de vós o bem.
+
+[[v30-5-26]]
+
+^<<v30-5-26,26>>^ Com efeito no meu povo acham-se ímpios, que lançam armadilhas, como os caçadores de aves, pondo laços e redes para apanhar os homens.
+
+[[v30-5-27]]
+
+^<<v30-5-27,27>>^ Como gaiola cheia de aves, assim são as suas casas de rapinas; por isso se engrandecem e enriquecem,
+
+[[v30-5-28]]
+
+^<<v30-5-28,28>>^ engordam e se tornam nédios. Ultrapassam mesmo os limites do mal. Não defendem o direito, o direito do órfão, e (assim) prosperam; não fazem justiça aos pobres.
+
+[[v30-5-29]]
+
+^<<v30-5-29,29>>^ Porventura não hei-de punir estes excessos, diz o Senhor, não me hei-de vingar duma tal gente?
+
+[[v30-5-30]]
+
+^<<v30-5-30,30>>^ Coisas horrendas, abomináveis, se têm feito nesta terra:
+
+[[v30-5-31]]
+
+^<<v30-5-31,31>>^ Os profetas profetizam mentiras, os sacerdotes governam de acordo com eles, e o meu povo gosta destas coisas. Que fareis, quando chegar o fim de tudo isto?
+
+'''
+
+xref:030-jeremias/030-jeremias-004.adoc#v30-4-0[&#60; Capítulo Anterior] | <<v30-5-0,Topo>> | xref:030-jeremias/030-jeremias-006.adoc#v30-6-0[Próximo Capítulo &#62;]

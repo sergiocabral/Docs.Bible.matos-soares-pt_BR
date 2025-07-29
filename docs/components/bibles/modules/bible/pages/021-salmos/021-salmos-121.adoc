@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-121-0]]
+=== Salmos, 121
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 121 é um cântico de confiança em Deus, que é apresentado como o protetor do seu povo. O salmista busca força e proteção em Deus, e reconhece que somente ele é capaz de oferecer segurança e ajuda em momentos difíceis. A seguir, estão cinco versículos relacionados com os temas abordados no Salmo 121:
+* Salmos 46:1: "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade." Este versículo enfatiza que Deus é um lugar seguro onde podemos buscar refúgio e proteção em meio às dificuldades.
+* Salmos 91:2: "Digo do Senhor: Ele é o meu refúgio e a minha fortaleza, o meu Deus, em quem confio." Aqui, o salmista reconhece que Deus é a sua fonte de força e segurança, e confia nele como o seu protetor.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo reforça a ideia de que Deus é o nosso ajudador e sustentador, e que podemos confiar nele em todas as circunstâncias.
+* Provérbios 18:10: "O nome do Senhor é torre forte; o justo foge para ela e está seguro." Aqui, o nome de Deus é comparado a uma torre forte, onde podemos encontrar segurança e proteção.
+* Filipenses 4:6-7: "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças; e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus." Este versículo destaca a importância de confiarmos em Deus em todas as situações, e de buscarmos a sua ajuda e paz através da oração.
+****
+
+[[v21-121-1]]
+
+^<<v21-121-1,1>>^ Cântico das subidas. De Davide. Eu me alegrei, porque me disseram: "Iremos à casa do Senhor." (ver nota)
+
+[[v21-121-2]]
+
+^<<v21-121-2,2>>^ Já os nossos pés param às tuas portas, ó Jerusalém.
+
+[[v21-121-3]]
+
+^<<v21-121-3,3>>^ Jerusalém, que está edificada como uma cidade, toda em si compacta. (ver nota)
+
+[[v21-121-4]]
+
+^<<v21-121-4,4>>^ Lá sobem as tribos, as tribos do Senhor, segundo a lei de Israel, para louvar o nome do Senhor.
+
+[[v21-121-5]]
+
+^<<v21-121-5,5>>^ Lá se estabeleceram as sedes da justiça, as sedes da casa de Davide.
+
+[[v21-121-6]]
+
+^<<v21-121-6,6>>^ Pedi (a Deus) graças de paz para Jerusalém; aqueles que te amam (ó cidade santa) vivam em segurança!
+
+[[v21-121-7]]
+
+^<<v21-121-7,7>>^ Reine a paz dentro dos teus muros, segurança nos teus palácios!
+
+[[v21-121-8]]
+
+^<<v21-121-8,8>>^ Por causa dos meus irmãos e dos meus companheiros; direi: Haja paz em ti!
+
+[[v21-121-9]]
+
+^<<v21-121-9,9>>^ Por amor da casa do Senhor, nosso Deus, pedirei todo o bem para ti.
+
+'''
+
+xref:021-salmos/021-salmos-120.adoc#v21-120-0[&#60; Capítulo Anterior] | <<v21-121-0,Topo>> | xref:021-salmos/021-salmos-122.adoc#v21-122-0[Próximo Capítulo &#62;]

@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v1-14-0]]
+=== Gênesis, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 14 é um capítulo que relata uma batalha entre quatro reis contra cinco reis, e como Abrão resgata seu sobrinho Ló, que havia sido capturado durante a batalha. Aqui estão cinco versículos relacionados com os temas abordados em Gênesis 14:
+* Salmos 144:1: "Bendito seja o Senhor, minha rocha, que treina minhas mãos para a batalha e meus dedos para a guerra." Este versículo fala de como Deus nos prepara para a batalha. Em Gênesis 14, vemos que Abrão se preparou para a batalha e venceu seus inimigos.
+* 2 Timóteo 2:3-4: "Junte-se a mim em sofrer como um bom soldado de Cristo Jesus. Nenhum soldado em serviço se envolve em questões civis, porque quer agradar ao seu superior." Este versículo fala de como os soldados devem se concentrar em servir ao Senhor em vez de se envolver em questões terrenas. Em Gênesis 14, vemos que Abrão estava mais interessado em salvar seu sobrinho do que em se envolver em política.
+* Efésios 6:12: "Porque a nossa luta não é contra o sangue e a carne, mas contra os governantes, contra as autoridades, contra os poderes deste mundo de escuridão, contra as forças espirituais do mal nos lugares celestiais." Este versículo fala de como nossa luta não é apenas física, mas espiritual. Em Gênesis 14, vemos uma batalha física, mas também uma batalha espiritual, com Deus guiando Abrão à vitória.
+* 1 Pedro 5:8: "Sejam sóbrios e vigilantes. O diabo, vosso inimigo, ronda como um leão, procurando alguém para devorar." Este versículo fala de como devemos estar alertas contra os ataques do inimigo. Em Gênesis 14, vemos que Ló foi capturado porque não estava vigilante contra seus inimigos.
+* 2 Coríntios 10:4: "Porque as armas da nossa guerra não são carnais, mas poderosas em Deus para a destruição de fortalezas." Este versículo fala de como nossas armas são espirituais, e como devemos confiar em Deus para nos ajudar na batalha. Em Gênesis 14, vemos que Abrão confiou em Deus para guiá-lo na batalha e garantir sua vitória.
+****
+
+[[v1-14-1]]
+
+^<<v1-14-1,1>>^ Naquele tempo sucedeu que Amrafel, rei de Senaar, e Arioch, rei do Ponto, e Codorlaomor, rei dos Elamitas, e Tadal, rei de Goím,
+
+[[v1-14-2]]
+
+^<<v1-14-2,2>>^ fizeram guerra contra Bara, rei de Sodoma, e contra Bersa, rei de Gomorra, e contra Senaar, rei de Adama, e contra Semeber, rei, de Seboim, e contra o rei de Bala, isto é Segor.
+
+[[v1-14-3]]
+
+^<<v1-14-3,3>>^ Todos estes se juntaram no vale de Sidim, que agora é o mar salgado.
+
+[[v1-14-4]]
+
+^<<v1-14-4,4>>^ (O motivo foi) porque, tendo estado sujeitos doze anos a Codorlaomor, no décimo terceiro ano revoltaram-se.
+
+[[v1-14-5]]
+
+^<<v1-14-5,5>>^ Por isso Codorlaomor foi, no ano décimo quarto, com os reis que se lhe tinham unido, e desbarataram os Refaim em Astaroth-Carnaim, os Zuzim em Ham, os Emim na planície de Cariataim,
+
+[[v1-14-6]]
+
+^<<v1-14-6,6>>^ os Horreus nos montes de Seir, até aos campos de Faran, que está no deserto.
+
+[[v1-14-7]]
+
+^<<v1-14-7,7>>^ E, voltando (estes reis da sua expedição), foram à fonte de Misfath, que é a mesma que Cades, e devastaram todos os países dos Amalecitas e dos Amorreus, que habitavam em Asason-Tamar.
+
+[[v1-14-8]]
+
+^<<v1-14-8,8>>^ Então o rei de Sodoma, o rei de Gomorra, o rei de Adama, o rei de Seboim e também o rei de Bala, isto é Segor, puseram-se em campanha, e ordenaram a batalha no vale de Sidim contra aqueles (príncipes),
+
+[[v1-14-9]]
+
+^<<v1-14-9,9>>^ isto é, contra Codorlaomor, rei dos Elamitas e Tadal, rei de Goim e Anrabel, rei de Senaar, e Arioque, rei de Elasar: quatro reis contra cinco.
+
+[[v1-14-10]]
+
+^<<v1-14-10,10>>^ Ora o vale de Sidim tinha muitos poços de betume. Os reis de Sodoma e de Gomorra voltaram as costas e caíram lá dentro: os que escaparam fugiram para o monte.
+
+[[v1-14-11]]
+
+^<<v1-14-11,11>>^ (Os vencedores) levaram todas as riquezas de Sodoma e Gomorra, e todos os víveres, e retiraram-se;
+
+[[v1-14-12]]
+
+^<<v1-14-12,12>>^ (levaram) também Loth, filho do irmão de Abrão, que morava em Sodoma, e os seus bens.
+
+[[v1-14-13]]
+
+^<<v1-14-13,13>>^ Um dos fugitivos foi dar parte disto a Abrão, Hebreu, que vivia na cadeia de Mambré, Amorreu, irmão de Escol, e irmão de Aner, os quais tinham feito aliança com Abrão.
+
+[[v1-14-14]]
+
+^<<v1-14-14,14>>^ Abrão, tendo ouvido que Loth, seu irmão, ficara prisioneiro, escolheu os mais corajosos dos seus servos, em número de trezentos e dezoito, e foi no alcance dos inimigos até Dan.
+
+[[v1-14-15]]
+
+^<<v1-14-15,15>>^ Aí, repartidos em destacamentos, deu sobre eles, de noite, e desbaratou-os: e persegui-os até Hoba, que fica à esquerda de Damasco.
+
+[[v1-14-16]]
+
+^<<v1-14-16,16>>^ Recobrou todos os Seus bens, e Loth, seu irmão, com tudo o que lhe pertencia, assim como as mulheres e o povo.
+
+[[v1-14-17]]
+
+^<<v1-14-17,17>>^ Quando voltava de derrotar Codorlaomor e os reis Abrão que estavam com ele, saiu-lhe ao encontro o rei de Sodoma, no vale de Save, que é o vale do Rei.
+
+[[v1-14-18]]
+
+^<<v1-14-18,18>>^ E Melquisedech, rei de Salém, trazendo pão e vinho, porque era sacerdote do Deus Altíssimo,
+
+[[v1-14-19]]
+
+^<<v1-14-19,19>>^ o abençoou e lhe disse: bendito esteja Abrão pelo Deus Altíssimo, que criou o céu e a terra,
+
+[[v1-14-20]]
+
+^<<v1-14-20,20>>^ e bendito seja o Deus Altíssimo por cuja proteção os inimigos estão nas tuas mãos. E (Abrão) deu-lhe o dizimo de tudo.
+
+[[v1-14-21]]
+
+^<<v1-14-21,21>>^ O rei de Sodoma disse a Abrão: dá-me os homens, e toma para ti o resto.
+
+[[v1-14-22]]
+
+^<<v1-14-22,22>>^ Abrão respondeu-lhe: levanto a minha mão para o Senhor Deus Altíssimo, possuidor do céu e da terra.
+
+[[v1-14-23]]
+
+^<<v1-14-23,23>>^ (e juro) que não receberei nada de tudo o que te pertence, desde o fio de trama até à correia dos sapatos, para que não digas: eu enriqueci Abrão;
+
+[[v1-14-24]]
+
+^<<v1-14-24,24>>^ há a exceptuar aquilo que estes jovens comeram, e a porção dos homens que vieram comigo, Aner, Escol e Mambré: estes hão-de receber a sua parte.
+
+'''
+
+xref:001-genesis/001-genesis-013.adoc#v1-13-0[&#60; Capítulo Anterior] | <<v1-14-0,Topo>> | xref:001-genesis/001-genesis-015.adoc#v1-15-0[Próximo Capítulo &#62;]

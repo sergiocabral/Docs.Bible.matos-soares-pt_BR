@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v20-22-0]]
+=== Jó, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 22 do livro de Jó, o amigo de Jó, Elifaz, acusa Jó de ter pecado contra Deus e sugere que seus sofrimentos são um castigo divino. Elifaz argumenta que se Jó se arrepender e se voltar para Deus, ele será restaurado e abençoado novamente. No entanto, Jó afirma sua inocência e continua a questionar por que Deus permitiu que ele sofresse tanto. Abaixo estão cinco versículos relacionados aos temas abordados em Jó 22:
+* Salmos 37:25: "Fui moço, e agora sou velho; mas nunca vi desamparado o justo, nem a sua descendência a mendigar o pão." Este versículo sugere que Deus não abandona os justos, contrariando a afirmação de Elifaz de que Jó sofre por causa de seus pecados.
+* Provérbios 11:8: "O justo é livrado da angústia, e o ímpio vem em seu lugar." Este versículo pode ser visto como uma resposta às acusações de Elifaz de que Jó está sofrendo porque pecou.
+* Isaías 55:6-7: "Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar." Elifaz insiste que Jó precisa se arrepender e se voltar para Deus para ser restaurado, e este versículo pode ser visto como uma exortação semelhante.
+* Romanos 8:28: "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados por seu decreto." Este versículo sugere que Deus pode usar até mesmo as coisas ruins para o bem de Seus filhos, o que é um conceito que Jó está lutando para entender.
+* Hebreus 12:6: "Porque o Senhor corrige o que ama, e açoita a qualquer que recebe por filho." Este versículo pode ser visto como uma resposta à afirmação de Elifaz de que Jó está sofrendo porque Deus está punindo seus pecados. Ele sugere que Deus disciplina aqueles a quem Ele ama, o que pode ser um aspecto do sofrimento de Jó.
+****
+
+[[v20-22-1]]
+
+^<<v20-22-1,1>>^ Elifaz de Teman, tomando a palavra, disse:
+
+[[v20-22-2]]
+
+^<<v20-22-2,2>>^ Porventura pode o homem ser útil a Deus? Só a ele aproveita a sua sensatez.
+
+[[v20-22-3]]
+
+^<<v20-22-3,3>>^ De que serve a Deus que tu sejas justo? Que lhe acrescentas, se for imaculado o teu proceder?
+
+[[v20-22-4]]
+
+^<<v20-22-4,4>>^ E’ porventura pela tua piedade que ele te castiga, ou que entra contigo em juízo,
+
+[[v20-22-5]]
+
+^<<v20-22-5,5>>^ e não antes por causa da lua grande malícia, e das tuas inumerávis maldades?
+
+[[v20-22-6]]
+
+^<<v20-22-6,6>>^ Porque tu sem causa tiraste os penhores a teus irmãos, e aos nus despojaste dos seus vestidos.
+
+[[v20-22-7]]
+
+^<<v20-22-7,7>>^ Negaste água ao fatigado, e negaste pão ao faminto.
+
+[[v20-22-8]]
+
+^<<v20-22-8,8>>^ A terra é daquele que tem a mão forte, e quem se faz temer apossa-se dela.
+
+[[v20-22-9]]
+
+^<<v20-22-9,9>>^ Despediste as viúvas _(com as mãos)- vazias, e quebraste os braços dos órfãos.
+
+[[v20-22-10]]
+
+^<<v20-22-10,10>>^ Por isso estás cercado de laços, e um súbito temor te perturba,
+
+[[v20-22-11]]
+
+^<<v20-22-11,11>>^ no meio das trevas, sem (nada) ver, oprimido pela impetuosa inundação das águas.
+
+[[v20-22-12]]
+
+^<<v20-22-12,12>>^ Não ponderas tu que Deus é mais alto que o céu? Vê a fronte das estrelas, em que altura está! (ver nota)
+
+[[v20-22-13]]
+
+^<<v20-22-13,13>>^ E dizes: "Que sabe Deus? Pode ele julgar por entre trevas?
+
+[[v20-22-14]]
+
+^<<v20-22-14,14>>^ As nuvens o cobrem dum véu, e ele não vê; passeia pela abóbada celeste."
+
+[[v20-22-15]]
+
+^<<v20-22-15,15>>^ Porventura queres tu seguir o caminho antigo, que foi seguido pelos homens iníquos?
+
+[[v20-22-16]]
+
+^<<v20-22-16,16>>^ Eles foram arrebatados (pela morte) antes do seu tempo, quando um rio destruiu os seus fundamentos;
+
+[[v20-22-17]]
+
+^<<v20-22-17,17>>^ eles diziam a Deus: "Retira-te de nós; que nos pode fazer o Omnipotente?"
+
+[[v20-22-18]]
+
+^<<v20-22-18,18>>^ Mas era ele que havia cumulado de bens as suas casas. Esteja longe de mim o conselho dos ímpios.
+
+[[v20-22-19]]
+
+^<<v20-22-19,19>>^ Os justos verão (a sua ruína) e alegrar-se-ão, e o inocente escarnecerá deles (e da sua falsa doutrina):
+
+[[v20-22-20]]
+
+^<<v20-22-20,20>>^ Porventura não foi lançada por terra a sua soberba, e o fogo não devorou as suas relíquias?
+
+[[v20-22-21]]
+
+^<<v20-22-21,21>>^ Submete-te, pois, a Deus, e lerás paz, e assim colherás ótimos frutos.
+
+[[v20-22-22]]
+
+^<<v20-22-22,22>>^ Recebe lições da sua boca, e grava as palavras no teu coração.
+
+[[v20-22-23]]
+
+^<<v20-22-23,23>>^ Se voltares para o Omnipotente, de novo serás levantado, se afastares de tua casa a iniquidade.
+
+[[v20-22-24]]
+
+^<<v20-22-24,24>>^ Se lançares ao pó os lingotes de ouro, e o ouro de Ofir aos seixos da torrente,
+
+[[v20-22-25]]
+
+^<<v20-22-25,25>>^ o Omnipotente será o teu ouro, será para ti prata brilhante.
+
+[[v20-22-26]]
+
+^<<v20-22-26,26>>^ Então porás tuas delícias no Omnipotente, e levantarás o teu rosto para Deus.
+
+[[v20-22-27]]
+
+^<<v20-22-27,27>>^ Tu lhe rogarás, e ele te ouvirá, e cumprirás os teus votos.
+
+[[v20-22-28]]
+
+^<<v20-22-28,28>>^ Formarás os teus projetos, que terão feliz êxito, e a luz brilhará em teus caminhos.
+
+[[v20-22-29]]
+
+^<<v20-22-29,29>>^ Porque quem se humilha, será glorificado, e quem (arrependido) tiver abaixado os olhos, será salvo.
+
+[[v20-22-30]]
+
+^<<v20-22-30,30>>^ O inocente será salvo, e será salvo pela pureza das suas mãos.
+
+'''
+
+xref:020-jo/020-jo-021.adoc#v20-21-0[&#60; Capítulo Anterior] | <<v20-22-0,Topo>> | xref:020-jo/020-jo-023.adoc#v20-23-0[Próximo Capítulo &#62;]

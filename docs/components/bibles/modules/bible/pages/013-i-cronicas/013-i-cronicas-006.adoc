@@ -1,0 +1,343 @@
+include::./index.adoc[]
+
+[[v13-6-0]]
+=== I Crônicas, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 6 de 1 Crônicas apresenta a genealogia dos levitas, incluindo os descendentes de Arão, o primeiro sumo sacerdote. São mencionados os nomes dos chefes das famílias levíticas e a distribuição das cidades de refúgio. A seguir, são apresentados cinco versículos relacionados com os temas abordados em 1 Crônicas 6:
+* Êxodo 6:16-20: "Estes são os nomes dos filhos de Levi, segundo as suas gerações: Gérson, Coate e Merari. E os anos da vida de Levi foram cento e trinta e sete anos. Os filhos de Gérson: Libni e Simei, segundo as suas famílias. E os filhos de Coate: Anrão, Izar, Hebrom e Uziel. E os anos da vida de Coate foram cento e trinta e três anos." Este versículo apresenta a origem da tribo de Levi e os nomes dos seus filhos, incluindo Anrão, o pai de Moisés e Arão.
+* Números 35:6: "E das cidades que dareis aos levitas, seis cidades de refúgio, que fareis estabelecê-las, para que nelas se acolha o homicida; e além delas dareis quarenta e duas cidades." Este versículo faz referência à distribuição das cidades de refúgio, que é mencionada em 1 Crônicas 6.
+* Josué 21:4: "Os filhos de Arão, dos coatitas, dentre os filhos de Levi, porque a sorte caiu sobre eles primeiro." Este versículo destaca a posição privilegiada dos descendentes de Arão entre os levitas, pois eles foram escolhidos para serem os sacerdotes do povo de Israel.
+* 1 Crônicas 6:48: "E seus irmãos levitas foram postos sobre toda a obra do tabernáculo da casa de Deus." Este versículo mostra que os levitas eram responsáveis por cuidar do tabernáculo e de todas as suas atividades litúrgicas.
+* 1 Crônicas 6:62: "E aos filhos de Gérson, segundo as suas famílias, deram da tribo de Issacar, e da tribo de Aser, e da tribo de Naftali, e da metade da tribo de Manassés em Basã, treze cidades." Este versículo destaca a distribuição territorial das cidades dos levitas, incluindo as cidades atribuídas aos filhos de Gérson.
+****
+
+[[v13-6-1]]
+
+^<<v13-6-1,1>>^ Filhos de Levi: Gereon, Caat e Merari.
+
+[[v13-6-2]]
+
+^<<v13-6-2,2>>^ Filhos de Caat: Amrão, Isaar, Hebron e Oziei.
+
+[[v13-6-3]]
+
+^<<v13-6-3,3>>^ Filhos de Amrão: Arão, Moisés e Alaria. Filhos de Arão: Nadab e Abiu, Eleazar e Itamar.
+
+[[v13-6-4]]
+
+^<<v13-6-4,4>>^ Eleazar gerou Fineias, e Fineias gerou Abisué;
+
+[[v13-6-5]]
+
+^<<v13-6-5,5>>^ Abisué gerou Boci, e Boci gerou Ozi;
+
+[[v13-6-6]]
+
+^<<v13-6-6,6>>^ Ozi gerou Zaraias, e Zaraias gerou Meraiot;
+
+[[v13-6-7]]
+
+^<<v13-6-7,7>>^ Meraiot gerou Amarias, e Amarias gerou Aquitob;
+
+[[v13-6-8]]
+
+^<<v13-6-8,8>>^ Aquitob gerou Sadoc, e Sadoc gerou Aquimaas;
+
+[[v13-6-9]]
+
+^<<v13-6-9,9>>^ Aquimaas gerou Azarias, e Azarias gerou Joanan;
+
+[[v13-6-10]]
+
+^<<v13-6-10,10>>^ Joanan gerou Azarias, que é aquele que exerceu o sacerdócio no templo que Salomão tinha fundado em Jerusalém;
+
+[[v13-6-11]]
+
+^<<v13-6-11,11>>^ Azarias gerou Amarias, e Amarias gerou Aquitob;
+
+[[v13-6-12]]
+
+^<<v13-6-12,12>>^ Aquitob gerou Sadoc, e Sadoc gerou Selum;
+
+[[v13-6-13]]
+
+^<<v13-6-13,13>>^ Selum gerou Helcias, e Helcias gerou Azarias;
+
+[[v13-6-14]]
+
+^<<v13-6-14,14>>^ Azarias gerou Saraias, e Saraias gerou Josedec.
+
+[[v13-6-15]]
+
+^<<v13-6-15,15>>^ Josedec deixou a sua pátria, quando o Senhor transferiu o povo de Judá e de Jerusalém por meio de Nabucodonosor.
+
+[[v13-6-16]]
+
+^<<v13-6-16,16>>^ Os filhos de Levi foram: Gerson, Caat e Merari.
+
+[[v13-6-17]]
+
+^<<v13-6-17,17>>^ Estes são os nomes dos filhos de Gerson; Lobni e Semei.
+
+[[v13-6-18]]
+
+^<<v13-6-18,18>>^ Filhos de Caat: Amrão, Isaar, Hebron e Oziei.
+
+[[v13-6-19]]
+
+^<<v13-6-19,19>>^ Filhos de Merari: Mooli e Musi. Eis os descendentes de Levi segundo as suas famílias:
+
+[[v13-6-20]]
+
+^<<v13-6-20,20>>^ De Gerson foi filho Lobni, de Lobni Jaat, de Jaat Zama,
+
+[[v13-6-21]]
+
+^<<v13-6-21,21>>^ de Zama Joú, de Joá Ado, de Ado Zara, de Zara Jetrai.
+
+[[v13-6-22]]
+
+^<<v13-6-22,22>>^ Filhos de Caat: Aminadab, seu filho, Coré, filho de Aminadab, Asir de Coré,
+
+[[v13-6-23]]
+
+^<<v13-6-23,23>>^ Elcana de Asir, Abiasaf de Elcana, Asir de Ablasaf,
+
+[[v13-6-24]]
+
+^<<v13-6-24,24>>^ Taat de Asir, Uriel de Taat, Ozias de Uriel, Saul de Ozias.
+
+[[v13-6-25]]
+
+^<<v13-6-25,25>>^ Filhos de Elcana: Amasai, e Aquimot,
+
+[[v13-6-26]]
+
+^<<v13-6-26,26>>^ Elcana, seu filho, Sofai, seu filho, Naat, seu filho,
+
+[[v13-6-27]]
+
+^<<v13-6-27,27>>^ Eliab, seu filho, Jeroão seu filho, Elcana, seu filho.
+
+[[v13-6-28]]
+
+^<<v13-6-28,28>>^ Filhos de Samuel: Vasseni, primogênito, e Abia.
+
+[[v13-6-29]]
+
+^<<v13-6-29,29>>^ Filhos de Merari: Mooli, Lobni, filho deste, Semei, filho de Lobni, Oza, filho de Semei,
+
+[[v13-6-30]]
+
+^<<v13-6-30,30>>^ Samaa, filho de Oza, Hagia, filho de Samaa, Asaia, filho de Hagia.
+
+[[v13-6-31]]
+
+^<<v13-6-31,31>>^ Eis aqueles que Davide constituiu sobre os cantores da casa do Senhor, depois que a arca foi colocada (em Jerusalém):
+
+[[v13-6-32]]
+
+^<<v13-6-32,32>>^ cantando, ministraram diante do tabernáculo do testemunho, até que Salomão edificou a casa do Senhor em Jerusalém, e exerceram o seu ministério segundo o seu turno.
+
+[[v13-6-33]]
+
+^<<v13-6-33,33>>^ Eis os que serviam juntamente com seus filhos: Dos filhos de Caat: Heman cantor, filho de Joel, filho de Samuel,
+
+[[v13-6-34]]
+
+^<<v13-6-34,34>>^ filho de Elcana, filho de Jeroão, filho de Eliel, filho de Tou,
+
+[[v13-6-35]]
+
+^<<v13-6-35,35>>^ filho de Suf, filho de Elcana, filho de Maat, filho de Amasai,
+
+[[v13-6-36]]
+
+^<<v13-6-36,36>>^ filho de Elcana, filho de Joel, filho de Azarias, filho de Sofonias,
+
+[[v13-6-37]]
+
+^<<v13-6-37,37>>^ filho de Taat, filho de Asir, filho de Abiasaf, filho de Coré,
+
+[[v13-6-38]]
+
+^<<v13-6-38,38>>^ filho de Isaar, filho de Caat, filho de Levi, filho de Israel.
+
+[[v13-6-39]]
+
+^<<v13-6-39,39>>^ Seu irmão Asaf, que estava à sua direita, e que era filho de Baraquias, filho de Samaa,
+
+[[v13-6-40]]
+
+^<<v13-6-40,40>>^ filho de Miguel, filho de Basaia, filho de Melquia,
+
+[[v13-6-41]]
+
+^<<v13-6-41,41>>^ filho de Atanai, filho de Zara, filho de Adaia,
+
+[[v13-6-42]]
+
+^<<v13-6-42,42>>^ filho de Etan, filho de Zama, filho de Semei,
+
+[[v13-6-43]]
+
+^<<v13-6-43,43>>^ filho de Jet, filho de Gerson, filho de Levi.
+
+[[v13-6-44]]
+
+^<<v13-6-44,44>>^ Seus irmãos, filhos de Merari, estavam à esquerda: Etan, filho de Cusi, filho de Abdi, filho de Maloc,
+
+[[v13-6-45]]
+
+^<<v13-6-45,45>>^ filho de Hasabias, filho de Amasias, filho de Helcias,
+
+[[v13-6-46]]
+
+^<<v13-6-46,46>>^ filho de Amasai, filho de Boni, filho de Somer,
+
+[[v13-6-47]]
+
+^<<v13-6-47,47>>^ filho de Mooli, filho de Musi, filho de Merari, filho de Levi.
+
+[[v13-6-48]]
+
+^<<v13-6-48,48>>^ Os Levitas, seus irmãos, foram destinados para todo o serviço do tabernáculo da casa do Senhor.
+
+[[v13-6-49]]
+
+^<<v13-6-49,49>>^ Porém Aarão e seus filhos queimavam as vítimas sobre o altar dos holocaustos e sobre o altar dos perfumes, (ocupando-se) em tudo o que dizia respeito ao Santo dos Santos, e oravam por Israel, seguindo tudo o que Moisés, servo do Senhor, tinha prescrito.
+
+[[v13-6-50]]
+
+^<<v13-6-50,50>>^ Os filhos de Aarão são estes: Eleazar, seu filho, Fineias, filho de Eleazar, Abisué, filho de Fineias,
+
+[[v13-6-51]]
+
+^<<v13-6-51,51>>^ Boci, filho de Abisué, Ozi, filho de Boci, Zaraia, filho de Ozi,
+
+[[v13-6-52]]
+
+^<<v13-6-52,52>>^ Meraiot, filho de Zaraia, Amarias, filho de Meraiot, Aquitob, filho de Amarias,
+
+[[v13-6-53]]
+
+^<<v13-6-53,53>>^ Sadoc, filho de Aquitob, Aquimaas, filho de Sadoc.
+
+[[v13-6-54]]
+
+^<<v13-6-54,54>>^ Estas são as suas habitações pelas povoações e arredores, isto é, as habitações dos filhos de Aarão, segundo as famílias dos Caatitas, que lhes tinham tocado por sorte.
+
+[[v13-6-55]]
+
+^<<v13-6-55,55>>^ Foi-lhes, pois, dada Hebron na terra de Judá, e os subúrbios que a rodeiam;
+
+[[v13-6-56]]
+
+^<<v13-6-56,56>>^ os campos, porém, da cidade e as aldeias foram dados a Caleb, filho de Jefone.
+
+[[v13-6-57]]
+
+^<<v13-6-57,57>>^ Foram, pois dadas aos filhos de Arão: Hebron, cidade de refúgio, Lobna, com os seus subúrbios,
+
+[[v13-6-58]]
+
+^<<v13-6-58,58>>^ Jeter e Estemo, com os seus subúrbios, Helon e Dabir, com os seus subúrbios,
+
+[[v13-6-59]]
+
+^<<v13-6-59,59>>^ Asan e Betesemes, com os seus subúrbios;
+
+[[v13-6-60]]
+
+^<<v13-6-60,60>>^ da tribo de Benjamim deram-lhes: Gabee com os seus subúrbios, Almat com os seus subúrbios, Anatot com os seus subúrbios: ao todo treze cidades repartidas entre as suas famílias.
+
+[[v13-6-61]]
+
+^<<v13-6-61,61>>^ Aos filhos de Caat, que restavam da sua família, foram dadas em possessão dez cidades da meia tribo de Manassés.
+
+[[v13-6-62]]
+
+^<<v13-6-62,62>>^ Aos filhos de Gerson, segundo as suas famílias, foram dadas treze cidades da tribo de Issacar, da tribo de Aser, da tribo de Neftali e da tribo de Manassés, em Basan.
+
+[[v13-6-63]]
+
+^<<v13-6-63,63>>^ Aos filhos de Merari, segundo as suas famílias, foram dadas à sorte doze cidades da tribo de Ruben, da tribo de Gad e da tribo de Zabulon.
+
+[[v13-6-64]]
+
+^<<v13-6-64,64>>^ Deram os filhos de Israel aos Levitas estas cidades com os seus subúrbios;
+
+[[v13-6-65]]
+
+^<<v13-6-65,65>>^ deram-lhes por sorte estas cidades, da tribo dos filhos de Judá, da tribo dos filhos de Simeão e da tribo dos filhos de Benjamim, as quais designaram pelos seus próprios nomes.
+
+[[v13-6-66]]
+
+^<<v13-6-66,66>>^ Quanto aos que eram da parentela dos filhos de Caat, as cidades do seu domínio foram da tribo de Efraim.
+
+[[v13-6-67]]
+
+^<<v13-6-67,67>>^ Deram-lhes as cidades de refúgio: Siquem com os seus subúrbios sobre o monte de Efraim, Gazer com os seus subúrbios,
+
+[[v13-6-68]]
+
+^<<v13-6-68,68>>^ Jecmaam com os seus subúrbios, e da mesma sorte Betoron,
+
+[[v13-6-69]]
+
+^<<v13-6-69,69>>^ e também Helon com os seus subúrbios, e Getremon da mesma maneira.
+
+[[v13-6-70]]
+
+^<<v13-6-70,70>>^ Da meia tribo de Manassés, deram Aner, com os seus subúrbios, e Balaão, com os seus subúrbios, àqueles que ainda restavam da linhagem dos filhos de Caat.
+
+[[v13-6-71]]
+
+^<<v13-6-71,71>>^ Aos filhos de Gerson deram da meia tribo de Manassés: Gaulon em Basan, com os seus subúrbios, e Astarot com os seus subúrbios.
+
+[[v13-6-72]]
+
+^<<v13-6-72,72>>^ Da tribo de Issacar (deram-lhes): Cedes com os seus subúrbios, Daberet com os seus subúrbios,
+
+[[v13-6-73]]
+
+^<<v13-6-73,73>>^ Ramot com os seus subúrbios, Anem com os seus subúrbios.
+
+[[v13-6-74]]
+
+^<<v13-6-74,74>>^ Da tribo de Aser: Masal com os seus subúrbios, e igualmente Abdon
+
+[[v13-6-75]]
+
+^<<v13-6-75,75>>^ e Hucac com os seus subúrbios, e Roob com os seus subúrbios.
+
+[[v13-6-76]]
+
+^<<v13-6-76,76>>^ Da tribo de Neftali: Cedes na Galilén com os seus subúrbios, Hamon com os seus subúrbios, Cariataim com os seus subúrbios.
+
+[[v13-6-77]]
+
+^<<v13-6-77,77>>^ Aos filhos de Merari, que ainda restavam, (deram) da tribo de Zabulon: Remono com os seus subúrbios, e Tabor com os seus subúrbios.
+
+[[v13-6-78]]
+
+^<<v13-6-78,78>>^ Da banda de além do Jordão, defronte de Jericó, ao oriente do Jordão, deram da tribo de Ruben: Bosor no deserto com os seus subúrbios, Jassa com os seus subúrbios,
+
+[[v13-6-79]]
+
+^<<v13-6-79,79>>^ Cademot com os seus subúrbios, Mefaat com os seus subúrbios.
+
+[[v13-6-80]]
+
+^<<v13-6-80,80>>^ Além disso, (deram-lhes) da tribo de Gad: Ramot em Galaad com os seus subúrbios, Manaim com os seus subúrbios,
+
+[[v13-6-81]]
+
+^<<v13-6-81,81>>^ Hesebon com os seus subúrbios, Jezer com os seus subúrbios.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-005.adoc#v13-5-0[&#60; Capítulo Anterior] | <<v13-6-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-007.adoc#v13-7-0[Próximo Capítulo &#62;]

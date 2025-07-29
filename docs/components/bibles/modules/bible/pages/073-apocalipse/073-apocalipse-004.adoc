@@ -1,0 +1,62 @@
+include::./index.adoc[]
+
+[[v73-4-0]]
+=== Apocalipse, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Apocalipse 4 descreve a visão do trono celestial e a adoração dos seres viventes e dos anciãos diante do trono. Essa visão é uma introdução ao restante do livro, que revela os eventos futuros que culminam no triunfo final de Deus e de Seu povo.
+* Isaías 6:1-3: "No ano em que o rei Uzias morreu, eu vi o Senhor assentado num trono alto e exaltado, e a aba de sua veste enchia o templo. Serafins estavam por cima dele; cada um tinha seis asas: com duas cobriam o rosto, com duas cobriam os pés e com duas voavam. E proclamavam uns aos outros: 'Santo, santo, santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória'." Essa visão de Isaías é semelhante à visão de João em Apocalipse 4, pois ambos descrevem a majestade e a santidade de Deus sentado em Seu trono celestial.
+* Ezequiel 1:26-28: "Acima do firmamento que estava sobre as suas cabeças havia algo parecido com um trono de safira, e, bem no alto, sobre o que parecia um trono, uma figura como a de um homem. Vi que do que parecia a cintura para baixo ele parecia fogo, e do que parecia a cintura para cima parecia brilho reluzente, como metal polido. Como a aparência de um arco-íris que aparece no meio da chuva, assim era o resplendor ao seu redor. Essa era a aparência da glória do Senhor." O livro de Ezequiel também apresenta uma visão do trono celestial de Deus, e a descrição se assemelha à descrição de Apocalipse 4.
+* Salmos 29:2: "Dêem ao Senhor a glória devida ao seu nome; adorem o Senhor no esplendor da sua santidade." Esse versículo dos Salmos é uma chamada para a adoração a Deus, o que é um tema central em Apocalipse 4, onde os seres viventes e os anciãos adoram o Senhor diante de Seu trono.
+* Salmos 47:8: "Deus reina sobre as nações; Deus está sentado em seu santo trono." Esse versículo dos Salmos enfatiza a soberania de Deus e Seu reinado sobre as nações, o que é refletido na visão do trono celestial em Apocalipse 4.
+****
+
+[[v73-4-1]]
+
+^<<v73-4-1,1>>^ Depois disto tive uma visão: Uma porta estava aberta no céu, e a voz, aquela primeira voz que eu tinha ouvido, como de trombeta, falava comigo, dizendo: "Sobe aqui, e mostrar-te-ei as coisas que devem acontecer depois destas."
+
+[[v73-4-2]]
+
+^<<v73-4-2,2>>^ Logo caí em êxtase. E eis que um trono estava colocado no céu, sobre o qual trono estava alguém sentado.
+
+[[v73-4-3]]
+
+^<<v73-4-3,3>>^ Aquele que estava sentado era no aspecto semelhante a uma pedra de jaspe e de sardónica; e em volta do trono estava um arco-íris que se assemelhava à cor de esmeralda.
+
+[[v73-4-4]]
+
+^<<v73-4-4,4>>^ Em volta do trono, (estavam outros) vinte e quatro tronos, e sobre estes tronos estavam sentados vinte e quatro anciães, vestidos de roupas brancas, (tendo) em suas cabeças coroas de ouro.
+
+[[v73-4-5]]
+
+^<<v73-4-5,5>>^ Do trono partem relâmpagos, vozes e trovões. Diante do trono ardem sete lâmpadas ardentes, que são os sete espíritos de Deus.
+
+[[v73-4-6]]
+
+^<<v73-4-6,6>>^ Em frente do trono há como que um mar de vidro semelhante a cristal, e, no meio do trono e em volta do trono, quatro animais cheios de olhos por diante e por detrás. (ver nota)
+
+[[v73-4-7]]
+
+^<<v73-4-7,7>>^ O primeiro animal é semelhante a um leão; o segundo semelhante a um novilho; o terceiro tem o rosto como de homem, e o quarto é semelhante a uma águia que voa.
+
+[[v73-4-8]]
+
+^<<v73-4-8,8>>^ Os quatro animais têm cada um seis asas, e em volta e por dentro estão cheios de olhos, e não cessam, dia e noite, de dizer: "Santo, Santo, Santo, é o Senhor Deus, o Omnipotente, o que era, que é, e que vem. (ver nota)
+
+[[v73-4-9]]
+
+^<<v73-4-9,9>>^ E, quando aqueles animais dão glória, honra e acção de graças ao que está sentado sobre o trono e que vive pelos séculos dos séculos,
+
+[[v73-4-10]]
+
+^<<v73-4-10,10>>^ os vinte e quatro anciães prostram-se diante do que está sentado no trono e adoram o que vive pelos séculos dos séculos, e lançam as suas coroas diante do trono, dizendo:
+
+[[v73-4-11]]
+
+^<<v73-4-11,11>>^ "Tu és digno, ó Senhor, nosso Deus, de receber a glória, a honra e o poder, porque criaste todas as coisas, e pela tua vontade é que elas receberam a existência e foram criadas."
+
+'''
+
+xref:073-apocalipse/073-apocalipse-003.adoc#v73-3-0[&#60; Capítulo Anterior] | <<v73-4-0,Topo>> | xref:073-apocalipse/073-apocalipse-005.adoc#v73-5-0[Próximo Capítulo &#62;]

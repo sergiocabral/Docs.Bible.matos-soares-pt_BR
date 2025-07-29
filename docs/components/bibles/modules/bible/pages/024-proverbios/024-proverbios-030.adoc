@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v24-30-0]]
+=== Provérbios, 30
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 30 é um capítulo escrito pelo sábio Agur, que fala sobre sua busca pela sabedoria e conhecimento de Deus. Alguns dos temas abordados incluem a humildade, a santidade, a confiança em Deus e a importância de se viver com integridade. Abaixo estão cinco versículos que se relacionam com esses temas:
+* Salmos 119:66: "Ensina-me o bom senso e o conhecimento, pois confio em teus mandamentos." Este versículo destaca a importância de buscar a sabedoria e o conhecimento de Deus, em vez de depender apenas do nosso próprio entendimento limitado.
+* Isaías 6:3: "Eles clamam uns para os outros, dizendo: 'Santo, santo, santo é o Senhor dos Exércitos; toda a terra está cheia da sua glória'." Este verso fala sobre a santidade de Deus e a importância de viver uma vida santa para honrá-lo.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo destaca a importância de confiar em Deus em vez de confiar em nosso próprio entendimento limitado.
+* Salmos 19:14: "Sejam agradáveis as palavras da minha boca e a meditação do meu coração perante ti, Senhor, rocha minha e redentor meu!" Este verso destaca a importância de viver com integridade, tanto em nossas palavras quanto em nossas ações, para honrar a Deus.
+* Provérbios 22:4: "A recompensa da humildade e do temor do Senhor são a riqueza, a honra e a vida." Este versículo destaca a importância da humildade e do temor do Senhor como valores fundamentais para uma vida abençoada.
+****
+
+[[v24-30-1]]
+
+^<<v24-30-1,1>>^ Palavras de Agur, filho de Jake, de Massa. Visão, que expôs um homem, com quem Deus está, e que, tendo sido confortado pela assistência de Deus que reside nele, disse:
+
+[[v24-30-2]]
+
+^<<v24-30-2,2>>^ Eu sou o mais insensato dos homens, e a sabedoria dos homens não está em mim.
+
+[[v24-30-3]]
+
+^<<v24-30-3,3>>^ Eu não aprendi a sabedoria, e não conheci (por mim próprio) a ciência do Santo.
+
+[[v24-30-4]]
+
+^<<v24-30-4,4>>^ Quem subiu ao céu, e desceu dele? Quem reteve o vento nas suas mãos? Quem envolveu as águas como num vestido? Quem fixou os extremos da terra? Qual é o seu nome, e qual é o nome de seu filho, se é que o sabes? (ver nota)
+
+[[v24-30-5]]
+
+^<<v24-30-5,5>>^ Toda a palavra de Deus é purificada pelo fogo; ele é um escudo para os que esperam nele. (ver nota)
+
+[[v24-30-6]]
+
+^<<v24-30-6,6>>^ Não acrescentes nada às suas palavras, para não seres por isso repreendido e achado mentiroso.
+
+[[v24-30-7]]
+
+^<<v24-30-7,7>>^ Duas coisas (ó Senhor) são as que te pedi; não mas negues antes que morra;
+
+[[v24-30-8]]
+
+^<<v24-30-8,8>>^ Afasta de mim a falsidade e as palavras mentirosas; não me dês nem a pobreza, nem as riquezas, dá-me sòmente o que for necessário para viver,
+
+[[v24-30-9]]
+
+^<<v24-30-9,9>>^ para que não suceda que, estando eu saciado, seja tentado a renegar-te e a dizer (com arrogância): Quem é o Senhor? ou que, constrangido pela indigência, me ponha a furtar, e atente contra o nome do meu Deus. (ver nota)
+
+[[v24-30-10]]
+
+^<<v24-30-10,10>>^ Não calunies o servo diante do seu senhor. para que não suceda que ele te amaldiçoe e que sofras o castigo.
+
+[[v24-30-11]]
+
+^<<v24-30-11,11>>^ Há uma casta de gente que amaldiçoa o seu pai e que não abençoa sua mãe. (ver nota)
+
+[[v24-30-12]]
+
+^<<v24-30-12,12>>^ Há uma casta de gente que se julga pura, e contudo não está limpa das suas manchas.
+
+[[v24-30-13]]
+
+^<<v24-30-13,13>>^ Há uma casta de gente cujos olhos são altivos, cujas pálpebras são levantadas.
+
+[[v24-30-14]]
+
+^<<v24-30-14,14>>^ Há uma casta de gente que, em lugar de dentes, tem espadas, cujas maxilas são facas, para devorar os desvalidos da terra, os que são pobres entre os homens.
+
+[[v24-30-15]]
+
+^<<v24-30-15,15>>^ A sanguessuga tem duas filhas que dizem: Dá-me, dá-me. Há três coisas, que são insaciáveis, antes, quatro, que nunca dizem: "Basta".
+
+[[v24-30-16]]
+
+^<<v24-30-16,16>>^ A habitação dos mortos, o seio estéril, a terra que nunca se farta de água, e o fogo que nunca diz: Basta.
+
+[[v24-30-17]]
+
+^<<v24-30-17,17>>^ Quanto aos olhos do que escarnece de seu pai. e despreza a mãe que o deu à luz, arranquem-nos os corvos que andam à borda das torrentes, e comam-nos os filhos da águia.
+
+[[v24-30-18]]
+
+^<<v24-30-18,18>>^ Três coisas me são dificultosas (de entender), antes, quatro, que não compreendo:
+
+[[v24-30-19]]
+
+^<<v24-30-19,19>>^ O caminho da águia pelo ar, o caminho da cobra sobre a pedra, o caminho da nau no meio do mar, e o caminho do homem na (busca da) donzela.
+
+[[v24-30-20]]
+
+^<<v24-30-20,20>>^ Tal é também o caminho da mulher adúltera, a qual, depois de comer, limpa a boca e diz; Eu não fiz mal nenhum.
+
+[[v24-30-21]]
+
+^<<v24-30-21,21>>^ A terra estremece com três coisas, antes, são quatro que ela não pode suportar;
+
+[[v24-30-22]]
+
+^<<v24-30-22,22>>^ Um escravo que chega a mandar, um insensato que chega à abundância,
+
+[[v24-30-23]]
+
+^<<v24-30-23,23>>^ uma mulher sem pretendentes, se encontra marido, e uma escrava que ficou a herdeira da sua senhora.
+
+[[v24-30-24]]
+
+^<<v24-30-24,24>>^ Quatro coisas há sobre a terra, que são muito pequenas, e que são mais sábias do que os mesmos sábios:
+
+[[v24-30-25]]
+
+^<<v24-30-25,25>>^ As formigas, esse fraco povo, que faz o seu provimento durante o estio;
+
+[[v24-30-26]]
+
+^<<v24-30-26,26>>^ os hirazes, esse povo sem poder, que faz a sua habitação nos rochedos;
+
+[[v24-30-27]]
+
+^<<v24-30-27,27>>^ os gafanhotos, que não têm rei, e que todavia saem todos ordenados em seus esquadrões
+
+[[v24-30-28]]
+
+^<<v24-30-28,28>>^ o lagarto, que se pode apanhar com as mãos, mas que penetra no palácio dos reis.
+
+[[v24-30-29]]
+
+^<<v24-30-29,29>>^ Há três coisas que andam com muito garbo, ou antes, quatro, que andam garbosamente:
+
+[[v24-30-30]]
+
+^<<v24-30-30,30>>^ O leão, o mais forte dos animais, que, de nada que encontra, tem receio;
+
+[[v24-30-31]]
+
+^<<v24-30-31,31>>^ o galo, que anda muito senhor de si, o bode, e o rei, a quem nada resiste.
+
+[[v24-30-32]]
+
+^<<v24-30-32,32>>^ Tal homem manifestou-se um Insensato, depois que foi elevado a um alto posto; porque, se tivesse tido inteligência, teria posto a mão sobre a sua boca.
+
+[[v24-30-33]]
+
+^<<v24-30-33,33>>^ Quem aperta muito o úbere para tirar leite, faz sair dele um suco espesso; quem se assoa violentamente, tira sangue; assim aquele que excita a ira produz discórdias.
+
+'''
+
+xref:024-proverbios/024-proverbios-029.adoc#v24-29-0[&#60; Capítulo Anterior] | <<v24-30-0,Topo>> | xref:024-proverbios/024-proverbios-031.adoc#v24-31-0[Próximo Capítulo &#62;]

@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v33-19-0]]
+=== Ezequiel, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 19 fala sobre a lamentação do príncipe de Israel e de sua mãe, que representam o povo de Judá e seus líderes que falharam em proteger e liderar o país. A seguir estão cinco versículos relacionados com os temas abordados em Ezequiel 19:
+* 2 Reis 24:14: "Ele levou ao exílio toda Jerusalém, todos os líderes e todos os homens valentes, dez mil prisioneiros, além de todos os ferreiros e serralheiros. Ninguém ficou, exceto a população mais pobre do país." Este versículo descreve a conquista de Jerusalém pelo rei babilônico, Nabucodonosor, e o exílio dos líderes e homens valentes de Judá, incluindo o príncipe lamentado em Ezequiel 19.
+* Lamentações 4:20: "O fôlego de nossas narinas, o ungido do Senhor, foi preso em suas armadilhas; aquele de quem dizíamos: 'Viveremos sob sua sombra entre as nações'." Este versículo lamenta a captura do rei de Judá e a perda da proteção que ele oferecia.
+* Jeremias 22:18-19: "Portanto, assim diz o Senhor acerca de Jeoaquim, filho de Josias, rei de Judá: Não haverá pranto por ele, dizendo: 'Ah, meu irmão!' ou: 'Ah, minha irmã!' Não haverá pranto por ele, dizendo: 'Ah, senhor!' ou: 'Ah, sua majestade!'. Será enterrado como se enterra um jumento, arrastado e jogado para fora das portas de Jerusalém." Este versículo fala sobre a morte do rei Jeoaquim de Judá e como ele não receberia um enterro honroso.
+* Jeremias 13:18: "Diga ao rei e à rainha-mãe: 'Saiam de seus tronos, pois a coroa de sua glória caiu de suas cabeças'." Este versículo fala sobre a queda da monarquia de Judá e a perda de poder dos líderes.
+* Ezequiel 21:25-27: "E tu, ó profano e ímpio príncipe de Israel, cujo dia chegou no tempo da punição final, assim diz o Senhor Deus: Tira o turbante e a coroa; nada será como era antes. Aquilo que é baixo será elevado e o que é elevado será rebaixado." Este versículo fala sobre a queda do príncipe de Israel e como ele perderia sua posição de poder.
+****
+
+[[v33-19-1]]
+
+^<<v33-19-1,1>>^ E tu pronuncia uma lamentação sobre os príncipes de Israel.
+
+[[v33-19-2]]
+
+^<<v33-19-2,2>>^ Dirás: Que era a tua mãe? Uma leoa entre leões; criava os seus filhos deitada no meio dos leõezinhos.
+
+[[v33-19-3]]
+
+^<<v33-19-3,3>>^ Criou um dos seus filhos, e ele se fez leão; aprendeu a despedaçar uma presa e devorou homens.
+
+[[v33-19-4]]
+
+^<<v33-19-4,4>>^ As nações ouviram falar dele, e ele foi apanhado no fosso delas. Levaram-no preso com cadeias para a terra do Egipto.
+
+[[v33-19-5]]
+
+^<<v33-19-5,5>>^ A mãe, vendo que a sua expectativa, que as suas esperanças se tinham malogrado, pegou noutro dos seus filhos e fez dele um (novo) leão.
+
+[[v33-19-6]]
+
+^<<v33-19-6,6>>^ Andava entre os leões, tornou-se leão; aprendeu a despedaçar a presa e devorou homens;
+
+[[v33-19-7]]
+
+^<<v33-19-7,7>>^ devastou os seus palácios e converteu em deserto as suas cidades; o país, com tudo o que nele havia, ficou amedrontado, ao ouvir os seus rugidos.
+
+[[v33-19-8]]
+
+^<<v33-19-8,8>>^ Juntaram-se contra ele as nações vizinhas, estenderam sobre ele a sua rede, e foi apanhado no fosso delas.
+
+[[v33-19-9]]
+
+^<<v33-19-9,9>>^ Meteram-no numa jaula, levaram-no ao rei de Babilônia, carregado de cadeias puseram-no numa fortaleza, para que se não tornasse mais a ouvir o seu rugido sobre os montes de Israel.
+
+[[v33-19-10]]
+
+^<<v33-19-10,10>>^ Tua mãe, sendo como uma videira plantada junto das águas, deu frutos e lançou folhagem, por causa das muitas águas.
+
+[[v33-19-11]]
+
+^<<v33-19-11,11>>^ Os seus ramos vigorosos vieram a ser ceptros de soberanos, e o seu tronco elevou-se no meio dos seus ramos frondosos. -Mostrou-se em (toda a) sua grandeza, com a multidão dos seus sarmentos.
+
+[[v33-19-12]]
+
+^<<v33-19-12,12>>^ Mas depois foi arrancada com ira, lançada por terra; o vento do oriente secou o seu fruto; foram quebrados e secaram-se os seus ramos robustos; fogo os devorou.
+
+[[v33-19-13]]
+
+^<<v33-19-13,13>>^ E agora ela foi transplantada para um deserto, para uma terra seca e árida.
+
+[[v33-19-14]]
+
+^<<v33-19-14,14>>^ Dos seus ramos saiu uma chama que devorou o seu fruto, e não mais houve nela ramo vigoroso. Ceptro de soberanos. Cântico lúgubre é este, e para pranto servirá.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-018.adoc#v33-18-0[&#60; Capítulo Anterior] | <<v33-19-0,Topo>> | xref:033-ezequiel/033-ezequiel-020.adoc#v33-20-0[Próximo Capítulo &#62;]

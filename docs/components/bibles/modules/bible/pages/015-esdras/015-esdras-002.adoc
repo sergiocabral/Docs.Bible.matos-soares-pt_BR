@@ -1,0 +1,299 @@
+include::./index.adoc[]
+
+[[v15-2-0]]
+=== Esdras, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Esdras é uma lista detalhada dos exilados que voltaram da Babilônia para Jerusalém sob a liderança de Zorobabel e Josué. A lista inclui seus nomes, famílias e a quantidade de pessoas que retornaram. Abaixo estão cinco versículos relacionados com os temas abordados em Esdras 2, em ordem de proximidade com o capítulo:
+* Neemias 7:6: "Estes são os que voltaram de Babilônia, os quais tornaram para Jerusalém e para as outras partes de Judá, cada um para a sua cidade." Esse versículo é semelhante ao início do capítulo 2 de Esdras, onde a lista de exilados que voltaram para Jerusalém é introduzida.
+* Ezequiel 11:17: "Portanto, dize: Assim diz o Senhor Deus: Ajuntar-vos-ei do meio dos povos, e vos congregarei das terras para onde fostes espalhados, e vos darei a terra de Israel." Este versículo fala sobre a promessa de Deus de reunir Seu povo disperso e trazê-los de volta à terra de Israel, o que é exatamente o que está acontecendo no capítulo 2 de Esdras.
+* Jeremias 24:5-6: "Assim diz o Senhor, o Deus de Israel: Como a estes bons figos, assim conhecerei aos transportados de Judá, os quais enviei deste lugar para a terra dos caldeus, para seu proveito. Porque porei sobre eles os meus olhos para seu bem, e os tornarei a trazer para esta terra, e edificá-los-ei, e não os derrubarei; e plantá-los-ei e não os arrancarei." Este versículo é semelhante a Ezequiel 11:17, em que Deus promete trazer Seu povo de volta à terra de Israel após o exílio na Babilônia.
+* Neemias 7:73: "E os sacerdotes e os levitas, e os porteiros, e os cantores, e alguns do povo, e os servidores do templo, e todo o Israel se assentaram nas suas cidades; e quando chegou o sétimo mês, os filhos de Israel estavam nas suas cidades." Este versículo descreve o fim da jornada dos exilados de volta a suas cidades, que é o tema principal do capítulo 2 de Esdras.
+* Neemias 11:1: "E os chefes do povo habitaram em Jerusalém; mas o restante do povo lançou sortes, para tirar um de dez para habitar na santa cidade de Jerusalém, e as nove partes nas outras cidades." Este versículo descreve como o povo se estabeleceu em Jerusalém após o retorno do exílio, o que é uma continuação do tema principal de Esdras 2.
+****
+
+[[v15-2-1]]
+
+^<<v15-2-1,1>>^ Estes são os filhos da Província (da Judeia), que, tendo sido levados cativos para Babilônia por Nabucodonosor, rei de Babilônia, voltaram para Jerusalém e para a Judeia, cada um para a sua cidade.
+
+[[v15-2-2]]
+
+^<<v15-2-2,2>>^ Voltaram com Zorobabel, Josué, Neemias, Saraias, Raelaias, Mardoqueu, Belsan, Mesfar, Beguai, Reum, Baana. Eis o número dos varões do povo de Israel:
+
+[[v15-2-3]]
+
+^<<v15-2-3,3>>^ Filhos de Faros, dois mil cento e setenta e dois;
+
+[[v15-2-4]]
+
+^<<v15-2-4,4>>^ filhos de Safatias, trezentos e setenta e dois;
+
+[[v15-2-5]]
+
+^<<v15-2-5,5>>^ filhos de Area, setecentos e setenta e cinco;
+
+[[v15-2-6]]
+
+^<<v15-2-6,6>>^ filhos de Faat-Moab, (filhos de Josué e de Joab) dois mil e oitocentos e doze;
+
+[[v15-2-7]]
+
+^<<v15-2-7,7>>^ filhos de Elão, mil e duzentos e cinqüenta e quatro;
+
+[[v15-2-8]]
+
+^<<v15-2-8,8>>^ filhos de Zetua, novecentos e quarenta e cinco;
+
+[[v15-2-9]]
+
+^<<v15-2-9,9>>^ filhos de Zacai, setecentos e sessenta;
+
+[[v15-2-10]]
+
+^<<v15-2-10,10>>^ filhos de Bani, seiscentos e quarenta e dois;
+
+[[v15-2-11]]
+
+^<<v15-2-11,11>>^ filhos de Bebai, seiscentos e vinte e três;
+
+[[v15-2-12]]
+
+^<<v15-2-12,12>>^ filhos de Azgad, mil e duzentos e vinte e dois;
+
+[[v15-2-13]]
+
+^<<v15-2-13,13>>^ filhos de Adonicão, seiscentos e sessenta e seis
+
+[[v15-2-14]]
+
+^<<v15-2-14,14>>^ filhos de Beguai, dois mil e cinqüenta e seis;
+
+[[v15-2-15]]
+
+^<<v15-2-15,15>>^ filhos de Adin, quatrocentos e cinqüenta e quatro;
+
+[[v15-2-16]]
+
+^<<v15-2-16,16>>^ filhos de Ater, que descendiam de Ezequias, noventa e oito;
+
+[[v15-2-17]]
+
+^<<v15-2-17,17>>^ filhos de Besai, trezentos e vinte e três;
+
+[[v15-2-18]]
+
+^<<v15-2-18,18>>^ filhos de Jora, cento e doze;
+
+[[v15-2-19]]
+
+^<<v15-2-19,19>>^ filhos de Hasum, duzentos e vinte e três;
+
+[[v15-2-20]]
+
+^<<v15-2-20,20>>^ filhos de Gebar, noventa e cinco;
+
+[[v15-2-21]]
+
+^<<v15-2-21,21>>^ filhos de Belém, cento evinte e três;
+
+[[v15-2-22]]
+
+^<<v15-2-22,22>>^ homens de Netufa, cinquenta e seis;
+
+[[v15-2-23]]
+
+^<<v15-2-23,23>>^ homens de Anatot, cento e vinte e oito ;
+
+[[v15-2-24]]
+
+^<<v15-2-24,24>>^ filhos de Azmavet, quarenta e dois;
+
+[[v15-2-25]]
+
+^<<v15-2-25,25>>^ filhos de Cariatiarim, de Cefira e de Berot, setecentos e quarenta e três;
+
+[[v15-2-26]]
+
+^<<v15-2-26,26>>^ filhos de Rama e de Gabaa, seiscentos e vinte e um ;
+
+[[v15-2-27]]
+
+^<<v15-2-27,27>>^ homens de Macmas, cento e vinte e dois;
+
+[[v15-2-28]]
+
+^<<v15-2-28,28>>^ homens de Betei e de Hai, duzentos e vinte e três;
+
+[[v15-2-29]]
+
+^<<v15-2-29,29>>^ filhos de Nebo, cinquenta e dois;
+
+[[v15-2-30]]
+
+^<<v15-2-30,30>>^ filhos de Megbis, cento e cinquenta e seis;
+
+[[v15-2-31]]
+
+^<<v15-2-31,31>>^ filhos do outro Elão, mil e duzentos e cinqüenta e quatro;
+
+[[v15-2-32]]
+
+^<<v15-2-32,32>>^ filhos de Harim, trezentos e vinte;
+
+[[v15-2-33]]
+
+^<<v15-2-33,33>>^ filhos de Lod, de Hadid e de Ono, setecentos e vinte e cinco;
+
+[[v15-2-34]]
+
+^<<v15-2-34,34>>^ filhos de Jericó, trezentos e quarenta e cinco;
+
+[[v15-2-35]]
+
+^<<v15-2-35,35>>^ filhos de Senaa, três mil e seiscentos e trinta.
+
+[[v15-2-36]]
+
+^<<v15-2-36,36>>^ Sacerdotes: Filhos de Jadaia da casa de Josué, novecentos e setenta e três;
+
+[[v15-2-37]]
+
+^<<v15-2-37,37>>^ filhos de Emer, mil e cinqüenta e dois;
+
+[[v15-2-38]]
+
+^<<v15-2-38,38>>^ filhos de Fasur, mil e duzentos e quarenta e sete;
+
+[[v15-2-39]]
+
+^<<v15-2-39,39>>^ filhos de Harim, mil e dezassete.
+
+[[v15-2-40]]
+
+^<<v15-2-40,40>>^ Levitas: Filhos de Josué e de Cedmiel, dos filhos de Odovia, setenta e quatro.
+
+[[v15-2-41]]
+
+^<<v15-2-41,41>>^ Cantores: Filhos de Asaf, cento e vinte e oito.
+
+[[v15-2-42]]
+
+^<<v15-2-42,42>>^ Filhos dos porteiros: Filhos de Selum, filhos de Ater, filhos de Telmon, filhos de Acub, filhos de Hatita, filhos de Sobai, ao todo cento e trinta e nove.
+
+[[v15-2-43]]
+
+^<<v15-2-43,43>>^ Natineus: filhos de Sia, filhos de Hasufa, filhos de Tabaot,
+
+[[v15-2-44]]
+
+^<<v15-2-44,44>>^ filhos de Ceros, filhos de Siaa, filhos de Fadon,
+
+[[v15-2-45]]
+
+^<<v15-2-45,45>>^ filhos de Lebana, filhos de Hagaba, filhos de Acub,
+
+[[v15-2-46]]
+
+^<<v15-2-46,46>>^ filhos de Hagab, filhos de Semlai, filhos de Hanan,
+
+[[v15-2-47]]
+
+^<<v15-2-47,47>>^ filhos de Gadel, filhos de Gaer, filhos de Raaia,
+
+[[v15-2-48]]
+
+^<<v15-2-48,48>>^ filhos de Rasin, filhos de Necoda, filhos de Gazão,
+
+[[v15-2-49]]
+
+^<<v15-2-49,49>>^ filhos de Asa, filhos de Faseia, filhos de Besai,
+
+[[v15-2-50]]
+
+^<<v15-2-50,50>>^ filhos de Asena, filhos de Munim, filhos de Nefusim,
+
+[[v15-2-51]]
+
+^<<v15-2-51,51>>^ filhos de Bacbuc, filhos de Hacufa, filhos de Harur,
+
+[[v15-2-52]]
+
+^<<v15-2-52,52>>^ filhos de Beslut, filhos de Maida, filhos de Harsa,
+
+[[v15-2-53]]
+
+^<<v15-2-53,53>>^ filhos de Berços, filhos de Sisara, filhos de Tema,
+
+[[v15-2-54]]
+
+^<<v15-2-54,54>>^ filhos de Nasia, filhos de Hatífa.
+
+[[v15-2-55]]
+
+^<<v15-2-55,55>>^ Filhos dos servos de Salomão; filhos de Sotai, filhos de Soferet, filhos de Faruda,
+
+[[v15-2-56]]
+
+^<<v15-2-56,56>>^ filbos de Jala, filhos de Dercon, filhos de Gedel,
+
+[[v15-2-57]]
+
+^<<v15-2-57,57>>^ filhos de Safatias, filhos de Hatil, filhos de Foqueret, que eram de Asebaim, filhos de Ami.
+
+[[v15-2-58]]
+
+^<<v15-2-58,58>>^ Todos os Nalineus e os filhos dos servos de Salomão eram trezentos e noventa e dois.
+
+[[v15-2-59]]
+
+^<<v15-2-59,59>>^ Estes são os que partiram de Teimala, de Tel-Harsa, de Querub, de Adon, de Emer, e que não puderam indicar qual era a casa de seus pais e a sua linhagem, (para mostrar) que eram de Israel:
+
+[[v15-2-60]]
+
+^<<v15-2-60,60>>^ Os filhos de Dalaia, os filhos de Tobias, os filhos de Necoda, seiscentos e cinqüenta e dois.
+
+[[v15-2-61]]
+
+^<<v15-2-61,61>>^ Dos filhos dos sacerdotes: Os filhos de Hobia, os filhos de Acos, os filhos de Berzelai, que tomou por mulher uma das filhas de Berzelai de Galaad e que foi chamado do seu nome.
+
+[[v15-2-62]]
+
+^<<v15-2-62,62>>^ Estes procuraram o livro da sua genealogia, mas não o encontraram ; por isso foram excluídos do sacerdócio.
+
+[[v15-2-63]]
+
+^<<v15-2-63,63>>^ O governador intimou-lhes que não comessem das coisas santíssimas, até que se levantasse um pontífice douto e perfeito (para consultar Deus).
+
+[[v15-2-64]]
+
+^<<v15-2-64,64>>^ Toda esta multidão era como um só homem (e compreendia) quarenta e duas mil trezentas e sessenta pessoas,
+
+[[v15-2-65]]
+
+^<<v15-2-65,65>>^ sem contar os seus servos e as suas servas, que eram sete mil trezentos e trinta e sete; entre eles havia duzentos cantores e cantoras.
+
+[[v15-2-66]]
+
+^<<v15-2-66,66>>^ Tinham setecentos e trinta e seis cavalos, duzentos e quarenta e cinco machos,
+
+[[v15-2-67]]
+
+^<<v15-2-67,67>>^ quatrocentos e trinta e cinco camelos, seis mil setecentos e vinte jumentos.
+
+[[v15-2-68]]
+
+^<<v15-2-68,68>>^ Muitos dos chefes das famílias, tendo entrado no templo do Senhor que está em Jerusalém, fizeram oferendas espontâneas à casa de Deus, para se reedificar no seu lugar.
+
+[[v15-2-69]]
+
+^<<v15-2-69,69>>^ Deram, conforme as suas posses, para a despesa da obra, sessenta e um mil dáricos de ouro, cinco mil minas de prata e cem vestimentas sacerdotais.
+
+[[v15-2-70]]
+
+^<<v15-2-70,70>>^ Os sacerdotes, os Levitas, os do povo, os cantores, os porteiros e os Natineus estabeleceram-se nas suas cidades. Todo o Israel (habitou) nas suas cidades.
+
+'''
+
+xref:015-esdras/015-esdras-001.adoc#v15-1-0[&#60; Capítulo Anterior] | <<v15-2-0,Topo>> | xref:015-esdras/015-esdras-003.adoc#v15-3-0[Próximo Capítulo &#62;]

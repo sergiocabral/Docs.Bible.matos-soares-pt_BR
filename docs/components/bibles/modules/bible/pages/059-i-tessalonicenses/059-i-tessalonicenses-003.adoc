@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v59-3-0]]
+=== I Tessalonicenses, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de 1 Tessalonicenses descreve como Paulo enviou Timóteo para saber das notícias da igreja em Tessalônica e para encorajá-los em sua fé. Timóteo volta com boas notícias sobre a firmeza da fé dos tessalonicenses, o que traz grande consolo para Paulo. Seguem cinco versículos que se relacionam com os temas abordados em 1 Tessalonicenses 3:
+* 2 Coríntios 1:3-4: "Louvado seja o Deus e Pai de nosso Senhor Jesus Cristo, Pai das misericórdias e Deus de toda consolação, que nos consola em todas as nossas tribulações, para que, com a consolação que recebemos de Deus, possamos consolar os que estão passando por tribulações." Esse versículo fala sobre a consolação que Deus nos oferece em momentos difíceis, um tema que também é abordado em 1 Tessalonicenses 3.
+* 2 Timóteo 1:7: "Porque Deus não nos deu espírito de covardia, mas de poder, de amor e de equilíbrio." Esse versículo fala sobre a força e coragem que Deus nos concede, um tema que também é enfatizado em 1 Tessalonicenses 3.
+* Hebreus 10:24-25: "E consideremos uns aos outros para nos incentivarmos ao amor e às boas obras. Não deixemos de reunir-nos como igreja, segundo o costume de alguns, mas procuremos encorajar-nos uns aos outros, ainda mais quando vocês veem que se aproxima o Dia." Esse versículo fala sobre a importância do encorajamento mútuo na vida cristã, um tema que é enfatizado em 1 Tessalonicenses 3.
+* 2 Tessalonicenses 2:16-17: "Ora, que nosso Senhor Jesus Cristo mesmo e Deus, o nosso Pai, que nos amou e nos deu eterna consolação e boa esperança pela graça, console o coração de vocês e os fortaleça para fazerem e dizerem tudo o que é bom." Esse versículo fala sobre a consolação e fortalecimento que Deus nos oferece, um tema que é abordado em 1 Tessalonicenses 3.
+* Romanos 1:12: "isto é, que vocês e eu sejamos mutuamente encorajados pela fé que temos um ao outro." Esse versículo destaca a importância do encorajamento mútuo na fé cristã, um tema que é enfatizado em 1 Tessalonicenses 3.
+****
+
+[[v59-3-1]]
+
+^<<v59-3-1,1>>^ Pelo que, não podendo mais sofrer (a falta de noticias vossas), preferimos ficar sós em Atenas,
+
+[[v59-3-2]]
+
+^<<v59-3-2,2>>^ e enviamos Timóteo, nosso irmão e ministro de Deus no Evangelho de Cristo, para vos fortalecer e confortar, na vossa fé,
+
+[[v59-3-3]]
+
+^<<v59-3-3,3>>^ a fim de que ninguém seja abalado por estas tribulações, pois vós mesmos sabeis que para isto fomos destinados.
+
+[[v59-3-4]]
+
+^<<v59-3-4,4>>^ Pois, quando ainda estávamos convosco, vos predizíamos que havíamos de padecer tribulações, como com efeito aconteceu e vós o sabeis.
+
+[[v59-3-5]]
+
+^<<v59-3-5,5>>^ Por isso, não podendo eu sofrer mais demora, enviei a buscar notícias da vossa fé, temendo que o tentador vos tenha tentado e que se torne inútil o nosso trabalho.
+
+[[v59-3-6]]
+
+^<<v59-3-6,6>>^ Mas agora, voltando Timóteo a nós, depois de vos ter visitado, e trazendo-nos boas novas da vossa fé e caridade, da vossa sempre afetuosa lembrança de nós, do vosso desejo de nos tornar a ver, desejo igual ao nosso (de vos tornar a ver, a vós)
+
+[[v59-3-7]]
+
+^<<v59-3-7,7>>^ com isto temos sido consolados a vosso respeito, pela vossa fé, no meio de toda a nossa angústia e tribulação,
+
+[[v59-3-8]]
+
+^<<v59-3-8,8>>^ porque agora (podemos dizer que) vivem os, visto que vós estais firmes no Senhor. (ver nota)
+
+[[v59-3-9]]
+
+^<<v59-3-9,9>>^ Que ação de graças podemos dar a Deus por vós, por toda a alegria que gozamos por vossa causa diante do nosso Deus?
+
+[[v59-3-10]]
+
+^<<v59-3-10,10>>^ Pedimos-lhe de noite e de dia, com a maior instância, que cheguemos a ver a vossa face e que completemos o que falta à vossa fé.
+
+[[v59-3-11]]
+
+^<<v59-3-11,11>>^ Que o mesmo Deus, Pai nosso, e Nosso Senhor Jesus Cristo, encaminhem os nossos passos para vós.
+
+[[v59-3-12]]
+
+^<<v59-3-12,12>>^ Senhor vos faça crescer e abundar na caridade, uns para com os outros, e para com todos, assim como é a nossa para convosco.
+
+[[v59-3-13]]
+
+^<<v59-3-13,13>>^ Que os vossos corações, livres de culpa, sejam confirmados na santidade diante de nosso Deus e Pai, por ocasião da vinda de Nosso Senhor Jesus Cristo, com todos os seus santos.
+
+'''
+
+xref:059-i-tessalonicenses/059-i-tessalonicenses-002.adoc#v59-2-0[&#60; Capítulo Anterior] | <<v59-3-0,Topo>> | xref:059-i-tessalonicenses/059-i-tessalonicenses-004.adoc#v59-4-0[Próximo Capítulo &#62;]

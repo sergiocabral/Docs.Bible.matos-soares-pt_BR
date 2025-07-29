@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v10-1-0]]
+=== II Samuel, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Samuel 1 relata a morte de Saul e seu filho Jônatas e o lamento de Davi pela perda de seu amigo Jônatas. Os versículos selecionados a seguir tratam de temas como morte, luto e amizade.
+* Provérbios 17:17: "Em todo tempo ama o amigo e para a hora da angústia nasce o irmão." Este versículo destaca a importância da amizade e mostra como ela pode se tornar ainda mais forte em tempos difíceis.
+* Salmos 116:15: "Preciosa é à vista do SENHOR a morte dos seus santos." Este versículo pode trazer conforto àqueles que perderam entes queridos, pois mostra que Deus se importa com a morte de seus filhos e que ela é valiosa aos seus olhos.
+* João 11:25-26: "Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá; e todo aquele que vive e crê em mim nunca morrerá. Crês tu isto?" Este versículo traz esperança e conforto para aqueles que acreditam em Jesus e na vida eterna.
+* 1 Tessalonicenses 4:13-14: "Não queremos, porém, irmãos, que sejais ignorantes com respeito aos que dormem, para que não vos entristeçais como os outros que não têm esperança. Porque, se cremos que Jesus morreu e ressuscitou, assim também aos que em Jesus dormem, Deus os tornará a trazer com ele." Este versículo também fala sobre a vida eterna e mostra que aqueles que morrem em Cristo serão ressuscitados por Deus.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda a consolação, que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus." Este versículo fala sobre o papel de Deus como aquele que nos consola em tempos difíceis e também nos encoraja a consolar os outros que estão passando por tribulações semelhantes.
+****
+
+[[v10-1-1]]
+
+^<<v10-1-1,1>>^ Sucedeu que, depois da morte de Saul, Davide voltou da derrota dos Amalecitas e esteve dois dias em Siceleg.
+
+[[v10-1-2]]
+
+^<<v10-1-2,2>>^ Ao terceiro dia, apareceu um homem, que vinha do campo de Saul, com a roupa rasgada e a cabeça coberta de pó. Logo que chegou a Davide, prostrou-se com o rosto em terra, fazendo-lhe um a profunda reverência.
+
+[[v10-1-3]]
+
+^<<v10-1-3,3>>^ Davide disse-lhe: Donde vens? Ele respondeu-lhe: Eu salvei-me do acampamento de Israel. (ver nota)
+
+[[v10-1-4]]
+
+^<<v10-1-4,4>>^ Davide disse-lhe: O que aconteceu? Dize-mo. Ele respondeu: O povo fugiu da batalha, muitos do povo caíram mortos, e até Saul e seu filho Jónatas pereceram
+
+[[v10-1-5]]
+
+^<<v10-1-5,5>>^ Davide disse ao jovem que lhe dava esta nova: Como sabes tu que Saul e Jónatas, seu filho, morreram?
+
+[[v10-1-6]]
+
+^<<v10-1-6,6>>^ O jovem, que lhe dava a notícia, respondeu: Fui, casualmente, ao monte de Gelboé, e encontrei Saul que se apoiava sobre a sua lança, quando carros e cavaleiros se aproximavam dele.
+
+[[v10-1-7]]
+
+^<<v10-1-7,7>>^ Olhando para trás e vendo-me, chamou-me. Tendo-lhe eu respondido: Aqui me tens
+
+[[v10-1-8]]
+
+^<<v10-1-8,8>>^ perguntou-me: Quem és tu? Eu respondi-lhe: Sou um Amalecita.
+
+[[v10-1-9]]
+
+^<<v10-1-9,9>>^ Ele disse-me: Lança-te sobre mim e mata-me, porque estou muito angustiado, e toda a minha vida está ainda em mim.
+
+[[v10-1-10]]
+
+^<<v10-1-10,10>>^ Lançando-me sobre ele, matei-o, porque via que ele não podia viver depois da derrota; tomei o diadema, que tinha na cabeça, e o bracelete do braço, e aqui o trouxe a ti, meu Senhor.
+
+[[v10-1-11]]
+
+^<<v10-1-11,11>>^ Davide, porém, apanhando as suas vestes, as rasgou e (igualmente) todos os homens que estavam com ele.
+
+[[v10-1-12]]
+
+^<<v10-1-12,12>>^ Fizeram pranto, chorando e jejuando, até a tarde por Saul e Jónatas, seu filho, pelo povo do Senhor e pela casa de Israel, porque tinha perecido à espada.
+
+[[v10-1-13]]
+
+^<<v10-1-13,13>>^ Davide disse ao jovem que lhe trouxera a notícia: Donde és tu? Ele respondeu-lhe: Sou filho dum homem estrangeiro Amalecita.
+
+[[v10-1-14]]
+
+^<<v10-1-14,14>>^ Davide disse-lhe: como não temeste estender a mão para matar o ungido do Senhor?
+
+[[v10-1-15]]
+
+^<<v10-1-15,15>>^ Davide (então), chamando um dos seus criados, disse-lhe: Vem cá, lança-te sobre esse homem. Ele feriu o amalecita, que morreu.
+
+[[v10-1-16]]
+
+^<<v10-1-16,16>>^ Davide disse-lhe: O teu sangue (caia) sobre a tua cabeça, porque a tua própria boca falou contra ti, ao dizer: Eu matei o ungido do Senhor.
+
+[[v10-1-17]]
+
+^<<v10-1-17,17>>^ Então Davide compôs este cântico fúnebre sobre Saul e sobre Jónatas, seu filho,
+
+[[v10-1-18]]
+
+^<<v10-1-18,18>>^ e ordenou que o ensinassem aos filhos de Judá. É o Cântico do Arco, e está escrito no livro do Justo: (ver nota)
+
+[[v10-1-19]]
+
+^<<v10-1-19,19>>^ A tua glória, Israel, pereceu sobre os teus montes. Como caíram os heróis?
+
+[[v10-1-20]]
+
+^<<v10-1-20,20>>^ Não o noticies em Get, nem o publiqueis nas ruas de Ascalon, para que não se alegrem as filhas dos Filisteus, não exultem as filhas dos incircuncidados.
+
+[[v10-1-21]]
+
+^<<v10-1-21,21>>^ ó montes de Gelboé, nem orvalho, nem chuva caiam sobre vós; nem haja campos de (que oferecer) primícias, porque lá foi lançado por terra o escudo dos fortes, o escudo de Saul, como se não tivesse sido ungido com óleo.
+
+[[v10-1-22]]
+
+^<<v10-1-22,22>>^ Sem sangue de mortos, sem gordura de fortes, o arco de Jónatas nunca voltou para trás, e a espada de Saul nunca se retirou em vão.
+
+[[v10-1-23]]
+
+^<<v10-1-23,23>>^ Saul e Jónatas, amáveis e belos na sua vida, também na morte se não separaram. Eram mais ligeiros do que as águias, mais valentes do que os leões.
+
+[[v10-1-24]]
+
+^<<v10-1-24,24>>^ Filhas de Israel, chorai sobre Saul, que vos vestia de púrpura entre as delícias, e que vos dava os ornamentos de ouro para vosso enfeite.
+
+[[v10-1-25]]
+
+^<<v10-1-25,25>>^ Como foi morto Jónatas sobre os teus montes? Como caíram os fortes no combate?
+
+[[v10-1-26]]
+
+^<<v10-1-26,26>>^ Choro por ti, ó meu irmão Jónatas, que eras para mim tão querido! A tua amizade era mais preciosa para mim que o amor das mulheres!
+
+[[v10-1-27]]
+
+^<<v10-1-27,27>>^ Como caíram os heróis? Como pereceram os fortes guerreiros!
+
+'''
+
+xref:009-i-samuel/009-i-samuel-031.adoc#v9-31-0[&#60; Capítulo Anterior] | <<v10-1-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-002.adoc#v10-2-0[Próximo Capítulo &#62;]

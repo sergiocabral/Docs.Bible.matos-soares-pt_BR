@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v14-13-0]]
+=== II Crônicas, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 13 narra a guerra entre Abias, rei de Judá, e Jeroboão, rei de Israel, que havia se rebelado contra Roboão e formado um reino separado ao norte. Durante a batalha, Abias faz um discurso em que lembra o povo de Judá da aliança que Deus fez com Davi e seus descendentes, e como essa aliança lhes dava a vantagem moral sobre Israel.
+* Salmos 78:9: "Os filhos de Efraim, armados e trazendo arcos, viraram as costas no dia da peleja." Este versículo fala sobre a traição e deserção de uma tribo de Israel durante uma batalha, o que poderia ter sido semelhante à traição de Jeroboão por alguns de seus homens.
+* Salmos 78:35: "E se lembraram de que Deus era a sua rocha, e o Deus Altíssimo o seu Redentor." Este versículo lembra a importância de confiar em Deus e lembrar das suas promessas durante momentos difíceis, como a batalha entre Judá e Israel.
+* Salmos 78:71: "De após as ovelhas deu-o a pastorear, e a Jacó, seu povo, a Israel, sua herança." Este versículo fala sobre como Deus escolheu Davi, um simples pastor de ovelhas, para ser o rei de Israel e liderar seu povo, lembrando a aliança feita com Davi que Abias menciona em seu discurso.
+* Isaías 55:3: "Inclinai os ouvidos, e vinde a mim; ouvi, e a vossa alma viverá; porque convosco farei um pacto perpétuo, dando-vos as firmes beneficências de Davi." Este versículo fala sobre o convite de Deus para seu povo, oferecendo a eles a vida e uma aliança perpétua, que pode ser interpretada como uma referência à aliança de Deus com Davi que Abias menciona.
+* Salmos 33:16: "Não há rei que se salve com o grande exército; nem o homem valente se livra pela muita força." Este versículo lembra que a vitória em uma batalha não depende apenas do tamanho ou força do exército, mas também da vontade de Deus e da justiça da causa.
+****
+
+[[v14-13-1]]
+
+^<<v14-13-1,1>>^ No ano décimo do reinado de Jeroboão, reinou Abia sobre Judá.
+
+[[v14-13-2]]
+
+^<<v14-13-2,2>>^ Reinou três anos em Jerusalém. Sua mãe chamava-se Micaia, filha de Uriel de Gabaa. Houve guerra entre Abia e Jeroboão.
+
+[[v14-13-3]]
+
+^<<v14-13-3,3>>^ Abia rompeu as hostilidades, tendo consigo gente fortíssima e quatrocentos mil homens escolhidos. Jeroboão pôs também em batalha um exército de oitocentos mil homens, os quais também eram soldados escolhidos e valentíssimos para a guerra.
+
+[[v14-13-4]]
+
+^<<v14-13-4,4>>^ Abia fez alto sobre o monte Semeron, que estava na tribo de Efraim, e disse: Ouvi-me, Jeroboão e todo o Israel:
+
+[[v14-13-5]]
+
+^<<v14-13-5,5>>^ Porventura ignorais vós que o Senhor Deus de Israel deu para sempre a Davide e aos seus descendentes a soberania sobre Israel por um pacto inviolável?
+
+[[v14-13-6]]
+
+^<<v14-13-6,6>>^ Jeroboão, filho de Nabat, servo de Salomão, filho de Davide, levantou-se e revoltou-se contra seu Senhor.
+
+[[v14-13-7]]
+
+^<<v14-13-7,7>>^ Uma multidão de homens vãos, filhos de Belial, juntaram-se a ele, e fizeram-se mais fortes do que Roboão, filho de Salomão; Roboão era um homem sem experiência e de coração cobarde, por isso não lhes pôde resistir.
+
+[[v14-13-8]]
+
+^<<v14-13-8,8>>^ Agora vós dizeis que podeis resistir ao reino do Senhor, que ele possui por meio dos descendentes de Davide. Sois uma multidão numerosa, e tendes os novilhos de ouro que Jeroboão vos fez para vossos deuses.
+
+[[v14-13-9]]
+
+^<<v14-13-9,9>>^ Vós expulsastes os sacerdotes do Senhor, filhos de Aarão, e os Levitas, e fizestes para vós (outros) sacerdotes à maneira de todos os povos da terra: qualquer que se apresente à consagração, trazendo (para o sacrifício) um novilho e sete carneiros, é feito sacerdote daqueles que não são deuses.
+
+[[v14-13-10]]
+
+^<<v14-13-10,10>>^ Para nós o Senhor é Deus (verdadeiro), a quem não deixamos; ao Senhor servem os sacerdotes da linhagem de Aarão, e os Levitas o servem em seus ministérios.
+
+[[v14-13-11]]
+
+^<<v14-13-11,11>>^ Cada dia, de manhã e de tarde, oferecem holocaustos ao Senhor e perfumes compostos segundo os preceitos da lei; expõem os pães numa mesa limpíssima, e acendem, todas as tardes, o candelabro de ouro com as suas lâmpadas, porque nós guardamos os preceitos do Senhor nosso Deus, a quem vós abandonastes.
+
+[[v14-13-12]]
+
+^<<v14-13-12,12>>^ Por isso o capitão do nosso exército é Deus, e os seus sacerdotes são os que tocam as trombetas e as fazem retinir contra vós. Filhos de Israel não queirais combater contra o Senhor Deus de vossos pais, porque isto vos não convém.
+
+[[v14-13-13]]
+
+^<<v14-13-13,13>>^ Enquanto assim falava, Jeroboão foi executando um movimento envolvente, com guerreiros postos em emboscadas; estando acampado defronte dos inimigos, ia cercando com o seu exército Judá, sem este o perceber.
+
+[[v14-13-14]]
+
+^<<v14-13-14,14>>^ Porém, tendo Judá voltado a cabeça e reconhecido que vinha sobre ele, por diante e por detrás, clamou ao Senhor, e os sacerdotes começaram a tocar as trombetas.
+
+[[v14-13-15]]
+
+^<<v14-13-15,15>>^ Todo o exército de Judá levantou uma grande vozearia. Quando eles assim gritavam, infundiu Deus temor em Jeroboão e em todo o Israel que estava defronte de Abia e de Judá.
+
+[[v14-13-16]]
+
+^<<v14-13-16,16>>^ Os filhos de Israel fugiram diante de Judá, e Deus entregou-lhos nas suas mãos.
+
+[[v14-13-17]]
+
+^<<v14-13-17,17>>^ Abia e a sua gente desbarataram-nos com grande destroço, caindo feridos do lado de Israel quinhentos mil homens valentes.
+
+[[v14-13-18]]
+
+^<<v14-13-18,18>>^ Foram humilhados os filhos de Israel naquele tempo, e os filhos de Judá cobraram grandíssimo alento, porque tinham esperado no Senhor Deus de seus pais.
+
+[[v14-13-19]]
+
+^<<v14-13-19,19>>^ Abia foi perseguindo Jeroboão, que fugia, e tomou-lhe várias cidades: Betel com as suas dependências, Jesana com as suas dependências, e Efron com as suas dependências.
+
+[[v14-13-20]]
+
+^<<v14-13-20,20>>^ Jeroboão não pôde mais resistir durante o reinado de Abia; o Senhor feriu Jeroboão, e ele morreu.
+
+[[v14-13-21]]
+
+^<<v14-13-21,21>>^ Abia, firmado o seu reino, tomou catorze mulheres e teve vinte e dois filhos e dezasseis filhas.
+
+[[v14-13-22]]
+
+^<<v14-13-22,22>>^ O resto das ações de Abia, e dos seus costumes e feitos, está escrito com toda a exatidão no livro do profeta Ado.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-012.adoc#v14-12-0[&#60; Capítulo Anterior] | <<v14-13-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-014.adoc#v14-14-0[Próximo Capítulo &#62;]

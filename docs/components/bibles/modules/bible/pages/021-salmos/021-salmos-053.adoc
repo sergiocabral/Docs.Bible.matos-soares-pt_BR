@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-53-0]]
+=== Salmos, 53
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 53 fala sobre a insensatez e a corrupção dos ímpios, que rejeitam a Deus e vivem segundo seus próprios desejos egoístas. O salmista clama por justiça e salvação, confiando que Deus, como o libertador de Israel, irá derrotar seus inimigos. Seguem abaixo cinco versículos relacionados com os temas abordados neste Salmo:
+* Salmos 14:1 - "Diz o tolo em seu coração: 'Deus não existe'. Corromperam-se e cometeram atos detestáveis; não há ninguém que faça o bem." Este versículo é semelhante ao primeiro versículo de Salmo 53, que começa com "O tolo diz em seu coração: 'Deus não existe'". Ambos os salmos enfatizam a insensatez dos ímpios e sua corrupção moral.
+* Isaías 53:3 - "Foi desprezado e rejeitado pelos homens, um homem de tristeza e familiarizado com o sofrimento. Como alguém de quem os homens escondem o rosto, foi desprezado, e nós não o consideramos." Este versículo, do livro de Isaías, fala sobre a rejeição de Jesus Cristo pelos homens e sua identificação com o sofrimento. Assim como o salmista do Salmo 53, Jesus foi desprezado e rejeitado pelos homens, mas, em última análise, foi justificado por Deus.
+* Salmos 82:5 - "Eles nada sabem, nada entendem; vagueiam pelas trevas; todos os fundamentos da terra estão abalados." Este versículo destaca a ignorância dos ímpios e sua falta de compreensão sobre a verdade de Deus. Essa ignorância é a causa da corrupção moral e da injustiça descritas em Salmo 53.
+* Provérbios 28:5 - "Os homens maus não entendem a justiça, mas aqueles que buscam ao Senhor a compreendem plenamente." Este versículo também destaca a falta de entendimento dos ímpios sobre a justiça de Deus. Aqueles que buscam a Deus, no entanto, têm uma compreensão mais profunda da justiça divina.
+* Isaías 35:4 - "Dizei aos desalentados de coração: 'Sede fortes, não temais; eis o vosso Deus! Ele vem para vingar e para recompensar; ele vem para salvar-nos'." Este versículo fala sobre a salvação que Deus traz a seus fiéis e sua vingança contra seus inimigos. O salmista de Salmo 53 clama por salvação e justiça semelhantes, confiando que Deus irá derrotar seus inimigos e restaurar a justiça.
+****
+
+[[v21-53-1]]
+
+^<<v21-53-1,1>>^ Ao mestre do coro. Para instrumentos de corda. Maskil. De Davide, depois que os Zifeus foram ter com Saul e lhe disseram:
+
+[[v21-53-2]]
+
+^<<v21-53-2,2>>^ "Eis que Davide está escondido entre nós."
+
+[[v21-53-3]]
+
+^<<v21-53-3,3>>^ Salva-me, ó Deus, por teu nome, e com o teu poder defende a minha causa,
+
+[[v21-53-4]]
+
+^<<v21-53-4,4>>^ Ouve, ó Deus, a minha oração; atende às palavras da minha boca.
+
+[[v21-53-5]]
+
+^<<v21-53-5,5>>^ Com efeito, os soberbos levantaram-se contra mim, homens violentos buscaram a minha vida; não puseram a Deus diante dos seus olhos.
+
+[[v21-53-6]]
+
+^<<v21-53-6,6>>^ Mas eis que Deus vem em meu auxílio, o Senhor sustenta a minha vida.
+
+[[v21-53-7]]
+
+^<<v21-53-7,7>>^ Faz recair os males sobre os meus inimigos, e extermina-os por tua fidelidade.
+
+[[v21-53-8]]
+
+^<<v21-53-8,8>>^ Eu te oferecerei um sacrifício voluntário, celebrarei o teu nome. Senhor, porque é bom.
+
+[[v21-53-9]]
+
+^<<v21-53-9,9>>^ Porquanto tem-me livrado de toda a tribulação, e os meus olhos viram confundidos os meus inimigos.
+
+'''
+
+xref:021-salmos/021-salmos-052.adoc#v21-52-0[&#60; Capítulo Anterior] | <<v21-53-0,Topo>> | xref:021-salmos/021-salmos-054.adoc#v21-54-0[Próximo Capítulo &#62;]

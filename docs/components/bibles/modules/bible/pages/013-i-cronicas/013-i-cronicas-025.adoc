@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v13-25-0]]
+=== I Crônicas, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 25 trata da organização dos músicos levitas para o serviço no Templo, incluindo a nomeação dos líderes e a divisão dos grupos musicais. Os versículos selecionados abaixo estão relacionados com a música, adoração e culto ao Senhor.
+* 1 Crônicas 16:4: "E pôs perante a arca do Senhor alguns dos levitas por ministros, para lembrarem, e para celebrarem, e para louvarem ao Senhor Deus de Israel" Este versículo destaca a importância dos levitas como ministros na adoração e celebração do Senhor, o que está relacionado com o papel dos músicos levitas em 1 Crônicas 25.
+* Salmo 33:3: "Cantai-lhe um cântico novo; tocai bem e com júbilo." Este salmo incentiva a criação de novos cânticos para louvar ao Senhor, o que pode ter sido uma prática comum entre os músicos levitas de 1 Crônicas 25.
+* Salmo 150:3-5: "Louvai-o com o som de trombeta; louvai-o com o saltério e a harpa. Louvai-o com o adufe e a flauta; louvai-o com instrumentos de cordas e com órgãos. Louvai-o com os címbalos sonoros; louvai-o com címbalos altissonantes." Este salmo lista uma variedade de instrumentos musicais que podem ter sido utilizados pelos músicos levitas em suas apresentações no Templo.
+* 1 Crônicas 16:42: "Com eles estavam Hemã e Jedutum, com trombetas e címbalos, para os que haviam de tocar e com outros instrumentos de música de Deus." Este versículo destaca a presença de instrumentos de música de Deus no culto ao Senhor, o que pode ter incluído os instrumentos utilizados pelos músicos levitas.
+* 2 Crônicas 5:12-13: "E também os levitas, que eram cantores, todos eles, de Asafe, de Hemã, de Jedutum, e de seus filhos e seus irmãos, vestidos de linho fino, com címbalos, e com saltérios, e com harpas, estavam em pé ao oriente do altar; e com eles cento e vinte sacerdotes, que tocavam trombetas." Este versículo descreve a apresentação dos músicos levitas durante a dedicação do Templo de Salomão, que pode ter seguido um modelo semelhante ao dos músicos levitas de 1 Crônicas 25.
+****
+
+[[v13-25-1]]
+
+^<<v13-25-1,1>>^ Davide e os chefes do exército escolheram para o ministério os filhos de Asaf, de Heman e de Iditun, a fim de tocarem harpa, cítara e címbalos, servindo segundo o seu número no emprego que lhes tinha sido destinado.
+
+[[v13-25-2]]
+
+^<<v13-25-2,2>>^ Dos filhos de Asaf: Zacur, José, Natanias, Asarela, filhos de Asaf, sob a direção de Asaf, que cantava junto do rei.
+
+[[v13-25-3]]
+
+^<<v13-25-3,3>>^ Quanto a Iditun, os filhos de Iditun eram: Godolias, Sori, Jeseias, Hasabias, Mataias (e Semei), seis sob a direção de seu pai Iditun, que cantava ao som da cítara, presidindo aos que cantavam e louvavam ao Senhor.
+
+[[v13-25-4]]
+
+^<<v13-25-4,4>>^ Quanto a Heman, os filhos de Heman eram: Bociau, Mataniau, Oziel, Subuel, Jerimot, Hananias, Hanani, Eliata, Gedelti, Romentiezer, Jesbacassa, Meloti, Otir, Maaziot.
+
+[[v13-25-5]]
+
+^<<v13-25-5,5>>^ Todos estes eram filhos de Heman, vidente do rei, para cantar louvores de Deus, para exaltar o seu poder. Deus tinha dado a Heman quatorze filhos e três filhas.
+
+[[v13-25-6]]
+
+^<<v13-25-6,6>>^ Todos estavam distribuídos sob a direção de seus pais, isto é, de Asaf, de Iditun e de Heman, para cantarem no templo do Senhor, ao som de címbalos, cítaras e harpas, para exercerem os ministérios da casa do Senhor junto do rei.
+
+[[v13-25-7]]
+
+^<<v13-25-7,7>>^ O número destes, com seus irmãos, todos exercitados em cantar ao Senhor, que ensinavam os cânticos do Senhor, era de duzentos e oitenta e oito.
+
+[[v13-25-8]]
+
+^<<v13-25-8,8>>^ Deitaram sortes pelas suas classes, tanto o maior como o menor, tanto o mestre como o discípulo,
+
+[[v13-25-9]]
+
+^<<v13-25-9,9>>^ A primeira sorte saiu a José, que era da casa de Asaf. A segunda a Godolias, para ele, para seus filhos e irmãos, que eram doze.
+
+[[v13-25-10]]
+
+^<<v13-25-10,10>>^ A terceira a Zacur, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-11]]
+
+^<<v13-25-11,11>>^ A quarta a Izari, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-12]]
+
+^<<v13-25-12,12>>^ A quinta a Natanias, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-13]]
+
+^<<v13-25-13,13>>^ A sexta a Bociau, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-14]]
+
+^<<v13-25-14,14>>^ A sétima a Isreela, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-15]]
+
+^<<v13-25-15,15>>^ A oitava a Jesaia, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-16]]
+
+^<<v13-25-16,16>>^ A nona a Matanias, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-17]]
+
+^<<v13-25-17,17>>^ A décima a Semeias, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-18]]
+
+^<<v13-25-18,18>>^ A undécima a Azareel, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-19]]
+
+^<<v13-25-19,19>>^ A duodécima a Hasabias, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-20]]
+
+^<<v13-25-20,20>>^ A décima terceira a Subael, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-21]]
+
+^<<v13-25-21,21>>^ A décima quarta a Matatia, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-22]]
+
+^<<v13-25-22,22>>^ A décima quinta a Jerimot, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-23]]
+
+^<<v13-25-23,23>>^ A décima sexta a Hananias, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-24]]
+
+^<<v13-25-24,24>>^ A décima sétima a Jesbacasse, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-25]]
+
+^<<v13-25-25,25>>^ A décima oitava a Hanani, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-26]]
+
+^<<v13-25-26,26>>^ A décima nona a Meloti, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-27]]
+
+^<<v13-25-27,27>>^ A vigésima a Eliata, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-28]]
+
+^<<v13-25-28,28>>^ A vigésima primeira a Otir, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-29]]
+
+^<<v13-25-29,29>>^ A vigésima segunda a Gedelti a seus filhos e irmãos, que eram doze.
+
+[[v13-25-30]]
+
+^<<v13-25-30,30>>^ A vigésima terceira a Maaziot, a seus filhos e irmãos, que eram doze.
+
+[[v13-25-31]]
+
+^<<v13-25-31,31>>^ A vigésima quarta a Romemtiezer, a seus filhos e irmãos que eram doze.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-024.adoc#v13-24-0[&#60; Capítulo Anterior] | <<v13-25-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-026.adoc#v13-26-0[Próximo Capítulo &#62;]

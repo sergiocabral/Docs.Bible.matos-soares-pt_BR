@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v21-71-0]]
+=== Salmos, 71
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 71 é um salmo de súplica e confiança em Deus em meio a dificuldades e perseguições. O salmista clama pela proteção e salvação de Deus e coloca a sua fé Nele como a sua esperança e refúgio. Os versículos escolhidos são:
+* Isaías 46:4: "Até à vossa velhice, eu serei o mesmo e ainda até às cãs eu vos trarei; eu o fiz e eu vos levarei, e eu vos trarei e vos guardarei." Este versículo fala da fidelidade de Deus em cuidar e proteger o Seu povo, mesmo na velhice.
+* Salmos 22:9-10: "Mas tu és aquele que me tiraste do ventre; tu me preservaste confiado aos seios de minha mãe. Sobre ti fui lançado desde a madre; tu és o meu Deus desde o ventre de minha mãe." Este versículo fala da confiança do salmista em Deus desde o seu nascimento e da sua dependência total em Deus.
+* Salmos 31:1-2: "Em ti, SENHOR, confio; nunca me deixes confundido. Livra-me pela tua justiça e faze-me escapar; inclina os teus ouvidos para mim e salva-me." Este versículo expressa a confiança do salmista em Deus e o seu pedido por proteção e salvação.
+* Salmos 46:1-3: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. Pelo que não temeremos, ainda que a terra se mude e ainda que os montes se projetem para o meio dos mares; ainda que as águas rujam e espumem, ainda que os montes se abalem pela sua braveza." Este versículo fala da proteção e fortaleza de Deus em meio a situações difíceis e perigosas.
+* Salmos 73:26: "A minha carne e o meu coração desfalecem; mas Deus é a fortaleza do meu coração e a minha porção para sempre." Este versículo fala da dependência do salmista em Deus mesmo em meio às suas fraquezas e dificuldades, reconhecendo que somente em Deus ele pode encontrar força e sustento.
+****
+
+[[v21-71-1]]
+
+^<<v21-71-1,1>>^ De Salomão. Ó Deus dá o teu poder de julgar ao rei, e a tua justiça ao filho do rei:
+
+[[v21-71-2]]
+
+^<<v21-71-2,2>>^ governe o teu povo com justiça, e os teus humildes com rectidão.
+
+[[v21-71-3]]
+
+^<<v21-71-3,3>>^ Levem os montes paz ao povo, e os outeiros justiça. (ver nota)
+
+[[v21-71-4]]
+
+^<<v21-71-4,4>>^ Protegerá os humildes do povo, salvará os filhos dos pobres, e esmagará o opressor.
+
+[[v21-71-5]]
+
+^<<v21-71-5,5>>^ E viverá tanto como o sol e como a lua por todas as gerações.
+
+[[v21-71-6]]
+
+^<<v21-71-6,6>>^ Descerá como a chuva sobre a relva, como a chuva que penetra na terra.
+
+[[v21-71-7]]
+
+^<<v21-71-7,7>>^ Nos seus dias florescerá a justiça e a abundância da paz, até que a lua deixe de existir.
+
+[[v21-71-8]]
+
+^<<v21-71-8,8>>^ E dominará de mar a mar, e desde o rio (Eufrates) até às extremidades da terra.
+
+[[v21-71-9]]
+
+^<<v21-71-9,9>>^ Diante dele se prostrarão os seus inimigos, e os seus adversários lamberão o pó.
+
+[[v21-71-10]]
+
+^<<v21-71-10,10>>^ Os reis de Tarsis e as ilhas oferecerão dons, os reis da Arábia e de Sabá trarão presentes:
+
+[[v21-71-11]]
+
+^<<v21-71-11,11>>^ adorá-lo-ão todos os reis, todas as nações o servirão.
+
+[[v21-71-12]]
+
+^<<v21-71-12,12>>^ Com efeito, livrará o pobre que o invoca, e o miserável que não tem quem lhe valha.
+
+[[v21-71-13]]
+
+^<<v21-71-13,13>>^ Usará de clemência com o desvalido e pobre, salvará a vida dos pobres:
+
+[[v21-71-14]]
+
+^<<v21-71-14,14>>^ da injúria e da opressão os livrará, e o sangue deles será precioso a seus olhos.
+
+[[v21-71-15]]
+
+^<<v21-71-15,15>>^ Por isso viverá e lhe darão ouro da Arábia, e orarão sempre por ele, e sem cessar o bendirão.
+
+[[v21-71-16]]
+
+^<<v21-71-16,16>>^ Haverá abundância de trigo na terra, no alto dos montes os seus frutos murmurejarão como o Líbano, e florescerão os habitantes das cidades como a erva dos campos. (ver nota)
+
+[[v21-71-17]]
+
+^<<v21-71-17,17>>^ O seu nome será bendito pelos séculos; enquanto o sol resplandecer, subsistirá o seu nome. Serão benditas nele todas as tribos da terra, todas as nações o proclamarão bem-aventurado.
+
+[[v21-71-18]]
+
+^<<v21-71-18,18>>^ Bendito seja o Senhor Deus de Israel, único que faz maravilhas.
+
+[[v21-71-19]]
+
+^<<v21-71-19,19>>^ Bendito seja para sempre o seu nome glorioso, e encha-se da sua glória toda a terra. Assim seja, assim seja. (ver nota)
+
+'''
+
+xref:021-salmos/021-salmos-070.adoc#v21-70-0[&#60; Capítulo Anterior] | <<v21-71-0,Topo>> | xref:021-salmos/021-salmos-072.adoc#v21-72-0[Próximo Capítulo &#62;]

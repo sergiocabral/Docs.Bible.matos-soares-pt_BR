@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v30-47-0]]
+=== Jeremias, 47
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 47 de Jeremias, encontramos uma profecia sobre a destruição de Gaza. A cidade costeira seria atacada pelos babilônios e seus habitantes seriam mortos ou levados como prisioneiros. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Isaías 14:29: "Não te alegres, ó Filístia toda, por ter sido quebrado o bordão que te feria; porque da raiz da cobra sairá um basilisco, e o seu fruto será uma serpente ardente de dois gumes." Este versículo se relaciona com a profecia de Jeremias sobre Gaza, pois menciona os filisteus, povo que habitava a região onde ficava a cidade, e fala sobre o surgimento de uma serpente que traria destruição.
+* Amós 1:6-7: "Assim diz o Senhor: Por três transgressões de Gaza, e por quatro, não retirarei o castigo, porque levaram cativo um povo inteiro para o entregarem a Edom. Por isso porei fogo aos muros de Gaza, e este consumirá os seus palácios." Este versículo faz uma referência direta à cidade de Gaza e fala sobre o castigo que seria enviado por Deus por causa dos seus pecados.
+* Sofonias 2:4-5: "Porque Gaza será desamparada, e Ascalom ficará como um deserto; Asdode será expulsa ao meio-dia, e Ecrom será desarraigada. Ai dos habitantes do litoral, do povo dos queretitas! A palavra do Senhor está contra vós, ó Canaã, terra dos filisteus; e eu vos destruirei, até que não haja mais habitante." Este versículo é outra profecia que menciona Gaza e outras cidades próximas que seriam destruídas pelos babilônios.
+* Ezequiel 25:15-17: "Assim diz o Senhor Deus: Porquanto os filisteus procederam, vingando-se com desprezo e com ódio de antiga inimizade, com intenção de destruir a Judá, por isso assim diz o Senhor Deus: Eis que eu estendo a minha mão sobre os filisteus, e extirpo os queretitas, e faço perecer o restante da costa do mar. E executarei neles grandes vinganças, com furiosos castigos; e saberão que eu sou o Senhor, quando eu tiver exercido a minha vingança sobre eles." Este versículo fala sobre a ira de Deus contra os filisteus, que se opunham ao povo de Judá, e anuncia a destruição da costa do mar, o que inclui Gaza.
+* Jeremias 25:20: "e a todos os reis da terra dos filisteus, a Ascalom, a Gaza, a Ecrom, e ao que resta de Asdode." Este versículo faz parte de uma profecia sobre a destruição de várias cidades, incluindo Gaza. É uma indicação de que a cidade já havia sido mencionada anteriormente como alvo do juízo divino.
+****
+
+[[v30-47-1]]
+
+^<<v30-47-1,1>>^ Palavra do Senhor que foi dirigida ao profeta Jeremias sobre os Filisteus, antes que Faraó tomasse Gaza.
+
+[[v30-47-2]]
+
+^<<v30-47-2,2>>^ Isto diz o Senhor: Eis que se levantam as águas (os exércitos) do Aquilão, como uma torrente que inunda; cobrirão a terra e quanto há nela, a cidade e os seus moradores. Soltam gritos os homens, uivam todos os habitantes da terra.
+
+[[v30-47-3]]
+
+^<<v30-47-3,3>>^ Por causa do estrondo do galopar dos seus cavalos, por causa do ruído dos seus carros, do reboar das suas rodas, os pais não atendem aos filhos, perdido o vigor das mãos,
+
+[[v30-47-4]]
+
+^<<v30-47-4,4>>^ porque chega o dia em que serão destruídos todos os Filisteus, em que serão arruinadas Tiro e Sidónia com todos os seus auxiliares, porque o Senhor entregou ao saque os Filisteus, restos da ilha de Caftor.
+
+[[v30-47-5]]
+
+^<<v30-47-5,5>>^ Gaza rapou a cabeça (em sinal de luto), Ascalon calou-se. Resto de Anaquim, até quando te farás incisões?
+
+[[v30-47-6]]
+
+^<<v30-47-6,6>>^ Ó espada do Senhor, até quando não repousarás? Entra na tua bainha, mitiga esse ardor em silêncio.
+
+[[v30-47-7]]
+
+^<<v30-47-7,7>>^ Mas, como descansará ela, se o Senhor lhe deu as suas ordens contra Ascalon e contra as suas regiões marítimas, e lhe prescreveu o que lá deve fazer?
+
+'''
+
+xref:030-jeremias/030-jeremias-046.adoc#v30-46-0[&#60; Capítulo Anterior] | <<v30-47-0,Topo>> | xref:030-jeremias/030-jeremias-048.adoc#v30-48-0[Próximo Capítulo &#62;]

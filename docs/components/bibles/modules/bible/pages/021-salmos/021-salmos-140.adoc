@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v21-140-0]]
+=== Salmos, 140
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmo 140 é um salmo de lamentação e súplica a Deus para livrar o salmista daqueles que conspiram contra ele. Os temas principais incluem a maldade dos ímpios e a proteção de Deus sobre os justos.
+* Provérbios 6:12: "O homem ímpio e fraudulento anda com a boca torta," Este versículo fala sobre os ímpios e sua natureza enganosa, o que é semelhante ao que o salmista descreve em relação aos seus inimigos no Salmo 140.
+* Salmo 34:17: "Os justos clamam, e o Senhor os ouve e os livra de todas as suas angústias." O salmista de Salmo 140 clama a Deus para livrá-lo de seus inimigos e protegê-lo. Este versículo fala sobre a promessa de Deus de ouvir e livrar os justos de suas aflições.
+* Salmo 121:7: "O Senhor guardará você de todo mal; ele guardará a sua vida." Este versículo fala sobre a proteção de Deus sobre a vida dos justos e é semelhante à petição do salmista em Salmo 140 para que Deus o proteja dos seus inimigos.
+* Provérbios 24:17: "Não se alegre quando o seu inimigo cair, nem se regozije o seu coração quando ele tropeçar." Este versículo fala sobre a importância de não se alegrar com o mal dos outros, mesmo que sejam inimigos. É uma lição importante para lembrar quando se está enfrentando inimigos, como o salmista de Salmo 140.
+* 2 Timóteo 4:18: "O Senhor me livrará de toda obra maligna e me levará salvo para o seu Reino celestial. A ele seja a glória para todo o sempre! Amém." Este versículo fala sobre a confiança do apóstolo Paulo na proteção de Deus contra todas as obras malignas e sua fé no Reino celestial de Deus. É uma afirmação semelhante à confiança do salmista em Salmo 140 na proteção de Deus.
+****
+
+[[v21-140-1]]
+
+^<<v21-140-1,1>>^ Salmo, De Davide. Senhor, a ti clamo; socorre-me depressa; atende à minha voz, quando clamo a ti.
+
+[[v21-140-2]]
+
+^<<v21-140-2,2>>^ Suba directa a ti a minha oração, como incenso, seja a elevação das minhas mãos (tão agradável) como o sacrifício da tarde.
+
+[[v21-140-3]]
+
+^<<v21-140-3,3>>^ Põe, Senhor, uma guarda à minha boca, sentinela à porta dos meus lábios.
+
+[[v21-140-4]]
+
+^<<v21-140-4,4>>^ Não deixes inclinar o meu coração para coisa má, para cometer crimes; nem com os homens que cometem a iniquidade, coma eu jamais dos seus lautos manjares.
+
+[[v21-140-5]]
+
+^<<v21-140-5,5>>^ Bata-me o justo: isso é piedade; repreenda-me: é perfume para a cabeça, o qual a minha cabeça não recusará; antes hei-de orar sempre, sob os seus golpes.
+
+[[v21-140-6]]
+
+^<<v21-140-6,6>>^ Os seus príncipes caíram junto do rochedo, e ouviram quão suaves eram as minhas palavras. (ver nota)
+
+[[v21-140-7]]
+
+^<<v21-140-7,7>>^ Assim como a terra quando é sulcada e fendida, assim foram dispersos os seus ossos junto da sepultura.
+
+[[v21-140-8]]
+
+^<<v21-140-8,8>>^ Para ti pois, Senhor, se volvem os meus olhos; a ti me acolho: não permitas que se perca a minha alma.
+
+[[v21-140-9]]
+
+^<<v21-140-9,9>>^ Guarda-me do laço, que armaram contra mim, e das emboscadas dos que praticam a iniquidade.
+
+[[v21-140-10]]
+
+^<<v21-140-10,10>>^ Caiam todos juntos, em suas próprias redes, os ímpios, enquanto eu escape incólume.
+
+'''
+
+xref:021-salmos/021-salmos-139.adoc#v21-139-0[&#60; Capítulo Anterior] | <<v21-140-0,Topo>> | xref:021-salmos/021-salmos-141.adoc#v21-141-0[Próximo Capítulo &#62;]

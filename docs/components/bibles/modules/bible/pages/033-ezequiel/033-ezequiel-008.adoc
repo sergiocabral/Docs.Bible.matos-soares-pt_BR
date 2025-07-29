@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v33-8-0]]
+=== Ezequiel, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 8 descreve a visão que o profeta teve da idolatria praticada no Templo de Jerusalém, incluindo imagens de adoração a deuses pagãos, sacrifícios a ídolos e outras práticas abomináveis. Os versículos a seguir são relacionados com esse tema:
+* Deuteronômio 12:4 - "Não farás assim ao Senhor, teu Deus." Este versículo se refere à proibição de adoração a outros deuses e a exigência de servir apenas ao Senhor. Ezequiel testemunhou a violação dessa proibição no Templo de Jerusalém.
+* Êxodo 20:3 - "Não terás outros deuses diante de mim." Esse é o primeiro mandamento da Lei dada a Moisés. Ezequiel testemunhou a violação desse mandamento no Templo de Jerusalém, onde imagens de deuses pagãos estavam sendo adoradas.
+* Deuteronômio 5:8-9 - "Não farás para ti imagem de escultura, nem semelhança alguma do que há em cima no céu, nem em baixo na terra, nem nas águas debaixo da terra. Não te encurvarás a elas nem as servirás." Esses versículos se referem à proibição de fazer imagens de deuses e de adorá-las. Ezequiel viu no Templo de Jerusalém a violação dessa proibição.
+* Isaías 44:9-20 - Esses versículos descrevem a tolice da adoração de ídolos e imagens de escultura. Ezequiel viu essa tolice sendo praticada no Templo de Jerusalém e pregou contra ela.
+* Jeremias 7:9-11 - Esses versículos denunciam a falsa segurança que o povo de Judá colocava em seu Templo, apesar da idolatria e outras abominações que estavam ocorrendo lá. Ezequiel também denunciou a confiança equivocada que o povo colocava em seu Templo e em suas práticas religiosas.
+****
+
+[[v33-8-1]]
+
+^<<v33-8-1,1>>^ No ano sexto, no sexto mês, aos cinco do mês, quando eu estava sentado em minha casa e estavam sentados diante de mim os anciães de Judá, caiu sobre mim a mão do Senhor Deus.
+
+[[v33-8-2]]
+
+^<<v33-8-2,2>>^ E tive uma visão; Era uma figura que tinha o aspecto de fogo; dos seus rins para baixo, era de fogo; e dos rins para cima, era como uma luz resplandecente, como um metal brilhante.
+
+[[v33-8-3]]
+
+^<<v33-8-3,3>>^ E estendeu uma semelhança de mão, tomou-me por uma madeixa da minha cabeça; e o espírito levantou-me entre a terra e o céu, e levou-me a Jerusalém, em visões divinas, pondo-me junto da porta interior que olha para a banda do aquilão, onde tinha sido colocado o ídolo do ciúme, que provoca a emulação (de Deus).
+
+[[v33-8-4]]
+
+^<<v33-8-4,4>>^ E eis que aparecia ali a glória do Deus de Israel, conforme a visão que eu tinha tido no descampado,
+
+[[v33-8-5]]
+
+^<<v33-8-5,5>>^ Ele disse-me: Filho de homem, levanta os teus olhos para o norte. Levantei os olhos para o norte e vi ao norte da porta do altar aquele ídolo do ciúme, à entrada.
+
+[[v33-8-6]]
+
+^<<v33-8-6,6>>^ E ele disse-me: Filho de homem, vês o que fazem estes, as grandes abominações que a casa de Israel comete aqui, para que me retire para longe do meu santuário? Pois verás abominações ainda maiores,
+
+[[v33-8-7]]
+
+^<<v33-8-7,7>>^ Conduziu-me à entrada do átrio, e vi que havia ali um buraco na parede.
+
+[[v33-8-8]]
+
+^<<v33-8-8,8>>^ E disse-me: Filho de homem, escava a parede. Tendo eu escavado a parede, apareceu uma porta.
+
+[[v33-8-9]]
+
+^<<v33-8-9,9>>^ E ele disse-me: Entra e vê as péssimas abominações que estes aqui cometem.
+
+[[v33-8-10]]
+
+^<<v33-8-10,10>>^ Tendo entrado, vi que havia ali imagens de toda a sorte de répteis e de animais imundos, e que ídolos da casa de Israel estavam pintados na parede por toda a roda.
+
+[[v33-8-11]]
+
+^<<v33-8-11,11>>^ Setenta homens dos anciães da casa de Israel estavam em pé diante dos ídolos e Jezomas, filho de Safam, também em pé no meio, deles, tendo cada um na sua mão um turíbulo, donde se elevava o fumo do incenso, como uma névoa.
+
+[[v33-8-12]]
+
+^<<v33-8-12,12>>^ E ele disse-me: Vês bem, filho de homem, o que os anciães da casa de Israel fazem nas trevas, o que cada um deles pratica no segredo da sua câmara, ornada de ídolos? Com efeito, eles dizem: O Senhor não nos vê, o Senhor retirou-se da (nossa) terra.
+
+[[v33-8-13]]
+
+^<<v33-8-13,13>>^ Então disse-me ele: Verás ainda muitas outras grandes abominações que estes cometem.
+
+[[v33-8-14]]
+
+^<<v33-8-14,14>>^ E levou-me a entrada da porta da casa do Senhor, que olha para a banda do aquilão, e eis que estavam ali umas mulheres sentadas, chorando Adónis.
+
+[[v33-8-15]]
+
+^<<v33-8-15,15>>^ Ele disse-me: Viste, filho de homem? (Pois) ainda adorado, maiores abominações do que estas.
+
+[[v33-8-16]]
+
+^<<v33-8-16,16>>^ Introduziu-me, então, no átrio interior da casa do Senhor; e eis que se achavam à porta do templo do Senhor, entre o vestíbulo e o altar, uns vinte e cinco homens, que tinham as costas voltadas para o templo do Senhor, e o rosto voltado para o oriente, os quais se prostravam, para o oriente, diante do Sol. (ver nota)
+
+[[v33-8-17]]
+
+^<<v33-8-17,17>>^ E ele disse-me: Viste, filho de homem; Porventura é coisa pouca, para a casa de Judá, fazer as abominações que têm feito aqui? (Será preciso que) vão ainda encher a terra de iniquidade e irritar-me sem cessar? E eis que chegam ao seu nariz um ramo.
+
+[[v33-8-18]]
+
+^<<v33-8-18,18>>^ Pois também eu os tratarei com rigor, o meu olho não os poupará, não me compadecerei deles: quando me gritarem aos ouvidos em alta voz, não os atenderei.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-007.adoc#v33-7-0[&#60; Capítulo Anterior] | <<v33-8-0,Topo>> | xref:033-ezequiel/033-ezequiel-009.adoc#v33-9-0[Próximo Capítulo &#62;]

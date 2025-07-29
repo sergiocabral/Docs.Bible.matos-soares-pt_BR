@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v58-2-0]]
+=== Colossenses, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Colossenses trata da importância da verdadeira sabedoria e conhecimento de Deus em contraste com falsas filosofias e tradições humanas. Paulo adverte os colossenses a não serem enganados por ensinamentos vazios e argumenta que a plenitude de Deus habita em Cristo. Ele também aborda a questão da circuncisão e exorta os colossenses a não se deixarem escravizar por rituais e práticas externas. Seguem cinco versículos que se relacionam com os temas abordados em Colossenses 2:
+* Provérbios 2:6: "Pois o Senhor concede sabedoria, e de sua boca vêm o conhecimento e o discernimento." Esse versículo destaca a importância da sabedoria e do conhecimento que vêm de Deus, um tema central em Colossenses 2.
+* 1 Coríntios 1:30: "Porém, graças a ele, vocês estão em Cristo Jesus, o qual se tornou para nós sabedoria da parte de Deus, justiça, santidade e redenção." Esse versículo destaca a importância de Cristo como a fonte da verdadeira sabedoria de Deus, um tema enfatizado em Colossenses 2.
+* Efésios 4:14: "Então não seremos mais como crianças, levados de um lado para outro pelas ondas, nem jogados para cá e para lá por todo vento de doutrina e pela astúcia e esperteza de homens que induzem ao erro." Esse versículo destaca a importância de estar firmado na verdade e de não ser enganado por ensinamentos falsos, um tema que também é abordado em Colossenses 2.
+* Gálatas 5:1: "Foi para a liberdade que Cristo nos libertou. Portanto, permaneçam firmes e não se deixem submeter novamente a um jugo de escravidão." Esse versículo destaca a importância da liberdade em Cristo e adverte contra a escravidão a rituais e práticas religiosas externas, um tema que é enfatizado em Colossenses 2.
+* 2 Timóteo 3:16-17: "Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça, para que o homem de Deus seja apto e plenamente preparado para toda boa obra." Esse versículo destaca a importância da Escritura como fonte de verdade e instrução na vida cristã, um tema que é enfatizado em Colossenses 2.
+****
+
+[[v58-2-1]]
+
+^<<v58-2-1,1>>^ Quero, pois, que saibais qual o combate que sustento por vós e por aqueles que estão em Laodiceia, pelas e por todos os que não viram a minha face na carne,
+
+[[v58-2-2]]
+
+^<<v58-2-2,2>>^ a fim de que os seus corações sejam consolados, e eles estejam unidos na caridade e na abundância de uma perfeita inteligência, para conhecerem o mistério de Deus, que é Cristo,
+
+[[v58-2-3]]
+
+^<<v58-2-3,3>>^ no qual estão encerrados todos os tesouros da sabedoria e da ciência.
+
+[[v58-2-4]]
+
+^<<v58-2-4,4>>^ Digo-vos isto, para que ninguém vos engane com discursos subtis,
+
+[[v58-2-5]]
+
+^<<v58-2-5,5>>^ porque, posto que ausente quanto Cristo, ao corpo, estou todavia convosco em espírito, regozijando-me por ver a vossa boa ordem e a firmeza da vossa fé em Cristo.
+
+[[v58-2-6]]
+
+^<<v58-2-6,6>>^ Portanto, vivei em Cristo Jesus, o Senhor, como vos foi ensinado,
+
+[[v58-2-7]]
+
+^<<v58-2-7,7>>^ arraigados e edificados nele, fortificados na fé, como já aprendestes, crescendo nele em ação de graças.
+
+[[v58-2-8]]
+
+^<<v58-2-8,8>>^ Vede que ninguém vos engane por meio da filosofia inútil e enganadora, segundo a tradição dos homens, segundo os elementos do mundo, e não segundo Cristo.
+
+[[v58-2-9]]
+
+^<<v58-2-9,9>>^ Porque nele habita, corporalmente, toda a plenitude da divindade, (ver nota)
+
+[[v58-2-10]]
+
+^<<v58-2-10,10>>^ e vós estais cheios (de graça e de ciência) nele, que é a cabeça de todo o principado e potestade;
+
+[[v58-2-11]]
+
+^<<v58-2-11,11>>^ também nele estais circuncidados com uma circuncisão não feita por mão de homem, mas que consiste no despojo do corpo da carne, (isto é) na circuncisão de Cristo. (ver nota)
+
+[[v58-2-12]]
+
+^<<v58-2-12,12>>^ Tendo sido sepultados (para o pecado) com ele no batismo, com ele também ressuscitastes (para a vida da graça) mediante a fé na ação de Deus, que o ressuscitou dos mortos.
+
+[[v58-2-13]]
+
+^<<v58-2-13,13>>^ A vós, que estáveis mortos pelos vossos pecados e pela incircuncisão (ou desordem) da vossa carne, vos deu vida juntamente com ele, perdoando-nos todos os nossos pecados.
+
+[[v58-2-14]]
+
+^<<v58-2-14,14>>^ Destruiu a acta redigida contra nós, cujas disposições nos condenavam, e fê-la desaparecer, encravando-a na cruz.
+
+[[v58-2-15]]
+
+^<<v58-2-15,15>>^ Despojou os principados e potestades (infernais), e fez deles um objecto de escárnio público, triunfando deles pela cruz.
+
+[[v58-2-16]]
+
+^<<v58-2-16,16>>^ Ninguém, pois, vos condene pelo comer ou pelo beber, ou por causa de um dia de festa, ou de uma lua nova, ou de um sábado, (ver nota)
+
+[[v58-2-17]]
+
+^<<v58-2-17,17>>^ todas estas coisas são sombra das vindouras; a realidade é Cristo.
+
+[[v58-2-18]]
+
+^<<v58-2-18,18>>^ Ninguém vos seduza, afetando humildade e culto dos anjos, divagando por coisas que nunca viu, inchado em vão com seus pensamentos carnais, (ver nota)
+
+[[v58-2-19]]
+
+^<<v58-2-19,19>>^ sem estar unido com a cabeça (que é Cristo), da qual todo o corpo, organizado e servido por ligamentos e junturas, cresce com aumento dado por Deus.
+
+[[v58-2-20]]
+
+^<<v58-2-20,20>>^ Portanto, se estais mortos com Cristo para os elementos deste mundo, por que é que, como se vivêsseis no mundo, vos submeteis a essas prescrições (da lei mosaica):
+
+[[v58-2-21]]
+
+^<<v58-2-21,21>>^ "Não tomeis, nem proveis, nem manuseeis!" (ver nota)
+
+[[v58-2-22]]
+
+^<<v58-2-22,22>>^ Todas estas coisas perecem pelo próprio uso. São preceitos e doutrinas dos homens.
+
+[[v58-2-23]]
+
+^<<v58-2-23,23>>^ Tudo isso tem na verdade uma aparência de sabedoria no culto voluntário (e supersticioso dos anjos), na humildade (afetada) e no mau tratamento do corpo, mas tudo isto é sem honra e só para satisfação da carne. (ver nota)
+
+'''
+
+xref:058-colossenses/058-colossenses-001.adoc#v58-1-0[&#60; Capítulo Anterior] | <<v58-2-0,Topo>> | xref:058-colossenses/058-colossenses-003.adoc#v58-3-0[Próximo Capítulo &#62;]

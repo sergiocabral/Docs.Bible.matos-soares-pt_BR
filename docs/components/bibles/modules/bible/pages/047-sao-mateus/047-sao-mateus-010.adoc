@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v47-10-0]]
+=== São Mateus, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 10 de São Mateus trata da escolha e envio dos discípulos por Jesus para proclamarem a mensagem do Reino de Deus, bem como das instruções e advertências que ele lhes dá para a sua missão. Os versículos relacionados com os temas abordados neste capítulo são:
+* Marcos 3:14-15: "E escolheu doze, para que estivessem com ele e os mandasse a pregar, e para que tivessem o poder de curar as enfermidades e expulsar os demônios."
+Este versículo mostra a escolha dos doze discípulos por Jesus, que também foram enviados para pregar e realizar milagres.
+* Mateus 10:5-6: "A estes doze enviou Jesus, e ordenou-lhes, dizendo: Não ireis pelo caminho dos gentios, nem entrareis em cidade de samaritanos; mas ide antes às ovelhas perdidas da casa de Israel."
+Neste versículo, Jesus dá instruções específicas aos seus discípulos sobre onde iriam pregar: primeiramente aos judeus, antes de se voltarem para os gentios.
+* Lucas 10:1: "Depois disto, designou o Senhor ainda outros setenta, e mandou-os adiante da sua face, de dois em dois, a todas as cidades e lugares aonde ele havia de ir."
+Além dos doze discípulos, Jesus também enviou setenta outros discípulos para proclamarem a mensagem do Reino.
+* Mateus 10:16: "Eis que vos envio como ovelhas ao meio de lobos; portanto, sede prudentes como as serpentes e simples como as pombas."
+Neste versículo, Jesus adverte seus discípulos sobre as dificuldades e perigos que eles enfrentariam em sua missão, e os encoraja a serem sábios e prudentes.
+* Lucas 10:16: "Quem vos ouve, a mim me ouve; e quem vos rejeita, a mim me rejeita; e quem me rejeita, rejeita aquele que me enviou."
+Este versículo mostra a importância da mensagem dos discípulos, que são enviados em nome de Jesus e em obediência à sua vontade. Aqueles que os rejeitam também estão rejeitando a Jesus e o Pai que o enviou.
+****
+
+[[v47-10-1]]
+
+^<<v47-10-1,1>>^ Tendo convocado os seus doze discípulos, deu-lhes Jesus poder de expulsar os espíritos imundos, e de curar todas as doenças e todas as enfermidades.
+
+[[v47-10-2]]
+
+^<<v47-10-2,2>>^ Os nomes dos doze Apóstolos são: O primeiro é Simão, chamado Pedro, depois André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;
+
+[[v47-10-3]]
+
+^<<v47-10-3,3>>^ Filipe e Bartolomeu; Tomé e Mateus, o publicano; Tiago, filho de Alfeu, e Tadeu;
+
+[[v47-10-4]]
+
+^<<v47-10-4,4>>^ Simão Cannaneu, e Judas Iscariotes, que foi quem o entregou.
+
+[[v47-10-5]]
+
+^<<v47-10-5,5>>^ A estes doze enviou Jesus, depois de lhes ter dado as instruções seguintes: "Não vades (agora) para entre os gentios, nem entreis nas cidades dos samaritanos,
+
+[[v47-10-6]]
+
+^<<v47-10-6,6>>^ ide antes às ovelhas perdidas da casa de Israel.
+
+[[v47-10-7]]
+
+^<<v47-10-7,7>>^ Pondo-vos a caminho, anunciai que está próximo o reino dos céus.
+
+[[v47-10-8]]
+
+^<<v47-10-8,8>>^ Curai os enfermos, ressuscitai os mortos, limpai os leprosos, expeli os demônios. Dai de graça o que de graça recebestes.
+
+[[v47-10-9]]
+
+^<<v47-10-9,9>>^ Não queirais trazer nas vossas cinturas nem ouro, nem prata, nem dinheiro,
+
+[[v47-10-10]]
+
+^<<v47-10-10,10>>^ nem alforje para o caminho, nem duas túnicas, nem sandálias, nem bastão; porque o operário tem direito ao seu alimento.
+
+[[v47-10-11]]
+
+^<<v47-10-11,11>>^ Em qualquer cidade ou aldeia, em que entrardes, informai-vos de quem há nela digno de vos receber, e ficai ai até que vos retireis.
+
+[[v47-10-12]]
+
+^<<v47-10-12,12>>^ Ao entrardes na casa, saudai-a, dizendo: A paz seja nesta casa.
+
+[[v47-10-13]]
+
+^<<v47-10-13,13>>^ Se aquela casa for digna, descerá sobre ela a vossa paz; se não for digna, a vossa paz tornará para vós.
+
+[[v47-10-14]]
+
+^<<v47-10-14,14>>^ Se não vos receberem nem ouvirem as vossas palavras, ao sair para fora daquela casa ou cidade, sacudi o pó dos vossos pés.
+
+[[v47-10-15]]
+
+^<<v47-10-15,15>>^ Em verdade vos digo que será menos punida no dia do juízo a terra de Sodoma e de Gomorra do que aquela cidade.
+
+[[v47-10-16]]
+
+^<<v47-10-16,16>>^ Eis que eu vos mando como ovelhas no meio de lobos. Sede pois prudentes como serpentes, e simples como pombas.
+
+[[v47-10-17]]
+
+^<<v47-10-17,17>>^ Acautelai-vos dos homens, porque vos farão comparecer nos seus tribunais, e vos açoutarão nas sinagogas.
+
+[[v47-10-18]]
+
+^<<v47-10-18,18>>^ Sereis levados por minha causa à presença dos governadores e dos reis, como testemunho diante deles e diante dos gentios.
+
+[[v47-10-19]]
+
+^<<v47-10-19,19>>^ Quando vos entregarem, não cuideis como ou o que haveis de falar, porque naquela hora vos será inspirado o que haveis de dizer.
+
+[[v47-10-20]]
+
+^<<v47-10-20,20>>^ Porque não sereis vós que falais, mas o Espírito de vosso Pai é o que falará em vós.
+
+[[v47-10-21]]
+
+^<<v47-10-21,21>>^ O irmão entregará à morte o seu irmão, e o pai (entregará) o filho; os filhos se levantarão contra os pais, e lhes darão a morte. (ver nota)
+
+[[v47-10-22]]
+
+^<<v47-10-22,22>>^ Vós, por causa do meu nome, sereis odiados por todos; aquele, porém, que perseverar até ao fim, será salvo.
+
+[[v47-10-23]]
+
+^<<v47-10-23,23>>^ Quando vos perseguirem numa cidade, fugi para outra. Em verdade vos digo que não acabareis de percorrer as cidades de Israel sem que venha o Filho do homem.
+
+[[v47-10-24]]
+
+^<<v47-10-24,24>>^ Não é O discípulo mais que o mestre, nem o servo mais que o senhor. (ver nota)
+
+[[v47-10-25]]
+
+^<<v47-10-25,25>>^ Basta ao discípulo ser como o mestre, e ao servo como o senhor. Se eles chamaram Belzebu ao pai de família, quanto mais aos seus domésticos?
+
+[[v47-10-26]]
+
+^<<v47-10-26,26>>^ Não os temais, pois, porque nada há encoberto que se não venha a descobrir, nem oculto que se não venha a saber.
+
+[[v47-10-27]]
+
+^<<v47-10-27,27>>^ O que eu vos digo nas trevas, dizei-o às claras, e o que é dito ao ouvido, pregai-o sobre os telhados.
+
+[[v47-10-28]]
+
+^<<v47-10-28,28>>^ Não temais os que matam o corpo, e não podem matar a alma. Temei antes aquele que pode lançar na geena a alma e o corpo.
+
+[[v47-10-29]]
+
+^<<v47-10-29,29>>^ Porventura não se vendem dois passarinhos por um asse? E, todavia, nem um só deles cairá sobre a terra sem a permissão de vosso Pai.
+
+[[v47-10-30]]
+
+^<<v47-10-30,30>>^ Até os próprios cabelos da vossa cabeça estão todos contados.
+
+[[v47-10-31]]
+
+^<<v47-10-31,31>>^ Não temais, pois; vós valeis mais que muitos pássaros.
+
+[[v47-10-32]]
+
+^<<v47-10-32,32>>^ Todo aquele, portanto, que me confessar diante dos homens, também eu o confessarei diante de meu Pai, que está nos céus.
+
+[[v47-10-33]]
+
+^<<v47-10-33,33>>^ Porém o que me negar diante dos homens, também eu o negarei diante de meu Pai, que está nos céus.
+
+[[v47-10-34]]
+
+^<<v47-10-34,34>>^ Não julgueis que vim trazer a paz à terra; não vim trazer a paz, mas a espada.
+
+[[v47-10-35]]
+
+^<<v47-10-35,35>>^ Porque vim separar o filho de seu pai, e a filha de sua mãe, e a nora da sua sogra.
+
+[[v47-10-36]]
+
+^<<v47-10-36,36>>^ E os inimigos do homem serão os seus próprios domésticos (Mic. 7, 6).
+
+[[v47-10-37]]
+
+^<<v47-10-37,37>>^ O que ama o pai ou a mãe mais do que a mim, não é digno de mim; e o que ama o filho ou a filha mais do que a mim, não é digno de mim.
+
+[[v47-10-38]]
+
+^<<v47-10-38,38>>^ O que não toma a sua cruz e não me segue, não é digno de mim.
+
+[[v47-10-39]]
+
+^<<v47-10-39,39>>^ O que se prende à sua vida perdê-la-á, e o que perder a sua vida por meu amor, achá-la-á.
+
+[[v47-10-40]]
+
+^<<v47-10-40,40>>^ O que vos recebe, a mim recebe, e o que me recebe, recebe aquele que me enviou.
+
+[[v47-10-41]]
+
+^<<v47-10-41,41>>^ O que recebe um profeta; na qualidade de profeta, receberá a recompensa do profeta; o que recebe um justo na qualidade de justo, receberá a recompensa de justo.
+
+[[v47-10-42]]
+
+^<<v47-10-42,42>>^ E todo o que der a beber um simples copo de água fresca a um destes pequeninos, a título de ser meu discípulo, na verdade vos digo que não perderá a sua recompensa."
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-009.adoc#v47-9-0[&#60; Capítulo Anterior] | <<v47-10-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-011.adoc#v47-11-0[Próximo Capítulo &#62;]

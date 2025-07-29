@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v6-1-0]]
+=== Josué, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 de Josué marca o início da liderança de Josué sobre os filhos de Israel, após a morte de Moisés. Deus comissiona Josué para liderar o povo na conquista da terra prometida, e o encoraja a ser forte e corajoso. Josué então transmite essas palavras ao povo, que promete obedecer e seguir Josué como líder.
+* 1 Samuel 18:14: "E Davi prosperava em todos os seus caminhos, porque o Senhor era com ele." Assim como Deus estava com Josué, ele também esteve com Davi em sua missão. Esse versículo destaca a importância da presença e apoio de Deus em nossas vidas.
+* Salmos 27:14: "Espera tu pelo Senhor; anima-te, e fortalece o teu coração; espera, pois, pelo Senhor." Deus encorajou Josué a ser forte e corajoso, e esse verso também nos encoraja a confiar em Deus em tempos difíceis e esperar por ele.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Deus instruiu Josué a seguir sua palavra e liderança, e esse versículo nos ensina a confiar em Deus e seguir seus caminhos em vez de depender de nossa própria sabedoria.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Assim como Deus prometeu a Josué que estaria com ele em sua missão, ele também promete estar conosco em todas as circunstâncias. Esse versículo nos lembra que não precisamos temer, pois Deus está sempre conosco.
+* Mateus 28:19-20: "Portanto, ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo; ensinando-os a observar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos." Esse versículo destaca a importância de obedecer às ordens de Deus e seguir seu comando, assim como Josué foi comissionado por Deus para liderar seu povo na conquista da terra prometida.
+****
+
+[[v6-1-1]]
+
+^<<v6-1-1,1>>^ Aconteceu que, depois da morte de Moisés, servo do Senhor, o Senhor falou a Josué, filho de Nun, ministro de Moisés, e disse-lhe:
+
+[[v6-1-2]]
+
+^<<v6-1-2,2>>^ Meu servo Moisés morreu; levanta-te e passa esse Jordão, tu e todo o povo contigo, entra na terra que eu darei aos filhos de Israel.
+
+[[v6-1-3]]
+
+^<<v6-1-3,3>>^ Todo o lugar, que pisar a planta do vosso pé, eu vo-lo darei, como disse a Moisés.
+
+[[v6-1-4]]
+
+^<<v6-1-4,4>>^ Desde o deserto e desde o Líbano até ao grande rio Eufrates — todo o país dos Heteus — e até ao mar grande para o ocidente, todo este território será vosso.
+
+[[v6-1-5]]
+
+^<<v6-1-5,5>>^ Ninguém vos poderá resistir em todos os dias da vossa vida; como fui com Moisés, assim serei contigo; não te deixarei, nem desampararei.
+
+[[v6-1-6]]
+
+^<<v6-1-6,6>>^ Tem ânimo e sê forte, porque tu hás-de levar este povo à posse da terra, que prometi com juramento a seus pais que lhes havia de dar.
+
+[[v6-1-7]]
+
+^<<v6-1-7,7>>^ Tem ânimo pois, reveste-te de grande fortaleza, para cuidadosamente cumprir toda a lei, que Moisés, meu servo, te prescreveu; não te desvies dela nem para a direita nem para a esquerda, a fim de que sejas feliz em tudo o que fizeres.
+
+[[v6-1-8]]
+
+^<<v6-1-8,8>>^ Não se aparte da tua boca o livro desta lei, mas medita nele dia e noite, cuidando de cumprir tudo o que nele está escrito; então prosperarás em teus caminhos e serás bem sucedido.
+
+[[v6-1-9]]
+
+^<<v6-1-9,9>>^ Porventura não te ordenei: tem ânimo, e sê forte? — Não tenhas, pois, medo nem temor, porque o Senhor teu Deus está contigo em qualquer parte para onde vás.
+
+[[v6-1-10]]
+
+^<<v6-1-10,10>>^ Deu Josué aos príncipes do povo esta ordem: Percorrei os acampamentos, e mandai ao povo o seguinte:
+
+[[v6-1-11]]
+
+^<<v6-1-11,11>>^ Fazei provisão de mantimentos, porque daqui a três dias haveis de passar o Jordão, e entrareis a possuir a terra, que o Senhor vosso Deus vos dá.
+
+[[v6-1-12]]
+
+^<<v6-1-12,12>>^ Disse também aos Rubenitas, aos Gaditas e à meia tribo de Manassés:
+
+[[v6-1-13]]
+
+^<<v6-1-13,13>>^ Lembrai-vos do que vos ordenou Moisés, servo do Senhor, quando vos disse: O Senhor vosso Deus vos deu descanso, e toda esta terra.
+
+[[v6-1-14]]
+
+^<<v6-1-14,14>>^ Vossas mulheres, filhos e animais, ficarão na terra, que Moisés vos deu àquem do Jordão, mas vós todos os que sois (mais) valentes passai armados à frente de vossos irmãos, e pelejai por eles
+
+[[v6-1-15]]
+
+^<<v6-1-15,15>>^ até que o Senhor dê descanso a vossos irmãos, como o deu a vós, e também eles possuam a terra, que o Senhor vosso Deus lhes dá; depois voltareis para a terra que possuís, (para a terra ) que Moisés, servo do Senhor, vos deu àquem do Jordão, para o nascente, e habitareis nela.
+
+[[v6-1-16]]
+
+^<<v6-1-16,16>>^ Eles, respondendo a Josué, disseram: Nós faremos tudo o que nos ordenaste; iremos para onde quer que nos mandares.
+
+[[v6-1-17]]
+
+^<<v6-1-17,17>>^ Assim como em tudo obedecemos a Moisés, assim obedeceremos também a ti; sòmente (desejamos) que o Senhor teu Deus seja contigo, como foi com Moisés.
+
+[[v6-1-18]]
+
+^<<v6-1-18,18>>^ Aquele que contradisser as tuas palavras, que não obedecer a tudo o que lhe mandares, seja morto. Tu (da tua parte) tem ânimo, opera varonilmente (que nós te seguiremos).
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-034.adoc#v5-34-0[&#60; Capítulo Anterior] | <<v6-1-0,Topo>> | xref:006-josue/006-josue-002.adoc#v6-2-0[Próximo Capítulo &#62;]

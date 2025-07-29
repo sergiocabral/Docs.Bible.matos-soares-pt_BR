@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v28-19-0]]
+=== Eclesiástico, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 19 de Eclesiástico aborda diversos temas relacionados à sabedoria e à conduta adequada. Entre os assuntos tratados estão a importância de escolher as amizades corretas, de evitar a fofoca e de buscar o conhecimento. Além disso, o capítulo também ressalta a importância de ser grato e de reconhecer a Deus como fonte de toda a sabedoria.
+* Provérbios 17:17: "Em todo tempo ama o amigo e na angústia se faz o irmão" Este versículo destaca a importância da amizade verdadeira, tema abordado em Eclesiástico 19.
+* Provérbios 20:19: "O mexeriqueiro revela o segredo; por isso não te metas com o que lisonjeia com os seus lábios." Esse versículo aborda o tema da fofoca, que é desencorajado em Eclesiástico 19.
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento; os loucos desprezam a sabedoria e a instrução." A busca pelo conhecimento e pela sabedoria é um dos temas abordados em Eclesiástico 19.
+* Provérbios 15:16: "É melhor o pouco com o temor do Senhor do que um grande tesouro onde há inquietação." Esse versículo destaca a importância de ser grato e de valorizar o que se tem, tema presente em Eclesiástico 19.
+* Provérbios 14:16: "O sábio teme e desvia-se do mal, mas o tolo se encoleriza e dá-se por seguro." Esse versículo destaca a importância de evitar o mal e de seguir uma conduta adequada, tema presente em Eclesiástico 19.
+****
+
+[[v28-19-1]]
+
+^<<v28-19-1,1>>^ O operário dado ao vinho não enriquecerá. Aquele que despreza as coisas pequenas, pouco a pouco cairá.
+
+[[v28-19-2]]
+
+^<<v28-19-2,2>>^ O vinho e as mulheres desencaminham os próprios sábios, e tornam culpáveis os homens sensatos.
+
+[[v28-19-3]]
+
+^<<v28-19-3,3>>^ Aquele que se junta com prostitutas será mau, chegará a ser o pasto da podridão e dos vermes, ficará sendo um grande exemplo, e a sua alma será tirada do número (dos vivos).
+
+[[v28-19-4]]
+
+^<<v28-19-4,4>>^ O crédulo é leve de coração e ficará prejudicado, e o que peca contra a sua alma será tratado com desprezo.
+
+[[v28-19-5]]
+
+^<<v28-19-5,5>>^ Aquele que se deleita com a iniquidade será desonrado; o que aborrece a correcção, abreviará a sua vida; o que aborrece a loquacidade, extingue a malícia.
+
+[[v28-19-6]]
+
+^<<v28-19-6,6>>^ O que peca contra a sua alma arrepender-se-á de o ter feito, e o que se deleita na malícia será desonrado.
+
+[[v28-19-7]]
+
+^<<v28-19-7,7>>^ Não repitas uma palavra má e ofensiva, e não serás diminuído.
+
+[[v28-19-8]]
+
+^<<v28-19-8,8>>^ Não contes os teus pensamentos nem ao amigo nem ao inimigo, e, se cometeste algum pecado, não o descubras.
+
+[[v28-19-9]]
+
+^<<v28-19-9,9>>^ Com efeito, ouvir-te-á e se guardará de ti. e, aparentando desculpar o teu pecado, te aborrecerá, e estará sempre presente (para te prejudicar).
+
+[[v28-19-10]]
+
+^<<v28-19-10,10>>^ Ouviste alguma palavra contra o teu próximo? Morra dentro de ti, ficando seguro de que ela te não fará rebentar.
+
+[[v28-19-11]]
+
+^<<v28-19-11,11>>^ O insensato está como com dores de parto, por causa duma palavra, como a mulher que geme para dar à luz uma criança. (ver nota)
+
+[[v28-19-12]]
+
+^<<v28-19-12,12>>^ Como seta cravada na carne da coxa, assim é a palavra no coração do insensato.
+
+[[v28-19-13]]
+
+^<<v28-19-13,13>>^ Admoesta o teu amigo, porque talvez não tenha compreendido (que fez mal) e te diga; Eu não fiz tal — e para que, se o fez, o não torne a fazer.
+
+[[v28-19-14]]
+
+^<<v28-19-14,14>>^ Repreende o teu próximo porque talvez não tenha dito (o que se lhe atribui), e para que, se o disse, o não torne a dizer.
+
+[[v28-19-15]]
+
+^<<v28-19-15,15>>^ Repreende o teu amigo, porque muitas vezes se diz o que não é verdade;
+
+[[v28-19-16]]
+
+^<<v28-19-16,16>>^ não acredites em tudo o que se diz. Homem há que peca pela língua, mas não do coração.
+
+[[v28-19-17]]
+
+^<<v28-19-17,17>>^ E quem há que não tenha pecado com a língua? Repreende o teu próximo antes de o ameaçares,
+
+[[v28-19-18]]
+
+^<<v28-19-18,18>>^ e dá lugar ao temor do Altíssimo, porque toda a sabedoria é temor de Deus, nela está o temer a Deus, e em toda a sabedoria há o cumprimento da lei.
+
+[[v28-19-19]]
+
+^<<v28-19-19,19>>^ Não é sabedoria a habilidade de fazei mal. nem o pensar dos pecadores é prudência.
+
+[[v28-19-20]]
+
+^<<v28-19-20,20>>^ Há uma malícia (habilidosa) que é execrável, e há (certos) insensatos que (apenas) têm falta de sabedoria
+
+[[v28-19-21]]
+
+^<<v28-19-21,21>>^ Vale mais um homem que tem pouca sabedoria e que é falto de senso, mas que tem o temor de Deus, do que o que tem muito senso, mas que viola a lei do Altíssimo.
+
+[[v28-19-22]]
+
+^<<v28-19-22,22>>^ Há uma habilidade certeira, mas que é injusta.
+
+[[v28-19-23]]
+
+^<<v28-19-23,23>>^ Há quem fale com firmeza (rude), mas expondo a verdade. Há quem se humilhe maliciosamente com o coração cheio de dolo.
+
+[[v28-19-24]]
+
+^<<v28-19-24,24>>^ Há quem se submeta excessivamente, com uma profunda humilhação. Há quem abaixe a sua cabeça, fingindo não ver o que é segredo;
+
+[[v28-19-25]]
+
+^<<v28-19-25,25>>^ porém, se a debilidade o impede de pecar, quando encontrar ocasião de fazer mal, fá-lo-á.
+
+[[v28-19-26]]
+
+^<<v28-19-26,26>>^ Pelo semblante se conhece o homem; pelo seu aspecto se conhece o homem sensato.
+
+[[v28-19-27]]
+
+^<<v28-19-27,27>>^ O vestuário do seu corpo, o riso dos dentes e o andar do homem, dão a conhecer o que ele é.
+
+[[v28-19-28]]
+
+^<<v28-19-28,28>>^ Há uma correcção falsa, que nasce da ira dum insolente, e há um juízo, que se prova não ser justo, e há quem se cale mostrando ser prudente.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-018.adoc#v28-18-0[&#60; Capítulo Anterior] | <<v28-19-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-020.adoc#v28-20-0[Próximo Capítulo &#62;]

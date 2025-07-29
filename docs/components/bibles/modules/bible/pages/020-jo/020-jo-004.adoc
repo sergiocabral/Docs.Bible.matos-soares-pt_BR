@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v20-4-0]]
+=== Jó, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Jó apresenta o discurso de Elifaz, um dos amigos de Jó que tenta consolá-lo e convencê-lo de que seu sofrimento é resultado de seus pecados. Elifaz argumenta que Deus é justo e que os justos não sofrem, portanto, Jó deve ter feito algo errado para merecer tanta aflição. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Jó 4:
+* Salmos 37:25: "Fui jovem e agora sou velho, mas nunca vi o justo desamparado, nem seus filhos mendigando o pão." Este versículo contradiz a afirmação de Elifaz de que os justos não sofrem, indicando que até mesmo os justos podem enfrentar dificuldades e desafios.
+* Provérbios 3:11-12: "Filho meu, não desprezes a correção do Senhor, nem te desanimes quando, por ele, fores repreendido. Porque o Senhor repreende a quem ama, assim como o pai, ao filho a quem quer bem." Este versículo fala sobre a correção divina, que pode incluir sofrimento e provações. Isso é relevante para a perspectiva de Elifaz de que Jó deve ter feito algo errado para merecer seu sofrimento.
+* Tiago 1:2-4: "Meus irmãos, tende por motivo de toda alegria o passardes por várias provações, sabendo que a provação da vossa fé produz a paciência. E a paciência tenha a sua obra perfeita, para que sejais perfeitos e completos, sem faltar em coisa alguma." Este versículo fala sobre como as provações podem ser uma oportunidade de crescimento e fortalecimento da fé. Isso é relevante para a situação de Jó, que está sendo testado em sua fidelidade a Deus.
+* Isaías 55:8-9: "Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos, os meus caminhos, diz o Senhor. Porque, assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos e os meus pensamentos, mais do que os vossos pensamentos." Este versículo fala sobre como os caminhos de Deus podem ser misteriosos e insondáveis, o que é relevante para a situação de Jó, que está lutando para entender por que está sofrendo.
+* Romanos 5:3-5: "E não somente isso, mas também nos gloriamos nas tribulações, sabendo que a tribulação produz a paciência; e a paciência, a experiência; e a experiência, a esperança. E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado." Este versículo fala sobre como as tribulações podem levar a um crescimento na fé e a uma maior esperança. Isso é relevante para a situação de Jó, que está lutando para manter sua fé e sua esperança em meio ao sofrimento.
+****
+
+[[v20-4-1]]
+
+^<<v20-4-1,1>>^ Então, tomando a palavra Elifaz de Teman, disse:
+
+[[v20-4-2]]
+
+^<<v20-4-2,2>>^ Se começarmos a falar-e, talvez tu o leves a mal;
+
+[[v20-4-3]]
+
+^<<v20-4-3,3>>^ mas, quem poderá conter a palavra concebida? Eis que ensinaste a muitos, deste vigor a mãos cansadas.
+
+[[v20-4-4]]
+
+^<<v20-4-4,4>>^ A s tuas palavras firmaram-os que vacilavam, fortaleceste os joelhos trêmulos;
+
+[[v20-4-5]]
+
+^<<v20-4-5,5>>^ porém, agora que veio sobre li (a desgraça), desfaleceste; feriu-te, e tu te perturbaste.
+
+[[v20-4-6]]
+
+^<<v20-4-6,6>>^ A tua piedade não é a tua esperança? A perfeição dos teus caminhos não é a lua segurança?
+
+[[v20-4-7]]
+
+^<<v20-4-7,7>>^ Lembra-te: que inocente pereceu jamais? ou quando foram os justos destruídos?
+
+[[v20-4-8]]
+
+^<<v20-4-8,8>>^ Quanto a mim, tenho visto que os que praticam a iniquidade, os que semeiam dores, as segam.
+
+[[v20-4-9]]
+
+^<<v20-4-9,9>>^ Perecem, a um sopro de Deus, são consumidos por um sopro da sua ira.
+
+[[v20-4-10]]
+
+^<<v20-4-10,10>>^ (Assim é abafado) o rugido do leão, o grito da leoa; (assim) os dentes dos cachorros dos leões são despedaçados. (ver nota)
+
+[[v20-4-11]]
+
+^<<v20-4-11,11>>^ O leão morre por falta de presa, e os cachorros dos leões são dispersos.
+
+[[v20-4-12]]
+
+^<<v20-4-12,12>>^ A mim foi dita uma palavra em segredo, os meus ouvidos, como às furtadelas, perceberam o seu débil som. (ver nota)
+
+[[v20-4-13]]
+
+^<<v20-4-13,13>>^ No horror de uma visão noturna, quando o sono costuma apoderar-se dos homens,
+
+[[v20-4-14]]
+
+^<<v20-4-14,14>>^ o medo e o tremor me assaltaram, e todos os meus ossos estremeceram.
+
+[[v20-4-15]]
+
+^<<v20-4-15,15>>^ Ao passar diante de mim um espirito, os meus cabelos se arripiaram.
+
+[[v20-4-16]]
+
+^<<v20-4-16,16>>^ Parou alguém diante (de mim), cujo rosto eu não conhecia, um espectro diante dos meus olhos, e ouvi uma voz como de branda viração (que dista):
+
+[[v20-4-17]]
+
+^<<v20-4-17,17>>^ Porventura o homem, em confronto com Deus, será tido por justo? ou será puro diante do seu Criador?
+
+[[v20-4-18]]
+
+^<<v20-4-18,18>>^ Ainda os mesmos que o servem, não são estáveis, e (até) nos seus anjos encontrou defeito.
+
+[[v20-4-19]]
+
+^<<v20-4-19,19>>^ Quanto mais aqueles que habitam casas de barro, os quais têm a terra por fundamento, serão consumidos como pela traça?
+
+[[v20-4-20]]
+
+^<<v20-4-20,20>>^ De manhã até à tarde são destroçados, sem que ninguém dê couta, para sempre.
+
+[[v20-4-21]]
+
+^<<v20-4-21,21>>^ A corda da sua tenda (vida) é cortada, perecem, morrem, mas não em sabedoria (isto é como insensatos).
+
+'''
+
+xref:020-jo/020-jo-003.adoc#v20-3-0[&#60; Capítulo Anterior] | <<v20-4-0,Topo>> | xref:020-jo/020-jo-005.adoc#v20-5-0[Próximo Capítulo &#62;]

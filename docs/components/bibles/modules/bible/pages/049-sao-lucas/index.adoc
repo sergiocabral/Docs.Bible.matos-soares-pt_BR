@@ -1,0 +1,32 @@
+include::../index.adoc[]
+
+[[v49-0-0]]
+== São Lucas
+
+[cols="8*^"]
+|===
+| xref:049-sao-lucas/049-sao-lucas-001.adoc#v49-1-0[1]
+| xref:049-sao-lucas/049-sao-lucas-002.adoc#v49-2-0[2]
+| xref:049-sao-lucas/049-sao-lucas-003.adoc#v49-3-0[3]
+| xref:049-sao-lucas/049-sao-lucas-004.adoc#v49-4-0[4]
+| xref:049-sao-lucas/049-sao-lucas-005.adoc#v49-5-0[5]
+| xref:049-sao-lucas/049-sao-lucas-006.adoc#v49-6-0[6]
+| xref:049-sao-lucas/049-sao-lucas-007.adoc#v49-7-0[7]
+| xref:049-sao-lucas/049-sao-lucas-008.adoc#v49-8-0[8]
+| xref:049-sao-lucas/049-sao-lucas-009.adoc#v49-9-0[9]
+| xref:049-sao-lucas/049-sao-lucas-010.adoc#v49-10-0[10]
+| xref:049-sao-lucas/049-sao-lucas-011.adoc#v49-11-0[11]
+| xref:049-sao-lucas/049-sao-lucas-012.adoc#v49-12-0[12]
+| xref:049-sao-lucas/049-sao-lucas-013.adoc#v49-13-0[13]
+| xref:049-sao-lucas/049-sao-lucas-014.adoc#v49-14-0[14]
+| xref:049-sao-lucas/049-sao-lucas-015.adoc#v49-15-0[15]
+| xref:049-sao-lucas/049-sao-lucas-016.adoc#v49-16-0[16]
+| xref:049-sao-lucas/049-sao-lucas-017.adoc#v49-17-0[17]
+| xref:049-sao-lucas/049-sao-lucas-018.adoc#v49-18-0[18]
+| xref:049-sao-lucas/049-sao-lucas-019.adoc#v49-19-0[19]
+| xref:049-sao-lucas/049-sao-lucas-020.adoc#v49-20-0[20]
+| xref:049-sao-lucas/049-sao-lucas-021.adoc#v49-21-0[21]
+| xref:049-sao-lucas/049-sao-lucas-022.adoc#v49-22-0[22]
+| xref:049-sao-lucas/049-sao-lucas-023.adoc#v49-23-0[23]
+| xref:049-sao-lucas/049-sao-lucas-024.adoc#v49-24-0[24]
+|===

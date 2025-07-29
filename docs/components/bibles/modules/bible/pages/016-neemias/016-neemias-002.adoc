@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v16-2-0]]
+=== Neemias, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Neemias 2 narra o momento em que Neemias, um judeu que vivia em Susã e trabalhava como copeiro do rei Artaxerxes, recebe autorização para retornar a Jerusalém e liderar a reconstrução dos muros da cidade, que haviam sido destruídos anos antes. Ao longo do capítulo, Neemias enfrenta oposição e dificuldades, mas se mantém firme em sua determinação de concluir a obra. Abaixo estão cinco versículos que se relacionam com os temas abordados em Neemias 2:
+* Neemias 2:4: "Então o rei me disse: 'O que você deseja?' Orei ao Deus dos céus,". Neemias começa a sua jornada pedindo ajuda e orientação de Deus, mostrando a sua dependência em relação a Ele.
+* Neemias 2:8: "E o rei concordou em atender ao meu pedido. Então pedi que me dessem cartas de autorização aos governadores da província a oeste do Rio Eufrates, para que me deixassem passar até chegar a Judá,". Neemias pede ao rei autorização e recursos para realizar a obra de reconstrução, mostrando que estava agindo dentro dos limites da lei e com a aprovação do governo.
+* Neemias 2:10: "Quando Sambalate, o horonita, e Tobias, o oficial amonita, ouviram falar disso, zombaram de nós e disseram: 'Que é isso que vocês estão fazendo? Estão se rebelando contra o rei?'". Neemias enfrenta a oposição dos inimigos que zombam e tentam desencorajá-lo.
+* Neemias 2:17: "Então eu lhes disse: 'Vocês estão vendo a difícil situação em que estamos. Jerusalém está em ruínas, e suas portas foram destruídas pelo fogo. Vamos reconstruir os muros de Jerusalém e acabar com essa situação humilhante!'". Neemias motiva o povo a se unir e trabalhar juntos para realizar a obra, mostrando que é possível superar as dificuldades.
+* Neemias 2:20: "Eu lhes respondi: 'O Deus dos céus nos dará sucesso. Nós, seus servos, vamos começar a reconstruir, mas vocês não têm direito, nem reivindicação, nem memória em Jerusalém'". Neemias confia que Deus está com ele e que irá ajudá-lo a vencer as dificuldades, mostrando sua fé e confiança em Deus.
+****
+
+[[v16-2-1]]
+
+^<<v16-2-1,1>>^ No mês de Nisan, (que é o primeiro mês do ano), no ano vigésimo do reinado de Artaxerxes, o vinho estava posto diante dele; eu tomeio-o e ministrei-o ao rei. Nunca, até então, eu tinha aparecido triste na sua presença.
+
+[[v16-2-2]]
+
+^<<v16-2-2,2>>^ O rei disse-me: Por que está triste o teu rosto, não te vendo eu doente? Não pode ser outra coisa senão algum desgosto que haja em teu coração. Apoderou-se então de mim um grande temor,
+
+[[v16-2-3]]
+
+^<<v16-2-3,3>>^ e disse ao rei: O rei, vive eternamente; como não há-de estar o meu rosto amargurado, quando a cidade, que é a casa dos sepulcros de meus pais, está deserta, e as suas portas foram queimadas pelo fogo?
+
+[[v16-2-4]]
+
+^<<v16-2-4,4>>^ O rei disse-me : Que queres tu pedir? Eu, encomendando-me ao Deus do céu,
+
+[[v16-2-5]]
+
+^<<v16-2-5,5>>^ disse ao rei: Se é do agrado do rei, se o teu servo te é agradável, peço-te que me mandes à Judeia, à cidade do sepulcro de meu pais, que eu a reedificarei.
+
+[[v16-2-6]]
+
+^<<v16-2-6,6>>^ O rei, estando a rainha sentada a seu lado, perguntou-me: Que tempo durará a tua jornada? Quando voltarás tu? Eu disse-lhe o tempo, e aprouve ao rei enviar-me.
+
+[[v16-2-7]]
+
+^<<v16-2-7,7>>^ Depois disse ao rei: Se é do agrado do rei, sejam-me dadas cartas para os governadores das províncias de além do rio, para que me dêem passagem, até eu chegar à Judeia,
+
+[[v16-2-8]]
+
+^<<v16-2-8,8>>^ assim como uma carta para Asaf, guarda do bosque do rei, a fim de me fornecer madeiras para as portas das torres da casa (de Deus), para os muros da cidade e para a casa em que eu me alojar. O rei concedeu-me tudo, porque a mão favorável do meu Deus era comigo.
+
+[[v16-2-9]]
+
+^<<v16-2-9,9>>^ Fui ter com os governadores de além do rio, e apresentei-lhes as cartas do rei. O rei tinha enviado comigo oficiais do exército e cavaleiros.
+
+[[v16-2-10]]
+
+^<<v16-2-10,10>>^ Sanabalat Honorita, e Tobias Amonita, servo (do rei), souberam-no, e ficaram em extremo tristes, por ter chegado um homem que buscava o bem dos filhos de Israel.
+
+[[v16-2-11]]
+
+^<<v16-2-11,11>>^ Cheguei a Jerusalém, e estive lá três dias,
+
+[[v16-2-12]]
+
+^<<v16-2-12,12>>^ passados os quais, levantei-me de noite, com poucas pessoas, sem dizer a ninguém o que Deus me tinha inspirado no meu coração para fazer em Jerusalém. Não tinha comigo outro cavalo, senão aquele em que cavalgava.
+
+[[v16-2-13]]
+
+^<<v16-2-13,13>>^ Saí de noite pela porta do Vale, em direcção à fonte do Dragão e à porta da Esterqueira, e contemplei os muros de Jerusalém deitados abaixo e as suas portas consumidas pelo fogo.
+
+[[v16-2-14]]
+
+^<<v16-2-14,14>>^ Dali passei à porta da Fonte (de Siloé) e à piscina do Rei, mas não havia lugar por onde pudesse passar o cavalo em que ia montado.
+
+[[v16-2-15]]
+
+^<<v16-2-15,15>>^ Subi de noite pela torrente e inspeccionei os muros. Voltando, cheguei à porta do Vale e recolhi-me.
+
+[[v16-2-16]]
+
+^<<v16-2-16,16>>^ Os magistrados não sabiam onde eu tinha ido, nem o que eu fazia; até então não tinham descoberto nada, nem aos Judeus, nem aos sacerdotes, nem aos grandes, nem aos magistrados, nem aos outros que se deviam ocupar das obras.
+
+[[v16-2-17]]
+
+^<<v16-2-17,17>>^ Então disse-lhes: Vós vedes a aflição em que estamos; Jerusalém está deserta, e as suas portas foram consumidas pelo fogo; vinde e restauremos os muros de Jerusalém, não sejamos mais (um objecto de) opróbio (para os nossos inimigos),
+
+[[v16-2-18]]
+
+^<<v16-2-18,18>>^ Depois referi-lhes como a mão do meu Deus me era favorável, as palavras que o rei me tinha dito, e acrescentei: Vamos e empreendamos a obra. Eles puseram, com coragem, as suas mãos a esta boa obra.
+
+[[v16-2-19]]
+
+^<<v16-2-19,19>>^ Sanabalat Honorita, Tobias Amonita e Gossem, o Arabe, souberam-no, fizeram zombaria de nós, desprezaram-nos e disseram: Que é isso que vós fazeis? Quereis porventura revoltar-vos contra o rei?
+
+[[v16-2-20]]
+
+^<<v16-2-20,20>>^ Eu respondi-lhe: O Deus do céu é o que nos ajuda. Nós somos seus servos; levantemo-nos e reedifiquemos. Quanto a vós, não tendes parte, nem direito, nem lembrança em Jerusalém.
+
+'''
+
+xref:016-neemias/016-neemias-001.adoc#v16-1-0[&#60; Capítulo Anterior] | <<v16-2-0,Topo>> | xref:016-neemias/016-neemias-003.adoc#v16-3-0[Próximo Capítulo &#62;]

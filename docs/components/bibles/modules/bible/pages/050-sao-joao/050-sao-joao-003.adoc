@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v50-3-0]]
+=== São João, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São João 3 é um capítulo fundamental para a compreensão do evangelho de João e da teologia cristã, pois apresenta a famosa conversa entre Jesus e Nicodemos sobre o nascimento espiritual e a salvação pela fé em Cristo. Além disso, o capítulo também traz uma das passagens mais conhecidas da bíblia, João 3:16, que resume a mensagem central do cristianismo. Seguem abaixo cinco versículos relacionados com os temas abordados em São João 3:
+* Efésios 2:8-9: "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus; não vem das obras, para que ninguém se glorie." Esse versículo está relacionado com a ideia de que a salvação é alcançada pela fé em Jesus e não por obras ou méritos próprios, um tema central de João 3.
+* João 1:12-13: "Mas a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que creem no seu nome; os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus." Esse versículo destaca a importância da fé em Jesus como condição para se tornar filho de Deus, um tema presente em João 3.
+* Romanos 10:9: "Se com a tua boca confessares Jesus como Senhor, e em teu coração creres que Deus o ressuscitou dentre os mortos, serás salvo." Esse versículo está relacionado com a importância da confissão de fé em Jesus e da crença em sua ressurreição para a salvação, um tema central de João 3.
+* João 5:24: "Em verdade, em verdade vos digo que quem ouve a minha palavra, e crê naquele que me enviou, tem a vida eterna e não entrará em condenação, mas passou da morte para a vida." Esse versículo destaca a importância da fé em Jesus como condição para se ter a vida eterna e evitar a condenação, um tema presente em João 3.
+* Gálatas 2:16: "Sabendo que o homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo, temos também crido em Jesus Cristo, para sermos justificados pela fé em Cristo, e não pelas obras da lei; porquanto pelas obras da lei nenhuma carne será justificada." Esse versículo está relacionado com a ideia de que a salvação não vem pelas obras da lei, mas pela fé em Jesus Cristo, um tema central de João 3.
+****
+
+[[v50-3-1]]
+
+^<<v50-3-1,1>>^ Havia um homem da seita dos fariseus, chamado Nicodemos; um dos principais entre os Judeus.
+
+[[v50-3-2]]
+
+^<<v50-3-2,2>>^ Este foi ter com Jesus, de noite, e disse-lhe: "Mestre, sabemos que foste enviado por Deus como mestre, porque ninguém pode fazer estes milagres que tu fazes, se Deus não estiver com ele."
+
+[[v50-3-3]]
+
+^<<v50-3-3,3>>^ Jesus respondeu-lhe: "Em verdade, em verdade te digo que não pode ver o reino de Deus, senão aquele que nascer de novo."
+
+[[v50-3-4]]
+
+^<<v50-3-4,4>>^ Nicodemos disse-lhe: "Como pode um homem nascer, sendo velho? Porventura pode tornar a entrar no ventre de sua mãe e renascer?"
+
+[[v50-3-5]]
+
+^<<v50-3-5,5>>^ Jesus respondeu-lhe: "Em verdade, em verdade te digo que quem não renascer da água e do Espirito Santo, não pode entrar no reino de Deus.
+
+[[v50-3-6]]
+
+^<<v50-3-6,6>>^ O que nasceu da carne, é carne, o que nasceu do Espírito, é espírito.
+
+[[v50-3-7]]
+
+^<<v50-3-7,7>>^ Não te maravilhes de eu te dizer: É preciso que vós nasçais de novo.
+
+[[v50-3-8]]
+
+^<<v50-3-8,8>>^ O vento sopra onde quer, e tu ouves a sua voz, mas não sabes donde ele vem, nem para onde vai, assim é todo aquele que nasceu do Espírito.
+
+[[v50-3-9]]
+
+^<<v50-3-9,9>>^ Nicodemos disse-lhe: "Com se pode isto fazer?"
+
+[[v50-3-10]]
+
+^<<v50-3-10,10>>^ Jesus respondeu: "Tu és mestre em Israel, e não sabes estas coisas?"
+
+[[v50-3-11]]
+
+^<<v50-3-11,11>>^ Em verdade, em verdade te digo que nós dizemos o que sabemos, e damos testemunho do que vimos, mas vós não recebeis o nosso testemunho.
+
+[[v50-3-12]]
+
+^<<v50-3-12,12>>^ Se, quando vos falo das coisas terrenas, não me acreditais, como me acreditareis, se vos falar das celestes?
+
+[[v50-3-13]]
+
+^<<v50-3-13,13>>^ Ninguém subiu ao céu, senão aquele que desceu do céu, o Filho do homem, que está no céu.
+
+[[v50-3-14]]
+
+^<<v50-3-14,14>>^ E como Moisés levantou no deserto a serpente, assim também importa que seja levantado o Filho do homem,
+
+[[v50-3-15]]
+
+^<<v50-3-15,15>>^ a fim de que todo o que crê nele tenha a vida eterna.
+
+[[v50-3-16]]
+
+^<<v50-3-16,16>>^ Porque Deus amou de tal modo o mundo, que lhe deu seu Filho unigênito, para que todo o que crê nele não pereça, mas tenha a vida eterna.
+
+[[v50-3-17]]
+
+^<<v50-3-17,17>>^ Porque Deus não enviou seu Filho ao mundo, para condenar o mundo, mas para que o mundo seja salvo por ele.
+
+[[v50-3-18]]
+
+^<<v50-3-18,18>>^ Quem nele crê, não é condenado, mas quem não crê, já está condenado, porque não crê no nome do Filho unigênito de Deus.
+
+[[v50-3-19]]
+
+^<<v50-3-19,19>>^ A condenação está nisto: A luz veio ao mundo, e os homens amaram mais as trevas do que a luz, porque as suas obras eram más.
+
+[[v50-3-20]]
+
+^<<v50-3-20,20>>^ Porque todo aquele que faz o mal, aborrece a luz, e não se chega para a luz, a fim de que não sejam reprovadas as as suas obras;
+
+[[v50-3-21]]
+
+^<<v50-3-21,21>>^ mas aquele que procede segundo a verdade, chega-se para a luz, a fim de que seja manifesto que as suas obras são feitas segundo Deus.
+
+[[v50-3-22]]
+
+^<<v50-3-22,22>>^ Depois disto, foi Jesus com seus discípulos para a terra da Judeia. Habitava com eles, e baptizava.
+
+[[v50-3-23]]
+
+^<<v50-3-23,23>>^ João estava também baptizando em Enon, junto a Salím, porque havia ali muita água, e o povo concorria para ser baptizado.
+
+[[v50-3-24]]
+
+^<<v50-3-24,24>>^ João ainda não tinha sido posto na prisão.
+
+[[v50-3-25]]
+
+^<<v50-3-25,25>>^ Levantou-se uma questão entre os discípulos de João e um judeu acerca da purificação.
+
+[[v50-3-26]]
+
+^<<v50-3-26,26>>^ Foram ter com João, e disseram-lhe: "Mestre, o que estava contigo da banda de além do Jordão, de quem tu deste testemunho ei-lo que está baptizando, e todos vão a ele."
+
+[[v50-3-27]]
+
+^<<v50-3-27,27>>^ João respondeu: O homem não pode receber coisa alguma, se lhe não for dada do céu.
+
+[[v50-3-28]]
+
+^<<v50-3-28,28>>^ Vós mesmo me sois testemunhas de que vos disse: Eu não sou o Cristo, mas fui enviado diante dele.
+
+[[v50-3-29]]
+
+^<<v50-3-29,29>>^ O que tem a esposa é o esposo, mas o amigo do esposo, que está de pé e o ouve, enche-se de gozo com a voz do esposo. Esta é a minha alegria, e ela é perfeita.
+
+[[v50-3-30]]
+
+^<<v50-3-30,30>>^ Convém que ela cresça e eu diminua.
+
+[[v50-3-31]]
+
+^<<v50-3-31,31>>^ O que vem lá de cima, é superior a todos. O que vem da terra, é da terra, e terrestre é a sua linguagem. O que vem do céu, é superior a todos.
+
+[[v50-3-32]]
+
+^<<v50-3-32,32>>^ Ele testifica o que viu e ouviu, mas (quase) ninguém recebe o seu testemunho.
+
+[[v50-3-33]]
+
+^<<v50-3-33,33>>^ O que recebe o seu testemunho, certifica que Deus é verdadeiro.
+
+[[v50-3-34]]
+
+^<<v50-3-34,34>>^ Aquele a quem Deus enviou, fala palavras de Deus, porque Deus não lhe dá o Espírito por medida.
+
+[[v50-3-35]]
+
+^<<v50-3-35,35>>^ O Pai ama o Filho, e pôs todas as coisas na sua mão.
+
+[[v50-3-36]]
+
+^<<v50-3-36,36>>^ O que crê no Filho,a vida eterna; o que, porém, não crê no Filho, não verá a vida, mas sobre ele pesa a ira de Deus.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-002.adoc#v50-2-0[&#60; Capítulo Anterior] | <<v50-3-0,Topo>> | xref:050-sao-joao/050-sao-joao-004.adoc#v50-4-0[Próximo Capítulo &#62;]

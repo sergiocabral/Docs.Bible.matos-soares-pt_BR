@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v1-39-0]]
+=== Gênesis, 39
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 39 narra a história de José no Egito, onde ele é vendido como escravo por seus irmãos e se torna servo de Potifar, um oficial egípcio. No capítulo, José é injustamente acusado pela esposa de Potifar de tentar seduzi-la e é lançado na prisão. Apesar de tudo, Deus está com José e o abençoa, permitindo que ele se torne um administrador respeitado na prisão. Aqui estão cinco versículos relacionados aos temas do capítulo:
+* Salmos 105:17-18: "Ele enviou um homem diante deles, José, vendido como escravo. Machucaram seus pés com grilhões e o lançaram em ferros" Este versículo relembra o momento em que José foi vendido como escravo por seus próprios irmãos, mostrando a crueldade e injustiça que ele sofreu.
+* Provérbios 6:32: "O adúltero não tem juízo; destrói a si mesmo, acabando com a própria vida." A falsa acusação de Potifar contra José é um exemplo de tentação adúltera. Este versículo ressalta a gravidade do pecado e suas consequências.
+* Isaías 41:10: "Não temas, pois estou contigo; não te assombres, porque sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Mesmo nas situações mais difíceis, como a prisão injusta de José, Deus permanece ao nosso lado. Este versículo enfatiza a importância da fé em Deus durante as provações.
+* 2 Timóteo 2:22: "Fuja das paixões da mocidade e siga a justiça, a fé, o amor e a paz, juntamente com os que, de coração puro, invocam o Senhor." José resistiu à tentação da esposa de Potifar, fugindo da situação. Este versículo nos encoraja a resistir às tentações e seguir um caminho de justiça e santidade.
+* Filipenses 4:13: "Tudo posso naquele que me fortalece." Mesmo nas piores circunstâncias, como a prisão injusta de José, Deus nos dá força e nos capacita a superar nossos desafios. Este versículo nos lembra que podemos enfrentar qualquer coisa com a ajuda de Deus.
+****
+
+[[v1-39-1]]
+
+^<<v1-39-1,1>>^ José foi, pois, conduzido ao Egito, e Putifar Egípcio, eunuco de Faraó e general do exército, comprou-o aos Ismaelitas, que o tinham levado.
+
+[[v1-39-2]]
+
+^<<v1-39-2,2>>^ O Senhor era com ele, e tudo o que fazia lhe sucedia pròsperamente: habitava em casa do seu senhor,
+
+[[v1-39-3]]
+
+^<<v1-39-3,3>>^ o qual conhecia muito bem que o Senhor era com ele, o qual (Deus) fazia prosperar em suas mãos tudo o que José fazia.
+
+[[v1-39-4]]
+
+^<<v1-39-4,4>>^ José achou graça diante do Senhor, a quem prestava serviço: tendo recebido dele a superintendência de todas as coisas, governava a casa que lhe tinha sido confiada, e tudo o que lhe fora entregue.
+
+[[v1-39-5]]
+
+^<<v1-39-5,5>>^ O Senhor abençoou a casa do Egípcio, por causa de José, e multiplicou todos os seus bens, tanto em casa como no campo.
+
+[[v1-39-6]]
+
+^<<v1-39-6,6>>^ (Putifar) não tinha outro cuidado que pôr-se à mesa a comer. José era de rosto formoso e aspecto gentil.
+
+[[v1-39-7]]
+
+^<<v1-39-7,7>>^ Pelo que, passados muitos dias, lançou sua senhora os olhos sobre José e disse: Dorme comigo.
+
+[[v1-39-8]]
+
+^<<v1-39-8,8>>^ Mas de, não consentindo de modo algum na execrável acção, disse-lhe: Se o meu Senhor, tendo entregue tudo nas minhas mãos, não pede contas do que tem em sua casa,
+
+[[v1-39-9]]
+
+^<<v1-39-9,9>>^ e nada há que não esteja em meu poder, ou que me não tenha sido confiada, excepto tu, que és sua mulher, como posso eu cometer esta maldade, e pecar contra o meu Deus? (ver nota)
+
+[[v1-39-10]]
+
+^<<v1-39-10,10>>^ Ainda que, todos os dias, a mulher falasse (no mesmo assunto) ao jovem, ele recusava estar com ela.
+
+[[v1-39-11]]
+
+^<<v1-39-11,11>>^ Mas aconteceu que, um dia, entrando José em casa, para fazer o seu serviço, sem que ninguém o visse,
+
+[[v1-39-12]]
+
+^<<v1-39-12,12>>^ ela, segurando-o pela orla do seu vestido, disse-lhe: Dorme comigo. Mas ele, deixando a capa na sua mão, fugiu e saiu para fora.
+
+[[v1-39-13]]
+
+^<<v1-39-13,13>>^ A mulher, vendo a capa na suas mãos, e (vendo) que era desprezada,
+
+[[v1-39-14]]
+
+^<<v1-39-14,14>>^ chamou a si a gente da casa e disse: Vede, trouxe-nos este homem hebreu para zombar de nós; veio ter comigo para me seduzir, e, tendo eu gritado,
+
+[[v1-39-15]]
+
+^<<v1-39-15,15>>^ ele, ao ouvir a minha voz, deixou a capa, em que eu pegava, e fugiu para fora.
+
+[[v1-39-16]]
+
+^<<v1-39-16,16>>^ Em prova da sua fidelidade mostrou ao marido, quando ele voltou para casa, a capa com que tinha ficado,
+
+[[v1-39-17]]
+
+^<<v1-39-17,17>>^ e disse: Aquele servo hebreu, que trouxeste, veio ter comigo para abusar de mim:
+
+[[v1-39-18]]
+
+^<<v1-39-18,18>>^ porém, ouvindo-me gritar, deixou a capa, em que eu pegava, e fugiu para fora.
+
+[[v1-39-19]]
+
+^<<v1-39-19,19>>^ Ao ouvir isto, o senhor, demasiado crédulo nas palavras da mulher, irou-se em extremo
+
+[[v1-39-20]]
+
+^<<v1-39-20,20>>^ e lançou José no cárcere, onde estavam detidos os presos do rei, e ali ficou ele encarcerado.
+
+[[v1-39-21]]
+
+^<<v1-39-21,21>>^ O Senhor, porém, foi com José; compadecido dele, fê-lo encontrar graça diante do governador da prisão,
+
+[[v1-39-22]]
+
+^<<v1-39-22,22>>^ o qual confiou à sua vigilância todos os presos que estavam no cárcere: tudo o que se fazia, era feito por sua ordem.
+
+[[v1-39-23]]
+
+^<<v1-39-23,23>>^ Nem sequer (o governador) tomava conhecimento de coisa alguma, depois que lhe confiou tudo, porque o Senhor era com ele e fazia prosperar todas as suas obras.
+
+'''
+
+xref:001-genesis/001-genesis-038.adoc#v1-38-0[&#60; Capítulo Anterior] | <<v1-39-0,Topo>> | xref:001-genesis/001-genesis-040.adoc#v1-40-0[Próximo Capítulo &#62;]

@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v27-15-0]]
+=== Sabedoria, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 15 do Livro da Sabedoria descreve a vaidade dos ídolos e a superioridade do Deus verdadeiro e vivo. A mensagem central é que os ídolos são criaturas sem vida que não têm o poder de agir, pensar ou responder aos seus adoradores. Em contraste, o Deus vivo é o criador de todas as coisas e é digno de adoração e louvor. Seguem abaixo cinco versículos relacionados com os temas abordados neste capítulo:
+* Isaías 44:10: "Quão insensato é aquele que faz um deus, um ídolo para seu próprio prejuízo!" Este versículo destaca a tolice de adorar ídolos, que são feitos por mãos humanas e são incapazes de salvar ou ajudar os seus adoradores.
+* Salmo 115:4-8: "Os ídolos deles são prata e ouro, obra das mãos dos homens. Têm boca, mas não falam; olhos, mas não veem; têm ouvidos, mas não ouvem; nariz, mas não cheiram; têm mãos, mas não apalpam; têm pés, mas não andam; som algum lhes sai da garganta." Esse salmo descreve a inutilidade dos ídolos e a sua incapacidade de agir, pensar ou falar.
+* Isaías 40:18-19: "A quem comparareis a Deus, e que semelhança poreis diante dele? A imagem esculpida, e quem a fundiu, para que seja outro que não seja um nulo?" Esses versículos destacam a superioridade de Deus em relação aos ídolos e afirmam que não há ninguém ou nada que se possa comparar com Ele.
+* Jeremias 10:5: "Como estes ídolos são uma vara de junco, obra de um artífice, não podem falar; devem ser levados, porque não podem andar. Não tenhais medo deles, pois não podem fazer o mal, nem tampouco fazer o bem." Este versículo afirma que os ídolos são inúteis e sem poder, e que não há motivo para temê-los.
+* Isaías 45:20: "Congregai-vos, vinde, chegai-vos juntos, os que escapastes das nações; nada sabem os que conduzem em procissão as suas imagens de escultura, feitas de madeira, e rogam a um deus que não pode salvar." Este versículo destaca a tolice de adorar ídolos e afirma que aqueles que os adoram não têm conhecimento de Deus.
+****
+
+[[v27-15-1]]
+
+^<<v27-15-1,1>>^ Mas tu, ó Deus nosso, és benigno, verdadeiro e paciente, e tudo governas com misericórdia.
+
+[[v27-15-2]]
+
+^<<v27-15-2,2>>^ Ainda quando pecamos, somos teus, conhecendo o teu poder; mas não queremos pecar, pois somos contados no número daqueles que te pertencem.
+
+[[v27-15-3]]
+
+^<<v27-15-3,3>>^ Conhecer-te é a consumada justiça, e conhecer o teu poder é a raiz da imortalidade.
+
+[[v27-15-4]]
+
+^<<v27-15-4,4>>^ Não nos têm feito cair no erro as invenções da arte perversa dos homens, nem o estéril trabalho dos pintores: figura borratada de várias cores, (ver nota)
+
+[[v27-15-5]]
+
+^<<v27-15-5,5>>^ cuja vista excita a paixão dum insensato que se enamora duma figura inanimada duma imagem morta.
+
+[[v27-15-6]]
+
+^<<v27-15-6,6>>^ Amadores do mal, são dignos de tais esperanças tanto os que os fazem, como os que os amam ou adoram.
+
+[[v27-15-7]]
+
+^<<v27-15-7,7>>^ Um oleiro, amassando laboriosamente a terra mole, forma toda a sorte de vasos destinados aos nossos usos: do mesmo barro faz vasos, que servem para coisas limpas, e outros igualmente para coisas que o não são. O oleiro é o árbitro do uso que devem ter estes vasos.
+
+[[v27-15-8]]
+
+^<<v27-15-8,8>>^ Depois, com trabalho perverso, forma vã divindade, do mesmo barro, ele que pouco antes fora feito de terra, e que dentro em breve voltará a ela, donde foi tirado, quando se lhe pedir conta da alma, que lhe tinha sido emprestada. (ver nota)
+
+[[v27-15-9]]
+
+^<<v27-15-9,9>>^ Todavia ele não se preocupa com o haver de morrer, nem com a brevidade da sua vida, mas rivaliza com os artífices de ouro e de prata; imita também os que trabalham em bronze, e põe a sua glória em fabricar figuras enganadoras.
+
+[[v27-15-10]]
+
+^<<v27-15-10,10>>^ O seu coração é cinza, a sua esperança é mais vil que a terra, e a sua vida é mais desprezível que o barro,
+
+[[v27-15-11]]
+
+^<<v27-15-11,11>>^ porque não conhece aquele que o formou, aquele que lhe inspirou uma alma activa, e lhe insuflou o espírito vital.
+
+[[v27-15-12]]
+
+^<<v27-15-12,12>>^ Até julga que a nossa vida é um divertimento e a nossa existência um mercado lucrativo, porque, diz ele, é preciso tirar proveito de tudo, mesmo do mal.
+
+[[v27-15-13]]
+
+^<<v27-15-13,13>>^ Sabe bem que peca mais do que todos os outros, ele que forma da mesma matéria terrena vasos quebradiços e ídolos. (ver nota)
+
+[[v27-15-14]]
+
+^<<v27-15-14,14>>^ São, pois, todos muito insensatos, e mais desventurados que a alma duma criança, os inimigos do teu povo que o oprimiram,
+
+[[v27-15-15]]
+
+^<<v27-15-15,15>>^ porque tomaram por deuses a todos os ídolos das nações, os quais não podem usar dos olhos para ver, nem do nariz para respirar, nem dos ouvidos para ouvir, nem dos dedos das mãos para palpar, eles, cujos pés não são capazes de andar.
+
+[[v27-15-16]]
+
+^<<v27-15-16,16>>^ Foi, com efeito, um homem que os fez, e recebeu o espírito emprestado quem os formou. De facto, nenhum homem poderá fazer um deus semelhante a si,
+
+[[v27-15-17]]
+
+^<<v27-15-17,17>>^ porque, sendo mortal, forma com as sua mãos iníquas uma obra morta, ele mesmo vale mais do que os objectos que adora, porque, ao menos, tem vida, e eles nunca a tiveram.
+
+[[v27-15-18]]
+
+^<<v27-15-18,18>>^ Vai-se até ao ponto de adorar os mais repugnantes animais, que, comparados com os outros irracionais, são de pior condição do que eles.
+
+[[v27-15-19]]
+
+^<<v27-15-19,19>>^ Nada de belo há neles que faça nascer a afeição, como à vista de outros animais, porque foram excluídos da aprovação e bênção de Deus.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-014.adoc#v27-14-0[&#60; Capítulo Anterior] | <<v27-15-0,Topo>> | xref:027-sabedoria/027-sabedoria-016.adoc#v27-16-0[Próximo Capítulo &#62;]

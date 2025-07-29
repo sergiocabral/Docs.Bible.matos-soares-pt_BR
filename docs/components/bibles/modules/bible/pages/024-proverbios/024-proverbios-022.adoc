@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v24-22-0]]
+=== Provérbios, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 22 de Provérbios aborda temas como a educação, a generosidade, a integridade, a prudência e a sabedoria. Para fornecer cinco versículos relacionados com esses temas, podemos selecionar os seguintes:
+* Provérbios 3:9-10: "Honra ao SENHOR com os teus bens, e com a primeira parte de todos os teus ganhos; e se encherão os teus celeiros abundantemente, e transbordarão de mosto os teus lagares." Esse verso fala sobre a generosidade e a importância de dar a Deus a primazia em nossas vidas e recursos, um tema abordado em Provérbios 22 sobre o valor da generosidade.
+* Provérbios 19:20: "Ouve o conselho, e recebe a correção, para que sejas sábio nos teus últimos dias." Esse verso aborda a importância da educação e da sabedoria, temas presentes em Provérbios 22 sobre a importância da instrução e do aprendizado.
+* Provérbios 11:3: "A integridade dos retos os guia, mas a falsidade dos infiéis os destrói." Esse verso fala sobre a importância da integridade, um tema tratado em Provérbios 22 sobre o valor da honestidade e da integridade moral.
+* Provérbios 27:12: "O prudente percebe o perigo e busca refúgio; o inexperiente segue adiante e sofre as consequências." Esse verso aborda a importância da prudência, um tema recorrente em Provérbios 22 sobre a sabedoria em tomar decisões e agir com cautela.
+* Provérbios 9:9: "Dá instrução ao sábio, e ele se fará mais sábio; ensina o justo e ele crescerá em entendimento." Esse verso fala sobre a importância da instrução e da busca pela sabedoria, temas presentes em Provérbios 22 sobre a valorização da educação e do conhecimento.
+****
+
+[[v24-22-1]]
+
+^<<v24-22-1,1>>^ Mais vale o bom nome do que muitas riquezas; a boa reputação é mais estimável do que a prata e o oiro.
+
+[[v24-22-2]]
+
+^<<v24-22-2,2>>^ O rico e o pobre encontram-se; o Senhor criou-os a ambos.
+
+[[v24-22-3]]
+
+^<<v24-22-3,3>>^ O homem prudente viu o mal e furtou-se a ele; o imprudente passou adiante, e recebeu o dano.
+
+[[v24-22-4]]
+
+^<<v24-22-4,4>>^ O prêmio da humildade é o temor do Senhor, as riquezas, a glória e a vida.
+
+[[v24-22-5]]
+
+^<<v24-22-5,5>>^ Espinhos e laços estão sobre o caminho do perverso; aquele porém que guarda a sua alma, retira-se para longe deles.
+
+[[v24-22-6]]
+
+^<<v24-22-6,6>>^ Ensina à criança o caminho que deve seguir, que não se afastará dele, mesmo quando envelhecer.
+
+[[v24-22-7]]
+
+^<<v24-22-7,7>>^ O rico manda os pobres, e o que toma emprestado torna-se escravo do que lhe empresta.
+
+[[v24-22-8]]
+
+^<<v24-22-8,8>>^ Aquele que semeia a iniquidade, colherá males, e será ferido pela (própria) vara da sua ira.
+
+[[v24-22-9]]
+
+^<<v24-22-9,9>>^ Aquele que é propenso à misericórdia, será abençoado, porque deu dos seus pães ao pobre.
+
+[[v24-22-10]]
+
+^<<v24-22-10,10>>^ Lança fora o mofador, e com ele se irá a discórdia, cessarão os litígios e os ultrajes.
+
+[[v24-22-11]]
+
+^<<v24-22-11,11>>^ Aquele que ama a pureza do coração, terá o rei por amigo, por causa da graça do seu falar.
+
+[[v24-22-12]]
+
+^<<v24-22-12,12>>^ Os olhos do Senhor guardam a ciência, mas as palavras do pérfido são por ele confundidas.
+
+[[v24-22-13]]
+
+^<<v24-22-13,13>>^ O preguiçoso diz: Está um leão la fora; (se saio) serei morto no meio das ruas. (ver nota)
+
+[[v24-22-14]]
+
+^<<v24-22-14,14>>^ A boca da mulher corrupta é uma cova profunda; aquele contra quem o Senhor está irado, cairá nela.
+
+[[v24-22-15]]
+
+^<<v24-22-15,15>>^ A loucura está pegada ao coração da criança, mas a vara da disciplina a afugentará.
+
+[[v24-22-16]]
+
+^<<v24-22-16,16>>^ Oprimir o pobre é enriquecê-lo; dar ao rico é empobrecê-lo.
+
+[[v24-22-17]]
+
+^<<v24-22-17,17>>^ Inclina o teu ouvido e ouve as palavras dos sábios, introdução, aplica o teu coração à minha doutrina,
+
+[[v24-22-18]]
+
+^<<v24-22-18,18>>^ a qual te agradará, quando a guardará dentro do teu coração, e ela trasbordará dos teus lábios.
+
+[[v24-22-19]]
+
+^<<v24-22-19,19>>^ Para que ponhas no Senhor a tua confiança, quero ensinar-te hoje os seus caminhos.
+
+[[v24-22-20]]
+
+^<<v24-22-20,20>>^ Muitas vezes te escrevi conselhos e instruções,
+
+[[v24-22-21]]
+
+^<<v24-22-21,21>>^ para te ensinar a verdade das coisas certas, para que, com palavras exactas, saibas responder àqueles que te enviam.
+
+[[v24-22-22]]
+
+^<<v24-22-22,22>>^ Não faças violência ao pobre, porque é pobre, não oprimas às portas (da cidade) o que não tem nada,
+
+[[v24-22-23]]
+
+^<<v24-22-23,23>>^ porque o Senhor defenderá a sua causa, e tirará a vida aos que os despojaram.
+
+[[v24-22-24]]
+
+^<<v24-22-24,24>>^ Não tenhas amizade com o homem colérico, nem andes com o iracundo,
+
+[[v24-22-25]]
+
+^<<v24-22-25,25>>^ para não suceder que aprendas as suas veredas e dês à tua alma ocasião de ruína.
+
+[[v24-22-26]]
+
+^<<v24-22-26,26>>^ Não te associes com aqueles que (imprudentemente) se obrigam, apertando as mãos, que se oferecem por fiadores para responder pelas dívidas de outrem,
+
+[[v24-22-27]]
+
+^<<v24-22-27,27>>^ porque, se não tens com que pagar, quem impedirá que te arrebatem a cama de debaixo de ti ?
+
+[[v24-22-28]]
+
+^<<v24-22-28,28>>^ Não passes além dos antigos marcos que puseram teus pais.
+
+[[v24-22-29]]
+
+^<<v24-22-29,29>>^ Viste um homem (pontual e) expedito nos seus afazeres? Este terá lugar junto dos reis. não ficará entre gente obscura.
+
+'''
+
+xref:024-proverbios/024-proverbios-021.adoc#v24-21-0[&#60; Capítulo Anterior] | <<v24-22-0,Topo>> | xref:024-proverbios/024-proverbios-023.adoc#v24-23-0[Próximo Capítulo &#62;]

@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v10-19-0]]
+=== II Samuel, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 19 descreve a restauração de Davi como rei de Israel após a morte de Absalão. O capítulo começa com a dor e o luto de Davi pela morte de seu filho e, em seguida, apresenta a reunião de Davi com seus seguidores e líderes de Israel. A seguir, são apresentados cinco versículos relacionados com os temas abordados em 2 Samuel 19:
+* Salmos 30:5: "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas a alegria vem pela manhã." Este salmo expressa a confiança de Davi na restauração da alegria e na renovação da vida depois de um período de tristeza e dor.
+* Salmos 51:12: "Restitui-me a alegria da tua salvação, e sustém-me com um espírito voluntário." Davi pede a Deus que o restaure e o renove em seu espírito depois de seu pecado com Bate-Seba e a morte de Urias.
+* Salmos 85:6: "Não restaurarás tu, ó Deus, a nossa vida? Não reavivarás tu o teu povo?" Davi ora a Deus para que restaure a vida de Israel e reviva seu povo após a crise causada pela rebelião de Absalão.
+* Salmos 103:8: "O Senhor é misericordioso e compassivo, paciente e abundante em amor." Este salmo expressa a bondade e a misericórdia de Deus, que perdoa e restaura aqueles que se voltam para ele.
+* Salmos 126:5: "Os que semeiam em lágrimas segarão com alegria." Este salmo expressa a esperança de que Deus restaure a alegria e a colheita daqueles que passaram por um período de tristeza e dor.
+****
+
+[[v10-19-1]]
+
+^<<v10-19-1,1>>^ Noticiaram a Joab que o rei chorava e lamentava o seu filho.
+
+[[v10-19-2]]
+
+^<<v10-19-2,2>>^ A vitória converteu-se em luto naquele dia para todo o povo, porque o povo ouviu dizer naquele dia: O rei chora o seu filho,
+
+[[v10-19-3]]
+
+^<<v10-19-3,3>>^ O povo absteve-se, aquele dia, de entrar na cidade, como costuma abster-se um povo derrotado e que foge da batalha.
+
+[[v10-19-4]]
+
+^<<v10-19-4,4>>^ Mas o rei cobriu a cabeça, e dizia em alta voz: Filho meu Absalão, Absalão filho meu, filho meu!
+
+[[v10-19-5]]
+
+^<<v10-19-5,5>>^ Joab, entrando no quarto onde estava o rei, disse (com a sua costumada altivez): Tu hoje cobriste de confusão todos os teus servos, que salvaram a tua vida, a vida de teus filhos e filhas, a vida de tuas esposas e a vida de tuas mulheres secundárias.
+
+[[v10-19-6]]
+
+^<<v10-19-6,6>>^ Amas os que te aborrecem, e aborreces os que te amam, pois hoje mostraste que se te não dá nem dos teus oficiais nem dos teus criados; na verdade, conheci agora que, se Absalão vivesse, ainda que todos nós tivéssemos morrido, ficarias contente.
+
+[[v10-19-7]]
+
+^<<v10-19-7,7>>^ Agora, pois, levanta-te, sai e fala com o coração a teus servos, porque eu te juro pelo Senhor que, se não saíres, nem sequer um homem ficará contigo esta noite; isto será para ti pior do que todos os males que têm vindo sobre ti desde a tua mocidade até ao presente.
+
+[[v10-19-8]]
+
+^<<v10-19-8,8>>^ O rei levantou-se e sentou-se à porta. Avisou-se todo o povo de que o rei estava sentado à porta, e toda a multidão foi apresentar-se diante do rei. Os de Israel, porém, tinham fugido para as suas tendas.
+
+[[v10-19-9]]
+
+^<<v10-19-9,9>>^ Todo o povo, em todas as tribos de Israel, discutia, dizendo; O rei livrou-nos da mão de nossos inimigos, salvou-nos do poder dos Filisteus, e agora fugiu da sua terra por causa de Absalão.
+
+[[v10-19-10]]
+
+^<<v10-19-10,10>>^ Ora Absalão, a quem tínhamos ungido por nosso rei, morreu na batalha; por que esperais, e não fazeis voltar o rei?
+
+[[v10-19-11]]
+
+^<<v10-19-11,11>>^ O rei Davide mandou dizer aos sacerdotes Sadoc e Abiatar: Falai aos anciães de Judá e dizei-lhes: Por que sois vós os últimos a convidar o rei a ir para sua casa? (Com efeito, tinham chegado ao conhecimento do rei, em sua casa, as palavras de todo o Israel).
+
+[[v10-19-12]]
+
+^<<v10-19-12,12>>^ Vós sois meus Irmãos, o meu osso e a minha carne; por que sois os últimos a fazer voltar o rei?
+
+[[v10-19-13]]
+
+^<<v10-19-13,13>>^ Dizei a Amasa: Não és tu o meu osso e a minha carne? Deus me trate com todo o seu rigor, se eu te não fizer para sempre general do meu exército junto à minha pessoa, em lugar de Joab.
+
+[[v10-19-14]]
+
+^<<v10-19-14,14>>^ (Deste modo) ganhou o coração de todos os de Judá, de maneira que como se fossem um só homem, mandaram dizer ao rei; Volta com todos os teus servos.
+
+[[v10-19-15]]
+
+^<<v10-19-15,15>>^ O rei voltou e chegou até no Jordão, e todos os de Judá vieram até Galgala, para irem ao encontro do rei e o acompanharem na passagem do Jordão.
+
+[[v10-19-16]]
+
+^<<v10-19-16,16>>^ Também Semei, natural de Baurim, filho de Gera, filho de Jemíni, foi a toda a pressa com os de Judá ao encontro do rei Davide,
+
+[[v10-19-17]]
+
+^<<v10-19-17,17>>^ com mil homens de Benjamim, e Siba, servo da casa de Saul, com quinze filhos seus e vinte servos na sua companhia, os quais, metendo-se pelo Jordão diante do rei,
+
+[[v10-19-18]]
+
+^<<v10-19-18,18>>^ passaram o vau, para fazerem atravessar a família do rei e para executarem as suas ordens. Semei, filho de Gera, prostrado diante do rei, quando este já tinha passado o Jordão,
+
+[[v10-19-19]]
+
+^<<v10-19-19,19>>^ disse-lhe: Não castigues, meu senhor, a minha maldade, nem te lembres das injúrias do teu servo, meu rei e senhor, no dia em que saíste de Jerusalém, nem as conserves, ó rei, no teu coração,
+
+[[v10-19-20]]
+
+^<<v10-19-20,20>>^ porque eu, teu servo, conheço o meu pecado, e por isso vim hoje, o primeiro de toda a casa de José, a receber o rei, meu senhor.
+
+[[v10-19-21]]
+
+^<<v10-19-21,21>>^ Respondendo, porém, Abisai, filho de Sarvia, disse: Porventura bastarão estas palavras para Semei não ser morto, depois de ter amaldiçoado o ungido do Senhor?
+
+[[v10-19-22]]
+
+^<<v10-19-22,22>>^ Mas Davide disse: Que tenho eu convosco, ó filhos de Sarvia? Por que vos haveis de opor, hoje, a mim? Então há-de, neste dia, tirar-se a vida a um israelita? Ignoro eu porventura que hoje fui feito rei sobre Israel?
+
+[[v10-19-23]]
+
+^<<v10-19-23,23>>^ E o rei disse a Semei: Não morrerás. E assim lho jurou.
+
+[[v10-19-24]]
+
+^<<v10-19-24,24>>^ Veio Mifiboset, filho de Saul, receber o rei. Não havia lavado os pés nem feito a barba, nem lavado vestes desde o dia em que o rei tinha saído, até ao dia da sua volta em paz.
+
+[[v10-19-25]]
+
+^<<v10-19-25,25>>^ Vindo ao encontro do rei em Jerusalém , o rei disse-lhe: Mifiboset, por que não foste tu comigo?
+
+[[v10-19-26]]
+
+^<<v10-19-26,26>>^ Ele respondeu-lhe: Meu rei e senhor, o meu criado enganou-me porque eu, teu servo, disse-lhe que me aparelhasse um jumento para montar nele, e ir com o rei, pois eu, teu servo, sou coxo.
+
+[[v10-19-27]]
+
+^<<v10-19-27,27>>^ Ele, além disto, acusou-me a mim, teu servo, diante de ti, meu rei e senhor, mas tu, meu rei e senhor, és como um anjo de Deus: faze o que bem te parecer.
+
+[[v10-19-28]]
+
+^<<v10-19-28,28>>^ A casa de meu pai não mereceu do rei, meu senhor, senão a morte; porém tu me puseste a mim, teu servo, entre os que comem à tua mesa; de que poderei eu, pois, queixar-me com justiça? como poderei eu importunar mais o rei (com pedido)?
+
+[[v10-19-29]]
+
+^<<v10-19-29,29>>^ O rei disse-lhe: Para que tantas palavras? O que eu mandei, há-de subsistir; tu e Siba reparti as terras.
+
+[[v10-19-30]]
+
+^<<v10-19-30,30>>^ Mifiboset respondeu ao rei: Fique ele muito embora com tudo, uma vez que o rei, meu senhor, voltou em paz a sua casa.
+
+[[v10-19-31]]
+
+^<<v10-19-31,31>>^ Também Berzelai de Galaad, tendo vindo de Rogelim acompanhou o rei na passagem do Jordão, pronto a segui-lo ainda da outra banda do rio.
+
+[[v10-19-32]]
+
+^<<v10-19-32,32>>^ Berzelai de Galaad era muito velho, isto é, de oitenta anos, e tinha provido o rei de víveres, quando estava em Maanaim, porque era um homem muito rico.
+
+[[v10-19-33]]
+
+^<<v10-19-33,33>>^ O rei disse a Berzelai: Vem comigo, para viveres em minha companhia, descansado, em Jerusalém
+
+[[v10-19-34]]
+
+^<<v10-19-34,34>>^ Mas Berzelai disse ao rei: Quantos anos me restam de vida, para subir com o rei a Jerusalém?
+
+[[v10-19-35]]
+
+^<<v10-19-35,35>>^ Tenho hoje oitenta anos. Porventura ainda posso discernir entre o bom e o mau? Pode o teu servo perceber sabor no que come e no que bebe? Posso ouvir ainda a voz dos cantores e das cantoras? Por que há-de o teu servo servir de peso ao rei, meu senhor?
+
+[[v10-19-36]]
+
+^<<v10-19-36,36>>^ Eu, teu servo, acompanhar-te-ei ainda um pouco da outra banda do Jordáo. E por que me há-de conceder o rei tal recompensa?
+
+[[v10-19-37]]
+
+^<<v10-19-37,37>>^ Rogo-te que permitas a mim, teu servo, voltar e morrer na minha cidade, e ser sepultado junto do sepulcro de meu pai e de minha mãe. Aqui está Camaam (meu filho e) teu servo; vá ele contigo, ó meu rei e senhor, e faze dele o que for mais do teu agrado.
+
+[[v10-19-38]]
+
+^<<v10-19-38,38>>^ O rei disse-lhe: Venha comigo Camaam, que eu lhe farei tudo o que quiseres, e conceder-te-ei tudo o que me pedires.
+
+[[v10-19-39]]
+
+^<<v10-19-39,39>>^ Quando todo o povo e o rei acabaram de passar o Jordão, o rei beijou Berzelai e abençoou-o, e ele voltou para sua casa.
+
+[[v10-19-40]]
+
+^<<v10-19-40,40>>^ Passou então o rei a Galgala, e a Camaam com ele. Ora todo o povo de Judá tinha acompanhado o rei ao passar do rio, mas só se tinha encontrado ali metade do povo de Israel
+
+[[v10-19-41]]
+
+^<<v10-19-41,41>>^ Por isso todos os de Israel, acudindo juntos ao rei, disseram-lhe: Por que se apoderaram de ti os nossos irmãos, os homens de Judá, e fizeram passar o Jordão o rei e toda a gente de Davide com ele? (ver nota)
+
+[[v10-19-42]]
+
+^<<v10-19-42,42>>^ E todos os homens de Judá responderam aos homens de Israel: É porque o rei nos toca a nós mais de perto; por que vos irais por isso? Porventura comemos nós alguma coisa do rei, ou foram-nos dados alguns presentes?
+
+[[v10-19-43]]
+
+^<<v10-19-43,43>>^ Respondendo os homens de Israel aos de Judá, disseram: Nós somos dez vezes mais do que vós para servir o rei, por isso Davide pertence mais a nós do que a vós; por que nos fizestes este agravo, e não fomos avisados antes, para fazermos voltar o nosso rei? Porém, os homens de Judá responderam mais duramente ainda que os de Israel.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-018.adoc#v10-18-0[&#60; Capítulo Anterior] | <<v10-19-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-020.adoc#v10-20-0[Próximo Capítulo &#62;]

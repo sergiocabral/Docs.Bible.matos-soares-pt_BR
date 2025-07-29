@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v72-0-0]]
+== São Judas
+
+[cols="8*^"]
+|===
+| xref:072-sao-judas/072-sao-judas-001.adoc#v72-1-0[1]
+|
+|
+|
+|
+|
+|
+|
+|===

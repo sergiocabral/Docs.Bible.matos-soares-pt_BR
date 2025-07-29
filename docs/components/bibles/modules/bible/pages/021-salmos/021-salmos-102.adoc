@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v21-102-0]]
+=== Salmos, 102
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 102 é um lamento de uma pessoa que está sofrendo e se sente distante de Deus. O salmista expressa sua tristeza, mas também confia na fidelidade de Deus e na sua capacidade de curar e restaurar. Abaixo estão cinco versículos que se relacionam com os temas do Salmo 102.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os de espírito oprimido." Este versículo fala sobre a proximidade de Deus com aqueles que estão sofrendo e se sentem oprimidos.
+* Salmos 103:13: "Como um pai se compadece de seus filhos, assim o Senhor se compadece daqueles que o temem." Este versículo fala sobre a compaixão de Deus para com seus filhos, mostrando que ele se importa com o sofrimento deles.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo mostra que Deus é um Deus de fortalecimento e ajuda, capaz de sustentar aqueles que confiam nele.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda a consolação, que nos consola em todas as nossas tribulações, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus." Este versículo fala sobre a capacidade de Deus de nos consolar em nossas tribulações e, por sua vez, capacita-nos a consolar os outros.
+* Romanos 8:28: "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito." Este versículo fala sobre a fidelidade de Deus em usar todas as coisas, inclusive o sofrimento, para o bem daqueles que o amam e são chamados segundo o seu propósito.
+****
+
+[[v21-102-1]]
+
+^<<v21-102-1,1>>^ De Davide. Bendiz, ó minha alma, o Senhor, e todas as coisas que há dentro de mim (bendigam) o seu santo nome. (ver nota)
+
+[[v21-102-2]]
+
+^<<v21-102-2,2>>^ Bendiz, ó minha alma, o Senhor, e não esqueças nenhum dos seus benefícios.
+
+[[v21-102-3]]
+
+^<<v21-102-3,3>>^ É ele quem perdoa todas as tuas culpas, e que sara todas as tuas enfermidades.
+
+[[v21-102-4]]
+
+^<<v21-102-4,4>>^ E ele quem resgata da morte a tua vida, e que te coroa de misericórdia e de graça.
+
+[[v21-102-5]]
+
+^<<v21-102-5,5>>^ É ele quem sacia de bens a tua vida; renova-se, como a da águia, a tua juventude.
+
+[[v21-102-6]]
+
+^<<v21-102-6,6>>^ O Senhor faz as obras de justiça, e defende o direito de todos os oprimidos.
+
+[[v21-102-7]]
+
+^<<v21-102-7,7>>^ Fez conhecer a Moisés os seus caminhos, aos filhos de Israel as suas obras.
+
+[[v21-102-8]]
+
+^<<v21-102-8,8>>^ O Senhor é misericordioso e compassivo, lento para a ira e muito clemente.
+
+[[v21-102-9]]
+
+^<<v21-102-9,9>>^ Não está sempre a contender, nem guarda ressentimento para sempre.
+
+[[v21-102-10]]
+
+^<<v21-102-10,10>>^ Não nos trata segundo os nossos pecados, nem nos retribui segundo as nossas culpas.
+
+[[v21-102-11]]
+
+^<<v21-102-11,11>>^ Antes, quanto o céu está elevado acima da terra, tanto prevalece a sua misericórdia para com os que o temem.
+
+[[v21-102-12]]
+
+^<<v21-102-12,12>>^ Quanto o oriente dista do ocidente, tanto ele afasta de nós os nossos delitos.
+
+[[v21-102-13]]
+
+^<<v21-102-13,13>>^ Como um pai se compadece dos seus filhos, assim se compadece o Senhor dos que o temem,
+
+[[v21-102-14]]
+
+^<<v21-102-14,14>>^ porque ele sabe bem que somos formados: lembra-se de que somos pó,
+
+[[v21-102-15]]
+
+^<<v21-102-15,15>>^ Os dias do homem são semelhantes ao feno; como a flor do campo, assim floresce:
+
+[[v21-102-16]]
+
+^<<v21-102-16,16>>^ apenas é tocada pelo vento, já não existe; nem o seu lugar o conhece mais.
+
+[[v21-102-17]]
+
+^<<v21-102-17,17>>^ Porém a misericórdia do Senhor estende-se desde a eternidade e para sempre sobre os que o temem, e a sua justiça (exerce-se) com os filhos dos filhos,
+
+[[v21-102-18]]
+
+^<<v21-102-18,18>>^ com aqueles que guardam a sua aliança, e se lembram dos seus mandamentos, para os observar.
+
+[[v21-102-19]]
+
+^<<v21-102-19,19>>^ O Senhor estabeleceu o seu trono no céu, e o seu reino domina todas as coisas.
+
+[[v21-102-20]]
+
+^<<v21-102-20,20>>^ Bendizei o Senhor, vós todos os seus anjos, que sois poderosos em força, que executais as suas ordens, prontos para obedecer à sua palavra.
+
+[[v21-102-21]]
+
+^<<v21-102-21,21>>^ Bendizei o Senhor, vós todos os seus exércitos, vós, seus ministros, que fazeis a sua vontade.
+
+[[v21-102-22]]
+
+^<<v21-102-22,22>>^ Bendizei o Senhor, vós todas as suas obras, em todos os lugares do seu domínio. Bendiz, ó minha alma, o Senhor.
+
+'''
+
+xref:021-salmos/021-salmos-101.adoc#v21-101-0[&#60; Capítulo Anterior] | <<v21-102-0,Topo>> | xref:021-salmos/021-salmos-103.adoc#v21-103-0[Próximo Capítulo &#62;]

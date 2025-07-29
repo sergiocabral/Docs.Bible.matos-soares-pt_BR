@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v50-19-0]]
+=== São João, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São João 19 relata a crucificação de Jesus. O capítulo descreve em detalhes a cena da condenação de Jesus por Pilatos, sua flagelação e coroação de espinhos, a caminhada para o Gólgota, a crucificação e, finalmente, a morte de Jesus. Aqui estão cinco versículos relacionados aos temas abordados em São João 19:
+* Salmos 22:18: "Repartiram entre si as minhas vestes, e sobre a minha túnica lançaram sortes." Este verso profético do Salmo 22 é citado em João 19:24, onde é mencionado como sendo cumprido durante a crucificação de Jesus, quando os soldados romanos lançaram sorte para decidir quem ficaria com suas vestes.
+* Isaías 53:3: "Era desprezado, e o mais rejeitado entre os homens, homem de dores, e experimentado nos trabalhos; e, como um de quem os homens escondiam o rosto, era desprezado, e não fizemos dele caso algum." Este verso do livro de Isaías é frequentemente associado a Jesus, especialmente em relação à sua crucificação e sofrimento. Ele reflete a ideia de que Jesus foi rejeitado e menosprezado pelos homens.
+* Salmos 69:21: "Deram-me fel por mantimento, e na minha sede me deram a beber vinagre." Este verso do Salmo 69 é citado em João 19:28-29, onde é mencionado como sendo cumprido durante a crucificação de Jesus, quando ele disse "Tenho sede" e os soldados lhe deram vinagre para beber.
+* Isaías 53:12: "Pelo que lhe darei a parte de muitos, e com os poderosos repartirá ele o despojo; porquanto derramou a sua alma até a morte, e foi contado com os transgressores; mas ele levou sobre si o pecado de muitos, e pelos transgressores intercedeu." Este verso de Isaías é frequentemente associado a Jesus, especialmente em relação à sua crucificação e morte. Ele reflete a ideia de que Jesus levou sobre si os pecados dos homens e intercedeu por eles.
+* Zacarias 12:10: "E sobre a casa de Davi, e sobre os habitantes de Jerusalém, derramarei o espírito de graça e de súplicas; e olharão para mim, a quem traspassaram; e pranteá-lo-ão sobre ele, como quem pranteia pelo filho unigênito; e chorarão amargamente por ele, como se chora amargamente pelo primogênito." Este verso profético de Zacarias é citado em João 19:37, onde é mencionado como sendo cumprido durante a crucificação de Jesus, quando ele foi traspassado com uma lança.
+****
+
+[[v50-19-1]]
+
+^<<v50-19-1,1>>^ Pilatos tomou então Jesus e mandou-o flagelar.
+
+[[v50-19-2]]
+
+^<<v50-19-2,2>>^ Depois os soldados, tecendo uma coroa de espinhos, puseram-lha sobre a cabeça e revestiram-no com um manto de púrpura.
+
+[[v50-19-3]]
+
+^<<v50-19-3,3>>^ Aproximavam-se dele e diziam-lhe: "Salve, rei dos Judeus" e davam-lhe bofetadas.
+
+[[v50-19-4]]
+
+^<<v50-19-4,4>>^ Saiu Pilatos ainda outra vez fora e disse-lhes: "Eis que vo-lo trago fora, para que conheçais que não encontro nele crime algum"
+
+[[v50-19-5]]
+
+^<<v50-19-5,5>>^ Saiu, pois, Jesus, trazendo a coroa de espinhos e o manto de púrpura. Pilatos disse-lhes: "Eis aqui o homem."
+
+[[v50-19-6]]
+
+^<<v50-19-6,6>>^ Então os príncipes dos sacerdotes e os ministros, tendo-o visto gritaram: "Crucifica-o, crucifica-o!" Pilatos disse-lhes: "Tomai-o e crucificai-o, porque eu não encontro nele motivo algum de condenação."
+
+[[v50-19-7]]
+
+^<<v50-19-7,7>>^ Os Judeus responderam-lhe: "Nós temos uma lei, e, segundo a lei, deve morrer, porque se fez Filho de Deus."
+
+[[v50-19-8]]
+
+^<<v50-19-8,8>>^ Pilatos, tendo ouvido estas palavras, temeu ainda mais.
+
+[[v50-19-9]]
+
+^<<v50-19-9,9>>^ Entrou novamente no Pretório e disse a Jesus: "Donde és tu?" Mas Jesus não lhe deu resposta.
+
+[[v50-19-10]]
+
+^<<v50-19-10,10>>^ Então Pilatos disse-lhe: "Não me falas? Não sabes que tenho poder para te soltar, e também para te crucificar?"
+
+[[v50-19-11]]
+
+^<<v50-19-11,11>>^ Jesus respondeu: "Tu não terias poder algum sobre mim, se te não fosse dado do alto. Por isso, o que me entregou a ti, tem maior pecado."
+
+[[v50-19-12]]
+
+^<<v50-19-12,12>>^ Desde este momento, Pilatos procurava soltá-lo. Porém os Judeus gritaram: "Se soltas este, não és amigo de César, porque todo o que se faz rei, declara-se contra César."
+
+[[v50-19-13]]
+
+^<<v50-19-13,13>>^ Pilatos, tendo ouvido estas palavras, conduziu Jesus para fora e sentou-se no seu tribunal, no lugar chamado Lithostrotos (em hebraica Gabhatha).
+
+[[v50-19-14]]
+
+^<<v50-19-14,14>>^ Era o dia da Preparação da Páscoa, cerca da hora sexta. Pilatos disse aos Judeus: "Eis o vosso rei!"
+
+[[v50-19-15]]
+
+^<<v50-19-15,15>>^ Mas eles gritaram: "Tira-o, tira-o, crucifica-o!" Pilatos disse-lhes: "Pois eu hei-de crucificar o vosso rei?" Os pontífices responderam: "Não temos rei, senão César."
+
+[[v50-19-16]]
+
+^<<v50-19-16,16>>^ Então entregou-lho, para que fosse crucificado.
+
+[[v50-19-17]]
+
+^<<v50-19-17,17>>^ Tomaram pois, Jesus, o qual, levando a sua cruz, saiu para o lugar chamado do Crânio (em hebraico Gólgotha), (ver nota)
+
+[[v50-19-18]]
+
+^<<v50-19-18,18>>^ onde o crucificaram, e com ele outros dois, um de cada lado, e Jesus no meio.
+
+[[v50-19-19]]
+
+^<<v50-19-19,19>>^ Pilatos redigiu um titulo, que mandou colocar sobre a cruz. Estava escrito nele: Jesus Nazareno, Rei dos Judeus.
+
+[[v50-19-20]]
+
+^<<v50-19-20,20>>^ Muitos Judeus leram este título, porque se achava perto da cidade o lugar onde foi crucificado. Estava redigido em hebraico, em latim e em grego."
+
+[[v50-19-21]]
+
+^<<v50-19-21,21>>^ Os pontífices dos Judeus diziam, porém, a Pilatos: "Não escrevas: Rei dos Judeus, mas: Este homem disse: Eu sou Rei dos Judeus."
+
+[[v50-19-22]]
+
+^<<v50-19-22,22>>^ Pilatos respondeu: "O que escrevi, escrevi."
+
+[[v50-19-23]]
+
+^<<v50-19-23,23>>^ Os soldados, depois de terem crucificado Jesus, tomaram as suas vestes e fizeram delas quatro partes, uma para cada soldado. Tomaram também a túnica. Quanto à túnica, que não tinha costura, toda tecida de alto a baixo,
+
+[[v50-19-24]]
+
+^<<v50-19-24,24>>^ disseram uns para os outros: "Não a rasguemos, mas lancemos sortes sobre ela, para ver a quem tocará." Cumpriu-se deste modo a Escritura, que diz: Repartiram as minhas vestes entre si, e lançaram sortes sobre a minha túnica (Ps. 22, 19). Os soldados assim fizeram.
+
+[[v50-19-25]]
+
+^<<v50-19-25,25>>^ Junto à cruz de Jesus estavam sua Mãe, a irmã de sua Mãe, Maria, mulher de Cléofas, e Maria Madalena.
+
+[[v50-19-26]]
+
+^<<v50-19-26,26>>^ Jesus, vendo sua Mãe, e, junto dela, o discípulo que amava, disse a sua Mãe: "Mulher, eis o teu filho."
+
+[[v50-19-27]]
+
+^<<v50-19-27,27>>^ Depois disse ao discípulo: "Eis a tua Mãe." E, desta hora por diante, a levou o discípulo para sua casa.
+
+[[v50-19-28]]
+
+^<<v50-19-28,28>>^ Em seguida, sabendo Jesus que tudo estava consumado, para se cumprir a Escritura, disse: "Tenho sede."
+
+[[v50-19-29]]
+
+^<<v50-19-29,29>>^ Havia sido ali posto um vaso cheio de vinagre. Então, os soldados, ensopando no vinagre uma esponja e atando-a a uma cana de hissopo, chegaram-Iha à boca.
+
+[[v50-19-30]]
+
+^<<v50-19-30,30>>^ Jesus, tendo tomado o vinagre, disse: "Tudo está consumado." Depois, inclinando a cabeça, rendeu o espírito.
+
+[[v50-19-31]]
+
+^<<v50-19-31,31>>^ Os Judeus, visto que era o dia da Preparação, para que não ficassem os corpos na cruz no sábado, porque aquele dia de sábado era de grande solenidade, rogaram a Pilatos que lhes fossem quebradas as pernas, e fossem tirados.
+
+[[v50-19-32]]
+
+^<<v50-19-32,32>>^ Foram, pois, os soldados, e quebraram as pernas ao primeiro e ao outro com quem ele havia sido crucificado.
+
+[[v50-19-33]]
+
+^<<v50-19-33,33>>^ Mas, quando chegaram a Jesus, vendo que já estava morto, não lhe quebraram as pernas,
+
+[[v50-19-34]]
+
+^<<v50-19-34,34>>^ mas um dos soldados traspassou-lhe o lado com uma lança, e imediatamente saiu sangue e água. (ver nota)
+
+[[v50-19-35]]
+
+^<<v50-19-35,35>>^ O que foi testemunha deste facto o atesta e o seu testemunho é digno de fé e ele sabe que diz a verdade para que também vós acrediteis.
+
+[[v50-19-36]]
+
+^<<v50-19-36,36>>^ Porque estas coisas sucederam para que se cumprisse a Escritura: Não lhe quebreis osso algum (Ex. 19, 46 ; Nm. 9, 12).
+
+[[v50-19-37]]
+
+^<<v50-19-37,37>>^ E também diz outro lugar da Escritura: Lançarão o olhar para aquele a quem traspassaram (Zc. 12, 10).
+
+[[v50-19-38]]
+
+^<<v50-19-38,38>>^ Depois disto, José de Arimateia, que era discípulo de Jesus, ainda que oculto por medo dos Judeus, rogou a Pilatos que lhe deixasse levar o corpo de Jesus. Pilatos permitiu-lho. Foi, pois, e tomou o corpo de Jesus.
+
+[[v50-19-39]]
+
+^<<v50-19-39,39>>^ Nicodemos, o que tinha ido primeiramente de noite ter com Jesus, foi também, levando uma composição de quase cem libras de mirra e de aloés.
+
+[[v50-19-40]]
+
+^<<v50-19-40,40>>^ Tomaram o corpo de Jesus e envolveram-no em lençóis com aromas, segundo a maneira de sepultar usada entre os Judeus.
+
+[[v50-19-41]]
+
+^<<v50-19-41,41>>^ Ora, no lugar em que Jesus foi crucificado, havia um horto, e no horto um sepulcro novo, em que ninguém ainda tinha sido sepultado.
+
+[[v50-19-42]]
+
+^<<v50-19-42,42>>^ Por ser o dia da Preparação dos Judeus, e o sepulcro estar perto, depositaram lá Jesus.
+
+'''
+
+xref:050-sao-joao/050-sao-joao-018.adoc#v50-18-0[&#60; Capítulo Anterior] | <<v50-19-0,Topo>> | xref:050-sao-joao/050-sao-joao-020.adoc#v50-20-0[Próximo Capítulo &#62;]

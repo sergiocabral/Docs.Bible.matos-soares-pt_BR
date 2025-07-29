@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v26-2-0]]
+=== Cântico dos Cânticos, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Cânticos é uma expressão de amor poético entre o amado e a amada. É descrita a beleza e a doçura do amor entre os dois e a sua vontade de estar juntos. A seguir, estão cinco versículos da Bíblia relacionados com os temas abordados em Cânticos 2:
+* Provérbios 5:18-19: "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade. Como cerva amorosa, e gazela graciosa, os seus seios te saciem todo o tempo; e pelo seu amor sejas atraído perpetuamente." Esse versículo fala sobre a importância do amor e da alegria que deve ser encontrada na intimidade conjugal, assim como é expresso no amor entre o amado e a amada em Cânticos 2.
+* Efésios 5:25-28: "Maridos, amai vossa mulher, como também Cristo amou a igreja, e a si mesmo se entregou por ela, para a santificar, purificando-a com a lavagem da água, pela palavra, para a apresentar a si mesmo igreja gloriosa, sem mácula, nem ruga, nem coisa semelhante, mas santa e irrepreensível. Assim devem os maridos amar a sua própria mulher, como a seu próprio corpo. Quem ama a sua mulher, ama-se a si mesmo." Esse versículo fala sobre o amor que deve existir entre um marido e uma esposa, um amor que é comparado ao amor de Cristo pela igreja.
+* 1 Coríntios 7:3-4: "O marido pague à mulher a devida benevolência, e da mesma sorte a mulher ao marido. A mulher não tem poder sobre o seu próprio corpo, mas tem-no o marido; e também da mesma maneira o marido não tem poder sobre o seu próprio corpo, mas tem-no a mulher." Esse versículo aborda a ideia de que o amor entre um homem e uma mulher deve ser expresso por meio da intimidade sexual e que o corpo de cada um pertence ao outro.
+* Provérbios 30:18-19: "Há três coisas que me maravilham, e a quarta eu não entendo: o caminho da águia no ar, o caminho da cobra na penha, o caminho do navio no meio do mar e o caminho do homem com uma donzela." Esse versículo expressa a admiração pelo amor e pela união entre um homem e uma mulher, que é um mistério maravilhoso.
+* 1 João 4:18: "No amor não há medo antes o perfeito amor lança fora o medo; porque o medo envolve castigo; e quem tem medo não está aperfeiçoado no amor." Esse versículo fala sobre a importância do amor em todas as relações e como o amor verdadeiro deve ser livre de medo e insegurança. O amor entre o amado e a amada em Cânticos 2 é caracterizado por uma confiança e uma segurança profunda.
+****
+
+[[v26-2-1]]
+
+^<<v26-2-1,1>>^ Eu sou a flor do campo, o lírio dos vales. (ver nota)
+
+[[v26-2-2]]
+
+^<<v26-2-2,2>>^ Como lírio entre os espinhos, assim é a minha amiga entre as donzelas. (ver nota)
+
+[[v26-2-3]]
+
+^<<v26-2-3,3>>^ Como a macieira entre as árvores dos bosques, assim é o meu amado entre os jovens. Sentei-me à sombra daquele a quem tanto tinha desejado, e o seu fruto é doce à minha boca.
+
+[[v26-2-4]]
+
+^<<v26-2-4,4>>^ Ele introduziu-me na sala do festim, desfraldou contra mim a bandeira do amor.
+
+[[v26-2-5]]
+
+^<<v26-2-5,5>>^ Confortai-me com doces de uvas passas, fortalecei-me com frutos, porque desfaleço de amor. (ver nota)
+
+[[v26-2-6]]
+
+^<<v26-2-6,6>>^ A sua mão esquerda está debaixo da minha cabeça, e a sua mão direita abraça-me. (ver nota)
+
+[[v26-2-7]]
+
+^<<v26-2-7,7>>^ Eu vos conjuro, filhas de Jerusalém, pelas gazelas e corças do campo, que não perturbeis nem acordeis a minha amada, antes que ela queira. (ver nota)
+
+[[v26-2-8]]
+
+^<<v26-2-8,8>>^ Ouço a voz do meu amado! Ei-lo aí vem, saltando sobre os montes, pulando sobre os outeiros.
+
+[[v26-2-9]]
+
+^<<v26-2-9,9>>^ O meu amado é semelhante a uma gazela e a um veadinho. Ei-lo que está por detrás da nossa parede, olhando pelas janelas, espreitando através das gelosias.
+
+[[v26-2-10]]
+
+^<<v26-2-10,10>>^ Eis o meu amado, que me diz: Levanta-te, rainha amada, formosa minha e vem (ao campo).
+
+[[v26-2-11]]
+
+^<<v26-2-11,11>>^ Eis que já passou o inverno, já se foram, cessaram de todo as chuvas.
+
+[[v26-2-12]]
+
+^<<v26-2-12,12>>^ Apareceram as flores na nossa terra, chegou o tempo dos cantares, ouviu-se na nossa terra a voz da rola;
+
+[[v26-2-13]]
+
+^<<v26-2-13,13>>^ a figueira começou a brotar os seus figos, as vinhas em flor espalham o seu perfume. Levanta-te, amiga minha, formosa minha, e vem !
+
+[[v26-2-14]]
+
+^<<v26-2-14,14>>^ Pomba minha, tu (que te recolhes) nas aberturas da pedra, nas fendas dos rochedos escarpados, mostra-me a tua face, ressoe a tua voz aos meus ouvidos, porque a tua voz é doce, e a tua face graciosa.
+
+[[v26-2-15]]
+
+^<<v26-2-15,15>>^ Apanhai-nos as raposas, as raposas pequenas que destroem as vinhas, porque a nossa vinha está já em flor.
+
+[[v26-2-16]]
+
+^<<v26-2-16,16>>^ O meu amado é para mim e eu para ele, apascenta (o seu rebanho) entre os lírios!
+
+[[v26-2-17]]
+
+^<<v26-2-17,17>>^ Antes que chegue o fresco do dia e se inclinem as sombras, volta! Sê semelhante, amado meu, à gazela e ao veadinho, (que corre) sobre os montes de Beter.
+
+'''
+
+xref:026-cantico-dos-canticos/026-cantico-dos-canticos-001.adoc#v26-1-0[&#60; Capítulo Anterior] | <<v26-2-0,Topo>> | xref:026-cantico-dos-canticos/026-cantico-dos-canticos-003.adoc#v26-3-0[Próximo Capítulo &#62;]

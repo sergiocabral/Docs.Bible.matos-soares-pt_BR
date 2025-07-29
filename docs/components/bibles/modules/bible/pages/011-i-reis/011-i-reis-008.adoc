@@ -1,0 +1,283 @@
+include::./index.adoc[]
+
+[[v11-8-0]]
+=== I Reis, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 de 1 Reis descreve a dedicação do Templo de Salomão em Jerusalém, que foi construído para abrigar a Arca da Aliança e servir como o lugar de adoração do povo de Israel. Durante a cerimônia de dedicação, o rei Salomão oferece uma oração a Deus e pede que Ele abençoe o Templo e o povo de Israel. Os seguintes versículos da Bíblia estão relacionados com os temas abordados em 1 Reis 8:
+* Deuteronômio 12:5: "Mas procurai o lugar que o Senhor vosso Deus escolher de todas as vossas tribos para ali pôr o seu nome, para a sua habitação; e ali vireis." Este versículo destaca a importância de ter um lugar central de adoração, como o Templo de Salomão em Jerusalém.
+* Salmos 132:13-14: "Pois o Senhor escolheu a Sião; desejou-a para sua habitação. Este é o meu repouso para sempre; aqui habitarei, pois o desejei." Este Salmo é uma referência à escolha de Deus de habitar no Templo de Jerusalém e demonstra a importância do Templo como o lugar de habitação de Deus na terra.
+* Isaías 56:7: "Também os levarei ao meu santo monte, e os alegrarei na minha casa de oração; os seus holocaustos e os seus sacrifícios serão aceitos no meu altar; porque a minha casa será chamada casa de oração para todos os povos." Este versículo destaca a ideia de que o Templo de Jerusalém deveria ser um lugar de oração e adoração para todas as nações.
+* Mateus 21:13: "E disse-lhes: Está escrito: A minha casa será chamada casa de oração; mas vós a tendes convertido em covil de ladrões." Jesus cita este versículo ao expulsar os cambistas e vendedores do Templo em Jerusalém, enfatizando a importância de manter o Templo como um lugar de adoração e oração.
+* João 2:19-21: "Respondeu Jesus, e disse-lhes: Derribai este templo, e em três dias o levantarei. Disseram, pois, os judeus: Em quarenta e seis anos foi edificado este templo, e tu o levantarás em três dias? Mas ele falava do templo do seu corpo." Este versículo é uma referência ao corpo de Jesus como o novo Templo, enfatizando a importância da fé em Cristo como o caminho para a salvação.
+****
+
+[[v11-8-1]]
+
+^<<v11-8-1,1>>^ Então todos os anciães de Israel com os príncipes das tribos e os chefes das famílias dos filhos de Israel, reuniram-se junto do rei Salomão em Jerusalém, para trasladarem a arca da aliança do Senhor da cidade de Davide, isto é, de Sião.
+
+[[v11-8-2]]
+
+^<<v11-8-2,2>>^ Todo o Israel se reuniu junto do rei Salomão no dia solene do mês de Etanim, que é o sétimo mês.
+
+[[v11-8-3]]
+
+^<<v11-8-3,3>>^ Vieram todos os anciães de Israel, e os sacerdotes tomaram a arca.
+
+[[v11-8-4]]
+
+^<<v11-8-4,4>>^ Levaram a arca do Senhor, o tabernáculo da reunião e todos os vasos do santuário, que havia no tabernáculo. Os sacerdotes e Levitas os levavam
+
+[[v11-8-5]]
+
+^<<v11-8-5,5>>^ O rei Salomão e todo o povo de Israel, que se tinha reunido junto dele, iam diante da arca, e imolavam ovelhas e bois, sem preço e sem número.
+
+[[v11-8-6]]
+
+^<<v11-8-6,6>>^ Os sacerdotes puseram a arca da aliança do Senhor no seu lugar, no santuário do templo, no Santo dos Santos, debaixo das asas dos querubins.
+
+[[v11-8-7]]
+
+^<<v11-8-7,7>>^ Os querubins tinham as asas estendidas sobre o lugar da arca, e cobriam por cima a arca e os seus varais.
+
+[[v11-8-8]]
+
+^<<v11-8-8,8>>^ Os varais (foram feitos de maneira que) sobressaíam, deixando ver os seus cabos do lugar santo, diante do santuário, mas não fora, e assim ficaram ali até ao dia de hoje.
+
+[[v11-8-9]]
+
+^<<v11-8-9,9>>^ Na arca não havia senão as duas tábuas de pedra, que Moisés tinha metido nela em Horeb, quando o Senhor fez aliança com os filhos de Israel, logo que saíram da terra do Egipto.
+
+[[v11-8-10]]
+
+^<<v11-8-10,10>>^ Aconteceu que, quando os sacerdotes saíram do santuário, uma névoa encheu a casa do Senhor,
+
+[[v11-8-11]]
+
+^<<v11-8-11,11>>^ e os sacerdotes não podiam ter-se em pé nem fazer as funções do seu ministério, por causa da névoa, porque a glória do Senhor tinha enchido a casa do Senhor.
+
+[[v11-8-12]]
+
+^<<v11-8-12,12>>^ Então disse Salomão: O Senhor declarou que habitaria na obscuridade.
+
+[[v11-8-13]]
+
+^<<v11-8-13,13>>^ Eu edifiquei (ó Deus) esta casa para tua morada, para teu trono firmíssimo para sempre.
+
+[[v11-8-14]]
+
+^<<v11-8-14,14>>^ Depois o rei voltou o seu rosto e abençoou todo o ajuntamento de Israel, porque todo o ajuntamento de Israel estava ali.
+
+[[v11-8-15]]
+
+^<<v11-8-15,15>>^ Salomão disse: Bem-dito seja o Senhor Deus de Israel, que falou pela sua boca a meu pai Davide e que, pelo seu poder, cumpriu a sua palavra, quando disse:
+
+[[v11-8-16]]
+
+^<<v11-8-16,16>>^ Desde o dia em que eu tirei do Egipto o meu povo de Israel, não escolhi cidade alguma de todas as tribos de Israel, pára que me fosse edificada nela uma casa onde se invocasse o meu nome, mas escolhi Davide para ser o chefe do meu povo de Israel.
+
+[[v11-8-17]]
+
+^<<v11-8-17,17>>^ Ora o meu pai Davide quis edificar uma casa ao nome do Senhor Deus de Israel.
+
+[[v11-8-18]]
+
+^<<v11-8-18,18>>^ Porém o Senhor disse a Davide, meu pai: Quando tu no teu coração intentaste edificar uma casa ao meu nome, fizeste bem, formando tal intenção.
+
+[[v11-8-19]]
+
+^<<v11-8-19,19>>^ Todavia, tu não edificarás uma casa, mas teu filho, que descenderá de ti, esse edificará um a casa ao meu nome.
+
+[[v11-8-20]]
+
+^<<v11-8-20,20>>^ O Senhor cumpriu a palavra que lhe disse: eu fiquei em lugar de Davide, meu pai, sentei-me sobre o trono de Israel, como o Senhor tinha dito, e edifiquei um a casa ao nome do Senhor Deus de Israel.
+
+[[v11-8-21]]
+
+^<<v11-8-21,21>>^ Nela escolhi o lugar para a arca, dentro da qual está (a lei que é) a aliança que o Senhor fez com os nossos pais, quando saíram da terra do Egipto.
+
+[[v11-8-22]]
+
+^<<v11-8-22,22>>^ Depois pôs-se Salomão diante do altar do Senhor, à vista do ajuntamento de Israel, estendeu as suas mãos para o céu
+
+[[v11-8-23]]
+
+^<<v11-8-23,23>>^ e disse: Senhor Deus de Israel, não há Deus semelhante a ti, nem no mais alto do céu, nem cá embaixo sobre a terra; tu conservas o pacto e a misericórdia para com os teus servos, que caminham diante de ti, de todo o seu coração,
+
+[[v11-8-24]]
+
+^<<v11-8-24,24>>^ como cumpriste para com teu servo Davide, meu pai, o que lhe prometeste; o que lhe disseste por tua boca, realizaste-o pelas tuas mãos, como o prova este dia.
+
+[[v11-8-25]]
+
+^<<v11-8-25,25>>^ Agora, pois, Senhor Deus de Israel, conserva ao teu servo Davide, meu pai, o que lhe prometeste, quando disseste: Não te faltarão descendentes, que diante de mim se sentem sobre o trono de Israel, contanto, todavia, que teus filhos guardem os teus caminhos, andando em minha presença, como tu andaste diante de mim.
+
+[[v11-8-26]]
+
+^<<v11-8-26,26>>^ Senhor Deus de Israel, cumpram-se presentemente as palavras que disseste ao teu servo Davide, meu pai.
+
+[[v11-8-27]]
+
+^<<v11-8-27,27>>^ Mas, é crível que Deus habite verdadeiramente sobre a terra? Com efeito, se o céu e o céu dos céus te não podem conter, quanto menos esta casa que eu edifiquei?
+
+[[v11-8-28]]
+
+^<<v11-8-28,28>>^ Todavia atende. Senhor Deus meu, à oração do teu servo e às suas súplicas; ouve o hino e a oração que o teu servo faz hoje em tua presença,
+
+[[v11-8-29]]
+
+^<<v11-8-29,29>>^ tendo os teus olhos abertos de noite e de dia sobre esta casa, da qual disseste: O meu nome estará nela. Ouve a oração, que o teu servo te faz neste lugar,
+
+[[v11-8-30]]
+
+^<<v11-8-30,30>>^ ouve a súplica do teu servo e do teu povo de Israel, quando orarem neste lugar; sim, tu ouvirás do lugar da tua morada no céu, e, tendo ouvido, lhes serás propício.
+
+[[v11-8-31]]
+
+^<<v11-8-31,31>>^ Quando algum homem pecar contra o seu próximo, e, fazendo-o jurar, for tomado o juramento diante do teu altar, neste teu templo,
+
+[[v11-8-32]]
+
+^<<v11-8-32,32>>^ tu o ouvirás do céu e farás Justiça a teus servos, condenando o ímpio, fazendo recair a sua perfídia sobre a sua cabeça, e justificarás o justo, retribuindo-lhe conforme a sua justiça.
+
+[[v11-8-33]]
+
+^<<v11-8-33,33>>^ Quando o teu povo de Israel fugir diante dos seus inimigos, (como castigo) por haver pecado contra ti, se, fazendo penitência e dando glória ao teu nome, vierem (seus filhos) e orarem e te suplicarem nesta casa,
+
+[[v11-8-34]]
+
+^<<v11-8-34,34>>^ ouve-os do céu, perdoa o pecado do teu povo de Israel, e torna-os a levar à terra que deste a seus pais.
+
+[[v11-8-35]]
+
+^<<v11-8-35,35>>^ Quando o céu se fechar e não cair chuva alguma, por causa dos seus pecados, se eles, orando neste lugar, fizerem penitência, em honra do teu nome, e se converterem dos seus pecados por causa da sua aflição,
+
+[[v11-8-36]]
+
+^<<v11-8-36,36>>^ ouve-os do céu, perdoa os pecados de teus servos, do teu povo de Israel, mostra-lhes o caminho direito, por onde devem andar, e derrama chuva sobre (esta) tua terra, que deste como herança ao teu povo.
+
+[[v11-8-37]]
+
+^<<v11-8-37,37>>^ Quando vier sobre a terra fome, peste, ou corrução do ar, ou ferrugem, ou gafanhoto, ou qualquer humor maligno; quando o teu povo for cercado pelo seu inimigo nas suas cidades; quando houver qualquer praga ou qualquer enfermidade,
+
+[[v11-8-38]]
+
+^<<v11-8-38,38>>^ se cada um, se todo o teu povo de Israel recorrer a ti com votos e súplicas, se, reconhecendo a chaga de seu coração (causada pelo pecado), levantar as suas mãos para ti nesta casa,
+
+[[v11-8-39]]
+
+^<<v11-8-39,39>>^ ouve-os do céu, do lugar da tua morada, e perdoa-lhes. Faze de modo a dar a cada um conforme todas as suas obras, segundo vires o seu coração (porque só tu conheces o interior dos corações de todos os filhos dos homens),
+
+[[v11-8-40]]
+
+^<<v11-8-40,40>>^ para que eles tenham temor de ti durante todo o tempo que viverem sobre a face da terra que tu deste a nossos pais.
+
+[[v11-8-41]]
+
+^<<v11-8-41,41>>^ Também, quando algum estrangeiro, que não é do teu povo de Israel, vier de algum país remoto, por causa do teu nome (porque ouvirá falar da grandeza do teu nome, da força da tua mão e do poder do teu braço estendido),
+
+[[v11-8-42]]
+
+^<<v11-8-42,42>>^ quando vier fazer oração neste lugar,
+
+[[v11-8-43]]
+
+^<<v11-8-43,43>>^ tu o ouvirás do céu, das alturas da tua morada, e farás tudo o que o estrangeiro te pedir. Assim todos os, povos da terra aprenderão a temer o teu nome, como faz o teu povo de Israel, e saberão que o teu nome é invocado sobre esta casa, que eu edifiquei.
+
+[[v11-8-44]]
+
+^<<v11-8-44,44>>^ Quando o teu povo sair à guerra contra o seus inimigos, indo pelo caminho, pelo qual tu o tiveres mandado, se te fizerem as suas preces com o rosto voltado para a cidade, que tu escolheste, e para a casa que edifiquei ao teu nome,
+
+[[v11-8-45]]
+
+^<<v11-8-45,45>>^ tu também ouvirás do céu as suas orações e as suas preces, e lhes farás justiça.
+
+[[v11-8-46]]
+
+^<<v11-8-46,46>>^ Porém, quando pecarem contra ti (porque não há homem que não peque), e tu, irado, os entregares nas mãos de seus inimigos, quando eles forem levados cativos, ou perto ou longe, para terra inimiga,
+
+[[v11-8-47]]
+
+^<<v11-8-47,47>>^ se fizerem penitência do íntimo do seu coração, no lugar do seu cativeiro, e, convertidos, te suplicarem no seu cativeiro, desta forma: Nós pecamos, nós cometemos a iniquidade, nós procedemos impiamente
+
+[[v11-8-48]]
+
+^<<v11-8-48,48>>^ se eles se voltarem para ti de todo o seu coração e de toda a sua alma, na terra de seus inimigos, para onde foram levados cativos, se orarem voltados para a terra que tu deste a seus pais, para a cidade que escolheste e para o templo que eu edifiquei ao teu nome,
+
+[[v11-8-49]]
+
+^<<v11-8-49,49>>^ escuta do céu, do firmamento do teu trono, as suas orações e as suas preces, e defende a sua causa.
+
+[[v11-8-50]]
+
+^<<v11-8-50,50>>^ Mostra-te propício ao teu povo, que pecou contra ti, e perdoa todas as iniquidades, que tiverem cometido contra ti. Inspira ternura aos que os levarem cativos, para terem compaixão deles,
+
+[[v11-8-51]]
+
+^<<v11-8-51,51>>^ porque eles são o teu povo e a tua herança, que tiraste da terra do Egipto, do meio duma fornalha (ou crisol) de ferro.
+
+[[v11-8-52]]
+
+^<<v11-8-52,52>>^ Os teus olhos estejam abertos às súplicas dos teus servos e do teu povo de Israel, para os ouvires em tudo aquilo por que eles te invocaram,
+
+[[v11-8-53]]
+
+^<<v11-8-53,53>>^ visto que tu, ó Senhor Deus, os separaste de todos os povos da terra para tua herança, como o declaraste por meio de teu servo Moisés, quando tiraste os nossos pais do Egipto.
+
+[[v11-8-54]]
+
+^<<v11-8-54,54>>^ Quando Salomão acabou de fazer ao Senhor toda esta oração e esta súplica, levantou-se de diante do altar do Senhor, porque ele havia posto ambos os joelhos em terra e tinha as mãos estendidas para o céu.
+
+[[v11-8-55]]
+
+^<<v11-8-55,55>>^ Pôs-se em pé e abençoou todo o ajuntamento de Israel, dizendo em voz alta:
+
+[[v11-8-56]]
+
+^<<v11-8-56,56>>^ Bem-dito seja o Senhor, que deu descanso ao seu povo de Israel, conforme todas as promessas que tinha feito: não falhou, nem sequer numa palavra em cumprir o que nos tinha prometido por meio do seu servo Moisés.
+
+[[v11-8-57]]
+
+^<<v11-8-57,57>>^ O Senhor nosso Deus seja conosco, como foi com nossos pais, não nos desamparando, nem nos afastando de si,
+
+[[v11-8-58]]
+
+^<<v11-8-58,58>>^ que incline os nossos corações para ele, a fim de que andemos em todos os seus caminhos, e guardemos as leis, os mandamentos e ordenações que ele prescreveu a nossos pais.
+
+[[v11-8-59]]
+
+^<<v11-8-59,59>>^ Oxalá que estas minhas palavras, com que acabo de orar ao Senhor, estejam presentes de dia e de noite diante do Senhor, nosso Deus, para que todos os dias ele faça justiça ao seu servo e ao seu povo de Israel.
+
+[[v11-8-60]]
+
+^<<v11-8-60,60>>^ Assim todos os povos da terra saberão que ele, o Senhor, é Deus, e que não há outro fora dele.
+
+[[v11-8-61]]
+
+^<<v11-8-61,61>>^ Que o vosso coração seja todo para o Senhor, nosso Deus a fim de andardes segundo os seus decretos e guardardes os seus mandamentos, como fazeis hoje.
+
+[[v11-8-62]]
+
+^<<v11-8-62,62>>^ O rei e todo o Israel imolaram vitimas diante do Senhor.
+
+[[v11-8-63]]
+
+^<<v11-8-63,63>>^ Salomão imolou, para o sacrifício pacífico que ofereceu ao Senhor, vinte e dois mil bois, e cento e vinte mil ovelhas. Assim o rei com os filhos de Israel dedicaram o templo do Senhor.
+
+[[v11-8-64]]
+
+^<<v11-8-64,64>>^ Naquele dia o rei consagrou o meio do átrio, que estava diante da casa do Senhor, pois ofereceu ali holocaustos e sacrifícios, e as banhas das hóstias pacíficas, porque o altar de bronze, que estava diante do Senhor, era pequeno, e não podiam caber nele os holocaustos e os sacrifícios, e as banhas das hóstias pacíficas.
+
+[[v11-8-65]]
+
+^<<v11-8-65,65>>^ Tal foi a festa que Salomão celebrou nesse tempo, e todo o Israel com ele, tendo concorrido gente em grande número desde a entrada de Emat até a o rio do Egipto, diante do Senhor, nosso Deus, durante sete dias, e (em seguida) durante outros sete dias, isto é, durante catorze dias.
+
+[[v11-8-66]]
+
+^<<v11-8-66,66>>^ Ao dia oitavo (desta última festa), despediu os povos, os quais abençoando o rei, voltaram para suas tendas, alegres, com o coração contente, por todos os bens que o Senhor tinha feito a Davide, seu servo, e a Israel, seu povo.
+
+'''
+
+xref:011-i-reis/011-i-reis-007.adoc#v11-7-0[&#60; Capítulo Anterior] | <<v11-8-0,Topo>> | xref:011-i-reis/011-i-reis-009.adoc#v11-9-0[Próximo Capítulo &#62;]

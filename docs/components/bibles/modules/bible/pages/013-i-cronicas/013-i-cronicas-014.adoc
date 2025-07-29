@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v13-14-0]]
+=== I Crônicas, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 14 relata a expansão do reinado de Davi e sua vitória sobre os filisteus. Davi buscou a orientação de Deus em suas estratégias de batalha e foi recompensado com grandes vitórias. Abaixo estão cinco versículos relacionados com temas abordados neste capítulo:
+* Salmos 20:7: "Uns confiam em carros, outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus." Este salmo fala da importância de confiar em Deus em vez de depender de forças humanas, o que pode ser relacionado com a orientação divina que Davi buscou em 1 Crônicas 14.
+* Provérbios 16:3: "Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos." Este versículo fala da importância de confiar em Deus e entregar-lhe nossos planos e projetos, o que é relevante para a busca de Davi por orientação divina em 1 Crônicas 14.
+* Josué 1:9: "Não to mandei eu? Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares." Este versículo fala da promessa de Deus de estar com Josué em sua liderança, o que é relevante para a liderança de Davi em 1 Crônicas 14.
+* 2 Samuel 5:20: "E Davi foi a Baal-Perazim, e ali os feriu; e disse: Subiu o Senhor diante de mim, e feriu os meus inimigos diante de mim, como as águas que rompem." Este versículo relata a vitória de Davi sobre os filisteus em Baal-Perazim, o que é o tema central de 1 Crônicas 14.
+* Filipenses 4:13: "Posso todas as coisas naquele que me fortalece." Este versículo fala da capacidade que Deus nos dá de superar as dificuldades e desafios que encontramos, o que pode ser relacionado com a força que Davi recebeu de Deus para enfrentar os filisteus em 1 Crônicas 14.
+****
+
+[[v13-14-1]]
+
+^<<v13-14-1,1>>^ Hirão, rei de Tiro, enviou também mensageiros a Davide, madeiras de cedro, pedreiros e carpinteiros, para lhe fazerem uma casa.
+
+[[v13-14-2]]
+
+^<<v13-14-2,2>>^ Davide reconheceu que o Senhor o tinha confirmado rei sobre Israel e que o seu reino se tinha elevado por amor de Israel, seu povo.
+
+[[v13-14-3]]
+
+^<<v13-14-3,3>>^ Davide tomou também em Jerusalém outras mulheres, e teve filhos e filhas.
+
+[[v13-14-4]]
+
+^<<v13-14-4,4>>^ Estes são os nomes dos que lhe nasceram em Jerusalém: Samua, Sobad, Natan, Salomão,
+
+[[v13-14-5]]
+
+^<<v13-14-5,5>>^ Noga, Nafeg, Jafia.
+
+[[v13-14-6]]
+
+^<<v13-14-6,6>>^ Elisama, Baaliada e Elifalet.
+
+[[v13-14-7]]
+
+^<<v13-14-7,7>>^ Os Filisteus, tendo ouvido dizer que Davide tinha sido ungido rei sobre todo o Israel, juntaram-se todos para o atacarem. Davide, tendo sabido isto, foi ao seu encontro.
+
+[[v13-14-8]]
+
+^<<v13-14-8,8>>^ Os Filisteus, tendo chegado, espalharam-se pelo vale de Refaim.
+
+[[v13-14-9]]
+
+^<<v13-14-9,9>>^ Davide consultou o Senhor, dizendo: Irei eu contra os Filisteus, e entregar-mos-ás tu nas minhas mãos? O Senhor respondeu-lhe: Vai, que eu tos entregarei nas tuas mãos.
+
+[[v13-14-10]]
+
+^<<v13-14-10,10>>^ Tendo eles, pois, chegado a Baalfarasim, Davide desbaratou-os aí e disse: O Senhor dividiu, por meio da minha mão, os meus inimigos, assim como se dividem as águas; por isso este lugar se chamou Baalfarasim.
+
+[[v13-14-11]]
+
+^<<v13-14-11,11>>^ Os Filisteus deixaram ali os seus deuses, que Davide mandou queimar.
+
+[[v13-14-12]]
+
+^<<v13-14-12,12>>^ Os Filisteus fizeram ainda outra invasão e espalharam-se pelo vale.
+
+[[v13-14-13]]
+
+^<<v13-14-13,13>>^ Davide consultou segunda vez a Deus, e Deus disse-lhe: Não vás atrás deles, e irás contra eles do lado dos balsameiros.
+
+[[v13-14-14]]
+
+^<<v13-14-14,14>>^ E, quando ouvires um rumor como de passos, entre as copas dos balsameiros, então sairás à peleja; porque Deus saiu diante de ti, para desbaratar o acampamento dos Filisteus.
+
+[[v13-14-15]]
+
+^<<v13-14-15,15>>^ Fez, pois, Davide como o Senhor lhe tinha mandado, e desbaratou o acampamento dos Filisteus, desde Gabaon até Gazer.
+
+[[v13-14-16]]
+
+^<<v13-14-16,16>>^ A fama de Davide espalhou-se por todos os povos, e o Senhor o fez formidável a todas as gentes.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-013.adoc#v13-13-0[&#60; Capítulo Anterior] | <<v13-14-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-015.adoc#v13-15-0[Próximo Capítulo &#62;]

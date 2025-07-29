@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v28-26-0]]
+=== Eclesiástico, 26
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 26 é um capítulo que fala sobre a importância da esposa e dos relacionamentos conjugais. O capítulo destaca a importância da harmonia e da fidelidade no casamento, bem como a importância de escolher uma esposa piedosa. Além disso, ele também adverte contra a má conduta e a infidelidade no casamento. Abaixo estão cinco versículos que abordam esses temas:
+* Provérbios 18:22: "Aquele que encontra uma esposa encontra algo bom; recebeu uma bênção do Senhor." Este versículo destaca a importância da escolha de uma esposa e a bênção que ela pode trazer para a vida de um homem.
+* 1 Coríntios 7:3: "O marido deve cumprir os seus deveres conjugais para com a sua esposa, e da mesma forma a esposa para com o seu marido." Este versículo enfatiza a importância da fidelidade e da satisfação conjugal mútua.
+* Efésios 5:25: "Maridos, amem as suas esposas, assim como Cristo amou a igreja e entregou-se por ela." Este versículo destaca a importância do amor sacrificial e do cuidado que os maridos devem ter por suas esposas.
+* Provérbios 31:10: "Uma esposa exemplar; feliz quem a encontrar. É muito mais valiosa que os rubis." Este versículo enfatiza a importância de escolher uma esposa sábia e virtuosa.
+* Provérbios 5:18-19: "Seja bendita a sua fonte! Alegre-se com a esposa da sua juventude. Corça amorosa, gazela graciosa; que os seios de sua esposa sempre o fartem de prazer, e sempre o embriague com o seu amor." Este versículo destaca a importância da intimidade e da satisfação conjugal em um casamento saudável.
+****
+
+[[v28-26-1]]
+
+^<<v28-26-1,1>>^ Ditoso o homem que tem uma virtuosa mulher, porque será dobrado o número dos seus anos.
+
+[[v28-26-2]]
+
+^<<v28-26-2,2>>^ A mulher forte é a alegria de seu marido, derramará paz sobre os anos da sua vida.
+
+[[v28-26-3]]
+
+^<<v28-26-3,3>>^ A mulher virtuosa é uma sorte excelente, é o prêmio dos que temem a Deus, será dada ao homem pelas suas boas obras.
+
+[[v28-26-4]]
+
+^<<v28-26-4,4>>^ Terá (o marido dela) satisfeito o coração, seja rico ou pobre, e o seu rosto ver-se-á sempre alegre.
+
+[[v28-26-5]]
+
+^<<v28-26-5,5>>^ Três coisas receou o meu coração, e com a quarta se amedrontou o meu semblante:
+
+[[v28-26-6]]
+
+^<<v28-26-6,6>>^ A acusação duma cidade (inteira), a sedição dum povo,
+
+[[v28-26-7]]
+
+^<<v28-26-7,7>>^ a calúnia, coisas estas mais pesadas que a morte;
+
+[[v28-26-8]]
+
+^<<v28-26-8,8>>^ mas a mulher ciumenta é dor do coração e luto.
+
+[[v28-26-9]]
+
+^<<v28-26-9,9>>^ Na mulher ciosa a língua é um flagelo, que a todos atinge.
+
+[[v28-26-10]]
+
+^<<v28-26-10,10>>^ Como o jugo dos bois desajustado, assim é a mulher má; o que a toma, é como quem toma um escorpião. (ver nota)
+
+[[v28-26-11]]
+
+^<<v28-26-11,11>>^ A mulher dada ao vinho é motivo de grande cólera e vergonha, e a sua infâmia não será oculta.
+
+[[v28-26-12]]
+
+^<<v28-26-12,12>>^ A impudicícia da mulher reconhece-se na desfaçatez do olhar e no mover das suas pálpebras.
+
+[[v28-26-13]]
+
+^<<v28-26-13,13>>^ Redobra de vigilância sobre a filha que não se retrai (dos homens) para que não se perca, se encontrar ocasião.
+
+[[v28-26-14]]
+
+^<<v28-26-14,14>>^ Vigia sobre todo o desavergonhamento dos seus olhos. e não estranhes se ela te desprezar.
+
+[[v28-26-15]]
+
+^<<v28-26-15,15>>^ Ela, como um viajante sequioso, abrirá a boca à fonte e beberá de toda a água que tiver a mão, junto de qualquer poste se assentará, e a toda a seta abrirá a aljava até mais não poder.
+
+[[v28-26-16]]
+
+^<<v28-26-16,16>>^ A graça duma mulher cuidadosa deleita o seu marido,
+
+[[v28-26-17]]
+
+^<<v28-26-17,17>>^ e o seu bom proceder infunde-lhe vigor até aos ossos. É um dom de Deus
+
+[[v28-26-18]]
+
+^<<v28-26-18,18>>^ uma mulher sensata, amiga do silêncio; nada é comparável a uma mulher bem educada.
+
+[[v28-26-19]]
+
+^<<v28-26-19,19>>^ Graça sobre graça é a mulher santa e cheia de pudor.
+
+[[v28-26-20]]
+
+^<<v28-26-20,20>>^ Todo o preço é nada em comparação duma alma casta.
+
+[[v28-26-21]]
+
+^<<v28-26-21,21>>^ Como o Sol que se levanta para o mundo, nas alturas de Deus, assim é a beleza duma mulher virtuosa, ornamento da sua casa.
+
+[[v28-26-22]]
+
+^<<v28-26-22,22>>^ Como a lâmpada que brilha sobre o candelabro sagrado, assim é a graciosidade do rosto numa idade madura.
+
+[[v28-26-23]]
+
+^<<v28-26-23,23>>^ Como colunas de ouro sobre bases de prata, assim são, sobre as suas plantas, os pés esbeltos da mulher ponderada.
+
+[[v28-26-24]]
+
+^<<v28-26-24,24>>^ Como fundamentos eternos sobre a pedra sólida, assim são os mandamentos de Deus no coração da mulher santa.
+
+[[v28-26-25]]
+
+^<<v28-26-25,25>>^ Com duas coisas se entristeceu o meu coração, e a terceira provocou-me a cólera:
+
+[[v28-26-26]]
+
+^<<v28-26-26,26>>^ Um homem de guerra que perece à míngua, tecem, um homem sábio que é desprezado, (ver nota)
+
+[[v28-26-27]]
+
+^<<v28-26-27,27>>^ e aquele que passa da justiça ao pecado; a este último reservou Deus para a espada. (ver nota)
+
+[[v28-26-28]]
+
+^<<v28-26-28,28>>^ Duas coisas me parecem difíceis e perigosas: Dificultosamente evitará as faltas o que negoceia, e o taberneiro não estará isento dos pecados da língua.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-025.adoc#v28-25-0[&#60; Capítulo Anterior] | <<v28-26-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-027.adoc#v28-27-0[Próximo Capítulo &#62;]

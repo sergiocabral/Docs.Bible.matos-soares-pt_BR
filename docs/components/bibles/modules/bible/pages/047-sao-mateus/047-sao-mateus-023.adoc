@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v47-23-0]]
+=== São Mateus, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Mateus 23 contém uma forte condenação de Jesus aos líderes religiosos da época por sua hipocrisia e arrogância. Ele os acusa de impor fardos pesados sobre o povo enquanto eles mesmos não praticam o que pregam. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Jeremias 7:9-10: "Roubam e matam, cometem adultério e juram falsamente; fazem oferendas a Baal e seguem outros deuses que não conheceram. E ainda vêm ao meu templo e o profanam, a minha casa é chamada por eles de 'santuário', mas transformaram-na em covil de ladrões!" - Jesus acusa os líderes religiosos de hipocrisia por impor regras e fardos sobre o povo enquanto eles mesmos cometem pecados graves.
+* Provérbios 23:1-3: "Quando você se assentar para comer com um governante, pense bem no que está diante de você, e ponha uma faca à sua garganta se for dado a muitos apetites. Não cobice seus acepipes finos, pois é uma comida enganosa." - Jesus alerta que os líderes religiosos são motivados pelo desejo de ganho pessoal e poder, em vez de cuidar do povo.
+* Isaías 29:13: "Este povo se aproxima de mim com a boca e me honra com os lábios, mas o seu coração está longe de mim. A adoração que me prestam é feita só de regras ensinadas por homens." - Jesus acusa os líderes religiosos de se concentrarem apenas na aparência externa da religião e não na verdadeira adoração a Deus.
+* Ezequiel 34:2-3: "Filho do homem, profetiza contra os pastores de Israel; profetiza e dize-lhes: Assim diz o Senhor Deus: Ai dos pastores de Israel que se apascentam a si mesmos! Não devem os pastores apascentar as ovelhas? Comeis a gordura, vestis-vos com a lã, degolais o cevado; mas não apascentais as ovelhas." - Jesus acusa os líderes religiosos de não cuidar adequadamente do povo, mas em vez disso, se concentrar em seu próprio conforto e enriquecimento.
+* Mateus 6:1-2: "Cuidado com a prática da justiça diante dos outros, apenas para ser visto por eles. Se vocês agirem assim, não terão nenhuma recompensa do Pai celestial. Portanto, quando você der esmola, não anuncie isso com trombetas, como fazem os hipócritas nas sinagogas e nas ruas, a fim de serem honrados pelos outros. Eu lhes asseguro que eles já receberam sua plena recompensa." - Jesus acusa os líderes religiosos de fazer coisas boas apenas para serem vistos pelos outros, em vez de terem a verdadeira motivação de agradar a Deus.
+****
+
+[[v47-23-1]]
+
+^<<v47-23-1,1>>^ Então Jesus falou às turbas e aos seus discípulos,
+
+[[v47-23-2]]
+
+^<<v47-23-2,2>>^ dizendo: "Sobre a cadeira de Moisés sentaram-se os escribas e os fariseus.
+
+[[v47-23-3]]
+
+^<<v47-23-3,3>>^ Observai, pois, e fazei tudo o que eles vos disserem, mas não imiteis as suas acções, porque dizem e não fazem.
+
+[[v47-23-4]]
+
+^<<v47-23-4,4>>^ Atam cargas pesadas e impossíveis de levar, e as põem sobre os ombros dos outros homens, mas nem com um dedo as querem mover.
+
+[[v47-23-5]]
+
+^<<v47-23-5,5>>^ Fazem todas as suas obras para serem vistos pelos homens. Trazem mais largas filatérias, e mais compridas as franjas dos vestidos.
+
+[[v47-23-6]]
+
+^<<v47-23-6,6>>^ Gostam de ter nos banquetes os primeiros lugares, nas sinagogas as primeiras cadeiras,
+
+[[v47-23-7]]
+
+^<<v47-23-7,7>>^ as saudações na praça, e serem chamados rabi pelos homens.
+
+[[v47-23-8]]
+
+^<<v47-23-8,8>>^ Mas vós não vos façais chamar rabi, porque um só é o vosso Mestre, e vós sois todos irmãos.
+
+[[v47-23-9]]
+
+^<<v47-23-9,9>>^ A ninguém chameis pai sobre a terra, porque um só é vosso Pai, o que está nos céus.
+
+[[v47-23-10]]
+
+^<<v47-23-10,10>>^ Nem façais que vos chamem mestres, porque um só é vosso Mestre, o Cristo.
+
+[[v47-23-11]]
+
+^<<v47-23-11,11>>^ O que entre vós for o maior, será vosso servo.
+
+[[v47-23-12]]
+
+^<<v47-23-12,12>>^ Aquele que se exaltar será humilhado, e o que se humilhar será exaltado.
+
+[[v47-23-13]]
+
+^<<v47-23-13,13>>^ Ai de vós, escribas e fariseus hipócritas, que fechais o reino dos céus aos homens, pois nem vós entrais, nem deixais que entrem os que estão para entrar.
+
+[[v47-23-14]]
+
+^<<v47-23-14,14>>^ Ai de vós, escribas e fariseus hipócritas, que devorais as casas das viúvas, a pretexto de longas orações! Por isto sereis julgados mais severamente. (ver nota)
+
+[[v47-23-15]]
+
+^<<v47-23-15,15>>^ Ai de vós, escribas e fariseus hipócritas, que rodeais o mar e a terra para fazerdes um prosélito e, depois de o terdes feito, o tornais filho da geena duas vezes pior do que vós.
+
+[[v47-23-16]]
+
+^<<v47-23-16,16>>^ Ai de vós, condutores cegos, que dizeis: Se alguém jurar pelo templo, isso não é nada, mas o que jurar pelo ouro do templo, fica obrigado!
+
+[[v47-23-17]]
+
+^<<v47-23-17,17>>^ Estultos e cegos! Qual é mais, o ouro ou o templo, que santifica o ouro?
+
+[[v47-23-18]]
+
+^<<v47-23-18,18>>^ E dizeis: Se alguém jurar pelo altar, isso não é nada, mas quem jurar pela oferenda, que está sobre ele, fica obrigado.
+
+[[v47-23-19]]
+
+^<<v47-23-19,19>>^ Cegos! Qual é mais, a oferta ou o altar, que santifica a oferta?
+
+[[v47-23-20]]
+
+^<<v47-23-20,20>>^ Aquele, pois, que jura pelo altar, jura por ele e por tudo que está sobre ele,
+
+[[v47-23-21]]
+
+^<<v47-23-21,21>>^ e o que jura pelo templo, jura por ele e por Aquele que habita nele,
+
+[[v47-23-22]]
+
+^<<v47-23-22,22>>^ e o que jura pelo céu, jura pelo trono de Deus, e por Aquele que está sentado sobre ele.
+
+[[v47-23-23]]
+
+^<<v47-23-23,23>>^ Ai de vós, escribas e fariseus hipócritas, que pagais a dízima da hortelã e do endro e do cominho, e desprezais os pontos mais graves da lei: a justiça, a misericórdia e a fidelidade! São estas coisas que era preciso praticar, sem omitir as outras.
+
+[[v47-23-24]]
+
+^<<v47-23-24,24>>^ Condutores cegos, que filtrais um mosquito e engulis um camelo!
+
+[[v47-23-25]]
+
+^<<v47-23-25,25>>^ Ai de vós, escribas e fariseus hipócritas, que limpais o que está por fora do copo e do prato, e por dentro estais cheios de rapina e de imundície.
+
+[[v47-23-26]]
+
+^<<v47-23-26,26>>^ Fariseu cego, purifica primeiro o que está dentro do copo e do prato, para que também o que está fora fique limpo.
+
+[[v47-23-27]]
+
+^<<v47-23-27,27>>^ Ai de vós, escribas e fariseus hipócritas, que sois semelhantes aos sepulcros branqueados, que por fora parecem formosos, mas por dentro estão cheios de ossos de mortos e de toda a sorte de podridão!
+
+[[v47-23-28]]
+
+^<<v47-23-28,28>>^ Assim também vós por fora pareceis justos aos homens, mas por dentro estais cheios de hipocrisia e iniquidade.
+
+[[v47-23-29]]
+
+^<<v47-23-29,29>>^ Ai de vós, escribas e fariseus hipócritas, que edificais os sepulcros dos profetas, e adornais os monumentos dos justos,
+
+[[v47-23-30]]
+
+^<<v47-23-30,30>>^ e dizeis: Se nós tivéssemos vivido nos dias de nossos pais, não teríamos sido seus cúmplices no sangue dos profetas!
+
+[[v47-23-31]]
+
+^<<v47-23-31,31>>^ Assim dais testemunho contra vós mesmos de que sois filhos daqueles que mataram os profetas.
+
+[[v47-23-32]]
+
+^<<v47-23-32,32>>^ Acabai pois de encher a medida de vossos pais.
+
+[[v47-23-33]]
+
+^<<v47-23-33,33>>^ Serpentes, raça de víboras! Como escapareis da condenação ao inferno?
+
+[[v47-23-34]]
+
+^<<v47-23-34,34>>^ Por isso, eis que eu vos envio profetas, sábios e escribas; matareis e crucificareis uns, e açoutareis outros nas vossas sinagogas, e os perseguireis de cidade em cidade,
+
+[[v47-23-35]]
+
+^<<v47-23-35,35>>^ para que caia sobre vós todo o sangue justo que se tem derramado sobre a terra, desde o sangue do justo Abel até ao sangue de Zacarias, filho de Baraquias, a quem matastes entre o templo e o altar.
+
+[[v47-23-36]]
+
+^<<v47-23-36,36>>^ Em verdade vos digo que tudo isto virá sobre esta geração.
+
+[[v47-23-37]]
+
+^<<v47-23-37,37>>^ Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados, quantas vezes eu quis juntar teus filhos, como a galinha recolhe debaixo das asas os seus pintos, e tu não quiseste!
+
+[[v47-23-38]]
+
+^<<v47-23-38,38>>^ Eis que será deixada deserta a vossa casa (Je. 22, 5).
+
+[[v47-23-39]]
+
+^<<v47-23-39,39>>^ Porque eu vos digo: Desde agora não me tomareis a ver, até que digais: Bendito o que vem em nome do Senhor (Ps. 117, 26)."
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-022.adoc#v47-22-0[&#60; Capítulo Anterior] | <<v47-23-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-024.adoc#v47-24-0[Próximo Capítulo &#62;]

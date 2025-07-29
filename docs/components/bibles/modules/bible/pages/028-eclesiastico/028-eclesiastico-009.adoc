@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v28-9-0]]
+=== Eclesiástico, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 9 apresenta conselhos práticos para a vida cotidiana, incluindo a importância de escolher bem seus amigos, não confiar na riqueza e manter a modéstia. Para encontrar versículos relacionados, podemos procurar por conselhos semelhantes ou temas semelhantes, como a importância de evitar más influências e viver sabiamente. Aqui estão cinco versículos selecionados:
+* Provérbios 13:20: "Anda com os sábios e serás sábio, mas o companheiro dos tolos acabará mal." Este versículo enfatiza a importância de escolher com sabedoria com quem passamos nosso tempo, pois seremos influenciados pelas pessoas com quem nos associamos.
+* Provérbios 23:4-5: "Não te canses para enriqueceres; dá de mão à tua própria sabedoria. Lança os teus olhos sobre ele e já não existe, porque certamente criará asas como águia e voará para os céus." Este versículo adverte sobre a busca excessiva pela riqueza e como ela pode ser temporária e fugaz.
+* 1 Coríntios 6:12: "Todas as coisas me são lícitas, mas nem todas as coisas convêm. Todas as coisas me são lícitas, mas eu não me deixarei dominar por nenhuma delas." Este versículo enfatiza a importância do autocontrole e moderação em todas as coisas.
+* Provérbios 22:24-25: "Não faças amizade com o iracundo nem andes com o homem colérico, para que não aprendas as suas veredas e não ponhas a tua alma em perigo." Este versículo destaca a importância de evitar más influências e pessoas que podem nos levar a comportamentos destrutivos.
+* Eclesiastes 7:16: "Não te tornes demasiado justo nem demasiado sábio; por que te destruirias a ti mesmo?" Este versículo adverte contra o excesso em qualquer área da vida e a importância de manter a moderação e o equilíbrio.
+****
+
+[[v28-9-1]]
+
+^<<v28-9-1,1>>^ Não sejas cioso da mulher que repousa no teu seio, para que não empregue contra ti a malícia que lhe ensinaste. (ver nota)
+
+[[v28-9-2]]
+
+^<<v28-9-2,2>>^ Não dês à mulher poder sobre a tua alma. para que não usurpe a tua autoridade, e fiques envergonhado.
+
+[[v28-9-3]]
+
+^<<v28-9-3,3>>^ Não olhes para a mulher volúvel, para não caíres nos seus laços.
+
+[[v28-9-4]]
+
+^<<v28-9-4,4>>^ Não andes muito com uma bailarina, nem a ouças, para não pereceres à força dos seus atractivos.
+
+[[v28-9-5]]
+
+^<<v28-9-5,5>>^ Não detenhas os teus olhos sobre uma donzela. para que a sua beleza não te seja ocasião de queda.
+
+[[v28-9-6]]
+
+^<<v28-9-6,6>>^ Nunca entregues a tua alma às prostitutas, para que te não percas a ti e aos teus bens.
+
+[[v28-9-7]]
+
+^<<v28-9-7,7>>^ Não deixes errar os olhos pelas ruas da cidade, nem andes vagueando pelas suas praças.
+
+[[v28-9-8]]
+
+^<<v28-9-8,8>>^ Afasta os teus olhos da mulher enfeitada, e não olhes com insistência para a formosura alheia.
+
+[[v28-9-9]]
+
+^<<v28-9-9,9>>^ Por causa da formosura da mulher pereceram muitos, e por ela se acende a concupiscência como fogo.
+
+[[v28-9-10]]
+
+^<<v28-9-10,10>>^ Toda a mulher devassa será pisada como esterco no caminho.
+
+[[v28-9-11]]
+
+^<<v28-9-11,11>>^ Muitos, por terem admirado a formosura da mulher alheia, se tornaram réprobos, porque a sua conversação queima como fogo.
+
+[[v28-9-12]]
+
+^<<v28-9-12,12>>^ Não te assentes jamais com a mulher alheia, nem te recostes com ela à mesa:
+
+[[v28-9-13]]
+
+^<<v28-9-13,13>>^ não a incites a beber vinho (contigo) para que não suceda que o teu coração se converta para ela e que a tua paixão te faça cair na perdição.
+
+[[v28-9-14]]
+
+^<<v28-9-14,14>>^ Não deixes o amigo antigo, porque o novo não será semelhante a ele.
+
+[[v28-9-15]]
+
+^<<v28-9-15,15>>^ O amigo novo é um vinho novo; quando se fizer velho, (então) o beberás com gosto.
+
+[[v28-9-16]]
+
+^<<v28-9-16,16>>^ Não invejes a glória nem as riquezas do pecador, porque não sabes qual será a sua ruína.
+
+[[v28-9-17]]
+
+^<<v28-9-17,17>>^ Não te agrade a violência dos injustos, sabendo que até à sepultura não agradará o ímpio (a Deus).
+
+[[v28-9-18]]
+
+^<<v28-9-18,18>>^ Conserva-te longe daquele homem que tem poder de mandar matar, e assim não saberás o que é temer a morte.
+
+[[v28-9-19]]
+
+^<<v28-9-19,19>>^ Mas, se te aproximares dele, vê não cometas algum mal, donde possa resultar tirar-te a vida.
+
+[[v28-9-20]]
+
+^<<v28-9-20,20>>^ Sabe que comunicas com a morte, porque caminhas no meio de laços, e andas sobre as armas de homens irritados.
+
+[[v28-9-21]]
+
+^<<v28-9-21,21>>^ Segundo as tuas forças acautela-te do teu próximo, e trata com os sábios e prudentes.
+
+[[v28-9-22]]
+
+^<<v28-9-22,22>>^ Os teus convivas sejam homens justos; no temor de Deus esteja posta a tua glória;
+
+[[v28-9-23]]
+
+^<<v28-9-23,23>>^ ocupe o teu espírito o pensamento de Deus, e toda a tua conversação verse sobre os preceitos do Altíssimo.
+
+[[v28-9-24]]
+
+^<<v28-9-24,24>>^ Os artistas são louvados pelas obras das suas mãos, o príncipe do povo pela sabedoria dos seus discursos, e os velhos pela prudência das suas palavras.
+
+[[v28-9-25]]
+
+^<<v28-9-25,25>>^ É terrível na sua cidade o homem linguareiro. e o precipitado nas suas palavras será aborrecido.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-008.adoc#v28-8-0[&#60; Capítulo Anterior] | <<v28-9-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-010.adoc#v28-10-0[Próximo Capítulo &#62;]

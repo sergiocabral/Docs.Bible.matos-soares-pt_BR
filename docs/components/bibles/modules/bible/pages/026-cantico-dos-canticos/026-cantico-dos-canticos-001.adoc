@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v26-1-0]]
+=== Cântico dos Cânticos, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 do livro de Cânticos é uma introdução à história de amor entre o noivo e a noiva, expressada por meio de poesia e metáforas. A noiva anseia pela presença do noivo, descrevendo-o como um homem atraente e encantador. Os versículos abaixo abordam temas como amor, beleza, atração e desejo, que são centrais na história contada no livro de Cânticos.
+* Provérbios 5:18-19: "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade. Como cerva amorosa, e gazela graciosa, os seus seios te saciem todo o tempo; e pelo seu amor sê atraído perpetuamente." Esses versículos falam sobre a importância de apreciar e se alegrar com a companhia da esposa, assim como o noivo e a noiva fazem em Cânticos.
+* 1 João 4:18: "No amor não há medo antes o perfeito amor lança fora o medo; porque o medo envolve castigo; e quem tem medo não está aperfeiçoado no amor." O amor é um tema central em Cânticos, e esse versículo destaca a importância de um amor sem medo, baseado em confiança e segurança.
+* Provérbios 31:30: "Enganosa é a graça, e vã é a formosura, mas a mulher que teme ao Senhor, essa será louvada." A noiva em Cânticos é descrita como bela e atraente, mas esse versículo ressalta a importância de uma beleza interior baseada no temor e na adoração a Deus.
+* Salmos 42:1: "Assim como o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus!" O desejo e a saudade pela presença do amado(a) são temas recorrentes em Cânticos, e esse versículo mostra como essa sensação pode ser intensa e profunda.
+* Provérbios 27:19: "Assim como em águas o rosto corresponde ao rosto, assim o coração do homem ao homem." A conexão entre o noivo e a noiva em Cânticos é descrita como profunda e íntima, e esse versículo ressalta a importância da comunicação e da conexão emocional em qualquer relacionamento.
+****
+
+[[v26-1-1]]
+
+^<<v26-1-1,1>>^ Cântico dos cânticos de Salomão. Beija-me com ósculos da tua boca. Os teus amores (meu esposo) são melhores do que o vinho, (ver nota)
+
+[[v26-1-2]]
+
+^<<v26-1-2,2>>^ os teus perfumes são suaves, o teu nome é como um aroma que se difunde: por isso te amam as donzelas.
+
+[[v26-1-3]]
+
+^<<v26-1-3,3>>^ Leva-me atrás de ti: correremos ao odor dos teus perfumes. O rei introduziu-me nos seus aposentos; nós nos regozijaremos, nos alegraremos em ti, cantaremos os teus amores, melhores do que o vinho. Quanta razão há de te amar!
+
+[[v26-1-4]]
+
+^<<v26-1-4,4>>^ Eu sou trigueira, mas formosa, ó filhas de Jerusalém, sou (trigueira) como as tendas de Cedar, como os pavilhões de Salomão.
+
+[[v26-1-5]]
+
+^<<v26-1-5,5>>^ Não repareis em eu ser morena, pois foi o sol que me queimou; os filhos de minha mãe irritaram-se contra mim, puseram-me de guarda às vinhas, mas eu não guardei a minha (própria) vinha.
+
+[[v26-1-6]]
+
+^<<v26-1-6,6>>^ Dize-me, ó amado do meu coração, onde é que apascentas o teu gado, onde o fazes repousar ao meio-dia, para que eu não ande vagueando atrás dos rebanhos dos teus companheiros. (ver nota)
+
+[[v26-1-7]]
+
+^<<v26-1-7,7>>^ Se o não sabes, ó formosíssima entre as mulheres, sai e vai seguindo as pisadas dos rebanhos, e apascenta os teus cabritos junto das cabanas dos pastores.
+
+[[v26-1-8]]
+
+^<<v26-1-8,8>>^ Às éguas dos carros de Faraó eu te comprarei, amiga minha.
+
+[[v26-1-9]]
+
+^<<v26-1-9,9>>^ São belas as tuas faces entre as arrecadas, (belo é) o teu pescoço entre os colares. (ver nota)
+
+[[v26-1-10]]
+
+^<<v26-1-10,10>>^ Nós te faremos cordões de oiro, marchetados de prata.
+
+[[v26-1-11]]
+
+^<<v26-1-11,11>>^ Estando o rei no seu divã, o meu nardo exalou o seu perfume.
+
+[[v26-1-12]]
+
+^<<v26-1-12,12>>^ O meu amado é para mim como uma bolsa de mirra, colocada sobre o meu peito. (ver nota)
+
+[[v26-1-13]]
+
+^<<v26-1-13,13>>^ O meu amado é para mim como cacho de cipre, (colhido) nas vinhas de Engadi.
+
+[[v26-1-14]]
+
+^<<v26-1-14,14>>^ Como és formosa, amiga minha! Como és bela! Os teus olhos são (vivos como os) das pombas.
+
+[[v26-1-15]]
+
+^<<v26-1-15,15>>^ Como és formoso, amado meu! Como és encantador! O nosso leito é florido;
+
+[[v26-1-16]]
+
+^<<v26-1-16,16>>^ as traves da nossa casa são de cedro, os nossos artesonados de cipreste.
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-012.adoc#v25-12-0[&#60; Capítulo Anterior] | <<v26-1-0,Topo>> | xref:026-cantico-dos-canticos/026-cantico-dos-canticos-002.adoc#v26-2-0[Próximo Capítulo &#62;]

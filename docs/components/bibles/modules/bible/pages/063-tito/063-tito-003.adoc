@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v63-3-0]]
+=== Tito, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Tito 3 é um capítulo que fala sobre como os cristãos devem se comportar diante das autoridades e dos não-cristãos, bem como a importância de se evitar contendas e divisões na igreja. Também é enfatizada a necessidade de se praticar boas obras e evitar as más. A seguir, cinco versículos relacionados com esses temas:
+* Provérbios 24:21: "Teme ao SENHOR, filho meu, e ao rei, e não te ponhas com os que buscam mudanças." Este versículo fala sobre a importância de se respeitar a autoridade, tanto a divina quanto a humana, e não se juntar aos rebeldes que buscam mudanças.
+* Romanos 13:1: "Toda a alma esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Deus; e as autoridades que há foram ordenadas por Deus." Aqui é enfatizada a importância de se estar sujeito às autoridades superiores, já que elas foram estabelecidas por Deus.
+* Gálatas 5:19-21: "Ora, as obras da carne são manifestas, as quais são: adultério, fornicação, impureza, lascívia, idolatria, feitiçarias, inimizades, porfias, emulações, iras, pelejas, dissensões, heresias, invejas, homicídios, bebedices, glutonarias, e coisas semelhantes a estas, acerca das quais vos declaro, como já antes vos disse, que os que cometem tais coisas não herdarão o reino de Deus." Este versículo fala sobre a importância de se evitar as más obras, as quais podem levar à perdição.
+* 1 Timóteo 6:4: "é soberbo, nada sabe, mas delira acerca de questões e contendas de palavras, das quais nascem invejas, porfias, blasfêmias, ruins suspeitas," Aqui é enfatizada a importância de se evitar contendas e discussões vãs, as quais podem gerar invejas, porfias e outras coisas ruins.
+* 1 Pedro 2:12: "Tendo o vosso procedimento honesto entre os gentios; para que, naquilo em que falam mal de vós, como de malfeitores, glorifiquem a Deus no dia da visitação, pelas boas obras que em vós observem." Este versículo fala sobre a importância de se praticar boas obras diante dos não-cristãos, a fim de que eles possam glorificar a Deus.
+****
+
+[[v63-3-1]]
+
+^<<v63-3-1,1>>^ Adverte-os que sejam sujeitos aos magistrados e às autoridades, que lhes obedeçam, que estejam prontos para toda a boa obra;
+
+[[v63-3-2]]
+
+^<<v63-3-2,2>>^ que não digam mal de ninguém, nem sejam questionadores, mas modestos, mostrando toda a mansidão para com todos os homens.
+
+[[v63-3-3]]
+
+^<<v63-3-3,3>>^ Também nós outrora éramos insensatos, rebeldes, desgarrados, escravos de paixões e prazeres, vivendo na malícia e na inveja, dignos de ódio e odiando os outros.
+
+[[v63-3-4]]
+
+^<<v63-3-4,4>>^ Mas, quando se manifestou a bondade de Deus, nosso Salvador, e o seu amor pelos homens,
+
+[[v63-3-5]]
+
+^<<v63-3-5,5>>^ não pelas obras de justiça que tivéssemos feito, mas por sua misericórdia, salvou-nos mediante o batismo de regeneração e de renovação do Espírito Santo,
+
+[[v63-3-6]]
+
+^<<v63-3-6,6>>^ que ele difundiu sobre nós abundantemente por Jesus Cristo, nosso Salvador,
+
+[[v63-3-7]]
+
+^<<v63-3-7,7>>^ que ele difundiu sobre nós abundantemente por Jesus Cristo, nosso Salvador,
+
+[[v63-3-8]]
+
+^<<v63-3-8,8>>^ Esta é uma verdade infalível e quero que a afirmes, para que procurem ser os primeiros nas boas obras aqueles que crêem em Deus. Estas coisas são boas e úteis aos homens.
+
+[[v63-3-9]]
+
+^<<v63-3-9,9>>^ Foge, porém, de questões loucas, de genealogias, de disputas e de contestações sobre a lei, porque são inúteis e vãs.
+
+[[v63-3-10]]
+
+^<<v63-3-10,10>>^ Foge do herético, depois da primeira e segunda correção,
+
+[[v63-3-11]]
+
+^<<v63-3-11,11>>^ sabendo que um tal homem está pervertido e peca, como quem é condenado pelo seu próprio juízo.
+
+[[v63-3-12]]
+
+^<<v63-3-12,12>>^ Quando eu te enviar Ártemas ou Tíquico, apressa-te a vir ter comigo a Nicópoiis, porque determinei passar ali o inverno.
+
+[[v63-3-13]]
+
+^<<v63-3-13,13>>^ Provê com cuidado à viagem Zenas, doutor da lei, e de Apolo, procurando que nada lhes falte.
+
+[[v63-3-14]]
+
+^<<v63-3-14,14>>^ E aprendam também os nossos a serem os primeiros em boas obras para o que for necessário, a fim de que não sejam infrutuosos.
+
+[[v63-3-15]]
+
+^<<v63-3-15,15>>^ Todos os que estão comigo te saúdam. Saúda os que nos amam na fé. A graça seja com todos vós!
+
+'''
+
+xref:063-tito/063-tito-002.adoc#v63-2-0[&#60; Capítulo Anterior] | <<v63-3-0,Topo>> | xref:064-filemon/064-filemon-001.adoc#v64-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-136-0]]
+=== Salmos, 136
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 136 é um cântico de louvor que celebra a grandeza e a bondade de Deus através dos séculos, desde a criação do mundo até a libertação do povo de Israel do Egito. Os temas principais são a fidelidade de Deus, o seu poder criador e a sua intervenção salvadora na história do seu povo. Seguem abaixo cinco versículos relacionados com esses temas:
+* Gênesis 1:1-2: "No princípio Deus criou os céus e a terra. A terra era sem forma e vazia; havia trevas sobre a face do abismo, e o Espírito de Deus pairava sobre as águas." Esse versículo fala do poder criador de Deus, que é mencionado várias vezes no Salmo 136, especialmente nos versículos que falam da criação dos céus e da terra, dos luminares e dos animais.
+* Deuteronômio 7:9: "Saberás, pois, que o Senhor teu Deus é Deus, o Deus fiel, que guarda a aliança e a misericórdia até mil gerações aos que o amam e guardam os seus mandamentos." Esse versículo destaca a fidelidade de Deus, que é um tema central no Salmo 136 e é mencionado repetidamente nos versos que afirmam que o seu amor dura para sempre.
+* Salmos 135:6: "Tudo o que o Senhor deseja, ele o faz, nos céus e na terra, nos mares e em todos os abismos." Esse versículo enfatiza a soberania de Deus sobre todas as coisas, incluindo os elementos da natureza e os poderes cósmicos, um tema que também é abordado no Salmo 136 nos versos que falam da intervenção divina nos milagres do êxodo.
+* Isaías 43:2: "Quando passares pelas águas, estarei contigo, e pelos rios, eles não te submergirão; quando caminhares pelo fogo, não te queimarás, nem a chama arderá em ti." Esse versículo fala da presença e da proteção divinas, que são temas presentes no Salmo 136, especialmente nos versos que descrevem a libertação do povo de Israel do Egito e a condução divina pelo deserto.
+* Jeremias 32:17: "Ah! Senhor Deus, eis que fizeste os céus e a terra com o teu grande poder e com o teu braço estendido. Nada é demasiadamente difícil para ti." Esse versículo reforça o tema do poder de Deus, que é exaltado no Salmo 136 nos versos que falam da sua mão forte e do seu braço estendido para agir em favor do seu povo.
+****
+
+[[v21-136-1]]
+
+^<<v21-136-1,1>>^ Junto dos rios de Babilônia, ali nos assentámos a chorar, lembrando-nos de Sião.
+
+[[v21-136-2]]
+
+^<<v21-136-2,2>>^ Nos salgueiros daquela terra pendurámos as nossas cítaras.
+
+[[v21-136-3]]
+
+^<<v21-136-3,3>>^ Ali, os que nos tinham deportado, nos pediam cânticos, e os nossos opressores (nos pediam) alegria: "Cantai-nos algum dos cânticos de Sião!"
+
+[[v21-136-4]]
+
+^<<v21-136-4,4>>^ Como cantaremos o cântico do Senhor em terra estranha (lhes respondemos).
+
+[[v21-136-5]]
+
+^<<v21-136-5,5>>^ Se me esquecer de ti, Jerusalém, ao esquecimento seja entregue a minha direita
+
+[[v21-136-6]]
+
+^<<v21-136-6,6>>^ Fique pegada a minha língua às minhas fauces, se eu me não lembrar de ti, se não puder Jerusalém acima de toda a minha alegria!
+
+[[v21-136-7]]
+
+^<<v21-136-7,7>>^ Lembra-te, Senhor, para mal dos filhos de oração Edom, do dia (da ruína) de Jerusalém, os quais disseram: "Destruí, destruí nela (tudo) até os fundamentos."
+
+[[v21-136-8]]
+
+^<<v21-136-8,8>>^ Filha (população) exterminadora de Babilônia, ditoso aquele que te devolver os males que nos fizeste
+
+[[v21-136-9]]
+
+^<<v21-136-9,9>>^ Bem-aventurado o que apanhar às mãos e fizer em pedaços contra uma pedra os teus filhinhos!
+
+'''
+
+xref:021-salmos/021-salmos-135.adoc#v21-135-0[&#60; Capítulo Anterior] | <<v21-136-0,Topo>> | xref:021-salmos/021-salmos-137.adoc#v21-137-0[Próximo Capítulo &#62;]

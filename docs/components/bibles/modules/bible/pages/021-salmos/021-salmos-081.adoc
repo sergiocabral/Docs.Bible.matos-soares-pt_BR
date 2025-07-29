@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-81-0]]
+=== Salmos, 81
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 81 é um salmo de adoração em que o salmista convoca o povo de Deus a se alegrar e a louvá-lo, recordando as obras maravilhosas que Ele realizou por eles. O salmista relembra a libertação do Egito e exorta o povo a não se esquecer dos mandamentos de Deus. A seguir, estão cinco versículos relacionados aos temas abordados em Salmo 81, em ordem de proximidade com o capítulo:
+* Salmos 105:42-45: "Pois se lembrou da sua santa palavra, e de Abraão, seu servo. E tirou a seu povo com alegria, e os seus escolhidos com regozijo. E deu-lhes as terras dos gentios, e eles herdaram o trabalho dos povos; para que guardassem os seus estatutos, e observassem as suas leis. Louvai ao SENHOR." Este trecho de Salmo 105 também relembra a libertação do Egito e a entrega da terra prometida ao povo de Deus.
+* Êxodo 20:2: "Eu sou o SENHOR teu Deus, que te tirei da terra do Egito, da casa da servidão." O início dos Dez Mandamentos faz referência à libertação do Egito, tal como o salmista de Salmo 81.
+* Salmos 78:4: "Não o encobriremos aos seus filhos, mostrando à geração futura os louvores do SENHOR, assim como a sua força e as maravilhas que fez." O salmista de Salmo 78 também exorta o povo a se lembrar das obras maravilhosas de Deus e a ensiná-las às gerações futuras.
+* Deuteronômio 6:12: "Guarda-te que não te esqueças do SENHOR, que te tirou da terra do Egito, da casa da servidão." Neste versículo, Moisés adverte o povo a não se esquecerem da libertação do Egito e do poder de Deus.
+* Salmos 100:1-2: "Celebrai com júbilo ao SENHOR, todas as terras. Servi ao SENHOR com alegria; e entrai diante dele com canto." Este trecho de Salmo 100 também exorta o povo a se alegrar e a louvar a Deus com cânticos e alegria.
+****
+
+[[v21-81-1]]
+
+^<<v21-81-1,1>>^ Salmo. De Asaf. Deus levanta-se no conselho divino julga no meio dos deuses (ou juízes da terra).
+
+[[v21-81-2]]
+
+^<<v21-81-2,2>>^ "Até quando julgareis injustamente, e favorecereis a causa dos ímpios?
+
+[[v21-81-3]]
+
+^<<v21-81-3,3>>^ Defendei o oprimido e o órfão, fazei justiça ao humilde e ao pobre.
+
+[[v21-81-4]]
+
+^<<v21-81-4,4>>^ Libertai o oprimido e o indigente, arrancai-o das mãos dos ímpios."
+
+[[v21-81-5]]
+
+^<<v21-81-5,5>>^ Não sabem nem entendem (os seus deveres), andam nas trevas: são abalados todos os fundamentos da terra.
+
+[[v21-81-6]]
+
+^<<v21-81-6,6>>^ Eu disse: "Sois deuses, e todos filhos do Altíssimo.
+
+[[v21-81-7]]
+
+^<<v21-81-7,7>>^ Mas vós como homens morrereis, caireis como um príncipe qualquer."
+
+[[v21-81-8]]
+
+^<<v21-81-8,8>>^ Levanta-te, ó Deus, julga a terra, pois de direito são tuas todas as gentes.
+
+'''
+
+xref:021-salmos/021-salmos-080.adoc#v21-80-0[&#60; Capítulo Anterior] | <<v21-81-0,Topo>> | xref:021-salmos/021-salmos-082.adoc#v21-82-0[Próximo Capítulo &#62;]

@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v18-4-0]]
+=== Judite, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 4 descreve a preparação dos israelitas para a guerra contra os assírios. O capítulo começa com os líderes israelitas convocando o povo para jejuar e orar, pedindo a ajuda de Deus na batalha que estava por vir. Em seguida, o autor descreve a mobilização dos exércitos israelitas e o preparo para a batalha.
+* Números 10:9: "E, quando na vossa terra sairdes à peleja contra o inimigo que vos oprimir, tocareis as trombetas de rebate, e perante o SENHOR vosso Deus haverá lembrança de vós, e sereis salvos dos vossos inimigos." Este versículo descreve o uso de trombetas para chamar a atenção de Deus e pedir ajuda na batalha, assim como os israelitas fazem em Judite 4.
+* Deuteronômio 20:1: "Quando saíres à peleja contra os teus inimigos, e vires cavalos, e carros, e povo mais numeroso do que tu, não os temerás; pois o SENHOR teu Deus, que te tirou da terra do Egito, está contigo." Este versículo encoraja os soldados israelitas a não terem medo dos exércitos inimigos, mas confiar na ajuda de Deus, como os líderes israelitas pedem em Judite 4.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te esforço, e te ajudo, e te sustento com a destra da minha justiça." Este versículo é outro exemplo de Deus encorajando seus seguidores a confiar nele em momentos de dificuldade e luta, o que é um tema central em Judite 4.
+* Salmos 144:1: "Bendito seja o SENHOR, minha rocha, que ensina as minhas mãos para a peleja e os meus dedos para a guerra." Este salmo fala sobre a capacidade de Deus de preparar seus seguidores para a batalha e ensiná-los a lutar. Isso é algo que os líderes israelitas em Judite 4 também estão buscando, ao pedirem a ajuda de Deus.
+* 2 Crônicas 20:15: "e disse: Dai ouvidos todo o Judá, e vós moradores de Jerusalém, e tu, ó rei Jeosafá; assim vos diz o SENHOR: Não temais, nem vos assusteis por causa desta grande multidão; pois a peleja não é vossa, senão de Deus." Este versículo é uma outra afirmação de que Deus é quem luta junto com seus seguidores e que, portanto, não há razão para ter medo dos inimigos. Isso é algo que os líderes israelitas em Judite 4 estão tentando transmitir ao povo.
+****
+
+[[v18-4-1]]
+
+^<<v18-4-1,1>>^ Então, ouvindo estas coisas os filhos de Israel, que habitavam na terra de Judá, tiveram muito medo da aproximação (de Holofernes).
+
+[[v18-4-2]]
+
+^<<v18-4-2,2>>^ O susto e o pavor apoderou-se dos seus corações, temendo que ele fizesse a Jerusalém e ao templo do Senhor o que tinha feito às outras cidades e aos seus templos.
+
+[[v18-4-3]]
+
+^<<v18-4-3,3>>^ Enviaram (gente) a toda a fronteira da Samaria, até Jericó, e ocuparam todos os cumes dos montes;
+
+[[v18-4-4]]
+
+^<<v18-4-4,4>>^ cercaram as suas aldeias de muros e fizeram provisão de trigos, preparando-se para a guerra.
+
+[[v18-4-5]]
+
+^<<v18-4-5,5>>^ O pontífice Eliaquim também escreveu a todos os que habitavam em frente de Esdrelon, que está fronteira à grande planície junto ao Dotain, e a todos os dos lugares por onde (Holofernes) podia passar,
+
+[[v18-4-6]]
+
+^<<v18-4-6,6>>^ que ocupassem as vertentes dos montes, por onde se podia ir a Jerusalém, e que pusessem guarnições nos desfiladeiros que podiam proporcionar um caminho entre as montanhas.
+
+[[v18-4-7]]
+
+^<<v18-4-7,7>>^ Os filhos de Israel fizeram como lhes tinha mandado Eliaquim, pontífice do Senhor.
+
+[[v18-4-8]]
+
+^<<v18-4-8,8>>^ Todo o povo clamou ao Senhor com grande instância. Humilharam suas almas com jejuns e orações, eles e suas mulheres.
+
+[[v18-4-9]]
+
+^<<v18-4-9,9>>^ Os sacerdotes vestiram-se de cilício, os meninos prostaram-se diante do templo do Senhor, e cobriu-se de cilício o altar do Senhor.
+
+[[v18-4-10]]
+
+^<<v18-4-10,10>>^ Clamaram unânimemente ao Senhor Deus de Israel, que não fossem dados em presa seus filhos, nem roubadas suas mulheres, nem destruídas as suas cidades, nem profanado o seu santuário, nem eles se tornassem o opróbrio das nações.
+
+[[v18-4-11]]
+
+^<<v18-4-11,11>>^ Então Eliaquim, sumo sacerdote do Senhor, percorreu todo o Israel e falou ao povo,
+
+[[v18-4-12]]
+
+^<<v18-4-12,12>>^ nestes termos: Sabei que o Senhor ouvirá as vossas súplicas, se permanecerdes constantes nos jejuns e nas orações diante do Senhor.
+
+[[v18-4-13]]
+
+^<<v18-4-13,13>>^ Lembrai-vos de Moisés, servo do Senhor, o qual, não combatendo com ferro, mas suplicando com santas orações, destroçou Amalec, que confiava na sua força, no seu poder, no seu exército, nos seus escudos, nos seus carros e cavaleiros.
+
+[[v18-4-14]]
+
+^<<v18-4-14,14>>^ Assim sucederá a todos os inimigos de Israel, se vós perseverardes nesta obra que começastes.
+
+[[v18-4-15]]
+
+^<<v18-4-15,15>>^ Com tais exortações, os Israelitas permaneciam na presença do Senhor, orando ao Senhor;
+
+[[v18-4-16]]
+
+^<<v18-4-16,16>>^ mesmo aqueles que ofereciam os holocaustos ao Senhor, ofereciam-nos, vestidos de cilícios e com as suas cabeças cobertas de cinza.
+
+[[v18-4-17]]
+
+^<<v18-4-17,17>>^ Todos rogavam a Deus, de todo o seu coração, que visitasse o seu povo de Israel.
+
+'''
+
+xref:018-judite/018-judite-003.adoc#v18-3-0[&#60; Capítulo Anterior] | <<v18-4-0,Topo>> | xref:018-judite/018-judite-005.adoc#v18-5-0[Próximo Capítulo &#62;]

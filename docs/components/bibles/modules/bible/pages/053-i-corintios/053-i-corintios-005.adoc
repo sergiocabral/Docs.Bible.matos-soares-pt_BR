@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v53-5-0]]
+=== I Coríntios, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Coríntios 5 trata do tema da disciplina eclesiástica, enfatizando a importância de manter a pureza da igreja e lidar com o pecado de forma adequada. Paulo adverte os crentes a não tolerarem a imoralidade sexual na igreja, e enfatiza que os líderes devem exercer disciplina quando necessário, para o bem da igreja como um todo.
+* 2 Tessalonicenses 3:6: "Mas nós vos ordenamos, irmãos, em nome de nosso Senhor Jesus Cristo, que vos aparteis de todo irmão que ande desordenadamente e não segundo a tradição que de nós recebeu." Este versículo enfatiza a importância de manter a disciplina na igreja, e afirma que aqueles que persistem no pecado devem ser afastados da comunhão.
+* Gálatas 6:1: "Irmãos, se alguém for surpreendido nalguma falta, vós, que sois espirituais, corrigi-o com espírito de brandura; e guarda-te para que não sejas também tentado." Este versículo enfatiza que a disciplina na igreja deve ser realizada com amor e misericórdia, e que os líderes devem estar vigilantes contra a tentação.
+* 1 Coríntios 6:9-10: "Não sabeis que os injustos não hão de herdar o reino de Deus? Não vos enganeis: nem os devassos, nem os idólatras, nem os adúlteros, nem os efeminados, nem os sodomitas, nem os ladrões, nem os avarentos, nem os bêbedos, nem os maldizentes, nem os roubadores herdarão o reino de Deus." Este versículo enfatiza que a imoralidade sexual é um pecado grave que pode levar à exclusão da comunhão com Deus e com a igreja.
+* 1 Timóteo 5:20: "Aos que pecam, repreende-os na presença de todos, para que também os outros tenham temor." Este versículo destaca a importância de lidar com o pecado de forma pública e transparente, para que a igreja como um todo possa aprender com os erros dos indivíduos.
+* Mateus 18:15-17: "Ora, se teu irmão pecar contra ti, vai e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão; mas, se não te ouvir, leva ainda contigo um ou dois, para que pela boca de duas ou três testemunhas toda palavra seja confirmada. E, se não as escutar, dize-o à igreja; e, se também não escutar a igreja, considera-o como um gentio e publicano." Este versículo destaca a importância de lidar com o pecado de forma progressiva, começando com a repreensão pessoal e avançando para a disciplina pública, se necessário.
+****
+
+[[v53-5-1]]
+
+^<<v53-5-1,1>>^ Ouve-se constantemente dizer que há entre vós fornicação, e tal fornicação, qual nem ainda entre os gentios, tanto que chega a haver um que abusa da mulher do seu próprio pai.
+
+[[v53-5-2]]
+
+^<<v53-5-2,2>>^ E andais ainda inchados (de orgulho), e não tivestes antes pesar, para que fosse tirado dentre vós quem fez tal maldade.
+
+[[v53-5-3]]
+
+^<<v53-5-3,3>>^ Quanto a mim, embora ausente de corpo, mas presente com o espírito, já julguei, como se estivesse presente, aquele que assim procedeu.
+
+[[v53-5-4]]
+
+^<<v53-5-4,4>>^ Em nome de Nosso Senhor Jesus Cristo, congregados vós e o meu espírito, com o poder do Senhor Jesus,
+
+[[v53-5-5]]
+
+^<<v53-5-5,5>>^ seja o tal entregue a Satanás, para a destruição do seu corpo, a fim de que o espírito seja salvo no dia do Senhor. (ver nota)
+
+[[v53-5-6]]
+
+^<<v53-5-6,6>>^ Gloriais-vos sem razão. Não sabeis que um pouco de fermento faz levedar toda a massa?
+
+[[v53-5-7]]
+
+^<<v53-5-7,7>>^ Purificai-vos do velho fermento, para que sejais uma nova massa, assim como sois ázimos. Porquanto Cristo, nosso cordeiro pascal, foi imolado. (ver nota)
+
+[[v53-5-8]]
+
+^<<v53-5-8,8>>^ Celebremos, pois, a festa, não com fermento velho, nem com fermento da malícia e da perversidade. mas com os ázimos da pureza e da verdade.
+
+[[v53-5-9]]
+
+^<<v53-5-9,9>>^ Por carta vos escrevi que não tivésseis comunicação com os impudicos,
+
+[[v53-5-10]]
+
+^<<v53-5-10,10>>^ não, de um modo geral, com os deste mundo, ou com os avarentos, ou com ladrões, ou com os idólatras; doutra sorte deveríeis sair deste mundo.
+
+[[v53-5-11]]
+
+^<<v53-5-11,11>>^ Mas escrevi-vos (simplesmente) que não tivésseis comunicação com aquele que, chamando-se irmão, fosse impudico, ou avarento, ou adorador dos ídolos, ou maldizente, ou dado à embriaguez, ou ladrão; com este tal nem comer deveis.
+
+[[v53-5-12]]
+
+^<<v53-5-12,12>>^ Porque é porventura a mim que pertence julgar aqueles que estão, fora? Não julgais vós aqueles que estão dentro ?
+
+[[v53-5-13]]
+
+^<<v53-5-13,13>>^ Aqueles que estão fora Deus os julgará. Tirai do meio de vós o mau (Dt. 17, 7).
+
+'''
+
+xref:053-i-corintios/053-i-corintios-004.adoc#v53-4-0[&#60; Capítulo Anterior] | <<v53-5-0,Topo>> | xref:053-i-corintios/053-i-corintios-006.adoc#v53-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v10-13-0]]
+=== II Samuel, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 13 narra a história de Amnon, filho mais velho do rei Davi, que se apaixonou por sua meia-irmã Tamar e acabou violentando-a. O capítulo trata de temas como a luxúria, a paixão desenfreada, a violência sexual e suas consequências.
+* 1. Deuteronômio 22:25-27: "Mas se for no campo que o homem encontrar a moça que esteja desposada e a forçar, e o homem somente ela matar, não será o homem que fez isso com a moça, somente a moça morrerá. Porém, se for no campo que o homem encontrar a moça que esteja desposada, e o homem a forçar, então o homem que se deitou com ela morrerá só. E à moça não farás nada, ela não tem culpa de morte, pois é semelhante a alguém que se levanta contra seu próximo e tira-lhe a vida. " Este versículo fala sobre as consequências da violência sexual.
+* 2. Provérbios 6:32-33: "Quem comete adultério com uma mulher falta de entendimento; quem assim procede a si mesmo se destrói. Açoites e vergonha o aguardam, e o seu opróbrio nunca será apagado." Este versículo fala sobre a tolice da luxúria e suas consequências.
+* 3. 1 Coríntios 6:18: "Fugi da fornicação. Qualquer outro pecado que o homem comete é fora do corpo; mas aquele que pratica a fornicação peca contra o próprio corpo." Este versículo fala sobre a importância de fugir da luxúria e da sexualidade desenfreada.
+* 4. Provérbios 7:6-23: Este trecho descreve uma mulher que tenta seduzir um jovem e o leva a um quarto escuro, onde o seduz e comete adultério com ele. Este versículo fala sobre a tentação sexual e as consequências da falta de autocontrole.
+* 5. 2 Timóteo 2:22: "Foge, também, dos desejos da mocidade; segue a justiça, a fé, o amor, a paz com os que, de coração puro, invocam o Senhor." Este versículo fala sobre a importância de seguir a justiça e a santidade em vez de ceder aos desejos da juventude e da carne.
+****
+
+[[v10-13-1]]
+
+^<<v10-13-1,1>>^ Aconteceu, depois disto, que Amnon, filho de Davide, se enamorou de Tamar, Irmã de Absalão filho de Davide, a qual era duma rara beleza.
+
+[[v10-13-2]]
+
+^<<v10-13-2,2>>^ Apaixonou-se de tal modo por ela que, por causa do seu amor, caiu doente, pois sendo ela virgem, parecia-lhe difícil fazer com ela coisa alguma contra a honestidade.
+
+[[v10-13-3]]
+
+^<<v10-13-3,3>>^ Tinha porém Amnon um (mau) amigo, homem muito sagaz, chamado Jonadab, filho de Semaa, irmão de Davide.
+
+[[v10-13-4]]
+
+^<<v10-13-4,4>>^ Este disse a Amnon: Como vais tu de dia para dia emagrecendo, ó filho do rei? Por que te não descobres tu comigo? Amnon disse-lhe: Eu amo Tamar, irmã do meu irmão (consanguineo) Absalão.
+
+[[v10-13-5]]
+
+^<<v10-13-5,5>>^ Respondeu-lhe Jonadab; Deita-te na tua cama e finge que estás doente; quando teu pai te vier visitar, dize-lhe: Peço-te que mandes vir aqui minha irmã Tamar, para que me dê de comer, e me prepare algum prato, que eu possa comer da sua mão.
+
+[[v10-13-6]]
+
+^<<v10-13-6,6>>^ Deitou-se, pois, Amnon na cama e começou a fingir-se doente. Tendo ido o rei visitá-lo, disse Amnon ao rei: Peço-te que mandes vir minha irmã Tamar, para que faça á minha vista dois pastéizinhos, que eu coma da sua mão.
+
+[[v10-13-7]]
+
+^<<v10-13-7,7>>^ Mandou Davide a casa de Tamar dizer-lhe; Vem a casa de teu irmão Amnon, e faze-lhe alguma coisa de comer.
+
+[[v10-13-8]]
+
+^<<v10-13-8,8>>^ Tamar foi a casa de seu irmão Amnon, que estava na cama, e, tomando um pouco de farinha, misturou-a e, adelgaçando-a, cozeu à sua vista uns pastèizinhos.
+
+[[v10-13-9]]
+
+^<<v10-13-9,9>>^ Tomando o que tinha cozido, lançou-o num prato e pôs-lhe diante, mas Amnon não quis comer e disse: Façam sair todos para fora. Tendo feito sair todos para fora,
+
+[[v10-13-10]]
+
+^<<v10-13-10,10>>^ Amnon disse a Tamar: Chega-me cá à alcova essa comida, para que eu a coma da tua mão. Tomou pois Tamar o que tinha cozido, e levou-o a seu irmão Amnon à alcova.
+
+[[v10-13-11]]
+
+^<<v10-13-11,11>>^ Logo que ela lhe pôs diante o prato, pegou nela, e disse: Vem, minha irmã, deita-te comigo.
+
+[[v10-13-12]]
+
+^<<v10-13-12,12>>^ Porém ela respondeu-lhe: Não, meu Irmão, não me faças esta violência, pois que isto não é lícito em Israel; não faças tal loucura.
+
+[[v10-13-13]]
+
+^<<v10-13-13,13>>^ Eu não poderei sofrer o meu opróbrio, e tu passarás em Israel por um insensato; mais vale que fales ao rei (para me tomar como esposa), e ele não me negará a ti. (ver nota)
+
+[[v10-13-14]]
+
+^<<v10-13-14,14>>^ Amnon não quis ceder a seus rogos, e, como era mais forte do que ela, violentou-a e desflorou-a.
+
+[[v10-13-15]]
+
+^<<v10-13-15,15>>^ Amnon ganhou-lhe uma extrema aversão, de sorte que o ódio que concebeu contra ela excedia muito o amor que antes lhe tivera. Amnon disse-lhe: Levanta-te, e vai-te.
+
+[[v10-13-16]]
+
+^<<v10-13-16,16>>^ Ela respondeu-lhe: Este ultraje que tu agora me fazes, lançando-me fora, é maior do que aquele que primeiro me fizeste. Amnon não a quis ouvir,
+
+[[v10-13-17]]
+
+^<<v10-13-17,17>>^ antes, chamando um criado que o servia, disse-lhe: Deita-a fora daqui, e fecha a porta nas suas costas.
+
+[[v10-13-18]]
+
+^<<v10-13-18,18>>^ Tamar estava vestida duma túnica talar (de várias cores), porque este era o traje que costumavam trazer as donzelas, filhas do rei. O criado de Amnon deitou-a fora e fechou a porta após ela.
+
+[[v10-13-19]]
+
+^<<v10-13-19,19>>^ Tamar lançou cinza sobre a sua cabeça, rasgou a túnica talar e postas as mãos na cabeça, foi-se dali dando gritos.
+
+[[v10-13-20]]
+
+^<<v10-13-20,20>>^ Absalão, seu irmão, disse-lhe: Porventura teu irmão Amnon abusou de ti? Agora, porém, ó minha irmã, cala-te; ele é teu irmão; não se angustie o teu coração por isso. Ficou Tamar, desolada, em casa de seu irmão Absalão. (ver nota)
+
+[[v10-13-21]]
+
+^<<v10-13-21,21>>^ O rei Davide, tendo ouvido estas coisas, afligiu-se muito, mas não quis contristar o ânimo de Amnon, seu filho, porque o amava por ser o seu primogênito.
+
+[[v10-13-22]]
+
+^<<v10-13-22,22>>^ Absalão não falou a Amnon nem mal nem bem, mas odiava-o, por ter violado sua irmã Tamar.
+
+[[v10-13-23]]
+
+^<<v10-13-23,23>>^ Dois anos depois aconteceu tosquiarem-se as ovelhas de Absalão em Baalhasor, que é junto de Efraim, e Absalão convidou todos os filhos do rei.
+
+[[v10-13-24]]
+
+^<<v10-13-24,24>>^ E foi ter com o rei e disse-lhe: Eis que se tosquiam as ovelhas do teu servo; rogo, pois, que venha o rei com os seus criados a casa do seu servo.
+
+[[v10-13-25]]
+
+^<<v10-13-25,25>>^ O rei disse a Absalão: Não, meu filho, não nos peças que vamos todos, e te sejamos pesados. Porém, Absalão instou, mas Davide não quis ir e deu-lhe a sua bênção.
+
+[[v10-13-26]]
+
+^<<v10-13-26,26>>^ Absalão disse: Se tu não queres vir, suplico-te que ao menos venha conosco meu irmão Amnon. O rei disse-lhe: Não é necessário que ele vá contigo.
+
+[[v10-13-27]]
+
+^<<v10-13-27,27>>^ Todavia Absalão instou mais, e Davide deixou ir com ele Amnon e todos os filhos do rei. Absalão tinha preparado um banquete, como um banquete real.
+
+[[v10-13-28]]
+
+^<<v10-13-28,28>>^ Ora Absalão tinha dado esta ordem aos seus criados: Estai atentos; quando Amnon estiver turvado pelo vinho, e eu vos der sinal, dai nele e matai-o; não tenhais medo, porque sou eu quem vo-lo manda; tende coragem, e sede homens fortes.
+
+[[v10-13-29]]
+
+^<<v10-13-29,29>>^ Os criados de Absalão fizeram a Amnon como Absalão lhes tinha ordenado. Todos os filhos do rei, levantando-se da mesa, montaram cada um na sua mula e fugiram.
+
+[[v10-13-30]]
+
+^<<v10-13-30,30>>^ Indo eles ainda no caminho, chegou aos ouvidos de Davide o rumor que Absalao matara todos os filhos do rei, sem que ficasse deles nem um só.
+
+[[v10-13-31]]
+
+^<<v10-13-31,31>>^ Levantou-se então o rei, rasgou os seus vestidos e lançou-se por terra; todos os criados, que lhe assistiam, rasgaram (também) os seus vestidos.
+
+[[v10-13-32]]
+
+^<<v10-13-32,32>>^ Jonadab, filho de Semaa, irmão de Davide, tomando a palavra, disse: Não imagine o rei, meu senhor, que foram mortos todos os seus filhos; só morreu Amnon, porque assim o tinha resolvido fazer Absalão, desde o dia em que Amnon fez violência a sua irmã Tamar.
+
+[[v10-13-33]]
+
+^<<v10-13-33,33>>^ Não acredite o rei, meu senhor, que todos os filhos do rei foram mortos, pois só morreu Amnon.
+
+[[v10-13-34]]
+
+^<<v10-13-34,34>>^ Entretanto Absalão fugiu. Levantando os olhos, o criado que estava de sentinela, viu grande multidão de gente, que vinha por um caminho escuso ao lado do monte.
+
+[[v10-13-35]]
+
+^<<v10-13-35,35>>^ Jonadab disse ao rei; Eis lá vêm os filhos do rei; sucedeu como disse o teu servo.
+
+[[v10-13-36]]
+
+^<<v10-13-36,36>>^ Acabando ele de falar, apareceram os filhos do rei, que entrando, levantaram a voz e choraram. O rei e todos os seus servos também choraram com pranto muito amargo.
+
+[[v10-13-37]]
+
+^<<v10-13-37,37>>^ Absalão fugiu para casa de Tolomai, filho de Amiud, rei de Bessur. Davide chorava o seu filho todos os dias.
+
+[[v10-13-38]]
+
+^<<v10-13-38,38>>^ Absalão, tendo fugido, acolheu-se a Gessur, onde esteve três anos.
+
+[[v10-13-39]]
+
+^<<v10-13-39,39>>^ E o rei Davide deixou de perseguir Absalão, porque já se tinha consolado da morte de Amnon.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-012.adoc#v10-12-0[&#60; Capítulo Anterior] | <<v10-13-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-014.adoc#v10-14-0[Próximo Capítulo &#62;]

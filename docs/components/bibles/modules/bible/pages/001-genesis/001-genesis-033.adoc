@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v1-33-0]]
+=== Gênesis, 33
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 33 descreve o encontro entre Esaú e Jacó depois de anos de separação. Jacó, temendo a vingança de Esaú, envia presentes para apaziguar o irmão. O capítulo termina com Esaú oferecendo-se para viajar com Jacó, mas Jacó recusa, alegando que as crianças e os rebanhos são fracos e precisam de descanso. Aqui estão cinco versículos relacionados aos temas abordados em Gênesis 33:
+* Deuteronômio 23:7 - "Não abominarás o edomita, pois é teu irmão; nem o egípcio, pois estrangeiro foste na sua terra." Este versículo destaca a importância da reconciliação entre irmãos, mesmo que eles tenham tido conflitos no passado. Jacó e Esaú são irmãos que se reconciliam depois de anos de animosidade.
+* Provérbios 16:7 - "Quando os caminhos do homem agradam ao Senhor, até aos seus inimigos faz que tenham paz com ele." Esse versículo destaca a importância de agir com justiça e integridade, o que pode levar até mesmo os inimigos a fazerem as pazes. Jacó agiu com integridade e enviou presentes a Esaú para apaziguá-lo.
+* Isaías 32:17 - "E o efeito da justiça será paz, e a operação da justiça, repouso e segurança para sempre." Este versículo destaca a conexão entre justiça e paz. Jacó e Esaú encontraram a paz após anos de conflito, graças à justiça e à integridade de Jacó.
+* Mateus 5:9 - "Bem-aventurados os pacificadores, porque serão chamados filhos de Deus." Este versículo destaca a importância da paz e da reconciliação na vida cristã. Jacó e Esaú se reconciliaram depois de anos de conflito e, portanto, podem ser considerados pacificadores.
+* Hebreus 12:14 - "Segui a paz com todos e a santificação, sem a qual ninguém verá o Senhor." Este versículo destaca a importância da paz e da santificação na vida cristã. Jacó e Esaú se reconciliaram depois de anos de conflito e, portanto, seguiram o caminho da paz e da santificação.
+****
+
+[[v1-33-1]]
+
+^<<v1-33-1,1>>^ Jacob, levantando os seus olhos, viu Esaú que vinha, e com ele quatrocentos homens. Repartiu os filhos (pelos grupos de) Lia, de Raquel e de ambas as escravas,
+
+[[v1-33-2]]
+
+^<<v1-33-2,2>>^ e pôs as duas escravas com os seus filhos na frente; em segundo lugar, Lia e os seus filhos; e em último Raquel e José.
+
+[[v1-33-3]]
+
+^<<v1-33-3,3>>^ Ele, adiantando-se, prostrou-se sete vezes por terra, até seu irmão se aproximar.
+
+[[v1-33-4]]
+
+^<<v1-33-4,4>>^ Então, correndo Esaú ao encontro de seu irmão, o abraçou, e, apertando-lhe o pescoço e beijando-o, chorou. (ver nota)
+
+[[v1-33-5]]
+
+^<<v1-33-5,5>>^ Em seguida, levantando os olhos, viu as mulheres e os seus filhos, e disse: Quem são estes? Porventura pertencem-te? Respondeu: São os filhos que Deus me deu a mim, teu servo,
+
+[[v1-33-6]]
+
+^<<v1-33-6,6>>^ Aproximando-se às escravas e os seus filhos, inclinaram-se profundamente.
+
+[[v1-33-7]]
+
+^<<v1-33-7,7>>^ Chegou também Lia com seus filhos, que se inclinaram do mesmo modo; em último lugar se inclinaram José e Raquel.
+
+[[v1-33-8]]
+
+^<<v1-33-8,8>>^ Esaú disse: Que significam estas partidas que encontrei? Respondeu: (Enviei-as) para achar graça diante do meu senhor.
+
+[[v1-33-9]]
+
+^<<v1-33-9,9>>^ Esaú, porém, disse: Tenho muitos bens, meu irmão, guarda para ti o que é teu.
+
+[[v1-33-10]]
+
+^<<v1-33-10,10>>^ Jacob disse: Não procedas assim, te peço, mas, se achei graça diante de teus olhos, recebe das minhas mãos esta pequena dádiva, porque eu vi a tua face, como se visse o rosto de Deus: sê-me propício,
+
+[[v1-33-11]]
+
+^<<v1-33-11,11>>^ e aceita a bênção que eu te trouxe e que Deus me deu, o qual dá todas as coisas. Forçado pelo irmão, Esaú aceitou com dificuldade
+
+[[v1-33-12]]
+
+^<<v1-33-12,12>>^ e disse: Caminhemos juntamente, e eu serei companheiro na tua viagem.
+
+[[v1-33-13]]
+
+^<<v1-33-13,13>>^ Jacob respondeu: Tu vês. meu senhor, que tenho comigo meninos tenros, ovelhas e vacas prenhes: se eu as cansar, fazendo-as andar mais, morrerão num dia todos os rebanhos.
+
+[[v1-33-14]]
+
+^<<v1-33-14,14>>^ Vá o meu senhor adiante do seu servo: eu seguirei pouco a pouco os seus passos, como vir que os meus meninos podem, até chegar à casa de meu Senhor em Seir.
+
+[[v1-33-15]]
+
+^<<v1-33-15,15>>^ Esaú respondeu: Peço-te que, do povo que está comigo, fique ao menos quem te acompanhe na viagem. Jacob respondeu: Não é necessário: de uma única coisa necessito, meu senhor, que é achar graça em tua presença.
+
+[[v1-33-16]]
+
+^<<v1-33-16,16>>^ Voltou, portanto, Esaú naquele dia para Seir pelo caminho 'por onde tinha vindo.
+
+[[v1-33-17]]
+
+^<<v1-33-17,17>>^ Jacob foi para Socoth, onde, tendo edificado uma casa, e levantado as tendas, pôs àquele lugar o nome de Socoth isto é, tendas.
+
+[[v1-33-18]]
+
+^<<v1-33-18,18>>^ E depois que voltou da Mesopotâmia da Síria, passou para Salém, cidade dos Siquimitas, a qual está na terra de Canaan, e habitou junto da cidade.
+
+[[v1-33-19]]
+
+^<<v1-33-19,19>>^ Comprou parte do campo, onde tinha levantado as tendas, aos filhos de Hemor, pai de Siquem, por cem cordeiros
+
+[[v1-33-20]]
+
+^<<v1-33-20,20>>^ e, tendo levantado ai um altar, invocou sobre ele o Deus fortíssimo de Israel.
+
+'''
+
+xref:001-genesis/001-genesis-032.adoc#v1-32-0[&#60; Capítulo Anterior] | <<v1-33-0,Topo>> | xref:001-genesis/001-genesis-034.adoc#v1-34-0[Próximo Capítulo &#62;]

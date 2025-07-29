@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v30-1-0]]
+=== Jeremias, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 1 apresenta a chamada de Jeremias para ser profeta do Senhor, assim como algumas visões e palavras de encorajamento que Deus lhe dá. Abaixo estão cinco versículos que se relacionam com os temas abordados neste capítulo:
+* Isaías 6:8: "Depois ouvi a voz do Senhor, conclamando: "Quem enviarei? Quem irá por nós?" E eu respondi: "Eis-me aqui. Envia-me!"" Este versículo mostra a disposição de um servo de Deus em seguir a sua vontade, mesmo sem saber exatamente o que o espera. Essa atitude é similar à de Jeremias quando ele responde ao chamado do Senhor.
+* Êxodo 4:10-12: "Respondeu Moisés ao Senhor: Ah, Senhor! Nunca fui eloquente, nem no passado nem agora que falaste a teu servo. Não tenho facilidade de palavra nem de dicção, pois sou pesado de boca e língua. Perguntou-lhe o Senhor: Quem deu boca ao homem? Quem o fez surdo ou mudo? Quem lhe concede vista ou o torna cego? Não sou eu, o Senhor? Agora, pois, vá; eu estarei com a tua boca e te ensinarei o que hás de falar." Moisés, assim como Jeremias, inicialmente relutou em aceitar o chamado de Deus devido a suas próprias inseguranças e limitações. Mas Deus promete estar com ele e capacitá-lo para realizar sua vontade.
+* Jeremias 29:11: "Porque sou eu que conheço os planos que tenho para vocês", diz o Senhor, "planos de fazê-los prosperar e não de lhes causar dano, planos de dar-lhes esperança e um futuro." Esse versículo mostra que Deus tem um plano para a vida de cada um, assim como ele tinha um plano específico para Jeremias. Essa promessa de Deus é uma fonte de encorajamento para todos que buscam cumprir o propósito divino em suas vidas.
+* Atos 26:16: "Levanta-te! Põe-te de pé! Eu apareci a você para te escolher como servo e como testemunha do que você viu de mim e do que eu lhe mostrarei." Nesse versículo, Paulo relata sua própria chamada para ser apóstolo e como Deus o escolheu e o capacitou para ser um testemunho de sua graça. Assim como Paulo e Jeremias, Deus chama seus servos para serem suas testemunhas diante do mundo.
+* 2 Timóteo 1:7: "Porque Deus não nos deu espírito de covardia, mas de poder, de amor e de equilíbrio." Esse versículo enfatiza que, embora possamos nos sentir intimidados ou temerosos ao cumprir a vontade de Deus, ele nos deu o espírito de poder e amor para superar essas dificuldades. É um lembrete de que, assim como Jeremias, podemos confiar em Deus para nos capacitar e nos fortalecer em nossa missão.
+****
+
+[[v30-1-1]]
+
+^<<v30-1-1,1>>^ Palavras de Jeremias, filho de Helcias (um) dos sacerdotes que viviam em Anatoth, na terra de Bemjamim.
+
+[[v30-1-2]]
+
+^<<v30-1-2,2>>^ A palavra do Senhor foi-lhe dirigida no tempo de Josias, filho de Amon, rei de Judá, no décimo terceiro ano do seu reinado,
+
+[[v30-1-3]]
+
+^<<v30-1-3,3>>^ Também lhe foi dirigida nos dias de Joaquim, filho de Josias, rei de Judá, continuando até ao fim do ano undécimo de Sedecias, filho de Josias, rei de Judá, (isto é) até ao tempo da transmigração de Jerusalém, no quinto mês.
+
+[[v30-1-4]]
+
+^<<v30-1-4,4>>^ Foi-me dirigida a palavra do Senhor nestes termos:
+
+[[v30-1-5]]
+
+^<<v30-1-5,5>>^ Antes que eu te formasse no ventre de tua mãe, te conheci; antes que tu saísses do seu seio, te consagrei e constituí profeta entre as nações.
+
+[[v30-1-6]]
+
+^<<v30-1-6,6>>^ Eu disse-lhe: Ah! Senhor Deus, não sei falar, porque sou uma criança!
+
+[[v30-1-7]]
+
+^<<v30-1-7,7>>^ Mas o Senhor replicou: Não digas: Sou uma criança - porquanto a tudo o que te enviar irás, e dirás tudo o que eu te mandar,
+
+[[v30-1-8]]
+
+^<<v30-1-8,8>>^ Não os temas, porque eu sou contigo para te livrar, diz o Senhor.
+
+[[v30-1-9]]
+
+^<<v30-1-9,9>>^ Em seguida o Senhor estendeu a sua mão, tocou-me na boca e disse-me: Eis que ponho as minhas palavras na tua boca,
+
+[[v30-1-10]]
+
+^<<v30-1-10,10>>^ eis que te constituo hoje sobre as nações e sobre os reinos, para arrancares e destruíres, para arruinares e dissipares, para edificares e plantares.
+
+[[v30-1-11]]
+
+^<<v30-1-11,11>>^ Foi-me dirigida a palavra do Senhor a qual dizia: Que vês tu, Jeremias? Respondi: Vejo uma vara vigilante.
+
+[[v30-1-12]]
+
+^<<v30-1-12,12>>^ O Senhor disse-me: Viste bem, porque eu vigiarei sobre a minha palavra para a cumprir.
+
+[[v30-1-13]]
+
+^<<v30-1-13,13>>^ Segunda vez me foi dirigida a palavra do Senhor, a qual dizia: Que vês tu? Respondi: Vejo uma panela a ferver, que vem da banda do aquilão.
+
+[[v30-1-14]]
+
+^<<v30-1-14,14>>^ O Senhor disse-me: Do aquilão se espalhará o mal sobre todos os habitantes desta terra.
+
+[[v30-1-15]]
+
+^<<v30-1-15,15>>^ Com efeito, vou convocar todos os povos dos reinos do aquilão, diz o Senhor, e virão, e porá cada um a sua cadeira à entrada das portas de Jerusalém em volta de todos os seus muros e diante de todas as cidades de Judá.
+
+[[v30-1-16]]
+
+^<<v30-1-16,16>>^ Então pronunciarei contra eles os meus juízos, por causa de todo o mal que fizeram, porque me deixaram, ofereceram libações aos deuses estranhos e adoraram a obra das suas mãos.
+
+[[v30-1-17]]
+
+^<<v30-1-17,17>>^ Tu, pois, cinge os teus rins levanta-te e dize-lhes tudo o que eu te mandar. Não temas diante deles, porque senão farei que temas a sua presença.
+
+[[v30-1-18]]
+
+^<<v30-1-18,18>>^ Efetivamente, estabeleço-te hoje como uma cidade fortificada, como uma coluna de ferro, como um muro de bronze diante de toda esta terra, dos reis de Judá, dos seus príncipes, dos seus sacerdotes e do seu povo.
+
+[[v30-1-19]]
+
+^<<v30-1-19,19>>^ Pelejarão contra ti, mas não prevalecerão, porque eu sou contigo, para te livrar, diz o Senhor.
+
+'''
+
+xref:029-isaias/029-isaias-066.adoc#v29-66-0[&#60; Capítulo Anterior] | <<v30-1-0,Topo>> | xref:030-jeremias/030-jeremias-002.adoc#v30-2-0[Próximo Capítulo &#62;]

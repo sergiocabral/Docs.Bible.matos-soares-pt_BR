@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v23-13-0]]
+=== II Macabeus, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 13 de 2 Macabeus descreve a batalha final entre as forças judaicas lideradas por Judas Macabeu e o exército do rei Antíoco Eupátor. Nessa batalha, Judas e seus homens conseguem uma grande vitória, e o capítulo também destaca a importância da oração e do sacrifício para obter a ajuda de Deus na luta contra os inimigos. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Macabeus 13:
+* 2 Crônicas 13:12: "Agora, pois, Deus está conosco à frente, e seus sacerdotes com as trombetas para tocarem o alarme contra vocês. Ó israelitas, não lutem contra o Senhor, o Deus de seus antepassados, pois vocês não terão sucesso". Esse versículo mostra a importância de confiar em Deus e na liderança divina em batalhas, assim como Judas liderou seu povo na batalha contra Antíoco Eupátor.
+* Salmos 20:7: "Alguns confiam em carros e outros em cavalos, mas nós confiamos no nome do Senhor, nosso Deus". Esse versículo destaca a importância de confiar em Deus em vez de confiar apenas em recursos materiais ou estratégias humanas, algo que Judas e seus homens também fizeram.
+* Isaías 59:19: "Virá como torrente violenta impelida pelo vento do Senhor". Esse versículo fala sobre a ajuda divina que pode vir como uma força poderosa em momentos de necessidade, assim como Judas e seus homens receberam ajuda divina na batalha.
+* 1 Samuel 7:8: "Não deixes de clamar ao Senhor nosso Deus por nós, para que nos livre da mão dos filisteus". Esse versículo destaca a importância da oração e do clamor a Deus em momentos de batalha e dificuldade, algo que Judas e seus homens fizeram na batalha contra o exército inimigo.
+* 1 Reis 8:44: "Quando o teu povo for à guerra contra o inimigo que tu lhe houveres de enviar, e orarem ao Senhor, voltados para a cidade que escolheste e para o templo que construí para o teu nome". Esse versículo destaca a importância de orar em direção ao templo de Deus, algo que Judas e seus homens também fizeram durante a batalha.
+****
+
+[[v23-13-1]]
+
+^<<v23-13-1,1>>^ No ano cento e quarenta e nove, chegou ao conhecimento de Judas e dos seus que Antíoco Eupator marchava com um grande exército contra a Judeia,
+
+[[v23-13-2]]
+
+^<<v23-13-2,2>>^ acompanhado de Lísias, seu tutor e regente do reino. Ia cada um, à frente dum exército de cento e dez mil homens de pé, cinco mil e trezentos cavaleiros, vinte e dois elefantes e trezentos carros armados de fouces.
+
+[[v23-13-3]]
+
+^<<v23-13-3,3>>^ Menelau juntou-se também a eles. Com grande astúcia procurava o favor de Antíoco, não para salvação da pátria, mas esperando ser reconduzido à sua dignidade.
+
+[[v23-13-4]]
+
+^<<v23-13-4,4>>^ Porém, o Reis dos reis suscitou contra este pecador a cólera de Antíoco, o qual, persuadido por sugestão de Lísias de que Menelau era a causa de todos os males, mandou que fosse levado a Bereia e morto aí, segundo o costume do lugar.
+
+[[v23-13-5]]
+
+^<<v23-13-5,5>>^ Ora, havia em Bereia uma torre de cinquenta côvados de altura, que estava cheia de cinzas, no cimo da qual havia uma máquina giratória, que, em toda a volta precipitava sobre as cinzas.
+
+[[v23-13-6]]
+
+^<<v23-13-6,6>>^ Era lá que davam a morte aos culpados de sacrilégio ou de outros determinados enormes crimes.
+
+[[v23-13-7]]
+
+^<<v23-13-7,7>>^ Foi assim que morreu Menelau, prevaricador da lei, sem que o seu corpo fosse dado à terra.
+
+[[v23-13-8]]
+
+^<<v23-13-8,8>>^ Isto com toda a justiça, porque, como ele tinha cometido muitas impiedades contra o altar de Deus, cujo fogo e cinza eram coisas santas, na cinza encontrou a morte.
+
+[[v23-13-9]]
+
+^<<v23-13-9,9>>^ Entretanto o rei marchava, cheio de ferocidade, resolvido a ser mais cruel com os Judeus que seu pai.
+
+[[v23-13-10]]
+
+^<<v23-13-10,10>>^ Judas, sabendo isto, mandou ao povo que invocasse resistir, o Senhor de dia e de noite, para que viesse em seu auxílio naquela ocasião, como sempre tinha feito,
+
+[[v23-13-11]]
+
+^<<v23-13-11,11>>^ pois temiam ver-se privados da sua lei, da sua pátria e do seu santo templo. Que (o Senhor) não permitisse que o seu povo, que apenas começara a respirar um pouco, ficasse outra vez sujeito às nações blasfemas.
+
+[[v23-13-12]]
+
+^<<v23-13-12,12>>^ Depois que todos assim rezaram juntos, implorando a misericórdia do Senhor com lágrimas e jejuns, prostrados diante dele três dias contínuos, Judas exortou-os e mandou que estivessem preparados.
+
+[[v23-13-13]]
+
+^<<v23-13-13,13>>^ Com os anciães resolveu marchar contra o rei, não esperando que ele fizesse entrar as suas tropas na Judeia e se apoderasse da cidade, mas saindo imediatamente e pondo nas mãos do Senhor o êxito da empresa.
+
+[[v23-13-14]]
+
+^<<v23-13-14,14>>^ Remetendo, pois, a sorte das armas ao Criador do universo, exortou os seus a combater valorosamente, a resistir até à morte em defesa das leis, do templo, da cidade, da pátria e das suas instituições, e fez acampar o seu exército junto a Modin.
+
+[[v23-13-15]]
+
+^<<v23-13-15,15>>^ Depois de ter dado aos seus por santo-e-senha (as palavras) "Vitória de Deus", tomando consigo os mais valentes dentre os jovens, atacou de noite o quartel do rei e matou no seu acampamento quatro mil homens e o mais corpulento dos elefantes, com todos os que levava em cima.
+
+[[v23-13-16]]
+
+^<<v23-13-16,16>>^ Enfim encheram de terror e turbação o acampamento dos inimigos e, depois do feliz sucesso desta empresa, retiraram-se.
+
+[[v23-13-17]]
+
+^<<v23-13-17,17>>^ Tudo estava terminado ao romper do dia, graças ao Senhor que dispensou a sua protecção.
+
+[[v23-13-18]]
+
+^<<v23-13-18,18>>^ Mas o rei, depois de ter assim provado a audácia dos Judeus, procurava tomar por estratagema os lugares mais fortificados.
+
+[[v23-13-19]]
+
+^<<v23-13-19,19>>^ Fez pôr cerco diante de Betsur, praça forte dos Judeus, mas foi rechaçado e ficou diminuído.
+
+[[v23-13-20]]
+
+^<<v23-13-20,20>>^ Entretanto Judas mandava aos sitiados o que lhes era necessário.
+
+[[v23-13-21]]
+
+^<<v23-13-21,21>>^ Porém, um certo Rodoco, do exército dos Judeus, descobriu aos inimigos segredos (da defesa dos do seu lado) mas, depois de reconhecido, foi apanhado e metido em prisão.
+
+[[v23-13-22]]
+
+^<<v23-13-22,22>>^ Então o rei parlamentou novamente com os que estavam em Betsur, deu-Ihes a sua mão (ou a paz), recebeu a deles e retirou-se.
+
+[[v23-13-23]]
+
+^<<v23-13-23,23>>^ Pelejou contra Judas, mas foi vencido. Mas, tendo sabido que Filipe, que tinha sido deixado como superintendente dos negócios, se havia revoltado em Antioquia, ficou consternado. Apresentou propostas aos Judeus, submeteu-se e jurou guardar todas as condições justas; depois desta reconciliação, ofereceu um sacrifício, honrou o templo e fez-lhe presentes.
+
+[[v23-13-24]]
+
+^<<v23-13-24,24>>^ Acolheu muito bem a Macabeu e declarou-o governador militar desde a Ptolemaida até aos Gerrénios.
+
+[[v23-13-25]]
+
+^<<v23-13-25,25>>^ Quando chegou a Ptolemaida, estavam os Ptolemenses num grande descontentamento por causa daquele tratado (de amizade feito com os Judeus) mostrando a sua indignação e pretendendo rejeitar as condições.
+
+[[v23-13-26]]
+
+^<<v23-13-26,26>>^ Então Lísias subiu ao tribunal, fez a defesa como pode, apaziguou o povo e tornou para Antioquia. Tal foi a expedição do rei (contra a Judeia) e o fim que teve.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-012.adoc#v23-12-0[&#60; Capítulo Anterior] | <<v23-13-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-014.adoc#v23-14-0[Próximo Capítulo &#62;]

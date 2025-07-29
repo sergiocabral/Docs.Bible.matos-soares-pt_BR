@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v28-22-0]]
+=== Eclesiástico, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 22 discute o tema da sabedoria e da tolice, bem como a necessidade de ser cauteloso em relação às palavras que se dizem. O capítulo também adverte contra o orgulho e a arrogância, e enfatiza a importância de buscar a orientação de Deus.
+* Provérbios 12:15: "O caminho do insensato parece-lhe recto, mas o sábio escuta o conselho." Este versículo destaca a diferença entre os tolos e os sábios, e sugere que a tolice pode levar a um pensamento errado e imprudente.
+* Provérbios 29:20: "Tens visto o homem precipitado em suas palavras? Há mais esperança para o insensato do que para ele." Esse versículo adverte contra a imprudência na fala e sugere que pode haver mais esperança para aqueles que são insensatos do que para aqueles que falam sem pensar.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez do espírito precede a queda." Este versículo destaca o perigo da arrogância e do orgulho, enfatizando que aqueles que são soberbos são mais propensos a cair.
+* Provérbios 10:19: "Na multidão de palavras não falta pecado, mas o que modera os seus lábios é sábio." Esse versículo sugere que falar demais pode levar a erros e pecados, e enfatiza a importância de escolher cuidadosamente as palavras que se dizem.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo enfatiza a importância de confiar em Deus e buscar a Sua orientação em todas as coisas, incluindo a sabedoria e a prudência nas palavras e ações.
+****
+
+[[v28-22-1]]
+
+^<<v28-22-1,1>>^ Ao preguiçoso é atirado lodo e todos falam dele com desprezo.
+
+[[v28-22-2]]
+
+^<<v28-22-2,2>>^ Ao preguiçoso é atirado excremento de bois e todo o que o tocar sacudirá as mãos. (ver nota)
+
+[[v28-22-3]]
+
+^<<v28-22-3,3>>^ O filho mal educado é a vergonha do pai; a filha (semelhante) será pouco estimada.
+
+[[v28-22-4]]
+
+^<<v28-22-4,4>>^ A filha prudente será uma herança para seu marido, mas aquela, cujo procedimento envergonha, será a desonra de seu pai.
+
+[[v28-22-5]]
+
+^<<v28-22-5,5>>^ A mulher atrevida cobre de confusão seu pai e seu marido, e não será inferior aos ímpios: dum e doutro andará desprezada.
+
+[[v28-22-6]]
+
+^<<v28-22-6,6>>^ Um discurso fora de propósito é como a música em ocasião de luto; o castigo e a doutrina em todo o tempo (oportuno) são (empregados pela) sabedoria. (ver nota)
+
+[[v28-22-7]]
+
+^<<v28-22-7,7>>^ Aquele que ensina o insensato é como o que quer tornar a unir os cacos de um vaso quebrado.
+
+[[v28-22-8]]
+
+^<<v28-22-8,8>>^ O homem que se põe a contar alguma coisa ao que o não ouve, é como o que desperta o adormecido dum pesado sono.
+
+[[v28-22-9]]
+
+^<<v28-22-9,9>>^ Aquele que fala da sabedoria a um insensato, é como o que fala com um homem adormecido, o qual, no fim do discurso, dirá: Quem é este?
+
+[[v28-22-10]]
+
+^<<v28-22-10,10>>^ Chora sobre o morto porque lhe faltou a luz, e chora sobre o insensato, porque lhe falta o siso. (ver nota)
+
+[[v28-22-11]]
+
+^<<v28-22-11,11>>^ Chora pouco sobre o morto, porque ele entrou no descanso;
+
+[[v28-22-12]]
+
+^<<v28-22-12,12>>^ mas a vida criminosa do mau é pior que a morte.
+
+[[v28-22-13]]
+
+^<<v28-22-13,13>>^ O pranto sobre o morto dura sete dias. mas sobre o insensato e o ímpio dura toda a sua vida.
+
+[[v28-22-14]]
+
+^<<v28-22-14,14>>^ Não fales muito com o estulto, e não acompanhes com o insensato.
+
+[[v28-22-15]]
+
+^<<v28-22-15,15>>^ Guarda-te dele, para que não tenhas inquietações, e não serás contaminado com o seu pecado.
+
+[[v28-22-16]]
+
+^<<v28-22-16,16>>^ Desvia-te dele, e acharás descanso, e não te enfastiarás com a sua estultícia.
+
+[[v28-22-17]]
+
+^<<v28-22-17,17>>^ Que coisa haverá mais pesada do que o chumbo? E que outro nome se lhe pode dar melhor do que o de insensato?
+
+[[v28-22-18]]
+
+^<<v28-22-18,18>>^ A areia, o sal e qualquer massa de ferro, são mais fáceis de levar do que o imprudente, o insensato e o ímpio.
+
+[[v28-22-19]]
+
+^<<v28-22-19,19>>^ A travação de madeixa, bem ligada e disposta no alicerce do edifício, não se desunirá; assim, também, o coração firmado sobre um bem pensado conselho.
+
+[[v28-22-20]]
+
+^<<v28-22-20,20>>^ A resolução do homem sensato nunca enfraquecerá com o medo.
+
+[[v28-22-21]]
+
+^<<v28-22-21,21>>^ Assim como uma paliçada posta em lugares elevados e uma parede de pedregulho, sem argamassa, não podem resistir à violência do vento,
+
+[[v28-22-22]]
+
+^<<v28-22-22,22>>^ também o coração tímido, de pensamentos insensatos, não resistirá à violência do temor.
+
+[[v28-22-23]]
+
+^<<v28-22-23,23>>^ O coração do insensato, oscilante nos seus pensamentos, não temerá em tempo algum; assim também (por outro motivo) o que está sempre firme nos preceitos de Deus. (ver nota)
+
+[[v28-22-24]]
+
+^<<v28-22-24,24>>^ Aquele que pica o olho, faz sair dele lágrimas; o que pica o coração excita o sentimento.
+
+[[v28-22-25]]
+
+^<<v28-22-25,25>>^ Aquele que atira com uma pedra aos pássaros, fá-los fugir; assim também aquele que diz injúrias ao seu amigo, desfaz a amizade.
+
+[[v28-22-26]]
+
+^<<v28-22-26,26>>^ Ainda que tenhas arrancado a espada contra o teu amigo, não desesperes, porque o regresso é possível.
+
+[[v28-22-27]]
+
+^<<v28-22-27,27>>^ Ainda que tenhas dito ao teu amigo palavras contristadoras, não temas, porque a reconciliação é possível, excepto se se trata de afrontas, impropérios, orgulhoso desdém, revelação de segredo e golpes à traição: em todos estes casos fugirá de ti o amigo.
+
+[[v28-22-28]]
+
+^<<v28-22-28,28>>^ Permanece fiel ao teu amigo na sua pobreza, para que também te alegres com ele nas suas prosperidades.
+
+[[v28-22-29]]
+
+^<<v28-22-29,29>>^ Conserva-te fiel a ele no tempo da sua tribulação, para que tenhas parte com ele na sua herança.
+
+[[v28-22-30]]
+
+^<<v28-22-30,30>>^ O vapor e o fumo elevam-se da fornalha antes do fogo; assim também as injúrias, ultrajes e ameaças precedem a efusão de sangue.
+
+[[v28-22-31]]
+
+^<<v28-22-31,31>>^ Eu não me envergonharei de saudar o meu amigo, nem me esconderei da sua presença, e, se me vierem males por causa dele, sofrê-los-ei.
+
+[[v28-22-32]]
+
+^<<v28-22-32,32>>^ Mas toda a pessoa que souber isto se acautelará dele.
+
+[[v28-22-33]]
+
+^<<v28-22-33,33>>^ Quem porá uma guarda à minha boca, e um selo inviolável sobre os meus lábios, para que eu não caia por sua causa, e para que a minha língua me não perca?
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-021.adoc#v28-21-0[&#60; Capítulo Anterior] | <<v28-22-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-023.adoc#v28-23-0[Próximo Capítulo &#62;]

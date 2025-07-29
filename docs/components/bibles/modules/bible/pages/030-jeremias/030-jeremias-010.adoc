@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v30-10-0]]
+=== Jeremias, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 10 é um capítulo que trata do pecado da idolatria e da advertência do profeta ao povo de Judá para que se afaste dessas práticas e volte ao verdadeiro Deus. Os versículos selecionados abaixo tratam desse tema:
+* Salmos 115:4-8: "Seus ídolos são prata e ouro, obra das mãos do homem. Têm boca, mas não falam; têm olhos, mas não veem; têm ouvidos, mas não ouvem; têm nariz, mas não cheiram; têm mãos, mas não apalpam; têm pés, mas não andam; nem som algum sai da sua garganta." Esse salmo descreve a futilidade dos ídolos, que são obras das mãos dos homens e não têm poder nem vida.
+* Isaías 44:9-20: Esse trecho inteiro é uma advertência do profeta Isaías contra a idolatria e a construção de imagens de madeira e metal. Ele aponta a contradição dessas práticas, já que os homens adoram um objeto que eles mesmos criaram e que não tem poder ou vida.
+* 1 Coríntios 8:4-6: "Quanto, pois, ao comer das coisas sacrificadas aos ídolos, sabemos que o ídolo nada é no mundo e que não há senão um só Deus. Pois ainda que haja também alguns que se chamem deuses, quer no céu quer sobre a terra, como há muitos deuses e muitos senhores, para nós, porém, há um só Deus, o Pai, de quem são todas as coisas e para quem nós vivemos; e um só Senhor, Jesus Cristo, pelo qual são todas as coisas, e nós também por ele." Nesse trecho da carta de Paulo aos Coríntios, ele ensina que os ídolos nada são e que só há um Deus verdadeiro, que é o Pai de nosso Senhor Jesus Cristo.
+* Atos 17:22-31: Nesse texto, o apóstolo Paulo fala para os atenienses sobre o Deus desconhecido que eles adoravam, mas que na verdade é o Deus criador de todas as coisas. Ele aponta a contradição de adorar ídolos e deuses feitos por mãos humanas, quando o verdadeiro Deus não pode ser contido em objetos materiais.
+* 2 Coríntios 6:16-18: "Que acordo há entre o templo de Deus e os ídolos? Porque nós somos santuário do Deus vivente, como ele próprio disse: Habitarei e andarei entre eles; serei o seu Deus, e eles serão o meu povo. Pelo que, saí vós do meio deles e separai-vos, diz o Senhor; não toqueis em coisas impuras; e eu vos receberei, serei vosso Pai, e vós sereis para mim filhos e filhas, diz o Senhor Todo-Poderoso." Nesse trecho da carta de Paulo aos Coríntios, ele exorta os cristãos a se separarem da idolatria e a se tornarem santuários do Deus vivo.
+****
+
+[[v30-10-1]]
+
+^<<v30-10-1,1>>^ Ouvi a palavra que o Senhor pronuncia acerca de vós, casa de Israel.
+
+[[v30-10-2]]
+
+^<<v30-10-2,2>>^ Isto diz o Senhor: Não aprendais os (maus) caminhos das nações não temais os sinais do céu, como temem os gentios;
+
+[[v30-10-3]]
+
+^<<v30-10-3,3>>^ porque as leis dos povos são vãs. A mão dum artista corta um madeiro do bosque, trabalhando-o com o machado;
+
+[[v30-10-4]]
+
+^<<v30-10-4,4>>^ adorna-o com prata e com ouro; com pregos e a marteladas une-o para se não desconjuntar.
+
+[[v30-10-5]]
+
+^<<v30-10-5,5>>^ Estas estátuas são feitas (dum tronco) de palmeira, e não falam; tomam-nas, e levam-nas duma parte para a outra, porque não podem andar. Não as temais pois, porque não podem fazer mal nem bem.
+
+[[v30-10-6]]
+
+^<<v30-10-6,6>>^ Ninguém há semelhante a ti, Senhor! És grande, e é grande o teu nome em fortaleza!
+
+[[v30-10-7]]
+
+^<<v30-10-7,7>>^ Quem te não temerá ó Rei das nações? Pois a ti se deve o temor. Entre todos os sábios das nações e em todos os seus reinos, ninguém há semelhante a ti.
+
+[[v30-10-8]]
+
+^<<v30-10-8,8>>^ Todos, juntamente, são néscios e insensatos; a sua doutrina é coisa vã: é lenha.
+
+[[v30-10-9]]
+
+^<<v30-10-9,9>>^ Prata batida trazida de Tarsis, ouro de Ofaz (Ofir?), obra de escultor e de mão de ourives! De jacinto e de púrpura é o seu revestimento: todos (os ídolos) são obra de artistas. (ver nota)
+
+[[v30-10-10]]
+
+^<<v30-10-10,10>>^ Mas o Senhor é o Deus verdadeiro, o Deus vivo e o rei eterno. À sua indignação se abala a terra, e as nações não suportam a sua cólera.
+
+[[v30-10-11]]
+
+^<<v30-10-11,11>>^ Vós pois lhes direis assim: Os deuses que não fizeram os céus e a terra, pereçam da terra e de debaixo do céu.
+
+[[v30-10-12]]
+
+^<<v30-10-12,12>>^ O (Senhor é) que fez a terra com o seu poder, firmou o mundo com a sua sabedoria e estendeu os céus com a sua inteligência.
+
+[[v30-10-13]]
+
+^<<v30-10-13,13>>^ (Só) com a sua voz reúne no céu uma grande multidão de águas e eleva as nuvens das extremidades da terra; e faz sair o vento dos seus reservatórios.
+
+[[v30-10-14]]
+
+^<<v30-10-14,14>>^ Então todo o homem se tem por néscio e imbecil, todo o artista tem vergonha do seu ídolo, porque fundiu uma falsidade, a que falta o sopro vital.
+
+[[v30-10-15]]
+
+^<<v30-10-15,15>>^ São coisas vãs, obras dignas de riso; quando chegar o dia do seu castigo, perecerão.
+
+[[v30-10-16]]
+
+^<<v30-10-16,16>>^ Não é semelhante a estes (ídolos) aquele (Senhor) que é a porção de Jacob, pois foi ele que formou todas as coisas; Israel é a porção da sua herança; o seu nome é Iavé dos exércitos.
+
+[[v30-10-17]]
+
+^<<v30-10-17,17>>^ Junta da terra a tua bagagem, ó tu que te encontras sitiada!
+
+[[v30-10-18]]
+
+^<<v30-10-18,18>>^ Porque isto diz o Senhor: Eis que atirarei, desta vez, para longe os habitantes desta terra e os atribularei para que me encontrem.
+
+[[v30-10-19]]
+
+^<<v30-10-19,19>>^ (Então exclamarás:) Ai de mim! Que ferida! A minha chaga é incurável! Mas eu disse: Fui eu que procurei esta desgraça: suportá-la-ei.
+
+[[v30-10-20]]
+
+^<<v30-10-20,20>>^ A minha tenda foi destruída, todas as minhas cordas se quebraram, os meus filhos saíram de mim, já não existem! Daqui em diante não há quem levante a minha tenda, quem estenda os meus pavilhões.
+
+[[v30-10-21]]
+
+^<<v30-10-21,21>>^ Os pastores (que me deviam guiar) obraram loucamente, não buscaram o Senhor; por isso não prosperaram, e todo o seu rebanho se dispersou.
+
+[[v30-10-22]]
+
+^<<v30-10-22,22>>^ Eis que já se ouve uma voz, um grande tumulto vem da terra do Aquilão para reduzir as cidades de Judá a deserto, a morada de chacais.
+
+[[v30-10-23]]
+
+^<<v30-10-23,23>>^ Eu sei, Senhor, que o caminho do homem não está no seu poder, que o homem que anda não pode dirigir os seus passos. (ver nota)
+
+[[v30-10-24]]
+
+^<<v30-10-24,24>>^ Castiga-me, Senhor, porém segundo a justiça, e não no teu furor, para que não suceda que me reduzas a nada.
+
+[[v30-10-25]]
+
+^<<v30-10-25,25>>^ Derrama a tua indignação sobre as nações que te não conhecem, sobre os povos que não invocam o teu nome, porque devoraram Jacob, consumiram-no inteiramente, devastaram a sua morada.
+
+'''
+
+xref:030-jeremias/030-jeremias-009.adoc#v30-9-0[&#60; Capítulo Anterior] | <<v30-10-0,Topo>> | xref:030-jeremias/030-jeremias-011.adoc#v30-11-0[Próximo Capítulo &#62;]

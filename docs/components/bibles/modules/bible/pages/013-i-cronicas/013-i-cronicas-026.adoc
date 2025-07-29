@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v13-26-0]]
+=== I Crônicas, 26
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 26 de 1 Crônicas fala sobre os cargos e funções dos porteiros no templo de Deus, bem como a organização dos grupos de porteiros. Os versículos abaixo são relacionados aos temas abordados nesse capítulo:
+* Salmo 84:10: "Porque vale mais um dia nos teus átrios do que mil. Preferiria estar à porta da casa do meu Deus a habitar nas tendas dos ímpios." O salmista expressa sua preferência em estar nos átrios do templo de Deus, mesmo como porteiro à porta da casa de Deus, em vez de estar com os ímpios.
+* 2 Crônicas 8:14: "De acordo com o regulamento de Davi, seu pai, estabeleceu as divisões dos sacerdotes para o seu serviço, e os levitas para as suas funções de louvor e ministério diante dos sacerdotes, conforme cada dia exigia, e os porteiros por suas divisões em cada porta, pois assim Davi, homem de Deus, tinha ordenado." Esse versículo destaca a importância da organização dos grupos de porteiros, de acordo com as suas divisões em cada porta, estabelecido por Davi.
+* Salmo 118:19-20: "Abram-se para mim as portas da justiça; entrarei por elas e louvarei o Senhor. Esta é a porta do Senhor, pela qual os justos podem entrar." O salmista faz uma referência metafórica às portas da justiça, que levam à entrada no templo de Deus e à adoração a Ele.
+* Isaías 62:10: "Passem, passem pelas portas! Preparem o caminho para o povo! Construam, construam a estrada! Tirem as pedras! Ergam um sinal para os povos!" Esse versículo fala sobre a necessidade de preparar o caminho para o povo entrar no templo de Deus e adorá-lo, tornando as portas acessíveis e removendo obstáculos.
+* Salmo 24:7-10: "Levantem-se, ó portais, as suas cabeças; levantem-se, ó portas eternas, para que o Rei da glória possa entrar! Quem é esse Rei da glória? O Senhor forte e poderoso, o Senhor poderoso na batalha. Levantem-se, ó portais, as suas cabeças; levantem-se, ó portas eternas, para que o Rei da glória possa entrar! Quem é esse Rei da glória? O Senhor dos exércitos, ele é o Rei da glória!" Esse salmo celebra a entrada triunfal do Rei da glória, o Senhor dos exércitos, pelas portas do templo de Deus.
+****
+
+[[v13-26-1]]
+
+^<<v13-26-1,1>>^ Eis as classes dos porteiros: Dos Coritas: Maselemia, filho de Coré, dos filhos de Asaf.
+
+[[v13-26-2]]
+
+^<<v13-26-2,2>>^ Os filhos de Masemia foram: Zacarias o primogênito, Jadiel o segundo, Zabadias o terceiro, Jatanael o quarto,
+
+[[v13-26-3]]
+
+^<<v13-26-3,3>>^ Elão o quinto, Joanan o sexto, Elioenal o sétimo.
+
+[[v13-26-4]]
+
+^<<v13-26-4,4>>^ Os filhos de Obededom foram: Semeias o primogênito, Jozabad o segundo, Joaa o terceiro, Sacar o quarto, Natanael o quinto,
+
+[[v13-26-5]]
+
+^<<v13-26-5,5>>^ Amiel o sexto, Issacar o sétimo, Folati o oitavo, porque o Senhor o abençoou.
+
+[[v13-26-6]]
+
+^<<v13-26-6,6>>^ Semei, seu filho, teve filhos que foram chefes na casa de seu pai, porque eram homens fortíssimos.
+
+[[v13-26-7]]
+
+^<<v13-26-7,7>>^ Os filhos de Semeias foram: Otni, Rafael, Obed, Elzabad e seus irmãos, homens fortíssimos; Eliu e Samaquias.
+
+[[v13-26-8]]
+
+^<<v13-26-8,8>>^ Todos estes eram da família de Obededom; eles e seus filhos e irmãos, robustíssimos para o seu minsitério, eram (ao todo) sessenta e dois da casa Obededom.
+
+[[v13-26-9]]
+
+^<<v13-26-9,9>>^ Os filhos de Maselemia e seus irmãos, muito valentes, eram dezoito.
+
+[[v13-26-10]]
+
+^<<v13-26-10,10>>^ De Hosa, dos filhos de Merari foram: Semri, o chefe - ele não era o primogênito, mas seu pai tinha-o constituído chefe;
+
+[[v13-26-11]]
+
+^<<v13-26-11,11>>^ Helcias o segundo; Tabelias o terceiro; Zacarias, o quarto. Todos os filhos de Hosa e os seus irmãos eram treze.
+
+[[v13-26-12]]
+
+^<<v13-26-12,12>>^ Estas classes de porteiros, os seus chefes, como também os seus irmãos, serviam sempre na casa do Senhor.
+
+[[v13-26-13]]
+
+^<<v13-26-13,13>>^ Deitaram-se sortes pelas suas famílias, sem distinção nem de pequenos nem de grandes, para cada uma das portas.
+
+[[v13-26-14]]
+
+^<<v13-26-14,14>>^ A sorte da porta do oriente caiu a Selemias. A Zacarias, seu filho, homem prudentíssimo e habilíssimo, coube em sorte a (porta) do setentrião.
+
+[[v13-26-15]]
+
+^<<v13-26-15,15>>^ A do meio-dia caiu a Obededom e seus filhos; nesta parte da casa estava o conselho dos anciães.
+
+[[v13-26-16]]
+
+^<<v13-26-16,16>>^ A Sefim e Hosa caiu a do ocidente. Junto da porta que dá para a estrada da subida; uma guarda estava defronte de outra guarda.
+
+[[v13-26-17]]
+
+^<<v13-26-17,17>>^ Ao oriente havia seis Levitas, e ao setentrião quatro por dia; ao meio-dia, do mesmo modo, quatro por dia; onde estava o conselho, outros quatro, dois a dois.
+
+[[v13-26-18]]
+
+^<<v13-26-18,18>>^ Nas celas dos porteiros, ao ocidente, estavam quatro no caminho, e dois nas dependências.
+
+[[v13-26-19]]
+
+^<<v13-26-19,19>>^ Foi esta a distribuição dos porteiros, filhos de Coré e de Merari.
+
+[[v13-26-20]]
+
+^<<v13-26-20,20>>^ Os levitas, seus irmãos, tinham a guarda dos tesouros da casa de Deus e dos vasos sagrados.
+
+[[v13-26-21]]
+
+^<<v13-26-21,21>>^ De entre os filhos de Dedan, isto é, os filhos de Gerson descendentes de Ledan, chefes das famílias de Dedan, gersonita, estava Jeieli.
+
+[[v13-26-22]]
+
+^<<v13-26-22,22>>^ Os filhos de Jeieli, Zatan e Joel, seu irmão, eram guardas dos tesouros da casa do Senhor.
+
+[[v13-26-23]]
+
+^<<v13-26-23,23>>^ De entre as famílias de Amrão, de Isaar, de Hebron e de Oziel,
+
+[[v13-26-24]]
+
+^<<v13-26-24,24>>^ estava Snbael, filho de Gerson, filho de Moisés, que era o superintendente dos tesouros.
+
+[[v13-26-25]]
+
+^<<v13-26-25,25>>^ De entre os seus irmãos, descendentes de Eliezer, cujo filho foi Raabia, cujo filho foi Isaías, cujo filho foi Jorão, cujo filho foi Zecri, cujo filho foi Selemit,
+
+[[v13-26-26]]
+
+^<<v13-26-26,26>>^ este mesmo Selemit e seus irmãos tinham a intendência dos tesouros das coisas santas, que o rei Davide e os chefes das famílias, os chefes de milhar, os centuriões e os chefes do exército tinham consagrado:
+
+[[v13-26-27]]
+
+^<<v13-26-27,27>>^ coisas que tinham consagrado, provenientes dos despojos das guerras para a construção e alfaias do templo do Senhor.
+
+[[v13-26-28]]
+
+^<<v13-26-28,28>>^ Todas as coisas consagradas por Samuel, o vidente, por Saul, filho de Cis, por Abner, filho de Ner, e Joab, filho de Sarvia, todas estavam confiadas à guarda de Selemit e de seus irmãos.
+
+[[v13-26-29]]
+
+^<<v13-26-29,29>>^ Os descendentes de Isaar, Conenias e seus filhos, cuidavam dos negócios de fora, que diziam respeito a Israel, (desempenhando o papel de) escribas e magistrados.
+
+[[v13-26-30]]
+
+^<<v13-26-30,30>>^ Hasabias, da família de Hebron, e seus irmãos, homens muito fortes, em número de mil e setecentos, governavam os Israelitas além do Jordão para o ocidente, em todas as coisas pertencentes ao serviço do Senhor e do rei.
+
+[[v13-26-31]]
+
+^<<v13-26-31,31>>^ Jerias foi chefe dos Hebronitos, segundo as suas famílias e ramos; no ano quadragésimo do reinado de Davide fez-se o recenseamento deles, e acharam-se em Jazer de Galaad homens fortíssimos:
+
+[[v13-26-32]]
+
+^<<v13-26-32,32>>^ dos irmãos de Jerias, no vigor da idade, acharam-se dois mil e setecentos chefes de famílias. O rei Davide deu-lhes o mando sobre os Rubenitas, os Gaditas e sobre a meia tribo de Manassés, no que dizia respeito ao serviço de Deus e do rei.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-025.adoc#v13-25-0[&#60; Capítulo Anterior] | <<v13-26-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-027.adoc#v13-27-0[Próximo Capítulo &#62;]

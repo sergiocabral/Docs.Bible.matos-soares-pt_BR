@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v55-6-0]]
+=== Gálatas, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gálatas 6 trata sobre a importância de ajudar e encorajar uns aos outros na comunidade cristã, bem como sobre a importância de plantar sementes espirituais que resultem em colheitas eternas. O capítulo também aborda a necessidade de cada pessoa assumir a responsabilidade por suas próprias ações e não se comparar com os outros. Aqui estão cinco versículos relacionados com esses temas:
+* Filipenses 2:4 - "Não tenham cada um em vista o seu próprio interesse, mas também o interesse dos outros." Este versículo enfatiza a importância de colocar os outros em primeiro lugar e ajudar uns aos outros na comunidade cristã, o que é um tema importante em Gálatas 6.
+* Romanos 12:15 - "Alegrai-vos com os que se alegram; chorai com os que choram." Aqui, Paulo está exortando os cristãos a se importarem com as emoções e situações dos outros e a estar presente para ajudá-los, independentemente de suas circunstâncias.
+* João 15:5 - "Eu sou a videira; vós sois as varas. Quem permanece em mim e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer." Este versículo destaca a importância de permanecer em Cristo para produzir frutos espirituais e crescer em nossa fé, um tema abordado em Gálatas 6.
+* 1 Pedro 5:5 - "Semelhantemente vós, jovens, sede sujeitos aos anciãos; e sede todos sujeitos uns aos outros, e revesti-vos de humildade, porque Deus resiste aos soberbos, mas dá graça aos humildes." Este versículo ressalta a importância da humildade e da submissão aos outros, em vez de nos compararmos e nos vangloriarmos, como é abordado em Gálatas 6.
+* Tiago 5:16 - "Confessai, pois, os vossos pecados uns aos outros, e orai uns pelos outros, para serdes curados. Muito pode, por sua eficácia, a súplica do justo." Aqui, Tiago está encorajando os cristãos a confessar seus pecados uns aos outros e orar uns pelos outros, destacando a importância da responsabilidade pessoal e da ajuda mútua na comunidade cristã.
+****
+
+[[v55-6-1]]
+
+^<<v55-6-1,1>>^ Irmãos, se algum homem cair por surpresa em algum delito, vós, que sois espirituais, admoestai-o com espírito de mansidão. Toma cuidado contigo; podes também ser tentado.
+
+[[v55-6-2]]
+
+^<<v55-6-2,2>>^ Levai os fardos uns dos outros: desta maneira, cumprireis a lei de Cristo.
+
+[[v55-6-3]]
+
+^<<v55-6-3,3>>^ Se alguém julga ser alguma coisa, não sendo nada, a si mesmo se engana.
+
+[[v55-6-4]]
+
+^<<v55-6-4,4>>^ Cada um examine a sua obra, e então terá glória somente em si mesmo, e não em outro.
+
+[[v55-6-5]]
+
+^<<v55-6-5,5>>^ Com efeito, cada um levará o seu próprio fardo. (ver nota)
+
+[[v55-6-6]]
+
+^<<v55-6-6,6>>^ O que é catequizado na palavra, reparta de todos os bens com o que o catequiza.
+
+[[v55-6-7]]
+
+^<<v55-6-7,7>>^ Não vos enganeis: de Deus não se zomba.
+
+[[v55-6-8]]
+
+^<<v55-6-8,8>>^ Aquilo que o homem semear, isso colherá. Aquele que semeia na sua carne, da carne colherá corrupção; mas o que semeia no Espírito, colherá do Espírito a vida eterna.
+
+[[v55-6-9]]
+
+^<<v55-6-9,9>>^ Não nos cansemos, pois, de fazer o bem, porque a seu tempo colheremos, não desfalecendo.
+
+[[v55-6-10]]
+
+^<<v55-6-10,10>>^ Logo, enquanto temos tempo, façamos bem a todos, mas principalmente aos irmãos na fé.
+
+[[v55-6-11]]
+
+^<<v55-6-11,11>>^ Vede que grandes letras escrevo por meu próprio punho!
+
+[[v55-6-12]]
+
+^<<v55-6-12,12>>^ Os que querem gloriar-se segundo a carne, esses obrigam-vos à circuncisão, só para não sofrerem perseguição pela cruz de Cristo.
+
+[[v55-6-13]]
+
+^<<v55-6-13,13>>^ Esses mesmos que se circuncidam, não guardam a lei, mas querem que vos circuncideis, para se gloriarem na vossa carne. (ver nota)
+
+[[v55-6-14]]
+
+^<<v55-6-14,14>>^ Longe de mim o gloriar-me senão da cruz de Nosso Senhor Jesus Cristo, por quem o mundo está crucificado para mim, e eu crucificado para o mundo.
+
+[[v55-6-15]]
+
+^<<v55-6-15,15>>^ De facto, nem a circuncisão nem a incircuncisão valem nada, mas o ser uma nova criatura.
+
+[[v55-6-16]]
+
+^<<v55-6-16,16>>^ A todos os que seguirem esta regra, paz e misericórdia, assim como a Israel de Deus.
+
+[[v55-6-17]]
+
+^<<v55-6-17,17>>^ Para o faturo ninguém me inquiete, porque eu trago no meu corpo as marcas de Jesus. (ver nota)
+
+[[v55-6-18]]
+
+^<<v55-6-18,18>>^ Irmãos, que a graça de Nosso Senhor Jesus Cristo sejam com o vosso espírito. Assim seja.
+
+'''
+
+xref:055-galatas/055-galatas-005.adoc#v55-5-0[&#60; Capítulo Anterior] | <<v55-6-0,Topo>> | xref:056-efesios/056-efesios-001.adoc#v56-1-0[Próximo Capítulo &#62;]

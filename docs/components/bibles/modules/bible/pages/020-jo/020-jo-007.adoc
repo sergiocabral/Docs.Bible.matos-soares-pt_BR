@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v20-7-0]]
+=== Jó, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 7 é um capítulo em que Jó continua a lamentar sua situação, expressando seu desespero diante da dor física e emocional que está enfrentando. Ele questiona a razão de sua existência e pede a Deus que o deixe em paz. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Salmos 6:6: "Estou cansado de tanto gemer; todas as noites faço nadar a minha cama em lágrimas; inundo de pranto o meu leito." Este versículo fala sobre o cansaço emocional e físico que Jó está sentindo, com suas lágrimas inundando sua cama todas as noites.
+* Salmos 13:2: "Até quando, Senhor? Esquecer-te-ás de mim para sempre? Até quando ocultarás de mim o rosto?" Assim como Jó, o salmista se sente esquecido por Deus e questiona quanto tempo ainda terá que suportar a dor.
+* Salmos 22:1-2: "Deus meu, Deus meu, por que me desamparaste? Por que estás afastado de me ajudar e das palavras do meu bramido? Deus meu, eu clamo de dia, e não me ouves; de noite, e não tenho sossego." Este salmo começa com um clamor de desespero e abandono, que reflete a dor e solidão que Jó está experimentando.
+* Salmos 38:6: "Estou encurvado, estou muito abatido, ando lamentando o dia inteiro." Este versículo descreve a condição física de Jó, que está encurvado e abatido pela dor.
+* Salmos 88:14: "Por que, Senhor, rejeitas a minha alma? Por que escondes de mim a tua face?" O salmista se sente abandonado por Deus e questiona a razão pela qual Deus está escondendo seu rosto. Este sentimento é compartilhado por Jó, que sente que Deus o rejeitou e o abandonou.
+****
+
+[[v20-7-1]]
+
+^<<v20-7-1,1>>^ A vida do homem sobre a terra é uma milícia; os seus dias são como os dias dum mercenário.
+
+[[v20-7-2]]
+
+^<<v20-7-2,2>>^ Assim como um escravo (fatigado) suspira pela sombra, e o mercenário espera o seu salário,
+
+[[v20-7-3]]
+
+^<<v20-7-3,3>>^ assim também eu tive meses vazios (de consolação), e contei noites trabalhosas.
+
+[[v20-7-4]]
+
+^<<v20-7-4,4>>^ Se durmo, digo: Quando me levantarei eu? (Depois de levantado) espero a tarde, e sacio-me de dores até à noite.
+
+[[v20-7-5]]
+
+^<<v20-7-5,5>>^ A minha carne está coberta de podridão e de imundície do pó, a minha pele está enrugada e supura.
+
+[[v20-7-6]]
+
+^<<v20-7-6,6>>^ Os meus dias correm mais rápidos que o cortar da teia pelo tecelão, consomem-se sem esperança (de voltar).
+
+[[v20-7-7]]
+
+^<<v20-7-7,7>>^ Lembra-te que a minha vida é um sopro e que os meus olhos não tornarão a ver a felicidade (perdida). (ver nota)
+
+[[v20-7-8]]
+
+^<<v20-7-8,8>>^ Não me verá mais o olhar humano; os teus olhos procurar-me-ão, mas eu não subsistirei.
+
+[[v20-7-9]]
+
+^<<v20-7-9,9>>^ Assim como a nuvem se dissipa e passa, assim aquele que descer ao sepulcro, não subirá,
+
+[[v20-7-10]]
+
+^<<v20-7-10,10>>^ Nem voltará mais a sua casa, nem o lugar onde estava o conhecerá jamais.
+
+[[v20-7-11]]
+
+^<<v20-7-11,11>>^ E por isso eu não reprimirei a minha língua, falarei na angústia do meu espírito, lamentar-me-ei na amargura da minha alma.
+
+[[v20-7-12]]
+
+^<<v20-7-12,12>>^ (Direi ao Senhor): Porventura sou eu o mar ou um monstro marinho, para me teres encerrado como num cárcere? (ver nota)
+
+[[v20-7-13]]
+
+^<<v20-7-13,13>>^ Se eu digo: "Consolar-me-á o meu leito, a minha cama (onde repousarei) aliviará o meu sofrer."
+
+[[v20-7-14]]
+
+^<<v20-7-14,14>>^ tu me aterras com sonhos, e me horrorizas com horríveis visões.
+
+[[v20-7-15]]
+
+^<<v20-7-15,15>>^ Por isso a minha alma prefere a estrangulação, os meus ossos preferem a morte.
+
+[[v20-7-16]]
+
+^<<v20-7-16,16>>^ Perdi as esperanças, não viverei mais; tem piedade de mim, porque os meus dias são nada.
+
+[[v20-7-17]]
+
+^<<v20-7-17,17>>^ Que coisa é o homem para tanto te importares com ele, para se ocupar dele o leu coração,
+
+[[v20-7-18]]
+
+^<<v20-7-18,18>>^ para o visitares todas as manhãs, e o pores à prova todos os instantes?
+
+[[v20-7-19]]
+
+^<<v20-7-19,19>>^ Até quando não cessarás de olhar para mim, sem permitir que eu (respire ou) engula a minha saliva?
+
+[[v20-7-20]]
+
+^<<v20-7-20,20>>^ Se pequei, que te farei eu ó guarda dos homens (para te aplacar)? porque me puseste contrário a ti, e me tornei pesado a mim mesmo?
+
+[[v20-7-21]]
+
+^<<v20-7-21,21>>^ Porque não me tiras o meu pecado, e porque não apagas a minha iniquidade? Eis que vou agora dormir no pó, e, se tu me buscares pela manhã, já não existirei.
+
+'''
+
+xref:020-jo/020-jo-006.adoc#v20-6-0[&#60; Capítulo Anterior] | <<v20-7-0,Topo>> | xref:020-jo/020-jo-008.adoc#v20-8-0[Próximo Capítulo &#62;]

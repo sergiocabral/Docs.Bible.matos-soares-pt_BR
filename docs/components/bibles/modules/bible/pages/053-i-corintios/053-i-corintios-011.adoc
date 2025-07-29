@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v53-11-0]]
+=== I Coríntios, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 de 1 Coríntios trata de algumas questões relacionadas a ordem e decência no culto público, incluindo o uso de véus pelas mulheres e a prática da Ceia do Senhor. Os versículos relacionados com esses temas são:
+* 1 Timóteo 2:9-10: "Da mesma forma, quero que as mulheres se vistam modestamente, com decência e discrição, não se adornando com tranças, ouro, pérolas ou roupas caras, mas com boas obras, como convém a mulheres que professam adorar a Deus." Este versículo aborda a modéstia na vestimenta, algo que também é discutido no capítulo 11 de 1 Coríntios.
+* 1 Coríntios 10:16-17: "O cálice da bênção que abençoamos, não é a comunhão do sangue de Cristo? O pão que partimos, não é a comunhão do corpo de Cristo? Sendo um só pão, nós, que somos muitos, somos um só corpo, pois todos participamos do único pão." Este versículo faz uma referência direta à Ceia do Senhor, assunto tratado em 1 Coríntios 11.
+* Efésios 5:22-23: "Mulheres, sujeite-se cada uma a seu marido, como ao Senhor, pois o marido é o cabeça da mulher, como Cristo é o cabeça da igreja, que é o seu corpo, do qual ele é o Salvador." Esse versículo faz uma referência a hierarquia estabelecida por Deus nas relações familiares, tema que também é abordado em 1 Coríntios 11.
+* 1 Pedro 3:3-4: "O enfeite delas não deve estar nos enfeites exteriores, como cabelos trançados e joias de ouro ou roupas finas, mas no ser interior, no coração, que não perece, e no espírito, que é genuíno e sincero." Esse versículo trata novamente da modéstia, destacando que o verdadeiro valor da pessoa está no seu caráter e não nas suas vestimentas.
+* Mateus 26:26-28: "Enquanto comiam, Jesus tomou o pão, deu graças, partiu-o e o deu aos seus discípulos, dizendo: 'Tomem e comam; isto é o meu corpo'. Em seguida tomou o cálice, deu graças e o ofereceu aos discípulos, dizendo: 'Bebam dele todos vocês. Isto é o meu sangue da aliança, que é derramado em favor de muitos, para perdão de pecados'". Esse versículo é uma outra referência direta à Ceia do Senhor, mostrando a importância que Jesus deu a essa prática.
+****
+
+[[v53-11-1]]
+
+^<<v53-11-1,1>>^ Sede meus imitadores, como também o sou de Cristo.
+
+[[v53-11-2]]
+
+^<<v53-11-2,2>>^ Eu vos louvo porque em tudo vos lembrais de mim e guardais os meus preceitos, como vo-los ensinei.
+
+[[v53-11-3]]
+
+^<<v53-11-3,3>>^ Porém quero que saibais que Cristo é a cabeça de todo o homem, e o homem a cabeça da mulher, e Deus a cabeça de Cristo (como homem). (ver nota)
+
+[[v53-11-4]]
+
+^<<v53-11-4,4>>^ Todo o homem, que faz oração ou que profetiza com a cabeça coberta, desonra a sua cabeça.
+
+[[v53-11-5]]
+
+^<<v53-11-5,5>>^ Pelo contrário, toda a mulher, que faz oração ou que profetiza, não tendo coberta a cabeça, desonra a sua cabeça, porque é como se estivesse rapada.
+
+[[v53-11-6]]
+
+^<<v53-11-6,6>>^ Portanto, se a mulher se não cobre, corte o cabelo. E, se é vergonhoso para a mulher cortar ou rapar o cabelo, cubra a sua cabeça.
+
+[[v53-11-7]]
+
+^<<v53-11-7,7>>^ O homem, na verdade, não deve cobrir a sua cabeça, porque é a imagem e a glória de Deus, mas a mulher é a glória do homem.
+
+[[v53-11-8]]
+
+^<<v53-11-8,8>>^ De facto, o homem não foi tirado da mulher, mas a mulher do homem.
+
+[[v53-11-9]]
+
+^<<v53-11-9,9>>^ E o homem não foi criado por causa da mulher, mas sim a mulher por causa do homem.
+
+[[v53-11-10]]
+
+^<<v53-11-10,10>>^ Por isso a mulher deve trazer sobre a cabeça um sinal de submissão, por causa dos anjos.
+
+[[v53-11-11]]
+
+^<<v53-11-11,11>>^ Contudo nem o homem existe sem a mulher, nem a mulher sem o homem, no Senhor.
+
+[[v53-11-12]]
+
+^<<v53-11-12,12>>^ Porque, se a mulher foi tirada do homem, também o homem é concebido pela mulher, e todas as coisas vêm de Deus.
+
+[[v53-11-13]]
+
+^<<v53-11-13,13>>^ Julgai vós mesmos: é decente que uma mulher faça oração a Deus, com a cabeça descoberta?
+
+[[v53-11-14]]
+
+^<<v53-11-14,14>>^ E não vos ensina a própria natureza que é desonroso para o homem deixar crescer os cabelos?
+
+[[v53-11-15]]
+
+^<<v53-11-15,15>>^ Pelo contrário, é glória para a mulher deixá-los crescer, porque os cabelos foram-lhe dados como véu (para se cobrir).
+
+[[v53-11-16]]
+
+^<<v53-11-16,16>>^ Se alguém quiser contestar (o que digo), (fique sabendo que) nós não temos tal costume, nem as Igrejas de Deus. (ver nota)
+
+[[v53-11-17]]
+
+^<<v53-11-17,17>>^ Fazendo-vos estes avisos, não vos posso louvar pelas vossas reuniões, que redundam em vosso detrimento e não em vosso benefício.
+
+[[v53-11-18]]
+
+^<<v53-11-18,18>>^ Com efeito, em primeiro lugar, ouço dizer que, quando vos reunis em assembleia, há entre vós divisões, o que, em parte, creio.
+
+[[v53-11-19]]
+
+^<<v53-11-19,19>>^ Pois é preciso que até haja divisões, para que os que são de uma virtude provada sejam manifestados entre vós.
+
+[[v53-11-20]]
+
+^<<v53-11-20,20>>^ Quando, portanto, vos reunis, não é já a ceia do Senhor que celebrais,
+
+[[v53-11-21]]
+
+^<<v53-11-21,21>>^ porque cada um se antecipa a comer a sua ceia. E um tem fome, enquanto outro está excessivamente saciado. (ver nota)
+
+[[v53-11-22]]
+
+^<<v53-11-22,22>>^ Porventura não tendes casas, para lá comer e beber? Ou desprezais a assembleia de Deus e envergonhais aqueles que nada têm? Que vos direi? Louvar-vos-ei? Nisto não vos louvo.
+
+[[v53-11-23]]
+
+^<<v53-11-23,23>>^ Porque eu recebi do Senhor o que vos transmiti: que o Senhor Jesus, na noite em que foi entregue, tomou o pão
+
+[[v53-11-24]]
+
+^<<v53-11-24,24>>^ e, dando graças, o partiu e disse: Tomai e comei; isto é o meu corpo, que é (dado) para vós; fazei isto em memória de mim. (ver nota)
+
+[[v53-11-25]]
+
+^<<v53-11-25,25>>^ Igualmente também, depois de ter ceado, tomou o cálice, dizendo: Este cálice é a nova Aliança no meu sangue; fazei isto em memória de mim, todas as vezes que o beberdes.
+
+[[v53-11-26]]
+
+^<<v53-11-26,26>>^ Todas as vezes que comerdes este pão e beberdes este cálice, anunciareis a morte do Senhor, até que ele venha.
+
+[[v53-11-27]]
+
+^<<v53-11-27,27>>^ Portanto todo aquele que comer este pão ou beber o cálice do Senhor indignamente, será culpado quanto ao (delito cometido contra o) corpo e sangue do Senhor. (ver nota)
+
+[[v53-11-28]]
+
+^<<v53-11-28,28>>^ Examine-se, pois, a si mesmo cada um, e assim coma deste pão e beba deste cálice,
+
+[[v53-11-29]]
+
+^<<v53-11-29,29>>^ porque aquele que o come e bebe (indignamente) come e bebe a própria condenação, não distinguindo o corpo do Senhor (doutro qualquer alimento).
+
+[[v53-11-30]]
+
+^<<v53-11-30,30>>^ É por isso que há entre vós muitos enfermos e sem forças, e muitos que estão mortos.
+
+[[v53-11-31]]
+
+^<<v53-11-31,31>>^ Ora, se nos julgássemos a nós mesmos (fazendo penitência), não seriamos com certeza julgados.
+
+[[v53-11-32]]
+
+^<<v53-11-32,32>>^ Mas, quando somos julgados, somos castigados pelo Senhor, para não sermos condenados com o mundo.
+
+[[v53-11-33]]
+
+^<<v53-11-33,33>>^ Portanto, Irmãos meus, quando vos reunis para comer, esperai uns pelos outros.
+
+[[v53-11-34]]
+
+^<<v53-11-34,34>>^ Se algum tem fome, coma em casa, a fim de que vos não junteis para vossa condenação. Quanto às outras coisas, eu as ordenarei, quando for (ter convosco).
+
+'''
+
+xref:053-i-corintios/053-i-corintios-010.adoc#v53-10-0[&#60; Capítulo Anterior] | <<v53-11-0,Topo>> | xref:053-i-corintios/053-i-corintios-012.adoc#v53-12-0[Próximo Capítulo &#62;]

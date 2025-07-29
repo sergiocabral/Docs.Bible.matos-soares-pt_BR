@@ -1,0 +1,227 @@
+include::./index.adoc[]
+
+[[v48-10-0]]
+=== São Marcos, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Marcos 10 trata de vários temas, incluindo o divórcio, a importância das crianças e a salvação. No início do capítulo, Jesus discute com os fariseus sobre o divórcio, ensinando que o casamento é uma união sagrada que deve ser mantida. Em seguida, Jesus abençoa as crianças e afirma que o Reino de Deus pertence a aqueles que são como elas. Por fim, um jovem rico se aproxima de Jesus e pergunta o que deve fazer para herdar a vida eterna, e Jesus lhe diz para vender tudo o que tem e segui-lo.
+* Provérbios 22:6: "Ensina a criança no caminho em que deve andar, e mesmo quando for idoso não se desviará dele." Este versículo destaca a importância de ensinar e guiar as crianças, uma mensagem enfatizada por Jesus em São Marcos 10.
+* Mateus 19:21: "Jesus respondeu: Se queres ser perfeito, vai, vende tudo o que tens e dá-o aos pobres e terás um tesouro no céu. Depois, vem e segue-me." Esse versículo é semelhante à resposta de Jesus ao jovem rico em São Marcos 10, enfatizando a importância de abandonar tudo em favor de seguir a Cristo.
+* Mateus 19:6: "Assim, eles já não são dois, mas sim uma só carne. Portanto, o que Deus uniu, ninguém o separe." Esse versículo se relaciona com a discussão de Jesus sobre o divórcio em São Marcos 10, reforçando a ideia de que o casamento é uma união sagrada que deve ser mantida.
+* Lucas 18:17: "Em verdade vos digo: Quem não receber o Reino de Deus como uma criança, de maneira alguma entrará nele." Essa afirmação de Jesus reforça a importância das crianças, que ele abençoou em São Marcos 10 e afirmou que representam aqueles que são dignos do Reino de Deus.
+* Marcos 10:27: "Respondeu Jesus: 'Para os homens é impossível, mas não para Deus. Para Deus tudo é possível'". Este versículo ocorre imediatamente após a resposta de Jesus ao jovem rico, que ficou triste por não conseguir abandonar suas riquezas. Aqui, Jesus enfatiza que a salvação é possível somente através de Deus e sua graça.
+****
+
+[[v48-10-1]]
+
+^<<v48-10-1,1>>^ Saindo dali, foi Jesus para o território da Judeia, e alem do Jordão. Novamente as multidões se juntaram em volta dele, e de novo as ensinava, segundo o seu costume,
+
+[[v48-10-2]]
+
+^<<v48-10-2,2>>^ Aproximando-se os fariseus, perguntavam-lhe para o tentarem: "É lícito ao marido repudiar sua mulher?"
+
+[[v48-10-3]]
+
+^<<v48-10-3,3>>^ Ele respondeu-lhes: "Que vos mandou Moisés?"
+
+[[v48-10-4]]
+
+^<<v48-10-4,4>>^ Eles responderam: "Moisés permitiu escrever libelo de divórcio, e separar-se dela (Dt. 24, 1)."
+
+[[v48-10-5]]
+
+^<<v48-10-5,5>>^ Jesus disse-lhes: "Por causa da dureza de vosso coração é que ele vos deu essa lei.
+
+[[v48-10-6]]
+
+^<<v48-10-6,6>>^ Porém, no princípio da criação. Deus fê-los homem e mulher.
+
+[[v48-10-7]]
+
+^<<v48-10-7,7>>^ Por isso deixará o homem seu pai e sua mãe, e se juntará a sua mulher;
+
+[[v48-10-8]]
+
+^<<v48-10-8,8>>^ e os dois serão uma só carne (Gn. 2, 24). Assim não mais são dois, mas uma só carne.
+
+[[v48-10-9]]
+
+^<<v48-10-9,9>>^ Portanto não separe o homem o que Deus juntou."
+
+[[v48-10-10]]
+
+^<<v48-10-10,10>>^ Em casa os seus discípulos interrogaram-no novamente sobre o mesmo assunto.
+
+[[v48-10-11]]
+
+^<<v48-10-11,11>>^ Ele disse-lhes: "Qualquer que repudiar sua mulher e se casar com outra, comete adultério contra a primeira;
+
+[[v48-10-12]]
+
+^<<v48-10-12,12>>^ e se a mulher repudiar seu marido e se casar com outro, comete adultério."
+
+[[v48-10-13]]
+
+^<<v48-10-13,13>>^ Apresentavam-lhe uns meninos para que os tocasse, mas os discípulos ameaçavam os que lhos apresentavam.
+
+[[v48-10-14]]
+
+^<<v48-10-14,14>>^ Vendo isto Jesus, ficou muito desgostoso, e disse-lhes: "Deixai vir a mim os meninos, não os embaraceis, porque destes tais é o reino de Deus.
+
+[[v48-10-15]]
+
+^<<v48-10-15,15>>^ Em verdade vos digo: "Todo o que não receber o reino de Deus como um menino, não entrará nele."
+
+[[v48-10-16]]
+
+^<<v48-10-16,16>>^ Depois, abraçou-os, e, impondo-lhes as mãos, os abençoava.
+
+[[v48-10-17]]
+
+^<<v48-10-17,17>>^ Tendo saído para se pôr a caminho, veio um homem correndo, e, ajoelhando-se diante dele, perguntou-lhe : "Bom Mestre, que devo fazer para alcançar a vida eterna?" (ver nota)
+
+[[v48-10-18]]
+
+^<<v48-10-18,18>>^ Jesus disse-lhe: "Porque, me chamas bom? Ninguém é bom senão Deus.
+
+[[v48-10-19]]
+
+^<<v48-10-19,19>>^ Tu conheces os mandamentos: Não mates, não cometas adultério, não furtes, não digas falso testemunho, não cometas fraudes, honra teu pai e tua mãe (Ex. 20, 13-16); Dt. 5, 17-20)."
+
+[[v48-10-20]]
+
+^<<v48-10-20,20>>^ Eie respondeu: "Mestre, todas estas coisas tenho observado desde a minha mocidade."
+
+[[v48-10-21]]
+
+^<<v48-10-21,21>>^ Jesus, pondo nele os olhos, mostrou-lhe afeto, e disse-lhe: "Uma coisa te falta; vai, vende quanto tens, dá-o aos pobres, e terás um tesouro no céu; depois vem e segue-me."
+
+[[v48-10-22]]
+
+^<<v48-10-22,22>>^ Mas ele, entristecido por esta palavra, retirou-se desgostoso, porque tinha muitos bens.
+
+[[v48-10-23]]
+
+^<<v48-10-23,23>>^ Jesus, olhando em roda, disse a seus discípulos: "Quanto é difícil que entrem no reino de Deus os que têm riquezas!"
+
+[[v48-10-24]]
+
+^<<v48-10-24,24>>^ Os discípulos assombravam-se das suas palavras. Mas Jesus de novo lhes disse: "Meus filhos, quanto é difícil entrarem no reino de Deus os que confiam nas riquezas!
+
+[[v48-10-25]]
+
+^<<v48-10-25,25>>^ Mais fácil é passar um camelo pelo fundo de uma agulha, do que um rico entrar no reino de Deus."
+
+[[v48-10-26]]
+
+^<<v48-10-26,26>>^ Eles, de cada vez mais admirados, diziam uns para os outros: "Quem pode logo salvar-se?"
+
+[[v48-10-27]]
+
+^<<v48-10-27,27>>^ Jesus, olhando para eles, disse: "Para os homens isto é impossível, mas não para Deus, porque a Deus tudo é possível."
+
+[[v48-10-28]]
+
+^<<v48-10-28,28>>^ Pedro começou a dizer-lhe: "Eis que deixámos tudo, e te seguimos."
+
+[[v48-10-29]]
+
+^<<v48-10-29,29>>^ Jesus respondeu : "Na verdade vos digo : Ninguém há que tenha deixado a casa, os irmãos, as irmãs, o pai, a mãe, os filhos, ou as terras, por causa de mim e do Evangelho,
+
+[[v48-10-30]]
+
+^<<v48-10-30,30>>^ que não receba o cêntuplo, mesmo nesta vida, em casas, irmãos, irmãs, mães, filhos e terras, mesmo no meio das perseguições, e no século futuro a vida eterna.
+
+[[v48-10-31]]
+
+^<<v48-10-31,31>>^ Porém muitos dos primeiros serão os últimos, e os últimos serão os primeiros." (ver nota)
+
+[[v48-10-32]]
+
+^<<v48-10-32,32>>^ Iam em viagem para subir a Jerusalém; Jesus ia adiante deles. E iam perturbados, e seguiam-no com medo. Tomando novamente de parte os doze, começou a dizer-lhes o que tinha de lhe acontecer:
+
+[[v48-10-33]]
+
+^<<v48-10-33,33>>^ "Eis que subimos a Jerusalém, e o Filho do homem será entregue aos príncipes dos sacerdotes, e aos escribas; eles o condenarão à morte, e o entregarão aos gentios;
+
+[[v48-10-34]]
+
+^<<v48-10-34,34>>^ o escarnecerão, lhe cuspirão, o açoutarão, e lhe tirarão a vida. Mas, ao terceiro dia, ressuscitará.
+
+[[v48-10-35]]
+
+^<<v48-10-35,35>>^ Então aproximaram-se dele Tiago e João, filhos de Zebedeu, dizendo : "Mestre, queremos que nos concedas o que te vamos pedir."
+
+[[v48-10-36]]
+
+^<<v48-10-36,36>>^ Ele disse-lhes: "Que quereis vós que eu vos conceda?"
+
+[[v48-10-37]]
+
+^<<v48-10-37,37>>^ Eles responderam: "Concede-nos que, na tua glória, um de nós se sente à tua direita e outro à tua esquerda."
+
+[[v48-10-38]]
+
+^<<v48-10-38,38>>^ Mas Jesus disse-lhes: "Não sabeis o que pedis. Podeis vós beber o cálice que eu vou beber, ou ser batizados no batismo em que eu vou ser batizado?"
+
+[[v48-10-39]]
+
+^<<v48-10-39,39>>^ Eles disseram-lhe : "Podemos." Jesus disse-lhes: "Efetivamente haveis de beber o cálice que eu vou beber, e haveis de ser batizados no batismo em que eu vou ser batizado; (ver nota)
+
+[[v48-10-40]]
+
+^<<v48-10-40,40>>^ mas, quanto a estardes sentados à minha direita ou à minha esquerda, não pertence a mim o conceder-vo-lo, mas é para aqueles, para quem está preparado."
+
+[[v48-10-41]]
+
+^<<v48-10-41,41>>^ Ouvindo isto os dez, começaram a indignar-se contra Tiago e João.
+
+[[v48-10-42]]
+
+^<<v48-10-42,42>>^ Mas Jesus, chamando-os, disse-Ihes: "Vós sabeis que aqueles que são reconhecidos como chefes das nações as dominam, e que os seus príncipes têm poder sobre elas.
+
+[[v48-10-43]]
+
+^<<v48-10-43,43>>^ Porém entre vós não deve ser assim, mas o que quiser ser o maior, será o vosso servo,
+
+[[v48-10-44]]
+
+^<<v48-10-44,44>>^ e o que entre vós quiser ser o primeiro, será servo de todos.
+
+[[v48-10-45]]
+
+^<<v48-10-45,45>>^ Porque também o Filho do homem não veio para ser servido, mas para servir, e para dar a sua vida para redenção de muitos."
+
+[[v48-10-46]]
+
+^<<v48-10-46,46>>^ Chegaram a Jericó. Ao sair de Jericó, ele, os seus discípulos e grande multidão, Bartimeu, mendigo cego, filho de Timeu, estava sentado junto ao caminho.
+
+[[v48-10-47]]
+
+^<<v48-10-47,47>>^ Quando ouviu dizer que era Jesus Nazareno, começou a gritar, e a dizer: "Jesus, Filho de David, tem piedade de mim!"
+
+[[v48-10-48]]
+
+^<<v48-10-48,48>>^ Muitos ameaçavam-no para que se calasse. Mas ele cada vez gritava mais forte: "Filho de David, tem piedade de mim!"
+
+[[v48-10-49]]
+
+^<<v48-10-49,49>>^ Jesus, parando, disse: "Chamai-o." Chamaram o cego, dizendo-lhe: "Tem confiança, levanta-te, ele chama-te."
+
+[[v48-10-50]]
+
+^<<v48-10-50,50>>^ Ele deitando fora de si a capa, levantou-se de um salto, e foi ter com Jesus.
+
+[[v48-10-51]]
+
+^<<v48-10-51,51>>^ Tomando Jesus a palavra, disse-lhe: "Que queres que eu te faça?" O cego respondeu: 'Rabbanni faz que eu recupere a vista."
+
+[[v48-10-52]]
+
+^<<v48-10-52,52>>^ Então Jesus disse-lhe: "Vai, a tua fé te salvou." No mesmo instante recuperou a vista, e o seguia pelo caminho.
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-009.adoc#v48-9-0[&#60; Capítulo Anterior] | <<v48-10-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-011.adoc#v48-11-0[Próximo Capítulo &#62;]

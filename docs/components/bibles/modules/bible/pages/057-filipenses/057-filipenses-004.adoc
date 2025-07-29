@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v57-4-0]]
+=== Filipenses, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Filipenses é um apelo à alegria e à gratidão, mesmo em meio a dificuldades e incertezas. O apóstolo Paulo encoraja os filipenses a não se preocuparem com nada, mas em tudo apresentar suas petições a Deus com ações de graças, e promete que a paz de Deus, que excede todo entendimento, guardará seus corações e mentes em Cristo Jesus. Paulo também agradece aos filipenses por sua generosidade e comunhão com ele, e exorta-os a perseverar em seguir o exemplo de Cristo. Seguem cinco versículos que se relacionam com os temas abordados em Filipenses 4:
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Esse versículo destaca a importância da confiança em Deus e da dependência dele em todos os aspectos da vida, um tema que também é central em Filipenses 4.
+* 1 Tessalonicenses 5:16-18: "Estejam sempre alegres, orem continuamente, deem graças em todas as circunstâncias, pois esta é a vontade de Deus para vocês em Cristo Jesus." Esse versículo ressalta a importância da alegria, da oração e da gratidão, três atitudes que Paulo enfatiza em Filipenses 4.
+* Tiago 1:2-4: "Meus irmãos, considerem motivo de grande alegria o fato de passarem por diversas provações, pois vocês sabem que a prova da sua fé produz perseverança. E a perseverança deve ter ação completa, a fim de que vocês sejam maduros e íntegros, sem lhes faltar coisa alguma." Esse versículo mostra como as provações podem levar a um crescimento espiritual e à maturidade, um tema que também é abordado em Filipenses 4.
+* Colossenses 3:15: "Que a paz de Cristo seja o juiz em seus corações, visto que vocês foram chamados para viver em paz, como membros de um só corpo. E sejam agradecidos." Esse versículo destaca a importância da paz e da gratidão, dois temas que também são enfatizados em Filipenses 4.
+* Hebreus 13:5-6: "Mantenham-se livres do amor ao dinheiro e contentem-se com o que vocês têm, porque Deus mesmo disse: 'Nunca o deixarei, nunca o abandonarei'. Podemos, pois, dizer com confiança: 'O Senhor é o meu ajudador, não temerei. O que me podem fazer os homens?'" Esse versículo destaca a importância da confiança em Deus e da satisfação com o que temos, temas que também são enfatizados em Filipenses 4.
+****
+
+[[v57-4-1]]
+
+^<<v57-4-1,1>>^ Portanto, meus muito amados e desejados irmãos, minha alegria e minha coroa, permanecei assim firmes no Senhor, caríssimos.
+
+[[v57-4-2]]
+
+^<<v57-4-2,2>>^ Rogo a Evódia, e suplico a Síntique, que tenham os mesmos sentimentos no Senhor.
+
+[[v57-4-3]]
+
+^<<v57-4-3,3>>^ Também te rogo a ti, meu fiel companheiro, que as ajudes a elas que combateram comigo peio Evangelho com Clemente e com os outros meus colaboradores, cujos nomes estão no livro da vida. (ver nota)
+
+[[v57-4-4]]
+
+^<<v57-4-4,4>>^ Alegrai-vos incessantemente no Senhor; outra vez digo, alegrai-vos.
+
+[[v57-4-5]]
+
+^<<v57-4-5,5>>^ A vossa afabilidade seja conhecida de todos os homens; o Senhor está perto (e contempla-vos).
+
+[[v57-4-6]]
+
+^<<v57-4-6,6>>^ Não vos inquieteis com nada, mas em todas as circunstâncias manifestai a Deus as vossas necessidades por meio de orações e súplicas unidas à ação de graças.
+
+[[v57-4-7]]
+
+^<<v57-4-7,7>>^ E a paz de Deus, que está acima de todo o entendimento, guarde os vossos corações e os vossos espíritos em Jesus Cristo.
+
+[[v57-4-8]]
+
+^<<v57-4-8,8>>^ Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é digno, tudo o que é justo, tudo o que é santo, tudo o que é amável, tudo o que é de bom nome, qualquer virtude, qualquer coisa digna de louvor, seja isto o objeto dos vossos pensamentos.
+
+[[v57-4-9]]
+
+^<<v57-4-9,9>>^ O que aprendestes, recebestes, ouvistes e vistes em mim, isso praticai; e o Deus da paz será convosco.
+
+[[v57-4-10]]
+
+^<<v57-4-10,10>>^ Muito me alegrei no Senhor, porque enfim vi reflorescer os vossos sentimentos a meu respeito; é certo que os tínheis, porém só vos faltava a oportunidade (de os manifestar).
+
+[[v57-4-11]]
+
+^<<v57-4-11,11>>^ Não digo isto, levado pela minha necessidade, porque aprendi a contentar-me com o que tenho.
+
+[[v57-4-12]]
+
+^<<v57-4-12,12>>^ Sei viver nas privações, sei também viver na abundância; a tudo fui habituado : a ter fartura e a passar fome, a estar na abundância e a padecer necessidade.
+
+[[v57-4-13]]
+
+^<<v57-4-13,13>>^ Tudo posso naquele que me conforta.
+
+[[v57-4-14]]
+
+^<<v57-4-14,14>>^ Contudo, fizestes bem em me assistir na minha tribulação (socorrendo-me).
+
+[[v57-4-15]]
+
+^<<v57-4-15,15>>^ Também sabeis, ó Filipenses, que, no princípio da evangelização, quando partida Macedônia, nenhuma igreja me ajudou, abrindo-me uma conta de deve e haver, senão vós somente.
+
+[[v57-4-16]]
+
+^<<v57-4-16,16>>^ Porque até a Tessalonica me mandastes, duas vezes, o que me era necessário.
+
+[[v57-4-17]]
+
+^<<v57-4-17,17>>^ Não é que eu busque dádivas, mas busco o fruto que vá aumentando à vossa conta (diante de Deus).
+
+[[v57-4-18]]
+
+^<<v57-4-18,18>>^ Agora tenho tudo e estou na abundância; estou cheio, depois que recebi de Epafrodito o que me mandastes, como perfume de suavidade, como sacrifício aceite e agradável a Deus.
+
+[[v57-4-19]]
+
+^<<v57-4-19,19>>^ O meu Deus, pois, cumpra todos os vossos desejos, conforme as suas riquezas, com glória, em Cristo Jesus.
+
+[[v57-4-20]]
+
+^<<v57-4-20,20>>^ Seja dada glória a Deus e Pai nosso, por todos os séculos dos séculos. Assim seja.
+
+[[v57-4-21]]
+
+^<<v57-4-21,21>>^ Saudai todos os santos em Cristo Jesus.
+
+[[v57-4-22]]
+
+^<<v57-4-22,22>>^ Os irmãos que estão comigo vos saúdam. Todos os santos vos saúdam, principalmente aqueles que são da casa de César.
+
+[[v57-4-23]]
+
+^<<v57-4-23,23>>^ A graça de Nosso Senhor Jesus Cristo seja com o vosso espírito.
+
+'''
+
+xref:057-filipenses/057-filipenses-003.adoc#v57-3-0[&#60; Capítulo Anterior] | <<v57-4-0,Topo>> | xref:058-colossenses/058-colossenses-001.adoc#v58-1-0[Próximo Capítulo &#62;]

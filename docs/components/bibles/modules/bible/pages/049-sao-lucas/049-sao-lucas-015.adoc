@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v49-15-0]]
+=== São Lucas, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Lucas 15 é um capítulo que trata da temática da graça de Deus em relação aos pecadores arrependidos. Neste capítulo, Jesus conta três parábolas, a parábola da ovelha perdida, a parábola da moeda perdida e a parábola do filho pródigo, para ilustrar a alegria que há no céu quando um pecador se arrepende. Abaixo seguem cinco versículos relacionados com esses temas:
+* Mateus 18:12: "O que vos parece? Se algum homem tiver cem ovelhas, e uma delas se extraviar, não deixará ele nos montes as noventa e nove, indo procurar a que se extraviou?" - Este versículo fala sobre a parábola da ovelha perdida, que é contada por Jesus em Lucas 15:3-7.
+* Lucas 19:10: "Porque o Filho do homem veio buscar e salvar o que se havia perdido." - Este versículo destaca a missão de Jesus em buscar e salvar os perdidos, que é ilustrada nas três parábolas de Lucas 15.
+* 1 Timóteo 1:15: "Esta é uma palavra fiel e digna de toda a aceitação: que Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o principal." - Este versículo destaca a graça de Deus em salvar pecadores, que é o tema central das parábolas de Lucas 15.
+* Romanos 5:8: "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores." - Este versículo destaca a graça de Deus em amar os pecadores a ponto de enviar Jesus para morrer por eles, o que é ilustrado na parábola do filho pródigo em Lucas 15:11-32.
+* Efésios 2:8-9: "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie." - Este versículo destaca que a salvação é um dom de Deus, concedido pela graça através da fé, o que é ilustrado nas parábolas de Lucas 15 como um presente de Deus para os pecadores arrependidos.
+****
+
+[[v49-15-1]]
+
+^<<v49-15-1,1>>^ Aproximavam-se dele os publicanos e os pecadores para o ouvir.
+
+[[v49-15-2]]
+
+^<<v49-15-2,2>>^ Os fariseus e os escribas murmuravam, dizendo: "Este recebe os pecadores, e come com eles."
+
+[[v49-15-3]]
+
+^<<v49-15-3,3>>^ Então propôs-lhes esta parábola:
+
+[[v49-15-4]]
+
+^<<v49-15-4,4>>^ "Qual de vós, tendo cem ovelhas, se perde uma delas, não deixa as noventa e nove no deserto, para ir procurar a que se tinha perdido, até que a encontre?
+
+[[v49-15-5]]
+
+^<<v49-15-5,5>>^ E, tendo-a encontrado, a põe sobre os ombros todo contente,
+
+[[v49-15-6]]
+
+^<<v49-15-6,6>>^ e, indo para casa, chama os seus amigos e vizinhos, dizendo-Ihes: Congratulai-vos comigo, porque encontrei a minha ovelha, que se tinha perdido.
+
+[[v49-15-7]]
+
+^<<v49-15-7,7>>^ Digo-vos que, do mesmo modo, haverá maior júbilo no céu por um pecador que fizer penitência, que por noventa e nove justos que não têm necessidade de penitência.
+
+[[v49-15-8]]
+
+^<<v49-15-8,8>>^ Ou qual é a mulher que, tendo dez dracmas, e perdendo uma, não acende a candeia, não varre a casa, e não procura diligentemente até que a encontre?
+
+[[v49-15-9]]
+
+^<<v49-15-9,9>>^ E que, depois de a achar, não convoca as amigas e vizinhas, dizendo: "Congratulai-vos comigo, porque encontrei a dracma que tinha perdido.
+
+[[v49-15-10]]
+
+^<<v49-15-10,10>>^ Assim vos digo eu que haverá júbilo entre os anjos de Deus por um só pecador que faça penitência."
+
+[[v49-15-11]]
+
+^<<v49-15-11,11>>^ Disse mais: "Um homem tinha dois filhos, (ver nota)
+
+[[v49-15-12]]
+
+^<<v49-15-12,12>>^ o mais novo disse a seu pai: Pai, dá-me a parte dos bens que me toca. O pai repartiu entre eles os bens.
+
+[[v49-15-13]]
+
+^<<v49-15-13,13>>^ Passados poucos dias, juntando tudo o que era seu, o filho mais novo partiu para uma terra distante, e lá dissipou os seus bens, vivendo dissolutamente.
+
+[[v49-15-14]]
+
+^<<v49-15-14,14>>^ Depois de ter consumido tudo, houve naquele país uma grande fome, e ele começou a sentir necessidade. (ver nota)
+
+[[v49-15-15]]
+
+^<<v49-15-15,15>>^ Foi pôr-se ao serviço de um habitante daquela terra, que o mandou para os seus campos guardar porcos. (ver nota)
+
+[[v49-15-16]]
+
+^<<v49-15-16,16>>^ Desejava encher o seu ventre das landes que os porcos comiam, mas ninguém lhas dava.
+
+[[v49-15-17]]
+
+^<<v49-15-17,17>>^ Tendo entrado em si, disse: Quantos jornaleiros há em casa de meu pai, que têm pão em abundância, e eu aqui morro de fome!
+
+[[v49-15-18]]
+
+^<<v49-15-18,18>>^ Levantar-me-ei, irei ter com meu pai, e lhe direi: Pai, pequei contra o céu e contra ti;
+
+[[v49-15-19]]
+
+^<<v49-15-19,19>>^ já não sou digno de ser chamado teu filho; trata-me como um dos teus jornaleiros.
+
+[[v49-15-20]]
+
+^<<v49-15-20,20>>^ Levantando-se, foi para seu pai. Quando ele estava ainda longe, seu pai viu-o, ficou movido de compaixão, e, correndo, lançou-lhe os braços ao pescoço, e beijou-o. (ver nota)
+
+[[v49-15-21]]
+
+^<<v49-15-21,21>>^ O filho disse-lhe: Pai, pequei contra o céu e contra ti; já não sou digno de ser chamado teu filho.
+
+[[v49-15-22]]
+
+^<<v49-15-22,22>>^ Porém o pai disse aos seus servos: Trazei depressa o vestido mais precioso, vesti-lho, metei-lhe um anel no dedo e os sapatos nos pés.
+
+[[v49-15-23]]
+
+^<<v49-15-23,23>>^ Trazei também um vitelo gordo, matai-o, Comamos e façamos festa,
+
+[[v49-15-24]]
+
+^<<v49-15-24,24>>^ porque este meu filho estava morto, e reviveu; tinha-se perdido, e foi encontrado. E começaram a fazer festa.
+
+[[v49-15-25]]
+
+^<<v49-15-25,25>>^ Ora o filho mais velho estava no campo. Quando voltou, ao aproximar-se de casa, ouviu a música e os coros.
+
+[[v49-15-26]]
+
+^<<v49-15-26,26>>^ Chamou um dos servos, e perguntou-lhe que era aquilo.
+
+[[v49-15-27]]
+
+^<<v49-15-27,27>>^ Este disse-lhe: Teu irmão voltou, e teu pai mandou matar um novilho gordo, porque o recuperou com saúde.
+
+[[v49-15-28]]
+
+^<<v49-15-28,28>>^ Ele indignou-se, e não queria entrar. Mas o pai, saindo, começou a pedir-lhe.
+
+[[v49-15-29]]
+
+^<<v49-15-29,29>>^ Ele, porém, respondeu a seu pai: Há tantos anos que te sirvo, nunca transgredi nenhum mandado teu, e nunca me deste um cabrito para eu me banquetear com os meus amigos;
+
+[[v49-15-30]]
+
+^<<v49-15-30,30>>^ mas, logo que veio este teu filho, que devorou os seus bens com meretrizes, lhe mandaste matar um novilho gordo.
+
+[[v49-15-31]]
+
+^<<v49-15-31,31>>^ Seu pai disse-lhe: Filho, tu estás sempre comigo, tudo o que é meu é teu.
+
+[[v49-15-32]]
+
+^<<v49-15-32,32>>^ Era, porém, justo que houvesse banquete e festa, porque este teu irmão estava morto e reviveu; tinha-se perdido e foi encontrado".
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-014.adoc#v49-14-0[&#60; Capítulo Anterior] | <<v49-15-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-016.adoc#v49-16-0[Próximo Capítulo &#62;]

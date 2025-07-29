@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v27-13-0]]
+=== Sabedoria, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 13 do livro de Sabedoria aborda a tolice da idolatria e como ela se opõe à adoração ao verdadeiro Deus. O autor ressalta que a natureza é uma evidência clara da existência de um Criador e que aqueles que se voltam para ídolos estão cometendo um grave erro. Seguem abaixo cinco versículos relacionados com os temas abordados em Sabedoria 13:
+* Êxodo 20:3 - "Não terás outros deuses diante de mim." Este é o primeiro dos Dez Mandamentos dados por Deus a Moisés no Monte Sinai, que proíbe a idolatria e enfatiza a exclusividade da adoração ao Senhor.
+* Isaías 44:9 - "Aqueles que modelam ídolos são todos eles nada, e suas coisas mais queridas não aproveitam nada. Eles próprios testemunham que não veem nem entendem, para que sejam envergonhados." Este versículo condena a prática da criação de ídolos e destaca sua inutilidade.
+* Jeremias 10:14 - "Todo homem é um tolo, sem conhecimento; todo ourives é envergonhado por sua imagem de escultura, pois suas imagens de fundição são falsidade, e nelas não há espírito." Este versículo enfatiza a tolice daqueles que confiam em ídolos e os consideram como deuses.
+* Atos dos Apóstolos 17:24-25 - "O Deus que fez o mundo e tudo nele, sendo Senhor do céu e da terra, não habita em templos feitos por mãos humanas, nem é servido por mãos humanas, como se precisasse de alguma coisa, pois ele mesmo dá a todos a vida, o fôlego e todas as coisas." Este versículo destaca a superioridade do Deus verdadeiro em relação aos deuses falsos criados pelos homens.
+* 1 Coríntios 8:4 - "Assim, quanto a comer alimentos sacrificados a ídolos, sabemos que 'um ídolo não é nada no mundo' e que 'não há nenhum outro Deus, senão um só'." Este versículo ressalta a importância de reconhecer a futilidade dos ídolos e adorar somente ao verdadeiro Deus.
+****
+
+[[v27-13-1]]
+
+^<<v27-13-1,1>>^ São insensatos por natureza todos os homens que ignoraram Deus, e que pelos bens visíveis não chegaram a conhecer Aquele que é, nem, considerando as obras, reconheceram o Artista.
+
+[[v27-13-2]]
+
+^<<v27-13-2,2>>^ Pelo contrário, tomaram o fogo, ou o vento, ou o ar veloz, ou o círculo dos astros, ou a água impetuosa, ou os luzeiros dos céus, por deuses governadores do mundo.
+
+[[v27-13-3]]
+
+^<<v27-13-3,3>>^ Se eles, encantados com a beleza de tais coisas, as julgaram deuses, reconheçam quanto é melhor do que elas o seu Senhor, porque foi o Autor da beleza que criou todas estas coisas.
+
+[[v27-13-4]]
+
+^<<v27-13-4,4>>^ Ou, se eles se maravilharam do seu poder e força, entendam por elas que o que as fez é mais forte do que elas.
+
+[[v27-13-5]]
+
+^<<v27-13-5,5>>^ Com efeito, pela grandeza e beleza das criaturas se pode, por analogia, chegar ao conhecimento do seu Criador.
+
+[[v27-13-6]]
+
+^<<v27-13-6,6>>^ Todavia estes homens são menos repreensíveis, porque, porventura, caem no erro buscando a Deus e desejando encontrá-lo.
+
+[[v27-13-7]]
+
+^<<v27-13-7,7>>^ Ocupados no exame das suas obras, são seduzidos pelo seu aspecto, pois são belas as coisas visíveis.
+
+[[v27-13-8]]
+
+^<<v27-13-8,8>>^ Mas, por outra parte, nem estes merecem desculpa,
+
+[[v27-13-9]]
+
+^<<v27-13-9,9>>^ porque, se chegaram a ter luz bastante para poderem conhecer o universo, como não descobriram mais facilmente o Senhor dele? (ver nota)
+
+[[v27-13-10]]
+
+^<<v27-13-10,10>>^ São desgraçados e fundam em coisa morta as suas esperanças, aqueles que chamaram deuses às obras das mãos dos homens, ao ouro e à prata, trabalhados com arte, às figuras de animais, ou a uma pedra inútil, obra de mão antiga.
+
+[[v27-13-11]]
+
+^<<v27-13-11,11>>^ Um artista hábil corta do bosque um tronco fácil de trabalhar, dextramente lhe tira toda a casca, e, valendo-se da sua arte, faz uma peça útil para uso da vida.
+
+[[v27-13-12]]
+
+^<<v27-13-12,12>>^ O que sobrou da obra, emprega-o para cozinhar a comida, com que fica saciado.
+
+[[v27-13-13]]
+
+^<<v27-13-13,13>>^ Quanto ao resto de tudo isto, que para nenhum uso é útil. por ser um madeiro torto e cheio de nós, vai-o esculpindo nas horas livres, trabalhando-o com a arte que lhe é possível.
+
+[[v27-13-14]]
+
+^<<v27-13-14,14>>^ e dá-lhe feições dum homem, ou aspecto de algum vil animal. Põe-lhe vermelhão, pinta-o de uma cor encarnada, encobrindo todas as manchas que nele há.
+
+[[v27-13-15]]
+
+^<<v27-13-15,15>>^ Depois prepara-lhe um nicho conveniente, coloca-o numa parede, segurando-o com um prego.
+
+[[v27-13-16]]
+
+^<<v27-13-16,16>>^ Usa com ele desta precaução, para que não caia, pois reconhece que (o deus) se não pode ajudar a si mesmo: Com efeito, é uma estátua, que precisa de apoio. (ver nota)
+
+[[v27-13-17]]
+
+^<<v27-13-17,17>>^ Entretanto, quando o implora por causa dos seus bens, dos seus casamentos, ou dos seus filhos, não se envergonha de falar com o (pedaço de madeira) que não tem vida
+
+[[v27-13-18]]
+
+^<<v27-13-18,18>>^ e implora saúde a um inválido, pede vida a um morto invoca em seu socorro um débil.
+
+[[v27-13-19]]
+
+^<<v27-13-19,19>>^ para o bom sucesso duma jornada, recorre aquele que não pode andar; (enfim) para seus negócios, suas empresas, e para o bom êxito de todas as suas obras, implora a quem nada pode fazer com as mãos.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-012.adoc#v27-12-0[&#60; Capítulo Anterior] | <<v27-13-0,Topo>> | xref:027-sabedoria/027-sabedoria-014.adoc#v27-14-0[Próximo Capítulo &#62;]

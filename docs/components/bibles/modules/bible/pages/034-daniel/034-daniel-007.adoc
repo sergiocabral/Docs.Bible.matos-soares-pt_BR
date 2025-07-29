@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v34-7-0]]
+=== Daniel, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 7 do livro de Daniel é um dos mais enigmáticos da Bíblia e descreve uma visão que o profeta teve sobre quatro animais que representam quatro reinos diferentes que se sucedem na história do mundo. Em seguida, Daniel vê um trono e o Ancião de Dias, que julga os reinos da terra e dá o domínio eterno ao Filho do Homem. Abaixo estão cinco versículos relacionados aos temas abordados nesse capítulo:
+* Daniel 2:44: "E, nos dias desses reis, o Deus dos céus estabelecerá um reino que jamais será destruído, nem será deixado a outro povo; esmiuçará e consumirá todos esses reinos, mas ele mesmo subsistirá para sempre." Este versículo fala da profecia do reino eterno de Deus, que é estabelecido no final dos tempos e substitui todos os reinos terrenos. É uma mensagem semelhante àquela que Daniel recebe na visão do capítulo 7.
+* Mateus 24:36: "Quanto ao dia e à hora ninguém sabe, nem os anjos dos céus, nem o Filho, mas unicamente o Pai." Este versículo fala da incerteza em relação ao tempo da volta de Cristo e do fim dos tempos. É uma mensagem que se relaciona com a ideia de que o julgamento final e a inauguração do reino eterno de Deus são eventos que acontecerão em um momento inesperado.
+* Apocalipse 20:12: "Vi os mortos, grandes e pequenos, em pé diante do trono, e os livros foram abertos. Outro livro foi aberto, o livro da vida. Os mortos foram julgados de acordo com o que tinham feito, conforme o que estava registrado nos livros." Este versículo fala do julgamento final, que é uma das imagens presentes na visão do capítulo 7 de Daniel. É um momento em que todas as pessoas são julgadas por suas ações e o destino eterno é decidido.
+* 1 Coríntios 15:52: "Num momento, num abrir e fechar de olhos, ao som da última trombeta. Pois a trombeta soará, os mortos ressuscitarão incorruptíveis, e nós seremos transformados." Este versículo fala da transformação que acontecerá nos crentes no momento da volta de Cristo. É uma mensagem semelhante àquela que Daniel recebe na visão, quando vê o Filho do Homem recebendo o domínio eterno e reinando sobre todos os povos.
+* Mateus 25:31-32: "Quando o Filho do Homem vier em sua glória, e todos os anjos com ele, assentar-se-á em seu trono na glória celestial. Todas as nações serão reunidas diante dele, e ele separará umas das outras como o pastor separa as ovelhas dos bodes." Este versículo fala da volta de Cristo e do julgamento final, que são temas centrais na visão de Daniel. É um momento em que as nações são reunidas e julgadas de acordo com suas ações, e o destino eterno é decidido.
+****
+
+[[v34-7-1]]
+
+^<<v34-7-1,1>>^ No primeiro ano de Baltasar, rei de Babilônia, teve Daniel um sonho e visões da sua cabeça, estando na sua cama. Escreveu o seu sonho, apontando a substância do acontecido. Exprimiu-se assim:
+
+[[v34-7-2]]
+
+^<<v34-7-2,2>>^ Eu estava vendo na minha visão nocturna, e eis que os quatro ventos do céu agitavam o Grande Mar. (ver nota)
+
+[[v34-7-3]]
+
+^<<v34-7-3,3>>^ E quatro grandes animais, diferentes uns dos outros, saíram do mar.
+
+[[v34-7-4]]
+
+^<<v34-7-4,4>>^ O primeiro era como um leão e tinha asas de águia. Quando eu estava olhando para ele, foram-Ihe arrancadas as asas, e foi levantado da terra e erguido sobre os seus pés, como um homem, e foi-lhe dado um coração de homem.
+
+[[v34-7-5]]
+
+^<<v34-7-5,5>>^ E vi outro animal semelhante a um urso, que se levantava sobre um lado, o qual tinha três costelas na sua boca, entre os dentes, e diziam-'lhe assim: Levanta-te, como carne em abundância.
+
+[[v34-7-6]]
+
+^<<v34-7-6,6>>^ Depois disto, quando estava olhando, vi outro (animal), semelhante a um leopardo que tinha no dorso quatro asas, como asas dum pássaro; este animal possuía quatro cabeças, e foi-lhe dado o poder.
+
+[[v34-7-7]]
+
+^<<v34-7-7,7>>^ Depois disto, continuando a contemplar esta visão nocturna, vi um quarto animal, terrível, espantoso e extraordináriamente forte, com uns grandes dentes de ferro; devorava e despedaçava, e calcava aos pés o que sobejava; era diferente dos outros animais que eu tinha visto antes dele, e tinha dez hastes.
+
+[[v34-7-8]]
+
+^<<v34-7-8,8>>^ Estava eu contemplando as hastes quando vi uma outra haste pequena, que nascia do meio delas; três das primeiras hastes foram arrancadas de diante dela (à medida que crescia); nesta haste havia uns olhos como olhos de homem, e uma boca que falava com Insolência.
+
+[[v34-7-9]]
+
+^<<v34-7-9,9>>^ Eu continuava atento a ver: foram postos uns tronos, e um Ancião sentou-se; a sua roupa era branca como a neve, e os cabelos da sua cabeça como a pura lã ; o seu trono era de chamas de fogo, e as rodas neste trono um fogo ardente. (ver nota)
+
+[[v34-7-10]]
+
+^<<v34-7-10,10>>^ De diante dele saía um impetuoso rio de fogo; eram milhares de milhares os que o serviam, e miríades e miríades (ou inumeráveis) os que assistiam diante dele. Procedeu-se ao julgamento, e foram abertos os livros (ver nota)
+
+[[v34-7-11]]
+
+^<<v34-7-11,11>>^ Eu olhava atentamente por causa do ruído das palavras arrogantes que esta haste proferia; enquanto eu olhava, o animal foi morto, e o seu corpo destruído e entregue ao fogo.
+
+[[v34-7-12]]
+
+^<<v34-7-12,12>>^ (Vi) também que tinha sido tirado o poder aos outros animais mas a duração da sua vida foi-lhes prolongada até um tempo e um período. (ver nota)
+
+[[v34-7-13]]
+
+^<<v34-7-13,13>>^ Eu estava, pois, observando estas coisas durante a visão nocturna, e eis que vi um (personagem) que parecia um Filho de homem, que veio sobre as nuvens do céu; chegou até ao Ancião e foi apresentado diante dele. (ver nota)
+
+[[v34-7-14]]
+
+^<<v34-7-14,14>>^ Foram-lhe dados império, honra e reino; e todos os povos, nações e línguas o serviram; o seu império é um império eterno, que não passará, e o seu reino não será jamais destruído.
+
+[[v34-7-15]]
+
+^<<v34-7-15,15>>^ O meu espírito encheu-se de horror; eu, Daniel, fiquei atemorizado com estas coisas, as visões da minha cabeça perturbaram-me.
+
+[[v34-7-16]]
+
+^<<v34-7-16,16>>^ Aproximei-me dum dos assistentes e perguntei-lhe a verdade sobre tudo isto. Ele deu-me a interpretação destas visões, ensinou-me;
+
+[[v34-7-17]]
+
+^<<v34-7-17,17>>^ Estes quatro grandes animais são quatro reis, que se levantarão da terra.
+
+[[v34-7-18]]
+
+^<<v34-7-18,18>>^ mas os santos do Deus altíssimo receberão o reino e entrarão na posse do mesmo reino para sempre, por uma eternidade de eternidades. (ver nota)
+
+[[v34-7-19]]
+
+^<<v34-7-19,19>>^ Depois disto, quis saber a verdade acerca do quarto animal, que era diferente de todos os outros e sobremaneira temeroso, de dentes de ferro e unhas de bronze, que devorava e despedaçava, e calcava aos pés o que sobejava.
+
+[[v34-7-20]]
+
+^<<v34-7-20,20>>^ (Quis também informar-me) das dez hastes que tinha na cabeça e da outra que lhe nascera na presença da qual tinham caído três hastes, haste que tinha olhos e uma boca que falava com insolência e que parecia maior que as outras
+
+[[v34-7-21]]
+
+^<<v34-7-21,21>>^ Estava eu observando, e eis que aquela haste fazia guerra contra os santos e levava-os de vencida,
+
+[[v34-7-22]]
+
+^<<v34-7-22,22>>^ até que veio o Ancião e sentenciou a favor dos santos do Altíssimo, e até que chegou o tempo, em que os santos obtiveram o reino.
+
+[[v34-7-23]]
+
+^<<v34-7-23,23>>^ Ele falou assim; o quarto animal será na terra o quarto reino, diferente de todos os outros reinos, que devorará toda a terra, a calcará e a reduzirá a pó.
+
+[[v34-7-24]]
+
+^<<v34-7-24,24>>^ As dez hastes são dez reis que se levantarão neste reino; depois deles se levantará outro, e será mais poderoso do que os primeiros, e humilhará três reis.
+
+[[v34-7-25]]
+
+^<<v34-7-25,25>>^ Falará insolentemente contra o Altíssimo, atropelará os santos do Altíssimo e imaginará que pode mudar os tempos e a lei; os santos serão entregues nas suas mãos até um (ano ou) tempo, dois (anos ou) tempos e metade dum (ano ou) tempo. (ver nota)
+
+[[v34-7-26]]
+
+^<<v34-7-26,26>>^ (Depois) se realizará o juízo, e ser-lhe-á tirado o poder para o destruir e aniquilar para sempre.
+
+[[v34-7-27]]
+
+^<<v34-7-27,27>>^ O reino, o império e a grandeza dos reinos, que estão debaixo de todos os céus, serão dados ao povo dos santos do Altíssimo, cujo reino é um reino eterno, e ao qual servirão e obedecerão todos os reis.
+
+[[v34-7-28]]
+
+^<<v34-7-28,28>>^ Aqui terminou o que me foi dito. Eu Daniel, fiquei muito perturbado com estes meus pensamentos, e todo o meu semblante se mudou; mas conservei tudo isto no meu coração. (ver nota)
+
+'''
+
+xref:034-daniel/034-daniel-006.adoc#v34-6-0[&#60; Capítulo Anterior] | <<v34-7-0,Topo>> | xref:034-daniel/034-daniel-008.adoc#v34-8-0[Próximo Capítulo &#62;]

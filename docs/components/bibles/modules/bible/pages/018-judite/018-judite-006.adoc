@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v18-6-0]]
+=== Judite, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 6 relata a reunião dos governantes de cidades vizinhas a Israel para discutir a guerra que estava ocorrendo. Eles decidiram unir suas forças para atacar Israel, mas primeiro convocaram o líder dos israelitas, Uzias, para convencê-lo a se render. Uzias respondeu corajosamente, lembrando aos governantes a proteção que Deus dá ao seu povo e recusando-se a ceder. Com base nesse contexto, segue abaixo cinco versículos relacionados com o tema abordado em Judite 6:
+* Salmos 124:2-3: "Se o Senhor não estivesse ao nosso lado quando os inimigos nos atacaram, teriam nos tragado vivos, tamanha era a fúria que tinham contra nós." Este salmo reflete a confiança dos israelitas na proteção de Deus em tempos de guerra.
+* Deuteronômio 20:1-4: "Quando vocês forem à guerra contra seus inimigos e vir cavalos e carros de guerra, um exército maior do que o seu, não tenham medo deles, pois o Senhor, o seu Deus, que os tirou do Egito, está com vocês." Esse versículo encoraja os israelitas a não terem medo em batalha, lembrando-lhes da presença de Deus em suas vidas.
+* Josué 23:10: "Um só homem de vocês faz fugir mil, pois o Senhor, o seu Deus, luta por vocês, como prometeu." Este versículo também reforça a ideia de que a presença de Deus pode garantir a vitória em batalha, mesmo quando as probabilidades parecem estar contra Israel.
+* Êxodo 15:3: "O Senhor é guerreiro; o Senhor é seu nome." Este verso celebra a natureza guerreira de Deus, lembrando-nos de que ele está sempre pronto para lutar pelo seu povo.
+* 2 Crônicas 14:11: "Ó Senhor, não há ninguém como tu para ajudar os fracos contra os poderosos. Ajuda-nos, ó Senhor nosso Deus, pois em ti pomos a nossa confiança, e em teu nome viemos contra este imenso exército. Ó Senhor, tu és o nosso Deus; que nenhum homem prevaleça contra ti." Este versículo oferece uma oração de confiança a Deus em tempos de guerra, lembrando-nos que a nossa segurança vem de colocarmos nossa confiança em Deus.
+****
+
+[[v18-6-1]]
+
+^<<v18-6-1,1>>^ A estas palavras, Holofernes, muito indignado, disse a Aquior:
+
+[[v18-6-2]]
+
+^<<v18-6-2,2>>^ Já que tu profetizaste que ó povo de Israel há-de ser defendido pelo seu Deus, vou-te mostrar que não há outro deus, senão Nabucodonosor:
+
+[[v18-6-3]]
+
+^<<v18-6-3,3>>^ quando nós os tivermos matado a todos como a um só homem, então tu mesmo cairás também com eles debaixo do ferro dos Assírios; todo o povo de Israel perecerá contigo,
+
+[[v18-6-4]]
+
+^<<v18-6-4,4>>^ e tu conhecerás que Nabucodonosor é o senhor de toda a terra; a espada dos meus soldados traspassará o teu corpo, e tu cairás atravessado entre os feridos de Israel; não respirarás mais, senão para ser exterminado com eles.
+
+[[v18-6-5]]
+
+^<<v18-6-5,5>>^ Se tu crês que a tua profecia é verdadeira não se abata o teu rosto; deixe-te a palidez de que está coberto o teu semblante; se imaginas que estas minhas palavras se não podem cumprir.
+
+[[v18-6-6]]
+
+^<<v18-6-6,6>>^ Para que saibas que tens de experimentar com eles esta infelicidade, serás desde já associado a este povo, a fim de que, quando receberem os justos castigos da minha espada, fiques tu também sujeito à vingança juntamente.
+
+[[v18-6-7]]
+
+^<<v18-6-7,7>>^ Então Holofernes mandou aos seus servos que prendessem Aquior, que o levassem a Betúlia e o entregassem nas mãos dos filhos de Israel.
+
+[[v18-6-8]]
+
+^<<v18-6-8,8>>^ Tendo pegado em Aquior, os servos de Holofernes partiram pelas campinas; porém quando estavam perto dos montes, saíram contra eles os atiradores de funda,
+
+[[v18-6-9]]
+
+^<<v18-6-9,9>>^ mas eles, desviando-se para um lado do monte, ataram Aquior de mãos e pés a uma árvore, e assim preso com cordas o deixaram ficar; depois voltaram para o seu senhor.
+
+[[v18-6-10]]
+
+^<<v18-6-10,10>>^ Os filhos de Israel, descendo de Betúlia, foram ter com ele e, desatando-o, levaram-no para Betúlia. Tendo-o posto no meio do povo, perguntaram-lhe por que motivo os Assírios o deixaram alado.
+
+[[v18-6-11]]
+
+^<<v18-6-11,11>>^ (Por este tempo, os governadores de Betúlia eram Ozias, filho de Mica, da tribo de Simeão, e Carmi, chamado também Gotoniel).
+
+[[v18-6-12]]
+
+^<<v18-6-12,12>>^ Aquior, posto no meio dos anciãos e em presença do povo, contou tudo o que tinha dito quando foi interrogado por Holofernes, e como a gente de Holofernes o quisera matar por ter falado assim,
+
+[[v18-6-13]]
+
+^<<v18-6-13,13>>^ e como o mesmo Holofernes, cheio de cólera, tinha mandado que o entregassem aos Israelitas por esta causa, a fim de que, após a vitória sobre os filhos de Israel, fizesse então morrer também o mesmo Aquior com diversos suplícios, por ele ter dito: O Deus do céu é o seu defensor.
+
+[[v18-6-14]]
+
+^<<v18-6-14,14>>^ Depois desta narração de Aquior, todo o povo se prostrou com o rosto por terra adorando o Senhor, e todos juntamente, com gemidos e prantos, lhe ofereceram as suas orações,
+
+[[v18-6-15]]
+
+^<<v18-6-15,15>>^ dizendo; Senhor Deus do céu e da terra, lança os olhos para a soberba destes (homens) e considera o nosso abatimento; lança teus olhos para os que tu santificaste, mostra que não desamparas os que confiam em ti, mas que humilhas os que presumem de si mesmos e se gloriam do seu poder.
+
+[[v18-6-16]]
+
+^<<v18-6-16,16>>^ Acabado o choro, terminada a oração do povo, a qual durou todo o dia, consolaram Aquior,
+
+[[v18-6-17]]
+
+^<<v18-6-17,17>>^ dizendo: O Deus de nossos pais, cujo poder tu publicaste, ele te dará por isso a recompensa de veres tu a ruína dele (em vez de eles verem a tua).
+
+[[v18-6-18]]
+
+^<<v18-6-18,18>>^ Quando o Senhor nosso Deus tiver dado esta liberdade aos seus servos. Deus seja também contigo no meio de nós, para que, segundo for do teu agrado, vivas connosco, tu e todos os teus.
+
+[[v18-6-19]]
+
+^<<v18-6-19,19>>^ Então Ozías, despedida a assembleia, recebeu-o em sua casa e deu-lhe uma grande ceia.
+
+[[v18-6-20]]
+
+^<<v18-6-20,20>>^ Convidados todos os anciãos, depois de terminado o jejum, tomaram juntos a sua refeição.
+
+[[v18-6-21]]
+
+^<<v18-6-21,21>>^ Depois foi convocado todo o povo, e fizeram durante toda a noite oração no lugar onde estavam reunidos, pedindo socorro ao Deus de Israel.
+
+'''
+
+xref:018-judite/018-judite-005.adoc#v18-5-0[&#60; Capítulo Anterior] | <<v18-6-0,Topo>> | xref:018-judite/018-judite-007.adoc#v18-7-0[Próximo Capítulo &#62;]

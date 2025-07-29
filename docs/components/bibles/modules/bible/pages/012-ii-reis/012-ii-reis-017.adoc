@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v12-17-0]]
+=== II Reis, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 17 do livro de 2 Reis descreve a queda do reino de Israel, que havia se afastado de Deus e adotado práticas pagãs. Em consequência, o povo foi deportado para a Assíria e outras nações foram assentadas em sua terra. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em 2 Reis 17:
+* Deuteronômio 28:64: "E o Senhor vos espalhará entre todos os povos, desde uma extremidade da terra até à outra." Este versículo prevê que, se o povo de Israel se afastar de Deus, ele será disperso entre as nações.
+* Salmos 106:34-35: "Não destruíram os povos que o Senhor lhes tinha dito; antes se misturaram com os gentios, e aprenderam as suas obras." Este salmo narra a história de Israel desde a libertação do Egito até a época dos reis, e destaca a tendência do povo de se desviar de Deus e seguir as práticas pagãs das nações vizinhas.
+* Jeremias 3:6-7: "Disse o Senhor nos dias do rei Josias: Viste o que fez Israel, a adúltera, como ela se foi sobre todo o monte alto e debaixo de toda a árvore verde." Este versículo destaca a infidelidade de Israel a Deus, e a tendência do povo de buscar a adoração de ídolos em lugares altos e debaixo de árvores.
+* Oséias 10:1: "Israel era uma videira luxuriante, que dava frutos para si mesmo. Conforme a abundância dos seus frutos, assim multiplicou os altares; conforme a bondade da sua terra, assim fizeram boas as suas estátuas." Este versículo descreve a prosperidade material de Israel, que levou o povo a multiplicar seus altares e estátuas de ídolos.
+* Amós 5:26-27: "Mas levastes o tabernáculo de vosso Moloch, e a imagem das vossas imagens, a estrela do vosso deus, que fizestes para vós mesmos. Portanto vos levarei cativos, além de Damasco, diz o Senhor, cujo nome é Deus dos Exércitos." Este versículo se refere à adoração de ídolos em Israel, incluindo a veneração da estrela de deus de Remfã, o que contribuiu para a queda do reino de Israel.
+****
+
+[[v12-17-1]]
+
+^<<v12-17-1,1>>^ No ano duodécimo de Acaz, rei de Judá, Oséias, filho de Ela, reinou em Samaria sobre Israel durante nove anos.
+
+[[v12-17-2]]
+
+^<<v12-17-2,2>>^ Fez o mal diante do Senhor, mas não tanto como os reis de Israel que o tinham precedido.
+
+[[v12-17-3]]
+
+^<<v12-17-3,3>>^ Contra ele marchou Salmanasar, rei dos Assírios, e Oséias ficou sendo seu vassalo e pagou-lhe tributo.
+
+[[v12-17-4]]
+
+^<<v12-17-4,4>>^ Mas, tendo o rei dos Assírios descoberto que Oséias, tentando rebelar-se, tinha mandado mensageiros a Sua, rei do Egipto, para não pagar os tributos no rei dos Assírios, como todos os anos costumava, cercou-o, e, depois de preso, meteu-o numa prisão,
+
+[[v12-17-5]]
+
+^<<v12-17-5,5>>^ (Salmanasar) fez correrias por rodo o país, e chegando a Samaria, sitiou-a durante três anos.
+
+[[v12-17-6]]
+
+^<<v12-17-6,6>>^ No ano nono de Oséias, o rei dos Assírios tomou Samaria, transportou os Israelitas para a Assíria e pô-los em Haia e em Abor, cidades dos Medos, perto do rio Gozan.
+
+[[v12-17-7]]
+
+^<<v12-17-7,7>>^ Sucedeu que, tendo os filhos de Israel pecado contra o Senhor seu Deus, que os tinha tirado da terra do Egipto, do poder de Faraó, rei do Egipto, adoraram deuses estranhos.
+
+[[v12-17-8]]
+
+^<<v12-17-8,8>>^ Caminharam segundo os costumes das gentes que o Senhor tinha exterminado diante dos filhos de Israel, e (segundo os costumes) dos reis de Israel, que tinham feito o mesmo.
+
+[[v12-17-9]]
+
+^<<v12-17-9,9>>^ Os filhos de Israel ofenderam o Senhor seu Deus, com acções más, e edificaram para si (altares nos) lugares altos em todas as suas cidades, desde as torres de guarda até às cidades fortes.
+
+[[v12-17-10]]
+
+^<<v12-17-10,10>>^ Fizeram para si estátuas e ascherim sobre rodos os mais altos outeiros e debaixo de todas as árvores frondosas:
+
+[[v12-17-11]]
+
+^<<v12-17-11,11>>^ ali queimavam incenso sobre os altares, à maneira das gentes, que o Senhor tinha levado para longe, da sua presença; praticaram acções criminosíssimas, irritaram o Senhor,
+
+[[v12-17-12]]
+
+^<<v12-17-12,12>>^ adorando ídolos que o Senhor expressamente lhes tinha proibido de fazer.
+
+[[v12-17-13]]
+
+^<<v12-17-13,13>>^ O Senhor tinha protestado em Israel e em Judá por meio de todos os seus profetas e videntes, dizendo: Voltai dos vossos caminhos corrompidos, guardai os meus preceitos e cerimônias, conforme todas as leis, que eu prescrevi a vossos pais, e do mesmo modo que vo-lo tenho declarado pelos profetas, meus servos.
+
+[[v12-17-14]]
+
+^<<v12-17-14,14>>^ Eles não o quiseram ouvir, mas endureceram a sua cerviz, como a cerviz de seus pais, que não quiseram obedecer ao Senhor, seu Deus.
+
+[[v12-17-15]]
+
+^<<v12-17-15,15>>^ Rejeitaram as suas leis e o pacto que tinha feito com seus pais, desprezaram as advertências, que lhes tinha feito, e correram atrás das vaidades, tornando-se eles próprios vaidades, e seguiram as nações, de que estavam rodeados, acerca das quais o Senhor lhes tinha ordenado que não fizessem como elas faziam.
+
+[[v12-17-16]]
+
+^<<v12-17-16,16>>^ Abandonaram todos os preceitos do Senhor seu Deus e fizeram para si dois bezerros fundidos e aschera, adoraram todos os astros do céu, serviram a Baal,
+
+[[v12-17-17]]
+
+^<<v12-17-17,17>>^ consagraram seus filhos e suas filhas por meio do fogo. entregaram-se a adivinhações e agouros, abandonaram-se a fazer o mal diante do Senhor, provocando a sua ira.
+
+[[v12-17-18]]
+
+^<<v12-17-18,18>>^ O Senhor indignou-se sobremaneira contra os israelitas e rejeitou-os de diante da sua face. Não ficou senão a tribo de Judá,
+
+[[v12-17-19]]
+
+^<<v12-17-19,19>>^ mas nem essa mesma tribo de Judá guardou os mandamentos do Senhor seu Deus, antes andou nos erros que Israel tinha praticado.
+
+[[v12-17-20]]
+
+^<<v12-17-20,20>>^ O Senhor abandonou toda a linhagem de Israel, afligiu-os e deu-os em presa aos que os saqueavam, até que os rejeitou (inteiramente) da sua presença.
+
+[[v12-17-21]]
+
+^<<v12-17-21,21>>^ Israel tinha-se separado da casa de Davide e tinha constituído por seu rei a Jeroboão, filho de Nabat, que separou Israel do Senhor e lhe fez cometer o grande pecado (da idolatria).
+
+[[v12-17-22]]
+
+^<<v12-17-22,22>>^ Os filhos de Israel andaram em todos os pecados que Jeroboão tinha cometido, não se apartaram deles,
+
+[[v12-17-23]]
+
+^<<v12-17-23,23>>^ até que por fim o Senhor repeliu Israel de diante da sua face, como tinha predito por meio de todos os profetas seus servos. Israel foi transportado do seu país para a Assíria, até ao dia de hoje.
+
+[[v12-17-24]]
+
+^<<v12-17-24,24>>^ O rei dos Assírios mandou vir gente de Babilônia, de Cuta, de Ava, de Emat e de Sefarvaim, e pô-los nas cidades da Samaria, em lugar dos filhos de Israel, e essa gente possuiu a Samaria e habitou nas suas cidades.
+
+[[v12-17-25]]
+
+^<<v12-17-25,25>>^ Quando começaram a habitar nelas, não temiam o Senhor, mas o Senhor mandou contra eles leões, que os matavam.
+
+[[v12-17-26]]
+
+^<<v12-17-26,26>>^ Avisaram o rei dos Assírios, dizendo: Os povos que tu transferiste, que mandaste habitar nas cidades da Samaria, ignoram o culto do Deus do país, e o Senhor mandou contra eles leões, que os matam, porque não sabem o culto do Deus daquela terra.
+
+[[v12-17-27]]
+
+^<<v12-17-27,27>>^ O rei dos Assírios ordenou: Mandai para Samaria um dos sacerdotes, que vós de lá trouxestes cativos, e vá, habite com eles e lhes ensine o culto do Deus daquela terra.
+
+[[v12-17-28]]
+
+^<<v12-17-28,28>>^ Tendo, pois, ido um dos sacerdotes, que tinham sido levados cativos da Samaria, habitou em Betei e ensinava-lhes o modo como deviam honrar o Senhor.
+
+[[v12-17-29]]
+
+^<<v12-17-29,29>>^ Apesar disso, cada um destes povos fabricou para si os seus deuses, que colocou nos templos dos lugares altos, que os Samaritanos tinham edificado; cada povo colocou os seus deuses na cidade em que habitava.
+
+[[v12-17-30]]
+
+^<<v12-17-30,30>>^ Os Babilônios fizeram Socotbenot, os Cuteus fizeram Nergel, os de Emat fizeram Asima,
+
+[[v12-17-31]]
+
+^<<v12-17-31,31>>^ os Heveus fizeram Nebanz e Tartac, e os de Sefarvaim queimavam os seus filhos em honra de Adramelec e de Anamelec, deuses de Sefarvaim.
+
+[[v12-17-32]]
+
+^<<v12-17-32,32>>^ Todavia também adoravam o Senhor, e constituíram, de entre o povo, sacerdotes dos seus lugares altos, os quais ofereciam sacrifícios nos templos dos lugares altos.
+
+[[v12-17-33]]
+
+^<<v12-17-33,33>>^ Embora adorassem o Senhor, serviam também aos seus deuses, segundo o costume das nações, do meio das quais tinham sido transferidos para Samaria.
+
+[[v12-17-34]]
+
+^<<v12-17-34,34>>^ Ainda hoje seguem o antigo costume. Não temem o Senhor, nem observam as suas cerimônias, nem ordenações, nem leis, nem os preceitos que o Senhor tinha intimado aos filhos de Jacob, a quem deu o sobrenome de Israel.
+
+[[v12-17-35]]
+
+^<<v12-17-35,35>>^ O Senhor tinha feito com eles aliança e lhes tinha dado esta ordem; Não temais os deuses estrangeiros, não os adoreis, não os sirvais, não lhes sacrifiqueis,
+
+[[v12-17-36]]
+
+^<<v12-17-36,36>>^ mas temei ao Senhor vosso Deus, que vos tirou da terra do Egipto com grande poder e com braço estendido: a ele adorai e a ele oferecei sacrifícios.
+
+[[v12-17-37]]
+
+^<<v12-17-37,37>>^ Observai também as cerimônias, as ordenações, as leis e os preceitos, que ele vos deu por escrito, observando-os todos os dias, e não tenhais medo dos deuses estrangeiros.
+
+[[v12-17-38]]
+
+^<<v12-17-38,38>>^ Não vos esqueçais da aliança que ele fez convosco, nem presteis culto a deuses estrangeiros,
+
+[[v12-17-39]]
+
+^<<v12-17-39,39>>^ mas temei ao Senhor, vosso Deus, e ele vos livrará do poder de todos os vossos inimigos.
+
+[[v12-17-40]]
+
+^<<v12-17-40,40>>^ Eles, porém, não deram ouvidos (a isto), mas procederam segundo o seu antigo costume.
+
+[[v12-17-41]]
+
+^<<v12-17-41,41>>^ Assim estes povos perseveraram em temer ao Senhor, mas serviram também os seus ídolos. Tanto seus filhos como seus netos ainda hoje fazem como fizeram seus pais.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-016.adoc#v12-16-0[&#60; Capítulo Anterior] | <<v12-17-0,Topo>> | xref:012-ii-reis/012-ii-reis-018.adoc#v12-18-0[Próximo Capítulo &#62;]

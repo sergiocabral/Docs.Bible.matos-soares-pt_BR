@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v17-14-0]]
+=== Tobias, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Tobias 14 narra o fim da história de Tobias, seu filho Tobias Jr. e a família de Sara. O capítulo apresenta Tobias idoso, após viver uma vida longa e próspera ao lado de sua família. Ele aconselha seu filho a honrar a Deus e a manter-se fiel à Lei, e depois morre em paz. Abaixo estão cinco versículos relacionados aos temas abordados em Tobias 14:
+* Eclesiastes 7:1: "Melhor é o nome de bom odor do que o unguento precioso, e o dia da morte do que o dia do nascimento." Este versículo fala sobre a importância da vida e como a morte pode ser vista como um momento de liberação da vida terrena para uma vida melhor no céu.
+* Eclesiastes 12:13: "De tudo o que se tem ouvido, o fim é: Teme a Deus e guarda os seus mandamentos; porque este é o dever de todo o homem." Esse versículo fala sobre a importância de honrar a Deus e guardar seus mandamentos, que é o conselho que Tobias dá a seu filho no final de sua vida.
+* Salmos 90:10: "Os dias da nossa vida chegam a setenta anos, e se alguns, pela sua robustez, chegam a oitenta anos, a medida deles é canseira e enfado, pois passa rapidamente, e nós voamos." Esse versículo fala sobre a brevidade da vida humana e como devemos usá-la sabiamente, como Tobias fez.
+* Hebreus 9:27: "E, assim como aos homens está ordenado morrerem uma só vez, vindo, depois disso, o juízo." Esse versículo fala sobre a certeza da morte e o julgamento que segue. Como Tobias, devemos nos esforçar para viver nossas vidas de forma justa e agradável a Deus para que possamos enfrentar o julgamento com confiança.
+* 2 Timóteo 4:7-8: "Combati o bom combate, acabei a carreira, guardei a fé. Desde agora, a coroa da justiça me está guardada, a qual o Senhor, justo juiz, me dará naquele Dia; e não somente a mim, mas também a todos os que amarem a sua vinda." Esse versículo fala sobre o fim da vida e como aqueles que guardam a fé e amam a Deus serão recompensados na vida eterna, como Tobias.
+****
+
+[[v17-14-1]]
+
+^<<v17-14-1,1>>^ Assim terminaram as palavras de Tobias. Depois que recobrou a vista, viveu Tobias quarenta e dois anos, e viu os filhos de seus netos.
+
+[[v17-14-2]]
+
+^<<v17-14-2,2>>^ Tendo completado cento e dois anos, foi sepultado bonorificamenté em Ninive.
+
+[[v17-14-3]]
+
+^<<v17-14-3,3>>^ Aos cinquenta e seis anos perdeu vista, e recobrou-a aos sessenta.
+
+[[v17-14-4]]
+
+^<<v17-14-4,4>>^ O restante da sua vida passou-o na alegria; à medida que progredia no temor de Deus, aumentava a sua paz.
+
+[[v17-14-5]]
+
+^<<v17-14-5,5>>^ A’ hora da morte, chamou à sua presença Tobias, seu filho, e sete jovens filhos deste, seus netos, e disse-Ihes:
+
+[[v17-14-6]]
+
+^<<v17-14-6,6>>^ A ruína de Ninive está próxima, porque a palavra do Senhor não falta; os nossos irmãos, que foram dispersos para longe da terra de Israel, voltarão para ela.
+
+[[v17-14-7]]
+
+^<<v17-14-7,7>>^ Todo o seu país deserto será repovoado, e a casa de Deus, que ali foi queimada, será reedíficada. Para ela voltarão todos os que temem a Deus,
+
+[[v17-14-8]]
+
+^<<v17-14-8,8>>^ e os gentios abandonarão os seus idolos, virão a Jerusalém, habitarão nela,
+
+[[v17-14-9]]
+
+^<<v17-14-9,9>>^ e nela se alegrarão todos os reis da terra, apresentando as suas homenagens ao (Messias) rei de Israel.
+
+[[v17-14-10]]
+
+^<<v17-14-10,10>>^ Ouvi, pois, meus filhos, o vosso pai; servi ao Senhor em verdade e trabalhai por fazerdes o que for do seu agrado ;
+
+[[v17-14-11]]
+
+^<<v17-14-11,11>>^ recomendai a vossos filhos que façam obras de justiça e dêem esmolas, que se lembrem de Deus e que o bendigam em todo o tempo, em verdade, e com todas as suas forças.
+
+[[v17-14-12]]
+
+^<<v17-14-12,12>>^ Ouvi-me, agora, meus filhos: não fiqueis aqui; mas no dia era que tiverdes sepultado vossa mãe, junto a mim em um mesmo sepulcro, desde logo dirigi vossos passos para sairdes daqui,
+
+[[v17-14-13]]
+
+^<<v17-14-13,13>>^ porque eu vejo que a iniquidade desta cidade a levará à ruína.
+
+[[v17-14-14]]
+
+^<<v17-14-14,14>>^ Tobias, depois da morte de sua mãe, saiu de Ninive com sua mulher e filhos, e os filhos de seus filhos, e voltou para casa de seus sogros.
+
+[[v17-14-15]]
+
+^<<v17-14-15,15>>^ Encontrou-os ainda com saúde numa ditosa velhice; tomou cuidado deles, e ele mesmo lhes fechou os seus olhos. Tomou posse de toda a herança da casa de Raquel, viu os filhos de seus filhos até à quinta geração .
+
+[[v17-14-16]]
+
+^<<v17-14-16,16>>^ Tendo vivido noventa e nove anos no temor do Senhor, sepultaram-no com alegria.
+
+[[v17-14-17]]
+
+^<<v17-14-17,17>>^ Toda a sua parentela e toda a sua descendência perseveraram numa numa vida íntegra e num santo procedimento, modo que foram amados tanto por Deus como pelos homens e por todos os habitantes do país.
+
+'''
+
+xref:017-tobias/017-tobias-013.adoc#v17-13-0[&#60; Capítulo Anterior] | <<v17-14-0,Topo>> | xref:018-judite/018-judite-001.adoc#v18-1-0[Próximo Capítulo &#62;]

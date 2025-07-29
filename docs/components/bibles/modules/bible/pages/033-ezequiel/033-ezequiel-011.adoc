@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v33-11-0]]
+=== Ezequiel, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 11 é um capítulo que trata sobre a punição divina que viria sobre os líderes de Israel por causa de sua corrupção e infidelidade. O profeta recebe uma visão onde é levado até a entrada do templo em Jerusalém e lá vê os líderes conspirando contra o povo. Deus então anuncia que irá puni-los com a destruição da cidade e exílio do povo. A seguir estão cinco versículos relacionados com os temas abordados em Ezequiel 11:
+* Isaías 1:23: "Teus príncipes são rebeldes e companheiros de ladrões; cada um deles ama o suborno e corre atrás das recompensas. Não defendem os direitos do órfão, nem se importam com a causa da viúva." Este versículo fala sobre a corrupção dos líderes de Israel, um tema que é central em Ezequiel 11.
+* Jeremias 21:10: "Porque eu decidi trazer desgraça contra esta cidade, e não felicidade", diz o Senhor. "Ela será entregue na mão do rei da Babilônia, que a incendiará." Este versículo fala sobre a punição divina que viria sobre Jerusalém, tema central em Ezequiel 11.
+* Jeremias 25:9: "Eu os farei beber o cálice do meu castigo até que fiquem bêbados, até que caiam mortos diante de vocês." Este versículo fala sobre a punição divina que Deus iria trazer sobre o povo de Judá, incluindo o exílio que é mencionado em Ezequiel 11.
+* Salmos 94:20-21: "Será que o trono da iniquidade se aliaria a ti, que forja a opressão como lei? Eles se unem contra a vida dos justos e condenam o sangue inocente." Este versículo fala sobre a conspiração dos líderes de Israel mencionada em Ezequiel 11.
+* Jeremias 18:7-10: "Se em algum momento eu anunciar que uma nação ou um reino será arrancado, derrubado e destruído, e se essa nação que eu anunciei se arrepender da maldade que praticou, eu me arrependerei do mal que tinha planejado contra ela." Este versículo fala sobre a possibilidade de arrependimento e perdão, tema que é mencionado em Ezequiel 11 quando Deus promete reunir seu povo novamente após o exílio.
+****
+
+[[v33-11-1]]
+
+^<<v33-11-1,1>>^ (Depois disto) o espirito arrebatou-me e conduziu-me à porta oriental da casa do Senhor, a que olha para o nascente. E eis que se achavam à entrada da porta vinte e cinco homens, no meio dos quais distingui Jezonias, filho de Azur, e Feltias, filho de Banaias, chefes do povo.
+
+[[v33-11-2]]
+
+^<<v33-11-2,2>>^ (O Senhor) disse-me: Filho de homem, são estes os varões que maquinaram o mal e dão maus conselhos nesta cidade,
+
+[[v33-11-3]]
+
+^<<v33-11-3,3>>^ dizendo: Porventura não estão as nossas casas edificadas há muito tempo? Esta (cidade) é a caldeira, e nós somos a carne.
+
+[[v33-11-4]]
+
+^<<v33-11-4,4>>^ Por isso profetiza contra eles, profetiza, filho de homem.
+
+[[v33-11-5]]
+
+^<<v33-11-5,5>>^ Então caiu sobre mim o espírito do Senhor e disse-me: Fala: Isto diz o Senhor: Assim é que discorreis, ó (filhos da), casa de Israel! Eu conheço os pensamentos que sobem ao vosso espírito.
+
+[[v33-11-6]]
+
+^<<v33-11-6,6>>^ Multiplicastes as mortes nesta cidade, enchestes as suas ruas de cadáveres.
+
+[[v33-11-7]]
+
+^<<v33-11-7,7>>^ Portanto isto diz o Senhor Deus: Os que vós matastes, que prostrastes no meio da cidade, estes são a carne, e ela é a caldeira; mas eu vos tirarei do meio dela. (ver nota)
+
+[[v33-11-8]]
+
+^<<v33-11-8,8>>^ Vós temeis a espada, e eu farei cair sobre vós a espada, diz o Senhor Deus.
+
+[[v33-11-9]]
+
+^<<v33-11-9,9>>^ Lançar-vos-ei fora desta cidade, entregar-vos-ei nas mãos dos estrangeiros e exercerei sobre vós os meus juízos.
+
+[[v33-11-10]]
+
+^<<v33-11-10,10>>^ Perecereis aos golpes da espada; julgar-vos-ei nos confins de Israel, e sabereis que sou o Senhor.
+
+[[v33-11-11]]
+
+^<<v33-11-11,11>>^ Esta cidade não será para vós uma caldeira, nem vós sereis a carne no meio dela; julgar-vos-ei nos confins de Israel.
+
+[[v33-11-12]]
+
+^<<v33-11-12,12>>^ E sabereis que sou o Senhor, cujos preceitos não seguistes, cujas leis não observastes, pois procedestes segundo os costumes das gentes que vivem à roda de vós.
+
+[[v33-11-13]]
+
+^<<v33-11-13,13>>^ Enquanto eu profetizava, morreu Feltias filho de Banaias. Então prostrei-me com o rosto em terra, gritando em alta voz; Ai, Senhor Deus! Vais acabar com os restos de Israel? (ver nota)
+
+[[v33-11-14]]
+
+^<<v33-11-14,14>>^ Foi-me dirigida a palavra do Senhor, nestes termos:
+
+[[v33-11-15]]
+
+^<<v33-11-15,15>>^ Filho de homem, os teus irmãos, os teus irmãos, as pessoas do teu parentesco, toda a casa de Israel, são todos aqueles a quem os moradores de Jerusalém dizem: Estais longe do Senhor! A nós é que a terra foi dada para a possuirmos. (ver nota)
+
+[[v33-11-16]]
+
+^<<v33-11-16,16>>^ Por isso, assim fala o Senhor Iavé: Coloquei-os longe entre as nações, dispersei-os por vários países, mas eu mesmo lhes servirei de santuário, durante breve tempo, nos países para onde foram.
+
+[[v33-11-17]]
+
+^<<v33-11-17,17>>^ Dize-lhes pois: Isto diz o Senhor Deus: Juntar-vos-ei do meio dos povos, reunir-vos-ei dos países, pelos quais fostes dispersados, e dar-vos-ei a terra de Israel.
+
+[[v33-11-18]]
+
+^<<v33-11-18,18>>^ Eles entrarão nela e tirarão do seu seio todos os ídolos e todas as abominações,
+
+[[v33-11-19]]
+
+^<<v33-11-19,19>>^ e eu lhes darei um só coração e derramarei no seu íntimo um novo espírito; tirarei da sua carne o coração de pedra e dar-lhes-ei um coração de carne,
+
+[[v33-11-20]]
+
+^<<v33-11-20,20>>^ para que andem nos meus preceitos e guardem as minhas leis e as cumpram. Então serão o meu povo e eu o seu Deus.
+
+[[v33-11-21]]
+
+^<<v33-11-21,21>>^ Quanto àqueles, cujo coração anda preso aos seus ídolos e às suas abominações, farei recair sobre as suas cabeças as suas obras, diz o Senhor Deus.
+
+[[v33-11-22]]
+
+^<<v33-11-22,22>>^ Então os querubins estenderam as suas asas, e com eles se puseram em movimento as rodas, enquanto a glória do Deus de Israel estava sobre eles.
+
+[[v33-11-23]]
+
+^<<v33-11-23,23>>^ E a glória do Senhor elevando-se para sair da cidade, foi-se pôr sobre o monte que está no oriente da cidade.
+
+[[v33-11-24]]
+
+^<<v33-11-24,24>>^ Depois disto, o espírito tomou-me e conduziu-me outra vez, em visão, no espírito de Deus, à Caldeia, onde estavam os cativos, e, assim, se dissipou a visão que eu tinha tido.
+
+[[v33-11-25]]
+
+^<<v33-11-25,25>>^ E contei aos cativos tudo o que o Senhor me havia feito ver.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-010.adoc#v33-10-0[&#60; Capítulo Anterior] | <<v33-11-0,Topo>> | xref:033-ezequiel/033-ezequiel-012.adoc#v33-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v21-47-0]]
+=== Salmos, 47
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 47 é um cântico de louvor e exaltação a Deus como Rei soberano sobre todas as nações. Os temas abordados incluem a grandeza de Deus, a vitória sobre os inimigos, a exaltação de Deus como Rei e o convite para que as nações o adorem.
+* Isaías 52:7: "Como são belos sobre os montes os pés do que anuncia boas-novas, que faz ouvir a paz, do que anuncia o bem, que faz ouvir a salvação, do que diz a Sião: O teu Deus reina!" Este versículo destaca a beleza daqueles que proclamam as boas-novas da salvação e declaram que Deus é Rei.
+* Apocalipse 19:6: "E ouvi como que a voz de uma grande multidão, e como que a voz de muitas águas, e como que a voz de grandes trovões, que dizia: Aleluia! Pois já o Senhor Deus Todo-Poderoso reina." Este versículo fala sobre o triunfo final de Deus como Rei soberano e seu domínio eterno sobre todas as coisas.
+* Salmos 93:1: "O Senhor reina, ele se revestiu de majestade; o Senhor se revestiu e cingiu de poder; o mundo também está firmado, e não poderá vacilar." Este versículo ressalta a majestade e poder de Deus como Rei, que governa o mundo com firmeza.
+* Salmos 86:9: "Todas as nações que fizeste virão e adorarão perante a tua face, Senhor, e glorificarão o teu nome." Este versículo fala sobre a adoração das nações diante de Deus como Rei, reconhecendo sua grandeza e soberania.
+* Isaías 66:23: "E acontecerá que, desde uma lua nova até a outra, e desde um sábado até o outro, virá toda a carne a adorar perante mim, diz o Senhor." Este versículo descreve a adoração de todas as nações diante de Deus, em um tempo em que sua soberania será reconhecida por todos.
+****
+
+[[v21-47-1]]
+
+^<<v21-47-1,1>>^ Cântico. Salmo. Dos filhos de Coré.
+
+[[v21-47-2]]
+
+^<<v21-47-2,2>>^ Grande é o Senhor e muito digno de louvor, na cidade do nosso Deus. O seu monte santo,
+
+[[v21-47-3]]
+
+^<<v21-47-3,3>>^ colina insigne, é a alegria de toda a terra; o monte de Sião, nos confins do aquilão, é a cidade do grande rei,
+
+[[v21-47-4]]
+
+^<<v21-47-4,4>>^ Deus nas suas cidadelas mostrou-se seguro baluarte.
+
+[[v21-47-5]]
+
+^<<v21-47-5,5>>^ De facto, eis que os reis se coligaram, acometeram juntos (contra ela).
+
+[[v21-47-6]]
+
+^<<v21-47-6,6>>^ Logo que a viram ficaram atônitos, ficaram conturbados, fugiram.
+
+[[v21-47-7]]
+
+^<<v21-47-7,7>>^ O terror apoderou-se dele ali mesmo, (sentiram) dores como da mulher que está de parto,
+
+[[v21-47-8]]
+
+^<<v21-47-8,8>>^ como quando o vento do levante destroça as naus de Tarsis.
+
+[[v21-47-9]]
+
+^<<v21-47-9,9>>^ Como o ouvimos (de nossos pais), assim o vimos, na cidade do Senhor dos exércitos, na cidade do nosso Deus: Deus a consolida para sempre.
+
+[[v21-47-10]]
+
+^<<v21-47-10,10>>^ Comemoramos, ó Deus, a tua misericórdia, dentro do teu templo.
+
+[[v21-47-11]]
+
+^<<v21-47-11,11>>^ Como o teu nome, ó Deus, assim também o louvor se estende até aos confins da terra. A tua dextra está cheia de justiça:
+
+[[v21-47-12]]
+
+^<<v21-47-12,12>>^ alegre-se o monte de Sião, regozijem-se as cidades de Judá, por causa dos teus juízos.
+
+[[v21-47-13]]
+
+^<<v21-47-13,13>>^ visitai Sião, andai à sua volta, contai as suas torres.
+
+[[v21-47-14]]
+
+^<<v21-47-14,14>>^ Contemplai as suas defesas, percorrei as suas fortalezas, para que narreis às gerações vindouras
+
+[[v21-47-15]]
+
+^<<v21-47-15,15>>^ quão grande é Deus. E o nosso Deus, eternamente, para sempre: ele nos guiará.
+
+'''
+
+xref:021-salmos/021-salmos-046.adoc#v21-46-0[&#60; Capítulo Anterior] | <<v21-47-0,Topo>> | xref:021-salmos/021-salmos-048.adoc#v21-48-0[Próximo Capítulo &#62;]

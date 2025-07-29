@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v20-10-0]]
+=== Jó, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 10 de Jó, ele continua a lamentar sua situação e questionar a Deus sobre o porquê de estar sofrendo tanto. Ele se sente injustiçado e desamparado, e clama a Deus por respostas. Os versículos relacionados a esses temas são:
+* Salmos 22:1: "Meu Deus, meu Deus, por que me abandonaste? Por que estás tão longe de salvar-me, tão longe dos meus gritos de angústia?" Este versículo retrata a dor de sentir-se abandonado por Deus em meio ao sofrimento, o mesmo sentimento que Jó expressa no capítulo 10.
+* Salmos 88:3-4: "Minha alma está saturada de males, e minha vida está à beira do Sheol. Sou contado entre aqueles que descem à cova; sou como um homem sem forças." Este salmo também expressa a sensação de desamparo e tristeza profunda em meio à dor, que Jó sente.
+* Isaías 45:9: "Ai daquele que contende com o seu Criador! Ele é como um caco entre outros cacos de barro. Por acaso o barro pode dizer ao oleiro: ‘Que estás fazendo?’ ou: ‘A tua obra não tem alça’?" Este versículo faz referência ao fato de que Deus é soberano e não deve ser questionado ou contestado por sua criação, o que é um ponto que Jó precisava aprender.
+* Romanos 9:20: "Mas quem és tu, ó homem, para questionar a Deus? Acaso aquilo que é formado pode dizer ao que o formou: ‘Por que me fizeste assim?’" O apóstolo Paulo também aborda a questão de que a criação não deve questionar seu Criador e deve confiar em sua soberania, uma lição que Jó precisava aprender.
+* Filipenses 4:6-7: "Não se preocupem com nada, mas em todas as orações peçam a Deus o que vocês precisam e orem sempre com o coração agradecido. E a paz de Deus, que ninguém consegue entender, guardará o coração e a mente de vocês, pois vocês estão unidos com Cristo Jesus." Este versículo enfatiza a importância da oração e confiança em Deus em meio às adversidades, algo que Jó também demonstra ao clamar por respostas e ajuda.
+****
+
+[[v20-10-1]]
+
+^<<v20-10-1,1>>^ A minha alma tem tédio da vida; darei livre curso aos meus lamentos, falarei na amargura do meu coração.
+
+[[v20-10-2]]
+
+^<<v20-10-2,2>>^ Direi a Deus: Não me condenes; mostra-me por que me julgas assim.
+
+[[v20-10-3]]
+
+^<<v20-10-3,3>>^ Porventura parece-te bem oprimires-me rejeitares-me a mim, que sou obra das tuas mãos, e favoreceres o desígnio dos impios?
+
+[[v20-10-4]]
+
+^<<v20-10-4,4>>^ Porventura tens tu olhos de carne, ou vês as coisas como as vê o homem?
+
+[[v20-10-5]]
+
+^<<v20-10-5,5>>^ Porventura os teus dias são como os dias do homem, ou os teus anos são como os anos do homem,
+
+[[v20-10-6]]
+
+^<<v20-10-6,6>>^ para te informares da minha iniquidade, averiguares o meu pecado,
+
+[[v20-10-7]]
+
+^<<v20-10-7,7>>^ sabendo tu que eu não cometi impiedade alguma, e não havendo ninguém que possa arrancar-me da tua mão?
+
+[[v20-10-8]]
+
+^<<v20-10-8,8>>^ As tuas mãos fizeram-me e modelaram-me e assim de repente me vais destruir?
+
+[[v20-10-9]]
+
+^<<v20-10-9,9>>^ Lembra-te que me formaste como barro; ir-me-ás reduzir novamente ao pó?
+
+[[v20-10-10]]
+
+^<<v20-10-10,10>>^ Porventura não me mugiste como leite, e coagulaste como queijo? (ver nota)
+
+[[v20-10-11]]
+
+^<<v20-10-11,11>>^ De pele e de carne me vestiste; de ossos e de nervos me organizaste.
+
+[[v20-10-12]]
+
+^<<v20-10-12,12>>^ Concede-me, com a vida, a misericórdia, a tua providência guardou o meu espírito,
+
+[[v20-10-13]]
+
+^<<v20-10-13,13>>^ Porém, ainda que escoadas estas coisas em teu coração, eu sei todavia que te lembras de tudo.
+
+[[v20-10-14]]
+
+^<<v20-10-14,14>>^ Se eu peco, tu me observas, e não deixarás sem castigo a minha culpa.
+
+[[v20-10-15]]
+
+^<<v20-10-15,15>>^ Se for mau, desgraçado de mim? Mas, se for justo, não levantarei cabeça, farto como estou de confusão e de miséria.
+
+[[v20-10-16]]
+
+^<<v20-10-16,16>>^ Se me levanto, tu me apanharás como a um leão, e me tornarás a atormentar dum modo terrível.
+
+[[v20-10-17]]
+
+^<<v20-10-17,17>>^ Tu renovas contra mim os teus testemunhos, e multiplicas contra mim a tua ira, tropas frescas se levantara contra mim.
+
+[[v20-10-18]]
+
+^<<v20-10-18,18>>^ Por que me tiraste tu do ventre de minha mãe? Teria perecido, sem que nenhum olho (moral) me visse.
+
+[[v20-10-19]]
+
+^<<v20-10-19,19>>^ Teria sido como se não existisse, trasladado do ventre materno para a sepultura.
+
+[[v20-10-20]]
+
+^<<v20-10-20,20>>^ Porventura o pequeno número dos meus dias não se acabará em breve? Deixa-me, pois, que eu chore um pouco a minha dor,
+
+[[v20-10-21]]
+
+^<<v20-10-21,21>>^ antes que vá para não mais tornar (a esta vida terrena), para aquela terra tenebrosa e coberta de escuridão da morte;
+
+[[v20-10-22]]
+
+^<<v20-10-22,22>>^ terra de miséria e de trevas, onde habita a sombra da morte, e onde não há nenhuma ordem, mas um sempiterno horror.
+
+'''
+
+xref:020-jo/020-jo-009.adoc#v20-9-0[&#60; Capítulo Anterior] | <<v20-10-0,Topo>> | xref:020-jo/020-jo-011.adoc#v20-11-0[Próximo Capítulo &#62;]

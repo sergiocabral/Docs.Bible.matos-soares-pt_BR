@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v45-2-0]]
+=== Zacarias, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Zacarias começa com uma visão do profeta sobre um homem com uma fita de medição, que representa a restauração e a proteção de Jerusalém. O capítulo também fala da vinda do Messias e do chamado para os exilados se reunirem em Jerusalém. A seguir estão cinco versículos relacionados com os temas abordados em Zacarias 2:
+* Isaías 40:1-2: "Consolai, consolai o meu povo, diz o vosso Deus. Falai ao coração de Jerusalém, bradai-lhe que já é findo o tempo da sua milícia, que a sua iniquidade está perdoada e que já recebeu em dobro da mão do SENHOR, por todos os seus pecados." Este versículo fala da consolação do povo de Deus e do perdão de seus pecados, o que é um tema importante no livro de Zacarias.
+* Jeremias 31:10: "Ouvi a palavra do SENHOR, ó nações, e anunciai-a nas ilhas que estão longe, e dizei: Aquele que espalhou a Israel o congregará e o guardará, como o pastor ao seu rebanho." Este versículo fala da reunião do povo de Israel, o que é um tema importante em Zacarias 2.
+* Isaías 52:7: "Quão formosos são sobre os montes os pés do que anuncia as boas-novas, que faz ouvir a paz, que anuncia o bem, que faz ouvir a salvação, que diz a Sião: O teu Deus reina!" Este versículo fala da chegada das boas novas e da salvação, o que é um tema importante em Zacarias 2.
+* Isaías 60:1: "Levanta-te, resplandece, porque já vem a tua luz, e a glória do SENHOR vai nascendo sobre ti." Este versículo fala da chegada da luz e da glória de Deus, o que é um tema importante em Zacarias 2.
+* Joel 3:16: "E o SENHOR bramará de Sião, e de Jerusalém fará ouvir a sua voz; e os céus e a terra tremerão, mas o SENHOR será o refúgio do seu povo, e a fortaleza dos filhos de Israel." Este versículo fala da proteção de Deus sobre o seu povo, o que é um tema importante em Zacarias 2.
+****
+
+[[v45-2-1]]
+
+^<<v45-2-1,1>>^ Levantei os meus olhos, pus-me a olhar e vi um homem que tinha na sua mão um cordel de medir.
+
+[[v45-2-2]]
+
+^<<v45-2-2,2>>^ Interroguei-o: Para onde vais tu? Respondeu-me: Vou medir Jerusalém, ver qual é a sua largura e qual o seu comprimento.
+
+[[v45-2-3]]
+
+^<<v45-2-3,3>>^ E eis que apareceu o anjo que falava comigo, e outro anjo veio-lhe ao encontro
+
+[[v45-2-4]]
+
+^<<v45-2-4,4>>^ e disse-lhe: Corre, fala a este jovem assim: Jerusalém será habitada sem muros, por causa da multidão de homens e de animais que haverá no meio dela.
+
+[[v45-2-5]]
+
+^<<v45-2-5,5>>^ Eu mesmo, diz o Senhor, serei para ela um muro de fogo, que a cercará, serei no meio dela a sua glória.
+
+[[v45-2-6]]
+
+^<<v45-2-6,6>>^ De pé! De pé! Fugi da terra do aquilão, diz o Senhor, porque eu vos espalhei para os quatro ventos do céu, diz o Senhor, (somente para vos castigar). (ver nota)
+
+[[v45-2-7]]
+
+^<<v45-2-7,7>>^ Salva-te ó Sião, que habitas na cidade de Babilônia!
+
+[[v45-2-8]]
+
+^<<v45-2-8,8>>^ Porque isto diz o Senhor dos exércitos: Para glória me enviou o Senhor contra as nações que vos despojaram : aquele que tocar em vós, toca na menina dos seus olhos.
+
+[[v45-2-9]]
+
+^<<v45-2-9,9>>^ Eis que vou levantar a minha mão contra estes povos, e eles virão a ser presa daqueles que eram seus escravos; assim conhecereis que o Senhor dos exércitos é que me enviou.
+
+[[v45-2-10]]
+
+^<<v45-2-10,10>>^ Filha de Sião, entoa cânticos, alegra-te, porque eis que venho para habitar no meio de ti, diz o Senhor.
+
+[[v45-2-11]]
+
+^<<v45-2-11,11>>^ Naquele dia se chegarão muitas nações ao Senhor, e serão o meu povo; habitarei no meio de ti, e saberás que o Senhor dos exércitos é que me enviou a ti. (ver nota)
+
+[[v45-2-12]]
+
+^<<v45-2-12,12>>^ O Senhor possuirá Judá, como sua porção na terra santa, e escolherá outra vez Jerusalém.
+
+[[v45-2-13]]
+
+^<<v45-2-13,13>>^ Toda a carne esteja em silêncio diante da face do Senhor, porque ele se levantou da sua santa habitação.
+
+'''
+
+xref:045-zacarias/045-zacarias-001.adoc#v45-1-0[&#60; Capítulo Anterior] | <<v45-2-0,Topo>> | xref:045-zacarias/045-zacarias-003.adoc#v45-3-0[Próximo Capítulo &#62;]

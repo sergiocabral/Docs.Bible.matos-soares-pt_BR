@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v28-34-0]]
+=== Eclesiástico, 34
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 34 de Eclesiástico trata da importância de não colocar a confiança em divindades falsas, da prática da virtude e da justiça, e de evitar o orgulho e a arrogância. A seguir estão cinco versículos relacionados com esses temas:
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo destaca a importância de confiar em Deus em vez de seguir nossos próprios desejos e interesses.
+* Salmo 33:4-5: "Porque a palavra do Senhor é reta e todas as suas obras são fiéis. Ele ama a justiça e o direito; a terra está cheia da bondade do Senhor." Esse verso enfatiza a importância da justiça e da retidão, que são temas abordados em Eclesiástico 34.
+* Provérbios 16:18: "O orgulho precede a ruína, e a arrogância precede a queda." Este versículo adverte contra o perigo do orgulho e da arrogância, o que é discutido em Eclesiástico 34.
+* 1 Pedro 3:10: "Pois quem quer amar a vida e ver dias bons, refreie a língua do mal e evite que os seus lábios falem enganosamente." Esse versículo destaca a importância da virtude e da fala honesta, que são temas importantes em Eclesiástico 34.
+* Salmo 40:4: "Bem-aventurado é o homem que faz do Senhor a sua confiança e que não se volta para os soberbos, nem para os que se desviam para a mentira." Este versículo destaca a importância de confiar em Deus em vez de se envolver com pessoas orgulhosas e mentirosas, o que é um tema em Eclesiástico 34.
+****
+
+[[v28-34-1]]
+
+^<<v28-34-1,1>>^ É próprio do homem insensato sustentar-se de vãs esperanças e de mentira, e os sonhos dão asas à fantasia dos imprudentes.
+
+[[v28-34-2]]
+
+^<<v28-34-2,2>>^ Como o que procura agarrar uma sombra e vai atrás do vento, assim é o que atende a enganosas visões.
+
+[[v28-34-3]]
+
+^<<v28-34-3,3>>^ A visão dos sonhos é isto segundo aquilo, é como a imagem dum homem diante dele próprio.
+
+[[v28-34-4]]
+
+^<<v28-34-4,4>>^ Que coisa pura poderá vir dum impuro? E por um mentiroso que verdade será dita?
+
+[[v28-34-5]]
+
+^<<v28-34-5,5>>^ A adivinhação do erro, os agouros falsos e os sonhos dos malfeitores são vaidade.
+
+[[v28-34-6]]
+
+^<<v28-34-6,6>>^ O teu coração, como o da mulher que está de parto, padecerá imaginações. Se pelo Altíssimo te não foi enviada alguma destas visões, não ponhas nelas o teu coração,
+
+[[v28-34-7]]
+
+^<<v28-34-7,7>>^ porque os sonhos têm feito extraviar muitos, que caíram, por terem posto neles a sua confiança.
+
+[[v28-34-8]]
+
+^<<v28-34-8,8>>^ A palavra da lei será cumprida sem mentira, e a sabedoria será clara na boca do homem fiel. (ver nota)
+
+[[v28-34-9]]
+
+^<<v28-34-9,9>>^ Que sabe aquele que não foi provado? O homem experimentado em muitas coisas, tem muitos pensamentos; o que aprendeu muito, fala com sabedoria.
+
+[[v28-34-10]]
+
+^<<v28-34-10,10>>^ Aquele que não tem experiência, pouco sabe, mas o que se ocupou em muitos negócios adquire muita sagacidade.
+
+[[v28-34-11]]
+
+^<<v28-34-11,11>>^ Que sabe aquele que não foi tentado? O que foi enganado tornar-se-á muito esperto.
+
+[[v28-34-12]]
+
+^<<v28-34-12,12>>^ Muitas coisas tenho visto viajando, muitos costumes diferentes.
+
+[[v28-34-13]]
+
+^<<v28-34-13,13>>^ Algumas vezes me encontrei em perigo de morrer, por causa destas coisas, mas fui livre pela graça de Deus. (ver nota)
+
+[[v28-34-14]]
+
+^<<v28-34-14,14>>^ O espírito daqueles que temem a Deus, será procurado; quando Deus olhar para eles (o seu espirito) será abençoado.
+
+[[v28-34-15]]
+
+^<<v28-34-15,15>>^ Com efeito, a sua esperança está posta naquele que os salva, e os olhos de Deus estão sobre os que o amam.
+
+[[v28-34-16]]
+
+^<<v28-34-16,16>>^ Aquele que teme o Senhor de nada tremerá, e não terá pavor algum, porque ele mesmo é a sua esperança.
+
+[[v28-34-17]]
+
+^<<v28-34-17,17>>^ Bem-aventurada a alma daquele que teme o Senhor.
+
+[[v28-34-18]]
+
+^<<v28-34-18,18>>^ Para quem olha ela, e quem é a sua fortaleza?
+
+[[v28-34-19]]
+
+^<<v28-34-19,19>>^ Os olhos do Senhor estão sobre os que o temem; ele é um protector poderoso, um esteio forte, um abrigo contra o calor, uma protecção contra o ardor do meio-dia,
+
+[[v28-34-20]]
+
+^<<v28-34-20,20>>^ um sustentáculo contra o tropeção, um auxílio contra a queda; ele levanta a alma e alumia os olhos, dá saúde, vida e bênção.
+
+[[v28-34-21]]
+
+^<<v28-34-21,21>>^ A oblação daquele que sacrifica dos bens havidos com injustiça, é imunda, e não são agradáveis a Deus os escárnios dos injustos.
+
+[[v28-34-22]]
+
+^<<v28-34-22,22>>^ O Senhor é só para aqueles que o esperam no caminho da verdade e da justiça.
+
+[[v28-34-23]]
+
+^<<v28-34-23,23>>^ O Altíssimo não aprova os dons dos iníquos, não olha para as oblações dos maus, nem pela multidão dos seus sacrifícios lhes perdoará os seus pecados.
+
+[[v28-34-24]]
+
+^<<v28-34-24,24>>^ Aquele que oferece um sacrifício com os haveres dos pobres, é como o que degola um filho na presença de seu pai.
+
+[[v28-34-25]]
+
+^<<v28-34-25,25>>^ O pão dos necessitados é a vida dos pobres; aquele que lho tira é um homem sanguinário.
+
+[[v28-34-26]]
+
+^<<v28-34-26,26>>^ Quem tira a alguém o pão que ganhou com o seu suor, é como aquele que mata o seu próximo.
+
+[[v28-34-27]]
+
+^<<v28-34-27,27>>^ Aquele que derrama sangue e o que defrauda o trabalhador, são irmãos.
+
+[[v28-34-28]]
+
+^<<v28-34-28,28>>^ Se um edifica, e outro destrói, que proveito lhes resulta daqui senão trabalho?
+
+[[v28-34-29]]
+
+^<<v28-34-29,29>>^ Se um ora, e outro amaldiçoa, de qual ouvirá Deus a voz?
+
+[[v28-34-30]]
+
+^<<v28-34-30,30>>^ Se alguém se lava, depois de ter tocado um morto, e o toca outra vez, de que lhe serve o ter-se lavado?
+
+[[v28-34-31]]
+
+^<<v28-34-31,31>>^ Assim se porta o homem, que jejua pelos seu pecados e que, de novo, os comete: que proveito tira da sua mortificação? Quem ouvirá a sua oração?
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-033.adoc#v28-33-0[&#60; Capítulo Anterior] | <<v28-34-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-035.adoc#v28-35-0[Próximo Capítulo &#62;]

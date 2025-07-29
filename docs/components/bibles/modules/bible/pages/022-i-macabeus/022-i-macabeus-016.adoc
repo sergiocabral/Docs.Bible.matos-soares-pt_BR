@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v22-16-0]]
+=== I Macabeus, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Macabeus 16 narra a morte de Simão, o último dos irmãos Macabeus, e a transição do poder para seu filho João Hircano. O capítulo também destaca os sucessos militares de Simão, sua reconstrução do templo e a paz que ele trouxe para a Judeia. Aqui estão cinco versículos relacionados com os temas abordados em 1 Macabeus 16:
+* Salmo 68:20 - "Bendito seja o Senhor! Dia a dia ele leva a nossa carga, o Deus que é a nossa salvação." Este salmo fala da ajuda de Deus em carregar fardos e nos salvar. Pode ser aplicado a Simão, que ajudou a carregar o fardo do povo judeu e a salvá-los dos inimigos.
+* 1 Crônicas 29:28 - "Ele morreu em boa velhice, cheio de dias, riquezas e honra, e Salomão, seu filho, reinou em seu lugar." Este versículo descreve o fim de Davi, que morreu em paz e foi sucedido por seu filho Salomão. Isso pode ser comparado com a morte de Simão, que morreu em paz e foi sucedido por seu filho João Hircano.
+* Isaías 32:18 - "A minha gente habitará em lugar de paz, em moradas seguras, em repousos tranqüilos." Este verso fala da paz que Deus promete para o seu povo. Isso pode ser relacionado com o governo de Simão, que trouxe a paz para a Judeia.
+* 2 Crônicas 2:4 - "Agora, ordena que me cortem cedros do Líbano; os meus servos estarão com os teus servos, e te darei o salário que designares para os teus servos." Este versículo é uma oferta de ajuda de Salomão a Hirão, rei de Tiro. Isso pode ser comparado com a ajuda que Simão recebeu de seus aliados, como os romanos, para ajudar a reconstruir o templo.
+* Provérbios 3:3-4 - "Nunca deixes a misericórdia e a fidelidade te abandonarem; ata-as ao redor do teu pescoço, escreve-as na tábua do teu coração. E encontrarás favor e bom entendimento diante de Deus e dos homens." Este versículo fala da importância da misericórdia e da fidelidade. Isso pode ser aplicado a Simão, que mostrou misericórdia e fidelidade para com seu povo ao lutar por sua liberdade e reconstruir o templo.
+****
+
+[[v22-16-1]]
+
+^<<v22-16-1,1>>^ Tendo João ido de Gazara, contou a seu pai tudo o que Cendebeu estava a fazer.
+
+[[v22-16-2]]
+
+^<<v22-16-2,2>>^ Simão mandou vir os seus dois filhos mais velhos, Judas e João, e disse-lhes: Eu, meus Irmãos e a casa de meu pai, temos resistido aos inimigos de Israel, desde a nossa mocidade até ao dia de hoje, e conseguimos, muitas vezes, livrar Israel.
+
+[[v22-16-3]]
+
+^<<v22-16-3,3>>^ Agora, porém, estou velho, mas vós graças a Deus, já tendes a idade necessária: tomai o meu lugar e o de meu irmão, e ide pelejar pelo nosso povo. O socorro do céu seja convosco.
+
+[[v22-16-4]]
+
+^<<v22-16-4,4>>^ Depois disto escolheu (João) de todo o país vinte mil homens de guerra e cavaleiros, os quais marcharam contra Cendebeu e pernoitaram em Modin.
+
+[[v22-16-5]]
+
+^<<v22-16-5,5>>^ Levantaram-se ao romper da manhã e marcharam para o campo. E eis que vinha ao seu encontro um grosso exército de infantaria e cavalaria. Separava-os uma torrente.
+
+[[v22-16-6]]
+
+^<<v22-16-6,6>>^ (João) avançou com as suas tropas para os atacar, mas, vendo que elas estavam receosas de passar a torrente, passou-a ele primeiro; quando os outros o viram passar, logo passaram atrás dele.
+
+[[v22-16-7]]
+
+^<<v22-16-7,7>>^ Dividiu a sua gente, colocando cavalaria no meio da infantaria, porque a cavalaria dos inimigos era muito numerosa.
+
+[[v22-16-8]]
+
+^<<v22-16-8,8>>^ Fizeram soar as trombetas sagradas, e Cendebeu foi derrotado com as suas tropas; caíram feridos muitos deles, e o resto refugiou-se na fortaleza.
+
+[[v22-16-9]]
+
+^<<v22-16-9,9>>^ Nesta ocasião foi ferido Judas, irmão de João; porém João perseguiu os inimigos até chegar a Cedron, que (Cendebeu) tinha edificado.
+
+[[v22-16-10]]
+
+^<<v22-16-10,10>>^ Muitos fugiram para as torres que havia na campina de Azot, mas João fê-las queimar. Morreram deles dois mil homens, e João voltou para a Judeia.
+
+[[v22-16-11]]
+
+^<<v22-16-11,11>>^ Ptolomeu, filho de Abobo, havia sido feito governador militar da planície de Jericó; tinha muita prata e muito ouro,
+
+[[v22-16-12]]
+
+^<<v22-16-12,12>>^ porque era genro do sumo sacerdote.
+
+[[v22-16-13]]
+
+^<<v22-16-13,13>>^ O seu coração encheu-se de soberba; queria tornar-se senhor do país e andava maquinando uma traição contra Simão e seus filhos para os matar.
+
+[[v22-16-14]]
+
+^<<v22-16-14,14>>^ Ora, percorrendo Simão as cidades da Judeia e tratando cuidadosamente do seu bem-estar. baixou a Jericó com Matatias, seu filho, e Judas, no ano cento e setenta e sete, no undécimo mês, que é o mês de Sabat. (ver nota)
+
+[[v22-16-15]]
+
+^<<v22-16-15,15>>^ O filho de Abobo recebeu-os com má tenção num pequeno forte, chamado Doc, que tinha edificado; mandou-lhes fazer um grande banquete, mas pôs alguns homens escondidos.
+
+[[v22-16-16]]
+
+^<<v22-16-16,16>>^ Quando Simão e seus filhos tinham bebido bem, Ptolomeu e os seus homens levantaram-se, tomaram as suas armas, acometeram Simão na sala do banquete e mataram-no, assim como aos seus dois filhos e a alguns dos seus criados.
+
+[[v22-16-17]]
+
+^<<v22-16-17,17>>^ Deste modo cometeu Ptolomeu em Israel uma grande perfídia e tornou mal por bem.
+
+[[v22-16-18]]
+
+^<<v22-16-18,18>>^ Ptolomeu escreveu isto ao rei, pedindo-lhe que lhe enviasse um exército em seu socorro, a fim de lhe entregar o país e as suas cidades.
+
+[[v22-16-19]]
+
+^<<v22-16-19,19>>^ Ao mesmo tempo mandou outros a Gazara, para matarem João, e enviou cartas aos tribunos para que viessem unir-se com ele, prometendo que lhes daria prata, ouro e presentes.
+
+[[v22-16-20]]
+
+^<<v22-16-20,20>>^ E mandou outros para que se apoderassem de Jerusalém e do monte do templo.
+
+[[v22-16-21]]
+
+^<<v22-16-21,21>>^ Mas, antecipando-se a eles certo homem, foi anunciar a João, em Gazara. que seu pai e seus irmãos tinham Sido mortos e que (Ptolomeu) enviara gente para o matar também a ele.
+
+[[v22-16-22]]
+
+^<<v22-16-22,22>>^ João, logo que ouviu isto, ficou fora de si. Apoderou-se dos que vinham matá-lo, e mandou-lhes tirar a vida, porque sabia que traziam tenção de o matar.
+
+[[v22-16-23]]
+
+^<<v22-16-23,23>>^ O resto dos actos de João, das suas guerras, das empresas em que valorosamente se portou, da reedificação dos muros que construiu e de todas as suas acções,
+
+[[v22-16-24]]
+
+^<<v22-16-24,24>>^ tudo está escrito no livro dos anais do seu pontificado, começando desde o tempo em que foi constituído sumo pontífice, em lugar de seu pai.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-015.adoc#v22-15-0[&#60; Capítulo Anterior] | <<v22-16-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-001.adoc#v23-1-0[Próximo Capítulo &#62;]

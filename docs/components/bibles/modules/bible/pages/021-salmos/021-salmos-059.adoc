@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-59-0]]
+=== Salmos, 59
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 59 é um salmo de lamentação de Davi, em que ele clama a Deus para que o livre de seus inimigos que o perseguem. Ele descreve seus inimigos como uma matilha de cães famintos que uivam e rondam sua casa. Davi confia em Deus para protegê-lo e destruir seus inimigos. Vasculhando toda a Bíblia, foram encontrados cinco versículos relacionados com os temas abordados em Salmo 59, apresentados a seguir em ordem de proximidade com os temas do capítulo:
+* Provérbios 25:21-22: "Se o teu inimigo tiver fome, dá-lhe pão para comer; se tiver sede, dá-lhe água para beber. Porque assim amontoarás brasas de fogo sobre a sua cabeça, e o Senhor te recompensará." Este versículo mostra que a resposta de Davi à perseguição de seus inimigos deve ser a bondade, em vez da vingança.
+* 1 Samuel 24:10: "Eis que este dia tens visto com os teus olhos que o Senhor hoje te entregou nas minhas mãos nesta caverna; e disseram-me que te matasse, porém te poupei, dizendo: Não estenderei a minha mão contra o meu senhor, pois é o ungido do Senhor." Neste verso, Davi demonstra sua piedade e respeito pelo rei Saul, mesmo quando ele era seu inimigo.
+* Provérbios 21:30: "Não há sabedoria, nem inteligência, nem conselho contra o Senhor." Davi confia em Deus para protegê-lo e destruir seus inimigos, porque sabe que não há poder maior do que o do Senhor.
+* Romanos 12:19: "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus, porque está escrito: Minha é a vingança; eu recompensarei, diz o Senhor." Este versículo reforça a ideia de que Davi deve deixar a vingança nas mãos de Deus.
+* Salmos 34:17: "Os justos clamam, e o Senhor os ouve, e os livra de todas as suas angústias." Este versículo mostra que Davi pode confiar em Deus para ouvi-lo e livrá-lo de suas aflições.
+****
+
+[[v21-59-1]]
+
+^<<v21-59-1,1>>^ Ao mestre do coro. Segundo a melodia de "o lírio da lei..." Miktãm. De Davide. Para ser aprendido. Quando
+
+[[v21-59-2]]
+
+^<<v21-59-2,2>>^ saiu a pelejar contra Aram Naharim, e contra Aram de Sobá, e quando Joab, no regresso, derrotou os Idumeus, 12.000 homens, no vale do sal.
+
+[[v21-59-3]]
+
+^<<v21-59-3,3>>^ Ó Deus, repeliste-nos e destruiste os nossos esquadrões. Deus, tu te iraste: restaura-nos.
+
+[[v21-59-4]]
+
+^<<v21-59-4,4>>^ Abalaste a terra (de Israel) e a fendeste; repara as suas feridas, pois vacila.
+
+[[v21-59-5]]
+
+^<<v21-59-5,5>>^ Impuseste ao teu povo duras provas; deste-nos a beber o vinho da vertigem.
+
+[[v21-59-6]]
+
+^<<v21-59-6,6>>^ Deste aos que te temem um estandarte, para que fugissem do arco (ver nota)
+
+[[v21-59-7]]
+
+^<<v21-59-7,7>>^ para que sejam livres os tens amados, socorre-nos com a tua dextra, ouve-nos.
+
+[[v21-59-8]]
+
+^<<v21-59-8,8>>^ Deus falou no seu santuário: "Exultarei e repartirei (à minha vontade) Siquém, e medirei o vale de Sucot.
+
+[[v21-59-9]]
+
+^<<v21-59-9,9>>^ Minha é a tua terra Galaad, minha a terra de Manassés, Efraim é o elmo da minha cabeça, Judá o meu ceptro,
+
+[[v21-59-10]]
+
+^<<v21-59-10,10>>^ Moab é como que a bacia para me levar; poisarei o meu calçado sobre Edom, triunfarei da Filisteia." (ver nota)
+
+[[v21-59-11]]
+
+^<<v21-59-11,11>>^ Quem me conduzirà à cidade fortificada? Quem me levará até Edom ?
+
+[[v21-59-12]]
+
+^<<v21-59-12,12>>^ Quem, senão tu, ó Deus, que nos repeliste, tu, que já não sais, ó Deus, à frente dos nossos exércitos?
+
+[[v21-59-13]]
+
+^<<v21-59-13,13>>^ Dá-nos auxílio contra o inimigo, porque é vão o socorro dos homens.
+
+[[v21-59-14]]
+
+^<<v21-59-14,14>>^ Com Deus faremos proezas, e ele calcará aos pés os nossos inimigos.
+
+'''
+
+xref:021-salmos/021-salmos-058.adoc#v21-58-0[&#60; Capítulo Anterior] | <<v21-59-0,Topo>> | xref:021-salmos/021-salmos-060.adoc#v21-60-0[Próximo Capítulo &#62;]

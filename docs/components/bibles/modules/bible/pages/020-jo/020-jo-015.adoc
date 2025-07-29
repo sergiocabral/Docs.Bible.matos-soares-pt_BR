@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v20-15-0]]
+=== Jó, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 15 é um capítulo em que Elifaz, um dos amigos de Jó, responde às palavras do sofredor, acusando-o de ter falado sem conhecimento. Elifaz argumenta que Jó está sofrendo como consequência de seus pecados e incentiva-o a se arrepender. Os versículos abaixo se relacionam com os temas abordados no capítulo:
+* Provérbios 15:32: "O que rejeita a disciplina menospreza a sua alma, mas o que escuta a repreensão adquire entendimento." Elifaz acredita que Jó está sofrendo como consequência de seus pecados e sugere que ele se arrependa e aceite a disciplina de Deus.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os de espírito oprimido." Elifaz acredita que Jó está sofrendo por causa de seus pecados e incentiva-o a se arrepender e buscar a ajuda de Deus.
+* Salmos 94:12: "Bem-aventurado é o homem a quem tu repreendes, ó Senhor, e a quem ensinas a tua lei." Elifaz acredita que Jó está sofrendo como consequência de seus pecados e incentiva-o a se arrepender e aprender a lei de Deus.
+* Jó 4:17-19: "Acaso o homem mortal pode ser justo diante de Deus? Pode o homem ser puro diante do seu Criador? Deus não confia nem nos seus santos, e até os céus não são puros aos seus olhos." Elifaz acredita que Jó está sofrendo como consequência de seus pecados e argumenta que nenhum ser humano é justo diante de Deus.
+* Salmos 32:5: "Confessei-te o meu pecado e a minha maldade não encobri; dizia eu: confessarei ao Senhor as minhas transgressões; e tu perdoaste a maldade do meu pecado." Elifaz incentiva Jó a se arrepender e confessar seus pecados a Deus, acreditando que isso trará alívio para seus sofrimentos.
+****
+
+[[v20-15-1]]
+
+^<<v20-15-1,1>>^ Então, respondendo Elifaz de Teman, disse: (ver nota)
+
+[[v20-15-2]]
+
+^<<v20-15-2,2>>^ Porventura o sábio responderá com palavras no ar, e encherá de vento o seu peito (como tu acarbas de fazer)?
+
+[[v20-15-3]]
+
+^<<v20-15-3,3>>^ Porventura defende-se com palavras inúteis e com razões inconsistentes?
+
+[[v20-15-4]]
+
+^<<v20-15-4,4>>^ Quanto é em ti, desterras o temor (de Deus), destróis a piedade de Deus devida.
+
+[[v20-15-5]]
+
+^<<v20-15-5,5>>^ A tua iniquidade ensinou a tua língua, e tu imitas a linguagem dos blasfemadores.
+
+[[v20-15-6]]
+
+^<<v20-15-6,6>>^ Não eu, mas a tua própria boca te condena, os teus lábios depõem contra ti.
+
+[[v20-15-7]]
+
+^<<v20-15-7,7>>^ Porventura és tu o primeiro homem que nasceu, e foste tu formado antes dos outeiros?
+
+[[v20-15-8]]
+
+^<<v20-15-8,8>>^ Porventura entraste tu no conselho de Deus, e tomaste posse de toda a sabedoria?
+
+[[v20-15-9]]
+
+^<<v20-15-9,9>>^ Que sabes tu do que nós ignoramos? Que entendes tu que nós não saibamos?
+
+[[v20-15-10]]
+
+^<<v20-15-10,10>>^ Também há entre nós velhos e anciãos, muito mais avançados em idade que teu pai.
+
+[[v20-15-11]]
+
+^<<v20-15-11,11>>^ Tens em pouca conta as consolações divinas e as doces palavras que te dirigimos?
+
+[[v20-15-12]]
+
+^<<v20-15-12,12>>^ Por que te ensoberbece o teu coração, que significara estes olhares violentos?
+
+[[v20-15-13]]
+
+^<<v20-15-13,13>>^ Por que se incha o teu espírito contra Deus, para proferires com a tua boca tão estranhas palavras ?
+
+[[v20-15-14]]
+
+^<<v20-15-14,14>>^ Que é o homem, para ser imaculado (aos olhos de Deus), e para parecer justo, tendo nascido duma mulher?
+
+[[v20-15-15]]
+
+^<<v20-15-15,15>>^ Se nem os seus mesmos santos gozam da sua confiança, se nem os céus são puros na sua presença,
+
+[[v20-15-16]]
+
+^<<v20-15-16,16>>^ quanto mais o homem, ser abominável e corrompido, que bebe a iniquidade como a água?
+
+[[v20-15-17]]
+
+^<<v20-15-17,17>>^ Eu to mostrarei, ouve-me; eu te contarei o que tenho visto,
+
+[[v20-15-18]]
+
+^<<v20-15-18,18>>^ o que os sábios dizem, eles que não ocultam (os ensinamentos) de seus pais,
+
+[[v20-15-19]]
+
+^<<v20-15-19,19>>^ - aos quais sòmente foi dada esta terra, sem que passasse nenhum estranho por meio deles. -
+
+[[v20-15-20]]
+
+^<<v20-15-20,20>>^ Em todos os seus dias o ímpio é atormentado, e o número dos anos do opressor é reduzido. (ver nota)
+
+[[v20-15-21]]
+
+^<<v20-15-21,21>>^ Um estrondo de terror está sempre em seus ouvidos, e, mesmo quando há paz, receia o assalto do devastador
+
+[[v20-15-22]]
+
+^<<v20-15-22,22>>^ Não crê que se possa voltar das trevas à luz, vendo a espada de todos os lados,
+
+[[v20-15-23]]
+
+^<<v20-15-23,23>>^ Anda errante à busca de pão; julga que o dia das trevas está preparado, a seu lado.
+
+[[v20-15-24]]
+
+^<<v20-15-24,24>>^ tribulação o aterra, e a angústia o cerca, como a um rei que se prepara para a batalha,
+
+[[v20-15-25]]
+
+^<<v20-15-25,25>>^ porque estendeu a sua mão contra Deus, e se fez forte contra o Omnipotente. (ver nota)
+
+[[v20-15-26]]
+
+^<<v20-15-26,26>>^ Correu contra ele, de cabeça altiva, e armou-se duma soberba inflexível.
+
+[[v20-15-27]]
+
+^<<v20-15-27,27>>^ A gordura cobriu o seu rosto, e a enxúndia pende-lhe das ilhargas. (ver nota)
+
+[[v20-15-28]]
+
+^<<v20-15-28,28>>^ Habitará em cidades assoladas, e em casas desertas, que estão reduzidas a moutões de ruínas. (ver nota)
+
+[[v20-15-29]]
+
+^<<v20-15-29,29>>^ Não se enriquecerá, nem os seus bens persistirão, nem lançarão as suas raízes por terra.
+
+[[v20-15-30]]
+
+^<<v20-15-30,30>>^ Não sairá das trevas; uma chama secará os seus ramos, e ele será arrebatado pelo sopro da boca (de Deus).
+
+[[v20-15-31]]
+
+^<<v20-15-31,31>>^ Não se fie na mentira, pois será enlaçado nela; a mentira será a sua recompensa.
+
+[[v20-15-32]]
+
+^<<v20-15-32,32>>^ Antes dos seus dias se completarem, perecerá, e as suas mãos se secarão.
+
+[[v20-15-33]]
+
+^<<v20-15-33,33>>^ O seu cacho será cortado, como o da vinha, ao nascer, e, como a oliveira, deixará cair a sua flor.
+
+[[v20-15-34]]
+
+^<<v20-15-34,34>>^ Porque a família do ímpio será estéril, e o fogo devorará as casas dos que se deixam subornar.
+
+[[v20-15-35]]
+
+^<<v20-15-35,35>>^ Ele concebeu o mal e deu à luz a desventura, e o seu coração prepara enganos.
+
+'''
+
+xref:020-jo/020-jo-014.adoc#v20-14-0[&#60; Capítulo Anterior] | <<v20-15-0,Topo>> | xref:020-jo/020-jo-016.adoc#v20-16-0[Próximo Capítulo &#62;]

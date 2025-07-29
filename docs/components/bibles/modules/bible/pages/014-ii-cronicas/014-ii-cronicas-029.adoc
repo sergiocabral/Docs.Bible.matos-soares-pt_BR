@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v14-29-0]]
+=== II Crônicas, 29
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 29 relata o reinado de Ezequias em Judá e como ele restaurou o culto a Deus no templo em Jerusalém. Ele convocou os sacerdotes e levitas para purificarem o templo e os utensílios sagrados, além de restaurar as práticas de adoração a Deus. A seguir, são apresentados cinco versículos relacionados aos temas abordados em 2 Crônicas 29:
+* Salmos 51:10: "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto." Este versículo destaca a importância da purificação interior para a adoração a Deus.
+* Salmos 96:8: "Dai ao Senhor a glória devida ao seu nome; trazei oferendas, e entrai nos seus átrios." Este versículo destaca a importância da adoração e do louvor a Deus.
+* Isaías 1:18: "Vinde, pois, e arrazoemos, diz o Senhor: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã." Este versículo destaca a possibilidade de arrependimento e perdão para aqueles que se voltam para Deus.
+* Salmos 24:3-4: "Quem subirá ao monte do Senhor? Quem há de permanecer no seu lugar santo? O que é limpo de mãos e puro de coração, que não entrega a sua alma à vaidade, nem jura enganosamente." Este versículo destaca a importância da santidade e da honestidade para aqueles que desejam adorar a Deus.
+* Salmos 116:12-13: "Que darei eu ao Senhor por todos os seus benefícios para comigo? Tomarei o cálice da salvação, e invocarei o nome do Senhor." Este versículo destaca a importância da gratidão e do reconhecimento pelos benefícios que Deus concede aos seus servos.
+****
+
+[[v14-29-1]]
+
+^<<v14-29-1,1>>^ Ezequias começou a reinar, tendo de idade vinte e cinco anos, e reinou vinte e nove anos em Jerusalém. Sua mãe chamava-se Abia, filha de Zacarias.
+
+[[v14-29-2]]
+
+^<<v14-29-2,2>>^ Ele fez o que era agradável aos olhos do Senhor, conforme tudo o que tinha feito David, seu pai.
+
+[[v14-29-3]]
+
+^<<v14-29-3,3>>^ No primeiro ano e mês do seu reinado, mandou abrir as portas da casa do Senhor e restaurou-as.
+
+[[v14-29-4]]
+
+^<<v14-29-4,4>>^ Mandou também vir os sacerdotes e os Levitas, e juntou-os na praça oriental.
+
+[[v14-29-5]]
+
+^<<v14-29-5,5>>^ Disse-lhes: Ouvi-me, Levitas, e purificai-vos; limpai a casa do Senhor Deus de vossos pais e tirai do santuário toda a imundície.
+
+[[v14-29-6]]
+
+^<<v14-29-6,6>>^ Nossos pais pecaram e cometeram o mal diante do Senhor, nosso Deus, abandonando-o; apartaram os seus rostos do tabernáculo do Senhor e voltaram-lhe as costas.
+
+[[v14-29-7]]
+
+^<<v14-29-7,7>>^ Fecharam as portas que havia no pórtico, apagaram as lâmpadas, não queimaram incenso, não ofereceram holocaustos no santuário do Deus de Israel.
+
+[[v14-29-8]]
+
+^<<v14-29-8,8>>^ Deste modo, a ira do Senhor inflamou-se contra Judá e Jerusalém e abandonou-os à turbação, à ruína, ao escárneo, como vós mesmo o estais vendo com vossos olhos.
+
+[[v14-29-9]]
+
+^<<v14-29-9,9>>^ Vede como nossos pais pereceram à espada, como nossos filhos, nossas filhas e nossas mulheres foram levados cativos em castigo de tão grande crime.
+
+[[v14-29-10]]
+
+^<<v14-29-10,10>>^ Agora desejo que renovemos a aliança com o Senhor Deus de Israel, e ele afastará de nós o furor da sua ira.
+
+[[v14-29-11]]
+
+^<<v14-29-11,11>>^ Filhos meus, não sejais negligentes; o Senhor escolheu-vos para estardes em sua presença, para o servirdes, para lhe prestardes culto, para lhe queimardes incenso.
+
+[[v14-29-12]]
+
+^<<v14-29-12,12>>^ Então os Levitas, da descendência de Caat: Maat, filho de Amasai, Joel, filho de Azarias; e da descendência de Merari: Cis, filho de Abdi, e Azarias, filho de Jalaleel; e da descendência de Gerson: Joá, filho de Zema, e Eden, filho de Joá;
+
+[[v14-29-13]]
+
+^<<v14-29-13,13>>^ e da descendência de Elisafan: Samri e Jaiel; e da descendência de Asaf: Zacarias e Matanias;
+
+[[v14-29-14]]
+
+^<<v14-29-14,14>>^ e da descendência de Heman: Jaiel e Semei; e da descendência de Iditum: Semeias e Oziel
+
+[[v14-29-15]]
+
+^<<v14-29-15,15>>^ puseram-se a reunir os seus irmãos, purificaram-se e entraram, segundo a ordem do rei e o mandamento do Senhor, para purificarem a casa de Deus,
+
+[[v14-29-16]]
+
+^<<v14-29-16,16>>^ Tendo os sacerdotes entrado no templo do Senhor para o santificarem, tiraram para fora todas as impurezas que acharam dentro no vestíbulo da casa do Senhor, as quais os Levitas tomaram e levaram fora à torrente do Cedron.
+
+[[v14-29-17]]
+
+^<<v14-29-17,17>>^ Começaram a limpar, no primeiro dia do primeiro mês, e ao oitavo dia do mesmo mês chegaram ao pórtico do templo do Senhor. Gastaram oito dias a purificar o templo. No décimo sexto dia do mesmo mês, acabaram o que tinham começado.
+
+[[v14-29-18]]
+
+^<<v14-29-18,18>>^ Então foram ao palácio do rei Ezequias e disseram-lhe: Santificámos toda a casa do Senhor, o altar dos holocaustos, os seus vasos, a mesa da proposição com todos os seus vasos,
+
+[[v14-29-19]]
+
+^<<v14-29-19,19>>^ e todas as alfaias do templo, que o rei Acaz tinha profanado no seu reinado, depois que prevaricou: tudo está exposto diante do altar do Senhor.
+
+[[v14-29-20]]
+
+^<<v14-29-20,20>>^ O rei Ezequias, levantando-se de madrugada, convocou todos os príncipes da cidade e subiu à casa do Senhor;
+
+[[v14-29-21]]
+
+^<<v14-29-21,21>>^ todos juntos ofereceram sete touros, sete carneiros, sete cordeiros e sete bodes pelo pecado, pelo rei, pelo santuário e por Judá. Ele disse aos sacerdotes, descendentes de Aarão, que os oferecessem sobre o altar do Senhor.
+
+[[v14-29-22]]
+
+^<<v14-29-22,22>>^ Os sacerdotes imolaram os touros, tomaram o sangue e derramaram-no sobre o altar; imolaram também os carneiros e derramaram o seu sangue sobre o altar; imolaram os cordeiros e derramaram o sangue sobre o altar.
+
+[[v14-29-23]]
+
+^<<v14-29-23,23>>^ Levaram diante do rei e de toda a multidão os bodes pelo pecado e impuseram-lhes as mãos (confessando os seus pecados).
+
+[[v14-29-24]]
+
+^<<v14-29-24,24>>^ Os sacerdotes imolaram-nos e derramaram o seu sangue diante do altar para expiação de todo o Israel, porque o rei tinha mandado que se oferecesse por todo o Israel o holocausto e o sacrifício expiatório.
+
+[[v14-29-25]]
+
+^<<v14-29-25,25>>^ Estabeleceu os Levitas na casa do Senhor com címbalos, cítaras e harpas, segundo a disposição do rei David, do vidente Gad e do profeta Natan. O Senhor assim o tinha ordenado por meio dos seus profetas.
+
+[[v14-29-26]]
+
+^<<v14-29-26,26>>^ Os Levitas puseram-se em pé, tendo os instrumentos músicos de David, e os sacerdotes as trombetas.
+
+[[v14-29-27]]
+
+^<<v14-29-27,27>>^ Ezequias mandou que oferecessem os holocaustos sobre o altar. Enquanto se ofereciam os holocaustos, começaram a cantar louvores ao Senhor, a tocar as trombetas e a tanger os diversos instrumentos músicos de David, rei de Israel.
+
+[[v14-29-28]]
+
+^<<v14-29-28,28>>^ Enquanto todo o povo adorava, os cantores e os que tinham as trombetas, cumpriam com o seu ministério, até que o holocausto terminou.
+
+[[v14-29-29]]
+
+^<<v14-29-29,29>>^ Terminado o holocausto, prostrou-se o rei e todos os que estavam com ele, e adoraram.
+
+[[v14-29-30]]
+
+^<<v14-29-30,30>>^ Ezequias e os chefes mandaram aos Levitas que cantassem os louvores ao Senhor com os hinos de David e do profeta Asaf; eles louvaram-no com grande alegria, e, postos de joelhos, adoraram.
+
+[[v14-29-31]]
+
+^<<v14-29-31,31>>^ Ezequias acrescentou ainda o seguinte: Agora que vos consagrastes novamente ao Senhor, aproximai-vos e oferecei vítimas e sacrifícios eucarísticos na casa do Senhor. Toda a multidão, pois, ofereceu hóstias, sacrifícios eucarísticos e holocaustos com espírito devoto.
+
+[[v14-29-32]]
+
+^<<v14-29-32,32>>^ O número dos holocaustos, que a multidão ofereceu, foi este: Setenta touros, cem carneiros e duzentos cordeiros.
+
+[[v14-29-33]]
+
+^<<v14-29-33,33>>^ Consagraram também ao Senhor seiscentos bois e três mil ovelhas.
+
+[[v14-29-34]]
+
+^<<v14-29-34,34>>^ Os sacerdotes, porém, eram poucos e não podiam bastar para esfolar as vítimas dos holocaustos; por isso os Levitas, seus irmãos, ajudaram-nos, até se acabar a função e até se purificarem os outros sacerdotes, porque os Levitas purificavam-se com menos cerimónias do que os sacerdotes.
+
+[[v14-29-35]]
+
+^<<v14-29-35,35>>^ Foram, pois, muitos os holocaustos, as gorduras das hóstias pacíficas e as libações dos holocaustos, restabelecendo-se assim o culto da casa do Senhor.
+
+[[v14-29-36]]
+
+^<<v14-29-36,36>>^ Ezequias e todo o povo se alegrou, por Deus ter disposto o povo para o restabelecimento do culto do Senhor, porque tudo se tinha feito de repente.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-028.adoc#v14-28-0[&#60; Capítulo Anterior] | <<v14-29-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-030.adoc#v14-30-0[Próximo Capítulo &#62;]

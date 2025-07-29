@@ -1,0 +1,247 @@
+include::./index.adoc[]
+
+[[v3-14-0]]
+=== Levítico, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 14 descreve o processo de purificação para uma pessoa que foi curada de uma doença de pele, como a lepra. Deus dá instruções a Moisés sobre os procedimentos de purificação e os sacrifícios que devem ser oferecidos. Abaixo estão cinco versículos relacionados aos temas abordados em Levítico 14.
+* Marcos 1:40-42: "E aproximou-se dele um leproso, que, rogando-lhe, e pondo-se de joelhos diante dele, lhe dizia: Se queres, bem podes limpar-me. E Jesus, movido de grande compaixão, estendeu a mão, e tocou-o, e disse-lhe: Quero, sê limpo. E, tendo ele dito isto, logo a lepra desapareceu, e ficou limpo." Este versículo descreve a cura de um leproso por Jesus, um tema que é abordado em Levítico 14.
+* Lucas 5:12-13: "E aconteceu que, estando numa das cidades, apareceu um homem cheio de lepra, o qual, vendo a Jesus, prostrou-se sobre o rosto, e rogou-lhe, dizendo: Senhor, se quiseres, bem podes limpar-me. E ele, estendendo a mão, tocou-o, dizendo: Quero, sê limpo. E logo a lepra desapareceu dele." Esses versículos também descrevem a cura de um leproso por Jesus.
+* Mateus 8:2-4: "E eis que veio um leproso, e o adorou, dizendo: Senhor, se quiseres, podes tornar-me limpo. E Jesus, estendendo a mão, tocou-o, dizendo: Quero, sê limpo. E logo ficou purificado da lepra. Disse-lhe então Jesus: Olha, não o digas a alguém, mas vai, mostra-te ao sacerdote, e apresenta a oferta que Moisés determinou, para lhes servir de testemunho." Esses versículos incluem as instruções de Jesus ao leproso curado para se apresentar ao sacerdote e oferecer o sacrifício de purificação descrito em Levítico 14.
+* Hebreus 9:14: "Quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo imaculado a Deus, purificará as vossas consciências das obras mortas, para servirdes ao Deus vivo?" Este versículo fala sobre a purificação que é alcançada através do sacrifício de Cristo, um tema relacionado aos sacrifícios de purificação descritos em Levítico 14.
+* 1 Pedro 1:18-19: "Sabendo que não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que por tradição recebestes dos vossos pais, mas com o precioso sangue de Cristo, como de um cordeiro imaculado e incontaminado," Este versículo fala sobre a importância do sacrifício de Cristo como o meio de purificação de nossas vidas.
+****
+
+[[v3-14-1]]
+
+^<<v3-14-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-14-2]]
+
+^<<v3-14-2,2>>^ Esta é a lei do leproso, quando houver de ser purificado: Será levado ao sacerdote,
+
+[[v3-14-3]]
+
+^<<v3-14-3,3>>^ e este, saindo fora dos acampamentos, e vendo que a lepra está curada,
+
+[[v3-14-4]]
+
+^<<v3-14-4,4>>^ ordenará ao que deve ser purificado, que ofereça por si duas aves vivas, das que é permitido comer, e pau de cedro, escarlate e hissopo.
+
+[[v3-14-5]]
+
+^<<v3-14-5,5>>^ Mandará que uma das aves seja imolada sobre um vaso de barro, cheio de água viva; (ver nota)
+
+[[v3-14-6]]
+
+^<<v3-14-6,6>>^ molhará a outra ave viva, o pau de cedro, o escarlate e o hissopo, no sangue da ave imolada,
+
+[[v3-14-7]]
+
+^<<v3-14-7,7>>^ e com ele aspergirá sete vezes aquele que está para se purificar, a fim de que seja legitimamente purificado; (depois disto) soltará a ave viva no campo.
+
+[[v3-14-8]]
+
+^<<v3-14-8,8>>^ Depois que este homem tiver lavado as suas vestes, rapará todos os pelos do corpo e lavar-se-á em água; purificado, entrará de novo nos acampamentos, sob a condição, porém, de que há-de estar durante sete dias fora da sua tenda.
+
+[[v3-14-9]]
+
+^<<v3-14-9,9>>^ Ao sétimo dia, rapará todos os cabelos da cabeça, a barba, as sobrancelhas e todos os pêlos do corpo. Lavados novamente os vestidos e o corpo,
+
+[[v3-14-10]]
+
+^<<v3-14-10,10>>^ no oitavo dia tomará dois cordeiros sem defeito, uma ovelha dum ano sem defeito, e três dízimos de flor de farinha borrifada com azeite, para o sacrifício, e separadamente um sextário de azeite. (ver nota)
+
+[[v3-14-11]]
+
+^<<v3-14-11,11>>^ Depois que o sacerdote, que deve purificar aquele homem, o tiver apresentado juntamente com todas estas coisas diante do Senhor à porta do tabernáculo da reunião,
+
+[[v3-14-12]]
+
+^<<v3-14-12,12>>^ tomará um cordeiro, e o oferecerá pelo delito com o sextário de azeite; oferecidas todas estas coisas diante do Senhor,
+
+[[v3-14-13]]
+
+^<<v3-14-13,13>>^ imolará o cordeiro, onde se costuma imolar a vítima do sacrifício expiatório, pelo pecado, e o holocausto, isto é, no lugar santo, pois tanto a vítima do sacrifício expiatório, como a que (se oferece) pelo delito, pertence ao sacerdote, é uma coisa santíssima.
+
+[[v3-14-14]]
+
+^<<v3-14-14,14>>^ O sacerdote, tomando do sangue da vítima que foi imolada pelo delito, o porá sobre a extremidade da orelha direita daquele que se purifica, bem como sobre os dedos polegares da mão e do pé direito,
+
+[[v3-14-15]]
+
+^<<v3-14-15,15>>^ derramará do sextário de azeite sobre a sua mão esquerda,
+
+[[v3-14-16]]
+
+^<<v3-14-16,16>>^ molhará deste azeite o dedo direito e fará sete aspersões diante do Senhor.
+
+[[v3-14-17]]
+
+^<<v3-14-17,17>>^ O que, porém, ficar do azeite na mão esquerda, derramá-lo-á sobre a extremidade da orelha direita daquele que se purifica, sobre os dedos polegares da mão e do pé direito, em cima do sangue que foi derramado pelo delito.
+
+[[v3-14-18]]
+
+^<<v3-14-18,18>>^ O que restar do azeite, derramá-lo-á sobre a cabeça daquele que se purifica,
+
+[[v3-14-19]]
+
+^<<v3-14-19,19>>^ orará por ele diante do Senhor e fará o sacrifício pelo pecado; então imolará o holocausto,
+
+[[v3-14-20]]
+
+^<<v3-14-20,20>>^ e pô-lo-á sobre o altar com as suas libações, e o homem ficará legitimamente purificado.
+
+[[v3-14-21]]
+
+^<<v3-14-21,21>>^ Porém, se é pobre e as suas posses não podem alcançar o que está indicado, tomará um cordeiro para oferecer em sacrifício expiatório, a fim de que o sacerdote ore por ele, e uma dízima de flor de farinha borrifada com azeite para o sacrifício, um sextário de azeite
+
+[[v3-14-22]]
+
+^<<v3-14-22,22>>^ e duas rolas ou dois pombinhos, um dos quais seja pelo pecado, e o outro para o holocausto:
+
+[[v3-14-23]]
+
+^<<v3-14-23,23>>^ ao oitavo dia da sua purificação, apresentá-los-á ao sacerdote à porta do tabernáculo da reunião, diante do Senhor.
+
+[[v3-14-24]]
+
+^<<v3-14-24,24>>^ O sacerdote, recebendo o cordeiro pelo delito, e o sextário de azeite, levá-los-á juntamente:
+
+[[v3-14-25]]
+
+^<<v3-14-25,25>>^ imolado o cordeiro, porá do seu sangue sobre a extremidade da orelha direita daquele que se purifica, e sobre os dedos polegares da sua mão e do seu pé direito.
+
+[[v3-14-26]]
+
+^<<v3-14-26,26>>^ Derramará também uma parte do azeite na sua mão esquerda,
+
+[[v3-14-27]]
+
+^<<v3-14-27,27>>^ e, molhando nele um dedo da mão direita, fará sete aspersões diante do Senhor:
+
+[[v3-14-28]]
+
+^<<v3-14-28,28>>^ tocará a extremidade da orelha direita daquele que se purifica, e os dedos polegares da mão e do pé direito, no lugar onde foi posto o sangue que se derramou pelo delito.
+
+[[v3-14-29]]
+
+^<<v3-14-29,29>>^ O resto do azeite, que está na mão esquerda, derramá-lo-á sobre a cabeça do homem que se purifica para lhe tomar propício o Senhor.
+
+[[v3-14-30]]
+
+^<<v3-14-30,30>>^ Depois oferecerá as duas rolas ou os dois pombinhos,
+
+[[v3-14-31]]
+
+^<<v3-14-31,31>>^ um pelo delito, outro em holocausto, com as suas libações.
+
+[[v3-14-32]]
+
+^<<v3-14-32,32>>^ Este é o sacrifício do leproso, que não pode ter tudo o que (há mister) para a sua purificação.
+
+[[v3-14-33]]
+
+^<<v3-14-33,33>>^ O Senhor falou a Moisés e a Aarão, dizendo:
+
+[[v3-14-34]]
+
+^<<v3-14-34,34>>^ Quando tiverdes entrado na terra de Canaan, que entregarei ao vosso domínio, se houver nas casas chaga de lepra,
+
+[[v3-14-35]]
+
+^<<v3-14-35,35>>^ o dono da casa irá dar parte disso ao sacerdote, e dirá: Parece-me que na minha casa há como uma chaga de lepra.
+
+[[v3-14-36]]
+
+^<<v3-14-36,36>>^ O sacerdote mandará que tirem para fora tudo o que há na casa, antes que entre nela e veja se está leprosa, para que não fique impuro tudo o que há na casa. Depois entrará para examinar a mancha da casa.
+
+[[v3-14-37]]
+
+^<<v3-14-37,37>>^ Se vir nas paredes umas como cavidades com nódoas amarelas Ou vermelhas, e mais fundas do que o resto da superfície,
+
+[[v3-14-38]]
+
+^<<v3-14-38,38>>^ sairá para fona da porta da casa, e imediatamente a fechará por sete dias.
+
+[[v3-14-39]]
+
+^<<v3-14-39,39>>^ Voltando no sétimo dia, examiná-la-á; se achar que a mancha se estendeu,
+
+[[v3-14-40]]
+
+^<<v3-14-40,40>>^ mandará que se arranquem as pedras manchadas e se lancem fora da cidade num lugar imundo,
+
+[[v3-14-41]]
+
+^<<v3-14-41,41>>^ que depois se raspe todo o interior da casa ao redor, que se lance todo o pó das raspaduras fora da cidade num lugar imundo,
+
+[[v3-14-42]]
+
+^<<v3-14-42,42>>^ que se ponham outras pedras no lugar das que foram tiradas e que e reboque a casa de novo.
+
+[[v3-14-43]]
+
+^<<v3-14-43,43>>^ Se, depois que foram tiradas as pedras, raspado o pó e rebocada de novo a Casa,
+
+[[v3-14-44]]
+
+^<<v3-14-44,44>>^ entrando nela o sacerdote, vir que a mancha voltou, que as paredes estão salpicadas de manchas, é uma lepra pertinaz, e a casa está impura:
+
+[[v3-14-45]]
+
+^<<v3-14-45,45>>^ sem demora a destruirão, e se lançarão fora da cidade num lugar imundo as suas pedras, as madeiras e todo o pó.
+
+[[v3-14-46]]
+
+^<<v3-14-46,46>>^ Aquele que entrar na casa durante o tempo em que está fechada, ficará impuro até à tarde;
+
+[[v3-14-47]]
+
+^<<v3-14-47,47>>^ o que nela dormir ou comer alguma coisa, lavará as suas vestes.
+
+[[v3-14-48]]
+
+^<<v3-14-48,48>>^ Porém, se o sacerdote, entrando, vir que a mancha não lavrou na casa, depois de a ter feito rebocar de novo, a purificará declarando-a sadia.
+
+[[v3-14-49]]
+
+^<<v3-14-49,49>>^ Para a sua purificação tomará duas avezinhas, pau de cedro, e escarlate, e hissopo;
+
+[[v3-14-50]]
+
+^<<v3-14-50,50>>^ imolada uma avezinha sobre um vaso de barro cheio de água viva,
+
+[[v3-14-51]]
+
+^<<v3-14-51,51>>^ tomará o pau de cedro, o hissopo, o escarlate e a avezinha viva, e molhará tudo no sangue da ave imolada e na água viva, e aspergirá sete vezes a casa,
+
+[[v3-14-52]]
+
+^<<v3-14-52,52>>^ e a purificará tanto com o sangue da avezinha como com a água viva, com a avezinha viva, com o pau de cedro, com o hissopo e com o escarlate.
+
+[[v3-14-53]]
+
+^<<v3-14-53,53>>^ Depois que tiver soltado a avezinha para que voe para o campo, fará oração pela casa, e ela ficará legitimamente purificada.
+
+[[v3-14-54]]
+
+^<<v3-14-54,54>>^ Esta é a lei acerca de toda a espécie de lepra e de tinha,
+
+[[v3-14-55]]
+
+^<<v3-14-55,55>>^ acerca da lepra das roupas e das casas,
+
+[[v3-14-56]]
+
+^<<v3-14-56,56>>^ das cicatrizes, da erupção das pústulas e das manchas luzentes,
+
+[[v3-14-57]]
+
+^<<v3-14-57,57>>^ para que se possa saber quando qualquer coisa é pura ou impura.
+
+'''
+
+xref:003-levitico/003-levitico-013.adoc#v3-13-0[&#60; Capítulo Anterior] | <<v3-14-0,Topo>> | xref:003-levitico/003-levitico-015.adoc#v3-15-0[Próximo Capítulo &#62;]

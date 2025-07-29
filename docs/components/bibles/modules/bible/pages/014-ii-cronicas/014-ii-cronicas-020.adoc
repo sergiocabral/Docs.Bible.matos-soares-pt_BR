@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v14-20-0]]
+=== II Crônicas, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 20 relata como o rei Josafá enfrentou uma grande ameaça de inimigos vindos de Moabe e Amom. Ele convoca o povo de Judá para buscar a ajuda de Deus, e Deus lhe responde através do profeta Jaaziel, que lhe assegura que Deus lutará por eles e dará a vitória. Então, Josafá coloca cantores na frente do exército para louvar a Deus e quando os inimigos chegam, eles são atacados por forças invisíveis e acabam se destruindo uns aos outros. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Crônicas 20, em ordem de similaridade:
+* Salmos 121:2: "O meu socorro vem do Senhor, que fez os céus e a terra." Este versículo destaca a importância de buscar a ajuda de Deus, que é o criador do universo e tem o poder para nos proteger e nos guiar em todas as situações.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo enfatiza que não devemos temer, porque Deus está sempre conosco, nos fortalecendo, ajudando e sustentando.
+* Filipenses 4:6-7: "Não se preocupem com nada, mas em todas as orações peçam a Deus o que vocês precisam e orem sempre com o coração agradecido. E a paz de Deus, que ninguém consegue entender, guardará o coração e a mente de vocês, pois vocês estão unidos com Cristo Jesus." Este versículo encoraja os cristãos a confiar em Deus em todas as circunstâncias, buscando-o em oração e tendo um coração agradecido. Isso traz paz à nossa mente e coração, mesmo em tempos difíceis.
+* 1 Pedro 5:7: "Lancem sobre ele toda a sua ansiedade, porque ele cuida de vocês." Este versículo nos lembra que podemos entregar todas as nossas preocupações a Deus, porque ele se importa conosco e está disposto a cuidar de nós.
+* 2 Coríntios 10:4-5: "As armas com as quais lutamos não são humanas; pelo contrário, são poderosas em Deus para destruir fortalezas. Destruímos argumentos e toda pretensão que se levanta contra o conhecimento de Deus, e levamos cativo todo pensamento, para que o obedeçam a Cristo." Este versículo destaca a importância de usar as armas espirituais que Deus nos deu para enfrentar as batalhas da vida, e não confiar apenas em nossa própria força ou sabedoria.
+****
+
+[[v14-20-1]]
+
+^<<v14-20-1,1>>^ Depois disto coligaram-se os filhos de Moab e os filhos de Amon, e com eles alguns Maonitas, contra Josafat para lhe fazerem guerra.
+
+[[v14-20-2]]
+
+^<<v14-20-2,2>>^ Foram mensageiros, que avisaram Josafat, dizendo: Vem contra ti uma grande multidão de gente dos países que estão da banda de além do Mar (Morto), da Síria, e já se encontra em Asasontamar, por outro nome Engadi.
+
+[[v14-20-3]]
+
+^<<v14-20-3,3>>^ Josafat, cheio de medo, aplicou-se inteiramente a rogar ao Senhor e fez publicar um jejum em todo (o país de) Judá.
+
+[[v14-20-4]]
+
+^<<v14-20-4,4>>^ Judá juntou-se para implorar o Senhor; todos foram das suas cidades, para lhe dirigirem súplicas.
+
+[[v14-20-5]]
+
+^<<v14-20-5,5>>^ Josafat, pondo-se em pé no meio do concurso do povo de Judá e de Jerusalém, na casa do Senhor, diante do átrio novo,
+
+[[v14-20-6]]
+
+^<<v14-20-6,6>>^ disse: Senhor Deus de nossos pais, tu és o Deus do céu e dominas sobre todos os reinos das nações; tens em tuas mãos a fortaleza e o poder, e ninguém te pode resistir.
+
+[[v14-20-7]]
+
+^<<v14-20-7,7>>^ Porventura tu, ó Deus nosso, não desbarataste todos os habitantes desta terra, diante do teu povo de Israel, e não a deste para sempre aos descendentes de Abraão, teu amigo?
+
+[[v14-20-8]]
+
+^<<v14-20-8,8>>^ Eles habitaram nela e nela erigiram um santuário ao teu nome, dizendo:
+
+[[v14-20-9]]
+
+^<<v14-20-9,9>>^ Se vierem sobre nós os males, a espada do juízo, a peste e a fome, nós nos apresentaremos diante de ti nesta casa, onde o teu nome foi invocado, nós clamaremos a ti em nossas aflições, e tu nos ouvirás, tu nos salvarás.
+
+[[v14-20-10]]
+
+^<<v14-20-10,10>>^ Agora, eis que os filhos de Amon, de Moab e os da montanha de Seir, pelas terras dos quais não permitiste a Israel que passasse, quando saía do Egito, (povos) de que se desviou, sem os destruir,
+
+[[v14-20-11]]
+
+^<<v14-20-11,11>>^ eis que eles nos recompensam, pretendendo lançar-nos fora da possessão que nos deste.
+
+[[v14-20-12]]
+
+^<<v14-20-12,12>>^ Ó Deus nosso, não castigarás estes povos? Em nós certamente não há tantas forças que possamos resistir a esta multidão que vem sobre nós. Mas, como não sabemos o que devemos fazer, por isso não nos fica outro recurso senão voltar para ti os nossos olhos.
+
+[[v14-20-13]]
+
+^<<v14-20-13,13>>^ Todo o Judá estava em pé diante do Senhor, com as suas crianças, mulheres e filhos.
+
+[[v14-20-14]]
+
+^<<v14-20-14,14>>^ Encontrava-se ali também Jaaziel, filho de Zacarias, filho de Banaias, filho de Jeiel, filho de Matanias, Levita da família de Asaf. Sobre ele desceu o espírito do Senhor, no meio da multidão.
+
+[[v14-20-15]]
+
+^<<v14-20-15,15>>^ (Jaaziel) disse: Ouvi todos vós, Judeus e habitantes de Jerusalém, e também tu, ó rei Josafat: Eis o que vos diz o Senhor: Não vos assusteis, não tenhais medo desta multidão, porque não é vossa a peleja, mas sim de Deus.
+
+[[v14-20-16]]
+
+^<<v14-20-16,16>>^ Amanhã ireis contra eles, porque hão-de subir pela encosta chamada Sis, e vós os encontrareis na extremidade da torrente que corre em frente do deserto de Jeruel.
+
+[[v14-20-17]]
+
+^<<v14-20-17,17>>^ Não sereis vós os que combatereis; ponde-vos lá, ficai lá, e vereis o socorro do Senhor sobre vós, ó Judá, ó Jerusalém; não vos assusteis, não tenhais medo; vós marchareis amanhã contra eles, e o Senhor será convosco.
+
+[[v14-20-18]]
+
+^<<v14-20-18,18>>^ Então Josafat, o povo de Judá e todos os habitantes de Jerusalém, prostraram-se por terra diante do Senhor e o adoraram.
+
+[[v14-20-19]]
+
+^<<v14-20-19,19>>^ Os Levitas da família de Caat e da de Coré cantaram louvores ao Senhor Deus de Israel em voz forte e alta.
+
+[[v14-20-20]]
+
+^<<v14-20-20,20>>^ Levantando-se, pela manhã, marcharam pelo deserto de Tecue; quando se puseram a caminho, Josafat, estando em pé no meio deles, disse: Ouvi-me, homens de Judá e todos os habitantes de Jerusalém: Ponde a vossa confiança no Senhor vosso Deus, e nada tereis a temer: crêde nos seus profetas, e tudo vos correrá bem.
+
+[[v14-20-21]]
+
+^<<v14-20-21,21>>^ Fez depois as suas advertências ao povo e estabeleceu os cantores do Senhor, para o louvarem por suas turmas, para marcharem diante do exército e dizerem, a uma voz: Louvai o Senhor, porque a sua misericórdia é eterna.
+
+[[v14-20-22]]
+
+^<<v14-20-22,22>>^ Tendo eles começado a cantar os louvores, o Senhor lançou a discórdia entre os filhos de Amon, de Moab e da montanha de Seir, os quais tinham ido para pelejar, contra Judá, e foram desbaratados.
+
+[[v14-20-23]]
+
+^<<v14-20-23,23>>^ Os filhos de Amon e de Moab levantaram-se contra os moradores do monte Seir, com o fim de os matar e destruir; feito isto, voltando as armas contra si mesmos, mataram-se uns aos outros às cutiladas.
+
+[[v14-20-24]]
+
+^<<v14-20-24,24>>^ Tendo chegado o exército de Judá ao alto que olha para o deserto, viu de longe que toda aquela dilatada campina estava juncada de cadáveres, que não restava nenhum que tivesse podido escapar à morte.
+
+[[v14-20-25]]
+
+^<<v14-20-25,25>>^ Foi, então, Josafat com toda a gente recolher os despojos dos mortos. Encontraram entre os cadáveres muitas alfaias, roupas, vasos preciosíssimos, que tomaram; não puderam levar tudo, nem recolher em três dias os despojos, tão grande foi a presa.
+
+[[v14-20-26]]
+
+^<<v14-20-26,26>>^ Ao quarto dia, juntaram-se no vale da Bênção, porque, como ali tinham louvado o Senhor, chamaram a este lugar o vale da Bênção até ao presente dia.
+
+[[v14-20-27]]
+
+^<<v14-20-27,27>>^ Depois todos os homens de Judá e os habitantes de Jerusalém, com Josafat, à frente deles, voltaram para Jerusalém com grande alegria, porque o Senhor os tinha feito triunfar dos seus inimigos.
+
+[[v14-20-28]]
+
+^<<v14-20-28,28>>^ Entraram em Jerusalém na casa do Senhor, ao som de saltérios, cítaras e trombetas.
+
+[[v14-20-29]]
+
+^<<v14-20-29,29>>^ O terror do Senhor caiu de repente sobre todos os reinos da terra, depois que ouviram que o Senhor tinha pelejado contra os inimigos de Israel.
+
+[[v14-20-30]]
+
+^<<v14-20-30,30>>^ O reino de Josafat ficou sossegado, pois o Senhor deu-lhe paz por todos os lados.
+
+[[v14-20-31]]
+
+^<<v14-20-31,31>>^ Reinou Josafat sobre Judá. Tinha trinta e cinco anos quando começou a reinar, e reinou vinte e cinco anos em Jerusalém. Sua mãe chamava-se Azuba, filha de Selai.
+
+[[v14-20-32]]
+
+^<<v14-20-32,32>>^ Andou pelos caminhos de seu pai Asa, não se afastou deles, fazendo o que era agradável aos olhos do Senhor.
+
+[[v14-20-33]]
+
+^<<v14-20-33,33>>^ Não destruiu contudo os lugares altos, e o povo não tinha ainda convertido bem o seu coração para o Senhor Deus de seus país.
+
+[[v14-20-34]]
+
+^<<v14-20-34,34>>^ O resto das ações de Josafat, assim as primeiras como as últimas, está escrito na história de Jeú, filho de Hanani, que as inseriu nos livros dos reis de Israel.
+
+[[v14-20-35]]
+
+^<<v14-20-35,35>>^ Depois disto Josafat, rei de Judá, contraiu amizade com Ocozias, rei de Israel, cujas obras foram impiíssimas.
+
+[[v14-20-36]]
+
+^<<v14-20-36,36>>^ Uniu-se com ele para construir navios, que fossem a Tarsis, e construíram uma armada em Asiongaber.
+
+[[v14-20-37]]
+
+^<<v14-20-37,37>>^ Eliezer, porém, filho de Dodau de Maresa, profetizou a Josafat, dizendo: Visto que fizeste aliança com Ocozias, o Senhor destruiu a tua obra. Com efeito, despedaçaram-se as naus, e não puderam ir a Tarsis.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-019.adoc#v14-19-0[&#60; Capítulo Anterior] | <<v14-20-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-021.adoc#v14-21-0[Próximo Capítulo &#62;]

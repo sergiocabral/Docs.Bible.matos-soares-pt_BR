@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-20-0]]
+=== Salmos, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 20 é uma oração para o sucesso e proteção do rei e do povo de Israel em tempos de guerra. O salmista invoca a ajuda divina e pede que Deus ouça as suas preces. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 20:
+* Isaías 31:5: "Como as aves voam, assim o Senhor dos Exércitos protegerá Jerusalém; ele a protegerá, ele a livrará, ele a poupará e a resgatará." Este versículo fala da proteção que Deus oferece ao seu povo em tempos de guerra, assim como o salmista pede no Salmo 20.
+* 2 Crônicas 32:7: "Esforcem-se e sejam corajosos; não tenham medo nem desanimem diante do rei da Assíria e de todo o exército que está com ele, pois há um maior conosco do que com ele." Esse verso fala da confiança que o rei Ezequias tinha na ajuda divina em tempos de guerra, assim como o salmista no Salmo 20.
+* Salmos 33:16: "Nenhum rei é salvo pelo tamanho do seu exército; nenhum guerreiro escapa pela sua grande força." Este versículo destaca a importância da ajuda divina na proteção do povo de Deus, independentemente do tamanho do exército ou da força militar.
+* Deuteronômio 20:4: "Pois o Senhor, o seu Deus, os acompanhará e lutará por vocês contra os inimigos, para dar-lhes a vitória." Esse verso fala da confiança que o povo de Israel tinha na ajuda divina em tempos de guerra, assim como o salmista no Salmo 20.
+* Salmo 144:1: "Bendito seja o Senhor, minha Rocha, que treina minhas mãos para a guerra e meus dedos para a batalha." Este verso fala da confiança do salmista na ajuda divina em tempos de guerra, assim como o salmo 20.
+****
+
+[[v21-20-1]]
+
+^<<v21-20-1,1>>^ Ao mestre do coro. Salmo. De Davide.
+
+[[v21-20-2]]
+
+^<<v21-20-2,2>>^ Ó Senhor, o rei alegra-se com o teu poder, oh! quanto se regozija com o teu auxílio!
+
+[[v21-20-3]]
+
+^<<v21-20-3,3>>^ Tu lhe satisfizeste o desejo do teu coração, e não lhe recusaste o pedido dos teus lábios.
+
+[[v21-20-4]]
+
+^<<v21-20-4,4>>^ Porque o preveniste com bênçãos de felicidade, puseste sobre a sua cabeça uma coroa de ouro puro.
+
+[[v21-20-5]]
+
+^<<v21-20-5,5>>^ Pediu-te vida, e concedeste-lhe largos dias, pelos séculos dos séculos.
+
+[[v21-20-6]]
+
+^<<v21-20-6,6>>^ Grande é a sua glória, devido ao teu auxílio, glória e esplendor puseste sobre ele.
+
+[[v21-20-7]]
+
+^<<v21-20-7,7>>^ Tu o abençoaste com uma bênção eterna, de alegria o inebriaste na tua presença.
+
+[[v21-20-8]]
+
+^<<v21-20-8,8>>^ Com efeito, o rei confia no Senhor, e pela graça do Altíssimo será inabalável.
+
+[[v21-20-9]]
+
+^<<v21-20-9,9>>^ Caia a tua mão sobre todos os seus inimigos, alcance a tua direita aqueles que te aborrecem.
+
+[[v21-20-10]]
+
+^<<v21-20-10,10>>^ Coloca-os como num forno aceso, ao mostrar-lhes teu rosto (irritado). O Senhor os consuma com a sua ira, e o fogo os devore.
+
+[[v21-20-11]]
+
+^<<v21-20-11,11>>^ Extermina de sobre a terra a sua prole, a sua descendência de entre os filhos dos homens.
+
+[[v21-20-12]]
+
+^<<v21-20-12,12>>^ Se projectarem algum mal contra ti, se maquinarem algum engano, não prevalecerão,
+
+[[v21-20-13]]
+
+^<<v21-20-13,13>>^ porque os porás em fuga, apontarás o teu arco contra o seu rosto.
+
+[[v21-20-14]]
+
+^<<v21-20-14,14>>^ Levanta-te, Senhor, com o teu poder! nós cantaremos e celebraremos a tua fortaleza
+
+'''
+
+xref:021-salmos/021-salmos-019.adoc#v21-19-0[&#60; Capítulo Anterior] | <<v21-20-0,Topo>> | xref:021-salmos/021-salmos-021.adoc#v21-21-0[Próximo Capítulo &#62;]

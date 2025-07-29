@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v6-17-0]]
+=== Josué, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 17 de Josué descreve a herança dada a Manassés, uma das tribos de Israel, e como eles lutaram para tomar posse dela. Alguns temas que surgem nesse capítulo incluem a importância da fé, a necessidade de perseverança, a generosidade de Deus, a responsabilidade da liderança e a importância de usar sabedoria e estratégia na guerra. Aqui estão cinco versículos relacionados com esses temas:
+* Hebreus 11:1: "Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos." Este versículo fala sobre a importância da fé e como ela é necessária para obter as promessas de Deus, um tema que é visto na história de Manassés em Josué 17.
+* 1 Coríntios 16:13: "Vigiem, estejam firmes na fé, sejam corajosos, sejam fortes." Este versículo enfatiza a importância da perseverança e coragem na fé, um tema que é visto na luta de Manassés pela sua herança em Josué 17.
+* 2 Coríntios 9:8: "E Deus é poderoso para fazer que lhes seja acrescentada toda a graça, para que em todas as coisas, em todo o tempo, tendo tudo o que é necessário, vocês transbordem em toda boa obra." Este versículo fala sobre a generosidade de Deus e como ele é capaz de nos suprir em todas as coisas, um tema que é visto na distribuição da herança de Manassés em Josué 17.
+* Números 27:18-20: "O Senhor disse a Moisés: 'Leve Josué, filho de Num, homem em quem está o Espírito, e imponha as mãos sobre ele. Faça-o apresentar-se perante Eleazar, o sacerdote, e diante de toda a comunidade, e dê-lhe as suas ordens na presença de todos. Delegue autoridade a ele, para que toda a comunidade dos israelitas lhe obedeça'." Este versículo fala sobre a responsabilidade da liderança e como Deus escolhe aqueles que têm o Espírito para liderar seu povo, um tema que é visto no governo de Manassés em Josué 17.
+* Provérbios 21:31: "Prepara-se o cavalo para o dia da batalha, mas a vitória vem do Senhor." Este versículo enfatiza a importância de usar sabedoria e estratégia na guerra, mas também reconhecer que a vitória vem do Senhor, um tema que é visto na história de Manassés em Josué 17.
+****
+
+[[v6-17-1]]
+
+^<<v6-17-1,1>>^ Esta é a parte que tocou por sorte à tribo de Manassés, porque foi o primogênito de José. Maquir, primogênito de Manassés e pai de Galaad, que foi um homem guerreiro, possuiu o país de Galaad e de Basan;
+
+[[v6-17-2]]
+
+^<<v6-17-2,2>>^ também foi dado (um pedaço de terra) aos restantes filhos de Manassés, segundo as suas famílias, aos filhos de Abiezer, aos filhos de Helec, aos filhos de Esriel, aos filhos de Sequem, aos filhos de Hefer, aos filhos de Semida: estes são os filhos varões de Manassés, filho de José, segundo as suas famílias.
+
+[[v6-17-3]]
+
+^<<v6-17-3,3>>^ Salfaad filho de Hefer, filho de Galaad, filho de Maquir, filho de Manassés, não teve filhos, mas sòmente filhas, cujos nomes são estes: Maala, Noa, Hegla, Melca, e Tersa.
+
+[[v6-17-4]]
+
+^<<v6-17-4,4>>^ Estas apresentaram-se diante do sacerdote Eleázaro e diante de Josué, filho de Nun, e diante dos príncipes, dizendo: O Senhor ordenou por meio de Moisés que nos fosse dada uma herança no meio de nossos irmãos. (Josué) deu-lhes uma possessão no meio dos irmãos de seu pai, conforme a ordem do Senhor.
+
+[[v6-17-5]]
+
+^<<v6-17-5,5>>^ Tocaram a Manassés dez partes, além da terra de Galaad e de Basan, na outra banda do Jordão.
+
+[[v6-17-6]]
+
+^<<v6-17-6,6>>^ As (cinco) filhas de Manassés possuíram a sua herança no meio dos filhos desta tribo. A terra de Galaad coube em sorte aos outros filhos de Manassés.
+
+[[v6-17-7]]
+
+^<<v6-17-7,7>>^ O limite de Manassés foi desde Aser até Macmetat, que olha para Siquem, e se estende pela direita até perto dos que habitam a fonte Tafua.
+
+[[v6-17-8]]
+
+^<<v6-17-8,8>>^ Na sorte de Manassés tinha caído o território de Tafua, o qual está perto dos confins de Manassés, e é dos filhos de Efraim.
+
+[[v6-17-9]]
+
+^<<v6-17-9,9>>^ A fronteira desce ao vale do Cana para o meio-dia da torrente; as cidades desta região, que souberam por sorte a Efraim, estão no meio das cidades de Manassés; o limite de Manassés passa pelo norte da torrente e vai terminar na mar;
+
+[[v6-17-10]]
+
+^<<v6-17-10,10>>^ assim a possessão de Efraim está ao meio-dia, a de Manassés ao norte, e ambas ficam cerradas pelo mar, e se encontram com a tribo de Aser pelo norte, e a tribo de Issacar pelo nascente.
+
+[[v6-17-11]]
+
+^<<v6-17-11,11>>^ Manassés teve por herança (nos territórios) de Issacar e de Aser, Betasan com as suas aldeias, Johlaam com as suas aldeias, os habitantes de Dor com as suas aldeias, os habitantes de Endor com as suas aldeias, os habitantes de Tenac com as suas aldeias, Magedo com as suas aldeias; e a terça parte da cidade de Nofet.
+
+[[v6-17-12]]
+
+^<<v6-17-12,12>>^ Os filhos de Manassés não puderam destruir estas cidades, e o Cananeu conseguiu continuar a habitar esta sua terra (juntamente com eles).
+
+[[v6-17-13]]
+
+^<<v6-17-13,13>>^ Porém, depois que os filhos de Israel se tornaram mais fortes, sujeitaram os Cananeus e fizeram-nos seus tributários, mas não os mataram.
+
+[[v6-17-14]]
+
+^<<v6-17-14,14>>^ Os filhos de José disseram a Josué: Por que me deste tu a posse de uma só herança e de uma só parte, sendo eu um povo tão numeroso, e tendo-me o Senhor abençoado?
+
+[[v6-17-15]]
+
+^<<v6-17-15,15>>^ Josué disse-lhes: Se tu és um povo tão numeroso sobe ao bosque e corta para ti espaço no país dos Fereseus e dos Rafeins, já que a possessão do monte de Efraim é muito estreita para ti.
+
+[[v6-17-16]]
+
+^<<v6-17-16,16>>^ Os filhos de José responderam-Ihe: A montanha não nos basta, e os Cananeus, que habitam a planície, onde está Betsan com as suas aldeias, e Jezrael que ocupa a meio do vale, usam carros armados de ferro.
+
+[[v6-17-17]]
+
+^<<v6-17-17,17>>^ Josué disse à casa de José, Efraim e Manassés: Tu és um povo muito numeroso e de grande força, não terás só uma parte,
+
+[[v6-17-18]]
+
+^<<v6-17-18,18>>^ mas passarás ao monte, cortarás para ti, e limparás maior terreno para habitares; poderás alargar-te ainda mais, depois que tiveres exterminado o Cananeu, apesar de ele ter carros armados de ferro, e ser fortíssimo.
+
+'''
+
+xref:006-josue/006-josue-016.adoc#v6-16-0[&#60; Capítulo Anterior] | <<v6-17-0,Topo>> | xref:006-josue/006-josue-018.adoc#v6-18-0[Próximo Capítulo &#62;]

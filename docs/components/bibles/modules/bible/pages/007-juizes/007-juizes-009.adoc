@@ -1,0 +1,247 @@
+include::./index.adoc[]
+
+[[v7-9-0]]
+=== Juízes, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Juízes 9 relata a história de Abimeleque, filho de Gideão, que conspira para se tornar rei de Israel matando seus setenta irmãos. Após consolidar seu poder em Siquém, Abimeleque é desafiado por um líder local chamado Gaal, o que leva a uma batalha sangrenta. Mais tarde, Abimeleque é morto por uma mulher que deixa cair uma pedra em sua cabeça do alto da torre de uma cidade.
+* Gênesis 49:10: "O cetro não se apartará de Judá, nem o bastão de comando de seus descendentes, até que venha aquele a quem ele pertence, aquele a quem as nações obedecerão." Este versículo é uma profecia sobre o futuro rei de Israel, que viria da tribo de Judá. Abimeleque, no entanto, não era um descendente de Judá e, portanto, sua ascensão ao trono não estava de acordo com essa profecia.
+* Provérbios 26:27: "Quem cava um buraco cai nele; quem rola uma pedra, esta rola de volta sobre ele." Este versículo é uma lição sobre as consequências de nossas ações. Abimeleque conspirou para matar seus irmãos e, finalmente, acabou morrendo devido a uma pedra que lhe foi lançada.
+* Isaías 28:17: "Eu farei da justiça a linha de medir e da retidão o peso; o granizo varrerá o abrigo que oculta a mentira, e as águas inundarão o esconderijo." Este versículo fala sobre a importância da justiça e da verdade. Abimeleque governou por meio de mentiras e violência, mas no final, a justiça prevaleceu e ele foi derrotado.
+* Jeremias 22:3: "Assim diz o Senhor: Pratiquem a justiça e a retidão, libertem o oprimido da mão do opressor, tratem o estrangeiro e o órfão com justiça, não os maltratem. Não derramem sangue inocente neste lugar." Este versículo é um chamado à justiça e à bondade. Abimeleque não cumpriu esses mandamentos e, como resultado, sua vida foi marcada pela violência e pelo derramamento de sangue.
+* Eclesiastes 5:8: "Se você vir que o pobre é oprimido, que a justiça e o direito são violados em uma província, não fique perplexo diante disso. Um oficial superior observa tudo isso; e quem é superior a ele observa-os." Este versículo fala sobre a importância da justiça e da equidade na governança. Abimeleque, como líder, falhou em governar com justiça e equidade, o que levou à sua queda.
+****
+
+[[v7-9-1]]
+
+^<<v7-9-1,1>>^ Abimelec, filho de Jerobaal, foi a Siquem ter com os irmãos de sua mãe e disse-lhes, assim como toda a parentela da casa do pai de sua mãe:
+
+[[v7-9-2]]
+
+^<<v7-9-2,2>>^ Dizei a todos os homens de Sequim: Qual é melhor para vós, serdes dominados por setenta homens, filhos todos de Jerobaal, ou por um só homem? Considerai também que eu sou vosso osso e vossa carne.
+
+[[v7-9-3]]
+
+^<<v7-9-3,3>>^ Os irmãos de sua mãe falaram dele a todos os homens de Siquem, referindo todas as palavras, e inclinaram o seu coração a favor de Abimelec, dizendo: É nosso irmão.
+
+[[v7-9-4]]
+
+^<<v7-9-4,4>>^ (Os Siquemitas) deram-lhe setenta siclos de prata do templo de Baalberit, com os quais tomou a seu soldo homens miseráveis e aventureiros, que o seguiram. (ver nota)
+
+[[v7-9-5]]
+
+^<<v7-9-5,5>>^ Foi à casa de seu pai, em Efra , e matou, sobre uma só pedra, os seus irmãos, filhos de Jerobaal, setenta homens; escapou somente Joatão, filho mais novo de Jerobaal, que se escondeu.
+
+[[v7-9-6]]
+
+^<<v7-9-6,6>>^ Então juntaram-se todos os Siquemitas, com todas as famílias da casa de Melo; vieram e constituiram rei a Abimelec, junto do terebinto, que havia em Siquém.
+
+[[v7-9-7]]
+
+^<<v7-9-7,7>>^ Tendo sido avisado disto Joatão, foi e parou sobre o cimo do monte Garizim, e levantando a voz, clamou, dizendo: Ouvi-me homens de Siquém, para que, assim, Deus vos ouça.
+
+[[v7-9-8]]
+
+^<<v7-9-8,8>>^ Foram (uma vez) as árvores, para eleger sobre si um rei, e disseram à oliveira: Reina sobre nós. (ver nota)
+
+[[v7-9-9]]
+
+^<<v7-9-9,9>>^ Mas ela respondeu: Porventura posso eu deixar o meu óleo, de que se servem os deuses e os homens, para vir a ser superior entre as árvores?
+
+[[v7-9-10]]
+
+^<<v7-9-10,10>>^ E as árvores disseram à figueira: Vem e reina sobre nós.
+
+[[v7-9-11]]
+
+^<<v7-9-11,11>>^ Mas ela respondeu-Ihes: Porventura posso eu deixar a minha doçura, os meus suavíssimos frutos, para ir ser superior entre as outras árvores?
+
+[[v7-9-12]]
+
+^<<v7-9-12,12>>^ E as árvores disseram à videira; Vem e reina sobre nós.
+
+[[v7-9-13]]
+
+^<<v7-9-13,13>>^ Mas ela respondeu-lhes: Porventura posso eu deixar o meu vinho, que alegra Deus (nos sacrifícios) e os homens, para ser superior entre as outras árvores?
+
+[[v7-9-14]]
+
+^<<v7-9-14,14>>^ E todas as árvores disseram ao espinheiro: Vem e reina sobre nós.
+
+[[v7-9-15]]
+
+^<<v7-9-15,15>>^ E ele respondeu-lhes: Se vós deveras me constituis vosso rei, vinde e repousai debaixo da minha sombra; mas, se o não quereis, saia fogo do espinheiro e devore os cedros do Líbano.
+
+[[v7-9-16]]
+
+^<<v7-9-16,16>>^ Agora pois, se, com rectidão e sem pecado, constituistes vosso rei a Abimelec, se vos portastes bem com Jerobaal e com a sua casa, correspondendo aos benefícios daquele que combateu por vós,
+
+[[v7-9-17]]
+
+^<<v7-9-17,17>>^ e que expôs a sua própria vida aos perigos, para vos livrar da mão de Madian,
+
+[[v7-9-18]]
+
+^<<v7-9-18,18>>^ — vós, que agora vos levantastes contra a casa de meu pai, matastes setenta homens seus filhos, sobre uma só pedra, e constituistes rei dos habitantes de Siquém a Abimelec, filho duma sua escrava, porque é vosso irmão, —
+
+[[v7-9-19]]
+
+^<<v7-9-19,19>>^ se, pois, procedestes com rectidão e sem pecado, com Jerobaal e com a sua casa, alegrai-vos hoje com Abimelec, e ele se alegre convosco.
+
+[[v7-9-20]]
+
+^<<v7-9-20,20>>^ Mas, se procedestes perversamente, saia fogo dele, e devore os habitantes de Siquém, e a cidade de Melo; e saia fogo dos homens de Siquém e da casa de Melo, e devore Abimelec. (ver nota)
+
+[[v7-9-21]]
+
+^<<v7-9-21,21>>^ Tendo dito estas palavras, fugiu e foi para Bera, onde habitou, por temer Abimelec, seu irmão.
+
+[[v7-9-22]]
+
+^<<v7-9-22,22>>^ Reinou Abimelec sobre Israel durante três anos,
+
+[[v7-9-23]]
+
+^<<v7-9-23,23>>^ mas o Senhor enviou um péssimo espírito entre Abimelec e os habitantes de Siquém, que se tornaram infiéis a Abimelech, (ver nota)
+
+[[v7-9-24]]
+
+^<<v7-9-24,24>>^ para que assim fosse vingado o crime da morte dos setenta filhos de Jerobaal, e o seu sangue caísse sobre Abimelec, seu irmão, e sobre os outros Siquemitas, que o tinham auxiliado.
+
+[[v7-9-25]]
+
+^<<v7-9-25,25>>^ Os homens de Siquém armaram contra ele ciladas no alto dos montes; e, enquanto ali esperavam que viesse, cometiam roubos, despojando os que passavam; e isto foi referido a Abimelec.
+
+[[v7-9-26]]
+
+^<<v7-9-26,26>>^ Ora Gaal, filho de Obed, foi com seus irmãos e passou a Siquém. À sua chegada, os habitantes de Siquém, animados,
+
+[[v7-9-27]]
+
+^<<v7-9-27,27>>^ saíram pelos campos, devastando as vinhas e calcando os cachos; (depois) formados coros de cantores, entraram no templo do seu deus, e, enquanto comiam e bebiam, amaldiçoavam Abimelec.
+
+[[v7-9-28]]
+
+^<<v7-9-28,28>>^ Gaal, filho de Obed, disse: Quem é Abimelec, e que (cidade) é Siquém, para que lhe estejamos sujeitos? Não é ele filho de Jerobaal, e não constituiu Zebul, seu servo, príncipe sobre os descendentes de Emor pai de Siquém? Por que razão pois o serviremos?
+
+[[v7-9-29]]
+
+^<<v7-9-29,29>>^ Oxalá que alguém me desse o mando deste povo, para eu exterminar Abimelec. E foi dito a Abimelec: Junta um exército numeroso, e vem.
+
+[[v7-9-30]]
+
+^<<v7-9-30,30>>^ Zebul, governador da cidade, tendo ouvido as palavras de Gaal, filho de Obed, ficou em extremo irado
+
+[[v7-9-31]]
+
+^<<v7-9-31,31>>^ e enviou secretamente mensageiros a Abimelec, a dizer-lhe: Gaal, filho de Obed, veio a Siquém com seus irmãos, e anda sublevando a cidade contra ti.
+
+[[v7-9-32]]
+
+^<<v7-9-32,32>>^ Portanto, sai de noite, com a gente que tens contigo, e deixa-te estar escondido no campo;
+
+[[v7-9-33]]
+
+^<<v7-9-33,33>>^ pela manhã cedo, ao nascer do sol, lança-te sobre a cidade; quando ele sair contra ti, com a sua gente, faz-lhe o que puderes.
+
+[[v7-9-34]]
+
+^<<v7-9-34,34>>^ Abimelech pois levantou-se de noite, com todo o seu exército, e pôs emboscadas em quatro lugares junto de Siquém.
+
+[[v7-9-35]]
+
+^<<v7-9-35,35>>^ Gaal, filho de Obed, saiu, e fez alto à entrada da porta da cidade. (Imediatamente) Abimelec saiu do lugar das emboscadas com todo o exército.
+
+[[v7-9-36]]
+
+^<<v7-9-36,36>>^ Quando Gaal viu aquela gente, disse a Zebul: Eis uma multidão que desce dos montes. Zebul respondeu-lhe: As sombras dos montes é que parecem homens: estás enganado com esta ilusão.
+
+[[v7-9-37]]
+
+^<<v7-9-37,37>>^ Gaal replicou: eis uma multidão que desce dos mais altos cimos, e um esquadrão que vem pelo caminho do Carvalho dos Adivinhos.
+
+[[v7-9-38]]
+
+^<<v7-9-38,38>>^ Zebul disse-lhe; Onde está agora a tua boca, com que dizias: Quem é Abimelec, para lhe estarmos sujeitos? Não é este povo que tu desprezavas? Sai e combate contra ele.
+
+[[v7-9-39]]
+
+^<<v7-9-39,39>>^ Saiu Gaal, à vista de todo o povo de Siquém, e combateu conta Abimelec,
+
+[[v7-9-40]]
+
+^<<v7-9-40,40>>^ que o foi seguindo na fuga e o constrangeu a entrar na cidade, tendo morrido muitos dos homens (de Gaal) até às portas dela.
+
+[[v7-9-41]]
+
+^<<v7-9-41,41>>^ Abimelec deteve-se em Ruma; Zebul porém lançou fora da cidade Gaal e os seus companheiros, que não puderam mais permanecer nela.
+
+[[v7-9-42]]
+
+^<<v7-9-42,42>>^ Ao outro dia o povo saiu ao campo. Tendo sabido isto Abimelec,
+
+[[v7-9-43]]
+
+^<<v7-9-43,43>>^ tomou o seu exército e dividiu-o em três batalhões, dispondo emboscadas nos campos. Ao ver que o povo saía da cidade, pôs-se em movimento e deu sobre eles,
+
+[[v7-9-44]]
+
+^<<v7-9-44,44>>^ com o seu batalhão, combatendo e sitiando a cidade; os outros dois batalhões perseguiam os (que estavam) dispersos pelo campo.
+
+[[v7-9-45]]
+
+^<<v7-9-45,45>>^ Abimelec durante todo aquele dia esteve combatendo a cidade; tomou-a e matou os seus habitantes; depois arrasou-a e semeou-a de sal. (ver nota)
+
+[[v7-9-46]]
+
+^<<v7-9-46,46>>^ Tendo ouvido isto os que habitavam na torre de Siquém retiraram-se para o templo do seu deus Berit.
+
+[[v7-9-47]]
+
+^<<v7-9-47,47>>^ Abimelec, ouvindo dizer que os homens da torre de Siquém estavam nela todos apinhados,
+
+[[v7-9-48]]
+
+^<<v7-9-48,48>>^ subiu ao monte Selmon com toda a sua gente. Tomando um machado, cortou um ramo da árvore, e, levando-o ao ombro, disse aos companheiros: Fazei depressa o que me vêdes fazer.
+
+[[v7-9-49]]
+
+^<<v7-9-49,49>>^ Cortando, pois, à porfia, ramos de árvores, seguiram o chefe. Cercando a fortaleza, puseram-lhe fogo, e assim aconteceu que, por causa do fumo e do fogo, morreram mil pessoas, tanto homens como mulheres, que habitavam na torre de Siquém.
+
+[[v7-9-50]]
+
+^<<v7-9-50,50>>^ Partindo dali Abimelec foi à cidade de Tebes, que sitiou e tomou.
+
+[[v7-9-51]]
+
+^<<v7-9-51,51>>^ Havia no meio da cidade uma torre alta, na qual se tinham refugiado tanto homens como mulheres, e todos os principais da cidade; fechada fortemente a porta, subiram ao alto da torre, para se defenderem.
+
+[[v7-9-52]]
+
+^<<v7-9-52,52>>^ Abimelec, chegando-se ao pé da torre, atacou-a e aproximou-se da porta, para lhe pôr fogo.
+
+[[v7-9-53]]
+
+^<<v7-9-53,53>>^ Então uma mulher, lançando de cima um pedaço de mó, feriu Abimelec na cabeça e fracturou-lhe o crânio.
+
+[[v7-9-54]]
+
+^<<v7-9-54,54>>^ Ele chamou imediatamente o seu escudeiro e disse-lhe: Desembainha a tua espada e mata-me, para que se não diga que fui morto por uma mulher. O jovem o trespassou, e Abimelec morreu. (ver nota)
+
+[[v7-9-55]]
+
+^<<v7-9-55,55>>^ Morto Abimelec, todos os filhos de Israel, que estavam com ele, voltaram para as suas casas.
+
+[[v7-9-56]]
+
+^<<v7-9-56,56>>^ Assim pagou Deus a Abimelec o mal que tinha feito a seu pai, matando os seus setenta irmãos.
+
+[[v7-9-57]]
+
+^<<v7-9-57,57>>^ E assim também foi pago aos Siquemitas o mal que tinham feito, e caiu sobre eles a maldição de Joatão, filho de Jerobaal.
+
+'''
+
+xref:007-juizes/007-juizes-008.adoc#v7-8-0[&#60; Capítulo Anterior] | <<v7-9-0,Topo>> | xref:007-juizes/007-juizes-010.adoc#v7-10-0[Próximo Capítulo &#62;]

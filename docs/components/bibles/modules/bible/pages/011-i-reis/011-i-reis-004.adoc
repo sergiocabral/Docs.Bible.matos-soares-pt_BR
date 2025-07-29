@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v11-4-0]]
+=== I Reis, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de 1 Reis descreve a organização do reino de Salomão. Ele nomeou doze oficiais para cuidar de diferentes áreas do país, incluindo o abastecimento de alimentos para o palácio real e a provisão de cavalos para o exército. A seguir estão cinco versículos da Bíblia relacionados com os temas abordados em 1 Reis 4.
+* Deuteronômio 17:16: "Porém não multiplicará para si cavalos, nem fará voltar o povo ao Egito, para multiplicar cavalos; pois o Senhor vos disse: Nunca mais voltareis por este caminho." Este versículo fala sobre como os reis de Israel não deveriam acumular cavalos ou voltar para o Egito para adquirir mais. Isso se relaciona com o capítulo 4 de 1 Reis, onde Salomão adquire cavalos e carruagens de outros países para o seu exército.
+* Provérbios 28:19: "Quem lavra a sua terra terá fartura de pão, mas quem segue os ociosos se encherá de pobreza." Este provérbio fala sobre a importância do trabalho árduo e da produtividade na obtenção de riqueza e prosperidade. Isso se relaciona com o capítulo 4 de 1 Reis, onde há uma descrição dos oficiais de Salomão que trabalham arduamente para fornecer alimentos e suprimentos para o palácio.
+* Isaías 55:2: "Por que gastais o dinheiro naquilo que não é pão? E o produto do vosso trabalho naquilo que não pode satisfazer?" Este versículo fala sobre a importância de investir em coisas que são verdadeiramente valiosas e satisfatórias. Isso se relaciona com o capítulo 4 de 1 Reis, onde Salomão investe em infraestrutura e suprimentos para o seu reino, a fim de garantir a prosperidade e segurança de seu povo.
+* Provérbios 22:29: "Vês um homem diligente na sua obra? Ele ficará perante reis; não ficará perante homens de negócios." Este provérbio fala sobre a recompensa da diligência e do trabalho árduo, que pode levar à posição de honra e sucesso. Isso se relaciona com o capítulo 4 de 1 Reis, onde Salomão escolhe homens diligentes para liderar seu reino.
+* Provérbios 13:23: "A terra dos pobres produz muito mantimento, mas há quem a destrua pela injustiça." Este versículo fala sobre a importância da justiça na administração da terra e dos recursos. Isso se relaciona com o capítulo 4 de 1 Reis, onde Salomão nomeia oficiais justos para cuidar das áreas do país e garantir a prosperidade e segurança de seu povo.
+****
+
+[[v11-4-1]]
+
+^<<v11-4-1,1>>^ O rei Salomão reinava sobre todo o Israel.
+
+[[v11-4-2]]
+
+^<<v11-4-2,2>>^ Estes eram os principais ministros que tinha: Azarias filho do pontífice Sadoc;
+
+[[v11-4-3]]
+
+^<<v11-4-3,3>>^ Elioref e Aia, filhos de Sisa, secretários; Josafat, filho de Ailud, cronista;
+
+[[v11-4-4]]
+
+^<<v11-4-4,4>>^ Banaias, filho de Jojada, era general dos exércitos; Sadoc e Abiatar pontífices;
+
+[[v11-4-5]]
+
+^<<v11-4-5,5>>^ Azarias, filho de Natan, chefe dos intendentes; o sacerdote Zabud, filho de Natan, conselheiro privado do rei;
+
+[[v11-4-6]]
+
+^<<v11-4-6,6>>^ Aizar mordomo-mór; Adonirão, filho de Abda, superintendente dos tributos.
+
+[[v11-4-7]]
+
+^<<v11-4-7,7>>^ Salomão tinha estabelecido doze intendentes sobre todo o Israel, que tinham a seu cargo prover às necessidades do rei e de toda a sua casa, cada um durante um mês do ano.
+
+[[v11-4-8]]
+
+^<<v11-4-8,8>>^ Eis os seus nomes: Benur, no monte Efraim;
+
+[[v11-4-9]]
+
+^<<v11-4-9,9>>^ Bendecar, em Maces, em Salebim , em Betsames, em Elon e em Betanan;
+
+[[v11-4-10]]
+
+^<<v11-4-10,10>>^ Benhesed, em Arubot, ao qual também pertencia Soco e toda a terra de Efer;
+
+[[v11-4-11]]
+
+^<<v11-4-11,11>>^ Benabinadab, que tinha todo o país de Nefat Dor, e era casado com Tafet, filha de Salomão;
+
+[[v11-4-12]]
+
+^<<v11-4-12,12>>^ Bana, filho de Ailud, intendente de Tanac, de Magedo e de todo o país de Betsan que é vizinho de Sartana, debaixo de Jezrael, desde Betsan até Abelmeula, defronte de Jecman;
+
+[[v11-4-13]]
+
+^<<v11-4-13,13>>^ Bengaber, em Ramot de Galaad, que tinha as aldeias de Jair, filho de Manassés, em Galaad, e governava todo o país de Argob, que está em Basan, sessenta cidades grandes e muradas, que tinham fechaduras de bronze:
+
+[[v11-4-14]]
+
+^<<v11-4-14,14>>^ Ainadab filho de Ado, em Manaim:
+
+[[v11-4-15]]
+
+^<<v11-4-15,15>>^ Aquimaas, em Neftali, o qual tinha por mulher a Basemat, também filha de Salomão;
+
+[[v11-4-16]]
+
+^<<v11-4-16,16>>^ Baana, filho de Husi, em Aser, e em Balot;
+
+[[v11-4-17]]
+
+^<<v11-4-17,17>>^ Josafat, filho de Farué, em Issacar;
+
+[[v11-4-18]]
+
+^<<v11-4-18,18>>^ Semei, filho de Ela, em Benjamim;
+
+[[v11-4-19]]
+
+^<<v11-4-19,19>>^ Gaber, filho de Uri, na província de Galaad, pátria de Seon, rei dos Amorreus, e de Og, rei de Basan. (Para toda esta região havia um só intendente).
+
+[[v11-4-20]]
+
+^<<v11-4-20,20>>^ Judá e Israel eram, pela multidão, inumeráveis como a areia do mar; comiam, bebiam, e se alegravam.
+
+[[v11-4-21]]
+
+^<<v11-4-21,21>>^ Salomão tinha sob o seu domínio todos os reinos, desde o rio do país dos Filisteus até à fronteira do Egipto; todos lhe pagavam tributo e lhe estiveram sujeitos durante todos os dias da sua vida.
+
+[[v11-4-22]]
+
+^<<v11-4-22,22>>^ A casa de Salomão consumia, diariamente, trinta coros de flor de farinha, sessenta coros de farinha ordinária,
+
+[[v11-4-23]]
+
+^<<v11-4-23,23>>^ dez bois cevados e vinte de pasto, cem carneiros, além da caça de veados, corças, bois monteses, e de aves cevadas.
+
+[[v11-4-24]]
+
+^<<v11-4-24,24>>^ Ele era senhor de todo o país que estava da outra banda do rio, desde Tapsa até Gaza, e de todos os reis daquelas regiões, e, por toda a parte, tinha paz com os vizinhos.
+
+[[v11-4-25]]
+
+^<<v11-4-25,25>>^ Judá e Israel viviam sem temor algum, cada qual debaixo da sua parreira, e debaixo da sua figueira, desde Dan até Bersabé, durante todo o tempo que Salomão reinou.
+
+[[v11-4-26]]
+
+^<<v11-4-26,26>>^ Salomão tinha quatro mil mangedouras de cavalos para carros (de guerra), e doze mil cavalos de montar.
+
+[[v11-4-27]]
+
+^<<v11-4-27,27>>^ Os sobreditos intendentes do rei, cada um no seu mês, proviam com sumo cuidado às necessidades do rei Salomão e de todos os que se sentavam com ele à mesa.
+
+[[v11-4-28]]
+
+^<<v11-4-28,28>>^ Levavam também ao lugar onde fosse preciso, cevada e palha para os cavalos e bestas de carga, conforme lhes tinha sido ordenado.
+
+[[v11-4-29]]
+
+^<<v11-4-29,29>>^ Além disto Deus deu a Salomão a sabedoria, um grandíssimo entendimento, e uma magnanimidade imensa, como a areia que há na praia do mar.
+
+[[v11-4-30]]
+
+^<<v11-4-30,30>>^ A sabedoria de Salomão excedia a sabedoria de todos os orientais e Egípcios.
+
+[[v11-4-31]]
+
+^<<v11-4-31,31>>^ Era mais sábio que todos os homens, mais sábio do que Etan Ezraita, do que Heman, do que Calcol e do que Dorda, filhos de Maol, e era nomeado por todas as nações circunvizinhas.
+
+[[v11-4-32]]
+
+^<<v11-4-32,32>>^ Propôs Salomão três mil parábolas. Os seus cânticos foram mil e cinco.
+
+[[v11-4-33]]
+
+^<<v11-4-33,33>>^ Tratou (nos seus escritos e conversas) de todas as árvores, desde o cedro, que há no Líbano, até ao hissopo, que brota da parede, e tratou dos animais, das aves, dos répteis e dos peixes.
+
+[[v11-4-34]]
+
+^<<v11-4-34,34>>^ De todos os povos, da parte de todos os reis da terra, que ouviam falar da sua sabedoria, vinham ouvir a sabedoria de Salomão.
+
+'''
+
+xref:011-i-reis/011-i-reis-003.adoc#v11-3-0[&#60; Capítulo Anterior] | <<v11-4-0,Topo>> | xref:011-i-reis/011-i-reis-005.adoc#v11-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-48-0]]
+=== Salmos, 48
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 48 é um cântico de louvor a Deus, que é exaltado como o grande Rei sobre a Terra. O salmista descreve a grandeza de Sião, a cidade de Deus, e a forma como Deus a protege e a fortalece. Ele conclui com um apelo para que as pessoas contem aos seus filhos sobre a grandeza de Deus e o que Ele fez por Sião. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 48:
+* Salmo 47:8 - "Deus é Rei sobre as nações; Deus está sentado em seu santo trono." Este verso também enfatiza a soberania e a realeza de Deus, como o salmista de Salmo 48 faz.
+* Salmo 50:2 - "De Sião, perfeita em beleza, Deus resplandece." Este verso se relaciona com a descrição de Sião como uma cidade bela e forte em Salmo 48.
+* Isaías 2:2 - "Nos últimos dias o monte do templo do Senhor será estabelecido como o mais alto dos montes; será exaltado acima das colinas, e todas as nações virão a ele." Este verso se relaciona com a ideia de Sião como a cidade de Deus e com a profecia de que todas as nações se voltarão para o Senhor.
+* Isaías 12:6 - "Clamem em alta voz e exultem, ó habitantes de Sião, pois grande é o Santo de Israel no meio de vocês." Este verso destaca a importância de Sião como um lugar de adoração e louvor a Deus.
+* Isaías 33:20-21 - "Olhe para Sião, cidade das nossas festas; seus olhos verão Jerusalém, morada tranquila, tenda que não será removida; seus estacas nunca serão arrancadas, nem suas cordas quebradas." Este verso se relaciona com a ideia de que Sião é uma cidade fortificada, protegida por Deus, como é descrito em Salmo 48.
+****
+
+[[v21-48-1]]
+
+^<<v21-48-1,1>>^ Ao mestre do coro. Dos filhos de Coré. Salmo.
+
+[[v21-48-2]]
+
+^<<v21-48-2,2>>^ Ouvi todas isto, ó nações; estai atentos, vós todos que povoais a terra,
+
+[[v21-48-3]]
+
+^<<v21-48-3,3>>^ tanto os nascidos de plebeus, como os nobres, à uma juntamente o rico e o pobre.
+
+[[v21-48-4]]
+
+^<<v21-48-4,4>>^ A minha boca vai proferir sabedoria, e a meditação do meu coração (manifestará) inteligência.
+
+[[v21-48-5]]
+
+^<<v21-48-5,5>>^ Inclinarei o meu ouvido ao provérbio, resolverei o meu enigma ao som da lira.
+
+[[v21-48-6]]
+
+^<<v21-48-6,6>>^ Por que hei-de temer eu nos dias maus, quando me circunda a iniquidade dos insidiadores,
+
+[[v21-48-7]]
+
+^<<v21-48-7,7>>^ que confiam na sua opulência, e se gloriam na multidão das suas riquezas?
+
+[[v21-48-8]]
+
+^<<v21-48-8,8>>^ Na verdade ninguém pode livrar-se a si próprio, nem dar a Deus o preço do seu resgate;
+
+[[v21-48-9]]
+
+^<<v21-48-9,9>>^ o livrar a própria vida é coisa muitíssimo cara e nunca bastará
+
+[[v21-48-10]]
+
+^<<v21-48-10,10>>^ para que possa viver sempre, sem ver a morte.
+
+[[v21-48-11]]
+
+^<<v21-48-11,11>>^ Verá, com efeito, que morrem os sábios, o insensato e o néscio perecem igualmente, e deixam a outros as suas riquezas.
+
+[[v21-48-12]]
+
+^<<v21-48-12,12>>^ Os sepulcros serão as suas habitações para sempre, suas moradas de geração em geração, posto que tenham dado os seus nomes às terras.
+
+[[v21-48-13]]
+
+^<<v21-48-13,13>>^ De facto o homem não permanecerá na opulência: é semelhante às alimárias que perecem.
+
+[[v21-48-14]]
+
+^<<v21-48-14,14>>^ Este é o caminho dos que presumem nèsciamente, e este é o fim dos que se deleitam na sua sorte.
+
+[[v21-48-15]]
+
+^<<v21-48-15,15>>^ Como (um rebanho de) ovelhas, são postos na morada dos mortos; a morte os apascenta, e os justos os dominam. Depressa desaparecerá a sua figura, e a habitação dos mortos será a sua morada.
+
+[[v21-48-16]]
+
+^<<v21-48-16,16>>^ Deus, porém, livrará a minha alma da morada dos mortos, pois me tomará consigo.
+
+[[v21-48-17]]
+
+^<<v21-48-17,17>>^ Não te dê cuidado quando alguém enriquecer, quando crescer a opulência da sua casa:
+
+[[v21-48-18]]
+
+^<<v21-48-18,18>>^ realmente, em morrendo nada levará consigo, nem a sua opulência descerá com ele.
+
+[[v21-48-19]]
+
+^<<v21-48-19,19>>^ Ainda que em vida se tenha felicitado (dizendo): "Hão-de celebrar-te, porque te trataste bem",
+
+[[v21-48-20]]
+
+^<<v21-48-20,20>>^ irá para a morada de seus pais, que jamais verão a luz.
+
+[[v21-48-21]]
+
+^<<v21-48-21,21>>^ O homem que vive na opulência e não reflecte, é semelhante às alimárias que perecem.
+
+'''
+
+xref:021-salmos/021-salmos-047.adoc#v21-47-0[&#60; Capítulo Anterior] | <<v21-48-0,Topo>> | xref:021-salmos/021-salmos-049.adoc#v21-49-0[Próximo Capítulo &#62;]

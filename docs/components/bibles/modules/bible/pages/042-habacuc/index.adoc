@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v42-0-0]]
+== Habacuc
+
+[cols="8*^"]
+|===
+| xref:042-habacuc/042-habacuc-001.adoc#v42-1-0[1]
+| xref:042-habacuc/042-habacuc-002.adoc#v42-2-0[2]
+| xref:042-habacuc/042-habacuc-003.adoc#v42-3-0[3]
+|
+|
+|
+|
+|
+|===

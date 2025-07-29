@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v30-27-0]]
+=== Jeremias, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 27 fala sobre como Deus instruiu Jeremias a fazer um jugo de madeira e enviá-lo a todos os reis vizinhos de Judá, simbolizando a sujeição de Judá à Babilônia. Ele também advertiu esses reis a não acreditar nos falsos profetas que os encorajavam a lutar contra a Babilônia, mas em vez disso, aceitar a punição de Deus e se submeter a Nabucodonosor. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Ezequiel 17:14 - "Para que o reino ficasse humilde, sem se levantar, e para que guardasse a sua aliança, e a cumprisse, a fim de que pudesse subsistir." Este versículo fala sobre a humildade necessária para se submeter a uma aliança, o que é exatamente o que Jeremias está pedindo que esses reis vizinhos de Judá façam em relação à Babilônia.
+* Isaías 45:1 - "Assim diz o Senhor ao seu ungido, a Ciro, a quem tomei pela mão direita, para abater as nações diante de sua face, e descingir os lombos dos reis, para abrir diante dele as portas, e as portas não se fecharão." Este versículo mostra que Deus pode usar qualquer pessoa, mesmo uma que não é de Judá, para realizar a sua vontade, como ele está usando Nabucodonosor para punir Judá.
+* Jeremias 29:8-9 - "Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Não vos enganem os vossos profetas que estão no meio de vós, nem os vossos adivinhadores, nem deis ouvidos aos vossos sonhos, que sonhais. Porque eles vos profetizam falsamente em meu nome; eu não os enviei, diz o Senhor." Este versículo fala sobre os falsos profetas que Jeremias está advertindo os reis vizinhos de Judá a não ouvir.
+* Jeremias 25:11-12 - "E toda esta terra virá a ser em desolação e espanto; e estas nações servirão ao rei de Babilônia setenta anos. E quando se cumprirem os setenta anos, castigarei o rei de Babilônia e aquela nação, diz o Senhor, pela sua iniqüidade, e castigarei a terra dos caldeus; e farei dela uma perpétua desolação." Este versículo prevê a punição que Deus vai infligir à Babilônia depois que eles concluírem a sua tarefa de punir Judá, mostrando que Deus está no controle da situação.
+* 2 Crônicas 36:17: "Deus entregou todos eles nas mãos dos caldeus" Este versículo relata a ação de Deus em entregar o povo de Judá nas mãos dos caldeus como consequência da desobediência e dos pecados do povo. Isso se relaciona com o tema do capítulo 27 de Jeremias, onde o profeta adverte o povo a se submeter ao jugo de Nabucodonosor, rei da Babilônia, para evitar a destruição de Jerusalém e do templo de Deus.
+****
+
+[[v30-27-1]]
+
+^<<v30-27-1,1>>^ No princípio do reinado de Joaquim, filho de Josias, rei de Judá, o Senhor falou a Jeremias nos termos seguintes:
+
+[[v30-27-2]]
+
+^<<v30-27-2,2>>^ Isto me disse o Senhor: Faze-te umas prisões e um jugo, que porás ao pescoço.
+
+[[v30-27-3]]
+
+^<<v30-27-3,3>>^ Depois mandarás (essas coisas) ao rei de Edom, ao rei de Moab, ao rei dos filhos de Amon, ao rei de Tiro e ao rei de Sidónia, por mão dos embaixadores que vieram a Jerusalém tratar com Sedecias, rei de Judá.
+
+[[v30-27-4]]
+
+^<<v30-27-4,4>>^ E ordernar-lhes-ás que comuniquem o seguinte a seus amos: Assim fala o Senhor dos exércitos, o Deus de Israel: Direis isto a vossos amos:
+
+[[v30-27-5]]
+
+^<<v30-27-5,5>>^ Eu fiz a terra, os homens e os animais que estão sobre a face da terra, com o meu grande poder, com o meu braço estendido, e dou o seu domínio àquele a quem me apraz dá-lo.
+
+[[v30-27-6]]
+
+^<<v30-27-6,6>>^ Agora entreguei todas estas terras nas mãos de Nabucodonosor, rei de Babilônia, meu servo; até lhe dei também os animais do campo, para que o sirvam.
+
+[[v30-27-7]]
+
+^<<v30-27-7,7>>^ Todos estes povos o servirão a ele, a seu filho, e ao filho de seu filho, até que venha o tempo da sua terra, até que seja (par sua vez) submetida a muitas nações e grandes reis.
+
+[[v30-27-8]]
+
+^<<v30-27-8,8>>^ Quanto à nação ou reino, que não se submeter a Nabucodonosor, rei de Babilônia, que não encurvou o seu pescoço debaixo do jugo do rei de Babilônia, castigarei tal nação com a espada, com a fome e com a peste, diz o Senhor, até à destruição pela mão dele.
+
+[[v30-27-9]]
+
+^<<v30-27-9,9>>^ Vós, pois, não deis ouvidos aos vossos profetas, adivinhos, sonhadores, agoureiros e feiticeiros, que vos dizem: Não servireis ao rei de Babilônia.
+
+[[v30-27-10]]
+
+^<<v30-27-10,10>>^ Com efeito, eles vos profetizam a mentira, de forma que sejais mandados para longe da vossa terra, que eu vos disperse e que venhais a perecer.
+
+[[v30-27-11]]
+
+^<<v30-27-11,11>>^ Mas a nação que submeter a sua cerviz ao jugo do rei de Babilônia, e o servir, eu a deixarei na sua terra, diz o Senhor, para a cultivar e nela habitar.
+
+[[v30-27-12]]
+
+^<<v30-27-12,12>>^ E a Sedecias, rei de Judá, anunciei todas estas mesmas coisas, dizendo: Submetei o vosso pescoço ao jugo do rei de Babilônia, servi-o a ele e ao seu povo, e vivereis.
+
+[[v30-27-13]]
+
+^<<v30-27-13,13>>^ Por que causa vos sujeitais a morrer, tu e o teu povo, à espada, de fome e de peste, como o Senhor predisse à nação que não quiser submeter-se ao rei de Babilônia?
+
+[[v30-27-14]]
+
+^<<v30-27-14,14>>^ Não queirais dar ouvidos às palavras dos profetas que vos dizem: Não tereis de servir ao rei de Babilônia - porque eles vos falam a mentira.
+
+[[v30-27-15]]
+
+^<<v30-27-15,15>>^ Eu não os enviei, diz o Senhor; eles profetizam falsamente em meu nome, de sorte que eu vos disperse e venhais a perecer, tanto vós como os profetas que (falsamente)vos fazem profecias.
+
+[[v30-27-16]]
+
+^<<v30-27-16,16>>^ Também falei aos sacerdotes e a este povo, nos seguintes termos: Assim diz o Senhor: Não queirais dar ouvidos às palavras dos vossos profetas, que vos anunciam que os objetos do templo do Senhor voltarão brevemente de Babilônia, porque vos profetizam a mentira.
+
+[[v30-27-17]]
+
+^<<v30-27-17,17>>^ Não queirais, pois, dar-lhes ouvidos, mas sujeitai-vos ao rei de Babilônia, para que vivais; por que há-de ficar esta cidade reduzida a um deserto?
+
+[[v30-27-18]]
+
+^<<v30-27-18,18>>^ Se são profetas (verdadeiros) e está neles a palavra do Senhor, intercedam junto do Senhor dos exércitos, para que os objetos que ficaram na casa do Senhor, na casa do rei de Judá e em Jerusalém, não sejam (também) levados para Babilônia.
+
+[[v30-27-19]]
+
+^<<v30-27-19,19>>^ Porque eis o que diz o Senhor dos exércitos acerca das colunas, do mar (de bronze), das bases e dos outros objetos, que ficaram nesta cidade,
+
+[[v30-27-20]]
+
+^<<v30-27-20,20>>^ os quais Nabucodonosor, rei de Babilônia, não levou de Jerusalém para Babilônia, quando transportou Jeconias, filho de Joaquim, rei de Judá, e todos os grandes de Judá e de Jerusalém.
+
+[[v30-27-21]]
+
+^<<v30-27-21,21>>^ eis (repito) o que diz o Senhor dos exércitos, o Deus de Israel, acerca dos objetos que foram deixados na casa do Senhor, na casa do rei de Judá e em Jerusalém;
+
+[[v30-27-22]]
+
+^<<v30-27-22,22>>^ A Babilônia serão transportados e ali estarão até ao dia em que eu os for buscar, diz o Senhor, e os fizer trazer e restituir a este lugar.
+
+'''
+
+xref:030-jeremias/030-jeremias-026.adoc#v30-26-0[&#60; Capítulo Anterior] | <<v30-27-0,Topo>> | xref:030-jeremias/030-jeremias-028.adoc#v30-28-0[Próximo Capítulo &#62;]

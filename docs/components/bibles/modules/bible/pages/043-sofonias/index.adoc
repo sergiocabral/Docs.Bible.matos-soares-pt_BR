@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v43-0-0]]
+== Sofonias
+
+[cols="8*^"]
+|===
+| xref:043-sofonias/043-sofonias-001.adoc#v43-1-0[1]
+| xref:043-sofonias/043-sofonias-002.adoc#v43-2-0[2]
+| xref:043-sofonias/043-sofonias-003.adoc#v43-3-0[3]
+|
+|
+|
+|
+|
+|===

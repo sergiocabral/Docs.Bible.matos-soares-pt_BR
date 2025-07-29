@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v9-19-0]]
+=== I Samuel, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 19 narra a história de como o rei Saul começa a perseguir Davi, que se tornou seu rival e ameaça ao trono. O capítulo aborda temas como inveja, traição, perseguição, proteção divina e fidelidade.
+* Salmos 37:1-2: "Não te indignes por causa dos malfeitores, nem tenhas inveja dos que praticam a iniquidade. Porque cedo serão ceifados como a erva, e murcharão como a verdura." Este versículo destaca a inutilidade da inveja e do ódio contra outras pessoas, que é o que motiva Saul a perseguir Davi. O salmista exorta a confiar em Deus, que trará justiça para aqueles que praticam o mal.
+* Provérbios 17:17: "Em todo o tempo ama o amigo e na angústia se faz o irmão." Este versículo fala sobre a importância da amizade e da fidelidade, valores que Davi demonstra ao proteger Jônatas, filho de Saul, mesmo quando seu próprio sogro tenta matá-lo.
+* Salmos 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Este versículo enfatiza a proteção divina para aqueles que buscam a justiça e a retidão, o que Davi experimenta quando escapa das várias tentativas de assassinato de Saul.
+* Provérbios 26:24-25: "O que odeia disfarça com os seus lábios, mas no seu interior encobre o engano. Quando te suplicar com voz suave, não te fies nele, porque sete abominações há no seu coração." Este versículo fala sobre a falsidade e a traição, comportamentos que Saul demonstra ao fingir perdoar Davi, mas na verdade continua a persegui-lo.
+* Salmos 27:1: "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a fortaleza da minha vida; de quem me recearei?" Este versículo destaca a importância da confiança em Deus, que é o que Davi demonstra ao enfrentar a perseguição de Saul com coragem e fé.
+****
+
+[[v9-19-1]]
+
+^<<v9-19-1,1>>^ Saul falou a Jónatas, seu filho, e a todos os seus servos, para que matassem Davide, mas Jónatas, filho de Saul, amava extremosamente Davide.
+
+[[v9-19-2]]
+
+^<<v9-19-2,2>>^ Jónatas avisou Davide, dizendo: Saul, meu pai, procura matar-te, por isso rogo-te que te guardes amanhã de manhã, te retires a um lugar oculto, onde te escondas.
+
+[[v9-19-3]]
+
+^<<v9-19-3,3>>^ Eu sairei e conservar-me-ei junto de meu pai no campo onde tu estiveres, falarei de ti a meu pai e te avisarei de tudo o que souber.
+
+[[v9-19-4]]
+
+^<<v9-19-4,4>>^ Jónatas, pois, falou em favor de Davide a Saul, seu pai, e disse-lhe: Não peques, ó rei, contra Davide, teu servo, porque ele não pecou contra ti, e os seus serviços foram-te muito úteis.
+
+[[v9-19-5]]
+
+^<<v9-19-5,5>>^ Expôs a sua vida ao perigo, matou o Filisteu , e o Senhor salvou (por meio dele) todo o Israel por um modo maravilhoso; tu o viste e te alegraste. Por que queres, pois, pecar contra sangue inocente, matando Davide, que não tem culpa?
+
+[[v9-19-6]]
+
+^<<v9-19-6,6>>^ Saul, tendo ouvido isto, aplacado com as razões de Jónatas, jurou: Viva o Senhor, que ele não morrerá.
+
+[[v9-19-7]]
+
+^<<v9-19-7,7>>^ Jónatas chamou, pois, Davide, e contou-lhe todas estas coisas; a seguir, levou-o à presença de Saul, e (Davide) ficou vivendo junto dele, como antes.
+
+[[v9-19-8]]
+
+^<<v9-19-8,8>>^ Quando recomeçou a guerra, Davide, saindo, combateu contra os Filisteus, fazendo neles grande destroço e obrigando-os a fugir diante dele
+
+[[v9-19-9]]
+
+^<<v9-19-9,9>>^ E o espírito maligno, mandado pelo Senhor, apoderou-se de Saul. Estava este sentado em sua casa, com um a lança na mão, e David e tocava harpa.
+
+[[v9-19-10]]
+
+^<<v9-19-10,10>>^ Saul tentou atravessar Davide com a lança contra a parede, mas Davide desviou-se, e a lança, sem o ofender, foi cravar se na parede. Davide fugiu e salvou-se aquela noite.
+
+[[v9-19-11]]
+
+^<<v9-19-11,11>>^ Mandou, pois, Saul os seus guardas a casa de Davide para lho terem seguro e para ser morto pela manhã. Porém Davide foi avisado por Micol, sua mulher, que lhe disse: Se te não puseres a salvo esta noite, amanhã morrerás.
+
+[[v9-19-12]]
+
+^<<v9-19-12,12>>^ Ela fê-lo descer por uma janela, e ele fugiu e salvou-se.
+
+[[v9-19-13]]
+
+^<<v9-19-13,13>>^ Em seguida Micol tomou uma estátua, deitou-a em cima da cama, pôs-lhe ao redor da cabeça uma pele de cabra com o pêlo, e cobriu-a com a roupa.
+
+[[v9-19-14]]
+
+^<<v9-19-14,14>>^ Saul mandou guardas para prenderem Davide, mas foi-lhes respondido que estava doente.
+
+[[v9-19-15]]
+
+^<<v9-19-15,15>>^ Saul mandou segunda vez mensageiros com ordens de ver Davide, dizendo-lhes: Trazei-mo no seu mesmo leito, para ser morto.
+
+[[v9-19-16]]
+
+^<<v9-19-16,16>>^ Tendo chegado os mensageiros, encontraram em cima da cama a estátua que tinha em roda da cabeça uma pele de cabra.
+
+[[v9-19-17]]
+
+^<<v9-19-17,17>>^ Saul disse a Micol: Por que me enganaste assim e deixaste fugir o meu inimigo? Micol respondeu a Saul: Porque ele me disse: Deixa-me ir, senão matar-te-ei.
+
+[[v9-19-18]]
+
+^<<v9-19-18,18>>^ Davide, pois, fugiu e pôs-se a salvo. Foi ter com Samuel a Rama e contou-lhe tudo o que Saul lhe tinha feito. Depois retiraram-se, ele e Samuel, e habitaram em Naiot.
+
+[[v9-19-19]]
+
+^<<v9-19-19,19>>^ Noticiaram a Saul: Davide está em Naiot de Rama.
+
+[[v9-19-20]]
+
+^<<v9-19-20,20>>^ Saul mandou guardas para prenderem Davide, mas tendo eles visto um grupo de profetas que profetizavam , com Samuel à frente, o Espírito do Senhor apoderou-se também deles, e começaram também a profetizar. (ver nota)
+
+[[v9-19-21]]
+
+^<<v9-19-21,21>>^ Tendo isto sido contado a Saul, mandou outros mensageiros, mas estes também profetizaram. De novo mandou Saul terceiros mensageiros, mas também estes profetizaram. Então Saul, cheio de cólera,
+
+[[v9-19-22]]
+
+^<<v9-19-22,22>>^ foi ele próprio a Rama, chegou até à grande cisterna, que há em Soco, e perguntou: Em que lugar estão Samuel e Davide? Foi-lhe respondido: Estão em Naiot de Rama.
+
+[[v9-19-23]]
+
+^<<v9-19-23,23>>^ Partiu para Naiot de Rama, mas apoderou-se também dele o Espírlto do Senhor, e ia andando, e profetizando (por todo o caminho) até que chegou a Naiot de Rama.
+
+[[v9-19-24]]
+
+^<<v9-19-24,24>>^ (Chegando lá ) despojou-se também ele das suas vestes, e profetizou com os outros diante de Samuel, e esteve nú, por terra, aquele dia e aquela noite. Daqui tomou origem o provérbio: Também Saul entre os profetas? (ver nota)
+
+'''
+
+xref:009-i-samuel/009-i-samuel-018.adoc#v9-18-0[&#60; Capítulo Anterior] | <<v9-19-0,Topo>> | xref:009-i-samuel/009-i-samuel-020.adoc#v9-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,279 @@
+include::./index.adoc[]
+
+[[v4-26-0]]
+=== Números, 26
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 26 do livro de Números apresenta um censo dos filhos de Israel após a morte da geração que havia sido contada no primeiro censo. Os versículos abaixo se relacionam com temas abordados nesse capítulo:
+* Gênesis 46:8: "E estes são os nomes dos filhos de Israel, que entraram no Egito, Jacó e seus filhos: Rúben, o primogênito de Jacó." Este versículo menciona o filho mais velho de Jacó, Rúben, que também é listado como o primogênito de Israel no censo de Números 26.
+* Êxodo 6:15: "E estes são os filhos de Levi, segundo as suas gerações: Gérson, Coate e Merari; e os anos da vida de Levi foram cento e trinta e sete anos." Este versículo apresenta os três filhos de Levi, que foram os ancestrais das três famílias levíticas que foram contadas no censo de Números 26.
+* Deuteronômio 2:14: "E o tempo que caminhamos desde Cades-Barnéia, até que passamos o ribeiro de Zerede, foi de trinta e oito anos; até que se consumiu toda aquela geração dos homens de guerra, do meio do arraial, como o SENHOR lhes jurara." Este versículo menciona o período de tempo que se passou desde a primeira contagem até a segunda contagem, que é registrada em Números 26.
+* Números 1:44: "Estes são os contados, que Moisés e Arão contaram com os doze príncipes de Israel; cada um era chefe da casa dos seus pais." Este versículo se relaciona com o censo anterior, registrado em Números 1, que contou os filhos de Israel antes de partir para o deserto.
+* Josué 14:1: "Estes, pois, são os que ficaram dos filhos de Israel na terra de Canaã, os quais Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das tribos dos filhos de Israel deram em possessão." Este versículo menciona a distribuição da terra de Canaã entre as tribos de Israel após o censo registrado em Números 26.
+****
+
+[[v4-26-1]]
+
+^<<v4-26-1,1>>^ Depois que foi derramado sangue dos culpados, o Senhor disse a Moisés e ao sacerdote Eleázaro, filho de Aarão:
+
+[[v4-26-2]]
+
+^<<v4-26-2,2>>^ Fazei o recenseamento de todos os filhos de Israel, desde os vinte anos para cima, segundo as suas casas e famílias, de todos os que são aptos para pegar em armas.
+
+[[v4-26-3]]
+
+^<<v4-26-3,3>>^ Moisés, pois, e Eleázaro sacerdote falaram nas planícies de Moab, ao longo do Jordão, defronte de Jericó aos que tinham
+
+[[v4-26-4]]
+
+^<<v4-26-4,4>>^ vinte anos, e dai para cima, conforme o Senhor lhes tinha mandado. Eis o número (dos recenseados):
+
+[[v4-26-5]]
+
+^<<v4-26-5,5>>^ Ruben, primogênito de Israel. Filhos de Ruben: Henoch, do qual (saiu) a família de Henoquitas; Falu, do qual (saiu) a família dos Faluitas;
+
+[[v4-26-6]]
+
+^<<v4-26-6,6>>^ Hesron, do qual (saiu) a família dos Hesronitas; Carmi, do qual (saiu) a família dos Carmitas.
+
+[[v4-26-7]]
+
+^<<v4-26-7,7>>^ Estas são as famílias da estirpe de Ruben, nas quais se encontrou o número de quarenta e três mil e setecentos e trinta (homens).
+
+[[v4-26-8]]
+
+^<<v4-26-8,8>>^ O filho de Falu foi Eliab,
+
+[[v4-26-9]]
+
+^<<v4-26-9,9>>^ e os filhos deste foram: Namuel, Datan e Abiron. Estes são aqueles Datan e Abiron, príncipes do povo, que se levantaram contra Moisés e Aarão na sedição de Coré, quando se revoltaram contra o Senhor:
+
+[[v4-26-10]]
+
+^<<v4-26-10,10>>^ a terra abrindo a sua boca, engoliu-os com Coré, quando morreram muitas, quando o fogo queimou duzentos e cinquenta homens. Eles serviram de exemplo.
+
+[[v4-26-11]]
+
+^<<v4-26-11,11>>^ Todavia os filhos de Coré não pereceram.
+
+[[v4-26-12]]
+
+^<<v4-26-12,12>>^ Filhos de Simeão, segundo as suas famílias: Namuel, do qual (saiu) a família dos Namuelitas; Jamim, do qual (saiu) a família dos Jaminitas; Jaquin do qual (saiu) a família dos Jaquinitas:
+
+[[v4-26-13]]
+
+^<<v4-26-13,13>>^ Zare, do qual (saiu) a família dos Zareitas; Saul, do qual (saiu) a família dos Saulitas.
+
+[[v4-26-14]]
+
+^<<v4-26-14,14>>^ Estas são as famílias da estirpe de Simeão, de que se contaram, ao todo, vinte e dois mil e duzentos (homens).
+
+[[v4-26-15]]
+
+^<<v4-26-15,15>>^ Filhos de Gad, segundo as suas famílias: Sefon, do qual (saiu) a família dos Sefonistas; Agi, do qual (saiu) a família dos Agitas; Sun, do qual (saiu) a família dos Sunitas;
+
+[[v4-26-16]]
+
+^<<v4-26-16,16>>^ Ozni, do qual (saiu) a família dos Oznitas; Her do qual (saiu) a família dos Heritas;
+
+[[v4-26-17]]
+
+^<<v4-26-17,17>>^ Arod, do qual (saiu) a família dois Aroditas; Ariel, do qual (saiu) a família dos Arielitas.
+
+[[v4-26-18]]
+
+^<<v4-26-18,18>>^ Estas são as famílias de Gad, de que se contaram, ao todo, quarenta mil e quinhentos (homens).
+
+[[v4-26-19]]
+
+^<<v4-26-19,19>>^ Filhos de Judá: Her e Onan, os quais morreram na terra de Canaan.
+
+[[v4-26-20]]
+
+^<<v4-26-20,20>>^ Os Outros filhos de Judá, contados segundo as suas famílias, foram: Sela, do qual (saiu) a família dos Selaítas; Farés do qual (saiu) a família dos Faresitas; Zare, do qual (saiu) a família dos Zareítas.
+
+[[v4-26-21]]
+
+^<<v4-26-21,21>>^ Filhos de Farés: Hesron, do qual (saiu) a família dos Hesronitas; Hamul, do qual (saiu) a família dos Hamulitas
+
+[[v4-26-22]]
+
+^<<v4-26-22,22>>^ Estas são as famílias de Judá, de que sie contaram, ao todo, sessenta e seis mil e quinhentos (homens).
+
+[[v4-26-23]]
+
+^<<v4-26-23,23>>^ Filhos de Issacar, segundo as suas famílias: Tola, do qual (saiu) a família dos Tolaítas; Fua, do qual (saiu) a família dos Fuaítas:
+
+[[v4-26-24]]
+
+^<<v4-26-24,24>>^ Jasub, do qual (saiu) a família dos Jasubitas; Semram, do qual (saiu) a família do Semranítas.
+
+[[v4-26-25]]
+
+^<<v4-26-25,25>>^ Estas são as famílias de Issacar de que se contaram, ao todo, sessenta e quatro mil e trezentos (homens).
+
+[[v4-26-26]]
+
+^<<v4-26-26,26>>^ Filhos de Zabulon segundo as suas famílias: Sared, do qual (saiu) a família dos Sareditas: Elon, do qual (saiu) a família dos Elonitas: Jalel, do qual (saiu) a família dos Jalelitas.
+
+[[v4-26-27]]
+
+^<<v4-26-27,27>>^ Estas são as famílias de Zabulon, de que se contaram, ao todo, sessenta mil e quinhentos (homens).
+
+[[v4-26-28]]
+
+^<<v4-26-28,28>>^ Filhos de José segundo as suas famílias: Manassés e Efraim.
+
+[[v4-26-29]]
+
+^<<v4-26-29,29>>^ De Manassés nasceu Maquir, do qual (descende) a família dos Maquiritas. Maquir gerou Galaad, do qual (descende) a família dos Galaaditas.
+
+[[v4-26-30]]
+
+^<<v4-26-30,30>>^ Filhos de Galaad: Jezer, do qual (descende) a família dos Jezeritas; Helec, do qual (descende) a família dos Helecitas;
+
+[[v4-26-31]]
+
+^<<v4-26-31,31>>^ Asriel do qual (descende) a família dois Asrielitas: Sequem, do qual (descende) a família dos Sequemitas:
+
+[[v4-26-32]]
+
+^<<v4-26-32,32>>^ Semida, do qual (descende) a família dos Semidaítas; Hefer, do qual (descende) a família dos Heferitas.
+
+[[v4-26-33]]
+
+^<<v4-26-33,33>>^ Hefer foi pai de Salfaad, que não teve filhos, mas somente filhas, cujos nomes são estes: Malala, Noa, Hegla, Melca e Tensa.
+
+[[v4-26-34]]
+
+^<<v4-26-34,34>>^ Estas são as famílias de Manassés, de que se contaram, ao todo, cinquenta e dois mil e setecentos (homens).
+
+[[v4-26-35]]
+
+^<<v4-26-35,35>>^ Os filhos de Efraim segundo as suas famílias, foram: Sutala, do qual (descende) a família dos Sutalaítas; Bequer, do qual (descende) a família dos Bequeritas; Teen, do qual (descende) a família dos Teenitas.
+
+[[v4-26-36]]
+
+^<<v4-26-36,36>>^ Filho de Sutala, do Heran, do qual (descende) a família dos Heranitas.
+
+[[v4-26-37]]
+
+^<<v4-26-37,37>>^ Estas são as famílias dos filhos de Efraim, de que se contaram, ao todo, trinta e dois mil e quinhentos (homens).
+
+[[v4-26-38]]
+
+^<<v4-26-38,38>>^ Estes são os filhos de José segundo as suas famílias. Filhos de Benjamim segundo as suas famílias: Bela, do qual (descende) a família dos Belaítas; Asbel do qual (descende) a família dos Asbelitas; Airam, do qual (descende) a família dos Airamitas:
+
+[[v4-26-39]]
+
+^<<v4-26-39,39>>^ Sufam, do qual (descende) a família dos Sufamitas: Hufam, do qual (descende) a família dos Hufamitas.
+
+[[v4-26-40]]
+
+^<<v4-26-40,40>>^ Filhos de Bela: Hered e Noeman. De Hered (descende) a família dos Hereditas: de Noeman, a família dos Noemanitas.
+
+[[v4-26-41]]
+
+^<<v4-26-41,41>>^ Estes são os filhos de Benjamim segundo as suas famílias, de que se contaram, ao todo, quarenta e cinco mil e seiscentos (homens).
+
+[[v4-26-42]]
+
+^<<v4-26-42,42>>^ Filhos de Dan segundo as suas famílias: Suam, do qual (descende) a família dos Suamitas. Estes são descendentes de Dan, conforme as suas famílias.
+
+[[v4-26-43]]
+
+^<<v4-26-43,43>>^ Todos foram Suamitas. Deles se contaram sessenta e quatro mil e quatrocentos (homens).
+
+[[v4-26-44]]
+
+^<<v4-26-44,44>>^ Filhos de Aser segundo as suas famílias: Jemna, do qual (descende) a família dos Jemnitas; Jessui, do qual (descende) a família dos Jessuítas; Brie, do qual (descende) a família dos Brieitas.
+
+[[v4-26-45]]
+
+^<<v4-26-45,45>>^ Filhos de Brie: Heber, do qual (descende) a família dos Heberitas; Melquiel, do qual (descende) a família dos Melquielitas.
+
+[[v4-26-46]]
+
+^<<v4-26-46,46>>^ O nome da filha de Aser, foi Sara.
+
+[[v4-26-47]]
+
+^<<v4-26-47,47>>^ Estas são as famílias dos filhos de Aser, de que contaram cinquenta e três mil e quatrocentos (homens).
+
+[[v4-26-48]]
+
+^<<v4-26-48,48>>^ Filhos de Neftali segundo as suas famílias: Jesiel, do qual (descende) a família dos Jesielitas; Guni, do qual (descende) a família dos Gunitas;
+
+[[v4-26-49]]
+
+^<<v4-26-49,49>>^ Jeser, do qual (descende) a família dos Jeseritas; Selem, do qual (descende) a família dos Selemitas.
+
+[[v4-26-50]]
+
+^<<v4-26-50,50>>^ Estes são os descendentes dos filhos de Neftali segundo as suas famílias, de que se contaram quarenta e cinco mil e quatrocentos (homens).
+
+[[v4-26-51]]
+
+^<<v4-26-51,51>>^ Esta é a soma dos filhos de Israel, que foram recenseados: seiscentos e um mil setecentos e trinta (homens).
+
+[[v4-26-52]]
+
+^<<v4-26-52,52>>^ O Senhor falou a Moisés, dizendo:
+
+[[v4-26-53]]
+
+^<<v4-26-53,53>>^ A terra (prometida) será dividida entre estes segundo o número dos seus nomes para eles a possuírem. (ver nota)
+
+[[v4-26-54]]
+
+^<<v4-26-54,54>>^ Aos que forem mais em número darás maior parte e aos que forem menos, menor; a cada um será dada a sua possessão, conforme agora foram alistados,
+
+[[v4-26-55]]
+
+^<<v4-26-55,55>>^ mas de maneira que a terra seja repartida por sorte, entre as tribos e famílias. (ver nota)
+
+[[v4-26-56]]
+
+^<<v4-26-56,56>>^ Tudo o que tocar por sorte, isso receberão, quer os que são em maior número, quer os que são em menor número.
+
+[[v4-26-57]]
+
+^<<v4-26-57,57>>^ Este é também o número dos filhos de Levi, sendo as suas famílias: Gerson, do qual (descende) a família dos Gersonitas: Caath, do qual (descende) a família dos Caathitas: Merari do qual (descende) a família dos Meraritas.
+
+[[v4-26-58]]
+
+^<<v4-26-58,58>>^ Estas são as famílias de Levi; A família de Lobni, a família de Hebroni, a família de Mooli, a família de Musi, a família de Coré, Caath gerou a Amram,
+
+[[v4-26-59]]
+
+^<<v4-26-59,59>>^ o qual teve por mulher a Jocabed, filha de Levi, a qual lhe nasceu no Egito: esta teve de Amram, seu marido, os filhos Aarão e Moisés, e Maria irmã deles.
+
+[[v4-26-60]]
+
+^<<v4-26-60,60>>^ De Aarão nasceram Nadab, Abiu Eleazar e Itamar,
+
+[[v4-26-61]]
+
+^<<v4-26-61,61>>^ dos quais Nadab e Abiu morreram, por terem oferecido um fogo estranho diante do Senhor.
+
+[[v4-26-62]]
+
+^<<v4-26-62,62>>^ Todos os recenseados foram vinte e três mil homens de um mês para cima, porque não foram contados entre os filhos de Israel, nem lhes foi dada herança com os outros.
+
+[[v4-26-63]]
+
+^<<v4-26-63,63>>^ Este é o número dos filhos de Israel, que foram recenseados por Moisés e pelo sacerdote Eleázaro nas planícies de Moab, ao longo do Jordão, defronte de Jericó.
+
+[[v4-26-64]]
+
+^<<v4-26-64,64>>^ Entre eles não se achou nenhum daqueles que tinham sido recenseados antes por Moisés e Aarão no deserto do Sinai.
+
+[[v4-26-65]]
+
+^<<v4-26-65,65>>^ porque o Senhor tinha predito que todos eles morreriam no deserto. Não ficou nenhum deles, excepto Caleb, filho de Jefone, e Josué, filho de Nun.
+
+'''
+
+xref:004-numeros/004-numeros-025.adoc#v4-25-0[&#60; Capítulo Anterior] | <<v4-26-0,Topo>> | xref:004-numeros/004-numeros-027.adoc#v4-27-0[Próximo Capítulo &#62;]

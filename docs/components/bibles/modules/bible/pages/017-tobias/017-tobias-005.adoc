@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v17-5-0]]
+=== Tobias, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Tobias 5 narra a história de Tobias e seu guia, que é revelado como sendo o anjo Rafael. Eles estão a caminho de Media para recuperar dinheiro que Tobias tinha deixado com seu parente Gabael. No caminho, eles encontram o pai de Tobit, o cego Tobias, que, sem saber que é seu filho, pede sua ajuda para recuperar uma dívida. Aqui estão cinco versículos relacionados aos temas abordados em Tobias 5:
+* Deuteronômio 15:7-8: "Se houver algum necessitado entre vocês, um dos seus irmãos em qualquer cidade da terra que o Senhor, o seu Deus, lhes está dando, não endureça o coração nem feche a mão para com o seu irmão necessitado. Ao contrário, abra-lhe generosamente a mão e empreste-lhe o que ele precisar."
+Este versículo fala sobre ajudar os necessitados e é relevante para o encontro de Tobias com o pai de Tobit, que pede sua ajuda para recuperar uma dívida.
+* Provérbios 14:21: "Aquele que despreza o seu próximo peca, mas como é feliz quem trata com bondade os necessitados!"
+Este versículo destaca a importância de tratar os necessitados com bondade e pode ser aplicado à atitude de Tobias em relação ao pai de Tobit.
+* Isaías 58:7: "Não é partilhar o seu pão com o faminto, dar abrigo aos pobres desabrigados, vestir o nu e não recusar ajuda ao próximo?"
+Este versículo novamente enfatiza a importância de ajudar os necessitados e pode ser aplicado ao encontro de Tobias com o pai de Tobit.
+* Mateus 5:42: "Dê a quem lhe pede, e não volte as costas àquele que deseja pedir-lhe algo emprestado."
+Este versículo fala sobre ajudar os outros sem esperar nada em troca, o que é relevante para a atitude de Tobias em relação ao pai de Tobit.
+* 1 Timóteo 5:8: "Se alguém não cuida de seus parentes, e especialmente dos de sua própria família, negou a fé e é pior do que um descrente."
+Este versículo destaca a importância de cuidar dos membros da família e pode ser aplicado ao papel de Tobias em ajudar seu pai, mesmo que ele não saiba que Tobias é seu filho.
+****
+
+[[v17-5-1]]
+
+^<<v17-5-1,1>>^ Então Tobias respondeu a seu pai: Meu pai, farei tudo o que me mandaste.
+
+[[v17-5-2]]
+
+^<<v17-5-2,2>>^ Todavia não sei de que modo poderei cobrar este dinheiro, porque nem ele lhe conhece a mim, nem eu o conheço a ele; que sinal lhe hei-de dar? Nem mesmo sei o caminho, por onde se vai a tal terra.
+
+[[v17-5-3]]
+
+^<<v17-5-3,3>>^ Então seu pai disse-lhe: Eu tenho em meu poder o recibo do seu próprio punho; quando tu lho mostrares, ele te pagará logo.
+
+[[v17-5-4]]
+
+^<<v17-5-4,4>>^ Portanto agora vai e busca algum homem fiel, que te acompanhe, mediante uma retribuição, para que cobres o dinheiro enquanto eu estou vivo.
+
+[[v17-5-5]]
+
+^<<v17-5-5,5>>^ Mal havia Tobias saído (de casa), logo encontrou um jovem de belo aspecto, que estava cingido e como prestes a caminhar.
+
+[[v17-5-6]]
+
+^<<v17-5-6,6>>^ Não sabendo que era um anjo de Deus, saudou-o e disse: Donde és tu ó bom jovem?
+
+[[v17-5-7]]
+
+^<<v17-5-7,7>>^ Ele respondeu: Eu sou dos filhos de Israel. Tobias perguntou-lhe: Conheces o caminho que conduz à terra dos Medos?
+
+[[v17-5-8]]
+
+^<<v17-5-8,8>>^ O anjo respondeu-lhe: Conheço: tenho percorrido muitas vezes estes caminhos e tenho estado em casa de Gabelo, nosso irmão, que mora em Ragés, cidade dos Medos, que está situada sobre o monte de Ecbatana.
+
+[[v17-5-9]]
+
+^<<v17-5-9,9>>^ Tobias disse-lhe: Suplico-te que esperes por mim, até que eu avise meu pai disto mesmo.
+
+[[v17-5-10]]
+
+^<<v17-5-10,10>>^ Então Tobias, tendo entrado, referiu a seu pai o sucedido. O pai, admirado com isto, rogou-lhe que entrasse em sua casa.
+
+[[v17-5-11]]
+
+^<<v17-5-11,11>>^ Tendo, pois, entrado, saudou a Tobias, e disse: A alegria seja sempre contigo.
+
+[[v17-5-12]]
+
+^<<v17-5-12,12>>^ Tobias respondeu: Que alegria poderei eu ter, eu que sempre estou em trevas, que não vejo a luz do céu?
+
+[[v17-5-13]]
+
+^<<v17-5-13,13>>^ O jovem disse-lhe: Tem ânimo! É fácil a Deus curar-te.
+
+[[v17-5-14]]
+
+^<<v17-5-14,14>>^ Disse-lhe, pois, Tobias: Porventura poderás tu conduzir meu filho a casa de Gabelo, em Ragés, cidade dos Medos? Quando voltares, eu te pagarei o teu trabalho.
+
+[[v17-5-15]]
+
+^<<v17-5-15,15>>^ O anjo respondeu: Eu lá o conduzirei, e to reconduzirei.
+
+[[v17-5-16]]
+
+^<<v17-5-16,16>>^ Tobias, então, perguntou-lhe: Peço-Te que me digas: de que família e de que tribo és tu?
+
+[[v17-5-17]]
+
+^<<v17-5-17,17>>^ O anjo Rafael respondeu: Procuras conhecer a família do mercenário, ou o próprio mercenário, que vá com teu filho?
+
+[[v17-5-18]]
+
+^<<v17-5-18,18>>^ Mas, para que te não ponha em cuidados, eu sou Azarias, filho do grande Ananias.
+
+[[v17-5-19]]
+
+^<<v17-5-19,19>>^ Tobias respondeu-lhe: Tu és de uma ilustre família. Peço-te que te não ofendas por eu ter desejado conhecer a tua família.
+
+[[v17-5-20]]
+
+^<<v17-5-20,20>>^ O anjo disse-lhe: Eu conduzirei são o teu filho, e são to reconduzirei.
+
+[[v17-5-21]]
+
+^<<v17-5-21,21>>^ Tobias respondeu: Fazei boa jornada! Deus seja convosco no vosso caminho, e o seu anjo vos acompanhe.
+
+[[v17-5-22]]
+
+^<<v17-5-22,22>>^ Então, preparando tudo o que deviam levar na jornada, Tobias despediu-se de seu pai e de sua mãe e pôs-se a caminho com o anjo.
+
+[[v17-5-23]]
+
+^<<v17-5-23,23>>^ Logo que partiram, começou sua mãe a chorar e a dizer: Tu tiraste-nos o bordão da nossa velhice, tu o apartaste de nós.
+
+[[v17-5-24]]
+
+^<<v17-5-24,24>>^ Osalá que nunca tivesse havido este dinheiro, por causa do qual tu o mandaste.
+
+[[v17-5-25]]
+
+^<<v17-5-25,25>>^ A nossa pobreza bastava-nos, e era para nós uma riqueza o vermos nosso filho.
+
+[[v17-5-26]]
+
+^<<v17-5-26,26>>^ Tobias disse-lhe: Não chores; nosso filho chegará salvo, voltará salvo para a nossa companhia, e tu o verás com os teus olhos.
+
+[[v17-5-27]]
+
+^<<v17-5-27,27>>^ Eu creio que um bom anjo de Deus o acompanha e dispõe tudo o que lhe diz respeito, de modo que voltará para nós cheio de alegria.
+
+[[v17-5-28]]
+
+^<<v17-5-28,28>>^ A estas palavras a mãe cessou de chorar e calou-se.
+
+'''
+
+xref:017-tobias/017-tobias-004.adoc#v17-4-0[&#60; Capítulo Anterior] | <<v17-5-0,Topo>> | xref:017-tobias/017-tobias-006.adoc#v17-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,43 @@
+include::./index.adoc[]
+
+[[v21-12-0]]
+=== Salmos, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 12 trata da falta de fidelidade e honestidade no meio das pessoas, clamando pela intervenção de Deus e pela salvação dos justos. Os versículos selecionados abaixo se relacionam com o tema do Salmo 12 e nos lembram do caráter de Deus e da importância de permanecer fiel em meio às dificuldades:
+* Provérbios 11:20: "Os perversos de coração são abomináveis ​​ao Senhor, mas aqueles que são irrepreensíveis em seus caminhos são seu deleite." Este versículo destaca o fato de que Deus ama aqueles que seguem seus caminhos e permanecem fiéis a Ele, em vez de se afastarem em direção ao pecado.
+* 1 Pedro 4:18: "E se o justo é salvo com dificuldade, que acontecerá com o ímpio e pecador?" Este versículo fala sobre as dificuldades que os justos enfrentam na vida, mas enfatiza a importância de perseverar em sua fé, pois aqueles que se afastam do caminho de Deus enfrentarão um destino ainda pior.
+* Salmos 119:140: "Teus mandamentos são verdadeiramente justos; tu és fiel e reto." Este versículo destaca o caráter justo e fiel de Deus, lembrando-nos de que Ele sempre será o guia perfeito em nossas vidas.
+* Isaías 41:10: "Não tenha medo, pois estou com você; não se apavore, pois eu sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita justa." Este versículo nos lembra que, apesar das dificuldades e desafios que enfrentamos na vida, Deus está sempre conosco e nos fortalecerá para enfrentá-los.
+* Romanos 12:21: "Não seja vencido pelo mal, mas vença o mal com o bem." Este versículo nos incentiva a permanecer fiéis a Deus e a resistir à tentação de ceder ao mal. Devemos superar o mal com a bondade e permanecer firmes em nossa fé, mesmo em tempos difíceis.
+****
+
+[[v21-12-1]]
+
+^<<v21-12-1,1>>^ Ao mestre do coro. Salmo. De Davide.
+
+[[v21-12-2]]
+
+^<<v21-12-2,2>>^ Até quando, Senhor, me esquecerás totalmente? Até quando esconderás de mim a tua face?
+
+[[v21-12-3]]
+
+^<<v21-12-3,3>>^ Até quando revolverei ansiedade em minha alma, e todos os dias tristezas em meu coração?
+
+[[v21-12-4]]
+
+^<<v21-12-4,4>>^ Até quando prevalecerá o meu inimigo contra mim? Olha para mim, ouve-me, Senhor Deus meu!
+
+[[v21-12-5]]
+
+^<<v21-12-5,5>>^ Alumia os meus olhos para que eu não durma na morte, para que o meu inimigo não possa dizer; "Vencio-o"; não exultem os meus inimigos por eu ter caído,
+
+[[v21-12-6]]
+
+^<<v21-12-6,6>>^ depois de ter confiado na tua misericórdia! Antes exulte o meu coração com o teu auxílio; que eu cante ao Senhor que me cumulou de bens.
+
+'''
+
+xref:021-salmos/021-salmos-011.adoc#v21-11-0[&#60; Capítulo Anterior] | <<v21-12-0,Topo>> | xref:021-salmos/021-salmos-013.adoc#v21-13-0[Próximo Capítulo &#62;]

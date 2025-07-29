@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v37-1-0]]
+=== Amós, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 do livro de Amós apresenta um conjunto de oráculos de juízo contra várias nações, incluindo Damasco, Gaza, Tiro, Edom e Amom. Estes versículos demonstram a ira de Deus contra essas nações, que foram consideradas culpadas de vários crimes. Abaixo estão cinco versículos relacionados com os temas abordados em Amós 1:
+* Isaías 17:1 - "Oráculo sobre Damasco: Eis que Damasco será tirada, e não será mais cidade, antes se tornará um montão de ruínas." Este versículo trata da profecia contra Damasco, que também é mencionada em Amós 1:3-5. Ambos os textos falam da destruição que virá sobre a cidade.
+* Jeremias 49:23-24 - "Sobre Damasco. Envergonhou-se Hamate e Arpade, porque ouviram más notícias; desfaleceu; no mar há ansiedade, não se pode sossegar. Damasco desfaleceu, virou as costas para fugir, e o tremor a tomou; angústia e dores se apoderaram dela, como da que está de parto." Este texto também trata da profecia contra Damasco e fala sobre a angústia que virá sobre a cidade.
+* Obadias 1:15 - "Porque perto está o dia do SENHOR sobre todas as nações; como tu fizeste, assim se fará contigo; o teu galardão voltará sobre a tua cabeça." Este versículo fala sobre o dia do Senhor, que é mencionado em Amós 1:2. Ambos os textos falam sobre a vingança que Deus trará sobre as nações.
+* Ezequiel 25:12-14 - "Assim diz o SENHOR Deus: Pois que Moabe e Seir dizem: Eis que a casa de Judá é como todas as nações; por isso, eis que abrirei os lados de Moabe, desde as cidades, desde as suas cidades fronteiriças, a joia da terra, Bete-Jesimote, Baal-Meom e Quiriataim, para os filhos do Oriente, juntamente com os filhos de Amom; para que não mais se lembre Moabe entre as nações." Este texto trata da profecia contra Amom, que é mencionada em Amós 1:13-15. Ambos os textos falam sobre a destruição que virá sobre a nação.
+* Isaías 15:1 - "Oráculo sobre Moabe: Em uma noite foi destruída Ar de Moabe, foi destruída; em uma noite foi reduzida a nada Quir de Moabe, foi reduzida a nada." Este versículo também trata da profecia contra Moabe e fala sobre a destruição que virá sobre a nação, assim como é mencionado em Amós 1:13-15.
+****
+
+[[v37-1-1]]
+
+^<<v37-1-1,1>>^ Palavras de Amós, que foi um dos pastores de Tecué. (Contêm) a revelação que teve acerca de Israel, nos dias de Ozias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terramoto.
+
+[[v37-1-2]]
+
+^<<v37-1-2,2>>^ Disse: O Senhor rugirá de Sião, de Jerusalém fará ouvir a sua voz; os prados dos pastores estarão de luto, o cume do Carmelo secará.
+
+[[v37-1-3]]
+
+^<<v37-1-3,3>>^ Isto diz o Senhor: Por causa do triplo e do quádruplo crime de Damasco, não mudarei o meu decreto (de justiça). Porque eles, com carros armados de ferro, despedaçaram (os Israelitas de) Galaad,
+
+[[v37-1-4]]
+
+^<<v37-1-4,4>>^ por isso porei fogo á casa (real) de Azael, e esse fogo devorará os palácios de Benadad.
+
+[[v37-1-5]]
+
+^<<v37-1-5,5>>^ Quebrarei o ferrolho (ou poder) de Damasco; exterminarei de Bigath-Aven os que lá habitam, e de Beth-Eden o que tem na mão o cetro; e o povo da Síria será transferido a Quir, diz o Senhor.
+
+[[v37-1-6]]
+
+^<<v37-1-6,6>>^ Isto diz o Senhor: Pelos três crimes de Gaza, e pelos quatro, não mudarei o meu decreto (de castigo). Porque deportaram uma multidão de cativos para a entregarem à Idumeia,
+
+[[v37-1-7]]
+
+^<<v37-1-7,7>>^ por isso porei fogo aos muros de Gaza, e ele reduzirá a cinza os seus edifícios.
+
+[[v37-1-8]]
+
+^<<v37-1-8,8>>^ Exterminarei de Azoto os que a habitam, e de Ascalon o que tem o cetro; descarregarei a minha mão sobre Acaron, e perecerão os restos dos Filisteus, diz o Senhor Deus.
+
+[[v37-1-9]]
+
+^<<v37-1-9,9>>^ Isto diz o Senhor: Pelos três crimes de Tiro, e pelos quatro, não mudarei o meu decreto (de castigo). Porque entregaram uma multidão de cativos à Idumeia, e não se lembraram da (antiga) aliança fraternal,
+
+[[v37-1-10]]
+
+^<<v37-1-10,10>>^ por isso porei fogo aos muros de Tiro, e ele devorará os seus edifícios.
+
+[[v37-1-11]]
+
+^<<v37-1-11,11>>^ Isto diz o Senhor: Pelos três crimes da Idumeia e pelos quatro, não mudarei o meu decreto (de castigo). Porque perseguiu a (Israel) seu irmão com a espada, abafando a compaixão (que lhe devia), porque o seu furor não cessa de despedaçar, e persiste até ao fim a sua indignação,
+
+[[v37-1-12]]
+
+^<<v37-1-12,12>>^ porei fogo a Teman, e ele reduzirá a cinza os edifícios de Bosra.
+
+[[v37-1-13]]
+
+^<<v37-1-13,13>>^ Isto diz o Senhor: Pelos três crimes dos filhos de Amon, e pelos quatro, não mudarei o meu decreto (de castigo). Visto que desventraram as mulheres grávidas de Galaad, para, por este meio, dilatar os seus domínios;
+
+[[v37-1-14]]
+
+^<<v37-1-14,14>>^ por isso porei fogo aos muros de Raba, e ele devorará os seus edifícios, no meio dos gritos de guerra dum dia de batalha, no meio do turbilhão dum dia de tempestade.
+
+[[v37-1-15]]
+
+^<<v37-1-15,15>>^ O seu rei irá para o exílio, juntamente com os seus príncipes, diz o Senhor.
+
+'''
+
+xref:036-joel/036-joel-003.adoc#v36-3-0[&#60; Capítulo Anterior] | <<v37-1-0,Topo>> | xref:037-amos/037-amos-002.adoc#v37-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v4-1-0]]
+=== Números, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 do livro de Números descreve o censo dos homens de Israel que foram capazes de lutar na guerra. O propósito desse censo era determinar quantos homens havia em cada tribo que estavam em idade militar e, portanto, seriam elegíveis para lutar pela nação de Israel. Os versículos abaixo estão relacionados com os temas abordados em Números 1:
+* Números 26:2 - "Toma o censo de toda a congregação dos filhos de Israel desde a idade de vinte anos para cima, segundo as casas dos pais, de todos os que podem sair à guerra em Israel". Esse versículo é semelhante a Números 1, pois também fala sobre um censo de homens em Israel que são capazes de lutar na guerra.
+* Êxodo 30:12 - "Quando fizeres a soma dos filhos de Israel conforme o número deles, cada um dará ao Senhor o resgate da sua alma, quando os contares; para que não haja entre eles praga alguma quando os contares". Esse versículo é relacionado porque fala sobre a importância de dar um resgate quando contando o povo de Israel, para evitar uma praga.
+* 2 Samuel 24:1-2 - "E a ira do Senhor tornou a acender-se contra Israel, e incitou a Davi contra eles, dizendo: Vai, numera a Israel e a Judá. Então o rei disse a Joabe, chefe do exército, que estava com ele: Passa agora por todas as tribos de Israel, desde Dã até Berseba, e faze um censo do povo, para que eu saiba o número do povo". Esse versículo é relacionado porque também fala sobre um censo dos filhos de Israel e mostra as consequências quando o censo é feito sem a vontade de Deus.
+* Êxodo 12:37-38 - "E os filhos de Israel partiram de Ramessés para Sucote, cerca de seiscentos mil a pé, somente de homens, além de crianças. E subiu também com eles uma grande multidão de toda sorte de gente, e ovelhas, e gado muito numeroso". Esse versículo é relacionado porque descreve o grande número de homens que deixaram o Egito durante o êxodo e mostra a importância de saber quantos homens havia em cada tribo.
+* Deuteronômio 20:1 - "Quando saíres à peleja contra teus inimigos, e vires cavalos, e carros, e povo mais numeroso do que tu, não temas, pois o Senhor teu Deus é contigo, que te tirou da terra do Egito". Esse versículo é relacionado porque fala sobre a importância de confiar em Deus, mesmo quando enfrentando um inimigo com um grande exército, e lembra aos israelitas que o Senhor estava com eles desde o êxodo do Egito.
+****
+
+[[v4-1-1]]
+
+^<<v4-1-1,1>>^ O Senhor falou a Moisés no deserto do Sinai, no tabernáculo da reunião, no primeiro dia do segundo mês, no segundo ano depois da saída dos filhos de Israel do Egito, dizendo:
+
+[[v4-1-2]]
+
+^<<v4-1-2,2>>^ Fazei o recenseamento de toda a congregação dos filhos de Israel pelas suas famílias e casas patriarcais, apontando o nome de cada um dos varões,
+
+[[v4-1-3]]
+
+^<<v4-1-3,3>>^ dos vinte anos para cima, de todos os homens aptos para o serviço das armas, em Israel; contá-los-eis pelas suas turmas, tu e Aarão.
+
+[[v4-1-4]]
+
+^<<v4-1-4,4>>^ Tereis junto de vós, a assistir-vos, um homem por cada tribo, chefe de uma linhagem.
+
+[[v4-1-5]]
+
+^<<v4-1-5,5>>^ Eis os nomes: (Da tribo) de Ruben, Elisur, filho de Sedeur.
+
+[[v4-1-6]]
+
+^<<v4-1-6,6>>^ (Da tribo) de Simeão, Salamiel, filho de Surisadai.
+
+[[v4-1-7]]
+
+^<<v4-1-7,7>>^ (Da tribo) de Judá, Naasson, filho de Aminadab.
+
+[[v4-1-8]]
+
+^<<v4-1-8,8>>^ (Da tribo) de Issacar, Natanael, filho de Suar.
+
+[[v4-1-9]]
+
+^<<v4-1-9,9>>^ (Da tribo) de Zabulon, Eliab, filho de Helon.
+
+[[v4-1-10]]
+
+^<<v4-1-10,10>>^ Dos filhos de José: (da tribo) de Efraim Elisama, filho de Amiud: (da tribo) de Manassés, Gamaliel, filho de Fadassur.
+
+[[v4-1-11]]
+
+^<<v4-1-11,11>>^ (Da tribo) de Benjamim, Abidan, filho de Gedeão.
+
+[[v4-1-12]]
+
+^<<v4-1-12,12>>^ (Da tribo) de Dan, Aiezer, filho de Amisadai.
+
+[[v4-1-13]]
+
+^<<v4-1-13,13>>^ (Da tribo) de Aser, Fegiel, filho die Ocran
+
+[[v4-1-14]]
+
+^<<v4-1-14,14>>^ (Da tribo) de Gad, Eliasaph, filho de Duel.
+
+[[v4-1-15]]
+
+^<<v4-1-15,15>>^ (Da tribo) de Neftali, Aira, filho de Enan.
+
+[[v4-1-16]]
+
+^<<v4-1-16,16>>^ Estes são os que foram chamados da assembleia, príncipes de suas tribos, chefes dos milhares de Israel.
+
+[[v4-1-17]]
+
+^<<v4-1-17,17>>^ Moisés e Aarão, tendo-os tomado, com toda a multidão do povo,
+
+[[v4-1-18]]
+
+^<<v4-1-18,18>>^ juntaram-nos no primeiro dia do segundo mês, e fizeram o seu recenseamento pelas suas famílias e casas patriarcais, contando por cabeça o nome de cada um deles, dos vinte anos para cima,
+
+[[v4-1-19]]
+
+^<<v4-1-19,19>>^ conforme o Senhor tinha ordenado a Moisés. Fez-se o recenseamento no deserto do Sinai.
+
+[[v4-1-20]]
+
+^<<v4-1-20,20>>^ De Ruben primogênito de Israel, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes, por cabeça, de todos os varões dos vinte anos para cima, que podiam ir à guerra,
+
+[[v4-1-21]]
+
+^<<v4-1-21,21>>^ (foram recenseados) quarenta e seis mil e quinhentos.
+
+[[v4-1-22]]
+
+^<<v4-1-22,22>>^ Dos filhos de Simeão, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes, por cabeça, dos varões dos vinte anos para cima, que podiam ir à guerra,
+
+[[v4-1-23]]
+
+^<<v4-1-23,23>>^ (foram recenseados) cinquenta e nove mil e trezentos.
+
+[[v4-1-24]]
+
+^<<v4-1-24,24>>^ Dos filhos de Gad, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes de todos os de vinte anos para cima, que podiam ir à guerra,
+
+[[v4-1-25]]
+
+^<<v4-1-25,25>>^ (forem recenseados) quarenta e cinco mil e seiscentos e cinquenta.
+
+[[v4-1-26]]
+
+^<<v4-1-26,26>>^ Dos filhos de Judá, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra,
+
+[[v4-1-27]]
+
+^<<v4-1-27,27>>^ (foram recenseados) setenta e quatro mil e seiscentos.
+
+[[v4-1-28]]
+
+^<<v4-1-28,28>>^ Dos filhos de Issacar, seguido as suas famílias, segundo as suas casas patriarcais, contando os nomes de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra,
+
+[[v4-1-29]]
+
+^<<v4-1-29,29>>^ (foram recenseados) cinquenta e quatro mil e quatrocentos.
+
+[[v4-1-30]]
+
+^<<v4-1-30,30>>^ Dos filhos de Zabulon, segundo as suas famílias, segundo as suas casas patriarcais, contando os nomes de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra,
+
+[[v4-1-31]]
+
+^<<v4-1-31,31>>^ (foram recenseados) cinquenta e sete mil e quatrocentos.
+
+[[v4-1-32]]
+
+^<<v4-1-32,32>>^ Dois filhos de José: dos descendentes de Efraim, seguindo as suas famílias, e seguindo as suas casas patriarcais, contando os nomes de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,
+
+[[v4-1-33]]
+
+^<<v4-1-33,33>>^ (foram recenseados) quarenta mil e quinhentos.
+
+[[v4-1-34]]
+
+^<<v4-1-34,34>>^ Dos descendentes de Manassés, segundo as suas famílias, segundo as suas casas patriarcais, contando o nome de cada um deles, dos vinte anos para cima, de todos os que podiam ir à guerra, (foram recenseados)
+
+[[v4-1-35]]
+
+^<<v4-1-35,35>>^ trinta e dois mil e duzentos.
+
+[[v4-1-36]]
+
+^<<v4-1-36,36>>^ Dos filhos de Benjamim, segundo as suas famílias, casas patriarcais, apontando os nomes de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,
+
+[[v4-1-37]]
+
+^<<v4-1-37,37>>^ (foram recenseados) trinta e cinco mil e quatrocentos.
+
+[[v4-1-38]]
+
+^<<v4-1-38,38>>^ Dos filhos de Dan, segundo as suas famílias, segundo as suas casas patriarcais, apontando o nome de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,
+
+[[v4-1-39]]
+
+^<<v4-1-39,39>>^ (foram recenseados) sessenta e dois mil e setecentos.
+
+[[v4-1-40]]
+
+^<<v4-1-40,40>>^ Dos filhos de Aser, segundo suas famílias, segundo as suas casas patriarcais, apontando o nome de cada um, dos vinte anos para cima, de todos os que podiam ir à guerra,
+
+[[v4-1-41]]
+
+^<<v4-1-41,41>>^ (foram recenseados) quarenta e um mil e quinhentos.
+
+[[v4-1-42]]
+
+^<<v4-1-42,42>>^ Dos filhos de Neftali, segundo as suas famílias, segundo as suais casas patriarcais, apontando o nome de cada um, dos vinde anos para cima, todos os que podiam ir à guerra,
+
+[[v4-1-43]]
+
+^<<v4-1-43,43>>^ (foram recenseados) cinquenta e três mil e quatrocentos.
+
+[[v4-1-44]]
+
+^<<v4-1-44,44>>^ Estes são os que foram contados por Moisés e Aarão, e pelos doze príncipes de Israel, um por cada tribo.
+
+[[v4-1-45]]
+
+^<<v4-1-45,45>>^ Todo o número dos filhos de Israel, segundo as suas casas e famílias, dos vinte anos para cima, de todos os que podiam ir à guerra, foi
+
+[[v4-1-46]]
+
+^<<v4-1-46,46>>^ seiscentos e três mil quinhentos e cinquenta homens.
+
+[[v4-1-47]]
+
+^<<v4-1-47,47>>^ Os Levitas, porém, não foram contados com eles, na tribo das suas famílias.
+
+[[v4-1-48]]
+
+^<<v4-1-48,48>>^ porque o Senhor falou a Moisés, dizendo:
+
+[[v4-1-49]]
+
+^<<v4-1-49,49>>^ Não contes a tribo de Levi, nem porás a soma deles com os filhos de Israel.
+
+[[v4-1-50]]
+
+^<<v4-1-50,50>>^ Incumbe-os de cuidarem do tabernáculo do testemunho e de todos os seus vasos, e de tudo o que pertence às cerimônias. Eles levarão o tabernáculo e todos os utensílios, empregar-se-ão no ministério e acamparão em volta do tabernáculo.
+
+[[v4-1-51]]
+
+^<<v4-1-51,51>>^ Quando se tiver de partir, os Levitas desarmarão o tabernáculo: quando se tiver de fazer acampamento, eles o armarão: qualquer estranho que se aproximar, será morto.
+
+[[v4-1-52]]
+
+^<<v4-1-52,52>>^ Os filhos de Israel acamparão cada um segundo as suas turmas, as suas companhias, o seu regimento.
+
+[[v4-1-53]]
+
+^<<v4-1-53,53>>^ Mas os Levitas armarão as suas tendas em volta do tabernáculo, para que não suceda cair a indignação sobre a multidão dos filhos de Israel; e velarão na guarda do tabernáculo do testemunho.
+
+[[v4-1-54]]
+
+^<<v4-1-54,54>>^ Os filhos de Israel, pois, fizeram tudo conforme o Senhor tinha mandado a Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-027.adoc#v3-27-0[&#60; Capítulo Anterior] | <<v4-1-0,Topo>> | xref:004-numeros/004-numeros-002.adoc#v4-2-0[Próximo Capítulo &#62;]

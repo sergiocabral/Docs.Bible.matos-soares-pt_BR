@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v24-6-0]]
+=== Provérbios, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 6 de Provérbios é uma advertência contra a preguiça e a falta de responsabilidade financeira. Ele instrui os leitores a trabalharem diligentemente e a evitarem dívidas e promessas irresponsáveis. Os versículos a seguir foram escolhidos por sua relevância aos temas tratados neste capítulo:
+* Tiago 4:17: "Portanto, aquele que sabe que deve fazer o bem e não o faz nisso está pecando." Este versículo destaca a importância de agir corretamente e responsavelmente, mesmo quando isso requer esforço e sacrifício pessoal.
+* 1 Timóteo 6:10: "Porque o amor ao dinheiro é a raiz de todos os males. Algumas pessoas, ávidas pelo dinheiro, desviaram-se da fé e se atormentaram com muitos sofrimentos." Este versículo adverte sobre os perigos de se preocupar excessivamente com dinheiro e riqueza, em vez de se concentrar em valores mais importantes.
+* Provérbios 10:4: "Mãos preguiçosas empobrecem o homem, mas as mãos diligentes lhe trazem riqueza." Este versículo reforça a mensagem central de Provérbios 6, enfatizando a importância do trabalho duro e da diligência para alcançar a prosperidade financeira.
+* Lucas 14:28: "Pois, se alguém quer construir uma torre, não se senta primeiro e calcula o custo, para ver se tem dinheiro suficiente para completá-la?" Este versículo destaca a importância de planejar com cuidado e tomar decisões financeiras informadas e responsáveis, evitando assim dívidas e problemas financeiros futuros.
+* Provérbios 22:7: "O rico domina sobre o pobre; quem toma emprestado é escravo de quem empresta." Este versículo enfatiza os perigos das dívidas e a importância de viver dentro dos próprios meios financeiros. Ele sugere que aqueles que se endividam correm o risco de perder sua independência financeira e de serem dominados pelos credores.
+****
+
+[[v24-6-1]]
+
+^<<v24-6-1,1>>^ Meu filho, se ficaste por fiador do teu próximo, se deste a tua mão a um estranho,
+
+[[v24-6-2]]
+
+^<<v24-6-2,2>>^ com as palavras saídas de teus lábios te meteste no laço, e ficaste preso pela tua própria boca.
+
+[[v24-6-3]]
+
+^<<v24-6-3,3>>^ Faze, pois, meu filho, o que te digo, e livra-te a ti mesmo, pois que caíste nas mãos do teu próximo. Corre duma para outra parte, apressa-te, solicita o teu amigo.
+
+[[v24-6-4]]
+
+^<<v24-6-4,4>>^ Não deixes entregarem-se ao sono os teus olhos, nem se fechem as tuas pálpebras.
+
+[[v24-6-5]]
+
+^<<v24-6-5,5>>^ Salva-te como uma gazela que escapa da mão do caçador, e como um pássaro que foge das mãos do passarinheiro.
+
+[[v24-6-6]]
+
+^<<v24-6-6,6>>^ Vai, ó preguiçoso, ter com a formiga, considera o seu proceder e aprende dela a sabedoria.
+
+[[v24-6-7]]
+
+^<<v24-6-7,7>>^ Não tendo ela guia, nem inspector, nem príncipe,
+
+[[v24-6-8]]
+
+^<<v24-6-8,8>>^ faz as suas provisões no estio, ajunta no tempo da ceifa com que se sustentar.
+
+[[v24-6-9]]
+
+^<<v24-6-9,9>>^ Até quando dormirás tu, ó preguiçoso? Quando te levantarás do teu sono?
+
+[[v24-6-10]]
+
+^<<v24-6-10,10>>^ Um pouco dormirás, outro pouco dormitarás, outro pouco cruzarás as mãos para dormires;
+
+[[v24-6-11]]
+
+^<<v24-6-11,11>>^ e virá sobre ti a indigência, como um caminheiro e a pobreza, como um homem armado.
+
+[[v24-6-12]]
+
+^<<v24-6-12,12>>^ O homem iníquo, pessoa indigna, caminha com boca perversa.
+
+[[v24-6-13]]
+
+^<<v24-6-13,13>>^ Faz sinais com os olhos, bate cora o pé, fala com os dedos;
+
+[[v24-6-14]]
+
+^<<v24-6-14,14>>^ com depravado coração maquina o mal, e em todo o tempo semeia distúrbios.
+
+[[v24-6-15]]
+
+^<<v24-6-15,15>>^ A este virá inesperadamente a sua perdição, de improviso será despedaçado, e não terá mais remédio.
+
+[[v24-6-16]]
+
+^<<v24-6-16,16>>^ Seis são as coisas, que o Senhor aborrece, antes são sete as que sua alma abomina:
+
+[[v24-6-17]]
+
+^<<v24-6-17,17>>^ Olhos altivos, língua mentirosa, mãos que derramara sangue inocente,
+
+[[v24-6-18]]
+
+^<<v24-6-18,18>>^ coração que maquina perversos projectos, pés velozes para correr ao mal,
+
+[[v24-6-19]]
+
+^<<v24-6-19,19>>^ testemunha falsa que profere mentiras, e o que semeia discórdias entre seus irmãos.
+
+[[v24-6-20]]
+
+^<<v24-6-20,20>>^ Observa, meu filho, os preceitos de teu pai, e não abandones os ensinamentos de tua mãe.
+
+[[v24-6-21]]
+
+^<<v24-6-21,21>>^ Traze-os incessantemente presos ao teu coração, ligados ao teu pescoço.
+
+[[v24-6-22]]
+
+^<<v24-6-22,22>>^ Quando andares, eles te acompanharão, quando dormires. eles te guardarão, e, ao acordar, falarão contigo.
+
+[[v24-6-23]]
+
+^<<v24-6-23,23>>^ Porque o mandamento é uma candeia, a lei uma luz, e a correcção que conserva na disciplina é o caminho da vida.
+
+[[v24-6-24]]
+
+^<<v24-6-24,24>>^ Guardar-te-ão da má mulher, e da língua insinuante da estranha.
+
+[[v24-6-25]]
+
+^<<v24-6-25,25>>^ Não cobice o teu coração a sua formosura, nem te deixes prender dos seus olhares.
+
+[[v24-6-26]]
+
+^<<v24-6-26,26>>^ Se a meretriz procura um pedaço de pão, a mulher (adúltera) arrebata toda uma vida preciosa.
+
+[[v24-6-27]]
+
+^<<v24-6-27,27>>^ Porventura pode um homem esconder o fogo no seu seio, sem que ardam as suas vestes? (ver nota)
+
+[[v24-6-28]]
+
+^<<v24-6-28,28>>^ Ou pode andar por cima das brasas, sem que se queime a planta de seus pé? (ver nota)
+
+[[v24-6-29]]
+
+^<<v24-6-29,29>>^ Assim o que se chega à mulher do seu próximo, não ficará indemne, depois de a tocar.
+
+[[v24-6-30]]
+
+^<<v24-6-30,30>>^ Não é grande a culpa, quando alguém furta, se furta para matar a fome.
+
+[[v24-6-31]]
+
+^<<v24-6-31,31>>^ E, (apesar disso) se é apanhado, pagará sete vezes, e entregará todos os bens da sua casa.
+
+[[v24-6-32]]
+
+^<<v24-6-32,32>>^ Porém o adúltero é ura mentecapto, perderá a sua alma, por causa da loucura do seu coração.
+
+[[v24-6-33]]
+
+^<<v24-6-33,33>>^ Acumula para si golpes e ignomínia, e o seu opróbrio não se apagará,
+
+[[v24-6-34]]
+
+^<<v24-6-34,34>>^ porque o marido, furioso de ciúme, não lhe perdoará, quando tiver ocasião de vingança,
+
+[[v24-6-35]]
+
+^<<v24-6-35,35>>^ não aceitará nenhuma reparação, não receberá em satisfação presentes, por muitos que sejam.
+
+'''
+
+xref:024-proverbios/024-proverbios-005.adoc#v24-5-0[&#60; Capítulo Anterior] | <<v24-6-0,Topo>> | xref:024-proverbios/024-proverbios-007.adoc#v24-7-0[Próximo Capítulo &#62;]

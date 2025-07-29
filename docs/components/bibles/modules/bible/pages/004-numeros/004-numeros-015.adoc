@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v4-15-0]]
+=== Números, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 15 de Números trata sobre a oferta de sacrifícios e ofertas voluntárias que deveriam ser apresentadas ao Senhor, além de instruções sobre a observância dos mandamentos de Deus. A seguir, estão cinco versículos relacionados com os temas abordados em Números 15, em ordem de proximidade com o capítulo:
+* Levítico 22:17-18: "E falou o SENHOR a Moisés, dizendo: Fala a Arão e a seus filhos, e a todos os filhos de Israel, e dize-lhes: Qualquer homem da casa de Israel, ou dos estrangeiros em Israel, que oferecer a sua oferta, seja dos seus votos, ou das suas ofertas voluntárias, que oferecem ao SENHOR em holocausto;" Este versículo fala sobre a oferta de sacrifícios que deveriam ser apresentados ao Senhor, o que é semelhante ao que é abordado em Números 15.
+* Levítico 23:15-16: "E desde o dia seguinte ao sábado, desde o dia em que trouxerdes o molho da oferta movida, sete semanas inteiras serão. Até ao dia seguinte ao sétimo sábado, contareis cinquenta dias; então, oferecereis nova oferta de alimentos ao SENHOR." Esse versículo fala sobre a observância dos mandamentos de Deus, o que é abordado em Números 15.
+* Deuteronômio 26:13: "E dirás diante do Senhor teu Deus: Tirei da minha casa as coisas consagradas e as dei também ao levita, ao estrangeiro, ao órfão e à viúva, conforme a todos os teus mandamentos que me ordenaste; não transgredi os teus mandamentos, nem deles me esqueci." Esse versículo fala sobre a importância de seguir os mandamentos do Senhor com relação às ofertas e sacrifícios, e também mostra a responsabilidade do povo de Israel em cuidar dos menos favorecidos.
+* Levítico 23:10: "Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra que vos hei de dar, e fizerdes a sua colheita, então trareis um molho das primícias da vossa sega ao sacerdote;" Esse versículo faz referência à oferta das primícias, que deveria ser apresentada ao Senhor como uma forma de agradecimento pelas bênçãos recebidas.
+* Deuteronômio 14:22-23: "Certamente darás os dízimos de todo o fruto das tuas sementes, que cada ano se recolher do campo. E perante o Senhor teu Deus, no lugar que escolher para ali fazer habitar o seu nome, comerás os dízimos do teu grão, do teu mosto e do teu azeite, e os primogênitos das tuas vacas e das tuas ovelhas; para que aprendas a temer ao Senhor teu Deus todos os dias." Esse versículo fala sobre a obrigação do povo de Israel em dar os dízimos como forma de contribuição para o sustento da tribo de Levi, que era responsável pelo serviço religioso.
+****
+
+[[v4-15-1]]
+
+^<<v4-15-1,1>>^ O Senhor falou a Moisés, dizendo;
+
+[[v4-15-2]]
+
+^<<v4-15-2,2>>^ Fala aos filhos de Israel, e dize-lhes: Quando entrardes na terra da vossa habitação, que eu vos hei-de dar,
+
+[[v4-15-3]]
+
+^<<v4-15-3,3>>^ e oferecerdes ao Senhor algum holocausto ou vítima, quer em cumprimento dos vossos votos, quer de vossa livre vontade, ou fazendo queimar nas vossas solenidades, de odor de suavidade para o Senhor, bois ou ovelhas,
+
+[[v4-15-4]]
+
+^<<v4-15-4,4>>^ todo aquele que imolar uma vitima, oferecerá em sacrifício a décima parte de efa de flor de farinha amassada com a quarta parte de um hin de azeite,
+
+[[v4-15-5]]
+
+^<<v4-15-5,5>>^ e dará esta mesma medida de vinho para fazer as libações, por cada cordeiro.
+
+[[v4-15-6]]
+
+^<<v4-15-6,6>>^ Por cada carneiro, a oblação será de duas dízimas de flor de farinha, amassada com a terça parte de um hin de azeite:
+
+[[v4-15-7]]
+
+^<<v4-15-7,7>>^ oferecerá para as libações um terço da mesma medida de vinho em cheiro de suavidade para o Senhor.
+
+[[v4-15-8]]
+
+^<<v4-15-8,8>>^ Quando, porém, ofereceres um holocausto de bois, quer para cumprires um voto, quer em sacrifício pacífico,
+
+[[v4-15-9]]
+
+^<<v4-15-9,9>>^ darás por cada boi três dízimas de flor de farinha, amassada com azeite, na medida de meio hin,
+
+[[v4-15-10]]
+
+^<<v4-15-10,10>>^ e darás a mesma medida de vinho para as libações em oferta de suavíssimo odor para o Senhor.
+
+[[v4-15-11]]
+
+^<<v4-15-11,11>>^ Assim o farás
+
+[[v4-15-12]]
+
+^<<v4-15-12,12>>^ por cada boi, cada carneiro, cada cordeiro e cada cabrito.
+
+[[v4-15-13]]
+
+^<<v4-15-13,13>>^ Tanto os naturais da terra como os estrangeiros
+
+[[v4-15-14]]
+
+^<<v4-15-14,14>>^ oferecerão os sacrifícios com o mesmo rito.
+
+[[v4-15-15]]
+
+^<<v4-15-15,15>>^ Será uma mesma lei e ordenação, tanto para vós como para os que são estrangeiros no vosso país.
+
+[[v4-15-16]]
+
+^<<v4-15-16,16>>^ O Senhor falou a Moisés, dizendo:
+
+[[v4-15-17]]
+
+^<<v4-15-17,17>>^ Fala aos filhos de Israel e dize-lhes:
+
+[[v4-15-18]]
+
+^<<v4-15-18,18>>^ Quando chegardes à terra, que eu vos hei-de dar,
+
+[[v4-15-19]]
+
+^<<v4-15-19,19>>^ e comerdes dos pães daquele país, separareis para o Senhor as primícias
+
+[[v4-15-20]]
+
+^<<v4-15-20,20>>^ do vosso alimento. Assim como separais as primícias das eiras,
+
+[[v4-15-21]]
+
+^<<v4-15-21,21>>^ assim também oferecereis ao Senhor as primícias das vossas massas.
+
+[[v4-15-22]]
+
+^<<v4-15-22,22>>^ Quando por ignorância omitirdes algumas destas coisas que o Senhor disse a Moisés,
+
+[[v4-15-23]]
+
+^<<v4-15-23,23>>^ e que por meio dele vos ordenou, desde o dia em que começou a dar-vos os seus mandamentos,
+
+[[v4-15-24]]
+
+^<<v4-15-24,24>>^ se a multidão vier a cair em qualquer falta por esquecimento, oferecerá um bezerro da manada em holocausto de suavíssimo cheiro para o Senhor, com a sua oblação e as suas libações, como prescrevem as cerimônias, e um bode pelo pecado;
+
+[[v4-15-25]]
+
+^<<v4-15-25,25>>^ o sacerdote rogará por toda a multidão dos filhos de Israel, e se lhes perdoará, porque não pecaram voluntariamente e ofereceram contudo um holocausto ao Senhor, pela sua inadvertência.
+
+[[v4-15-26]]
+
+^<<v4-15-26,26>>^ Será perdoado a toda a multidão dos filhos de Israel, e aos estrangeiros que moram entre eles, porque é uma culpa de todo o povo cometida por ignorância.
+
+[[v4-15-27]]
+
+^<<v4-15-27,27>>^ Porém, se uma só pessoa pecar por ignorância, oferecerá uma cabra de um ano pelo seu pecado,
+
+[[v4-15-28]]
+
+^<<v4-15-28,28>>^ e o sacerdote rogará por ela, porque pecou sem o saber diante do Senhor, e lhe alcançará o perdão, e lhe será perdoado.
+
+[[v4-15-29]]
+
+^<<v4-15-29,29>>^ Uma mesma lei será para todos os que pecarem por ignorância, que sejam naturais quer sejam estrangeiros.
+
+[[v4-15-30]]
+
+^<<v4-15-30,30>>^ A pessoa, porém, que dizer alguma coisa com a mão levantada (contra Deus), quer seja cidadão quer forasteiro, será eliminado do meio do seu povo, porque foi rebelde contra o Senhor,
+
+[[v4-15-31]]
+
+^<<v4-15-31,31>>^ porque desprezou a palavra do Senhor e violou o seu preceito; por isso será exterminado, e levará sobre si a sua iniquidade.
+
+[[v4-15-32]]
+
+^<<v4-15-32,32>>^ Ora aconteceu que, estando os filhos de Israel no deserto, e encontrando um homem que apanhava lenha no dia de sábado,
+
+[[v4-15-33]]
+
+^<<v4-15-33,33>>^ apresentaram-no a Moisés, a Aarão e a todo o povo.
+
+[[v4-15-34]]
+
+^<<v4-15-34,34>>^ Eles meteram-no em prisão, não sabendo o que deviam fazer dele.
+
+[[v4-15-35]]
+
+^<<v4-15-35,35>>^ O Senhor disse a Moisés: Este homem seja morto, todo o povo o apedreje fora dos acampamentos.
+
+[[v4-15-36]]
+
+^<<v4-15-36,36>>^ Tendo-o tirado para fora, apedrejaram-no, e ele morreu, como o Senhor tinha mandado.
+
+[[v4-15-37]]
+
+^<<v4-15-37,37>>^ Disse também o Senhor a Moisés:
+
+[[v4-15-38]]
+
+^<<v4-15-38,38>>^ Fala aos filhos de Israel, e dize-lhes que façam umas guarnições nas extremidades das suas capas, pondo nelas fitas de púrpura violácea,
+
+[[v4-15-39]]
+
+^<<v4-15-39,39>>^ para que, vendo-as, se recordem de todos os mandamentos do Senhor, e não sigam os seus pensamentos nem os seus olhos que os arrastam à infidelidade.
+
+[[v4-15-40]]
+
+^<<v4-15-40,40>>^ Assim se recordarão dos preceitos do Senhor e os cumprirão e serão santos para com o seu Deus.
+
+[[v4-15-41]]
+
+^<<v4-15-41,41>>^ Eu sou o Senhor vosso Deus que vos tirei da terra do Egito, para ser vosso Deus.
+
+'''
+
+xref:004-numeros/004-numeros-014.adoc#v4-14-0[&#60; Capítulo Anterior] | <<v4-15-0,Topo>> | xref:004-numeros/004-numeros-016.adoc#v4-16-0[Próximo Capítulo &#62;]

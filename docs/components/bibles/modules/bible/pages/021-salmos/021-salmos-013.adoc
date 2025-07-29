@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v21-13-0]]
+=== Salmos, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmo 13 é uma oração de lamentação em que o salmista expressa sua angústia diante de Deus e pede por ajuda. Os temas principais abordados no Salmo 13 são a aflição, a angústia, o sofrimento e a espera por socorro divino.
+* Salmos 34:18: "O Senhor está perto dos que têm o coração quebrantado e salva os de espírito abatido." Este versículo fala sobre como Deus está perto daqueles que estão sofrendo e tristes, quebrantando o coração, e Ele os salva.
+* Salmos 40:1-2: "Esperei com paciência no Senhor; ele se inclinou para mim e ouviu o meu clamor. Tirou-me dum lago horrível, dum charco de lodo, pôs os meus pés sobre uma rocha, firmou os meus passos." Neste salmo, o salmista fala sobre esperar em Deus e como Ele pode resgatar aqueles que clamam por Ele, como um refúgio seguro em meio às dificuldades.
+* Salmos 42:11: "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, a ele que é o meu socorro e o meu Deus." Este versículo expressa uma esperança no Senhor, em meio à tristeza e angústia.
+* Salmos 86:7: "Invoco-te no dia da minha angústia, porque me respondes." O salmista confia que Deus responderá à sua súplica em tempos de angústia.
+* Salmos 119:50: "Este é o meu consolo na minha aflição: que a tua palavra me vivifica." Este versículo destaca o poder da Palavra de Deus como um conforto e ajuda em momentos de aflição.
+****
+
+[[v21-13-1]]
+
+^<<v21-13-1,1>>^ Ao mestre do coro. De Davide. o insensato diz no seu coração: "Não há Deus." (Os homens) corromperam-se, praticaram acções abomináveis; não há quem faça o bem.
+
+[[v21-13-2]]
+
+^<<v21-13-2,2>>^ O Senhor olha do céu para os filhos dos homens, para ver se há quem entenda e busque a Deus.
+
+[[v21-13-3]]
+
+^<<v21-13-3,3>>^ Todos à uma se extraviaram, se perverteram; não há quem faça o bem, não há nem sequer um.
+
+[[v21-13-4]]
+
+^<<v21-13-4,4>>^ Não se emendarão todos os que praticam a iniquidade, os que devoram o meu povo, como quem come pão? Não invocaram o Senhor;
+
+[[v21-13-5]]
+
+^<<v21-13-5,5>>^ tempo virá em que tremerão de temor, porque Deus está com a estirpe dos justos.
+
+[[v21-13-6]]
+
+^<<v21-13-6,6>>^ Quereis confundir o intento do desvalido: mas o Senhor é o seu refúgio.
+
+[[v21-13-7]]
+
+^<<v21-13-7,7>>^ Oh, venha de Sião a salvação (ou o Salvador de) Israel! Quando o Senhor mudar a sorte do seu povo, exultará Jacob, alegrar-se-á Israel.
+
+'''
+
+xref:021-salmos/021-salmos-012.adoc#v21-12-0[&#60; Capítulo Anterior] | <<v21-13-0,Topo>> | xref:021-salmos/021-salmos-014.adoc#v21-14-0[Próximo Capítulo &#62;]

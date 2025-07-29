@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v27-10-0]]
+=== Sabedoria, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Sabedoria 10 narra a história de como a sabedoria guiou e protegeu os justos ao longo da história de Israel, desde Adão até Moisés. O capítulo enfatiza a importância da sabedoria para a vida virtuosa e para a busca da justiça.
+* Provérbios 2:6 - "Porque o Senhor dá a sabedoria, e da sua boca vem o conhecimento e o entendimento". Este versículo destaca que a sabedoria vem de Deus e é necessária para a vida justa.
+* Eclesiastes 2:26 - "Porque ao homem que lhe é agradável, Deus dá sabedoria, e conhecimento e alegria; mas ao pecador dá trabalho, para que ele ajunte e amontoe, a fim de dá-lo ao que é agradável a Deus". Esse versículo enfatiza a importância da sabedoria para a felicidade e a bênção de Deus na vida das pessoas.
+* Provérbios 16:16 - "Quanto melhor é adquirir a sabedoria do que o ouro! E quanto mais excelente é adquirir a prudência do que a prata!" Este versículo destaca a superioridade da sabedoria sobre a riqueza material.
+* Tiago 1:5 - "E se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não censura, e ser-lhe-á dada." Este versículo enfatiza que Deus é o doador de sabedoria e que as pessoas devem pedir a Ele quando precisam dela.
+* Provérbios 3:13 - "Bem-aventurado o homem que acha sabedoria, e o homem que adquire conhecimento". Este versículo destaca a felicidade e a bênção que vêm com a busca e a aquisição da sabedoria.
+****
+
+[[v27-10-1]]
+
+^<<v27-10-1,1>>^ Foi ela que guardou o primeiro homem formado por Deus, para ser o pai do gênero humano, quando foi criado só;
+
+[[v27-10-2]]
+
+^<<v27-10-2,2>>^ (foi ela também que) o tirou do seu pecado, e lhe deu poder para governar todas as coisas.
+
+[[v27-10-3]]
+
+^<<v27-10-3,3>>^ Logo que desta (sabedoria) se afastou o Injusto, na sua ira, pereceu por seu furor fratricida.
+
+[[v27-10-4]]
+
+^<<v27-10-4,4>>^ E quando, por causa dele, a água inundou a terra, a salvação veio ainda da sabedoria, conduzindo o justo num lenho desprezível. (ver nota)
+
+[[v27-10-5]]
+
+^<<v27-10-5,5>>^ Também ela, quando as nações, conspirando à uma para praticar o mal, foram confundidas, reconheceu o justo e conservou-o irrepreensível diante de Deus, e manteve-o forte, apesar da ternura por seu filho. (ver nota)
+
+[[v27-10-6]]
+
+^<<v27-10-6,6>>^ Foi ela que salvou o justo (do perigo), no meio da ruína dos ímpios, quando ele fugia do fogo descido sobre a Pentápole.
+
+[[v27-10-7]]
+
+^<<v27-10-7,7>>^ Em testemunho da maldade (desses ímpios), permanece deserta a sua terra, que ainda fumega, e as árvores dão frutos que não amadurecem, e vê-se a estátua de sal, ainda de pé, memorial duma alma incrédula.
+
+[[v27-10-8]]
+
+^<<v27-10-8,8>>^ Com efeito, afastando-se eles da sabedoria, não só foram impedidos de conhecer o bem, mas deixaram ainda aos viventes uma lembrança da sua loucura, para que não pudessem ser esquecidos os seus pecados.
+
+[[v27-10-9]]
+
+^<<v27-10-9,9>>^ Porém a sabedoria livrou de dores os que a servem.
+
+[[v27-10-10]]
+
+^<<v27-10-10,10>>^ Foi ela que conduziu o justo por caminhos direitos quando fugia da ira do seu irmão, e lhe mostrou o reino de Deus, e lhe deu o conhecimento das coisas santas, e o enriqueceu nos trabalhos, e fez frutificar os seus esforços. (ver nota)
+
+[[v27-10-11]]
+
+^<<v27-10-11,11>>^ Ela auxiliou-o contra avarentos opressores e fez-lhe adquirir riquezas.
+
+[[v27-10-12]]
+
+^<<v27-10-12,12>>^ Guardou-o dos inimigos, defendeu-o dos que lhe armavam ciladas, deu-lhe a vitória num rude combate, para lhe ensinar que a piedade é mais poderosa que tudo.
+
+[[v27-10-13]]
+
+^<<v27-10-13,13>>^ Ela não desamparou o justo vendido, mas livrou-o do pecado, desceu com ele à prisão,
+
+[[v27-10-14]]
+
+^<<v27-10-14,14>>^ e não o desamparou nas cadeias, até lhe depositar nas mãos o ceptro do reino, e o poder sobre os seus opressores, até declarar mentirosos os que o tinham difamado, e até lhe dar uma glória eterna.
+
+[[v27-10-15]]
+
+^<<v27-10-15,15>>^ Foi ela que livrou o povo justo e a linhagem irrepreensível das nações opressoras.
+
+[[v27-10-16]]
+
+^<<v27-10-16,16>>^ Entrou na alma dum servo de Deus (Moisés), e opôs-se, com prodígios e sinais, a reis formidáveis.
+
+[[v27-10-17]]
+
+^<<v27-10-17,17>>^ Ela deu aos justos o galardão dos seus trabalhos, conduziu-os por um caminho admirável, serviu-lhes de cobertura durante o dia, e de luz de astros durante a noite.
+
+[[v27-10-18]]
+
+^<<v27-10-18,18>>^ Conduziu-os através do mar Vermelho, fê-los passar pelo meio de muitas águas.
+
+[[v27-10-19]]
+
+^<<v27-10-19,19>>^ Sepultou no mar os seus inimigos, e depois lançou fora (os seus cadáveres) do profundo dos abismos.
+
+[[v27-10-20]]
+
+^<<v27-10-20,20>>^ Por isso os justos levaram os despojos dos ímpios, celebraram, Senhor, o teu santo nome, e, unânimemente, cantaram a tua mão protectora,
+
+[[v27-10-21]]
+
+^<<v27-10-21,21>>^ porque a sabedoria abriu a boca dos mudos, e tornou expeditas as línguas das crianças. (ver nota)
+
+'''
+
+xref:027-sabedoria/027-sabedoria-009.adoc#v27-9-0[&#60; Capítulo Anterior] | <<v27-10-0,Topo>> | xref:027-sabedoria/027-sabedoria-011.adoc#v27-11-0[Próximo Capítulo &#62;]

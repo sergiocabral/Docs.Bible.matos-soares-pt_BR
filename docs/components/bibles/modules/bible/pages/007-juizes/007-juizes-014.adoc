@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v7-14-0]]
+=== Juízes, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Juízes 14 conta a história de Sansão, um dos juízes de Israel, que pede a seus pais para que procurem uma esposa para ele entre os filisteus. Eles concordam, mas Sansão se apaixona por uma mulher que não agrada seus pais. Durante o casamento, Sansão propõe um enigma aos convidados da festa, que só é resolvido com a ajuda da esposa de Sansão. Ele fica furioso e mata trinta homens filisteus para cumprir a aposta. Abaixo estão cinco versículos relacionados aos temas abordados em Juízes 14.
+* Provérbios 14:15: "O tolo acredita em tudo, mas o homem prudente sabe pensar em suas ações." Sansão age impulsivamente em Juízes 14, deixando-se levar por suas emoções e desejos sem considerar as consequências de seus atos.
+* Eclesiastes 7:9: "Não se apresse em ficar irritado, pois a irritação está na raiz de muitos erros." A raiva de Sansão em relação à solução do enigma leva-o a agir de forma precipitada e violenta, matando trinta homens filisteus.
+* Isaías 1:18: "Vinde, pois, e arrazoemos, diz o Senhor: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã." Mesmo depois de seu erro em Juízes 14, Sansão tem a oportunidade de se arrepender e encontrar a redenção.
+* Mateus 7:6: "Não dêem o que é santo aos cães, nem joguem suas pérolas aos porcos, pois estes as pisarão e, voltando-se, os despedaçarão." A esposa de Sansão em Juízes 14, apesar de ter ajudado a resolver o enigma, acaba traindo-o e revelando a resposta aos filisteus. Isso mostra a importância de escolher cuidadosamente aqueles em quem confiamos.
+* Colossenses 3:23: "Tudo o que fizerem, façam de todo o coração, como para o Senhor e não para os homens." A história de Sansão em Juízes 14 serve como um lembrete de que devemos sempre buscar a vontade de Deus em nossas ações e não nos deixar levar por nossos próprios desejos egoístas.
+****
+
+[[v7-14-1]]
+
+^<<v7-14-1,1>>^ Sansão desceu a Tamnata e, tendo ali visto uma mulher das filhas dos Filisteus,
+
+[[v7-14-2]]
+
+^<<v7-14-2,2>>^ voltou, e falou a seu pai e a sua mãe, dizendo: Vi em Tamnata uma mulher das filhas dos Filisteus; rogo-vos que a tomeis para ser minha esposa.
+
+[[v7-14-3]]
+
+^<<v7-14-3,3>>^ Seu pai e sua mãe disseram-lhe: Porventura não há mulheres entre as filhas de teus irmãos, entre todo o nosso povo, para que tu queiras casar com uma dentre os Filisteus, que são incircuncidados? Sansão disse a seu pai: Toma esta para mim, porque agradou aos meus olhos.
+
+[[v7-14-4]]
+
+^<<v7-14-4,4>>^ Seus pais não sabiam que isto se fazia por disposição do Senhor, e que ele buscava uma ocasião contra os Filisteus, porque naquele tempo os Filisteus dominavam sobre Israel.
+
+[[v7-14-5]]
+
+^<<v7-14-5,5>>^ Sansão, com seu pai e sua mãe, foi a Tamnata. Quando chegaram às vinhas da cidade, apareceu um leão novo feroz, rugindo, que arremeteu contra ele.
+
+[[v7-14-6]]
+
+^<<v7-14-6,6>>^ O espírito do Senhor apossou-se de Sansão, e ele despedaçou o leão, fazendo-o em bocados, como se fora um cabrito, sem ter coisa alguma na mão; e não quis contar isto a seu pai nem a sua mãe.
+
+[[v7-14-7]]
+
+^<<v7-14-7,7>>^ Depois desceu e falou com a mulher que tinha agradado aos seus olhos.
+
+[[v7-14-8]]
+
+^<<v7-14-8,8>>^ Voltando, alguns dias depois, para casar com ela, afastou-se do caminho para ver o cadáver do leão, e reparou que na boca do leão estava um enxame de abelhas e um favo de mel.
+
+[[v7-14-9]]
+
+^<<v7-14-9,9>>^ Tomando-o nas mãos, ia-o comendo pelo caminho; quando chegou onde estavam seu pai e sua mãe, deu-lhes uma parte, que eles também comeram, mas não lhos quis dizer que tinha tirado aquele mel do corpo do leão.
+
+[[v7-14-10]]
+
+^<<v7-14-10,10>>^ Foi, pois, seu pai a casa da mulher, onde Sansão deu um banquete, porque assim o costumavam fazer os jovens (noivos).
+
+[[v7-14-11]]
+
+^<<v7-14-11,11>>^ Tendo-o visto os habitantes daquele lugar, deram-lhe trinta companheiros para estarem com ele.
+
+[[v7-14-12]]
+
+^<<v7-14-12,12>>^ Sansão disse-lhes: Propor-vos-ei um enigma; se vós souberdes decifrá-lo dentro dos sete dias da boda, dar-vos-ei trinta túnicas e outras tantas vestes de festa;
+
+[[v7-14-13]]
+
+^<<v7-14-13,13>>^ mas, se o não souberdes decifrar, dar-me-eis a mim trinta túnicas e outras tantas vestes de festa. Eles responderam-lhe: Propõe o enigma, para que o ouçamos.
+
+[[v7-14-14]]
+
+^<<v7-14-14,14>>^ Ele disse-lhes: Do que come saiu comida, e do forte saiu doçura. Eles durante três dias não puderam decifrar o enigma.
+
+[[v7-14-15]]
+
+^<<v7-14-15,15>>^ Aproximando-se o dia sétimo, disseram à mulher de Sansão: Acaricia o teu marido e faz que ele te descubra o que significa o enigma; se o não quiseres fazer, queimar-te-emos a ti e à casa do teu pai; porventura nos convidastes vós para as bodas a fim de nos despojardes?
+
+[[v7-14-16]]
+
+^<<v7-14-16,16>>^ Ela punha-se a chorar junto de Sansão, e queixava-se dizendo: Tu odeias-me, não me amas, por isso não queres declarar-me o enigma, que propuseste aos filhos do meu povo. Ele respondeu: Eu não o quis descobrir a meu pai e a minha mãe, e poderei declará-lo a ti?
+
+[[v7-14-17]]
+
+^<<v7-14-17,17>>^ Ela pois chorava diante dele durante os sete dias da boda; enfim, ao sétimo dia, sendo-lhe ela importuna, declarou-lho. Ela imediatamente o descobriu nos seus compatriotas.
+
+[[v7-14-18]]
+
+^<<v7-14-18,18>>^ E eles, no sétimo dia, antes de se pôr o sol, disseram-lhe: Que coisa é mais doce que o mel, e que coisa é mais forte que o leão? Ele disse-lhes: Se vós não tivésseis lavrado com a minha novilha, não teríeis decifrado o meu enigma. (ver nota)
+
+[[v7-14-19]]
+
+^<<v7-14-19,19>>^ Apoderou-se dele o espírito do Senhor, e foi a Ascalon. Matou lá trinta homens, e, tirados os seus despojos, deu as trinta vestes de festa aos que tinham decifrado o enigma. Sobremaneira irado, voltou para casa de seu pai.
+
+[[v7-14-20]]
+
+^<<v7-14-20,20>>^ Entretanto sua mulher (julgando-se abandonada), casou-se com um dos amigos e companheiros dele nas bodas.
+
+'''
+
+xref:007-juizes/007-juizes-013.adoc#v7-13-0[&#60; Capítulo Anterior] | <<v7-14-0,Topo>> | xref:007-juizes/007-juizes-015.adoc#v7-15-0[Próximo Capítulo &#62;]

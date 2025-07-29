@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v54-6-0]]
+=== II Coríntios, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 6 de 2 Coríntios trata de questões relacionadas ao ministério cristão e à comunhão com Deus. Paulo fala sobre a necessidade de se separar do mundo e de viver uma vida consagrada a Deus, enfatizando a importância da graça de Deus para isso. Ele também descreve os desafios e dificuldades que enfrenta como apóstolo, mas destaca a esperança e a vitória que tem em Cristo.
+* 2 Coríntios 6:1-2 - "E, trabalhando nós juntamente com ele, também vos exortamos a que não recebais a graça de Deus em vão (porque diz: Ouvi-te em tempo aceitável e socorri-te no dia da salvação; eis aqui agora o tempo aceitável, eis aqui agora o dia da salvação)." Paulo enfatiza a importância de receber a graça de Deus e de se arrepender em tempo hábil, destacando a urgência da salvação.
+* 2 Coríntios 6:14 - "Não vos prendais a um jugo desigual com os incrédulos; pois que sociedade tem a justiça com a injustiça? ou que comunhão tem a luz com as trevas?" Paulo adverte os coríntios a não se unirem a incrédulos em seus esforços ministeriais ou em suas vidas pessoais, enfatizando a necessidade de manter uma separação do mundo.
+* 2 Coríntios 6:17 - "Por isso saí do meio deles, e apartai-vos, diz o Senhor; e não toqueis nada imundo, e eu vos receberei." Paulo cita Isaías para enfatizar a importância de se separar do mundo e de se consagrar a Deus, afirmando que isso resultará em uma comunhão mais profunda com Ele.
+* 2 Coríntios 6:4-5 - "Mas em tudo recomendando-nos a nós mesmos como ministros de Deus; na muita paciência, nas aflições, nas necessidades, nas angústias, nos açoites, nas prisões, nos tumultos, nos trabalhos, na vigília, nos jejuns." Paulo descreve os desafios que enfrenta como apóstolo, incluindo perseguições e dificuldades, enfatizando a necessidade de perseverança e de recomendar-se como um ministro de Deus.
+* 2 Coríntios 6:18 - "E eu serei para vós Pai, e vós sereis para mim filhos e filhas, diz o Senhor Todo-Poderoso." Paulo encerra o capítulo com uma citação de Isaías, enfatizando a promessa de que aqueles que se separam do mundo e se consagram a Deus serão considerados filhos e filhas Dele.
+****
+
+[[v54-6-1]]
+
+^<<v54-6-1,1>>^ Ora, sendo nós cooperadores (de Cristo), vos exortamos a que não recebais em vão a graça de Deus.
+
+[[v54-6-2]]
+
+^<<v54-6-2,2>>^ Porque ele diz: Eu te ouvi, no tempo aceitável, e te ajudei, no dia da salvação (Is. 49, 8). Eis aqui agora o tempo aceitável, eis aqui agora o dia da salvação.
+
+[[v54-6-3]]
+
+^<<v54-6-3,3>>^ Não damos a ninguém ocasião alguma de escândalo, para que não seja vituperado o nosso ministério,
+
+[[v54-6-4]]
+
+^<<v54-6-4,4>>^ antes em todas as coisas nos mostramos como ministros de Deus, com muita paciência nas tribulações, nas necessidades, nas angústias,
+
+[[v54-6-5]]
+
+^<<v54-6-5,5>>^ nos açoites, nos cárceres, nas sedições, nos trabalhos, nas vigílias, nos jejuns;
+
+[[v54-6-6]]
+
+^<<v54-6-6,6>>^ com a castidade, com a ciência, com a longanimidade, com a mansidão, com o Espírito Santo, com a caridade não fingida,
+
+[[v54-6-7]]
+
+^<<v54-6-7,7>>^ com a palavra da verdade, com a virtude de Deus, com as armas da justiça, na mão direita e na mão esquerda,
+
+[[v54-6-8]]
+
+^<<v54-6-8,8>>^ entre a glória e a ignomínia, entre a infâmia e o bom nome; considerados como impostores, embora sejamos verdadeiros; como desconhecidos, embora conhecidos;
+
+[[v54-6-9]]
+
+^<<v54-6-9,9>>^ como moribundos, mas ainda vivos; como castigados, mas escapados à morte;
+
+[[v54-6-10]]
+
+^<<v54-6-10,10>>^ como tristes, mas sempre alegres; como pobres, mas enriquecendo a muitos; como não tendo nada, mas possuindo tudo.
+
+[[v54-6-11]]
+
+^<<v54-6-11,11>>^ A nossa boca está aberta para vós, ó Coríntios, o nosso coração dilatou-se.
+
+[[v54-6-12]]
+
+^<<v54-6-12,12>>^ Não estais apertados dentro dele. Apertados sois vós de coração. (ver nota)
+
+[[v54-6-13]]
+
+^<<v54-6-13,13>>^ Dai-nos igual correspondência (de amor), falo-vos como a filhos, dilatai-vos também vós.
+
+[[v54-6-14]]
+
+^<<v54-6-14,14>>^ Não vos sujeiteis ao mesmo jugo que os infiéis. Pois, que união pode haver entre a justiça e a iniquidade? Ou que sociedade entre a luz e as trevas?
+
+[[v54-6-15]]
+
+^<<v54-6-15,15>>^ Que concórdia entre Cristo e Belial? Que de comum entre o fiel e o infiel?
+
+[[v54-6-16]]
+
+^<<v54-6-16,16>>^ Que relação entre o templo de Deus e os ídolos? Com efeito, somos o templo de Deus vivo, como Deus disse: Habitarei neles e andarei entre eles, serei o seu Deus e eles serão o meu povo (Lv. 26, 11-12).
+
+[[v54-6-17]]
+
+^<<v54-6-17,17>>^ Portanto, sai do meio deles e separai-vos, diz o Senhor. Não toqueis o que é impuro, e eu vos receberei.
+
+[[v54-6-18]]
+
+^<<v54-6-18,18>>^ Serei vosso pai, e vós sereis meus filhos e minhas filhas, diz o Senhor todo poderoso (Is. 52,11; Jer. 31,9).
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-005.adoc#v54-5-0[&#60; Capítulo Anterior] | <<v54-6-0,Topo>> | xref:054-ii-corintios/054-ii-corintios-007.adoc#v54-7-0[Próximo Capítulo &#62;]

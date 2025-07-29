@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v21-65-0]]
+=== Salmos, 65
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 65 é um salmo de ação de graças em que o salmista louva a Deus por sua bondade e provisão. Ele descreve a grandeza de Deus em sua criação e no controle da natureza, e agradece pelo cuidado que Deus tem com a terra e com as pessoas. Vasculhando toda a Bíblia, foram encontrados cinco versículos relacionados com os temas abordados em Salmo 65, apresentados a seguir em ordem de proximidade com os temas do capítulo:
+* Salmos 104:14-15: "Ele faz crescer o capim para o gado, e as plantas que o homem cultiva, para da terra tirar o alimento: o vinho, que alegra o coração do homem; o azeite, que lhe dá brilho no rosto; e o pão que sustenta o seu vigor." Este verso destaca a provisão de Deus para a terra e para as pessoas, lembrando-nos de que tudo o que temos vem de Deus.
+* Mateus 6:26: "Observai as aves do céu: não semeiam, não colhem, nem ajuntam em celeiros; contudo, vosso Pai celestial as sustenta. Não tendes vós muito mais valor do que as aves?" Este verso fala do cuidado de Deus com a criação, lembrando-nos de que podemos confiar em sua provisão.
+* Salmos 104:24: "Quão numerosas são as tuas obras, Senhor! Fizeste todas elas com sabedoria; a terra está cheia das tuas criaturas." Este verso destaca a grandeza e a sabedoria de Deus em sua criação, lembrando-nos de que podemos louvá-lo por sua obra.
+* Gênesis 1:31: "Deus viu tudo o que havia feito, e tudo havia ficado muito bom. Passaram-se a tarde e a manhã; este foi o sexto dia." Este verso mostra que a criação de Deus é boa, e podemos agradecer a ele por isso.
+* Lucas 12:24: "Observai os corvos: não semeiam, não colhem, não têm despensa nem celeiro; contudo, Deus os sustenta. Quanto mais valeis vós do que as aves!" Este verso também fala do cuidado de Deus com a criação e nos lembra que podemos confiar em sua provisão.
+****
+
+[[v21-65-1]]
+
+^<<v21-65-1,1>>^ Ao mestre do coro. Cântico. Salmo. Aclamai Deus, habitantes todos da terra,
+
+[[v21-65-2]]
+
+^<<v21-65-2,2>>^ cantai a glória do seu nome, tributai-lhe magnífico louvor.
+
+[[v21-65-3]]
+
+^<<v21-65-3,3>>^ Dizei a Deus: Quão assombrosas são, Senhor, as tuas obras! Por causa da grandeza do teu poder os teus inimigos lisonjeiam-te.
+
+[[v21-65-4]]
+
+^<<v21-65-4,4>>^ Toda a terra te adore e te cante, cante o teu nome.
+
+[[v21-65-5]]
+
+^<<v21-65-5,5>>^ Vinde, e vede as obras de Deus: operou coisas assombrosas entre os filhos dos homens!
+
+[[v21-65-6]]
+
+^<<v21-65-6,6>>^ Converteu o mar em terra firme; passaram o rio a pé enxuto; alegremo-nos, pois, nele!
+
+[[v21-65-7]]
+
+^<<v21-65-7,7>>^ Domina com o seu poder para sempre, os seus olhos contemplam as nações: não se ensoberbeçam os rebeldes.
+
+[[v21-65-8]]
+
+^<<v21-65-8,8>>^ Bendizei, nações, o nosso Deus e propagai o seu louvor,
+
+[[v21-65-9]]
+
+^<<v21-65-9,9>>^ (pois foi ele) que deu vida à nossa alma e não permitiu que os nossos pés vacilassem.
+
+[[v21-65-10]]
+
+^<<v21-65-10,10>>^ Porquanto nos provaste, ó Deus; com fogo nos acrisolaste, como se acrisola a prata; (ver nota)
+
+[[v21-65-11]]
+
+^<<v21-65-11,11>>^ fizeste-nos cair no laço; pesada carga puseste às nossas costas;
+
+[[v21-65-12]]
+
+^<<v21-65-12,12>>^ fizeste passar homens sobre as nossas cabeças; passamos pelo fogo e pela água; mas por fim deste-nos refrigério.
+
+[[v21-65-13]]
+
+^<<v21-65-13,13>>^ Entrarei na tua casa com holocaustos, pagar-te-ei os meus votos,
+
+[[v21-65-14]]
+
+^<<v21-65-14,14>>^ que os meus lábios pronunciaram, que a minha boca proferiu na minha tribulação.
+
+[[v21-65-15]]
+
+^<<v21-65-15,15>>^ Oferecer-te-ei holocaustos de ovelhas pingues com gordura de carneiros: imolarei bois com cabritos.
+
+[[v21-65-16]]
+
+^<<v21-65-16,16>>^ Vinde, ouvi todos os que temeis a Deus, e eu vos narrarei quão grandes coisas ele fez à minha alma!
+
+[[v21-65-17]]
+
+^<<v21-65-17,17>>^ A minha boca clamou por ele, e louvei-o com a minha língua.
+
+[[v21-65-18]]
+
+^<<v21-65-18,18>>^ Se eu tivesse visto a iniquidade no meu coração, o Senhor não me teria ouvido.
+
+[[v21-65-19]]
+
+^<<v21-65-19,19>>^ Mas Deus ouviu-me, atendeu à voz da minha súplica.
+
+[[v21-65-20]]
+
+^<<v21-65-20,20>>^ Bendito seja Deus, que não rejeitou a minha oração, nem retirou de mim a sua misericórdia.
+
+'''
+
+xref:021-salmos/021-salmos-064.adoc#v21-64-0[&#60; Capítulo Anterior] | <<v21-65-0,Topo>> | xref:021-salmos/021-salmos-066.adoc#v21-66-0[Próximo Capítulo &#62;]

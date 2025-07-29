@@ -1,0 +1,43 @@
+include::./index.adoc[]
+
+[[v21-1-0]]
+=== Salmos, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmo 1 é um salmo de sabedoria que descreve as bênçãos que vêm para aqueles que escolhem seguir a lei de Deus. O salmo fala sobre como os justos são abençoados e como os ímpios perecerão. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 1:
+* Salmo 19:7: "A lei do Senhor é perfeita e revigora a alma. Os testemunhos do Senhor são dignos de confiança, e tornam sábios os inexperientes." Esse versículo destaca a importância da lei de Deus e como ela é capaz de dar sabedoria e renovar a alma daqueles que a seguem.
+* Salmo 32:1-2: "Bem-aventurado aquele cuja transgressão é perdoada, cujo pecado é coberto. Bem-aventurado o homem a quem o Senhor não atribui iniquidade, e em cujo espírito não há engano." Esse versículo fala sobre as bênçãos que vêm com o perdão dos pecados e a remoção da culpa.
+* Salmo 112:1: "Aleluia! Como é feliz o homem que teme o Senhor e tem grande prazer em seus mandamentos!" Esse versículo destaca a felicidade que vem para aqueles que temem o Senhor e se deleitam em seguir seus mandamentos.
+* Provérbios 3:1-2: "Filho meu, não te esqueças da minha lei; e o teu coração guarde os meus mandamentos. Porque eles aumentarão os teus dias e te acrescentarão anos de vida e paz." Esse versículo destaca como seguir a lei de Deus pode levar a uma vida mais longa e pacífica.
+* Jeremias 17:7-8: "Bendito é o homem que confia no Senhor, e cuja confiança é o Senhor. Porque ele será como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem o calor, mas a sua folha fica verde; e no ano de sequidão não se afadiga, nem deixa de dar fruto." Esse versículo fala sobre as bênçãos que vêm para aqueles que confiam no Senhor e como eles podem prosperar e dar frutos em todas as circunstâncias.
+****
+
+[[v21-1-1]]
+
+^<<v21-1-1,1>>^ Bem-aventurado o homem que não segue o conselho dos ímpios, e não anda pelo caminho dos pecadores, e não se senta na reunião (dos maus);
+
+[[v21-1-2]]
+
+^<<v21-1-2,2>>^ antes põe as suas complacências na lei do Senhor, e na sua lei medita de dia e de noite.
+
+[[v21-1-3]]
+
+^<<v21-1-3,3>>^ Ele é como a árvore plantada junto às correntes das águas, que a seu tempo dá fruto, cujas folhas não murcham, e todas as coisas que faz têm bom êxito.
+
+[[v21-1-4]]
+
+^<<v21-1-4,4>>^ Não assim os ímpios, não assim; mas são como a palheira que o vento leva.
+
+[[v21-1-5]]
+
+^<<v21-1-5,5>>^ Por isso os ímpios não se sustentarão no (dia do) juízo, nem os pecadores (estarão) na congregação dos justos, (ver nota)
+
+[[v21-1-6]]
+
+^<<v21-1-6,6>>^ porque o Senhor cuida do caminho dos justos, e o caminho dos impios perecerá.
+
+'''
+
+xref:020-jo/020-jo-042.adoc#v20-42-0[&#60; Capítulo Anterior] | <<v21-1-0,Topo>> | xref:021-salmos/021-salmos-002.adoc#v21-2-0[Próximo Capítulo &#62;]

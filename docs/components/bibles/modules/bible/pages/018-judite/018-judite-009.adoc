@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v18-9-0]]
+=== Judite, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 9 contém uma oração de Judite a Deus, na qual ela pede forças e sabedoria para executar seu plano de libertar seu povo da opressão assíria. Abaixo estão cinco versículos relacionados aos temas abordados em Judite 9:
+* 2 Crônicas 20:12: "Ah, nosso Deus, porventura não os julgarás? Pois em nós não há força contra essa grande multidão que vem contra nós, e não sabemos o que fazer; porém os nossos olhos estão postos em ti." Este versículo expressa a confiança em Deus em tempos de incerteza e dificuldade, semelhante à oração de Judite em Judite 9.
+* Salmos 18:32-33: "O Deus que me cinge de força e torna perfeito o meu caminho. Ele torna os meus pés como os das corças e me coloca em lugares altos." Este versículo destaca a capacidade de Deus de fortalecer e guiar Seus servos, semelhante à oração de Judite em busca de forças e orientação em Judite 9.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo enfatiza a importância de confiar em Deus e buscar Sua orientação em vez de confiar apenas no próprio entendimento, semelhante ao pedido de sabedoria e orientação de Judite em Judite 9.
+* Isaías 40:29-31: "Ele dá força ao cansado, e multiplica as forças ao que não tem nenhum vigor. Os jovens se cansarão e se fatigarão, e os moços certamente cairão. Mas os que esperam no Senhor renovarão as suas forças e subirão com asas como águias; correrão, e não se cansarão; andarão, e não se fatigarão." Este versículo destaca a capacidade de Deus de fortalecer Seus servos, semelhante ao pedido de forças de Judite em Judite 9.
+* Tiago 1:5: "E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não o lança em rosto; e ser-lhe-á dada." Este versículo enfatiza a importância de pedir sabedoria a Deus em tempos de dificuldade, semelhante ao pedido de sabedoria de Judite em Judite 9.
+****
+
+[[v18-9-1]]
+
+^<<v18-9-1,1>>^ Depois que eles se retiraram, entrou Judit no seu oratório, pôs o seu cilício, lançou cinza sobre a sua cabeça e, prostrando-se diante do Senhor, fez esta oração:
+
+[[v18-9-2]]
+
+^<<v18-9-2,2>>^ Senhor Deus de meu pai Simeão, que lhe deste a espada para se vingar dos estrangeiros que, arrastados pela paixão, violaram e ultrajaram com afronta o pudor de uma virgem,
+
+[[v18-9-3]]
+
+^<<v18-9-3,3>>^ que abandonaste as mulheres deles à presa, as filhas ao cativeiro, e todos os seus despojos em partilha aos teus servos, que se abrasaram em teu zelo, socorre, te peço, ó Senhor meu Deus, esta viúva.
+
+[[v18-9-4]]
+
+^<<v18-9-4,4>>^ Tu operaste as maravilhas dos tempos antigos, determinaste que umas sucedessem a outras, e fez-se (sempre) o que quiseste.
+
+[[v18-9-5]]
+
+^<<v18-9-5,5>>^ Todos os teus caminhos estão preparados, e fundaste os teus juízos na tua providência.
+
+[[v18-9-6]]
+
+^<<v18-9-6,6>>^ Lança agora os olhos sobre o acampamento dos Assírios, como noutro tempo te dignaste lançá-lo sobre o acampamento dos Egípcios, quando, armados, corriam atrás dos teus servos, fiando-se nos seus carros, na sua cavalaria e na multidão dos soldados.
+
+[[v18-9-7]]
+
+^<<v18-9-7,7>>^ Bastou um olhar teu sobre o seu acampamento, e as trevas lhes tiraram as forças.
+
+[[v18-9-8]]
+
+^<<v18-9-8,8>>^ O abismo reteve os seus passos, e as águas os cobriram.
+
+[[v18-9-9]]
+
+^<<v18-9-9,9>>^ Assim pereçam também, Senhor, estes que confiam na sua multidão, que se gloriam dos seus carros, dardos, escudos, frechas e lanças,
+
+[[v18-9-10]]
+
+^<<v18-9-10,10>>^ e que não sabem que tu és o nosso Deus, que desde os tempos antigos desbaratas os exércitos, e que o teu nome é o Senhor.
+
+[[v18-9-11]]
+
+^<<v18-9-11,11>>^ Levanta o teu braço, como outrora fizeste, e, com a tua força, quebra a sua fortaleza; diante da tua ira caia a força destes que prometeram a si próprios violar o teu Santuário, profanar o tabernáculo do teu nome e derrubar com a espada a majestade do teu altar.
+
+[[v18-9-12]]
+
+^<<v18-9-12,12>>^ Faz, Senhor, que a soberba deste homem seja cortada com a sua própria espada;
+
+[[v18-9-13]]
+
+^<<v18-9-13,13>>^ seja ele preso ao laço dos seus olhos, fixos sobre mim; fere-o com as doces palavras dos meus lábios.
+
+[[v18-9-14]]
+
+^<<v18-9-14,14>>^ Dá firmeza ao meu coração para eu o desprezar, e fortaleza para o perder.
+
+[[v18-9-15]]
+
+^<<v18-9-15,15>>^ Ganhará o teu nome uma glória memorável, se a mão de uma mulher o derrubar.
+
+[[v18-9-16]]
+
+^<<v18-9-16,16>>^ O teu poder, Senhor, não está na multidão, nem tu te comprazes na força dos cavalos; nunca te agradaram os soberbos, mas sempre te agradou a súplica dos humildes e dos mansos.
+
+[[v18-9-17]]
+
+^<<v18-9-17,17>>^ Deus dos céus, Criador das águas e Senhor de todas as criaturas, ouve esta miserável, que te suplica e que espera tudo da tua misericórdia.
+
+[[v18-9-18]]
+
+^<<v18-9-18,18>>^ Lembra-te, Senhor, da lua aliança, põe tu as palavras na minha boca, fortifica a resolução do meu coração, para que a tua casa permaneça sempre santificada
+
+[[v18-9-19]]
+
+^<<v18-9-19,19>>^ e para que todas as nações conheçam que tu és Deus e que não há outro senão tu.
+
+'''
+
+xref:018-judite/018-judite-008.adoc#v18-8-0[&#60; Capítulo Anterior] | <<v18-9-0,Topo>> | xref:018-judite/018-judite-010.adoc#v18-10-0[Próximo Capítulo &#62;]

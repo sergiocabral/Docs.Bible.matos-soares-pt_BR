@@ -1,0 +1,226 @@
+include::./index.adoc[]
+
+[[v5-32-0]]
+=== Deuteronômio, 32
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 32 é um cântico que Moisés canta ao povo de Israel para lembrá-los da fidelidade de Deus e dos castigos que podem vir sobre eles caso abandonem a aliança com Ele. Esse capítulo enfatiza a importância da obediência e da justiça, bem como o cuidado divino por Seu povo e a ira divina contra aqueles que O rejeitam.
+* Jeremias 21:12: "Ó casa de Davi, assim diz o Senhor: Praticai a justiça pela manhã, e livrai o oprimido da mão do opressor, para que não saia fogo da vossa ira, que arda e ninguém o apague, por causa da maldade das vossas obras." A prática da justiça é um tema central em Deuteronômio 32, e esse versículo enfatiza a importância de agir com justiça para evitar a ira de Deus.
+* Salmos 81:11-13: "Mas o meu povo não quis ouvir a minha voz, e Israel não me quis obedecer. Então eu os entreguei aos desejos dos seus corações, para que andassem nos seus próprios conselhos. Ah, se o meu povo me tivesse ouvido! Se Israel tivesse andado nos meus caminhos!" Esses versículos refletem a preocupação de Deuteronômio 32 com a obediência a Deus e as consequências da desobediência.
+* Isaías 49:15-16: "Pode uma mulher esquecer-se do filho que ainda mama, de sorte que não se compadeça do filho do seu ventre? Mas ainda que esta se esquecesse, eu, todavia, não me esquecerei de ti. Eis que nas palmas das minhas mãos eu te gravei; os teus muros estão continuamente diante de mim." Deuteronômio 32 enfatiza a fidelidade de Deus ao Seu povo, e esse versículo de Isaías reflete a mesma ideia.
+* Romanos 12:19: "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: ‘Minha é a vingança; eu retribuirei’, diz o Senhor." A ira de Deus contra aqueles que O rejeitam é um tema importante em Deuteronômio 32, e esse versículo em Romanos enfatiza que é Deus quem deve lidar com a vingança, não os seres humanos.
+****
+
+[[v5-32-1]]
+
+^<<v5-32-1,1>>^ Ouvi, ó céus, o que vou dizer, ouça a terra as palavras da minha boca! (ver nota)
+
+[[v5-32-2]]
+
+^<<v5-32-2,2>>^ Derrame-se como a chuva a minha doutrina, espalhe-se como orvalho a minha palavra, aguaceiros sobre a erva, e como gotas de água sobre a verdura,
+
+[[v5-32-3]]
+
+^<<v5-32-3,3>>^ porque eu invocarei o nome do Senhor. Dai glória ao nosso Deus.
+
+[[v5-32-4]]
+
+^<<v5-32-4,4>>^ As obras de Deus são perfeitas, e todos os seus caminhos são justos. Deus é fiel, e sem nenhuma iniquidade, ele é justo e recto.
+
+[[v5-32-5]]
+
+^<<v5-32-5,5>>^ Pecaram contra ele os filhos degenerados com suas imundícies geração depravada e perversa.
+
+[[v5-32-6]]
+
+^<<v5-32-6,6>>^ É este o agradecimento que dás ao Senhor, povo louco e insensato? Não é ele teu Pai, que te criou, que te fez, que te formou?
+
+[[v5-32-7]]
+
+^<<v5-32-7,7>>^ Lembra-te dos dias antigos, considera os anos das gerações passadas; interroga teu pai, e ele te contará; teus avós e eles te dirão.
+
+[[v5-32-8]]
+
+^<<v5-32-8,8>>^ Quando o Altíssimo dividiu a sua herança pelas nações, quando separou os filhos dos homens, fixou os limites ds povos segundo o número dos filhos de Israel.
+
+[[v5-32-9]]
+
+^<<v5-32-9,9>>^ Porém a porção própria do Senhor é o seu povo; Jacob é a sua herança.
+
+[[v5-32-10]]
+
+^<<v5-32-10,10>>^ (O Senhor) encontrou-o numa terra deserta, num lugar horroroso e de vasta solidão, cercou-o e instruiu-o, guardou-o como as meninas dos seus olhos.
+
+[[v5-32-11]]
+
+^<<v5-32-11,11>>^ Como a águia que provoca seus filhos a voar, e esvoaça sobre eles, (assim o Senhor) estendeu as suas asas e o tomou, e o levou sobre seus ombros.
+
+[[v5-32-12]]
+
+^<<v5-32-12,12>>^ Só o Senhor foi o seu guia, e não estava com ele deus algum estranho.
+
+[[v5-32-13]]
+
+^<<v5-32-13,13>>^ Levou-o às alturas da terra, nutriu-o com os frutos dos campos, deu-lhe a sugar o mel (que saía) da pedra, e o azeite (que saía) do rochedo duríssimo.
+
+[[v5-32-14]]
+
+^<<v5-32-14,14>>^ a manteiga das vacas, o leite das ovelhas, com gordura dos cordeiros, e dos carneiros criados em Basan, e dos cabritos, com a flor de farinha do trigo, e ele bebeu o mais puro sangue da uva.
+
+[[v5-32-15]]
+
+^<<v5-32-15,15>>^ Mas Jesurun engordou e recalcitrou; tendo-se tomado gordo, cheio e nédio, abandonou a Deus seu criador, e afastou-se de Deus sua salvação.
+
+[[v5-32-16]]
+
+^<<v5-32-16,16>>^ Provocaram-no com deuses estranhos, e excitaram-no à ira com as suas abominações.
+
+[[v5-32-17]]
+
+^<<v5-32-17,17>>^ Sacrificaram aos demônios e não a Deus, a deuses que desconheciam, deuses novos, acabados de chegar, que seus pais não tinham adorado.
+
+[[v5-32-18]]
+
+^<<v5-32-18,18>>^ Abandonaste o Deus que te gerou, e esqueceste-te do Senhor teu criador.
+
+[[v5-32-19]]
+
+^<<v5-32-19,19>>^ O Senhor viu (isto), e acendeu-se em ira, porque o provocaram seus filhos e filhas.
+
+[[v5-32-20]]
+
+^<<v5-32-20,20>>^ E disse: Eu esconderei deles a minha face, e verei qual será o seu fim, porque é una geração perversa, (são) uns filhos infiéis.
+
+[[v5-32-21]]
+
+^<<v5-32-21,21>>^ Eles provocaram-me com o que não é Deus, e irritaram-me com os seus ídolos vãos; eu os provocarei com um que não é povo, e os irritarei com uma nação insensata.
+
+[[v5-32-22]]
+
+^<<v5-32-22,22>>^ Acendeu-se o fogo da minha cólera, e arderá até ao fundo da habitação dos mortos; devorará a terra com todos os seus produtos, abrasará os fundamentos das montanhas.
+
+[[v5-32-23]]
+
+^<<v5-32-23,23>>^ Eu acumularei os males sobre eles, empregarei contra eles todas as minhas setas.
+
+[[v5-32-24]]
+
+^<<v5-32-24,24>>^ Serão consumidos pela fome, pela febre e pela peste mortífera; mandarei contra eles os dentes das feras, com o furor dos (répteis) que se arrastam no pó da terra.
+
+[[v5-32-25]]
+
+^<<v5-32-25,25>>^ Por fora os desvastará a espada, e por dentro (os morderá) o terror, tanto ao mancebo como à donzela, tanto à criança de leite como ao velho.
+
+[[v5-32-26]]
+
+^<<v5-32-26,26>>^ Já teria dito: vou exterminá-los completamente, farei desaparecer a sua memória entre os homens.
+
+[[v5-32-27]]
+
+^<<v5-32-27,27>>^ Contudo diferi (executar isto) por causa da arrogância dos inimigos; para que os seus inimigos se não ensoberbecessem, e dissessem: Foi a nossa mão poderosa, e não o Senhor, que fez todas estas coisas.
+
+[[v5-32-28]]
+
+^<<v5-32-28,28>>^ É uma nação sem conselho e sem prudência.
+
+[[v5-32-29]]
+
+^<<v5-32-29,29>>^ Oxalá que eles tivessem sabedoria e compreendessem, e previssem o fim (que os espera)!
+
+[[v5-32-30]]
+
+^<<v5-32-30,30>>^ Como pode ser que um persiga mil, e dois ponham em fuga dez mil, Não é isto porque o seu Deus os vendeu, e o Senhor os entregou?
+
+[[v5-32-31]]
+
+^<<v5-32-31,31>>^ O nosso Deus não é como os deuses deles; (disso) os nossos inimigos são juízes. (ver nota)
+
+[[v5-32-32]]
+
+^<<v5-32-32,32>>^ A sua vinha vem da vinha de Sodoma. e dos campos de Gomorra; a sua uva é uma uva de fel; e os seus cachos amargosíssimos.
+
+[[v5-32-33]]
+
+^<<v5-32-33,33>>^ O seu vinho é fel de dragões, e veneno incurável de áspides.
+
+[[v5-32-34]]
+
+^<<v5-32-34,34>>^ Porventura não estão guardadas estas coisas junto de mim, e seladas nos meus tesouros?
+
+[[v5-32-35]]
+
+^<<v5-32-35,35>>^ A mim pertence a vingança, eu lhes darei o pago a seu tempo, quando o seu pé resvalar; está próximo o dia da (sua) perdição, os tempos (dela) se apressam a chegar.
+
+[[v5-32-36]]
+
+^<<v5-32-36,36>>^ O Senhor julgará o seu povo, compadecer-se-á dos seus servos, quando vir que a mão deles está sem força, e que não há mais, nem homens livres nem escravos.
+
+[[v5-32-37]]
+
+^<<v5-32-37,37>>^ Dirá: Onde estão os seus deuses, nos quais tinha (posto a sua) confiança.
+
+[[v5-32-38]]
+
+^<<v5-32-38,38>>^ (esses deuses) que comiam a gordura das suas vítimas e bebiam o vinho das suas libações? Levantem-se, venham em vosso socorro e protejam-vos na (vossa) necessidade.
+
+[[v5-32-39]]
+
+^<<v5-32-39,39>>^ Vede que sou eu só (o verdadeiro Deus), e que não há outro Deus fora de mim; eu faço morrer, e faço viver; firo e curo, e não há quem possa tirar da minha mão (coisa alguma).
+
+[[v5-32-40]]
+
+^<<v5-32-40,40>>^ Levantarei a minha mão ao céu, e direi: Eu vivo eternamente.
+
+[[v5-32-41]]
+
+^<<v5-32-41,41>>^ Se eu afiar como o raio a minha espada, e a minha mão tomar a justiça, eu me vingarei dos meus inimigos, e darei o pago aos que me aborrecem.
+
+[[v5-32-42]]
+
+^<<v5-32-42,42>>^ Embriagarei de sangue as minhas setas, a minha espada se saciará de carne, do sangue dos mortos e dos prisioneiros, da cabeça dos chefes dos inimigos.
+
+[[v5-32-43]]
+
+^<<v5-32-43,43>>^ Louvai, ó gentes, o seu povo, porque o Senhor vingará o sangue dos seus servos, e tomará vingança dos seus inimigos, e será propício à sua terra, ao seu povo.
+
+[[v5-32-44]]
+
+^<<v5-32-44,44>>^ Foi, pois, Moisés, e proferiu todas as palavras deste cântico aos ouvidos do seu povo: com ele estava Josué filho de Nun.
+
+[[v5-32-45]]
+
+^<<v5-32-45,45>>^ Quando acabou de proferir todas estas palavras a todo o Israel,
+
+[[v5-32-46]]
+
+^<<v5-32-46,46>>^ disse-lhes: Aplicai os vossos corações a todas as palavras que eu hoje vos dirijo, para que recomendeis a vossos filhos que cuidadosamente cumpram todas as coisas que estão escritas nesta lei,
+
+[[v5-32-47]]
+
+^<<v5-32-47,47>>^ porque não foi em vão que vos foram preceituadas, mas para que cada um de vós ache nelas a vida, e, pondo-as em prática, moreis por Iongo tempo na terra que, passado o Jordão, ides possuir.
+
+[[v5-32-48]]
+
+^<<v5-32-48,48>>^ O Senhor no mesmo dia falou a Moisés, dizendo:
+
+[[v5-32-49]]
+
+^<<v5-32-49,49>>^ Sobe à montanha de Abarim, ao monte Nebo, que está na terra de Moab, defronte de Jericó, e contempla a terra de Canaan, cuja posse darei aos filhos de Israel. Tu morrerás sobre o monte,
+
+[[v5-32-50]]
+
+^<<v5-32-50,50>>^ onde vais subir, irás unir-te ao teu povo, da mesma forma que teu irmão Aarão morreu sobre o monte Hor, e se foi unir ao seu povo,
+
+[[v5-32-51]]
+
+^<<v5-32-51,51>>^ porque vós prevaricastes contra mim no meio dos filhos de Israel nas águas da Contradição, em Cades, no deserto de Sim, e não me santifiques entre os filhos de Israel.
+
+[[v5-32-52]]
+
+^<<v5-32-52,52>>^ Tu verás, defronte de ti a terra que eu darei aos filhos de Israel, mas não entrarás nela.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-031.adoc#v5-31-0[&#60; Capítulo Anterior] | <<v5-32-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[Próximo Capítulo &#62;]

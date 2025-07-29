@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v30-24-0]]
+=== Jeremias, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 24 descreve uma visão que o profeta teve de dois cestos de figos, um com figos bons e outro com figos ruins. Essa visão representa a divisão do povo de Judá em dois grupos, aqueles que foram levados para o exílio em Babilônia e aqueles que permaneceram na terra. Abaixo estão cinco versículos relacionados com os temas abordados em Jeremias 24:
+* 2 Reis 24:10-11: "Naquele tempo, subiram os servos de Nabucodonosor, rei da Babilônia, a Jerusalém, e a cidade foi cercada. Nabucodonosor, rei da Babilônia, veio a cidade, enquanto seus servos a sitiavam." Este versículo descreve o início do cerco de Jerusalém pelo exército babilônico e a subsequente deportação do rei Jeconias e muitos outros para Babilônia.
+* Jeremias 25:11-12: "Toda esta terra se tornará em desolação e espanto, e estas nações servirão ao rei da Babilônia setenta anos. Quando se completarem os setenta anos, castigarei o rei da Babilônia e essa nação, diz o Senhor, pelos seus pecados, e castigarei também a terra dos caldeus; farei dela uma desolação eterna." Este versículo descreve o exílio de setenta anos em Babilônia e a promessa de Deus de julgar Babilônia e restaurar o povo de Judá à sua terra.
+* Jeremias 29:4-7: "Assim diz o Senhor dos exércitos, Deus de Israel, a todos os exilados que fiz transportar de Jerusalém para Babilônia: Edificai casas, e habitai nelas; plantai jardins, e comei o seu fruto. Tomai esposas e gerai filhos e filhas; tomai esposas para vossos filhos e dai vossas filhas em casamento, para que elas tenham filhos e filhas; multiplicai-vos ali e não diminuais. Buscai a paz da cidade para a qual vos desterrei e orai por ela ao Senhor, porque na sua paz vós também tereis paz." Este versículo fala da carta que Jeremias enviou aos exilados em Babilônia, aconselhando-os a se estabelecerem lá e a trabalharem pelo bem-estar da cidade em que viviam.
+* Ezequiel 11:16-17: "Portanto, dize: Assim diz o Senhor Deus: Se eu os lançar para longe entre os povos, e os dispersar pelas terras, ainda assim lhes serei por santuário, por algum tempo, nas terras para onde foram. Portanto, dize: Assim diz o Senhor Deus: Hei de ajuntar-vos do meio dos povos, e recolher-vos das terras para onde fostes dispersos, e vos darei a terra de Israel." Este versículo fala da promessa de Deus de reunir e restaurar seu povo, mesmo que eles tenham sido espalhados por outras terras.
+* Isaías 11:11-12: "Naquele dia, o Senhor tornará a estender a mão para resgatar o restante do seu povo que ficou na Assíria, no Egito, em Patros, na Etiópia, em Elão, em Sinar e em Hamate, nas ilhas do mar. Ele erguerá uma bandeira para as nações e reunirá os exilados de Israel; ele os trará dos quatro cantos da terra." Estes versículos falam sobre a restauração do povo de Deus, que será reunido de todas as partes do mundo e trazido de volta à sua terra. Isso se relaciona com Jeremias 24, onde Deus separa o povo em dois grupos: os bons figos que serão restaurados e os figos ruins que serão destruídos.
+****
+
+[[v30-24-1]]
+
+^<<v30-24-1,1>>^ Mostrou-me o Senhor uma visão: vi dois cabazes cheios de figos postos diante do templo do Senhor, depois que Nabucodonosor, rei de Babilônia, deportou Jeconias filho de Joaquim, rei de Judá, assim como os grandes de Judá e os carpinteiros e serralheiros, levando-os de Jerusalém a Babilônia.
+
+[[v30-24-2]]
+
+^<<v30-24-2,2>>^ Um dos cabazes tinha figos excelentes, quais são de ordinário os figos da primeira sazão; o outro tinha figos muito maus, que se não podiam comer, de fracos que eram.
+
+[[v30-24-3]]
+
+^<<v30-24-3,3>>^ O Senhor disse-me: Que vês, Jeremias? Respondi: Figos, uns muito bons, e outros muito maus, que não se podem comer, de tão maus que são.
+
+[[v30-24-4]]
+
+^<<v30-24-4,4>>^ Então foi-me dirigida a palavra do Senhor nos termos seguintes:
+
+[[v30-24-5]]
+
+^<<v30-24-5,5>>^ Isto diz o Senhor Deus de Israel: Como a estes figos bons, assim olharei, com agrado, para seu bem, os desterrados de Judá, que mandei para fora deste lugar, para a terra dos Caldeus;
+
+[[v30-24-6]]
+
+^<<v30-24-6,6>>^ volverei para eles os meus olhos propícios, e reconduzi-los-ei a este país; edificá-los-ei e não mais os destruirei, plantá-los-ei e não mais os arrancarei.
+
+[[v30-24-7]]
+
+^<<v30-24-7,7>>^ Dar-lhes-ei um coração (dócil), para que me conheçam, para que saibam que eu sou o Senhor; serão para mim o meu povo, e eu serei para eles o seu Deus, porque se converterão a mim de todo o seu coração.
+
+[[v30-24-8]]
+
+^<<v30-24-8,8>>^ E assim como se rejeitam os figos muito maus, que se não podem comer, porque são maus, assim eu, diz o Senhor, desprezarei Sedecias, rei de Judá, os seus príncipes e o resto de Jerusalém: tanto os que ficaram nesta cidade, como os que moram na terra do Egito.
+
+[[v30-24-9]]
+
+^<<v30-24-9,9>>^ Entregá-los-ei às vexações e à aflição em todos os reinos da terra; serão um objecto de opróbrio, de fábula, de escárnio e de maldição, em todos os lugares, para onde eu os tiver arrojado.
+
+[[v30-24-10]]
+
+^<<v30-24-10,10>>^ E enviarei contra eles a espada, a fome e a peste, até que sejam exterminados da terra que lhes dei a eles e a seus pais.
+
+'''
+
+xref:030-jeremias/030-jeremias-023.adoc#v30-23-0[&#60; Capítulo Anterior] | <<v30-24-0,Topo>> | xref:030-jeremias/030-jeremias-025.adoc#v30-25-0[Próximo Capítulo &#62;]

@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v12-4-0]]
+=== II Reis, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de 2 Reis conta diversas histórias relacionadas a Eliseu, o sucessor de Elias. Neste capítulo, Eliseu realiza muitos milagres, incluindo a multiplicação do azeite de uma viúva, a ressurreição do filho de outra viúva e a cura da panela envenenada de seus discípulos. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Salmos 68:5: "Pai dos órfãos e juiz das viúvas é Deus em sua santa habitação." Este versículo fala sobre o cuidado de Deus pelas viúvas e órfãos, um tema presente em 2 Reis 4, onde Eliseu ajuda duas viúvas em necessidade.
+* Mateus 10:8: "Curem os doentes, ressuscitem os mortos, purifiquem os leprosos, expulsem os demônios. Vocês receberam de graça; deem também de graça." Esse versículo fala sobre os milagres que Jesus ordenou que Seus discípulos fizessem, incluindo a ressurreição de mortos, um milagre que Eliseu realiza em 2 Reis 4:18-37.
+* Tiago 5:14-15: "Algum de vocês está doente? Chame os presbíteros da igreja, orem sobre ele e unjam com óleo em nome do Senhor. E a oração da fé salvará o doente, e o Senhor o levantará. Se ele tiver pecados, eles serão perdoados." Este versículo fala sobre como a oração e a unção com óleo podem trazer cura e perdão de pecados, como acontece quando Eliseu cura a panela envenenada em 2 Reis 4:38-41.
+* Romanos 8:28: "E sabemos que todas as coisas trabalham juntas para o bem daqueles que amam a Deus, daqueles que são chamados segundo o Seu propósito." Este versículo fala sobre como Deus pode usar as situações difíceis para o nosso bem, um tema presente em 2 Reis 4:1-7, onde a viúva que não tinha dinheiro para pagar suas dívidas é milagrosamente ajudada por Deus através de Eliseu.
+* 2 Coríntios 12:9: "Mas Ele me disse: 'Minha graça é suficiente para você, pois meu poder é aperfeiçoado na fraqueza'. Portanto, eu me gloriarei ainda mais alegremente em minhas fraquezas, para que o poder de Cristo possa descansar sobre mim." Este versículo fala sobre como a graça de Deus é suficiente para nós em nossas fraquezas, um tema presente em 2 Reis 4:38-41, onde Eliseu usa um método incomum (farinha) para curar a panela envenenada, mostrando que Deus pode usar meios inesperados para realizar Seus milagres.
+****
+
+[[v12-4-1]]
+
+^<<v12-4-1,1>>^ Ora uma mulher, dentre as mulheres dos filhos dos profetas, gritou a Eliseu, dizendo: Meu marido, teu servo, morreu, e tu sabes que teu servo era temente ao Senhor; agora veio o credor para me levar os meus dois filhos para os fazer seus escravos.
+
+[[v12-4-2]]
+
+^<<v12-4-2,2>>^ Eliseu disse-Ihe: Que queres que eu te faça? Dize-me: que tens em tua casa? Ela respondeu: Eu, tua serva, não tenho em minha casa outra coisa, senão uma vasilha de azeite.
+
+[[v12-4-3]]
+
+^<<v12-4-3,3>>^ Disse-lhe Eliseu: Vai, pede emprestadas às tuas vizinhas bastantes vasilhas vazias;
+
+[[v12-4-4]]
+
+^<<v12-4-4,4>>^ depois entra e fecha a tua porta, quando estiveres de dentro tu e teus filhos, e deita do azeite em todas estas vasilhas; à medida que se forem enchendo, vai-as pondo à parte.
+
+[[v12-4-5]]
+
+^<<v12-4-5,5>>^ Foi, pois, a mulher, e fechou a porta sobre si e sobre seus filhos; os filhos chegavam-lhe as vasilhas, e ela as enchia.
+
+[[v12-4-6]]
+
+^<<v12-4-6,6>>^ Cheias que foram as vasilhas, disse ela a um de seus filhos: Chega-me cá ainda alguma outra vasilha. Ele respondeu-lhe: Não tenho mais. E o azeite cessou _(de se multiplicar).
+
+[[v12-4-7]]
+
+^<<v12-4-7,7>>^ Foi, então, ela, e referiu tudo ao homem de Deus. Ele disse; Vai, vende o azeite e paga ao teu credor. Depois disso, tu e teus filhos vivei do resto.
+
+[[v12-4-8]]
+
+^<<v12-4-8,8>>^ Aconteceu também que Eliseu, um dia, passava por Sunam, onde havia uma mulher rica, a qual o deteve para tomar alimento. Depois, todas as vezes que ali passava, ia pousar em sua casa, para tomar a sua refeição.
+
+[[v12-4-9]]
+
+^<<v12-4-9,9>>^ disse ao seu marido: Tenho observado que este homem, que passa tantas vezes por nossa casa, é um santo homem de Deus.
+
+[[v12-4-10]]
+
+^<<v12-4-10,10>>^ Façamos-lhe, pois, um pequeno quarto, ponhamos-lhe nele uma cama, uma mesa, uma cadeira e um candeeiro, para que, quando vier a nossa casa, se acomode ali.
+
+[[v12-4-11]]
+
+^<<v12-4-11,11>>^ Aconteceu que, um dia, Eliseu veio, alojou-se no quarto e descansou nele.
+
+[[v12-4-12]]
+
+^<<v12-4-12,12>>^ E disse a Giezi, seu criado: Chama esta Sunamita. Tendo-a ele chamado, e estando ela em pé diante dele,
+
+[[v12-4-13]]
+
+^<<v12-4-13,13>>^ disse ao seu criado: Dize-lhe: Tu tens-nos tratado com todo o desvelo, que queres que eu te faça? Porventura tens algum negócio, queres que fale ao rei ou ao general dos seus exércitos? Ela respondeu; Eu habito (em paz) no meio do meu povo (por isso não tenho necessidade de recomendações).
+
+[[v12-4-14]]
+
+^<<v12-4-14,14>>^ E (Eliseu) disse; Que quer, pois, que lhe faça? Giezi respondeu: É escusado perguntar-lho, porque ela não tem filhos, e seu marido é já velho.
+
+[[v12-4-15]]
+
+^<<v12-4-15,15>>^ Mandou, pois, que a chamasse. Ele chamou-a, e ela apareceu à porta.
+
+[[v12-4-16]]
+
+^<<v12-4-16,16>>^ (Eliseu) disse-lhe: (No próximo ano), neste tempo e nesta mesma hora, se Deus te conservar com vida, terás um filho no teu ventre. Ela respondeu: Não queiras, ó meu senhor, ó homem de Deus, não queiras, peço-te, enganar a tua escrava.
+
+[[v12-4-17]]
+
+^<<v12-4-17,17>>^ Mas a mulher concebeu e deu à luz um filho no mesmo tempo e à mesma hora que Eliseu lhe dissera.
+
+[[v12-4-18]]
+
+^<<v12-4-18,18>>^ E o menino cresceu. Tendo ido um dia ter com seu pai, que estava com os ceifeiros,
+
+[[v12-4-19]]
+
+^<<v12-4-19,19>>^ disse a seu pai: Ai! minha cabeça! Ai minha cabeça! O pai disse a um servo: Toma-o e leva-o a sua mãe.
+
+[[v12-4-20]]
+
+^<<v12-4-20,20>>^ Tendo o servo pegado nele e levado a sua mãe, ela pô-lo sobre os seus joelhos, até ao meio-dia, e ele morreu.
+
+[[v12-4-21]]
+
+^<<v12-4-21,21>>^ Ela subiu, pôs o menino em cima da cama do homem de Deus, fechou a porta e saiu.
+
+[[v12-4-22]]
+
+^<<v12-4-22,22>>^ Chamou o seu marido e disse-lhe: Manda comigo, te peço, um dos servos e uma jumenta, para eu ir com pressa ter com o homem de Deus, e voltarei (sem demora).
+
+[[v12-4-23]]
+
+^<<v12-4-23,23>>^ Ele disse-lhe: Por que vais ter com ele? Hoje não é dia de lua nova, nem Sábado. Ela respondeu: Está tranquilo.
+
+[[v12-4-24]]
+
+^<<v12-4-24,24>>^ Mandou aparelhar a jumenta e ordenou ao servo: Conduze-me, apressa-te, não me demores no caminho, sem eu to ordenar.
+
+[[v12-4-25]]
+
+^<<v12-4-25,25>>^ Partiu, pois, e foi ter com o homem de Deus ao monte Carmelo. O homem de Deus, tendo-a visto vir para ele, disse para o criado Giezi: Eis aí vem aquela Sunamita.
+
+[[v12-4-26]]
+
+^<<v12-4-26,26>>^ Vai recebê-la e dize-lhe; Passais bem, tu, teu marido e teu filho? Ela respondeu: Muito bem.
+
+[[v12-4-27]]
+
+^<<v12-4-27,27>>^ Quando, porém, chegou junto do homem de Deus, no monte, abraçou os seus pés. Gliezi aproximou-se para a retirar, mas o homem de Deus disse-lhe: Deixa-a, porque a sua alma está em amargura, e o Senhor mo encobriu, nada me manifestou.
+
+[[v12-4-28]]
+
+^<<v12-4-28,28>>^ Ela disse-lhe: Porventura pedi-te eu algum filho, meu senhor? Não te disse eu: Não me enganes?
+
+[[v12-4-29]]
+
+^<<v12-4-29,29>>^ Eliseu disse a Giezi: Cinge os teus rins, toma meu bordão na mão, e parte. Se encontrares alguém, não o saudes; se alguém te saudar, não lhe respondas. Porás o meu bordão sobre o rosto do menino.
+
+[[v12-4-30]]
+
+^<<v12-4-30,30>>^ Mas a mãe do menino disse: Viva o Senhor e viva a tua alma, que não te deixarei. Partiu ele, pois, e seguiu-a.
+
+[[v12-4-31]]
+
+^<<v12-4-31,31>>^ Ora Giezi tinha ido adiante deles, e tinha posto o bordão de Eliseu sobre o rosto do menino, mas ele não tinha nem fala, nem sentidos. Voltou a encontrar-se com ele, e Iho noticiou, dizendo: O menino não ressuscitou.
+
+[[v12-4-32]]
+
+^<<v12-4-32,32>>^ Entrou, pois, Eliseu na casa, e o menino estava morto em cima da sua cama.
+
+[[v12-4-33]]
+
+^<<v12-4-33,33>>^ Depois de entrar, cerrou a porta sobre si e sobre o menino, e fez oração ao Senhor.
+
+[[v12-4-34]]
+
+^<<v12-4-34,34>>^ Depois subiu (à cama), deitou-se sobre o menino, pôs a sua boca sobre a boca dele, os seus olhos sobre os olhos dele, as suas mãos sobre as mãos dele. Enquanto ele estava assim estendido, a carne do menino aqueceu-se.
+
+[[v12-4-35]]
+
+^<<v12-4-35,35>>^ Depois, descendo (ao leito), Eliseu deu algumas voltas pela casa, subiu (outra vez) e estendeu-se sobre ele; e o menino bocejou sete vezes, e abriu os olhos.
+
+[[v12-4-36]]
+
+^<<v12-4-36,36>>^ Então ele chamou Giezi e disse-lhe: Chama essa Sunamita. Ela, sendo chamada, entrou no quarto onde ele estava. (Eliseu) disse-lhe: Toma o teu filho.
+
+[[v12-4-37]]
+
+^<<v12-4-37,37>>^ Ela foi, lançou-se a seus pés, prostrou-se por terra, tomou seu filho e saiu.
+
+[[v12-4-38]]
+
+^<<v12-4-38,38>>^ Eliseu voltou para Galgala. Ora neste país havia fome. Como os filhos dos profetas habitavam com ele, disse a um dos seus criados: Pega numa panela grande e faze de comer para os filhos dos profetas.
+
+[[v12-4-39]]
+
+^<<v12-4-39,39>>^ Um deles saiu ao campo, para apanhar umas ervas silvestres, e encontrou uma como parra silvestre; colheu dela coloquíntidas dos campo, encheu a sua capa e, tendo voltado, cortou-as em pedaços dentro da panela do caldo, porque não conhecia o que era.
+
+[[v12-4-40]]
+
+^<<v12-4-40,40>>^ Deram delas aos companheiros para comerem. Eles, tendo provado do cozido, gritaram, dizendo: Homem de Deus, a panela tem coisa mortífera. E não puderam comer.
+
+[[v12-4-41]]
+
+^<<v12-4-41,41>>^ Mas ele disse: Trazei-me farinha. Tendo-lha trazido, lançou-a na panela e disse: Deita à gente, para que coma. E não houve mais nada ruim na panela.
+
+[[v12-4-42]]
+
+^<<v12-4-42,42>>^ Veio também um homem de Baalsalisa, que trazia ao homem de Deus uns pães das primícias, vinte pães de cevada e trigo novo no seu alforje. Eliseu disse: Dá ao povo, para que coma.
+
+[[v12-4-43]]
+
+^<<v12-4-43,43>>^ O seu criado respondeu-lhe: Que é isto para eu o pôr diante de cem pessoas? Eliseu disse outra vez: Dá ao povo, para que coma, porque eis o que diz o Senhor: Comerão, e sobejará.
+
+[[v12-4-44]]
+
+^<<v12-4-44,44>>^ Pôs-lhos, pois, diante; comeram, e ainda sobrou, conforme a palavra do Senhor.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-003.adoc#v12-3-0[&#60; Capítulo Anterior] | <<v12-4-0,Topo>> | xref:012-ii-reis/012-ii-reis-005.adoc#v12-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v20-2-0]]
+=== Jó, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Jó relata a continuação da história de sofrimento de Jó, onde ele é atingido por uma doença dolorosa e debilitante. Ainda assim, ele permanece fiel a Deus e se recusa a amaldiçoá-lo. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Jó 2:
+* Salmos 41:3: "O Senhor o sustentará em seu leito de enfermidade, e da doença o restaurará." Este versículo fala sobre o cuidado de Deus com aqueles que estão doentes, o que é relevante para a situação de Jó, que estava sofrendo de uma doença dolorosa.
+* 2 Coríntios 12:7: "E para que não me ensoberbecesse com a grandeza das revelações, foi-me posto um espinho na carne, mensageiro de Satanás, para me esbofetear, a fim de que não me exalte." Paulo fala sobre um "espinho na carne" que lhe foi dado como um meio de mantê-lo humilde, e isso pode ser visto como semelhante ao sofrimento de Jó.
+* Tiago 5:11: "Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó e vistes o fim que o Senhor lhe deu; porque o Senhor é cheio de misericórdia e compassivo." Este versículo faz uma referência direta a Jó e sua paciência em meio ao sofrimento, e mostra como essa qualidade é valorizada pelos cristãos.
+* Provérbios 3:11-12: "Filho meu, não desprezes a correção do Senhor, nem te desanimes quando, por ele, fores repreendido. Porque o Senhor repreende a quem ama, assim como o pai, ao filho a quem quer bem." Este versículo fala sobre a correção divina, que pode incluir sofrimento e provações. Isso é relevante para a história de Jó, que está sendo testado por Deus.
+* Romanos 8:28: "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito." Este versículo fala sobre como Deus pode usar até mesmo o sofrimento para o bem daqueles que o amam e o servem. Isso é relevante para a situação de Jó, que está sendo testado em sua fidelidade a Deus.
+****
+
+[[v20-2-1]]
+
+^<<v20-2-1,1>>^ Ora sucedeu que, em certo dia, tendo comparecido os filhos de Deus diante do Senhor, foi também Satanás entre eles, e pôs-se na sua presença.
+
+[[v20-2-2]]
+
+^<<v20-2-2,2>>^ O Senhor disse a Satanás: Donde vens tu? Ele respondeu: De dar uma volta pela terra e de passear por ela.
+
+[[v20-2-3]]
+
+^<<v20-2-3,3>>^ O Senhor disse a Satanás: Não consideraste o meu servo Job? Não há outro semelhante a ele na terra: homem sincero e recto, teme a Deus e foge do mal. Ainda conserva a sua perfeição, apesar de me haveres incitado contra ele, para o afligir em vão. (ver nota)
+
+[[v20-2-4]]
+
+^<<v20-2-4,4>>^ Satanás respondeu: Pele por pele! O homem dará tudo o que possui pela sua vida.
+
+[[v20-2-5]]
+
+^<<v20-2-5,5>>^ Mas (experimenta), estende a tua mão, toca-lhe nos ossos e na carne, e então verás se ele te não amaldiçoa cara a cara.
+
+[[v20-2-6]]
+
+^<<v20-2-6,6>>^ Disse o Senhor a Satanás: Eis que ele está na tua mão; conserva, porém, a sua vida.
+
+[[v20-2-7]]
+
+^<<v20-2-7,7>>^ Satanás, tendo saído da presença do Senhor, feriu Job com uma chaga horrível, desde a planta do pé até ao alto da cabeça.
+
+[[v20-2-8]]
+
+^<<v20-2-8,8>>^ E Job, sentado sobre a cinza, raspava a podridão com um pedaço de telha.
+
+[[v20-2-9]]
+
+^<<v20-2-9,9>>^ Sua mulher disse-lhe: Ainda perseveras na tua integridade? Maldiz a Deus e morre.
+
+[[v20-2-10]]
+
+^<<v20-2-10,10>>^ Job respondeu-lhe: Falaste como uma mulher insensata; se nós recebemos os bens da mão de Deus por que não havemos de receber também os males? Em todas estas coisas Job não pecou com os seus lábios.
+
+[[v20-2-11]]
+
+^<<v20-2-11,11>>^ Ora os três amigos de Job, tendo ouvido todo o mal que lhe havia sucedido, foram (ter com ele), cada um do seu lugar: Elifaz de Teman, Baldad de Suhé, e Sofar de Naama. Tinham combinado irem juntos visitá-lo e consolá-lo.
+
+[[v20-2-12]]
+
+^<<v20-2-12,12>>^ Tendo, de longe, levantado os olhos, não o conheceram; então, erguendo a voz, choraram e, rasgadas as suas vestes, lançaram pó ao ar sobre as suas cabeças.
+
+[[v20-2-13]]
+
+^<<v20-2-13,13>>^ Sentaram-se com ele por terra durante sete dias e sete noites, e nenhum lhe dizia palavra, porque viam quão veemente era a sua dor.
+
+'''
+
+xref:020-jo/020-jo-001.adoc#v20-1-0[&#60; Capítulo Anterior] | <<v20-2-0,Topo>> | xref:020-jo/020-jo-003.adoc#v20-3-0[Próximo Capítulo &#62;]

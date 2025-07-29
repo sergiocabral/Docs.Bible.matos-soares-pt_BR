@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v4-17-0]]
+=== Números, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Números 17 apresenta a história de Arão e sua vara florida. Deus ordenou que cada líder das doze tribos de Israel depositasse sua vara no tabernáculo para que a vara do homem que Ele escolhesse florescesse, indicando que essa tribo seria a escolhida por Deus. No dia seguinte, a vara de Arão floresceu e produziu amêndoas, provando que Deus o havia escolhido para ser o sumo sacerdote. Abaixo estão cinco versículos relacionados com os temas abordados em Números 17:
+* Êxodo 4:2-4: "Então, perguntou-lhe o Senhor: Que é isso na tua mão? Respondeu-lhe ele: Uma vara. E ele lhe disse: Lança-a na terra. Ele a lançou na terra, e ela se tornou em cobra; e Moisés fugia dela. Disse o Senhor a Moisés: Estende a mão e pega-lhe pela cauda. Ele estendeu a mão, pegou-lhe pela cauda, e ela se tornou em vara na sua mão." Esse versículo apresenta uma situação em que Deus transformou uma vara em cobra, demonstrando o Seu poder e autoridade.
+* Levítico 8:12: "E derramou do azeite da unção sobre a cabeça de Arão, e ungiu-o para santificá-lo." Esse versículo descreve a unção de Arão como sumo sacerdote e mostra como ele foi consagrado para o serviço a Deus.
+* Hebreus 5:4-5: "E ninguém toma para si esta honra, senão quando chamado por Deus, como Arão. Assim, também Cristo a si mesmo não se glorificou para se tornar sumo sacerdote, mas o glorificou aquele que lhe disse: Tu és meu Filho, hoje te gerei." Esse versículo compara a escolha de Arão como sumo sacerdote à escolha de Cristo por Deus para ser o sumo sacerdote dos cristãos.
+* Êxodo 25:10-11: "Farás também uma arca de madeira de acácia; o seu comprimento será de dois côvados e meio, a sua largura de um côvado e meio, e a sua altura de um côvado e meio. E cobri-la-ás de ouro puro por dentro e por fora, e farás sobre ela uma bordadura de ouro ao redor." Esse versículo descreve a arca da aliança, que era um dos objetos sagrados no tabernáculo e representava a presença de Deus.
+* Hebreus 9:3-4: "Por detrás do segundo véu achava-se a tenda que se chama Santo dos Santos, tendo um altar de ouro para o incenso e a arca da aliança, toda coberta de ouro, na qual estava um vaso de ouro contendo o maná, a vara de Arão, que floresceu, e as tábuas da aliança." Esse versículo descreve o Santo dos Santos no tabernáculo, que era o lugar mais sagrado onde apenas o sumo sacerdote podia entrar uma vez por ano.
+****
+
+[[v4-17-1]]
+
+^<<v4-17-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v4-17-2]]
+
+^<<v4-17-2,2>>^ Fala aos filhos de Israel, e recebe deles uma vara por cada tribo, doze varas de todos os príncipes das tribos, e escreverás o nome de cada um deles sobre a sua vara.
+
+[[v4-17-3]]
+
+^<<v4-17-3,3>>^ O nome de Aarão estará sobre a vara da tribo de Levi, e o nome do chefe de todas as outras tribos estará escrito separadamente cada um na sua vara.
+
+[[v4-17-4]]
+
+^<<v4-17-4,4>>^ Pô-las-ás no tabernáculo da reunião, diante do testemunho, onde eu te falarei.
+
+[[v4-17-5]]
+
+^<<v4-17-5,5>>^ A vara daquele que eu escolher, dentre eles, florescerá: (deste modo) farei cessar os queixumes dos filhos de Israel contra vós.
+
+[[v4-17-6]]
+
+^<<v4-17-6,6>>^ Moisés falou aos filhos de Israel, e todos os príncipes lhe deram as varas, uma por cada tribo. Eram, pois, doze varas, estando no meio a vara de Aarão.
+
+[[v4-17-7]]
+
+^<<v4-17-7,7>>^ Moisés tendo-as posto diante do Senhor no tabernáculo do testemunho,
+
+[[v4-17-8]]
+
+^<<v4-17-8,8>>^ Voltando no dia seguinte, achou que tinha germinado a vara de Aarão (que era) pela tribo de Levi, e que, aparecendo os botões, tinham saído flores, e haviam amadurecido amêndoas.
+
+[[v4-17-9]]
+
+^<<v4-17-9,9>>^ Moisés levou todas as varas de diante do Senhor a todos os filhos de Israel, os quais as viram e receberam cada um a sua vara.
+
+[[v4-17-10]]
+
+^<<v4-17-10,10>>^ O Senhor disse a Moisés: Torna a levar a vara de Aarão para o tabernáculo do testemunho, para se guardar ali em memória da rebelião dos filhos de Israel, e para que cessem as suas queixas diante de mim, e não morram.
+
+[[v4-17-11]]
+
+^<<v4-17-11,11>>^ Moisés fez o que o Senhor lhe tinha ordenado.
+
+[[v4-17-12]]
+
+^<<v4-17-12,12>>^ Os filhos de Israel disseram a Moisés: Eis que somos consumidos, todos perecemos.
+
+[[v4-17-13]]
+
+^<<v4-17-13,13>>^ Qualquer que se aproxima do tabernáculo do Senhor, morre. Acaso seremos todos extintos até não ficar nenhum?
+
+'''
+
+xref:004-numeros/004-numeros-016.adoc#v4-16-0[&#60; Capítulo Anterior] | <<v4-17-0,Topo>> | xref:004-numeros/004-numeros-018.adoc#v4-18-0[Próximo Capítulo &#62;]

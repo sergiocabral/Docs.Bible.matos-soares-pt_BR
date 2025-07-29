@@ -1,0 +1,31 @@
+include::./index.adoc[]
+
+[[v21-130-0]]
+=== Salmos, 130
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 130 é um salmo de lamentação que fala sobre o clamor do salmista a Deus em meio à sua angústia e necessidade de perdão. Ele reconhece que Deus é misericordioso e implora por Sua graça e redenção. Abaixo estão cinco versículos da Bíblia que se relacionam com os temas deste salmo:
+* Salmos 51:1-2: "Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias. Lava-me completamente da minha iniquidade, e purifica-me do meu pecado." Este versículo é um pedido de perdão e purificação semelhante ao tema do Salmo 130.
+* Isaías 43:25: "Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim, e dos teus pecados não me lembro." Este versículo mostra a misericórdia de Deus em perdoar pecados e esquecê-los, dando esperança ao salmista em Salmo 130.
+* Salmos 103:8-9: "O Senhor é misericordioso e compassivo, paciente e cheio de bondade. Ele não nos trata segundo os nossos pecados, nem nos retribui conforme as nossas iniquidades." Este versículo enfatiza a misericórdia e a compaixão de Deus, o que é importante para o salmista em Salmo 130.
+* Jeremias 33:8: "Purificá-los-ei de toda a iniquidade com que pecaram contra mim; perdoarei todas as suas iniquidades, com que pecaram e transgrediram contra mim." Este versículo fala do perdão que Deus oferece a Seu povo, o que é relevante para o salmista em Salmo 130.
+* Efésios 1:7: "Nele temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça." Este versículo fala do perdão que Jesus trouxe à humanidade através de Seu sacrifício na cruz, algo que o salmista em Salmo 130 pode ter esperança.
+****
+
+[[v21-130-1]]
+
+^<<v21-130-1,1>>^ Cântico das subidas. De Davide. Senhor, o meu coração não se ensoberbece, nem os meus olhos se mostram altivos, nem ando atrás de coisas grandes ou demasiado altas para mim.
+
+[[v21-130-2]]
+
+^<<v21-130-2,2>>^ Pelo contrário, acalmei e apaziguei a minha alma, como um menino no regaço de sua mãe: como um menino, assim está a minha alma em mim.
+
+[[v21-130-3]]
+
+^<<v21-130-3,3>>^ Espera, Israel, no Senhor, desde agora e para sempre.
+
+'''
+
+xref:021-salmos/021-salmos-129.adoc#v21-129-0[&#60; Capítulo Anterior] | <<v21-130-0,Topo>> | xref:021-salmos/021-salmos-131.adoc#v21-131-0[Próximo Capítulo &#62;]

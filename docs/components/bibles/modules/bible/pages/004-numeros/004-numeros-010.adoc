@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v4-10-0]]
+=== Números, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Números 10 descreve a preparação dos filhos de Israel para deixarem o Monte Sinai em direção à Terra Prometida. O capítulo inclui instruções para a fabricação de duas trombetas de prata para serem usadas como sinais para a congregação. Os levitas foram designados para cuidar do tabernáculo e do transporte das tendas. Então, quando as trombetas soavam, os filhos de Israel partiam para a próxima etapa da jornada. Abaixo estão cinco versículos relacionados aos temas abordados em Números 10.
+* Números 2:17: "Então a tenda da congregação partirá com o acampamento dos levitas no meio dos acampamentos; assim como eles acampam, assim partirão, cada um na sua posição, segundo as suas bandeiras." Este versículo fala sobre a organização dos filhos de Israel durante a jornada e como eles se moviam em formação. Os levitas eram responsáveis por cuidar do tabernáculo e se posicionavam no meio dos acampamentos.
+* Números 9:15-16: "No dia em que foi levantado o tabernáculo, a nuvem cobriu o tabernáculo, a saber, a tenda do testemunho; à tarde havia sobre o tabernáculo uma aparência de fogo, até a manhã. Assim acontecia regularmente; a nuvem cobria-o, e à noite havia aparência de fogo." Este versículo descreve como Deus guiou os filhos de Israel durante a jornada no deserto. A nuvem e o fogo eram sinais visíveis da presença de Deus e indicavam quando era hora de partir.
+* Deuteronômio 1:33: "Quem, no caminho, adiante de vós, ia diante de vós, de noite no fogo, para vos mostrar o lugar onde havíeis de acampar, e de dia na nuvem." Este versículo é uma referência à nuvem e ao fogo que guiavam os filhos de Israel durante a jornada no deserto. Mostra que Deus estava presente e os liderava, mesmo em momentos difíceis.
+* Salmos 81:3: "Tocai a trombeta na lua nova, no tempo apontado da nossa solenidade." Este versículo menciona o uso da trombeta em celebrações religiosas. As trombetas de prata descritas em Números 10 eram usadas como sinais para a congregação, mas também eram usadas em momentos de adoração e celebração.
+* Mateus 24:31: "E ele enviará os seus anjos com rijo clamor de trombeta, os quais ajuntarão os seus escolhidos desde os quatro ventos, de uma à outra extremidade dos céus." Este versículo é uma referência à volta de Jesus e à ressurreição dos mortos. A imagem de anjos tocando trombetas é uma figura simbólica usada para descrever o evento. A trombeta é um símbolo de anúncio e preparação para o grande evento.
+****
+
+[[v4-10-1]]
+
+^<<v4-10-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v4-10-2]]
+
+^<<v4-10-2,2>>^ Faze para ti duas trombetas de prata batida ao martelo, com as quais possas convocar a multidão, quando se houver de levantar o acampamento.
+
+[[v4-10-3]]
+
+^<<v4-10-3,3>>^ Quando fizeres soar as duas trombetas, todo o povo se juntará ao pé de ti à porta do tabernáculo da reunião.
+
+[[v4-10-4]]
+
+^<<v4-10-4,4>>^ Se tocares uma só, virão a ti os príncipies e os chefes do povo de Israel.
+
+[[v4-10-5]]
+
+^<<v4-10-5,5>>^ Se o som for estrepitoso, levantarão os acampamentos os primeiros que estão da parte do oriente.
+
+[[v4-10-6]]
+
+^<<v4-10-6,6>>^ Ao segundo toque, porém, de igual som, levantarão as tendas, os que habitam ao meio-dia; do mesmo modo farão os outros, enquanto as trombetas fizerem sinal para a partida.
+
+[[v4-10-7]]
+
+^<<v4-10-7,7>>^ Quando se tiver de congregar o povo, tocareis as trombetas, mas não estrepitosamente.
+
+[[v4-10-8]]
+
+^<<v4-10-8,8>>^ Os filhos de Aarão, sacerdotes, tocarão as trombetas, e esta lei será perpétua nas vossas gerações.
+
+[[v4-10-9]]
+
+^<<v4-10-9,9>>^ Se sairdes do vosso país para fazer guerra contra os inimigos que vos atacam, fareis soar, com estrépito, as trombetas, e o Senhor vosso Deus se lembrará de vós, para vos livrar das mãos de vossos inimigos.
+
+[[v4-10-10]]
+
+^<<v4-10-10,10>>^ Nos vossos dias de alegria, nas vossas solenidades, nos dias de festa do principio do mês, tocareis as trombetas, oferecendo os holocaustos e os sacrifícios pacíficos, e fim de que o vosso Deus se lembre de vós. Eu sou o Senhor vosso Deus.
+
+[[v4-10-11]]
+
+^<<v4-10-11,11>>^ No dia vinte do segundo mês do segundo ano, levantou-se a nuvem do tabernáculo do testemunho.
+
+[[v4-10-12]]
+
+^<<v4-10-12,12>>^ Os filhos de Israel pelas suas turmas partiram do deserto do Sinai, e a nuvem parou no deserto de Faran.
+
+[[v4-10-13]]
+
+^<<v4-10-13,13>>^ Os primeiros que levantaram os acampamentos, conforme a ordem do Senhor daria por meio de Moisés,
+
+[[v4-10-14]]
+
+^<<v4-10-14,14>>^ foram os filhos de Judá pelas suas turmas: o seu príncipe era Naasson, filho die Aminadab.
+
+[[v4-10-15]]
+
+^<<v4-10-15,15>>^ Na tribo dos filhos de Issacar foi príncipe Natanael, filho de Suar.
+
+[[v4-10-16]]
+
+^<<v4-10-16,16>>^ Na tribo de Zabulon era príncipe Eliab, filho de Helon.
+
+[[v4-10-17]]
+
+^<<v4-10-17,17>>^ O tabernáculo foi desarmado, e os filhos de Gerson e de Merari, partiram, levando-o.
+
+[[v4-10-18]]
+
+^<<v4-10-18,18>>^ Depois partiram os filhos de Ruben, segundo as suas turmas e a sua ordem; Elisar, filho de Sedeur, era seu principe.
+
+[[v4-10-19]]
+
+^<<v4-10-19,19>>^ Na tribo dos filhos de Simeão o príncipe foi Salamiel, filho de Surisedai.
+
+[[v4-10-20]]
+
+^<<v4-10-20,20>>^ Na tribo de Gad era príncipe Eliasaph, filho de Duel.
+
+[[v4-10-21]]
+
+^<<v4-10-21,21>>^ Depois partiram os Caatitas, que levavam o santuário. O tabernáculo era sempre levado até chegar ao lugar, onde se devia erigir.
+
+[[v4-10-22]]
+
+^<<v4-10-22,22>>^ Levantaram depois os acampamentos os filhos de Efraim pelas suas turmas, dos quais era príncipe Elisama, filho de Amiud.
+
+[[v4-10-23]]
+
+^<<v4-10-23,23>>^ Na tribo dos filhos de Manassés era príncipe Gamaliel, filho de Fadassur.
+
+[[v4-10-24]]
+
+^<<v4-10-24,24>>^ Na tribo de Benjamim era chefe Abidan, filho de Gedeão.
+
+[[v4-10-25]]
+
+^<<v4-10-25,25>>^ Os últimos a levantar o acampamento foram os filhos de Dan pelas suas turmas, em cujo exército era príncipe Aiezer, filho de Amisadai.
+
+[[v4-10-26]]
+
+^<<v4-10-26,26>>^ Na tribo dos filhos de Aser o príncipe era Fegiel, filho de Ocran.
+
+[[v4-10-27]]
+
+^<<v4-10-27,27>>^ Na tribo dos filhos de Neftali o príncipe era Aira, filho de Enan.
+
+[[v4-10-28]]
+
+^<<v4-10-28,28>>^ Tais são os acampamentos e as marchas dos filhos de Israel pelas suas turmas, quando se moviam.
+
+[[v4-10-29]]
+
+^<<v4-10-29,29>>^ Moisés disse a Hobab, filho de Raquel Madianita, seu parente: Nós partimos para o lugar que o Senhor nos há-de dar; vem connosco, para te fazermos bem, porque o Senhor prometeu bens a Israel.
+
+[[v4-10-30]]
+
+^<<v4-10-30,30>>^ Mas ele respondeu-lhe: Não irei contigo, mas voltarei para a minha terra, na qual nasci.
+
+[[v4-10-31]]
+
+^<<v4-10-31,31>>^ Moisés disse: Não queiras abandonar-nos, porque tu conheces os lugares em que devemos acampar no deserto, e serás o nosso guia.
+
+[[v4-10-32]]
+
+^<<v4-10-32,32>>^ Se vieres connosco, repartiremos contigo das riquezas que o Senhor nos der.
+
+[[v4-10-33]]
+
+^<<v4-10-33,33>>^ Partiram do monte do Senhor e caminharam três dias, e a arca da aliança do Senhor ia adiante deles, indicando-lhes nos três dias o lugar para os acampamentos.
+
+[[v4-10-34]]
+
+^<<v4-10-34,34>>^ A nuvem do Senhor também estava sobre eles de dia, quando caminhavam.
+
+[[v4-10-35]]
+
+^<<v4-10-35,35>>^ Quando se levantava a arca, Moisés dizia: Levanta-te, Senhor, sejam dispersos os teus inimigos, fujam da tua face os que te aborrecem.
+
+[[v4-10-36]]
+
+^<<v4-10-36,36>>^ Quando, porém, se depunha, dizia: Volta, Senhor, para a multidão de Israel.
+
+'''
+
+xref:004-numeros/004-numeros-009.adoc#v4-9-0[&#60; Capítulo Anterior] | <<v4-10-0,Topo>> | xref:004-numeros/004-numeros-011.adoc#v4-11-0[Próximo Capítulo &#62;]

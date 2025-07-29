@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v3-22-0]]
+=== Levítico, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 22 trata sobre as leis referentes à santidade dos sacrifícios e ofertas feitas ao Senhor. É enfatizado que somente animais saudáveis e perfeitos deveriam ser oferecidos e que aqueles que estavam impuros, tais como aqueles que tinham uma doença ou lesão, não eram aceitáveis como oferenda.
+* Êxodo 12:5: "O cordeiro será sem defeito, macho de um ano; podereis tomar um cordeiro ou um cabrito." Este versículo enfatiza a importância de que os animais oferecidos como sacrifício devem ser perfeitos, sem defeitos ou lesões.
+* Levítico 1:3: "Se a sua oferta for holocausto de gado, macho ou fêmea, oferecerá um animal sem defeito; ele o oferecerá à porta da tenda da revelação, para que o SENHOR seja propício a ele." Aqui vemos mais uma vez a importância de que os animais oferecidos como sacrifício devem ser perfeitos e sem defeitos.
+* 2 Samuel 24:24: "Porém o rei disse a Araúna: Não, mas pelo seu preço eu to comprarei, porque não oferecerei ao SENHOR meu Deus holocaustos que não me custem nada. Assim, comprou Davi a eira e os bois por cinqüenta siclos de prata." Este versículo destaca a importância de oferecer ofertas ao Senhor que tenham um custo pessoal e sacrifício, em vez de oferecer algo que não tenha valor ou significado para nós.
+* Hebreus 13:15-16: "Por meio de Jesus, pois, ofereçamos a Deus, sempre, sacrifício de louvor, que é o fruto de lábios que confessam o seu nome. E não vos esqueçais da beneficência e comunicação, porque com tais sacrifícios Deus se agrada." Este versículo destaca que os sacrifícios que Deus mais valoriza não são animais ou bens materiais, mas sim nossa adoração e amor por Ele, bem como nossa disposição para ajudar e servir aos outros.
+* Malaquias 1:13-14: "Ainda mais me disseis: Eis aqui, que fastio é este! E me lançastes isto, diz o SENHOR dos Exércitos; vós dizeis: Eis aqui, que canseira é! E o rejeitais, diz o SENHOR dos Exércitos; e trazeis o roubado, e o coxo e o enfermo; assim fazeis a oferta. Aceitar-vos-ia eu, pois, isso da vossa mão? diz o SENHOR." Este versículo mostra que Deus não aceita ofertas que não são sinceras e que são feitas com desdém ou desrespeito. Ele espera que nossas ofertas sejam feitas com sinceridade e humildade.
+****
+
+[[v3-22-1]]
+
+^<<v3-22-1,1>>^ Falou também o Senhor a Moisés, dizendo:
+
+[[v3-22-2]]
+
+^<<v3-22-2,2>>^ Dize a Aarão e a seus filhos que se abstenham das coisas que (me foram) consagradas pelos filhos de Israel, e não profanem o nome das coisas santificadas em minha honra, que eles me oferecem. Eu sou o Senhor.
+
+[[v3-22-3]]
+
+^<<v3-22-3,3>>^ Dize-lhes a eles e a seus descendentes: Todo o homem da vossa estirpe que, tendo qualquer impureza, se aproximar das coisas que os filhos de Israel consagraram e ofereceram ao Senhor, será retirado da minha presença. Eu sou o Senhor.
+
+[[v3-22-4]]
+
+^<<v3-22-4,4>>^ Um homem da estirpe de Aarão, que for leproso ou doente de gonorreia, não comerá das coisas que me foram santificadas, até que esteja são. O que tocar um homem impuro, ou que tiver um derramamento seminal,
+
+[[v3-22-5]]
+
+^<<v3-22-5,5>>^ ou que tocar um réptil e qualquer coisa impura, cujo contacto é impuro,
+
+[[v3-22-6]]
+
+^<<v3-22-6,6>>^ será impuro até à tarde, e não comerá daquelas coisas que foram santificadas; porém, depois que tiver lavado o seu corpo em água,
+
+[[v3-22-7]]
+
+^<<v3-22-7,7>>^ e se tiver posto o sol, então, estando puro, comerá das coisas santificadas, porque são seu alimento.
+
+[[v3-22-8]]
+
+^<<v3-22-8,8>>^ Não comerão dum animal morto por si, ou dilacerado por outro; não se mancharão com estas coisas. Eu sou o Senhor.
+
+[[v3-22-9]]
+
+^<<v3-22-9,9>>^ Observem os meus mandamentos para que não caiam em pecado, e não morram no santuário, depois de o terem profanado. Eu sou o Senhor que os santifico,
+
+[[v3-22-10]]
+
+^<<v3-22-10,10>>^ Nenhum estrangeiro comerá das coisas santificadas; nem o que habita em casa do sacerdote, nem o jornaleiro comerão delas;
+
+[[v3-22-11]]
+
+^<<v3-22-11,11>>^ porém, o escravo, comprado por um sacerdote, e o que tiver nascido em sua casa, estes comerão delas.
+
+[[v3-22-12]]
+
+^<<v3-22-12,12>>^ Se a filha do sacerdote casar com algum homem do povo não comerá das coisas santificadas nem das primícias;
+
+[[v3-22-13]]
+
+^<<v3-22-13,13>>^ nem se, ficando viúva, ou sendo repudiada, e sem filhos, voltar para casa de seu pai, comerá do que seu pai come, como costumava fazer sendo donzela. Nenhum estrangeiro tem faculdade de comer delas.
+
+[[v3-22-14]]
+
+^<<v3-22-14,14>>^ O que por ignorância comer das coisas santificadas, dará ao sacerdote o (valor do) que comeu, mais uma quinta parte.
+
+[[v3-22-15]]
+
+^<<v3-22-15,15>>^ Os sacerdotes não profanarão as coisas santificadas dos filhos de Israel, que estes oferecem ao Senhor.
+
+[[v3-22-16]]
+
+^<<v3-22-16,16>>^ Não sofrerão a pena do seu delito, comendo das coisas santificadas. Eu sou o Senhor que os santifico.
+
+[[v3-22-17]]
+
+^<<v3-22-17,17>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-22-18]]
+
+^<<v3-22-18,18>>^ Fala a Aarão, a seus filhos, e a todos os filhos de Israel, e dize-lhes: O homem da casa de Israel, ou de entre os estrangeiros que habitam entre vós, que fizer a oblação, ou para cumprimento de votos, ou para oferta espontânea de qualquer vítima em holocausto ao Senhor,
+
+[[v3-22-19]]
+
+^<<v3-22-19,19>>^ para que seja oferecida por vós, oferecerá um macho sem defeito, dentre os bois, ovelhas ou cabras.
+
+[[v3-22-20]]
+
+^<<v3-22-20,20>>^ Se tiver qualquer defeito, não oferecereis nem será aceite.
+
+[[v3-22-21]]
+
+^<<v3-22-21,21>>^ O homem que oferecer ao Senhor uma vítima de gado graúdo ou miúdo, em sacrifício pacífico, quer para cumprimento de votos, quer como oferta espontânea, oferecerá um animal perfeito, para que seja agradável; não haverá nele nenhum defeito.
+
+[[v3-22-22]]
+
+^<<v3-22-22,22>>^ Se for cego, estropiado, mutilado, ulcerado, sarnento ou tinhoso, não o oferecereis ao Senhor, nem o queimareis sobre o altar do Senhor.
+
+[[v3-22-23]]
+
+^<<v3-22-23,23>>^ Poderás oferecer como oferta voluntária um boi ou uma ovelha com um membro comprido ou curto demais, mas com eles não se pode cumprir um voto.
+
+[[v3-22-24]]
+
+^<<v3-22-24,24>>^ Não oferecereis ao Senhor animal algum que tenha os testículos trilhados, ou esmagados, ou cortados, ou arrancados; de nenhum modo façais isto na vossa terra.
+
+[[v3-22-25]]
+
+^<<v3-22-25,25>>^ Não oferecereis ao vosso Deus tais vítimas (recebidas) da mão dum estrangeiro, nem qualquer outra coisa que ele queira dar, porque todos estes dons são corruptos e impuros: não os aceitareis.
+
+[[v3-22-26]]
+
+^<<v3-22-26,26>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-22-27]]
+
+^<<v3-22-27,27>>^ O bezerro, o cordeiro ou o cabrito, quando nascerem, estarão sete dias mamando debaixo da mãe: ao oitavo dia, e daí por diante, poderão ser oferecidos ao Senhor.
+
+[[v3-22-28]]
+
+^<<v3-22-28,28>>^ Quer se trate dum boi, ou duma ovelha, não serão imolados no mesmo dia com as suas crias.
+
+[[v3-22-29]]
+
+^<<v3-22-29,29>>^ Se oferecerdes um sacrifício em acção de graças ao Senhor, oferecei-o de maneira que seja agradável (ao Senhor);
+
+[[v3-22-30]]
+
+^<<v3-22-30,30>>^ comereis a vítima no mesmo dia, e não ficará coisa alguma para a manhã do dia seguinte. Eu sou o Senhor.
+
+[[v3-22-31]]
+
+^<<v3-22-31,31>>^ Guardai os meus mandamentos, ponde-os em prática. Eu sou o Senhor.
+
+[[v3-22-32]]
+
+^<<v3-22-32,32>>^ Não profaneis o meu santo nome, para que eu seja santificado no meio dos filhos de Israel. Eu sou o Senhor que vos santifico
+
+[[v3-22-33]]
+
+^<<v3-22-33,33>>^ e vos tirei da terra do Egipto, para ser o vosso Deus. Eu sou o Senhor.
+
+'''
+
+xref:003-levitico/003-levitico-021.adoc#v3-21-0[&#60; Capítulo Anterior] | <<v3-22-0,Topo>> | xref:003-levitico/003-levitico-023.adoc#v3-23-0[Próximo Capítulo &#62;]

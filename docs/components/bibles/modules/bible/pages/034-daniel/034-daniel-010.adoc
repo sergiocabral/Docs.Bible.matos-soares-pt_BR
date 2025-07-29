@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v34-10-0]]
+=== Daniel, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 10 do livro de Daniel relata um encontro sobrenatural do profeta com um mensageiro celestial que o instrui sobre uma série de visões futuras. Esse capítulo também descreve a reação física de Daniel ao ver a visão, sua fraqueza e necessidade de fortalecimento. A seguir, estão cinco versículos relacionados com os temas abordados em Daniel 10:
+* 2 Crônicas 15:7: "Mas esforçai-vos, e não desfaleçam as vossas mãos; porque a vossa obra tem uma recompensa." Este verso encoraja a persistência e a perseverança, características necessárias para superar a fraqueza e a desmotivação que podem surgir durante a caminhada espiritual.
+* Isaías 40:31: "Mas os que esperam no SENHOR renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão." Essa passagem enfatiza a importância de confiar em Deus para obter a força necessária para superar as adversidades e realizar a sua vontade.
+* 1 Coríntios 15:58: "Portanto, meus amados irmãos, sede firmes e constantes, sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor." Esse versículo destaca a importância da perseverança e da dedicação na caminhada cristã, lembrando que as nossas obras em Deus não são em vão.
+* Filipenses 4:13: "Posso todas as coisas naquele que me fortalece." Essa passagem enfatiza que podemos superar todas as dificuldades e desafios por meio do poder de Deus em nós.
+* Colossenses 1:11: "fortalecidos com todo o poder, segundo a força da sua glória, em toda a paciência, e longanimidade com gozo" Esse verso destaca a fonte da nossa força e capacidade para perseverar e viver segundo a vontade de Deus, que é a glória e o poder divino.
+****
+
+[[v34-10-1]]
+
+^<<v34-10-1,1>>^ No terceiro ano de Ciro, rei dos Persas, foi revelada a Daniel, chamado Baltasar, uma palavra verdadeira e anunciadora de grandes lutas. Ele entendeu a palavra e teve inteligência da visão.
+
+[[v34-10-2]]
+
+^<<v34-10-2,2>>^ Naqueles dias, eu, Daniel, fiz penitência durante três semanas:
+
+[[v34-10-3]]
+
+^<<v34-10-3,3>>^ não tomei alimento algum apetitoso, nem carne nem vinho entraram na minha boca, não me ungi, até que se completassem os dias destas três semanas.
+
+[[v34-10-4]]
+
+^<<v34-10-4,4>>^ No dia vinte e quatro do primeiro mês, estava eu junto do grande rio, que é o Tigre.
+
+[[v34-10-5]]
+
+^<<v34-10-5,5>>^ Levantei os olhos e vi um homem vestido de roupas de linho e cingido pelos rins com um cinto de ouro de Ufaz;
+
+[[v34-10-6]]
+
+^<<v34-10-6,6>>^ o seu corpo era (brilhante) como o crisólito, o seu rosto como o relâmpago, e os seus olhos pareciam fachos ardentes; os seus braços e todo o resto do corpo até aos pés eram semelhantes ao bronze reluzente, e o som das suas palavras era como o ruído das multidões.
+
+[[v34-10-7]]
+
+^<<v34-10-7,7>>^ Somente eu, Daniel, tive esta visão; os homens que estavam comigo não a tiveram, mas caiu sobre eles um terror tão grande que fugiram para lugares ocultos.
+
+[[v34-10-8]]
+
+^<<v34-10-8,8>>^ Tendo eu, pois, ficado sozinho, vi esta grande aparição. Não ficou vigor em mim, mudou-se o meu semblante, fiquei desfigurado e perdi todas as forças.
+
+[[v34-10-9]]
+
+^<<v34-10-9,9>>^ Ouvi o som das suas palavras, e, ouvindo-o, caí desfalecido, de rosto contra a terra.
+
+[[v34-10-10]]
+
+^<<v34-10-10,10>>^ E eis que uma mão me tocou e me fez levantar sobre os meus joelhos e sobre as palmas das minhas mãos.
+
+[[v34-10-11]]
+
+^<<v34-10-11,11>>^ Depois disse-me: Daniel, homem predilecto (de Deus), entende as palavras que te venho dizer, e põ-te de pé, porque fui agora enviado a ti. Quando proferiu estas palavras, pus-me de pé, tremendo.
+
+[[v34-10-12]]
+
+^<<v34-10-12,12>>^ Disse-me: Não tenhas medo, Daniel, porque desde o primeiro dia, em que aplicaste o teu coração a compreender e a mortificar-te na presença do teu Deus, foram ouvidas as tuas palavras, e eu vim por causa delas.
+
+[[v34-10-13]]
+
+^<<v34-10-13,13>>^ O príncipe do reino dos Persas resistiu-me durante vinte e um dias; mas eis que veio em meu socorro Miguel, um dos primeiros príncipes, e eu fiquei lá junto do rei dos Persas. (ver nota)
+
+[[v34-10-14]]
+
+^<<v34-10-14,14>>^ Vim para te ensinar as coisas que estão para suceder ao teu povo nos últimos dias, porque o cumprimento desta visão ainda está para esses dias (longínquos).
+
+[[v34-10-15]]
+
+^<<v34-10-15,15>>^ Enquanto ele me dizia estas palavras, estive com os olhos postos no chão, em silêncio.
+
+[[v34-10-16]]
+
+^<<v34-10-16,16>>^ E eis que um ser semelhante a um filho de homem, me tocou os lábios e eu, abrindo a minha boca, falei; disse ao que estava em pé diante de mim : Meu Senhor, esta visão angustiou-me, e não me ficou força alguma.
+
+[[v34-10-17]]
+
+^<<v34-10-17,17>>^ Como poderá o servo do meu Senhor falar com o meu Senhor? Estou sem força, falta-me o alento.
+
+[[v34-10-18]]
+
+^<<v34-10-18,18>>^ Então aquele que eu via sob a aparência dum homem, tornou-me a tocar, confortou-me,
+
+[[v34-10-19]]
+
+^<<v34-10-19,19>>^ e disse; Não temas, homem predilecto (de Deus)! A paz seja contigo! Tem vigor! Coragem! Quando ele ainda me falava, recobrei as forças e disse; Fala, meu Senhor, porque me fortaleceste.
+
+[[v34-10-20]]
+
+^<<v34-10-20,20>>^ Então disse-me ele ; Sabes tu por que é que vim ter contigo? Agora volto a pelejar contra o príncipe dos, Persas. Quando eu sair, virá o príncipe dos Gregos.
+
+[[v34-10-21]]
+
+^<<v34-10-21,21>>^ Mas (antes disso) anunciar-te-ei o que está expresso no seguir, livro da verdade. Em todas estas coisas ninguém me ajuda senão Miguel, que é o vosso príncipe.
+
+'''
+
+xref:034-daniel/034-daniel-009.adoc#v34-9-0[&#60; Capítulo Anterior] | <<v34-10-0,Topo>> | xref:034-daniel/034-daniel-011.adoc#v34-11-0[Próximo Capítulo &#62;]

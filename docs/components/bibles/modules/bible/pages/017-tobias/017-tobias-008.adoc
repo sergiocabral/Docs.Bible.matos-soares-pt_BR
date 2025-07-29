@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v17-8-0]]
+=== Tobias, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 8 do livro de Tobias, Tobias e Sara se casam e oferecem uma oração a Deus. Os versículos a seguir estão relacionados aos temas deste capítulo:
+* Gênesis 2:24: "Por isso deixará o homem a seu pai e a sua mãe, e unir-se-á à sua mulher, e serão ambos uma carne." Este versículo fala sobre a união matrimonial, que é o que acontece entre Tobias e Sara em Tobias 8.
+* Eclesiastes 9:9: "Goza a vida com a mulher que amas, todos os dias da tua vida vã, os quais Deus te deu debaixo do sol, todos os dias da tua vaidade; porque esta é a tua porção nesta vida, e no teu trabalho, que tu fizeste debaixo do sol." Este versículo fala sobre desfrutar a vida com a esposa, o que é o que Tobias e Sara fazem ao se casarem.
+* Provérbios 5:18-19: "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade. Como cerva amorosa, e gazela graciosa, os seus seios te saciem todo o tempo; e pelo seu amor sejas atraído perpetuamente." Este versículo fala sobre a alegria e satisfação que se pode encontrar no casamento.
+* Eclesiástico 26:1-4: "Feliz é o marido de uma boa mulher, porque o número dos seus dias será em dobro. Uma mulher virtuosa alegra seu marido, e ele cumprirá os dias de sua vida em paz. Uma boa mulher é uma boa parte de sua herança, dada em graça aos que temem ao Senhor. Rico ou pobre, o coração do marido está contente, e em todo tempo seu rosto é alegre." Este versículo fala sobre a importância de encontrar uma esposa virtuosa e como ela pode trazer felicidade e paz ao marido.
+* Efésios 5:25-28: "Vós, maridos, amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela, a fim de a santificar, tendo-a purificado por meio da lavagem de água pela palavra, para a apresentar a si mesmo igreja gloriosa, sem mácula, nem ruga, nem coisa semelhante, mas santa e irrepreensível. Assim devem os maridos amar a suas próprias mulheres, como a seus próprios corpos. Quem ama a sua mulher, ama-se a si mesmo." Este versículo fala sobre o amor que um marido deve ter por sua esposa, assim como Cristo amou a igreja.
+****
+
+[[v17-8-1]]
+
+^<<v17-8-1,1>>^ Depois de terem ceado, introduziram o jovem no aposento da esposa.
+
+[[v17-8-2]]
+
+^<<v17-8-2,2>>^ Tobias, lembrando-se do que lhe tinha dito o anjo, tirou da sua bolsa um pedaço de fígado de peixe e colocou-o sobre uns carvões acesos.
+
+[[v17-8-3]]
+
+^<<v17-8-3,3>>^ Nessa altura, o anjo Rafael pegou no demónio e ligou-o no deserto do alto Egipto.
+
+[[v17-8-4]]
+
+^<<v17-8-4,4>>^ Então Tobias encorajou a jovem com estas palavras; Sara, levanta-te e façamos oração a Deus, hoje, amanhã e depois de amanhã. Nestas três noites nos uniremos a Deus; depois da terceira noite, viveremos no nosso matrimónio,
+
+[[v17-8-5]]
+
+^<<v17-8-5,5>>^ porque nós somos filhos de santos, e não podemos juntar-nos à maneira dos Gentios que não conhecem a Deus.
+
+[[v17-8-6]]
+
+^<<v17-8-6,6>>^ Levantando-se ambos, oravam juntos com fervor para que lhes fosse conservada a vida.
+
+[[v17-8-7]]
+
+^<<v17-8-7,7>>^ Tobias disse: Senhor Deus de nossos pais, bendigam-te o céu e a terra, o mar, as fontes, os rios e todas as tuas criaturas que neles se encerram.
+
+[[v17-8-8]]
+
+^<<v17-8-8,8>>^ Tu fizeste Adão do limo da terra, e deste-lhe Eva por companheira.
+
+[[v17-8-9]]
+
+^<<v17-8-9,9>>^ Ora tu sabes, Senhor, que não é por motivo de paixão que eu tomo esta minha irmã por esposa, mas só pelo desejo de ter filhos, pelos quais o leu nome seja bendito pelos séculos dos séculos.
+
+[[v17-8-10]]
+
+^<<v17-8-10,10>>^ E Sara disse : Compadece-te de nós, Senhor, compadece-te de nós, e faz que vivamos juntos até à velhice em perfeita saúde.
+
+[[v17-8-11]]
+
+^<<v17-8-11,11>>^ Ao cantar do galo, Raguel mandou chamar os seus criados, que foram com ele abrir uma sepultura.
+
+[[v17-8-12]]
+
+^<<v17-8-12,12>>^ Pode ser, dizia, que tenha acontecido a este o mesmo que aos outros sete homens que estiveram com ela.
+
+[[v17-8-13]]
+
+^<<v17-8-13,13>>^ Depois que prepararam a cova, voltou Raguel para junto de sua mulher e disse-lhe:
+
+[[v17-8-14]]
+
+^<<v17-8-14,14>>^ Manda uma das tuas criadas ver se ele morreu, para o sepultar antes que amanheça.
+
+[[v17-8-15]]
+
+^<<v17-8-15,15>>^ Ela mandou uma das suas criadas. Esta, tendo entrado na câmara, achou-os sãos e salvos, dormindo juntamente.
+
+[[v17-8-16]]
+
+^<<v17-8-16,16>>^ Voltando, deu esta boa nova, e, então, tanto Raguel como Ana, sua mulher, louvaram o Senhor.
+
+[[v17-8-17]]
+
+^<<v17-8-17,17>>^ Disseram : Nós te bendizemos. Senhor Deus de Israel, por não ter sucedido o que julgávamos.
+
+[[v17-8-18]]
+
+^<<v17-8-18,18>>^ Usaste connosco da tua misericórdia, lançando para longe de nós o inimigo que nos perseguia.
+
+[[v17-8-19]]
+
+^<<v17-8-19,19>>^ Tiveste compaixão de dois filhos únicos. Faz, Senhor, que eles te bendigam mais e mais, e te ofereçam um sacrifício de louvor pela sua saúde, a fim de que todas as nações conheçam que só tu és o Deus em toda a terra.
+
+[[v17-8-20]]
+
+^<<v17-8-20,20>>^ Raguel mandou logo aos seus criados que enchessem a cova, que tinham feito, antes que fosse dia.
+
+[[v17-8-21]]
+
+^<<v17-8-21,21>>^ Disse a sua mulher que aprontasse um banquete e preparasse tudo o que era necessário aos viajantes, para seu sustento.
+
+[[v17-8-22]]
+
+^<<v17-8-22,22>>^ Também mandou matar duas vacas gordas e quatro carneiros, destinados a um banquete para todos os seus vizinhos e para todos os amigos.
+
+[[v17-8-23]]
+
+^<<v17-8-23,23>>^ Raguel instou com Tobias para que ficasse com ele duas semanas.
+
+[[v17-8-24]]
+
+^<<v17-8-24,24>>^ De tudo o que possuía, Raguel deu metade a Tobias, e declarou por escrito que a outra metade passaria a Tobias depois da sua morte e da de sua mulher.
+
+'''
+
+xref:017-tobias/017-tobias-007.adoc#v17-7-0[&#60; Capítulo Anterior] | <<v17-8-0,Topo>> | xref:017-tobias/017-tobias-009.adoc#v17-9-0[Próximo Capítulo &#62;]

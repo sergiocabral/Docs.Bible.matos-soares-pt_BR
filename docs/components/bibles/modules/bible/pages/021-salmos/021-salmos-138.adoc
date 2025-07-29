@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v21-138-0]]
+=== Salmos, 138
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 138 é um hino de gratidão a Deus, no qual o salmista expressa seu louvor e adoração pelo seu amor e fidelidade. O salmista reconhece a bondade de Deus para com ele e promete louvar e glorificar o seu nome. Abaixo estão cinco versículos da Bíblia que se relacionam com os temas abordados no Salmo 138:
+* 2 Samuel 7:22: "Portanto, tu és grande, Senhor Deus, porque ninguém há semelhante a ti, e não há outro Deus senão tu, segundo tudo o que temos ouvido com os nossos ouvidos." Este versículo reconhece a grandeza de Deus e sua singularidade em relação a outros deuses ou ídolos.
+* Salmos 100:4: "Entrai pelas portas dele com gratidão, e em seus átrios com louvor; louvai-o, e bendizei o seu nome." Esse verso incentiva a gratidão e o louvor a Deus na adoração e culto.
+* 1 Crônicas 16:34: "Dai graças ao Senhor, porque ele é bom, porque a sua misericórdia dura para sempre." Este versículo destaca a bondade e misericórdia de Deus, reforçando o tema de gratidão presente no Salmo 138.
+* Salmos 113:5-6: "Quem é como o Senhor nosso Deus, que tem o seu assento nas alturas, que se inclina para ver o que está nos céus e na terra?" Este verso também reconhece a grandeza e a majestade de Deus, enfatizando a importância de adorá-lo.
+* Filipenses 1:6: "Tendo por certo isto mesmo, que aquele que em vós começou a boa obra a aperfeiçoará até ao dia de Jesus Cristo." Esse verso destaca a fidelidade de Deus em completar a obra que ele começou em nossas vidas, assim como o salmista reconhece a fidelidade de Deus em suas ações.
+****
+
+[[v21-138-1]]
+
+^<<v21-138-1,1>>^ Ao mestre do coro. De Davide. Salmo. Senhor, tu me sondas, me conheces,
+
+[[v21-138-2]]
+
+^<<v21-138-2,2>>^ tu me conheces, quando me sento e quando me levanto. De longe penetras os meus pensamentos;
+
+[[v21-138-3]]
+
+^<<v21-138-3,3>>^ vês claramente quando ando e quando repouso, observas todos os meus caminhos.
+
+[[v21-138-4]]
+
+^<<v21-138-4,4>>^ Antes mesmo que uma palavra esteja sobre a minha língua, eis, Senhor, que já a conheces toda.
+
+[[v21-138-5]]
+
+^<<v21-138-5,5>>^ Por todos os lados me envolves, e pões sobre mim a tua mão.
+
+[[v21-138-6]]
+
+^<<v21-138-6,6>>^ É demasiado admirável para mim essa ciência, é sublime: não posso atingí-la.
+
+[[v21-138-7]]
+
+^<<v21-138-7,7>>^ Para onde irei, a fim de ficar longe do teu espírito? E para onde fugirei da tua presença?
+
+[[v21-138-8]]
+
+^<<v21-138-8,8>>^ Se subo ao céu, tu lá estás; se me prostrar nos infernos, neles te encontras presente.
+
+[[v21-138-9]]
+
+^<<v21-138-9,9>>^ Se eu tomar as asas da aurora e habitar nos confins do mar,
+
+[[v21-138-10]]
+
+^<<v21-138-10,10>>^ ainda lá me guiará a tua mão, e me tomará a tua direita.
+
+[[v21-138-11]]
+
+^<<v21-138-11,11>>^ Se eu disser: "Ao menos as trevas me encobrirão, e, em vez da luz, me envolverá a noite"
+
+[[v21-138-12]]
+
+^<<v21-138-12,12>>^ as mesmas trevas não serão obscuras para ti, e a noite brilhará como o dia: a densa escuridão é para ti como a luz.
+
+[[v21-138-13]]
+
+^<<v21-138-13,13>>^ Porque foste tu que formaste os meus rins, me entreteceste no seio de minha mãe.
+
+[[v21-138-14]]
+
+^<<v21-138-14,14>>^ Louvo-te, porque tão admiravelmente fui formado, porque são maravilhosas as tuas obras. Perfeitamente conheces a minha alma;
+
+[[v21-138-15]]
+
+^<<v21-138-15,15>>^ a minha estrutura não te foi desconhecida, quando me ia formando em segredo, quando ia sendo entre tecido nas entranhas da terra.
+
+[[v21-138-16]]
+
+^<<v21-138-16,16>>^ Os teus olhos viram os meus actos, e no teu livro todos estão inscritos; são fixados os dias, antes que um só deles existisse.
+
+[[v21-138-17]]
+
+^<<v21-138-17,17>>^ Quão difíceis são para mim os teus desígnios, ó Deus, quão imenso o seu número!
+
+[[v21-138-18]]
+
+^<<v21-138-18,18>>^ Se me ponho a contá-los, vejo que o seu número ultrapassa o da areia (do mar); se chegar ao fim, ainda estou contigo.
+
+[[v21-138-19]]
+
+^<<v21-138-19,19>>^ Oxalá dês a morte ao ímpio, ó Deus, e se afastem de mim os homens sanguinários!
+
+[[v21-138-20]]
+
+^<<v21-138-20,20>>^ Porque, com astúcia, se rebelam contra ti, pèrfidamente se vangloriam os teus inimigos.
+
+[[v21-138-21]]
+
+^<<v21-138-21,21>>^ Porventura não odeio eu, Senhor, os que te odeiam, e não me causam tédio os que se levantam contra ti? (ver nota)
+
+[[v21-138-22]]
+
+^<<v21-138-22,22>>^ Com ódio implacável eu os odeio; tornaram-se meus inimigos.
+
+[[v21-138-23]]
+
+^<<v21-138-23,23>>^ Sonda-me, ó Deus, e conhece o meu coração; põe-me à prova e conhece os meus sentimentos,
+
+[[v21-138-24]]
+
+^<<v21-138-24,24>>^ e vê se ando pelo mau caminho, e reconduz-me pelo caminho antigo.
+
+'''
+
+xref:021-salmos/021-salmos-137.adoc#v21-137-0[&#60; Capítulo Anterior] | <<v21-138-0,Topo>> | xref:021-salmos/021-salmos-139.adoc#v21-139-0[Próximo Capítulo &#62;]

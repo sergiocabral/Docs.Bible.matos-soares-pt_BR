@@ -1,0 +1,251 @@
+include::./index.adoc[]
+
+[[v9-17-0]]
+=== I Samuel, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 17 relata a história de Davi e Golias, onde Davi, um jovem pastor de ovelhas, enfrenta o gigante filisteu Golias e o derrota com uma única pedra. Este capítulo aborda temas como fé, coragem, confiança em Deus e habilidade para superar desafios.
+* Salmos 56:3: "No dia em que eu temer, hei de confiar em ti." Este versículo enfatiza a importância da confiança em Deus, mesmo em momentos de medo e incerteza, o que é uma atitude que Davi demonstra durante sua batalha contra Golias.
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor." Este versículo mostra que, embora possamos nos preparar para enfrentar os desafios, a vitória vem de Deus, e Davi confia em Deus para ajudá-lo a vencer Golias.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo fala sobre a proteção e ajuda que Deus oferece a seus filhos, o que Davi experimenta quando enfrenta Golias com confiança.
+* Filipenses 4:13: "Tudo posso naquele que me fortalece." Este versículo mostra que podemos superar qualquer desafio com a ajuda de Deus, e que a força vem Dele. Davi demonstra isso quando enfrenta Golias sem medo, confiando em Deus para ajudá-lo a vencer.
+* 2 Timóteo 1:7: "Porque Deus não nos deu o espírito de temor, mas de fortaleza, e de amor, e de moderação." Este versículo destaca a importância da coragem e da força em momentos difíceis, que Davi demonstra ao enfrentar Golias, confiando na ajuda e proteção de Deus.
+****
+
+[[v9-17-1]]
+
+^<<v9-17-1,1>>^ Os Filisteus, juntando as suas tropas para combater (contra Israel), reuniram-se em Soco de Judá. Acamparam entre Soco e Azeca, nos confins de Efes-Dammin.
+
+[[v9-17-2]]
+
+^<<v9-17-2,2>>^ Saul e os filhos de Israel reuniram-se (também), foram para o vale do Terebinto e formaram o exército em batalha para combater contra os Filisteus.
+
+[[v9-17-3]]
+
+^<<v9-17-3,3>>^ Os Filisteus estavam dum lado sobre um monte, e Israel estava do outro lado sobre (outro) monte. Havia um vale entre eles.
+
+[[v9-17-4]]
+
+^<<v9-17-4,4>>^ Saiu do campo dos Filisteus um desafiador, chamado Golias, de Get, que tinha seis côvados e um palmo de altura.
+
+[[v9-17-5]]
+
+^<<v9-17-5,5>>^ Trazia na cabeça um capacete de bronze e estava vestido duma couraça escameada; o peso da couraça era de cinco mil siclos de bronze. (ver nota)
+
+[[v9-17-6]]
+
+^<<v9-17-6,6>>^ Trazia nas pernas escarcelas de bronze, e um escudo de bronze cobria os seus ombros.
+
+[[v9-17-7]]
+
+^<<v9-17-7,7>>^ A baste da sua lança era como o órgão dum tear, e o ferro da sua lança pesava seiscentos siclos de ferro; o seu escudeiro vinha diante dele.
+
+[[v9-17-8]]
+
+^<<v9-17-8,8>>^ Posto em pé, clamava para os esquadrões de Israel, dizendo-lhes: Por que viestes dispostos para a batalha? Porventura não sou eu um Filisteu, e vós os escravos de Saul? Escolhei entre vós um homem, que venha bater-se (comigo) só por só.
+
+[[v9-17-9]]
+
+^<<v9-17-9,9>>^ Se ele puder combater comigo e me tirar a vida, nós seremos vossos escravos; mas se eu prevalecer e o matar, vós sereis nossos escravos, servir-nos-eis.
+
+[[v9-17-10]]
+
+^<<v9-17-10,10>>^ O Filisteu acrescentou: Eu hoje desafiei os esquadrões de Israel, dizendo: Dai-me um homem, que saia a bater-se comigo, só por só.
+
+[[v9-17-11]]
+
+^<<v9-17-11,11>>^ Saul e todos os Israelitas, ouvindo estas palavras do Filisteu, estavam atônitos e temiam em extremo.
+
+[[v9-17-12]]
+
+^<<v9-17-12,12>>^ Ora Davide era filho daquele homem Efrateu, de Belém de Judá, do qual acima falamos, chamado Isaí, que tinha oito filhos, e era um dos mais velhos, dos mais idosos, do tempo de Saul.
+
+[[v9-17-13]]
+
+^<<v9-17-13,13>>^ Os seus três filhos maiores tinham seguido Saul para a guerra; os nomes dos seus três filhos que tinham ido à guerra (eram) Ellab, o primogênito, Abinadab, o segundo, e Sama o terceiro.
+
+[[v9-17-14]]
+
+^<<v9-17-14,14>>^ Davide era o mais pequeno. Tendo os três maiores seguido Saul,
+
+[[v9-17-15]]
+
+^<<v9-17-15,15>>^ Davide deixou Saul e voltou a apascentar o rebanho de seu pai em Belém
+
+[[v9-17-16]]
+
+^<<v9-17-16,16>>^ O Filisteu apresentava-se de manhã e de tarde, e continuou assim durante quarenta dias.
+
+[[v9-17-17]]
+
+^<<v9-17-17,17>>^ Isaí disse a seu filho Davide: Toma para teus irmãos um efi de grão torrado e estes dez pães, e corre (a levá-los) a teus irmãos, ao acampamento;
+
+[[v9-17-18]]
+
+^<<v9-17-18,18>>^ levarás também estes dez queijos ao chefe do seu milhar; visitarás os teus irmãos, para ver se estão bem, e informa- te em que companhia servem.
+
+[[v9-17-19]]
+
+^<<v9-17-19,19>>^ Saul e eles, e todos os filhos de Israel, combatiam contra os Filisteus no vale de Terebinto.
+
+[[v9-17-20]]
+
+^<<v9-17-20,20>>^ Davide levantou-se de manhã, confiou o rebanho a um guarda, e, carregado, pôs-se a caminho, como Isaí lhe tinha mandado. Chegou ao acampamento, quando o exército, tendo saído a dar batalha, gritava em sinal de combate.
+
+[[v9-17-21]]
+
+^<<v9-17-21,21>>^ Israel tinha posto em ordem as suas tropas, mas também os Filisteus do outro lado se tinham preparado para os atacar.
+
+[[v9-17-22]]
+
+^<<v9-17-22,22>>^ Davide, deixando as bagagens, que tinha levado, entregues ao cuidado do guarda das bagagens, correu ao lugar da batalha e Informava-se se tudo corria bem aos seus Irmãos.
+
+[[v9-17-23]]
+
+^<<v9-17-23,23>>^ Quando ele lhes estava ainda falando, apareceu aquele desafiador, chamado Golias, Filisteu, de Get, vindo do campo dos Filisteus, a dizer as mesmas palavras (do costume), que Davide ouviu.
+
+[[v9-17-24]]
+
+^<<v9-17-24,24>>^ Todos os Israelitas, tendo visto este homem, fugiram da sua presença, porque o temiam muito.
+
+[[v9-17-25]]
+
+^<<v9-17-25,25>>^ Um dos (soldados) de Israel disse: Não vistes esse homem, que avançou (para combater)? Ele veio para desafiar Israel. Ao homem que o matar, o rei encherá de grandes riquezas, dar-lhe-á por mulher sua filha e isentará a casa de seu pai de tributos de Israel.
+
+[[v9-17-26]]
+
+^<<v9-17-26,26>>^ Davide falou aos que estavam junto dele, dizendo: Que será dado a quem matar este Filisteu e tirar o opróbrio de Israel? Quem é este Filisteu incircuncidado, que insultou o exército do Deus vivo?
+
+[[v9-17-27]]
+
+^<<v9-17-27,27>>^ O povo repetia-lhe as mesmas palavras, dizendo; Dar-se-á isto e isto a quem o matar.
+
+[[v9-17-28]]
+
+^<<v9-17-28,28>>^ Enquanto ele falava assim com os outros, Eliab, seu irmão mais velho, irou-se contra ele e disse: Por que vieste cá e deixaste no deserto essas poucas ovelhas? Eu conheço a tua soberba e a maldade do teu coração; tu vieste para ver o combate.
+
+[[v9-17-29]]
+
+^<<v9-17-29,29>>^ Davide disse: Que fiz eu? Não é porventura uma (simples) palavra (que pronunciei)?
+
+[[v9-17-30]]
+
+^<<v9-17-30,30>>^ E apartou-se um pouco dele, para (se dirigir) a um outro, e disse a mesma coisa. O povo respondeu-lhe como da primeira vez.
+
+[[v9-17-31]]
+
+^<<v9-17-31,31>>^ Foram ouvidas as palavras que Davide disse e foram referidas a Saul.
+
+[[v9-17-32]]
+
+^<<v9-17-32,32>>^ Tendo sido conduzido Davide perante ele, disse-lhe: Não desfaleça o coração de ninguém por causa deste Filisteu! Eu, teu servo, irei e combaterei contra ele.
+
+[[v9-17-33]]
+
+^<<v9-17-33,33>>^ Saul disse a Davide; Tu não poderás resistir a este Filisteu, nem combater contra ele, porque és um rapaz, e ele é um homem guerreiro desde a sua mocidade.
+
+[[v9-17-34]]
+
+^<<v9-17-34,34>>^ Davide disse a Saul: Quando teu servo apascentava o rebanho de seu pai, e vinha um leão ou um urso, que levava um carneiro do meio do rebanho,
+
+[[v9-17-35]]
+
+^<<v9-17-35,35>>^ eu corria atrás deles, feria-os e arrancava-lhes (a presa) da guela; se eles se levantavam contra mim, eu agarrava-os pela guela e os estrangulava e matava.
+
+[[v9-17-36]]
+
+^<<v9-17-36,36>>^ Foi assim que eu, teu servo, matei um leão e um urso: a este Filisteu incircuncidado sucederá como a um deles. Agora irei e tirarei o opróbrio do povo; pois quem é este Filisteu incircuncidado, que se atreveu a amaldiçoar o exército do Deus vivo?
+
+[[v9-17-37]]
+
+^<<v9-17-37,37>>^ Davide acrescentou: O Senhor, que me livrou das garras do leão e das do urso, livrar-me-á também da mão deste Filisteu. Saul disse a Davide: Vai, e o Senhor seja contigo.
+
+[[v9-17-38]]
+
+^<<v9-17-38,38>>^ Saul revestiu Davide das suas armas, pôs sobre a sua cabeça um elmo de bronze e armou-o de uma couraça.
+
+[[v9-17-39]]
+
+^<<v9-17-39,39>>^ Cingido Davide com a espada de Saul sobre a sua armadura, começou a experimentar se poderia andar com ela, pois nunca tinha usado nenhuma. Davide disse a Saul: Eu não posso caminhar assim, porque não estou acostumado. E depôs as armas,
+
+[[v9-17-40]]
+
+^<<v9-17-40,40>>^ tomou o seu cajado, que trazia sempre na mão, escolheu na torrente cinco pedras bem lisas, meteu-as no surrão de pastor, que trazia consigo, tomou a funda na mão e saiu contra o Filisteu.
+
+[[v9-17-41]]
+
+^<<v9-17-41,41>>^ O Filisteu ia andando e aproximando-se de Davide, e o seu escudeiro ia diante dele.
+
+[[v9-17-42]]
+
+^<<v9-17-42,42>>^ Quando o Filisteu olhou e viu Davide, desprezou-o, porque era muito novo, loiro, de aspecto gentil.
+
+[[v9-17-43]]
+
+^<<v9-17-43,43>>^ O Filisteu disse a Davide: Porventura eu sou algum cão, para vires contra mim com um pau? — O Filisteu amaldiçoou Davide, pelos seus deuses,
+
+[[v9-17-44]]
+
+^<<v9-17-44,44>>^ e disse a Davide: Vem a mim, e eu lançarei as tuas carnes às aves do céu e aos animais da terra.
+
+[[v9-17-45]]
+
+^<<v9-17-45,45>>^ Davide disse ao Filisteu: Tu vens a mim com espada, lança e escudo, eu porém venho a ti em nome do Senhor dos Exércitos, do Deus das tropas de Israel, as quais tu insultaste hoje;
+
+[[v9-17-46]]
+
+^<<v9-17-46,46>>^ o Senhor te entregará nas minhas mãos, eu te ferirei, cortar-te-ei a cabeça e darei hoje às aves do céu e aos animais da terra os cadáveres do acampamento dos Filisteus, a fim de que toda a terra saiba que há um Deus em Israel;
+
+[[v9-17-47]]
+
+^<<v9-17-47,47>>^ toda esta multidão conhecerá que o Senhor não salva pela espada, nem pela lança, porque ele é o Senhor da guerra e vos entregará nas nossas mãos.
+
+[[v9-17-48]]
+
+^<<v9-17-48,48>>^ O Filisteu levantou-se, pôs-se em marcha e avançou para Davide. Davide lançou-se a correr, em frente do exército, ao encontro do Filisteu.
+
+[[v9-17-49]]
+
+^<<v9-17-49,49>>^ Meteu a sua mão no surrão, tirou uma pedra, arrojou-a com a funda, dando-lhe volta, e feriu o Filisteu na testa; a pedra cravou-se na sua testa, e ele caiu com o rosto por terra.
+
+[[v9-17-50]]
+
+^<<v9-17-50,50>>^ Assim venceu Davide o Filisteu com a funda e com a pedra, e, depois de o ferir, o matou. Davide, não tendo à mão nenhuma espada,
+
+[[v9-17-51]]
+
+^<<v9-17-51,51>>^ correu e lançou-se sobre o Filisteu, pegou da sua espada, tirou-a da bainha, matou-o e cortou-lhe a cabeça. Os Filisteus, vendo que o mais valente deles estava morto, fugiram.
+
+[[v9-17-52]]
+
+^<<v9-17-52,52>>^ Os homens de Israel e os de Judá, levantando-se com grande grito, perseguiram os Filisteus até chegarem ao vale e às portas de Acaron, caindo feridos muitos dos Filisteus pelo caminho de Saraim , até Get e até Acaron.
+
+[[v9-17-53]]
+
+^<<v9-17-53,53>>^ Voltando os filhos de Israel, depois de terem perseguido os Filisteus, saquearam o seu acampamento.
+
+[[v9-17-54]]
+
+^<<v9-17-54,54>>^ Davide, tomando a cabeça do Filisteu , levou-a a Jerusalém e pôs as armas dele na sua tenda.
+
+[[v9-17-55]]
+
+^<<v9-17-55,55>>^ No momento em que Saul viu partir Davide contra o Filisteu, disse para Abner, general do exército: Abner, de que família descende este jovem? Abner disse-lhe: Juro pela tua vida, ó rei, que o ignoro.
+
+[[v9-17-56]]
+
+^<<v9-17-56,56>>^ E disse o rei: pergunta lá de quem é filho este jovem ?
+
+[[v9-17-57]]
+
+^<<v9-17-57,57>>^ Tendo voltado Davide, depois de morto o Filisteu, Abner tomou-o e levou-o à presença de Saul. Davide tinha a cabeça do Filisteu na mão.
+
+[[v9-17-58]]
+
+^<<v9-17-58,58>>^ Saul disse-lhe: De que família és tu, ó jovem? Davide respondeu: Eu sou filho do teu servo Isaí de Belém.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-016.adoc#v9-16-0[&#60; Capítulo Anterior] | <<v9-17-0,Topo>> | xref:009-i-samuel/009-i-samuel-018.adoc#v9-18-0[Próximo Capítulo &#62;]

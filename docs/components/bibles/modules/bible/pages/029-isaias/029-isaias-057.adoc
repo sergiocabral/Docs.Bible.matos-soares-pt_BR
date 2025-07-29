@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v29-57-0]]
+=== Isaías, 57
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 57 é um capítulo que fala sobre a idolatria e a infidelidade de Israel, bem como a promessa de Deus de trazer cura e salvação para o seu povo. Há também uma advertência para aqueles que confiam em sua própria justiça e desobedecem a Deus. Aqui estão cinco versículos relacionados com esses temas:
+* Provérbios 14:12: "Há caminho que parece certo ao homem, mas no final conduz à morte." Este versículo adverte sobre a confiança em nossa própria sabedoria e entendimento, que pode levar à morte espiritual.
+* Jeremias 2:13: "Pois o meu povo cometeu dois males: eles me abandonaram, a mim, a fonte de água viva, e cavaram para si cisternas, cisternas rachadas que não retêm água." Aqui, Jeremias fala da infidelidade de Israel em buscar outras fontes de água em vez de confiar em Deus, a fonte verdadeira de vida.
+* Oséias 14:1: "Volte, ó Israel, para o Senhor, o seu Deus. Os seus pecados os levaram à queda!" Este versículo chama Israel a se arrepender e retornar a Deus, reconhecendo sua culpa em sua queda espiritual.
+* 2 Crônicas 7:14: "Se o meu povo, que se chama pelo meu nome, se humilhar, orar e buscar a minha face e se afastar dos seus maus caminhos, dos céus eu os ouvirei, perdoarei o seu pecado e curarei a sua terra." Este versículo oferece a promessa de Deus de cura e restauração para aqueles que se arrependem e voltam para Ele.
+* Ezequiel 36:26: "Darei a vocês um coração novo e porei um espírito novo em vocês; tirarei de vocês o coração de pedra e lhes darei um coração de carne." Este versículo fala da promessa de Deus de transformar os corações daqueles que se voltam para Ele, substituindo a dureza e a frieza por um coração cheio de amor e compaixão.
+****
+
+[[v29-57-1]]
+
+^<<v29-57-1,1>>^ (Entretanto) o justo perece, e não há quem considere (sobre isto) no seu coração; os homens de bem são arrebatados (pela morte), e não há quem compreenda que é para ser livre dos males que o justo é arrebatado,
+
+[[v29-57-2]]
+
+^<<v29-57-2,2>>^ para entrar na paz; repousam nos seus leitos aqueles que andaram pelo caminho direito.
+
+[[v29-57-3]]
+
+^<<v29-57-3,3>>^ Vós, porém, vinde cá, filhos da feiticeira; linhagem de um adúltero e de uma prostituta.
+
+[[v29-57-4]]
+
+^<<v29-57-4,4>>^ De quem fazeis escárnio? Contra quem abris a boca e deitais a língua de fora? Porventura não sois uns filhos de pecado, uma geração bastarda?
+
+[[v29-57-5]]
+
+^<<v29-57-5,5>>^ Ardeis de concupiscência, junto dos terebintos, debaixo de toda a árvore frondosa, sacrificando (aos ídolos) os vossos tenros filhinhos nas torrentes e nas cavernas dos rochedos.
+
+[[v29-57-6]]
+
+^<<v29-57-6,6>>^ É nas pedras polidas da torrente que está a tua parte: eis a tua sorte! E em honra desses mesmos ídolos derramaste libações, ofereceste sacrifícios. Não me hei-de indignar à vista destas coisas? (ver nota)
+
+[[v29-57-7]]
+
+^<<v29-57-7,7>>^ Pões o leu leito sobre um alto, elevado monte, e lá sobes para imolar hóstias. (ver nota)
+
+[[v29-57-8]]
+
+^<<v29-57-8,8>>^ Detrás da porta e da ombreira pões o teu sinal, porque não foi por mim que tu te descobriste, que subiste ao teu leito e o alargaste: vais-te assalariar com aqueles com que queres ter comércio, multiplicaste as prostituições com eles, admirando o ídolo.
+
+[[v29-57-9]]
+
+^<<v29-57-9,9>>^ Perfumas-te para agraciar a Moloch, multiplicas os teus aromas. Envias os teus embaixadores longe, e fá-los descer até à morada dos mortos. (ver nota)
+
+[[v29-57-10]]
+
+^<<v29-57-10,10>>^ Fatigas-te na multidão dos teus caminhos, e nunca dizes: Descansarei. Achas ainda forças em tuas mãos, por isso andas sem parar.
+
+[[v29-57-11]]
+
+^<<v29-57-11,11>>^ Quem temes tu, de quem tens receio, para (assim) me seres infiel, para me apagares da tua memória, para não fazeres caso de mim? Porque eu estava calado e parecia não ver, por isso te esqueceste de mim.
+
+[[v29-57-12]]
+
+^<<v29-57-12,12>>^ Pois bem, publicarei a tua justiça e as tuas obras, que de nada servem.
+
+[[v29-57-13]]
+
+^<<v29-57-13,13>>^ Quando clamares, salvem-te (os ídolos) que tens juntado; a todos eles levará o vento, arrebatá-los-á um sopro. Mas o que tem confiança em mim, herdará a terra e possuirá o meu santo monte.
+
+[[v29-57-14]]
+
+^<<v29-57-14,14>>^ Dir-se-á: Abri, abri caminho; aplanai-o; tirai os tropeços do caminho do meu povo.
+
+[[v29-57-15]]
+
+^<<v29-57-15,15>>^ Porque isto diz o Excelso, que habita uma morada eterna, cujo nome é Santo: Habito num lugar alto e santo, mas também no coração contrito e humilde, para reanimar o espírito dos humildes e vivificar o coração dos contritos.
+
+[[v29-57-16]]
+
+^<<v29-57-16,16>>^ Com efeito não quero contender eternamente, nem a minha cólera durará sempre; de contrário, sucumbiria o espírito diante de mim, as almas que criei.
+
+[[v29-57-17]]
+
+^<<v29-57-17,17>>^ Irritei-me, um momento, por causa da iniquidade do meu povo, e feri-o na minha indignação, escondendo dele a minha face; ele, rebelde, foi-se andando pelo caminho do seu coração.
+
+[[v29-57-18]]
+
+^<<v29-57-18,18>>^ Eu vi os seus caminhos, e sará-lo-ei, reconduzi-lo-ei (ao bom caminho), dar-lhe-ei consolações a ele e aos que choravam com ele (arrependidos).
+
+[[v29-57-19]]
+
+^<<v29-57-19,19>>^ Farei brotar a ação de graças nos lábios dos aflitos. Paz, paz para aquele que está longe e para o que está perto, diz o Senhor, e sará-lo-ei.
+
+[[v29-57-20]]
+
+^<<v29-57-20,20>>^ Os ímpios, porém, são como um mar agitado, que não pode acalmar, cujas ondas revolvem lodo e lama.
+
+[[v29-57-21]]
+
+^<<v29-57-21,21>>^ Não há paz para os ímpios, diz o meu Deus.
+
+'''
+
+xref:029-isaias/029-isaias-056.adoc#v29-56-0[&#60; Capítulo Anterior] | <<v29-57-0,Topo>> | xref:029-isaias/029-isaias-058.adoc#v29-58-0[Próximo Capítulo &#62;]

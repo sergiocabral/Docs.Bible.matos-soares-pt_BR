@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v28-17-0]]
+=== Eclesiástico, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 17 de Eclesiástico fala sobre a criação do homem e sua relação com Deus. O autor destaca a importância da obediência aos mandamentos divinos para se alcançar a sabedoria e a felicidade. Além disso, o texto ressalta que Deus é justo e julgará cada pessoa de acordo com suas obras. Seguem abaixo cinco versículos relacionados aos temas abordados em Eclesiástico 17, em ordem de proximidade com o capítulo:
+* Provérbios 19:21: "Muitos são os planos no coração do homem, mas o propósito do Senhor prevalece." Esse versículo destaca a soberania de Deus sobre todas as coisas, incluindo a vida dos seres humanos. Assim, o texto se relaciona com a ideia de que Deus é o criador e mantenedor do universo, como mencionado em Eclesiástico 17.
+* Salmos 139:13-14: "Pois tu formaste o meu interior; tu me teceste no ventre de minha mãe. Graças te dou, visto que por modo assombrosamente maravilhoso me formaste; as tuas obras são admiráveis, e a minha alma o sabe muito bem." Esse salmo fala da criação do ser humano por Deus de maneira admirável e maravilhosa, o que se relaciona com o texto de Eclesiástico 17 ao falar da criação do homem por Deus.
+* Romanos 2:6-7: "Deus retribuirá a cada um conforme o seu procedimento. Aos que, com perseverança em fazer o bem, buscam glória, honra e imortalidade, ele dará a vida eterna." Esse versículo destaca a justiça de Deus em retribuir a cada pessoa de acordo com suas obras, o que se relaciona com a ideia de que Deus julgará cada pessoa conforme suas ações, como mencionado em Eclesiástico 17.
+* Tiago 1:5: "E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e nada lhes impropera; e ser-lhe-á concedida." Esse versículo fala da importância da sabedoria, que é um tema recorrente em Eclesiástico. O autor destaca que a sabedoria pode ser obtida através da oração a Deus, que a concede a todos aqueles que a pedem com sinceridade.
+* Colossenses 3:23-24: "E tudo o que fizerdes, fazei-o de todo o coração, como para o Senhor e não para homens, sabendo que do Senhor recebereis como recompensa a herança. É a Cristo, o Senhor, que estais servindo." Esse versículo destaca a importância de fazer todas as coisas com sinceridade e devoção, como se fosse para Deus. Isso se relaciona com o texto de Eclesiástico 17 ao destacar a importância da obediência aos mandamentos divinos para se alcançar a sabedoria e a felicidade.
+****
+
+[[v28-17-1]]
+
+^<<v28-17-1,1>>^ Deus criou o homem da terra, e formou-o à sua imagem.
+
+[[v28-17-2]]
+
+^<<v28-17-2,2>>^ E ele o fez de novo voltar à terra, Revestiu-o de força segundo a sua natureza.
+
+[[v28-17-3]]
+
+^<<v28-17-3,3>>^ Assinalou-lhe determinado tempo e número de dias, e deu-lhe poder sobre tudo o que há na terra.
+
+[[v28-17-4]]
+
+^<<v28-17-4,4>>^ Ele o fez ser temido de toda a carne, e deu-lhe o império sobre os animais e sobre as aves. Deu-lhe uma auxiliar semelhante a ele, da sua própria substância.
+
+[[v28-17-5]]
+
+^<<v28-17-5,5>>^ Dotou-os de discernimento, língua, olhos, ouvidos, coração para pensar, e encheu-os de saber e inteligência.
+
+[[v28-17-6]]
+
+^<<v28-17-6,6>>^ Criou neles a ciência do espírito, encheu de sabedoria o seu coração, e mostrou-lhes os males e os bens.
+
+[[v28-17-7]]
+
+^<<v28-17-7,7>>^ Pôs o seu olhar sobre os seus corações, para lhes fazer ver as maravilhas das suas obras,
+
+[[v28-17-8]]
+
+^<<v28-17-8,8>>^ a fim de que louvassem a santidade do seu nome, glorificando-o pelas suas maravilhas e publicando a magnificência das suas obras.
+
+[[v28-17-9]]
+
+^<<v28-17-9,9>>^ Deu-lhes, além disso, a instrução, e entregou-lhes em herança a lei da vida.
+
+[[v28-17-10]]
+
+^<<v28-17-10,10>>^ Fez com eles uma aliança eterna. e mostrou-lhes a sua justiça e os seus juízos.
+
+[[v28-17-11]]
+
+^<<v28-17-11,11>>^ Com os seus próprios olhos viram as grandezas da sua glória, e os seus ouvidos ouviram a majestade da sua voz. Ele disse-lhes: Guardai-vos de toda a iniquidade.
+
+[[v28-17-12]]
+
+^<<v28-17-12,12>>^ Impôs a cada um deveres para com o próximo.
+
+[[v28-17-13]]
+
+^<<v28-17-13,13>>^ O proceder deles está-lhe sempre presente, não escapa aos seus olhos.
+
+[[v28-17-14]]
+
+^<<v28-17-14,14>>^ A cada nação constituiu quem a governasse,
+
+[[v28-17-15]]
+
+^<<v28-17-15,15>>^ mas Israel foi visivelmente a porção (privilegiada) de Deus.
+
+[[v28-17-16]]
+
+^<<v28-17-16,16>>^ Todas as suas obras estão diante de Deus como o Sol, e os seus olhos estão sempre fixos no seu proceder.
+
+[[v28-17-17]]
+
+^<<v28-17-17,17>>^ As leis divinas não foram obscurecidas pela maldade deles, e todas as suas iniquidades estão diante do Senhor.
+
+[[v28-17-18]]
+
+^<<v28-17-18,18>>^ A esmola do homem é para Deus como um selo, e ele conserva a beneficência do homem como a menina dos olhos.
+
+[[v28-17-19]]
+
+^<<v28-17-19,19>>^ Levantar-se-á depois (para juízo). dará a cada um o que for devido. e fá-los-á voltar às profundezas da terra.
+
+[[v28-17-20]]
+
+^<<v28-17-20,20>>^ Aos penitentes, porém, abre o caminho da justiça; conforta os desfalecidos. e destina-lhes a verdade por herança.
+
+[[v28-17-21]]
+
+^<<v28-17-21,21>>^ Converte-te ao Senhor, deixa os teus pecados;
+
+[[v28-17-22]]
+
+^<<v28-17-22,22>>^ suplica ante a sua face e diminui as tuas ofensas.
+
+[[v28-17-23]]
+
+^<<v28-17-23,23>>^ Volta para o Senhor, afasta-te da tua injustiça, e tem grande horror àquilo que é abominável:
+
+[[v28-17-24]]
+
+^<<v28-17-24,24>>^ reconhece a justiça dos juízos de Deus. e persevera no estado em que te colocou e na invocação do Deus Altíssimo.
+
+[[v28-17-25]]
+
+^<<v28-17-25,25>>^ Acompanha com o povo santo, com aqueles que vivem e que dão glória a Deus.
+
+[[v28-17-26]]
+
+^<<v28-17-26,26>>^ Não te demores no erro dos ímpios, louva (a Deus) antes da morte. O louvor do morto terminou, porque ele é como se não existisse. (ver nota)
+
+[[v28-17-27]]
+
+^<<v28-17-27,27>>^ Louva-o enquanto vives, louva-o enquanto tens vida e saúde, louva a Deus e glorifica-te nas suas misericórdias.
+
+[[v28-17-28]]
+
+^<<v28-17-28,28>>^ Quão grande é a misericórdia do Senhor, e a sua compaixão para com todos os que se convertem a ele!
+
+[[v28-17-29]]
+
+^<<v28-17-29,29>>^ Com efeito, nem tudo se pode encontrar nos homens, visto que os filhos dos homens não são imortais, e se comprazem na frivolidade da malícia. (ver nota)
+
+[[v28-17-30]]
+
+^<<v28-17-30,30>>^ Que coisa há mais luminosa do que o Sol? E contudo ele eclipsa-se. Que coisa há pior do que os pensamentos da carne e do sangue? Ora isto será punido.
+
+[[v28-17-31]]
+
+^<<v28-17-31,31>>^ O Sol contempla o exército (dos astros) das alturas do céu, mas todos os homens não são mais do que terra e cinza.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-016.adoc#v28-16-0[&#60; Capítulo Anterior] | <<v28-17-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-018.adoc#v28-18-0[Próximo Capítulo &#62;]

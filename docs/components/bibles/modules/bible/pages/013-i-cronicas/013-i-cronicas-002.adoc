@@ -1,0 +1,239 @@
+include::./index.adoc[]
+
+[[v13-2-0]]
+=== I Crônicas, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 2 começa com a genealogia dos filhos de Israel, começando com Judá e seus descendentes, incluindo a linhagem do rei Davi. O capítulo também menciona outras tribos de Israel e suas genealogias. Alguns dos temas abordados em 1 Crônicas 2 incluem descendência, casamentos, filhos e netos. Seguem abaixo cinco versículos relacionados a esses temas:
+* Gênesis 38:6: "E tomou Judá uma mulher para Er, o seu primogênito, e o nome dela era Tamar." Esse versículo fala do casamento de Er, filho de Judá, com Tamar, o que se relaciona com a menção aos filhos de Judá em 1 Crônicas 2.
+* Rute 4:22: "O qual teve a Salomão; este é o pai de Jessé, pai de Davi." Esse versículo se relaciona com a menção à descendência de Judá, que culmina na linhagem do rei Davi, em 1 Crônicas 2.
+* Rute 4:13: "Assim Boaz tomou a Rute, e ela foi sua mulher; e ele a possuiu, e o Senhor lhe concedeu que concebesse, e deu à luz um filho." Esse versículo fala do casamento de Boaz e Rute, que faz parte da linhagem do rei Davi mencionada em 1 Crônicas 2.
+* 1 Samuel 14:49: "E as mulheres de Saul foram Armoni e Mefibosete, e o nome da sua irmã era Mical; e o nome da mulher de Is-Bosete era Ainoã, filha de Aimaás." Esse versículo menciona as esposas e filhos de Saul, que é mencionado como descendente de Judá em 1 Crônicas 2.
+* Números 26:55: "Mas a terra será repartida por sortes; conforme os nomes das tribos de seus pais, herdarão a sua possessão." Esse versículo fala da divisão da terra de Canaã entre as tribos de Israel, o que se relaciona com a menção às outras tribos além de Judá em 1 Crônicas 2.
+****
+
+[[v13-2-1]]
+
+^<<v13-2-1,1>>^ Os filhos de Israel foram: Ruben, Simeão, Levi, Judá, Issacar, Zabulon,
+
+[[v13-2-2]]
+
+^<<v13-2-2,2>>^ Dan, José, Benjamin, Neftali, Gad e Aser.
+
+[[v13-2-3]]
+
+^<<v13-2-3,3>>^ Filhos de Judá: Her, Onan e Sela; estes três nasceram da filha de Sué, a Cananeia. Her, primogênito de Judá, foi mau diante do Senhor, e o Senhor fê-lo morrer.
+
+[[v13-2-4]]
+
+^<<v13-2-4,4>>^ Tamar, nora de Judá, deu-lhe à luz Farés e Zara. Todos os filhos de Judá foram pois cinco.
+
+[[v13-2-5]]
+
+^<<v13-2-5,5>>^ Filhos de Farés: Hesron e Hamul.
+
+[[v13-2-6]]
+
+^<<v13-2-6,6>>^ Filhos de Zara: Zamri, Etan, Eman, Calcai e Dara, cinco a o todo.
+
+[[v13-2-7]]
+
+^<<v13-2-7,7>>^ Filhos de Carmi: Acar, que turbou Israel e pecou num furto de coisa votada anátema.
+
+[[v13-2-8]]
+
+^<<v13-2-8,8>>^ Filho de Etan: Azarias.
+
+[[v13-2-9]]
+
+^<<v13-2-9,9>>^ Os filhos que nasceram de Hesron (foram): Jerameel, Ram e Calubi.
+
+[[v13-2-10]]
+
+^<<v13-2-10,10>>^ Ram gerou Aminadab, Aminadab gerou Naasson príncipe dos filhos de Judá;
+
+[[v13-2-11]]
+
+^<<v13-2-11,11>>^ Naasson gerou Salma, do qual procedeu Booz;
+
+[[v13-2-12]]
+
+^<<v13-2-12,12>>^ Booz gerou Obed, o qual gerou Isaí;
+
+[[v13-2-13]]
+
+^<<v13-2-13,13>>^ Isaí teve por primogênito a Ellab, sendo seu segundo (filho) Abinadab, terceiro Simaa,
+
+[[v13-2-14]]
+
+^<<v13-2-14,14>>^ quarto Natanael, quinto Radal,
+
+[[v13-2-15]]
+
+^<<v13-2-15,15>>^ sexto Asom, sétimo Davide.
+
+[[v13-2-16]]
+
+^<<v13-2-16,16>>^ Foram irmãs destes Sarvla e Abigall. Os filhos de Sarvia (foram) três; Abisai, Joab e Asael.
+
+[[v13-2-17]]
+
+^<<v13-2-17,17>>^ Abigall gerou Amasa, cujo pai foi Jeter Ismaelita.
+
+[[v13-2-18]]
+
+^<<v13-2-18,18>>^ Caleb, filho de Hesron, teve filhos de sua mulher Azuba, assim como de Jeriot. Os filhos de Azuba foram: Jaser, Sobab e Ardon.
+
+[[v13-2-19]]
+
+^<<v13-2-19,19>>^ Tendo morrido Azuba, Caleb tomou por mulher Efrata, da qual teve Hur.
+
+[[v13-2-20]]
+
+^<<v13-2-20,20>>^ Hur gerou Uri; Uri gerou Bezeleel.
+
+[[v13-2-21]]
+
+^<<v13-2-21,21>>^ Depois Hesron tomou por mulher a filha de Maquir pai de Galaad; recebeu-a, tendo sessenta anos, e teve dela Segub.
+
+[[v13-2-22]]
+
+^<<v13-2-22,22>>^ Segub também gerou Jair, o qual foi senhor de vinte e três cidades na terra Galaad.
+
+[[v13-2-23]]
+
+^<<v13-2-23,23>>^ Gessur e Arão tomaram as cidades de Jair, assim como Canat, com as suas aldeias, sessenta cidades. Todos estes eram filhos de Maquir, pai de Galaad.
+
+[[v13-2-24]]
+
+^<<v13-2-24,24>>^ Depois da morte de Hesron, em Caleb-Efrata, Abia, mulher de Hesron, deu-lhe à luz Azur, pai de Técua.
+
+[[v13-2-25]]
+
+^<<v13-2-25,25>>^ A Jerameel, primogênito de Hesron, nasceram os filhos: Ram, primogênito, Buna, Arão, Ason e Aquia.
+
+[[v13-2-26]]
+
+^<<v13-2-26,26>>^ Jerameel também casou com outra mulher chamada Atara, que foi mãe de Onam.
+
+[[v13-2-27]]
+
+^<<v13-2-27,27>>^ Bam, primogênito de Jerameel, teve por filhos a Moos, a Jamim e a Acar.
+
+[[v13-2-28]]
+
+^<<v13-2-28,28>>^ Onam teve por filhos a Semei e a Jada. Os filhos de Semei foram: Nadab e Abisur.
+
+[[v13-2-29]]
+
+^<<v13-2-29,29>>^ A mulher de Abisur chamava-se Abiail, a qual lhe deu à luz Aoban e Molid.
+
+[[v13-2-30]]
+
+^<<v13-2-30,30>>^ Os filhos de Nadab foram Saled e Afaim. Saled morreu sem filhos.
+
+[[v13-2-31]]
+
+^<<v13-2-31,31>>^ Afaim teve um filho chamado Jesi, o qual Jesi gerou Sesan. Sesan gerou Oolai.
+
+[[v13-2-32]]
+
+^<<v13-2-32,32>>^ Os filhos de Jada, irmão de Semei, foram: Jeter e Jonatan. Jeter morreu sem filhos.
+
+[[v13-2-33]]
+
+^<<v13-2-33,33>>^ Jonatan gerou Falet e Ziza. Estes foram os filhos de Jerameel.
+
+[[v13-2-34]]
+
+^<<v13-2-34,34>>^ Sesan não teve filhos, mas sòmente filhas; (tomou) um escravo egípcio, chamado Jeraa,
+
+[[v13-2-35]]
+
+^<<v13-2-35,35>>^ a quem deu por mulher uma sua filha, a qual lhe deu à luz Etei.
+
+[[v13-2-36]]
+
+^<<v13-2-36,36>>^ Etei gerou Natan, e Natan gerou Zabad;
+
+[[v13-2-37]]
+
+^<<v13-2-37,37>>^ Zabad gerou Oflal, e Oflal gerou Obed;
+
+[[v13-2-38]]
+
+^<<v13-2-38,38>>^ Obed gerou Jeú; Jeú gerou Azarias;
+
+[[v13-2-39]]
+
+^<<v13-2-39,39>>^ Azarias gerou Heles; Heles gerou Elasa:
+
+[[v13-2-40]]
+
+^<<v13-2-40,40>>^ Elasa gerou Sisamoi; Sisamoi gerou Selum;
+
+[[v13-2-41]]
+
+^<<v13-2-41,41>>^ Selum gerou Icamia, e Icamia gerou Elisama.
+
+[[v13-2-42]]
+
+^<<v13-2-42,42>>^ Os filhos de Caleb, irmão de Jerameel, foram Mesa, seu primogênito, que foi pai de Zif, e os descendentes de Maresa, pai de Hebron.
+
+[[v13-2-43]]
+
+^<<v13-2-43,43>>^ Filhos de Hebron: Coré, Tafua, Recem e Sama.
+
+[[v13-2-44]]
+
+^<<v13-2-44,44>>^ Sarna gerou Raão, pai de Jercaão; Recera gerou Samai;
+
+[[v13-2-45]]
+
+^<<v13-2-45,45>>^ Samai teve um filho, chamado Maou; Maon foi pai de Betsur.
+
+[[v13-2-46]]
+
+^<<v13-2-46,46>>^ Efa, mulher de segunda ordem de Caleb, deu à luz Haran, Mosa e Gezez. Haran gerou Gezez.
+
+[[v13-2-47]]
+
+^<<v13-2-47,47>>^ Filhos de Joadai: Regom, Joatan, Gesan, Falet, Efa e Saaf.
+
+[[v13-2-48]]
+
+^<<v13-2-48,48>>^ Maaca, mulher de segunda ordem de Caleb, deu à luz Saber e Tarana.
+
+[[v13-2-49]]
+
+^<<v13-2-49,49>>^ Ela deu também à luz Saaf, pai de Madmena, e Sue, pai de Maquebena e pai de Gabaa. Acsa foi filha de Caleb.
+
+[[v13-2-50]]
+
+^<<v13-2-50,50>>^ Filhos de Caleb, filho de Hur, primogênito de Efrata, foram estes: Sobal, pai de Cariatiarim,
+
+[[v13-2-51]]
+
+^<<v13-2-51,51>>^ Salma. pai de Belém, Harif, pai de Betgader.
+
+[[v13-2-52]]
+
+^<<v13-2-52,52>>^ Sobal, pai de Cariatiarim, teve por filhos Haroé, Hatsi-Hamme-nuhoth.
+
+[[v13-2-53]]
+
+^<<v13-2-53,53>>^ As famílias que eles fundaram em Cariatiarim foram: os Jetreus, os Afuteus, os Semateus e os Masereus. Destes procederam os Saraítas e os Estaolitas.
+
+[[v13-2-54]]
+
+^<<v13-2-54,54>>^ Filhos de Salma: Belém e os Netofatlanos, Ataroth-Beth-Joab, metade dos Manaquitianos, os Saraítas, (foi) dos descendentes de Sarai.
+
+[[v13-2-55]]
+
+^<<v13-2-55,55>>^ e também as famílias dos escribas, que habitavam em Jabes: Os Tiriatianos, os Squimatianos e os Sucatianos. Estes são os Cinens, que descendem de Hamath, pai da casa de Recab.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-001.adoc#v13-1-0[&#60; Capítulo Anterior] | <<v13-2-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-003.adoc#v13-3-0[Próximo Capítulo &#62;]

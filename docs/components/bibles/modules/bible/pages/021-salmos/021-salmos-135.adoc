@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v21-135-0]]
+=== Salmos, 135
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 135 é um hino de louvor a Deus e um chamado ao povo para adorá-lo e reconhecer sua grandeza e poder. Nele, o salmista exalta o Senhor por suas obras maravilhosas, desde a criação do mundo até sua libertação do Egito e a conquista da terra prometida. Além disso, ele denuncia a futilidade dos ídolos e a tolice daqueles que os adoram em vez de adorar o Deus verdadeiro. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 135:
+* Isaías 45:18: "Porque assim diz o Senhor, que criou os céus, o Deus que formou a terra, e a fez; ele a estabeleceu, não a criou vazia, mas a formou para que fosse habitada: Eu sou o Senhor e não há outro." Este versículo fala da criação do mundo por Deus, um dos temas do Salmo 135.
+* Isaías 44:9: "Todos os artífices de imagens de escultura são vaidade, e as suas coisas mais desejáveis são de nenhum préstimo; e suas próprias testemunhas nada vêem, nem entendem para que sejam envergonhados." Este versículo aborda a tolice daqueles que adoram ídolos, um tema importante do Salmo 135.
+* Josué 24:5: "E enviei Moisés e Arão, e feri o Egito, conforme o que fiz no meio dele; e depois vos tirei dali." Este versículo faz referência à libertação do povo de Israel do Egito, um dos atos poderosos de Deus mencionados no Salmo 135.
+* Salmo 115:4-8: "Os ídolos deles são prata e ouro, obra das mãos do homem. Têm boca, mas não falam; olhos têm, mas não vêem. Têm ouvidos, mas não ouvem; narizes têm, mas não cheiram. Têm mãos, mas não apalpam; pés têm, mas não andam; nem som algum sai da sua garganta." Estes versículos também abordam a futilidade dos ídolos e a tolice de adorá-los em vez de adorar o Deus verdadeiro.
+* Salmos 147:4-5: "Conta o número das estrelas, chama-as a todas pelos seus nomes. Grande é o nosso Senhor, e de grande poder; o seu entendimento é infinito." Este versículo fala da grandeza e poder de Deus, outro tema central do Salmo 135.
+****
+
+[[v21-135-1]]
+
+^<<v21-135-1,1>>^ Aleluia. Louvai ao Senhor, porque é bom, porque a sua misericórdia é eterna.
+
+[[v21-135-2]]
+
+^<<v21-135-2,2>>^ Louvai ao Deus dos deuses, porque a sua misericórdia é eterna.
+
+[[v21-135-3]]
+
+^<<v21-135-3,3>>^ Louvai ao Senhor dos senhores, porque a sua misericórdia é eterna.
+
+[[v21-135-4]]
+
+^<<v21-135-4,4>>^ (Louvai-o a ele) único que faz grandes maravilhas, porque a sua misericórdia é eterna;
+
+[[v21-135-5]]
+
+^<<v21-135-5,5>>^ que fez os céus com sabedoria, porque a sua misericórdia é eterna;
+
+[[v21-135-6]]
+
+^<<v21-135-6,6>>^ que estendeu a terra sobre as águas, porque a sua misericórdia é eterna.
+
+[[v21-135-7]]
+
+^<<v21-135-7,7>>^ (Louvai-o a ele) que fez os grandes luminares, porque a sua misericórdia é eterna;
+
+[[v21-135-8]]
+
+^<<v21-135-8,8>>^ o sol para presidir ao dia, porque a sua misericórdia é eterna;
+
+[[v21-135-9]]
+
+^<<v21-135-9,9>>^ a lua e as estrelas para presidirem à noite, porque a sua misericórdia é eterna.
+
+[[v21-135-10]]
+
+^<<v21-135-10,10>>^ (Louvai-o a ele) que feriu os egípcios nos seus primogênitos, porque a sua misericórdia é eterna;
+
+[[v21-135-11]]
+
+^<<v21-135-11,11>>^ que tirou Israel do meio deles, porque a sua misericórdia é eterna,
+
+[[v21-135-12]]
+
+^<<v21-135-12,12>>^ com mão poderosa e braço levantado, porque a sua misericórdia é eterna;
+
+[[v21-135-13]]
+
+^<<v21-135-13,13>>^ que dividiu em duas partes o Mar Vermelho, porque a sua misericórdia é eterna;
+
+[[v21-135-14]]
+
+^<<v21-135-14,14>>^ que fez passar Israel pelo meio dele, porque a sua misericórdia é eterna;
+
+[[v21-135-15]]
+
+^<<v21-135-15,15>>^ que precipitou Faraó e o seu exércio no Mar Vermelho, porque a sua misericórdia é eterna.
+
+[[v21-135-16]]
+
+^<<v21-135-16,16>>^ (Louvai-o a ele) que conduziu o seu povo pelo deserto, porque a sua misericórdia é eterna;
+
+[[v21-135-17]]
+
+^<<v21-135-17,17>>^ que feriu grandes reis, porque a sua misericórdia é eterna;
+
+[[v21-135-18]]
+
+^<<v21-135-18,18>>^ que matou reis poderosos, porque a sua misericórdia é eterna;
+
+[[v21-135-19]]
+
+^<<v21-135-19,19>>^ Seon, rei dos Amorreus, porque a sua misericórdia é eterna;
+
+[[v21-135-20]]
+
+^<<v21-135-20,20>>^ e Og, rei de Basan, porque a sua misericórdia é eterna;
+
+[[v21-135-21]]
+
+^<<v21-135-21,21>>^ que deu a terra deles em possessão, porque a sua misericórdia é eterna,
+
+[[v21-135-22]]
+
+^<<v21-135-22,22>>^ em possessão a Israel, seu servo, porque a sua misericórdia é eterna.
+
+[[v21-135-23]]
+
+^<<v21-135-23,23>>^ Em nosso abatimento lembrou-se de nós, porque a sua misericórdia é eterna;
+
+[[v21-135-24]]
+
+^<<v21-135-24,24>>^ livrou-nos dos nossos inimigos, porque a sua misericórdia é eterna;
+
+[[v21-135-25]]
+
+^<<v21-135-25,25>>^ (Louvai-o a ele) que dá alimento a toda a carne, porque a sua misericórdia é eterna.
+
+[[v21-135-26]]
+
+^<<v21-135-26,26>>^ Louvai a Deus do céu, porque a sua misericórdia é eterna.
+
+'''
+
+xref:021-salmos/021-salmos-134.adoc#v21-134-0[&#60; Capítulo Anterior] | <<v21-135-0,Topo>> | xref:021-salmos/021-salmos-136.adoc#v21-136-0[Próximo Capítulo &#62;]

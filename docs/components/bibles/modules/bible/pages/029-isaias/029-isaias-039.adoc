@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v29-39-0]]
+=== Isaías, 39
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 39 é um capítulo que narra a visita do rei da Babilônia, Merodaque-Baladã, a Ezequias, que estava doente na época. Ezequias mostra a ele toda a sua riqueza e tesouros, o que desperta a cobiça do rei babilônico. O profeta Isaías, então, adverte Ezequias sobre as consequências de mostrar tanta riqueza para um inimigo em potencial. Abaixo, seguem cinco versículos relacionados com os temas abordados em Isaías 39, em ordem de proximidade com o capítulo.
+* Provérbios 16:18: "A soberba precede a ruína, e a altivez de espírito precede a queda." Este versículo fala sobre os perigos da arrogância, o que é evidente em Isaías 39, onde Ezequias mostra toda a sua riqueza para o rei da Babilônia, possivelmente acreditando que isso aumentaria seu status.
+* 1 Pedro 5:5: "Semelhantemente vós jovens, sede sujeitos aos anciãos; e sede todos sujeitos uns aos outros, e revesti-vos de humildade, porque Deus resiste aos soberbos, mas dá graça aos humildes." Este versículo mostra a importância da humildade e da submissão, o que é evidente em Isaías 39, onde Ezequias pode ter mostrado sua riqueza por orgulho ou vaidade.
+* 1 Timóteo 6:9-10: "Mas os que querem ser ricos caem em tentação, e em laço, e em muitas concupiscências loucas e nocivas, que submergem os homens na perdição e ruína. Porque o amor do dinheiro é a raiz de toda espécie de males; e nessa cobiça alguns se desviaram da fé, e se traspassaram a si mesmos com muitas dores." Este versículo fala sobre a cobiça e o amor pelo dinheiro, o que é evidente em Isaías 39, onde Merodaque-Baladã fica cobiçoso ao ver toda a riqueza de Ezequias.
+* Tiago 4:6: "Mas ele dá maior graça. Portanto diz: Deus resiste aos soberbos, mas dá graça aos humildes." Este versículo mostra que Deus valoriza a humildade e resiste aos orgulhosos, o que é evidente em Isaías 39, onde Ezequias pode ter mostrado sua riqueza por motivos de orgulho.
+* Provérbios 27:24: "Porque as riquezas não duram para sempre, nem uma coroa subsiste por todas as gerações." Este versículo fala sobre a transitoriedade das riquezas terrenas, o que é evidente em Isaías 39, onde Ezequias mostra seus tesouros ao rei da Babilônia, mas esses tesouros eventualmente seriam saqueados pelos babilônios.
+****
+
+[[v29-39-1]]
+
+^<<v29-39-1,1>>^ Naquele tempo Merodach-Baladan, filho de Baladan, rei da Babilônia, enviou carta e presentes a Ezequias, por ter ouvido dizer que estivera doente e que já se encontrava curado.
+
+[[v29-39-2]]
+
+^<<v29-39-2,2>>^ Ezequias alegrou-se com isto, e mostrou aos enviados o seu tesouro, a prata, o ouro, os perfumes, os unguentos preciosos, o seu arsenal e tudo o que se encontrava nos seus tesouros. Não houve nada no seu palácio nem do que estava debaixo do seu poder, que Ezequias lhes não mostrasse.
+
+[[v29-39-3]]
+
+^<<v29-39-3,3>>^ Então o profeta Isaías foi ter com o rei Ezequias e disse-lhe: Que te disseram estes homens? Donde vieram eles para te falar? Ezequias respondeu: Vieram ver-me de um país muito remoto, de Babilônia.
+
+[[v29-39-4]]
+
+^<<v29-39-4,4>>^ Isaías disse: Que viram eles em tua casa? Ezequias respondeu: Viram tudo o que há em minha casa; não houve nos meus tesouros coisa que eu deixasse de lhes mostrar.
+
+[[v29-39-5]]
+
+^<<v29-39-5,5>>^ Isaías disse a Ezequias: Ouve a palavra do Senhor dos exércitos:
+
+[[v29-39-6]]
+
+^<<v29-39-6,6>>^ Eis que virão dias em que todas as coisas, que há na tua casa, e que teus pais entesouraram até ao dia de hoje, serão levadas a Babilônia; não ficará coisa alguma, diz o Senhor.
+
+[[v29-39-7]]
+
+^<<v29-39-7,7>>^ E tomarão dos teus filhos, que saírem de ti, que tiveres gerado, para servirem de eunucos no palácio do rei de Babilônia.
+
+[[v29-39-8]]
+
+^<<v29-39-8,8>>^ Ezequias disse a Isaías: A palavra que o Senhor proferiu é boa. E acrescentou: Haverá, com efeito, paz e segurança ao menos durante a minha vida.
+
+'''
+
+xref:029-isaias/029-isaias-038.adoc#v29-38-0[&#60; Capítulo Anterior] | <<v29-39-0,Topo>> | xref:029-isaias/029-isaias-040.adoc#v29-40-0[Próximo Capítulo &#62;]

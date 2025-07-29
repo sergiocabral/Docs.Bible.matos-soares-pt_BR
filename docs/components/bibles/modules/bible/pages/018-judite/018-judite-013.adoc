@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v18-13-0]]
+=== Judite, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Judite 13 conta a história de como Judite, uma viúva piedosa e corajosa, salvou sua cidade Betúlia da destruição, assassinando o general assírio Holofernes. Os temas abordados nesse capítulo incluem a coragem, a astúcia e a fé de Judite, bem como a vingança de Deus sobre os inimigos do seu povo.
+* Êxodo 15:3: "O Senhor é guerreiro, o seu nome é o Senhor." Esse versículo se relaciona com o tema da coragem de Judite, já que ela enfrentou o general assírio, um homem poderoso e temido, confiando na ajuda divina.
+* Provérbios 21:31: "O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor." Esse versículo destaca que, embora seja importante estar preparado e ter coragem para enfrentar os desafios, a vitória é concedida pelo Senhor. Judite sabia disso e contou com a ajuda divina para derrotar Holofernes.
+* Salmos 44:3: "Com a tua ajuda, derrotamos os nossos adversários; em teu nome pisamos os que se levantam contra nós." Esse versículo se relaciona com o tema da astúcia de Judite, já que ela usou sua beleza e inteligência para enganar Holofernes e cortar-lhe a cabeça.
+* Salmos 37:28: "Pois o Senhor ama a justiça e não abandona os seus fiéis; eles serão preservados para sempre, mas a descendência dos ímpios será eliminada." Esse versículo destaca a vingança de Deus sobre os inimigos do seu povo, tema presente em Judite 13, quando os israelitas matam os assírios que tentavam atacá-los.
+* Romanos 12:19: "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: 'Minha é a vingança; eu retribuirei', diz o Senhor." Esse versículo ensina que a vingança pertence a Deus e não aos homens. Embora Judite tenha agido em defesa do seu povo, ela também confiou na justiça divina para punir os inimigos.
+****
+
+[[v18-13-1]]
+
+^<<v18-13-1,1>>^ Quando se fez tarde, os criados de Holofernes retiraram-se apressados para os seus quartos, Vagao fechou as portas da câmara e foi-se embora.
+
+[[v18-13-2]]
+
+^<<v18-13-2,2>>^ Estavam todos tomados do vinho.
+
+[[v18-13-3]]
+
+^<<v18-13-3,3>>^ Judit ficou só na câmara.
+
+[[v18-13-4]]
+
+^<<v18-13-4,4>>^ Holofernes estava deitado no leito, profundamente adormecido por causa da extraordinária embriaguez.
+
+[[v18-13-5]]
+
+^<<v18-13-5,5>>^ Então Judit disse à sua criada que estivesse de fora, à porta da câmara, e vigiasse.
+
+[[v18-13-6]]
+
+^<<v18-13-6,6>>^ Judit, em pé diante do leito, orando com lágrimas, movendo os lábios em silêncio,
+
+[[v18-13-7]]
+
+^<<v18-13-7,7>>^ disse: Senhor Deus de Israel, da-me força e favorece neste momento a empresa das minhas mãos, a fim de que, como prometeste, levantes a tua cidade de Jerusalém, e eu acabe o que julguei que se podia fazer com o teu auxílio.
+
+[[v18-13-8]]
+
+^<<v18-13-8,8>>^ Dito isto, encostou-se à coluna, que estava à cabeceira do leito de Holofernes, e desprendeu o seu alfange, que eslava pendurado e preso nela.
+
+[[v18-13-9]]
+
+^<<v18-13-9,9>>^ Tendo-o desembainhado, agarrou nos cabelos da cabeça de Holofernes, dizendo: Senhor Deus, dá-me força neste momento.
+
+[[v18-13-10]]
+
+^<<v18-13-10,10>>^ (Então) Descarregou-lhe dois golpes, sobre a nuca, e cortou-lhe a cabeça. Depois desprendeu das colunas o cortinado (para o levar como trofeu), e deitou por terra o seu corpo decapitado.
+
+[[v18-13-11]]
+
+^<<v18-13-11,11>>^ Pouco tempo depois, saiu e entregou à sua escrava a cabeça de Holofernes, mandando que a metesse no seu saco.
+
+[[v18-13-12]]
+
+^<<v18-13-12,12>>^ Em seguida, saíram ambas, conforme o seu costume, como se fossem para a oração; passaram além do campo, e, rodeando o vale, chegaram à porta da cidade.
+
+[[v18-13-13]]
+
+^<<v18-13-13,13>>^ Judit gritou de longe aos guardas dos muros: Abri as portas, porque Deus é connosco; ele fez uma coisa maravilhosa em Israel.
+
+[[v18-13-14]]
+
+^<<v18-13-14,14>>^ Tendo os homens ouvido a sua voz, chamaram os anciãos da cidade.
+
+[[v18-13-15]]
+
+^<<v18-13-15,15>>^ Todos correram a ela, desde o mais pequeno até ao maior, porque já não esperavam que ela voltasse.
+
+[[v18-13-16]]
+
+^<<v18-13-16,16>>^ Acendendo luminárias, juntaram-se todos ao redor dela. Judit, subindo a um lugar mais alto, ordenou que se fizesse silêncio. Quando todos se calaram,
+
+[[v18-13-17]]
+
+^<<v18-13-17,17>>^ Judit disse: Louvai o Senhor nosso Deus, que não desamparou os que esperavam nele;
+
+[[v18-13-18]]
+
+^<<v18-13-18,18>>^ cumpriu por meio de mim, sua serva, a misericórdia que tinha prometido à casa de Israel; matou esta noite pela minha mão o inimigo do seu povo.
+
+[[v18-13-19]]
+
+^<<v18-13-19,19>>^ Tirando, então, do saco a cabeça de Holofernes, mostrou-lha, dizendo: Eis aqui a cabeça de Holofernes, general do exército dos Assírios, eis aqui o seu cortinado, debaixo do qual ele estava deitado na sua embriaguez, onde o Senhor nosso Deus o degolou pela mão duma mulher.
+
+[[v18-13-20]]
+
+^<<v18-13-20,20>>^ Juro-vos, contudo, pelo mesmo Senhor, que o seu anjo me guardou, tanto ao sair desta cidade, como ao demorar-me lá, e como ao voltar para aqui, e o Senhor não permitiu que eu, sua serva, fosse manchada: fez-me voltar para vós sem nenhuma mácula de pecado, cheia de alegria por sua vitória, pela minha salvação e pela vossa libertação.
+
+[[v18-13-21]]
+
+^<<v18-13-21,21>>^ Louvai-o todos, porque é bom, porque a sua misericórdia é eterna.
+
+[[v18-13-22]]
+
+^<<v18-13-22,22>>^ Então todos, adorando o Senhor, disseram-lhe: O Senhor te abençoou com a sua fortaleza, porque ele por ti aniquilou os nossos inimigos.
+
+[[v18-13-23]]
+
+^<<v18-13-23,23>>^ Ozias, príncipe do povo de Israel, disse-lhe: Ó filha, tu és bendita do Senhor Deus Altíssimo, sobre todas as mulheres que há na terra.
+
+[[v18-13-24]]
+
+^<<v18-13-24,24>>^ Bendito seja o Senhor, que criou o céu e a terra, que te dirigiu para cortares a cabeça do nosso maior inimigo,
+
+[[v18-13-25]]
+
+^<<v18-13-25,25>>^ Hoje engrandeceu o teu nome tanto, que nunca o teu louvor se apartará da boca dos que se lembrarem eternamente do poder do Senhor, por amor dos quais tu não poupaste a tua vida, ao ver as angústias e a tribulação do teu povo, mas impediste a sua ruína na presença do nosso Deus.
+
+[[v18-13-26]]
+
+^<<v18-13-26,26>>^ Todo o povo respondeu: Assim seja, assim seja.
+
+[[v18-13-27]]
+
+^<<v18-13-27,27>>^ Aquior sendo chamado, veio, e Judit disse-lhe: O Deus de Israel, de quem tu testemunhaste que tira vingança dos seus inimigos, esse mesmo cortou esta noite pela minha mão a cabeça (do chefe) de todos os infiéis.
+
+[[v18-13-28]]
+
+^<<v18-13-28,28>>^ Para que tu fiques persuadido de que é assim, eis a cabeça de Holofernes, que, na insolência da sua soberba, desprezou o Deus de Israel, e te ameaçou de morte, dizendo: Logo que o povo de Israel for feito cativo, mandarei passar-te ao fio da espada.
+
+[[v18-13-29]]
+
+^<<v18-13-29,29>>^ Aquior, vendo a cabeça de Holofernes, aterrado de pavor, caiu com o rosto por terra, sem sentidos.
+
+[[v18-13-30]]
+
+^<<v18-13-30,30>>^ Depois que, recobrados os sentidos, voltou a si, lançou-se aos seus pés e disse:
+
+[[v18-13-31]]
+
+^<<v18-13-31,31>>^ Tu és bendita do teu Senhor em todas as tendas de Jacob, porque entre todos os povos que ouvirem o teu nome, o Deus de Israel será glorificado em ti.
+
+'''
+
+xref:018-judite/018-judite-012.adoc#v18-12-0[&#60; Capítulo Anterior] | <<v18-13-0,Topo>> | xref:018-judite/018-judite-014.adoc#v18-14-0[Próximo Capítulo &#62;]

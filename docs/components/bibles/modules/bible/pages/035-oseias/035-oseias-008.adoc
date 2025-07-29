@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v35-8-0]]
+=== Oséias, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Oséias 8 descreve como o povo de Israel se rebelou contra Deus, rejeitando as leis e os estatutos divinos em favor de líderes humanos e deuses falsos. A seguir estão cinco versículos de outras partes da Bíblia que se relacionam com os temas abordados em Oséias 8.
+* Deuteronômio 8:19-20: "Se vocês se desviarem, adorando e seguindo outros deuses, eu os declaro hoje que certamente serão destruídos... Vocês serão eliminados como as nações que o Senhor destruiu diante de vocês, por não terem obedecido ao Senhor, o seu Deus." Este trecho destaca a importância de seguir fielmente a Deus e de não se desviar para adorar outros deuses, ou sofrer consequências graves.
+* Êxodo 20:3: "Não terás outros deuses diante de mim." Este mandamento enfatiza a exclusividade da adoração a Deus, e como é errado colocar outras entidades no mesmo nível que o Criador.
+* Jeremias 2:13: "O meu povo cometeu dois pecados: eles me abandonaram, a mim, a fonte de água viva, e cavaram as suas próprias cisternas, cisternas rachadas que não retêm água." Este versículo ilustra como é tolo e inútil buscar fontes de água insatisfatórias e negligenciar a fonte de vida verdadeira em Deus.
+* 2 Reis 17:15: "Eles rejeitaram os seus estatutos e o pacto que tinha feito com seus antepassados, e as advertências que ele tinha dado. Seguiram ídolos falsos e se tornaram falsos em si mesmos, seguindo as nações vizinhas que o Senhor tinha expulsado de diante deles." Este trecho descreve como o povo de Israel se afastou do caminho de Deus e se tornou como as nações pagãs que os cercavam.
+* Jeremias 7:4: "Não confiem em palavras enganosas, dizendo: ‘Este é o templo do Senhor, o templo do Senhor, o templo do Senhor!’" Este versículo destaca a importância de não confiar apenas em lugares de culto ou rituais religiosos externos, mas sim em um relacionamento pessoal com Deus.
+****
+
+[[v35-8-1]]
+
+^<<v35-8-1,1>>^ Emboca a trombeta! (Anuncia que o inimigo) como uma águia, se precipita sobre a casa do Senhor, porque transgrediram a minha aliança e violaram a minha lei.
+
+[[v35-8-2]]
+
+^<<v35-8-2,2>>^ Clamam a mim, dizendo; Meu Deus, nós, o povo de Israel, te conhecemos.
+
+[[v35-8-3]]
+
+^<<v35-8-3,3>>^ Israel rejeitou o bem; o inimigo o persegue.
+
+[[v35-8-4]]
+
+^<<v35-8-4,4>>^ Estabeleceram reis, mas não da minha parte, estabeleceram chefes, mas eu não os conheço; fabricaram para si ídolos da sua prata e do seu ouro, para sua perdição.
+
+[[v35-8-5]]
+
+^<<v35-8-5,5>>^ O teu bezerro (que adoravas), ó Samaria, é repelido por mim. O meu furor acendeu-se contra eles. Até quando se não poderão eles purificar (da sua idolatria)?
+
+[[v35-8-6]]
+
+^<<v35-8-6,6>>^ Porque de Israel é que veio este novilho; um artífice o fabricou, ele não é Deus; o bezerro de Samaria será despedaçado!
+
+[[v35-8-7]]
+
+^<<v35-8-7,7>>^ Visto que semearam ventos, colherão tempestades; não há ali uma espiga, o seu grão não dará farinha; se desse alguma, come-la-iam os estrangeiros. (ver nota)
+
+[[v35-8-8]]
+
+^<<v35-8-8,8>>^ Israel está devorado; é tratado entre as nações como coisa que não presta.
+
+[[v35-8-9]]
+
+^<<v35-8-9,9>>^ Porque recorreram a Assur, que é como um asno silvestre, que anda só. Efraim deu presentes aos seus amantes (os Assírios).
+
+[[v35-8-10]]
+
+^<<v35-8-10,10>>^ Mas, ainda que ofereçam presentes às nações, eu os juntarei na (Assíria), e eles (estando cativos) serão ainda algum tempo sujeitos ao fardo do rei e dos príncipes.
+
+[[v35-8-11]]
+
+^<<v35-8-11,11>>^ Efraim multiplicou os altares de pecado; esses altares só lhe serviram para pecar.
+
+[[v35-8-12]]
+
+^<<v35-8-12,12>>^ Escrevi para ele as palavras da minha lei, mas ele considera-a como lei alheia.
+
+[[v35-8-13]]
+
+^<<v35-8-13,13>>^ Oferecem vítimas e comem-lhes a carne, mas o Senhor mão as aceita. Agora lembrar-se-á da sua iniquidade, castigará os seus pecados. Hão-de voltar para o Egipto.
+
+[[v35-8-14]]
+
+^<<v35-8-14,14>>^ Israel esqueceu-se do seu Criador e edificou palácios; Judá multiplicou as suas cidades fortificadas; mas enviarei fogo sobre as suas cidades, e ele devorará (todos) os seus edifícios.
+
+'''
+
+xref:035-oseias/035-oseias-007.adoc#v35-7-0[&#60; Capítulo Anterior] | <<v35-8-0,Topo>> | xref:035-oseias/035-oseias-009.adoc#v35-9-0[Próximo Capítulo &#62;]

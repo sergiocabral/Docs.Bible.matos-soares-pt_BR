@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v21-18-0]]
+=== Salmos, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 18 é uma poesia atribuída ao rei Davi, que expressa sua gratidão a Deus por ter o livrado de seus inimigos e da morte. Os temas principais abordados no capítulo são a proteção divina, o livramento da morte e dos inimigos, a justiça de Deus e a importância de se buscar a Deus em meio às dificuldades.
+* Isaías 25:1: "Ó Senhor, tu és o meu Deus; exaltar-te-ei e louvarei o teu nome, porque fizeste coisas maravilhosas; os teus conselhos antigos são verdade e firmeza." O versículo exalta a Deus pela sua sabedoria e fidelidade em cumprir suas promessas, que incluem a proteção e o livramento do seu povo.
+* Salmos 34:17: "Os justos clamam, e o Senhor os ouve, e os livra de todas as suas angústias." Este versículo destaca a proteção e o livramento que Deus oferece aos seus servos justos, que confiam nele e o buscam em meio às dificuldades.
+* Salmos 37:39-40: "Mas a salvação dos justos vem do Senhor; ele é a sua fortaleza no tempo da angústia. O Senhor os ajuda e os livra; ele os livra dos ímpios e os salva, porque nele se refugiam." O salmista enfatiza que a proteção e o livramento vêm somente de Deus, que é a fortaleza e o refúgio dos justos em meio às aflições.
+* Salmos 91:14-16: "Porque ele me amou, eu o livrarei; pô-lo-ei num alto retiro, porque conheceu o meu nome. Ele me invocará, e eu lhe responderei; estarei com ele na angústia; dela o retirarei, e o glorificarei. Fartá-lo-ei com longura de dias, e lhe mostrarei a minha salvação." Este versículo destaca a proteção divina para aqueles que amam e buscam a Deus, garantindo livramento e bênçãos em meio às dificuldades.
+* Salmos 118:5-7: "Do meio da angústia invoquei o Senhor; o Senhor me ouviu e me pôs em um lugar largo. O Senhor é por mim; não temerei o que me possa fazer o homem. O Senhor é por mim entre os que me ajudam; pelo que verei cumprido o meu desejo sobre os que me odeiam." Este versículo ressalta a importância de buscar a Deus em meio à angústia, confiando na sua proteção e livramento, mesmo diante da oposição dos inimigos.
+****
+
+[[v21-18-1]]
+
+^<<v21-18-1,1>>^ Ao mestre do coro. Salmo. De Davide.
+
+[[v21-18-2]]
+
+^<<v21-18-2,2>>^ Os céus publicam a glória de Deus, e o firmamento anuncia a obra das suas mãos.
+
+[[v21-18-3]]
+
+^<<v21-18-3,3>>^ Um dia transmite esta mensagem ao outro dia, e uma noite comunica-a a outra noite. (ver nota)
+
+[[v21-18-4]]
+
+^<<v21-18-4,4>>^ Não é uma palavra, não é uma linguagem, cuja voz não possa perceber-se:
+
+[[v21-18-5]]
+
+^<<v21-18-5,5>>^ O seu som estende-se por toda a terra, e as suas palavras até às extremidades do mundo. Ali pôs uma tenda para o sol
+
+[[v21-18-6]]
+
+^<<v21-18-6,6>>^ que sai como um esposo do seu tálamo, dá saltos como gigante a percorrer o seu caminho.
+
+[[v21-18-7]]
+
+^<<v21-18-7,7>>^ A sua saída é desde uma extremidade do céu, e o seu giro (vai) até à outra extremidade, e nada se pode subtrair do seu calor.
+
+[[v21-18-8]]
+
+^<<v21-18-8,8>>^ A lei do Senhor é perfeita, restaura a alma; a prescrição do Senhor é firme, instrui o rude;
+
+[[v21-18-9]]
+
+^<<v21-18-9,9>>^ Os preceitos do Senhor são rectos, deleitam o coração; o preceito do Senhor é límpido, esclarece os olhos;
+
+[[v21-18-10]]
+
+^<<v21-18-10,10>>^ O temor do Senhor é puro, permanece eternamente. os juízos do Senhor são verdadeiros, são todos justos,
+
+[[v21-18-11]]
+
+^<<v21-18-11,11>>^ são mais para desejar do que o ouro, do que muito ouro refinado, são mais doces do que o mel e o néctar do favo.
+
+[[v21-18-12]]
+
+^<<v21-18-12,12>>^ Por mais que o teu servo ponha neles a sua atenção e seja muito solícito em os guardar,
+
+[[v21-18-13]]
+
+^<<v21-18-13,13>>^ quem é que adverte, não obstante, os seus deslizes? Purifica-me dos que me são ocultos.
+
+[[v21-18-14]]
+
+^<<v21-18-14,14>>^ Preserva também o teu servo do orgulho, para que não tenha domínio sobre mim. Então serei íntegro e limpo de grave delito.
+
+[[v21-18-15]]
+
+^<<v21-18-15,15>>^ Sejam aceites as palavras da minha boca e a meditação do meu coração, diante de ti, ó Senhor, minha Rocha e meu Redentor.
+
+'''
+
+xref:021-salmos/021-salmos-017.adoc#v21-17-0[&#60; Capítulo Anterior] | <<v21-18-0,Topo>> | xref:021-salmos/021-salmos-019.adoc#v21-19-0[Próximo Capítulo &#62;]

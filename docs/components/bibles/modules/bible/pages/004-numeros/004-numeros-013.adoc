@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v4-13-0]]
+=== Números, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 13 de Números narra o envio dos doze espias à terra de Canaã, a fim de explorá-la antes da invasão. Os versículos selecionados abaixo estão relacionados com temas como fé, coragem, desobediência, confiança em Deus e suas promessas.
+* Deuteronômio 1:21: "Veja, o Senhor, o seu Deus, lhe entregou a terra. Suba e tome posse dela, como o Senhor, o Deus dos seus antepassados, lhe prometeu. Não tenha medo; não desanime". Neste versículo, Moisés encoraja o povo de Israel a confiar nas promessas de Deus e a ter coragem para tomar posse da terra que lhes foi prometida.
+* Deuteronômio 1:26: "Mas vocês se recusaram a subir; vocês se rebelaram contra a ordem do Senhor, o seu Deus". Este versículo mostra a desobediência do povo de Israel, que se recusou a confiar em Deus e a tomar posse da terra de Canaã.
+* Josué 1:9: "Não fui eu que lhe ordenei? Seja forte e corajoso! Não se apavore, nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar". Este versículo foi dito por Deus a Josué, que sucedeu Moisés como líder de Israel. Deus encoraja Josué a ser corajoso e a confiar em suas promessas, assim como Moisés havia encorajado o povo de Israel.
+* Josué 2:24: "Reconhecemos que o Senhor entregou toda esta terra nas nossas mãos e que o seu terror caiu sobre nós, e por isso todos os habitantes da terra estão desanimados diante de vocês". Este versículo mostra que, apesar dos obstáculos, a fé e a coragem do povo de Israel foram recompensadas por Deus, que entregou a terra de Canaã em suas mãos.
+* Josué 14:12: "Agora, dê-me esta região montanhosa que o Senhor me prometeu naquele dia. Você ouviu naquele dia que os anaquins lá estão e que as cidades são grandes e fortificadas, mas, com o Senhor ao meu lado, eu as expulsarei, como ele prometeu". Neste versículo, Calebe, um dos espias que confiaram em Deus e encorajaram o povo de Israel a invadir Canaã, lembra a Josué da promessa de Deus e reafirma sua fé na ajuda divina para conquistar a terra.
+****
+
+[[v4-13-1]]
+
+^<<v4-13-1,1>>^ Depois disto-o povo partiu de Haseroth, e levantou as tendas no deserto de Faran.
+
+[[v4-13-2]]
+
+^<<v4-13-2,2>>^ Neste lugar o Senhor falou a Moisés, dizendo:
+
+[[v4-13-3]]
+
+^<<v4-13-3,3>>^ Envia homens, um dos principais por cada tribo, que reconheçam a terra de Canaan, que eu hei-de dar aos filhos de Israel,
+
+[[v4-13-4]]
+
+^<<v4-13-4,4>>^ Moisés fez o que o Senhor mandara, enviando do deserto de Faran homens de entre os principais, cujos nomes são estes;
+
+[[v4-13-5]]
+
+^<<v4-13-5,5>>^ Da tribo de Ruben, Samua, filho de Zecur.
+
+[[v4-13-6]]
+
+^<<v4-13-6,6>>^ Da tribo de Simeão, Safath, filho de Huri.
+
+[[v4-13-7]]
+
+^<<v4-13-7,7>>^ Da tribo de Judá, Caleb, filho de Jefone.
+
+[[v4-13-8]]
+
+^<<v4-13-8,8>>^ Da tribo de Issacar, Igal, filho de José.
+
+[[v4-13-9]]
+
+^<<v4-13-9,9>>^ Da tribo de Efraim, Oséias filho de Nun.
+
+[[v4-13-10]]
+
+^<<v4-13-10,10>>^ Da tribo de Benjamim, Falti filho de Rafu.
+
+[[v4-13-11]]
+
+^<<v4-13-11,11>>^ Da tribo de Zabulon, Gediel, filho de Sodi.
+
+[[v4-13-12]]
+
+^<<v4-13-12,12>>^ Da tribo de Manassés, Gadi, filho de Susi.
+
+[[v4-13-13]]
+
+^<<v4-13-13,13>>^ Da tribo de Dan, Amiel, filho de Gemali.
+
+[[v4-13-14]]
+
+^<<v4-13-14,14>>^ Da tribo de Aser, Stur, filho de Miguel.
+
+[[v4-13-15]]
+
+^<<v4-13-15,15>>^ Da tribo de Neftali, Naabi, filho de Vapsi.
+
+[[v4-13-16]]
+
+^<<v4-13-16,16>>^ Da tribo de Gad, Guel, filho de Mafri.
+
+[[v4-13-17]]
+
+^<<v4-13-17,17>>^ Estes são os nomes dos homens que Moisés enviou a reconhecer a terra. A Oséias filho de Nun, pôs-lhe o nome de Josué.
+
+[[v4-13-18]]
+
+^<<v4-13-18,18>>^ Moisés, pois, enviou-os a reconhecer a terra de Canaan, e disse-lhes: Subi pela parte do meio-dia e, quando tiverdes chegado aos montes,
+
+[[v4-13-19]]
+
+^<<v4-13-19,19>>^ considerai que terra é essa, e o povo que a habita, se é valente ou fraco, se é em pequeno ou grande número;
+
+[[v4-13-20]]
+
+^<<v4-13-20,20>>^ reparai se a mesma terra é boa ou má; como são as cidades, se muradas ou sem muros;
+
+[[v4-13-21]]
+
+^<<v4-13-21,21>>^ Se o terreno é fértil ou estéril, com arvoredos ou sem árvores. Tende coragem, e trazei-nos dos frutos da terra. Era então o tempo em que as uvas temporãs já podem ser comidas.
+
+[[v4-13-22]]
+
+^<<v4-13-22,22>>^ Tendo, pois, partido, exploraram a terra desde o deserto de Sin, até Roob, à entrada de Emath.
+
+[[v4-13-23]]
+
+^<<v4-13-23,23>>^ Subiram para o meio-dia e foram a Hebron, onde estavam Aquiman, Sisai e Tolmai, filhos de Enac. Hebron foi fundada sete anos antes de Tanis, cidade do Egito.
+
+[[v4-13-24]]
+
+^<<v4-13-24,24>>^ Caminhando até ao Vale do Cacho, cortaram um ramo de vide com o seu cacho, o qual levaram dois homens numa vara. Colheram também romãs e figos daquele lugar,
+
+[[v4-13-25]]
+
+^<<v4-13-25,25>>^ que foi chamado Neelescol, isto é, Vale do Cacho, por causa do cacho que de lá levaram os filhos de Israel.
+
+[[v4-13-26]]
+
+^<<v4-13-26,26>>^ Tendo voltado os exploradores, passados quarenta dias, depois de haverem percorrido toda a região,
+
+[[v4-13-27]]
+
+^<<v4-13-27,27>>^ foram ter com Moisés, com Aarão e com todo o ajuntamento dos filhos de Israel no deserto de Faran, que é em Cades. Falando a eles e a toda a multidão, mostraram os frutos da terra
+
+[[v4-13-28]]
+
+^<<v4-13-28,28>>^ e fizeram esta narração: Fomos à terra, onde tu nos enviaste, a qual na verdade mana leite e mel, como se pode reconhecer por estes frutos.
+
+[[v4-13-29]]
+
+^<<v4-13-29,29>>^ Porém tem habitantes fortíssimos, e cidades grandes e muralhas. Ali vimos a raça de Enac.
+
+[[v4-13-30]]
+
+^<<v4-13-30,30>>^ Amalec habita ao meio-dia: o Heteu, o Jebuseu e o Amorreu habitam nas montanhas; o Cananeu habita junto do mar e ao longo do rio Jordão.
+
+[[v4-13-31]]
+
+^<<v4-13-31,31>>^ Entretanto Caleb, para refrear a murmuração do povo, que começava a levantar-se contra Moisés, disse: Vamos e tomemos conta da terra, porque nós poderemos conquistá-la.
+
+[[v4-13-32]]
+
+^<<v4-13-32,32>>^ Mas os outros, que tinham ido com ele, diziam: De nenhuma sorte podemos ir contra este povo, porque é mais forte do que nós.
+
+[[v4-13-33]]
+
+^<<v4-13-33,33>>^ E diante dos filhos de Israel depreciaram o pais que tinham explorado, dizendo: A terra que percorremos, devora os seus habitantes: o povo que vimos, é de estatura extraordinária
+
+[[v4-13-34]]
+
+^<<v4-13-34,34>>^ Até gigantes lá vimos, filhos de Enac, da raça dos gigantes, comparados com os quais nós parecemos gafanhotos.
+
+'''
+
+xref:004-numeros/004-numeros-012.adoc#v4-12-0[&#60; Capítulo Anterior] | <<v4-13-0,Topo>> | xref:004-numeros/004-numeros-014.adoc#v4-14-0[Próximo Capítulo &#62;]

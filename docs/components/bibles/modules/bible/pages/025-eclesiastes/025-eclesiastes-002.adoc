@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v25-2-0]]
+=== Eclesiastes, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiastes 2 aborda a busca do autor pela felicidade e significado na vida através de várias experiências e empreendimentos, mas no final ele conclui que tudo é vaidade e correr atrás do vento. Para complementar essa temática, seguem cinco versículos relacionados:
+* Provérbios 16:9: "O coração do homem planeja o seu caminho, mas o Senhor dirige os seus passos." O autor de Eclesiastes tentou planejar sua vida em busca de felicidade e sucesso, mas acabou percebendo que a direção de Deus é a mais importante.
+* Mateus 6:19-21: "Não ajuntem para vocês tesouros na terra, onde a traça e a ferrugem destroem, e onde os ladrões arrombam e furtam. Mas ajuntem para vocês tesouros no céu, onde a traça e a ferrugem não destroem, e onde os ladrões não arrombam nem furtam. Pois onde estiver o seu tesouro, aí também estará o seu coração." Este versículo ressalta a ideia de que a busca por riquezas e bens materiais é em vão, pois não trazem felicidade duradoura.
+* Filipenses 4:11-12: "Não digo isto como por necessidade, porque já aprendi a contentar-me com o que tenho. Sei estar abatido, e sei também ter abundância; em toda a maneira, e em todas as coisas estou instruído, tanto a ter fartura, como a ter fome; tanto a ter abundância, como a padecer necessidade." O autor de Eclesiastes tentou preencher seu vazio interior com bens materiais e prazeres, mas este versículo ressalta que a verdadeira felicidade vem do contentamento com o que se tem.
+* Romanos 12:2: "Não se amoldem ao padrão deste mundo, mas transformem-se pela renovação da sua mente, para que sejam capazes de experimentar e comprovar a boa, agradável e perfeita vontade de Deus." O autor de Eclesiastes percebeu que seguir os padrões do mundo e buscar a felicidade nos prazeres mundanos é fútil, este versículo aponta para a necessidade de uma renovação da mente para encontrar a verdadeira felicidade.
+* Mateus 16:26: "Pois que adiantará o homem ganhar o mundo inteiro e perder a sua alma? Ou, o que o homem poderá dar em troca de sua alma?" O autor de Eclesiastes tentou encontrar significado na vida através de prazeres e conquistas, mas este versículo ressalta a importância de priorizar a vida espiritual e a eternidade.
+****
+
+[[v25-2-1]]
+
+^<<v25-2-1,1>>^ Então eu disse no meu coração: Vamos! Tentemos a alegria, gozemos o prazer. Mas vi que também isto era vaidade.
+
+[[v25-2-2]]
+
+^<<v25-2-2,2>>^ Por isso disse ao riso: És um louco! e à alegria; De que serves?
+
+[[v25-2-3]]
+
+^<<v25-2-3,3>>^ (Em seguida) resolvi dentro no meu coração entregar ao vinho a minha carne, aplicando ainda o meu ânimo à sabedoria; (resolvi) dar-me (dentro de certos limites) à loucura, até ver que coisa seria útil aos filhos dos homens, em que ocupação devem eles empregar-se debaixo dos céus durante os dias da sua vida.
+
+[[v25-2-4]]
+
+^<<v25-2-4,4>>^ Executei grandes obras, edifiquei para mim casas e plantei vinhas;
+
+[[v25-2-5]]
+
+^<<v25-2-5,5>>^ fiz jardins e pomares, e pus neles árvores de toda a espécie;
+
+[[v25-2-6]]
+
+^<<v25-2-6,6>>^ construí depósitos de águas para regar o bosque em que cresciam as árvores;
+
+[[v25-2-7]]
+
+^<<v25-2-7,7>>^ comprei escravos e escravas, e tive muita família; tive multo gado, manadas de bois e rebanhos de ovelhas, mais do que todos os que houve antes de mim em Jerusalém.
+
+[[v25-2-8]]
+
+^<<v25-2-8,8>>^ Amontoei prata e ouro, riquezas de reis e de províncias. (Para me deleitarem os ouvidos) escolhi cantores e cantoras, e tudo o que faz as delícias dos filhos dos homens, taças e jarros (preciosos) para o serviço do vinho.
+
+[[v25-2-9]]
+
+^<<v25-2-9,9>>^ Ultrapassei em grandeza todos os que viveram antes de mim em Jerusalém, conservando, porém, a minha sabedoria.
+
+[[v25-2-10]]
+
+^<<v25-2-10,10>>^ Não recusei aos meus olhos coisa alguma de tudo o que eles desejaram; nem proibi ao meu coração que gozasse de todo o prazer, e se deleitasse nas coisas que eu lhe tinha preparado; e julguei que seria esta a minha sorte, o disfrutar do meu trabalho.
+
+[[v25-2-11]]
+
+^<<v25-2-11,11>>^ Depois, reflectindo em todas as obras que as minhas mãos tinham feito, e nos trabalhos em que eu debalde tinha suado, vi em tudo vaidade e aflição de espirito (reconheci) que nada havia de proveito debaixo do sol.
+
+[[v25-2-12]]
+
+^<<v25-2-12,12>>^ Passei à contemplação da sabedoria, dos desvarios, e da loucura. Qual é o homem que virá depois do rei, que há muito tempo foi designado?
+
+[[v25-2-13]]
+
+^<<v25-2-13,13>>^ E reconheci que a sabedoria leva tanta vantagem sobre a loucura, quanta a luz sobre as trevas.
+
+[[v25-2-14]]
+
+^<<v25-2-14,14>>^ Os olhos do sábio estão na sua cabeça; o Insensato anda nas trevas.
+
+[[v25-2-15]]
+
+^<<v25-2-15,15>>^ Todavia reconheci que ambos têm a mesma sorte e disse dentro no meu coração; Se eu e o insensato devemos ter a mesma sorte, igualmente, de que me serve toda a minha sabedoria? E adverti que também isto era vaidade.
+
+[[v25-2-16]]
+
+^<<v25-2-16,16>>^ Porque a memória do sábio, do mesmo modo que a do Insensato, não será eterna, e os tempos futuros sepultarão tudo igualmente no esquecimento. Tanto morre o sábio como ignorante.
+
+[[v25-2-17]]
+
+^<<v25-2-17,17>>^ E por isso a minha vida se me tornou fastidiosa, vendo que tudo é mau debaixo do sol, que tudo é vaidade e aflição de espírito. (ver nota)
+
+[[v25-2-18]]
+
+^<<v25-2-18,18>>^ Em conseqüência disto detestei toda aquela aplicação, com que eu tinha trabalhado tanto debaixo do sol, porque tudo hei-de deixar ao que vier depois de mim.
+
+[[v25-2-19]]
+
+^<<v25-2-19,19>>^ E quem pode saber se esse será sábio ou insensato? Contudo será senhor dos meus trabalhos, que me custaram cuidados e sabedoria.
+
+[[v25-2-20]]
+
+^<<v25-2-20,20>>^ Por este motivo dei de mão a todas estas coisas, e o meu coração renunciou a afadigar-se mais por nada deste mundo.
+
+[[v25-2-21]]
+
+^<<v25-2-21,21>>^ Com efeito, que um homem trabalhe com sabedoria, ciência e feliz êxito, para deixar o fruto do seu trabalho a outro que nenhuma colaboração prestou, é uma coisa vã e uma grande desgraça.
+
+[[v25-2-22]]
+
+^<<v25-2-22,22>>^ Que proveito tirará o homem de todo o seu trabalho e aflição de espírito, com que é atormentado debaixo do sol?
+
+[[v25-2-23]]
+
+^<<v25-2-23,23>>^ Todos os seus dias são cheios de dores e de amarguras, e nem de noite descansa o seu coração. E não é isto uma vaidade (ou miséria)?
+
+[[v25-2-24]]
+
+^<<v25-2-24,24>>^ Nada há melhor para o homem que comer e beber e gozar o bem-estar, fruto do seu trabalho. Mas também isto vem da mão de Deus. (ver nota)
+
+[[v25-2-25]]
+
+^<<v25-2-25,25>>^ Quem, com efeito, pode comer e gozar bem-estar sem ele? (E todavia sou infeliz).
+
+[[v25-2-26]]
+
+^<<v25-2-26,26>>^ Ele (Deus) ao homem que lhe é agradável, dá sabedoria, e ciência e alegria; mas ao pecador dá aflição e cuidado de recolher e acumular bens, para os deixar a quem Deus quiser. E também isto é vaidade e tormento do espirito.
+
+'''
+
+xref:025-eclesiastes/025-eclesiastes-001.adoc#v25-1-0[&#60; Capítulo Anterior] | <<v25-2-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-003.adoc#v25-3-0[Próximo Capítulo &#62;]

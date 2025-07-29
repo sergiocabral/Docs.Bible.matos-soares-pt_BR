@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v3-5-0]]
+=== Levítico, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 5 trata dos pecados cometidos sem intenção, ou seja, pecados que foram cometidos sem conhecimento. O capítulo discute os procedimentos que devem ser seguidos para se arrepender desses pecados e oferecer a Deus um sacrifício para a expiação. Além disso, também é mencionada a obrigação de confessar o pecado e de compensar aqueles que foram prejudicados pelo erro cometido. Abaixo estão cinco versículos relacionados com os temas abordados em Levítico 5:
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará, mas o que as confessa e deixa alcançará misericórdia." Este versículo fala sobre a importância de confessar os pecados em vez de tentar escondê-los.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este versículo enfatiza a importância de confessar os pecados a Deus para receber o perdão e a purificação.
+* Mateus 5:23-24: "Se, pois, ao trazeres ao altar a tua oferta, ali te lembrares de que teu irmão tem alguma coisa contra ti, deixa perante o altar a tua oferta, vai primeiro reconciliar-te com teu irmão; e então, voltando, faze a tua oferta." Este versículo fala sobre a necessidade de compensar aqueles que foram prejudicados pelo erro cometido antes de oferecer um sacrifício a Deus.
+* 2 Coríntios 7:10: "Porque a tristeza segundo Deus produz arrependimento para a salvação, que a ninguém traz pesar; mas a tristeza do mundo produz morte." Este versículo destaca a importância do arrependimento sincero para alcançar a salvação.
+* Ezequiel 18:21-22: "Se o ímpio se converter de todos os seus pecados que cometeu, e guardar todos os meus estatutos, e proceder com retidão e justiça, certamente viverá; não morrerá. De todas as transgressões que cometeu não haverá lembrança contra ele; pela justiça que praticou, viverá." Este versículo enfatiza a importância de se arrepender dos pecados e seguir os mandamentos de Deus para alcançar a vida eterna.
+****
+
+[[v3-5-1]]
+
+^<<v3-5-1,1>>^ Se alguém chamado como testemunha, depois de ter ouvido a ajuramentação, peca não declarando o que viu ou o que sabe, carregará com a sua iniquidade. (ver nota)
+
+[[v3-5-2]]
+
+^<<v3-5-2,2>>^ A pessoa que tocar inadvertidamente alguma coisa impura, quer seja um animal (impuro) selvagem ou domesticado, quer seja algum dos répteis (impuros), é réu e delinquiu.
+
+[[v3-5-3]]
+
+^<<v3-5-3,3>>^ Igualmente, se tocar alguma coisa impura de outro homem, qualquer que for a impureza com que ele pode manchar-se, e, não tendo advertido nisso, mas reconhecendo-o depois, ficará sujeito à culpa.
+
+[[v3-5-4]]
+
+^<<v3-5-4,4>>^ A pessoa que jurar e declarar com seus lábios que há-de fazer alguma coisa má ou boa, e confirmar isso mesmo com juramento e com palavras, e, tendo esquecido, conhecer depois o seu delito,
+
+[[v3-5-5]]
+
+^<<v3-5-5,5>>^ faça penitência pelo pecado (que cometeu numa destas coisas),
+
+[[v3-5-6]]
+
+^<<v3-5-6,6>>^ e ofereça do seu rebanho uma cordeira ou uma cabra, e o sacerdote orará por ele e pelo seu pecado;
+
+[[v3-5-7]]
+
+^<<v3-5-7,7>>^ porém, se não puder oferecer uma cordeira ou uma cabra, ofereça ao Senhor duas rolas ou dois pombinhos, um pelo pecado, outro em holocausto;
+
+[[v3-5-8]]
+
+^<<v3-5-8,8>>^ dá-los-á ao sacerdote, o qual, oferecendo o primeiro pelo pecado, lhe torcerá a cabeça, peito da nuca, de sorte que fique pegada ao pescoço, e não seja totalmente separada.
+
+[[v3-5-9]]
+
+^<<v3-5-9,9>>^ Aspergirá com o seu sangue a parede do altar: o restante fá-lo-á cair gota a gota ao pé do mesmo altar, porque é (sacrifício) pelo pecado.
+
+[[v3-5-10]]
+
+^<<v3-5-10,10>>^ A outra (ave) queimá-la-á em holocausto, como se costuma fazer; assim o sacerdote fará expiação pelo pecado deste homem, e lhe será perdoado.
+
+[[v3-5-11]]
+
+^<<v3-5-11,11>>^ Se não tiver posses para oferecer duas rolas ou dois pombinhos, oferecerá pelo seu pecado a décima parte dum éfi de flor de farinha: não lhe misturará azeite nem lhe porá em cima incenso, porque é (um sacrifício) pelo pecado;
+
+[[v3-5-12]]
+
+^<<v3-5-12,12>>^ entregá-la-á ao sacerdote, o qual, tomando um punhado dela, a queimará sobre o altar, em memória de quem a ofereceu.
+
+[[v3-5-13]]
+
+^<<v3-5-13,13>>^ Assim fará o sacerdote orando por ele, e expiando; a porção, porém, que restar, té-la-á o sacerdote em donativo.
+
+[[v3-5-14]]
+
+^<<v3-5-14,14>>^ Falou mais o Senhor a Moisés, dizendo:
+
+[[v3-5-15]]
+
+^<<v3-5-15,15>>^ Se alguma pessoa pecar por erro, transgredindo as cerimônias nas coisas santificadas ao Senhor, oferecerá pelo seu delito um carneiro sem defeito, tomado dos rebanhos, do valor de dois siclos, conforme o peso do santuário;
+
+[[v3-5-16]]
+
+^<<v3-5-16,16>>^ ressarcirá o dano que fez, e juntará mais uma quinta parte, dando-a ao sacerdote, o qual orará por ele, oferecendo o carneiro, e assim será perdoado.
+
+[[v3-5-17]]
+
+^<<v3-5-17,17>>^ Se alguma pessoa pecar por ignorância, e fizer alguma daquelas coisas que são proibidas pela lei do Senhor, quando, achando-se ré de culpa, reconhecer a sua iniquidade,
+
+[[v3-5-18]]
+
+^<<v3-5-18,18>>^ oferecerá ao sacerdote um carneiro sem defeito tirado do rebanho, conforme a medida e a consideração do pecado; o sacerdote orará por ele, porque pecou sem o saber, e lhe será perdoado,
+
+[[v3-5-19]]
+
+^<<v3-5-19,19>>^ porque delinquiu por erro contra o Senhor.
+
+'''
+
+xref:003-levitico/003-levitico-004.adoc#v3-4-0[&#60; Capítulo Anterior] | <<v3-5-0,Topo>> | xref:003-levitico/003-levitico-006.adoc#v3-6-0[Próximo Capítulo &#62;]

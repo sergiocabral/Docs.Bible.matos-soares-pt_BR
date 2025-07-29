@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v20-39-0]]
+=== Jó, 39
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 39 trata sobre os animais selvagens e o cuidado que Deus tem por eles, apresentando exemplos de como eles se comportam e se reproduzem. Abaixo seguem cinco versículos relacionados com os temas abordados no capítulo:
+* Salmos 104:21: "Os leõezinhos rugem pela presa e buscam de Deus o seu sustento." Este versículo mostra a dependência dos animais selvagens de Deus para sua sobrevivência.
+* Provérbios 30:25: "As formigas não são um povo forte, contudo no verão preparam a sua comida." Assim como os animais selvagens, as formigas têm um instinto que os leva a se prepararem para o futuro.
+* Isaías 11:6: "O lobo habitará com o cordeiro, e o leopardo se deitará com o cabrito; o bezerro, o leão novo e o animal cevado andarão juntos, e um pequenino os guiará." Este versículo descreve a paz que existirá na criação de Deus.
+* Mateus 6:26: "Observai as aves do céu: não semeiam, não colhem, nem ajuntam em celeiros; contudo, vosso Pai celestial as sustenta. Não tendes vós muito mais valor do que as aves?" Jesus usa a criação como exemplo para mostrar a preocupação de Deus em sustentar todas as criaturas.
+* Jeremias 8:7: "Até a cegonha no céu conhece o tempo de sua migração; a rola, o grou e a andorinha observam atentamente a época de sua chegada. Mas o meu povo não conhece o julgamento do Senhor." Este versículo compara a sabedoria da criação de Deus com a falta de sabedoria do povo de Israel em relação ao seu julgamento divino.
+****
+
+[[v20-39-1]]
+
+^<<v20-39-1,1>>^ Porventura conheces o tempo em que as cabras montesas dão à luz nos rechedos, ou observaste o parto das corsas?
+
+[[v20-39-2]]
+
+^<<v20-39-2,2>>^ Contaste os meses da sua gravidez, e sabes o tempo do seu parto?
+
+[[v20-39-3]]
+
+^<<v20-39-3,3>>^ Encurvam-se para darem à luz a sua cria, e (assim) se livram das suas dores.
+
+[[v20-39-4]]
+
+^<<v20-39-4,4>>^ Tornam-se vigorosos os seus filhos, crescem nos campos, saem, e não voltam para junto delas.
+
+[[v20-39-5]]
+
+^<<v20-39-5,5>>^ Quem pôs o asno montês em liberdade, e quem soltou as suas prisões?
+
+[[v20-39-6]]
+
+^<<v20-39-6,6>>^ Dei-lhe uma casa no deserto, lugar onde albergar-se em terra estéril.
+
+[[v20-39-7]]
+
+^<<v20-39-7,7>>^ Ele despreza o tumulto da cidade, e dão ouve os gritos de um patrão duro.
+
+[[v20-39-8]]
+
+^<<v20-39-8,8>>^ Vagueia pelos montes onde pasta, anda buscando tudo o que está verde.
+
+[[v20-39-9]]
+
+^<<v20-39-9,9>>^ Porventura quererá o búfalo servir-te, ou ficará ele no teu estábulo?
+
+[[v20-39-10]]
+
+^<<v20-39-10,10>>^ Acaso prendê-lo-ás ao teu arado para lavrar, ou será ele que atrás de ti quebra os torrões dos teus vales?
+
+[[v20-39-11]]
+
+^<<v20-39-11,11>>^ Porventura terás confiança na sua grande força, e lhe deixarás o cuidado da tua lavoura ?
+
+[[v20-39-12]]
+
+^<<v20-39-12,12>>^ Porventura fiarás dele que te torne o que semeaste, e que te encha a tua eira?
+
+[[v20-39-13]]
+
+^<<v20-39-13,13>>^ A pena da avestruz é semelhante às penas da cegonha e do falcão.
+
+[[v20-39-14]]
+
+^<<v20-39-14,14>>^ Ele abandona por terra os seus ovos, deixa-os aquecer sobre a areia,
+
+[[v20-39-15]]
+
+^<<v20-39-15,15>>^ não pensando que algum pé lhos pisará, ou que algum animal do campo lhos quebrará.
+
+[[v20-39-16]]
+
+^<<v20-39-16,16>>^ E’ cruel com seus filhos, como se não foram seus, e não se inquieta com que seja (possa ser) vã a sua fadiga.
+
+[[v20-39-17]]
+
+^<<v20-39-17,17>>^ Deus negou-lhe a sabedoria, não lhe deu inteligência.
+
+[[v20-39-18]]
+
+^<<v20-39-18,18>>^ Mas, quando chega a ocasião, levanta ao alto o voo, e faz zombaria do cavalo e do cavaleiro.
+
+[[v20-39-19]]
+
+^<<v20-39-19,19>>^ E’s tu que dás fortaleza ao cavalo, que circundas o seu pescoço de crina flutuante?
+
+[[v20-39-20]]
+
+^<<v20-39-20,20>>^ E’s tu que o ensinas a saltar como o gafanhoto? o fogoso respirar das suas ventas faz terror,
+
+[[v20-39-21]]
+
+^<<v20-39-21,21>>^ Escava a terra com o seu casco, salta com brio, corre ao encontro dos (inimigos) armados.
+
+[[v20-39-22]]
+
+^<<v20-39-22,22>>^ Ri-se do medo, nada o aterra, não retrocede diante da espada.
+
+[[v20-39-23]]
+
+^<<v20-39-23,23>>^ Sobre ele fará ruido á aljava, cintilará a lança e o escudo;
+
+[[v20-39-24]]
+
+^<<v20-39-24,24>>^ espumando e relinchando (como que) devora a terra, e não faz caso do som da trombeta.
+
+[[v20-39-25]]
+
+^<<v20-39-25,25>>^ Ouvindo o clarim, (como que) diz: Avancemos! Fareja de longe a batalha, a exortação dos capitães e o alarido do exército.
+
+[[v20-39-26]]
+
+^<<v20-39-26,26>>^ Acaso o açor levanta o voo pela tua sabedoria, estendendo as suas asas para o meio-dia?
+
+[[v20-39-27]]
+
+^<<v20-39-27,27>>^ Porventura ao teu mandado se remontará a águia, e porá o seu ninho em Lugares altos?
+
+[[v20-39-28]]
+
+^<<v20-39-28,28>>^ Mora nos rochedos, aí passa a noite, nos penhasco escarpados, no alto das rochas inacessíveis.
+
+[[v20-39-29]]
+
+^<<v20-39-29,29>>^ Dali espreita a sua presa; os seus olhos descobrem muito ao longe.
+
+[[v20-39-30]]
+
+^<<v20-39-30,30>>^ Os seus filhinhos chupam o sangue, e ela, onde houver carne morta, logo se encontra.
+
+[[v20-39-31]]
+
+^<<v20-39-31,31>>^ O Senhor, dirigindo-se a Job, acrescentou:
+
+[[v20-39-32]]
+
+^<<v20-39-32,32>>^ Porventura o censor do Omnipotente quer disputar com ele? Que aquele, que censura a Deus, responda.
+
+[[v20-39-33]]
+
+^<<v20-39-33,33>>^ Job, porém, respondendo ao Senhor, disse:
+
+[[v20-39-34]]
+
+^<<v20-39-34,34>>^ Eu, desprezível como sou, que coisa posso responder? Ponho a minha mão sobre a minha boca.
+
+[[v20-39-35]]
+
+^<<v20-39-35,35>>^ Uma coisa disse - oxalá não tivesse dito! - e uma outra também, às quais nada mais acrescentarei.
+
+'''
+
+xref:020-jo/020-jo-038.adoc#v20-38-0[&#60; Capítulo Anterior] | <<v20-39-0,Topo>> | xref:020-jo/020-jo-040.adoc#v20-40-0[Próximo Capítulo &#62;]

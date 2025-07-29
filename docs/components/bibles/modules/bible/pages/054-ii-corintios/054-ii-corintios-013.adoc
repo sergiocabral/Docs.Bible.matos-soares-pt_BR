@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v54-13-0]]
+=== II Coríntios, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Coríntios 13 é o capítulo final da segunda carta de Paulo aos Coríntios. Neste capítulo, Paulo repreende aqueles que o questionam, lembrando-lhes de que ele é um apóstolo de Jesus Cristo e pedindo-lhes que se examinem a si mesmos para ver se estão realmente na fé. Ele também os encoraja a se esforçarem pela perfeição e a viverem em paz. Aqui estão cinco versículos relacionados com os temas abordados em 2 Coríntios 13:
+* Romanos 12:18: "Se for possível, quanto depender de vós, tende paz com todos os homens." Paulo encoraja os Coríntios a viverem em paz com os outros, o que é um tema importante em todo o capítulo 13.
+* 2 Coríntios 10:8: "Porque, ainda que eu me glorie um pouco mais do nosso poder, o qual o Senhor nos deu para edificação e não para vossa destruição, não me envergonharei." Paulo fala sobre o poder que Deus lhe deu para edificar e não destruir, e isso é semelhante à maneira como ele pede aos Coríntios para se examinarem para ver se estão realmente na fé.
+* 1 Coríntios 11:28: "Examine-se, pois, o homem a si mesmo, e assim coma deste pão e beba deste cálice." Esse versículo está relacionado ao tema de se examinar a si mesmo, que é enfatizado em 2 Coríntios 13.
+* Filipenses 2:12: "Assim, pois, amados meus, como sempre obedecestes, não só na minha presença, porém muito mais agora na minha ausência, desenvolvei a vossa salvação com temor e tremor." Paulo encoraja os Coríntios a se esforçarem pela perfeição, o que é um tema importante em 2 Coríntios 13.
+* Colossenses 3:15: "E a paz de Cristo, para a qual também fostes chamados em um corpo, domine em vossos corações; e sede agradecidos." Esse versículo está relacionado ao tema de viver em paz com os outros, que é enfatizado em 2 Coríntios 13.
+****
+
+[[v54-13-1]]
+
+^<<v54-13-1,1>>^ Vou ter convosco pela terceira vez. Sobre a declaração de duas ou três testemunhas tudo será decidido.
+
+[[v54-13-2]]
+
+^<<v54-13-2,2>>^ Como já o disse, achando-me presente, na minha segunda visita, assim o digo, também agora, estando ausente, que, se eu for outra vez, não perdoarei aos que antes pecaram nem a todos os outros.
+
+[[v54-13-3]]
+
+^<<v54-13-3,3>>^ Porventura quereis pôr à prova Cristo, que fala em mim, o qual não é fraco a vosso respeito, mas sim poderoso entre vós? (ver nota)
+
+[[v54-13-4]]
+
+^<<v54-13-4,4>>^ Em realidade, embora fosse crucificado por fraqueza, vive todavia pelo poder de Deus. Também. nós somos fracos nele, mas viveremos com ele pela virtude de Deus em vós.
+
+[[v54-13-5]]
+
+^<<v54-13-5,5>>^ Examinai-vos a vós mesmos, (vede) se estais firmes na fé. Provai-vos a vós mesmos. Acaso não conheceis que Jesus Cristo está em vós? A não ser que a prova seja contra vós.
+
+[[v54-13-6]]
+
+^<<v54-13-6,6>>^ Mas espero que reconhecereis que a prova não é contra nós.
+
+[[v54-13-7]]
+
+^<<v54-13-7,7>>^ Rogamos a Deus que não façais nenhum mal, não para que apareçamos como aprovados, mas a fim de que façais o bem, ainda que sejamos tidos como reprovados.
+
+[[v54-13-8]]
+
+^<<v54-13-8,8>>^ Porque nada podemos contra a verdade, mas apenas a seu favor.
+
+[[v54-13-9]]
+
+^<<v54-13-9,9>>^ Alegramo-nos de ser fracos, enquanto vós sois fortes. E o que pedimos nas nossas orações, é a vossa perfeição.
+
+[[v54-13-10]]
+
+^<<v54-13-10,10>>^ Portanto eu vos escrevo isto, estando ausente, para que, estando presente, não tenha de proceder com rigor, segundo o poder que Deus me deu para edificação, e não para destruição.
+
+[[v54-13-11]]
+
+^<<v54-13-11,11>>^ Quanto ao mais, irmãos, alegrai-vos, procurai ser perfeitos, encorajai-vos, tende o mesmo sentir, vivei em paz, e o Deus da caridade e da paz será convosco.
+
+[[v54-13-12]]
+
+^<<v54-13-12,12>>^ Saudai-vos uns aos outros em ósculo santo. Todos os santos vos saúdam.
+
+[[v54-13-13]]
+
+^<<v54-13-13,13>>^ A graça do Senhor Jesus Cristo, a caridade de Deus e a comunicação do Espírito Santo sejam com todos vós.
+
+'''
+
+xref:054-ii-corintios/054-ii-corintios-012.adoc#v54-12-0[&#60; Capítulo Anterior] | <<v54-13-0,Topo>> | xref:055-galatas/055-galatas-001.adoc#v55-1-0[Próximo Capítulo &#62;]

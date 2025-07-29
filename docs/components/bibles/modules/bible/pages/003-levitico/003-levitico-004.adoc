@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v3-4-0]]
+=== Levítico, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Levítico trata dos sacrifícios pela culpa. Nele, são descritas as instruções para o sacerdote realizar o ritual de expiação pelos pecados cometidos pelo povo de Israel, de acordo com a gravidade da transgressão. Os versículos a seguir se relacionam com os temas abordados no capítulo:
+* Levítico 5:5: "Quando alguém se tornar culpado em qualquer destas coisas, confessará aquilo em que pecou" Este versículo destaca a importância da confissão dos pecados, que é um passo fundamental para a realização do ritual de expiação descrito em Levítico 4.
+* Levítico 6:7: "O sacerdote fará expiação por ele diante do SENHOR, e ele será perdoado de qualquer das coisas que possa ter feito, trazendo culpa." Este versículo destaca o papel do sacerdote como intermediário entre o pecador e Deus, realizando o sacrifício para que o pecador seja perdoado.
+* Levítico 16:30: "Porque naquele dia se fará expiação por vós, para purificar-vos; de todos os vossos pecados sereis purificados perante o SENHOR." Este versículo se refere ao Dia da Expiação, um dia sagrado para o povo de Israel, em que eram realizados rituais de expiação pelos pecados do povo.
+* Isaías 53:5: "Mas ele foi traspassado pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados." Este versículo é uma profecia sobre o sacrifício de Jesus Cristo, que se tornaria o cordeiro sacrificial definitivo para a expiação dos pecados de toda a humanidade.
+* Hebreus 10:11-12: "E todo sacerdote está em pé diariamente ministrando, e oferecendo muitas vezes os mesmos sacrifícios, que nunca podem tirar os pecados; mas este, havendo oferecido para sempre um único sacrifício pelos pecados, está assentado à destra de Deus." Este versículo faz referência ao papel de Jesus Cristo como o sumo sacerdote perfeito, que realizou o sacrifício definitivo pelos pecados da humanidade, tornando desnecessários os sacrifícios regulares descritos em Levítico 4.
+****
+
+[[v3-4-1]]
+
+^<<v3-4-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-4-2]]
+
+^<<v3-4-2,2>>^ Dize aos filhos de Israel: Quando alguém pecar por ignorância, e fizer alguma das coisas que o Senhor mandou que se não fizessem, (observar-se-á o seguinte):
+
+[[v3-4-3]]
+
+^<<v3-4-3,3>>^ Se, quem pecou, foi o sacerdote ungido, fazendo assim pecar o povo, oferecerá ao Senhor pelo seu pecado um novilho sem defeito,
+
+[[v3-4-4]]
+
+^<<v3-4-4,4>>^ e o conduzirá à porta do tabernáculo da reunião, diante do Senhor, pôr-lhe-á a mão sobre a cabeça, e o imolará ao Senhor.
+
+[[v3-4-5]]
+
+^<<v3-4-5,5>>^ Tomará também do sangue do novilho, e o levará dentro do tabernáculo da reunião,
+
+[[v3-4-6]]
+
+^<<v3-4-6,6>>^ e, molhando o dedo no sangue, fará com ele sete aspersões diante do Senhor, em frente do véu do santuário.
+
+[[v3-4-7]]
+
+^<<v3-4-7,7>>^ Porá do mesmo sangue sobre as pontas do altar dos perfumes agradáveis ao Senhor, o qual (altar) está no tabernáculo do testemunho, e todo o resto do sangue derramá-lo-á aos pés do altar dos holocaustos à entrada do tabernáculo.
+
+[[v3-4-8]]
+
+^<<v3-4-8,8>>^ Tirará (em seguida) a gordura do novilho (imolado) pelo pecado, não só a que cobre as vísceras, mas também toda a que está no interior
+
+[[v3-4-9]]
+
+^<<v3-4-9,9>>^ (tirará também) os dois rins e o redanho que está sobre eles junto da região tombar, e a gordura do fígado com os rins,
+
+[[v3-4-10]]
+
+^<<v3-4-10,10>>^ do mesmo modo que se tiram do novilho da hóstia pacifica, e queimará isso sobre o altar dos holocaustos.
+
+[[v3-4-11]]
+
+^<<v3-4-11,11>>^ Porém, a pele e toda a carne com a cabeça e os pés e os intestinos e os excrementos,
+
+[[v3-4-12]]
+
+^<<v3-4-12,12>>^ e o resto do corpo, lavá-los-á fora dos acampamentos, a um lugar limpo, onde se costumam deitar as cinzas, e queimá-los-á sobre um feixe de lenha; será queimado no lugar onde se costumam deitar as cinzas.
+
+[[v3-4-13]]
+
+^<<v3-4-13,13>>^ Porém, se toda a multidão de Israel pecar involuntariamente, por inadvertência, e se fizer alguma coisa que é contra o mandamento do Senhor,
+
+[[v3-4-14]]
+
+^<<v3-4-14,14>>^ depois que reconheceu o seu pecado, oferecerá um novilho, e conduzi-lo-á à porta do tabernáculo.
+
+[[v3-4-15]]
+
+^<<v3-4-15,15>>^ Os anciães do povo porão as mãos sobre a sua cabeça diante do Senhor. Imolado o novilho na presença do Senhor,
+
+[[v3-4-16]]
+
+^<<v3-4-16,16>>^ o sacerdote, que foi ungido, levará sangue dele ao tabernáculo da reunião,
+
+[[v3-4-17]]
+
+^<<v3-4-17,17>>^ e, molhado o dedo (no sangue), fará (com ele) sete aspersões em frente do véu.
+
+[[v3-4-18]]
+
+^<<v3-4-18,18>>^ Porá do mesmo sangue sobre as pontas do altar, que está diante do Senhor no tabernáculo da reunião; o resto do sangue derramá-lo-á ao pé do altar dois holocaustos, que está à entrada do tabernáculo da reunião.
+
+[[v3-4-19]]
+
+^<<v3-4-19,19>>^ Tirará (em seguida) toda a gordura, e queimá-la-á sobre o altar,
+
+[[v3-4-20]]
+
+^<<v3-4-20,20>>^ fazendo deste novilho o mesmo que fez do precedente. Expiando, assim, o sacerdote por eles, o Senhor lhes será propício.
+
+[[v3-4-21]]
+
+^<<v3-4-21,21>>^ (O mesmo sacerdote) levará para fora dos acampamentos o novilho, e o queimará como o precedente. Este é o sacrifício oferecido pelo pecado do povo.
+
+[[v3-4-22]]
+
+^<<v3-4-22,22>>^ Se um chefe pecar, e fizer por ignorância alguma das muitas coisas proibidas pela lei do Senhor,
+
+[[v3-4-23]]
+
+^<<v3-4-23,23>>^ depois de conhecer o seu pecado, oferecerá como hóstia ao Senhor um bode sem defeito.
+
+[[v3-4-24]]
+
+^<<v3-4-24,24>>^ Porá a sua mão sobre a cabeça dele, e, depois de o ter imolado no lugar onde se costuma degolar o (animal do) holocausto diante do Senhor, porque é (sacrifício) pelo pecado,
+
+[[v3-4-25]]
+
+^<<v3-4-25,25>>^ o sacerdote molhará o dedo no sangue da vítima (oferecida) pelo pecado, e porá (do mesmo sangue) sobre as pontas do altar dos holocaustos, e derramará o resto ao pé do altar.
+
+[[v3-4-26]]
+
+^<<v3-4-26,26>>^ A gordura, porém, queimá-la-á sobre (o altar), como se costuma fazer nas hóstias pacíficas; o sacerdote orará por ele e pelo seu pecado, e (este) lhe será perdoado.
+
+[[v3-4-27]]
+
+^<<v3-4-27,27>>^ Se, porém, algum do povo da terra pecar por ignorância, e fizer alguma das coisas proibidas pela lei do Senhor, incorrendo assim em culpa,
+
+[[v3-4-28]]
+
+^<<v3-4-28,28>>^ quando reconhecer o seu pecado, oferecerá uma cabra sem defeito.
+
+[[v3-4-29]]
+
+^<<v3-4-29,29>>^ Porá a mão sobre a cabeça da vítima, que é (oferecida) pelo pecado, e imolá-la-á no lugar do holocausto.
+
+[[v3-4-30]]
+
+^<<v3-4-30,30>>^ O sacerdote tomará com o seu dedo do sangue, e, tendo posto algum sobre as pontas do altar, dos holocaustos, derramará o resto ao pé do mesmo altar.
+
+[[v3-4-31]]
+
+^<<v3-4-31,31>>^ tirando-lhe toda a gordura, como se costuma tirar das vítimas pacíficas, queimá-la-á sobre o altar em odor de suavidade para o Senhor. Assim fará o sacerdote a expiação por este homem e (o seu pecado) será perdoado.
+
+[[v3-4-32]]
+
+^<<v3-4-32,32>>^ Se, porém, oferecer pelo pecado um cordeiro, será uma fêmea sem defeito.
+
+[[v3-4-33]]
+
+^<<v3-4-33,33>>^ Pôr-lhe-á a mão sobre a cabeça, e imolá-la-á no lugar onde se costumam matar as vítimas dos holocaustos.
+
+[[v3-4-34]]
+
+^<<v3-4-34,34>>^ O sacerdote tomará com o dedo do sangue dela, e, pondo algum sobre as pontas do altar dos holocaustos, derramará o resto ao pé do mesmo altar.
+
+[[v3-4-35]]
+
+^<<v3-4-35,35>>^ Tirando também toda a gordura, como se costuma tirar a gordura do carneiro, que se imola nos sacrifícios pacíficos, queima-la-á sobre o altar em holocausto ao Senhor; orará por aquele homem e pelo seu pecado, e lhe será perdoado.
+
+'''
+
+xref:003-levitico/003-levitico-003.adoc#v3-3-0[&#60; Capítulo Anterior] | <<v3-4-0,Topo>> | xref:003-levitico/003-levitico-005.adoc#v3-5-0[Próximo Capítulo &#62;]

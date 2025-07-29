@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v46-4-0]]
+=== Malaquias, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+[[v46-4-1]]
+
+^<<v46-4-1,1>>^ Porque eis que virá um dia ardente como uma fornalha acesa. Todos os soberbos, todos os que cometem a impiedade serão como a palha; este dia, que está para vir, os abrasará, diz o Senhor dos exércitos, sem lhes deixar nem raiz, nem ramos.
+
+[[v46-4-2]]
+
+^<<v46-4-2,2>>^ Mas para vós que temeis o meu nome, nascerá (o Messias) o sol da justiça, que traz a salvação sob as suas asas (ou raias); saireis então e saltareis (alegres) como novilhos ao sair do estábulo.
+
+[[v46-4-3]]
+
+^<<v46-4-3,3>>^ Calcareis os ímpios, que serão como cinza debaixo da planta de vossos pés, nesse dia em que eu agir, diz o Senhor dos exércitos.
+
+[[v46-4-4]]
+
+^<<v46-4-4,4>>^ Lembrai-Vos da lei de Moisés, meu servo, a quem dei em Horeb, para todo o Israel, os meus preceitos e mandamentos.
+
+[[v46-4-5]]
+
+^<<v46-4-5,5>>^ Eis que vos enviarei o profeta Elias, antes que venha o dia grande e horrível do Senhor.
+
+[[v46-4-6]]
+
+^<<v46-4-6,6>>^ Ele converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais, para não suceder que eu venha e fira a terra com anátema. (ver nota)
+
+'''
+
+xref:046-malaquias/046-malaquias-003.adoc#v46-3-0[&#60; Capítulo Anterior] | <<v46-4-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-001.adoc#v47-1-0[Próximo Capítulo &#62;]

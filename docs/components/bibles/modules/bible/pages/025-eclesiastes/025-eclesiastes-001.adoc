@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v25-1-0]]
+=== Eclesiastes, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiastes 1 começa com o autor, que se apresenta como "o Pregador", expressando sua frustração e desesperança em relação à vida. Ele argumenta que tudo é vaidade e correr atrás do vento, pois as coisas não mudam, e tudo o que temos é a futilidade da existência humana. Abaixo estão cinco versículos relacionados com os temas abordados em Eclesiastes 1:
+* Salmos 39:5 - "Eis que deste aos meus dias um palmo de comprimento; a minha vida é nada diante de ti; na verdade, todo homem, por mais firme que esteja, é pura vaidade." Este verso destaca a ideia de que a vida é passageira e de pouca importância diante de Deus, o que ecoa a ideia central de Eclesiastes 1.
+* Tiago 4:14 - "Pois não sabeis o que sucederá amanhã. Que é a vossa vida? Sois, simplesmente, como neblina que aparece por instante e logo se dissipa." Este verso traz uma mensagem semelhante àquela encontrada em Eclesiastes 1, ao enfatizar a brevidade da vida humana e a incerteza do futuro.
+* Isaías 40:7-8 - "Seca-se a erva, e cai a flor, soprando nela o hálito do Senhor. Na verdade, o povo é erva; seca-se a erva, e cai a sua flor; mas a palavra de nosso Deus permanece eternamente." Este verso apresenta uma visão semelhante àquela apresentada em Eclesiastes 1, de que tudo é transitório e perecível.
+* Jó 8:9 - "Porque somos de ontem e nada sabemos, porquanto nossos dias sobre a terra são como uma sombra." Este verso expressa a ideia de que a vida humana é breve e insignificante, o que ressoa com o sentimento de desesperança encontrado em Eclesiastes 1.
+* Salmo 90:10 - "Os dias da nossa vida chegam a setenta anos, e se alguns, pela sua robustez, chegam a oitenta anos, a medida deles é canseira e enfado; pois passa rapidamente, e nós voamos." Este verso enfatiza a brevidade da vida humana e a fugacidade do tempo, um tema recorrente em Eclesiastes 1.
+****
+
+[[v25-1-1]]
+
+^<<v25-1-1,1>>^ Palavras do Eclesiaste, filho de Davide, rei de Jerusalém.
+
+[[v25-1-2]]
+
+^<<v25-1-2,2>>^ Vaidade de vaidades, diz o Eclesiaste, vaidade de vaidade, tudo é vaidade!
+
+[[v25-1-3]]
+
+^<<v25-1-3,3>>^ Que proveito tira o homem de todo o trabalho com que se afadiga debaixo do sol?
+
+[[v25-1-4]]
+
+^<<v25-1-4,4>>^ Uma geração passa, outra geração lhe sucede, mas a terra permanece sempre estável.
+
+[[v25-1-5]]
+
+^<<v25-1-5,5>>^ O sol nasce e põe-se, corre ao seu lugar, donde volta a nascer. (ver nota)
+
+[[v25-1-6]]
+
+^<<v25-1-6,6>>^ O vento dirige o seu giro para o meio-dia, depois declina para o norte; corre, visitando tudo em roda, e volta a começar (depois) os seus circuitos.
+
+[[v25-1-7]]
+
+^<<v25-1-7,7>>^ Todos os rios entram no mar, e o mar nem por isso trasborda; os rios voltam ao mesmo lugar donde saíram, para tornarem a correr.
+
+[[v25-1-8]]
+
+^<<v25-1-8,8>>^ Todas as coisas se afadigam, mais do que se pode dizer. O olho não se farta de ver, nem o ouvido se cansa de ouvir (sempre as mesmas coisas).
+
+[[v25-1-9]]
+
+^<<v25-1-9,9>>^ Que é o que foi? O mesmo que há-de ser. Que é o que se fez? O mesmo que se há-de fazer.
+
+[[v25-1-10]]
+
+^<<v25-1-10,10>>^ Não há nada novo debaixo do sol, e ninguém pode dizer; Eis aqui está uma coisa nova, porque ela já existiu nos séculos que passaram antes de nós.
+
+[[v25-1-11]]
+
+^<<v25-1-11,11>>^ Não há memória das coisas antigas, mas também não haverá memória das coisas que hão-de suceder depois de nós, entre aqueles que viverão mais tarde.
+
+[[v25-1-12]]
+
+^<<v25-1-12,12>>^ Eu, o Eclesiaste, fui rei de Israel em Jerusalém,
+
+[[v25-1-13]]
+
+^<<v25-1-13,13>>^ e propus no meu coração inquirir e investigar sàbiamente todas as coisas que se fazem debaixo dos céus: Deus deu esta penosa ocupação aos filhos dos homens, para que se dedicassem a ela.
+
+[[v25-1-14]]
+
+^<<v25-1-14,14>>^ Vi tudo o que se faz debaixo do sol, e achei que tudo era vaidade e a aflição de espírito.
+
+[[v25-1-15]]
+
+^<<v25-1-15,15>>^ O torto não se pode endireitar e o que falta não se pode contar. (ver nota)
+
+[[v25-1-16]]
+
+^<<v25-1-16,16>>^ Eu disse no meu coração: Eis que cheguei a ser grande, que excedi em sabedoria a todos os que antes de mim houve em Jerusalém; o meu espirito possuiu largamente a sabedoria e a ciência.
+
+[[v25-1-17]]
+
+^<<v25-1-17,17>>^ Apliquei o meu coração a conhecer a sabedoria, a loucura, os desvarios, e reconheci que ainda isto é aflição de espírito,
+
+[[v25-1-18]]
+
+^<<v25-1-18,18>>^ porque na muita sabedoria há muita amargura, e o que aumenta a sua ciência, também aumenta o seu sofrimento.
+
+'''
+
+xref:024-proverbios/024-proverbios-031.adoc#v24-31-0[&#60; Capítulo Anterior] | <<v25-1-0,Topo>> | xref:025-eclesiastes/025-eclesiastes-002.adoc#v25-2-0[Próximo Capítulo &#62;]

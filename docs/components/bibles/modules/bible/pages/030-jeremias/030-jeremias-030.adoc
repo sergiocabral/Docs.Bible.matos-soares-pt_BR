@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v30-30-0]]
+=== Jeremias, 30
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 30 apresenta uma mensagem de esperança para o povo de Israel, que havia sofrido muito devido à sua desobediência a Deus. Neste capítulo, Deus promete restaurar seu povo e trazê-los de volta para a terra prometida. Ele também fala da vinda de um novo líder, que governará com justiça e sabedoria. Os versículos selecionados a seguir abordam temas semelhantes ao que é apresentado em Jeremias 30.
+* Salmos 107:28-30: "Então, clamaram ao Senhor na sua angústia, e Ele os livrou das suas dificuldades. Fez cessar a tempestade, e acalmaram-se as ondas. Então, se alegraram com a bonança; e Ele os guiou ao porto desejado." Este salmo fala sobre o poder de Deus para salvar seu povo da adversidade e guiá-los para um lugar seguro, o que é semelhante à promessa de Deus em Jeremias 30 de trazer seu povo de volta para casa.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo fala sobre a proteção de Deus e seu poder para ajudar aqueles que o buscam. Isso é semelhante à promessa de Deus em Jeremias 30 de que seu povo será restaurado e protegido.
+* Isaías 43:18-19: "Não vos lembreis das coisas passadas, nem considereis as antigas. Eis que faço uma coisa nova; agora, está saindo à luz; porventura, não a percebeis? Eis que porei um caminho no deserto e rios no ermo." Este versículo fala sobre a capacidade de Deus de trazer mudança e renovação. Isso é semelhante à mensagem de esperança em Jeremias 30, que fala sobre a restauração e renovação do povo de Israel.
+* Zacarias 9:9: "Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém; eis que o teu Rei vem a ti, justo e salvo, pobre e montado sobre um jumento, sobre um jumentinho, filho de jumenta." Este versículo fala sobre a vinda de um novo líder para governar Israel. Isso é semelhante à promessa de Deus em Jeremias 30 de que um novo líder surgirá para governar com justiça e sabedoria.
+* Isaías 61:1: "O Espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu para pregar boas-novas aos mansos; enviou-me a restaurar os contritos de coração, a proclamar libertação aos cativos e a abertura de prisão aos presos." Este versículo fala sobre a missão de um ungido de Deus para pregar boas novas e trazer restauração aos quebrantados. Isso é semelhante à promessa de Deus em Jeremias 30 de trazer restauração e libertação para o povo de Israel.
+****
+
+[[v30-30-1]]
+
+^<<v30-30-1,1>>^ Palavra que foi dirigida pelo Senhor a Jeremias, nos termos seguintes:
+
+[[v30-30-2]]
+
+^<<v30-30-2,2>>^ Assim fala o Senhor Deus de Israel: Escreve num livro todas as palavras que te tenho dito.
+
+[[v30-30-3]]
+
+^<<v30-30-3,3>>^ Porque eis que chegará o tempo, diz o Senhor, em que mudarei a sorte do meu povo de Israel e de Judá, diz o Senhor. Farei voltar (os filhos do meu povo) à terra que dei a seus pais, e eles a possuirão.
+
+[[v30-30-4]]
+
+^<<v30-30-4,4>>^ Eis as palavras que o Senhor pronunciou sobre Israel e Judá:
+
+[[v30-30-5]]
+
+^<<v30-30-5,5>>^ Isto diz o Senhor: Ouvimos uma voz de terror; tudo é espanto, não há paz.
+
+[[v30-30-6]]
+
+^<<v30-30-6,6>>^ Perguntai, e vede se os homens dão à luz. Então por que vejo eu todos os homens com a mão sobre os rins, como a mulher que está de parto, e por que é que todos os seus rostos se tornaram pálidos? (ver nota)
+
+[[v30-30-7]]
+
+^<<v30-30-7,7>>^ Ai! Que grande dia, sem igual! É um tempo de tribulação para Jacob, mas do qual (por fim) será livre.
+
+[[v30-30-8]]
+
+^<<v30-30-8,8>>^ Acontecerá nesse dia, diz o Senhor dos exércitos, que quebrarei o jugo que Nabucodonosor pôs sobre o seu pescoço, romperei as suas prisões. Não mais serão sujeitos a estranhos,
+
+[[v30-30-9]]
+
+^<<v30-30-9,9>>^ mas servirão o Senhor seu Deus, e (o filho de) Davide, seu rei, que lhes suscitarei.
+
+[[v30-30-10]]
+
+^<<v30-30-10,10>>^ Tu, pois, servo meu Jacob, não temas, diz o Senhor, não receies Israel, porque eu hei-de tirar-te da terra longínqua e hei-de tirar os teus descendentes da terra do seu cativeiro. Jacob voltará (à terra que lhe dei), viverá tranquilo e seguro, e não terá ninguém a temer.
+
+[[v30-30-11]]
+
+^<<v30-30-11,11>>^ Com efeito eu sou contigo para te salvar, diz o Senhor. Destruirei todas as nações, entre as quais te dispersei; a ti, porém, não te destruirei inteiramente, mas castigar-te-ei com equidade, não te deixando impune.
+
+[[v30-30-12]]
+
+^<<v30-30-12,12>>^ Assim fala o Senhor: Incurável é a tua ferida, maligna a tua chaga.
+
+[[v30-30-13]]
+
+^<<v30-30-13,13>>^ Não há quem tome cuidado do teu mal para o curar; os remédios são inúteis.
+
+[[v30-30-14]]
+
+^<<v30-30-14,14>>^ Todos os que te amavam, esqueceram-se de ti, não te buscam, porque eu te feri como inimigo, castiguei-te cruelmente, por causa das tuas grandes maldades, dos teus muitos pecados.
+
+[[v30-30-15]]
+
+^<<v30-30-15,15>>^ Porque gritas sobre o teu tormento? Incurável é a tua dor? Pelas tuas grandes maldades, pelos teus muitos pecados, é que eu te tratei assim.
+
+[[v30-30-16]]
+
+^<<v30-30-16,16>>^ Mas todos os que te devoram serão devorados; todos os teus inimigos serão levados para o cativeiro; os que te despojam serão despojados; entregarei ao saque todos os que te saqueiam.
+
+[[v30-30-17]]
+
+^<<v30-30-17,17>>^ Vou cicatrizar a tua chaga, curar-te das tuas feridas, diz o Senhor. Eles chamaram-te, ó Sião, a repudiada, aquela por quem ninguém se interessa.
+
+[[v30-30-18]]
+
+^<<v30-30-18,18>>^ (Por isso) diz o Senhor: Vou restabelecer as tendas de Jacob, terei compaixão das suas casas; a cidade será reconstruída na sua colina, e o palácio será reedificado segundo o seu estado (anterior).
+
+[[v30-30-19]]
+
+^<<v30-30-19,19>>^ Daí sairão cânticos de louvor e gritos de júbilo. Multiplicá-los-ei, e não serão mais humilhados.
+
+[[v30-30-20]]
+
+^<<v30-30-20,20>>^ Seus filhos serão como eram outrora, e a sua assembleia será estável diante de mim; castigarei todos os seus opressores.
+
+[[v30-30-21]]
+
+^<<v30-30-21,21>>^ O seu chefe será um deles, deles sairá o seu soberano. Fá-lo-ei vir, e ele se aproximará de mim. Pois, quem arriscaria a sua vida, aproximando-se de mim? - diz o Senhor.
+
+[[v30-30-22]]
+
+^<<v30-30-22,22>>^ Vós sereis o meu povo, e eu serei o vosso Deus.
+
+[[v30-30-23]]
+
+^<<v30-30-23,23>>^ Eis que o redemoinho do Senhor, o seu furor impetuoso, a sua tempestade se desencadeia e vai cair sobre a cabeça dos ímpios.
+
+[[v30-30-24]]
+
+^<<v30-30-24,24>>^ O Senhor não apartará o furor da sua indignação, sem ter executado e cumprido os desígnios do seu coração. No fim dos tempos entendereis estas coisas.
+
+'''
+
+xref:030-jeremias/030-jeremias-029.adoc#v30-29-0[&#60; Capítulo Anterior] | <<v30-30-0,Topo>> | xref:030-jeremias/030-jeremias-031.adoc#v30-31-0[Próximo Capítulo &#62;]

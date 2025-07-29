@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v21-2-0]]
+=== Salmos, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 2 é um salmo messiânico que fala sobre o reinado do Messias sobre todas as nações e a rejeição dos governantes da terra a Ele. Os versículos selecionados abaixo destacam a autoridade e o poder do Messias, sua relação com Deus e a reação das nações à sua soberania.
+* Isaías 9:6-7: "Porque um menino nos nasceu, um filho se nos deu; e o governo está sobre os seus ombros; e o seu nome será Maravilhoso Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz. Do aumento deste principado e da paz não haverá fim, sobre o trono de Davi e no seu reino, para o firmar e o fortificar com juízo e com justiça, desde agora e para sempre; o zelo do Senhor dos Exércitos fará isto."
+* Salmos 110:1-2: "Disse o Senhor ao meu Senhor: Assenta-te à minha direita, até que ponha os teus inimigos por escabelo dos teus pés. O Senhor enviará o cetro da tua fortaleza desde Sião, dizendo: Domina no meio dos teus inimigos."
+* Daniel 7:14: "E foi-lhe dado o domínio, e a honra, e o reino, para que todos os povos, nações e línguas o servissem; o seu domínio é um domínio eterno, que não passará, e o seu reino tal, que não será destruído."
+* Apocalipse 19:11-16: "E vi o céu aberto, e eis um cavalo branco; e o que estava assentado sobre ele chama-se Fiel e Verdadeiro; e julga e peleja com justiça. E os seus olhos eram como chama de fogo; e sobre a sua cabeça havia muitos diademas; e tinha um nome escrito, que ninguém sabia senão ele mesmo. E estava vestido de uma veste salpicada de sangue; e o nome pelo qual se chama é a Palavra de Deus. E seguiam-no os exércitos no céu em cavalos brancos, e vestidos de linho fino, branco e puro. E da sua boca saía uma aguda espada, para ferir com ela as nações; e ele as regerá com vara de ferro; e ele mesmo é o que pisa o lagar do vinho do furor e da ira do Deus Todo-Poderoso. E no manto e na sua coxa tem escrito este nome: Rei dos reis, e Senhor dos senhores."
+* Atos 4:25-26 - "Pela boca de Davi, teu servo, disseste: Por que bramam os gentios, e os povos pensam coisas vãs? Levantaram-se os reis da terra, e os príncipes se ajuntaram à uma, contra o Senhor e contra o seu ungido." Este trecho de Atos cita o Salmo 2 e destaca a ideia de que os reis e governantes da terra se opõem a Deus e ao Seu ungido. Ele mostra que essa oposição é uma realidade presente tanto no Antigo quanto no Novo Testamento.
+****
+
+[[v21-2-1]]
+
+^<<v21-2-1,1>>^ Por que se amotinam as nações, e os povos maquinam planos vãos?
+
+[[v21-2-2]]
+
+^<<v21-2-2,2>>^ Os reis da terra sublevam-se e os príncipes coligam-se contra o Senhor e contra o seu Messias:
+
+[[v21-2-3]]
+
+^<<v21-2-3,3>>^ "Quebremos (disseram) as suas cadeias e sacudamos de nós os seus laços!"
+
+[[v21-2-4]]
+
+^<<v21-2-4,4>>^ Aquele que habita nos céus ri-se, o Senhor zomba deles,
+
+[[v21-2-5]]
+
+^<<v21-2-5,5>>^ Ele lhes fala então na sua ira, e os aterroriza no seu furor:
+
+[[v21-2-6]]
+
+^<<v21-2-6,6>>^ "Eu, porém, constituí o meu rei sobre Sião, meu monte santo!"
+
+[[v21-2-7]]
+
+^<<v21-2-7,7>>^ Promulgarei o decreto do Senhor: O Senhor disse-me: "Tu és meu filho, eu hoje te gerei.
+
+[[v21-2-8]]
+
+^<<v21-2-8,8>>^ Pede-me, e eu te darei as nações em herança, e em teu domínio os confins da terra.
+
+[[v21-2-9]]
+
+^<<v21-2-9,9>>^ Tu as governarás com vara de ferro, quebrá-las-ás qual vaso do oleiro."
+
+[[v21-2-10]]
+
+^<<v21-2-10,10>>^ E agora, ó reis, atendei; instruí-vos, vós que governais a terra.
+
+[[v21-2-11]]
+
+^<<v21-2-11,11>>^ Servi ao Senhor com temor, e louvai-o com alegria; com temor
+
+[[v21-2-12]]
+
+^<<v21-2-12,12>>^ prestai-lhe vassalagem, para que não se ire, e não apareçais fora do caminho (da justiça),
+
+[[v21-2-13]]
+
+^<<v21-2-13,13>>^ quando daqui a pouco se incendiar a sua indignação: Bem-aventurados todos os que se acolhem a ele.
+
+'''
+
+xref:021-salmos/021-salmos-001.adoc#v21-1-0[&#60; Capítulo Anterior] | <<v21-2-0,Topo>> | xref:021-salmos/021-salmos-003.adoc#v21-3-0[Próximo Capítulo &#62;]

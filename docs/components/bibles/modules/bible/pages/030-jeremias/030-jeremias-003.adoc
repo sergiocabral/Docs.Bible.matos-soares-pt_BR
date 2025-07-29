@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v30-3-0]]
+=== Jeremias, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 3 fala sobre a infidelidade do povo de Israel em relação a Deus e a necessidade de se arrepender e voltar para Ele. O capítulo descreve a situação de Israel como uma esposa infiel que abandona o marido para seguir outros amantes. Abaixo estão cinco versículos relacionados com os temas abordados em Jeremias 3.
+* Oséias 6:1: "Venham, voltemos para o Senhor. Ele nos despedaçou, mas nos trará cura; ele nos feriu, mas cuidará de nossas feridas." Este versículo mostra a necessidade de Israel se arrepender e voltar para o Senhor, acreditando que Ele pode curar as feridas causadas pela infidelidade.
+* Ezequiel 18:30: "Portanto, ó nação de Israel, eu os julgarei, a cada um conforme o seu caminho, declara o Soberano, o Senhor. Arrependam-se! Afastem-se de todos os seus pecados; então a iniquidade deles não será a sua ruína." Esse versículo destaca a importância do arrependimento e da mudança de vida para evitar a ruína causada pelo pecado.
+* Oséias 14:1: "Volte, ó Israel, para o Senhor, o seu Deus. Seus pecados os fizeram tropeçar." Aqui, novamente, vemos a exortação para Israel voltar para o Senhor e abandonar o pecado.
+* Joel 2:13: "Rasguem o coração e não as vestes. Voltem-se para o Senhor, o seu Deus, pois ele é misericordioso e compassivo, muito paciente e cheio de amor; arrepende-se, ele não envia a desgraça." Este versículo enfatiza a necessidade de um arrependimento sincero do coração e da confiança na misericórdia de Deus.
+* Deuteronômio 30:2: "Então, se voltarem para o Senhor, o seu Deus, e lhe obedecerem de todo o coração e de toda a alma, conforme tudo o que hoje lhes ordeno, o Senhor, o seu Deus, os abençoará." Esse versículo mostra que a bênção de Deus vem para aqueles que se arrependem e obedecem a Ele de todo o coração.
+****
+
+[[v30-3-1]]
+
+^<<v30-3-1,1>>^ Diz-se: Se um homem repudiar a sua esposa, e se ela, separando-se dele, tomar outro marido, porventura poderá o primeiro voltar a tomá-la? Porventura não será considerada aquela mulher por ele como contaminada e impura? Tu porém tens-te prostituído a muitos amantes; e voltarias a mim? - diz o Senhor.
+
+[[v30-3-2]]
+
+^<<v30-3-2,2>>^ Levanta os teus olhos ao alto e repara. Onde o lugar, em que não te prostituíste? Manchaste a terra com as tuas fornicações e com as tuas maldades.
+
+[[v30-3-3]]
+
+^<<v30-3-3,3>>^ Foi por isso que as águas do céu foram retidas e que as chuvas da primavera não caíram. O descaramento de uma mulher meretriz apoderou-se de ti; não quiseste ter vergonha.
+
+[[v30-3-4]]
+
+^<<v30-3-4,4>>^ Agora chamas-me dizendo: Tu és meu pai, tu o amigo da minha mocidade.
+
+[[v30-3-5]]
+
+^<<v30-3-5,5>>^ Porventura, há-de estar sempre irritado, ou perseverará até ao fim na sua indignação? Eis aí está como falavas, cometendo o crime e consumando-o.
+
+[[v30-3-6]]
+
+^<<v30-3-6,6>>^ O Senhor disse-me nos dias do rei Josias: Não viste o que fez a rebelde Israel? Foi (adorar) sobre todos os altos montes e debaixo de todas as árvores frondosas, e ali se prostituiu (à idolatria).
+
+[[v30-3-7]]
+
+^<<v30-3-7,7>>^ Eu pensava: Ela voltará a mim, depois de tudo isto que fez. Mas não voltou. Judá, sua pérfida irmã, viu (isto).
+
+[[v30-3-8]]
+
+^<<v30-3-8,8>>^ Viu que, por ter adulterado a rebelde Israel, eu a tinha desamparado e lhe tinha dado libelo de repúdio. Contudo não teve temor a pérfida Judá, sua irmã, mas foi-se, e também ela se prostituiu (ou idolatrou);
+
+[[v30-3-9]]
+
+^<<v30-3-9,9>>^ com a sua prostituição desavergonhada contaminou a terra, adulterou com a pedra e com o pau (adorando-os como deuses).
+
+[[v30-3-10]]
+
+^<<v30-3-10,10>>^ E, depois de todas estas coisas, não se voltou para mim sua irmã, a pérfida Judá, de todo o seu coração, mas só fingidamente, diz o Senhor.
+
+[[v30-3-11]]
+
+^<<v30-3-11,11>>^ E o Senhor disse-me: A rebelde Israel parece uma santa em comparação da pérfida Judá.
+
+[[v30-3-12]]
+
+^<<v30-3-12,12>>^ Vai, e profere em alta voz estas palavras para o quilão: Volta, rebelde Israel, diz o Senhor, não te mostrarei um rosto indignado, porque sou misericordioso, diz o Senhor; a minha ira não durará eternamente.
+
+[[v30-3-13]]
+
+^<<v30-3-13,13>>^ Reconhece, todavia, a tua maldade: prevaricaste contra o Senhor teu Deus, dirigiste os teus passos para os (deuses) estranhos debaixo de todas as árvores frondosas, não ouviste a minha voz, diz o Senhor.
+
+[[v30-3-14]]
+
+^<<v30-3-14,14>>^ Convertei-vos a mim, filhos rebeldes, diz o Senhor, porque eu sou vosso senhor. Tomar-vos-ei, um de cada cidade e dois de cada família, e introduzir-vos-ei em Sião.
+
+[[v30-3-15]]
+
+^<<v30-3-15,15>>^ Dar-vos-ei pastores segundo o meu coração, os quais vos apascentarão com inteligência e sabedoria.
+
+[[v30-3-16]]
+
+^<<v30-3-16,16>>^ Depois que vos multiplicardes e crescerdes na terra naqueles dias, diz o Senhor, não se falará mais da arca da aliança do Senhor; não lhes virá ao pensamento não se lembrarão nem terão saudade dela e não se fará outra.
+
+[[v30-3-17]]
+
+^<<v30-3-17,17>>^ Naquele tempo, chamarão a Jerusalém trono do Senhor, e se reunirão todas as nações em Jerusalém em nome do Senhor, e não andarão após a maldade do seu perverso coração.
+
+[[v30-3-18]]
+
+^<<v30-3-18,18>>^ Naqueles dias a casa de Judá andará de acordo com a casa de Israel, e virão juntamente da terra do aquilão para a terra que eu dei a vossos pais.
+
+[[v30-3-19]]
+
+^<<v30-3-19,19>>^ Eu disse: Como te quererei contar entre os meus filhos, dar-te uma terra deliciosa, uma herança que seja a mais preciosa jóia no concerto das nações! E acrescentei: Chamar-me-ás pai, e não cessarás de me seguir.
+
+[[v30-3-20]]
+
+^<<v30-3-20,20>>^ Mas, do modo que uma mulher despreza o seu amigo, assim me desprezou a mim a casa de Israel, diz o Senhor.
+
+[[v30-3-21]]
+
+^<<v30-3-21,21>>^ Uma voz se ouviu nas colinas, pranto e súplicas dos filhos de Israel, porque fizeram mau o seu caminho, esqueceram-se do Senhor seu Deus.
+
+[[v30-3-22]]
+
+^<<v30-3-22,22>>^ Convertei-vos, filhos rebeldes, e eu sararei os (males dos) vossos extravios. Aqui estamos (ó Senhor), vimos a ti, porque tu és o Senhor nosso Deus.
+
+[[v30-3-23]]
+
+^<<v30-3-23,23>>^ Na verdade são mentira os (ídolos dos) outeiros e a animação (das festas idolátricas) dos montes; em verdade no Senhor nosso Deus é que está a Salvação de Israel.
+
+[[v30-3-24]]
+
+^<<v30-3-24,24>>^ O ídolo infame devora o trabalho de nossos pais desde a nossa mocidade, os seus rebanhos, os seus gados, os seus filhos e as suas filhas.
+
+[[v30-3-25]]
+
+^<<v30-3-25,25>>^ Dormiremos na nossa confusão e viveremos cobertos da nossa ignomínia, porque pecamos contra o Senhor nosso Deus, nós e nossos pais, desde a nossa mocidade até este dia, porque não ouvimos a voz do Senhor nosso Deus.
+
+'''
+
+xref:030-jeremias/030-jeremias-002.adoc#v30-2-0[&#60; Capítulo Anterior] | <<v30-3-0,Topo>> | xref:030-jeremias/030-jeremias-004.adoc#v30-4-0[Próximo Capítulo &#62;]

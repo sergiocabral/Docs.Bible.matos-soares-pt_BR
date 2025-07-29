@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v28-12-0]]
+=== Eclesiástico, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 12 fala sobre a importância da amizade verdadeira, a honestidade e a justiça, e alerta contra a maldade, a falsidade e a ganância. Os versículos a seguir abordam esses temas:
+* Provérbios 17:17: "Em todo tempo ama o amigo e para a hora da angústia nasce o irmão." Este verso fala da importância da amizade verdadeira e incondicional, que está presente tanto nos momentos bons quanto ruins.
+* Provérbios 28:6: "Melhor é o pobre que anda na sua integridade do que o de caminhos perversos ainda que seja rico." Aqui, é enfatizada a importância da honestidade, que é mais valiosa do que a riqueza obtida por meios ilícitos.
+* Provérbios 11:1: "O peso da balança enganosa é abominação para o Senhor, mas o peso justo é o seu prazer." Este versículo destaca a importância da justiça e da honestidade em nossas interações com os outros.
+* Tiago 4:16: "Mas agora vos gloriais em vossas presunções; toda a glória tal como esta é maligna." Aqui, é destacado o perigo da arrogância e da auto-importância, que podem levar a comportamentos desonestos e injustos.
+* Provérbios 28:25: "O homem ganancioso suscita contendas, mas o que confia no Senhor prosperará." Este versículo alerta contra a ganância e a busca desenfreada pelo lucro, que podem levar a conflitos e tensões entre as pessoas. Em vez disso, é recomendado confiar em Deus e em sua provisão.
+****
+
+[[v28-12-1]]
+
+^<<v28-12-1,1>>^ Se fizeres bem, sabe a quem o fazes, e receberás gratidão pelos teus benefícios.
+
+[[v28-12-2]]
+
+^<<v28-12-2,2>>^ Faze bem ao justo, e receberás uma grande recompensa, se não dele, pelo menos do Senhor.
+
+[[v28-12-3]]
+
+^<<v28-12-3,3>>^ Não há nada de bom para aquele que sempre faz o mal, e que não dá esmolas, porque o Altíssimo aborrece os pecadores e usa de misericórdia com os penitentes.
+
+[[v28-12-4]]
+
+^<<v28-12-4,4>>^ Dá ao bondoso, e não protejas o pecador, porque (Deus) dará o castigo aos ímpios e aos pecadores, guardando-os para o dia da vingança. (ver nota)
+
+[[v28-12-5]]
+
+^<<v28-12-5,5>>^ Dá ao que é bom, e não acolhas o pecador.
+
+[[v28-12-6]]
+
+^<<v28-12-6,6>>^ Faze bem ao humilde, e não dês ao ímpio; impede que se lhe dê pão, a fim de se não tornar deste modo mais poderoso do que tu, porque acharás dobrado mal por todos os bens que lhe fizeres.
+
+[[v28-12-7]]
+
+^<<v28-12-7,7>>^ O próprio Altíssimo aborrece também os pecadores, e pagará aos ímpios com o castigo.
+
+[[v28-12-8]]
+
+^<<v28-12-8,8>>^ Não é na prosperidade que o amigo se conhece, e o inimigo não ficará encoberto nas adversidades.
+
+[[v28-12-9]]
+
+^<<v28-12-9,9>>^ Quando um homem é feliz, estão tristes os seus inimigos; quando ele é desgraçado, conhece-se que é seu amigo.
+
+[[v28-12-10]]
+
+^<<v28-12-10,10>>^ Não te fies jamais no teu inimigo, porque a sua malícia é como o azebre que ataca o cobre.
+
+[[v28-12-11]]
+
+^<<v28-12-11,11>>^ Mesmo se ele todo humilhado vier cabisbaixo, põe-te alerta e guarda-te dele.
+
+[[v28-12-12]]
+
+^<<v28-12-12,12>>^ Não o ponhas junto de ti, nem ele se assente à tua direita, para que não suceda que ele se volte para o teu lugar, para ocupar a tua cadeira, e que, reconhecendo, por fim, a verdade das minhas palavras, te sintas compungido pela recordação dos meus avisos.
+
+[[v28-12-13]]
+
+^<<v28-12-13,13>>^ Quem se compadecerá do encantador ferido pela serpente e de todos os que se aproximam das feras ? o mesmo acontecerá com aquele que acompanha com o homem iníquo e que se encontra envolvido em seus pecados.
+
+[[v28-12-14]]
+
+^<<v28-12-14,14>>^ Permanecerá contigo uma hora, mas, se caíres em decadência, não te suportará.
+
+[[v28-12-15]]
+
+^<<v28-12-15,15>>^ O inimigo tem sobre os lábios a doçura, mas no seu coração arma laços para te fazer cair na cova.
+
+[[v28-12-16]]
+
+^<<v28-12-16,16>>^ O inimigo tem lágrimas nos olhos. mas, se encontrar ocasião, não se fartará de (teu) sangue.
+
+[[v28-12-17]]
+
+^<<v28-12-17,17>>^ Se vierem sobre ti os males, verás que ele é a sua primeira origem.
+
+[[v28-12-18]]
+
+^<<v28-12-18,18>>^ O inimigo tem lágrimas nos olhos, mas, fingindo socorrer-te, procurará fazer-te cair.
+
+[[v28-12-19]]
+
+^<<v28-12-19,19>>^ Abanará a cabeça, baterá palmas, e, falando muito entre dentes, mudará de semblante.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-011.adoc#v28-11-0[&#60; Capítulo Anterior] | <<v28-12-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-013.adoc#v28-13-0[Próximo Capítulo &#62;]

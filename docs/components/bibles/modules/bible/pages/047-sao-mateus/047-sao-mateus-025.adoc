@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v47-25-0]]
+=== São Mateus, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Mateus 25 apresenta três parábolas de Jesus sobre o fim dos tempos e o julgamento final. A primeira é a parábola das dez virgens, que mostra a importância da preparação e vigilância para a vinda do noivo, que simboliza Jesus. A segunda é a parábola dos talentos, que enfatiza a responsabilidade que cada um tem de usar os dons que Deus lhe deu para o bem comum e o crescimento do Reino de Deus. A terceira é a parábola das ovelhas e dos bodes, que mostra que o julgamento final será baseado em nossas ações de amor e serviço aos outros.
+* 1 Coríntios 12:7: "A cada um, porém, é dada a manifestação do Espírito para o proveito comum." Assim como a parábola dos talentos ensina, Deus nos deu dons e talentos específicos que devemos usar para o bem dos outros e a glória de Deus.
+* Tiago 1:22: "Sede cumpridores da palavra, e não somente ouvintes, enganando-vos com falsos discursos." A parábola das dez virgens enfatiza a importância da vigilância e preparação para a vinda do noivo. Essa vigilância inclui ouvir e obedecer a Palavra de Deus.
+* 1 João 3:17: "Ora, aquele que possuir recursos deste mundo, e vir a seu irmão padecer necessidade, e fechar-lhe o seu coração, como pode permanecer nele o amor de Deus?" A parábola das ovelhas e dos bodes ensina que o julgamento final será baseado em nossas ações de amor e serviço aos outros. Esse versículo em particular enfatiza a importância de compartilhar nossos recursos com os necessitados.
+* 1 Tessalonicenses 5:6: "Não durmamos, pois, como os demais, mas vigiemos e sejamos sóbrios." A parábola das dez virgens enfatiza a importância da vigilância e preparação para a vinda do noivo. Esse versículo em particular enfatiza a necessidade de estar alerta e vigilante espiritualmente.
+* Romanos 12:13: "Comunicai com os santos nas suas necessidades, segui a hospitalidade." A parábola das ovelhas e dos bodes ensina que o julgamento final será baseado em nossas ações de amor e serviço aos outros. Esse versículo em particular enfatiza a importância de mostrar hospitalidade e compartilhar o que temos com os irmãos na fé.
+****
+
+[[v47-25-1]]
+
+^<<v47-25-1,1>>^ Então será semelhante o reino dos céus a dez virgens, que, tomando as suas lâmpadas, saíram ao encontro do esposo.
+
+[[v47-25-2]]
+
+^<<v47-25-2,2>>^ Cinco delas eram loucas, e cinco prudentes.
+
+[[v47-25-3]]
+
+^<<v47-25-3,3>>^ As cinco loucas, tomando as lâmpadas, não levaram azeite consigo;
+
+[[v47-25-4]]
+
+^<<v47-25-4,4>>^ as prudentes, porém, levaram azeite nos seus vasos juntamente com as lâmpadas.
+
+[[v47-25-5]]
+
+^<<v47-25-5,5>>^ Tardando o esposo, começaram a toscanejar todas, e adormeceram.
+
+[[v47-25-6]]
+
+^<<v47-25-6,6>>^ À meia-noite, ouviu-se um clamor: Eis que vem o esposo. Saí ao seu encontro.
+
+[[v47-25-7]]
+
+^<<v47-25-7,7>>^ Então levantaram-se todas aquelas virgens, e prepararam as suas lâmpadas.
+
+[[v47-25-8]]
+
+^<<v47-25-8,8>>^ As loucas disseram às prudentes: Dai-nos do vosso azeite, porque as nossas lámpadas apagam-se.
+
+[[v47-25-9]]
+
+^<<v47-25-9,9>>^ As prudentes responderam: Para que não suceda faltar-nos ele a nós e a vós, ide antes aos que o vendem, e comprai para vós.
+
+[[v47-25-10]]
+
+^<<v47-25-10,10>>^ Mas, enquanto elas foram comprá-lo, chegou o esposo, e as que estavam preparadas entraram com ele a celebrar as bodas, e foi fechada a porta.
+
+[[v47-25-11]]
+
+^<<v47-25-11,11>>^ Mais tarde, chegaram também as outras virgens, dizendo: Senhor, Senhor, abre-nos!
+
+[[v47-25-12]]
+
+^<<v47-25-12,12>>^ Ele, porém, respondeu: Na verdade vos digo que não vos conheço.
+
+[[v47-25-13]]
+
+^<<v47-25-13,13>>^ Vigiai, pois, porque não sabeis o dia nem a hora.
+
+[[v47-25-14]]
+
+^<<v47-25-14,14>>^ Será também como um homem que, estando para empreender uma viagem, chamou os seus servos, e lhes entregou os seus bens.
+
+[[v47-25-15]]
+
+^<<v47-25-15,15>>^ Deu a um cinco talentos, a outro dois, a outro um, a cada um, segundo a sua capacidade, e partiu.
+
+[[v47-25-16]]
+
+^<<v47-25-16,16>>^ Logo em seguida, o que tinha recebido cinco talentos foi, negociou com eles, e ganhou outros cinco.
+
+[[v47-25-17]]
+
+^<<v47-25-17,17>>^ Da mesma sorte o que tinha recebido dois, ganhou outros dois.
+
+[[v47-25-18]]
+
+^<<v47-25-18,18>>^ Mas o que tinha recebido um só, foi fazer uma cova na terra, e nela escondeu o dinheiro do seu senhor.
+
+[[v47-25-19]]
+
+^<<v47-25-19,19>>^ Muito tempo depois, voltou o senhor daqueles servos, e chamou-os a contas.
+
+[[v47-25-20]]
+
+^<<v47-25-20,20>>^ Aproximando-se o que tinha recebido cinco talentos, apresentou-lhe outros cinco, dizendo: Senhor, tu entregaste-me cinco talentos, eis outros cinco que lucrei.
+
+[[v47-25-21]]
+
+^<<v47-25-21,21>>^ Sou senhor disse-Ihe: Está bem, servo bom e fiel, já que foste fiel em poucas coisas, dar-te-ei a intendência de muitas; entra no gozo de teu senhor.
+
+[[v47-25-22]]
+
+^<<v47-25-22,22>>^ Apresentou-se também o que tinha recebido dois talentos, e disse: Senhor, entregaste-me dois talentos, eis que lucrei outros dois.
+
+[[v47-25-23]]
+
+^<<v47-25-23,23>>^ Seu senhor disse-lhe: Está bem, servo bom e fiel, já que foste fiel em poucas coisas, dar-te-ei a intendência de muitas; entra no gozo de teu senhor.
+
+[[v47-25-24]]
+
+^<<v47-25-24,24>>^ Apresentando-se também o que tinha recebido um só talento, disse: Senhor, sei que és um homem austero, que colhes onde não semeaste, e recolhes onde não espalhaste.
+
+[[v47-25-25]]
+
+^<<v47-25-25,25>>^ Tive receio e fui esconder o teu talento na terra; eis o que é teu.
+
+[[v47-25-26]]
+
+^<<v47-25-26,26>>^ Então, o seu senhor disse-lhe: Servo mau e preguiçoso, sabias que eu colho onde não semeei, e que recolho onde não espalhei.
+
+[[v47-25-27]]
+
+^<<v47-25-27,27>>^ Devias pois dar o meu dinheiro aos banqueiros, e, à minha volta, eu teria recebido certamente com juro o que era meu.
+
+[[v47-25-28]]
+
+^<<v47-25-28,28>>^ Tirai-lhe pois o talento, e dai-o ao que tem dez talentos.
+
+[[v47-25-29]]
+
+^<<v47-25-29,29>>^ Porque ao que tem, der-se-lhe-á, e terá em abundância; mas ao que não tem, tirar-se-lhe-á até o que julga ter.
+
+[[v47-25-30]]
+
+^<<v47-25-30,30>>^ E a esse servo inútil lançai-o nas trevas exteriores; ali haverá pranto e ranger de dentes.
+
+[[v47-25-31]]
+
+^<<v47-25-31,31>>^ Quando, pois, vier o Filho do homem na sua majestade, e todos os anjos com ele, então se sentará sobre o trono de sua majestade.
+
+[[v47-25-32]]
+
+^<<v47-25-32,32>>^ Todas as nações serão congregadas diante dele, e separará uns dos outros, como o pastor separa as ovelhas dos cabritos.
+
+[[v47-25-33]]
+
+^<<v47-25-33,33>>^ E porá as ovelhas à sua direita, e os cabritos à esquerda.
+
+[[v47-25-34]]
+
+^<<v47-25-34,34>>^ Então o Rei dirá aos que estiverem à sua direita: Vinde, benditos de meu Pai, possuí o reino que vos está preparado desde a criação do mundo,
+
+[[v47-25-35]]
+
+^<<v47-25-35,35>>^ porque tive fome, e destes-me de comer; tive sede, e destes-me de beber; era peregrino, e recolhestes-me; (ver nota)
+
+[[v47-25-36]]
+
+^<<v47-25-36,36>>^ nu, e me vestistes; enfermo, e me visitastes; estava na prisão, e fostes visitar-me,
+
+[[v47-25-37]]
+
+^<<v47-25-37,37>>^ Então, os justos, lhe responderão: Senhor, quando é que nós te vimos faminto, e te demos de comer; sequioso, e te demos de beber?
+
+[[v47-25-38]]
+
+^<<v47-25-38,38>>^ Quando te vimos peregrino, e te recolhemos; nu, e te vestimos?
+
+[[v47-25-39]]
+
+^<<v47-25-39,39>>^ Ou quando té vimos enfermo, ou na prisão, e fomos visitar-te?
+
+[[v47-25-40]]
+
+^<<v47-25-40,40>>^ O Rei, respondendo, lhes dirá: Na verdade vos digo que todas as vezes que vós fizestes isto a um destes meus irmãos mais pequeninos, a mim o fizestes.
+
+[[v47-25-41]]
+
+^<<v47-25-41,41>>^ Em seguida, dirá aos que estiverem à esquerda: Apartai-vos de mim, malditos, para o fogo eterno, que foi preparado para o demônio e para os seus anjos;
+
+[[v47-25-42]]
+
+^<<v47-25-42,42>>^ porque tive fome, e não me destes de comer; tive sede, e não me destes de beber;
+
+[[v47-25-43]]
+
+^<<v47-25-43,43>>^ era peregrino, e não me recolhestes; estava nu, e não me vestistes; enfermo e na prisão, e não me visitastes.
+
+[[v47-25-44]]
+
+^<<v47-25-44,44>>^ Então, eles, também responderão: Senhor, quando é que nós te vimos faminto ou sequioso, ou peregrino, ou nu, ou enfermo, ou na prisão, e não te assistimos?
+
+[[v47-25-45]]
+
+^<<v47-25-45,45>>^ E lhes responderá: Na verdade vos digo : Todas as vezes que o não fizestes a um destes mais pequeninos, a mim o não fizestes.
+
+[[v47-25-46]]
+
+^<<v47-25-46,46>>^ E esses irão para o suplício eterno; e os justos para a vida eterna."
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-024.adoc#v47-24-0[&#60; Capítulo Anterior] | <<v47-25-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-026.adoc#v47-26-0[Próximo Capítulo &#62;]

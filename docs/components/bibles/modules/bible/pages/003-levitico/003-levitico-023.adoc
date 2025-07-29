@@ -1,0 +1,194 @@
+include::./index.adoc[]
+
+[[v3-23-0]]
+=== Levítico, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 23 é um capítulo que trata das festas religiosas estabelecidas por Deus para o povo de Israel. Ele descreve sete festas que devem ser celebradas ao longo do ano, juntamente com instruções detalhadas sobre como cada uma delas deve ser celebrada. Abaixo estão quatro versículos relacionados com os temas abordados em Levítico 23:
+* Colossenses 2:16-17: "Portanto, ninguém os julgue pelo que vocês comem ou bebem, ou com relação a alguma festividade religiosa, ou à celebração das luas novas ou dos dias de sábado. Estas coisas são sombras do que haveria de vir; a realidade, porém, encontra-se em Cristo." Este versículo se relaciona com o capítulo de Levítico 23, que descreve as festas religiosas estabelecidas por Deus. Em Colossenses, é feita uma conexão com o cumprimento dessas festas em Cristo.
+* Atos 2:1-4: "Quando chegou o dia de Pentecostes, estavam todos reunidos num só lugar. De repente veio do céu um som, como de um vento muito forte, e encheu toda a casa em que estavam assentados. E viram o que parecia línguas de fogo, que se separaram e pousaram sobre cada um deles. Todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito os capacitava." Este versículo se relaciona com a festa de Pentecostes, descrita em Levítico 23.
+* João 7:2-10: "Entretanto, a festa judaica dos Tabernáculos estava próxima. Jesus então lhes disse: 'O meu tempo ainda não chegou, mas para vocês qualquer tempo é bom. O mundo não pode odiá-los, mas a mim odeia, porque testifico que as suas obras são más'." Este versículo se relaciona com a festa dos Tabernáculos, descrita em Levítico 23.
+* Mateus 26:17-19: "No primeiro dia da festa dos pães sem fermento, os discípulos aproximaram-se de Jesus e perguntaram: 'Onde queres que façamos os preparativos para comermos a Páscoa?' Ele respondeu: 'Vão à cidade, procurem certo homem e digam-lhe: O Mestre diz: O meu tempo está próximo. Vou celebrar a Páscoa com os meus discípulos na sua casa'." Este versículo se relaciona com a festa da Páscoa, descrita em Levítico 23.
+****
+
+[[v3-23-1]]
+
+^<<v3-23-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-23-2]]
+
+^<<v3-23-2,2>>^ Fala aos filhos de Israel, e dize-lhes: Estas são as festas do Senhor, que chamareis Santas.
+
+[[v3-23-3]]
+
+^<<v3-23-3,3>>^ Trabalhareis seis dias: porém o sétimo dia, que é sábado, chamar-se-á santo: é dia de descanso e de santa assembleia. Não fareis nele trabalho algum. É o repouso consagrado ao Senhor em todas as vossas moradas.
+
+[[v3-23-4]]
+
+^<<v3-23-4,4>>^ Estas são as festas santas do Senhor, que deveis celebrar nos seus tempos.
+
+[[v3-23-5]]
+
+^<<v3-23-5,5>>^ No primeiro mês, no dia catorze do mês, entre as duas luzes (ao findar o dia), é a Páscoa do Senhor:
+
+[[v3-23-6]]
+
+^<<v3-23-6,6>>^ no dia quinze do mesmo mês é a Solenidade dos ázimos do Senhor. Durante sete dias comereis ázimos.
+
+[[v3-23-7]]
+
+^<<v3-23-7,7>>^ No primeiro dia convocareis uma santa assembléia, e não fareis obra alguma servil.
+
+[[v3-23-8]]
+
+^<<v3-23-8,8>>^ Oferecereis um sacrifício pelo fogo ao Senhor durante sete dias: no sétimo dia convocareis uma santa assembleia, e não fareis obra alguma servil.
+
+[[v3-23-9]]
+
+^<<v3-23-9,9>>^ O Senhor falou a Moisés, dizendo;
+
+[[v3-23-10]]
+
+^<<v3-23-10,10>>^ Fala aos filhos de Israel e dize-lhes: Quando tiverdes entrado na terra que eu vos hei-de dar, e fizerdes a ceifa das searas, Ievareis ao sacerdote molhos de espigas, como primícias da vossa colheita:
+
+[[v3-23-11]]
+
+^<<v3-23-11,11>>^ ele, ao outro dia depois do sábado, elevará um molho diante do Senhor, para que lhe seja aceite em vosso favor, e o santificará.
+
+[[v3-23-12]]
+
+^<<v3-23-12,12>>^ No mesmo dia em que o molho for consagrado, imolar-se-á um cordeiro de um ano, sem defeito, em holocausto ao Senhor.
+
+[[v3-23-13]]
+
+^<<v3-23-13,13>>^ Com ele se fará a oblação de duas dízimas de flor de farinha borrifada com azeite, para ser queimada com suave odor ao Senhor; a libação será de vinho, será de uma quarta parte de um hin.
+
+[[v3-23-14]]
+
+^<<v3-23-14,14>>^ Não comereis da vossa seara nem pão, nem grão torrado, nem espigas frescas até ao dia em que oferecerdes dela ao vosso Deus. Esta é uma lei perpétua em vossas gerações, e em todas as vossas habitações.
+
+[[v3-23-15]]
+
+^<<v3-23-15,15>>^ Desde o dia depois do sábado, no qual oferecestes o molho das primícias, contareis sete semanas completas,
+
+[[v3-23-16]]
+
+^<<v3-23-16,16>>^ e mais um dia depois daquela em que se completa a sétima semana, isto é, (contareis) cinquenta dias: então oferecereis um novo sacrifício ao Senhor
+
+[[v3-23-17]]
+
+^<<v3-23-17,17>>^ em todas as vossas habitações, dois pães das primícias (feitos) de duas dízimas de flor de farinha fermentada, os quais cozereis para primícias do Senhor.
+
+[[v3-23-18]]
+
+^<<v3-23-18,18>>^ Oferecereis com estes pães sete cordeiros de um ano sem defeito, um novilho da manada, dois carneiros, que serão oferecidos em holocausto com as suas libações, em odor suavíssimo ao Senhor.
+
+[[v3-23-19]]
+
+^<<v3-23-19,19>>^ Oferecereis, além disso, um bode pelo pecado, e dois cordeiros de um ano como vítimas de sacrifícios pacíficos.
+
+[[v3-23-20]]
+
+^<<v3-23-20,20>>^ Quando o sacerdote os tiver elevado diante do Senhor juntamente com os pães das primícias, ficarão para seu uso.
+
+[[v3-23-21]]
+
+^<<v3-23-21,21>>^ Neste mesmo dias convocareis uma assembleia santa e não fareis obra servil alguma. Esta será uma lei perpétua em todas as vossas habitações e gerações.
+
+[[v3-23-22]]
+
+^<<v3-23-22,22>>^ Quando ceifardes a seara dos vossos campos, não a cortareis até à terra nem enfeixareis as espigas que ficarem, mas deixá-las-eis para os pobres e para os forasteiros. Eu sou o Senhor vosso Deus.
+
+[[v3-23-23]]
+
+^<<v3-23-23,23>>^ O Senhor falou a Moisés:
+
+[[v3-23-24]]
+
+^<<v3-23-24,24>>^ Dize aos filhos de Israel: No sétimo mês, no primeiro dia do mês haverá um solene repouso (que vós celebrareis) ao som das trombetas, uma assembleia santa.
+
+[[v3-23-25]]
+
+^<<v3-23-25,25>>^ Não fareis nele trabalho algum servil, e oferecereis um holocausto ao Senhor.
+
+[[v3-23-26]]
+
+^<<v3-23-26,26>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-23-27]]
+
+^<<v3-23-27,27>>^ Aos dez deste sétimo mês, será o dia das expiações: convocareis uma assembleia santa, mortificar-vos-eis e oferecereis um holocausto ao Senhor.
+
+[[v3-23-28]]
+
+^<<v3-23-28,28>>^ Não fareis obra servil alguma em todo este dia, porque é um dia de propiciação, para que o Senhor vosso Deus vos seja propício.
+
+[[v3-23-29]]
+
+^<<v3-23-29,29>>^ Todo aquele que se não mortificar neste dia, será eliminado do meio do seu povo;
+
+[[v3-23-30]]
+
+^<<v3-23-30,30>>^ o que fizer qualquer trabalho, eu o eliminarei do seu povo.
+
+[[v3-23-31]]
+
+^<<v3-23-31,31>>^ Não fareis, pois, nele obra alguma; esta será uma lei perpétua em todas as vossas gerações e habitações.
+
+[[v3-23-32]]
+
+^<<v3-23-32,32>>^ É o sábado do repouso, nele vos mortificareis; no dia nove do mês celebrareis o vosso sábado, desde a tarde até à tarde seguinte.
+
+[[v3-23-33]]
+
+^<<v3-23-33,33>>^ O Senhor falou a Moisés, dizendo;
+
+[[v3-23-34]]
+
+^<<v3-23-34,34>>^ Dize aos filhos de Israel: Desde o dia quinze deste sétimo mês, serão as festas dos tabernáculos durante sete dias em honra do Senhor.
+
+[[v3-23-35]]
+
+^<<v3-23-35,35>>^ No primeiro dia haverá assembleia santa; não fareis nele trabalho algum servil.
+
+[[v3-23-36]]
+
+^<<v3-23-36,36>>^ Durante sete dias oferecereis holocaustos ao Senhor; no dia oitavo haverá assembleia santa e oferecereis um holocausto ao Senhor, porque é dia de ajuntamento e de assembleia; não fareis nele obra alguma servil.
+
+[[v3-23-37]]
+
+^<<v3-23-37,37>>^ Estas são as festas do Senhor, que publicareis para haver assembleias santas, para oferecer ao Senhor oblações, holocaustos e libações, conforme o rito de cada dia,
+
+[[v3-23-38]]
+
+^<<v3-23-38,38>>^ independentemente dos sábados do Senhor, dos vossos dons, dos vossos votos e de todas as ofertas que voluntariamente fizerdes ao Senhor.
+
+[[v3-23-39]]
+
+^<<v3-23-39,39>>^ Desde o dia quinze do sétimo mês, quando tiverdes colhido todos os frutos da vossa terra, celebrareis as festas do Senhor durante sete dias: o primeiro dia e o oitavo serão de completo descanso.
+
+[[v3-23-40]]
+
+^<<v3-23-40,40>>^ No primeiro dia tomareis dos frutos de árvores formosas, folhas de palmeira, ramos de árvores frondosas, salgueiros da torrente, e alegrar-vos-eis diante do Senhor vosso Deus.
+
+[[v3-23-41]]
+
+^<<v3-23-41,41>>^ Celebrareis todos os anos durante sete dias esta solenidade. Esta será uma lei perpétua cm vossas gerações. Celebrá-la-eis no sétimo mês,
+
+[[v3-23-42]]
+
+^<<v3-23-42,42>>^ e habitareis à sombra dos ramos durante sete dias: todo o homem da geração de Israel habitará em tendas.
+
+[[v3-23-43]]
+
+^<<v3-23-43,43>>^ para que os vossos descendentes saibam que eu fiz habitar em tendas os filhos de Israel, depois de os ter tirado da tenra do Egipto. Eu sou o Senhor vosso Deus.
+
+[[v3-23-44]]
+
+^<<v3-23-44,44>>^ Moisés, pois, falou aos filhos de Israel sobre as festas do Senhor.
+
+'''
+
+xref:003-levitico/003-levitico-022.adoc#v3-22-0[&#60; Capítulo Anterior] | <<v3-23-0,Topo>> | xref:003-levitico/003-levitico-024.adoc#v3-24-0[Próximo Capítulo &#62;]

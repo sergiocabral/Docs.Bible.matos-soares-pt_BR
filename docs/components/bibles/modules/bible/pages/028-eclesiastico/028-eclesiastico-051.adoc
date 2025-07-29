@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v28-51-0]]
+=== Eclesiástico, 51
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 51 de Eclesiástico é uma oração de agradecimento e louvor a Deus, na qual o autor reconhece a ação divina em sua vida e pede perdão por seus pecados. Dessa forma, os versículos selecionados terão relação com essa temática:
+* Salmos 30:12: "Para que a minha glória a ti cante louvores, e não se cale. Senhor, Deus meu, eu te louvarei para sempre." Este salmo é uma oração de agradecimento a Deus pela cura e salvação, e pode ser relacionado com o tema de agradecimento presente em Eclesiástico 51.
+* Salmos 103:2: "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum de seus benefícios." Este salmo é uma exortação para que a alma louve e agradeça a Deus por todos os seus benefícios, e pode ser relacionado com a temática de gratidão presente em Eclesiástico 51.
+* Isaías 55:6-7: "Buscai o Senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele; e volte para o nosso Deus, porque é rico em perdoar." Este trecho de Isaías é uma exortação ao arrependimento e à busca de Deus, que pode ser relacionado com a temática de confissão presente em Eclesiástico 51.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça." Este versículo de 1 João destaca a importância da confissão dos pecados e do perdão divino, e pode ser relacionado com o tema de arrependimento e perdão presentes em Eclesiástico 51.
+* Salmos 51:10: "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto." Este salmo é uma oração de arrependimento e confissão dos pecados, e pode ser relacionado com a temática presente em Eclesiástico 51, na qual o autor pede perdão a Deus por seus erros e agradece pela misericórdia divina.
+****
+
+[[v28-51-1]]
+
+^<<v28-51-1,1>>^ Oração de Jesus, filho de Sirach. Glorificar-te-ei, ó Senhor rei, louvar-te-ei, Deus, salvador meu.
+
+[[v28-51-2]]
+
+^<<v28-51-2,2>>^ Glorificarei o teu nome, porque te fizeste o meu auxílio e protector,
+
+[[v28-51-3]]
+
+^<<v28-51-3,3>>^ livraste o meu corpo da perdição, do laço da língua iníqua e dos lábios dos forjadores da mentira; à vista dos que estavam contra mim, foste o meu defensor.
+
+[[v28-51-4]]
+
+^<<v28-51-4,4>>^ Livraste-me, segundo a grandeza da misericórdia do teu nome, dos que rugiam, preparados para me devorarem,
+
+[[v28-51-5]]
+
+^<<v28-51-5,5>>^ das mãos dos que procuravam tirar-me a vida, do poder das tribulações que me assaltavam,
+
+[[v28-51-6]]
+
+^<<v28-51-6,6>>^ da violência da chama que me envolvia. — no melo do fogo (da perseguição) não me queimei — das profundas entranhas da morada dos mortos,
+
+[[v28-51-7]]
+
+^<<v28-51-7,7>>^ da língua impura, da palavra de mentira, dum rei iníquo e da língua injusta.
+
+[[v28-51-8]]
+
+^<<v28-51-8,8>>^ A minha alma louvará o Senhor até à morte,
+
+[[v28-51-9]]
+
+^<<v28-51-9,9>>^ pois a minha vida estava prestes a cair nas profundezas da morada dos mortos.
+
+[[v28-51-10]]
+
+^<<v28-51-10,10>>^ Cercaram-me de todas as partes, e não havia quem me ajudasse. Volvia os olhos em busca do socorro dos homens, e não apareciam.
+
+[[v28-51-11]]
+
+^<<v28-51-11,11>>^ Lembrei-me da tua misericórdia. Senhor, do que tens feito desde o princípio do mundo,
+
+[[v28-51-12]]
+
+^<<v28-51-12,12>>^ porque livras os que esperam em ti. Senhor, porque os salvas das mãos das nações.
+
+[[v28-51-13]]
+
+^<<v28-51-13,13>>^ Tu exaltaste a minha habitação sobre a terra, e eu roguei-te quando vinha sobre mim a torrente de morte.
+
+[[v28-51-14]]
+
+^<<v28-51-14,14>>^ Invoquei o Senhor, pai do meu Senhor, para que me não abandonasse, no dia da minha tribulação, sem socorro, durante o domínio dos soberbos.
+
+[[v28-51-15]]
+
+^<<v28-51-15,15>>^ Louvarei incessantemente o teu nome, celebrá-lo-ei nas minhas acções de graças, pois foi atendida a minha oração.
+
+[[v28-51-16]]
+
+^<<v28-51-16,16>>^ porque me livraste da perdição, me salvaste no tempo calamitoso.
+
+[[v28-51-17]]
+
+^<<v28-51-17,17>>^ Por Isso eu te glorificarei, cantarei os teus louvores, e bem-direi o nome do Senhor.
+
+[[v28-51-18]]
+
+^<<v28-51-18,18>>^ Quando eu ainda era jovem, antes de andar errante, busquei abertamente a sabedoria com a minha oração.
+
+[[v28-51-19]]
+
+^<<v28-51-19,19>>^ Diante do templo eu a pedia, e buscá-la-ei até ao fim da minha vida. Ela floresceu (em mim) como uva temporã;
+
+[[v28-51-20]]
+
+^<<v28-51-20,20>>^ O meu coração alegrou-se nela; os meus pés andaram por caminho direito; desde a minha mocidade tenho ido em seguimento dela.
+
+[[v28-51-21]]
+
+^<<v28-51-21,21>>^ Apliquei um pouco o meu ouvido, e logo a percebi.
+
+[[v28-51-22]]
+
+^<<v28-51-22,22>>^ Encontrei muita sabedoria em mim mesmo, e fiz nela grandes progressos.
+
+[[v28-51-23]]
+
+^<<v28-51-23,23>>^ Ao que me deu a sabedoria, dar-lhe-ei gloria.
+
+[[v28-51-24]]
+
+^<<v28-51-24,24>>^ Resolvi-me a pô-la em prática; tive zelo do bem, e não me envergonharei.
+
+[[v28-51-25]]
+
+^<<v28-51-25,25>>^ Lutou a minha alma por ela, conservei-me constante em a praticar.
+
+[[v28-51-26]]
+
+^<<v28-51-26,26>>^ Levantei as minhas mãos ao alto, e chorei a loucura da minha alma.
+
+[[v28-51-27]]
+
+^<<v28-51-27,27>>^ Dirigi para ela a minha alma, e encontrei-a. ao procurar conhecê-la.
+
+[[v28-51-28]]
+
+^<<v28-51-28,28>>^ Possuí, graças a ela, o meu coração desde o princípio, e, por isso, não serei desamparado (por Deus).
+
+[[v28-51-29]]
+
+^<<v28-51-29,29>>^ As minhas entranhas comoveram-se em busca dela; por isso consegui um bem excelente.
+
+[[v28-51-30]]
+
+^<<v28-51-30,30>>^ O Senhor deu-me em recompensa uma língua (eloquente); com ela o louvarei.
+
+[[v28-51-31]]
+
+^<<v28-51-31,31>>^ Aproximai-vos de mim, ó ignorantes, e reuni-vos na casa da instrução.
+
+[[v28-51-32]]
+
+^<<v28-51-32,32>>^ Por que tardais vós ainda? E que dizeis a isto? As vossas almas estão sequiosas em extremo.
+
+[[v28-51-33]]
+
+^<<v28-51-33,33>>^ Eu abri a minha boca e disse: Vinde buscá-la sem dinheiro.
+
+[[v28-51-34]]
+
+^<<v28-51-34,34>>^ submetei o vosso pescoço ao seu jugo, e receba a vossa alma a instrução, porque perto se pode encontrá-la.
+
+[[v28-51-35]]
+
+^<<v28-51-35,35>>^ Vede com os vossos olhos o pouco que trabalhei, e como adquiri muito descanso.
+
+[[v28-51-36]]
+
+^<<v28-51-36,36>>^ Recebei a instrução, como uma grande soma de dinheiro. e possuireis com ela grande abundância de ouro.
+
+[[v28-51-37]]
+
+^<<v28-51-37,37>>^ Alegre-se a vossa alma na misericórdia do Senhor, e nunca ficareis confundidos, quando o louvardes.
+
+[[v28-51-38]]
+
+^<<v28-51-38,38>>^ Realizai a vossa obra, antes que passe o tempo, e ele vos dará a seu tempo a vossa recompensa.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-050.adoc#v28-50-0[&#60; Capítulo Anterior] | <<v28-51-0,Topo>> | xref:029-isaias/029-isaias-001.adoc#v29-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v3-3-0]]
+=== Levítico, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 3 trata da oferta de sacrifício de paz, que é oferecida voluntariamente como um ato de gratidão e comunhão com Deus. O capítulo descreve os requisitos para o sacrifício de animais de rebanho, como ovelhas, cabras e bovinos. Os versículos selecionados são:
+* Levítico 22:29-30: "Quando vocês oferecerem um sacrifício de ação de graças ao Senhor, ofereçam-no de tal forma que seja aceitável. No mesmo dia comam-no. Não deixem nada dele sobrar até a manhã seguinte. Eu sou o Senhor." Este versículo fala sobre a importância de oferecer o sacrifício de ação de graças de forma aceitável a Deus e consumi-lo no mesmo dia, o que é um princípio importante no capítulo 3.
+* Hebreus 13:15: "Por meio de Jesus, portanto, ofereçamos continuamente a Deus um sacrifício de louvor, que é fruto de lábios que confessam o seu nome." Este versículo mostra que, embora não sejamos mais obrigados a oferecer sacrifícios de animais, ainda podemos oferecer sacrifícios a Deus, como o sacrifício de louvor.
+* Salmo 50:14: "Ofereça a Deus em sacrifício a sua gratidão, cumpra os seus votos para com o Altíssimo," Este versículo nos lembra que o sacrifício de paz era um ato de gratidão e comunhão com Deus, e que podemos oferecer nossos próprios sacrifícios de gratidão e compromisso.
+* Isaías 53:5: "Mas ele foi traspassado por causa das nossas transgressões, foi esmagado por causa de nossas iniquidades; o castigo que nos trouxe paz estava sobre ele, e pelas suas feridas fomos curados." Este versículo nos lembra que Jesus é o sacrifício final que traz paz entre Deus e o homem.
+* Romanos 5:1: "Tendo sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo," Este versículo destaca a importância da paz com Deus e como ela é alcançada através de Jesus Cristo.
+****
+
+[[v3-3-1]]
+
+^<<v3-3-1,1>>^ Se a oferta de alguém for um sacrifício pacífico de gado graúdo, apresentará diante do Senhor um macho ou fêmea sem defeito.
+
+[[v3-3-2]]
+
+^<<v3-3-2,2>>^ Porá a mão sobre a cabeça da sua vitima, a qual será imolada à entrada do tabernáculo da reunião, e os sacerdotes filhos de Aarão derramarão o sangue ao redor do altar.
+
+[[v3-3-3]]
+
+^<<v3-3-3,3>>^ Oferecerá desta vítima pacífica, em sacrifício pelo fogo ao Senhor, a gordura que cobre as vísceras, e tudo o que há de gordura interiormente:
+
+[[v3-3-4]]
+
+^<<v3-3-4,4>>^ os dois rins com a gordura, que cobre os lombos, e o redanho do figado com os rins.
+
+[[v3-3-5]]
+
+^<<v3-3-5,5>>^ Os filhos de Aarão queimarão tudo isto em holocausto sobre o altar, depois de ter posto fogo debaixo da lenha, em oblação de suavíssimo odor ao Senhor.
+
+[[v3-3-6]]
+
+^<<v3-3-6,6>>^ Porém, se a oferta e hóstia pacífica de alguém for de gado miúdo, quer ofereça um macho quer uma fêmea, serão sem defeito.
+
+[[v3-3-7]]
+
+^<<v3-3-7,7>>^ Se oferecer um cordeiro diante do Senhor,
+
+[[v3-3-8]]
+
+^<<v3-3-8,8>>^ porá a sua mão sobre a cabeça da sua vítima, a qual será imolada no vestíbulo do tabernáculo da reunião: os filhos de Aarão derramarão o seu sangue em redor do altar.
+
+[[v3-3-9]]
+
+^<<v3-3-9,9>>^ Desta vítima pacífica oferecerá, em sacrifício pelo fogo ao Senhor, a gordura e toda a cauda,
+
+[[v3-3-10]]
+
+^<<v3-3-10,10>>^ com os rins e a gordura que cobre o ventre e todas as vísceras, os dois rins com a gordura que está junto dos lombos, e o redanho do fígado com os rins.
+
+[[v3-3-11]]
+
+^<<v3-3-11,11>>^ O sacerdote queimará estas coisas sobre o altar, em alimento do fogo, e em oblação ao Senhor.
+
+[[v3-3-12]]
+
+^<<v3-3-12,12>>^ Se a oferta de alguém for uma cabra, e a oferecer ao Senhor,
+
+[[v3-3-13]]
+
+^<<v3-3-13,13>>^ pôr-lhe-á a mão sobre a cabeça, e a imolará à entrada do tabernáculo do testemunho. Os filhos de Aarão derramarão o seu sangue ao redor do altar.
+
+[[v3-3-14]]
+
+^<<v3-3-14,14>>^ Tomarão dela para o alimento do fogo do Senhor a gordura que cobre o ventre, e todas as vísceras;
+
+[[v3-3-15]]
+
+^<<v3-3-15,15>>^ os dois rins com o redanho, que está sobre eles junto dos lombos, e a gordura do fígado com os rins.
+
+[[v3-3-16]]
+
+^<<v3-3-16,16>>^ O sacerdote queimará estas coisas sobre o altar em alimento do fogo, e em suavíssimo odor ao Senhor. Toda a gordura será do Senhor,
+
+[[v3-3-17]]
+
+^<<v3-3-17,17>>^ por um direito perpétuo em todas as vossas gerações, e em todas as vossas moradas; jamais comereis sangue ou gordura.
+
+'''
+
+xref:003-levitico/003-levitico-002.adoc#v3-2-0[&#60; Capítulo Anterior] | <<v3-3-0,Topo>> | xref:003-levitico/003-levitico-004.adoc#v3-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v21-97-0]]
+=== Salmos, 97
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 97 celebra a majestade e o poder de Deus sobre todas as coisas. O salmista descreve a vinda do Senhor para governar e julgar a terra, e conclama todas as nações a se alegrarem e a adorarem a Deus. A seguir, estão cinco versículos relacionados com os temas abordados em Salmo 97:
+* Isaías 52:7: "Quão formosos são sobre os montes os pés do que anuncia as boas-novas, que faz ouvir a paz, que anuncia o bem, que faz ouvir a salvação, que diz a Sião: O teu Deus reina!" Este verso fala sobre a mensagem de paz e salvação que é anunciada pelos mensageiros de Deus, e que é uma expressão do seu reinado sobre a terra.
+* Salmos 99:1: "O SENHOR reina, tremam os povos; ele está entronizado sobre os querubins, estremeça a terra." Este versículo enfatiza a soberania e o poder de Deus sobre as nações da terra, e a sua presença majestosa na sua habitação celestial.
+* Salmos 103:19: "O SENHOR estabeleceu o seu trono nos céus, e o seu reino domina sobre tudo." Este verso fala sobre a posição de supremacia de Deus sobre todas as coisas, e sobre o seu governo sobre o universo.
+* Salmos 146:10: "O SENHOR reina eternamente; o teu Deus, ó Sião, reina de geração em geração. Louvai ao SENHOR!" Este versículo reitera a natureza eterna e duradoura do reinado de Deus, e conclama todas as pessoas a louvá-lo.
+* Apocalipse 19:6: "E ouvi como que a voz de uma grande multidão, e como que a voz de muitas águas, e como que a voz de grandes trovões, que dizia: Aleluia! pois já o Senhor Deus Todo-Poderoso reina." Este verso descreve a celebração que ocorre nos céus quando Deus assume o seu pleno reinado sobre a terra, e todas as criaturas o adoram e o louvam.
+****
+
+[[v21-97-1]]
+
+^<<v21-97-1,1>>^ Salmo. Cantai ao Senhor um cântico novo, porque operou maravilhas. Vitória lhe preparou a sua direita e o seu santo braço.
+
+[[v21-97-2]]
+
+^<<v21-97-2,2>>^ O Senhor manifestou a sua salvação; revelou a sua justiça aos olhos das gentes.
+
+[[v21-97-3]]
+
+^<<v21-97-3,3>>^ Lembrou-se da sua bondade e da sua fidelidade em favor da casa de Israel. Todos os confins da terra viram a salvação do nosso Deus.
+
+[[v21-97-4]]
+
+^<<v21-97-4,4>>^ Aclamai o Senhor, todas as terras, alegrai-vos, rejubilai e cantai salmos.
+
+[[v21-97-5]]
+
+^<<v21-97-5,5>>^ Cantai salmos ao Senhor com citara, com citara e ao som do saltério.
+
+[[v21-97-6]]
+
+^<<v21-97-6,6>>^ com trombetas e ao som de corneta: regozijai-vos na presença do (vosso) rei, (que é o) Senhor.
+
+[[v21-97-7]]
+
+^<<v21-97-7,7>>^ Ressoe o mar e tudo o que há nele, o mundo e os que habitam nele.
+
+[[v21-97-8]]
+
+^<<v21-97-8,8>>^ Batam palmas os rios, ao mesmo tempo os montes se alegrem
+
+[[v21-97-9]]
+
+^<<v21-97-9,9>>^ à vista do Senhor, porque vem, porque vem governar a terra. Governará o mundo com justiça e os povos com equidade.
+
+'''
+
+xref:021-salmos/021-salmos-096.adoc#v21-96-0[&#60; Capítulo Anterior] | <<v21-97-0,Topo>> | xref:021-salmos/021-salmos-098.adoc#v21-98-0[Próximo Capítulo &#62;]

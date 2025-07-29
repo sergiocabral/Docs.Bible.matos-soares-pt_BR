@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v1-50-0]]
+=== Gênesis, 50
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 50 é o último capítulo do livro de Gênesis e trata principalmente da morte de Jacó e da resolução final da história de José e seus irmãos. Alguns temas importantes abordados incluem luto e reconciliação. Abaixo estão cinco versículos relacionados com esses temas:
+* Eclesiastes 3:4: "Há tempo de chorar e tempo de rir; tempo de prantear e tempo de dançar." Este verso fala sobre a natureza cíclica da vida e como o luto e o choro são uma parte natural dela. Ele se relaciona com a história de Gênesis 50, onde os personagens estão enfrentando a morte de seu pai e lidando com suas emoções.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação, que nos consola em todas as nossas tribulações, para que, com a consolação que recebemos de Deus, possamos consolar os que estão passando por tribulações." Este verso fala sobre como Deus é um Deus de consolo e como Ele pode nos ajudar a superar nossas tribulações e consolar os outros que estão passando por elas. Ele se relaciona com a história de Gênesis 50, onde José e seus irmãos estão se consolando pela morte de Jacó.
+* Romanos 12:18: "Se for possível, quanto depender de vós, tende paz com todos os homens." Este verso fala sobre a importância da paz e da reconciliação em nossos relacionamentos. Ele se relaciona com a história de Gênesis 50, onde José e seus irmãos finalmente se reconciliam após anos de conflito.
+* Efésios 4:32: "Antes, sede bondosos uns para com os outros, compassivos, perdoando-vos mutuamente, como também Deus vos perdoou em Cristo." Este verso fala sobre a importância do perdão em nossos relacionamentos. Ele se relaciona com a história de Gênesis 50, onde José perdoa seus irmãos pelo que fizeram a ele no passado.
+* Mateus 5:4: "Bem-aventurados os que choram, porque serão consolados." Este verso é parte das bem-aventuranças de Jesus e fala sobre como aqueles que choram serão consolados. Ele se relaciona com a história de Gênesis 50, onde os personagens estão enfrentando a morte de Jacó e lidando com suas emoções de luto.
+****
+
+[[v1-50-1]]
+
+^<<v1-50-1,1>>^ José, vendo isto, lançou-se sobre o rosto do pai, chorando e beijando-o.
+
+[[v1-50-2]]
+
+^<<v1-50-2,2>>^ Ordenou aos médicos que o serviam, que embalsamassem o seu pai.
+
+[[v1-50-3]]
+
+^<<v1-50-3,3>>^ Enquanto eles cumpriam a ordem, passaram-se quarenta dias, porque este é o tempo gasto para embalsamar (um cadáver). O Egito chorou-o durante setenta dias.
+
+[[v1-50-4]]
+
+^<<v1-50-4,4>>^ Terminado o tempo do luto, disse José à família de Faraó; Se eu achei graça diante de vós, fazei chegar aos ouvidos de Faraó
+
+[[v1-50-5]]
+
+^<<v1-50-5,5>>^ que meu pai me obrigou a jurar, quando disse: Vou morrer, sepultas-me-ás no meu sepulcro, que mandei abrir para mim na terra de Canaan. Irei, pois, sepultar meu pai, e depois voltarei.
+
+[[v1-50-6]]
+
+^<<v1-50-6,6>>^ Faraó respondeu: Vai e sepulta teu pai, como prometeste com juramento.
+
+[[v1-50-7]]
+
+^<<v1-50-7,7>>^ Partindo ele, acompanharam-no todos os anciães da casa de Faraó, e todos os principais da terra do Egito,
+
+[[v1-50-8]]
+
+^<<v1-50-8,8>>^ a casa de José com seus irmãos, e a casa de seu pai, à excepção dos pequeninos, dos rebanhos, e dos armamentos, os quais deixaram na terra de Gessen.
+
+[[v1-50-9]]
+
+^<<v1-50-9,9>>^ Teve também (José) o acompanhamento de carros e cavaleiros, de forma que o cortejo era enorme.
+
+[[v1-50-10]]
+
+^<<v1-50-10,10>>^ Chegaram à eira de Atad, que está situada além do Jordão, onde gastaram sete dias a celebrar as exéquias com um pranto grande e profundo.
+
+[[v1-50-11]]
+
+^<<v1-50-11,11>>^ Tendo observado isto os habitantes da terra de Canaan, disseram: Grande pranto é este dos egípcios. Por isto, se ficou chamando aquele lugar o Pranto do Egito.
+
+[[v1-50-12]]
+
+^<<v1-50-12,12>>^ Fizeram, pois, os filhos de Jacob como ele lhes tinha mandado:
+
+[[v1-50-13]]
+
+^<<v1-50-13,13>>^ levando-o à terra de Canaan, o sepultaram na caverna, em frente de Mambré, que Abraão tinha comprado a Efron, o Heteu, com o campo (em que ela está), para ter um sepulcro.
+
+[[v1-50-14]]
+
+^<<v1-50-14,14>>^ José, sepultado seu pai, voltou para o Egito com seus irmãos e toda a comitiva.
+
+[[v1-50-15]]
+
+^<<v1-50-15,15>>^ Depois da morte de Jacob, os irmãos (de José) ficaram temerosos, dizendo entre si: Quem sabe se José nos ganhará ódio lembrado da injúria que padeceu, e nos fará pagar todo o mal que lhe fizemos?
+
+[[v1-50-16]]
+
+^<<v1-50-16,16>>^ Mandaram-lhe, pois, dizer: Teu pai antes de morrer ordenou-nos
+
+[[v1-50-17]]
+
+^<<v1-50-17,17>>^ que em seu nome te disséssemos: Peço-te que esqueças o crime de teus irmãos, o pecado e a maldade que usaram contra ti; nós te suplicamos também que perdoes esta iniquidade aos servos do Deus de teu pai. Ouvindo isto, José chorou.
+
+[[v1-50-18]]
+
+^<<v1-50-18,18>>^ Seus irmãos foram ter com ele, e, prostrados por terra, disseram: Nós somos teus servos.
+
+[[v1-50-19]]
+
+^<<v1-50-19,19>>^ Ele respondeu-lhes: Não temais: porventura podemos nós resistir à vontade de Deus?
+
+[[v1-50-20]]
+
+^<<v1-50-20,20>>^ Vós tivestes intenção de me fazer mal, mas Deus o converteu em bem, para me exaltar, como presentemente vedes, e para salvar muitos povos.
+
+[[v1-50-21]]
+
+^<<v1-50-21,21>>^ Não temais: eu vos sustentarei a vós e a vossos filhinhos. Assim os consolou, falando-lhes com doçura e mansidão.
+
+[[v1-50-22]]
+
+^<<v1-50-22,22>>^ (José) habitou no Egito, com toda a família de seu pai. Viveu cento e dez anos, e viu os filhos de Efraim até à terceira geração. Os filhos de Maquir, filho de Manassés, nasceram também sobre os joelhos de José.
+
+[[v1-50-23]]
+
+^<<v1-50-23,23>>^ Passado isto, disse a seus irmãos: Deus vos visitará, depois da minha morte, e vos fará sair desta terra para a terra prometida com juramento a Abraão, a Isaac e a Jacob.
+
+[[v1-50-24]]
+
+^<<v1-50-24,24>>^ José obrigou os filhos de Israel a jurar, dizendo: Deus vos visitará, levai os meus ossos convosco deste lugar.
+
+[[v1-50-25]]
+
+^<<v1-50-25,25>>^ Morreu, tendo completado os cento e dez anos da sua vida, e foi embalsamado e depositado num caixão no Egito.
+
+'''
+
+xref:001-genesis/001-genesis-049.adoc#v1-49-0[&#60; Capítulo Anterior] | <<v1-50-0,Topo>> | xref:002-exodo/002-exodo-001.adoc#v2-1-0[Próximo Capítulo &#62;]

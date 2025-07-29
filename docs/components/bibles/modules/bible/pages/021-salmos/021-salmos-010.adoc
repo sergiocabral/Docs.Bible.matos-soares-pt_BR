@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-10-0]]
+=== Salmos, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 10 é um lamento que expressa a perplexidade do salmista diante da aparente injustiça de Deus permitir que os ímpios prosperem e oprimam os pobres e necessitados. O salmo começa com a pergunta: "Por que, SENHOR, te conservas longe? E por que te escondes nas horas de tribulação?" (v. 1). Os versículos seguintes descrevem a arrogância e maldade dos ímpios e sua falta de temor a Deus. Abaixo estão cinco versículos relacionados com os temas abordados no Salmo 10:
+* Provérbios 21:13: "O que tapa o ouvido ao clamor do pobre, também clamará e não será ouvido." Este versículo faz alusão à questão levantada no Salmo 10 sobre a aparente inação de Deus diante da opressão dos necessitados pelos ímpios. O provérbio adverte que aqueles que ignoram o clamor dos pobres também serão ignorados quando clamarem por ajuda.
+* Salmos 73:2-3: "Quanto a mim, quase me resvalaram os pés; pouco faltou para que se desviassem os meus passos. Pois eu tinha inveja dos soberbos, ao ver a prosperidade dos ímpios." O salmista expressa uma experiência semelhante à do salmista de Salmo 10 ao observar a prosperidade dos ímpios e questionar a justiça de Deus.
+* Salmos 37:35-36: "Vi um ímpio prepotente, a expandir-se qual cedro do Líbano. Voltei a passar, e eis que já não era; procurei-o, mas não foi possível encontrá-lo." Esses versículos retratam a transitoriedade da prosperidade dos ímpios e a certeza de que, em última análise, a justiça prevalecerá.
+* Salmos 12:5: "Por causa da opressão do necessitado e do gemido do pobre, agora me levantarei, diz o SENHOR; porei a salvo aquele para quem eles assopram." Este verso oferece esperança ao salmista de Salmo 10, assegurando que Deus não permanecerá inativo diante da opressão dos ímpios e que os necessitados serão salvos.
+* Salmos 9:15-16: "Fizeram uma cova, aprofundaram-na, e caíram na própria cova que fizeram. O SENHOR deu a conhecer a sua justiça, executando juízo; enlaçado ficou o ímpio nas obras de suas mãos." Esses versículos afirmam a justiça de Deus e a inevitabilidade de que os ímpios colherão o que plantaram, oferecendo mais uma vez esperança e consolo ao salmista de Salmo 10.
+****
+
+[[v21-10-1]]
+
+^<<v21-10-1,1>>^ Ao mestre do coro. De Davide.
+
+[[v21-10-2]]
+
+^<<v21-10-2,2>>^ Ao Senhor me acolho; por que dizeis (pois) à minha a alma: "Foge para o monte como a ave?" (1)
+
+[[v21-10-3]]
+
+^<<v21-10-3,3>>^ Eis que os ímpios retesam o seu arco, ajustam a sua flecha sobre a corda, para dispararem às ocultas contra os que são de coração recto. (2)
+
+[[v21-10-4]]
+
+^<<v21-10-4,4>>^ Quando se desmoronam os fundamentos, que pode fazer o justo? (3)
+
+[[v21-10-5]]
+
+^<<v21-10-5,5>>^ O Senhor habita no seu santo templo, o trono do Senhor está no céu. Os seus olhos observam, as suas pálpebras examinam os filhos dos homens. (4)
+
+[[v21-10-6]]
+
+^<<v21-10-6,6>>^ O senhor sonda o justo e o ímpio; o seu espírito odeia aquele que ama a iniquidade. (5)
+
+[[v21-10-7]]
+
+^<<v21-10-7,7>>^ Fará chover sobre os pecadores carvões ardentes e enxofre; um vento abrasador será a porção do seu cálice. (6)
+
+[[v21-10-8]]
+
+^<<v21-10-8,8>>^ Com efeito, o Senhor é justo e ama a justiça; os homens rectos verão a sua face. (7)
+
+'''
+
+xref:021-salmos/021-salmos-009.adoc#v21-9-0[&#60; Capítulo Anterior] | <<v21-10-0,Topo>> | xref:021-salmos/021-salmos-011.adoc#v21-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v51-18-0]]
+=== Atos dos Apóstolos, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Atos dos Apóstolos 18, Paulo chega em Corinto e começa a pregar a palavra de Deus, enfrentando desafios e perseguições. Ele é encorajado pelo Senhor em uma visão e permanece na cidade por um ano e meio, formando uma igreja forte e deixando um legado de ensinamentos. Os versículos selecionados abaixo falam sobre temas como perseverança, coragem, fidelidade a Deus e a importância do trabalho em equipe na propagação do evangelho:
+* Filipenses 1:6: "Tenho plena confiança de que aquele que começou boa obra em vocês, vai completá-la até o dia de Cristo Jesus." Este versículo fala sobre a perseverança de Deus em nossas vidas, nos capacitando e nos guiando a cumprir a sua vontade.
+* Josué 1:9: "Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore, nem se desanime, pois o Senhor, o seu Deus, estará com você por onde você andar." Este versículo fala sobre a importância da coragem e da confiança em Deus, para enfrentarmos as adversidades da vida.
+* Hebreus 11:6: "Sem fé é impossível agradar a Deus, pois quem dele se aproxima precisa crer que ele existe e que recompensa aqueles que o buscam." Este versículo destaca a importância da fidelidade e da confiança em Deus, para agradá-lo e buscar sua vontade em nossas vidas.
+* Efésios 4:16: "Dele todo o corpo, ajustado e unido pelo auxílio de todas as juntas, cresce e edifica-se a si mesmo em amor, na medida em que cada parte realiza a sua função." Este versículo fala sobre a importância do trabalho em equipe e da colaboração de todos os membros do corpo de Cristo, para a edificação da igreja e a propagação do evangelho.
+* Atos dos Apóstolos 18:5: "Assim que Silas e Timóteo chegaram da Macedônia, Paulo se dedicou exclusivamente à pregação, testemunhando aos judeus que Jesus era o Cristo." Este versículo destaca a dedicação e o comprometimento de Paulo com a obra de Deus, mesmo diante das adversidades e dificuldades que enfrentou em Corinto.
+****
+
+[[v51-18-1]]
+
+^<<v51-18-1,1>>^ Depois disto, tendo partido Paulo de Atenas, foi a Corinto.
+
+[[v51-18-2]]
+
+^<<v51-18-2,2>>^ Encontrando aí um judeu, chamado Áquila, natural do Ponto, que pouco antes tinha chegado de Itália, e Priscila, sua mulher, pelo motivo de Cláudio ter mandado sair de Roma todos os Judeus, uniu-se a eles.
+
+[[v51-18-3]]
+
+^<<v51-18-3,3>>^ Como tinha o mesmo ofício, morava com eles e conjuntamente trabalhava: eram fabricantes de tendas.
+
+[[v51-18-4]]
+
+^<<v51-18-4,4>>^ Disputava todos os sábados na sinagoga e esforçava-se por ganhar Judeus e Gregos.
+
+[[v51-18-5]]
+
+^<<v51-18-5,5>>^ Quando Silas e Timóteo chegaram a Macedônia, Paulo aplicava-se assiduamente à palavra, dando testemunho aos Judeus de que Jesus era o Messias.
+
+[[v51-18-6]]
+
+^<<v51-18-6,6>>^ Mas, como o contradissessem e o injuriassem, ele, sacudindo as suas vestes, disse-lhes: "O vosso sangue caia sobre a vossa cabeça; eu não tenho culpa; desde agora vou para os gentios"
+
+[[v51-18-7]]
+
+^<<v51-18-7,7>>^ Saindo dali, entrou em casa de um chamado Tito Justo, temente a Deus, cuja casa estava contígua à sinagoga.
+
+[[v51-18-8]]
+
+^<<v51-18-8,8>>^ Crispo, chefe da sinagoga, creu no Senhor com toda a sua família, e muitos dos coríntios, ouvindo-o, acreditavam e eram baptizados.
+
+[[v51-18-9]]
+
+^<<v51-18-9,9>>^ Uma noite, em uma visão, o Senhor disse a Paulo: "Não temas, fala, não te cales,
+
+[[v51-18-10]]
+
+^<<v51-18-10,10>>^ porque eu sou contigo; e ninguém porá a mão sobre ti para te fazer mal, porque tenho muito povo nesta cidade."
+
+[[v51-18-11]]
+
+^<<v51-18-11,11>>^ Demorou-se ali um ano e seis meses, ensinando entre eles a palavra de Deus.
+
+[[v51-18-12]]
+
+^<<v51-18-12,12>>^ Sendo Galião procônsul da Acaia, os Judeus, de comum acordo, levantaram-se contra Paulo e levaram-no ao tribunal,
+
+[[v51-18-13]]
+
+^<<v51-18-13,13>>^ dizendo: "Este persuade os homens a que adorem a Deus com um culto contra a lei."
+
+[[v51-18-14]]
+
+^<<v51-18-14,14>>^ Começando Paulo a abrir a boca para responder, disse Galião aos Judeus: "Se isto fosse na realidade alguma injustiça ou delito grave, eu vos ouviria, ó Judeus, conforme o direito.
+
+[[v51-18-15]]
+
+^<<v51-18-15,15>>^ Mas, se se trata de discussões sobre palavras, nomes, e sobre a vossa lei, isso é convosco, eu não quero ser juiz de tais coisas"
+
+[[v51-18-16]]
+
+^<<v51-18-16,16>>^ E mandou-os sair do tribunal.
+
+[[v51-18-17]]
+
+^<<v51-18-17,17>>^ Então eles todos, lançando mão de Sóstenes, chefe da sinagoga, batiam-lhe diante do tribunal. E Galião nada se importava com isso. (ver nota)
+
+[[v51-18-18]]
+
+^<<v51-18-18,18>>^ Paulo depois de se ter demorado, em Corinto, muitos dias, despediu-se dos irmãos e navegou para a Síria, e com ele Priscila e Áquila. Mandou cortar o cabelo em Cêncreas, porque tinha um voto. (ver nota)
+
+[[v51-18-19]]
+
+^<<v51-18-19,19>>^ Chegaram a Éfeso, onde Paulo os deixou. Tendo entrado na sinagoga, disputava com os Judeus.
+
+[[v51-18-20]]
+
+^<<v51-18-20,20>>^ Rogando-lhe eles que ficasse ali mais tempo, não condescendeu,
+
+[[v51-18-21]]
+
+^<<v51-18-21,21>>^ mas despediu-se, dizendo: "Outra vez, se Deus quiser, voltarei a vós." E partiu de Éfeso.
+
+[[v51-18-22]]
+
+^<<v51-18-22,22>>^ Desembarcando em Cesareia, subiu (a Jerusalém), aí saudou a Igreja, e foi em seguida a Antioquia.
+
+[[v51-18-23]]
+
+^<<v51-18-23,23>>^ Tendo estado ali algum tempo, partiu, atravessando sucessivamente a terra da Galácia e a Frigia, fortalecendo todos os discípulos.
+
+[[v51-18-24]]
+
+^<<v51-18-24,24>>^ Ora tinha chegado a Éfeso um judeu, chamado Apolo, natural de Alexandria, homem eloquente, versado nas Escrituras.
+
+[[v51-18-25]]
+
+^<<v51-18-25,25>>^ Havia sido instruído no caminho do Senhor, falava com fervor de espírito e ensinava com exactidão o que dizia respeito a Jesus, embora conhecesse somente o baptismo de João.
+
+[[v51-18-26]]
+
+^<<v51-18-26,26>>^ Começou a falar com liberdade na sinagoga. Quando Priscila e Áquila o ouviram, levaram-no consigo e expuseram-lhe mais minuciosamente o caminho do Senhor.
+
+[[v51-18-27]]
+
+^<<v51-18-27,27>>^ Querendo ele ir a Acaia, os irmãos animaram-no a isso, e escreveram aos discípulos que o recebessem. Chegado lá, foi de muito proveito para os que tinham crido.
+
+[[v51-18-28]]
+
+^<<v51-18-28,28>>^ Porque, com grande veemência, refutava püblicamente os Judeus, mostrando pelas Escrituras que Jesus é o Messias.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-017.adoc#v51-17-0[&#60; Capítulo Anterior] | <<v51-18-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-019.adoc#v51-19-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v14-28-0]]
+=== II Crônicas, 28
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 28 narra a história do rei Acaz de Judá, que não seguiu os caminhos do Senhor, mas se entregou à idolatria e à maldade. Ele fez aliança com os assírios, mas isso só trouxe mais problemas para o seu reino. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Deuteronômio 12:31: "Não façais, pois, assim para com o Senhor, vosso Deus; porque toda coisa abominável que o Senhor aborrece fizeram eles para com seus deuses; pois até seus filhos e suas filhas queimaram no fogo aos seus deuses." Este versículo fala sobre a importância de não praticar a idolatria e de evitar tudo o que é abominável ao Senhor. Acaz, no entanto, se entregou a essas práticas.
+* Salmos 106:36-37: "Serviram a seus ídolos, que se tornaram um laço para eles. Sacrificaram seus filhos e suas filhas aos demônios." Este salmo fala sobre como os filhos de Israel se afastaram de Deus e se entregaram à idolatria, inclusive sacrificando seus filhos aos ídolos. Acaz também sacrificou seus filhos aos deuses pagãos.
+* Isaías 7:2: "Então, anunciaram à casa de Davi, dizendo: A Síria fez aliança com Efraim. E tremeu o seu coração e o coração do seu povo, como se tremem as árvores do bosque com o vento." Este versículo fala sobre como Acaz ficou com medo quando soube que a Síria e Efraim haviam feito aliança contra ele. Isso o levou a buscar ajuda dos assírios, em vez de confiar em Deus.
+* Jeremias 2:19: "A tua maldade te castigará, e as tuas apostasias te repreenderão; sabe, pois, e vê, que mal e quão amargo é deixares ao Senhor, teu Deus, e não teres em ti o meu temor, diz o Senhor Deus dos Exércitos." Este versículo fala sobre como a maldade e a apostasia trazem consequências amargas. Acaz colheu os frutos da sua desobediência e falta de temor ao Senhor.
+* Oséias 8:7: "Porque semearam ventos, e segarão tormentas; não haverá seara; a erva não dará farinha; e se a der, os estrangeiros a engolirão." Este versículo fala sobre como aqueles que plantam sementes de maldade colherão a tempestade. Acaz plantou sementes de idolatria e alianças com nações pagãs, e isso resultou em tormento para o seu povo.
+****
+
+[[v14-28-1]]
+
+^<<v14-28-1,1>>^ Acaz tinha vinte anos, quando começou a reinar, e reinou dezasseis anos em Jerusalém. Não fez o que era recto na presença do Senhor, como David, seu pai,
+
+[[v14-28-2]]
+
+^<<v14-28-2,2>>^ mas andou pelos caminhos dos reis de Israel, chegando até a mandar fundir estátuas a Baal.
+
+[[v14-28-3]]
+
+^<<v14-28-3,3>>^ Ele foi o que ofereceu incenso, no vale de Benemon, e o que fez passar seus filhos pelo fogo, segundo o rito das nações que o Senhor destruiu á chegada dos filhos de Israel.
+
+[[v14-28-4]]
+
+^<<v14-28-4,4>>^ Sacrificava e queimava perfumes nos lugares altos, nos outeiros e debaixo de todas as árvores frondosas.
+
+[[v14-28-5]]
+
+^<<v14-28-5,5>>^ O Senhor seu Deus entregou-o nas mãos do rei da Síria, que o derrotou e que levou para Damasco um grande número de prisioneiros. Entregou-o também nas mãos do rei de Israel, o qual lhe infligiu uma grande derrota.
+
+[[v14-28-6]]
+
+^<<v14-28-6,6>>^ Faceia, filho de Romelia, matou, num só dia, cento e vinte mil homens de Judá, todos homens guerreiros, porque eles tinham abandonado o Senhor Deus de seus pais.
+
+[[v14-28-7]]
+
+^<<v14-28-7,7>>^ No mesmo tempo Zecri, homem poderoso de Efraim, matou Maasias, filho do rei, e Ezrica, mordomo-mor da sua casa, e Elcana, o segundo depois do rei.
+
+[[v14-28-8]]
+
+^<<v14-28-8,8>>^ Os filhos de Israel fizeram cativos duzentos mil de seus irmãos, mulheres, rapazes e raparigas, e recolheram imensos despojos, que levaram para Samaria.
+
+[[v14-28-9]]
+
+^<<v14-28-9,9>>^ Achava-se então lá um profeta do Senhor, chamado Obed, o qual, saindo ao encontro do exército que ia para Samaria, lhes disse: Vós vedes que o Senhor Deus de vossos pais, irado contra Judá, vo-los entregou nas mãos, e vós os malastes ferozmente, de sorte que a vossa crueldade chegou até ao céu.
+
+[[v14-28-10]]
+
+^<<v14-28-10,10>>^ Além disto, quereis ainda sujeitar os filhos de Judá e de Jerusalém, para serem escravos e escravas. Porventura não tendes, também vós, ofensas contra o Senhor vosso Deus?
+
+[[v14-28-11]]
+
+^<<v14-28-11,11>>^ Ouvi o meu conselho: reconduzi os cativos que trouxestes dentre os vossos irmãos, porque um grande furor do Senhor está iminente sobre vós.
+
+[[v14-28-12]]
+
+^<<v14-28-12,12>>^ Então, alguns dos chefes dos filhos de Efraim, a saber, Azarias, filho de Joanan, Baraquias, filho de Mosolamot, Ezequias, filho de Selum, e Amasa, filho de Adali, puseram-se diante dos que voltavam da batalha.
+
+[[v14-28-13]]
+
+^<<v14-28-13,13>>^ e disseram-lhes: Não introduzais aqui os cativos, não suceda que pequemos contra o Senhor. Por que quereis vós aumentar o número dos nossos pecados e cumular a medida dos antigos delitos? Já somos demasiado culpados, e a ira do furor do Senhor está iminente sobre Israel.
+
+[[v14-28-14]]
+
+^<<v14-28-14,14>>^ Então aqueles homens guerreiros deixaram a presa e tudo o que tinham tomado, diante dos chefes e de toda a multidão.
+
+[[v14-28-15]]
+
+^<<v14-28-15,15>>^ Os homens, de que falámos acima, pararam e, pegando nos cativos, vestiram, com os despojos, todos os que estavam nus, e, depois de os vestirem e calçarem, de os refazerem com comida e bebida, de os ungirem e cuidarem deles, puseram sobre jumentos a todos os que não podiam andar e eram fracos do corpo, e levaram-nos a Jericó, cidade das Palmeiras, a seus irmãos. Depois voltaram para Samaria.
+
+[[v14-28-16]]
+
+^<<v14-28-16,16>>^ Neste tempo o rei Acaz mandou pedir socorro ao rei dos Assírios.
+
+[[v14-28-17]]
+
+^<<v14-28-17,17>>^ Vieram os Idumeus, mataram muitos de Judá e tomaram uma grande presa.
+
+[[v14-28-18]]
+
+^<<v14-28-18,18>>^ Os Filisteus também se espalharam pelas cidades da planície e pela parte meridional de Judá, e tomaram Betsames, Ajalon, Gaderot, Soco, Tamnan, Gamzo, com as suas aldeias, e estabeleceram-se nelas.
+
+[[v14-28-19]]
+
+^<<v14-28-19,19>>^ O Senhor, pois, tinha humilhado Judá, por causa de Acaz, rei de Judá, que tinha trazido a dissolução a Judá e pecado contra o Senhor.
+
+[[v14-28-20]]
+
+^<<v14-28-20,20>>^ Fez o Senhor ir contra ele Teglatfalasar, rei dos Assírios, que também o bateu e destruiu, sem encontrar resistência alguma.
+
+[[v14-28-21]]
+
+^<<v14-28-21,21>>^ Acaz, despojada a casa do Senhor e o palácio dos reis e dos príncipes, presenteou o rei dos Assírios, mas isto não lhe serviu de nada.
+
+[[v14-28-22]]
+
+^<<v14-28-22,22>>^ Além disto, mesmo no tempo da sua maior aflição, continuou a pecar contra o Senhor; ele mesmo, o rei Acaz,
+
+[[v14-28-23]]
+
+^<<v14-28-23,23>>^ imolou vítimas aos deuses de Damasco, que o tinham ferido, e disse: Visto que os deuses dos reis da Síria dão socorro a estes, eu os aplacarei com sacrifícios, e eles me assistirão. Pelo contrário, eles foram a sua ruína e de todo o Israel.
+
+[[v14-28-24]]
+
+^<<v14-28-24,24>>^ Acaz, tendo tomado e feito em pedaços todos os vasos da casa de Deus, fechou as portas do templo de Deus e mandou levantar altares para si em todas as praças de Jerusalém.
+
+[[v14-28-25]]
+
+^<<v14-28-25,25>>^ Levantou também altares em todas as cidades de Judá para queimar incenso e provocou a ira do Senhor Deus de seus pais.
+
+[[v14-28-26]]
+
+^<<v14-28-26,26>>^ O resto de suas ações e de todas as suas obras, desde o princípio até ao fim, está escrito no livro dos reis de Judá e de Israel.
+
+[[v14-28-27]]
+
+^<<v14-28-27,27>>^ Acaz adormeceu com seus pais, e sepultaram-no na cidade de Jerusalém, mas não o puseram nos sepulcros dos reis de Israel. Seu filho Ezequias reinou em seu lugar.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-027.adoc#v14-27-0[&#60; Capítulo Anterior] | <<v14-28-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-029.adoc#v14-29-0[Próximo Capítulo &#62;]

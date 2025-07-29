@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v7-15-0]]
+=== Juízes, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 15 de Juízes relata como Sansão se vingou dos filisteus por terem matado sua esposa e seu sogro. Ele pegou trezentas raposas, amarrou seus rabos com tochas e as soltou nos campos de trigo e oliveiras dos filisteus, causando grande destruição. Os filisteus, então, foram atrás de Sansão, mas ele os derrotou com a queixada de um jumento e matou mil homens com ela.
+* Êxodo 21:24: "olho por olho, dente por dente, mão por mão, pé por pé," Este versículo mostra a prática da lei de talião, que é a punição pelo crime na mesma proporção do dano causado, o que é o princípio que Sansão utilizou para se vingar dos filisteus.
+* Provérbios 20:22: "Não digas: Vingar-me-ei do mal; espera pelo SENHOR, e ele te salvará." Este versículo ensina que a vingança não é uma atitude que agrada a Deus, e que devemos confiar Nele para nos proteger e nos salvar.
+* Romanos 12:19: "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: “Minha é a vingança; eu retribuirei”, diz o Senhor." Este versículo reforça a ideia de que a vingança não é uma atitude cristã, e que devemos deixar nas mãos de Deus a justiça.
+* Mateus 5:38-39: "Ouvistes que foi dito: Olho por olho, e dente por dente. Eu, porém, vos digo que não resistais ao mal; mas, se qualquer te bater na face direita, oferece-lhe também a outra;" Este versículo apresenta a contrapartida do que foi mencionado em Êxodo 21:24, onde Jesus ensina a não retaliar e oferecer a outra face.
+* Gálatas 6:7: "Não erreis: Deus não se deixa escarnecer; porque tudo o que o homem semear, isso também ceifará." Este versículo ensina que colhemos o que plantamos, e que devemos ter cuidado com as nossas atitudes e ações, pois elas têm consequências.
+****
+
+[[v7-15-1]]
+
+^<<v7-15-1,1>>^ Algum tempo depois, estando já próximos os dias da ceifa do trigo, querendo Sansão visitar sua mulher (para se reconciliar com ela), foi e levou-lhe um cabrito. Ao querer entrar como costumava na sua câmara, o pai dela o impediu, dizendo:
+
+[[v7-15-2]]
+
+^<<v7-15-2,2>>^ Eu julguei que a odiasses, e por isso a dei a um teu amigo; mas ela tem uma irmã, que é mais nova e mais formosa do que ela. Toma-a por mulher em seu lugar.
+
+[[v7-15-3]]
+
+^<<v7-15-3,3>>^ Sansão respondeu-lhe: De hoje em diante não poderão os Filisteus queixar-se de mim, se eu lhes fizer mal.
+
+[[v7-15-4]]
+
+^<<v7-15-4,4>>^ Partiu, tomou trezentas raposas, prendeu-as, duas a duas, pelas caudas, e no meio das caudas atou fachos.
+
+[[v7-15-5]]
+
+^<<v7-15-5,5>>^ Chegou-lhes fogo e largou-as, a fim de que corressem para todos os lados. Elas meteram-se logo por entre as searas dos Filisteus. Incendiadas estas, queimaram-se tanto os trigos enfeixados, como os que ainda estavam por segar, de tal modo que também as vinhas e os olivais foram consumidos pelas chamas.
+
+[[v7-15-6]]
+
+^<<v7-15-6,6>>^ Os Filisteus disseram: Quem fez isto? Foi-lhes dito: Foi Sansão, genro de Tamnateu, porque este lhe tirou sua mulher e a deu a outro. E foram os Filisteus e queimaram tanto a mulher como seu pai.
+
+[[v7-15-7]]
+
+^<<v7-15-7,7>>^ Sansão disse-lhes: Não obstante terdes feito isto, eu ainda assim tirarei vingança de vós, e depois sossegarei.
+
+[[v7-15-8]]
+
+^<<v7-15-8,8>>^ E fez neles um grande destroço. A seguir, descendo (dali), habitou na caverna do rochedo de Etão.
+
+[[v7-15-9]]
+
+^<<v7-15-9,9>>^ Tendo ido os Filisteus à terra de Judá, acamparam num lugar, que depois se chamou Lequi, que quer dizer queixada, onde o seu exército foi desbaratado.
+
+[[v7-15-10]]
+
+^<<v7-15-10,10>>^ Os da tribo de Judá disseram-lhes: Por que viestes contra nós? Eles responderam: Viemos prender Sansão e pagar-lhe o que fez contra nós.
+
+[[v7-15-11]]
+
+^<<v7-15-11,11>>^ Então foram três mil homens da tribo de Judá à caverna do rochedo de Etão, e disseram a Sansão: Tu não sabes que estamos sujeitos aos Filisteus? Por que quiseste pois fazer-lhes isto? Ele respondeu-lhes: Eu fiz-lhes como eles me fizeram a mim.
+
+[[v7-15-12]]
+
+^<<v7-15-12,12>>^ Nós viemos, disseram eles, para te prender, e para te entregar nas mãos dos Filisteus. Jurai-me, disse-lhes Sansão, e prometei-me que não me haveis de matar.
+
+[[v7-15-13]]
+
+^<<v7-15-13,13>>^ Eles responderam: Não te mataremos, mas entregar-te-emos ligado. Ligaram-no pois com duas cordas novas, e tiraram-no do rochedo de Etão.
+
+[[v7-15-14]]
+
+^<<v7-15-14,14>>^ Chegando ao lugar da Queixada, e, saindo-lhe ao encontro os Filisteus com gritos, apoderou-se dele o Espírito do Senhor, e como o linho costuma consumir-se ao cheiro do fogo, assim as cordas, com que estava ligado, foram quebradas o desfeitas (por ele).
+
+[[v7-15-15]]
+
+^<<v7-15-15,15>>^ E, encontrando uma queixada fresca dum jumento, que jazia ali, tomando-a, matou com ela mil homens.
+
+[[v7-15-16]]
+
+^<<v7-15-16,16>>^ Sansão disse: Com a queixada dum jumento os (inimigos) derrotei, com a mandíbula dum jumento mil homens matei.
+
+[[v7-15-17]]
+
+^<<v7-15-17,17>>^ Logo que acabou de cantar estas palavras, lançou a queixada da mão, e chamou àquele lugar Ramatlequi (que significa elevação da queixada).
+
+[[v7-15-18]]
+
+^<<v7-15-18,18>>^ Sentindo muita sede, clamou ao Senhor, dizendo: Tu foste o que salvaste o teu servo e que lhe deste esta grandíssima vitória: eis que morro de sede, e cairei nas mãos dos incircuncidados.
+
+[[v7-15-19]]
+
+^<<v7-15-19,19>>^ Então Deus fendeu a rocha côncava, que existe em Lequi, e dela brotou água. Sansão, bebendo dela, recobrou alento e recuperou as forças. Por isso foi aquele lugar chamado até ao dia de hoje Fonte do que invoca saída da queixada.
+
+[[v7-15-20]]
+
+^<<v7-15-20,20>>^ Sansão julgou Israel durante vinte anos nos dias (da dominação) dos Filisteus.
+
+'''
+
+xref:007-juizes/007-juizes-014.adoc#v7-14-0[&#60; Capítulo Anterior] | <<v7-15-0,Topo>> | xref:007-juizes/007-juizes-016.adoc#v7-16-0[Próximo Capítulo &#62;]

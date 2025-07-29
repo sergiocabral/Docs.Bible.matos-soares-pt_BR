@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v13-22-0]]
+=== I Crônicas, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 22 de 1 Crônicas descreve a preparação de Davi para a construção do templo de Deus em Jerusalém, e como ele reuniu os materiais necessários para a obra. Davi explica a Salomão, seu filho e sucessor, que ele foi escolhido por Deus para construir o templo e encoraja-o a completar a obra. Aqui estão cinco versículos relacionados com os temas deste capítulo:
+* 1 Reis 5:5 - "E eis que propus edificar uma casa ao nome do Senhor meu Deus, como o Senhor falou a Davi meu pai, dizendo: Teu filho, que porei em teu lugar no teu trono, ele edificará uma casa ao meu nome." Este versículo mostra como Salomão cumpre a profecia de Davi e constrói o templo.
+* 1 Crônicas 22:11-12 - "Eis que há de nascer um filho a ti, que será homem de descanso, porque lhe darei descanso de todos os seus inimigos em redor; pois Salomão será o seu nome, e em seus dias darei paz e sossego a Israel. Ele edificará uma casa ao meu nome, e ele será meu filho, e eu lhe serei pai; e estabelecerei o trono do seu reino sobre Israel para sempre." Este versículo mostra como Deus escolheu Salomão para construir o templo e como ele será abençoado.
+* 1 Crônicas 22:16 - "Do ouro, da prata, e do cobre, e do ferro não há conta. Levanta-te, pois, e faze a obra; e o Senhor seja contigo." Este versículo mostra como Davi encoraja Salomão a completar a obra e que Deus estará com ele.
+* 1 Crônicas 22:19 - "Agora, pois, dai ordem para que se ajuntem para mim cortadores de madeira em abundância nas montanhas do Líbano; e eu porei gente em número contigo, cortadores de pedra e carpinteiros, para fazerem toda a sorte de obra." Este versículo mostra como Davi reuniu os materiais necessários para a construção do templo, incluindo cortadores de madeira e pedra e carpinteiros.
+* 2 Crônicas 2:4-5 - "Eis que vou edificar uma casa ao nome do Senhor meu Deus, para a consagrar-lhe, para queimar perante ele o incenso aromático, para por sobre ela o pão da proposição contínuo, e para oferecer holocaustos pela manhã e pela tarde, nos sábados, nas luas novas, e nas festas do Senhor nosso Deus; o que é ordenado perpetuamente em Israel." Este versículo mostra como Salomão completou a obra de construir o templo e como ele será usado para adoração a Deus.
+****
+
+[[v13-22-1]]
+
+^<<v13-22-1,1>>^ Davide disse: Esta é a casa de Deus, e este é o altar para os holocaustos que Israel há-de oferecer,
+
+[[v13-22-2]]
+
+^<<v13-22-2,2>>^ Mandou que se juntassem todos os estrangeiros que havia na terra de Israel e tomou deles os cabouqueiros para cortarem e lavrarem as pedras, a fim de se edificar a casa de Deus.
+
+[[v13-22-3]]
+
+^<<v13-22-3,3>>^ Davide preparou também muitíssimo ferro para os pregos das portas e para travar as juntas, e uma quantidade imensa de bronze.
+
+[[v13-22-4]]
+
+^<<v13-22-4,4>>^ Eram igualmente inestimáveis as madeiras de cedro, que os Sidónios e os Tírios tinham levado a Davide.
+
+[[v13-22-5]]
+
+^<<v13-22-5,5>>^ Davide disse: Meu filho Salomão é um moço pequeno e tenro; a casa, porém, que eu desejo que se edifique ao Senhor, deve ser tal que seja nomeada em todos os países. Preparar-lhe-ei, pois, para ele o necessário. Por esta razão, antes da sua morte, dispôs todas as coisas precisas.
+
+[[v13-22-6]]
+
+^<<v13-22-6,6>>^ Depois chamou seu filho Salomão e ordenou-lhe que edificasse a casa do Senhor Deus de Israel.
+
+[[v13-22-7]]
+
+^<<v13-22-7,7>>^ Davide disse a Salomão: Meu filho, tive vontade de edificar uma casa ao nome do Senhor meu Deus.
+
+[[v13-22-8]]
+
+^<<v13-22-8,8>>^ O Senhor, porém, falou-me, dizendo: Tu tens derramado muito sangue, tens dado muitas batalhas; tu não poderás edificar uma casa ao meu nome, depois de tanto sangue derramado na minha presença.
+
+[[v13-22-9]]
+
+^<<v13-22-9,9>>^ Nascer-te-á um filho, que será um homem de paz, porque eu o porei em paz com todos os seus inimigos em roda; por esta causa será chamado o Pacífico: eu darei paz e descanso a Israel durante todos os seus dias.
+
+[[v13-22-10]]
+
+^<<v13-22-10,10>>^ Ele edificará uma casa ao meu nome; ele será meu filho, eu serei seu pai e firmarei o trono do seu reino sobre Israel eternamente.
+
+[[v13-22-11]]
+
+^<<v13-22-11,11>>^ Agora, pois, o Senhor seja contigo, meu filho, para que prosperes e edifiques uma casa ao Senhor teu Deus, como ele predisse de ti.
+
+[[v13-22-12]]
+
+^<<v13-22-12,12>>^ O Senhor te dê também prudência e siso, para que possas governar Israel e guardar a lei do Senhor teu Deus.
+
+[[v13-22-13]]
+
+^<<v13-22-13,13>>^ Então poderás prosperar, se guardares os mandamentos e as leis que o Senhor mandou a Moisés que ensinasse a Israel; arma-te de fortaleza e procede varonilmente; não temas nada, nem te desalentes.
+
+[[v13-22-14]]
+
+^<<v13-22-14,14>>^ Vês que, pelos meus esforços, preparei para os gastos da casa do Senhor cem mil talentos de ouro e um milhão de talentos de prata; o bronze, porém, e o ferro não têm peso, porque a sua quantidade excede todo o cálculo; tenho prontas madeiras e pedras para todas as necessidades.
+
+[[v13-22-15]]
+
+^<<v13-22-15,15>>^ Tens também muitíssimos operários, canteiros, pedreiros, carpinteiros, e de todas as artes os mais apurados na execução de qualquer tamanho,
+
+[[v13-22-16]]
+
+^<<v13-22-16,16>>^ em ouro e em prata, em cobre e em ferro, cujo número é incalculável. Levanta-te, pois, e mete mãos à obra, que o Senhor será contigo.
+
+[[v13-22-17]]
+
+^<<v13-22-17,17>>^ Mandou Davide a todos os chefes de Israel que ajudassem seu filho Salomão.
+
+[[v13-22-18]]
+
+^<<v13-22-18,18>>^ Vós vêdes, lhes disse, que o Senhor vosso Deus está convosco, que vos deu a paz por todas as partes, que entregou todos os vossos inimigos nas vossas mãos e que a terra está sujeita diante do Senhor e diante do seu povo.
+
+[[v13-22-19]]
+
+^<<v13-22-19,19>>^ Disponde, pois, os vossos corações e as vossas almas, para buscardes o Senhor vosso Deus; levantai-vos e edificai o santuário ao Senhor Deus, para que a arca da aliança do Senhor e os vasos consagrados ao Senhor sejam trasladados para a casa que se edificar ao nome do Senhor.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-021.adoc#v13-21-0[&#60; Capítulo Anterior] | <<v13-22-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-023.adoc#v13-23-0[Próximo Capítulo &#62;]

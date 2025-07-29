@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v12-18-0]]
+=== II Reis, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 18 de 2 Reis conta a história de Ezequias, rei de Judá, e sua luta contra Senaqueribe, rei da Assíria. Ezequias lidera reformas religiosas em Judá e se recusa a se submeter às exigências de Senaqueribe. Senaqueribe invade Judá, mas Ezequias pede ajuda a Deus e o exército assírio acaba sofrendo uma grande derrota. Abaixo estão cinco versículos relacionados aos temas abordados em 2 Reis 18.
+* 2 Crônicas 29:3: "No primeiro ano do seu reinado, no primeiro mês, ele abriu as portas da casa do Senhor e as reparou." Este versículo mostra a primeira ação de Ezequias como rei de Judá, que foi liderar reformas religiosas no país.
+* 2 Crônicas 30:6: "Por isso, mensageiros foram com cartas de mãos em mãos por todas as cidades de Efraim e Manassés e até Zebulom; mas zombaram deles e zombaram deles." Este versículo mostra a rejeição das reformas religiosas lideradas por Ezequias por parte de alguns dos habitantes do reino do Norte.
+* Isaías 36:4: "Então Rabsaqué disse-lhes: 'Digam a Ezequias: Assim diz o grande rei, o rei da Assíria: Em que você confia?'" Este versículo mostra o início das exigências de Senaqueribe a Ezequias, que incluíam a rendição de Judá.
+* Isaías 37:14: "Então Ezequias recebeu a carta das mãos dos mensageiros e a leu; e subiu à casa do Senhor e a estendeu perante o Senhor." Este versículo mostra a resposta de Ezequias à carta de Senaqueribe, que foi pedir ajuda a Deus para proteger seu reino.
+* Isaías 37:36: "Então o anjo do Senhor saiu e matou cento e oitenta e cinco mil homens no acampamento dos assírios; e quando os homens se levantaram pela manhã, eis que todos eram cadáveres." Este versículo mostra a intervenção divina na batalha entre Judá e a Assíria, que resultou em uma grande vitória para Ezequias e seu exército.
+****
+
+[[v12-18-1]]
+
+^<<v12-18-1,1>>^ No terceiro ano de Oséias, filho de Ela, rei de Israel, reinou Ezequias, filho de Acaz, rei de Judá.
+
+[[v12-18-2]]
+
+^<<v12-18-2,2>>^ Tinha vinte e cinco anos quando começou a reinar, e reinou vinte e nove anos em Jerusalém. Sua mãe chamava-se Abi, filha de Zacarias.
+
+[[v12-18-3]]
+
+^<<v12-18-3,3>>^ Ele fez o que era bom na presença do Senhor, segundo tudo o que tinha feito Davide, seu pai.
+
+[[v12-18-4]]
+
+^<<v12-18-4,4>>^ Destruiu os lugares altos, quebrou as estátuas, cortou aschera e fez em pedaços a serpente de metal que Moisés tinha fabricado, porque os filhos de Israel até então tinham-Ihe queimado incenso, e chamou-a Noestan (isto é, um simples objecto de bronze).
+
+[[v12-18-5]]
+
+^<<v12-18-5,5>>^ Pôs a sua esperança no Senhor Deus de Israel; por isso, depois dele, não houve, dentre todos os reis de Judá quem lhe fosse semelhante, assim como o não tinha havido entre aqueles que o precederam.
+
+[[v12-18-6]]
+
+^<<v12-18-6,6>>^ Conservou-se unido ao Senhor, não se apartou dos seus caminhos, observou os mandamentos que o Senhor tinha dado a Moisés.
+
+[[v12-18-7]]
+
+^<<v12-18-7,7>>^ Por isso o Senhor era com ele, e conduzia-se com sabedoria em todas as coisas que empreendia. Revoltou-se contra o rei dos Assírios e deixou de lhe estar sujeito.
+
+[[v12-18-8]]
+
+^<<v12-18-8,8>>^ Destruiu os Filisteus até Gaza e (talou) todas as suas terras, desde as simples torres de guarda até as cidades fortificadas.
+
+[[v12-18-9]]
+
+^<<v12-18-9,9>>^ No ano quarto do rei Ezequias, que era o sétimo ano de Oséias, filho de Ela, rei de Israel, veio Salmanasar, rei dos Assírios, a Samaria, sitiou-a
+
+[[v12-18-10]]
+
+^<<v12-18-10,10>>^ e tomou-a. Samaria foi tomada ao cabo de três anos, no sexto ano de Ezequias, isto é, no ano nono de Oséias, rei de Israel.
+
+[[v12-18-11]]
+
+^<<v12-18-11,11>>^ O rei dos Assírios transportou os Israelitas para a Assíria e colocou-os em Haia e em Habor, perto do rio Gozan, e nas cidades dos Medos,
+
+[[v12-18-12]]
+
+^<<v12-18-12,12>>^ porque eles não tinham ouvido a voz do Senhor, seu Deus, mas tinham violado a sua aliança, recusando-se a ouvir e praticar as ordenações que Moisés, servo do Senhor, lhes tinha prescrito.
+
+[[v12-18-13]]
+
+^<<v12-18-13,13>>^ No ano décimo quarto do rei Ezequias, veio Senaquerib, rei dos Assírios, atacar todas as cidades fortes de Judá e tomou-as.
+
+[[v12-18-14]]
+
+^<<v12-18-14,14>>^ Então Ezequias, rei de Judá, mandou mensageiros ao rei dos Assirios, a Laquis, dizendo: Eu cometi uma falta; retira-te das minhas terras, e eu sofrerei tudo o que tu me impuseres. O rei dos Assírios impôs a Ezequias, rei de Judá, (a contribuição de) trezentos talentos de prata e trinta talentos de ouro.
+
+[[v12-18-15]]
+
+^<<v12-18-15,15>>^ Ezequias deu-lhe toda a prata que tinha sido encontrada na casa do Senhor e nos tesouros do rei.
+
+[[v12-18-16]]
+
+^<<v12-18-16,16>>^ Nesta ocasião Ezequias despedaçou as meias portas do templo do Senhor e as chapas de ouro, de que ele mesmo as tinha forrado, e deu-as ao rei dos Assírios.
+
+[[v12-18-17]]
+
+^<<v12-18-17,17>>^ O rei dos Assírios porém (faltando ao seu compromisso) enviou de Laquis o chefe das suas tropas, o chefe dos eunucos e o copeiro-mór, ao rei Ezequias com um poderoso exército contra Jerusalém; eles, pondo-se em marcha, chegaram a Jerusalém e fizeram alto junto do aqueduto da piscina superior, que está no caminho do campo do Pisoeiro,
+
+[[v12-18-18]]
+
+^<<v12-18-18,18>>^ e chamaram o rei. Foi, pois, ter com eles Eliacim, filho de Heleias, mordomo-mór da casa do rei, e Sobna, o secretário e Joaé, filho de Asaf, arquivista.
+
+[[v12-18-19]]
+
+^<<v12-18-19,19>>^ O copeiro-mór disse-lhes: Dizei a Ezequias: Eis o que diz o grande rei, o rei dos Assírios: Que confiança é esta, em que tu te estribas?
+
+[[v12-18-20]]
+
+^<<v12-18-20,20>>^ Porventura tomaste a resolução de te preparares para a batalha? Em que confias, para ousares resistir-me?
+
+[[v12-18-21]]
+
+^<<v12-18-21,21>>^ Esperas porventura no Egipto, que é uma cana rachada, que fere e trespassa a mão do que nela procura apoio: tal é Faraó, rei do Egipto, para todos os que confiam nele.
+
+[[v12-18-22]]
+
+^<<v12-18-22,22>>^ Se vós me disserdes: Nós temos a nossa confiança no Senhor nosso Deus — não é ele o mesmo cujos altares e lugares altos Ezequias destruiu, dando a Judá e a Jerusalém esta ordem: Vós adorareis só diante deste altar em Jerusalém?
+
+[[v12-18-23]]
+
+^<<v12-18-23,23>>^ Faze, pois, agora um tratado com o rei dos Assírios, meu amo, e eu darei dois mil cavalos, se puderes encontrar homens para montar neles.
+
+[[v12-18-24]]
+
+^<<v12-18-24,24>>^ Como poderás resistir diante dum só sátrapa dos últimos servos de meu senhor? Porventura tens confiança no Egipto, por causa dos carros e cavaleiros?
+
+[[v12-18-25]]
+
+^<<v12-18-25,25>>^ Porventura foi sem a vontade de Deus que eu vim a este lugar para o destruir? O Senhor disse-me: Entra nessa terra e arrasa-a.
+
+[[v12-18-26]]
+
+^<<v12-18-26,26>>^ Eliacim, filho de Helcias, Sobna e Joaé disseram ao copeiro-mor: Nós te suplicamos que fales a teus servos, em arameu, porque entendemos esta língua, e não nos fales em hebraico, pois nos pode ouvir o povo que está sobre o muro.
+
+[[v12-18-27]]
+
+^<<v12-18-27,27>>^ Mas o copeiro-mór respondeu-lhe: O meu Senhor mandou-me porventura dizer estas coisas ao teu senhor e a ti, e não antes aos homens que estão sobre o muro e que vão ser reduzidos, como vós, a comer os seus excrementos e a beber a sua própria urina?
+
+[[v12-18-28]]
+
+^<<v12-18-28,28>>^ Então o copeiro-mór pôs-se em pé e gritou em alta voz em hebraico: Ouvi as palavras do grande rei, do rei dos Assírios.
+
+[[v12-18-29]]
+
+^<<v12-18-29,29>>^ Eis o que diz o rei: Não vos seduza Ezequias, porque ele não vos poderá livrar da minha mão.
+
+[[v12-18-30]]
+
+^<<v12-18-30,30>>^ Nem vos inspire confiança no Senhor, dizendo: O Senhor infalivelmente nos livrará, e esta cidade não será entregue na mão do rei dos Assírios.
+
+[[v12-18-31]]
+
+^<<v12-18-31,31>>^ Não queirais ouvir Ezequias, porque eis o que diz o rei dos Assírios: Fazei a paz comigo, rendei-vos, e cada um de vós comerá da sua vinha e da sua figueira, e bebereis as águas das vossas cisternas,
+
+[[v12-18-32]]
+
+^<<v12-18-32,32>>^ até que eu venha e vos transfira para uma terra semelhante à vossa terra, para uma terra frutífera e fértil de vinho, terra de pão e de vinhas, terra de olivais, de azeite e de mel: aí vivereis (em paz) e não morrereis. Não queirais dar ouvidos a Ezequias, que vos engana, dizendo: O Senhor nos livrará.
+
+[[v12-18-33]]
+
+^<<v12-18-33,33>>^ Porventura os deuses das gentes libertaram as suas terra da mão do rei dos Assírios?
+
+[[v12-18-34]]
+
+^<<v12-18-34,34>>^ Que é feito do deus de Emat e do deus de Arfad? Que é feito do deus de Sefarvaim, de Aua e de Ava? Por ventura livraram eles da minha mão a Samaria?
+
+[[v12-18-35]]
+
+^<<v12-18-35,35>>^ Quais são, entre todos os deuses das terras, os que livraram da minha mão o seu próprio país, para que o Senhor possa livrar Jerusalém da minha mão?
+
+[[v12-18-36]]
+
+^<<v12-18-36,36>>^ O povo calou-se, não lhe respondeu uma só palavra, porque tinham recebido ordem do rei para que não lhe respondessem.
+
+[[v12-18-37]]
+
+^<<v12-18-37,37>>^ Eliacim, filho de Helcias mordomo-mór, Sobna, o secretário, e Joaé, filho de Asaf, arquivista, foram ter com Ezequias, rasgadas as suas vestes, e referiram-lhe as palavras do copeiro-mór.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-017.adoc#v12-17-0[&#60; Capítulo Anterior] | <<v12-18-0,Topo>> | xref:012-ii-reis/012-ii-reis-019.adoc#v12-19-0[Próximo Capítulo &#62;]

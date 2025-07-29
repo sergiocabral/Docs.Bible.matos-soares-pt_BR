@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v40-7-0]]
+=== Miquéias, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 7 de Miquéias trata da corrupção do povo de Israel e da esperança de redenção através da misericórdia de Deus. Miquéias clama por justiça, apontando a hipocrisia e a desonestidade daqueles em posições de poder. Ele então se volta para Deus, confiando em Sua bondade e promessa de perdão e restauração. Seguem abaixo cinco versículos relacionados com os temas do capítulo:
+* Isaías 1:18: "Vinde, pois, e arrazoemos, diz o Senhor: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã." Este versículo fala da promessa de perdão e limpeza que Deus oferece a Seu povo, mesmo que seus pecados sejam graves.
+* Salmo 103:8-10: "O Senhor é misericordioso e compassivo, paciente e cheio de amor. Não acusa sem cessar nem fica ressentido para sempre; não nos trata conforme os nossos pecados nem nos retribui conforme as nossas iniquidades." Este Salmo descreve a bondade e a misericórdia de Deus, que não nos trata como merecemos, mas oferece perdão e amor.
+* Provérbios 28:13: "O que encobre as suas transgressões jamais prosperará, mas o que as confessa e deixa alcançará misericórdia." Este versículo fala da importância de confessar nossos pecados e buscar perdão, ao invés de tentar escondê-los ou justificá-los.
+* Jeremias 31:34: "Ninguém mais ensinará ao seu próximo, nem o seu irmão, dizendo: ‘Conheça ao Senhor’, porque todos eles me conhecerão, desde o menor até o maior", diz o Senhor. Pois perdoarei a maldade deles e não me lembrarei mais dos seus pecados." Este versículo fala da promessa de Deus de perdoar e esquecer nossos pecados, tornando-nos verdadeiramente Seu povo.
+* Efésios 2:8-9: "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie." Este versículo fala da salvação pela graça de Deus, não pelas nossas próprias obras ou méritos. Isso nos lembra que a redenção e o perdão são presentes de Deus para Seu povo, não algo que podemos ganhar ou merecer.
+****
+
+[[v40-7-1]]
+
+^<<v40-7-1,1>>^ Ai de mim, porque me tornei como o que resta depois de colhidos os frutos no outono, como o que resta depois de feita a vindima! Não há sequer um cacho para comer; em vão deseja a minha alma alguns figos temporãos. (ver nota)
+
+[[v40-7-2]]
+
+^<<v40-7-2,2>>^ Não há um santo sobre a terra, entre os homens não há um justo; todos armam traições para derramarem sangue, cada um anda à procura do seu irmão para lhe lançar laços.
+
+[[v40-7-3]]
+
+^<<v40-7-3,3>>^ O mal é o que as suas mãos fazem bem; o príncipe exige, o juiz decide conforme o que lhe dão, o grande manifesta (descaradamente) o desejo da sua alma, e assim perturbam o pais.
+
+[[v40-7-4]]
+
+^<<v40-7-4,4>>^ O melhor dentre eles é como um tojo, o mais justo como uma sebe de espinhos. (Mas eis) o dia que viram os teus (profetas), o teu castigo chega: agora será a destruição deles.
+
+[[v40-7-5]]
+
+^<<v40-7-5,5>>^ Não acrediteis no amigo, não confieis num íntimo; não abras a tua boca mesmo àquela que dorme no teu seio.
+
+[[v40-7-6]]
+
+^<<v40-7-6,6>>^ Porque o filho trata o seu pai como doido, a filha levanta-se contra sua mãe, a nora contra a sua sogra, e o homem tem por inimigo os seus próprios domésticos,
+
+[[v40-7-7]]
+
+^<<v40-7-7,7>>^ Eu, porém, olharei para o Senhor, esperarei em Deus meu salvador; o meu Deus me ouvirá.
+
+[[v40-7-8]]
+
+^<<v40-7-8,8>>^ Não te alegres, inimiga minha, a meu respeito: se cai, hei de tornar a levantar-me; depois de ter estado sentada nas trevas, o 'Senhor será a minha luz.
+
+[[v40-7-9]]
+
+^<<v40-7-9,9>>^ Sofrerei o castigo do Senhor, porque tenho pecado contra ele, até que ele julgue a minha causa e me faça justiça. Ele me conduzirá para a luz; verei a sua justiça.
+
+[[v40-7-10]]
+
+^<<v40-7-10,10>>^ A minha inimiga verá isto e ficará coberta de confusão, ela que me dizia: Onde está o Senhor teu Deus? Os meus olhos olharão para ela; agora será pisada aos pés, como a lama das ruas.
+
+[[v40-7-11]]
+
+^<<v40-7-11,11>>^ (Chega) o dia em que os teus muros serão reedificados; nesse dia será retirada de ti a lei.
+
+[[v40-7-12]]
+
+^<<v40-7-12,12>>^ Nesse dia virão a ti da Assíria e das cidades do Egipto, do Egipto até ao rio, dum mar até outro mar, e dum monte até outro monte.
+
+[[v40-7-13]]
+
+^<<v40-7-13,13>>^ A terra será desolada por causa dos seus habitantes, por causa do fruto das suas obras.
+
+[[v40-7-14]]
+
+^<<v40-7-14,14>>^ Apascenta (ó Senhor) com a tua vara o teu povo, o rebanho da tua herança, os que habitam sós no bosque, no melo do Carmelo. (Um dia) se apascentarão em (territórios férteis, como) Basah e Galaad, como nos dias antigos. (ver nota)
+
+[[v40-7-15]]
+
+^<<v40-7-15,15>>^ (Sim, diz o Senhor) como no dia da tua saída da terra do Egipto, eu te farei ver maravilhas.
+
+[[v40-7-16]]
+
+^<<v40-7-16,16>>^ As nações as verão e serão confundidas, apesar da sua fortaleza: porão a mão sobre a sua boca, e os seus ouvidos ficarão surdos.
+
+[[v40-7-17]]
+
+^<<v40-7-17,17>>^ Lamberão o pó como as serpentes; sairão com terror dos seus retiros, como os répteis da terra; virão a tremer para o Senhor nosso Deus e terão medo diante de ti (ó Israel).
+
+[[v40-7-18]]
+
+^<<v40-7-18,18>>^ Qual o Deus que, semelhante a ti, apaga a iniquidade e perdoa os pecados dos restos da sua herança? Não permanece sempre obstinado na sua cólera, porque é amante da misericórdia.
+
+[[v40-7-19]]
+
+^<<v40-7-19,19>>^ Uma vez mais terá compaixão de nós, sepultará (no esquecimento) as nossas iniquidades. Lançarás (Senhor) todos os nossos pecados ao fundo do mar,
+
+[[v40-7-20]]
+
+^<<v40-7-20,20>>^ mostrarás a verdade da tua promessa a Jacob, farás misericórdia a Abraão, como juraste a nossos pais desde os dias antigos.
+
+'''
+
+xref:040-miqueias/040-miqueias-006.adoc#v40-6-0[&#60; Capítulo Anterior] | <<v40-7-0,Topo>> | xref:041-naum/041-naum-001.adoc#v41-1-0[Próximo Capítulo &#62;]

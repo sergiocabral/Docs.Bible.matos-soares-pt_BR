@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v60-3-0]]
+=== II Tessalonicenses, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em 2 Tessalonicenses 3, Paulo aborda a questão da ociosidade e da falta de disciplina entre os membros da igreja. Ele enfatiza a importância do trabalho e da contribuição para a comunidade de fé, e adverte contra aqueles que se recusam a trabalhar e vivem de maneira desordenada. Os versículos selecionados abaixo são relacionados com os temas abordados neste capítulo:
+* Provérbios 14:23: "Em todo trabalho há proveito, mas meras palavras só levam à pobreza." Esse versículo destaca a importância do trabalho e da produtividade, e como a preguiça e a inatividade podem levar à falta.
+* Colossenses 3:23-24: "E tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens, sabendo que receberão do Senhor a recompensa da herança. É a Cristo, o Senhor, que vocês estão servindo." Esse versículo reforça a ideia de que o trabalho é uma forma de servir a Deus e deve ser feito com dedicação e excelência.
+* Provérbios 10:4: "Mão diligente governa, mas a mão preguiçosa acaba escravizada." Esse versículo destaca que a preguiça pode levar à dependência e à escravidão, enquanto o trabalho diligente pode levar à autonomia e à independência.
+* Efésios 4:28: "Quem furtava não furte mais; antes trabalhe, fazendo algo de útil com as mãos, para que tenha o que repartir com quem estiver em necessidade." Esse versículo incentiva o trabalho honesto e a generosidade com os necessitados.
+* 1 Tessalonicenses 4:11-12: "Esforcem-se para ter uma vida tranquila, cuidando dos seus próprios negócios e trabalhando com as mãos, como nós os instruímos, a fim de que andem decentemente aos olhos dos que são de fora e não dependam de ninguém." Esse versículo reforça a ideia da importância do trabalho, da disciplina e da independência, e como isso pode impactar a testemunha da comunidade cristã diante do mundo.
+****
+
+[[v60-3-1]]
+
+^<<v60-3-1,1>>^ Quanto ao mais, irmãos, orai por nós para que a palavra do Senhor se propague e seja glorificada, como é entre vós,
+
+[[v60-3-2]]
+
+^<<v60-3-2,2>>^ e para que sejamos livres dos homens importunos e maus, porque a fé não é de todos (porque nem todos querem ouvir ou pôr em prática o Evangelho). (ver nota)
+
+[[v60-3-3]]
+
+^<<v60-3-3,3>>^ Mas Deus é fiel: ele vos confirmará e guardará do (espírito) maligno.
+
+[[v60-3-4]]
+
+^<<v60-3-4,4>>^ Confiamos no Senhor, quanto a vós, que fazeis e continuareis a fazer o que vos mandamos.
+
+[[v60-3-5]]
+
+^<<v60-3-5,5>>^ O Senhor, pois, dirija os vossos corações no amor de Deus e na paciência de Cristo.
+
+[[v60-3-6]]
+
+^<<v60-3-6,6>>^ Nós vos ordenamos, irmãos, em nome de Nosso Senhor Jesus Cristo, que vos aparteis de todo o irmão que viver na preguiça, e não segundo a doutrina que foi recebida de nós.
+
+[[v60-3-7]]
+
+^<<v60-3-7,7>>^ Em realidade, vós mesmos sabeis como deveis imitar-nos, pois que não vivemos preguiçosos entre vós,
+
+[[v60-3-8]]
+
+^<<v60-3-8,8>>^ nem comemos de graça o pão de ninguém, mas com trabalho e fadiga, trabalhando de noite e de dia, para não sermos pesados a nenhum de vós.
+
+[[v60-3-9]]
+
+^<<v60-3-9,9>>^ Não porque não tivéssemos direito a isso, mas para vos dar em nós mesmos um modelo a imitar,
+
+[[v60-3-10]]
+
+^<<v60-3-10,10>>^ Desta sorte, quando ainda estávamos convosco, vos declarávamos que, se alguém não quer trabalhar, também não coma.
+
+[[v60-3-11]]
+
+^<<v60-3-11,11>>^ Ouvimos dizer que alguns entre vós são preguiçosos, nada fazendo, mas ocupando-se em coisas vãs;
+
+[[v60-3-12]]
+
+^<<v60-3-12,12>>^ a estes, pois, que assim procedem, ordenamos e rogamos no Senhor Jesus Cristo que, trabalhando pacificamente, comam o pão assim ganhado.
+
+[[v60-3-13]]
+
+^<<v60-3-13,13>>^ E vós, irmãos, não vos canseis nunca de fazer bem.
+
+[[v60-3-14]]
+
+^<<v60-3-14,14>>^ Se algum não obedece ao que ordenamos pela nossa carta, notai-o e não tenhais comércio com ele, a fim de que se envergonhe;
+
+[[v60-3-15]]
+
+^<<v60-3-15,15>>^ não o considereis todavia como um inimigo, mas adverti-o (caridosamente) como irmão.
+
+[[v60-3-16]]
+
+^<<v60-3-16,16>>^ O mesmo Senhor de paz vos dê a paz, sempre e por todas as formas. O Senhor seja com todos vós.
+
+[[v60-3-17]]
+
+^<<v60-3-17,17>>^ A saudação é de minha própria mão, de mim Paulo. É esta a minha assinatura em todas as minhas cartas. É assim que eu escrevo.
+
+[[v60-3-18]]
+
+^<<v60-3-18,18>>^ A graça de Nosso Senhor Jesus Cristo seja com todos vós.
+
+'''
+
+xref:060-ii-tessalonicenses/060-ii-tessalonicenses-002.adoc#v60-2-0[&#60; Capítulo Anterior] | <<v60-3-0,Topo>> | xref:061-i-timoteo/061-i-timoteo-001.adoc#v61-1-0[Próximo Capítulo &#62;]

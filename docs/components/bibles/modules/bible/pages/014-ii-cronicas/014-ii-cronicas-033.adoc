@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v14-33-0]]
+=== II Crônicas, 33
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 33 de 2 Crônicas narra a história de Manassés, filho de Ezequias, que reinou em Judá por 55 anos e fez o que era mal aos olhos do Senhor, levando o povo à idolatria e à prática de abominações. A seguir estão cinco versículos relacionados com os temas abordados no capítulo:
+* 2 Reis 21:9: "Porém eles não ouviram; e Manassés os fez extraviar mais do que as nações que o Senhor destruíra de diante dos filhos de Israel." Este versículo ilustra a extensão da apostasia de Manassés e como ela afetou não apenas ele, mas todo o povo de Judá.
+* Isaías 55:7: "Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar." Este versículo fala sobre a importância da conversão e do arrependimento, enfatizando que Deus é misericordioso e está disposto a perdoar aqueles que se voltam para ele.
+* Salmo 32:5: "Confessei-te o meu pecado, e a minha maldade não encobri. Dizia eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a maldade do meu pecado." Este salmo destaca a importância da confissão de pecados e como isso pode levar ao perdão e à restauração.
+* 2 Crônicas 34:27: "Porque o teu coração se enterneceu, e te humilhaste perante Deus, ouvindo as suas palavras contra este lugar e contra os seus habitantes, e te humilhaste perante mim, e rasgaste as tuas vestes, e choraste perante mim, também eu te ouvi, diz o Senhor." Este versículo fala sobre a resposta de Deus à humildade e ao arrependimento, indicando que ele está disposto a perdoar e a ouvir aqueles que se voltam para ele.
+* 2 Coríntios 7:10: "Porque a tristeza segundo Deus produz arrependimento para a salvação, que a ninguém traz pesar; mas a tristeza do mundo produz morte." Este versículo destaca a importância da tristeza e da dor na vida cristã, apontando que ela pode levar ao arrependimento e à salvação.
+****
+
+[[v14-33-1]]
+
+^<<v14-33-1,1>>^ Manassés tinha doze anos, guando começou a reinar, e reinou cinquenta e cinco anos em Jerusalém,
+
+[[v14-33-2]]
+
+^<<v14-33-2,2>>^ Fez, porém, o mal diante do Senhor, seguindo as abominações dos povos que o Senhor tinha exterminado à vista dos filhos de Israel.
+
+[[v14-33-3]]
+
+^<<v14-33-3,3>>^ Restaurou os lugares altos, que seu pai Ezequias tinha demolido, levantou altares a Baal, mandou fazer ascheras, prostrou-se diante de toda a milícia do céu, e serviu-a.
+
+[[v14-33-4]]
+
+^<<v14-33-4,4>>^ Edificou também altares na casa do Senhor, da qual o Senhor tinha dito: O meu nome estará eternamente em Jerusalém.
+
+[[v14-33-5]]
+
+^<<v14-33-5,5>>^ Erigiu-os a toda a milícia celeste nos dois átrios da casa do Senhor.
+
+[[v14-33-6]]
+
+^<<v14-33-6,6>>^ Fez também passar os seus filhos pelo fogo no vale de Benenon (em honra de Moloc). Observava os sonhos, seguia os agouros, entregava-se às artes mágicas, tinha consigo magos e encantadores; cometeu muitos males diante do Senhor, provocando-o à ira.
+
+[[v14-33-7]]
+
+^<<v14-33-7,7>>^ Pôs um ídolo, uma estátua fundida, na casa do Senhor, da qual Deus falou a David e a seu filho Salomão, dizendo: Nesta casa e em Jerusalém, a qual eu escolhi entre todas as tribos de Israel, eu estabelecerei o meu nome para sempre.
+
+[[v14-33-8]]
+
+^<<v14-33-8,8>>^ Não farei mais sair Israel da terra que dei a seus pais, contanto que eles procurem cumprir o que eu lhes tenho mandado, toda a lei, todos os preceitos dados por meio de Moisés.
+
+[[v14-33-9]]
+
+^<<v14-33-9,9>>^ Manassés seduziu Judá e os habitantes de Jerusalém, para fazerem maiores males do que todas as nações que o Senhor tinha exterminado na presença dos filhos de Israel.
+
+[[v14-33-10]]
+
+^<<v14-33-10,10>>^ O Senhor falou a ele e ao seu povo, e não o quiseram ouvir.
+
+[[v14-33-11]]
+
+^<<v14-33-11,11>>^ Por isso Deus fez vir sobre eles os chefes do exército do rei dos Assírios, os quais aprisionaram Manassés e o levaram para Babilônia, preso com cadeias e grilhões.
+
+[[v14-33-12]]
+
+^<<v14-33-12,12>>^ Quando se viu na angústia, orou ao Senhor seu Deus e fez grande penitência diante do Deus de seus pais.
+
+[[v14-33-13]]
+
+^<<v14-33-13,13>>^ Suplicou-lhe, rogou-lhe fervorosamente, e o Senhor ouviu a sua oração e o reconduziu a Jerusalém no seu reino. Manassés reconheceu que o Senhor é Deus.
+
+[[v14-33-14]]
+
+^<<v14-33-14,14>>^ Depois disto, mandou edificar o muro que está fora da cidade de David, ao ocidente de Gion, no vale, desde a entrada da Porta dos Peixes, em roda até Ofel, e levantou-o muito. Também pôs oficiais do exército em todas as cidades fortes de Judá.
+
+[[v14-33-15]]
+
+^<<v14-33-15,15>>^ Tirou da casa do Senhor os deuses estranhos, o ídolo e os altares, que tinha mandado levantar sobre a colina do templo do Senhor e em Jerusalém, e fez lançar tudo fora da cidade.
+
+[[v14-33-16]]
+
+^<<v14-33-16,16>>^ Restaurou também o altar do Senhor e imolou sobre ele vítimas, hóstias pacíficas e de ação de graças, e ordenou a Judá que servisse o Senhor Deus de Israel.
+
+[[v14-33-17]]
+
+^<<v14-33-17,17>>^ Contudo, o povo ainda imolava nos lugares altos, mas apenas ao Senhor seu Deus.
+
+[[v14-33-18]]
+
+^<<v14-33-18,18>>^ O resto dos feitos de Manassés, a oração que ele fez ao seu Deus, as palavras dos profetas que lhe falaram da parte do Senhor Deus de Israel, encerram-se nos livros dos reis de Israel.
+
+[[v14-33-19]]
+
+^<<v14-33-19,19>>^ A oração que ele fez, como foi ouvido, todos os seus pecados, o desprezo (de Deus), os lugares em que mandou edificar os lugares altos e em que mandou levantar ascheras e estátuas, antes de fazer penitência, encontra-se tudo escrito no livro de Hozai.
+
+[[v14-33-20]]
+
+^<<v14-33-20,20>>^ Adormeceu Manassés com seus pais, e foi sepultado em sua casa. Em seu lugar reinou Amon, seu filho.
+
+[[v14-33-21]]
+
+^<<v14-33-21,21>>^ Tinha Amon vinte e dois anos, quando começou a reinar, e reinou dois anos em Jerusalém.
+
+[[v14-33-22]]
+
+^<<v14-33-22,22>>^ Fez o mal na presença do Senhor, como o tinha feito seu pai Manassés, e sacrificou e prestou culto a todos os ídolos que Manassés tinha mandado fabricar.
+
+[[v14-33-23]]
+
+^<<v14-33-23,23>>^ Não se humilhou, porém, diante do Senhor, como seu pai Manassés se tinha humilhado, antes cometeu delitos sobre delitos.
+
+[[v14-33-24]]
+
+^<<v14-33-24,24>>^ Seus servos, tendo-se conjurado contra ele, mataram-no em sua casa.
+
+[[v14-33-25]]
+
+^<<v14-33-25,25>>^ Porém, o resto do povo, depois de ter dado a morte aos assassinos de Amon, constituiu rei a Josias, seu filho, em lugar dele.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-032.adoc#v14-32-0[&#60; Capítulo Anterior] | <<v14-33-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-034.adoc#v14-34-0[Próximo Capítulo &#62;]

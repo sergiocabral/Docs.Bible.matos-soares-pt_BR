@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v16-4-0]]
+=== Neemias, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Neemias 4 narra a oposição e oposições enfrentadas pelos judeus na reconstrução dos muros de Jerusalém. No capítulo, os inimigos se opõem à obra, zombam dos judeus, planejam atacá-los e espalhar mentiras sobre eles. Em resposta, Neemias organiza os trabalhadores, encoraja-os a confiar em Deus e toma medidas de precaução contra os ataques. Aqui estão cinco versículos relacionados com os temas abordados em Neemias 4:
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo encoraja os judeus a confiar em Deus para proteção e ajuda, como Neemias fez quando se enfrentou com a oposição.
+* Salmo 46:1: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia." Neemias confia em Deus como sua proteção contra os inimigos, e este salmo reflete essa confiança.
+* Provérbios 21:31: "O cavalo prepara-se para o dia da batalha, mas o SENHOR é que dá a vitória." Neemias tomou medidas de precaução para se proteger dos ataques dos inimigos, mas reconheceu que a vitória vinha do Senhor.
+* Efésios 6:11: "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo." Neemias encorajou os trabalhadores a se protegerem com armas enquanto reconheciam que a luta não era apenas física, mas espiritual.
+* Neemias 4:20: "No lugar onde ouvirdes o som da buzina, ali vos ajuntareis conosco; o nosso Deus pelejará por nós." Este versículo reflete a confiança de Neemias e dos judeus de que Deus lutaria por eles e protegeria a obra que estavam fazendo.
+****
+
+[[v16-4-1]]
+
+^<<v16-4-1,1>>^ Tendo Sanabalat ouvido dizer que nós reedificávamos os muros, irou-se em extremo. Muito encolerizado, escarneceu dos Judeus
+
+[[v16-4-2]]
+
+^<<v16-4-2,2>>^ e disse diante dos seus irmãos e dum grande número de Samaritanos: Que podem fazer estes pobres Judeus? Porventura deixá-los-ão (fazer o que pretendem)? Oferecerão sacrifícios? Acabarão (a sua obra) num dia? Farão ressuscitar as pedras sepultadas em montões de pó e consumidas pelo fogo?
+
+[[v16-4-3]]
+
+^<<v16-4-3,3>>^ E Tobias Amonita, que estava próximo a ele, disse: Edifiquem embora; se vier uma raposa, derrubará o seu muro de pedras.
+
+[[v16-4-4]]
+
+^<<v16-4-4,4>>^ Ouve, Deus nosso, como estamos em desprezo, faz recair os insultos sobre as suas cabeças, entrega-os como presa numa terra de cativeiro.
+
+[[v16-4-5]]
+
+^<<v16-4-5,5>>^ Não cubras (não dissimules) a sua iniquidade, e o seu pecado não se apague de diante dos teus olhos, porque eles escarneceram dos que edificavam.
+
+[[v16-4-6]]
+
+^<<v16-4-6,6>>^ Nós reedificámos o muro, reparámo-lo inteiramente até metade da altura, tanto era o ânimo do povo para trabalhar.
+
+[[v16-4-7]]
+
+^<<v16-4-7,7>>^ Ouvindo Sanabalat, Tobias, os Árabes, os Amonitas e os de Azoto, que avançava a reparação dos muros de Jerusalém e que se começavam a fechar as suas brechas, iraram-se sobremodo.
+
+[[v16-4-8]]
+
+^<<v16-4-8,8>>^ Juntaram-se todos de comum acordo para virem atacar Jerusalém e estabelecer a confusão.
+
+[[v16-4-9]]
+
+^<<v16-4-9,9>>^ Nós fizemos oração ao nosso Deus, e pusemos guardas de dia e de noite sobre o muro contra eles.
+
+[[v16-4-10]]
+
+^<<v16-4-10,10>>^ Os de Judá disseram: As forças dos que acarretam estão enfraquecidas; há ainda muita terra que tirar, e nós não poderemos edificar o muro.
+
+[[v16-4-11]]
+
+^<<v16-4-11,11>>^ Os nossos inimigos disseram: Não saberão nada, nada verão, até que demos sobre eles, até que os matemos e façamos cessar a obra.
+
+[[v16-4-12]]
+
+^<<v16-4-12,12>>^ Aconteceu que, vindo os Judeus, que moravam junto deles, advertir-nos, por dez vezes, de todos os lugares donde vinham contra nós,
+
+[[v16-4-13]]
+
+^<<v16-4-13,13>>^ pus em ordem o povo, por detrás dos muros, ao redor da cidade, com as suas espadas, lanças e arcos.
+
+[[v16-4-14]]
+
+^<<v16-4-14,14>>^ Depois passei revista a tudo e fui dizer aos magnates, magistrados e ao resto do povo: Não temais diante deles. Lembrai-vos do Senhor grande e terrível, e pelejai pelos vossos irmãos, pelos vossos filhos, pelas vossas filhas, pelas vossas mulheres e pelas vossas casas.
+
+[[v16-4-15]]
+
+^<<v16-4-15,15>>^ Quando souberam os nossos inimigos que tinhamos sido avisados. Deus dissipou o seu desígnio. Nós voltámos às muralhas, cada um à sua obra.
+
+[[v16-4-16]]
+
+^<<v16-4-16,16>>^ Desde aquele dia em diante metade da gente moça trabalhava na obra, e a outra metade estava pronta para a peleja, com lanças, escudos, arcos e couraças; os chefes estavam atrás deles em toda a casa de Judá.
+
+[[v16-4-17]]
+
+^<<v16-4-17,17>>^ Os que edificavam os muros, os que acarretavam e os que carregavam, com uma das mãos faziam a obra, e com a outra pegavam na espada;
+
+[[v16-4-18]]
+
+^<<v16-4-18,18>>^ cada um dos que edificavam tinha a sua espada à cinta. Um que tocava a trombeta, estava junto de mim.
+
+[[v16-4-19]]
+
+^<<v16-4-19,19>>^ Eu disse aos magnates, aos magistrados e ao resto do povo: Esta obra é grande e extensa, e nós estamos separados sobre o muro, longe uns dos outros;
+
+[[v16-4-20]]
+
+^<<v16-4-20,20>>^ em qualquer lugar que ouvirdes o som da trombeta, correi ali a socorrer-nos; o nosso Deus pelejará por nós.
+
+[[v16-4-21]]
+
+^<<v16-4-21,21>>^ Desta forma, ao continuarmos a obra, metade dos nossos conservava as lanças empunhadas desde o despontar da aurora até que saiam as estrelas.
+
+[[v16-4-22]]
+
+^<<v16-4-22,22>>^ Naquela mesma ocasião disse eu também ao povo: Cada um fique com o seu servo no meio de Jerusalém, e revezemo-nos de noite e de dia para trabalhar.
+
+[[v16-4-23]]
+
+^<<v16-4-23,23>>^ Eu, porém, meus irmãos, meus servos e os guardas que me acompanhavam, não largávamos as nossas roupas; cada um despia-se somente para se lavar.
+
+'''
+
+xref:016-neemias/016-neemias-003.adoc#v16-3-0[&#60; Capítulo Anterior] | <<v16-4-0,Topo>> | xref:016-neemias/016-neemias-005.adoc#v16-5-0[Próximo Capítulo &#62;]

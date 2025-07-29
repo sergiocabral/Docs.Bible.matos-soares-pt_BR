@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v1-32-0]]
+=== Gênesis, 32
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 32 relata a preparação de Jacó para se encontrar com seu irmão Esaú, a quem ele havia enganado e traído anos antes. O capítulo narra a luta de Jacó com um homem misterioso, que alguns interpretam como sendo Deus. Jacó também envia presentes a Esaú na esperança de aplacar sua ira e se reconciliar com ele. Abaixo estão cinco versículos relacionados aos temas do capítulo:
+* Salmos 34:19 - "Muitas são as aflições do justo, mas o SENHOR o livra de todas." Este verso reflete o estado de espírito de Jacó enquanto se preparava para se encontrar com Esaú. Ele estava temeroso e aflito, preocupado com a ira de seu irmão e as possíveis consequências de seus atos passados.
+* Oséias 12:3-4 - "No ventre, ele suplantou o irmão, e na sua força lutou com Deus. Lutou com o anjo e prevaleceu; chorou e lhe suplicou. Em Betel o encontrou e ali falou conosco." Este verso faz referência à luta de Jacó com o homem misterioso em Gênesis 32, que alguns interpretam como sendo Deus ou um anjo enviado por ele. A luta representa o esforço de Jacó para confrontar e superar seu passado.
+* Provérbios 16:7 - "Quando os caminhos do homem agradam ao Senhor, ele faz até que os seus inimigos tenham paz com ele." Este verso é relevante para a situação de Jacó, que estava tentando aplacar a ira de seu irmão Esaú enviando presentes e demonstrando humildade. A ideia é que, quando um homem agrada a Deus, ele pode esperar que seus inimigos sejam pacificados e a paz seja restaurada.
+* Ezequiel 36:26 - "Dar-vos-ei um coração novo e porei dentro de vós um espírito novo; e tirarei da vossa carne o coração de pedra e vos darei um coração de carne." Este verso fala da transformação que Deus opera nos corações das pessoas que o buscam. É uma ideia relevante para o processo de transformação pessoal pelo qual Jacó estava passando, ao confrontar seu passado e buscar a reconciliação com seu irmão.
+* Gálatas 6:7 - "Não vos enganeis: de Deus não se zomba; pois aquilo que o homem semear, isso também ceifará." Este verso enfatiza a importância da responsabilidade pessoal e da justiça divina. É uma advertência a Jacó e a todos os que buscam seguir a Deus, para que se lembrem de que suas escolhas e ações terão consequências, e que devem assumir a responsabilidade por elas.
+****
+
+[[v1-32-1]]
+
+^<<v1-32-1,1>>^ Jacob prosseguiu o caminho que levava, e saíram-lhe ao encontro uns anjos de Deus.
+
+[[v1-32-2]]
+
+^<<v1-32-2,2>>^ Tendo-os visto disse: Estes são os acampamentos de Deus; por isso, deu àquele lugar o nome de Maanaim, isto é, acampamentos.
+
+[[v1-32-3]]
+
+^<<v1-32-3,3>>^ Jacob mandou mensageiros adiante de si a Esaú, seu irmão, à terra de Seir, na região de Edom.
+
+[[v1-32-4]]
+
+^<<v1-32-4,4>>^ e ordenou-lhes: Falai assim a Esaú, meu Senhor; Jacob, teu irmão, disse isto: Morei com Labão como estrangeiro, e (com ele) estive até ao dia de hoje.
+
+[[v1-32-5]]
+
+^<<v1-32-5,5>>^ Tenho bois, jumentos, ovelhas, servos e servas, e mando agora uma embaixada ao meu senhor, para achar graça diante dele.
+
+[[v1-32-6]]
+
+^<<v1-32-6,6>>^ Os mensageiros voltaram a Jacob e disseram: Fomos ter com teu irmão Esaú, e eis que vem a toda a pressa encontrar-se contigo com quatrocentos homens.
+
+[[v1-32-7]]
+
+^<<v1-32-7,7>>^ Teve Jacob muito medo, e, assustado, dividiu o povo que estava com ele, assim como os rebanhos e as ovelhas, os bodes e os camelos em duas partidas,
+
+[[v1-32-8]]
+
+^<<v1-32-8,8>>^ dizendo: Se vier Esaú a uma partida, e a desbaratar, a outra partida, que resta, se salvará.
+
+[[v1-32-9]]
+
+^<<v1-32-9,9>>^ Disse Jacob: Ó Deus de meu pai Abraão, Deus de meu pai Isaac! Ó Senhor, que me disseste: Volta para a tua terra, para o lugar do teu nascimento e eu te beneficiarei -
+
+[[v1-32-10]]
+
+^<<v1-32-10,10>>^ eu sou indigno de todas as tuas misericórdias e da fidelidade que tiveste com o teu servo. Passei este (rio) Jordão só com o meu cajado e agora volto com duas partidas.
+
+[[v1-32-11]]
+
+^<<v1-32-11,11>>^ Livra-me das mãos de meu irmão Esaú, porque o temo muito, não suceda que chegando ele, mate a mãe com os filhos.
+
+[[v1-32-12]]
+
+^<<v1-32-12,12>>^ Tu disseste que me beneficiarias e dilatarias a minha descendência como a areia do mar, a qual, pela sua multidão, não se pode contar.
+
+[[v1-32-13]]
+
+^<<v1-32-13,13>>^ Tendo passado, pois, aquela noite naquele lugar, separou das coisas que tinha, presentes para seu irmão Esaú:
+
+[[v1-32-14]]
+
+^<<v1-32-14,14>>^ duzentas cabras, vinte bodes, duzentas ovelhas, vinte carneiros,
+
+[[v1-32-15]]
+
+^<<v1-32-15,15>>^ trinta camelas com suas crias, quarenta vacas, vinte touros, vinte jumentas e dez das suas crias.
+
+[[v1-32-16]]
+
+^<<v1-32-16,16>>^ E mandou pelas mãos dos seus servos cada um destes rebanhos separadamente, dizendo aos seus servos: Ide adiante de mim, e haja um intervalo entre rebanho e rebanho.
+
+[[v1-32-17]]
+
+^<<v1-32-17,17>>^ Ordenou ao primeiro, dizendo: Se te encontrares com meu irmão Esaú, e ele te perguntar: De quem és? ou, para onde vais? ou, de quem são estes animais que conduzes?
+
+[[v1-32-18]]
+
+^<<v1-32-18,18>>^ Responderás: São do teu servo Jacob, que os mandou de presente a meu senhor Esaú; ele mesmo vem atrás de nós.
+
+[[v1-32-19]]
+
+^<<v1-32-19,19>>^ As mesmas ordens deu ao segundo, ao terceiro e a todos os que conduziam os rebanhos, dizendo: Por estas mesmas palavras falai a Esaú, quando o encontrardes.
+
+[[v1-32-20]]
+
+^<<v1-32-20,20>>^ Acrescentareis: O mesmo teu servo Jacob vem também atrás de nós. Com efeito (Jacob) disse (consigo): eu o aplacarei com os presentes que vão diante, e depois o verei; talvez me será propicio.
+
+[[v1-32-21]]
+
+^<<v1-32-21,21>>^ Foram, portanto, os presentes adiante dele, e ele ficou naquela noite no acampamento.
+
+[[v1-32-22]]
+
+^<<v1-32-22,22>>^ Tendo-se levantado muito cedo, tomou as suas duas mulheres, e as duas escravas com os onze filhos, e passou o vau de Jacob.
+
+[[v1-32-23]]
+
+^<<v1-32-23,23>>^ Depois de passar tudo o que lhe pertencia,
+
+[[v1-32-24]]
+
+^<<v1-32-24,24>>^ ficou ele só, te um homem lutou com ele até pela manhã. (ver nota)
+
+[[v1-32-25]]
+
+^<<v1-32-25,25>>^ Esse (homem) vendo que o não podia vencer, tocou a articulação da sua coxa, e logo esta se deslocou.
+
+[[v1-32-26]]
+
+^<<v1-32-26,26>>^ E disse (a Jacob): Largá-me, porque já vem vindo a aurora. (Jacob) respondeu: Não te largarei, se me não abençoares.
+
+[[v1-32-27]]
+
+^<<v1-32-27,27>>^ Disse-lhe pois (aquele homem): Qual é o teu nome? Respondeu: Jacob.
+
+[[v1-32-28]]
+
+^<<v1-32-28,28>>^ Porém ele disse: De nenhuma sorte te chamarás Jacob, mas Israel, porque lutaste contra Deus e com os homens e ficaste vitorioso.
+
+[[v1-32-29]]
+
+^<<v1-32-29,29>>^ Perguntou-lhe Jacob: Dize-me, como te chamas? Respondeu: Por que me perguntas o meu nome? E abençoou-o no mesmo lugar.
+
+[[v1-32-30]]
+
+^<<v1-32-30,30>>^ Jacob pôs àquele lugar o nome de Fanuel, dizendo: Via Deus face a face, e a minha alma foi salva.
+
+[[v1-32-31]]
+
+^<<v1-32-31,31>>^ E logo o sol lhe nasceu, depois que ultrapassou Fanuel: ele, porém, coxeava dum pé.
+
+[[v1-32-32]]
+
+^<<v1-32-32,32>>^ Por esta razão os filhos de Israel até ao dia de hoje não comem o nervo da articulação da coxa, porque o anjo tinha tocado Jacob nesse nervo.
+
+'''
+
+xref:001-genesis/001-genesis-031.adoc#v1-31-0[&#60; Capítulo Anterior] | <<v1-32-0,Topo>> | xref:001-genesis/001-genesis-033.adoc#v1-33-0[Próximo Capítulo &#62;]

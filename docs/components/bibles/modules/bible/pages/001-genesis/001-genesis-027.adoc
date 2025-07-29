@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v1-27-0]]
+=== Gênesis, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 27 conta a história de Jacó, que enganou seu pai cego, Isaque, para receber a bênção destinada a Esaú, seu irmão mais velho. O capítulo aborda temas como traição, mentira, arrependimento e a importância das bênçãos. Abaixo, seguem cinco versículos relacionados com esses temas, excluindo os versículos deste capítulo:
+* Provérbios 26:24-26: "O que odeia dissimula com os lábios, mas no seu coração se encobre a falsidade. Quando te falar suavemente, não te fies nele, pois sete abominações há no seu coração. Ainda que encubra a sua malícia com engano, a sua maldade se descobrirá perante a congregação." Este trecho fala sobre a falsidade e a traição, comportamentos presentes na história de Jacó e Esaú.
+* Salmos 32:5: "Confessei-te o meu pecado e a minha maldade não encobri. Disse eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a maldade do meu pecado." Este versículo fala sobre a importância do arrependimento e da confissão de pecados. Jacó se arrependeu do engano a seu pai e buscou o perdão divino.
+* Provérbios 10:22: "A bênção do Senhor é que enriquece, e ele não acrescenta dores com ela." Este versículo fala sobre a importância das bênçãos divinas, que trazem riqueza e prosperidade sem causar dor ou sofrimento. Jacó lutou para receber a bênção destinada a Esaú, reconhecendo sua importância.
+* Mateus 5:37: "Seja, porém, o vosso falar: Sim, sim; Não, não; porque o que passa disto é de procedência maligna." Este versículo fala sobre a importância da honestidade e da verdade em nossas palavras e ações. Jacó agiu de forma desonesta ao enganar seu pai para receber a bênção.
+* Efésios 4:25: "Por isso deixai a mentira, e falai a verdade cada um com o seu próximo, pois somos membros uns dos outros." Este versículo fala sobre a importância de falarmos a verdade em nossas relações interpessoais, reconhecendo que somos parte de uma comunidade. Jacó violou essa confiança ao mentir para seu pai e enganar seu irmão.
+****
+
+[[v1-27-1]]
+
+^<<v1-27-1,1>>^ Ora Isaac envelheceu, a vista escureceu-se-lhe e não podia ver. Chamou Esaú, seu filho mais velho, e disse-lhe: Meu filho! Ele respondeu: Aqui estou.
+
+[[v1-27-2]]
+
+^<<v1-27-2,2>>^ O pai disse-lhe: Tu vês que estou velho e que ignoro o dia da minha morte.
+
+[[v1-27-3]]
+
+^<<v1-27-3,3>>^ Toma as tuas armas, a aljava e o arco, e sai (ao campo); quando tiveres caçado alguma coisa,
+
+[[v1-27-4]]
+
+^<<v1-27-4,4>>^ faze-me um guisado como sabes que eu gosto, traze-mo para eu comer, e (para que) a minha alma te abençoe antes de eu expirar.
+
+[[v1-27-5]]
+
+^<<v1-27-5,5>>^ Rebeca ouviu isto, e, tendo Esaú ido para o campo para cumprir o mandato do pai,
+
+[[v1-27-6]]
+
+^<<v1-27-6,6>>^ disse a seu filho Jacob: Ouvi teu pai falar com Esaú, teu irmão, e dizer-lhe:
+
+[[v1-27-7]]
+
+^<<v1-27-7,7>>^ Traze-me da tua caça, e faze-me um guisado para eu comer e (para que) te abençoe na presença do Senhor antes de morrer.
+
+[[v1-27-8]]
+
+^<<v1-27-8,8>>^ Agora, pois, meu filho, segue os meus conselhos:
+
+[[v1-27-9]]
+
+^<<v1-27-9,9>>^ Vai ao rebanho, traze-me os dois melhores cabritos, para que eu faça deles a teu paí (um daqueles) pratos, de que ele come com vontade,
+
+[[v1-27-10]]
+
+^<<v1-27-10,10>>^ a fim de que, quando lho apresentares e ele tiver comido, te abençoe antes de morrer.
+
+[[v1-27-11]]
+
+^<<v1-27-11,11>>^ Ele respondeu: Tu sabes que Esaú, meu irmão, é um homem peludo, e eu não;
+
+[[v1-27-12]]
+
+^<<v1-27-12,12>>^ se meu pai me apalpar e me reconhecer, temo que ele julgue que eu o quis enganar, e que assim eu atraia sobre mim a maldição em lugar de bênção.
+
+[[v1-27-13]]
+
+^<<v1-27-13,13>>^ Sua mãe disse-lhe: Sobre mim caia essa maldição, meu filho: ouve somente a minha voz, e, partindo, traze o que eu disse.
+
+[[v1-27-14]]
+
+^<<v1-27-14,14>>^ Ele foi, trouxe (os cabritos) e deu-os a sua mãe. Ela preparou o guisado, como sabia ser do gosto do pai dele.
+
+[[v1-27-15]]
+
+^<<v1-27-15,15>>^ Vestiu Jacob com a melhor roupa de Esaú, que tinha junto de si, em casa;
+
+[[v1-27-16]]
+
+^<<v1-27-16,16>>^ com as peles dos cabritos envolveu-lhe as mãos, e cobriu a parte nua do pescoço. (ver nota)
+
+[[v1-27-17]]
+
+^<<v1-27-17,17>>^ Deu-lhe o guisado, e entregou-lhe os pães que tinha cozido.
+
+[[v1-27-18]]
+
+^<<v1-27-18,18>>^ Jacob, tendo levado tudo a Isaac, disse-lhe: Meu pai! Ele respondeu: Aqui estou. Quem és tu, meu filho?
+
+[[v1-27-19]]
+
+^<<v1-27-19,19>>^ Jacob disse: Sou o teu filho primogênito, Esaú; fiz como me ordenaste: levanta-te, senta-te e come da minha caçada, afim de que tua alma me abençoe.
+
+[[v1-27-20]]
+
+^<<v1-27-20,20>>^ Isaac disse outra vez a seu filho: Como pudeste encontrar tão depressa, meu filho? Ele respondeu: Foi vontade de Deus que depressa se me apresentasse o que eu queria.
+
+[[v1-27-21]]
+
+^<<v1-27-21,21>>^ Isaac disse; Chega-te aqui, meu filho, para que eu te apalpe e reconheça se és o meu filho Esaú, ou não.
+
+[[v1-27-22]]
+
+^<<v1-27-22,22>>^ Aproximou-se do pai que, tendo-o apalpado, disse: A voz verdadeiramente é a voz de Jacob, mas as mãos são as mãos de Esaú.
+
+[[v1-27-23]]
+
+^<<v1-27-23,23>>^ E não o conheceu, porque as mãos peludas eram semelhantes às do mais velho. Portanto, abençoando-o,
+
+[[v1-27-24]]
+
+^<<v1-27-24,24>>^ disse: Tu és o meu filho Esaú? Respondeu: Sou.
+
+[[v1-27-25]]
+
+^<<v1-27-25,25>>^ Isaac disse; Serve-me os guisados da tua caçada, meu filho, para que a minha alma te abençoe. Jacob serviu-lhos, e, depois de ele comer, ofereceu-lhe também vinho, bebido o qual,
+
+[[v1-27-26]]
+
+^<<v1-27-26,26>>^ (Isaac) lhe disse: Aproxima-te de mim e dá-mé um beijo, meu filho.
+
+[[v1-27-27]]
+
+^<<v1-27-27,27>>^ Aproximou-se e beijou-o. Logo que Isaac sentiu a fragrância de seus vestidos, abençoando-o, disse: Eis que o perfume de meu filho é como o perfume dum campo florido que o Senhor abençoou. (ver nota)
+
+[[v1-27-28]]
+
+^<<v1-27-28,28>>^ Deus te dê do orvalho do céu, da fertilidade da terra, e abundância de trigo e de vinho!
+
+[[v1-27-29]]
+
+^<<v1-27-29,29>>^ Que os povos te sirvam, e as nações te reverenciem; sê o Senhor de teus irmãos, e inclinem-se diante de ti os filhos de tua mãe. Aquele que te amaldiçoar, Seja amaldiçoado, e o que te abençoar, seja cumulado de bênçãos
+
+[[v1-27-30]]
+
+^<<v1-27-30,30>>^ Apenas Isaac tinha acabado de dar a bênção, e Jacob tinha saído, chegou Esaú. (ver nota)
+
+[[v1-27-31]]
+
+^<<v1-27-31,31>>^ Levou ao pai os guisados preparados da sua caçada, dizendo: Levanta-te, meu pai, e come da caça de teu filho, para que a tua alma me abençoe.
+
+[[v1-27-32]]
+
+^<<v1-27-32,32>>^ Isaac disse-lhe: Mas quem és tu? Ele respondeu: Sou o teu filho primogénito Esaú.
+
+[[v1-27-33]]
+
+^<<v1-27-33,33>>^ Isaac, possuído de uma violenta emoção, disse: Quem é, pois, aquele que há pouco me trouxe a caça que apanhou? Comi de tudo antes que tu viesses. abençoei-o, e ele será bendito.
+
+[[v1-27-34]]
+
+^<<v1-27-34,34>>^ Esaú, ouvidas as palavras do pai, gritou com grande clamor, e, consternado, disse: Dá-me também a mim a bênção, meu pai.
+
+[[v1-27-35]]
+
+^<<v1-27-35,35>>^ Ele disse: O teu irmão veio fraudulentamente e recebeu e tua bênção.
+
+[[v1-27-36]]
+
+^<<v1-27-36,36>>^ Esaú prosseguiu: com razão lhe foi posto o nome de Jacob, porque pela segunda vez me suplantou: Primeiro, tirou-me o direito da primogenitura, e, agora, novamente me roubou a minha bênção. Disse de novo ao pai: Porventura não reservaste uma bênção também para mim?
+
+[[v1-27-37]]
+
+^<<v1-27-37,37>>^ Isaac respondeu: Eu o constitui teu senhor, e sujeitei à sua servidão todos os seus irmãos: estabeleci-o na posse do trigo e do vinho; depois disto, meu filho, que te posso eu fazer?
+
+[[v1-27-38]]
+
+^<<v1-27-38,38>>^ Esaú disse-lhe: Porventura ó pai, tens uma só bênção? Rogo-te que me abençoes também a mim. E, como rompesse num grande pranto,
+
+[[v1-27-39]]
+
+^<<v1-27-39,39>>^ Isaac, comovido, disse-lhe: Sem a abundância da terra, e sem o orvalho do alto do céu será a tua bênção.
+
+[[v1-27-40]]
+
+^<<v1-27-40,40>>^ Viverás da espada, e servirás a teu irmão; porém virá tempo em que sacudas e desates o seu jugo da tua cerviz.
+
+[[v1-27-41]]
+
+^<<v1-27-41,41>>^ Por isso Esaú odiou Jacob por causa da bênção com que o pai o abençoara, e disse no seu coração: Virão os dias do luto por meu pai, e eu matarei Jacob, meu irmão.
+
+[[v1-27-42]]
+
+^<<v1-27-42,42>>^ Estas coisas foram referidas a Rebeca, a qual, mandando chamar seu filho Jacob, lhe disse: Eis que Esaú, teu irmão, ameaça que te há-de matar.
+
+[[v1-27-43]]
+
+^<<v1-27-43,43>>^ Agora, pois, meu filho, ouve a minha voz, e foge ligeiro para (casa de) Labão, meu irmão, em Haran;
+
+[[v1-27-44]]
+
+^<<v1-27-44,44>>^ habitarás com ele algum tempo, até que se aplaque o furor do teu irmão,
+
+[[v1-27-45]]
+
+^<<v1-27-45,45>>^ cesse a sua cólera e se esqueça do que lhe fizeste: depois mandarei (lá alguém), e te farei conduzir de lá para aqui. Por que hei-de eu perder ambos os meus filhos num só dia?
+
+[[v1-27-46]]
+
+^<<v1-27-46,46>>^ E Rebeca disse a Isaac: Estou desgostosa da vida por causa das filhas de Heth, se Jacob tomar mulher da linhagem desta terra, não quero mais viver.
+
+'''
+
+xref:001-genesis/001-genesis-026.adoc#v1-26-0[&#60; Capítulo Anterior] | <<v1-27-0,Topo>> | xref:001-genesis/001-genesis-028.adoc#v1-28-0[Próximo Capítulo &#62;]

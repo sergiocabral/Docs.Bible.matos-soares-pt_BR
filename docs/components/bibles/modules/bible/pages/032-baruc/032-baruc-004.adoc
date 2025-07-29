@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v32-4-0]]
+=== Baruc, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Baruc 4 é um capítulo do Antigo Testamento que fala sobre a restauração do povo de Israel após o exílio na Babilônia. O capítulo começa com uma exortação para que o povo de Israel se alegre e se regozije porque Deus os trouxe de volta para a terra de seus antepassados. Ele também destaca a importância da sabedoria e da obediência a Deus. A seguir estão cinco versículos relacionados aos temas abordados em Baruc 4, em ordem de proximidade com o capítulo:
+* Isaías 40:1-2: "Consolai, consolai o meu povo, diz o vosso Deus. Falai confortavelmente a Jerusalém e clamai-lhe que já a sua malícia é acabada, que a sua iniquidade está expiada e que já recebeu em dobro da mão do Senhor por todos os seus pecados." Este versículo fala sobre a restauração do povo de Israel após o exílio na Babilônia, um tema central em Baruc 4.
+* Deuteronômio 30:1-3: "Será que, quando todas estas coisas te acontecerem, a bênção e a maldição que pus diante de ti, meditares nelas no teu coração, entre todas as nações para onde te lançar o Senhor, teu Deus, e te converteres ao Senhor, teu Deus, e ouvires a sua voz conforme tudo o que te ordeno hoje, tu e teus filhos, com todo o teu coração e com toda a tua alma, então o Senhor, teu Deus, fará voltar do teu cativeiro e se compadecerá de ti." Este versículo também fala sobre a restauração do povo de Israel após o exílio na Babilônia, um tema central em Baruc 4.
+* Salmos 126:1-2: "Quando o Senhor trouxe do cativeiro os que voltaram a Sião, estávamos como os que sonham. Então a nossa boca se encheu de riso e a nossa língua de cânticos; então se dizia entre os gentios: Grandes coisas fez o Senhor a estes." Este versículo fala sobre a alegria que o povo de Israel sentiu quando Deus os trouxe de volta para a terra de seus antepassados, um tema abordado em Baruc 4.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo destaca a importância da sabedoria e da obediência a Deus, temas abordados em Baruc 4.
+* Salmos 119:105: "Lâmpada para os meus pés é tua palavra e luz para o meu caminho." Este versículo também destaca a importância da sabedoria e da obediência a Deus, temas abordados em Baruc 4.
+****
+
+[[v32-4-1]]
+
+^<<v32-4-1,1>>^ (A sabedoria) é o livro dos mandamentos de Deus e a lei que subsiste eternamente; todos os que a guardam, chegarão à vida; e os que a deixam, cairão na morte.
+
+[[v32-4-2]]
+
+^<<v32-4-2,2>>^ Converte-te, ó Jacob, e apreende-a, anda pelo caminho ao esplendor da sua luz.
+
+[[v32-4-3]]
+
+^<<v32-4-3,3>>^ Não entregues a outro a tua glória, nem a uma nação estranha a tua dignidade.
+
+[[v32-4-4]]
+
+^<<v32-4-4,4>>^ Ditosos somos, ó Israel, porque as coisas que agradam a Deus, nos são manifestas.
+
+[[v32-4-5]]
+
+^<<v32-4-5,5>>^ Tem bom ânimo, ó povo meu, memória de Israel. (ver nota)
+
+[[v32-4-6]]
+
+^<<v32-4-6,6>>^ Fostes vendidos às nações, mas não para perdição. Porque provocastes a indignação de Deus, por isso fostes entregues aos adversários.
+
+[[v32-4-7]]
+
+^<<v32-4-7,7>>^ Com efeito, irritastes aquele que vos criou, o Deus eterno, sacrificando aos demônios, e não a Deus.
+
+[[v32-4-8]]
+
+^<<v32-4-8,8>>^ Esquecestes-vos do Deus eterno que vos sustentou, e contristastes Jerusalém, vossa nutrice.
+
+[[v32-4-9]]
+
+^<<v32-4-9,9>>^ Porque ela viu que vinha a ira de Deus sobre vós e disse: Ouvi, confinantes de Sião: Deus enviou-me uma grande tristeza.
+
+[[v32-4-10]]
+
+^<<v32-4-10,10>>^ Vi o cativeiro de meu povo, de meus filhos e filhas., com que o Eterno os feriu.
+
+[[v32-4-11]]
+
+^<<v32-4-11,11>>^ Eu tinha-os criado com alegria, e vi-os partir com lágrimas e tristeza.
+
+[[v32-4-12]]
+
+^<<v32-4-12,12>>^ Ninguém se alegre, ao ver-me viúva e desolada; por muitos fui desamparada, por causa dos pecados de meus filhos, porque se desviaram da lei de Deus,
+
+[[v32-4-13]]
+
+^<<v32-4-13,13>>^ desconheceram os seus preceitos, não andaram pelos caminhos dos seus mandamentos, nem entraram pelas veredas da instrução da sua justiça.
+
+[[v32-4-14]]
+
+^<<v32-4-14,14>>^ Venham as confinantes de Sião e recordem o cativeiro de meus filhos e filhas, com que o Eterno os castigou.
+
+[[v32-4-15]]
+
+^<<v32-4-15,15>>^ Porque (o Senhor) fez vir sobre eles uma gente de longe, uma gente perversa e de linguagem bárbara,
+
+[[v32-4-16]]
+
+^<<v32-4-16,16>>^ a qual não respeitou o ancião, não teve piedade dos pequeninos, e arrancou os queridos (filhos) à viúva, deixando-a desolada, privada de suas filhas.
+
+[[v32-4-17]]
+
+^<<v32-4-17,17>>^ Como vos posso eu ajudar?
+
+[[v32-4-18]]
+
+^<<v32-4-18,18>>^ Aquele que fez vir sobre vós os males, esse mesmo vos livrará das mãos de vossos inimigos.
+
+[[v32-4-19]]
+
+^<<v32-4-19,19>>^ Andai, filhos, andai, que eu fico só.
+
+[[v32-4-20]]
+
+^<<v32-4-20,20>>^ Tirei o manto da paz, e vesti-me com o saco da oração; clamarei ao Altíssimo todos os dias da minha vida.
+
+[[v32-4-21]]
+
+^<<v32-4-21,21>>^ Tende bom ânimo, filhos, clamai ao Senhor, e livrar-vos-á da mão dos inimigos.
+
+[[v32-4-22]]
+
+^<<v32-4-22,22>>^ Espero do Eterno a vossa salvação; chegou a mim a alegria do Santo, por causa da misericórdia que vos virá do Eterno, vosso Salvador.
+
+[[v32-4-23]]
+
+^<<v32-4-23,23>>^ Com choro e pranto vos vi partir; mas Deus vos fará voltar a mim com gozo e alegria para sempre.
+
+[[v32-4-24]]
+
+^<<v32-4-24,24>>^ Assim como as (cidades) vizinhas de Sião viram o vosso cativeiro, assim verão também prontamente baixar da parte de Deus a vossa salvação, que vos sobrevirá com grande glória e esplendor do Eterno.
+
+[[v32-4-25]]
+
+^<<v32-4-25,25>>^ Filhos suportai com paciência o castigo de Deus, que velo sobre vós. O teu inimigo te perseguiu (ó Israel), mas em breve verás a sua perdição e porás o pé sobre a sua cerviz.
+
+[[v32-4-26]]
+
+^<<v32-4-26,26>>^ Os meus delicados filhos andaram por ásperos caminhos, foram levados como um rebanho roubado pelo inimigo.
+
+[[v32-4-27]]
+
+^<<v32-4-27,27>>^ Tende bom ânimo, ó filhos, e clamai ao Senhor, porque se lembrará de vós aquele que vos castigou.
+
+[[v32-4-28]]
+
+^<<v32-4-28,28>>^ Porque, assim como a vossa vontade vos levou a que vos desviásseis de Deus, assim também, com um ardor dez vezes maior, o buscareis, quando de novo vos converterdes,
+
+[[v32-4-29]]
+
+^<<v32-4-29,29>>^ porque aquele que vos enviou os males, esse mesmo vos trará de novo uma alegria eterna com a vossa salvação.
+
+[[v32-4-30]]
+
+^<<v32-4-30,30>>^ Tem bom ânimo, ó Jerusalém! Consolar-te-á aquele que te deu o (seu) nome.
+
+[[v32-4-31]]
+
+^<<v32-4-31,31>>^ Ai dos que te vexaram e se congratularam pela tua ruína!
+
+[[v32-4-32]]
+
+^<<v32-4-32,32>>^ Ai das cidades em que foram escravos os teus filhos! Ai da que recebeu teus filhos (como prisioneiros)!
+
+[[v32-4-33]]
+
+^<<v32-4-33,33>>^ Porque, assim como ela se regozijou pela tua ruína e se alegrou pela tua queda, assim se contristará pela própria devastação.
+
+[[v32-4-34]]
+
+^<<v32-4-34,34>>^ Tirar-lhe-ei a alegria da sua densa população, e a sua jactância se converterá em pranto.
+
+[[v32-4-35]]
+
+^<<v32-4-35,35>>^ Um fogo lhe sobrevirá da parte do Eterno por largos dias, e pelos demônios será habitada muito tempo. (ver nota)
+
+[[v32-4-36]]
+
+^<<v32-4-36,36>>^ Olha, ó Jerusalém, para o oriente, e vê o regozijo que te vem de Deus.
+
+[[v32-4-37]]
+
+^<<v32-4-37,37>>^ Pois eis aí vêm os teus filhos, que viste partir, vêm congregados do oriente até ao ocidente, pela palavra do Santo, jubilosos da glória de Deus.
+
+'''
+
+xref:032-baruc/032-baruc-003.adoc#v32-3-0[&#60; Capítulo Anterior] | <<v32-4-0,Topo>> | xref:032-baruc/032-baruc-005.adoc#v32-5-0[Próximo Capítulo &#62;]

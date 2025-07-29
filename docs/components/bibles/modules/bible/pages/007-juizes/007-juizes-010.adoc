@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v7-10-0]]
+=== Juízes, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Juízes 10 narra a história dos juízes Tola e Jair, que lideraram Israel por um total de 45 anos após a morte de Jefté. No entanto, os israelitas novamente se afastam de Deus e começam a adorar ídolos estrangeiros, o que leva a opressão pelos amonitas. Eles finalmente clamam a Deus por ajuda e se arrependem de sua idolatria, levando Deus a levantar Jephthah para liderá-los à vitória. Aqui estão cinco versículos relacionados com os temas abordados em Juízes 10, excluindo versículos do próprio capítulo:
+* Salmos 106:36-37: "Serviram a seus ídolos, que se tornaram um laço para eles. Sacrificaram seus filhos e suas filhas aos demônios." Este versículo fala sobre a idolatria e como ela pode ser prejudicial para as pessoas. Os israelitas em Juízes 10 se desviaram de Deus e começaram a adorar ídolos estrangeiros, levando à opressão pelos amonitas.
+* Isaías 45:7: "Eu formo a luz e crio as trevas, promovo a paz e causo a desgraça; eu, o Senhor, faço todas essas coisas." Este versículo fala sobre a soberania de Deus sobre todas as coisas, incluindo a desgraça que pode vir sobre as pessoas. Os israelitas em Juízes 10 foram oprimidos pelos amonitas por causa de sua idolatria, mas eles clamaram a Deus por ajuda, e Deus levantou Jephthah para liderá-los à vitória.
+* Romanos 12:21: "Não se deixem vencer pelo mal, mas vençam o mal com o bem." Este versículo fala sobre a importância de resistir ao mal e vencê-lo com o bem. Jephthah em Juízes 10 liderou Israel à vitória contra os amonitas e mostrou que é possível vencer o mal com o bem.
+* Hebreus 11:32-34: "E que mais direi? Não tenho tempo para falar de Gideão, Baraque, Sansão, Jefté, Davi, Samuel e os profetas, os quais pela fé conquistaram reinos, praticaram a justiça, obtiveram o cumprimento de promessas, fecharam a boca de leões, apagaram a força do fogo e escaparam do fio da espada; da fraqueza tiraram força, tornaram-se poderosos na batalha e puseram em fuga exércitos estrangeiros." Este versículo fala sobre a fé dos heróis do Antigo Testamento que foram capazes de conquistar reinos e pôr em fuga exércitos estrangeiros. Jephthah em Juízes 10 é listado junto com outros heróis da fé por sua conquista sobre os amonitas.
+* Apocalipse 3:19: "A todos a quem amo, repreendo e disciplino. Por isso, seja diligente e arrependa-se." Este versículo fala sobre como Deus disciplina aqueles a quem Ele ama e como é importante se arrepender.
+****
+
+[[v7-10-1]]
+
+^<<v7-10-1,1>>^ Depois de Abimelec foi constituído chefe de Israel Tola, filho de Fua, filho de Dodo, homem (da tribo) de Issacar, que habitou em Samir do monte de Efraim.
+
+[[v7-10-2]]
+
+^<<v7-10-2,2>>^ Foi juiz de Israel durante vinte e três anos, e morreu, sendo sepultado em Samir.
+
+[[v7-10-3]]
+
+^<<v7-10-3,3>>^ A este sucedeu Jair Galaadita que foi juiz de Israel durante vinte e dois anos.
+
+[[v7-10-4]]
+
+^<<v7-10-4,4>>^ Tinha trinta filhos que montavam em trinta jumentinhos, e possuíam trinta cidades na terra de Galaad, as quais até ao dia de hoje foram chamadas do seu nome Havot Jair, isto é, cidades de Jair.
+
+[[v7-10-5]]
+
+^<<v7-10-5,5>>^ Jair morreu e foi sepultado no lugar chamado Camon.
+
+[[v7-10-6]]
+
+^<<v7-10-6,6>>^ Os filhos de Israel, juntando novos pecados aos velhos, fizeram o mal na presença do Senhor, adoraram os ídolos, Baal, Astarot, os deuses da Síria, de Sidónia, de Moab, dos filhos de Amon e dos Filisteus, e abandonaram o Senhor, não o servindo mais.
+
+[[v7-10-7]]
+
+^<<v7-10-7,7>>^ O Senhor, irado contra eles, entregou-os nas mãos dos Filisteus e dos filhos de Amon.
+
+[[v7-10-8]]
+
+^<<v7-10-8,8>>^ E todos os que habitavam na outra banda do Jordão, no território dos Amorreus, que é em Galaad, foram afligidos, cruelmente oprimidos durante dezoito anos.
+
+[[v7-10-9]]
+
+^<<v7-10-9,9>>^ Os filhos de Amon, tendo passado o Jordão, devastaram (as tribos de) Judá, de Benjamim e de Efraim , e Israel viu-se numa extrema aflição.
+
+[[v7-10-10]]
+
+^<<v7-10-10,10>>^ Clamando ao Senhor, disseram: Nós pecamos contra ti, porque abandonamos o Senhor nosso Deus e servimos (os ídolos de) Baal.
+
+[[v7-10-11]]
+
+^<<v7-10-11,11>>^ O Senhor disse-lhes: Porventura os Egípcios, os Amorreus, os filhos de Amon, os Filisteus,
+
+[[v7-10-12]]
+
+^<<v7-10-12,12>>^ e também os Sidónios, os Amalecitas e os Cinaneus, não vos oprimiram, e vós clamastes a mim, e eu não vos livrei das suas mãos?
+
+[[v7-10-13]]
+
+^<<v7-10-13,13>>^ E com tudo isto vós abandonastes-me, e servistes deuses estranhos; por isso não mais vos livrarei.
+
+[[v7-10-14]]
+
+^<<v7-10-14,14>>^ Ide e invocai os deuses que escolhestes; eles vos livrem ao tempo da angústia.
+
+[[v7-10-15]]
+
+^<<v7-10-15,15>>^ Mas os filhos de Israel disseram ao Senhor: Pecamos, faz tu de nós o que te parecer; somente livra-nos agora.
+
+[[v7-10-16]]
+
+^<<v7-10-16,16>>^ Dizendo estas coisas, lançaram fora de suas terras todos os ídolos dos deuses estranhos, e serviram ao Senhor Deus, que se compadeceu de suas misérias.
+
+[[v7-10-17]]
+
+^<<v7-10-17,17>>^ Os filhos de Amon com grande algazarra acamparam em Gaad; e os filhos de Israel, congregando-se contra eles, acamparam em Masfa.
+
+[[v7-10-18]]
+
+^<<v7-10-18,18>>^ O povo, os chefes de Galaad disseram uns para os outros: O primeiro de nós que começar a combater contra os filhos de Amon, será chefe do povo de Galaad.
+
+'''
+
+xref:007-juizes/007-juizes-009.adoc#v7-9-0[&#60; Capítulo Anterior] | <<v7-10-0,Topo>> | xref:007-juizes/007-juizes-011.adoc#v7-11-0[Próximo Capítulo &#62;]

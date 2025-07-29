@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v29-12-0]]
+=== Isaías, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 12 é um hino de louvor e ação de graças a Deus por Sua salvação. O capítulo celebra a alegria e a confiança que o povo de Deus encontra em sua relação com Ele, apesar dos desafios e provações que enfrentam. Abaixo estão cinco versículos relacionados com os temas abordados em Isaías 12:
+* Salmo 9:1: "Eu te louvarei, Senhor, de todo o meu coração; contarei todas as tuas maravilhas." Este versículo fala sobre a alegria de louvar a Deus e testemunhar Suas maravilhas, um tema central em Isaías 12.
+* Salmo 40:16: "Seja alegre e regozije-se em ti todo o que te busca; e aqueles que amam a tua salvação digam continuamente: Engrandecido seja o Senhor!" Este versículo fala sobre a alegria daqueles que buscam a salvação de Deus e Seu amor, um tema central em Isaías 12.
+* Salmo 62:5: "Somente em Deus, ó minha alma, espera silenciosa, porque dele vem a minha esperança." Este versículo fala sobre a confiança que o povo de Deus tem em Sua salvação e esperança, um tema central em Isaías 12.
+* Salmo 89:15: "Bem-aventurado o povo que sabe aclamar-te; andará, ó Senhor, à luz da tua face." Este versículo fala sobre a alegria e a bênção de aclamar a Deus e caminhar em Sua luz, um tema central em Isaías 12.
+* Salmo 118:14-15: "O Senhor é a minha força e o meu cântico, e se tornou a minha salvação. Nas tendas dos justos há voz de júbilo e de salvação; a destra do Senhor faz proezas." Este versículo fala sobre a alegria da salvação que o povo de Deus experimenta em Sua presença, um tema central em Isaías 12.
+****
+
+[[v29-12-1]]
+
+^<<v29-12-1,1>>^ Dirás naquele dia: Eu te rendo graças, Senhor, porque, havendo-te irado contra mim, o teu furor aplacou-se e tu me consolaste. Eis o Deus meu Salvador; estou cheio de confiança, não temo, porque o Senhor é a minha fortaleza e o meu louvor; ele foi a minha salvação.
+
+[[v29-12-2]]
+
+^<<v29-12-2,2>>^ Tirareis com gosto águas das fontes da salvação, (ver nota)
+
+[[v29-12-3]]
+
+^<<v29-12-3,3>>^ e direis naquele dia; Louvai o Senhor, invocai o seu nome, publicai entre os povos as suas obras, proclamai que o seu nome é excelso.
+
+[[v29-12-4]]
+
+^<<v29-12-4,4>>^ Cantai ao Senhor, porque ele fez coisas magníficas; que se saiba isto em toda a terra.
+
+[[v29-12-5]]
+
+^<<v29-12-5,5>>^ Cantai de alegria, rejubilai, habitantes de Sião. porque se mostra grande, no meio de vós, o Santo de Israel.
+
+'''
+
+xref:029-isaias/029-isaias-011.adoc#v29-11-0[&#60; Capítulo Anterior] | <<v29-12-0,Topo>> | xref:029-isaias/029-isaias-013.adoc#v29-13-0[Próximo Capítulo &#62;]

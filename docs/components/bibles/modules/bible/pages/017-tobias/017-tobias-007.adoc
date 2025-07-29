@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v17-7-0]]
+=== Tobias, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Tobias 7 narra a jornada de Tobias e Azarias para a casa de Raquel, parente de Tobias, a fim de pedir dinheiro emprestado para Tobias. Durante a viagem, eles param para lavar os pés em um rio e um peixe quase os ataca. Azarias diz a Tobias para pegar o peixe, que será usado mais tarde para curar a cegueira de Tobit, pai de Tobias. Os versículos selecionados abaixo estão relacionados com o tema da cura:
+* Tobias 6:2: "Pegue o peixe". Neste versículo, Azarias diz a Tobias para pegar o peixe que quase os atacou no rio. Isso é importante porque o peixe será usado mais tarde para curar a cegueira de Tobit.
+* João 9:1-7: Este é o relato da cura de um homem cego por Jesus. A cura é realizada com lodo feito de saliva e terra que Jesus aplica nos olhos do homem. Este versículo é relevante porque mostra outra forma de cura de uma condição física, neste caso a cegueira.
+* Mateus 9:27-30: Neste relato, dois cegos encontram Jesus e pedem para ser curados. Jesus toca seus olhos e eles são curados. Isso é importante porque mostra o poder de cura de Jesus.
+* Marcos 8:22-26: Este é outro relato de Jesus curando a cegueira de um homem. Jesus coloca saliva nos olhos do homem e, em seguida, ele começa a enxergar, embora embaçado. Esse versículo é relevante porque mostra que a cura pode ser alcançada de diferentes maneiras.
+* Atos 3:1-10: Este é o relato de Pedro e João curando um homem coxo na entrada do templo. Eles pedem ao homem que ande e, imediatamente, ele é curado e começa a andar. Isso é importante porque mostra que a cura pode acontecer de forma imediata e milagrosa.
+****
+
+[[v17-7-1]]
+
+^<<v17-7-1,1>>^ Entraram, pois, em casa de Raguel, que os recebeu com alegria.
+
+[[v17-7-2]]
+
+^<<v17-7-2,2>>^ Pondo Raguel os olhos em Tobias, disse para Ana, sua mulher: Como este jovem é parecido com meu primo!
+
+[[v17-7-3]]
+
+^<<v17-7-3,3>>^ Dito isto, perguntou: Donde sois vós, ó jovens nossos irmãos? Eles responderam : Somos da tribo de Neftali, dos cativos de Ninive.
+
+[[v17-7-4]]
+
+^<<v17-7-4,4>>^ Raguel disse-lhes: Vós conheceis meu irmão Tobias? Eles responderam: Conhecemos.
+
+[[v17-7-5]]
+
+^<<v17-7-5,5>>^ Como Raguel fizesse o elogio de Tobias. o anjo disse a Raguel: Esse Tobias, por quem perguntas, é o pai deste jovem.
+
+[[v17-7-6]]
+
+^<<v17-7-6,6>>^ Raguel correu para ele, abraçou-o com lágrimas, chorando sobre o seu pescoço.
+
+[[v17-7-7]]
+
+^<<v17-7-7,7>>^ Abençoado sejas, disse, meu filho, porque és filho de um homem de bem e virtuosíssimo.
+
+[[v17-7-8]]
+
+^<<v17-7-8,8>>^ Ana, sua mulher, e Sara, sua filha, derramavam lágrimas.
+
+[[v17-7-9]]
+
+^<<v17-7-9,9>>^ Depois que falaram, mandou Raguel matar um carneiro e preparar um banquete. Quando ele os rógava que se pusessem à mesa,
+
+[[v17-7-10]]
+
+^<<v17-7-10,10>>^ Tobias disse: Eu não comerei nem beberei aqui hoje, antes que tu me não despaches a minha petição, prometendo dar-me Sara, tua filha.
+
+[[v17-7-11]]
+
+^<<v17-7-11,11>>^ Ouvindo isto, Raguel assustou-se, sabendo o que tinha acontecido aos sete maridos que se tinham aproximado dela, e começou a temer que sucedesse também o mesmo a este. Como vacilasse e não desse resposta alguma à petição de Tobias.
+
+[[v17-7-12]]
+
+^<<v17-7-12,12>>^ o anjo disse-lhe: Não temas dar tua filha a este jovem, porque a este, que é temente a Deus, é devida a tua filha como esposa. Por isso nenhum outro a pode ter.
+
+[[v17-7-13]]
+
+^<<v17-7-13,13>>^ Então Raguel respondeu: Não duvido que Deus aceitasse em sua presença as minhas orações e as minhas lágrimas.
+
+[[v17-7-14]]
+
+^<<v17-7-14,14>>^ Creio que ele fez que viésseis ter comigo, para que está filha se desposasse com um da sua parentela, segundo a lei de Moisés, Portanto não duvides que eu ta darei.
+
+[[v17-7-15]]
+
+^<<v17-7-15,15>>^ E, pegando na mão direita de sua filha, a pôs na mão direita de Tobias, dizendo: O Deus de Abraão, o Deus de Isaac o Deus de Jacob seja convosco, que ele mesmo vos ajunte e cumpra em vós a sua bênção.
+
+[[v17-7-16]]
+
+^<<v17-7-16,16>>^ Depois, tomando papel, fizeram a escritura de casamento.
+
+[[v17-7-17]]
+
+^<<v17-7-17,17>>^ Tomaram parte no banquete, bendizendo a Deus.
+
+[[v17-7-18]]
+
+^<<v17-7-18,18>>^ Raguel chamou Ana, sua mulher, e ordenou-Ihe que preparasse outro aposento.
+
+[[v17-7-19]]
+
+^<<v17-7-19,19>>^ (Ana) introduziu lá Sara, sua filha, e pôs-se a chorar.
+
+[[v17-7-20]]
+
+^<<v17-7-20,20>>^ E disse-lhe: Tem ânimo, minha filha; o Senhor do céu te encha de alegria pelos desgostos que tens sofrido.
+
+'''
+
+xref:017-tobias/017-tobias-006.adoc#v17-6-0[&#60; Capítulo Anterior] | <<v17-7-0,Topo>> | xref:017-tobias/017-tobias-008.adoc#v17-8-0[Próximo Capítulo &#62;]

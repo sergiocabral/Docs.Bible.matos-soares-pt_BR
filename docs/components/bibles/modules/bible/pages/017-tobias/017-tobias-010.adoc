@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v17-10-0]]
+=== Tobias, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Tobias 10 narra o retorno de Tobias para sua casa em segurança, após cumprir a missão de seu pai em Media. No caminho de volta, Tobias e sua esposa Sara se encontram com o anjo Rafael, que os guia e cura a cegueira do pai de Tobias. Abaixo estão cinco versículos relacionados com os temas deste capítulo:
+* Gênesis 28:15: "Eis que eu estou contigo, e te guardarei por onde quer que fores, e te farei tornar a esta terra; porque não te deixarei, até que haja cumprido aquilo de que te hei falado." Este versículo fala sobre a proteção e orientação de Deus para aqueles que seguem seus caminhos, assim como a presença do anjo Rafael para guiar Tobias e sua esposa de volta para casa em segurança.
+* Salmos 121:7-8: "O Senhor te guardará de todo o mal; guardará a tua alma. O Senhor guardará a tua entrada e a tua saída, desde agora e para sempre." Este salmo também fala sobre a proteção divina e a segurança daqueles que confiam em Deus, assim como Tobias e sua esposa são protegidos em sua jornada.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo fala sobre a importância da confiança em Deus e do reconhecimento da sua vontade em nossas vidas, assim como Tobias e sua esposa contam com a ajuda do anjo Rafael para orientá-los em seu caminho.
+* Isaías 42:16: "E farei cegas as montanhas diante de ti, e tornarei os lugares altos em caminhos; endireitarei as tuas veredas; e nunca jamais as desviarás." Este versículo fala sobre a habilidade de Deus em tornar o caminho certo e claro para seus filhos, assim como o anjo Rafael guia Tobias e Sara em seu caminho de volta para casa.
+* Mateus 28:20: "Ensinando-os a guardar todas as coisas que vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos. Amém!" Este versículo fala sobre a presença constante de Deus em nossas vidas, assim como o anjo Rafael acompanha Tobias e Sara em sua jornada e cura a cegueira do pai de Tobias.
+****
+
+[[v17-10-1]]
+
+^<<v17-10-1,1>>^ Enquanto Tobias se demorava, por causa das núpcias, seu pai Tobias estava em cuidados, dizendo: Quem sabe por que motivo tarda meu filho, por que se tem lá detido?
+
+[[v17-10-2]]
+
+^<<v17-10-2,2>>^ Porventura morreria Gabelo, e não haverá ninguém que lhe restitua o dinheiro?
+
+[[v17-10-3]]
+
+^<<v17-10-3,3>>^ Começou ele, pois, a entristecer-se em extremo, e Ana, sua mulher, com ele ; ambos juntos começaram a chorar, porque seu filho não voltava no tempo marcado.
+
+[[v17-10-4]]
+
+^<<v17-10-4,4>>^ Sobretudo sua mãe derramava lágrimas inesgotáveis e dizia: Ai, ai de mim! meu filho, para que te mandamos nós tão longe, a ti que eras a luz dos nossos olhos, o bordão da nossa velhice, a consolação da nossa vida e a esperança da nossa posteridade?
+
+[[v17-10-5]]
+
+^<<v17-10-5,5>>^ Nós, que em ti só tínhamos tudo, não devíamos afastar-te da nossa companhia.
+
+[[v17-10-6]]
+
+^<<v17-10-6,6>>^ Tobias dizia-lhe: Cala-te, não te perturbes, que o nosso filho está são ; aquele homem, com quem nós o mandamos, é muito fiel.
+
+[[v17-10-7]]
+
+^<<v17-10-7,7>>^ Ela, porém, não se podia consolar de modo algum, mas, saindo todos os dias fora, andava olhando para todas as parles, e corria por todos os caminhos, por onde esperava que o filho poderia voltar, para o ver vir ao longe, se lhe fosse possível.
+
+[[v17-10-8]]
+
+^<<v17-10-8,8>>^ Entretanto Raguel dizia a seu genro: Fica-te aqui; eu mandarei a Tobias, teu pai, um mensageiro com novas da tua saúde.
+
+[[v17-10-9]]
+
+^<<v17-10-9,9>>^ Tobias respondeu-lhe: Eu sei que meu pai e minha mãe estão agora contando-os dias e que o seu espírito está num continuo tormento.
+
+[[v17-10-10]]
+
+^<<v17-10-10,10>>^ Raguel, depois de ter feito muitas instâncias a Tobias, ao ver que este não queria, de modo algum, condescender com ele, entregou-lhe sua filha Sara e metade de tudo o que possuía em servos, servas, rebanhos, camelos, vacas, e em grande quantidade de dinheiro; (depois)deixou-o partir são e alegre,
+
+[[v17-10-11]]
+
+^<<v17-10-11,11>>^ dizendo: Que o santo anjo do Senhor seja convosco na viagem, vos conduza sem perigo algum, e que os meus olhos vejam os vossos filhos antes de eu morrer.
+
+[[v17-10-12]]
+
+^<<v17-10-12,12>>^ Os pais, abraçando a sua filha, beijaram-na e deixaram-na partir,
+
+[[v17-10-13]]
+
+^<<v17-10-13,13>>^ recomendando-lhe que honrasse os seus sogros, que amasse o seu marido, que regesse a sua família, que governasse a sua casa, conservando-se ela própria irrepreensível.
+
+'''
+
+xref:017-tobias/017-tobias-009.adoc#v17-9-0[&#60; Capítulo Anterior] | <<v17-10-0,Topo>> | xref:017-tobias/017-tobias-011.adoc#v17-11-0[Próximo Capítulo &#62;]

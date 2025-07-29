@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v20-40-0]]
+=== Jó, 40
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 40 de Jó, Deus continua a falar com Jó, questionando sua sabedoria e poder em comparação com o próprio Deus. Ele faz uma série de perguntas retóricas para mostrar a Jó sua própria insignificância em relação ao Criador. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Salmos 50:10-11: "Pois todo animal da floresta é meu, e os animais aos milhares sobre as montanhas. Conheço todas as aves dos montes; e tudo o que se move no campo é meu". Este versículo mostra o poder de Deus sobre toda a criação, incluindo animais, montanhas e campos, ressaltando a superioridade divina sobre a criação.
+* Isaías 55:8-9: "Pois os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos são os meus caminhos, diz o Senhor. Porque, assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos, e os meus pensamentos mais altos do que os vossos pensamentos". Este versículo destaca a diferença entre a sabedoria e o poder de Deus e a limitação humana em compreendê-los.
+* Jó 38:4-5: "Onde estavas tu, quando eu fundava a terra? Faze-mo saber, se tens inteligência. Quem lhe pôs as medidas, se é que o sabes? Ou quem estendeu sobre ela o cordel?"
+* Salmos 139:1-2: "Senhor, tu me sondaste e me conheces. Sabes quando me assento e quando me levanto; de longe penetras os meus pensamentos". Este versículo enfatiza o conhecimento de Deus sobre a vida e os pensamentos humanos.
+* Isaías 45:9: "Ai daquele que contende com o seu Criador! O caco entre outros cacos de barro! Porventura, dirá o barro ao que o modela: Que fazes? Ou: A tua obra não tem alça". Este versículo destaca a falta de sabedoria em lutar contra a vontade de Deus e se opor à sua obra.
+****
+
+[[v20-40-1]]
+
+^<<v20-40-1,1>>^ Respondendo o Senhor a Job, do meio do remoinho, disse:
+
+[[v20-40-2]]
+
+^<<v20-40-2,2>>^ Cinge os teus rins como homem; eu te interrogarei, e me responderás.
+
+[[v20-40-3]]
+
+^<<v20-40-3,3>>^ Porventura queres reduzir a nada a minha justiça, e condenar-me a mim, para te justificares a ti?
+
+[[v20-40-4]]
+
+^<<v20-40-4,4>>^ Se tu tens um braço (forte) como Deus, e trovejas com voz semelhante,
+
+[[v20-40-5]]
+
+^<<v20-40-5,5>>^ reveste-te de grandeza e majestade, cobre-te de esplendor e de glória.
+
+[[v20-40-6]]
+
+^<<v20-40-6,6>>^ Lança, em torrentes, a lua ira, e humilha os arrogantes com um. só olhar.
+
+[[v20-40-7]]
+
+^<<v20-40-7,7>>^ Com um só olhar humilha os soberbos, aniquila os ímpios no seu lugar.
+
+[[v20-40-8]]
+
+^<<v20-40-8,8>>^ Sepulta-os todos juntos no pó, mergulha em trevas a sua face.
+
+[[v20-40-9]]
+
+^<<v20-40-9,9>>^ Então eu próprio confessarei que a tua dextra poderá salvar-te.
+
+[[v20-40-10]]
+
+^<<v20-40-10,10>>^ Considera o Beemot, criado por mim, como tu, ele come feno como o boi.
+
+[[v20-40-11]]
+
+^<<v20-40-11,11>>^ A sua fortaleza está nos seus lombos, e o seu vigor nos músculos dos seus flancos.
+
+[[v20-40-12]]
+
+^<<v20-40-12,12>>^ Levanta a sua cauda como cedro, os nervos dos seus músculos estão entrelaçados uns nos outros.
+
+[[v20-40-13]]
+
+^<<v20-40-13,13>>^ Os seus ossos são como canas de bronze, a sua estrutura é de barras de ferro.
+
+[[v20-40-14]]
+
+^<<v20-40-14,14>>^ É obra-prima de Deus; aquele que o fez, dotou-o de uma espada.
+
+[[v20-40-15]]
+
+^<<v20-40-15,15>>^ Os montes produzem-lhe ervas; e todos os animais do campo vêm retouçar ali (junto dele).
+
+[[v20-40-16]]
+
+^<<v20-40-16,16>>^ Dorme à sombra dos lotos, no retiro dos canaviais dos pântanos.
+
+[[v20-40-17]]
+
+^<<v20-40-17,17>>^ Os lotos o cobrem com a sua sombra, os salgueiros da torrente o circundam,
+
+[[v20-40-18]]
+
+^<<v20-40-18,18>>^ Se o rio crescer, ele não se espanta; ainda que um Jordão lhe chegue à garganta, fica tranquilo.
+
+[[v20-40-19]]
+
+^<<v20-40-19,19>>^ Quem poderá apanhá-lo de frente, e atravessar-lhe as narinas com laços?
+
+[[v20-40-20]]
+
+^<<v20-40-20,20>>^ Porventura poderás tirar com anzol o Leviatan, e ligar a sua língua com uma corda?
+
+[[v20-40-21]]
+
+^<<v20-40-21,21>>^ Porventura porás uma argola nos teus narizes, ou furarás a sua queixada com um anel?
+
+[[v20-40-22]]
+
+^<<v20-40-22,22>>^ Porventura multiplicará os rogos diante de ti, ou te dirá palavras ternas?
+
+[[v20-40-23]]
+
+^<<v20-40-23,23>>^ Porventura fará ele concerto contigo, e recebê-lo-ás tu por escravo para sempre?
+
+[[v20-40-24]]
+
+^<<v20-40-24,24>>^ Porventura brincarás com ele como com um pássaro ou o atarás para divertir teus filhos?
+
+[[v20-40-25]]
+
+^<<v20-40-25,25>>^ Colhê-lo-ão os pescadores em suas redes, dividi-lo-ão os negociantes?
+
+[[v20-40-26]]
+
+^<<v20-40-26,26>>^ Crivarás de dardos a sua pele, espetarás o arpão na sua cabeça?
+
+[[v20-40-27]]
+
+^<<v20-40-27,27>>^ Põe a tua mão sobre ele: ficarás escarmentado, não tornarás a fazê-lo.
+
+[[v20-40-28]]
+
+^<<v20-40-28,28>>^ Eis que (quem quiser capturar tal monstro) se enganará nas suas esperanças; a vista (do monstro) bastará para o aterrar.
+
+'''
+
+xref:020-jo/020-jo-039.adoc#v20-39-0[&#60; Capítulo Anterior] | <<v20-40-0,Topo>> | xref:020-jo/020-jo-041.adoc#v20-41-0[Próximo Capítulo &#62;]

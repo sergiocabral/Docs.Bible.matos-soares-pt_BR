@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v33-48-0]]
+=== Ezequiel, 48
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 48 detalha a distribuição da terra entre as doze tribos de Israel na nova Jerusalém. Os versículos relacionados com os temas abordados neste capítulo são:
+* Ezequiel 47:13-14: "Assim diz o Senhor Deus: Esta será a fronteira em que possuireis a terra, segundo as doze tribos de Israel; José terá duas partes. E a terra que vos foi tomada em herança, a dividireis em herança entre as doze tribos de Israel" Este versículo fala da divisão da terra entre as doze tribos de Israel, um tema central em Ezequiel 48.
+* Isaías 65:18: "Mas vós vos alegrareis e exultareis perpetuamente no que eu crio; porque eis que crio para Jerusalém alegria e para o seu povo gozo." Este versículo fala sobre a nova Jerusalém, que é mencionada em Ezequiel 48.
+* Apocalipse 21:12-13: "E tinha um grande e alto muro com doze portas, e nas portas doze anjos, e nomes escritos sobre elas, que são os nomes das doze tribos dos filhos de Israel. Do lado do oriente, três portas; do lado do norte, três portas; do lado do sul, três portas; e do lado do ocidente, três portas." Este versículo também fala da nova Jerusalém, mencionando as doze portas, que são as portas das doze tribos de Israel.
+* Apocalipse 21:15: "E aquele que falava comigo tinha uma cana de medir, de ouro, para medir a cidade, as suas portas e a sua muralha." Este versículo fala sobre a medição da cidade, um tema abordado em Ezequiel 48.
+* Apocalipse 21:22: "E nela não vi templo, porque o seu templo é o Senhor Deus Todo-Poderoso, e o Cordeiro." Este versículo fala sobre a ausência de templo na nova Jerusalém, o que pode ser visto como uma possível conexão com a descrição do templo em Ezequiel 40-48.
+****
+
+[[v33-48-1]]
+
+^<<v33-48-1,1>>^ Eis os nomes das tribos. Desde a fronteira do norte, ao longo do caminho de Hetalon, quando se vai a Hamat, até Haser-Enon, deixando o limite da banda de Damasco, ao norte, ao longo do caminho de Hamat, (os limites) desde o lado oriental ao ocidental determinam a porção (da tribo) de Dan.
+
+[[v33-48-2]]
+
+^<<v33-48-2,2>>^ Junto dos confins cie Dan, desde o oriente até ao ocidente, será a porção de Aser.
+
+[[v33-48-3]]
+
+^<<v33-48-3,3>>^ Junto dos confins de Aser, da região oriental até à ocidental, a porção de Neftali.
+
+[[v33-48-4]]
+
+^<<v33-48-4,4>>^ Junto dos confins de Neftali, desde a região oriental até à ocidental, a porção de Manassés
+
+[[v33-48-5]]
+
+^<<v33-48-5,5>>^ Junto dos confins de Manassés. desde a região oriental até à ocidental, a porção de Efraim
+
+[[v33-48-6]]
+
+^<<v33-48-6,6>>^ Junto dos confins de Efraim, desde a região oriental até à ocidental, a porção de Ruben.
+
+[[v33-48-7]]
+
+^<<v33-48-7,7>>^ Junto dos confins de Ruben, desde a região oriental até à ocidental, a porção de Judá.
+
+[[v33-48-8]]
+
+^<<v33-48-8,8>>^ Junto dos confins de Judá, desde a região oriental à ocidental, serão as primícias (ou porções) que separareis, as quais terão vinte e cinco mil medidas (ou côvados) de largura, e um comprimento igual a cada um dos outros quinhões, desde a região oriental até à ocidental. O santuário ficará no meio.
+
+[[v33-48-9]]
+
+^<<v33-48-9,9>>^ Quanto às primícias (ou porções) que separareis para o Senhor, terão vinte e cinco mil côvados de comprido e dez mil de largo.
+
+[[v33-48-10]]
+
+^<<v33-48-10,10>>^ Estas primícias santas pertencerão aos sacerdotes; terão vinte e cinco mil côvados de comprimento para o aquilão. dez mil de largura, para o mar, dez mil também de largura, para o oriente, e vinte e cinco mil de comprimento, para o meio-dia. O santuário do Senhor ficará no meio (desta porção).
+
+[[v33-48-11]]
+
+^<<v33-48-11,11>>^ Toda esta porção será destinada ao sacerdotes consagrados, filhos de Sadoc os quais observaram as minhas cerimônias e não se desencaminharam como os levitas, quando os filhos de Israel andavam desencaminhados.
+
+[[v33-48-12]]
+
+^<<v33-48-12,12>>^ O seu quinhão será no meio das porções reservadas, parte santíssima, junto aos limites dos levitas,
+
+[[v33-48-13]]
+
+^<<v33-48-13,13>>^ Os levitas terão junto aos limites dos sacerdotes, vinte e cinco mil côvados de comprimento, e dez mil de largura. Todo o comprimento (da sua porção) será de vinte e cinco mil côvados e a largura de dez mil.
+
+[[v33-48-14]]
+
+^<<v33-48-14,14>>^ Não poderão nem trocar nada disto, nem transferir a outros as primícias da terra, porque são consagradas ao Senhor.
+
+[[v33-48-15]]
+
+^<<v33-48-15,15>>^ Os cinco mil côvados que restam da largura dos vinte e cinco mil, serão considerados como profanos, ficando destinados à cidade, para habitações e para arrabaldes; a cidade ficará no meio (deste espaço).
+
+[[v33-48-16]]
+
+^<<v33-48-16,16>>^ Eis as suas medidas: do lado setentrional terá quatro mil e quinhentos côvados; do lado meridional quatro mil e quinhentos; do lado oriental quatro mil e quinhentos; do lado ocidental quatro mil e quinhentos.
+
+[[v33-48-17]]
+
+^<<v33-48-17,17>>^ Os arrabaldes da cidade terão do lado do aquilão duzentos e cinqüenta côvados, do lado do meio-dia duzentos e cinqüenta, do lado -do oriente duzentos e cinqüenta, e do lado do mar duzentos e cinqüenta.
+
+[[v33-48-18]]
+
+^<<v33-48-18,18>>^ Quanto ao que, ficar do comprimento, junto às primícias do santuário, (isto é) dez mil côvados para o oriente e dez mil para o ocidente, paralelamente à parte consagrada, os produtos de tal terreno serão destinados ao sustento daqueles que servem a cidade.
+
+[[v33-48-19]]
+
+^<<v33-48-19,19>>^ Os que trabalharem em serviço da cidade, serão de todas as tribos de Israel
+
+[[v33-48-20]]
+
+^<<v33-48-20,20>>^ Toda a parte reservada terá vinte e cinco mil côvados em quadrado; tomareis a quarta parte da porção consagrada, para possessão da cidade.
+
+[[v33-48-21]]
+
+^<<v33-48-21,21>>^ O que restar, ao redor da porção consagrada e do quinhão da cidade, defronte dos vinte e cinco mil côvados até à fronteira oriental, e a ocidente, ao longo dos vinte e cinco mil côvados. até à fronteira ocidental, será quinhão do príncipe. Isto será do príncipe; assim a porção consagrada e o lugar santo do templo ficarão no meio (deste espaço).
+
+[[v33-48-22]]
+
+^<<v33-48-22,22>>^ Exceptuando a possessão dos levitas e a possessão da cidade, que estão no meio da porção do príncipe, pertencerá ao príncipe o que estiver entre os confins de Judá e os confins de Benjamim.
+
+[[v33-48-23]]
+
+^<<v33-48-23,23>>^ Quanto às outras tribos: A porção de Benjamim será desde a região oriental até à região ocidental.
+
+[[v33-48-24]]
+
+^<<v33-48-24,24>>^ Junto dos confins de Benjamim, desde a região oriental até à região ocidental, a porção de Simeão.
+
+[[v33-48-25]]
+
+^<<v33-48-25,25>>^ Junto dos confins de Simeão, desde a região oriental até à região ocidental, a porção de Issacar.
+
+[[v33-48-26]]
+
+^<<v33-48-26,26>>^ Junto dos confins de Issacar, desde a região oriental até à região ocidental, a porção de Zabulon.
+
+[[v33-48-27]]
+
+^<<v33-48-27,27>>^ Junto dos confins de Zabulon, desde a região oriental até à região ocidental, a porção de Gad.
+
+[[v33-48-28]]
+
+^<<v33-48-28,28>>^ Para a banda dos confins de Gad, ao meio-dia, a fronteira irá desde Tamar até às águas de Meribot, junto a Cades, e à torrente que vai para o Grande Mar.
+
+[[v33-48-29]]
+
+^<<v33-48-29,29>>^ Esta é a terra que distribuireis por sorte entre as tribos de Israel e tais serão as suas partilhas, diz o Senhor Deus.
+
+[[v33-48-30]]
+
+^<<v33-48-30,30>>^ Eis as saídas da cidade: Medirás pelo lado do setentrião quatro mil e quinhentos côvados.
+
+[[v33-48-31]]
+
+^<<v33-48-31,31>>^ (As portas da cidade tomarão os nomes das tribos de Israel), Haverá três portas pelo (citado) lado do setentrião: uma porta de Ruben, uma poita de Judá e uma porta de Levi.
+
+[[v33-48-32]]
+
+^<<v33-48-32,32>>^ Medirás da mesma sorte, para o lado do oriente, quatro mil e quinhentos côvados. e desta banda haverá (também) três portas: uma porta de José, uma porta de Benjamim e uma porta de Dan.
+
+[[v33-48-33]]
+
+^<<v33-48-33,33>>^ Medirás quatro mil e quinhentos côvados para o lado do meio-dia e (da mesma sorte) haverá aqui três portas: uma porta de Simeão, uma porta de Issacar e uma porta de Zabulon.
+
+[[v33-48-34]]
+
+^<<v33-48-34,34>>^ Medirás quatro mil e quinhentos côvados para o lado do ocidente, e haverá aqui (também) três portas: uma porta de Gad, uma porta de Aser e uma porta de Neftali.
+
+[[v33-48-35]]
+
+^<<v33-48-35,35>>^ O seu circuito será de dezoito mil côvados. Desde esse dia, o nome da cidade será: Iavé-Scham (O Senhor está ali).
+
+'''
+
+xref:033-ezequiel/033-ezequiel-047.adoc#v33-47-0[&#60; Capítulo Anterior] | <<v33-48-0,Topo>> | xref:034-daniel/034-daniel-001.adoc#v34-1-0[Próximo Capítulo &#62;]

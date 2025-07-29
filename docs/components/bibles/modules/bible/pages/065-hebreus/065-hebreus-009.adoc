@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v65-9-0]]
+=== Hebreus, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Hebreus 9 trata principalmente sobre a comparação entre o sistema de sacrifícios do Antigo Testamento e o sacrifício de Jesus Cristo, que se ofereceu a si mesmo como um sacrifício eterno. Além disso, o capítulo também destaca a importância do sangue na remissão dos pecados e a necessidade de uma única morte para expiar os pecados de toda a humanidade.
+* Levítico 17:11: "Porque a vida da carne está no sangue. Eu vo-lo dei sobre o altar, para fazer expiação pelas vossas almas, porquanto é o sangue que fará expiação em virtude da vida." Este versículo enfatiza a importância do sangue como meio de expiação pelos pecados.
+* Hebreus 9:22: "E quase todas as coisas, segundo a lei, se purificam com sangue; e sem derramamento de sangue não há remissão." Esse versículo reforça a importância do sangue na remissão dos pecados e destaca a necessidade de um sacrifício com derramamento de sangue para obter a remissão.
+* Isaías 53:5-6: "Mas ele foi ferido por causa das nossas transgressões, e moído por causa das nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados. Todos nós andávamos desgarrados como ovelhas; cada um se desviava pelo seu caminho; mas o Senhor fez cair sobre ele a iniquidade de nós todos." Esse versículo descreve a morte de Jesus como um sacrifício pelos pecados da humanidade, destacando a importância da sua morte como expiação pelos pecados.
+* Hebreus 10:4: "Porque é impossível que o sangue de touros e de bodes remova pecados." Esse versículo reforça a ideia de que o sistema de sacrifícios do Antigo Testamento não era suficiente para expiar os pecados, destacando a necessidade de um sacrifício perfeito para obter a remissão.
+* Hebreus 10:10: "Na qual vontade temos sido santificados pela oblação do corpo de Jesus Cristo, feita uma vez para sempre." Esse versículo destaca a singularidade do sacrifício de Jesus, que se ofereceu a si mesmo como um sacrifício eterno para expiar os pecados da humanidade, enfatizando a superioridade do sacrifício de Jesus em relação aos sacrifícios do Antigo Testamento.
+****
+
+[[v65-9-1]]
+
+^<<v65-9-1,1>>^ A primeira aliança teve também regulamentos relativos ao culto e um santuário terrestre.
+
+[[v65-9-2]]
+
+^<<v65-9-2,2>>^ Foi construído um tabernáculo, em cuja parte anterior, chamada o Santo, se encontravam o candeeiro, a mesa e os pães da proposição.
+
+[[v65-9-3]]
+
+^<<v65-9-3,3>>^ Por detrás do segundo véu estava a parte do tabernáculo chamada o Santo dos Santos,
+
+[[v65-9-4]]
+
+^<<v65-9-4,4>>^ contendo o altar de ouro, para os perfumes, e a arca da aliança, coberta de ouro por todos os lados, na qual havia uma urna de ouro contendo o maná, a vara de Aarão, que tinha florescido, e as tábuas da aliança ;
+
+[[v65-9-5]]
+
+^<<v65-9-5,5>>^ sobre ela estavam os Querubins da glória, que cobriam com a sua sombra o propiciatório. Toda via não é aqui o lugar de falarmos destas coisas, uma por uma.
+
+[[v65-9-6]]
+
+^<<v65-9-6,6>>^ Estando assim tudo disposto, os sacerdotes entram sempre na primeira parte do tabernáculo, para exercer as funções sacerdotais;
+
+[[v65-9-7]]
+
+^<<v65-9-7,7>>^ na segunda só entra o pontífice, uma vez no ano, não sem sangue que ofereça pelas suas faltas e pelas do povo,
+
+[[v65-9-8]]
+
+^<<v65-9-8,8>>^ significando com isto o Espírito Santo que o caminho do santuário não está ainda aberto, enquanto subsiste o primeiro tabernáculo,
+
+[[v65-9-9]]
+
+^<<v65-9-9,9>>^ que é uma figura do tempo presente, no qual se oferecem dons e sacrifícios, que não podem tornar perfeita a consciência do sacrificante. (ver nota)
+
+[[v65-9-10]]
+
+^<<v65-9-10,10>>^ Tudo isto apenas se refere a alimentos e bebidas, a diversas abluções e determinações carnais, impostas somente até ao tempo da reforma.
+
+[[v65-9-11]]
+
+^<<v65-9-11,11>>^ Mas Cristo, vindo como pontífice dos bens futuros, passando pelo meio de um tabernáculo mais excelente e perfeito, não feito por mão de homem, isto é, não desta criação,
+
+[[v65-9-12]]
+
+^<<v65-9-12,12>>^ e não com o sangue dos bodes ou dos bezerros, mas com o seu próprio sangue, entrou uma só vez no santuário, conseguindo-nos uma redenção eterna.
+
+[[v65-9-13]]
+
+^<<v65-9-13,13>>^ Com efeito, se o sangue dos bodes e dos touros, e a cinza de uma novilha, aspergindo os impuros, os santificam e lhes dão a pureza da carne,
+
+[[v65-9-14]]
+
+^<<v65-9-14,14>>^ quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo sem mácula a Deus, purificará a nossa consciência das obras de morte para servir a Deus vivo!
+
+[[v65-9-15]]
+
+^<<v65-9-15,15>>^ Por isso ele é mediador do novo testamento, a fim de que, intervindo a sua morte para o perdão daquelas prevaricações que havia sob o antigo, os chamados recebam a herança eterna que lhes foi prometida.
+
+[[v65-9-16]]
+
+^<<v65-9-16,16>>^ De facto, onde há um testamento, é necessário que intervenha a morte do testador,
+
+[[v65-9-17]]
+
+^<<v65-9-17,17>>^ porque o testamento só produz seu efeito em caso de morte, não tendo força enquanto vive o testador.
+
+[[v65-9-18]]
+
+^<<v65-9-18,18>>^ Por isso nem mesmo o primeiro testamento foi inaugurado sem sangue.
+
+[[v65-9-19]]
+
+^<<v65-9-19,19>>^ Efetivamente Moisés, tendo lido a todo o povo todos os preceitos da lei, tomou o sangue dos bezerros e dos bodes, com água, com lã tinta de escarlate e com hissopo aspergiu o mesmo livro (que continha a lei) assim como todo o povo,
+
+[[v65-9-20]]
+
+^<<v65-9-20,20>>^ dizendo: Este é o sangue da aliança que Deus contraiu convosco (Ex. 24, 8).
+
+[[v65-9-21]]
+
+^<<v65-9-21,21>>^ Aspergiu igualmente com sangue o tabernáculo e todos os vasos do ministério.
+
+[[v65-9-22]]
+
+^<<v65-9-22,22>>^ Quase todas as coisas, segundo a lei, se purificam com sangue : sem efusão de sangue não há remissão.
+
+[[v65-9-23]]
+
+^<<v65-9-23,23>>^ Era, pois, necessário que as figuras das realidades celestiais fossem assim purificadas, mas que as mesmas realidades celestiais o fossem por meio de sacrifícios superiores.
+
+[[v65-9-24]]
+
+^<<v65-9-24,24>>^ Jesus não entrou num santuário feito por mão de homem, figura do verdadeiro, mas entrou no mesmo céu, para se apresentar agora diante de Deus por nós,
+
+[[v65-9-25]]
+
+^<<v65-9-25,25>>^ e não entrou para se oferecer muitas vezes a si mesmo, como o pontífice entra, uma vez por ano, no santuário com sangue alheio.
+
+[[v65-9-26]]
+
+^<<v65-9-26,26>>^ Doutra maneira ser-lhe-ia necessário padecer muitas vezes desde o princípio do mundo; apareceu, porém, uma só vez, no fim dos séculos, para destruir o pecado com o sacrifício de si mesmo.
+
+[[v65-9-27]]
+
+^<<v65-9-27,27>>^ E, assim como está decretado que os homens morram, uma só vez, e que, depois disso, se siga o juízo,
+
+[[v65-9-28]]
+
+^<<v65-9-28,28>>^ assim também Cristo se ofereceu uma só vez (em sacrifício) para apagar os pecados de muitos; a segunda vez aparecerá, não por causa do pecado, mas para salvação daqueles que o esperam.
+
+'''
+
+xref:065-hebreus/065-hebreus-008.adoc#v65-8-0[&#60; Capítulo Anterior] | <<v65-9-0,Topo>> | xref:065-hebreus/065-hebreus-010.adoc#v65-10-0[Próximo Capítulo &#62;]

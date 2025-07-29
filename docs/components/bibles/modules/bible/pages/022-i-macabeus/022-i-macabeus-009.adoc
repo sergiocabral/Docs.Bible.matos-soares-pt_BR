@@ -1,0 +1,311 @@
+include::./index.adoc[]
+
+[[v22-9-0]]
+=== I Macabeus, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Macabeus 9 descreve a guerra entre os exércitos de Judas Macabeu e Báquides, general do rei selêucida. O capítulo começa com uma descrição da estratégia de Báquides para atacar Judas e seus homens, seguida por uma batalha que ocorre em uma encosta montanhosa. Judas consegue repelir o ataque, mas Báquides segue perseguindo-o com seus soldados. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Macabeus 9:
+* 2 Samuel 2:26: "Então Abner chamou a Joabe e disse: Por acaso a espada vai devorar indefinidamente? Não sabe que, no final, haverá amargura? Até quando não dirás ao povo para parar de perseguir seus irmãos?" Este versículo aborda o tema da perseguição, que é uma das principais questões no capítulo 9 de 1 Macabeus, onde Báquides persegue Judas Macabeu e seus homens.
+* 2 Crônicas 20:15: "Disse-lhe ele: Ouça-me, todos de Judá e de Jerusalém, e vós, ó rei Jeosafá! Assim diz o Senhor a respeito de vós: Não temais, nem vos assusteis por causa desta grande multidão; pois a batalha não é vossa, mas de Deus." Este versículo trata da batalha que ocorre em 1 Macabeus 9 entre os exércitos de Judas e Báquides. Assim como no versículo de 2 Crônicas, a batalha de 1 Macabeus é vista como uma luta guiada por Deus.
+* Salmos 44:6: "Não confio no meu arco, nem a minha espada me pode salvar." Este versículo trata do tema da confiança em armas e força física. Em 1 Macabeus 9, Judas Macabeu e seus homens são superados em número pelos soldados de Báquides, mas confiam em Deus para ajudá-los a vencer a batalha.
+* Provérbios 24:6: "Com sabedoria se faz a guerra; e com bons conselhos se vence." Este versículo trata do tema da estratégia militar, que é um elemento importante na descrição da batalha em 1 Macabeus 9. Tanto Judas Macabeu quanto Báquides empregam estratégias militares para tentar vencer a batalha.
+* Isaías 54:17: "Nenhuma arma forjada contra ti prosperará; e toda língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos do Senhor, e a sua justiça que vem de mim, diz o Senhor." Este versículo trata do tema da proteção divina, que é um elemento importante em 1 Macabeus 9. Ambos os lados confiam em Deus para protegê-los na batalha.
+****
+
+[[v22-9-1]]
+
+^<<v22-9-1,1>>^ Entretanto Demétrio, logo que soube que Nicanor e o seu exército tinham perecido no combate, mandou novamente Báquides e Alcimo para a Judeia, com a ala direita (ou o melhor) do seu exército.
+
+[[v22-9-2]]
+
+^<<v22-9-2,2>>^ Marcharam pelo caminho que vai ter a Gálgala e acamparam em Masalot, que está em Arbelas; tomaram-na e mataram grande número de pessoas.
+
+[[v22-9-3]]
+
+^<<v22-9-3,3>>^ No primeiro mês do ano cento e cinqüenta e dois chegaram com o exército a Jerusalém.
+
+[[v22-9-4]]
+
+^<<v22-9-4,4>>^ (Depois) partiram e marcharam para Bereia com vinte mil homens (de pé) e dois mil cavaleiros.
+
+[[v22-9-5]]
+
+^<<v22-9-5,5>>^ Ora Judas estava acampado em Laisa, com três mil homens escolhidos.
+
+[[v22-9-6]]
+
+^<<v22-9-6,6>>^ Quando viram que a multidão do exército (inimigo) era enorme, ficaram possuídos de grande temor; muitos desertaram do acampamento, restando apenas oitocentos homens.
+
+[[v22-9-7]]
+
+^<<v22-9-7,7>>^ Judas viu a dispersão do seu exército e o aperto em que o inimigo o punha para pelejar. Ficou desanimado, porque não tinha tempo de os juntar, e sentiu-se desfalecer.
+
+[[v22-9-8]]
+
+^<<v22-9-8,8>>^ Mas sempre disse aos que ficaram : De pé! Marchemos contra os nossos inimigos, a ver se os poderemos combater.
+
+[[v22-9-9]]
+
+^<<v22-9-9,9>>^ Os seus, porém, desviavam-no disso, dizendo: Não poderemos fazer tal; salvemos agora as nossas vidas e voltemos para nossos irmãos; depois então tornaremos a vir pelejar contra eles; agora somos poucos.
+
+[[v22-9-10]]
+
+^<<v22-9-10,10>>^ Judas disse; Longe de mim tal coisa, fugir à vista deles! Se é chegada a nossa hora, morramos valorosamente por nossos irmãos, e não manchemos a nossa glória com esta nódoa.
+
+[[v22-9-11]]
+
+^<<v22-9-11,11>>^ O exército (inimigo) saiu do acampamento e foi ao seu encontro. A cavalaria dividiu-se em dois corpos, e os fundibulários e os frecheiros marchavam à frente do exército, seguindo na primeira linha os mais valentes.
+
+[[v22-9-12]]
+
+^<<v22-9-12,12>>^ Báquides estava na ala direita, e os esquadrões avançavam por ambos os lados, ao som das trombetas.
+
+[[v22-9-13]]
+
+^<<v22-9-13,13>>^ Os que eram da parte de Judas fizeram também soar as trombetas, e a terra estremeceu com o fragor dos exércitos. A batalha durou desde manhã até à tarde.
+
+[[v22-9-14]]
+
+^<<v22-9-14,14>>^ Judas observou que a ala direita do exército, onde estava Báquides, era a mais forte, e lançou-se sobre ela juntamente com todos os que eram de ânimo mais intrépido.
+
+[[v22-9-15]]
+
+^<<v22-9-15,15>>^ Depois de romper a ala direita, perseguiu-a até ao monte de Azot.
+
+[[v22-9-16]]
+
+^<<v22-9-16,16>>^ Mas os que estavam na ala esquerda, quando viram que a ala direita tinha sido derrotada, foram logo seguindo por detrás a Judas e aos que com ele se encontravam.
+
+[[v22-9-17]]
+
+^<<v22-9-17,17>>^ Tornou-se mais renhida a peleja e foram muitos os que, duma e outra parte, caíram feridos.
+
+[[v22-9-18]]
+
+^<<v22-9-18,18>>^ Também Judas caiu morto, e os outros fugiram.
+
+[[v22-9-19]]
+
+^<<v22-9-19,19>>^ Jónatas e Simão levaram o corpo de seu irmão Judas a enterrar no sepulcro dos seus maiores, na cidade de Modin.
+
+[[v22-9-20]]
+
+^<<v22-9-20,20>>^ Todo o povo de Israel o chorou, fazendo grandes Lamentações, durante muitos dias.
+
+[[v22-9-21]]
+
+^<<v22-9-21,21>>^ Diziam: Como caiu este herói, salvador do povo de Israel
+
+[[v22-9-22]]
+
+^<<v22-9-22,22>>^ As outras narrações (que se podiam fazer) das guerras de Judas, das façanhas que operou e da sua grandeza não se acham escritas, porque eram muito numerosas.
+
+[[v22-9-23]]
+
+^<<v22-9-23,23>>^ Aconteceu que, depois da morte de Judas, apareceram por todo o território de Israel homens perversos, e levantaram a cabeça todos os obreiros da Iniqüidade.
+
+[[v22-9-24]]
+
+^<<v22-9-24,24>>^ Naqueles dias sobreveio uma fome muito grande, e todo o país tomou o seu partido.
+
+[[v22-9-25]]
+
+^<<v22-9-25,25>>^ Báquides escolheu homens ímpios e deu-lhes cargos de mando no pais.
+
+[[v22-9-26]]
+
+^<<v22-9-26,26>>^ Estes andavam em busca zelosa dos amigos de Judas e traziam-nos a Báquides, o qual se vingava deles e os ridicularizava.
+
+[[v22-9-27]]
+
+^<<v22-9-27,27>>^ levantou-se uma tão grande tribulação em Israel, que não se tinha visto outra assim desde o tempo do desaparecimento dos profetas de Israel
+
+[[v22-9-28]]
+
+^<<v22-9-28,28>>^ Então juntaram-se todos os amigos de Judas e disseram a Jónatas:
+
+[[v22-9-29]]
+
+^<<v22-9-29,29>>^ Desde que teu Irmão Judas morreu, não há homem semelhante a ele, que marche contra os nossos inimigos, contra Báquides e os que odeiam a nossa gente.
+
+[[v22-9-30]]
+
+^<<v22-9-30,30>>^ Portanto escolhemos-te hoje para seres nosso príncipe e chefe, em lugar dele, a fim de dirigires as nossas guerras.
+
+[[v22-9-31]]
+
+^<<v22-9-31,31>>^ Jónatas, pois, nessa altura, recebeu o mando e tomou o lugar de seu irmão Judas.
+
+[[v22-9-32]]
+
+^<<v22-9-32,32>>^ Teve Báquides conhecimento disso e procurava matá-lo.
+
+[[v22-9-33]]
+
+^<<v22-9-33,33>>^ Mas Jónatas, Simão, seu irmão, e todos os que com ele estavam, souberam disto e fugiram para o deserto de Técua, onde acamparam junto das águas da cisterna de Asfar.
+
+[[v22-9-34]]
+
+^<<v22-9-34,34>>^ Soube-o também Báquides, e ele mesmo com todo o seu exército, num dia de sábado, passou para a banda de além do Jordão.
+
+[[v22-9-35]]
+
+^<<v22-9-35,35>>^ Jónatas enviou seu irmão, que comandava o povo, a rogar aos Nabateus, seus amigos, que permitissem deixar-lhes depositado o seu equipamento, que era muito grande.
+
+[[v22-9-36]]
+
+^<<v22-9-36,36>>^ Mas os filhos de Jambri, saindo de Madaba, apanharam João e tudo o que ele tinha, e foram-se com este despojo.
+
+[[v22-9-37]]
+
+^<<v22-9-37,37>>^ Algum tempo depois, vieram dizer a Jónatas e a Simão, seu irmão, que os filhos de Jambri celebravam uma grande boda e traziam de Madaba com muita pompa a noiva, que era filha dum dos poderosos príncipes de Canaan.
+
+[[v22-9-38]]
+
+^<<v22-9-38,38>>^ Lembrados então eles do sangue do seu irmão João, subiram e esconderam-se num lugar secreto da montanha.
+
+[[v22-9-39]]
+
+^<<v22-9-39,39>>^ Depois levantaram os olhos para espreitar, e eis que vinha ruidosamente uma aparatosa caravana: era o noivo com seus amigos e irmãos, avançando ao encontro da comitiva (da noiva) ao som de tambores e instrumentos músicos, com muita gente armada.
+
+[[v22-9-40]]
+
+^<<v22-9-40,40>>^ Então deram sobre eles os da emboscada, para os matarem. Caíram muitos feridos, e os restantes fugiram para os montes, enquanto (os agressores) tomavam todos os seus despojos.
+
+[[v22-9-41]]
+
+^<<v22-9-41,41>>^ As bodas converteram-se, pois, em luto, e os seus concertos músicos em lamentos.
+
+[[v22-9-42]]
+
+^<<v22-9-42,42>>^ Depois de vingarem o sangue de seu irmão desta maneira, voltaram para a margem do Jordão.
+
+[[v22-9-43]]
+
+^<<v22-9-43,43>>^ Báquides soube disto e foi com um poderoso exército, em dia de sábado, até à margem do Jordão.
+
+[[v22-9-44]]
+
+^<<v22-9-44,44>>^ Jónatas disse aos seus: Vamos pelejar contra os nossos inimigos, porque hoje não é como ontem e anteontem;
+
+[[v22-9-45]]
+
+^<<v22-9-45,45>>^ vede que temos o Inimigo por diante, e as correntes do Jordão por trás, duma e doutra parte, com seus pântanos e bosques: não há meio de escapar.
+
+[[v22-9-46]]
+
+^<<v22-9-46,46>>^ Agora, pois, clamai no céu, para que sejais livres da mão dos vossos inimigos. E travou-se a batalha.
+
+[[v22-9-47]]
+
+^<<v22-9-47,47>>^ Jónatas estendeu a sua mão para ferir Báquides, mas ele evitou o golpe, retirando-se para trás.
+
+[[v22-9-48]]
+
+^<<v22-9-48,48>>^ Por fim Jónatas e os que estavam com ele deitaram-Se ao Jordão e passaram-no a nado, sem que (os inimigos) os perseguissem.
+
+[[v22-9-49]]
+
+^<<v22-9-49,49>>^ Do lado de Báquides caíram naquele dia mil homens. Este voltou para Jerusalém,
+
+[[v22-9-50]]
+
+^<<v22-9-50,50>>^ edificou cidades fortes na Judeia e consolidou com altos muros, com portas e ferrolhos, as fortificações de Jericó, Emaús, Betoron, Betei, Tamnata, Faraton e Tefon.
+
+[[v22-9-51]]
+
+^<<v22-9-51,51>>^ Nelas pôs guarnições para que fizessem correrias contra Israel.
+
+[[v22-9-52]]
+
+^<<v22-9-52,52>>^ Fortificou também a cidade de Betsur, Gazara e a cidadela (de Sião), e pôs nelas tropas e provisões de mantimentos.
+
+[[v22-9-53]]
+
+^<<v22-9-53,53>>^ Tomou para reféns os filhos das principais famílias do pais e pô-los em custódia na fortaleza de Jerusalém.
+
+[[v22-9-54]]
+
+^<<v22-9-54,54>>^ No ano cento e cinqüenta e três, no segundo mês, mandou Alcimo demolir as paredes do átrio interior do templo, destruindo as obras dos profetas (Ageu e Zacarias). Começou a deitá-las abaixo,
+
+[[v22-9-55]]
+
+^<<v22-9-55,55>>^ mas, nessa altura, Alcimo foi ferido (pela mão de Deus), e não pôde acabar o que tinha começado: cerrou-se-lhe a boca, ficou tolhido de paralisia, sem poder mais pronunciar uma palavra, nem fazer disposição alguma relativamente à sua casa.
+
+[[v22-9-56]]
+
+^<<v22-9-56,56>>^ (Assim) morreu Alcimo neste tempo, atormentado de grandes dores.
+
+[[v22-9-57]]
+
+^<<v22-9-57,57>>^ Vendo Báquides que Alcimo tinha morrido, voltou para o rei, e o pais ficou em repouso durante dois anos,
+
+[[v22-9-58]]
+
+^<<v22-9-58,58>>^ Então todos os maus formaram entre si este desígnio: Eis que Jónatas e os que estão com ele vivem em paz e segurança; façamos, pois, agora vir Báquides, que os apanhará a todos numa noite.
+
+[[v22-9-59]]
+
+^<<v22-9-59,59>>^ Foram, pois, ter com ele, a levar-lhe este conselho.
+
+[[v22-9-60]]
+
+^<<v22-9-60,60>>^ Báquides pôs-se logo a caminho com um grande exército e mandou em segredo cartas ao" do seu partido, que tinha na Judeia, a fim de que prendessem Jónatas e os que estavam com ele. Porém estes não o puderam fazer, porque se divulgou o seu plano.
+
+[[v22-9-61]]
+
+^<<v22-9-61,61>>^ Pelo contrário, (os de Jónatas) prenderam cinquenta homens do país, chefes daquela conspiração, e mandaram-nos matar.
+
+[[v22-9-62]]
+
+^<<v22-9-62,62>>^ Em seguida retirou-se Jónatas, com Simão e os seus partidários, para Betbasi, que está no deserto. Repararam as suas ruínas e fizeram dela uma forte praça.
+
+[[v22-9-63]]
+
+^<<v22-9-63,63>>^ Quando Báquides o soube, juntou logo todas as suas tropas e avisou do que se passava os seus amigos da Judeia.
+
+[[v22-9-64]]
+
+^<<v22-9-64,64>>^ Foi acampar perto de Betbasi, que sitiou durante muitos dias, atacando-a com máquinas de guerra.
+
+[[v22-9-65]]
+
+^<<v22-9-65,65>>^ Porém Jónatas, deixando Simão, seu irmão, na cidade, saiu para o campo com um reduzido corpo de tropas
+
+[[v22-9-66]]
+
+^<<v22-9-66,66>>^ e derrotou Odomera e seus irmãos e os filhos de Faseron, dentro das suas próprias tendas, e começou a dar combates e a aumentar em número.
+
+[[v22-9-67]]
+
+^<<v22-9-67,67>>^ Entretanto Simão e os que com ele estavam saíram da cidade e queimaram os máquinas de guerra;
+
+[[v22-9-68]]
+
+^<<v22-9-68,68>>^ depois atacaram e desbarataram Báquides, que ficou muito desgostoso, ao ver que tinham saído frustrados os seus desígnios e a sua empresa.
+
+[[v22-9-69]]
+
+^<<v22-9-69,69>>^ Irritado contra aqueles homens iníquos, que lhe deram o conselho de vir à terra deles, matou muitos e resolveu voltar para o seu país.
+
+[[v22-9-70]]
+
+^<<v22-9-70,70>>^ Jónatas, ao saber disto, mandou-lhe embaixadores para fazer pazes com ele e tratar da entrega dos prisioneiros.
+
+[[v22-9-71]]
+
+^<<v22-9-71,71>>^ Báquides recebeu-os favoravelmente e consentiu no que Jónatas queria, jurando que em todos os dias da sua vida lhe não faria mal algum.
+
+[[v22-9-72]]
+
+^<<v22-9-72,72>>^ Restituiu-lhe os prisioneiros, que antes tinha feito cativos na terra de Judá, e depois voltou para o seu país e não quis mais voltar á terra (dos Judeus).
+
+[[v22-9-73]]
+
+^<<v22-9-73,73>>^ Assim repousou a espada em Israel. Jónatas fixou residência em Macmas; ali começou a julgar o povo e exterminou os ímpios do meio de Israel.
+
+'''
+
+xref:022-i-macabeus/022-i-macabeus-008.adoc#v22-8-0[&#60; Capítulo Anterior] | <<v22-9-0,Topo>> | xref:022-i-macabeus/022-i-macabeus-010.adoc#v22-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v3-16-0]]
+=== Levítico, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 16 de Levítico trata da cerimônia do Dia da Expiação, na qual o sumo sacerdote fazia uma série de ofertas e purificações para expiar os pecados do povo de Israel. Os versículos selecionados são:
+* Êxodo 30:10: "E, uma vez por ano, Arão fará expiação sobre as pontas do altar; com o sangue da oferta pelo pecado da expiação, ele fará expiação sobre ele, uma vez por ano, por todas as vossas gerações. É santíssimo ao Senhor." Este versículo menciona a oferta pelo pecado da expiação, que era usada no Dia da Expiação em Levítico 16.
+* Hebreus 9:7: "Mas somente o sumo sacerdote entra no segundo tabernáculo, uma vez por ano, não sem sangue, que ele oferece por si mesmo e pelos pecados do povo que o ignorava." Este versículo se refere ao papel do sumo sacerdote no Dia da Expiação e a necessidade de sangue para expiar os pecados.
+* Levítico 4:6: "E ele fará expiação pelo pecado que cometeu a respeito do santuário, e ele fará expiação por causa da impureza dos filhos de Israel, e por causa das suas transgressões, e por todos os seus pecados; e assim ele fará pela tenda da congregação que habita com eles no meio das suas impurezas." Este versículo fala sobre a necessidade de expiação pelos pecados do povo e da tenda da congregação.
+* Hebreus 9:14: "Quanto mais o sangue de Cristo, que, pelo Espírito eterno, se ofereceu a si mesmo sem mácula a Deus, purificará a nossa consciência das obras mortas para servirmos ao Deus vivo?" Este versículo menciona a purificação pelo sangue de Cristo, que cumpre o papel das ofertas de expiação no Antigo Testamento.
+* Levítico 16:34: "E isto será para vós um estatuto perpétuo, para fazer expiação pelos filhos de Israel de todas as suas transgressões, uma vez por ano." Este versículo reforça a importância da cerimônia do Dia da Expiação como uma prática anual para expiar os pecados do povo.
+****
+
+[[v3-16-1]]
+
+^<<v3-16-1,1>>^ O Senhor falou a Moisés depois da morte dos dois filhos de Aarão, que foram mortos por terem oferecido um fogo estranho;
+
+[[v3-16-2]]
+
+^<<v3-16-2,2>>^ e ordenou-lhe: Dize a Aarão, teu irmão, que nunca entre no santuário, que está para dentro do véu colocado diante do propiciatório, que cobre a arca, para que não morra, porque eu aparecerei na nuvem sobre o oráculo.
+
+[[v3-16-3]]
+
+^<<v3-16-3,3>>^ Eis o rito que Aarão observará, ao entrar no santuário: Oferecerá um novilho pelo pecado, e um carneiro em holocausto.
+
+[[v3-16-4]]
+
+^<<v3-16-4,4>>^ Revestir-se-á da túnica santa de linho, cobrirá a sua nudez com calções de linho; cingir-se-á com um cinto de linho; porá na cabeça uma tiara de linho: Estas são as vestes sagradas que ele vestirá depois de se ter lavado.
+
+[[v3-16-5]]
+
+^<<v3-16-5,5>>^ Receberá de toda a multidão dos filhos de Israel dois bodes pelo pecado, e um carneiro para holocausto.
+
+[[v3-16-6]]
+
+^<<v3-16-6,6>>^ Aarão oferecerá o novilho pelo pecado e fará expiação por si e pela sua casa.
+
+[[v3-16-7]]
+
+^<<v3-16-7,7>>^ Apresentará, depois, diante do Senhor os dois bodes à porta do tabernáculo da reunião.
+
+[[v3-16-8]]
+
+^<<v3-16-8,8>>^ e, deitando sortes sobre um e outro, uma pelo Senhor e outra por Azazei,
+
+[[v3-16-9]]
+
+^<<v3-16-9,9>>^ oferecerá pelo pecado aquele que a sorte destinar para o Senhor:
+
+[[v3-16-10]]
+
+^<<v3-16-10,10>>^ e aquele, ao qual a sorte tiver destinado para Azazel, apresentá-lo-á vivo diante do Senhor, para fazer sobre ele as preces, e enviá-lo para o deserto.
+
+[[v3-16-11]]
+
+^<<v3-16-11,11>>^ Celebradas estas coisas segundo o rito, oferecerá o novilho, e, orando por si e pela sua casa, o imolará;
+
+[[v3-16-12]]
+
+^<<v3-16-12,12>>^ tomando o turíbulo, que terá enchido de brasas do altar, e tomando com a mão o perfume composto para o incenso, entrará para dentro do véu do Santo dos Santos,
+
+[[v3-16-13]]
+
+^<<v3-16-13,13>>^ a fim de que, postos os perfumes sobre o fogo, o seu fumo e o seu vapor cubram o oráculo, que está sobre o testemunho, e (Aarão) não morra.
+
+[[v3-16-14]]
+
+^<<v3-16-14,14>>^ Tomará também do sangue do novilho, e aspergirá com o dedo sete vezes defronte do propiciatório para a parte do oriente.
+
+[[v3-16-15]]
+
+^<<v3-16-15,15>>^ Depois de ter imolado o bode pelo pecado do povo, levará o seu sangue para dentro do véu, como foi ordenado acerca do sangue do novilho, para fazer a aspersão diante do oráculo,
+
+[[v3-16-16]]
+
+^<<v3-16-16,16>>^ e expiará o santuário das impurezas dos filhos de Israel, das suas prevaricações, de todos os (seus) pecados. Expiará com este rito o tabernáculo da reunião, que foi colocado entre eles, no meio das impurezas das suas habitações.
+
+[[v3-16-17]]
+
+^<<v3-16-17,17>>^ Nenhum homem esteja no tabernáculo da reunião, quando o pontífice entrar no santuário para orar por si, pela sua casa e por todo o ajuntamento de Israel, e enquanto não tenha saído.
+
+[[v3-16-18]]
+
+^<<v3-16-18,18>>^ Quando tiver saído para o altar, que está diante do Senhor, ore por si e tomando do sangue do novilho e do bode, derrame-o sobre as pontas do altar ao redor:
+
+[[v3-16-19]]
+
+^<<v3-16-19,19>>^ fazendo com o dedo sete aspersões, purifique-o e santifique-o das impurezas dos filhos de Israel.
+
+[[v3-16-20]]
+
+^<<v3-16-20,20>>^ Depois de ter purificado o santuário, o tabernáculo e o altar, então ofereça o bode vivo.
+
+[[v3-16-21]]
+
+^<<v3-16-21,21>>^ Postas ambas as mãos sobre a sua cabeça, confesse todas as iniquidades dos filhos de Israel, todos os seus delito e pecados, e, carregando-os sobre a cabeça do bode, enviá-lo-á para o deserto por um homem destinado para isso.
+
+[[v3-16-22]]
+
+^<<v3-16-22,22>>^ Quando o bode tiver levado todas as iniquidades deles para uma terra solitária, e for deixado no deserto,
+
+[[v3-16-23]]
+
+^<<v3-16-23,23>>^ Aarão voltará para o tabernáculo da reunião, depostas as vestes de que antes se revestia, para entrar no santuário: deixando-as ali mesmo,
+
+[[v3-16-24]]
+
+^<<v3-16-24,24>>^ lavará o seu corpo num lugar santo, e tomará de novo as suas vestes. Depois de ter saído, oferecerá o seu holocausto e o do povo, tomará tanto por si como pelo povo,
+
+[[v3-16-25]]
+
+^<<v3-16-25,25>>^ e queimará sobre o altar a gordura oferecida pelos pecados.
+
+[[v3-16-26]]
+
+^<<v3-16-26,26>>^ Aquele, porém, que tiver levado o bode emissário, lavará as suas vestes e o seu corpo em água, e depois voltará para os acampamentos.
+
+[[v3-16-27]]
+
+^<<v3-16-27,27>>^ O novilho e o bode, que foram imolados pelo pecado, e cujo sangue foi levado ao santuário para fazer a expiação, levá-los-ão fora do arraial, e queimarão no fogo tanto as suas peles, como as suas carnes e os seus excrementos,
+
+[[v3-16-28]]
+
+^<<v3-16-28,28>>^ Todo aquele que as queimar, lavará as suas vestes e o seu corpo em água, e depois voltará para os acampamentos.
+
+[[v3-16-29]]
+
+^<<v3-16-29,29>>^ Isto será para vós uma lei perpétua. No sétimo mês no décimo dia do mês, afligireis as vossas almas, e não fareis obra alguma, tanto o indígena como o estrangeiro que vive peregrino entre vós. (ver nota)
+
+[[v3-16-30]]
+
+^<<v3-16-30,30>>^ Neste dia se fará a vossa expiação e a purificação de todos os vossos pecados: nele sereis purificados diante do Senhor.
+
+[[v3-16-31]]
+
+^<<v3-16-31,31>>^ Porque é um sábado do descanso, e afligireis as vossas almas, por lei perpétua.
+
+[[v3-16-32]]
+
+^<<v3-16-32,32>>^ À expiação será feita pelo sacerdote que foi ungido, e cujas mãos foram sagradas para exercer as funções do sacerdócio em vez de seu pai; será revestido da túnica de linho e das vestes sagradas,
+
+[[v3-16-33]]
+
+^<<v3-16-33,33>>^ fará expiação pelo santuário, pelo tabernáculo da reunião e pelo altar, e também pelos sacerdotes e por todo o povo.
+
+[[v3-16-34]]
+
+^<<v3-16-34,34>>^ Será para vós lei perpétua, o fazer oração uma ver por ano pelos filhos de Israel e por todos os seus pecados. Fez-se como o Senhor tinha ordenado a Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-015.adoc#v3-15-0[&#60; Capítulo Anterior] | <<v3-16-0,Topo>> | xref:003-levitico/003-levitico-017.adoc#v3-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v21-90-0]]
+=== Salmos, 90
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 90 é uma oração atribuída a Moisés, que reflete sobre a brevidade da vida humana e a eternidade de Deus. Moisés implora a Deus para lembrar da fragilidade do ser humano e lhe conceder a sabedoria para viver cada dia como se fosse o último.
+* Jó 14:5: "Uma vez que os seus dias estão marcados, o número dos seus meses está nas suas mãos; você estabeleceu os limites que não pode ultrapassar." Este versículo também fala sobre a limitação de tempo que cada pessoa tem nesta terra.
+* Salmos 39:4-5: "Senhor, faze-me saber o meu fim e qual a medida dos meus dias, para que eu saiba quanto sou frágil. Deste aos meus dias o comprimento de um palmo; a duração da minha vida é nada diante de ti. De fato, cada pessoa, por mais firme que esteja, não passa de um sopro." Este salmo é semelhante ao Salmo 90, onde o salmista fala sobre a brevidade da vida humana e a necessidade de reconhecer nossa fragilidade diante de Deus.
+* Salmos 102:24-27: "Eu digo: 'Ó meu Deus, não me leves no meio da minha vida, tu, cujos dias são de geração em geração. No princípio, fundaste a terra, e os céus são obras das tuas mãos. Eles perecerão, mas tu permanecerás; envelhecerão como roupa. Como roupas, tu os trocarás, e serão jogados fora." Este salmo é uma meditação sobre a eternidade de Deus e a temporalidade da criação.
+* Tiago 4:14: "Vocês nem sabem o que lhes acontecerá amanhã! Que é a sua vida? Vocês são como a neblina que aparece por um pouco de tempo e depois se dissipa." Tiago faz uma exortação semelhante ao Salmo 90, lembrando-nos da incerteza da vida e da necessidade de confiar em Deus em todas as circunstâncias.
+* Hebreus 9:27: "Da mesma forma, como o homem está destinado a morrer uma só vez e depois disso enfrentar o juízo." Este versículo fala sobre a certeza da morte e o julgamento que aguarda a todos. É uma lembrança da importância de viver com propósito e significado enquanto estamos aqui.
+****
+
+[[v21-90-1]]
+
+^<<v21-90-1,1>>^ Tu que vives sob a protecção do Altíssimo, que moras à sombra do Omnipotente,
+
+[[v21-90-2]]
+
+^<<v21-90-2,2>>^ diz ao Senhor: "Meu refúgio e meu baluarte, meu Deus, em quem confio."
+
+[[v21-90-3]]
+
+^<<v21-90-3,3>>^ De facto ele me livrará do laço dos caçadores, da peste perniciosa.
+
+[[v21-90-4]]
+
+^<<v21-90-4,4>>^ Proteger-te-á com as suas penas, buscarás refúgio debaixo das suas asas: escudo e broquel é a sua fidelidade.
+
+[[v21-90-5]]
+
+^<<v21-90-5,5>>^ Não terás medo do terror nocturno, nem da seta que voa de dia,
+
+[[v21-90-6]]
+
+^<<v21-90-6,6>>^ nem da peste que vagueia nas trevas, nem da calamidade que devasta em pleno meio-dia.
+
+[[v21-90-7]]
+
+^<<v21-90-7,7>>^ (Ainda que) caiam mil ao teu lado, e dez mil à tua direita, (a calamidade) não se aproximará de ti.
+
+[[v21-90-8]]
+
+^<<v21-90-8,8>>^ Tu com os teus olhos contemplarás e verás a paga dos pecadores.
+
+[[v21-90-9]]
+
+^<<v21-90-9,9>>^ Porque o teu refúgio é o Senhor, puseste o Altíssimo por tua defesa.
+
+[[v21-90-10]]
+
+^<<v21-90-10,10>>^ O mal não virá sobre ti, e o flagelo não se aproximará da tua tenda,
+
+[[v21-90-11]]
+
+^<<v21-90-11,11>>^ Porque mandou aos seus anjos em teu favor, que te guardem em todos os teus caminhos.
+
+[[v21-90-12]]
+
+^<<v21-90-12,12>>^ Eles te levarão nas suas mãos, para que o teu pé se não magoe em alguma pedra.
+
+[[v21-90-13]]
+
+^<<v21-90-13,13>>^ Sobre o áspide e a víbora andarás, e calcarás aos pés o leão e o dragão.
+
+[[v21-90-14]]
+
+^<<v21-90-14,14>>^ Porque se agarrou a mim, livrá-lo-ei; protegê-lo-ei, porque conheceu o meu nome.
+
+[[v21-90-15]]
+
+^<<v21-90-15,15>>^ Invocar-me-á, e eu o ouvirei; com ele estarei na tribulação, livrá-lo-ei e honrá-lo-ei,
+
+[[v21-90-16]]
+
+^<<v21-90-16,16>>^ Saciá-lo-ei de dilatados dias, e mostrar-lhe-ei a minha salvação.
+
+'''
+
+xref:021-salmos/021-salmos-089.adoc#v21-89-0[&#60; Capítulo Anterior] | <<v21-90-0,Topo>> | xref:021-salmos/021-salmos-091.adoc#v21-91-0[Próximo Capítulo &#62;]

@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v55-2-0]]
+=== Gálatas, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gálatas 2 trata do conflito entre Paulo e os judaizantes que ensinavam que os gentios precisavam seguir a lei mosaica para serem salvos. Neste capítulo, Paulo defende sua autoridade apostólica e sua mensagem de salvação pela fé em Jesus Cristo, não pelas obras da lei. Ele também relata seu encontro com Pedro em Antioquia, onde Pedro agiu hipocritamente ao se afastar dos gentios por causa da pressão dos judaizantes. Abaixo estão cinco versículos relacionados com os temas abordados em Gálatas 2:
+* Romanos 3:28: "Concluímos, pois, que o homem é justificado pela fé, independentemente das obras da lei." Este verso reafirma a mensagem central de Paulo em Gálatas 2 de que a salvação é pela fé em Jesus Cristo, não pelas obras da lei.
+* Efésios 2:8-9: "Porque pela graça sois salvos, mediante a fé; e isto não vem de vós; é dom de Deus; não de obras, para que ninguém se glorie." Este verso também reforça a ideia de que a salvação é pela graça de Deus, recebida pela fé, e não pelas obras da lei.
+* Atos 15:1: "Então, alguns homens que tinham descido da Judeia ensinavam aos irmãos: Se não vos circuncidardes segundo o costume de Moisés, não podeis ser salvos." Este verso ilustra o conflito entre os judaizantes e os cristãos gentios, que acreditavam que a circuncisão e a obediência à lei eram necessárias para a salvação.
+* Atos 15:10: "Agora, pois, por que tentais a Deus, pondo sobre a cerviz dos discípulos um jugo que nem nossos pais nem nós pudemos suportar?" Este verso é uma declaração de Pedro durante o Concílio de Jerusalém, onde ele reconheceu que a lei mosaica era um fardo pesado demais para os gentios e que eles eram salvos pela graça de Deus, assim como os judeus.
+* Colossenses 2:16-17: "Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados, que são sombras das coisas que hão de vir; mas o corpo é de Cristo." Este verso enfatiza que as práticas da lei mosaica, como os dias de festa e os sábados, eram sombras do que estava por vir em Cristo e não eram mais necessárias para a salvação.
+****
+
+[[v55-2-1]]
+
+^<<v55-2-1,1>>^ Catorze anos depois, subi novamente a Jerusalém com Barnabé, tomando também comigo a Tito.
+
+[[v55-2-2]]
+
+^<<v55-2-2,2>>^ Subi, em consequência de uma revelação; conferi com eles o Evangelho que prego entre os gentios e (conferi) particularmente com aqueles que eram de maior consideração, a fim de não correr ou de não ter corrido inutilmente.
+
+[[v55-2-3]]
+
+^<<v55-2-3,3>>^ Ora nem mesmo Tito, que estava comigo, sendo grego, foi obrigado a circuncidar-se,
+
+[[v55-2-4]]
+
+^<<v55-2-4,4>>^ e isto por causa dos falsos irmãos, que se intrometeram a espiar a liberdade, que temos em Jesus Cristo, para nos reduzirem à escravidão (querendo obrigar-nos à observância dos ritos mosaicos).
+
+[[v55-2-5]]
+
+^<<v55-2-5,5>>^ Aos quais, nem um só instante, cedemos, para que permaneça entre vós a verdade do Evangelho.
+
+[[v55-2-6]]
+
+^<<v55-2-6,6>>^ Quanto porém àqueles que tinham grande autoridade, (quais tenham sido noutro tempo, não me importa, pois Deus não faz acepção de pessoas) esses, digo, que tinham grande autoridade, nada me impuseram. (ver nota)
+
+[[v55-2-7]]
+
+^<<v55-2-7,7>>^ Antes pelo contrário, tendo visto que me tinha sido confiado o Evangelho para os não circuncidados, como a Pedro para os circuncidados,
+
+[[v55-2-8]]
+
+^<<v55-2-8,8>>^ (porque quem fez de Pedro o Apóstolo dos circuncidados, também fez de mim o Apóstolo dos gentios)
+
+[[v55-2-9]]
+
+^<<v55-2-9,9>>^ e tendo reconhecido a graça que me foi dada, Tiago, Cefas e João, que eram considerados as colunas (da Igreja), deram as mãos a mim e a Barnabé, em sinal de comunhão, para que fôssemos aos gentios, e ele aos circuncidados,
+
+[[v55-2-10]]
+
+^<<v55-2-10,10>>^ (recomendando) somente que nos lembrássemos dos pobres (da Judeia); o que eu fui solícito em cumprir.
+
+[[v55-2-11]]
+
+^<<v55-2-11,11>>^ Mas, tendo vindo Cefas a Antioquia, eu lhe resisti na cara, porque merecia repreensão,
+
+[[v55-2-12]]
+
+^<<v55-2-12,12>>^ pois que antes que chegassem alguns de Tiago, ele comia com os gentios, mas, depois que chegaram, retirava-se e separava-se (dos gentios), com receio dos que eram circuncidados.
+
+[[v55-2-13]]
+
+^<<v55-2-13,13>>^ Os outros judeus imitaram-no na sua dissimulação, de sorte que até Barnabé foi induzido por eles àquela simulação.
+
+[[v55-2-14]]
+
+^<<v55-2-14,14>>^ Porém eu, tendo visto que eles não andavam direitamente, segundo a verdade do Evangelho, disse a Cefas, diante de todos: "Se tu, sendo judeu, vives como gentio e não como judeu, por que obrigas os gentios a judaizar?"
+
+[[v55-2-15]]
+
+^<<v55-2-15,15>>^ Nós somos judeus, por nascimento, e não pecadores dentre os gentios.
+
+[[v55-2-16]]
+
+^<<v55-2-16,16>>^ Mas, como sabemos que o homem não se justifica pelas obras da lei, senão pela fé em Jesus Cristo, por isso também nós cremos em Jesus Cristo, para sermos justificados pela fé em Cristo e não pelas obras da lei; porquanto nenhum homem será justificado pelas obras da lei.
+
+[[v55-2-17]]
+
+^<<v55-2-17,17>>^ Mas se nós, procurando ser justificados em Cristo, somos também encontrados na classe dos pecadores, é porventura Cristo ministro do pecado? Certo que não.
+
+[[v55-2-18]]
+
+^<<v55-2-18,18>>^ Em realidade, se eu torno a edificar o que destruí, faço-me prevaricador,
+
+[[v55-2-19]]
+
+^<<v55-2-19,19>>^ porque, pela (doutrina da própria) lei, estou morto para a lei, a fim de viver para Deus. Estou pregado com Cristo na cruz;
+
+[[v55-2-20]]
+
+^<<v55-2-20,20>>^ vivo, mas já não sou eu que vivo, é Cristo que vive em mim. A vida (sobrenatural) com que vivo agora na carne, vivo-a da fé no Filho de Deus, que me amou e se entregou por mim.
+
+[[v55-2-21]]
+
+^<<v55-2-21,21>>^ Eu não menosprezo a graça de Deus. Com efeito, se a justiça se obtém pela (observância da) lei, segue-se que Cristo morreu em vão.
+
+'''
+
+xref:055-galatas/055-galatas-001.adoc#v55-1-0[&#60; Capítulo Anterior] | <<v55-2-0,Topo>> | xref:055-galatas/055-galatas-003.adoc#v55-3-0[Próximo Capítulo &#62;]

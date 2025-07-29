@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v21-56-0]]
+=== Salmos, 56
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 56 é um salmo de lamentação no qual o salmista clama a Deus por ajuda e proteção contra seus inimigos. Ele expressa sua confiança em Deus e pede que Ele julgue os seus inimigos. Abaixo estão cinco versículos relacionados aos temas abordados neste salmo:
+* Salmos 9:9: "O Senhor é um refúgio para os oprimidos, um refúgio em tempos de dificuldade." Este verso fala da proteção de Deus para aqueles que são oprimidos e estão passando por momentos difíceis, o que é uma das principais preocupações do salmista em Salmo 56.
+* Salmos 27:1: "O Senhor é minha luz e minha salvação - quem eu deveria temer? O Senhor é a fortaleza da minha vida - de quem devo ter medo?" Neste verso, o salmista fala da sua confiança em Deus como sua salvação e fortaleza, o que é uma temática constante em Salmo 56.
+* Salmos 118:6: "O Senhor está comigo, não tenho medo; o que pode me fazer um ser humano?" Este verso expressa a confiança do salmista em Deus e sua segurança em saber que Ele está com ele, mesmo diante de seus inimigos.
+* Salmos 140:12: "Eu sei que o Senhor defenderá os direitos dos pobres e os interesses dos necessitados." Este verso fala da confiança do salmista de que Deus defenderá os pobres e necessitados, o que se relaciona com a preocupação do salmista em Salmo 56 em ser protegido de seus inimigos.
+* Salmos 146:7: "Ele defende o oprimido e dá alimento aos famintos. O Senhor liberta os prisioneiros." Neste verso, o salmista fala da justiça de Deus em defender os oprimidos e libertar os prisioneiros, o que se relaciona com a sua busca por proteção e libertação em Salmo 56.
+****
+
+[[v21-56-1]]
+
+^<<v21-56-1,1>>^ Ao mestre do coro. Segundo a melodia de "Não destruas..." De Davide. Miktãm. Quando, fugindo de Saul, se escondeu numa caverna.
+
+[[v21-56-2]]
+
+^<<v21-56-2,2>>^ Tem piedade de mim, ó Deus, tem piedade de mim, Senhor, porque a minha alma se refugia em ti, e à sombra das tuas asas me acolho, até que passe a calamidade.
+
+[[v21-56-3]]
+
+^<<v21-56-3,3>>^ Clamo ao Deus altíssimo, ao Deus que tanto bem me tem feito.
+
+[[v21-56-4]]
+
+^<<v21-56-4,4>>^ Envie do céu (o seu auxilio) e salve-me, cubra de opróbrio os que me perseguem; envie Deus a sua graça e a sua fidelidade.
+
+[[v21-56-5]]
+
+^<<v21-56-5,5>>^ Estou jazendo no meio dos leões, que devoram com avidez os filhos dos homens. São lanças e setas os seus dentes, e espada afiada é a sua língua.
+
+[[v21-56-6]]
+
+^<<v21-56-6,6>>^ Manifesta-te excelso, ó Deus, sobre os céus, e brilhe a tua glória por toda a terra.
+
+[[v21-56-7]]
+
+^<<v21-56-7,7>>^ Armaram laços aos meus pés: deprimiram a minha alma. Cavaram diante de mim uma cova: (eles mesmos) caíam nela.
+
+[[v21-56-8]]
+
+^<<v21-56-8,8>>^ O meu coração, ó Deus, está firme, o meu coração está firme: cantarei e entoarei salmos.
+
+[[v21-56-9]]
+
+^<<v21-56-9,9>>^ Desperta, minha alma; despertai, saltério e citara! eu despertarei a aurora.
+
+[[v21-56-10]]
+
+^<<v21-56-10,10>>^ Louvar-te-ei entre os povos, Senhor; entoar-te-ei salmos entre as nações,
+
+[[v21-56-11]]
+
+^<<v21-56-11,11>>^ porque a tua misericórdia é (tão) grande (que chega) até ao céu, e a tua fidelidade até às nuvens.
+
+[[v21-56-12]]
+
+^<<v21-56-12,12>>^ Manifesta-te excelso, ó Deus, acima dos céus, e brilhe a tua glória sobre toda a terra.
+
+'''
+
+xref:021-salmos/021-salmos-055.adoc#v21-55-0[&#60; Capítulo Anterior] | <<v21-56-0,Topo>> | xref:021-salmos/021-salmos-057.adoc#v21-57-0[Próximo Capítulo &#62;]

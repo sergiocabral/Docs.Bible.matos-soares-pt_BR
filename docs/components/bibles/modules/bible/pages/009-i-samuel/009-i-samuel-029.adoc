@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v9-29-0]]
+=== I Samuel, 29
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 29 narra a história de Davi indo para a batalha com os filisteus, mas sendo rejeitado pelos líderes filisteus. Davi, que se escondeu dos israelitas entre os filisteus, era considerado um aliado deles, mas os outros filisteus não confiavam nele o suficiente para deixá-lo lutar contra os israelitas ao lado deles. Os versículos relacionados com os temas abordados em 1 Samuel 29 são:
+* Provérbios 29:25: "O temor do homem armará laços, mas o que confia no Senhor será posto em alto retiro." Os líderes filisteus temiam que Davi mudasse de lado na batalha e, assim, armaram um laço para que ele não pudesse lutar com eles.
+* Salmo 118:8-9: "É melhor confiar no Senhor do que confiar no homem. É melhor confiar no Senhor do que confiar em príncipes." Davi confiava no Senhor para protegê-lo, mesmo quando os líderes filisteus o rejeitaram.
+* 2 Coríntios 6:14: "Não vos prendais a um jugo desigual com os incrédulos; porque que sociedade tem a justiça com a injustiça? ou que comunhão tem a luz com as trevas?" Davi, que era um servo de Deus, não deveria ter se aliado aos filisteus, que eram inimigos do povo de Deus.
+* Filipenses 4:6-7: "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças; e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus." Davi poderia ter ficado ansioso com a situação em que se encontrava, mas optou por confiar em Deus e deixar suas preocupações com ele.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Davi confiava em Deus para guiá-lo em seus caminhos e decisões, mesmo quando pareciam não fazer sentido aos olhos dos homens.
+****
+
+[[v9-29-1]]
+
+^<<v9-29-1,1>>^ Juntaram-se todos os esquadrões dos Filisteus em Afec. Israel também acampou junto da fonte que havia em Jezrael
+
+[[v9-29-2]]
+
+^<<v9-29-2,2>>^ Os príncipes dos Filisteus marchavam à frente das suas tropas, divididas em companhias de cem e de mil homens. Davide e a sua gente iam na retaguarda com Aquis.
+
+[[v9-29-3]]
+
+^<<v9-29-3,3>>^ Os príncipes dos Filisteus disseram a Aquis: A que fim vêm aqui esses Hebreus? Aquis respondeu aos príncipes dos Filisteus: Não conheceis vós Davide, que foi servo de Saul, rei de Israel, e que está em minha companhia há muitos dias, ou antes anos, e no qual nunca encontrei coisa que me desagradasse, desde o dia em que se refugiou junto de mim até hoje?
+
+[[v9-29-4]]
+
+^<<v9-29-4,4>>^ Os príncipes dos Filisteus iraram-se contra ele e disseram-lhe: Vá-se embora esse homem, para o lugar em que tu o puseste, e não venha conosco à batalha, não suceda voltar-se contra nós, quando começarmos a combater; pois como poderá ele aplacar o seu senhor, senão com as nossas cabeças?
+
+[[v9-29-5]]
+
+^<<v9-29-5,5>>^ Porventura não é este aquele Davide, em cujo louvor cantavam dançando: Saul matou mil, e Davide dez mil?
+
+[[v9-29-6]]
+
+^<<v9-29-6,6>>^ Aquis chamou Davide e disse-lhe: Viva o Senhor; tu és justo e bom diante dos meus olhos; agrada-me o teu proceder comigo no acampamento; não encontrei em ti nada que me desgostasse, desde o dia em que vieste para mim até ao dia de hoje, mas tu não agradas aos príncipes.
+
+[[v9-29-7]]
+
+^<<v9-29-7,7>>^ Retira-te, pois, e vai em paz, para não ofender os olhos dos príncipes dos Filisteus.
+
+[[v9-29-8]]
+
+^<<v9-29-8,8>>^ Davide disse a Aquis: Que fiz eu, que encontraste tu no teu servo, desde o dia em que eu te apareci até este dia, para que eu não vá combater contra os inimigos do rei, meu senhor?
+
+[[v9-29-9]]
+
+^<<v9-29-9,9>>^ Aquis, respondendo, disse a Davide: Eu sei que és bom aos meus olhos, como um anjo de Deus, mas os príncipes dos Filisteus disseram: Ele não há-de ir conosco à batalha.
+
+[[v9-29-10]]
+
+^<<v9-29-10,10>>^ Por isso levanta-te amanhã pela manhã, tu e os servos do teu senhor, que vieram contigo; levantando-vos de noite, parti logo que principie a raiar a aurora.
+
+[[v9-29-11]]
+
+^<<v9-29-11,11>>^ Levantou-se Davide, ainda de noite, e a sua gente, para partirem pela manhã e voltarem para o pais dos Filisteus, e os Filisteus marcharam para Jezrael.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-028.adoc#v9-28-0[&#60; Capítulo Anterior] | <<v9-29-0,Topo>> | xref:009-i-samuel/009-i-samuel-030.adoc#v9-30-0[Próximo Capítulo &#62;]

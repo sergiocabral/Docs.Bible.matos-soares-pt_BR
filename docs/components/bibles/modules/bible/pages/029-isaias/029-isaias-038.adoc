@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v29-38-0]]
+=== Isaías, 38
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 38 conta a história do Rei Ezequias, que adoece gravemente e recebe a notícia de que morrerá em breve. Ele ora ao Senhor e pede que lhe conceda mais tempo de vida. Deus ouve sua oração e lhe dá mais 15 anos. Os versículos abaixo destacam temas como a cura divina, a misericórdia de Deus e a importância da oração.
+* Salmos 30:2 - "Senhor meu Deus, clamei a ti por socorro, e tu me curaste." Este versículo fala sobre a cura divina, que é o que Ezequias pediu ao Senhor. Ele se voltou para Deus em sua aflição e foi curado.
+* Salmos 103:3 - "Ele é quem perdoa todas as tuas iniquidades e cura todas as tuas doenças." Este versículo destaca a natureza misericordiosa de Deus, que não apenas perdoa nossos pecados, mas também cura nossas enfermidades.
+* Tiago 5:15 - "A oração feita com fé curará o doente; o Senhor o levantará. E se houver cometido pecados, ele será perdoado." Este versículo mostra a importância da oração na busca pela cura. Ezequias orou fervorosamente ao Senhor e foi atendido.
+* Salmos 30:5 - "Pois a sua ira dura só um momento, mas o seu favor dura a vida inteira; o choro pode persistir uma noite, mas de manhã irrompe a alegria." Este versículo destaca a misericórdia e o amor de Deus, que apesar da enfermidade de Ezequias, ainda o favoreceu com mais tempo de vida.
+* Salmos 116:1-2 - "Amo o Senhor, porque ele ouve a minha voz e a minha súplica. Porque inclinou para mim os seus ouvidos, invocá-lo-ei enquanto eu viver." Este versículo mostra a importância da oração e da confiança em Deus. Ezequias confiou em Deus e orou por cura, e foi ouvido e respondido pelo Senhor.
+****
+
+[[v29-38-1]]
+
+^<<v29-38-1,1>>^ Naquele tempo, adoeceu Ezequias de uma enfermidade mortal. Isaías, profeta, filho de Amós, foi ter com ele e disse-lhe: Eis o que diz o Senhor: Põe em ordem as coisas da tua casa, porque vais morrer, não viverás mais.
+
+[[v29-38-2]]
+
+^<<v29-38-2,2>>^ Ezequias voltou o seu rosto para a parede e orou ao Senhor.
+
+[[v29-38-3]]
+
+^<<v29-38-3,3>>^ Disse: Peço-te, Senhor, que te lembres de como tenho andado diante ti com fidelidade e com um coração íntegro, de como tenho feito o que é bom aos teus olhos. E Ezequias derramou lágrimas abundantes.
+
+[[v29-38-4]]
+
+^<<v29-38-4,4>>^ Então o Senhor falou a Isaías, assim:
+
+[[v29-38-5]]
+
+^<<v29-38-5,5>>^ Vai e dize a Ezequias: Eis o que diz o Senhor Deus de Davide, teu pai: Ouvi a tua oração e vi as tuas lágrimas; acrescentarei aos teus dias quinze anos,
+
+[[v29-38-6]]
+
+^<<v29-38-6,6>>^ e livrar-te-ei da mão do rei dos Assírios, a ti e a esta cidade; protegerei esta cidade.
+
+[[v29-38-7]]
+
+^<<v29-38-7,7>>^ Eis o sinal que o Senhor te dará, para te assegurar de que cumprirá o que disse:
+
+[[v29-38-8]]
+
+^<<v29-38-8,8>>^ Eu farei com que a sombra retroceda dez graus, tantos quantos tinha avançado, no relógio de Acaz. E o Sol retrocedeu dez graus, que tinha avançado.
+
+[[v29-38-9]]
+
+^<<v29-38-9,9>>^ Cântico de Ezequias, rei de Judá, quando, depois de ter estado doente, foi curado da sua enfermidade.
+
+[[v29-38-10]]
+
+^<<v29-38-10,10>>^ Eu disse: Na metade de meus dias, lá me vou para as portas do sepulcro, privado do resto de meus anos. (ver nota)
+
+[[v29-38-11]]
+
+^<<v29-38-11,11>>^ Eu disse: Não verei mais o meu Senhor Deus na terra dos viventes. Não verei mais homem algum entre os habitantes do mundo.
+
+[[v29-38-12]]
+
+^<<v29-38-12,12>>^ É arrancada a minha morada, levada para longe, como uma tenda de pastores. Enrolei, como um tecelão, a (teia da) minha vida; quando eu ainda a estava urdindo, ele ma cortou: desde manhã até à tarde tu acabarás comigo (ó Deus).
+
+[[v29-38-13]]
+
+^<<v29-38-13,13>>^ Eu esperava até amanhã; ele, como um leão, quebrou todos os meus ossos. Desde manhã até à tarde acabarás comigo.
+
+[[v29-38-14]]
+
+^<<v29-38-14,14>>^ Grito como a andorinha, gemo como a pomba. Os meus olhos cansaram-se a olhar para o alto. Senhor, estou angustiado. Conforta-me.
+
+[[v29-38-15]]
+
+^<<v29-38-15,15>>^ Que direi eu? Ele o disse, e (como disse) assim o fez. Repassarei diante de ti pela memória todos os meus anos na amargura da minha alma.
+
+[[v29-38-16]]
+
+^<<v29-38-16,16>>^ Senhor, se é assim que se vive, e se a vida do meu espírito consiste em tais coisas, sara-me, faze-me tornar à vida. (ver nota)
+
+[[v29-38-17]]
+
+^<<v29-38-17,17>>^ Mudou-se em paz a minha amargosíssima aflição. Tu livraste a minha alma da tumba da corrupção, lançaste para trás das tuas costas todos os meus pecados.
+
+[[v29-38-18]]
+
+^<<v29-38-18,18>>^ Com efeito, o sepulcro não te louvará, nem a morte te celebrará; os que descem à cova não esperarão mais na tua fidelidade.
+
+[[v29-38-19]]
+
+^<<v29-38-19,19>>^ O que vive, o que vive, esse é o que te louvará, como eu faço hoje; o pai fará conhecer aos filhos a tua verdade.
+
+[[v29-38-20]]
+
+^<<v29-38-20,20>>^ Senhor, salva-nos, e nós cantaremos os nossos salmos, todos os dias da nossa vida, diante da casa do Senhor.
+
+[[v29-38-21]]
+
+^<<v29-38-21,21>>^ Então Isaías mandou que tomassem uma massa de figos e que, feita com ela uma cataplasma, a pusessem sobre a chaga (de Ezequias), que sararia.
+
+[[v29-38-22]]
+
+^<<v29-38-22,22>>^ Ezequias disse: Que sinal terei eu de que ainda hei-de subir à casa do Senhor?
+
+'''
+
+xref:029-isaias/029-isaias-037.adoc#v29-37-0[&#60; Capítulo Anterior] | <<v29-38-0,Topo>> | xref:029-isaias/029-isaias-039.adoc#v29-39-0[Próximo Capítulo &#62;]

@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v12-11-0]]
+=== II Reis, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 do livro de 2 Reis relata a ascensão de Joás ao trono de Judá após a morte de Atalia, que havia usurpado o trono e tentado destruir a descendência de Davi. O capítulo destaca a importância da linhagem real de Davi e a fidelidade dos sacerdotes e guardas do templo em proteger a herança de Judá. Aqui estão cinco versículos relacionados com os temas abordados em 2 Reis 11:
+* 2 Samuel 7:16: "Sua dinastia e seu reino serão firmados para sempre diante de mim; seu trono será estabelecido para sempre." Este versículo é uma promessa de Deus a Davi de que sua descendência teria um reino duradouro. Essa promessa é importante no contexto da história de Joás, que era descendente de Davi e cuja linhagem é protegida pelos sacerdotes e guardas do templo.
+* Salmos 132:11-12: "O Senhor fez um juramento a Davi, um juramento firme que ele não revogará: 'Colocarei um dos seus descendentes no seu trono. Se os seus filhos forem fiéis à minha aliança e aos testemunhos que eu lhes ensino, também os filhos deles serão reis para sempre no seu trono.'" Este salmo fala sobre a promessa de Deus a Davi de que sua descendência teria um reino duradouro. Essa promessa é importante no contexto da história de Joás, que era descendente de Davi e cuja linhagem é protegida pelos sacerdotes e guardas do templo.
+* Salmos 146:3-4: "Não confiem em príncipes, em meros mortais, incapazes de salvar. Quando o espírito deles se vai, eles voltam ao pó; naquele mesmo dia acabam-se seus planos." Este salmo fala sobre a importância de confiar em Deus em vez de em governantes humanos. A história de Joás destaca a importância da linhagem real de Davi, mas também destaca a fidelidade dos sacerdotes e guardas do templo em proteger a herança de Judá.
+* 1 Reis 1:50-51: "Adonias ficou com medo de Salomão e, levantando-se, foi e agarrou-se às pontas do altar. Então Salomão soube que Adonias estava com medo dele, e mandou buscá-lo. Adonias foi e prostrou-se diante de Salomão, e Salomão lhe disse: 'Vá para casa.'" Este versículo descreve uma situação em que um homem busca refúgio no altar do templo. Isso é relevante no contexto da história de Joás, em que ele é coroado no templo e a linhagem real é protegida por sacerdotes e guardas do templo.
+* 1 Crônicas 9:27: "Eles passavam a noite ao redor da casa de Deus, porque tinham a obrigação de guardá-la e de abrir suas portas todas as manhãs." Este versículo descreve os deveres dos porteiros do templo. A história de 1 Crônicas 9 fala sobre o povo de Israel que retorna do exílio babilônico e sua reorganização como nação. O versículo em questão destaca a importância dos porteiros do templo em manter a segurança e a integridade do local sagrado. Os porteiros eram responsáveis por vigiar as portas, permitir a entrada apenas dos que eram autorizados e garantir que tudo dentro do templo estivesse em ordem. Esse versículo mostra como a organização e a disciplina eram importantes na adoração a Deus.
+****
+
+[[v12-11-1]]
+
+^<<v12-11-1,1>>^ Atalia, mãe de Ocozias, vendo morto seu filho, resolveu matar toda a descendência real.
+
+[[v12-11-2]]
+
+^<<v12-11-2,2>>^ Porém Josabá, filha do rei Jorão, irmã de Ocozias, pegando em Joás, filho de Ocozias, tirou-o do meio dos filhos do rei, que estavam a ser mortos, furtando-o do leito com a sua ama, e escondeu-o da presença de Atalia, para que o não matasse.
+
+[[v12-11-3]]
+
+^<<v12-11-3,3>>^ Ele esteve seis anos oculto com a ama na casa do Senhor. Entretanto Atalia reinou sobre o país (de Judá).
+
+[[v12-11-4]]
+
+^<<v12-11-4,4>>^ No ano sétimo, Jojada mandou chamar os centuriões e os soldados, introduziu-os consigo no templo do Senhor e fez com eles um tratado; juramentando-os na casa do Senhor, mostrou-lhes o filho do rei
+
+[[v12-11-5]]
+
+^<<v12-11-5,5>>^ e deu-lhes esta ordem: Eis o que haveis de fazer:
+
+[[v12-11-6]]
+
+^<<v12-11-6,6>>^ Uma terça parte de vós entrará no sábado, e fará guarda à casa do rei; a outra terça parte ficará à porta do Sur; a restante terça parte esteja à porta que está por detrás da habitação dos escudeiros; e fareis a guarda à casa de Messa.
+
+[[v12-11-7]]
+
+^<<v12-11-7,7>>^ Duas (terças) partes de vós, todos os que saírem de semana, estarão de sentinela na casa do Senhor, junto do rei.
+
+[[v12-11-8]]
+
+^<<v12-11-8,8>>^ Rodeá-lo-eis, de armas nas mãos; se alguém entrar no recinto do templo, seja morto; estareis com o rei quando entrar e quando sair.
+
+[[v12-11-9]]
+
+^<<v12-11-9,9>>^ Os centuriões executaram tudo o que o pontífice Jojada lhes tinha ordenado; tomando cada um os seus homens, tanto os que começavam, ao sábado, o seu serviço como os que o terminavam, e foram ter com o pontífice Jojada,
+
+[[v12-11-10]]
+
+^<<v12-11-10,10>>^ o qual lhes deu as lanças e as armas do rei Davide, que estavam na casa do Senhor.
+
+[[v12-11-11]]
+
+^<<v12-11-11,11>>^ Puseram-se, pois, cada um com as armas na mão em volta do rei, desde o lado direito do templo até ao lado esquerdo do altar e do templo.
+
+[[v12-11-12]]
+
+^<<v12-11-12,12>>^ Jojada apresentou-Ihes o filho do rei, pôs-lhe sobre a cabeça o diadema, entregou-lhe o livro da lei, e eles o proclamaram rei e o ungiram e, dando palmas, disseram: Viva o rei.
+
+[[v12-11-13]]
+
+^<<v12-11-13,13>>^ Atalia ouviu o clamor do povo que concorria e, entrando por entre a multidão no templo do Senhor,
+
+[[v12-11-14]]
+
+^<<v12-11-14,14>>^ viu o rei sentado no trono, segundo o costume, e junto dele os cantores e trombetas, e todo o povo do país muito alegre, ao som das trombetas. Então ela rasgou os seus vestidos e gritou: Traição, traição!
+
+[[v12-11-15]]
+
+^<<v12-11-15,15>>^ Mas Jojada ordenou aos centuriões, que comandavam as tropas: Levai-a para fora do recinto do templo; qualquer que a seguir, morra à espada. Com efeito, o pontífice tinha dito: Não seja morta dentro do templo do Senhor.
+
+[[v12-11-16]]
+
+^<<v12-11-16,16>>^ Lançaram-lhe as mãos, levaram-na aos empurrões pelo caminho da entrada dos cavalos, junto ao palácio, e ali foi morta.
+
+[[v12-11-17]]
+
+^<<v12-11-17,17>>^ Jojada fez entre o Senhor, o rei e o povo, a aliança pela qual o povo devia ser o povo do Senhor; (fez também aliança) entre o rei e o povo.
+
+[[v12-11-18]]
+
+^<<v12-11-18,18>>^ Todo o povo do país entrou no templo de Baal, derrubou os seus altares, fez as suas imagens em pedaços e matou Matan, sacerdote de Baal, diante do altar. Jojada pôs guardas na casa do Senhor.
+
+[[v12-11-19]]
+
+^<<v12-11-19,19>>^ Tomou consigo os centuriões, as legiões de Cerete e de Felet, e todo o povo do pais. Conduziram o rei fora da casa do Senhor e entraram no palácio pelo caminho da porta dos escudeiros. O rei sentou-se no trono dos reis.
+
+[[v12-11-20]]
+
+^<<v12-11-20,20>>^ Todo o povo da terra se alegrou, e a cidade ficou em paz. Atalia havia sido passada à espada na casa do rei.
+
+[[v12-11-21]]
+
+^<<v12-11-21,21>>^ Joás tinha sete anos quando começou a reinar.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-010.adoc#v12-10-0[&#60; Capítulo Anterior] | <<v12-11-0,Topo>> | xref:012-ii-reis/012-ii-reis-012.adoc#v12-12-0[Próximo Capítulo &#62;]

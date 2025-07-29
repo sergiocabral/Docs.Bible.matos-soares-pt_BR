@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v12-23-0]]
+=== II Reis, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 23 de 2 Reis relata as ações do rei Josias para purificar Judá do culto aos ídolos e restaurar a adoração ao Deus de Israel. Para encontrar cinco versículos relacionados com os temas abordados nesse capítulo, vasculhei toda a Bíblia e selecionei:
+* Deuteronômio 6:5: "Amarás, pois, o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de toda a tua força." Esse versículo enfatiza o mandamento mais importante da lei de Moisés, que é amar a Deus com todo o coração, alma e força. Josias demonstrou esse amor ao buscar agradar a Deus e restaurar a adoração correta em Judá.
+* 2 Crônicas 34:33: "Então, Josias afastou todos os abomináveis dos filhos de Israel e os fez servir ao Senhor, seu Deus; durante todos os dias de sua vida, não se desviaram de seguir o Senhor, Deus de seus pais." Esse versículo destaca a fidelidade de Josias em seguir o Senhor e o sucesso de suas reformas religiosas em levar o povo de Judá de volta à adoração verdadeira.
+* Jeremias 3:10: "Contudo, Judá, sua irmã traidora, não temeu; foi e se prostituiu também." Esse versículo é uma repreensão de Deus a Judá por sua infidelidade e idolatria, o que indica o quão profunda era a corrupção espiritual do povo de Judá antes das reformas de Josias.
+* Oséias 10:2: "Agora, continuarão a pecar e farão para si um objeto de metal fundido, ídolos segundo a sua própria inteligência, todos eles obra de artífices. Dizem eles: 'Sacrifiquemos a estes', e beijam os bezerros." Esse versículo descreve a tendência humana de adorar ídolos e a necessidade de serem constantemente lembrados do mandamento de Deus de adorá-Lo somente.
+* Neemias 8:1: "Então, todo o povo se ajuntou como um só homem na praça, diante da Porta das Águas, e pediram a Esdras, o escriba, que trouxesse o Livro da Lei de Moisés, que o Senhor tinha ordenado a Israel." Esse versículo ilustra a importância da Palavra de Deus na vida do povo de Israel e a necessidade de ouvi-la e obedecê-la. Josias fez o mesmo ao ler a Lei para o povo de Judá e renovar sua aliança com Deus.
+****
+
+[[v12-23-1]]
+
+^<<v12-23-1,1>>^ Eles referiram ao rei o que a profetiza tinha dito. O rei mandou juntar em sua presença todos a anciães de Judá e de Jerusalém
+
+[[v12-23-2]]
+
+^<<v12-23-2,2>>^ e foi a o templo do Senhor, com todos os homens de Judá e todos os que habitavam em Jerusalém, os sacerdotes e os profetas, e todo o povo, desde o mais pequeno ao maior, e leu, ouvindo todos eles, todas as palavras do livro da aliança, que tinha sido achado na casa do Senhor.
+
+[[v12-23-3]]
+
+^<<v12-23-3,3>>^ O rei pôs-se em pé sobre a tribuna e fez a aliança, diante do Senhor, de que (todos) andariam pelo caminho do Senhor e observariam os seus preceitos, ordenações e cerimônias, de todo o seu coração e com toda a sua alma, cumprindo as palavras desta aliança, que estavam escritas naquele livro. O povo concordou com este pacto.
+
+[[v12-23-4]]
+
+^<<v12-23-4,4>>^ A seguir, o rei mandou ao pontífice Helcias, aos sacerdotes da segunda ordem e aos porteiros, que lançassem fora do templo do Senhor todos os vasos que tinham sido feitos para Baal, para Astarte e para toda a milícia do céu; queimou-os fora de Jerusalém, no vale do Cedron, e fez levar as suas cinzas para Betel.
+
+[[v12-23-5]]
+
+^<<v12-23-5,5>>^ Exterminou os agoureiros, que tinham sido constituídos pelos reis de Judá para sacrificarem nos lugares altos nas cidades de Judá e nos arredores de Jerusalém, assim como os que queimavam incenso a Baal, ao sol, à lua, aos doze signos e a toda a milícia do céu.
+
+[[v12-23-6]]
+
+^<<v12-23-6,6>>^ Mandou que se levasse o ídolo de Astarte da casa do Senhor para fora de Jerusalém, para o vale do Cedron; queimou-o aí, reduziu-o a cinzas, e mandou-as lançar sobre os sepulcros do povo.
+
+[[v12-23-7]]
+
+^<<v12-23-7,7>>^ Derrubou os lugares de prostituição idolátrica, que havia na casa do Senhor, e nos quais as mulheres teciam uns como pavilhões para Astarte.
+
+[[v12-23-8]]
+
+^<<v12-23-8,8>>^ Juntou todos os sacerdotes das cidades de Judá e profanou os altos, onde os sacerdotes sacrificavam, desde Gabaa até Bersabé, e destruiu os altares das portas à entrada da casa de Josué, governador da cidade, que ficava à esquerda da porta da cidade.
+
+[[v12-23-9]]
+
+^<<v12-23-9,9>>^ Nem os sacerdotes dos altos (dali em diante) subiam ao altar do Senhor em Jerusalém, mas comiam semente do pão ázimo o no meio de seus irmãos.
+
+[[v12-23-10]]
+
+^<<v12-23-10,10>>^ Profanou também o lugar de Tofet, que está no vale do filho de Enom, para que ninguém sacrificasse seu filho ou filha pelo fogo a Moloc.
+
+[[v12-23-11]]
+
+^<<v12-23-11,11>>^ Tirou também os cavalos que os reis de Judá tinham consagrado ao sol, à entrada do templo do Senhor, perto da pousada do eunuco Natanmelec, que estava em Farurim, e queimou os carros do sol.
+
+[[v12-23-12]]
+
+^<<v12-23-12,12>>^ O rei destruiu também os altares que estavam sobre o terraço da câmara de Acaz, os quais os reis de Judá tinham feito, e os altares que Manassés tinha construído nos dois átrios do templo do Senhor; e correu daí, e lançou as cinzas deles na torrente do Cedron.
+
+[[v12-23-13]]
+
+^<<v12-23-13,13>>^ Profanou também o rei os lugares altos que havia em Jerusalém, na parte direita do monte (Olivete chamado) da Perdição, os quais Salomão, rei de Israel tinha edificado a Astarte, ídolo dos Sidónios, e a Camos, abominação de Moab, e a Melcom, abominação dos filhos de Amon.
+
+[[v12-23-14]]
+
+^<<v12-23-14,14>>^ Fez em pedaços as estátuas, cortou os ascheras e encheu estes lugares de ossadas de mortos.
+
+[[v12-23-15]]
+
+^<<v12-23-15,15>>^ Também o altar que havia em Betel, e o lugar alto que tinha edificado Jeroboão, filho de Nabat, o qual tinha feito pecar a Israel, ele os destruiu, queimou e reduziu a cinzas, incendiando igualmente o aschera.
+
+[[v12-23-16]]
+
+^<<v12-23-16,16>>^ Josias, voltando, viu neste lugar os sepulcros, que havia pelo monte; mandou tirar os ossos dos sepulcros, queimou-os sobre o altar, e profanou-o segundo a palavra do Senhor, que tinha pronunciado o homem de Deus que tinha predito estas coisas.
+
+[[v12-23-17]]
+
+^<<v12-23-17,17>>^ E disse; De quem é aquele monumento que eu vejo? Os cidadãos daquela cidade responderam-lhe; É o sepulcro do homem de Deus, que veio de Judá e que predisse estas coisas que tu fizeste sobre o altar de Betel.
+
+[[v12-23-18]]
+
+^<<v12-23-18,18>>^ Ele disse; Deixai-o, ninguém toque nos seus ossos. E os seus ossos ficaram intactos, com os ossos do profeta que tinha vindo da Samaria.
+
+[[v12-23-19]]
+
+^<<v12-23-19,19>>^ Destruiu também Josias todos os santuários dos lugares altos, que havia nas cidade da Samaria, os quais os reis de Israel tinham edificado, com irritação do Senhor, e fez-lhes tudo o que tinha feito em Betel.
+
+[[v12-23-20]]
+
+^<<v12-23-20,20>>^ Matou todos os sacerdotes dos lugares altos, que neles estavam encarregados dos altares, e queimou sobre estes altares ossos humanos. Depois voltou a Jerusalém.
+
+[[v12-23-21]]
+
+^<<v12-23-21,21>>^ O rei deu esta ordem a todo o povo; Celebrai a Páscoa em honra do Senhor vosso Deus, do modo que está escrito no livro desta aliança.
+
+[[v12-23-22]]
+
+^<<v12-23-22,22>>^ Jamais se celebrou Páscoa igual, desde o tempo dos juízes que julgaram Israel, e durante todo o tempo dos reis de Israel e dos reis de Judá,
+
+[[v12-23-23]]
+
+^<<v12-23-23,23>>^ Páscoa igual a esta, que se celebrou em honra do Senhor, em Jerusalém no ano décimo oitavo do rei Josias.
+
+[[v12-23-24]]
+
+^<<v12-23-24,24>>^ Josias aboliu também os necromantes e os adivinhos, os ídolos, as imundícies e as abominações que tinha havido no país de Judá e em Jerusalém, para cumprir as palavras da lei, que estavam escritas no livro que o pontífice Helcias achou no templo do Senhor.
+
+[[v12-23-25]]
+
+^<<v12-23-25,25>>^ Não houve rei antes de Josias que lhe fosse semelhante, que se convertesse ao Senhor de todo o coração, de toda a sua alma e com toda a sua força, seguindo em tudo a lei de Moisés; nem depois dele houve outro semelhante.
+
+[[v12-23-26]]
+
+^<<v12-23-26,26>>^ Contudo o Senhor não desistiu do seu extremo furor, com que se tinha acendido a sua indignação contra Judá, por causa dos crimes com que Manassés o tinha irritado (e porque o povo, apesar do zelo de Josias, continuava a ser presa da idolatria e da imoralidade).
+
+[[v12-23-27]]
+
+^<<v12-23-27,27>>^ Por isso o Senhor disse: Eu arrojarei também Judá de diante da minha face, como arrojei Israel, e abandonarei esta cidade de Jerusalém, que escolhi, e esta casa, da qual eu disse: O meu nome estará ali.
+
+[[v12-23-28]]
+
+^<<v12-23-28,28>>^ O resto das acções de Josias, tudo o que ele fez, está escrito no livro das Crônicas dos reis de Judá.
+
+[[v12-23-29]]
+
+^<<v12-23-29,29>>^ No seu reinado, o Faraó Necao, rei do Egipto, marchou contra o rei dos Assírios, para a banda do Eufrates. O rei Josias foi-lhe ao encontro, mas foi morto em Magedo, logo que (Necao) o viu.
+
+[[v12-23-30]]
+
+^<<v12-23-30,30>>^ Seus servos levaram-no morto de Magedo e transportaram-no a Jerusalém, onde o sepultaram no seu sepulcro. O povo do país tomou Joacaz, filho de Josias, ungiu-o e constituiu-o rei, em lugar de seu pai.
+
+[[v12-23-31]]
+
+^<<v12-23-31,31>>^ Tinha Joacaz vinte e três anos, quando começou reinar, e reinou três meses em Jerusalém. Sua mãe chamava-se Amital, filha de Jeremias, de Lobna.
+
+[[v12-23-32]]
+
+^<<v12-23-32,32>>^ Ele fez o mal diante do Senhor, segundo tudo o que tinham feito seus pais.
+
+[[v12-23-33]]
+
+^<<v12-23-33,33>>^ O Faraó Necao prendeu-o em Rebla, que está no país de Emat, para que ele não reinasse em Jerusalém, e impôs ao país a contribuição de cem talentos de prata e dum talento de ouro.
+
+[[v12-23-34]]
+
+^<<v12-23-34,34>>^ O Faraó Necao constituiu rei a Eliacim, filho de Josias, para reinar em lugar de Josias, seu pai, e mudou-lhe o nome em Joaquim. Quanto a Joacaz, conduziu-o ao Egipto onde morreu.
+
+[[v12-23-35]]
+
+^<<v12-23-35,35>>^ Joaquim deu a Faraó a prata e o ouro do imposto que tinha estabelecido por cabeça sobre o país, para se pagar o tributo conforme a ordem de Faraó; exigiu de cada um do povo do país, na proporção dos seus teres, tanto prata como ouro, para dar ao Faraó Necao.
+
+[[v12-23-36]]
+
+^<<v12-23-36,36>>^ Tinha Joaquim vinte e cinco anos, quando começou a reinar, e reinou onze anos em Jerusalém. Sua mãe chamava-se Zébida, filha de Fadaia de Buma.
+
+[[v12-23-37]]
+
+^<<v12-23-37,37>>^ Ele fez o mal diante do Senhor, segundo tudo o que tinham feito seus pais.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-022.adoc#v12-22-0[&#60; Capítulo Anterior] | <<v12-23-0,Topo>> | xref:012-ii-reis/012-ii-reis-024.adoc#v12-24-0[Próximo Capítulo &#62;]

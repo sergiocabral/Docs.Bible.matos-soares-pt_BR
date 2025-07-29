@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v51-11-0]]
+=== Atos dos Apóstolos, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Atos dos Apóstolos 11 relata a resposta dos apóstolos e irmãos em Jerusalém após terem ouvido a notícia de que Pedro tinha pregado aos gentios e que estes tinham recebido o Espírito Santo. Pedro então explica como recebeu a visão de Deus e foi orientado a não chamar impuro o que Deus tinha purificado. A partir disso, ele e os outros apóstolos passaram a pregar também aos gentios. Abaixo estão cinco versículos relacionados com os temas abordados em Atos dos Apóstolos 11:
+* Romanos 2:28-29: "Pois não é judeu quem o é apenas exteriormente, nem é circuncisão a que é somente na carne. Ao contrário, judeu é aquele que o é interiormente, e circuncisão é a do coração, realizada pelo Espírito, e não pela letra da lei. Essa pessoa recebe o louvor não dos homens, mas de Deus." O tema da circuncisão é discutido em Atos dos Apóstolos 11 quando Pedro é criticado por ter entrado na casa de um gentio incircunciso. Esse versículo mostra que a circuncisão verdadeira é a do coração, realizada pelo Espírito.
+* Efésios 2:14-15: "Pois ele é a nossa paz, o qual de ambos fez um e destruiu a barreira, o muro de inimizade, anulando em seu corpo a Lei dos mandamentos expressos em ordenanças. O objetivo dele era criar em si mesmo, dos dois, um novo homem, fazendo a paz." Esse versículo fala sobre a destruição da barreira que existia entre judeus e gentios, algo que é discutido em Atos dos Apóstolos 11, quando Pedro prega aos gentios e é criticado pelos judeus.
+* Gálatas 3:28: "Não há judeu nem grego, escravo nem livre, homem nem mulher, pois todos vocês são um em Cristo Jesus." Esse versículo também fala sobre a unidade entre judeus e gentios, tema que é discutido em Atos dos Apóstolos 11.
+* Colossenses 3:11: "Não há grego nem judeu, circuncisão nem incircuncisão, bárbaro nem cita, escravo nem livre, mas Cristo é tudo e está em todos." Assim como os versículos anteriores, esse fala sobre a unidade entre judeus e gentios, algo que é discutido em Atos dos Apóstolos 11.
+* 1 Pedro 4:3: "Porque vocês já gastaram tempo suficiente fazendo o que agrada aos pagãos, vivendo em libertinagem, luxúria, bebedeira e orgias detestáveis." Esse versículo aborda a ideia de que os gentios viviam em pecado antes de conhecerem a verdade de Cristo, algo que é relevante para o contexto de Atos dos Apóstolos 11, onde Pedro prega aos gentios e estes são transformados pelo Espírito Santo.
+****
+
+[[v51-11-1]]
+
+^<<v51-11-1,1>>^ Os Apóstolos e os irmãos, que estavam na Judeia, ouviram que também os gentios tinham recebido a palavra de Deus.
+
+[[v51-11-2]]
+
+^<<v51-11-2,2>>^ Quando Pedro voltou a Jerusalém, os que eram da circuncisão disputavam com ele,
+
+[[v51-11-3]]
+
+^<<v51-11-3,3>>^ dizendo: "Tu entraste em casa de homens não circuncidados e comeste com eles."
+
+[[v51-11-4]]
+
+^<<v51-11-4,4>>^ Mas Pedro começou a expor-lhes as coisas por ordem, dizendo:
+
+[[v51-11-5]]
+
+^<<v51-11-5,5>>^ "Eu estava orando na cidade de Jope, quando tive, em êxtase, esta visão: Descia uma espécie de objecto, como um grande lençol, o qual, suspenso pelas quatro pontas, baixava do céu, e veio até mim.
+
+[[v51-11-6]]
+
+^<<v51-11-6,6>>^ Fixando eu os olhos nele, estava-o contemplando e vi (dentro) animais terrestres quadrúpedes, eras, répteis e aves do céu.
+
+[[v51-11-7]]
+
+^<<v51-11-7,7>>^ Ouvi também uma voz que me dizia: Levanta-te, Pedro, mata e come.
+
+[[v51-11-8]]
+
+^<<v51-11-8,8>>^ Eu disse: De nenhum modo, Senhor, porque nunca entrou na minha boca coisa manchada ou impura.
+
+[[v51-11-9]]
+
+^<<v51-11-9,9>>^ Respondeu-me outra vez a voz do céu: O que Deus declarou puro, não lhe chames tu impuro.
+
+[[v51-11-10]]
+
+^<<v51-11-10,10>>^ Isto sucedeu por três vezes; depois tudo foi retirado para o céu.
+
+[[v51-11-11]]
+
+^<<v51-11-11,11>>^ Eis que chegaram logo três homens à casa, onde eu estava, enviados a mim de Cesareia.
+
+[[v51-11-12]]
+
+^<<v51-11-12,12>>^ O Espírito disse-me que fosse com eles, sem hesitação alguma. Estes seis irmãos foram também comigo e entramos na casa daquele homem (que me mandou buscar).
+
+[[v51-11-13]]
+
+^<<v51-11-13,13>>^ Ele contou-nos como tinha visto na sua casa um anjo apresentar-se diante dele, dizendo: Manda a Jope chamar Simão, que tem por sobrenome Pedro,
+
+[[v51-11-14]]
+
+^<<v51-11-14,14>>^ o qual te anunciará palavras, pelas quais serás salvo, tu e toda a tua casa.
+
+[[v51-11-15]]
+
+^<<v51-11-15,15>>^ Tendo eu começado a falar, desceu o Espírito sobre eles, como (tinha descido) sobre nós no princípio.
+
+[[v51-11-16]]
+
+^<<v51-11-16,16>>^ Lembrei-me então da palavra do Senhor, que ele havia proferido: João baptizou em água, mas vós sereis baptizados no Espírito Santo.
+
+[[v51-11-17]]
+
+^<<v51-11-17,17>>^ Se Deus, pois, lhes deu a mesma graça que a nós, por terem crido no Senhor Jesus Cristo, quem era eu, para que me pudesse opor a Deus?"
+
+[[v51-11-18]]
+
+^<<v51-11-18,18>>^ Eles, tendo ouvido estas coisas, aquietaram-se e glorificaram a Deus, dizendo: "Logo Deus concedeu também aos gentios a penitência, a fim de que tenham a vida."
+
+[[v51-11-19]]
+
+^<<v51-11-19,19>>^ Entretanto aqueles que tinham sido dispersos pela perseguição suscitada por causa de Estêvão, chegaram até à Fenicia, Chipre e Antioquia, não pregando a ninguém a palavra, senão só os Judeus.
+
+[[v51-11-20]]
+
+^<<v51-11-20,20>>^ Entre eles havia alguns homens de Chipre e de Cirene, os quais, tendo entrado em Antioquia, falavam também aos Gregos, anunciando-lhes o Senhor Jesus.
+
+[[v51-11-21]]
+
+^<<v51-11-21,21>>^ A mão do Senhor era com eles, e muita gente, tendo crido, converteu-se ao Senhor.
+
+[[v51-11-22]]
+
+^<<v51-11-22,22>>^ Chegou a notícia destas coisas aos ouvidos da Igreja de Jerusalém, que enviou Barnabé a Antioquia.
+
+[[v51-11-23]]
+
+^<<v51-11-23,23>>^ Quando ele lá chegou e viu a graça de Deus, alegrou-se e exortava todos a perseverar fiéis ao Senhor, com coração firme.
+
+[[v51-11-24]]
+
+^<<v51-11-24,24>>^ De facto, (Barnabé) era um homem de bem e cheio do Espírito Santo e de fé. E uniu-se ao Senhor grande multidão de gente.
+
+[[v51-11-25]]
+
+^<<v51-11-25,25>>^ (Dali) Barnabé partiu para Tarso, em busca de Saulo; tendo-o encontrado, levou-o a Antioquia.
+
+[[v51-11-26]]
+
+^<<v51-11-26,26>>^ Nesta Igreja passaram eles um ano inteiro e instruíram uma grande multidão. Em Antioquia foi dada pela primeira vez aos discípulos o nome de cristãos.
+
+[[v51-11-27]]
+
+^<<v51-11-27,27>>^ Naqueles dias, foram de Jerusalém a Antioquia uns profetas. (ver nota)
+
+[[v51-11-28]]
+
+^<<v51-11-28,28>>^ Levantando-se um deles, chamado Agabo, fazia saber, por virtude do Espirito, que haveria uma grande fome por todo o mundo, a qual veio no tempo de Cláudio.
+
+[[v51-11-29]]
+
+^<<v51-11-29,29>>^ Os discípulos, cada um segundo os seus meios, resolveram enviar algum socorro aos irmãos que habitavam na Judeia;
+
+[[v51-11-30]]
+
+^<<v51-11-30,30>>^ o que eles efectivamente fizeram, enviando-o aos anciães, por mãos de Barnabé e de Saulo. (ver nota)
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-010.adoc#v51-10-0[&#60; Capítulo Anterior] | <<v51-11-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-012.adoc#v51-12-0[Próximo Capítulo &#62;]

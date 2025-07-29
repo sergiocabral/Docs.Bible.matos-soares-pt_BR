@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v21-92-0]]
+=== Salmos, 92
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 92 é um salmo de ação de graças que exalta a grandeza de Deus e a fidelidade com que Ele recompensa os justos. O salmista louva a Deus por sua obra e por sua sabedoria, reconhecendo que somente os ímpios são destruídos. Os versículos selecionados abaixo destacam a fidelidade de Deus para com os justos e a punição que aguarda os ímpios.
+* Salmos 1:6 - "Porque o SENHOR conhece o caminho dos justos; porém, o caminho dos ímpios perecerá." Este versículo destaca a diferença entre o destino dos justos e o dos ímpios, algo que o Salmo 92 também enfatiza.
+* Salmos 37:25 - "Fui moço, e agora sou velho; mas nunca vi desamparado o justo, nem a sua semente a mendigar o pão." Este versículo ressalta a fidelidade de Deus para com os justos, algo que é destacado no Salmo 92.
+* Salmos 125:1 - "Os que confiam no SENHOR serão como o monte de Sião, que não se abala, mas permanece para sempre." Este versículo destaca a segurança e a estabilidade daqueles que confiam em Deus, um tema que é abordado no Salmo 92.
+* Salmos 145:9 - "O SENHOR é bom para todos, e as suas misericórdias são sobre todas as suas obras." Este versículo destaca a bondade de Deus e sua fidelidade para com todas as suas obras, algo que é exaltado no Salmo 92.
+* Isaías 57:1 - "Perece o justo, e não há quem considere isso em seu coração, e os homens compassivos são recolhidos, sem que alguém considere que o justo é levado antes do mal." Este versículo destaca a morte dos justos, algo que é mencionado no Salmo 92, mas também enfatiza que Deus os leva antes do mal.
+****
+
+[[v21-92-1]]
+
+^<<v21-92-1,1>>^ O Senhor reina, vestiu-se de majestade, vestiu-se o Senhor de poder, cingiu-se, e firmou o universo, que não será abalado.
+
+[[v21-92-2]]
+
+^<<v21-92-2,2>>^ O teu trono é firme desde sempre, tu és desde a eternidade.
+
+[[v21-92-3]]
+
+^<<v21-92-3,3>>^ Os rios, Senhor, levantam, os rios levantam a sua voz, os rios levantam o seu fragor. (ver nota)
+
+[[v21-92-4]]
+
+^<<v21-92-4,4>>^ Mais poderoso que o estrondo de muitas águas, mais poderoso que as vagas do mar, é poderoso o Senhor nas alturas.
+
+[[v21-92-5]]
+
+^<<v21-92-5,5>>^ Os teus testemunhos são muito dignos de fé; a santidade convém à tua casa, Senhor, em toda a duração dos dias.
+
+'''
+
+xref:021-salmos/021-salmos-091.adoc#v21-91-0[&#60; Capítulo Anterior] | <<v21-92-0,Topo>> | xref:021-salmos/021-salmos-093.adoc#v21-93-0[Próximo Capítulo &#62;]

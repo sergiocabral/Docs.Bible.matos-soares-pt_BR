@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v3-12-0]]
+=== Levítico, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 12 trata da purificação de mulheres após o parto. Deus dá instruções a Moisés sobre o que as mulheres devem fazer após dar à luz um menino ou uma menina, incluindo o período de purificação e os sacrifícios que devem ser oferecidos. Abaixo estão cinco versículos relacionados aos temas abordados em Levítico 12.
+* Lucas 2:22: "E, quando os dias da purificação deles se cumpriam, conforme a lei de Moisés, o levaram a Jerusalém, para o apresentarem ao Senhor." Este versículo fala sobre o cumprimento das leis de purificação de acordo com a lei de Moisés, algo que é abordado em Levítico 12.
+* Lucas 2:23-24: "Conforme o que está escrito na lei do Senhor: Todo o macho que abrir a madre será chamado santo ao Senhor; E para oferecerem um sacrifício segundo o que está dito na lei do Senhor, um par de rolas, ou dois pombinhos." Esses versículos se referem aos sacrifícios que devem ser oferecidos após o nascimento de um menino, como é descrito em Levítico 12.
+* Lucas 2:27: "E veio pelo Espírito ao templo, e, quando os pais trouxeram o menino Jesus, para com ele fazerem conforme o costume da lei," Esse versículo se refere ao cumprimento da lei de purificação por Maria e José após o nascimento de Jesus.
+* Gálatas 4:4: "Mas, vindo a plenitude dos tempos, Deus enviou seu Filho, nascido de mulher, nascido sob a lei," Esse versículo fala sobre o nascimento de Jesus e seu nascimento como um ser humano sob a lei, incluindo a lei de purificação descrita em Levítico 12.
+* Hebreus 10:1: "Porque a lei, tendo a sombra dos bens futuros, e não a imagem exata das coisas, nunca, pelos mesmos sacrifícios que continuamente se oferecem cada ano, pode aperfeiçoar os que a eles se chegam." Este versículo se refere aos sacrifícios oferecidos de acordo com a lei de Moisés, incluindo os sacrifícios de purificação descritos em Levítico 12, e como eles não podem trazer perfeição àqueles que os oferecem.
+****
+
+[[v3-12-1]]
+
+^<<v3-12-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-12-2]]
+
+^<<v3-12-2,2>>^ Fala aos filhos de Israel, e dize-lhes: Se uma mulher tendo concebido, der á luz um menino, será impura sete dias, como nos dias da menstruação.
+
+[[v3-12-3]]
+
+^<<v3-12-3,3>>^ E, no oitavo dia será o menino circuncidado;
+
+[[v3-12-4]]
+
+^<<v3-12-4,4>>^ ela, porém, permanecerá trinta e três dias a purificar-se do seu sangue. Não tocará coisa alguma santa, nem entrará no santuário, até se completarem os dias da sua purificação.
+
+[[v3-12-5]]
+
+^<<v3-12-5,5>>^ Se, porém, der à luz uma menina, será impura durante duas semanas, como no seu fluxo mênstruo, e permanecerá sessenta e seis dias a purificar-se do seu sangue.
+
+[[v3-12-6]]
+
+^<<v3-12-6,6>>^ E, completos que forem os dias da sua purificação por um filho ou por uma filha, levará à porta do tabernáculo da reunião um cordeiro de um ano para holocausto, e um pombinho ou uma rola pelo pecado, e os entregará ao sacerdote. (ver nota)
+
+[[v3-12-7]]
+
+^<<v3-12-7,7>>^ Ele os oferecerá diante do Senhor, e orará por ela e assim será purificado do fluxo do seu sangue; esta é a lei daquela que dá à luz um menino ou uma menina.
+
+[[v3-12-8]]
+
+^<<v3-12-8,8>>^ Se ela, porém, não tiver com que possa oferecer um cordeiro, tomará duas rolas ou dois pombinhos, um para (ser oferecido em) holocausto, outro pelo pecado; o sacerdote orará por ela, e assim será purificada.
+
+'''
+
+xref:003-levitico/003-levitico-011.adoc#v3-11-0[&#60; Capítulo Anterior] | <<v3-12-0,Topo>> | xref:003-levitico/003-levitico-013.adoc#v3-13-0[Próximo Capítulo &#62;]

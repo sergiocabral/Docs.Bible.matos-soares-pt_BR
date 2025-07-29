@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v39-1-0]]
+=== Jonas, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jonas 1 relata a história do chamado de Deus a Jonas para pregar em Nínive, mas em vez de obedecer, Jonas tenta fugir e acaba sendo lançado ao mar durante uma tempestade. Aqui estão cinco versículos relacionados com os temas abordados em Jonas 1:
+* Provérbios 21:30: "Não há sabedoria, nem inteligência, nem conselho contra o Senhor." O capítulo de Jonas 1 ilustra claramente a inutilidade de tentar fugir do chamado de Deus. Jonas achou que poderia escapar da vontade de Deus, mas acabou encontrando-se em apuros. Este versículo de Provérbios reforça que nada pode resistir à vontade de Deus.
+* Salmos 139:7-8: "Para onde me ausentarei do teu Espírito? Para onde fugirei da tua face? Se subir ao céu, lá estás; se fizer no Seol a minha cama, eis que tu ali estás também." Este salmo destaca a onipresença de Deus e a impossibilidade de fugir de sua presença. Isso é exatamente o que Jonas tentou fazer, mas descobriu que não era possível.
+* Mateus 8:27: "E os homens se maravilharam, dizendo: Que homem é este, que até os ventos e o mar lhe obedecem?" Como Jonas 1 mostra, Deus tem poder sobre as tempestades e os mares. Neste versículo de Mateus, Jesus demonstra o mesmo poder ao acalmar uma tempestade.
+* Isaías 45:22: "Olhai para mim, e sereis salvos, vós, todos os termos da terra; porque eu sou Deus, e não há outro." Quando Jonas pediu para ser lançado ao mar para acalmar a tempestade, os marinheiros temeram a Deus e se voltaram para ele em oração. Este versículo de Isaías enfatiza a importância de buscar a salvação em Deus.
+* Atos 27:25: "Portanto, ó homens, tende bom ânimo; porque creio em Deus, que há de acontecer assim como me foi dito." Neste capítulo de Atos, Paulo está enfrentando uma tempestade em alto mar e encoraja os outros a confiar em Deus. Assim como Jonas, os marinheiros em Atos aprendem a confiar em Deus durante uma tempestade no mar.
+****
+
+[[v39-1-1]]
+
+^<<v39-1-1,1>>^ Foi dirigida a palavra do Senhor a Jonas, filho de Amati, a qual dizia:
+
+[[v39-1-2]]
+
+^<<v39-1-2,2>>^ Levanta-te, vai a Nínive, a grande cidade, e prega nela, porque a sua malícia subiu até à minha presença.
+
+[[v39-1-3]]
+
+^<<v39-1-3,3>>^ Jonas, porém, pôs-se a caminho, resolvido a ir para Tarsis, para fugir da face do Senhor. Chegou a Jope, onde encontrou um navio que ia para Tarsis; pagou a sua passagem e entrou nele para ir com os outros passageiros a Tarsis, fugindo da face do Senhor.
+
+[[v39-1-4]]
+
+^<<v39-1-4,4>>^ Porém o Senhor enviou sobre o mar nm vento furioso, levantou no mar uma tão grande tempestade, que estava o navio em perigo de se fazer era pedaços,
+
+[[v39-1-5]]
+
+^<<v39-1-5,5>>^ Então os marinheiros temeram, clamando cada um ao seu deus, e alijaram ao mar toda a carga que traziam no navio para o aliviarem. Entretanto Jonas tinha descido ao porão do navio e lá dormia um profundo sono.
+
+[[v39-1-6]]
+
+^<<v39-1-6,6>>^ Foi ter com ele o capitão e disse-lhe: Como é que estás aqui a dormir? Levanta-te, invoca o teu Deus, a ver se porventura se lembra de nós e nos livra da morte.
+
+[[v39-1-7]]
+
+^<<v39-1-7,7>>^ Em seguida disseram uns para os outros: Vinde e deitemos sortes, para sabermos por que nos acontece este mal. Lançaram sortes, e caiu a sorte sobre Jonas.
+
+[[v39-1-8]]
+
+^<<v39-1-8,8>>^ Então disseram-lhe: Declara-nos qual é a causa deste perigo em que estamos. Qual a tua ocupação? Donde vens? Qual a tua terra? A que povo pertences?
+
+[[v39-1-9]]
+
+^<<v39-1-9,9>>^ Jonas respondeu-lhes: Sou Hebreu e adoro o Senhor, Deus do céu, que fez o mar e a terra.
+
+[[v39-1-10]]
+
+^<<v39-1-10,10>>^ Então os homens ficaram possuídos de grande medo e disseram-lhe: Por que fizeste isto? Com efeito compreenderam que ele ia fugindo da face do Senhor, pois, lho havia declarado.
+
+[[v39-1-11]]
+
+^<<v39-1-11,11>>^ Disseram-lhe: Que te havemos de fazer, para que consigamos calar o mar? Porque o mar se elevava e embravecia cada vez mais.
+
+[[v39-1-12]]
+
+^<<v39-1-12,12>>^ (Jonas) respondeu-lhes: Pegai em mim e lançai-me ao mar, e o mar se calará, porque sei que por minha causa é que vos sobreveio esta grande tempestade.
+
+[[v39-1-13]]
+
+^<<v39-1-13,13>>^ Entretanto remavam os marinheiros para ver se conseguiam ganhar terra; mas não podiam, porque o mar cada vez mais se empolava e se embravecia contra eles.
+
+[[v39-1-14]]
+
+^<<v39-1-14,14>>^ Então clamaram ao Senhor, dizendo: Senhor, que este homem não seja causa da nossa perdição; não faças cair sobre nós um sangue inocente, porque foste tu, Senhor, que isto fizeste como te aprouve.
+
+[[v39-1-15]]
+
+^<<v39-1-15,15>>^ Depois pegaram em Jonas e lançaram-no ao mar; no mesmo ponto cessou a fúria do mar.
+
+[[v39-1-16]]
+
+^<<v39-1-16,16>>^ Então conceberam estes homens um grande temor ao Senhor, ofereceram-lhe um sacrifício e fizeram-lhe votos.
+
+'''
+
+xref:038-abdias/038-abdias-001.adoc#v38-1-0[&#60; Capítulo Anterior] | <<v39-1-0,Topo>> | xref:039-jonas/039-jonas-002.adoc#v39-2-0[Próximo Capítulo &#62;]

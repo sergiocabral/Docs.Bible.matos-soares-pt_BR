@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v14-25-0]]
+=== II Crônicas, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 25 de 2 Crônicas conta a história de Amazias, rei de Judá, e sua guerra contra Edom. Ele contratou soldados de Israel para ajudá-lo, mas um profeta o alertou que Deus não estava com eles. Mesmo assim, Amazias derrotou Edom, mas trouxe de volta seus deuses e adorou-os, desafiando a Deus. Aqui estão cinco versículos relacionados aos temas abordados em 2 Crônicas 25:
+* Deuteronômio 17:17: "Também não terá muitas mulheres, para que o seu coração não se desvie; nem prata nem ouro acumulará para si em excesso." Este verso fala sobre a necessidade de um rei não ter muitas mulheres ou acumular riquezas excessivas, para não se desviar do caminho de Deus. Amazias, no entanto, acumulou soldados e lutou por dinheiro, ignorando os avisos do profeta.
+* Êxodo 20:3: "Não terás outros deuses diante de mim." Este é um dos Dez Mandamentos, que enfatiza a exclusividade da adoração a Deus. Amazias, após a vitória sobre Edom, trouxe de volta os deuses edomitas e adorou-os, desafiando a Deus.
+* 2 Reis 14:7: "Ele matou dez mil edomitas no vale do Sal e conquistou Selá, dando-lhe o nome de Joceteel, como é conhecida até hoje." Este verso descreve uma das conquistas militares de Amazias contra Edom. Essa vitória é mencionada em 2 Crônicas 25 como a motivação de Amazias para contratar soldados de Israel.
+* Provérbios 16:18: "O orgulho precede a ruína; o espírito arrogante, a queda." Este verso adverte sobre os perigos do orgulho e da arrogância. Amazias tornou-se orgulhoso após a vitória sobre Edom e não ouviu o aviso do profeta de Deus.
+* 2 Crônicas 25:20: "Mas Amazias não quis ouvi-lo, porque isso vinha de Deus para entregá-los nas mãos dos inimigos, já que estes buscavam os deuses de Edom." Este verso mostra a teimosia de Amazias em não ouvir o aviso do profeta e como ele ignorou as consequências de sua desobediência a Deus.
+****
+
+[[v14-25-1]]
+
+^<<v14-25-1,1>>^ Amasias tinha vinte e cinco anos, quando começou a reinar, e reinou vinte e nove anos em Jerusalém. Sua mãe chamava-se Joaden, de Jerusalém.
+
+[[v14-25-2]]
+
+^<<v14-25-2,2>>^ Fez o bem na presença do Senhor, mas não com um coração perfeito.
+
+[[v14-25-3]]
+
+^<<v14-25-3,3>>^ Quando viu assegurado o seu império, mandou matar os servos que tinham assassinado o rei seu pai,
+
+[[v14-25-4]]
+
+^<<v14-25-4,4>>^ mas não mandou matar os filhos deles, conformando-se com o que está escrito no livro da lei de Moisés, onde o Senhor pôs este preceito: Não serão mortos os pais pelos filhos, nem os filhos por seus pais, mas cada qual morrerá pelo seu delito.
+
+[[v14-25-5]]
+
+^<<v14-25-5,5>>^ Amasias congregou todo o (povo de) Judá e organizou-o por famílias, com chefes de milhares e chefes de centenas, em todo o Judá e Benjamim. Fez o recenseamento desde os vinte anos para cima, e achou trezentos mil mancebos, que podiam ir à guerra e levar lança e escudo.
+
+[[v14-25-6]]
+
+^<<v14-25-6,6>>^ Tomou também a soldo cem mil homens valentes do reino de Israel, por cem talentos de prata.
+
+[[v14-25-7]]
+
+^<<v14-25-7,7>>^ Todavia um homem de Deus foi ter com ele e disse-lhe: Ó rei, não marche o exército de Israel contigo, porque o Senhor não é com Israel nem com todos os filhos de Efraim.
+
+[[v14-25-8]]
+
+^<<v14-25-8,8>>^ Se julgas que o sucesso da guerra depende da força do exército, Deus fará que sejas vencido pelos inimigos, porque só Deus pode socorrer e pôr em fuga.
+
+[[v14-25-9]]
+
+^<<v14-25-9,9>>^ Amasias disse ao homem de Deus: Que será, pois, dos cem talentos que dei aos soldados de Israel? O homem de Deus respondeu-lhe: Deus tem por onde te pode dar muito mais do que isso.
+
+[[v14-25-10]]
+
+^<<v14-25-10,10>>^ Amasias separou, pois, o exército que lhe tinha vindo de Efraim, para que voltasse para a sua terra. Eles, em extremo irritados contra Judá, voltaram para o seu país.
+
+[[v14-25-11]]
+
+^<<v14-25-11,11>>^ Amasias, cheio de confiança, mandou marchar o seu povo, que conduziu até ao vale de Salinas, onde derrotou dez mil dos filhos de Seir.
+
+[[v14-25-12]]
+
+^<<v14-25-12,12>>^ Os filhos de Judá fizeram prisioneiros outros dez mil homens; tendo-os levado ao alto dum despenhadeiro, atiraram-nos abaixo, e todos eles ficaram despedaçados.
+
+[[v14-25-13]]
+
+^<<v14-25-13,13>>^ Porém aquele exército que Amasias tinha despedido para não ir à guerra com ele, espalhou-se pelas cidades de Judá, desde Samaria até Betoron, e, depois de ter morto três mil homens, fez uma grande presa.
+
+[[v14-25-14]]
+
+^<<v14-25-14,14>>^ Amasias, depois da matança dos Idumeus, trouxe os deuses dos filhos de Seir, fez deles os seus próprios deuses: adorava-os e oferecia-lhes incenso.
+
+[[v14-25-15]]
+
+^<<v14-25-15,15>>^ Irritado o Senhor contra Amasias, enviou-lhe um profeta, que lhe disse: Por que adoraste tu deuses que não livraram o seu povo das tuas mãos?
+
+[[v14-25-16]]
+
+^<<v14-25-16,16>>^ Dizendo-lhe isto o profeta, ele respondeu: Porventura és tu o conselheiro do rei? Cala-te, se não queres que eu te mate. O profeta, ao retirar-se, disse: Eu sei que Deus decretou a tua morte, porque fizeste este mal e, além disso, não deste ouvidos ao meu conselho.
+
+[[v14-25-17]]
+
+^<<v14-25-17,17>>^ Amasias, rei de Judá, depois de ter tomado conselho, mandou dizer a Joás, filho de Joacaz, filho de Jeú, rei de Israel: Vem, vejamo-nos um ao outro.
+
+[[v14-25-18]]
+
+^<<v14-25-18,18>>^ Este, porém, reenviou-lhe os mensageiros, dizendo: O cardo que está no Líbano, mandou dizer ao cedro do Líbano: Dá a tua filha por mulher ao meu filho. Porém as feras que estavam no bosque do Líbano, passaram e pisaram o cardo.
+
+[[v14-25-19]]
+
+^<<v14-25-19,19>>^ Tu disseste; Eu derrotei Edom. Por isso o teu coração se ensoberbeceu; deixa-te estar em tua casa; por que buscas a desgraça contra ti, arriscando-te a uma empresa, que te perderá a ti e a Judá?
+
+[[v14-25-20]]
+
+^<<v14-25-20,20>>^ Amasias não o quis ouvir, porque era vontade do Senhor entregá-lo nas mãos dos inimigos, por causa dos deuses de Edom (que ele adorava).
+
+[[v14-25-21]]
+
+^<<v14-25-21,21>>^ Saiu, pois, Joás, rei de Israel, e puseram-se os exércitos à vista um do outro. Amasias, rei de Judá, estava acampado em Betsames de Judá.
+
+[[v14-25-22]]
+
+^<<v14-25-22,22>>^ Judá foi batido diante de Israel e fugiu para as suas tendas.
+
+[[v14-25-23]]
+
+^<<v14-25-23,23>>^ Joás, rei de Israel, aprisionou Amasias, rei de Judá, filho de Joás, filho de Joacaz, em Betsames, e levou-o a Jerusalém, onde derribou o muro da cidade, desde a porta de Efraim até à porta do ângulo, por espaço de quatrocentos côvados.
+
+[[v14-25-24]]
+
+^<<v14-25-24,24>>^ Levou para Samaria todo o ouro e prata e todos os vasos que encontrou na casa de Deus, na de Obededom e nos tesouros da casa real; (levou) também os filhos dos príncipes, no seu regresso a Samaria.
+
+[[v14-25-25]]
+
+^<<v14-25-25,25>>^ Amasias, filho do rei Joás, rei de Judá. viveu quinze anos, depois da morte de Joás, filho de Joacaz, rei de Israel.
+
+[[v14-25-26]]
+
+^<<v14-25-26,26>>^ O resto das ações de Amasias, tanto as primeiras como as últimas, estão escritas no livro dos reis de Judá e de Israel.
+
+[[v14-25-27]]
+
+^<<v14-25-27,27>>^ Depois que este príncipe abandonou o Senhor, armaram uma conjuração contra ele em Jerusalém. Fugiu para Laquis, mas (os conspiradores) mandaram homens, e estes o mataram lá.
+
+[[v14-25-28]]
+
+^<<v14-25-28,28>>^ Trazendo-o sobre cavalos, enterraram-no com os seus maiores na cidade de David.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-024.adoc#v14-24-0[&#60; Capítulo Anterior] | <<v14-25-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-026.adoc#v14-26-0[Próximo Capítulo &#62;]

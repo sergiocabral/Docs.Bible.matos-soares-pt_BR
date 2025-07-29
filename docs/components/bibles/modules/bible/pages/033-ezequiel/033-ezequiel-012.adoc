@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v33-12-0]]
+=== Ezequiel, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 12 descreve a visão do profeta sobre o exílio de Judá e a consequente queda de Jerusalém. Deus instrui Ezequiel a agir como um exilado, fazendo com que as pessoas percebam a inevitabilidade do exílio que se aproxima. Os versículos relacionados com os temas abordados em Ezequiel 12 são:
+* Jeremias 29:4-7: "Assim diz o Senhor dos Exércitos, Deus de Israel, a todos os exilados que eu deportei de Jerusalém para a Babilônia: Edificai casas e habitai nelas; plantai jardins e comei os seus frutos. Casai-vos e tende filhos e filhas; casai vossos filhos e filhas e dai-os em casamento; e procurai a paz da cidade para onde vos deportei e orai ao Senhor em seu favor, porque na sua paz vós tereis paz." Este versículo encoraja os exilados a construir uma nova vida para si na Babilônia e a se ajustarem à sua nova realidade.
+* Ezequiel 3:17-18: "Filho do homem, eu te dei por atalaia sobre a casa de Israel; quando ouvires uma palavra da minha boca, tu os avisarás da minha parte. Quando eu disser ao ímpio: Certamente morrerás; e tu não o avisares, nem falares para avisar o ímpio de seu caminho ímpio, para salvar a sua vida, aquele ímpio morrerá por sua iniquidade; mas o seu sangue eu o requererei da tua mão." Este versículo fala sobre a responsabilidade de Ezequiel como profeta de alertar o povo sobre o julgamento de Deus, a fim de que possam se arrepender e ser salvos.
+* Jeremias 39:1-2: "No nono ano de Zedequias, rei de Judá, no décimo mês, Nabucodonosor, rei da Babilônia, veio com todo o seu exército contra Jerusalém e a sitiou. E no décimo primeiro ano de Zedequias, no quarto mês, no nono dia do mês, a cidade foi arrombada." Este versículo descreve a queda de Jerusalém, que foi o evento que Ezequiel estava profetizando que aconteceria.
+* Ezequiel 12:21-23: "E veio a mim a palavra do Senhor, dizendo: Filho do homem, que é esse provérbio que vós tendes na terra de Israel, que diz: Os dias se prolongam, e toda a visão se desvanece? Portanto, dize-lhes: Assim diz o Senhor Deus: Farei cessar esse provérbio, e não se repetirá mais em Israel; mas dize-lhes: Os dias estão próximos, e a visão de todo o profeta se cumprirá." Este versículo mostra que Deus está ciente do pensamento das pessoas de que a profecia nunca se cumprirá e que ele está prestes a agir para provar que suas palavras são verdadeiras.
+* Salmos 52:3-4: "Amas o mal mais do que o bem, a mentira mais do que a verdade. Amas toda palavra perniciosa, ó língua enganadora!" Este versículo fala sobre a importância da verdade e da honestidade, algo que Ezequiel enfatiza ao falar das consequências dos pecados do povo.
+****
+
+[[v33-12-1]]
+
+^<<v33-12-1,1>>^ Foi-me dirigida a palavra do Senhor, nestes termos:
+
+[[v33-12-2]]
+
+^<<v33-12-2,2>>^ Filho de homem, tu moras no meio duma raça de rebeldes, que têm olhos para ver e não vêem ouvidos para ouvir e não ouvem: é uma raça de rebeldes.
+
+[[v33-12-3]]
+
+^<<v33-12-3,3>>^ Tu, filho de homem, vai preparando para ti uma bagagem de emigrante e emigra em pleno dia, diante deles; passa do lugar em que estás a outro lugar, à vista deles: talvez reconheçam que são uma raça de rebeldes.
+
+[[v33-12-4]]
+
+^<<v33-12-4,4>>^ Á vista deles tira para fora, de dia, os teus utensílios de emigrante, como bagagem de quem emigra, e sai de tarde diante deles, como faz quem vai emigrar.
+
+[[v33-12-5]]
+
+^<<v33-12-5,5>>^ Faze à vista deles uma abertura na muralha, por onde sairás.
+
+[[v33-12-6]]
+
+^<<v33-12-6,6>>^ (Em seguida) à vista deles, põe às costas a tua bagagem e leva-a quando escurecer; cobre com um véu o teu rosto, para não veres a terra, porque eu te dei como sinal à casa de Israel.
+
+[[v33-12-7]]
+
+^<<v33-12-7,7>>^ Fiz, como me tinha sido ordenado; tirei para fora a minha bagagem, em pleno dia, como bagagem de emigrante; à tarde, fiz pela minha mão uma abertura na muralha e saí na escuridão, levando às costa a minha bagagem, à vista deles.
+
+[[v33-12-8]]
+
+^<<v33-12-8,8>>^ Pela manhã foi-me dirigida a palavra do Senhor, nestes termos:
+
+[[v33-12-9]]
+
+^<<v33-12-9,9>>^ Filho de homem, porventura a casa de Israel, casa de rebeldes, não te disse: Que fazes tu?
+
+[[v33-12-10]]
+
+^<<v33-12-10,10>>^ Dize-lhes: Assim fala o Senhor Iavé: Este oráculo é sobre o príncipe que está em Jerusalém e sobre toda a casa de Israel que está nesta cidade.
+
+[[v33-12-11]]
+
+^<<v33-12-11,11>>^ Dize: Eu sou para vós um símbolo: assim como eu fiz, assim lhes sucederá a eles: serão deportados, irão para o cativeiro.
+
+[[v33-12-12]]
+
+^<<v33-12-12,12>>^ O príncipe, que está no meio deles, levará às costas a sua bagagem e sairá na escuridão; escavarão a muralha para o fazerem sair; cobrirá o seu rosto com um véu, para com os seus olhos não ver a terra.
+
+[[v33-12-13]]
+
+^<<v33-12-13,13>>^ Estenderei sobre ele a minha rede, e ele será tomado nas minhas malhas; levá-lo-ei a Babilônia, à terra dos Caldeus, mas ele não a verá, e lá morrerá,
+
+[[v33-12-14]]
+
+^<<v33-12-14,14>>^ Espalharei, a todos os ventos, todos aqueles que estão em redor dele, a sua guarda e as suas tropas, e irei com a espada desembainhada atrás deles.
+
+[[v33-12-15]]
+
+^<<v33-12-15,15>>^ E saberão que eu sou o Senhor, quando os tiver dispersado entre as nações e disseminado por países estrangeiros.
+
+[[v33-12-16]]
+
+^<<v33-12-16,16>>^ Mas reservarei dentre eles um pequeno número de homens que escaparão da espada, da fome e da peste, para que contem todas as suas maldades entre as nações para onde forem. E saberão que eu sou o Senhor.
+
+[[v33-12-17]]
+
+^<<v33-12-17,17>>^ Foi-me dirigida a palavra do Senhor nestes termos:
+
+[[v33-12-18]]
+
+^<<v33-12-18,18>>^ Filho de homem, come o teu pão com susto e bebe a tua água com inquietação e angústia,
+
+[[v33-12-19]]
+
+^<<v33-12-19,19>>^ E dirás ao povo desta terra; Assim fala o Senhor Deus aos que habitam em Jerusalém, à terra de Israel: Eles comerão o seu pão com susto, e beberão a sua água na desolação, porque esta terra será privada de tudo o que contém, será desolada por causa da iniquidade de todos os que habitam nela.
+
+[[v33-12-20]]
+
+^<<v33-12-20,20>>^ As cidades, agora povoadas, ficarão desertas, e a terra devastada. Assim sabereis que eu sou o Senhor.
+
+[[v33-12-21]]
+
+^<<v33-12-21,21>>^ Foi-me dirigida a palavra do Senhor, nestes termos:
+
+[[v33-12-22]]
+
+^<<v33-12-22,22>>^ Filho de homem, que provérbio é esse que vós tendes na terra de Israel: Os dias passam, e em nada vão parar todas as visões? (ver nota)
+
+[[v33-12-23]]
+
+^<<v33-12-23,23>>^ Pois dize-lhes: Assim fala o Senhor Deus: Farei cessar este provérbio; não se tornará mais a dizer em Israel. Assegura-lhes que estão para chegar os dias e o cumprimento de todas as visões.
+
+[[v33-12-24]]
+
+^<<v33-12-24,24>>^ Porque não será vã, daqui em diante, visão alguma, nem haverá predição enganadora no meio da casa de Israel,
+
+[[v33-12-25]]
+
+^<<v33-12-25,25>>^ pois eu, o Senhor, falarei; toda a palavra que eu proferir será cumprida sem demora; em vossos dias, ó casa rebelde, falarei e executarei a minha palavra, diz o Senhor Deus.
+
+[[v33-12-26]]
+
+^<<v33-12-26,26>>^ Foi-me dirigida a palavra do Senhor, nestes termos:
+
+[[v33-12-27]]
+
+^<<v33-12-27,27>>^ Filho de homem, eis o que dizem os da casa de Israel: A visão que este vê, é para daqui a muitos dias, ele profetiza para tempos remotos,
+
+[[v33-12-28]]
+
+^<<v33-12-28,28>>^ Por isso dize-lhes; Assim fala o Senhor Deus: Não será mais diferida qualquer palavra minha; a palavra que eu proferir, cumprir-se-á, diz o Senhor.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-011.adoc#v33-11-0[&#60; Capítulo Anterior] | <<v33-12-0,Topo>> | xref:033-ezequiel/033-ezequiel-013.adoc#v33-13-0[Próximo Capítulo &#62;]

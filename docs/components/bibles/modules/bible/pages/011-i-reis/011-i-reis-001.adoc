@@ -1,0 +1,231 @@
+include::./index.adoc[]
+
+[[v11-1-0]]
+=== I Reis, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Reis 1 trata da sucessão de Davi ao trono de Israel. Quando Davi já está velho e debilitado, Adonias, seu filho mais velho, tenta usurpar o trono para si. No entanto, o profeta Natã e Bate-Seba, mãe de Salomão, interferem para garantir que o sucessor escolhido por Davi seja Salomão, o filho mais novo. Abaixo estão cinco versículos relacionados com os temas abordados em 1 Reis 1:
+* Provérbios 20:29: "A glória dos jovens é a sua força; e a beleza dos velhos são as cãs." Este versículo destaca a fraqueza física que a idade avançada pode trazer, como é o caso de Davi em 1 Reis 1.
+* 1 Crônicas 22:9: "Eis que um filho te nascerá, que será homem de repouso; pois lhe darei descanso de todos os seus inimigos ao redor; porque Salomão será o seu nome, e paz e sossego darei a Israel nos seus dias." Este versículo é uma profecia de Davi sobre Salomão, que se cumpre em 1 Reis 1, quando Salomão é escolhido como sucessor ao trono.
+* Provérbios 31:1: "As palavras do rei Lemuel; a instrução que sua mãe lhe deu." Este versículo mostra a importância das mães na educação e formação dos filhos, como é o caso de Bate-Seba em 1 Reis 1.
+* 2 Samuel 12:24: "E consolou Bate-Seba, mulher de Urias, seu filho, e a tomou por mulher, e teve com ela um filho; e chamou o seu nome Salomão; e o SENHOR o amou." Este versículo relata o nascimento de Salomão, filho de Davi e Bate-Seba, que mais tarde é escolhido como sucessor ao trono em 1 Reis 1.
+* 2 Samuel 23:1-2: "Estas são as últimas palavras de Davi: Diz Davi, filho de Jessé, diz o homem que foi levantado em altura, o ungido do Deus de Jacó, e o suave em salmos de Israel. O Espírito do SENHOR falou por mim, e a sua palavra está na minha boca." Estes versículos mostram a autoridade divina de Davi como rei de Israel e, portanto, a importância de sua escolha de sucessor em 1 Reis 1.
+****
+
+[[v11-1-1]]
+
+^<<v11-1-1,1>>^ O rei Davide tinha envelhecido, achava-se numa idade muito avançada, e por mais que o cobriam de roupa, não aquecia.
+
+[[v11-1-2]]
+
+^<<v11-1-2,2>>^ Disseram-lhe os seus criados: Busquemos (como esposa) para o rei nosso senhor uma rapariga virgem, que esteja diante do rei e o trate, que durma no seu seio, a fim de que se aqueça o rei nosso senhor.
+
+[[v11-1-3]]
+
+^<<v11-1-3,3>>^ Buscaram em todas as terras de Israel uma rapariga formosa e acharam Abisag de Sunam, que levaram ao rei.
+
+[[v11-1-4]]
+
+^<<v11-1-4,4>>^ Era esta donzela de extrema beleza, que dormia com o rei e o servia. Contudo o rei deixou-a sempre virgem
+
+[[v11-1-5]]
+
+^<<v11-1-5,5>>^ Adonias, filho de Hagit, exaltava-se dizendo: Eu reinarei. Mandou fazer para si coches, e tomou cavaleiros e cinqüenta homens, que corressem diante dele.
+
+[[v11-1-6]]
+
+^<<v11-1-6,6>>^ Nunca seu pai o repreendeu, nem disse: Por que fazes isto? Ele era muito belo, e o segundo génito depois de Absalão.
+
+[[v11-1-7]]
+
+^<<v11-1-7,7>>^ Tinha entendimentos com Joab, filho de Sarvia, e com o pontífice Ablatar, que sustentavam o seu partido.
+
+[[v11-1-8]]
+
+^<<v11-1-8,8>>^ Todavia, nem o pontífice Sadoc, nem Banaias, filho de Jojada, nem o profeta Natan, nem Semei, nem o rei, nem o grosso do exército de Davide, eram por Adonias.
+
+[[v11-1-9]]
+
+^<<v11-1-9,9>>^ Adonias, tendo imolado carneiros, novilhos e toda a sorte de vítimas gordas, ao pé da pedra de Zoelet, que está junto da fonte de Rogel, convidou todos os seus Irmãos, filhos do rei, e todos os de Judá, criados do rei,
+
+[[v11-1-10]]
+
+^<<v11-1-10,10>>^ mas não convidou nem o profeta Natan, nem Banaias, nem os soldados mais valentes, nem Salomão, seu irmão.
+
+[[v11-1-11]]
+
+^<<v11-1-11,11>>^ Disse Natan a Betsabé, mãe de Salomão; Tu não ouviste que Adonias, filho de Hagit, se fez rei, e que Davide, nosso senhor, ignora isto?
+
+[[v11-1-12]]
+
+^<<v11-1-12,12>>^ Vem, pois, agora, toma o meu conselho, e salva a tua vida e a do teu filho Salomão.
+
+[[v11-1-13]]
+
+^<<v11-1-13,13>>^ Vai, apresenta-te ao rei Davide e dize-lhe; Porventura tu, ó rei meu senhor, não me juraste a mim tua escrava, dizendo: Salomão, teu filho, reinará depois de mim, e ele se sentará no meu trono? Por que reina, pois, Adonias?
+
+[[v11-1-14]]
+
+^<<v11-1-14,14>>^ E, estando tu ainda a falar com o rei, eu sobrevirei depois de ti, e apoiarei as tuas palavras.
+
+[[v11-1-15]]
+
+^<<v11-1-15,15>>^ Apresentou-se Betsabé ao rei no seu quarto. O rei era já muito velho, e Abisag de Sunam o servia.
+
+[[v11-1-16]]
+
+^<<v11-1-16,16>>^ Inclinou-se Betsabé profundamente e fez uma profunda reverência ao rei. O rei disse-lhe: Que queres tu?
+
+[[v11-1-17]]
+
+^<<v11-1-17,17>>^ Ela, respondendo, disse; Meu Senhor, tu juraste à tua escrava pelo Senhor teu Deus: Salomão, teu filho, reinará depois de mim, ele se sentará no meu trono.
+
+[[v11-1-18]]
+
+^<<v11-1-18,18>>^ Mas agora, eis que Adonias reina, sem tu, ó rei meu senhor, o saberes.
+
+[[v11-1-19]]
+
+^<<v11-1-19,19>>^ Ele imolou bois e toda a sorte de vítimas gordas, e muitos carneiros, e convidou todos os filhos do rei, o pontífice Ablatar e Joab, general do exército, mas não convidou Salomão, teu servo.
+
+[[v11-1-20]]
+
+^<<v11-1-20,20>>^ Todavia, todo o Israel está com os olhos em ti, ó rei meu senhor, esperando que declares quem é o que deve sentar-se depois de ti no teu trono, ó rei meu senhor.
+
+[[v11-1-21]]
+
+^<<v11-1-21,21>>^ De contrário, logo que o rei meu senhor dormir com seus pais, eu e meu filho Salomão seremos (tratados como) criminosos.
+
+[[v11-1-22]]
+
+^<<v11-1-22,22>>^ Enquanto ela falava ainda com o rei, chegou o profeta Natan.
+
+[[v11-1-23]]
+
+^<<v11-1-23,23>>^ Avisaram o rei, dizendo; Está aqui o profeta Natan. Tendo entrado à presença do rei e tendo-lhe feito uma profunda reverência, prostrando-se em terra,
+
+[[v11-1-24]]
+
+^<<v11-1-24,24>>^ disse Natan: Ó rei, meu senhor! Porventura disseste tu: Reine Adonias depois de mim, seja ele o que se sente no meu trono?
+
+[[v11-1-25]]
+
+^<<v11-1-25,25>>^ Ora ele desceu, hoje, e imolou bois, vítimas gordas e muitos carneiros, e convidou os filhos do rei, assim como os chefes do exército e o pontífice Abiatar, que comeram e beberam diante dele, dizendo: Viva o rei Adonias!
+
+[[v11-1-26]]
+
+^<<v11-1-26,26>>^ Mas não me convidou a mim, que sou teu servo, nem ao pontífice Sadoc, nem a Banaias, filho de Jojada, nem a teu servo Salomão.
+
+[[v11-1-27]]
+
+^<<v11-1-27,27>>^ Porventura saiu esta ordem do rei meu senhor? Porventura não me declaraste a mim, teu servo, quem era o que devia, depois do rei meu senhor, sentar-se sobre o seu trono?
+
+[[v11-1-28]]
+
+^<<v11-1-28,28>>^ O rei Davide respondeu, dizendo: Chamai-me Betsabé. Tendo-se ela apresentado ao rei e estando em pé diante dele,
+
+[[v11-1-29]]
+
+^<<v11-1-29,29>>^ o rei fez este juramento: Viva o Senhor, que livrou a minha alma de toda a angústia!
+
+[[v11-1-30]]
+
+^<<v11-1-30,30>>^ Aquilo que te jurei pelo Senhor Deus de Israel, quando disse: Salomão, teu filho, reinará depois de mim, ele se sentará em meu lugar sobre o meu trono isso cumprirei hoje.
+
+[[v11-1-31]]
+
+^<<v11-1-31,31>>^ Betsabé, prostrando-se com o rosto em terra, fez uma profunda reverência ao rei, dizendo: Viva Davide, meu Senhor, para todo o sempre.
+
+[[v11-1-32]]
+
+^<<v11-1-32,32>>^ Disse mais o rei Davide: Chamai-me o pontífice Sadoc, o profeta Natan, e Banaias, filho de Jojada. Tendo eles entrado à presença do rei,
+
+[[v11-1-33]]
+
+^<<v11-1-33,33>>^ disse-lhes: Tomai convosco os servos do vosso amo, e fazei montar na minha mula o meu filho Salomão, e levai-o a Gion.
+
+[[v11-1-34]]
+
+^<<v11-1-34,34>>^ Ali, o pontífice Sadoc e o profeta Natan o ungirão rei de Israel; vós fareis soar a trombeta e direis: Viva o rei Salomão!
+
+[[v11-1-35]]
+
+^<<v11-1-35,35>>^ Voltarás atrás dele, e ele virá sentar-se sobre o meu trono, para reinar em meu lugar, porque é ele que eu estabeleço chefe de Israel e Judá.
+
+[[v11-1-36]]
+
+^<<v11-1-36,36>>^ Banaias, filho de Jojada, respondeu ao rei, dizendo: Assim seja; assim o confirme o Senhor, Deus do rei meu amo.
+
+[[v11-1-37]]
+
+^<<v11-1-37,37>>^ Assim como o Senhor foi com o rei meu senhor, assim seja ele com Salomão, e eleve o seu trono ainda acima do trono do rei Davide, meu amo.
+
+[[v11-1-38]]
+
+^<<v11-1-38,38>>^ Desceram, pois, o pontífice Sadoc, o profeta Natan, e Banaias, filho de Jojada, com os Cereteus e os Feleteus, e fizeram montar Salomão na mula do rei Davide, e levaram-no a Gion.
+
+[[v11-1-39]]
+
+^<<v11-1-39,39>>^ O pontífice Sadoc tomou do tabernáculo o vaso de óleo e ungiu Salomão. Tocaram a trombeta, e disse todo o povo: Viva o rei Salomão!
+
+[[v11-1-40]]
+
+^<<v11-1-40,40>>^ Depois subiu toda a multidão após ele. O povo cantava ao som de flautas, mostrava grande regozijo, e a terra retinia com as suas aclamações.
+
+[[v11-1-41]]
+
+^<<v11-1-41,41>>^ Ouviu isto Adonias, assim como todos os que ele tinha convidado, quando o banquete estava no fim. Joab, tendo ouvido soar a trombeta, disse: Que quer dizer este ruído de cidade alvoroçada?
+
+[[v11-1-42]]
+
+^<<v11-1-42,42>>^ Ainda ele falava, quando chegou Jónatas, filho do pontífice Abiatar. Adonias disse-lhe: Entra, porque tu és um homem valente e com certeza nos trazes boas novas.
+
+[[v11-1-43]]
+
+^<<v11-1-43,43>>^ Jónatas respondeu a Adonias: Não, por certo, porque o rei Davide nosso Senhor constituiu rei a Salomão.
+
+[[v11-1-44]]
+
+^<<v11-1-44,44>>^ Enviou com ele o pontífice Sadoc, o profeta Natan, Banaias, filho de Jojada, e os Cereteus e os Feleteus, e estes fizeram-no montar na mula do rei.
+
+[[v11-1-45]]
+
+^<<v11-1-45,45>>^ O pontífice Sadoc e o profeta Natan o ungiram rei em Gion; dali voltaram cheios de alegria, e a cidade retumbou em clamores: este é o barulho que ouviste.
+
+[[v11-1-46]]
+
+^<<v11-1-46,46>>^ Até Salomão está já sentado no trono do reino,
+
+[[v11-1-47]]
+
+^<<v11-1-47,47>>^ e os servos do rei entraram já a felicitar o rei Davide, nosso senhor, dizendo: Deus faça o nome de Salomão ainda mais ilustre do que o teu, e ele eleve o seu trono sobre o teu trono. O rei fez adoração no seu leito,
+
+[[v11-1-48]]
+
+^<<v11-1-48,48>>^ e disse: Bem-dito seja o Senhor Deus de Israel, que me fez ver hoje com os meus próprios olhos o que se senta sobre o meu trono.
+
+[[v11-1-49]]
+
+^<<v11-1-49,49>>^ Aqueles a quem Adonias tinha convidado, encheram-se de medo, levantaram-se, e cada um foi para seu lado.
+
+[[v11-1-50]]
+
+^<<v11-1-50,50>>^ Adonias, temendo Salomão, levantou-se e foi refugiar-se a um lado do altar.
+
+[[v11-1-51]]
+
+^<<v11-1-51,51>>^ Noticiaram isso a Salomão, nestes termos: Adonias, temendo o rei Salomão, está refugiado a um lado do altar, dizendo: O rei Salomão me jure hoje que ele não fará morrer o seu servo à espada.
+
+[[v11-1-52]]
+
+^<<v11-1-52,52>>^ Salomão respondeu: Se ele se houver como homem de bem, não cairá em terra nem um só cabelo da sua cabeça, mas, se nele se encontrar maldade, morrerá.
+
+[[v11-1-53]]
+
+^<<v11-1-53,53>>^ Mandou, (então) o rei Salomão que o fossem tirar do Altar, e Adonias, tendo entrado, fez uma profunda reverência ao rei Salomão, que lhe disse: Vai para tua casa.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-024.adoc#v10-24-0[&#60; Capítulo Anterior] | <<v11-1-0,Topo>> | xref:011-i-reis/011-i-reis-002.adoc#v11-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v51-27-0]]
+=== Atos dos Apóstolos, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Atos dos Apóstolos 27, é relatada a viagem do apóstolo Paulo a Roma, que sofre várias dificuldades e perigos durante a jornada devido às condições climáticas e ao naufrágio do navio em que estava. Os versículos a seguir estão relacionados aos temas abordados neste capítulo:
+* Salmo 107:28-30: "Então eles clamaram ao SENHOR na sua angústia, e ele os livrou das suas aflições. Fez cessar a tempestade, e acalmaram-se as ondas. E alegrou-se com a bonança, e assim os guiou ao porto desejado." Este salmo fala sobre o poder de Deus em acalmar as tempestades e livrar as pessoas do perigo, o que se relaciona diretamente com a experiência de Paulo durante a tempestade no mar.
+* 2 Coríntios 11:25: "Três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes sofri naufrágio, uma noite e um dia passei no abismo." Paulo menciona em sua carta aos Coríntios que passou por três naufrágios, o que pode se referir à experiência relatada em Atos 27.
+* Jonas 1:17: "O SENHOR, porém, enviou um grande peixe para que engolisse Jonas; e esteve Jonas três dias e três noites nas entranhas do peixe." Assim como Jonas ficou três dias e três noites dentro do grande peixe, Paulo e os outros tripulantes do navio ficaram à deriva no mar por três dias antes de serem resgatados.
+* Hebreus 6:19: "A qual temos como âncora da alma, segura e firme, e que penetra até ao interior do véu." A âncora é um símbolo de segurança e estabilidade, que pode ser relacionado à ideia de que a fé em Deus pode nos sustentar e nos dar forças em meio às adversidades.
+* Isaías 43:2: "Quando passares pelas águas, eu serei contigo; quando pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem a chama arderá em ti." Este versículo enfatiza a promessa de Deus de estar conosco em meio aos perigos e dificuldades, protegendo-nos e nos guiando em segurança até o outro lado.
+****
+
+[[v51-27-1]]
+
+^<<v51-27-1,1>>^ Depois que foi decidido que seguíssemos por mar para a Itália, confiaram Paulo e outros presos a um centurião da coorte Augusta, chamado Júlio,
+
+[[v51-27-2]]
+
+^<<v51-27-2,2>>^ Embarcámos num navio de Adramíteo, que devia fazer cabotagem ao longo dos litorais da Ásia, e levantámos ferro em companhia de Aristarco, macedónio de Tessalonica.
+
+[[v51-27-3]]
+
+^<<v51-27-3,3>>^ No dia seguinte chegámos a Sidónia. Júlio, tratando benèvolamente Paulo, permitiu-lhe ir ter com os amigos e receber os seus cuidados.
+
+[[v51-27-4]]
+
+^<<v51-27-4,4>>^ Feitos dali à vela costeamos (a ilha de) Chipre, por nos serem contrários os ventos.
+
+[[v51-27-5]]
+
+^<<v51-27-5,5>>^ Depois, tendo atravessado o mar da Cilícia e da Panfília, chegámos a Mira da Lícia.
+
+[[v51-27-6]]
+
+^<<v51-27-6,6>>^ Aí, tendo o centurião encontrado um navio de Alexandria, que navegava para Itália, fez-nos embarcar nele.
+
+[[v51-27-7]]
+
+^<<v51-27-7,7>>^ Durante muitos dias, navegando lentamente e tendo com dificuldade chegado à vista de Gnido, porque o vento nos impedia, fomos costeando a ilha de Creta, junto a Salmone,
+
+[[v51-27-8]]
+
+^<<v51-27-8,8>>^ e, navegando com dificuldade ao longo da costa, chegámos a um lugar, a que chamam Bons-Portos, perto do qual estava a cidade de Lasaia.
+
+[[v51-27-9]]
+
+^<<v51-27-9,9>>^ Decorrido muito tempo, não sendo segura a navegação, por ter já passado a época do jejum, Paulo advertia-os, (ver nota)
+
+[[v51-27-10]]
+
+^<<v51-27-10,10>>^ dizendo-lhes: "Amigos, vejo que a navegação começa a ser perigosa e com muito dano, não sòmente da carga e do navio, mas também das nossas vidas."
+
+[[v51-27-11]]
+
+^<<v51-27-11,11>>^ Porém o centurião dava mais crédito ao piloto e ao comandante, do que ao que Paulo dizia.
+
+[[v51-27-12]]
+
+^<<v51-27-12,12>>^ E, como o porto não era bom para invernar, a maior parte foi de parecer que se passasse adiante, a ver se dalguma sorte podiam atingir Fenice, porto de Creta, abrigado dos ventos de sudoeste e noroeste, e invernar ali.
+
+[[v51-27-13]]
+
+^<<v51-27-13,13>>^ Começando a ventar brandamente do sul, julgando-se certos de executar o seu desejo, depois de levantarem âncora iam costeando mais de perto Creta.
+
+[[v51-27-14]]
+
+^<<v51-27-14,14>>^ Mas, pouco depois, desencadeou-se sobre esta ilha um vento tempestuoso, que se chama euraquilão.
+
+[[v51-27-15]]
+
+^<<v51-27-15,15>>^ Sendo a nau arrebatada, não podendo resistir ao vento, andávamos sem rumo.
+
+[[v51-27-16]]
+
+^<<v51-27-16,16>>^ Arrojados pela corrente a uma pequena ilha, chamada Cauda, com dificuldade pudemos recolher o escaler.
+
+[[v51-27-17]]
+
+^<<v51-27-17,17>>^ Tendo-o içado, (os marinheiros) valiam-se de todos os meios de salvação, cingindo a nau com cabos de reforço. Em seguida, havendo receio de ir contra a Sirte, soltou-se a âncora flutuante, indo-se assim ao sabor das ondas.
+
+[[v51-27-18]]
+
+^<<v51-27-18,18>>^ Sendo nós violentamente balidos pela tempestade, os marinheiros no dia seguinte alijaram carga.
+
+[[v51-27-19]]
+
+^<<v51-27-19,19>>^ Ao terceiro dia lançaram ao mar com as suas próprias mãos os aparelhos do navio.
+
+[[v51-27-20]]
+
+^<<v51-27-20,20>>^ Não aparecendo durante muitos dias sol nem estrelas e continuando a tempestade com violência, tínhamos já perdida Ioda a esperança de salvação.
+
+[[v51-27-21]]
+
+^<<v51-27-21,21>>^ Estando todos há muito tempo sem comer, Paulo, em pé no meio deles, disse: "Convinha, meus amigos seguindo o meu conselho, não ter saído de Creta e evitar este perigo e dano.
+
+[[v51-27-22]]
+
+^<<v51-27-22,22>>^ Mas agora exorto-vos a que tenhais coragem, porque nenhum de vós perderá a vida, mas sòmente o navio será destruído.
+
+[[v51-27-23]]
+
+^<<v51-27-23,23>>^ Porque esta noite apareceu-me o anjo daquele Deus de quem eu sou, e a quem sirvo,
+
+[[v51-27-24]]
+
+^<<v51-27-24,24>>^ dizendo: Não temas, Paulo, é preciso que compareças diante de César; e eis que Deus te concedeu a vida de todos os que navegam contigo.
+
+[[v51-27-25]]
+
+^<<v51-27-25,25>>^ Por isso, meus amigos, coragem, porque tenho fé em Deus de que assim acontecerá, como me foi dito.
+
+[[v51-27-26]]
+
+^<<v51-27-26,26>>^ Nós havemos de ir dar a uma ilha."
+
+[[v51-27-27]]
+
+^<<v51-27-27,27>>^ Quando chegou à décima quarta noite, navegando pelo mar Adriático, cerca da meia-noite, os marinheiros julgaram estar perto de alguma terra. (ver nota)
+
+[[v51-27-28]]
+
+^<<v51-27-28,28>>^ Lançando a sonda, encontraram vinte braças (de profundidade); um pouco mais adiante, encontraram quinze braças.
+
+[[v51-27-29]]
+
+^<<v51-27-29,29>>^ Temendo que déssemos em alguns recifes, lançaram quatro âncoras da popa, suspirando pela chegada do dia.
+
+[[v51-27-30]]
+
+^<<v51-27-30,30>>^ Porém, procurando os marinheiros fugir do navio, depois de lançarem o escaler ao mar, com o pretexto de começarem a largar as âncoras da proa,
+
+[[v51-27-31]]
+
+^<<v51-27-31,31>>^ Paulo disse ao centurião e aos soldados. "Se estes homens não permanecerem no navio, não podereis salvar-vos."
+
+[[v51-27-32]]
+
+^<<v51-27-32,32>>^ Então os soldados cortaram o cabo do escaler e deixaram-no cair.
+
+[[v51-27-33]]
+
+^<<v51-27-33,33>>^ Começando a fazer-se dia, Paulo rogava a todos que comessem alguma coisa, dizendo: "Faz hoje já catorze dias que estais à espera, em jejum, sem comer nada. (ver nota)
+
+[[v51-27-34]]
+
+^<<v51-27-34,34>>^ Portanto rogo-vos que tomeis algum alimento, a fim de vos salvardes, porque não perecerá nem um só cabelo da cabeça de nenhum de vós."
+
+[[v51-27-35]]
+
+^<<v51-27-35,35>>^ Dito isto, tomando o pão, deu graças a Deus em presença de todos; depois, tendo-o partido, começou a comer.
+
+[[v51-27-36]]
+
+^<<v51-27-36,36>>^ Todos tomaram ânimo e se puseram também a comer.
+
+[[v51-27-37]]
+
+^<<v51-27-37,37>>^ Éramos ao todo, no navio, duzentas e setenta e seis pessoas.
+
+[[v51-27-38]]
+
+^<<v51-27-38,38>>^ Saciados de alimento, aliviaram o navio, lançando o trigo ao mar.
+
+[[v51-27-39]]
+
+^<<v51-27-39,39>>^ Tendo-se feito dia, não reconheceram a terra (Malta), mas viram uma baía, que tinha uma praia, na qual intentavam, se pudessem, encalhar o navio.
+
+[[v51-27-40]]
+
+^<<v51-27-40,40>>^ Tendo, pois, soltado as âncoras, deixaram-nas cair ao mar, afrouxando, ao mesmo tempo, as cordas dos lemes; levantada ao vento a vela do artimão, encaminhavam-se para a praia.
+
+[[v51-27-41]]
+
+^<<v51-27-41,41>>^ Mas, tendo nós dado numa língua de terra, com mar de ambos os lados, encalharam ; a proa enterrada permanecia imóvel, ao mesmo tempo que a popa se abria com a violência das ondas.
+
+[[v51-27-42]]
+
+^<<v51-27-42,42>>^ Á resolução dos soldados foi matar os presos a fim de que nenhum fugisse, salvando-se a nado.
+
+[[v51-27-43]]
+
+^<<v51-27-43,43>>^ Mas o centurião, querendo salvar Paulo, impediu-os de fazer isto. Mandou que aqueles que soubessem nadar, fossem os primeiros a lançar-se à água e alcançassem a terra;
+
+[[v51-27-44]]
+
+^<<v51-27-44,44>>^ quanto aos outros, alcançá-la-iam, uns sobre tábuas, e outros sobre destroços do navio. E assim aconteceu que todos chegaram salvos a terra.
+
+'''
+
+xref:051-atos-dos-apostolos/051-atos-dos-apostolos-026.adoc#v51-26-0[&#60; Capítulo Anterior] | <<v51-27-0,Topo>> | xref:051-atos-dos-apostolos/051-atos-dos-apostolos-028.adoc#v51-28-0[Próximo Capítulo &#62;]

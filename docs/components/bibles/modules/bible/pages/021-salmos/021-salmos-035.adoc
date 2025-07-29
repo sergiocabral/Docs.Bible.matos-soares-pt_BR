@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v21-35-0]]
+=== Salmos, 35
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 35 é uma oração de Davi pedindo ajuda e proteção contra seus inimigos. Ele clama por justiça divina e expressa sua confiança de que Deus irá intervir em seu favor. Abaixo estão cinco versículos relacionados com os temas abordados neste Salmo:
+* Salmos 7:9: "Que se acabe para sempre a maldade dos ímpios, mas estabeleça-se o justo, pois tu, ó justo Deus, sondas mente e coração." Este versículo se relaciona com o tema do Salmo 35, que é a busca de justiça contra os inimigos. Davi clama para que a maldade dos ímpios acabe e que os justos sejam estabelecidos.
+* Salmos 10:15: "Quebre o braço dos ímpios e dos perversos; pede contas de sua impiedade até que não sobre nada." Este versículo também se relaciona com a busca de justiça contra os inimigos. Davi pede para que Deus intervenha e quebre o braço dos ímpios, ou seja, derrote seus inimigos.
+* Salmos 18:2: "O SENHOR é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Este versículo se relaciona com o tema de proteção contra os inimigos. Davi confia em Deus como sua rocha, fortaleza e libertador, e se refugia nele em momentos de perigo.
+* Salmos 31:15: "Os meus tempos estão nas tuas mãos; livra-me das mãos dos meus inimigos e dos que me perseguem." Este versículo também se relaciona com o tema de proteção contra os inimigos. Davi reconhece que seus tempos estão nas mãos de Deus e pede para ser livrado das mãos de seus inimigos e perseguidores.
+* Salmos 40:14: "Sejam humilhados e frustrados os que buscam tirar-me a vida; retrocedam humilhados os que desejam a minha ruína." Este versículo se relaciona com o tema de pedir ajuda contra os inimigos. Davi pede para que seus inimigos sejam humilhados e frustrados em seus planos contra ele, e que retrocedam com vergonha.
+****
+
+[[v21-35-1]]
+
+^<<v21-35-1,1>>^ Ao mestre do coro. De Davide, servo do Senhor.
+
+[[v21-35-2]]
+
+^<<v21-35-2,2>>^ A iniquidade fala ao ímpio dentro do seu coração; não há temor de Deus diante dos seus olhos. (ver nota)
+
+[[v21-35-3]]
+
+^<<v21-35-3,3>>^ Porque ele na sua imaginação se lisonjeia de que não há-de ser descoberta a sua culpa nem aborrecida.
+
+[[v21-35-4]]
+
+^<<v21-35-4,4>>^ As palavras da sua boca são iniquidade e engano; renunciou a ser sensato e fazer o bem.
+
+[[v21-35-5]]
+
+^<<v21-35-5,5>>^ Medita a iniquidade no seu leito, obstina-se num caminho que não é bom, não rejeita o mal.
+
+[[v21-35-6]]
+
+^<<v21-35-6,6>>^ Senhor, a tua misericórdia chega até ao céu, e a tua fidelidade até às nuvens.
+
+[[v21-35-7]]
+
+^<<v21-35-7,7>>^ A tua justiça é (grande) como os montes de Deus, os teus juízos são como o mar profundo; Tu, Senhor, salvas os homens e os animais.
+
+[[v21-35-8]]
+
+^<<v21-35-8,8>>^ Quão preciosa é a tua graça, ó Deus! Os filhos dos homens refugiam-se à sombra das tuas asas;
+
+[[v21-35-9]]
+
+^<<v21-35-9,9>>^ saciam-se com a abundância da tua casa, e tu os fazes beber na torrente das tuas delícias.
+
+[[v21-35-10]]
+
+^<<v21-35-10,10>>^ Realmente em ti está a fonte da vida, e na tua luz vemos a luz.
+
+[[v21-35-11]]
+
+^<<v21-35-11,11>>^ Conserva a tua graça aos que te adoram, e a tua equidade aos que têm o coração recto.
+
+[[v21-35-12]]
+
+^<<v21-35-12,12>>^ Não venha sobre mim o pé do soberbo, e a mão do pecador não me abale.
+
+[[v21-35-13]]
+
+^<<v21-35-13,13>>^ Eis que caíram os que cometem a iniquidade: foram derribados e não se podem levantar mais.
+
+'''
+
+xref:021-salmos/021-salmos-034.adoc#v21-34-0[&#60; Capítulo Anterior] | <<v21-35-0,Topo>> | xref:021-salmos/021-salmos-036.adoc#v21-36-0[Próximo Capítulo &#62;]

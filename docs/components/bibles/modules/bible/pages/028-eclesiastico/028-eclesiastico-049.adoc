@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v28-49-0]]
+=== Eclesiástico, 49
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 49 descreve a história de Israel desde o tempo de Josué até a era dos profetas, enfatizando a importância dos líderes justos e a punição daqueles que abandonaram a lei de Deus. Abaixo estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Deuteronômio 31:7-8: "Então Moisés chamou Josué e lhe disse na presença de todo o Israel: "Seja forte e corajoso, pois você irá com este povo para a terra que o Senhor jurou aos seus antepassados que lhes daria, e você os ajudará a tomá-la posse. O Senhor, Ele mesmo, irá à sua frente e estará com você; Ele nunca o deixará nem o abandonará. Não tenha medo; não se desanime." Este versículo fala sobre a passagem da liderança de Moisés para Josué, destacando a importância da coragem e da confiança em Deus.
+* Juízes 2:11-12: "Então os filhos de Israel fizeram o que era mau aos olhos do Senhor e serviram aos baalins, e deixaram ao Senhor Deus de seus pais, que os tinha tirado da terra do Egito, e seguiram outros deuses dentre os deuses dos povos que estavam ao seu redor, e adoraram a eles, e provocaram o Senhor." Este versículo descreve a infidelidade do povo de Israel para com Deus, mostrando as consequências da desobediência.
+* 2 Samuel 23:3-4: "O Deus de Israel falou, a Rocha de Israel me disse: 'Quando alguém governa com justiça sobre os homens, quando governa no temor de Deus, é como a luz da manhã quando o sol brilha, como uma manhã sem nuvens quando a chuva faz florescer a relva na terra.'" Este versículo destaca a importância da justiça e do temor a Deus na liderança de um governante.
+* Isaías 1:27: "Sião será resgatada com justiça, e aqueles que se arrependem, com retidão." Este versículo fala sobre a importância do arrependimento e da justiça, mostrando que aqueles que se voltam para Deus serão redimidos.
+* Jeremias 31:33: "Esta é a aliança que farei com a casa de Israel depois daqueles dias", declara o Senhor. "Porei a minha lei no íntimo deles e a escreverei nos seus corações. Serei o Deus deles, e eles serão o meu povo." Este versículo fala sobre a promessa de Deus de colocar Sua lei no coração do povo de Israel, destacando a importância da obediência e da devoção a Ele.
+****
+
+[[v28-49-1]]
+
+^<<v28-49-1,1>>^ A memória de Josias é como uma composição de aromas feita por arte do perfumista.
+
+[[v28-49-2]]
+
+^<<v28-49-2,2>>^ Em toda a boca será doce a sua lembrança como o mel, e como a música em banquete de (abundante) vinho.
+
+[[v28-49-3]]
+
+^<<v28-49-3,3>>^ Foi destinado por Deus para excitar a nação à penitência, e exterminou as abominações da impiedade.
+
+[[v28-49-4]]
+
+^<<v28-49-4,4>>^ Dirigiu o seu coração para o Senhor, e nos dias dos pecadores fortificou a piedade.
+
+[[v28-49-5]]
+
+^<<v28-49-5,5>>^ Excepto Davide, Ezequias e Josias, todos cometeram o pecado:
+
+[[v28-49-6]]
+
+^<<v28-49-6,6>>^ os reis de Judá deixaram a lei do Altíssimo, desprezaram o temor de Deus.
+
+[[v28-49-7]]
+
+^<<v28-49-7,7>>^ Por isso tiveram de entregar a outros o seu reino, e a sua glória a uma nação estrangeira,
+
+[[v28-49-8]]
+
+^<<v28-49-8,8>>^ Incendiaram a cidade escolhida, a cidade santa, e reduziram a um deserto as suas ruas, conforme a predição de Jeremias,
+
+[[v28-49-9]]
+
+^<<v28-49-9,9>>^ porque maltrataram aquele que foi consagrado profeta desde o ventre de sua mãe, para derrubar, arrancar e destruir, mas para depois reedificar e renovar.
+
+[[v28-49-10]]
+
+^<<v28-49-10,10>>^ Ezequiel teve uma visão de glória. que o Senhor lhe mostrou no carro dos querubins.
+
+[[v28-49-11]]
+
+^<<v28-49-11,11>>^ Anunciou a chuva para os inimigos de Deus, e os bens reservados para aqueles que seguiam o caminho recto.
+
+[[v28-49-12]]
+
+^<<v28-49-12,12>>^ Reverdeçam também os ossos dos doze profetas, nos seu túmulos, porque eles fortificaram Jacob, e salvaram-no por uma fé corajosa.
+
+[[v28-49-13]]
+
+^<<v28-49-13,13>>^ Como engrandeceremos nós a Zorobabel? Ele foi como um anel na mão direita. (ver nota)
+
+[[v28-49-14]]
+
+^<<v28-49-14,14>>^ Do mesmo modo, Jesus, filho de Josedec. Eles em seus dias edificaram a casa (de Deus). e levantaram ao Senhor o seu santo templo, destinado a uma glória sempiterna.
+
+[[v28-49-15]]
+
+^<<v28-49-15,15>>^ Também Neemias viverá na memória por largo tempo, ele que reergueu os nossos muros derribados, refez as portas e as fechaduras, e reedificou as nossas casas.
+
+[[v28-49-16]]
+
+^<<v28-49-16,16>>^ Nenhum nasceu no mundo como Henoch, o qual foi arrebatado da terra,
+
+[[v28-49-17]]
+
+^<<v28-49-17,17>>^ nem como José, que nasceu para ser o príncipe de seus irmãos, o esteio da nação, o governador dos seus irmãos, o firme arrimo do povo.
+
+[[v28-49-18]]
+
+^<<v28-49-18,18>>^ Os seus ossos foram visitados; depois da sua morte profetizaram,
+
+[[v28-49-19]]
+
+^<<v28-49-19,19>>^ Set e Sem alcançaram glória entre os homens, mas, sobre todos os seres vivos da criação, está Adão.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-048.adoc#v28-48-0[&#60; Capítulo Anterior] | <<v28-49-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-050.adoc#v28-50-0[Próximo Capítulo &#62;]

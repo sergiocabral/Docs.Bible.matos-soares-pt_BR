@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v21-41-0]]
+=== Salmos, 41
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 41 é uma oração de Davi por proteção e cura diante de seus inimigos e dores físicas. Os versículos selecionados a seguir se relacionam com os temas de confiança em Deus, proteção divina e cura.
+* Provérbios 19:23: "O temor do Senhor conduz à vida; aquele que o teme pode descansar tranqüilo, livre de qualquer mal." Este versículo fala da importância de temer a Deus para ter uma vida plena e tranquila, confiando que Ele é capaz de proteger de todo mal.
+* Salmos 27:1: "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é o baluarte da minha vida; de quem terei medo?" Nesse versículo, Davi reconhece que sua proteção vem do Senhor e não há motivo para temer.
+* Salmos 147:3: "Ele cura os de coração quebrantado e cuida das suas feridas." Esse versículo fala da capacidade de Deus em curar as dores emocionais e físicas de Seus filhos.
+* Isaías 41:10: "Não tenha medo, pois estou com você; não se apavore, pois eu sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa." Esse versículo enfatiza a proteção e o cuidado divino para aqueles que confiam Nele.
+* 2 Coríntios 12:9: "Mas ele me disse: ‘Minha graça é suficiente para você, pois o meu poder se aperfeiçoa na fraqueza’. Portanto, eu me gloriarei ainda mais alegremente em minhas fraquezas, para que o poder de Cristo repouse em mim." Esse versículo fala da graça de Deus que é suficiente para nos sustentar em nossas fraquezas e dificuldades, assim como Davi busca a força e a cura de Deus em sua fraqueza física e emocional.
+****
+
+[[v21-41-1]]
+
+^<<v21-41-1,1>>^ Ao mestre do coro. Maskil. Dos filhos de Coré. (ver nota)
+
+[[v21-41-2]]
+
+^<<v21-41-2,2>>^ Assim como a cerva suspira pelas fontes das águas, assim a minha alma suspira por ti, ó Deus.
+
+[[v21-41-3]]
+
+^<<v21-41-3,3>>^ A minha alma tem sede de Deus, de Deus vivo: quando irei e contemplarei a face de Deus?
+
+[[v21-41-4]]
+
+^<<v21-41-4,4>>^ As minhas lágrimas são o meu pão de dia e de noite, enquanto me dizem todos os dias:"Onde está o teu o Deus?"
+
+[[v21-41-5]]
+
+^<<v21-41-5,5>>^ Lembro-me destas coisas e derramo a minha alma dentro de mim mesmo: como avançava entre a multidão, como os precedia para a casa de Deus, entre cânticos de alegria e de louvor, no ajuntamento festivo. (ver nota)
+
+[[v21-41-6]]
+
+^<<v21-41-6,6>>^ Por que te deprimes, minha alma, por que te conturbas dentro de mim? Espera em Deus. porque novamente o hei-de louvar, (a ele que é a) salvação do meu rosto
+
+[[v21-41-7]]
+
+^<<v21-41-7,7>>^ e o meu Deus. Dentro de mim mesmo se deprime a minha alma: por isso me lembro de ti, desde a terra do Jordão e do Hermon, desde o monte Misar.
+
+[[v21-41-8]]
+
+^<<v21-41-8,8>>^ Um abismo chama outro abismo, com o fragor das luas cataratas: todas as tuas vagas e as tuas torrentes passaram sobre mim.
+
+[[v21-41-9]]
+
+^<<v21-41-9,9>>^ Durante o dia o Senhor me conceda a sua graça, e de noite eu cantar ei, louvarei ao Deus da minha vida.
+
+[[v21-41-10]]
+
+^<<v21-41-10,10>>^ Digo a Deus: "Meu Rochedo por que te esqueces de mim?" "Por que ando triste, sob a opressão de inimigos?"
+
+[[v21-41-11]]
+
+^<<v21-41-11,11>>^ Fracturam-se os meus ossos, quando os meus adversários me ultrajam, quando todos os dias me dizem: "Onde está o teu Deus?"
+
+[[v21-41-12]]
+
+^<<v21-41-12,12>>^ Por que te deprimes, minha alma? Por que te conturbas dentro de mim? Espera em Deus, porque novamente o hei-de louvar, (a ele que é) a salvação do meu rosto e o meu Deus
+
+'''
+
+xref:021-salmos/021-salmos-040.adoc#v21-40-0[&#60; Capítulo Anterior] | <<v21-41-0,Topo>> | xref:021-salmos/021-salmos-042.adoc#v21-42-0[Próximo Capítulo &#62;]

@@ -1,0 +1,231 @@
+include::./index.adoc[]
+
+[[v21-88-0]]
+=== Salmos, 88
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmo 88 é um salmo de lamento, no qual o salmista expressa sua angústia e desespero diante de Deus. Ele clama por ajuda e salvação, mas sente como se Deus o tivesse abandonado. Os versículos a seguir abordam temas semelhantes de sofrimento e angústia, bem como a busca pela ajuda e a presença de Deus.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo fala sobre a presença de Deus e seu poder para ajudar e fortalecer aqueles que confiam nele. Isso pode trazer conforto para aqueles que estão passando por momentos difíceis, como o salmista em Salmo 88.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado e salva os contritos de espírito." Este versículo fala sobre como Deus está perto daqueles que estão sofrendo e têm um coração quebrantado. Ele é capaz de trazer salvação e conforto para aqueles que clamam por ajuda, como o salmista em Salmo 88.
+* 2 Coríntios 1:3-4: "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação, que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus." Este versículo fala sobre como Deus pode usar a tribulação e o sofrimento para nos ensinar a consolar e ajudar os outros que estão passando por dificuldades semelhantes. O salmista em Salmo 88 pode encontrar conforto em saber que sua experiência de sofrimento pode ser usada para ajudar outros no futuro.
+* Salmos 42:5: "Por que estás abatida, ó minha alma? e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei pela salvação que há na sua presença." Este versículo encoraja o salmista a confiar em Deus e esperar pela sua salvação. Ele pode encontrar consolo em saber que Deus ainda é capaz de salvá-lo, apesar de sua situação atual.
+* Romanos 8:38-39: "Porque estou certo de que, nem a morte, nem a vida, nem anjos, nem principados, nem coisas presentes, nem futuras, nem potestades, nem a altura, nem a profundidade, nem qualquer outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor." Este versículo fala sobre a certeza do amor de Deus e como nada pode nos separar dele. Isso pode trazer conforto e esperança para aqueles que estão sofrendo, sabendo que Deus ainda os ama e está com eles, mesmo em meio à dor e ao sofrimento.
+****
+
+[[v21-88-1]]
+
+^<<v21-88-1,1>>^ Maskti. De Etan Ezrahita.
+
+[[v21-88-2]]
+
+^<<v21-88-2,2>>^ Eu cantarei eternamente as graças do Senhor; anunciarei a tua fidelidade pela minha boca por todas as gerações.
+
+[[v21-88-3]]
+
+^<<v21-88-3,3>>^ Com efeito, disseste: "A graça está estabelecida para sempre"; no céu estabeleceste a tua fidelidade.
+
+[[v21-88-4]]
+
+^<<v21-88-4,4>>^ "Fiz aliança (disseste) com o meu escolhido; jurei a Davide, meu servo (o seguinte):
+
+[[v21-88-5]]
+
+^<<v21-88-5,5>>^ Conservarei eternamente a tua descendência, tornarei firme o teu trono por todas as gerações."
+
+[[v21-88-6]]
+
+^<<v21-88-6,6>>^ Os céus celebram, Senhor, as tuas maravilhas, e a tua fidelidade na assembleia dos santos. (ver nota)
+
+[[v21-88-7]]
+
+^<<v21-88-7,7>>^ Em verdade, quem, nas nuvens; será igual ao Senhor? Quem, entre os filhos de Deus, será semelhante ao Senhor?
+
+[[v21-88-8]]
+
+^<<v21-88-8,8>>^ Deus é terrível na assembleia dos santos, grande e tremendo sobre todos os que estão em roda dele.
+
+[[v21-88-9]]
+
+^<<v21-88-9,9>>^ Senhor, Deus dos exércitos, quem é igual a ti? És poderoso. Senhor, e a tua fidelidade está sempre em roda de ti;
+
+[[v21-88-10]]
+
+^<<v21-88-10,10>>^ Tu dominas o orgulho do mar, amansas as suas ondas entumecidas.
+
+[[v21-88-11]]
+
+^<<v21-88-11,11>>^ Tu calcaste a Raab, ferido de morte; com a forçá do teu braço dispersaste os teus inimigos.
+
+[[v21-88-12]]
+
+^<<v21-88-12,12>>^ Teus são os céus, tua é a terra; tu fundaste o mundo e tudo o que ele contém;
+
+[[v21-88-13]]
+
+^<<v21-88-13,13>>^ tu criaste o aquilão e o austro; o Tabor e o Hermon exultaram em teu nome.
+
+[[v21-88-14]]
+
+^<<v21-88-14,14>>^ O teu braço é poderoso, firme a tua mão, levantada a tua dextra;
+
+[[v21-88-15]]
+
+^<<v21-88-15,15>>^ A justiça e o direito são a base do teu trono, a graça e a fidelidade vão adiante de ti.
+
+[[v21-88-16]]
+
+^<<v21-88-16,16>>^ Bem-aventurado o povo que sabe alegrar-se (em ti); eles caminham à luz do teu rosto, Senhor,
+
+[[v21-88-17]]
+
+^<<v21-88-17,17>>^ em teu nome se regozijam sempre, e pela tua justiça se exaltam;
+
+[[v21-88-18]]
+
+^<<v21-88-18,18>>^ Porque tu és o esplendor da sua força, e por teu favor eleva-se o nosso poder.
+
+[[v21-88-19]]
+
+^<<v21-88-19,19>>^ Em realidade, do Senhor é o nosso escudo, e do santo de Israel o nosso rei.
+
+[[v21-88-20]]
+
+^<<v21-88-20,20>>^ Outrora falaste numa visão aos teus santos e disseste: "Impus a coroa a um poderoso; exaltei um escolhido do meio do povo. (ver nota)
+
+[[v21-88-21]]
+
+^<<v21-88-21,21>>^ Encontrei Davide, meu servo, com o meu santo óleo o ungi,
+
+[[v21-88-22]]
+
+^<<v21-88-22,22>>^ para que a minha mão esteja sempre com ele, e o meu braço o fortifique.
+
+[[v21-88-23]]
+
+^<<v21-88-23,23>>^ Não o enganará o inimigo, nem o malvado o abaterá.
+
+[[v21-88-24]]
+
+^<<v21-88-24,24>>^ Antes exterminarei da sua frente os seus contrários; e ferirei os que o odeiam.
+
+[[v21-88-25]]
+
+^<<v21-88-25,25>>^ A minha fidelidade e a minha graça estarão com ele; no meu nome será exaltado o seu poder.
+
+[[v21-88-26]]
+
+^<<v21-88-26,26>>^ Estenderei a sua mão sobre o mar, e a sua dextra sobre os rios.
+
+[[v21-88-27]]
+
+^<<v21-88-27,27>>^ Ele me invocará, dizendo: "Tu és meu Pai, o meu Deus e a rocha da minha salvação."
+
+[[v21-88-28]]
+
+^<<v21-88-28,28>>^ E eu o constituirei meu primogênito, o mais elevado entre os reis da terra.
+
+[[v21-88-29]]
+
+^<<v21-88-29,29>>^ Eternamente lhe conservarei a minha graça, e a minha aliança com ele será estável.
+
+[[v21-88-30]]
+
+^<<v21-88-30,30>>^ Farei eterna a sua descendência, e o seu trono (durará tanto) como os dias do céu.
+
+[[v21-88-31]]
+
+^<<v21-88-31,31>>^ Se os seus filhos abandonarem a minha lei, não andarem nos seus preceitos,
+
+[[v21-88-32]]
+
+^<<v21-88-32,32>>^ se violarem os meus decretos, se não guardarem os meus mandamentos,
+
+[[v21-88-33]]
+
+^<<v21-88-33,33>>^ castigarei com vara o seu delito, e com açoites a sua culpa;
+
+[[v21-88-34]]
+
+^<<v21-88-34,34>>^ mas não retirarei (dele) a minha graça, nem faltarei à minha fidelidade.
+
+[[v21-88-35]]
+
+^<<v21-88-35,35>>^ Não violarei a minha aliança, nem mudarei o que os meus lábios disseram.
+
+[[v21-88-36]]
+
+^<<v21-88-36,36>>^ Jurei uma vez (para sempre) pela minha santidade: de nenhum modo faltarei a Davide.
+
+[[v21-88-37]]
+
+^<<v21-88-37,37>>^ A sua descendência permanecerá eternamente, e o seu trono será diante de mim como o sol,
+
+[[v21-88-38]]
+
+^<<v21-88-38,38>>^ e como a lua que subsiste para sempre, testemunha fiel do céu."
+
+[[v21-88-39]]
+
+^<<v21-88-39,39>>^ Apesar disso (Senhor), tu repeliste e rejeitaste o teu ungido, gravemente te iraste contra ele,
+
+[[v21-88-40]]
+
+^<<v21-88-40,40>>^ Desprezaste a aliança do teu servo, profanaste a sua coroa (lançando-a) por terra.
+
+[[v21-88-41]]
+
+^<<v21-88-41,41>>^ Destruiste todas as suas muralhas, entregaste à destruição as suas fortalezas.
+
+[[v21-88-42]]
+
+^<<v21-88-42,42>>^ Saquearam-no todos os que passavam pelo caminho, tornou-se o opróbrio dos seus vizinhos.
+
+[[v21-88-43]]
+
+^<<v21-88-43,43>>^ Exaltaste a dextra dos seus inimigos, encheste de gozo todos os seus contrários.
+
+[[v21-88-44]]
+
+^<<v21-88-44,44>>^ Embotaste o fio da sua espada, e não o sustiveste no combate.
+
+[[v21-88-45]]
+
+^<<v21-88-45,45>>^ Fizeste cessar o seu esplendor, derribaste por terra o seu trono.
+
+[[v21-88-46]]
+
+^<<v21-88-46,46>>^ Abreviaste os dias da sua juventude, cobriste-o de ignomínia.
+
+[[v21-88-47]]
+
+^<<v21-88-47,47>>^ Até quando, Senhor? Ficarás para sempre escondido? Arderá como fogo a tua indignação?
+
+[[v21-88-48]]
+
+^<<v21-88-48,48>>^ Lembra-te de quão breve é a minha vida, de quão caducos criaste todos os homens.
+
+[[v21-88-49]]
+
+^<<v21-88-49,49>>^ Quem há que viva, sem ver a morte, que possa subtrair a sua alma ao poder do sepulcro?
+
+[[v21-88-50]]
+
+^<<v21-88-50,50>>^ Onde estão as tuas antigas graças, Senhor, as quais juraste a Davide por tua fidelidade?
+
+[[v21-88-51]]
+
+^<<v21-88-51,51>>^ Lembra-te, Senhor, do opróbrio dos teus servos: eu trago no meu peito todas as inimizades das gentes,
+
+[[v21-88-52]]
+
+^<<v21-88-52,52>>^ com as quais os teus adversários insultam, ó Senhor, com as quais insultam os passos do teu ungido.
+
+[[v21-88-53]]
+
+^<<v21-88-53,53>>^ Bendito seja o Senhor para sempre! Assim seja, assim seja!
+
+'''
+
+xref:021-salmos/021-salmos-087.adoc#v21-87-0[&#60; Capítulo Anterior] | <<v21-88-0,Topo>> | xref:021-salmos/021-salmos-089.adoc#v21-89-0[Próximo Capítulo &#62;]

@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v21-68-0]]
+=== Salmos, 68
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 68 é um poema que celebra a vitória de Deus sobre seus inimigos e a proteção que ele dá aos seus seguidores. O salmista canta louvores a Deus e o exalta como o protetor dos necessitados. Ele também fala da grandeza de Deus e de sua fidelidade ao seu povo. Abaixo estão cinco versículos relacionados com os temas abordados em Salmo 68:
+* Deuteronômio 33:26-27: "Não há ninguém como o Deus de Jeshurun, que cavalga os céus para ajudá-lo, e monta nas nuvens para salvar você. O Deus eterno é a sua habitação, e sob seus braços eternos você está seguro. Ele expulsará o inimigo de diante de você e dirá: 'Destrua-o!'" - Esse versículo fala da proteção de Deus sobre o seu povo e da sua capacidade de derrotar os inimigos que se opõem a ele.
+* Isaías 25:4: "Porque foste um refúgio para o pobre, um refúgio para o necessitado em sua angústia, um abrigo contra a tempestade e um abrigo contra o calor, quando o sopro dos opressores é como uma tempestade contra o muro." - Este versículo fala da proteção que Deus oferece aos necessitados e oprimidos, um tema que também é presente em Salmo 68.
+* Isaías 40:28-31: "Você não sabe? Você não ouviu? O Senhor é o Deus eterno, o Criador de toda a terra. Ele não se cansa nem se fatiga; sua compreensão é insondável. Ele dá força ao cansado e aumenta o poder do fraco. Até os jovens se cansam e ficam exaustos, e os jovens tropeçam e caem; mas aqueles que esperam no Senhor renovarão suas forças. Eles vão subir com asas como águias; correrão e não se cansarão; caminharão e não desmaiarão." - Este versículo fala da força e proteção que Deus oferece aos seus seguidores.
+* 2 Samuel 22:3-4: "O meu Deus é o meu rochedo, nele me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta. Clamo ao Senhor, que é digno de louvor, e sou salvo dos meus inimigos." - Esse versículo fala da proteção de Deus e da sua capacidade de salvar seus seguidores dos inimigos.
+* Salmos 18:2-3: "O Senhor é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta. Clamo ao Senhor, que é digno de louvor, e sou salvo dos meus inimigos." - Este versículo é semelhante ao anterior e fala da proteção e refúgio que Deus oferece aos seus seguidores.
+****
+
+[[v21-68-1]]
+
+^<<v21-68-1,1>>^ Ao mestre do coro. Segundo a melodia de "Os lírios". De Davide. (ver nota)
+
+[[v21-68-2]]
+
+^<<v21-68-2,2>>^ Salva-me, ó Deus, porque as águas (da tribulação) chegaram-me ao pescoço,
+
+[[v21-68-3]]
+
+^<<v21-68-3,3>>^ Estou atolado num lodo profundo, e não encontro onde pôr pé; cheguei a um sítio de águas profundas, e já as ondas me cobrem.
+
+[[v21-68-4]]
+
+^<<v21-68-4,4>>^ Estou cansado de gritar, enrouqueceu a minha garganta; desfaleceram os meus olhos à espera do meu Deus.
+
+[[v21-68-5]]
+
+^<<v21-68-5,5>>^ São mais que os cabelos da minha cabeça, aqueles que me aborrecem sem razão, são mais fortes que os meus ossos, os que me perseguem injustamente: porventura hei-de restituir o que não roubei?
+
+[[v21-68-6]]
+
+^<<v21-68-6,6>>^ O Deus, tu conheces a minha insipiência, e os meus delitos não te são ocultos.
+
+[[v21-68-7]]
+
+^<<v21-68-7,7>>^ Não sejam confundidos por minha causa os que esperam em ti, Senhor, Senhor dos exércitos. Não se envergonhem por minha causa, os que te buscam, ó Deus de Israel.
+
+[[v21-68-8]]
+
+^<<v21-68-8,8>>^ Pois por ti sofri afronta, foi coberto de confusão o meu rosto.
+
+[[v21-68-9]]
+
+^<<v21-68-9,9>>^ Tornei-me um estranho para os meus irmãos, e um desconhecido para os filhos de minha mãe.
+
+[[v21-68-10]]
+
+^<<v21-68-10,10>>^ e por causa do zelo pela casa de Deus.
+
+[[v21-68-11]]
+
+^<<v21-68-11,11>>^ Mortifiquei pelo jejum a minha alma, e isto tornou-se-me em opróbrio.
+
+[[v21-68-12]]
+
+^<<v21-68-12,12>>^ Tomei por vestido um saco, e fui para eles objecto de escárnio.
+
+[[v21-68-13]]
+
+^<<v21-68-13,13>>^ Falam contra mim os que se sentam à porta (da cidade), e escarnecem-me os que bebem vinho.
+
+[[v21-68-14]]
+
+^<<v21-68-14,14>>^ Porém, ó Senhor, a minha oração eleva-se a ti no tempo da graça, ó Deus; ouve-me segundo a tua grande bondade, segundo o teu auxílio fiel.
+
+[[v21-68-15]]
+
+^<<v21-68-15,15>>^ Tira-me do lodo, para que não seja submergido, livra-me daqueles que me odeiam e da profundidade das águas (da tribulação).
+
+[[v21-68-16]]
+
+^<<v21-68-16,16>>^ Não me afoguem as ondas das águas, nem me observa o abismo, nem a boca do poço (de tantas misérias) se feche sobre mim.
+
+[[v21-68-17]]
+
+^<<v21-68-17,17>>^ Ouve-me, Senhor, porque é benigna a tua graça; segundo a multidão das tuas comiserações olha para mim,
+
+[[v21-68-18]]
+
+^<<v21-68-18,18>>^ não escondas o teu rosto do teu servo; ouve-me prontamente, porque estou angustiado.
+
+[[v21-68-19]]
+
+^<<v21-68-19,19>>^ Aproxima-te da minha alma, resgata-a; por causa dos meus inimigos, livra-me.
+
+[[v21-68-20]]
+
+^<<v21-68-20,20>>^ Tu conheces o meu opróbrio, a minha confusão e a minha vergonha; à tua vista estão todos os que me afligem.
+
+[[v21-68-21]]
+
+^<<v21-68-21,21>>^ O opróbrio despedaçou o meu coração e desfaleci; esperei que alguém se condoesse de mim, e não houve ninguém; esperei que alguém me consolasse, e não achei.
+
+[[v21-68-22]]
+
+^<<v21-68-22,22>>^ Misturaram fel na minha comida, e na minha sede apresentaram-me vinagre.
+
+[[v21-68-23]]
+
+^<<v21-68-23,23>>^ (Em castigo) torne-se a sua mesa um laço para eles, e uma rede para os seus amigos. (ver nota)
+
+[[v21-68-24]]
+
+^<<v21-68-24,24>>^ Obscureçam-se os seus olhos para que não vejam; e faz que os seus flancos vacilem sempre.
+
+[[v21-68-25]]
+
+^<<v21-68-25,25>>^ Derrama sobre eles a tua indignação e o furor da tua cólera os alcance.
+
+[[v21-68-26]]
+
+^<<v21-68-26,26>>^ Devastada seja a sua morada; e não haja quem habite nas suas tendas.
+
+[[v21-68-27]]
+
+^<<v21-68-27,27>>^ Porquanto perseguiram aquele que tu feriste, e agravaram a dor daquele que vulneraste.
+
+[[v21-68-28]]
+
+^<<v21-68-28,28>>^ Acrescenta culpas às suas culpas, e não sejam proclamados justos diante de ti.
+
+[[v21-68-29]]
+
+^<<v21-68-29,29>>^ Sejam riscados do livro dos viventes, e não sejam inscritos com os justos.
+
+[[v21-68-30]]
+
+^<<v21-68-30,30>>^ Quanto a mim, sou mísero e cheio de dores; protege-me, ó Deus, com teu auxílio.
+
+[[v21-68-31]]
+
+^<<v21-68-31,31>>^ Glorificarei o nome de Deus com cânticos, e proclamá-lo-ei com uma acção de graças.
+
+[[v21-68-32]]
+
+^<<v21-68-32,32>>^ E isto agradará a Deus mais do que um touro, mais do um novilho (já crescido) com chifres e unhas.
+
+[[v21-68-33]]
+
+^<<v21-68-33,33>>^ Vede, ó humildes, e alegrai-vos, e reanimai o vosso coração, vós que buscais a Deus.
+
+[[v21-68-34]]
+
+^<<v21-68-34,34>>^ Porque o Senhor ouve os pobres e não despreza os que por amor dele estão em cadeias.
+
+[[v21-68-35]]
+
+^<<v21-68-35,35>>^ Louvem-no os céus e a terra, os mares e tudo o que neles se move.
+
+[[v21-68-36]]
+
+^<<v21-68-36,36>>^ Com efeito, Deus salvará Sião e edificará as cidades de Judá: morarão ali e possuirão.
+
+[[v21-68-37]]
+
+^<<v21-68-37,37>>^ A descendência de seus (fiéis) servos a receberá em herança; os que amam o seu nome habitarão nela.
+
+'''
+
+xref:021-salmos/021-salmos-067.adoc#v21-67-0[&#60; Capítulo Anterior] | <<v21-68-0,Topo>> | xref:021-salmos/021-salmos-069.adoc#v21-69-0[Próximo Capítulo &#62;]

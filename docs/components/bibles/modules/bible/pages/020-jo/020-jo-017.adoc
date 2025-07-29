@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v20-17-0]]
+=== Jó, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 17 de Jó, o protagonista continua a lamentar a sua situação difícil e a falta de esperança que sente em relação ao futuro. Ele se sente desprezado pelos seus amigos e abandonado por Deus. A seguir estão cinco versículos relacionados com os temas abordados nesse capítulo:
+* Salmos 88:8: "Afastei dos teus olhos os meus conhecidos; fiz de mim mesmo um horror para eles. Estou fechado e não posso sair." Este versículo retrata a solidão que Jó sente e como ele se afastou dos seus conhecidos por causa do sofrimento que está passando.
+* Isaías 53:3: "Era desprezado, e o mais rejeitado entre os homens, homem de dores, e experimentado nos trabalhos; e, como um de quem os homens escondiam o rosto, era desprezado, e não fizemos dele caso algum." Este verso fala sobre como Jó se sente desprezado e rejeitado pelos seus amigos e até mesmo por Deus.
+* Salmos 88:15: "Estou aflito e prestes a morrer desde a minha mocidade; carrego sobre mim os terrores que provocas, e estou completamente desesperado." Este verso descreve a condição desesperada de Jó, que sente que tem carregado o peso do sofrimento desde a sua juventude.
+* Lamentações 3:18: "E disse: Consumiu-se a minha força e a minha esperança no SENHOR." Jó sente que perdeu toda a sua força e esperança, especialmente em relação a Deus, e que não tem mais nada para se segurar.
+* Salmos 22:14: "Sou derramado como água, e todos os meus ossos se desconjuntam; o meu coração é como cera, derreteu-se no meio das minhas entranhas." Este verso ilustra a fraqueza física e emocional que Jó sente, comparando-o com água e cera derretida.
+****
+
+[[v20-17-1]]
+
+^<<v20-17-1,1>>^ O sopro da minha vida vai-se consumindo, os meus dias se extinguem e só me resta o sepulcro
+
+[[v20-17-2]]
+
+^<<v20-17-2,2>>^ Cercam-me escarnecedores, os meus olhos têm de ver os seus escárnios.
+
+[[v20-17-3]]
+
+^<<v20-17-3,3>>^ Livra-me, Senhor, e põe-me junto de ti, e (então) combata contra mim a mão de quem quer que for.
+
+[[v20-17-4]]
+
+^<<v20-17-4,4>>^ Tu afastaste da inteligência o seu coração, por isso não serão exaltados. (ver nota)
+
+[[v20-17-5]]
+
+^<<v20-17-5,5>>^ Há quem prometa a presa aos companheiros, quando os olhos de seus filhos desfalecem. (ver nota)
+
+[[v20-17-6]]
+
+^<<v20-17-6,6>>^ Ele me reduziu a ser objecto de riso do povo, sou um (homem) a quem se cospe no rosto.
+
+[[v20-17-7]]
+
+^<<v20-17-7,7>>^ Os meus olhos escureceram-se de amargura, todos os meus membros são como uma sombra.
+
+[[v20-17-8]]
+
+^<<v20-17-8,8>>^ Os justos pasmam disto (que me acontece), e o inocente se levanta contra o ímpio. (ver nota)
+
+[[v20-17-9]]
+
+^<<v20-17-9,9>>^ Mas o justo persistirá no seu caminho, e aquele que tem as mãos puras crescerá em fortaleza.
+
+[[v20-17-10]]
+
+^<<v20-17-10,10>>^ Voltai, enfim, vós todos, vinde; não acharei entre vós nenhum sapiente? (ver nota)
+
+[[v20-17-11]]
+
+^<<v20-17-11,11>>^ Os meus dias passaram, os meus projetos ruíram, os projetos queridos do meu coração.
+
+[[v20-17-12]]
+
+^<<v20-17-12,12>>^ Tornam a noite em dia; em face das trevas (dizem que) a luz está próxima.
+
+[[v20-17-13]]
+
+^<<v20-17-13,13>>^ Ainda que eu espere com paciência, o sepulcro será a minha casa, e tenho preparado o meu leito nas trevas.
+
+[[v20-17-14]]
+
+^<<v20-17-14,14>>^ Eu disse à podridão: Tu és meu pai! E aos vermes: Vós sois minha mãe e minha irmã.
+
+[[v20-17-15]]
+
+^<<v20-17-15,15>>^ Onde está, pois, agora a minha esperança? E a minha felicidade, quem a pode ver?
+
+[[v20-17-16]]
+
+^<<v20-17-16,16>>^ Todas as minhas coisas descerão ao mais profundo do sepulcro; e julgas tu que eu, ao menos neste lugar, terei descanso?
+
+'''
+
+xref:020-jo/020-jo-016.adoc#v20-16-0[&#60; Capítulo Anterior] | <<v20-17-0,Topo>> | xref:020-jo/020-jo-018.adoc#v20-18-0[Próximo Capítulo &#62;]

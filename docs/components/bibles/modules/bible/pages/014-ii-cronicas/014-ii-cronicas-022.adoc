@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v14-22-0]]
+=== II Crônicas, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Crônicas 22 relata a ascensão ao trono de Judá do rei Acazias, filho de Atalia, que governou por apenas um ano e seguiu o mau exemplo de sua mãe e do rei de Israel, Acabe. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* 1 Reis 16:30-33: "E Acabe, filho de Onri, fez o que era mau aos olhos do Senhor, mais do que todos os que foram antes dele ... E Acabe fez um poste-ídolo e, assim, Acabe fez mais para provocar o Senhor, Deus de Israel, a ira do que todos os reis de Israel que foram antes dele." Este versículo menciona o rei Acabe de Israel, que é referenciado em 2 Crônicas 22:3 como um exemplo a ser seguido por Acazias.
+* 1 Reis 21:25: "Não houve ninguém como Acabe, que se vendeu para fazer o mal aos olhos do Senhor, porque sua esposa, Jezabel, o incitava." Este versículo faz referência à esposa de Acabe, Jezabel, que também é mencionada em 2 Crônicas 22:2 como a mãe de Acazias.
+* 2 Reis 9:30-37: Este é um relato da morte de Jezabel, que é mencionada em 2 Crônicas 22:2 como a mãe de Acazias. Embora não seja diretamente relacionado ao reinado de Acazias, é um exemplo de como a maldade de Jezabel afetou aqueles ao seu redor.
+* Provérbios 22:8: "Aquele que semeia iniquidade colherá problemas, e a vara de sua raiva será destruída." Este versículo destaca a consequência da maldade, que é um tema presente no reinado de Acazias.
+* Isaías 1:4: "Ah, nação pecadora, povo carregado de iniqüidade, descendência de malfeitores, filhos que se corromperam! Eles abandonaram o Senhor, desprezaram o Santo de Israel e o rejeitaram." Este versículo reflete a condição de Judá sob o reinado de Acazias, que se distanciou do Senhor e seguiu a maldade de sua mãe e do rei de Israel.
+****
+
+[[v14-22-1]]
+
+^<<v14-22-1,1>>^ Os habitantes de Jerusalém constituíram rei em lugar dele a Ocozias, seu filho mais novo, porque os guerrilheiros árabes, que haviam feito uma irrupção no acampamento, tinham matado todos os seus irmãos mais velhos. Por isso reinou Ocozias, filho de Jorão, rei de Judá.
+
+[[v14-22-2]]
+
+^<<v14-22-2,2>>^ Ocozias tinha vinte e dois anos quando começou a reinar, e reinou um ano em Jerusalém. Sua mãe chamava-se Atalia, filha de Amri.
+
+[[v14-22-3]]
+
+^<<v14-22-3,3>>^ Ele seguiu também os caminhos da casa de Acab, porque sua mãe o impeliu a proceder com impiedade.
+
+[[v14-22-4]]
+
+^<<v14-22-4,4>>^ Fez o mal na presença do Senhor, como a casa de Acab, da qual escolheu os seus conselheiros depois da morte de seu pai, para a sua ruína.
+
+[[v14-22-5]]
+
+^<<v14-22-5,5>>^ Seguindo os conselhos deles, foi a Ramot de Galaad com Jorão, filho de Acab, rei de Israel, fazer guerra contra Hazael, rei da Síria; os Siros feriram Jorão,
+
+[[v14-22-6]]
+
+^<<v14-22-6,6>>^ o qual voltou para se curar em Jezrael, porque tinha recebido muitas feridas nesta batalha. Ocozias, filho de Jorão, rei de Judá, foi visitar Jorão, filho de Acab, que estava doente em Jezrael.
+
+[[v14-22-7]]
+
+^<<v14-22-7,7>>^ Foi vontade de Deus, (irritado) contra Ocozias, que este fosse visitar Jorão e que, logo que chegasse, saísse com ele contra Jeú, filho de Namsi, a quem o Senhor tinha ungido para extinguir a casa de Acab.
+
+[[v14-22-8]]
+
+^<<v14-22-8,8>>^ Quando Jeú ia para arruinar a casa de Acab, encontrou os príncipes de Judá e os filhos dos irmãos de Ocozias, que o serviam, e matou-os.
+
+[[v14-22-9]]
+
+^<<v14-22-9,9>>^ Buscando também o próprio Ocozias, que se tinha escondido em Samaria, mandou-o prender; trazido a sua presença, matou-o, e sepultaram-no, porque era filho de Josafat, que tinha buscado o Senhor de todo o seu coração. Assim, não ficava esperança alguma de que pudesse reinar alguém da linhagem de Ocozias.
+
+[[v14-22-10]]
+
+^<<v14-22-10,10>>^ Atalia, mãe de Ocozias, vendo que tinha sido morto seu filho, levantou-se e matou toda a estirpe real da casa de Jorão.
+
+[[v14-22-11]]
+
+^<<v14-22-11,11>>^ Porém Josabet, filha do rei, pegou em Joás, filho de Ocozias, e furtou-o do meio dos (outros) filhos do rei, quando os estavam a matar; escondeu-o (juntamente) com a sua ama na câmara dos leitos (ou dormitório). Josabet, que o escondeu, era filha do rei Jorão, mulher do pontífice Jojada, irmã de Ocozias, e por isso Atalia não o matou.
+
+[[v14-22-12]]
+
+^<<v14-22-12,12>>^ Esteve escondido com eles (sacerdote) na casa do Senhor durante os seis anos em que Atalia reinou sobre o país.
+
+'''
+
+xref:014-ii-cronicas/014-ii-cronicas-021.adoc#v14-21-0[&#60; Capítulo Anterior] | <<v14-22-0,Topo>> | xref:014-ii-cronicas/014-ii-cronicas-023.adoc#v14-23-0[Próximo Capítulo &#62;]

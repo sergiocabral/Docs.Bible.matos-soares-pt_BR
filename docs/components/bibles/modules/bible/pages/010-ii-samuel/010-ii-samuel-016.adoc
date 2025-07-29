@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v10-16-0]]
+=== II Samuel, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Samuel 16 relata a traição de Ziba, servo de Mefibosete, e a chegada de Simei, que amaldiçoou o rei Davi enquanto ele fugia de Jerusalém. Simei jogou pedras e terra em direção ao rei e o acusou de ser um homem sanguinário que havia roubado o trono de Saul. Davi, no entanto, se recusou a retaliar contra Simei, acreditando que Deus poderia estar usando as palavras do homem para corrigi-lo.
+* Salmos 4:5: "Muitos dizem: “Quem nos mostrará o bem?” Faze, SENHOR, resplandecer sobre nós a luz da tua face." Davi está sendo amaldiçoado e atacado por Simei em 2 Samuel 16, mas ele confia que Deus é a fonte da verdadeira sabedoria e justiça. Este Salmo pede a Deus para fazer resplandecer a luz de sua face, trazendo alegria e esperança para aqueles que confiam nele.
+* Salmos 31:13-14: "Pois eu ouço a difamação de muitos; o pavor me cerca, enquanto juntos maquinam contra mim; tramam tirar-me a vida. Mas eu, SENHOR, em ti confio e digo: Tu és o meu Deus." Davi está cercado por seus inimigos em 2 Samuel 16, e este Salmo fala sobre a difamação que ele enfrenta. No entanto, Davi coloca sua confiança em Deus, lembrando-se de que ele é seu Deus e protetor.
+* Provérbios 16:7: "Quando os caminhos de um homem são agradáveis ao SENHOR, até a seus inimigos faz que tenham paz com ele." Davi escolhe não retaliar contra Simei em 2 Samuel 16, e este verso de Provérbios destaca a sabedoria dessa decisão. Quando buscamos agradar a Deus em nossos caminhos, ele pode suavizar nossos relacionamentos, mesmo com aqueles que nos opõem.
+* Mateus 5:44: "Eu, porém, vos digo: amai os vossos inimigos e orai pelos que vos perseguem." Em 2 Samuel 16, Simei é claramente um inimigo de Davi, mas em vez de retribuir o mal, Jesus nos ensina a amar e orar por nossos inimigos. Esta atitude de amor e graça pode transformar a nós mesmos e também aqueles que nos tratam mal.
+* Romanos 12:19: "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira; porque está escrito: Minha é a vingança; eu recompensarei, diz o Senhor." Em 2 Samuel 16, Davi escolhe não se vingar de Simei, reconhecendo que a vingança pertence a Deus. Este verso em Romanos nos lembra que a justiça é responsabilidade de Deus e não nossa. Em vez de procurar vingança, devemos confiar em Deus para agir de maneira justa.
+****
+
+[[v10-16-1]]
+
+^<<v10-16-1,1>>^ Tendo Davide baixado um pouco do alto do monte, saiu-lhe ao encontro Siba, criado de Mifiboset, com dois jumentos carregados de duzentos pães, de cem penduras de uvas passas, de cem camadas de figos e de um odre de vinho.
+
+[[v10-16-2]]
+
+^<<v10-16-2,2>>^ O rei disse a Siba: Para que é isto? Siba respondeu: Os jumentos são para montarem neles os domésticos do rei; os pães e os figos, para que os comam os teus criados; o vinho, para beber dele quem se achar fraco no deserto.
+
+[[v10-16-3]]
+
+^<<v10-16-3,3>>^ O rei disse: Onde está o filho do teu senhor? Siba respondeu ao rei: Ficou em Jerusalém, dizendo: Hoje a casa de Israel me restituirá o reino de meu pai.
+
+[[v10-16-4]]
+
+^<<v10-16-4,4>>^ O rei disse a Siba: Tudo o que foi de Mifiboset é teu. Siba respondeu: O que eu desejo, ó rei meu senhor, é achar graça diante de ti.
+
+[[v10-16-5]]
+
+^<<v10-16-5,5>>^ Quando o rei Davide chegou a Baurim, saía dali um homem da parentela da casa de Saul, chamado Semei, filho de Gera, o qual, adiantando-se, o seguia de perto e o amaldiçoava,
+
+[[v10-16-6]]
+
+^<<v10-16-6,6>>^ atirando pedras contra Davide e contra todos os servos do rei Davide, se bem que todo o povo e todos os homens de guerra marchavam à direita e à esquerda do rei.
+
+[[v10-16-7]]
+
+^<<v10-16-7,7>>^ Semei, amaldiçoando o rei, dizia assim: Sai, sai, homem sanguinário, homem de Belial.
+
+[[v10-16-8]]
+
+^<<v10-16-8,8>>^ O Senhor te deu (agora) o pago de todo o sangue da casa de Saul, porquanto lhe usurpaste o reino; o Senhor o deu na mão de teu filho Absalão. Olha como os males te oprimem, porque és um homem sanguinário.
+
+[[v10-16-9]]
+
+^<<v10-16-9,9>>^ Então Abisai, filho de Sarvia, disse ao rei: Por que amaldiçoa este cão morto o rei meu senhor? Eu vou e cortar-lhe-ei a cabeça.
+
+[[v10-16-10]]
+
+^<<v10-16-10,10>>^ O rei disse: Que importa a mim e a vós, filhos de Sarvia? Deixai que amaldiçoe, porque o Senhor lhe permitiu que amaldiçoasse Davide. Quem se atreverá a dizer: Por que fez ele assim?
+
+[[v10-16-11]]
+
+^<<v10-16-11,11>>^ O rei disse a Abisai e a todos os seus servos: Se meu filho, que eu gerei das minhas entranhas, procura tirar-me a vida, quanto mais agora um filho de Jemini! Deixai-o mal-dizer, conforme a permissão do Senhor;
+
+[[v10-16-12]]
+
+^<<v10-16-12,12>>^ talvez o Senhor olhe para a minha aflição, e me dê bens pelas maldições deste dia.
+
+[[v10-16-13]]
+
+^<<v10-16-13,13>>^ Entretanto Davide prosseguia o seu caminho acompanhado dos seus. Semei ia pelo alto, costeando o monte, perto dele, mal-dizendo-o, atirando-lhe pedras, e espalhando poeira pelo ar.
+
+[[v10-16-14]]
+
+^<<v10-16-14,14>>^ Chegou enfim o rei (a Baurim), e com ele todo o povo, fatigado, e ali descansaram.
+
+[[v10-16-15]]
+
+^<<v10-16-15,15>>^ Entretanto Absalão e todos os do seu partido entraram em Jerusalém, e com ele também Aquitofel.
+
+[[v10-16-16]]
+
+^<<v10-16-16,16>>^ Quando Chusai Araquita, amigo de Davide, se apresentou a Absalão, disse-lhe: Deus te salve, ó rei. Deus te salve, ó rei.
+
+[[v10-16-17]]
+
+^<<v10-16-17,17>>^ Absalão disse-lhe: É essa a tua gratidão para com o teu amigo? Por que não foste com o teu amigo?
+
+[[v10-16-18]]
+
+^<<v10-16-18,18>>^ Chusai respondeu a Absalão: De nenhuma sorte, porque eu hei-de ser daquele a quem o Senhor e todo este povo e todo o Israel escolheram; hei-de ficar com ele.
+
+[[v10-16-19]]
+
+^<<v10-16-19,19>>^ Além disso, a quem devo eu servir? Não é ao filho do rei? Como obedeci a teu pai, assim te obedecerei a ti também.
+
+[[v10-16-20]]
+
+^<<v10-16-20,20>>^ Absalão disse a Aquitofel: Deliberai entre ambos sobre o que devemos fazer.
+
+[[v10-16-21]]
+
+^<<v10-16-21,21>>^ Aquitofel disse a Absalão: Abusa das mulheres secundárias de teu pai, que ele deixou para guardarem o palácio, a fim de que, constando por todo o Israel que fizeste esta afronta a teu pai, se unam mais fortemente ao teu partido.
+
+[[v10-16-22]]
+
+^<<v10-16-22,22>>^ Armaram pois para Absalão uma tenda no terraço, e ele, à vista de todo o Israel, abusou das mulheres secundárias de seu pai.
+
+[[v10-16-23]]
+
+^<<v10-16-23,23>>^ Os conselhos que Aquitofel dava naqueles dias eram considerados como oráculos de um Deus. Assim se consideravam todos os conselhos de Aquitofel, quer quando estava com Davide, quer quando estava com Absalão.
+
+'''
+
+xref:010-ii-samuel/010-ii-samuel-015.adoc#v10-15-0[&#60; Capítulo Anterior] | <<v10-16-0,Topo>> | xref:010-ii-samuel/010-ii-samuel-017.adoc#v10-17-0[Próximo Capítulo &#62;]

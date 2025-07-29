@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v47-22-0]]
+=== São Mateus, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em São Mateus 22, Jesus continua a ensinar as multidões com parábolas e responde a diversas questões dos fariseus e dos saduceus, incluindo a pergunta sobre qual é o maior mandamento da Lei. Jesus enfatiza a importância do amor a Deus e ao próximo, e alerta contra a hipocrisia religiosa. Aqui estão cinco versículos relacionados com os temas abordados neste capítulo:
+* Levítico 19:18: "Não se vinguem nem guardem rancor contra alguém do seu povo, mas ame cada um o seu próximo como a si mesmo. Eu sou o Senhor." Jesus cita este mandamento quando questionado sobre qual é o maior mandamento da Lei, enfatizando a importância do amor ao próximo.
+* Salmos 118:22-23: "A pedra que os construtores rejeitaram tornou-se a pedra angular. Isso vem do Senhor, e é algo maravilhoso aos nossos olhos." Jesus usa esta passagem para se referir a si mesmo como a pedra angular rejeitada pelos líderes religiosos, mas escolhida por Deus.
+* Isaías 45:22-23: "Voltem-se para mim e sejam salvos, todos vocês, confins da terra; pois eu sou Deus, e não há nenhum outro. Jurei por mim mesmo, a minha boca proferiu com toda a integridade uma palavra que não será revogada: diante de mim todo joelho se dobrará e toda língua confessará que sou Deus." Jesus usa este versículo para afirmar sua divindade e a necessidade de se voltar a ele para a salvação.
+* Provérbios 22:16: "Aquele que oprime o pobre para aumentar sua riqueza e dá presentes ao rico certamente acabará na pobreza." Jesus condena a hipocrisia religiosa dos fariseus, que ostentam uma aparência de piedade enquanto exploram os pobres e justificam seu comportamento.
+* Isaías 64:6: "Todos nós nos tornamos como um ser impuro, e todas as nossas boas obras são como trapos imundos; todos nós murchamos como folhas, e como o vento as nossas iniquidades nos levam para longe." Jesus adverte contra a autojustiça e a confiança em nossas próprias boas obras, enfatizando a necessidade da graça e da misericórdia de Deus para a salvação.
+****
+
+[[v47-22-1]]
+
+^<<v47-22-1,1>>^ Jesus, tomando a palavra, tornou-lhes a falar em parábolas, dizendo:
+
+[[v47-22-2]]
+
+^<<v47-22-2,2>>^ "O reino dos céus é semelhante a um rei, que preparou o banquete de todas para seu filho. (ver nota)
+
+[[v47-22-3]]
+
+^<<v47-22-3,3>>^ Mandou os seus servos chamar os convidados para as bodas, e não quiseram ir.
+
+[[v47-22-4]]
+
+^<<v47-22-4,4>>^ Enviou de novo outros servos, dizendo; Dizei aos convidados: Eis que preparei o meu banquete, os meus touros e animais cevados já estão mortos, e tudo pronto; vinde às núpcias.
+
+[[v47-22-5]]
+
+^<<v47-22-5,5>>^ Mas eles desprezaram convite e foram-se, um para a sua casa de campo, e outro para o seu negócio.
+
+[[v47-22-6]]
+
+^<<v47-22-6,6>>^ Outros lançaram mão dos servos que ele enviara, ultrajaram-nos e mataram-nos.
+
+[[v47-22-7]]
+
+^<<v47-22-7,7>>^ O rei, tendo ouvido isto, irou-se, e, mandando os seus exércitos, exterminou aqueles homicidas, e pôs fogo à sua cidade.
+
+[[v47-22-8]]
+
+^<<v47-22-8,8>>^ Então disse aos servos: As bodas com efeito estão preparadas, mas os convidados não eram dignos.
+
+[[v47-22-9]]
+
+^<<v47-22-9,9>>^ Ide, pois, às encruzilhadas, e a quantos encontrardes convidai-os para as núpcias.
+
+[[v47-22-10]]
+
+^<<v47-22-10,10>>^ Tendo saído os seus servos pelos caminhos, reuniram todos os que encontraram, maus e bons; e ficou cheia de convidados a sala das bodas.
+
+[[v47-22-11]]
+
+^<<v47-22-11,11>>^ Entrou depois o rei para ver os que estavam à mesa, e viu lá um homem que não estava vestido com veste nupcial.
+
+[[v47-22-12]]
+
+^<<v47-22-12,12>>^ E disse-lhe: Amigo, como entraste aqui, não tendo a veste nupcial? Ele, porém, emudeceu.
+
+[[v47-22-13]]
+
+^<<v47-22-13,13>>^ Eutão o rei disse aos seus servos: Atai-o de pés e mãos, e lançai-o nas trevas exteriores; aí haverá pranto e ranger de dentes.
+
+[[v47-22-14]]
+
+^<<v47-22-14,14>>^ Porque são muitos os chamados, e poucos os escolhidos."
+
+[[v47-22-15]]
+
+^<<v47-22-15,15>>^ Então, retirando-se os fariseus, consultaram entre si como o surpreenderiam no que falasse.
+
+[[v47-22-16]]
+
+^<<v47-22-16,16>>^ Enviaram-lhe seus discípulos juntamente com os herodianos, os quais disseram: "Mestre, nós sabemos que és verdadeiro, e que ensinas o caminho de Deus segundo a verdade, sem atender a ninguém, porque não fazes acepção de pessoas.
+
+[[v47-22-17]]
+
+^<<v47-22-17,17>>^ Diz-nos, pois, o teu parecer: É lícito dar o tributo a César ou não? "
+
+[[v47-22-18]]
+
+^<<v47-22-18,18>>^ Jesus, conhecendo a sua malícia, disse: "Porque me tentais, hipócritas?
+
+[[v47-22-19]]
+
+^<<v47-22-19,19>>^ "Mostrai-me a moeda do tributo." Eles lhe apresentaram um dinheiro.
+
+[[v47-22-20]]
+
+^<<v47-22-20,20>>^ E Jesus disse-lhes: "De quem é esta imagem e inscrição?"
+
+[[v47-22-21]]
+
+^<<v47-22-21,21>>^ Responderam: "De César." Então disse-lhes: "Dai, pois, a César o que é de César, e a Deus o que é de Deus."
+
+[[v47-22-22]]
+
+^<<v47-22-22,22>>^ Tendo ouvido isto, admiraram-se e, deixando-o, retiraram-se.
+
+[[v47-22-23]]
+
+^<<v47-22-23,23>>^ Naquele dia foram ter com ele os saduceus, que negam a ressurreição, e interrogaram-no,
+
+[[v47-22-24]]
+
+^<<v47-22-24,24>>^ dizendo: "Mestre, Moisés disse: Se morrer algum homem sem ter filhos, seu irmão case-se com sua mulher, e dê descendência a seu irmão (Dt. 25, 5-6).
+
+[[v47-22-25]]
+
+^<<v47-22-25,25>>^ Ora entre nós havia sete irmãos. O primeiro, depois de casado, morreu, e, não tendo descendência, deixou sua mulher a seu irmão.
+
+[[v47-22-26]]
+
+^<<v47-22-26,26>>^ O mesmo sucedeu ao segundo e ao terceiro, até ao sétimo.
+
+[[v47-22-27]]
+
+^<<v47-22-27,27>>^ Depois de todos, morreu também a mulher.
+
+[[v47-22-28]]
+
+^<<v47-22-28,28>>^ Na ressurreição, de qual dos sete será a mulher, porque todos foram casados com ela?"
+
+[[v47-22-29]]
+
+^<<v47-22-29,29>>^ Jesus, respondeu-lhes: "Errais, não compreendendo as Escrituras, nem o poder de Deus.
+
+[[v47-22-30]]
+
+^<<v47-22-30,30>>^ Porque na ressurreição, nem os homens terão mulheres, nem as mulheres maridos, mas serão como os anjos de Deus no céu.
+
+[[v47-22-31]]
+
+^<<v47-22-31,31>>^ Acerca da ressurreição dos mortos, não tendes lido o que Deus vos disse:
+
+[[v47-22-32]]
+
+^<<v47-22-32,32>>^ Eu sou o Deus de Abraão, o Deus de Isaac, e o Deus de Jacob, (Ex. 3, 6). Ora ele não é Deus dos mortos, mas dos vivos."
+
+[[v47-22-33]]
+
+^<<v47-22-33,33>>^ As turbas, ouvindo isto, admiravam-se da sua doutrina.
+
+[[v47-22-34]]
+
+^<<v47-22-34,34>>^ Os fariseus, tendo sabido que Jesus reduzira ao silêncio os saduceus, reuniram-se.
+
+[[v47-22-35]]
+
+^<<v47-22-35,35>>^ Um deles, doutor da lei, tentando-o, perguntou-lhe:
+
+[[v47-22-36]]
+
+^<<v47-22-36,36>>^ "Mestre, qual é o maior mandamento da lei?"
+
+[[v47-22-37]]
+
+^<<v47-22-37,37>>^ Jesus disse-lhe: "Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma, de todo o teu espirito (Dt. 6, 4-5).
+
+[[v47-22-38]]
+
+^<<v47-22-38,38>>^ Este é o maior e o primeiro mandamento.
+
+[[v47-22-39]]
+
+^<<v47-22-39,39>>^ O segundo é semelhante a este: Amarás o teu próximo como a ti mesmo (Lv. 19, 18).
+
+[[v47-22-40]]
+
+^<<v47-22-40,40>>^ Destes dois mandamentos depende toda a lei e os profetas."
+
+[[v47-22-41]]
+
+^<<v47-22-41,41>>^ Estando juntos os fariseus, Jesus interrogou-os:
+
+[[v47-22-42]]
+
+^<<v47-22-42,42>>^ "Que vos parece do Cristo? De quem é ele filho?" Responderam-lhe: "De David."
+
+[[v47-22-43]]
+
+^<<v47-22-43,43>>^ Jesus disse-lhes: "Como, pois, lhe chama David, inspirado pelo Espírito, Senhor, dizendo:
+
+[[v47-22-44]]
+
+^<<v47-22-44,44>>^ Disse o Senhor ao meu Senhor: Senta-te à minha mão direita, até que eu ponha os teus inimigos por escabelo de teus pés ? (Ps. 109, 1).
+
+[[v47-22-45]]
+
+^<<v47-22-45,45>>^ Se, pois, David o chama Senhor, como é ele seu filho ? "
+
+[[v47-22-46]]
+
+^<<v47-22-46,46>>^ Ninguém podia responder-lhe uma só palavra. E daquele dia em diante não houve mais quem ousasse interrogá-lo.
+
+'''
+
+xref:047-sao-mateus/047-sao-mateus-021.adoc#v47-21-0[&#60; Capítulo Anterior] | <<v47-22-0,Topo>> | xref:047-sao-mateus/047-sao-mateus-023.adoc#v47-23-0[Próximo Capítulo &#62;]

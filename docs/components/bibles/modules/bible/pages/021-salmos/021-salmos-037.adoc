@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v21-37-0]]
+=== Salmos, 37
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 37 é um salmo de sabedoria que trata da questão da justiça divina em contraste com a prosperidade dos ímpios. O salmista exorta os fiéis a confiar em Deus, a não se preocupar com a prosperidade dos ímpios e a praticar a justiça e a bondade. Abaixo, estão cinco versículos relacionados com os temas abordados em Salmo 37:
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo é um exemplo de confiança em Deus e reconhecimento de sua sabedoria.
+* Jeremias 17:7-8: "Bendito o homem que confia no Senhor, e cuja confiança é o Senhor. Porque ele será como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem o calor, mas a sua folha fica verde; e no ano de sequidão não se afadiga, nem deixa de dar fruto." Este versículo também trata da confiança em Deus e da bênção que ela traz.
+* Provérbios 16:3: "Confia ao Senhor as tuas obras, e teus projetos serão estabelecidos." Este versículo exorta os fiéis a confiarem em Deus em todas as suas atividades e acreditarem que ele os conduzirá ao sucesso.
+* Salmos 34:19: "Muitas são as aflições do justo, mas o Senhor o livra de todas." Este versículo é um exemplo de como a justiça divina funciona. Mesmo que os justos enfrentem dificuldades, Deus sempre os protegerá.
+* 1 Pedro 3:12: "Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos, atentos às suas orações; mas o rosto do Senhor é contra os que fazem o mal." Este versículo reforça a ideia de que Deus está sempre vigilante sobre os justos e que ele não permite que a injustiça prevaleça.
+****
+
+[[v21-37-1]]
+
+^<<v21-37-1,1>>^ Salmo. De Davide. Para memória.
+
+[[v21-37-2]]
+
+^<<v21-37-2,2>>^ Senhor, não me repreendas na tua ira, nem me castigues no teu furor.
+
+[[v21-37-3]]
+
+^<<v21-37-3,3>>^ Com efeito, as tuas setas se me cravaram, e descarregou sobre mim a tua mão.
+
+[[v21-37-4]]
+
+^<<v21-37-4,4>>^ Nada há são na minha carne por causa da tua indignação, nada há intacto nos meus ossos, por causa do meu pecado.
+
+[[v21-37-5]]
+
+^<<v21-37-5,5>>^ Em verdade, as minhas culpas se elevaram acima da minha cabeça, como uma carga pesada me oprimem demasiadamente.
+
+[[v21-37-6]]
+
+^<<v21-37-6,6>>^ As minhas chagas estão infectas e purulentas, por causa da minha loucura.
+
+[[v21-37-7]]
+
+^<<v21-37-7,7>>^ Deprimido, extremamente encurvado, todo o dia ando oprimido de tristeza.
+
+[[v21-37-8]]
+
+^<<v21-37-8,8>>^ De facto, as minhas entranhas estão cheias de inflamação, não há parte alguma sã na minha carne
+
+[[v21-37-9]]
+
+^<<v21-37-9,9>>^ Estou esgotado e grandemente abatido, o frêmito do meu coração arranca-me rugidos.
+
+[[v21-37-10]]
+
+^<<v21-37-10,10>>^ O Senhor, bem vês todos os meus desejos, e o meu gemido não te é oculto.
+
+[[v21-37-11]]
+
+^<<v21-37-11,11>>^ O meu coração palpita, a minha força abandona-me, a própria luz dos meus olhos me falta.
+
+[[v21-37-12]]
+
+^<<v21-37-12,12>>^ Os meus amigos e os meus companheiros conservam-se afastados das minhas chagas, e os meus parentes põem-se ao longe.
+
+[[v21-37-13]]
+
+^<<v21-37-13,13>>^ Armam laços os que atentam contra a minha vida, e os que procuram a minha desgraça ameaçam desditas, todo o dia maquinam enganos.
+
+[[v21-37-14]]
+
+^<<v21-37-14,14>>^ Eu, porém, como um surdo, não ouço, e sou como um mudo que não abre a boca.
+
+[[v21-37-15]]
+
+^<<v21-37-15,15>>^ E tornei-me como um homem que não houve, e que não tem réplica na sua boca.
+
+[[v21-37-16]]
+
+^<<v21-37-16,16>>^ Porque em ti. Senhor, confio, tu me ouvirás. Senhor Deus meu.
+
+[[v21-37-17]]
+
+^<<v21-37-17,17>>^ Digo, com efeito: "Não se alegrem à minha custa, não se ensoberbeçam contra mim quando o meu pé resvalar."
+
+[[v21-37-18]]
+
+^<<v21-37-18,18>>^ Realmente eu estou prestes a cair, a minha dor está sempre diante de mim.
+
+[[v21-37-19]]
+
+^<<v21-37-19,19>>^ Eu confesso a minha culpa, estou aflito por causa do meu pecado,
+
+[[v21-37-20]]
+
+^<<v21-37-20,20>>^ Entretanto os que sem razão me atacam são poderosos e os que me odeiam injustamente são muitos.
+
+[[v21-37-21]]
+
+^<<v21-37-21,21>>^ Os que tornam mal por bem hostilizam-me, porque eu sigo o bem.
+
+[[v21-37-22]]
+
+^<<v21-37-22,22>>^ Não me desampares. Senhor Deus meu, não te apartes de mim!
+
+[[v21-37-23]]
+
+^<<v21-37-23,23>>^ Acode prontamente em meu socorro. Senhor, salvação minha!
+
+'''
+
+xref:021-salmos/021-salmos-036.adoc#v21-36-0[&#60; Capítulo Anterior] | <<v21-37-0,Topo>> | xref:021-salmos/021-salmos-038.adoc#v21-38-0[Próximo Capítulo &#62;]

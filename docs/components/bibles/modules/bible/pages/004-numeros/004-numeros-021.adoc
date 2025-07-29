@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v4-21-0]]
+=== Números, 21
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 21 de Números conta a história do povo de Israel após a morte de Aarão e como eles lidaram com a jornada pelo deserto. Inicialmente, eles enfrentaram algumas dificuldades, como falta de água e comida, e se queixaram contra Deus e Moisés. Deus enviou serpentes venenosas como um castigo, mas depois de Moisés orar por eles, Deus providenciou uma cura. O capítulo também narra as batalhas que Israel travou contra os amorreus e a conquista de suas terras.
+* Êxodo 15:26: "Ele disse: 'Se vocês ouvirem atentamente a voz do Senhor, o seu Deus, e fizerem o que é reto aos seus olhos, se derem ouvidos aos seus mandamentos e obedecerem a todos os seus decretos, não trarei nenhuma das doenças que trouxe sobre os egípcios, pois eu sou o Senhor que os cura.'" Este versículo fala sobre a obediência a Deus e a promessa de cura, o que se relaciona com a história das serpentes venenosas que foram enviadas como um castigo, mas Deus providenciou uma cura quando o povo se arrependeu.
+* Deuteronômio 8:2: "Lembrem-se de como o Senhor, o seu Deus, os conduziu por todo o caminho no deserto, durante esses quarenta anos, para humilhá-los e pô-los à prova, a fim de conhecer suas intenções, se iriam obedecer aos seus mandamentos." Este versículo relembra a jornada do povo de Israel pelo deserto, incluindo os eventos descritos em Números 21, e destaca a importância da obediência aos mandamentos de Deus.
+* Salmos 136:16-17: "Ele conduziu o seu povo pelo deserto; Seu amor dura para sempre. Derrotou reis poderosos; Seu amor dura para sempre." Este salmo descreve a fidelidade de Deus em guiar seu povo pelo deserto e ajudá-los a superar seus inimigos, o que se relaciona com as batalhas descritas em Números 21.
+* Isaías 35:6: "Então o coxo saltará como um cervo, e a língua do mudo cantará de alegria. Águas jorrarão no deserto, e riachos no ermo." Este versículo fala sobre a cura divina e a promessa de água no deserto, que se relaciona com a história das serpentes venenosas e a falta de água no deserto que o povo de Israel enfrentou.
+* João 3:14-15: "Como Moisés levantou a serpente no deserto, assim também o Filho do homem será levantado, para que todo o que nele crer tenha a vida eterna." Este versículo faz referência à história das serpentes venenosas em Números 21 e aponta para a salvação através da crença em Jesus, que foi levantado como um símbolo de cura e libertação.
+****
+
+[[v4-21-1]]
+
+^<<v4-21-1,1>>^ O rei Cananeu Arad, que habitava ao meio-dia, tendo ouvido que Israel viera pelo caminho dos exploradores, pelejou contra ele, e, ficando vencedor, levou dele despojos.
+
+[[v4-21-2]]
+
+^<<v4-21-2,2>>^ Então Israel fez voto ao Senhor, e disse: Se tu entregares nas minhas mãos este povo, eu arruinarei as suas cidades. (ver nota)
+
+[[v4-21-3]]
+
+^<<v4-21-3,3>>^ O Senhor ouviu os rogos de Israel e entregou-lhe os Cananeus, que ele matou, destruídas as suas cidades, pondo àquele lugar o nome de Horma, isto é, Anátema.
+
+[[v4-21-4]]
+
+^<<v4-21-4,4>>^ Partiram do monte Hor pela estrada que conduz ao mar Vermelho, para rodearem o pais de Edom. O povo começou a enfastiar-se do caminho e das fadigas,
+
+[[v4-21-5]]
+
+^<<v4-21-5,5>>^ e, falando contra Deus e contra Moisés, disse: Por que nos tiraste do Egito, para morrermos num deserto? Falta pão, não há água: a nossa alma está enfastiada deste alimento levíssimo.
+
+[[v4-21-6]]
+
+^<<v4-21-6,6>>^ Por esta causa o Senhor enviou contra o povo serpentes ardentes, que feriram e mataram muitos.
+
+[[v4-21-7]]
+
+^<<v4-21-7,7>>^ (Os Israelitas) foram ter com Moisés e disseram-lhe: Nós pecamos porque falamos contra o Senhor e contra ti: roga-lhe que afaste de nós as serpentes. Moisés orou pelo povo,
+
+[[v4-21-8]]
+
+^<<v4-21-8,8>>^ e o Senhor disse-lhe: Faze uma serpente de bronze, e põe-na por sinal: aquele que, sendo ferido, olhar para ela, viverá.
+
+[[v4-21-9]]
+
+^<<v4-21-9,9>>^ Moisés fez, pois, uma serpente de bronze, e pô-la por sinal: os feridos que olhavam para ela, saravam.
+
+[[v4-21-10]]
+
+^<<v4-21-10,10>>^ Os filhos de Israel, depois que partiram, foram acampar em Oboth.
+
+[[v4-21-11]]
+
+^<<v4-21-11,11>>^ Tendo saído de lá, armaram as suas tendas em Jeabarim no deserto, que olha para Moab, ao oriente.
+
+[[v4-21-12]]
+
+^<<v4-21-12,12>>^ Partindo deste lugar, foram à torrente de Zared:
+
+[[v4-21-13]]
+
+^<<v4-21-13,13>>^ deixada a qual, foram acampar defronte do rio Arnon, que corre no deserto, saindo dos territórios dos Amorreus, porque o Arnon é o limite de Moab, que separa os Moabitas dos Amorreus.
+
+[[v4-21-14]]
+
+^<<v4-21-14,14>>^ Por isso se diz no livro das guerras do Senhor Assim como fez no mar Vermelho, assim fará nas torrentes do Arnon.
+
+[[v4-21-15]]
+
+^<<v4-21-15,15>>^ Os rochedos das torrentes se inclinaram, para descansarem em Ar, e repousarem sobre os confins dos Moabitas.
+
+[[v4-21-16]]
+
+^<<v4-21-16,16>>^ Partindo de lá, apareceu o poço, sobre o qual o Senhor tinha dito a Moisés: Junta o povo, e eu lhe darei água.
+
+[[v4-21-17]]
+
+^<<v4-21-17,17>>^ Então cantou Israel este cântico: Suba o poço. Cantavam:
+
+[[v4-21-18]]
+
+^<<v4-21-18,18>>^ O poço, que os príncipes cavaram, e que os chefes do povo prepararam, por ordem do dador da lei, e com os seus bastões. Do deserto (foram) a Matana:
+
+[[v4-21-19]]
+
+^<<v4-21-19,19>>^ de Matana a Naaliei; de Naaliel a Bamoth;
+
+[[v4-21-20]]
+
+^<<v4-21-20,20>>^ de Bamoth a um vale que está no país de Moab, no cimo de Fasga, o qual olha para o deserto.
+
+[[v4-21-21]]
+
+^<<v4-21-21,21>>^ Então Israel mandou embaixadores a Seon, rei dos Amorreus, para lhe dizer:
+
+[[v4-21-22]]
+
+^<<v4-21-22,22>>^ Suplico-te que me deixes passar pelo teu país; não declinaremos nem para os campos, nem para as vinhas, não beberemos água dos poços; iremos pela estrada real, até passarmos os teus limites.
+
+[[v4-21-23]]
+
+^<<v4-21-23,23>>^ Ele, porém, não quis permitir que Israel passasse pelos seus territórias; antes, tendo juntado um exército, saiu-lhe ao encontro no deserto, foi a Jasa, e combateu contra ele.
+
+[[v4-21-24]]
+
+^<<v4-21-24,24>>^ Contudo foi derrotado à ponta de espada por Israel, que conquistou o seu pais, desde o Arnon até Jeboc, e até aos filhos de Amon: porque as fronteiras dos Amonitas estavam defendidas por fortes guarnições.
+
+[[v4-21-25]]
+
+^<<v4-21-25,25>>^ Tomou Israel todas as suas cidades, habitou nas cidades dos Amorreus, isto é, em Hesebon, e nas suas aldeias.
+
+[[v4-21-26]]
+
+^<<v4-21-26,26>>^ A cidade de Hesebon pertencia a Seon, rei dos Amorreus, que tinha feito guerra ao rei de Moab, e lhe tinha tomado toda a terra que estava no seu poder até ao Arnon.
+
+[[v4-21-27]]
+
+^<<v4-21-27,27>>^ Por isso se diz como provérbio: Vinde a Hesebon! Edifique-se, e levante-se a cidade de Seon!
+
+[[v4-21-28]]
+
+^<<v4-21-28,28>>^ Um fogo saiu de Hesebon, uma chama da cidade de Seon, e devorou Ar dos Moabitas, e os habitantes das alturas do Arnon.
+
+[[v4-21-29]]
+
+^<<v4-21-29,29>>^ Ai de ti, Moab! Pereceste, povo de Camos! Ele deixou que fossem fugitivos seus filhos, e entregou cativas as suas filhas a Seon, rei dos Amorreus.
+
+[[v4-21-30]]
+
+^<<v4-21-30,30>>^ O seu jugo foi desfeito, desde Hesebon até Dibon. Chegaram cansados a Nofe e até Medaba.
+
+[[v4-21-31]]
+
+^<<v4-21-31,31>>^ Israel habitou no país do Amorreu.
+
+[[v4-21-32]]
+
+^<<v4-21-32,32>>^ Moisés enviou (homens) a explorar Jazer, e (os Israelitas) tomaram as suas aldeias, e prenderam os seus habitantes,
+
+[[v4-21-33]]
+
+^<<v4-21-33,33>>^ Depois voltaram, e subiram pelo caminho de Basan, e saiu-lhes ao encontro Og, rei de Basan, com todo o seu povo, para lhes dar batalha em Edrai.
+
+[[v4-21-34]]
+
+^<<v4-21-34,34>>^ O Senhor disse a Moisés: Não tenhas medo dele, por que em tua mão o entrego a ele, a todo o seu povo, a todo o seu pais; farás a ele como fizeste a Seon, rei dos Amorreus, que habitava em Hesebon.
+
+[[v4-21-35]]
+
+^<<v4-21-35,35>>^ (Os Israelitas) feriram, pois, também a este com seus filhos e todo o seu povo até ao extermínio, e conquistaram o seu país.
+
+'''
+
+xref:004-numeros/004-numeros-020.adoc#v4-20-0[&#60; Capítulo Anterior] | <<v4-21-0,Topo>> | xref:004-numeros/004-numeros-022.adoc#v4-22-0[Próximo Capítulo &#62;]

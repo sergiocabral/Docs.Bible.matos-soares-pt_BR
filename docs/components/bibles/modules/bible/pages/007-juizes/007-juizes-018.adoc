@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v7-18-0]]
+=== Juízes, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Juízes 18 narra a história de uma tribo de Dan que procura por uma nova terra para habitar, e acaba encontrando um sacerdote idólatra e uma cidade chamada Laís, que é conquistada pelos homens de Dan. Os temas abordados neste capítulo incluem a busca por uma nova casa, a idolatria e a conquista de terras. Abaixo estão cinco versículos relacionados a esses temas.
+* Gênesis 12:1: "Ora, o Senhor disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei." Assim como os homens de Dan em Juízes 18, Abrão foi chamado por Deus para sair de sua terra e procurar por um novo lar.
+* 1 Coríntios 10:14: "Portanto, meus amados, fugi da idolatria." A história do sacerdote idólatra em Juízes 18 serve como um lembrete de que a adoração de ídolos é uma ofensa grave aos olhos de Deus.
+* Josué 18:3: "Disse, pois, Josué aos filhos de Israel: Até quando sereis negligentes em passardes para possuir a terra que vos deu o Senhor Deus de vossos pais?" A busca de Dan por uma nova terra em Juízes 18 reflete a importância de possuir e cuidar das terras que Deus nos deu.
+* Deuteronômio 20:16-17: "Mas das cidades destas nações, que o Senhor teu Deus te dá por herança, nenhuma coisa que tem fôlego deixarás com vida. Antes, destruí-las-ás totalmente: os heteus, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus, como te ordenou o Senhor teu Deus." A conquista de Laís pelos homens de Dan em Juízes 18 é semelhante à conquista de terras pelos israelitas no Antigo Testamento, seguindo as instruções de Deus para tomar posse da terra prometida.
+* 2 Samuel 7:10: "E prepararei lugar para o meu povo, para Israel, e o plantarei, para que habite no seu lugar, e nunca mais seja removido, nem os filhos da perversidade o aflijam mais, como dantes." O desejo de Dan por uma nova casa em Juízes 18 é semelhante ao desejo de Deus de encontrar um lugar permanente para seu povo, onde eles possam viver em paz e prosperidade.
+****
+
+[[v7-18-1]]
+
+^<<v7-18-1,1>>^ Naqueles dias não havia rei em Israel, e a tribo de Dan buscava uma possessão para habitar nela, porque até então não tinha recebido a sua sorte entre as outras tribos.
+
+[[v7-18-2]]
+
+^<<v7-18-2,2>>^ Os filhos de Dan enviaram de Saraa e de Estaol cinco homens fortíssimos da sua família, para explorarem e reconhecerem cuidadosamente o país, e disseram-lhes: Ide e examinai o país. Postos a caminho, chegaram ao monte Efraim, e entraram em casa de Micas, e nela descansaram.
+
+[[v7-18-3]]
+
+^<<v7-18-3,3>>^ Perto da casa de Micas, reconheceram a voz do jovem Levita e, aproximando-se dele, disseram-lhe: Quem te trouxe aqui? que fazes aqui? por que causa quiseste vir a este lugar?
+
+[[v7-18-4]]
+
+^<<v7-18-4,4>>^ Ele respondeu-lhes: Micas fez-me isto e isto, e assalariou-me para ser seu sacerdote.
+
+[[v7-18-5]]
+
+^<<v7-18-5,5>>^ Eles pediram-lhe que consultasse o Senhor, para poderem saber se a sua jornada seria feliz, se a sua empresa se efectuaria.
+
+[[v7-18-6]]
+
+^<<v7-18-6,6>>^ Ele respondeu-lhes: Ide em paz: o Senhor olha (benignamente) a vossa jornada e o caminho que levais.
+
+[[v7-18-7]]
+
+^<<v7-18-7,7>>^ Partindo pois aqueles cinco homens, foram à (cidade e em de) Lais e viram que o povo habitava nela sem nenhum temor, como era costume entre os Sidónios, seguro e tranquilo, não havendo quem lhe fizesse oposição, que era muito rico, distante de Sidónia e separado de todos os outros homens.
+
+[[v7-18-8]]
+
+^<<v7-18-8,8>>^ Voltando para seus irmãos em Saraa e Estaol, e, perguntando-lhes estes o que tinham feito, responderam-Ihes:
+
+[[v7-18-9]]
+
+^<<v7-18-9,9>>^ Levantai-vos, vamos a eles, porque nós vimos que é um país muito rico e fértil; não sejais descuidados, não vos detenhais; vamos e ocupêmo-lo, quo não vos custará trabalho algum.
+
+[[v7-18-10]]
+
+^<<v7-18-10,10>>^ Entraremos num povo, que vive em segurança num país muito espaçoso, e o Senhor nos dará um lugar onde não falta nada daquelas coisas que são produzidas na terra.
+
+[[v7-18-11]]
+
+^<<v7-18-11,11>>^ Partiram pois da família de Dan, isto é, de Saara e de Estaol, seiscentos homens, munidos com armas de guerra,
+
+[[v7-18-12]]
+
+^<<v7-18-12,12>>^ e, marchando, acamparam em Cariatiarim de Judá; aquele lugar desde então recebeu o nome de Campo de Dan, a ocidente de Cariatiarim.
+
+[[v7-18-13]]
+
+^<<v7-18-13,13>>^ Dali passaram ao monte Efraim. Tendo chegado a casa de Micas,
+
+[[v7-18-14]]
+
+^<<v7-18-14,14>>^ os cinco homens, que primeiro tinham sido enviados a reconhecer o país de Lais, disseram aos outros seus irmãos: Vós sabeis que nesta casa há um éfode e uns terafins, uma imagem esculpida e outra fundida; vêde o que quereis fazer.
+
+[[v7-18-15]]
+
+^<<v7-18-15,15>>^ Passaram um pouco adiante e, entrando na casa do jovem Levita, que estava em casa de Micas, saudaram-no com palavras de paz.
+
+[[v7-18-16]]
+
+^<<v7-18-16,16>>^ Entretanto os seiscentos homens, armados como estavam, ficaram à porta.
+
+[[v7-18-17]]
+
+^<<v7-18-17,17>>^ Os que tinham entrado na casa do jovem, procuravam tomar a escultura, o éfode, os terafins e a imagem de fundição. O sacerdote estava à porta, e os seiscentos homens valorosos estavam esperando a pouca distância.
+
+[[v7-18-18]]
+
+^<<v7-18-18,18>>^ Os que tinham entrado, tomaram a escultura, o éfode, os ídolos e a imagem de fundição. O sacerdote disse-lhes: Que fazeis vós?
+
+[[v7-18-19]]
+
+^<<v7-18-19,19>>^ Eles responderam-lhe: Cala-te, põe mão sobre a tua boca, e vem connosco, para que nos sirvas de pai e de sacerdote. Qual é melhor para ti, ser sacerdote na casa dum só homem, ou numa tribo e numa família de Israel?
+
+[[v7-18-20]]
+
+^<<v7-18-20,20>>^ Ele, tendo ouvido isto, cedeu às suas palavras, tomou o éfode, os ídolos e a escultura, e foi com eles.
+
+[[v7-18-21]]
+
+^<<v7-18-21,21>>^ Indo eles no caminho, e, tendo feito ir adiante de si os meninos, o gado e tudo o que era precioso,
+
+[[v7-18-22]]
+
+^<<v7-18-22,22>>^ estando já longe da casa de Micas, os homens, que habitavam em casa de Micas, seguiram-nos com grande barulho,
+
+[[v7-18-23]]
+
+^<<v7-18-23,23>>^ e começaram a gritar atrás deles. Eles, voltando-se para trás, disseram a Micas: Que queres tu? por que gritas?
+
+[[v7-18-24]]
+
+^<<v7-18-24,24>>^ Ele respondeu: Vós levastes os meus deuses, que eu tinha feito para mim, o sacerdote e tudo o que tenho, e dizeis; O que é que tens?
+
+[[v7-18-25]]
+
+^<<v7-18-25,25>>^ E os filhos de Dan disseram-lhe: Guarda-te de nos falar mais nisto, não suceda que se lancem sobre ti homens cheios de indignação, e pereças com toda a tua casa.
+
+[[v7-18-26]]
+
+^<<v7-18-26,26>>^ Deste modo continuaram o caminho começado. Micas, vendo que aqueles homens eram mais fortes do que ele, voltou para sua casa.
+
+[[v7-18-27]]
+
+^<<v7-18-27,27>>^ Os seiscentos homens levaram o sacerdote e tudo o que acima dissemos. Chegaram a Lais, a um povo tranquilo o seguro, passaram-no ao fio da espada e puseram fogo à cidade,
+
+[[v7-18-28]]
+
+^<<v7-18-28,28>>^ sem que alguém os socorresse, por habitarem longe de Sidónia e por não terem sociedade nem comércio com outros homens. Esta cidade estava situada no país de Roob. Reedificando-a, povoaram-na,
+
+[[v7-18-29]]
+
+^<<v7-18-29,29>>^ chamando cidade de Dan, do nome de seu pai, que tinha nascido de Israel, aquela que antes se chamava Lais.
+
+[[v7-18-30]]
+
+^<<v7-18-30,30>>^ E erigiram para si a imagem de escultura. Jonatan, filho de Gersam, filho de Moisés, e seus filhos foram sacerdotes na tribo de Dan, até ao dia do seu cativeiro.
+
+[[v7-18-31]]
+
+^<<v7-18-31,31>>^ O ídolo de Micas ficou entre eles, durante todo o tempo que a casa de Deus esteve em Silo. Naqueles dias não havia rei em Israel (para pôr termo a estas desordens).
+
+'''
+
+xref:007-juizes/007-juizes-017.adoc#v7-17-0[&#60; Capítulo Anterior] | <<v7-18-0,Topo>> | xref:007-juizes/007-juizes-019.adoc#v7-19-0[Próximo Capítulo &#62;]

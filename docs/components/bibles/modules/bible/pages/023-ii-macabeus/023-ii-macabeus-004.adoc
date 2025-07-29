@@ -1,0 +1,219 @@
+include::./index.adoc[]
+
+[[v23-4-0]]
+=== II Macabeus, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de 2 Macabeus retrata a corrupção e o paganismo que permeavam o judaísmo na época do Sumo Sacerdote Jasão. Ele havia subornado o governador da Síria para obter o cargo e instituiu práticas pagãs no Templo de Jerusalém. Além disso, ele perseguiu ferozmente os judeus fiéis que resistiam a essas mudanças. Abaixo estão cinco versículos relacionados aos temas abordados no capítulo:
+* Eclesiastes 5:8 - "Se vires em alguma província opressão do pobre e violência do direito e da justiça, não te admires de tal procedimento; pois quem está altamente colocado tem superior que o vigia, e há mais altos ainda sobre eles." Este versículo reflete a corrupção e a injustiça que aconteciam na época de Jasão, onde a opressão dos pobres e a violência contra os justos eram comuns.
+* Isaías 56:10-11 - "Os seus atalaias são cegos, todos eles ignorantes; são cães mudos, não podem ladrar; andam adormecidos, estão deitados, e gostam do sono. E estes cães são gulosos, não se podem fartar; e eles são pastores que nada compreendem; todos eles se tornam para o seu caminho, cada um para a sua ganância, cada um por sua parte." Este versículo denuncia a liderança religiosa corrupta que negligenciava suas responsabilidades em favor de seus próprios interesses egoístas.
+* Ezequiel 22:26 - "Os seus sacerdotes violentam a minha lei e profanam as minhas coisas santas; entre o santo e o profano não fazem diferença, nem discernem o impuro do puro, e de meus sábados escondem os seus olhos, e assim sou profanado no meio deles." Esse versículo ilustra como Jasão e seus seguidores profanaram o Templo de Jerusalém, misturando práticas pagãs com a adoração ao Deus de Israel.
+* Salmos 10:15 - "Quebre o braço do ímpio e malvado; esquadrinha-lhe a sua impiedade até que dela não aches mais nada." Este versículo reflete a esperança dos judeus piedosos de que Deus julgaria os ímpios e restauraria a pureza do Templo.
+* Daniel 12:10 - "Muitos serão purificados, e embranquecidos, e provados; mas os ímpios procederão impiamente, e nenhum dos ímpios entenderá, mas os sábios entenderão." Este versículo indica que, embora os ímpios estivessem em ascensão na época de Jasão, ainda havia aqueles que permaneciam fiéis e que seriam purificados através de suas provações.
+****
+
+[[v23-4-1]]
+
+^<<v23-4-1,1>>^ O (acima) dito Simão, que tinha denunciado o dinheiro e se havia declarado contra a sua pátria, caluniava Onias, como se ele tivesse maltratado Heliodoro e fosse a causa de todo o seu mal:
+
+[[v23-4-2]]
+
+^<<v23-4-2,2>>^ ousava fazer passar por um traidor do reino o protector da cidade, o defensor dos seus concidadãos, o zeloso observador das leis.
+
+[[v23-4-3]]
+
+^<<v23-4-3,3>>^ Como esta inimizade passava a tal extremo que até um partidário de Simão cometia homicídios,
+
+[[v23-4-4]]
+
+^<<v23-4-4,4>>^ considerando Onias o perigo desta discórdia, e que Apolónio, governador da Celesíria e da Fenícia, andava a incitar a malícia de Simão, foi ter com o rei,
+
+[[v23-4-5]]
+
+^<<v23-4-5,5>>^ não como acusador dos seus compatriotas, mas como curador da utilidade comum e particular de todo o povo.
+
+[[v23-4-6]]
+
+^<<v23-4-6,6>>^ Com efeito, via que, sem uma providência do rei, não era possível pôr as coisas em paz, nem fazer Simão desistir da sua loucura.
+
+[[v23-4-7]]
+
+^<<v23-4-7,7>>^ Depois da morte de Seleuco, tendo recebido o reino Antioco, chamado Epífanes, procurava Jasão, irmão de Onias, usurpar-lhe o sumo sacerdócio.
+
+[[v23-4-8]]
+
+^<<v23-4-8,8>>^ Foi (com este fim) ter com o rei, prometendo-lhe trezentos e sessenta talentos de prata e oitenta talentos doutras rendas;
+
+[[v23-4-9]]
+
+^<<v23-4-9,9>>^ prometia-lhe ainda mais outros cento e cinquenta talentos, se lhe fosse dada faculdade de estabelecer um ginásio e uma efebia, e inscrever os habitantes de Jerusalém como cidadãos de Antioquia. (ver nota)
+
+[[v23-4-10]]
+
+^<<v23-4-10,10>>^ O rei anuiu a esta petição. (Jasão) desde que obteve o poder começou logo a fazer passar os seus concidadãos para os costumes dos gregos.
+
+[[v23-4-11]]
+
+^<<v23-4-11,11>>^ Abolidos todos os privilégios que os reis, por um efeito da sua humanidade, tinham concedido aos Judeus por meio de João, pai de Eupolemo, enviado por embaixador aos Romanos a renovar a amizade e a aliança dos Judeus com eles, transtornando as ordenações legítimas dos seus compatriotas, estabeleceu costumes ímpios.
+
+[[v23-4-12]]
+
+^<<v23-4-12,12>>^ Com alegria fundou um ginásio debaixo da própria acrópole, obrigando os mais nobres jovens a ser educados sob o pétaso.
+
+[[v23-4-13]]
+
+^<<v23-4-13,13>>^ Cresceu tanto o helenismo, alastraram tanto os costumes pagãos, por causa da detestável e inaudita maldade do ímpio e nada pontífice Jasão,
+
+[[v23-4-14]]
+
+^<<v23-4-14,14>>^ que os sacerdotes perdendo o zelo pelas funções do altar, desprezando o templo, descuidados dos sacrifícios, corriam aos exercícios da palestra, quando se anunciava o lançamento do disco.
+
+[[v23-4-15]]
+
+^<<v23-4-15,15>>^ Não fazendo caso das honras da pátria, apreciavam muito mais as distinções dos Gregos.
+
+[[v23-4-16]]
+
+^<<v23-4-16,16>>^ Este procedimento produziu funestas consequências, porque aqueles mesmos, cuja forma de viver invejavam, e que em tudo queriam imitar, se tornaram seus inimigos e verdugos.
+
+[[v23-4-17]]
+
+^<<v23-4-17,17>>^ Porque a violação das leis de Deus não fica sem castigo, como se verá pela sucessão dos acontecimentos.
+
+[[v23-4-18]]
+
+^<<v23-4-18,18>>^ Celebrando-se em Tiro os jogos (Olímpicos) quinquenais e estando o rei presente,
+
+[[v23-4-19]]
+
+^<<v23-4-19,19>>^ mandou de Jerusalém o ímpio Jasão alguns cidadãos antioquenos levar trezentos dracmas de prata para o sacrifício de Hércules; (porém) os mesmos que os tinham levado pediram que não se empregassem em tais sacrifícios, porque não convinha, mas em outras despesas.
+
+[[v23-4-20]]
+
+^<<v23-4-20,20>>^ Assim, ainda que o doador destes dracmas os tivesse oferecido para o sacrifício de Hércules, em atenção às instâncias dos que os levavam foram aplicados na construção de galeras.
+
+[[v23-4-21]]
+
+^<<v23-4-21,21>>^ Tendo sido enviado ao Egipto Apolónio, filho de Menesteu, por ocasião da entronização do rei Ptolomeu Filometor, Antíoco soube que este rei se lhe tornara hostil; então, pensando em pôr-se em segurança, foi primeiro a Jope, e depois a Jerusalém.
+
+[[v23-4-22]]
+
+^<<v23-4-22,22>>^ Recebido magnificamente por Jasão e por toda a cidade, fez a sua entrada à luz de fachos e entre públicas aclamações; dali voltou para a Fenícia com o seu exército.
+
+[[v23-4-23]]
+
+^<<v23-4-23,23>>^ Depois dum intervalo de três anos, mandou Jasão a Menelau, irmão daquele Simão de que se falou acima, para levar dinheiro ao rei e tratar de negócios urgentes.
+
+[[v23-4-24]]
+
+^<<v23-4-24,24>>^ Porém Menelau, tendo adquirido a benevolência do rei pelo modo lisonjeiro com que exagerava a grandeza do seu poder, conseguiu fazer recair nas suas mãos o sumo sacerdócio, oferecendo trezentos talentos de prata a mais do que Jasão.
+
+[[v23-4-25]]
+
+^<<v23-4-25,25>>^ Recebidas as ordens do rei, voltou, não tendo nada que fosse, digno do sacerdócio, mas antes os instintos dum tirano cruel e a ira dum animal selvagem.
+
+[[v23-4-26]]
+
+^<<v23-4-26,26>>^ Assim Jasão, que havia sido de seu próprio irmão suplantador, foi por sua vez suplantado e forçado a exilar-se no pais dos Amonitas.
+
+[[v23-4-27]]
+
+^<<v23-4-27,27>>^ Desta sorte obteve Menelau o poder, mas não cuidou de mandar ao rei o dinheiro que lhe tinha prometido, ainda que Sostrato, governador da acrópole o apertasse sobre este pagamento,
+
+[[v23-4-28]]
+
+^<<v23-4-28,28>>^ porque a ele pertencia a cobrança dos tributos. Por tal motivo ambos foram citados a comparecer diante do rei.
+
+[[v23-4-29]]
+
+^<<v23-4-29,29>>^ Menelau deixou a substitui-lo no pontíficado, Lisimaco, seu irmão; Sostrato deixou Crates, governador de Chipre.
+
+[[v23-4-30]]
+
+^<<v23-4-30,30>>^ Enquanto estas coisas se passavam, aconteceu excitarem os de Tarso e os de Maio uma sedição, por terem sido dadas estas cidadelas a Antioquides, concubina do rei.
+
+[[v23-4-31]]
+
+^<<v23-4-31,31>>^ Foi lá, pois, o rei a toda a pressa apaziguá-los, tendo deixado por seu lugar-tenente um dos grandes da sua corte, chamado Andronico.
+
+[[v23-4-32]]
+
+^<<v23-4-32,32>>^ Menelau, persuadido de que esta ocasião lhe era favorável, tendo furtado do templo alguns vasos de ouro, deu parte deles a Andronico e vendeu os outros em Tiro e nas cidades vizinhas.
+
+[[v23-4-33]]
+
+^<<v23-4-33,33>>^ Tendo Onias sabido isto com toda a clareza, repreendeu Menelau, conservando-se, entretanto, refugiada perto de Antioquia, num lugar de asilo, em Dafné. (ver nota)
+
+[[v23-4-34]]
+
+^<<v23-4-34,34>>^ Por esta causa, indo Menelau ter particularmente com Andronico, rogava-lhe que matasse Onias. Foi, pois, Andronico visitar Onias, e depois de o haver persuadido, dando-lhe a dextra com juramento (se bem que Onias o tinha por suspeito), a que saísse daquele asilo, o matou logo, sem nenhuma atenção à justiça.
+
+[[v23-4-35]]
+
+^<<v23-4-35,35>>^ Não somente os Judeus, mas também muitos pagãos ficaram indignados e irritados pela injusta morte deste varão.
+
+[[v23-4-36]]
+
+^<<v23-4-36,36>>^ Quando o rei voltou da Cilícia, foram ter com ele a Antioquia os Judeus e juntamente os Gregos, inimigos da violência, queixando-se desta ilegal morte de Onias.
+
+[[v23-4-37]]
+
+^<<v23-4-37,37>>^ Antíoco ficou penetrado de tristeza no fundo do seu coração, por causa da morte de Onias, e, movido a compaixão, derramou lágrimas, lembrado da sabedoria e discreção do defunto.
+
+[[v23-4-38]]
+
+^<<v23-4-38,38>>^ Depois, vivamente irritado mandou por todas as ruas da cidade, despojar imediatamente Andronico da púrpura, rasgar-lhe as vestes e levá-lo até ao lugar onde tinha cometido a impiedade contra Onias. Aí ordenou que o matassem, dando-lhe assim o Senhor o castigo que merecia.
+
+[[v23-4-39]]
+
+^<<v23-4-39,39>>^ Tendo cometido Lisímaco muitos roubos sacrílegos no templo por conselho de Menelau, e divulgada esta fama, ajuntou-se contra Lisímaco uma grande multidão de povo, quando já tinham desaparecido muitos objectos de ouro.
+
+[[v23-4-40]]
+
+^<<v23-4-40,40>>^ Como as multidões se sublevassem, e estivessem os ânimos cheios de cólera, Lisímaco, tendo feito armar perto de três mil homens, começou a usar de violência, sendo capitão desta gente um certo (homem, chamado) Tirano, igualmente avançado em cidade e em loucura.
+
+[[v23-4-41]]
+
+^<<v23-4-41,41>>^ Quando foi conhecida a agressão de Lisímaco, uns arrebatadamente lançaram mão de pedras, outros de paus, e alguns arrojaram cinza contra os homens de Lisímaco.
+
+[[v23-4-42]]
+
+^<<v23-4-42,42>>^ Foram feridos muitos, alguns derrubados, e todos postos em fuga. Mataram o mesmo sacrílego (Lisímaco) junto do tesouro.
+
+[[v23-4-43]]
+
+^<<v23-4-43,43>>^ Por todas estas desordens instaurou-se um processo contra Menelau.
+
+[[v23-4-44]]
+
+^<<v23-4-44,44>>^ Quando o rei veio a Tiro, foram três deputados enviados pelos anciães fazer as suas queixas nesta matéria.
+
+[[v23-4-45]]
+
+^<<v23-4-45,45>>^ Vendo Menelau que ia ser vencido, prometeu dar a Ptolomeu, filho de Dorimeno, uma grande soma de dinheiro, para ele falar ao rei em seu favor.
+
+[[v23-4-46]]
+
+^<<v23-4-46,46>>^ Ptolomeu levou o rei ao peristilo, como a tomar a fresca, e fê-lo mudar de resolução.
+
+[[v23-4-47]]
+
+^<<v23-4-47,47>>^ O rei declarou inocente a Menelau, posto que culpado em toda a casta de crimes, e condenou à morte aqueles infelizes deputados, que seriam julgados inocentes, se tivessem pleiteado a sua causa mesmo diante dos (bárbaros) Citas.
+
+[[v23-4-48]]
+
+^<<v23-4-48,48>>^ Assim os que haviam sustentado os interesses da cidade, do povo e dos objectos sagrados foram punidos imediatamente com esta pena injusta.
+
+[[v23-4-49]]
+
+^<<v23-4-49,49>>^ Por isso os próprios habitantes de Tiro, indignados, mostraram-se generosíssimos na honrada sepultura que lhes deram.
+
+[[v23-4-50]]
+
+^<<v23-4-50,50>>^ Entretanto Menelau mantinha-se na autoridade, por causa da sede de dinheiro dos governantes, crescendo em malícia e tornando-se o pior inimigo dos seus compatriotas.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-003.adoc#v23-3-0[&#60; Capítulo Anterior] | <<v23-4-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-005.adoc#v23-5-0[Próximo Capítulo &#62;]

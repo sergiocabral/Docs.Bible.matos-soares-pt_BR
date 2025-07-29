@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v28-14-0]]
+=== Eclesiástico, 14
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 14 de Eclesiástico fala sobre a importância de buscar a sabedoria e seguir o caminho certo na vida, evitando a tentação e o pecado. Também destaca a transitoriedade da vida e a necessidade de se preparar para a morte. Abaixo estão cinco versículos relacionados com esses temas:
+* Provérbios 4:7 - "A sabedoria é a principal coisa; adquire pois a sabedoria, emprega tudo o que possuis na aquisição de entendimento." Este versículo destaca a importância da sabedoria e do conhecimento, e reforça a ideia central do capítulo 14 de Eclesiástico.
+* Salmos 39:4 - "Senhor, faze-me conhecer o meu fim e qual a medida dos meus dias, para que eu saiba como sou frágil." Este salmo reflete sobre a transitoriedade da vida e a necessidade de se preparar para a morte, temas abordados em Eclesiástico 14.
+* Provérbios 14:12 - "Há um caminho que ao homem parece direito, mas o fim dele são os caminhos da morte." Este provérbio destaca a importância de escolher o caminho certo na vida e seguir a sabedoria, temas centrais em Eclesiástico 14.
+* Salmos 90:12 - "Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios." Este salmo fala sobre a transitoriedade da vida e a importância de buscar sabedoria e entendimento durante a vida, temas também abordados em Eclesiástico 14.
+* Provérbios 16:25 - "Há um caminho que ao homem parece direito, mas o fim dele são os caminhos da morte." Este provérbio enfatiza a importância de escolher o caminho certo na vida e seguir a sabedoria, e está relacionado com o tema central do capítulo 14 de Eclesiástico.
+****
+
+[[v28-14-1]]
+
+^<<v28-14-1,1>>^ Bem-aventurado o homem que não cometeu faltas com palavras da sua boca, e que não foi torturado pelos remorsos do pecado.
+
+[[v28-14-2]]
+
+^<<v28-14-2,2>>^ Ditoso aquele que não teve tristeza na sua alma, e que não descaiu da sua esperança.
+
+[[v28-14-3]]
+
+^<<v28-14-3,3>>^ A riqueza é inútil ao homem cobiçoso e avaro; e de que serve o ouro ao homem invejoso? (ver nota)
+
+[[v28-14-4]]
+
+^<<v28-14-4,4>>^ O que amontoa riquezas, defraudando-se do necessário com injustiça, ajunta-as para outros, e outrem se regalará com os seus bens.
+
+[[v28-14-5]]
+
+^<<v28-14-5,5>>^ Para quem será bom aquele que é mau para si? Nem ele goza dos seus bens.
+
+[[v28-14-6]]
+
+^<<v28-14-6,6>>^ Nada há pior do que aquele que é avaro para si mesmo: nisto está o salário da sua malícia.
+
+[[v28-14-7]]
+
+^<<v28-14-7,7>>^ Se faz bem, é só por inadvertência e sem querer; e por último descobre a sua malícia.
+
+[[v28-14-8]]
+
+^<<v28-14-8,8>>^ O olho do invejoso é mau; ele volta o seu rosto e despreza a sua alma. (ver nota)
+
+[[v28-14-9]]
+
+^<<v28-14-9,9>>^ O olho do avaro não. se sacia com uma porção injusta; não se fartará, enquanto não tiver secado e consumido a sua vida.
+
+[[v28-14-10]]
+
+^<<v28-14-10,10>>^ O olho mau tende para o mal, e não se satisfará de pão, mas estará faminto e melancólico à sua própria mesa. (ver nota)
+
+[[v28-14-11]]
+
+^<<v28-14-11,11>>^ Filho, se tens posses, faze com elas bem a ti mesmo, e oferece a Deus dignas oblações.
+
+[[v28-14-12]]
+
+^<<v28-14-12,12>>^ Lembra-te que a morte não tarda, e que te foi intimado o ir para o sepulcro, porque é decreto deste mundo o ter infalivelmente de morrer.
+
+[[v28-14-13]]
+
+^<<v28-14-13,13>>^ Faze bem ao teu amigo antes da morte, e, estendendo a mão, dá esmola ao pobre, segundo as tuas posses.
+
+[[v28-14-14]]
+
+^<<v28-14-14,14>>^ Não te prives dum bom dia, e não deixes perder nenhuma parcela do bem que te é concedido.
+
+[[v28-14-15]]
+
+^<<v28-14-15,15>>^ Não vês que hás-de deixar a outros o fruto das tuas penas e dos teus trabalhos, para eles o repartirem, pela sorte, entre si ?
+
+[[v28-14-16]]
+
+^<<v28-14-16,16>>^ Dá, e recebe, e justifica a tua alma.
+
+[[v28-14-17]]
+
+^<<v28-14-17,17>>^ Pratica a justiça antes da tua morte. porque na sepultura não se vai procurar alimento.
+
+[[v28-14-18]]
+
+^<<v28-14-18,18>>^ Toda a carne envelhece como o feno, e como as folhas que crescem sobre as árvores verdes.
+
+[[v28-14-19]]
+
+^<<v28-14-19,19>>^ Umas folhas nascem, e outras caem: assim nas gerações de carne e de sangue; umas morrem e outras nascem.
+
+[[v28-14-20]]
+
+^<<v28-14-20,20>>^ Toda a obra corruptível virá enfim a perecer, e aquele que a fez irá com ela.
+
+[[v28-14-21]]
+
+^<<v28-14-21,21>>^ Toda a obra excelente será bem apreciada, e o que a executa, nela será honrado.
+
+[[v28-14-22]]
+
+^<<v28-14-22,22>>^ Bem-aventurado o homem que permanece constante na sabedoria. que medita na sua justiça, e que pensa, em seu coração, no olhar de Deus que vê tudo;
+
+[[v28-14-23]]
+
+^<<v28-14-23,23>>^ que repassa no seu coração os caminhos da sabedoria, e que penetra na inteligência dos seus segredos, indo atrás dela como quem lhe segue o rasto, e se detém sobre os seus caminhos:
+
+[[v28-14-24]]
+
+^<<v28-14-24,24>>^ que olha pelas suas janelas, que escuta à sua porta;
+
+[[v28-14-25]]
+
+^<<v28-14-25,25>>^ que repousa junto da sua casa, e que, pregando uma estaca nas suas paredes, assenta ao lado dela a sua pequena cabana, dentro da qual terão perpétua morada (todos) os bens.
+
+[[v28-14-26]]
+
+^<<v28-14-26,26>>^ Ele porá seus filhos debaixo da sua cobertura, e ele mesmo morará debaixo dos seus ramos.
+
+[[v28-14-27]]
+
+^<<v28-14-27,27>>^ À sua sombra será defendido do calor, e repousará na sua glória.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-013.adoc#v28-13-0[&#60; Capítulo Anterior] | <<v28-14-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-015.adoc#v28-15-0[Próximo Capítulo &#62;]

@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v30-6-0]]
+=== Jeremias, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 6 trata da rebeldia e da falta de arrependimento do povo de Judá, bem como da iminente destruição que viria sobre eles como consequência de seus pecados. A seguir, apresento cinco versículos relacionados com esses temas:
+* Oséias 14:1: "Converte-te, ó Israel, ao SENHOR teu Deus; porque pelos teus pecados tens caído." Este verso traz uma mensagem semelhante à de Jeremias 6, chamando o povo de Deus ao arrependimento e à conversão.
+* Isaías 55:6-7: "Buscai ao SENHOR enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; volte-se ao SENHOR, que se compadecerá dele; e para o nosso Deus, porque é abundante em perdoar." Esse versículo encoraja as pessoas a buscarem a Deus enquanto há tempo, abandonando seus caminhos pecaminosos e voltando-se para o Senhor, que é abundante em perdoar.
+* Ezequiel 18:30: "Portanto, eu vos julgarei, a cada um conforme os seus caminhos, ó casa de Israel, diz o Senhor JEOVÁ. Tornai-vos e convertei-vos de todas as vossas transgressões, e a iniquidade não vos servirá de tropeço." Esse verso reforça a ideia de que o juízo de Deus será baseado nas ações de cada pessoa, e encoraja as pessoas a se arrependerem e abandonarem seus pecados.
+* Salmos 51:17: "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus." Este versículo enfatiza que o verdadeiro sacrifício a Deus é um coração quebrantado e contrito, e não simplesmente rituais externos.
+* Isaías 1:16-17: "Lavai-vos, purificai-vos, tirai a maldade de vossos atos de diante dos meus olhos; cessai de fazer mal. Aprendei a fazer bem; procurai o juízo, restituí ao oprimido, fazei justiça ao órfão, tratai da causa das viúvas." Este versículo chama as pessoas a abandonarem seus pecados e praticarem a justiça e a bondade, como forma de agradar a Deus.
+****
+
+[[v30-6-1]]
+
+^<<v30-6-1,1>>^ Fugi, filhos de Benjamim, do meio de Jerusalém, fazei soar a trombeta em Tecua e levantai o estandarte sobre Betacarém, porque de banda do aquilão aparece um mal, uma grande ruína.
+
+[[v30-6-2]]
+
+^<<v30-6-2,2>>^ A formosa, a delicada filha de Sião, eu a destruí.
+
+[[v30-6-3]]
+
+^<<v30-6-3,3>>^ A ela chegam os pastores e os seus rebanhos; levantam ao redor as suas tendas; cada um pasta a sua parte.
+
+[[v30-6-4]]
+
+^<<v30-6-4,4>>^ Preparai-vos para lhe fazer guerra; levantai-vos e subamos, ao meio-dia. _(Mas), ai de nós, que declina o dia e as sombras da noite se estendem.
+
+[[v30-6-5]]
+
+^<<v30-6-5,5>>^ Levantai-vos, subamos de noite e deitemos abaixo os seus palácios.
+
+[[v30-6-6]]
+
+^<<v30-6-6,6>>^ Porque isto diz o Senhor dos exércitos: Cortai as suas árvores, levantai plataformas à roda de Jerusalém: esta é a cidade destinada à punição, porque todo o gênero de injustiça reina no meio dela.
+
+[[v30-6-7]]
+
+^<<v30-6-7,7>>^ Como uma nascente faz surgir a água, assim ela a sua maldade. Sòmente se ouve falar nela de injustiças e de ruínas; diante de mim estão sem cessar a tortura e o açoute.
+
+[[v30-6-8]]
+
+^<<v30-6-8,8>>^ Emenda-te, Jerusalém, para que não suceda que a minha alma se aparte de ti e que eu te reduza a um deserto, a uma terra inabitada.
+
+[[v30-6-9]]
+
+^<<v30-6-9,9>>^ Eis o que diz o Senhor dos exércitos: Até ao último cacho, como na vindima, se apanharão os restos de Israel. Torna a passar a mão por entre os sarmentos, como o vindimador.
+
+[[v30-6-10]]
+
+^<<v30-6-10,10>>^ A quem falarei eu? A quem conjurarei que me ouça? Os seus ouvidos estão incircuncidados, não podem ouvir; a palavra do Senhor tornou-se para eles um motivo de opróbrio, não sentem gosto por ela.
+
+[[v30-6-11]]
+
+^<<v30-6-11,11>>^ Por isso é que estou cheio do furor do Senhor; estou cansado de o conter. Derrama a indignação sobre o menino que anda pela rua, e juntamente sobre a assembleia dos jovens. Todos serão presos: o marido e a mulher, o velho e o decrépito.
+
+[[v30-6-12]]
+
+^<<v30-6-12,12>>^ As suas casas passarão a estranhos, assim como os seus campos e as suas mulheres, porque eu estenderei a minha mão sobre os habitantes do país, diz o Senhor.
+
+[[v30-6-13]]
+
+^<<v30-6-13,13>>^ Com efeito, desde o mais pequeno ao maior, todos se entregam à ganância; desde o profeta ao sacerdote, todos procedem com dolo.
+
+[[v30-6-14]]
+
+^<<v30-6-14,14>>^ Tratam à toa as chagas da filha do meu povo, dizendo: Paz, paz! - quando não há paz.
+
+[[v30-6-15]]
+
+^<<v30-6-15,15>>^ Serão confundidos, porque fizeram coisas abomináveis, mas (melhor dizendo) nem sequer sentem já vergonha, não sabem que coisa é envergonhar-se. Por isso cairão entre os mortos, no tempo do castigo cairão, diz o Senhor.
+
+[[v30-6-16]]
+
+^<<v30-6-16,16>>^ Eis o que (também) diz o Senhor: Parai no caminho e vede, perguntai quais são as antigas veredas, qual o caminho da salvação e andai por ele, e achareis repouso para as vossas almas. Mas eles responderam: Não andaremos por ele.
+
+[[v30-6-17]]
+
+^<<v30-6-17,17>>^ Eu estabeleci sentinelas sobre vós. Ouvi a voz da sua trombeta. Mas eles responderam: Não queremos ouvir.
+
+[[v30-6-18]]
+
+^<<v30-6-18,18>>^ Portanto ouvi, ó nações, e tu, ó congregação dos povos; fica sabendo o que lhes acontecerá.
+
+[[v30-6-19]]
+
+^<<v30-6-19,19>>^ Ouve terra! Eu farei vir uma calamidade sobre este povo, fruto dos seus (depravados) desígnios, porque não ouviram as minhas palavras, rejeitaram a minha lei.
+
+[[v30-6-20]]
+
+^<<v30-6-20,20>>^ Que me interessa o incenso de Sabá, a cana aromática de terra longínqua? Os vossos holocaustos não me são agradáveis, as vossas vítimas não me agradam.
+
+[[v30-6-21]]
+
+^<<v30-6-21,21>>^ Portanto eis o que diz o Senhor: Porei diante deste povo pedras de tropeço, em que cairão juntamente os pais e os filhos, em que o vizinho e o amigo perecerão.
+
+[[v30-6-22]]
+
+^<<v30-6-22,22>>^ Isto diz o Senhor: Eis que vem um povo da terra do aquilão, uma nação grande se levanta das extremidades da terra.
+
+[[v30-6-23]]
+
+^<<v30-6-23,23>>^ Trazem na mão o arco e o dardo, são bárbaros, sem piedade; a sua voz soa como o mar; montam em cavalos, dispostos como um (só) homem a pelejar contra ti, filha de Sião.
+
+[[v30-6-24]]
+
+^<<v30-6-24,24>>^ Ouvimos a notícia; (dizem os Judeus) e as nossas mãos perderam a força; fomos surpreendidos pela tribulação, por dores semelhantes às da que está de parto.
+
+[[v30-6-25]]
+
+^<<v30-6-25,25>>^ Não saias aos campos, nem andeis pelos caminhos, porque a espada do inimigo e o espanto cercam-nos por todos os lados.
+
+[[v30-6-26]]
+
+^<<v30-6-26,26>>^ (Ó Jerusalém) filha do meu povo cinge-te de cilício, revolve-te na cinza; toma luto como por um filho único, chora amargamente, porque de repente virá sobre nós o destruidor.
+
+[[v30-6-27]]
+
+^<<v30-6-27,27>>^ A ti (Jeremias) te constituí experimentador do meu povo, para que conheças e proves o seu proceder. (ver nota)
+
+[[v30-6-28]]
+
+^<<v30-6-28,28>>^ Todos são rebeldes, semeadores de calúnias, são cobre e ferro; todos se corromperam. (ver nota)
+
+[[v30-6-29]]
+
+^<<v30-6-29,29>>^ Gastou-se o fole, o chumbo foi consumido no fogo; debalde se procura purificar, as escórias não se separam.
+
+[[v30-6-30]]
+
+^<<v30-6-30,30>>^ Chamai-os uma prata de refugo, porque o Senhor os rejeitou.
+
+'''
+
+xref:030-jeremias/030-jeremias-005.adoc#v30-5-0[&#60; Capítulo Anterior] | <<v30-6-0,Topo>> | xref:030-jeremias/030-jeremias-007.adoc#v30-7-0[Próximo Capítulo &#62;]

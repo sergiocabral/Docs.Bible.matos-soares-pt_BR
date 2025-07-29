@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v11-16-0]]
+=== I Reis, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Reis 16 trata principalmente sobre a sucessão de reis em Israel e em Judá, e sobre os pecados cometidos por esses reis, que levaram à sua queda e à desgraça de seus reinos. Abaixo, seguem cinco versículos da Bíblia que abordam temas semelhantes aos de 1 Reis 16:
+* Provérbios 14:34: "A justiça exalta uma nação, mas o pecado é a vergonha de qualquer povo." Este versículo destaca a importância da justiça e da retidão em uma nação, e como o pecado pode trazer vergonha e ruína.
+* Ezequiel 22:30: "Procurei entre eles alguém que construísse um muro e se colocasse na brecha diante de mim e em favor desta terra, para que eu não a destruísse, mas não encontrei nenhum." Este versículo fala sobre como Deus procurou alguém que pudesse interceder por seu povo, mas não encontrou ninguém. Isso pode ser aplicado ao contexto de 1 Reis 16, em que os reis de Israel e Judá não foram capazes de proteger seus reinos da destruição devido aos seus pecados.
+* Salmos 89:30-32: "Se os seus filhos abandonarem a minha lei e não seguirem as minhas ordenanças, se violarem os meus decretos e não guardarem os meus mandamentos, então castigarei com vara os seus pecados e com açoites a sua iniquidade." Este versículo fala sobre as consequências do pecado e da desobediência, que incluem punição e disciplina.
+* Jeremias 22:24-30: Este trecho do livro de Jeremias fala sobre o rei Jeconias, que foi considerado um rei ímpio e injusto. Deus declara que ele será amaldiçoado e que sua descendência não terá sucesso como reis. Isso se relaciona com 1 Reis 16, em que vários reis ímpios são mencionados e que, por causa de seus pecados, levaram à queda de seus reinos.
+* 2 Crônicas 7:14: "Se o meu povo, que se chama pelo meu nome, se humilhar, orar e buscar a minha face e se afastar dos seus maus caminhos, então eu ouvirei dos céus, perdoarei os seus pecados e curarei a sua terra." Este versículo fala sobre a importância do arrependimento e da busca por Deus, e como isso pode levar à cura e restauração da terra. Isso pode ser aplicado ao contexto de 1 Reis 16, em que os reis de Israel e Judá poderiam ter evitado a queda de seus reinos se tivessem se arrependido de seus pecados e buscado a Deus.
+****
+
+[[v11-16-1]]
+
+^<<v11-16-1,1>>^ A palavra do Senhor foi dirigida a Jeú, filho de Hanani, contra Baasa, nestes termos:
+
+[[v11-16-2]]
+
+^<<v11-16-2,2>>^ Visto que eu te levantei do pé e te constituí chefe sobre o meu povo de Israel, e tu andaste no caminho de Jeroboão e fizeste pecar o meu povo de Israel, provocando-me à ira com pecados,
+
+[[v11-16-3]]
+
+^<<v11-16-3,3>>^ eu varrerei Baasa e a sua casa; farei da tua casa o que fiz da casa de Jeroboão, filho de Nabat.
+
+[[v11-16-4]]
+
+^<<v11-16-4,4>>^ Aquele da linhagem de Baasa que morrer na cidade, comê-lo-ão os cães; o que morrer no campo, comê-lo-ão as aves do céu.
+
+[[v11-16-5]]
+
+^<<v11-16-5,5>>^ O resto das acções de Baasa, todos os seus feitos e batalhas, estão escritos no livro das Crônicas dos reis de Israel.
+
+[[v11-16-6]]
+
+^<<v11-16-6,6>>^ Adormeceu Baasa com seus pais e foi enterrado em Tersa. Seu filho Ela reinou em seu lugar.
+
+[[v11-16-7]]
+
+^<<v11-16-7,7>>^ O oráculo do Senhor, transmitido pelo profeta Jeú, filho de Hanani, foi dirigido contra Baasa e contra a sua casa, não sòmente em castigo de todos os males que ele tinha feito aos olhos do Senhor, irritando-o com as obras das suas mãos, imitando a casa de Jeroboão, mas também por Baasa haver destruído esta casa (de Jeroboão).
+
+[[v11-16-8]]
+
+^<<v11-16-8,8>>^ No ano vigésimo sexto de Asa, rei de Judá, reinou Baasa, sobre Israel, em Tersa, durante dois anos.
+
+[[v11-16-9]]
+
+^<<v11-16-9,9>>^ Rebelou-se contra ele seu servo Zambri, comandante de metade da sua cavalaria. Ela encontrava-se em Tersa, bebendo e embriagando-se em casa de Arsa, governador de Tersa.
+
+[[v11-16-10]]
+
+^<<v11-16-10,10>>^ Caindo Zambri sobre ele, feriu-o e matou-o no ano vigésimo sétimo de Asa, rei de Judá, ficando a reinar em seu lugar,
+
+[[v11-16-11]]
+
+^<<v11-16-11,11>>^ Logo que ele foi rei, logo que subiu no trono, exterminou toda a casa de Baasa e não deixou dela resto algum, nem parentes, nem amigos.
+
+[[v11-16-12]]
+
+^<<v11-16-12,12>>^ Zambri destruiu toda a casa de Baasa, conforme a palavra que o Senhor tinha dito a Baasa pela boca do profeta Jeú,
+
+[[v11-16-13]]
+
+^<<v11-16-13,13>>^ por causa de todos os pecados do Baasa e dos pecados de seu filho Ela, que tinha pecado e fizeram pecar Israel, irritando o Senhor Deus de Israel com os seus ídolos.
+
+[[v11-16-14]]
+
+^<<v11-16-14,14>>^ O resto das acções de Ela, tudo o que ele fez, está escrito ao livro das Crônicas dos reis de Israel.
+
+[[v11-16-15]]
+
+^<<v11-16-15,15>>^ No ano vinte e sete de Asa, rei de Judá, reinou Zambri em Tersa durante sete dias. O exército sitiava Gebetoa, cidade dos Filisteus.
+
+[[v11-16-16]]
+
+^<<v11-16-16,16>>^ Tendo ouvido dizer que Zambri se tinha rebelado e que tinha morto o rei, todo o Israel constituiu seu rei a Anri, o qual era general do exército de Israel, que estava então em campanha.
+
+[[v11-16-17]]
+
+^<<v11-16-17,17>>^ Retirou-se Anri, e todo o Israel com ele, de Gebeton, e foram sitiar Tersa.
+
+[[v11-16-18]]
+
+^<<v11-16-18,18>>^ Vendo Zambri que a cidade estava a ponto de ser tomada, entrou no palácio e lançou-lhe fogo, queimando-se a si mesmo e ao palácio real. Morreu, assim,
+
+[[v11-16-19]]
+
+^<<v11-16-19,19>>^ pelos pecados que tinha cometido, praticando o mal diante do Senhor, andando pelo caminho de Jeroboão, Imitando-o no pecado com que fez pecar a Israel.
+
+[[v11-16-20]]
+
+^<<v11-16-20,20>>^ O resto das acções de Zambri, a sua conjuração, tudo está escrito no livro das Crônicas dos reis de Israel.
+
+[[v11-16-21]]
+
+^<<v11-16-21,21>>^ Então dividiu-se o povo de Israel em dois partidos: metade do povo seguia Tebni, filho de Ginet, para o constituir rei; a outra metade (seguia) Anri.
+
+[[v11-16-22]]
+
+^<<v11-16-22,22>>^ O povo, que estava com Anri, prevaleceu contra o povo que seguia Tebni, filho de Ginet. Tebni morreu, e reinou Anri.
+
+[[v11-16-23]]
+
+^<<v11-16-23,23>>^ No ano trinta e um de Asa, rei de Judá, reinou Anri sobre Israel, durante doze anos. Em Tersa reinou seis anos;
+
+[[v11-16-24]]
+
+^<<v11-16-24,24>>^ depois comprou o monte da Samaria a Samer por dois talentos de prata, cobriu-o de edifícios, e deu à cidade, que tinha edificado, o nome de Samaria, do nome de Samer, dono do monte.
+
+[[v11-16-25]]
+
+^<<v11-16-25,25>>^ Anri fez o mal diante do Senhor; ainda cometeu mais crimes do que todos os seus predecessores.
+
+[[v11-16-26]]
+
+^<<v11-16-26,26>>^ Andou em todo o caminho de Jeroboão, filho de Nabat, nos pecados com que ele tinha feito pecar a Israel, irritando, com os seus ídolos, o Senhor Deus de Israel.
+
+[[v11-16-27]]
+
+^<<v11-16-27,27>>^ O resto das acções de Anri, as guerras que teve, tudo isso está escrito no livro das Crônicas dos reis de Israel.
+
+[[v11-16-28]]
+
+^<<v11-16-28,28>>^ Anri dormiu com seus pais e foi sepultado em Samaria. Em seu lugar reinou Acab, seu filho.
+
+[[v11-16-29]]
+
+^<<v11-16-29,29>>^ Acab, filho de Anri, reinou sobre Israel no ano trinta e oito de Asa, rei de Judá. Reinou Acab, filho de Anri, sobre Israel, em Samaria, vinte e dois anos.
+
+[[v11-16-30]]
+
+^<<v11-16-30,30>>^ Acab, filho de Anri, fez o mal diante do Senhor, mais que todos os que tinha havido antes dele.
+
+[[v11-16-31]]
+
+^<<v11-16-31,31>>^ Nem se contentou com andar nos pecados de Jeroboão, filho de Nabat; além disso, tomou por mulher a Jezabel, filha de Etbaal, rei dos Sidónios, e foi servir a Baal e adorá-lo.
+
+[[v11-16-32]]
+
+^<<v11-16-32,32>>^ Erigiu um altar a Baal no templo de Baal, que tinha edificado em Samaria,
+
+[[v11-16-33]]
+
+^<<v11-16-33,33>>^ e plantou um aschera. Acab prosseguiu no seu mau proceder, irritando o Senhor Deus de Israel mais do que todos os reis de Israel, que o tinham precedido.
+
+[[v11-16-34]]
+
+^<<v11-16-34,34>>^ Durante o seu reinado, Hiel de Betel fundou Jericó; quando lançou os seus alicerces, morreu-lhe Abirão, seu primogênito, e, quando lhe pôs as portas, morreu-lhe Segub, seu último filho, conforme o que o Senhor tinha predito pela boca de Josué filho de Nun.
+
+'''
+
+xref:011-i-reis/011-i-reis-015.adoc#v11-15-0[&#60; Capítulo Anterior] | <<v11-16-0,Topo>> | xref:011-i-reis/011-i-reis-017.adoc#v11-17-0[Próximo Capítulo &#62;]

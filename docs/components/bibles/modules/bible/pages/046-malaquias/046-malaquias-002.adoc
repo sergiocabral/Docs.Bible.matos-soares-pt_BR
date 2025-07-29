@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v46-2-0]]
+=== Malaquias, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Malaquias 2 fala sobre a repreensão dos sacerdotes que falharam em manter a aliança com Deus e violaram sua santidade. O capítulo começa com uma repreensão aos sacerdotes que não honram o nome de Deus e oferecem sacrifícios impuros. Em seguida, fala sobre a aliança de Deus com Levi, o sacerdote, e como ela foi violada pelos sacerdotes da época. O capítulo termina com uma advertência sobre a importância da aliança e do temor a Deus. Aqui estão cinco versículos relacionados aos temas abordados em Malaquias 2, em ordem de proximidade:
+* Isaías 24:5: "Na verdade, a terra está contaminada por causa dos seus moradores, porquanto transgridem as leis, mudam os estatutos, e quebram a aliança eterna." Este versículo fala sobre como a terra está contaminada devido à transgressão das leis e à violação da aliança. Ele se relaciona com a repreensão aos sacerdotes que oferecem sacrifícios impuros em Malaquias 2.
+* Deuteronômio 33:8: "E a Levi disse: Teu Tumim e teu Urim estejam com o teu homem santo, a quem provaste em Massá, e com quem contendeste nas águas de Meribá." Este versículo fala sobre a aliança de Deus com Levi, o sacerdote. Ele se relaciona com a discussão sobre a violação da aliança em Malaquias 2.
+* Jeremias 18:7-8: "Num instante falarei, acerca de uma nação, e acerca de um reino, para arrancar, e para derrubar, e para destruir. Se aquela nação, contra a qual falar, se converter da sua maldade, também eu me arrependerei do mal que pensava fazer-lhe." Este versículo fala sobre como Deus pode mudar de ideia e mostrar misericórdia se uma nação se arrepender. Ele se relaciona com a advertência sobre a importância da aliança e do temor a Deus em Malaquias 2.
+* Neemias 13:29: "Lembra-lhes, meu Deus, de que contaminaram o sacerdócio e a aliança do sacerdócio e dos levitas." Este versículo fala sobre a contaminação do sacerdócio e da aliança com Deus pelos sacerdotes e levitas da época. Ele se relaciona com a repreensão aos sacerdotes que violaram a aliança em Malaquias 2.
+* Provérbios 1:7: "O temor do Senhor é o princípio da sabedoria; os loucos desprezam a sabedoria e a instrução." Este versículo fala sobre a importância do temor a Deus e como ele é o princípio da sabedoria. Ele se relaciona com a advertência sobre a importância da aliança e do temor a Deus em Malaquias 2.
+****
+
+[[v46-2-1]]
+
+^<<v46-2-1,1>>^ Agora esta é, ó sacerdotes, a ordem que se vos intima.
+
+[[v46-2-2]]
+
+^<<v46-2-2,2>>^ Se me não ouvirdes, se não tomardes a peito dar glória ao meu nome, diz o Senhor dos exércitos, eu vos mandarei a maldição e amaldiçoarei as vossas bênçãos. Sim, e (até) já amaldiçoei, porque não pusestes as minhas palavras sobre o vosso coração.
+
+[[v46-2-3]]
+
+^<<v46-2-3,3>>^ Eis que vos tirarei a espádua, e atirar-vos-ei à cara com esterco, — o esterco das vossas solenidades, — e sereis lançados fora com ele. (ver nota)
+
+[[v46-2-4]]
+
+^<<v46-2-4,4>>^ Então sabereis que fui eu que vos mandei esta ordem, para que a minha aliança com Levi subsista, diz o Senhor dos exércitos.
+
+[[v46-2-5]]
+
+^<<v46-2-5,5>>^ A minha aliança com ele foi vida e paz, e eu dei-lhas; foi temor, e ele temeu-me e tremeu de medo diante do meu nome.
+
+[[v46-2-6]]
+
+^<<v46-2-6,6>>^ A doutrina da verdade estava na sua boca, e a iniquidade não se encontrava nos seus lábios; andava comigo em paz e em rectidão, e afastou muitos da iniquidade.
+
+[[v46-2-7]]
+
+^<<v46-2-7,7>>^ Porque os lábios dos sacerdotes serão os guardas da ciência, e da sua boca se há-de requerer a doutrina, pois ele é o anjo do Senhor dos exércitos.
+
+[[v46-2-8]]
+
+^<<v46-2-8,8>>^ Mas vós desviastes-vos do caminho e fizestes tropeçar muitos na (observância da) lei; violastes a aliança que eu tinha feito com Levi, diz o Senhor dos exércitos.
+
+[[v46-2-9]]
+
+^<<v46-2-9,9>>^ Por isso, como não guardastes os meus caminhos, e, quando se tratava de sentenciar, segundo a minha lei, fizestes acepção de pessoas, também vos tornei desprezíveis e vis aos olhos de todo o povo.
+
+[[v46-2-10]]
+
+^<<v46-2-10,10>>^ Porventura não é um mesmo o pai de todos nós? Não foi um mesmo Deus que nos criou? Por que razão, pois, despreza cada um de nós o seu irmão, violando a aliança de nossos pais?
+
+[[v46-2-11]]
+
+^<<v46-2-11,11>>^ Judá prevaricou, a abominação foi cometida em Israel e em Jerusalém; com efeito, Judá profanou o que é consagrado ao Senhor, o que ele ama, e casou-se com a filha de um deus estranho.
+
+[[v46-2-12]]
+
+^<<v46-2-12,12>>^ Que o Senhor extermine das tendas de Jacob o homem que fizer isto, quer seja mestre, quer discípulo, quer seja oferente de qualquer dom ao Senhor dos exércitos. (ver nota)
+
+[[v46-2-13]]
+
+^<<v46-2-13,13>>^ Ainda fazeis outra coisa: Cobris de lágrimas, de prantos e de gemidos o altar do Senhor, porque não presta mais atenção às vossas - oferendas, não sente agrado no que lhe apresentam vossas mãos.
+
+[[v46-2-14]]
+
+^<<v46-2-14,14>>^ E perguntais: Por que causa? — Porque o Senhor foi testemunha entre ti e a esposa da tua juventude, à qual foste infiel, sendo ela a tua companheira e a esposa da tua aliança.
+
+[[v46-2-15]]
+
+^<<v46-2-15,15>>^ Porventura não fez ele (o Senhor) um só ser que tem carne e sopro de vida? E a que tende este ser único senão a uma posteridade concedida por Deus? Guardai, pois, o vosso espírito, e não desprezeis a mulher que recebestes na vossa mocidade. (ver nota)
+
+[[v46-2-16]]
+
+^<<v46-2-16,16>>^ Quando alguém, por aversão, repudia (a mulher), diz o Senhor Deus de Israel, cobre de injustiça as suas restes, diz o Senhor dos exércitos. Acautelai, pois, a vossa vida e não sejais pérfidos.
+
+[[v46-2-17]]
+
+^<<v46-2-17,17>>^ Vós fatigastes o Senhor com os vossos discursos e dizeis: Em que o temos fatigado? — Nisto que dizeis: Todo o que faz o mal, passa por bom aos olhos do Senhor, que nele se compraz. Ou então (dizeis): Onde está o Deus da justiça?
+
+'''
+
+xref:046-malaquias/046-malaquias-001.adoc#v46-1-0[&#60; Capítulo Anterior] | <<v46-2-0,Topo>> | xref:046-malaquias/046-malaquias-003.adoc#v46-3-0[Próximo Capítulo &#62;]

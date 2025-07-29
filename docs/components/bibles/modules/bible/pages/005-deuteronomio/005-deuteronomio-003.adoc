@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v5-3-0]]
+=== Deuteronômio, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 3 relata a conquista dos israelitas sobre o rei Ogue e seus exércitos, e a divisão das terras entre as tribos de Rúben, Gade e metade da tribo de Manassés. Os versículos escolhidos são:
+* Josué 12:4-5: "E eles tomaram a terra de Ogue, rei de Basã, que era o último dos refains, cuja cama era de ferro, e estava em Rabá dos filhos de Amom, e era de nove côvados de comprimento e quatro de largura, segundo o côvado de um homem." Este versículo menciona o rei Ogue, a cidade de Rabá, e a descrição da cama de Ogue, que é mencionada em Deuteronômio 3:11.
+* Deuteronômio 2:33: "E começamos a tomá-las desde Aroer, que está junto ao ribeiro de Arnom, e desde a cidade que está junto ao ribeiro, até Gileade, e nenhuma cidade houve alta demais para nós; tudo o Senhor nosso Deus no-las entregou." Este versículo se refere à conquista de cidades e terras pelas tribos de Israel, um tema central em Deuteronômio 3.
+* Números 32:33: "Assim Moisés deu aos filhos de Gade, e aos filhos de Rúben, e à meia tribo de Manassés, filho de José, o reino de Siom, rei dos amorreus, e o reino de Ogue, rei de Basã, a terra com as suas cidades, nos seus limites ao redor." Este versículo descreve a divisão das terras conquistadas entre as tribos de Rúben, Gade e metade da tribo de Manassés, que é um tema importante em Deuteronômio 3.
+* Deuteronômio 3:18: "E vos dei ordem, naquele tempo, dizendo: O Senhor vosso Deus vos tem dado esta terra por herança; armados, passareis diante de vossos irmãos, os filhos de Israel, todos os homens valentes." Este versículo fala sobre a herança da terra que Deus deu às tribos de Israel, e a responsabilidade de proteger e defender essa herança.
+* Josué 13:14: "Porém aos filhos de Levi não deu herança; os sacrifícios do Senhor Deus de Israel são a sua herança, como ele lhes tinha dito." Este versículo menciona a tribo de Levi, que não recebeu terras como herança, mas em vez disso foi designada para ser responsável pelos serviços religiosos e sacrifícios. Esse tema é importante em Deuteronômio 3, que fala sobre a divisão das terras conquistadas entre as tribos de Israel.
+****
+
+[[v5-3-1]]
+
+^<<v5-3-1,1>>^ Tendo pois voltado, subimos pelo caminho de Basan, e Og, rei de Basan, saiu ao nosso encontro com o seu povo, para nos dar batalha em Edrai.
+
+[[v5-3-2]]
+
+^<<v5-3-2,2>>^ O Senhor disse-me: Não o temas, porque ele foi entregue nas tuas mãos com todo o seu povo e e sua terra, e farás a ele como fizestes a Seon, rei dos Amorreus, que habitava em Hesebon.
+
+[[v5-3-3]]
+
+^<<v5-3-3,3>>^ O Senhor nosso Deus entregou, pois, nas nossas mãos também Og, rei de Basan, e todo o seu povo, e ferimo-los até ao extermínio,
+
+[[v5-3-4]]
+
+^<<v5-3-4,4>>^ devastando ao mesmo tempo todas as suas cidades: não houve cidade que nos escapasse: (tomámos) sessenta cidades, todo o país de Argob pertencente ao reino de Og, em Basan.
+
+[[v5-3-5]]
+
+^<<v5-3-5,5>>^ Todas as cidades estavam fortificadas com muros altíssimos, com portas e trancas. Além destas, (conquistámos) inumeráveis povoações que não tinham muros.
+
+[[v5-3-6]]
+
+^<<v5-3-6,6>>^ Fizemos devastação, como tínhamos feito a Seon, rei de Heisebon, destruindo as cidades, os homens, as mulheres e os meninos,
+
+[[v5-3-7]]
+
+^<<v5-3-7,7>>^ mas trazendo os gados e os despojos das cidades.
+
+[[v5-3-8]]
+
+^<<v5-3-8,8>>^ Tomamos então o país dos dois reis Amorreus, que estavam na banda dalém do Jordão, desde a torrente do Amon até o monte Hermon,
+
+[[v5-3-9]]
+
+^<<v5-3-9,9>>^ o qual os Sidónios chamam Sartion, e os Amorreus Sanir;
+
+[[v5-3-10]]
+
+^<<v5-3-10,10>>^ (conquistámos) todas as cidades, que estão situadas na campina e toda a terra de Galaad e de Basan até Selca e Edrai, cidades do reino de Og, em Basan.
+
+[[v5-3-11]]
+
+^<<v5-3-11,11>>^ Og, rei de Basan, era o único que tinha ficado da estirpe dos gigantes. Em Rabath, (cidade) dos filhos de Amon, mostra-se o seu leito de ferro, que tem nove côvados de comprido, e quatro de largo, pela medida de um côvado de mão de homem.
+
+[[v5-3-12]]
+
+^<<v5-3-12,12>>^ Naquele tempo tomámos posse do país desde Aroer, que está sobre a margem da torrente de Araon, até ao meio da montanha de Galaad. Dei as suas Cidades a Ruben e a Gad.
+
+[[v5-3-13]]
+
+^<<v5-3-13,13>>^ O resto do país de Galaad, e todo o Basan, do reino de Og, bem como toda a região de Argob, dei-os à meia tribo de Manassés. Todo este país de Basan é chamado a terra dos gigantes.
+
+[[v5-3-14]]
+
+^<<v5-3-14,14>>^ Jair, filho de Manassés, possuiu todo o país de Argob até aos confins de Gessuri e de Macati. E chamou do seu nome às aldeias de Basan, Havoth-Jair, isto é, aldeias de Jair (nome que elas conservam) até hoje.
+
+[[v5-3-15]]
+
+^<<v5-3-15,15>>^ Dei também Galaad a Maquir.
+
+[[v5-3-16]]
+
+^<<v5-3-16,16>>^ As tribos de Ruben e de Gad dei uma parte da terra de Galaad e (as terras) até à torrente de Arnon, servindo de limite o meio do vale, e dos seus confins até à torrente de Jeboc, que é a fronteira dos filhos de Amon,
+
+[[v5-3-17]]
+
+^<<v5-3-17,17>>^ assim como a planície do deserto, com o Jordão por limite, desde Cenereth até ao mar do deserto, que é o Mar de Sal, até às faldas do monte Fasga, para o oriente.
+
+[[v5-3-18]]
+
+^<<v5-3-18,18>>^ Naquele tempo dei-vos esta ordem: O Senhor vosso Deus entrega-vos esta terra por herança, marchai armados diante dos filhos de Israel vossos irmãos, todos vós homens robustos,
+
+[[v5-3-19]]
+
+^<<v5-3-19,19>>^ excepto as mulheres, os meninos e os animais. Eu sei que tendes muitos gados, e estes deverão ficar nas cidades que vos dei,
+
+[[v5-3-20]]
+
+^<<v5-3-20,20>>^ até que o Senhor dê descanso a vossos irmãos, como o deu a vós, e até que eles possuam também a terra, que ele lhes der na banda dalém do Jordão: então cada um de vós voltará para as possessões que vos dei.
+
+[[v5-3-21]]
+
+^<<v5-3-21,21>>^ Também naquele tempo ordenei a Josué: Os teus olhos viram o que o Senhor vosso Deus fez a estes dois reis; o mesmo fará a todos os reinos, a que tens de passar.
+
+[[v5-3-22]]
+
+^<<v5-3-22,22>>^ Não os temas, porque o Senhor vosso Deus combaterá por vós.
+
+[[v5-3-23]]
+
+^<<v5-3-23,23>>^ Naquele tempo eu roguei ao Senhor, dizendo:
+
+[[v5-3-24]]
+
+^<<v5-3-24,24>>^ Senhor Deus, tu começaste a mostrar ao teu servo a tua grandeza e a tua mão poderosíssima, porque não há outro Deus, quer no céu quer na terra, que possa fazer as tuas obras, ou comparar-se com a tua fortaleza.
+
+[[v5-3-25]]
+
+^<<v5-3-25,25>>^ Passarei, pois, e verei essa terra tão boa além do Jordão, e esse belo monte (de Sião) e o Líbano.
+
+[[v5-3-26]]
+
+^<<v5-3-26,26>>^ O Senhor irou-se contra mim por causa de vós, e não me ouviu, mas disse-me: Basta; não me fales mais em tal coisa.
+
+[[v5-3-27]]
+
+^<<v5-3-27,27>>^ Sobe ao cume do monte Fasga, lança os teus olhos em roda para o ocidente, para o setentrião, para o meio-dia e para o oriente, e contempla (tudo isso), pois não passarás este Jordão.
+
+[[v5-3-28]]
+
+^<<v5-3-28,28>>^ Dá as tuas ordens a Josué, conforta-o, anima-o, porque ele irá à frente deste povo, e dividirá por eles a terra que tu verás.
+
+[[v5-3-29]]
+
+^<<v5-3-29,29>>^ E ficámos no vale defronte do templo de Fogor.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-002.adoc#v5-2-0[&#60; Capítulo Anterior] | <<v5-3-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-004.adoc#v5-4-0[Próximo Capítulo &#62;]

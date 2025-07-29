@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v21-141-0]]
+=== Salmos, 141
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 141 é uma oração que clama pela proteção divina contra a tentação e o mal, pedindo a Deus que guarde a nossa boca e o nosso coração de palavras e pensamentos maus. O tema principal é a busca por santidade e justiça, através do reconhecimento da nossa fraqueza e da dependência da graça divina. Seguem abaixo cinco versículos relacionados com esses temas:
+* Provérbios 4:23: "Sobre tudo o que se deve guardar, guarda o coração, porque dele procedem as fontes da vida." Esse versículo fala da importância de guardar o coração, um tema que é central no Salmo 141 nos versos que pedem a Deus para guardar a nossa boca e o nosso coração de pensamentos maus.
+* Tiago 4:7-8: "Portanto, submetam-se a Deus. Resistam ao Diabo, e ele fugirá de vocês. Aproximem-se de Deus, e ele se aproximará de vocês. Pecadores, limpem as mãos, e vocês, que têm a mente dividida, purifiquem o coração." Esse versículo fala da necessidade de resistir ao mal e se aproximar de Deus, um tema presente no Salmo 141 nos versos que pedem a Deus para não nos deixar cair na tentação e nos livrar do mal.
+* Mateus 26:41: "Vigiem e orem para que não caiam em tentação. O espírito está pronto, mas a carne é fraca." Esse versículo fala da necessidade de vigiar e orar para não cairmos na tentação, um tema que é central no Salmo 141 nos versos que pedem a Deus para não nos deixar cair na armadilha dos maus.
+* Salmos 19:14: "Que as palavras da minha boca e a meditação do meu coração sejam agradáveis a ti, Senhor, minha Rocha e meu Resgatador!" Esse versículo fala da importância de controlar as nossas palavras e pensamentos, um tema que é central no Salmo 141 nos versos que pedem a Deus para guardar a nossa boca e o nosso coração de palavras e pensamentos maus.
+* 2 Timóteo 2:22: "Foge, igualmente, das paixões da mocidade. Segue a justiça, a fé, o amor e a paz com os que, de coração puro, invocam o Senhor." Esse versículo fala da importância de buscar a santidade e a justiça, um tema que é central no Salmo 141 nos versos que pedem a Deus para guardar a nossa boca e o nosso coração de palavras e pensamentos maus.
+****
+
+[[v21-141-1]]
+
+^<<v21-141-1,1>>^ Maskil. De Davide, quando estava na caverna. Súplica.
+
+[[v21-141-2]]
+
+^<<v21-141-2,2>>^ Em alta voz clamo ao Senhor, em alta voz suplico ao Senhor.
+
+[[v21-141-3]]
+
+^<<v21-141-3,3>>^ Exponho diante dele a minha preocupação, manifesto-lhe a minha angústia.
+
+[[v21-141-4]]
+
+^<<v21-141-4,4>>^ Quando está em ânsia em mim o meu espírito, tu conheces o meu caminho. No caminho por onde ando, armaram-me laços ocultos.
+
+[[v21-141-5]]
+
+^<<v21-141-5,5>>^ Volto-me para a direita e olho, e não há quem se importe de mim. Não tenho para onde fugir, não há quem olhe pela minha vida.
+
+[[v21-141-6]]
+
+^<<v21-141-6,6>>^ A ti clamo, Senhor: digo: Tu és o meu refúgio, a minha porção na terra dos viventes.
+
+[[v21-141-7]]
+
+^<<v21-141-7,7>>^ Atende ao meu clamor, porque sou sumamente miserável. Livra-me dos que me perseguem, porque são mais fortes do que eu.
+
+[[v21-141-8]]
+
+^<<v21-141-8,8>>^ Tira-me desta prisão, para que dê graças ao teu nome. Os justos me rodearão, quando me fizeres este benefício.
+
+'''
+
+xref:021-salmos/021-salmos-140.adoc#v21-140-0[&#60; Capítulo Anterior] | <<v21-141-0,Topo>> | xref:021-salmos/021-salmos-142.adoc#v21-142-0[Próximo Capítulo &#62;]

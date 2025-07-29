@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v9-7-0]]
+=== I Samuel, 7
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 7 narra a recuperação da Arca da Aliança pelos israelitas e sua subsequente vitória sobre os filisteus, seguida pela instalação de Samuel como juiz de Israel. Os temas abordados incluem arrependimento, consagração, oração, intervenção divina e liderança.
+* Salmos 51:17: "Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus." Este verso fala sobre a importância do arrependimento e da humildade diante de Deus, algo que os israelitas demonstraram em 1 Samuel 7 ao reconhecerem seus pecados e se voltarem para Ele.
+* 1 João 1:9: "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça." Este verso enfatiza a importância da confissão de pecados para a obtenção do perdão divino, algo que os israelitas fizeram em 1 Samuel 7 ao se arrependerem e confessarem seus pecados.
+* Tiago 5:16: "Confessai as vossas culpas uns aos outros, e orai uns pelos outros, para que sareis: a oração feita por um justo pode muito em seus efeitos." Este verso fala sobre o poder da oração e da intercessão, algo que Samuel demonstrou em 1 Samuel 7 ao interceder pelos israelitas e buscar a intervenção divina em favor deles.
+* Salmos 34:17: "Os justos clamam, e o Senhor os ouve, e os livra de todas as suas angústias." Este verso enfatiza a prontidão de Deus em ouvir as orações dos justos e em responder a elas com libertação e salvação, algo que os israelitas experimentaram em 1 Samuel 7 quando Deus interveio em seu favor.
+* 1 Timóteo 3:1-2: "Esta é uma palavra fiel: se alguém deseja o episcopado, excelente obra deseja. Convém, pois, que o bispo seja irrepreensível." Este verso fala sobre a importância da liderança justa e irrepreensível na igreja, algo que Samuel exemplificou em 1 Samuel 7 ao servir como juiz de Israel e liderar o povo em direção a Deus.
+****
+
+[[v9-7-1]]
+
+^<<v9-7-1,1>>^ Foram, pois, os homens de Cariatarim, transportaram a arca do Senhor, puseram-na em casa de Abinadab, em Gabaa, e santificaram o seu filho Eleázaro, para que guardasse a arca do Senhor.
+
+[[v9-7-2]]
+
+^<<v9-7-2,2>>^ Sucedeu que, desde o dia em que a arca do Senhor foi colocada em Cariatarim, se passaram muitos dias (pois já era o vigésimo ano), e toda a casa de Israel descansou seguindo o Senhor.
+
+[[v9-7-3]]
+
+^<<v9-7-3,3>>^ E Samuel falou a toda a casa de Israel, dizendo: Se vós tornais de todo o vosso coração para o Senhor, tirai do meio de vós os deuses estranhos, os Baalins e Astarot, e preparai os vossos corações para o Senhor; servi a ele só, e ele vos livrará da mão dos Filisteus.
+
+[[v9-7-4]]
+
+^<<v9-7-4,4>>^ Os filhos de Israel lançaram, pois, fora os Baalins e Astarot, e serviram só ao Senhor.
+
+[[v9-7-5]]
+
+^<<v9-7-5,5>>^ Samuel disse: Convocai em Masfa todo o Israel, para eu orar por vós ao Senhor.
+
+[[v9-7-6]]
+
+^<<v9-7-6,6>>^ E juntaram-se em Masfa. Tiraram água, derramaram-na diante do Senhor, jejuaram aquele dia, dizendo: Pecamos contra o Senhor. E Samuel julgou os filhos de Israel em Masfa.
+
+[[v9-7-7]]
+
+^<<v9-7-7,7>>^ Os Filisteus ouviram dizer que os filhos de Israel se tinham juntado em Masfa, e os príncipes dos Filisteus marcharam contra Israel. Tendo sabido isto os filhos de Israel, temeram o encontro dos Filisteus.
+
+[[v9-7-8]]
+
+^<<v9-7-8,8>>^ Disseram a Samuel: Não cesses de clamar por nós ao Senhor nosso Deus, para que nos salve da mão dos Filisteus.
+
+[[v9-7-9]]
+
+^<<v9-7-9,9>>^ Samuel tomou um cordeiro de leite e ofereceu-o inteiro em holocausto ao Senhor. Samuel clamou ao Senhor por Israel, e o Senhor ouviu-o.
+
+[[v9-7-10]]
+
+^<<v9-7-10,10>>^ E aconteceu que, enquanto Samuel oferecia o holocausto, os Filisteus começaram o combate contra Israel; porém o Senhor trovejou aquele dia com grande estrondo sobre os Filisteus, aterrou-os, e eles foram derrotados por Israel.
+
+[[v9-7-11]]
+
+^<<v9-7-11,11>>^ Os homens de Israel, saindo de Masfa, perseguiram os Filisteus e foram-nos batendo até ao lugar que está por baixo de Betcar.
+
+[[v9-7-12]]
+
+^<<v9-7-12,12>>^ Samuel tomou uma pedra, pô-la entre Masfa e Sen, e deu àquele lugar o nome de Pedra do socorro. Disse: Até aqui nos socorreu o Senhor.
+
+[[v9-7-13]]
+
+^<<v9-7-13,13>>^ Os Filisteus foram humilhados e não tentaram mais entrar nos confins de Israel. E a mão do Senhor foi sobre os Filisteus durante todo o tempo de Samuel.
+
+[[v9-7-14]]
+
+^<<v9-7-14,14>>^ Foram restituídas a Israel as cidades que os Filisteus tinham tomado a Israel, desde Acaron até Get, com seus territórios; (Samuel) livrou Israel das mãos dos Filisteus, e havia paz entre Israel e os Amorreus.
+
+[[v9-7-15]]
+
+^<<v9-7-15,15>>^ Samuel julgou Israel durante todos os dias da sua vida.
+
+[[v9-7-16]]
+
+^<<v9-7-16,16>>^ Ia todos os anos dando volta a Betei, a Galgala e a Masfa, para administrar justiça a Israel nos sobreditos lugares.
+
+[[v9-7-17]]
+
+^<<v9-7-17,17>>^ Depois voltava para Rama, onde estava a sua casa. Aí julgava Israel, e aí edificou também um altar ao Senhor.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-006.adoc#v9-6-0[&#60; Capítulo Anterior] | <<v9-7-0,Topo>> | xref:009-i-samuel/009-i-samuel-008.adoc#v9-8-0[Próximo Capítulo &#62;]

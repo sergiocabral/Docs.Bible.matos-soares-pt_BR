@@ -1,0 +1,267 @@
+include::./index.adoc[]
+
+[[v49-9-0]]
+=== São Lucas, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 9 de São Lucas começa com Jesus enviando seus doze discípulos para pregar o Reino de Deus e realizar curas e milagres em seu nome. Mais tarde, ele alimenta cinco mil pessoas com apenas cinco pães e dois peixes, revela aos seus discípulos que irá sofrer e ser morto, e ensina sobre a importância da humildade e do compromisso com Ele. Abaixo estão cinco versículos relacionados aos temas abordados em São Lucas 9:
+* Mateus 10:1 - "Chamando os seus doze discípulos, deu-lhes autoridade para expulsar espíritos imundos e curar todas as doenças e enfermidades." Este versículo é similar à missão que Jesus deu aos seus discípulos em Lucas 9:1-2, onde Ele lhes dá poder e autoridade para curar e expulsar demônios em Seu nome.
+* João 6:5-6 - "Quando Jesus ergueu os olhos e viu uma grande multidão que vinha ao encontro dele, disse a Filipe: 'Onde compraremos pão suficiente para dar a todos eles de comer?' E disse isso para o pôr à prova, pois ele mesmo sabia o que ia fazer." Este versículo é similar à história em Lucas 9:12-17, onde Jesus alimenta cinco mil pessoas com apenas cinco pães e dois peixes.
+* Marcos 8:34 - "Em seguida, chamou a multidão e os discípulos e disse: 'Se alguém quiser acompanhar-me, negue-se a si mesmo, tome a sua cruz e siga-me.'" Este versículo é similar à mensagem de Jesus em Lucas 9:23, onde Ele diz: "Se alguém quiser vir após mim, negue-se a si mesmo, tome a sua cruz e siga-me."
+* João 13:20 - "Em verdade, em verdade vos digo: quem recebe aquele que eu enviei, recebe-me a mim; e quem me recebe, recebe aquele que me enviou." Este versículo é similar ao ensinamento de Jesus em Lucas 9:48: "Aquele que receber esta criança em meu nome, a mim recebe; e aquele que me receber, recebe aquele que me enviou."
+* João 14:6 - "Disse-lhe Jesus: 'Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai senão por mim.'" Este versículo é similar ao ensinamento de Jesus em Lucas 9:50, onde Ele diz aos Seus discípulos: "Quem não é contra nós é por nós."
+****
+
+[[v49-9-1]]
+
+^<<v49-9-1,1>>^ Convocados os doze ( Apóstolos ) deu-lhes poder e autoridade sobre todos os demónios; e para curar as doenças.
+
+[[v49-9-2]]
+
+^<<v49-9-2,2>>^ Enviou-os a pregar o reino de Deus, e a curar os doentes.
+
+[[v49-9-3]]
+
+^<<v49-9-3,3>>^ Disse-lhes : "Não leveis nada para o caminho, nem bastão, nem alforge, nem pão, nem dinheiro, nem leveis duas túnicas.
+
+[[v49-9-4]]
+
+^<<v49-9-4,4>>^ Em qualquer casa, em que entrardes, ficai lá, e ( não ) saiais dela até à vossa partida.
+
+[[v49-9-5]]
+
+^<<v49-9-5,5>>^ Quando quaisquer vos não receberem, ao sair dessa cidade, sacudi até o pó dos vossos pés, em testemunho contra eles."
+
+[[v49-9-6]]
+
+^<<v49-9-6,6>>^ Tendo eles partido, andavam de aldeia em aldeia pregando o Evangelho, e fazendo curas por toda a parte.
+
+[[v49-9-7]]
+
+^<<v49-9-7,7>>^ Herodes tetrarca ouviu falar de tudo o que se passava, e não sabia que pensar, porque uns diziam:
+
+[[v49-9-8]]
+
+^<<v49-9-8,8>>^ "É João que ressuscitou dos mortos"; outros: "É Elias que apareceu"; outros: "É um dos antigos profetas, que ressuscitou."
+
+[[v49-9-9]]
+
+^<<v49-9-9,9>>^ Herodes disse: "Eu mandei degolar João. Quem é, pois, este de quem ouço tais coisas?" E buscava ocasião de o ver.
+
+[[v49-9-10]]
+
+^<<v49-9-10,10>>^ Tendo voltado os Apóstolos, contaram-lhe tudo o que tinham feito. Ele, tomando-os consigo, retirou-se aparte a um lugar do território de Betsaida.
+
+[[v49-9-11]]
+
+^<<v49-9-11,11>>^ Sabendo isto, as multidões foram-no seguindo. E as recebeu, falou-lhes do reino de Deus e sarou os que necessitavam de cura.
+
+[[v49-9-12]]
+
+^<<v49-9-12,12>>^ Ora o dia começava a declinar. Aproximando-se dele os doze, disseram-lhe: "Despede as multidões, para que, indo pelas aldeias e herdades circunvizinhas, se alberguem e encontrem que comer, porque aqui estamos num lugar deserto."
+
+[[v49-9-13]]
+
+^<<v49-9-13,13>>^ Ele respondeu-Ihes: "Dai-lhes vós de comer." Eles disseram: "Não temos mais do que cinco pães e dois peixes, a não ser que vamos comprar mantimento para toda esta multidão."
+
+[[v49-9-14]]
+
+^<<v49-9-14,14>>^ Pois eram quase cinco mil homens. Então disse a seus discípulos: "Mandai-os sentar divididos em ranchos de cinquenta."
+
+[[v49-9-15]]
+
+^<<v49-9-15,15>>^ Eles assim o executaram, e mandaram-nos sentar a todos.
+
+[[v49-9-16]]
+
+^<<v49-9-16,16>>^ Tendo tomado os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou-os, partiu-os e distribuiu-os aos seus discípulos, para que os servissem à multidão.
+
+[[v49-9-17]]
+
+^<<v49-9-17,17>>^ Comeram todos, e ficaram saciados. E levantaram do que lhes sobejou doze cestos de fragmentos.
+
+[[v49-9-18]]
+
+^<<v49-9-18,18>>^ Aconteceu que, estando só orando, se encontravam com ele os seus discípulos. Jesus interrogou-os: "Quem dizem as multidões que sou eu?"
+
+[[v49-9-19]]
+
+^<<v49-9-19,19>>^ Responderam e disseram: "Uns dizem que João Baptista, outros que Elias, outros que ressuscitou um dos antigos profetas."
+
+[[v49-9-20]]
+
+^<<v49-9-20,20>>^ Ele diese-lhes: "E vós quem dizeis que sou eu?" Pedro, respondendo, disse: "O Cristo de Deus."
+
+[[v49-9-21]]
+
+^<<v49-9-21,21>>^ Mas ele, com seu tom severo, mandou que o não dissessem a ninguém,
+
+[[v49-9-22]]
+
+^<<v49-9-22,22>>^ acrescentando: "E’ necessário que o Filho do homem padeça muitas coisas, que seja rejeitado pelos anciães, pelos príncipes doe sacerdotes e pelos escribas, que seja morto, e ressuscite ao terceiro dia.
+
+[[v49-9-23]]
+
+^<<v49-9-23,23>>^ Depois, dirigindo-se a todos: "Se alguém quer vir após de mim, negue-se a si mesmo, tome a sua cruz todos os dias, e siga-me.
+
+[[v49-9-24]]
+
+^<<v49-9-24,24>>^ Porque o que quiser salvar a sua vida (abandonando-me), a perderá; e quem perder a sua vida por causa de mim, salvá-la-á.
+
+[[v49-9-25]]
+
+^<<v49-9-25,25>>^ Que aproveita o homem ganhar todo o mundo, se se perde a si mesmo, e se faz dano a si?
+
+[[v49-9-26]]
+
+^<<v49-9-26,26>>^ Porque quem se envergonhar de mim e das minhas palavras, também o Filho do homem se envergonhará dele, quando vier na sua majestade, e na de seu Pai e dos santos anjos.
+
+[[v49-9-27]]
+
+^<<v49-9-27,27>>^ Digo-vos na verdade que estão aqui alguns presentes que não morrerão, sem que vejam o reino de Deus." (ver nota)
+
+[[v49-9-28]]
+
+^<<v49-9-28,28>>^ Cerca de oito dias depois destas palavras, tomou consigo Pedro, Tiago e João, e subiu a um monte para orar.
+
+[[v49-9-29]]
+
+^<<v49-9-29,29>>^ Enquanto orava, tornou-se todo outro o seu rosto; o seu vestido tornou-se branco ( e ) resplandecente.
+
+[[v49-9-30]]
+
+^<<v49-9-30,30>>^ E eis que dois homens falavam com ele: Moisés e Elias,
+
+[[v49-9-31]]
+
+^<<v49-9-31,31>>^ os quais apareceram cheios de majestade, e falavam da morte que ele devia sofrer em Jerusalém.
+
+[[v49-9-32]]
+
+^<<v49-9-32,32>>^ Entretanto Pedro e os que estavam com ele tinham-se deixado oprimir de sono. Mas, despertando, viram a majestade de Jesus, e os dois varões que estavam com ele.
+
+[[v49-9-33]]
+
+^<<v49-9-33,33>>^ Enquanto estes se separavam dele, Pedro disse a Jesus: "Mestre, é bom para nós estar aqui; façamos três tendas, uma para ti, uma para Moisés, e uma para Elias", não sabendo o que dizia.
+
+[[v49-9-34]]
+
+^<<v49-9-34,34>>^ Estando ele ainda a falar, formou-se uma nuvem, que os envolveu; e tiveram medo, quando os viram entrar na nuvem.
+
+[[v49-9-35]]
+
+^<<v49-9-35,35>>^ Então saiu uma voz da nuvem, dizendo: "Este é o meu filho dilecto, ouvi-o."
+
+[[v49-9-36]]
+
+^<<v49-9-36,36>>^ Ao soar aquela voz, Jesus ficou só. Eles calaram-se, e a ninguém disseram naqueles dias nada do que tinham visto.
+
+[[v49-9-37]]
+
+^<<v49-9-37,37>>^ Sucedeu no dia seguinte que, descendo eles do monte, lhes saiu ao encontro uma grande multidão.
+
+[[v49-9-38]]
+
+^<<v49-9-38,38>>^ E eis que um homem do meio da multidão clamou; "Mestre, rogo-te que ponhas os olhos em meu filho, porque é o único que tenho.
+
+[[v49-9-39]]
+
+^<<v49-9-39,39>>^ Um espírito maligno se apodera dele e súbitamente dá gritos, e ( o lança por terra ), o agita com violência, fazendo-o espumar, e apenas o larga depois de o ter dilacerado.
+
+[[v49-9-40]]
+
+^<<v49-9-40,40>>^ Pedi a teus discípulos que o expelissem, mas eles não puderam."
+
+[[v49-9-41]]
+
+^<<v49-9-41,41>>^ Jesus respondeu: "O’ geração incrédula e perversa! Até quando estarei convosco e vos sofrerei? Traz cá o teu filho."
+
+[[v49-9-42]]
+
+^<<v49-9-42,42>>^ Quando este se aproximava, o demônio lançou-o por terra, e agitou-o com violência. Mas Jesus ameaçou o espírito imundo, sarou o menino, e restituiu-o a seu pai.
+
+[[v49-9-43]]
+
+^<<v49-9-43,43>>^ E todos pasmavam da grandeza de Deus. Enquanto todos admiravam as coisas que ele fazia, Jesus disse aos seus discípulos;
+
+[[v49-9-44]]
+
+^<<v49-9-44,44>>^ "Ponde nos vossos corações estas palavras: O Filho do homem está para ser entregue nas mãos dos homens."
+
+[[v49-9-45]]
+
+^<<v49-9-45,45>>^ Eles, porém, não entendiam esta linguagem ; era-lhes tão obscura que não compreendiam; e tinham medo de o interrogar acerca dela.
+
+[[v49-9-46]]
+
+^<<v49-9-46,46>>^ Começaram a discutir entre si sobre qual deles era o maior.
+
+[[v49-9-47]]
+
+^<<v49-9-47,47>>^ Jesus, vendo os pensamentos do seu coração, tomou pela mão um menino, pô-lo junto a si,
+
+[[v49-9-48]]
+
+^<<v49-9-48,48>>^ e disse-lhes: "Todo o que receber este menino em meu nome, a mim recebe; e todo o que me receber, recebe aquele que me enviou. Porque aquele que entre vós todos é o menor, esse é o maior."
+
+[[v49-9-49]]
+
+^<<v49-9-49,49>>^ João, tomando a palavra, disse: "Mestre, nós vimos um que expelia os demônios em teu nome, e lho proibimos, porque não anda connosco."
+
+[[v49-9-50]]
+
+^<<v49-9-50,50>>^ Jesus respondeu-lhe: "Não lho proibais, porque quem não é contra vós, é por vós."
+
+[[v49-9-51]]
+
+^<<v49-9-51,51>>^ Aconteceu que, aproximando-se o tempo da sua partida deste mundo, dirigiu-se resolutamente para Jerusalém,
+
+[[v49-9-52]]
+
+^<<v49-9-52,52>>^ e enviou adiante de si mensageiros, os quais entraram numa aldeia de Samaritanos para lhe prepararem pousada.
+
+[[v49-9-53]]
+
+^<<v49-9-53,53>>^ Não o receberam, por dar mostras de que ia para Jerusalém.
+
+[[v49-9-54]]
+
+^<<v49-9-54,54>>^ Vendo isto os seus discípulos Tiago e João, disseram : "Senhor, queres tu que digamos que desça fogo do céu, que os consuma?"
+
+[[v49-9-55]]
+
+^<<v49-9-55,55>>^ Ele, porém, voltando-se para eles, repreendeu-os: "Vós não sabeis de que espírito sois. (ver nota)
+
+[[v49-9-56]]
+
+^<<v49-9-56,56>>^ O Filho do homem não veio para perder as vidas dos homens, mas para as salvar." E foram para outra povoação.
+
+[[v49-9-57]]
+
+^<<v49-9-57,57>>^ Indo eles pelo caminho, veio um homem que lhe disse: "Seguir-te-ei para onde quer que fores."
+
+[[v49-9-58]]
+
+^<<v49-9-58,58>>^ Jesus respondeu-lhe: "As raposas têm suas covas, as aves do céu têm seus ninhos, porém o Filho do homem não tem onde reclinar a cabeça." (ver nota)
+
+[[v49-9-59]]
+
+^<<v49-9-59,59>>^ A um outro disse: "Segue-me." Mas ele disse: "Senhor, permite-me que eu vá primeiro sepultar meu pai."
+
+[[v49-9-60]]
+
+^<<v49-9-60,60>>^ Mas Jesus replicou: "Deixa que os mortos sepultem os seus mortos; tu vai anunciar o reino de Deus." (ver nota)
+
+[[v49-9-61]]
+
+^<<v49-9-61,61>>^ Um outro disse-lhe: "Eu, Senhor, seguir-te-ei, mas permite que vá primeiro dizer adeus aos de minha casa."
+
+[[v49-9-62]]
+
+^<<v49-9-62,62>>^ Jesus respondeu-lhe; "Ninguém que, depois de ter metido a sua mão ao arado, olha para trás, é apto para o reino de Deus. (ver nota)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-008.adoc#v49-8-0[&#60; Capítulo Anterior] | <<v49-9-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-010.adoc#v49-10-0[Próximo Capítulo &#62;]

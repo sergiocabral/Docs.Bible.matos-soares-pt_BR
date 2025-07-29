@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v4-12-0]]
+=== Números, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Números 12 relata uma situação em que Miriã e Arão, irmã e irmão de Moisés, começam a falar mal de Moisés por causa de sua esposa cuxita. Eles questionam a autoridade de Moisés e questionam por que Deus fala apenas com ele. Como resultado, Deus repreende Miriã e Arão, e Miriã é punida com lepra. Abaixo estão quatro versículos relacionados aos temas abordados em Números 12.
+* Êxodo 4:24-26: "Ora, aconteceu que, no caminho, numa estalagem, o SENHOR lhe saiu ao encontro, e o quis matar. Então, tomou Zípora uma pedra aguda, cortou a foreskin do filho e a lançou aos pés de Moisés, dizendo: Tu me és marido sanguinário. E o SENHOR o deixou em paz. Ela disse: Marido sanguinário, por causa da circuncisão." Este versículo menciona a esposa cuxita de Moisés e o incidente em que ela salva a vida de Moisés realizando a circuncisão do filho deles. Esse incidente pode ter relação com a crítica de Miriã e Arão a respeito da esposa cuxita de Moisés.
+* Deuteronômio 18:18-19: "Suscitarei para eles um profeta como tu, dentre seus irmãos, e porei as minhas palavras na sua boca, e ele lhes falará tudo o que eu lhe ordenar. E será que qualquer que não ouvir as minhas palavras, que ele falar em meu nome, eu o requererei dele." Este versículo menciona a promessa de Deus de levantar um profeta como Moisés para liderar os filhos de Israel. Isso pode ter relação com a crítica de Miriã e Arão a respeito da autoridade de Moisés.
+* João 7:16-18: "Jesus respondeu: A minha doutrina não é minha, mas daquele que me enviou. Se alguém quiser fazer a vontade dele, pela mesma doutrina conhecerá se ela é de Deus, ou se eu falo de mim mesmo. Quem fala de si mesmo busca a sua própria glória; mas o que busca a glória daquele que o enviou, esse é verdadeiro, e não há nele injustiça." Este versículo menciona a relação entre a autoridade de Jesus e a vontade de Deus. Pode ser relacionado à crítica de Miriã e Arão a respeito da autoridade de Moisés e sua relação com Deus.
+* Gálatas 6:7: "Não erreis: Deus não se deixa escarnecer; porque tudo o que o homem semear, isso também ceifará." Este versículo enfatiza a importância de sermos cuidadosos com nossas palavras e ações, porque elas têm consequências. Pode ser relacionado à crítica de Miriã e Arão a respeito de Moisés e sua esposa.
+****
+
+[[v4-12-1]]
+
+^<<v4-12-1,1>>^ Ora Maria e Aarão falaram contra Moisés, por causa de sua mulher etíope,
+
+[[v4-12-2]]
+
+^<<v4-12-2,2>>^ e disseram: Porventura o Senhor falou só por Moisés? Não nos falou ele igualmente a nós? O Senhor ouviu isto.
+
+[[v4-12-3]]
+
+^<<v4-12-3,3>>^ Moisés, porém, era o mais manso de todos os homens que havia na terra.
+
+[[v4-12-4]]
+
+^<<v4-12-4,4>>^ Disse imediatamente o Senhor a Moisés, a Aarão e a Maria: Ide todos três sós ao tabernáculo da reunião. Logo que lá chegaram,
+
+[[v4-12-5]]
+
+^<<v4-12-5,5>>^ o Senhor desceu na coluna de nuvem e panou à entrada do tabernáculo, chamando Aarão e Maria. Tendo-se eles aproximado,
+
+[[v4-12-6]]
+
+^<<v4-12-6,6>>^ disse-lhes: Ouvi as minhas palavras: Se entre vós algum é profeta do Senhor, eu lhe aparecerei em visão, ou lhe falarei em sonhos.
+
+[[v4-12-7]]
+
+^<<v4-12-7,7>>^ Mas não é assim a respeito do meu servo Moisés, o qual é fidelíssimo em toda a minha casa.
+
+[[v4-12-8]]
+
+^<<v4-12-8,8>>^ A ele eu falo cara a cara: ele vê o Senhor claramente, e não sob enigmas e figuras. Por que não temestes vós, pois, falar contra o meu servo Moisés?
+
+[[v4-12-9]]
+
+^<<v4-12-9,9>>^ E, irado contra eles, foi-se embora.
+
+[[v4-12-10]]
+
+^<<v4-12-10,10>>^ Retirou-se também a nuvem, que estava sobre o tabernáculo. No mesmo instante Maria apareceu toda coberta de lepra (branca) como neve. Aarão, tendo olhado para ela, e tendo-a visto coberta de lepra,
+
+[[v4-12-11]]
+
+^<<v4-12-11,11>>^ disse a Moisés: Rogo-te, meu Senhor, que não ponhas sobre nós este pecado, que nesciamente cometemos.
+
+[[v4-12-12]]
+
+^<<v4-12-12,12>>^ Que esta não fique como um aborto que é lançado fora do ventre de sua mãe, já meio consumido.
+
+[[v4-12-13]]
+
+^<<v4-12-13,13>>^ E Moisés clamou ao Senhor, dizendo: Ó Deus, eu te rogo, sara-a.
+
+[[v4-12-14]]
+
+^<<v4-12-14,14>>^ O Senhor, respondeu-lhe: Se seu pai lhe tivesse cuspido na cara, não deveria ela estar coberta de vergonha ao menos durante sete dias? Esteja separada fora dos acampamentos durante sete dias, e depois será outra vez chamada.
+
+[[v4-12-15]]
+
+^<<v4-12-15,15>>^ Maria, pois, foi deitada fora dos acampamentos, durante sete dias, e o povo não se moveu daquele lugar enquanto Maria não foi tomada a chamar.
+
+'''
+
+xref:004-numeros/004-numeros-011.adoc#v4-11-0[&#60; Capítulo Anterior] | <<v4-12-0,Topo>> | xref:004-numeros/004-numeros-013.adoc#v4-13-0[Próximo Capítulo &#62;]

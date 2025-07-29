@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v33-27-0]]
+=== Ezequiel, 27
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 27 descreve a cidade de Tiro e sua grandeza, mas também prediz sua queda. O capítulo menciona a riqueza e o comércio da cidade, mas destaca a arrogância e a confiança em sua própria força, em vez de reconhecer a Deus como soberano. Aqui estão cinco versículos relacionados com os temas abordados em Ezequiel 27:
+* Isaías 23:8 - "Quem é que decretou isto a respeito de Tiro, que distribuía coroas, cujos comerciantes eram príncipes e cujos negociantes eram os mais nobres da terra?" Este verso descreve a riqueza e a posição de Tiro como um centro comercial importante.
+* Provérbios 16:18 - "A arrogância precede a destruição; o orgulho precede a queda." Este verso destaca o problema central de Tiro, que se tornou arrogante e confiante em sua própria força em vez de reconhecer Deus como soberano.
+* Jeremias 25:22 - "todas as cidades dos reis de Tiro, todas as cidades dos reis de Sidom e as cidades da costa além do mar." Este verso menciona Tiro como uma das cidades da costa, juntamente com Sidom, que também era conhecida por seu comércio.
+* Apocalipse 18:11-13 - "os negociantes da terra choram e lamentam por ela, porque ninguém mais compra suas mercadorias: mercadorias de ouro, prata, pedras preciosas e pérolas; linho fino, púrpura, seda e tecidos escarlates; toda espécie de madeira odorífera, todos os objetos de marfim e madeira preciosas, de bronze, ferro e mármore." Este verso se relaciona com a queda de Tiro, quando o comércio que trouxe riqueza à cidade acabou e ninguém mais comprava suas mercadorias.
+* Ezequiel 28:2 - "Filho do homem, dize ao príncipe de Tiro: Assim diz o Soberano, o Senhor: No orgulho do seu coração você disse: 'Sou um deus; eu habito num trono de deuses, no coração dos mares.' Mas você é um homem, e não um deus; por mais que se considere igual a um deus." Este verso é um exemplo da arrogância de Tiro e como a cidade se considerava superior aos outros, até mesmo aos deuses. A profecia de Ezequiel 27 alerta sobre as consequências desastrosas desse tipo de pensamento.
+****
+
+[[v33-27-1]]
+
+^<<v33-27-1,1>>^ Foi-me dirigida a palavra do Senhor, nestes termos:
+
+[[v33-27-2]]
+
+^<<v33-27-2,2>>^ Tu, filho de homem, faze uma lamentação sobre Tiro,
+
+[[v33-27-3]]
+
+^<<v33-27-3,3>>^ Dize a Tiro, que está sentada à entrada do mar, que faz comércio com povos de numerosas ilhas: Assim fala o Senhor Deus; ó Tiro, tu disseste: Sou duma formosura perfeita (ver nota)
+
+[[v33-27-4]]
+
+^<<v33-27-4,4>>^ Está o teu império situado no coração do mar. Os que te edificaram, tornaram-te perfeita em formosura.
+
+[[v33-27-5]]
+
+^<<v33-27-5,5>>^ De cipreste de Sanir construíram todo o costado (do teu navio); tomaram um cedro do Líbano para te fazer um mastro; (ver nota)
+
+[[v33-27-6]]
+
+^<<v33-27-6,6>>^ fizeram de carvalhos de Basan os teus remos; de marfim incrustado em cedro das ilhas de Kittim construíram os teus bancos;
+
+[[v33-27-7]]
+
+^<<v33-27-7,7>>^ de fino linho do Egipto, bordado, foi tecido o teu velame, que te servia de toldo; de jacinto e de púrpura das ilhas de Elisa era formado o teu pavilhão;
+
+[[v33-27-8]]
+
+^<<v33-27-8,8>>^ os habitantes de Sidónia e de Arada eram teus remadores; os teus sábios, ó Tiro, eram teus pilotos;
+
+[[v33-27-9]]
+
+^<<v33-27-9,9>>^ os velhos de Gebal, e os mais hábeis de lá, empregavam na reparação do teu material. Todos os navios do mar e os seus marinheiros vinham a ti para o tráfico de mercadorias.
+
+[[v33-27-10]]
+
+^<<v33-27-10,10>>^ Persas, Lídios e Líbios eram guerreiros no teu exército; suspendiam em ti os seus escudos e capacetes, dando-te esplendor.
+
+[[v33-27-11]]
+
+^<<v33-27-11,11>>^ Os filhos de Arvad com o teu exército estavam sobre a cintura das tuas muralhas, e os de Gammad nas tuas torres; penduravam os seus escudos à roda dos teus muros e completavam a tua formosura.
+
+[[v33-27-12]]
+
+^<<v33-27-12,12>>^ Tarsis fazia tráfico contigo de toda a casta de riquezas, pagando-se mercadorias com prata, ferro, estanho e chumbo.
+
+[[v33-27-13]]
+
+^<<v33-27-13,13>>^ Javan, Tubal e Mosoc também negociavam contigo, trazendo ao teu povo escravos e artefactos de cobre.
+
+[[v33-27-14]]
+
+^<<v33-27-14,14>>^ Os de Togorma traziam ao teu mercado cavalos de tiro. corcéis e machos.
+
+[[v33-27-15]]
+
+^<<v33-27-15,15>>^ Os filhos de Dedan negociavam contigo; o teu mercado estendia-se a muitas ilhas; em troca das tuas mercadorias davam-te dentes de marfim e ébano.
+
+[[v33-27-16]]
+
+^<<v33-27-16,16>>^ A Síria negociava contigo, por causa da multidão dos teus produtos; expunha à venda, nos teus mercados, carbúnculos, púrpura, estofos bordados, linho fino, corais e rubis.
+
+[[v33-27-17]]
+
+^<<v33-27-17,17>>^ Judá e a terra de Israel negociavam contigo, levando aos teus mercados trigo de Minnith, cera, mel, azeite e bálsamo.
+
+[[v33-27-18]]
+
+^<<v33-27-18,18>>^ Damasco traficava contigo pela abundante variedade dos teus gêneros, pela multidão de riquezas várias, trazendo-te vinho de Helbon e lã de Sahar.
+
+[[v33-27-19]]
+
+^<<v33-27-19,19>>^ Dan, Javan e Uzal, em troca dos teus produtos, traziam aos teus mercados ferro forjado, cássia e cana aromática.
+
+[[v33-27-20]]
+
+^<<v33-27-20,20>>^ Os de Dedam traficavam contigo em gualdrapas de cavalgaduras.
+
+[[v33-27-21]]
+
+^<<v33-27-21,21>>^ A Arábia e todos os príncipes de Cedar compravam as tuas mercadorias, dando-te em troca cordeiros, carneiros e bodes.
+
+[[v33-27-22]]
+
+^<<v33-27-22,22>>^ Os mercadores de Sabá e de Reema comerciavam também contigo, pagando-te com os melhores aromas, pedras preciosas e ouro.
+
+[[v33-27-23]]
+
+^<<v33-27-23,23>>^ Haran. Quene e Eden negociavam igualmente contigo, assim como os mercadores de Sabá, Assur e Quelmad.
+
+[[v33-27-24]]
+
+^<<v33-27-24,24>>^ Faziam comércio de diversos produtos de luxo: mantos de púrpura ou bordados, tecidos matizados. fortes cordas entrançadas, tudo posto nos teus mercados.
+
+[[v33-27-25]]
+
+^<<v33-27-25,25>>^ Os navios de Tarsis serviam no teu comércio. Foste cheia de bens e de glória no coração do mar.
+
+[[v33-27-26]]
+
+^<<v33-27-26,26>>^ Os teus remadores conduziram-te sobre grandes águas, (porém) o vento do oriente quebrou-te no coração do mar.
+
+[[v33-27-27]]
+
+^<<v33-27-27,27>>^ As tuas riquezas, os teus produtos, as tuas mercadorias, os teus marinheiros e os teus pilotos, os tens calafates, os encarregados do teu comércio, os guerreiros que estavam contigo, e toda a multidão do povo que estava no meio de ti. cairão todos no fundo do mar no dia da tua ruína.
+
+[[v33-27-28]]
+
+^<<v33-27-28,28>>^ Ao estrondo da gritaria dos teus pilotos se turbarão as praias;
+
+[[v33-27-29]]
+
+^<<v33-27-29,29>>^ todos os remadores descerão dos seus navios; os marinheiros e todos os pilotos do mar ficarão em terra;
+
+[[v33-27-30]]
+
+^<<v33-27-30,30>>^ farão sobre ti um grande pranto em altas vozes, gritarão com amargura, deitarão pó sobre a sua cabeça, rolarão na cinza,
+
+[[v33-27-31]]
+
+^<<v33-27-31,31>>^ raparão por tua causa os cabelos, vestindo-se de cilícios, e, na amargura do seu coração, derramarão lágrimas sobre ti, pranto amargosíssimo.
+
+[[v33-27-32]]
+
+^<<v33-27-32,32>>^ Entoarão sobre ti cânticos lúgubres, chorarão a tua desgraça, dizendo: Que cidade há como Tiro. que emudeceu no meio do mar?
+
+[[v33-27-33]]
+
+^<<v33-27-33,33>>^ Quando desembarcavas mercadorias dos mares, enriquecias muitos povos; pela multidão das tuas riquezas e do teu tráfico, enriquecias os reis da terra.
+
+[[v33-27-34]]
+
+^<<v33-27-34,34>>^ Agora, que foste quebrada pelo mar. sumida no fundo das águas, as tuas mercadorias e toda a gente, que vivia no meio de ti, sossobraram contigo.
+
+[[v33-27-35]]
+
+^<<v33-27-35,35>>^ Todos os habitantes das ilhas estão cheios de espanto pelo teu caso; os seus reis, tomados de pânico ficaram com o aspecto alterado.
+
+[[v33-27-36]]
+
+^<<v33-27-36,36>>^ Os negociantes dos povos assobiam-te (escarnecendo); tornaste-te nm objecto de pavor, foste reduzida a nada, para sempre.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-026.adoc#v33-26-0[&#60; Capítulo Anterior] | <<v33-27-0,Topo>> | xref:033-ezequiel/033-ezequiel-028.adoc#v33-28-0[Próximo Capítulo &#62;]

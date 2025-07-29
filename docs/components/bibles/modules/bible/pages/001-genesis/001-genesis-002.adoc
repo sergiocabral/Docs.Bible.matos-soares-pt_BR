@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v1-2-0]]
+=== Gênesis, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 2 é o segundo capítulo da Bíblia e detalha a criação do homem e da mulher por Deus. Ele descreve como Deus criou o homem a partir do pó da terra e soprou em suas narinas o fôlego da vida, criou o jardim do Éden para o homem habitar, colocou o homem no jardim e lhe deu a tarefa de cultivá-lo e guardar, e criou a mulher a partir da costela do homem. A seguir, estão cinco versículos da Bíblia que se relacionam com temas abordados em Gênesis 2:
+* Salmos 139:14: "Eu te louvarei, porque de um modo tão admirável e maravilhoso fui formado; maravilhosas são as tuas obras, e a minha alma o sabe muito bem." Esse salmo destaca a criação do homem por Deus, incluindo a forma como ele foi criado a partir do pó da terra, conforme descrito em Gênesis 2.
+* Provérbios 18:22: "Quem encontra uma esposa encontra uma coisa boa, e alcança a benevolência do Senhor." Esse versículo se relaciona com a criação da mulher por Deus a partir da costela do homem, conforme descrito em Gênesis 2.
+* Efésios 5:25: "Vós, maridos, amai a vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela." Esse versículo se relaciona com a criação da mulher por Deus e destaca o papel do marido em amar e cuidar de sua esposa, conforme descrito em Gênesis 2.
+* 1 Coríntios 11:8-9: "Porque o homem não provém da mulher, mas a mulher do homem. Porque também o homem não foi criado por causa da mulher, mas a mulher por causa do homem." Esses versículos se relacionam com a criação da mulher por Deus a partir da costela do homem e destacam a ordem divina em relação aos papéis do homem e da mulher.
+* Apocalipse 22:2: "No meio da sua praça, de um e de outro lado do rio, estava a árvore da vida, que produz doze frutos, dando o seu fruto de mês em mês; e as folhas da árvore são para a saúde das nações." Esse versículo se relaciona com a criação do jardim do Éden por Deus, conforme descrito em Gênesis 2, e destaca a presença da árvore da vida no paraíso.
+****
+
+[[v1-2-1]]
+
+^<<v1-2-1,1>>^ Assim foram acabados o céu e a terra, e todos os seus ornatos.
+
+[[v1-2-2]]
+
+^<<v1-2-2,2>>^ E Deus acabou no sétimo dia a obra que tinha feito: e descansou no sétimo dia de toda a obra que tinha feito.
+
+[[v1-2-3]]
+
+^<<v1-2-3,3>>^ E abençoou o dia sétimo, e o santificou, porque nele tinha cessado de toda a sua obra, que, ao operar, tinha criado.
+
+[[v1-2-4]]
+
+^<<v1-2-4,4>>^ Tal é a história da criação do céu e da terra. No dia em que o Senhor Deus fez a terra e o céu,
+
+[[v1-2-5]]
+
+^<<v1-2-5,5>>^ nenhum arbusto campestre existia sobre a terra, e nenhuma erva do campo havia ainda brotado, porque o Senhor Deus não tinha (ainda) feito chover sobre a terra, nem havia homem que a cultivasse,
+
+[[v1-2-6]]
+
+^<<v1-2-6,6>>^ embora da terra subisse um vapor que regava toda a sua superfície.
+
+[[v1-2-7]]
+
+^<<v1-2-7,7>>^ O Senhor Deus formou, pois, o homem do barro da terra, e inspirou no seu rosto um sopro de vida, e o homem tornou-se alma (pessoa) vivente.
+
+[[v1-2-8]]
+
+^<<v1-2-8,8>>^ Depois o Senhor Deus plantou um jardim no Eden, a Oriente, no qual pôs o homem que tinha formado.
+
+[[v1-2-9]]
+
+^<<v1-2-9,9>>^ E o Senhor Deus tinha produzido da terra toda a casta de árvores formosas à vista, e de frutos doces para comer; e a árvore da vida no meio do paraíso, e a árvore da ciência do bem e do mal.
+
+[[v1-2-10]]
+
+^<<v1-2-10,10>>^ Do Eden saía um rio para regar o jardim, o qual dali se dividiu em quatro braços.
+
+[[v1-2-11]]
+
+^<<v1-2-11,11>>^ O nome do primeiro é Fison, e é aquele que torneia todo o pais de Evilath, onde se encontra o ouro.
+
+[[v1-2-12]]
+
+^<<v1-2-12,12>>^ E o ouro deste país é ótimo; ali (também) se acha o bdélio e a pedra ónix.
+
+[[v1-2-13]]
+
+^<<v1-2-13,13>>^ O nome do segundo rio é Geon, este é aquele que torneia toda a terra da Etiópia.
+
+[[v1-2-14]]
+
+^<<v1-2-14,14>>^ O nome, porém, do terceiro rio é Tigre, que corre para a banda dos Assírios. E o quatro rio é o Eufrates.
+
+[[v1-2-15]]
+
+^<<v1-2-15,15>>^ Tomou, pois, o Senhor Deus o homem, e colocou-o no jardim do Eden, para que o cultivasse e guardasse,
+
+[[v1-2-16]]
+
+^<<v1-2-16,16>>^ E deu-lhe este preceito, dizendo: Come de todas as árvores do paraíso,
+
+[[v1-2-17]]
+
+^<<v1-2-17,17>>^ mas não comas do fruto da árvore da ciência do bem e do mal, porque, em qualquer dia que comeres dele, morrerás indubitàvelmente.
+
+[[v1-2-18]]
+
+^<<v1-2-18,18>>^ Disse mais o Senhor Deus: Não é bom que o homem esteja só: façamos-lhe um adjutório semelhante a ele.
+
+[[v1-2-19]]
+
+^<<v1-2-19,19>>^ Tendo, pois, o Senhor Deus formado da terra todos os animais terrestres, e todas as aves do céu, levou-os diante de Adão, para este ver como os havia de chamar: e todo o nome que Adão pôs aos animais vivos, esse é o seu verdadeiro nome.
+
+[[v1-2-20]]
+
+^<<v1-2-20,20>>^ E Adão pôs nomes convenientes a todos os animais (domésticos), a todas as aves do céu, e a todos os animais selváticos: mas não se achava para Adão um adjutório semelhante a ele.
+
+[[v1-2-21]]
+
+^<<v1-2-21,21>>^ Mandou, pois, o Senhor Deus um profundo sono a Adão, e, enquanto ele estava dormindo, tirou uma das suas costelas, e pôs carne no lugar dela.
+
+[[v1-2-22]]
+
+^<<v1-2-22,22>>^ E da costela, que tinha tirado de Adão, Formou o Senhor Deus uma mulher, e a levou a Adão.
+
+[[v1-2-23]]
+
+^<<v1-2-23,23>>^ E Adão disse: eis aqui agora o osso de meus ossos e a carne da minha carne; ela se chamará Virago, porque do varão foi tomada.
+
+[[v1-2-24]]
+
+^<<v1-2-24,24>>^ Por isso deixará o homem seu pai e a sua mãe, e se unirá a sua mulher, e os dois serão uma só carne.
+
+[[v1-2-25]]
+
+^<<v1-2-25,25>>^ Ora um e outro, isto é, Adão e sua mulher, estavam nus, e não se envergonhavam (porque ainda eram inocentes).
+
+'''
+
+xref:001-genesis/001-genesis-001.adoc#v1-1-0[&#60; Capítulo Anterior] | <<v1-2-0,Topo>> | xref:001-genesis/001-genesis-003.adoc#v1-3-0[Próximo Capítulo &#62;]

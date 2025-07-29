@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v27-12-0]]
+=== Sabedoria, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 12 do livro de Sabedoria aborda a ideia de que Deus é compassivo e justo, e que as pessoas devem arrepender-se de seus pecados. Ele também destaca que Deus é paciente e espera que as pessoas se voltem para ele. Aqui estão cinco versículos relacionados a esses temas:
+* Salmos 103:8 - "O Senhor é compassivo e misericordioso, paciente e cheio de amor." Este versículo reflete a compaixão e paciência de Deus mencionadas em Sabedoria 12.
+* Isaías 55:7 - "Abandone os seus maus caminhos e os seus pensamentos maus; volte-se para o Senhor, que terá misericórdia de você, para o nosso Deus, que é generoso em perdoar." Este verso enfatiza a importância do arrependimento e da misericórdia de Deus.
+* Romanos 2:4 - "Você despreza as riquezas da bondade, da tolerância e da paciência de Deus, não reconhecendo que a bondade de Deus o conduz ao arrependimento?" Este verso destaca a paciência e tolerância de Deus, bem como a necessidade de arrependimento.
+* 2 Pedro 3:9 - "O Senhor não demora em cumprir a sua promessa, como julgam alguns. Pelo contrário, ele é paciente com vocês, não querendo que ninguém pereça, mas que todos cheguem ao arrependimento." Este verso ressalta a paciência de Deus e seu desejo de que as pessoas se voltem para ele.
+* Apocalipse 2:5 - "Lembre-se de onde caiu! Arrependa-se e pratique as obras que praticava no início." Este verso fala sobre o arrependimento e a necessidade de voltar-se para as coisas de Deus.
+****
+
+[[v27-12-1]]
+
+^<<v27-12-1,1>>^ O teu espírito incorruptível está em todos os seres.
+
+[[v27-12-2]]
+
+^<<v27-12-2,2>>^ Por isso é que castigas com brandura os que caem, e, advertindo-os das faltas que cometem, os exortas, para que, deixada a malícia, creiam em ti, Senhor.
+
+[[v27-12-3]]
+
+^<<v27-12-3,3>>^ Tinhas horror aos antigos habitantes da tua terra santa,
+
+[[v27-12-4]]
+
+^<<v27-12-4,4>>^ porque praticavam obras detestáveis de magia, ritos ímpios,
+
+[[v27-12-5]]
+
+^<<v27-12-5,5>>^ cruéis morticínios de crianças, (faziam) festins de entranhas, carne humana e sangue e iniciações em abomináveis mistérios.
+
+[[v27-12-6]]
+
+^<<v27-12-6,6>>^ A esses pais assassinos de seres indefesos, tu quiseste destruir pelas mãos de nossos pais,
+
+[[v27-12-7]]
+
+^<<v27-12-7,7>>^ a fim de que esta terra, que é a mais estimada por ti, recebesse uma digna colónia de filhos de Deus.
+
+[[v27-12-8]]
+
+^<<v27-12-8,8>>^ Mas ainda a esses (perversos) perdoaste como a homens e lhes enviaste as vespas como precursoras do teu exército, para que elas os exterminassem pouco a pouco.
+
+[[v27-12-9]]
+
+^<<v27-12-9,9>>^ Não porque não pudesses sujeitar pela guerra os ímpios aos justos, ou destruí-los duma vez pelos animais cruéis, ou com uma (só) palavra severa;
+
+[[v27-12-10]]
+
+^<<v27-12-10,10>>^ mas, castigando-os pouco a pouco, davas-lhes lugar de fazer penitência, embora não Ignorasses que a sua raça era má, que a malícia lhes era natural, e que os seus pensamentos (perversos) jamais mudariam.
+
+[[v27-12-11]]
+
+^<<v27-12-11,11>>^ Com efeito a sua raça era maldita desde o princípio. Não era por temor de alguém que te mostravas indulgente com os seus pecados. (ver nota)
+
+[[v27-12-12]]
+
+^<<v27-12-12,12>>^ Porquanto quem te dirá a ti: Que fizeste tu? Ou quem ousará opor-se às tuas sentenças? Ou quem te acusará de fazeres perecer nações criadas por ti? Ou quem virá defender contra ti a causa dos homens ímpios?
+
+[[v27-12-13]]
+
+^<<v27-12-13,13>>^ Não há outro Deus senão tu, que de todas as coisas tens cuidado, para mostrares que não há injustiça nos teus juízos.
+
+[[v27-12-14]]
+
+^<<v27-12-14,14>>^ Não há rei nem tirano que possa levantar-se contra ti a pedir contas daqueles que castigaste.
+
+[[v27-12-15]]
+
+^<<v27-12-15,15>>^ Porém, como és justo, todas as coisas governas justamente, e condenar quem não merece castigo é uma coisa que consideras indigna do teu poder.
+
+[[v27-12-16]]
+
+^<<v27-12-16,16>>^ Porque o teu poder é o princípio da justiça, e, por isso mesmo que és Senhor de tudo, te fazes indulgente com todos. (ver nota)
+
+[[v27-12-17]]
+
+^<<v27-12-17,17>>^ Todavia mostras o teu poder, quando te não crêem perfeitamente poderoso, e confundes os que o conhecem e têm audácia (de o desafiar).
+
+[[v27-12-18]]
+
+^<<v27-12-18,18>>^ Dominador da tua força julgas com bondade, e governas-nos com multa indulgência pois tens sempre em tua mão usar do poder quando quiseres.
+
+[[v27-12-19]]
+
+^<<v27-12-19,19>>^ Ensinaste ao teu povo por meio deste teu proceder, que o justo deve ser humano, e deste a teus filhos a boa esperança de que dás tempo de fazer penitência, depois do pecado.
+
+[[v27-12-20]]
+
+^<<v27-12-20,20>>^ Se os inimigos dos teus servos, dignos de morte, puniste com tanta circunspecção e indulgência, dando-lhes tempo e ocasião de se poderem converter da sua malícia,
+
+[[v27-12-21]]
+
+^<<v27-12-21,21>>^ com quanto cuidado não julgarás tu os teus filhos, a cujos pais concedeste com juramentos, a tua aliança repleta de boas promessas?
+
+[[v27-12-22]]
+
+^<<v27-12-22,22>>^ Quando, pois, nos infliges algum castigo, açoutas os nossos inimigos mil vezes mais, para que, quando julgamos, pensemos na tua bondade, e, quando somos julgados, esperemos na tua misericórdia.
+
+[[v27-12-23]]
+
+^<<v27-12-23,23>>^ Por isso também, àqueles que viveram loucamente no mal, fizeste sofrer tormentos por meio das suas próprias abominações. (ver nota)
+
+[[v27-12-24]]
+
+^<<v27-12-24,24>>^ Porque andaram largo tempo vagabundos, no caminho do erro, tendo por deuses os mais vis de entre os animais, deixando-se enganar como meninos sem razão.
+
+[[v27-12-25]]
+
+^<<v27-12-25,25>>^ Por isso, como a crianças insensatas, lhes deste um castigo irrisório. (ver nota)
+
+[[v27-12-26]]
+
+^<<v27-12-26,26>>^ Mas os que se não emendaram com uma correcção irrisória, experimentarão um castigo digno de Deus.
+
+[[v27-12-27]]
+
+^<<v27-12-27,27>>^ Irritados pelo que sofriam, sentindo-se atormentados pelas mesmas coisas que julgavam deuses, ao verem que antes recusavam conhecer reconheceram-no como verdadeiro Deus. Por isso caiu sobre eles o extremo da condenação. (ver nota)
+
+'''
+
+xref:027-sabedoria/027-sabedoria-011.adoc#v27-11-0[&#60; Capítulo Anterior] | <<v27-12-0,Topo>> | xref:027-sabedoria/027-sabedoria-013.adoc#v27-13-0[Próximo Capítulo &#62;]

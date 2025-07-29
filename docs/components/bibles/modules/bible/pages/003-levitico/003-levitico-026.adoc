@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v3-26-0]]
+=== Levítico, 26
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 26 do livro de Levítico trata das bênçãos e maldições que Deus prometeu ao povo de Israel, dependendo se eles obedeceriam ou não às suas leis e mandamentos. Os versículos selecionados são os seguintes:
+* Deuteronômio 30:19-20: "Os céus e a terra tomo, hoje, por testemunhas contra ti, que te pus diante de ti a vida e a morte, a bênção e a maldição; escolhe, pois, a vida, para que vivas, tu e a tua descendência, amando o Senhor, teu Deus, dando ouvidos à sua voz e achegando-te a ele; pois ele é a tua vida e a tua longevidade." Este versículo enfatiza a escolha que o povo de Israel tem de escolher a vida e a bênção, obedecendo à Deus, em vez de escolher a morte e a maldição, desobedecendo a Deus.
+* Deuteronômio 7:9: "Saberás, pois, que o Senhor, teu Deus, é Deus, o Deus fiel, que guarda o concerto e a misericórdia até mil gerações aos que o amam e guardam os seus mandamentos." Este versículo destaca a fidelidade de Deus em manter sua aliança com aqueles que o amam e obedecem seus mandamentos.
+* Deuteronômio 28:1: "E será que, se ouvires a voz do Senhor, teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu hoje te ordeno, o Senhor, teu Deus, te exaltará sobre todas as nações da terra." Este versículo promete a bênção e a exaltação para aqueles que ouvem a voz de Deus e obedecem seus mandamentos.
+* Salmos 81:13-14: "Oh, se o meu povo me escutasse! Se Israel andasse nos meus caminhos! Em breve eu abateria os seus inimigos, e viraria a minha mão contra os seus adversários." Este versículo destaca a importância de ouvir a voz de Deus e seguir seus caminhos, prometendo a proteção contra inimigos e adversários.
+* Jeremias 31:33: "Mas este é o concerto que farei com a casa de Israel depois daqueles dias, diz o Senhor: porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo." Este versículo fala da promessa de Deus de escrever sua lei no coração do povo de Israel, destacando a importância da obediência a Deus de dentro para fora.
+****
+
+[[v3-26-1]]
+
+^<<v3-26-1,1>>^ Eu sou o Senhor vosso Deus: não fareis ídolos para vós, nem esculturas nem levantareis colunas, nem na vossa terra poreis alguma pedra adornada de figuras para a adorardes, porque Eu sou o Senhor vosso Deus, (ver nota)
+
+[[v3-26-2]]
+
+^<<v3-26-2,2>>^ Guardai os meus sábados, e tremei diante do meu santuário. Eu sou o Senhor.
+
+[[v3-26-3]]
+
+^<<v3-26-3,3>>^ Se andardes conforme os meus preceitos, se guardardes os meus mandamentos e os praticardes, eu vos darei as chuvas nos seus tempos,
+
+[[v3-26-4]]
+
+^<<v3-26-4,4>>^ a terra dará o seu produto, e as árvores se carregarão de frutos.
+
+[[v3-26-5]]
+
+^<<v3-26-5,5>>^ A debulha do trigo prolongar-se-á até à vindima, e a vindima juntar-se-á à sementeira; comereis o vosso pão à saciedade, e habitareis na vossa terra sem temor.
+
+[[v3-26-6]]
+
+^<<v3-26-6,6>>^ Eu darei paz dentro dos vossas limites: dormireis, e não haverá quem vos aterre. Afastarei de vós os animais nocivos, e a espada não atravessará a vossa terra.
+
+[[v3-26-7]]
+
+^<<v3-26-7,7>>^ Perseguireis os vossos inimigos, e eles cairão diante de vós.
+
+[[v3-26-8]]
+
+^<<v3-26-8,8>>^ Cinco dos vossos perseguirão um cento dos estranhos, e cem dos vossos perseguirão dez mil deles; os vossos inimigos cairão à ponta de espada diante de vós.
+
+[[v3-26-9]]
+
+^<<v3-26-9,9>>^ Olharei para vós, e vos farei crescer; multiplicar-vos-ei, e ratificarei a minha aliança convosco.
+
+[[v3-26-10]]
+
+^<<v3-26-10,10>>^ Comereis produtos dos anos anteriores e, sobrevindo os novos, lançareis fora os velhos.
+
+[[v3-26-11]]
+
+^<<v3-26-11,11>>^ Porei o meu tabernáculo no meio de vós, e a minha alma não vos rejeitará.
+
+[[v3-26-12]]
+
+^<<v3-26-12,12>>^ Andarei entre vós, e serei o vosso Deus e vós sereis o meu povo.
+
+[[v3-26-13]]
+
+^<<v3-26-13,13>>^ Eu sou o Senhor vosso Deus, que vos tirei da terra dos Egípcios, para que não fosseis seus escravos, e que quebrei as cadeias dos vossos pescoços, para andardes direitos.
+
+[[v3-26-14]]
+
+^<<v3-26-14,14>>^ Se, porém, me não ouvirdes e não observardes todos meus mandamentos,
+
+[[v3-26-15]]
+
+^<<v3-26-15,15>>^ se desprezardes as minhas leis, e não fizerdes caso das minhas ordenações, de sorte que não façais o que por mim vos foi prescrito, e torneis vão o meu pacto,
+
+[[v3-26-16]]
+
+^<<v3-26-16,16>>^ eu vos tratarei desta maneira; Visitar-vos-ei prontamente com a indigência e com um ardor que vos seque os vossos olhos, e consuma as vossas almas. Baldadamente semeareis a vossa semente, a qual será destruída pelos vossos inimigos.
+
+[[v3-26-17]]
+
+^<<v3-26-17,17>>^ Porei a minha face contra vós, caireis diante dos vossos inimigos, sereis sujeitos aos que vos aborrecem e fugireis sem que ninguém vos persiga.
+
+[[v3-26-18]]
+
+^<<v3-26-18,18>>^ Se nem ainda assim me obedecerdes, acrescentarei o séptuplo ao vosso castigo, por causa dos vossos pecados,
+
+[[v3-26-19]]
+
+^<<v3-26-19,19>>^ quebrarei a soberba da vossa dureza, farei que o céu lá em cima seja como ferro, e a terra como bronze.
+
+[[v3-26-20]]
+
+^<<v3-26-20,20>>^ O vosso trabalho será baldado, a terra não dará os seus produtos, nem as árvores darão frutos.
+
+[[v3-26-21]]
+
+^<<v3-26-21,21>>^ Se andardes ao contrário de mim, e não quiserdes ouvir-me, acrescentarei o séptuplo às vossas pragas, por causa dos vossos pecados:
+
+[[v3-26-22]]
+
+^<<v3-26-22,22>>^ mandarei contra vós as feras do campo, que vos devorem a vós e aos vossos gados, que reduzam tudo a um pequeno número, de modo que os vossos caminhos fiquem desertos.
+
+[[v3-26-23]]
+
+^<<v3-26-23,23>>^ Se nem ainda assim quiserdes corrigir-vos, mas se andardes contra mim,
+
+[[v3-26-24]]
+
+^<<v3-26-24,24>>^ também andarei contra vós, e vos ferirei sete vezes mais, por causa dos vossos pecados:
+
+[[v3-26-25]]
+
+^<<v3-26-25,25>>^ farei cair sobre vós a espada vingadora da minha aliança: se vos refugiardes nas cidades, lançarei a peste no meio de vós, e sereis entregues nas mãos dos inimigos,
+
+[[v3-26-26]]
+
+^<<v3-26-26,26>>^ depois de vos haver tirado o pão, vosso sustento: que dez mulheres cozerão os pães num só forno, e os distribuirão racionados, de maneira que comereis e não ficareis satisfeitos. (ver nota)
+
+[[v3-26-27]]
+
+^<<v3-26-27,27>>^ Se ainda depois disto me não ouvirdes, mas procederdes contra mim,
+
+[[v3-26-28]]
+
+^<<v3-26-28,28>>^ também eu procederei contra vós com furor inimigo, e vos castigarei sete vezes mais, por causa dos vossos pecados,
+
+[[v3-26-29]]
+
+^<<v3-26-29,29>>^ até ao ponto de comerdes a carne de vossos filhos e de vossas filhas.
+
+[[v3-26-30]]
+
+^<<v3-26-30,30>>^ Destruirei os vossos altares e quebrarei as vossas estelas consagradas ao sol. Vós caíres entre as ruínas dos vossos ídolos, e a minha alma vos abominará,
+
+[[v3-26-31]]
+
+^<<v3-26-31,31>>^ de tal sorte que reduzirei à solidão as vossas cidades, tornarei, desertos os vossos santuários, e não aceitarei mais o suave odor dos vossos perfumes. (ver nota)
+
+[[v3-26-32]]
+
+^<<v3-26-32,32>>^ Desolarei a vossa terra, e os vossos inimigos pasmarão sobre ela, quando a habitarem.
+
+[[v3-26-33]]
+
+^<<v3-26-33,33>>^ A vós porém, espalhar-vos-ei entre as nações, e desembainharei a espada atrás de vós, será deserta a vossa terra, destruídas as vossas cidades. (ver nota)
+
+[[v3-26-34]]
+
+^<<v3-26-34,34>>^ Então agradarão à terra os seus sábados durante todo o tempo da sua solidão; quando estiverdes (ver nota)
+
+[[v3-26-35]]
+
+^<<v3-26-35,35>>^ em terra de inimigos, ela terá descanso, e repousará nos sábados, dia sua solidão, pois que não repousou nos vossos sábados, quando habitáveis nela.
+
+[[v3-26-36]]
+
+^<<v3-26-36,36>>^ E aos que de vós ficarem, porei tal espanto nos seus corações, em terras dos inimigos, que o ruído de uma folha agitada (pelo vento) os aterrará, e fugirão dela como de uma espada: cairão, sem que ninguém os persiga,
+
+[[v3-26-37]]
+
+^<<v3-26-37,37>>^ precipitar-se-ão uns sobre os outros, como se fugissem das batalhas: nenhum de vós ousará resistir aos inimigos;
+
+[[v3-26-38]]
+
+^<<v3-26-38,38>>^ perecereis entre as nações, e a terra inimiga vos consumirá.
+
+[[v3-26-39]]
+
+^<<v3-26-39,39>>^ Se ficarem ainda alguns deles, consumir-se-ão por causa das suas iniquidades na terra dos seus inimigos, e serão oprimidos de aflições, por causa dos pecados de seus pais e dos próprios.
+
+[[v3-26-40]]
+
+^<<v3-26-40,40>>^ Confessarão as suas iniquidades e as de seus maiores, nas transgressões contra mim, e (reconhecerão) que por se terem oposto a mim
+
+[[v3-26-41]]
+
+^<<v3-26-41,41>>^ também me pus contra eles e os fiz vir para terra inimiga. Se então humilharem o seu coração incircunciso e pedirem perdão das suas impiedades,
+
+[[v3-26-42]]
+
+^<<v3-26-42,42>>^ recordar-me-ei da aliança que fiz com Jacob, Isaac e Abraão e lembrar-me-ei tembém da terra,
+
+[[v3-26-43]]
+
+^<<v3-26-43,43>>^ a qual, depois que eles a tiverem deixado, se comprazerá com os seus sábados, sofrendo a solidão por causa deles. Mas eles pedirão perdão dos seus pecados, porque regeitaram os meus preceitos, e desprezaram as minhas leis.
+
+[[v3-26-44]]
+
+^<<v3-26-44,44>>^ Apesar de tudo isto, ainda quando eles estavam em terra inimiga, eu não os regeitei de todo, nem os desprezei de sorte que os deixasse perecer inteiramente, e tornasse vã a minha aliança com eles. Com efeito, sou o Senhor seu Deus,
+
+[[v3-26-45]]
+
+^<<v3-26-45,45>>^ e lembrar-me-ei da minha antiga aliança, quando os tirei da terra do Egipto, à vista das gentes, para ser o seu Deus. Eu sou o Senhor. Estas são as ordenações e os preceitos e as leis que o Senhor estabeleceu entre si e os filhos de Israel no monte Sinai, por mão de Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-025.adoc#v3-25-0[&#60; Capítulo Anterior] | <<v3-26-0,Topo>> | xref:003-levitico/003-levitico-027.adoc#v3-27-0[Próximo Capítulo &#62;]

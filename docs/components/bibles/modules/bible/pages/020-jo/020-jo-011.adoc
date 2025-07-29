@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v20-11-0]]
+=== Jó, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Jó 11, Zofar, um dos amigos de Jó, expressa sua opinião sobre a situação do seu amigo e oferece conselhos sobre como ele deveria agir. Zofar sugere que Jó está sofrendo porque merece, e que a solução para os seus problemas é arrepender-se e buscar a Deus. Os versículos relacionados aos temas abordados em Jó 11 são:
+* Jó 4:7 - "Lembra-te agora: quem jamais pereceu, sendo inocente? Ou onde foram destruídos os retos?" Zofar sugere que o sofrimento de Jó é um castigo merecido, e que ele deve ter cometido algum pecado para estar passando por isso. Este versículo fala sobre a ideia de que as pessoas só sofrem se merecerem, o que é uma crença comum na época de Jó.
+* Provérbios 3:11-12 - "Filho meu, não desprezes a correção do SENHOR, nem te desanimes quando por ele fores repreendido; porque o SENHOR repreende a quem ama, assim como o pai, ao filho a quem quer bem." Zofar acredita que o sofrimento de Jó é um castigo de Deus, mas esse versículo mostra que a correção divina não é necessariamente um castigo, mas um ato de amor e cuidado.
+* Jó 9:20 - "Ainda que eu fosse justo, a minha própria boca me condenaria; ainda que eu fosse íntegro, ele me provaria perverso." Zofar sugere que Jó deve se arrepender e buscar a Deus para acabar com o seu sofrimento, mas este versículo fala sobre a dificuldade de alguém que é inocente em defender-se de acusações.
+* Salmos 34:19 - "Muitas são as aflições do justo, mas o SENHOR o livra de todas." Zofar acredita que Jó só está sofrendo porque merece, mas este versículo mostra que o sofrimento pode acontecer mesmo com pessoas justas, e que Deus é capaz de livrar o justo de todas as suas aflições.
+* Isaías 40:31 - "Mas os que esperam no SENHOR renovarão as suas forças e subirão com asas como águias; correrão e não se cansarão; caminharão e não se fatigarão." Zofar sugere que a solução para o sofrimento de Jó é arrepender-se e buscar a Deus, e este versículo fala sobre a importância da esperança e da confiança em Deus para enfrentar os desafios da vida.
+****
+
+[[v20-11-1]]
+
+^<<v20-11-1,1>>^ Então respondendo Sofar de Naama, disse: (ver nota)
+
+[[v20-11-2]]
+
+^<<v20-11-2,2>>^ Porventura o que fala muito, não terá também de ouvir? Ou bastará a um homem ser grande falador para se justificar? A tua tagarelice calará os homens?
+
+[[v20-11-3]]
+
+^<<v20-11-3,3>>^ Depois de zombares dos outros, ninguém te há-de confundir?
+
+[[v20-11-4]]
+
+^<<v20-11-4,4>>^ Tu disseste (a Deus): "O que penso é verdadeiro, e eu estou limpo na tua presença."
+
+[[v20-11-5]]
+
+^<<v20-11-5,5>>^ Oxalá que Deus falasse contigo, e abrisse contigo os teus lábios,
+
+[[v20-11-6]]
+
+^<<v20-11-6,6>>^ para te descobrir os segredos da sua sabedoria, e a multiplicidade da sua lei, com o que conhecerias que te castigue muito menos do que merece a tua maldade.
+
+[[v20-11-7]]
+
+^<<v20-11-7,7>>^ Porventura alcançarás os caminhos de Deus, e conhecerás perfeitamente o Omnipotente?
+
+[[v20-11-8]]
+
+^<<v20-11-8,8>>^ Ele é mais alto do que o céu; que farás tu? Mais profundo do que o inferno; como conhecerás ?
+
+[[v20-11-9]]
+
+^<<v20-11-9,9>>^ A sua medida é mais comprida que a terra, e mais larga que o mar.
+
+[[v20-11-10]]
+
+^<<v20-11-10,10>>^ Se ele acontecer, aprisionar e citar em juízo (o culpado), quem poderá impedi-lo?
+
+[[v20-11-11]]
+
+^<<v20-11-11,11>>^ Porque ele conhece os perversos, vê a iniquidade, sem que ela dê conta.
+
+[[v20-11-12]]
+
+^<<v20-11-12,12>>^ A' vista disto, mesmo um néscio entenderia, e um jumento andaria na razão.
+
+[[v20-11-13]]
+
+^<<v20-11-13,13>>^ Se voltares o teu coração para Deus, se ergueres a ele os teus braços,
+
+[[v20-11-14]]
+
+^<<v20-11-14,14>>^ Se lançares fora de ti a iniquidade, que está em tuas mãos, Se a injustiça não tiver aceitação na tua casa,
+
+[[v20-11-15]]
+
+^<<v20-11-15,15>>^ então poderás levantar o teu rosto sem mácula, serás estável (na virtude) e não temerás.
+
+[[v20-11-16]]
+
+^<<v20-11-16,16>>^ Então te esquecerás dos teus sofrimentos, lembrar-te-ás deles como de águas que passaram.
+
+[[v20-11-17]]
+
+^<<v20-11-17,17>>^ E se levantará para ti o futuro, brilhante como o meio-dia, as trevas se mudarão em aurora.
+
+[[v20-11-18]]
+
+^<<v20-11-18,18>>^ Terás confiança pela esperança (da vida eterna), que te será proposta, e, deitado, dormirás tranquilo.
+
+[[v20-11-19]]
+
+^<<v20-11-19,19>>^ Repousarás, e não haverá quem te amedronte, e muitos suplicarão a tua face.
+
+[[v20-11-20]]
+
+^<<v20-11-20,20>>^ Mas os olhos dos impios se consumirão; não lhes ficará refúgio (que os livre do castigo merecido), e a sua esperança será o último suspiro.
+
+'''
+
+xref:020-jo/020-jo-010.adoc#v20-10-0[&#60; Capítulo Anterior] | <<v20-11-0,Topo>> | xref:020-jo/020-jo-012.adoc#v20-12-0[Próximo Capítulo &#62;]

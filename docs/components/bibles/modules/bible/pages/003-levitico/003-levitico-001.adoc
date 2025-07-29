@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v3-1-0]]
+=== Levítico, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 1 apresenta instruções detalhadas sobre a oferta de sacrifícios pelo fogo ao Senhor, especialmente o sacrifício do holocausto. Os sacrifícios eram uma forma de adoração e expiação pelos pecados cometidos pelo povo. Abaixo estão cinco versículos relacionados com os temas abordados em Levítico 1:
+* Levítico 4:35 - "Ele retirará toda a gordura, assim como a gordura retirada do animal sacrificado na oferta de comunhão, e queimará no altar como aroma agradável ao Senhor. Assim, o sacerdote fará expiação pelos pecados do homem, e ele será perdoado". Esse versículo destaca a importância da remoção da gordura do sacrifício, que deveria ser queimada como uma oferta agradável ao Senhor e uma forma de expiação pelos pecados cometidos.
+* Levítico 6:9 - "Dê ordens a Arão e aos seus filhos, dizendo: 'Esta é a lei do holocausto: o holocausto deverá ficar na fogueira do altar durante toda a noite até a manhã, e o fogo do altar deverá estar aceso nele'". Esse versículo apresenta a lei do holocausto, que deveria ser mantido na fogueira do altar durante toda a noite e o fogo deveria estar aceso nele.
+* Levítico 17:11 - "Porque a vida da carne está no sangue, e eu o dei a vocês para fazerem expiação por si mesmos no altar; é o sangue que faz expiação pela vida". Esse versículo destaca a importância do sangue nos sacrifícios, que era uma forma de expiação pelos pecados do povo.
+* Levítico 22:19-20 - "se oferecerem um animal com defeito, isso não será aceito em favor de vocês. Ele não será aceito em seu favor, porque está defeituoso". Esse versículo apresenta a exigência de que os animais oferecidos em sacrifício deviam ser perfeitos, sem defeito algum, e que sacrifícios com animais defeituosos não seriam aceitos pelo Senhor.
+* Levítico 23:37 - "Estes são os dias de repouso do Senhor, dias em que vocês devem convocar reuniões sagradas e apresentar ofertas queimadas ao Senhor, holocaustos, ofertas de cereais e ofertas de bebidas, cada uma no seu dia designado". Esse versículo destaca a importância da observância dos dias sagrados, quando o povo deveria oferecer sacrifícios ao Senhor como forma de adoração.
+****
+
+[[v3-1-1]]
+
+^<<v3-1-1,1>>^ Ora o Senhor chamou Moisés, e falou-lhe do tabernáculo da reunião, dizendo
+
+[[v3-1-2]]
+
+^<<v3-1-2,2>>^ Fala aos filhos de Israel e dize-lhes: Quando algum de vós fizer ao Senhor uma oferta de animais, oferecerá gado graúdo ou miúdo.
+
+[[v3-1-3]]
+
+^<<v3-1-3,3>>^ Se a sua oferta for um holocausto de gado graúdo, oferecerá um macho sem defeito à porta do tabernáculo da reunião, para que o Senhor lhe seja propício.
+
+[[v3-1-4]]
+
+^<<v3-1-4,4>>^ Porá a mão sobre a cabeça da vítima, e ela será aceita, e aproveitará para sua expiação;
+
+[[v3-1-5]]
+
+^<<v3-1-5,5>>^ imolará o novilho diante do Senhor, e os sacerdotes, filhos de Aarão oferecerão o seu sangue, derramando-o ao redor do altar, que está diante da porta do tabernáculo;
+
+[[v3-1-6]]
+
+^<<v3-1-6,6>>^ tirada a pele à vítima, farão em pedaços os seus membros,
+
+[[v3-1-7]]
+
+^<<v3-1-7,7>>^ porão fogo sobre o altar, depois que tiverem posto em ordem a lenha,
+
+[[v3-1-8]]
+
+^<<v3-1-8,8>>^ e colocarão em cima, por ordem, os membros cortados, a saber, a cabeça o redanho.
+
+[[v3-1-9]]
+
+^<<v3-1-9,9>>^ Depois lavará com água os intestinos e os pés da vítima e o sacerdote queimará estas coisas sobre o altar em holocausto e em suave odor ao Senhor.
+
+[[v3-1-10]]
+
+^<<v3-1-10,10>>^ Porém, se a oferta for um holocausto de gado miúdo, oferecerá um macho sem defeito,
+
+[[v3-1-11]]
+
+^<<v3-1-11,11>>^ e o imolará diante do Senhor ao lado do altar, que olha para o aquilão; os filhos de Aarão derramarão o seu sangue em toda a volta sobre o altar.
+
+[[v3-1-12]]
+
+^<<v3-1-12,12>>^ Dividirão os membros, a cabeça e o redanho e os disporão sobre a lenha colocada sobre o fogo do altar.
+
+[[v3-1-13]]
+
+^<<v3-1-13,13>>^ Lavarão os intestinos e os pés com água. O sacerdote queimará sobre o altar todas as coisas oferecidas em holocausto de odor suavíssimo ao Senhor.
+
+[[v3-1-14]]
+
+^<<v3-1-14,14>>^ Se, porém, a oferta ao Senhor é um holocausto de aves, (será) de rolas ou de pombinhos.
+
+[[v3-1-15]]
+
+^<<v3-1-15,15>>^ O sacerdote colocará a vítima sobre o altar, separará a sua cabeça, fará correr o sangue sobre a borda do altar e queimá-la-á sobre o altar.
+
+[[v3-1-16]]
+
+^<<v3-1-16,16>>^ Porém o papo e as pernas lançá-los-á perto do altar para o lado do oriente, no lugar onde se costumam lançar as cinzas,
+
+[[v3-1-17]]
+
+^<<v3-1-17,17>>^ quebrar-lhe-á as asas, e não a cortará nem a dividirá com ferro, mas queimá-la-á sobre o altar, depois de ter posto fogo por baixo da lenha. Isto é um holocausto e uma oferta de suave odor ao Senhor.
+
+'''
+
+xref:002-exodo/002-exodo-040.adoc#v2-40-0[&#60; Capítulo Anterior] | <<v3-1-0,Topo>> | xref:003-levitico/003-levitico-002.adoc#v3-2-0[Próximo Capítulo &#62;]

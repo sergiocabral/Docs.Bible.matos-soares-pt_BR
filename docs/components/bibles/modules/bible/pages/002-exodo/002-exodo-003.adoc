@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v2-3-0]]
+=== Êxodo, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 do livro de Êxodo conta a história de Moisés sendo chamado por Deus para libertar o povo de Israel da escravidão no Egito. Deus aparece para Moisés em uma chama de fogo em uma sarça ardente e lhe dá a tarefa de liderar seu povo para fora do Egito. Moisés resiste inicialmente, mas Deus lhe garante que estará com ele em sua missão. A seguir, cinco versículos relacionados com os temas abordados em Êxodo 3:
+* Deuteronômio 31:6: "Sê forte e corajoso, não temas, nem te espantes diante deles; porque o Senhor teu Deus é contigo; ele não te deixará, nem te desamparará." Este versículo mostra como Deus garantiu a Moisés que estaria com ele em sua missão, e que ele não deveria ter medo ou se desesperar, pois Deus estaria sempre presente para ajudá-lo.
+* Salmos 68:5: "Pai dos órfãos e juiz das viúvas é Deus, no seu lugar santo." Este versículo destaca a importância de Deus como um juiz justo e defensor daqueles que são marginalizados e oprimidos, o que é relevante para a libertação do povo de Israel da escravidão no Egito.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo é semelhante ao de Deuteronômio 31:6, mostrando como Deus é fiel e estará sempre presente para ajudar aqueles que confiam nele.
+* Jeremias 1:8: "Não temas diante deles; porque eu sou contigo para te livrar, diz o Senhor." Mais uma vez, este versículo enfatiza a presença de Deus como um protetor e libertador, especialmente quando seus seguidores são confrontados com inimigos poderosos.
+* 1 Pedro 5:7: "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós." Este versículo destaca a importância de confiar em Deus e entregar nossas preocupações e medos a ele, em vez de tentar lidar com eles sozinhos. Isso é relevante para o capítulo 3 de Êxodo, pois Moisés inicialmente resiste ao chamado de Deus por causa de seus próprios medos e inseguranças.
+****
+
+[[v2-3-1]]
+
+^<<v2-3-1,1>>^ Ora Moisés apascentava as ovelhas de Jetro, seu sogro, sacerdote de Madian. Tendo conduzido o rebanho para o interior do deserto, chegou ao monte de Deus, a Horeb.
+
+[[v2-3-2]]
+
+^<<v2-3-2,2>>^ O Senhor apareceu-lhe numa chama de fogo (que saia) do meio de uma sarça, e (Moisés) via que a sarça ardia sem se consumir.
+
+[[v2-3-3]]
+
+^<<v2-3-3,3>>^ Disse, pois, Moisés: Irei examinar (de perto) esta grande visão, (e verei) por que causa se não consome a sarça.
+
+[[v2-3-4]]
+
+^<<v2-3-4,4>>^ Porém o Senhor, vendo que ele se movia para ir ver, chamou-o do meio da sarça e disse: Moisés, Moisés. Ele respondeu: Aqui estou.
+
+[[v2-3-5]]
+
+^<<v2-3-5,5>>^ E (o Senhor) disse; Não te aproximes daqui; tira as sandálias de teus pés, porque o lugar em que estás, é uma terra santa.
+
+[[v2-3-6]]
+
+^<<v2-3-6,6>>^ E acrescentou: Eu sou o Deus de teu pai, o Deus de Abraão, o Deus de Isaac e o Deus de Jacob. Cobriu Moisés o rosto, porque não ousava olhar para Deus.
+
+[[v2-3-7]]
+
+^<<v2-3-7,7>>^ O Senhor disse-lhe: Eu vi a aflição do meu povo no Egipto, ouvi o seu clamor causado pela crueza daqueles que têm a superintendência das obras.
+
+[[v2-3-8]]
+
+^<<v2-3-8,8>>^ Conhecendo a sua dor, desceu para o livrar das mãos dos Egípcios e para o conduzir daquela terra para uma terra boa e espaçosa, para uma terra onde corre o leite e o mel, nas regiões do Cananeu, do Heteu, do Amorreu, do Ferezeu, do Heveu do Jebuseu.
+
+[[v2-3-9]]
+
+^<<v2-3-9,9>>^ O clamor, pois, dos filhos de Israel chegou até mim, e eu vi a aflição com que são oprimidos pelos Egípcios.
+
+[[v2-3-10]]
+
+^<<v2-3-10,10>>^ Mas vem e eu te enviarei a Faraó, a fim de que tires do Egipto o meu povo, os filhos de Israel.
+
+[[v2-3-11]]
+
+^<<v2-3-11,11>>^ Moisés disse a Deus: Quem sou eu, para ir ter com Faraó e tirar os filhos de Israel do Egipto?
+
+[[v2-3-12]]
+
+^<<v2-3-12,12>>^ Deus disse-lhe: Eu serei contigo; terás isto por sinal de que eu te mandarei: Quando tiveres tirado o meu povo do Egipto, oferecerás sacrifícios a Deus sobre este monte.
+
+[[v2-3-13]]
+
+^<<v2-3-13,13>>^ Moisés disse a Deus; Eu irei aos filhos de Israel e lhes direi: O Deus de vossos pais enviou-me a vós. Porém, se eles me perguntarem qual o seu nome, que lhes hei-de responder?
+
+[[v2-3-14]]
+
+^<<v2-3-14,14>>^ Deus disse a Moisés: Eu sou o que sou. E acrescentou: Assim dirás aos filhos de Israel; Aquele que é, enviou-me a vós. (ver nota)
+
+[[v2-3-15]]
+
+^<<v2-3-15,15>>^ Deus disse novamente a Moisés: Dirás isto aos filhos de Israel: O Senhor Deus de vossos pais, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, enviou-me a vós; teste é o meu nome por toda a eternidade, e com este (nome) serei recordado de geração em geração.
+
+[[v2-3-16]]
+
+^<<v2-3-16,16>>^ Vai, ajunta os anciães de Israel e dize-lhes: O Senhor Deus de vossos pais apareceu-me, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob, e disse: Eu vos visitei atentamente e vi tudo o que vos tem sucedido no Egipto.
+
+[[v2-3-17]]
+
+^<<v2-3-17,17>>^ Resolvi tirar-vos da opressão dos Egípcios e (conduzir-vos) à terra do Cananeu, do Heteu, do Amorreu do Ferezeu, do Heveu e do Jebuseu, a uma terra onde corre o leite e o mel.
+
+[[v2-3-18]]
+
+^<<v2-3-18,18>>^ Eles ouvirão a tua voz, e tu com os anciães de Israel irás ao rei do Egipto e lhe dirás: O Senhor Deus dos Hebreus chamou-nos; nós faremos viagem de três dias no deserto para sacrificarmos ao Senhor nosso Deus.
+
+[[v2-3-19]]
+
+^<<v2-3-19,19>>^ Bem sei que o rei do Egipto não vos deixará ir, se não for (obrigado) por mão forte:
+
+[[v2-3-20]]
+
+^<<v2-3-20,20>>^ mas, por isso, eu estenderei a minha mão e ferirei o Egipto com toda a sorte de prodígios, que farei no meio deles. Depois disto vos deixará partir.
+
+[[v2-3-21]]
+
+^<<v2-3-21,21>>^ Farei que este povo encontre graça junto dos Egípcios; quando partirdes, não saireis com as mãos vazias. (ver nota)
+
+[[v2-3-22]]
+
+^<<v2-3-22,22>>^ Cada mulher pedirá à sua vizinha e àquela que mora na sua casa, objectos de prata e de ouro, e vestidos: pô-los-eis sobre vossos filhos e filhas, e despojareis o Egipto.
+
+'''
+
+xref:002-exodo/002-exodo-002.adoc#v2-2-0[&#60; Capítulo Anterior] | <<v2-3-0,Topo>> | xref:002-exodo/002-exodo-004.adoc#v2-4-0[Próximo Capítulo &#62;]

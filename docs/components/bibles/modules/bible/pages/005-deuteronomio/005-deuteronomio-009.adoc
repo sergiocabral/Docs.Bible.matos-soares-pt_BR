@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v5-9-0]]
+=== Deuteronômio, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 9 destaca a fidelidade de Deus em cumprir suas promessas ao povo de Israel, mesmo que eles tenham sido rebeldes e desobedientes. O capítulo também relembra o episódio em que Moisés intercedeu pelo povo, pedindo a misericórdia de Deus e sua decisão de destruí-los. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em Deuteronômio 9.
+* Salmos 106:6: "Nós pecamos, como nossos pais; cometemos iniquidades, andamos perversamente." Este salmo reconhece a tendência humana ao pecado e desobediência a Deus, que foi a causa das dificuldades enfrentadas pelo povo de Israel.
+* Salmos 130:3-4: "Se tu, Senhor, observares as iniquidades, Senhor, quem subsistirá? Mas contigo está o perdão, para que sejas temido." Este salmo destaca a graça e misericórdia de Deus em perdoar aqueles que se arrependem e confiam nele, como foi o caso de Israel quando Moisés intercedeu por eles.
+* Provérbios 28:13: "O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa alcançará misericórdia." Este versículo mostra a importância de reconhecer e confessar os pecados a Deus para receber sua misericórdia e perdão, como fez Moisés em nome do povo de Israel.
+* Jeremias 31:33: "Mas este é o concerto que farei com a casa de Israel depois daqueles dias, diz o Senhor: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo." Este versículo destaca a promessa de Deus de transformar o coração de seu povo e escrever sua lei em seus corações, para que possam obedecer e ser fiéis a ele.
+* Romanos 3:23-24: "Porque todos pecaram e destituídos estão da glória de Deus; Sendo justificados gratuitamente pela sua graça, pela redenção que há em Cristo Jesus." Este versículo reforça a ideia de que todos pecaram e precisam da graça e misericórdia de Deus para serem justificados e salvos, como foi o caso do povo de Israel.
+****
+
+[[v5-9-1]]
+
+^<<v5-9-1,1>>^ Ouve, ó Israel: Tu passarás hoje o Jordão, para te assenhoreares de nações muito grandes e mais poderosas do que tu, de cidades grandes e muradas até ao céu, (ver nota)
+
+[[v5-9-2]]
+
+^<<v5-9-2,2>>^ de um povo grande e de alta estatura, dos filhos dos Enacins, que já conheces e de que tens ouvido dizer: Quem poderá resistir aos filhos de Enac?
+
+[[v5-9-3]]
+
+^<<v5-9-3,3>>^ Saberás hoje que o Senhor teu Deus passará ele mesmo diante de ti, como um fogo devorador e consumidor, que os destruirá e arruinará, e os exterminará dentro de pouco tempo diante de ti, como te disse.
+
+[[v5-9-4]]
+
+^<<v5-9-4,4>>^ Depois que o Senhor teu Deus os tiver exterminado diante de ti, não digas no teu coração: Por causa da minha justiça é que o Senhor me introduziu nesta terra para a possuir, tendo sido estas nações destruídas por causa das suas impiedades.
+
+[[v5-9-5]]
+
+^<<v5-9-5,5>>^ Não é pela tua justiça, nem pela rectidão do teu coração que tu entrarás na posse das suas terras. (A razão é que) elas procederam impiamente, e por isso, foram destruídas à tua chegada; (isso também aconteceu) para que o Senhor cumprisse a sua palavra dada com juramento a teus pais Abraão, Isaac e Jacob.
+
+[[v5-9-6]]
+
+^<<v5-9-6,6>>^ Sabe, pois, que não é pela tua justiça que o Senhor teu Deus te dará a posse desta terra excelente, pois tu és um povo de cerviz duríssima.
+
+[[v5-9-7]]
+
+^<<v5-9-7,7>>^ Lembra-te, não te esqueças de que modo provocaste à ira o Senhor teu Deus no deserto. Desde o dia em que saiste do Egipto até este lugar, foste sempre rebelde ao Senhor.
+
+[[v5-9-8]]
+
+^<<v5-9-8,8>>^ Já em Horeb o provocaste, ele irado e te quis destruir,
+
+[[v5-9-9]]
+
+^<<v5-9-9,9>>^ quando eu subi ao monte, para receber as tábuas de pedra, as tábuas de pacto que o Senhor fez convosco, e permaneci no monte quarenta dias e quarenta noites, sem comer pão nem beber água.
+
+[[v5-9-10]]
+
+^<<v5-9-10,10>>^ O Senhor deu-me duas tábuas de pedra escritas com o dedo de Deus, e que continham todas as palavras que ele vos disse sobre o monte, do meio do fogo, estando junto todo o povo.
+
+[[v5-9-11]]
+
+^<<v5-9-11,11>>^ Passados quarenta dias e outras tantas noites, o Senhor deu-me duas tábuas de pedra, as tábuas da aliança,
+
+[[v5-9-12]]
+
+^<<v5-9-12,12>>^ e disse-me: Levanta-te e desce depressa daqui, porque o teu povo, que tiraste do Egipto, prontamente abandonou o caminho que lhe mostraste: fizeram para si uma estátua fundida.
+
+[[v5-9-13]]
+
+^<<v5-9-13,13>>^ O Senhor disse-me novamente: Vejo que este povo é de cerviz dura;
+
+[[v5-9-14]]
+
+^<<v5-9-14,14>>^ deixa que eu o destrua, que apague o seu nome de debaixo do céu, e eu te farei chefe de uma gente, que seja maior e mais forte do que esta.
+
+[[v5-9-15]]
+
+^<<v5-9-15,15>>^ Tendo eu descido do monte ardente, levando nas minhas mãos as duas tábuas da aliança,
+
+[[v5-9-16]]
+
+^<<v5-9-16,16>>^ ao ver que vós tínheis pecado contra o Senhor vosso Deus, e que tínheis feito um bezerro fundido, e que depressa tínheis abandonado o caminho que ele vos havia mostrado,
+
+[[v5-9-17]]
+
+^<<v5-9-17,17>>^ arrojei das minhas mãos as tábuas, quebrei-as à vossa vista,
+
+[[v5-9-18]]
+
+^<<v5-9-18,18>>^ e prostrei-me diante do Senhor, como antes, (e estive) quarenta dias e quarenta noites sem comer pão, nem beber água, por causa de todos os pecados que tínheis cometido contra o Senhor, e com que o provocastes à ira.
+
+[[v5-9-19]]
+
+^<<v5-9-19,19>>^ Eu estava aterrado com a cólera e o furor do Senhor contra vós, a ponto de vos querer destruir. O Senhor ouviu-me ainda por esta vez.
+
+[[v5-9-20]]
+
+^<<v5-9-20,20>>^ Irritado também sobremaneira contra Aarão, queria matá-lo, e eu igualmente orei por ele.
+
+[[v5-9-21]]
+
+^<<v5-9-21,21>>^ Pegando no vosso pecado, que tínheis feito, isto é, no bezerro, queimei-o no fogo, e fazendo-o em pedaços, e reduzindo-o inteiramente a pó, lancei-o à torrente, que desce do monte.
+
+[[v5-9-22]]
+
+^<<v5-9-22,22>>^ Provocastes também o Senhor no Lugar do Incêndio e no da Tentação, e nos Sepulcros da Concupiscência.
+
+[[v5-9-23]]
+
+^<<v5-9-23,23>>^ Quando vos mandou de Cadesbarne, dizendo: Subi e tomai posse da terra que eu vos dei, vós desprezastes o mandado do Senhor vosso Deus, não lhe destes crédito, nem quisestes ouvir a sua voz.
+
+[[v5-9-24]]
+
+^<<v5-9-24,24>>^ Fostes sempre rebeldes desde o dia em que eu comecei a conhecer-vos.
+
+[[v5-9-25]]
+
+^<<v5-9-25,25>>^ Estive prostrado diante do Senhor quarenta dias e quarenta noites, durante os quais lhe rogava humildemente que vos não exterminasse como tinha ameaçado,
+
+[[v5-9-26]]
+
+^<<v5-9-26,26>>^ Orando, disse; Senhor Deus, não destruas o teu povo, a tua herança, que resgataste com a tua grandeza e tiraste do Egipto com mão forte.
+
+[[v5-9-27]]
+
+^<<v5-9-27,27>>^ Lembra-te de teus servos Abraão, Isaac e Jacob; não olhes para a dureza deste povo, nem para a sua impiedade e pecado,
+
+[[v5-9-28]]
+
+^<<v5-9-28,28>>^ de forma que os habitantes do país donde nos tiraste não digam: O Senhor não podia introduzi-los na terra que lhes tinha prometido, e aborrecia-os: por isso tirou-os, para os matar no deserto.
+
+[[v5-9-29]]
+
+^<<v5-9-29,29>>^ Eles são o teu povo, a tua herança, que tiraste com a tua grande fortaleza e com o teu braço estendido.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-008.adoc#v5-8-0[&#60; Capítulo Anterior] | <<v5-9-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-010.adoc#v5-10-0[Próximo Capítulo &#62;]

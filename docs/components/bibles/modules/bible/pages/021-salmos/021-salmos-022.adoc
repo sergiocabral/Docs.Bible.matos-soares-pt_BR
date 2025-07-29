@@ -1,0 +1,43 @@
+include::./index.adoc[]
+
+[[v21-22-0]]
+=== Salmos, 22
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 22 é um poema que expressa o sofrimento e a angústia do salmista diante das adversidades da vida. Ele começa com as palavras “Deus meu, Deus meu, por que me desamparaste?” e segue descrevendo a dor física e emocional que ele está enfrentando. Os versículos a seguir são exemplos de passagens bíblicas que se relacionam com os temas abordados no Salmo 22:
+* Isaías 53:3: "Era desprezado e o mais rejeitado entre os homens; homem de dores e que sabe o que é padecer; e, como um de quem os homens escondem o rosto, era desprezado, e dele não fizemos caso." Este versículo fala sobre o Messias sofrendo e sendo rejeitado pelos homens, o que é uma imagem que é frequentemente associada com o sofrimento descrito no Salmo 22.
+* Salmos 69:20: "O opróbrio me quebrantou o coração, e estou enfermo; esperei por piedade, mas debalde; por consoladores, e não os achei." Este versículo fala sobre a solidão e a dor que o salmista sente, e esses sentimentos são expressos de forma similar no Salmo 22.
+* Lamentações 1:12: "Não vos comove isso, todos os que passais pelo caminho? Atendei e vede se há dor como a minha dor, que foi trazida sobre mim, com que o Senhor me afligiu no dia do furor da sua ira." Este versículo também expressa a dor e a aflição do sofrimento, que é um tema comum em todo o Salmo 22.
+* Mateus 27:46: "Por volta da hora nona, clamou Jesus em alta voz, dizendo: Eli, Eli, lemá sabactâni; o que quer dizer: Deus meu, Deus meu, por que me desamparaste?" Esse verso é uma citação direta do início do Salmo 22 e é frequentemente associado com a crucificação de Jesus Cristo.
+* Hebreus 5:7-8: "Nos dias da sua carne, ofereceu, com forte clamor e lágrimas, orações e súplicas a quem o podia livrar da morte e foi ouvido por causa da sua reverência. Ainda que era Filho, aprendeu a obediência pelas coisas que sofreu." Este versículo fala sobre a obediência de Cristo em relação ao sofrimento, o que é um tema central no Salmo 22.
+****
+
+[[v21-22-1]]
+
+^<<v21-22-1,1>>^ Salmo. De Davide. O Senhor me apascenta: nada me falta;
+
+[[v21-22-2]]
+
+^<<v21-22-2,2>>^ em verdes pastos me faz recostar. Conduz-me junto das águas para descansar;
+
+[[v21-22-3]]
+
+^<<v21-22-3,3>>^ reconforta a minha alma, guia-me por veredas rectas, por causa do seu nome.
+
+[[v21-22-4]]
+
+^<<v21-22-4,4>>^ Ainda que eu ande por um vale tenebroso, não temerei males, porque tu estás comigo. A tua vara e o teu báculo: são eles que me consolam.
+
+[[v21-22-5]]
+
+^<<v21-22-5,5>>^ Preparas uma mesa para mim, à vista dos meus adversários; unges com óleos a minha cabeça; o meu cálice trasborda.
+
+[[v21-22-6]]
+
+^<<v21-22-6,6>>^ Benignidade e graça me acompanharão todos os dias da minha vida. Habitarei na casa do Senhor, durante dilatadíssimos tempos.
+
+'''
+
+xref:021-salmos/021-salmos-021.adoc#v21-21-0[&#60; Capítulo Anterior] | <<v21-22-0,Topo>> | xref:021-salmos/021-salmos-023.adoc#v21-23-0[Próximo Capítulo &#62;]

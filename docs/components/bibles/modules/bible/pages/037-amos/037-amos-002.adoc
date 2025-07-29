@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v37-2-0]]
+=== Amós, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Amós 2 contém uma série de oráculos pronunciados por Amós contra as nações vizinhas de Israel, incluindo Moabe, Judá e Edom. Os versículos selecionados a seguir estão relacionados com o tema da justiça e punição divina.
+* Amós 5:24: "Corra a justiça como um rio, a retidão como um ribeiro perene." Neste versículo de Amós 5, Deus exige justiça e retidão dos líderes e do povo de Israel. Este tema está relacionado com a condenação de Amós contra a injustiça e exploração dos pobres em Amós 2.
+* Deuteronômio 32:35: "A mim pertence a vingança e a retribuição; no tempo certo, os pés deles escorregarão, porque o dia da sua desgraça está próximo e se apressa." Neste verso de Deuteronômio, vemos que Deus é o juiz final e irá punir aqueles que cometem injustiça. Isso se relaciona com a mensagem de Amós 2, onde Deus ameaça punir as nações vizinhas por seus pecados.
+* Provérbios 21:3: "Praticar a justiça e o direito é mais aceitável ao Senhor do que oferecer sacrifícios." Este verso de Provérbios destaca a importância da justiça e do direito na vida de um crente. Isso se relaciona com a mensagem de Amós 2, onde Deus condena a injustiça e exploração dos pobres pelas nações vizinhas.
+* Jeremias 9:24: "Mas quem se gloriar, glorie-se nisto: em compreender-me e conhecer-me, pois eu sou o Senhor e ajo com lealdade, com justiça e com retidão sobre a terra, pois é dessas coisas que me agrado", declara o Senhor. Neste verso de Jeremias, vemos que Deus se agrada daqueles que agem com justiça e retidão. Isso se relaciona com a mensagem de Amós 2, onde Deus condena a injustiça e exploração dos pobres pelas nações vizinhas.
+* Romanos 12:19: "Não procurem vingança vocês mesmos, amados, mas deixem com Deus a ira, pois está escrito: ‘Minha é a vingança; eu retribuirei’, diz o Senhor." Neste verso de Romanos, Paulo exorta os cristãos a não buscarem vingança, mas a confiar que Deus é o juiz final. Isso se relaciona com a mensagem de Amós 2, onde Deus ameaça punir as nações vizinhas por seus pecados.
+****
+
+[[v37-2-1]]
+
+^<<v37-2-1,1>>^ Assim fala o Senhor: Pelos três crimes de Moab, e pelos quatro, não mudarei o meu decreto (de castigo). Porque queimou os ossos do rei da Idumeia até os reduzir a cinza
+
+[[v37-2-2]]
+
+^<<v37-2-2,2>>^ por isso porei fogo a Moab, e ele consumirá os edifícios de Cariot; Moab perecerá no meio do tumulto, entre gritos de guerra e sons das trombetas.
+
+[[v37-2-3]]
+
+^<<v37-2-3,3>>^ Exterminarei o juiz (ou rei) do seu seio, e farei morrer com ele todos os seus príncipes, diz o Senhor.
+
+[[v37-2-4]]
+
+^<<v37-2-4,4>>^ Assim fala o Senhor: Pelos três crimes de Judá e pelos quatro, não mudarei o meu decreto (de castigo). Porque (os filhos de Judá) rejeitaram a lei do Senhor, não guardaram os seus mandamentos, porque se deixaram transviar pelos seus ídolos, (esses ídolos) após os quais tinham corrido seus pais,
+
+[[v37-2-5]]
+
+^<<v37-2-5,5>>^ por isso porei fogo a Judá, e ele devorará os edifícios de Jerusalém.
+
+[[v37-2-6]]
+
+^<<v37-2-6,6>>^ Assim fala o Senhor: Pelos três crimes de Israel e pelos quatro, não mudarei o meu decreto (de castigo). Porque vendem o justo por dinheiro, e o pobre por um par de sandálias,
+
+[[v37-2-7]]
+
+^<<v37-2-7,7>>^ esmagam sobre o pó da terra a cabeça do pobre, confundem os pequenos, porque o filho e o pai dormem com a mesma jovem, desonrando o meu santo nome,
+
+[[v37-2-8]]
+
+^<<v37-2-8,8>>^ porque sobre as roupas, que lhes tinham sido dadas (pelo pobre) em penhor, se estendem (a banquetear-se) junto de toda a casta de altares, e bebem na casa do seu Deus o vinho proveniente de penas impostas.
+
+[[v37-2-9]]
+
+^<<v37-2-9,9>>^ Apesar disso fui eu que exterminei diante deles os Amorreus, cuja altura era como a altura dos cedros, e que eram fortes como carvalhos; destruí o seu fruto por cima, e as suas raízes por baixo.
+
+[[v37-2-10]]
+
+^<<v37-2-10,10>>^ Eu sou o que vos fiz sair da terra do Egito e vos conduzi no deserto durante quarenta anos, a fim de que possuísseis a terra dos Amorreus.
+
+[[v37-2-11]]
+
+^<<v37-2-11,11>>^ Entre os vossos filhos, suscitei profetas, e, entre os vossos jovens, suscitei nazarenos. Não é assim, filhos de Israel? - diz o Senhor.
+
+[[v37-2-12]]
+
+^<<v37-2-12,12>>^ Mas vós fizestes com que os nazarenos bebessem vinho (o que lhes era proibido) e mandastes aos profetas: Não profetizeis.
+
+[[v37-2-13]]
+
+^<<v37-2-13,13>>^ Eis que vou calcar-vos, como calca (a terra) um carro carregado de feno.
+
+[[v37-2-14]]
+
+^<<v37-2-14,14>>^ O homem ágil não poderá fugir, o forte debalde fará os seus esforços, o valente não salvará a sua vida,
+
+[[v37-2-15]]
+
+^<<v37-2-15,15>>^ o que maneja o arco não resistirá, nem escapará o ligeiro de pés, nem o cavaleiro preservará, a sua vida,
+
+[[v37-2-16]]
+
+^<<v37-2-16,16>>^ e o mais corajoso entre os valentes fugirá nu naquele dia, diz o Senhor.
+
+'''
+
+xref:037-amos/037-amos-001.adoc#v37-1-0[&#60; Capítulo Anterior] | <<v37-2-0,Topo>> | xref:037-amos/037-amos-003.adoc#v37-3-0[Próximo Capítulo &#62;]

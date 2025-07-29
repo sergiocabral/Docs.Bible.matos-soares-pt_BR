@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v33-15-0]]
+=== Ezequiel, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Ezequiel 15 compara a cidade de Jerusalém a uma videira inútil e adverte sobre o julgamento de Deus. Os versículos escolhidos em ordem de proximidade com o tema do capítulo são:
+* João 15:5: "Eu sou a videira; vós sois as varas. Quem permanece em mim e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer." Jesus usa a metáfora da videira para ensinar que os crentes precisam permanecer nele para dar frutos. Assim como a videira precisa de um apoio para crescer, os crentes precisam de Jesus para dar frutos que permanecem.
+* Mateus 7:19: "Toda árvore que não produz bom fruto é cortada e lançada no fogo." Jesus fala sobre a importância de produzir bons frutos e alerta que qualquer árvore que não produz frutos bons será cortada e queimada, semelhante à videira inútil de Ezequiel 15.
+* João 15:1-2: "Eu sou a videira verdadeira, e meu Pai é o agricultor. Todo ramo que, estando em mim, não dá fruto, ele o corta; e todo o que dá fruto limpa, para que produza mais fruto ainda." Jesus ensina que Deus é o agricultor e ele é a videira verdadeira. Ele também afirma que qualquer ramo que não dá fruto é cortado, assim como a videira inútil de Ezequiel 15.
+* Mateus 3:10: "E já está posto o machado à raiz das árvores; toda a árvore, pois, que não produz bom fruto, é cortada e lançada no fogo." João Batista adverte as pessoas a produzir bons frutos e afirma que qualquer árvore que não produz bom fruto será cortada e lançada no fogo, semelhante ao julgamento descrito em Ezequiel 15.
+* Lucas 13:6-9: "Disse também esta parábola: Certo homem tinha uma figueira plantada na sua vinha, e indo procurar fruto nela, não achou nenhum. Disse então ao vinhateiro: Eis que há três anos venho procurar fruto nesta figueira, e não acho nenhum. Corta-a; para que ocupa ainda a terra inutilmente? Respondeu-lhe ele: Senhor, deixa-a este ano ainda, até que eu cave em torno dela e lhe ponha adubo; Se der fruto na próxima temporada, muito bem; se não, cortá-la-ás." Esta parábola de Jesus fala sobre a importância de dar frutos e a paciência de Deus. O homem que possuía a figueira estava prestes a cortá-la, mas o vinhateiro pediu um tempo para adubar e tentar fazê-la dar frutos, assim como o julgamento descrito em Ezequiel 15.
+****
+
+[[v33-15-1]]
+
+^<<v33-15-1,1>>^ Foi-me dirigida a palavra do Senhor, nestes termos:
+
+[[v33-15-2]]
+
+^<<v33-15-2,2>>^ Filho de homem, por que há-de valer mais o pau da vide que o de qualquer outro ramo das árvores da floresta?
+
+[[v33-15-3]]
+
+^<<v33-15-3,3>>^ Porventura tomar-se-á dela um pau que sirva para se fazer alguma obra, ou fabricar-se-á dela uma estaca para que se lhe pendure qualquer objecto?
+
+[[v33-15-4]]
+
+^<<v33-15-4,4>>^ Eis que se lança ao fogo para lhe servir de pasto; ambas as suas extremidades consome a chama, e o meio dele é abrasado; acaso será útil para alguma obra?
+
+[[v33-15-5]]
+
+^<<v33-15-5,5>>^ Mesmo quando estava inteiro, não servia para nenhuma obra; quanto menos, depois que um fogo o devorar e queimar, poderá ser trabalhado?
+
+[[v33-15-6]]
+
+^<<v33-15-6,6>>^ Portanto isto diz o Senhor Deus: assim como, entre as árvores das selvas, é o pau da vide aquele que destinei para ser consumido pelo fogo, assim entregarei (ao fogo) os habitantes de Jerusalém.
+
+[[v33-15-7]]
+
+^<<v33-15-7,7>>^ Voltarei o meu rosto (irado) contra eles; escaparam ao fogo, mas o fogo os consumirá. Saberão que eu sou o Senhor, depois que tiver voltado o meu rosto contra eles,
+
+[[v33-15-8]]
+
+^<<v33-15-8,8>>^ e tiver tornado a sua terra deserta, por eles terem sido infiéis, diz o Senhor Deus.
+
+'''
+
+xref:033-ezequiel/033-ezequiel-014.adoc#v33-14-0[&#60; Capítulo Anterior] | <<v33-15-0,Topo>> | xref:033-ezequiel/033-ezequiel-016.adoc#v33-16-0[Próximo Capítulo &#62;]

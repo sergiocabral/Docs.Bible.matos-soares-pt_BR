@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v9-5-0]]
+=== I Samuel, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 5 descreve a captura da arca da aliança pelos filisteus e os problemas que eles enfrentaram como resultado de terem tomado o objeto sagrado de Israel. O capítulo destaca a superioridade do Deus de Israel sobre os deuses dos filisteus e como Ele se manifestou em julgamento contra os ídolos pagãos. Aqui estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Êxodo 20:3-5: "Não terás outros deuses diante de mim. Não farás para ti nenhum ídolo, nenhuma imagem de qualquer coisa no céu, na terra, ou nas águas debaixo da terra. Não te prostrarás diante deles nem lhes prestarás culto, porque eu, o Senhor teu Deus, sou Deus zeloso." Este versículo enfatiza a importância de adorar somente o verdadeiro Deus e não colocar nenhum outro deus diante dele, o que os filisteus ignoraram ao tentar adorar seus ídolos.
+* Salmos 96:5: "Porque todos os deuses dos povos são ídolos, mas o Senhor fez os céus." Este versículo destaca a superioridade do Deus verdadeiro em relação aos deuses falsos que as pessoas podem adorar.
+* Isaías 42:8: "Eu sou o Senhor; este é o meu nome! Não darei a outro a minha glória, nem a imagens o meu louvor." Este versículo enfatiza que Deus é o único digno de adoração e louvor e que Ele não compartilhará Sua glória com ídolos ou outros deuses.
+* Jeremias 10:10-11: "Mas o Senhor é o Deus verdadeiro; ele é o Deus vivo, o Rei eterno. Quando ele se ira, a terra treme; as nações não suportam o seu furor." Este versículo destaca a natureza viva e poderosa de Deus e como Ele pode exercer julgamento sobre as nações que O desobedecem.
+* 1 Coríntios 10:20-22: "Não, mas o que os pagãos sacrificam é oferecido aos demônios, e não a Deus, e não quero que vocês tenham comunhão com demônios. Vocês não podem beber do cálice do Senhor e do cálice dos demônios; não podem participar da mesa do Senhor e da mesa dos demônios. Ou provocaremos ciúmes no Senhor? Somos mais fortes do que ele?" Este versículo enfatiza a importância de não misturar a adoração a Deus com práticas pagãs ou adoração a ídolos.
+****
+
+[[v9-5-1]]
+
+^<<v9-5-1,1>>^ Os Filisteus, pois, tomaram a arca de Deus e levaram-na da Pedra do socorro para Azoto.
+
+[[v9-5-2]]
+
+^<<v9-5-2,2>>^ Os Filisteus tomaram a arca de Deus, meteram-na no templo de Dagon e colocaram-na junto de Dagon.
+
+[[v9-5-3]]
+
+^<<v9-5-3,3>>^ No dia seguinte, tendo-se levantado ao amanhecer os de Azoto, viram que Dagon jazia com o rosto por terra diante da arca do Senhor. Tomaram Dagon e repuseram-no no seu lugar.
+
+[[v9-5-4]]
+
+^<<v9-5-4,4>>^ Porém, no outro dia, tendo-se levantado novamente de manhã, encontraram Dagon que jazia de bruços diante da arca do Senhor; a cabeça de Dagon e as duas mãos estavam cortadas sobre o limiar da porta.
+
+[[v9-5-5]]
+
+^<<v9-5-5,5>>^ Só o tronco de Dagon tinha ficado no seu lugar. Por este motivo, até ao dia de hoje, os sacerdotes de Dagon e todos os que entram no seu templo, não calcam o limiar (da porta) de Dagon em Azoto.
+
+[[v9-5-6]]
+
+^<<v9-5-6,6>>^ A mão do Senhor carregou pesadamente sobre os de Azoto e desolou-os; castigou, com tumores, tanto os da cidade como os do seu território.
+
+[[v9-5-7]]
+
+^<<v9-5-7,7>>^ Os de Azoto, vendo esta praga, disseram: Não fique conosco a arca do Deus de Israel, porque a sua mão carrega duramente sobre nós e sobre Dagon, nosso Deus.
+
+[[v9-5-8]]
+
+^<<v9-5-8,8>>^ E, mandando gente, convocaram todos os príncipes dos Filisteus e disseram: Que faremos nós da arca do Deus de Israel? Os de Get responderam: Leve-se a arca do Deus de Israel de cidade em cidade. E levaram a arca do Deus de Israel de cidade em cidade.
+
+[[v9-5-9]]
+
+^<<v9-5-9,9>>^ Levando-a eles de cidade em cidade, a mão do Senhor fazia grande mortandade em cada cidade; castigava, desde o menor ao maior, os homens de cada cidade, fazendo-lhes aparecer tumores. E os de Get consultaram entre si, e fizeram para seu uso assentos de peles.
+
+[[v9-5-10]]
+
+^<<v9-5-10,10>>^ Mandaram então a arca de Deus para Acaron. Chegando a arca de Deus a Acaron, os Acaronitas clamaram, dizendo: Trouxeram-nos a arca do Deus de Israel, para ela nos matar a nós e ao nosso povo.
+
+[[v9-5-11]]
+
+^<<v9-5-11,11>>^ Convocaram todos os príncipes dos Filisteus, os quais disseram: Devolvei a arca do Deus de Israel; que volte para o seu lugar, e não nos mate a nós e ao nosso povo.
+
+[[v9-5-12]]
+
+^<<v9-5-12,12>>^ Todas as cidades estavam cheias de medo de morrer, e a mão de Deus fazia-se sentir extraordiniariamente pesada; as pessoas que não morriam eram feridas nas partes mais ocultas do corpo, e o alarido de cada cidade subia até ao céu.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-004.adoc#v9-4-0[&#60; Capítulo Anterior] | <<v9-5-0,Topo>> | xref:009-i-samuel/009-i-samuel-006.adoc#v9-6-0[Próximo Capítulo &#62;]

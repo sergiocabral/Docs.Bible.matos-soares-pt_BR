@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v5-1-0]]
+=== Deuteronômio, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Deuteronômio 1 é um capítulo onde Moisés relembra a história dos israelitas desde que eles saíram do Egito até chegarem à fronteira da Terra Prometida. Ele também exorta o povo a confiar em Deus e obedecer aos seus mandamentos para que possam receber as bênçãos que Ele prometeu. Aqui estão cinco versículos relacionados com os temas abordados em Deuteronômio 1:
+* Êxodo 18:20 - "Ensina-lhes os estatutos e as leis, e mostra-lhes o caminho em que devem andar e a obra que devem fazer." Moisés lembra ao povo que Deus lhes deu leis e estatutos para seguir, e que é importante ensiná-los e obedecê-los.
+* Deuteronômio 6:4-6 - "Ouve, Israel, o Senhor nosso Deus é o único Senhor. Amarás, pois, o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todas as tuas forças. E estas palavras que hoje te ordeno estarão no teu coração." Moisés enfatiza a importância de amar a Deus e guardar seus mandamentos.
+* Deuteronômio 8:2-3 - "E te lembrarás de todo o caminho pelo qual o Senhor teu Deus te guiou no deserto estes quarenta anos, para te humilhar, e te provar, para saber o que estava no teu coração, se guardarias os seus mandamentos ou não. E te humilhou, e te deixou ter fome, e te sustentou com o maná, que tu não conhecias, nem teus pais o conheciam; para te dar a entender que o homem não viverá só de pão, mas que de tudo o que sai da boca do Senhor viverá o homem." Moisés lembra o povo de como Deus os guiou e sustentou no deserto, e que isso foi para ensiná-los a confiar nele e obedecer seus mandamentos.
+* Deuteronômio 10:12-13 - "Agora, pois, ó Israel, que é que o Senhor teu Deus requer de ti, senão que temas o Senhor teu Deus, que andes em todos os seus caminhos, e o ames, e sirvas ao Senhor teu Deus de todo o teu coração e de toda a tua alma, para guardares os mandamentos do Senhor e os seus estatutos que hoje te ordeno, para o teu bem?" Moisés enfatiza que obedecer a Deus é para nosso próprio bem, e que isso é o que Ele requer de nós.
+* Deuteronômio 28:1-2 - "E será que, se ouvires a voz do Senhor teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu hoje te ordeno, o Senhor teu Deus te exaltará sobre todas as nações da terra. E todas estas bênçãos virão sobre ti e te alcançarão, quando ouvires a voz do Senhor teu Deus." Moisés promete ao povo que se eles obedecerem a Deus, Ele os abençoará abundantemente.
+****
+
+[[v5-1-1]]
+
+^<<v5-1-1,1>>^ Estas são as palavras que Moisés disse a todo o Israel na banda dalém do Jordão, na planície do deserto, defronte do mar Vermelho, entre Faran, Tofel, Laban e Hasekoth, onde há muitíssimo ouro.
+
+[[v5-1-2]]
+
+^<<v5-1-2,2>>^ Há a distância de onze jornadas desde Horeb pelo caminho do monte Seir, até Cadesbame.
+
+[[v5-1-3]]
+
+^<<v5-1-3,3>>^ No ano quadragésimo, no undécimo mês, no primeiro dia do mês, Moisés havia referido aos filhos de Israel tudo o que o Senhor lhe tinha ordenado que dissesse,
+
+[[v5-1-4]]
+
+^<<v5-1-4,4>>^ depois de ter derrotado Seon, rei dos Amorreus, que habitava em Hesebon, e Og, rei de Basan, que habitava em Astaroth e em Edrai.
+
+[[v5-1-5]]
+
+^<<v5-1-5,5>>^ Da banda dalém de Jordão, na terra de Moab, Moisés começou a explicar a lei, dizendo:
+
+[[v5-1-6]]
+
+^<<v5-1-6,6>>^ O Senhor nosso Deus falou-nos em Horeb, e disse: Tendes-vos demorado muito neste monte:
+
+[[v5-1-7]]
+
+^<<v5-1-7,7>>^ voltai e ide ao monte dos Amorreus, e a todos os outros lugares vizinhos, às planícies, às montanhas e aos vales, que ficam para o meio-dia e ao longo da costa do mar, à terra dos Cananeus, e ao Líbano até ao grande rio Eufrates.
+
+[[v5-1-8]]
+
+^<<v5-1-8,8>>^ Eu vos entrego esta terra: entrai e possuí a terra, que o Senhor jurou dar a vossos pais Abraão, Isaac e Jacob, e à sua descendência depois deles.
+
+[[v5-1-9]]
+
+^<<v5-1-9,9>>^ Nesse mesmo tempo disse-vos:
+
+[[v5-1-10]]
+
+^<<v5-1-10,10>>^ Eu só não posso reger-vos, porque o Senhor vosso Deus vos multiplicou e sois hoje tão numerosos como as estrelas de céu.
+
+[[v5-1-11]]
+
+^<<v5-1-11,11>>^ O Senhor Deus de vossos maiores vos muItiplique mil vezes mais e vos abençoe como disse.
+
+[[v5-1-12]]
+
+^<<v5-1-12,12>>^ Eu só não posso atender aos vossos negócios, trabalhos e questões.
+
+[[v5-1-13]]
+
+^<<v5-1-13,13>>^ Dai-me de entre vós homens sábios e experimentados, de uma vida provada nas vossas tribos, para que eu os constitua vossos chefes.
+
+[[v5-1-14]]
+
+^<<v5-1-14,14>>^ Vós respondestes-me então: É uma boa coisa a que queres fazer.
+
+[[v5-1-15]]
+
+^<<v5-1-15,15>>^ E eu tomei chefes das vossas tribos, homens sábios e provados e constituí-os chefes de milhar, de centena, de cinquentena e de dezena (de homens).
+
+[[v5-1-16]]
+
+^<<v5-1-16,16>>^ Ao mesmo tempo, dei-lhes esta ordem: Ouvi-os, e julgai seguindo a justiça, quer se trate dum cidadão, quer dum estrangeiro.
+
+[[v5-1-17]]
+
+^<<v5-1-17,17>>^ Nenhuma distinção haverá de pessoas; ouvireis o pequeno como o grande: não tereis aceitação de pessoa alguma, porque o juízo é de Deus. Se alguma coisa vos parecer difícil, referi-ma, e eu ouvirei.
+
+[[v5-1-18]]
+
+^<<v5-1-18,18>>^ (Desta forma) vos ordenei tudo o que devíeis fazer,
+
+[[v5-1-19]]
+
+^<<v5-1-19,19>>^ Tendo partido de Horeb, passamos pelo terrível e grandíssimo deserto que vistes, pelo caminho do monte do Amorreu, conforme o Senhor nosso Deus no-Io tinha mandado. Tendo chegado a Cadesbame,
+
+[[v5-1-20]]
+
+^<<v5-1-20,20>>^ eu disse-vos: Chegastes ao monte do Amorreu, que o Senhor nosso Deus nos há-de dar.
+
+[[v5-1-21]]
+
+^<<v5-1-21,21>>^ Olha a terra que o Senhor teu Deus te dá: sobe e toma posse dela, como o Senhor nosso Deus disse a teus pais: não temas, nem te atemorize nada.
+
+[[v5-1-22]]
+
+^<<v5-1-22,22>>^ Então aproximastes-vos todos de mim, e dissestes: Enviemos homens que explorem a terra, e que nos ensinem por que caminho devemos subir, e para que cidades devemos encaminhar-nos.
+
+[[v5-1-23]]
+
+^<<v5-1-23,23>>^ Como me tivesse parecido bem tal modo de falar, enviei doze homens dentre vós, um por cada tribo,
+
+[[v5-1-24]]
+
+^<<v5-1-24,24>>^ os quais, tendo-se posto a caminho, e tendo atravessado os montes, chegaram até ao Vale do Cacho: depois de explorada a terra,
+
+[[v5-1-25]]
+
+^<<v5-1-25,25>>^ tomando dos seus frutos, para mostrarem a sua fertilidade, no-los trouxeram, e disseram: É boa a terra que o Senhor nosso Deus nós há-de dar.
+
+[[v5-1-26]]
+
+^<<v5-1-26,26>>^ Vós não quisestes subir (a ela), mas, incrédulos à palavra do Senhor nosso Deus,
+
+[[v5-1-27]]
+
+^<<v5-1-27,27>>^ murmurastes nas vossas tendas, dizendo: O Senhor tem-nos ódio, e por isso nos tirou dia terra do Egipto para nos entregar nas mãos dos Amorreus, e exterminar-nos.
+
+[[v5-1-28]]
+
+^<<v5-1-28,28>>^ Para onde subiremos? Os exploradores aterraram o nosso coração, dizendo: A multidão é grande, e de estatura mais alta do que a nossa: as cidades são grandes, e fortificadas até ao céu: ali vimos os filhos dos Enacins.
+
+[[v5-1-29]]
+
+^<<v5-1-29,29>>^ E eu disse-vos: Não tenhais medo e não os temais:
+
+[[v5-1-30]]
+
+^<<v5-1-30,30>>^ o Senhor Deus, que é o vosso guia, ele mesmo combaterá por vós, como fez no Egipto à vista de todos.
+
+[[v5-1-31]]
+
+^<<v5-1-31,31>>^ No deserto (tu mesmo o viste) o Senhor teu Deus te levou por todo o caminho, por onde andaste, como um homem costuma levar o seu filhinho, até que chegásseis a este lugar.
+
+[[v5-1-32]]
+
+^<<v5-1-32,32>>^ E nem ainda assim acreditastes no Senhor vosso Deus,
+
+[[v5-1-33]]
+
+^<<v5-1-33,33>>^ o qual vos precedeu no caminho, e designou o lugar onde devíeis assentar as tendas, mostrando-vos o caminho de noite com o fogo, de dia com a coluna de nuvem.
+
+[[v5-1-34]]
+
+^<<v5-1-34,34>>^ Tendo o Senhor ouvido as vossas murmurações, irado jurou, dizendo:
+
+[[v5-1-35]]
+
+^<<v5-1-35,35>>^ Nenhum dos homens desta péssima geração verá aquela boa terra, que eu com juramento prometi a vossas pais,
+
+[[v5-1-36]]
+
+^<<v5-1-36,36>>^ excepto Caleb, filho de Jefone. Este vê-la-á, e eu lhe darei a ele e a seus filhos a terra, que ele calcou, porque seguiu o Senhor.
+
+[[v5-1-37]]
+
+^<<v5-1-37,37>>^ Nem é para admirar esta indignação contra o povo, quando o Senhor, irado também contra mim por causa de vós, disse: Nem tu entrarás lá,
+
+[[v5-1-38]]
+
+^<<v5-1-38,38>>^ mas em teu lugar entrará Josué, filho de Nun, teu ministro: exorta-o e anima-o, e ele dividirá por sorte a terra a Israel.
+
+[[v5-1-39]]
+
+^<<v5-1-39,39>>^ As vossas crianças, de quem dissestes que seriam levadas cativas, e os vossos filhos, que hoje (ainda) ignoram a diferença entre o bem e o mal, estes entrarão, a eles darei a terra, e a possuirão.
+
+[[v5-1-40]]
+
+^<<v5-1-40,40>>^ Mas vós voltai para trás, e ide para o deserto pelo caminho do mar Vermelho.
+
+[[v5-1-41]]
+
+^<<v5-1-41,41>>^ Respondestes-me: Nós pecamos contra o Senhor: subiremos e combateremos, como o Senhor nosso Deus mandou. E, quando vós armados marcháveis para o monte,
+
+[[v5-1-42]]
+
+^<<v5-1-42,42>>^ o Senhor disse-me: Dize-lhes: Não subais nem pelejeis, porque eu não estou convosco, para que não sucumbais diante dos vossos inimigos.
+
+[[v5-1-43]]
+
+^<<v5-1-43,43>>^ Eu falei-vos, e não me ouvistes, mas, opondo-vos ao mandado do Senhor, inchados de soberba, subistes ao monte.
+
+[[v5-1-44]]
+
+^<<v5-1-44,44>>^ Tendo saído então o Amorreu, que habitava sobre os montes, e indo ao vosso encontro, perseguiu-vos como as abelhas costumam perseguir, e retalhou-vos desde Seir até Horma.
+
+[[v5-1-45]]
+
+^<<v5-1-45,45>>^ Como, depois de terdes voltado, chorásseis diante do Senhor, de não vos ouviu, nem se quis dobrar aos vossos rogos.
+
+[[v5-1-46]]
+
+^<<v5-1-46,46>>^ Por isso ficastes muito tempo em Cadesbarne.
+
+'''
+
+xref:004-numeros/004-numeros-036.adoc#v4-36-0[&#60; Capítulo Anterior] | <<v5-1-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-002.adoc#v5-2-0[Próximo Capítulo &#62;]

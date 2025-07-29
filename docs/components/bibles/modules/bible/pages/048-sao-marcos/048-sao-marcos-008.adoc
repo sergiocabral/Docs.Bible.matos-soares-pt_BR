@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v48-8-0]]
+=== São Marcos, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 do livro de Marcos começa com a história da alimentação dos quatro mil, onde Jesus multiplicou sete pães e alguns peixes para alimentar uma multidão de pessoas. Em seguida, Jesus e seus discípulos viajam para a região de Betsaida, onde ele realiza a cura de um cego. Depois, Jesus faz a pergunta aos seus discípulos: "E vocês, quem dizem que eu sou?" (Marcos 8:29). Pedro responde que ele é o Cristo, e Jesus os alerta para que não contem a ninguém sobre ele. Em seguida, Jesus ensina sobre o seu sofrimento, morte e ressurreição. Abaixo estão cinco versículos relacionados aos temas abordados em São Marcos 8.
+* Salmos 146:8: "O Senhor dá vista aos cegos, o Senhor levanta os abatidos, o Senhor ama os justos." Este versículo destaca a habilidade de Deus para curar a cegueira, o que se relaciona com a história da cura do cego em Marcos 8.
+* Isaías 35:5-6: "Então se abrirão os olhos dos cegos e se desimpedirão os ouvidos dos surdos. O coxo saltará como um cervo, e a língua do mudo cantará de alegria." Este versículo também se refere à cura de cegos, surdos e coxos, e ilustra a capacidade de Deus para realizar milagres.
+* Mateus 16:16: "Simão Pedro respondeu: Tu és o Cristo, o Filho do Deus vivo." Este versículo é semelhante ao relato de Marcos 8:29, onde Pedro reconhece Jesus como o Messias.
+* Lucas 9:23: "E dizia a todos: Se alguém quer vir após mim, negue-se a si mesmo, tome cada dia a sua cruz e siga-me." Este versículo se relaciona com a discussão de Jesus sobre o seu próprio sofrimento, morte e ressurreição em Marcos 8:31-33.
+* Mateus 28:6: "Ele não está aqui; ressuscitou, como tinha dito. Venham ver o lugar onde ele jazia." Este versículo se refere à ressurreição de Jesus e reforça a mensagem que Jesus compartilhou com seus discípulos em Marcos 8:31-33 sobre sua própria morte e ressurreição.
+****
+
+[[v48-8-1]]
+
+^<<v48-8-1,1>>^ Naqueles dias, havendo novamente grande multidão, e, não tendo que comer, chamados os discípulos, disse-lhes:
+
+[[v48-8-2]]
+
+^<<v48-8-2,2>>^ "Tenho compaixão deste povo, porque há já três dias que não se afastam de mim, e não têm que comer.
+
+[[v48-8-3]]
+
+^<<v48-8-3,3>>^ Se os despedir em jejum para suas casas, desfalecerão no caminho e alguns deles vieram de longe."
+
+[[v48-8-4]]
+
+^<<v48-8-4,4>>^ Os discípulos responderam-lhe: "Como poderá alguém saciá-los de pão aqui num deserto?"
+
+[[v48-8-5]]
+
+^<<v48-8-5,5>>^ Jesus perguntou-lhes: "Quantos pães tendes?" Responderam: "Sete."
+
+[[v48-8-6]]
+
+^<<v48-8-6,6>>^ Então ordenou ao povo que se recostasse sobre a terra. Depois, tomando os sete pães, deu graças, partiu-os e deu a seus discípulos, para que os distribuíssem ; e eles os distribuíram pelo povo.
+
+[[v48-8-7]]
+
+^<<v48-8-7,7>>^ Tinham também uns poucos de peixinhos. Ele os abençoou, e mandou que fossem distribuídos.
+
+[[v48-8-8]]
+
+^<<v48-8-8,8>>^ Comeram, ficaram saciados, e, dos pedaços que sobejaram, levantaram sete cestos.
+
+[[v48-8-9]]
+
+^<<v48-8-9,9>>^ Ora os que comeram eram cerca de quatro mil. Em seguida Jesus despediu-os.
+
+[[v48-8-10]]
+
+^<<v48-8-10,10>>^ Entrando logo na barca com seus discipulos, passou ao território de Dalmanuta.
+
+[[v48-8-11]]
+
+^<<v48-8-11,11>>^ Apareceram os fariseus, e começaram a disputar com ele, pedindo-lhe, para o tentarem, um sinal do céu.
+
+[[v48-8-12]]
+
+^<<v48-8-12,12>>^ Porém Jesus, arrancando do coração um suspiro, disse: "Porque pede esta geração um sinal? Em verdade vos digo que a esta geração não será dado sinal algum."
+
+[[v48-8-13]]
+
+^<<v48-8-13,13>>^ Depois, deixando-os, entrou novamente na barca, e passou à outra banda.
+
+[[v48-8-14]]
+
+^<<v48-8-14,14>>^ Ora os discípulos esqueceram-se de tomar pães; e não tinham consigo na barca, senão um único.
+
+[[v48-8-15]]
+
+^<<v48-8-15,15>>^ Jesus advertia-os, dizendo: "Evitai com cuidado o fermento dos fariseus, e o fermento de Herodes."
+
+[[v48-8-16]]
+
+^<<v48-8-16,16>>^ E eles discorriam entre si : "É que nós não temos pão."
+
+[[v48-8-17]]
+
+^<<v48-8-17,17>>^ Conhecendo isto Jesus, disse-lhes: "Porque estais vós a discutir que não tendes pão? Ainda não refletiste nem entendestes? Ainda tendes o vosso coração obcecado ?
+
+[[v48-8-18]]
+
+^<<v48-8-18,18>>^ Tendo olhos, não vedes, e tendo ouvidos, não ouvis? Já não vos recordais?
+
+[[v48-8-19]]
+
+^<<v48-8-19,19>>^ Quando dividi cinco pães por cinco mil homens, quantos cestos levantastes cheios de pedaços?" Eles responderam: "Doze."
+
+[[v48-8-20]]
+
+^<<v48-8-20,20>>^ "E quando dividi sete pães entre quatro mil, quantos cestos levantastes de pedaços?" Responderam : "Sete."
+
+[[v48-8-21]]
+
+^<<v48-8-21,21>>^ E dizia-lhes: "Como é que não entendeis ainda?"
+
+[[v48-8-22]]
+
+^<<v48-8-22,22>>^ Chegaram a Betsaida. Trouxeram-lhe um cego, e suplicavam-lhe que o tocasse.
+
+[[v48-8-23]]
+
+^<<v48-8-23,23>>^ Tomando o cego pela mão, conduziu-o fora da aldeia, pós-lhe saliva sobre os olhos, e, impondo-lhe as suas mãos, perguntou-lhe: "Vês alguma coisa?"
+
+[[v48-8-24]]
+
+^<<v48-8-24,24>>^ Ele, levantando os olhos, disse : "Vejo os homens que me parecem árvores que andam."
+
+[[v48-8-25]]
+
+^<<v48-8-25,25>>^ Depois Jesus impôs-lhe novamente as mãos sobre os olhos, e começou a ver claramente; ficou curado e distinguia tudo, nitidamente, de longe. (ver nota)
+
+[[v48-8-26]]
+
+^<<v48-8-26,26>>^ Então Jesus mandou-o para casa, dizendo: "Não entres na aldeia."
+
+[[v48-8-27]]
+
+^<<v48-8-27,27>>^ Saiu Jesus com os seus discipulos pelas aldeias de Cesareia de Filipe. Pelo caminho, interrogou os seus discípulos: "Quem dizem os homens que eu sou?"
+
+[[v48-8-28]]
+
+^<<v48-8-28,28>>^ Eles responderam-lhe: "Uns dizem que João Batista, outros que Elias, e outros que algum dos profetas."
+
+[[v48-8-29]]
+
+^<<v48-8-29,29>>^ Então perguntou-lhes: "E vós quem dizeis que eu sou? Pedro respondeu: "Tu és o Messias."
+
+[[v48-8-30]]
+
+^<<v48-8-30,30>>^ Então Jesus ordenou-lhes severamente que a ninguém dissessem isto dele.
+
+[[v48-8-31]]
+
+^<<v48-8-31,31>>^ E começou a declarar-lhes que era necessário que o Filho do homem padecesse muito, que fosse rejeitado pelos anciães, pelos príncipes dos sacerdotes, e pelos escribas, que fosse morto, e que ressuscitasse depois de três dias.
+
+[[v48-8-32]]
+
+^<<v48-8-32,32>>^ E falava destas coisas claramente. Pedro, tomando-o de parte, começou a repreendê-lo.
+
+[[v48-8-33]]
+
+^<<v48-8-33,33>>^ Mas Jesus, voltando-se e olhando para seus discípulos, repreendeu Pedro, dizendo : "Retira-te daqui Satanás, que não tens gosto pelas coisas de Deus, mas sim pelas dos homens." (ver nota)
+
+[[v48-8-34]]
+
+^<<v48-8-34,34>>^ Depois, chamando a si o povo com seus discípulos, disse-lhes: "Se alguém me quer seguir, negue-se a si mesmo, tome a sua cruz, e siga-me.
+
+[[v48-8-35]]
+
+^<<v48-8-35,35>>^ Porque o que quiser salvar a sua vida, a perderá; mas o que perder a sua vida por amor de mim e do Evangelho, a salvará. (ver nota)
+
+[[v48-8-36]]
+
+^<<v48-8-36,36>>^ Pois que aproveitará ao homem ganhar o mundo inteiro e perder a sua alma?
+
+[[v48-8-37]]
+
+^<<v48-8-37,37>>^ Ou que dará o homem em troco da sua alma?
+
+[[v48-8-38]]
+
+^<<v48-8-38,38>>^ No meio desta geração adúltera e pecadora, quem se envergonhar de mim e das minhas palavras, também o Filho do homem se envergonhará dele, quando vier na glória de seu Pai com os santos anjos."
+
+'''
+
+xref:048-sao-marcos/048-sao-marcos-007.adoc#v48-7-0[&#60; Capítulo Anterior] | <<v48-8-0,Topo>> | xref:048-sao-marcos/048-sao-marcos-009.adoc#v48-9-0[Próximo Capítulo &#62;]

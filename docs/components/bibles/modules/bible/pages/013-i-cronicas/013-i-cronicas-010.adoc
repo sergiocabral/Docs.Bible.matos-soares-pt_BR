@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v13-10-0]]
+=== I Crônicas, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 10 descreve a morte de Saul e seus filhos em batalha contra os filisteus. O capítulo destaca a importância da obediência a Deus e a consequência da desobediência.
+* 2 Samuel 1:14-16: "Então Davi perguntou ao moço que lhe trouxera a notícia: De onde és tu? Respondeu ele: Sou filho de um estrangeiro, amalequita. Então Davi lhe disse: Como não temeste estender a mão para matares o ungido do Senhor? Chamou Davi a um dos mancebos e disse-lhe: Chega-te e mata-o. E feriu-o, e ele morreu." Davi lamenta a morte de Saul e ordena a morte do homem que se diz matou Saul, como um ato de respeito pela posição de Saul como ungido do Senhor.
+* Deuteronômio 29:29: "As coisas encobertas pertencem ao Senhor nosso Deus, porém as reveladas nos pertencem a nós e a nossos filhos para sempre, para que cumpramos todas as palavras desta lei." Este versículo destaca a importância da obediência a Deus e sua Palavra, e que há coisas que não podemos entender completamente, mas devemos confiar em Deus.
+* 1 Samuel 15:23: "Porque a rebelião é como o pecado de feitiçaria, e a obstinação é como a idolatria e culto a ídolos. Porquanto rejeitaste a palavra do Senhor, ele também te rejeitou a ti, para que não sejas rei." Este versículo destaca a importância da obediência a Deus e como a desobediência pode levar à rejeição de Deus.
+* Romanos 6:23: "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor." Este versículo destaca a consequência do pecado, que é a morte, mas também enfatiza o presente de Deus da vida eterna através de Cristo.
+* Provérbios 14:12: "Há um caminho que ao homem parece direito, mas o fim dele são os caminhos da morte." Este versículo destaca a importância de seguir o caminho de Deus em vez de confiar em nossa própria sabedoria, pois o caminho do homem pode levar à morte.
+****
+
+[[v13-10-1]]
+
+^<<v13-10-1,1>>^ Os Filisteus combatiam contra Israel, e os Israelitas fugiram diante dos Filisteus, caindo (muitos deles) mortos no monte de Gelboé.
+
+[[v13-10-2]]
+
+^<<v13-10-2,2>>^ Avançando os Filisteus no alcance de Saul e de seus filhos, mataram Jónatas, Abinadab e Melquisua, filhos de Saul.
+
+[[v13-10-3]]
+
+^<<v13-10-3,3>>^ O combate tornou-se mais violento contra Saul; os frecheiros reconheceram-no e traspassaram-no com as suas setas.
+
+[[v13-10-4]]
+
+^<<v13-10-4,4>>^ Saul disse ao seu escudeiro: Desembaínha a tua espada e mata-me, não suceda virem estes incircuncidados zombar de mim. Todavia o escudeiro, possuído de temor, não quis fazer tal; então Saul pegou na sua espada e lançou-se sobre ela.
+
+[[v13-10-5]]
+
+^<<v13-10-5,5>>^ Vendo isto o seu escudeiro, vendo que Saul certamente estava morto, ele mesmo se lançou também sobre a sua própria espada, e morreu.
+
+[[v13-10-6]]
+
+^<<v13-10-6,6>>^ Morreu Saul e três filhos seus, e toda a sua família pereceu juntamente.
+
+[[v13-10-7]]
+
+^<<v13-10-7,7>>^ Os Israelitas que habitavam nos campos, ao verem que os homens de Israel fugiram e que estavam mortos Saul e seus filhos, abandonaram as suas cidades, e espalharam-se cada um para seu lado. Vieram (então) os Filisteus e estabeleceram-se nelas.
+
+[[v13-10-8]]
+
+^<<v13-10-8,8>>^ No dia seguinte, tirando os Filisteus os despojos dos mortos, encontraram Saul e os seus filhos estendidos no monte de Gelboé.
+
+[[v13-10-9]]
+
+^<<v13-10-9,9>>^ Tendo-o despojado e cortado a cabeça e tirado as armas, levaram-no para a sua terra, para ser visto por todas as partes, e para que fosse exposto nos templos dos seus ídolos e aos olhos do povo.
+
+[[v13-10-10]]
+
+^<<v13-10-10,10>>^ Consagraram as suas armas no templo do seu deus e pregaram a cabeça no templo de Dagon.
+
+[[v13-10-11]]
+
+^<<v13-10-11,11>>^ Tendo os habitantes de Jabes de Galaad ouvido tudo o que os Filisteus tinham feito a Saul,
+
+[[v13-10-12]]
+
+^<<v13-10-12,12>>^ juntaram-se os mais fortes deles, partiram e tiraram os cadáveres de Saul e dos seus filhos, trouxeram-nos para Jabes, e enterraram os seus ossos debaixo do carvalho que havia em Jabes, e jejuaram sete dias.
+
+[[v13-10-13]]
+
+^<<v13-10-13,13>>^ Morreu Saul por causa das suas iniquidades, por ter desobedecido ao mandamento que o Senhor lhe tinha imposto, e consultado os evocadores dos mortos.
+
+[[v13-10-14]]
+
+^<<v13-10-14,14>>^ Não consultou o Senhor, por isso ele o matou, e transferiu o seu reino para Davide, filho de Isaí.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-009.adoc#v13-9-0[&#60; Capítulo Anterior] | <<v13-10-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-011.adoc#v13-11-0[Próximo Capítulo &#62;]

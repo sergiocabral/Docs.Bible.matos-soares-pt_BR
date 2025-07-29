@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v56-4-0]]
+=== Efésios, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Efésios trata sobre a unidade do corpo de Cristo, onde os crentes são chamados a viver de forma digna do chamado que receberam, com humildade, mansidão e amor. O capítulo destaca a importância da comunhão entre os membros do corpo de Cristo e a necessidade de se livrar dos comportamentos pecaminosos. Abaixo estão cinco versículos em ordem de proximidade com os temas do capítulo, excluindo os versículos de Efésios 4.
+* Provérbios 15:1: "A resposta branda desvia o furor, mas a palavra dura suscita a ira." Este versículo destaca a importância de responder com palavras brandas e gentis, ao invés de palavras duras e rudes, que podem causar raiva e conflito.
+* 1 Pedro 3:8: "Finalmente, sede todos de igual ânimo, compadecidos, fraternalmente amigos, misericordiosos, humildes." Pedro exorta os crentes a serem de "igual ânimo", mostrando compaixão, amizade fraterna, misericórdia e humildade uns para com os outros.
+* Colossenses 3:13: "Suportai-vos uns aos outros, perdoai-vos mutuamente, caso alguém tenha motivo de queixa contra outrem. Assim como o Senhor vos perdoou, assim também perdoai vós." Este versículo destaca a necessidade de suportar e perdoar uns aos outros, como uma expressão do amor que Cristo tem por nós.
+* 1 João 4:20: "Se alguém afirmar: "Eu amo a Deus", mas odiar seu irmão, é mentiroso, pois quem não ama seu irmão, a quem vê, não pode amar a Deus, a quem não vê." João enfatiza que é impossível amar a Deus e odiar o irmão, porque o amor de Deus nos leva a amar uns aos outros.
+* Efésios 5:18: "E não vos embriagueis com vinho, no qual há devassidão, mas enchei-vos do Espírito." Este versículo destaca a importância de ser cheio do Espírito Santo, ao invés de se entregar a comportamentos pecaminosos, como a embriaguez.
+****
+
+[[v56-4-1]]
+
+^<<v56-4-1,1>>^ Rogo-vos, pois, eu, prisioneiro no Senhor, que andeis de um modo digno de vocação a que fostes chamados,
+
+[[v56-4-2]]
+
+^<<v56-4-2,2>>^ com toda a humildade, mansidão e paciência, suportando-vos uns aos outros por caridade,
+
+[[v56-4-3]]
+
+^<<v56-4-3,3>>^ solícitos em conservar a unidade do espírito pelo vínculo da paz.
+
+[[v56-4-4]]
+
+^<<v56-4-4,4>>^ Há um só corpo e um só Espírito, como também fostes chamados a uma só esperança pela vossa vocação. (ver nota)
+
+[[v56-4-5]]
+
+^<<v56-4-5,5>>^ Há um só Senhor, uma só fé, um só batismo.
+
+[[v56-4-6]]
+
+^<<v56-4-6,6>>^ Há um só Deus e Pai de todos, que está acima de todos, que opera em todos e está em todos.
+
+[[v56-4-7]]
+
+^<<v56-4-7,7>>^ Mas a cada um de nós foi repartida a graça segundo a medida do dom de Cristo.
+
+[[v56-4-8]]
+
+^<<v56-4-8,8>>^ Pelo que (a Escritura) diz: Tendo subido ao alto, levou cativos e distribuiu dons pelos homens (Ps. 67, 19).
+
+[[v56-4-9]]
+
+^<<v56-4-9,9>>^ Ora, que significa subiu, senão que também antes tinha descido aos lugares mais baixos da terra?
+
+[[v56-4-10]]
+
+^<<v56-4-10,10>>^ Aquele que desceu, é aquele mesmo que também subiu acima de todos os céus para cumprir todas as coisas.
+
+[[v56-4-11]]
+
+^<<v56-4-11,11>>^ A uns constituiu apóstolos, a outros profetas, a outros evangelistas, a outros pastores e doutores,
+
+[[v56-4-12]]
+
+^<<v56-4-12,12>>^ para o aperfeiçoamento dos santos, para a obra do ministério, em vista da edificação do corpo de Cristo,
+
+[[v56-4-13]]
+
+^<<v56-4-13,13>>^ até que cheguemos todos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito, segundo a estatura própria da plenitude de Cristo,
+
+[[v56-4-14]]
+
+^<<v56-4-14,14>>^ para que não mais sejamos meninos flutuantes e levados ao sabor de todo o vento de doutrina, pela malignidade dos homens, pela astúcia com que induzem ao erro.
+
+[[v56-4-15]]
+
+^<<v56-4-15,15>>^ Porém, praticando a verdade na caridade, cresçamos de todas as formas naquele que é cabeça, o Cristo. (ver nota)
+
+[[v56-4-16]]
+
+^<<v56-4-16,16>>^ É por ele que o corpo inteiro, coordenado e unido por meio de todos os ligamentos que o servem, segundo uma operação proporcionada a cada membro, opera o próprio crescimento, em ordem à sua edificação na caridade (que é a alma deste corpo ou edifício espiritual).
+
+[[v56-4-17]]
+
+^<<v56-4-17,17>>^ Isto, pois, vos digo e rogo no Senhor: não andeis mais como os gentios, que andam na frivolidade dos seus pensamentos,
+
+[[v56-4-18]]
+
+^<<v56-4-18,18>>^ que têm o entendimento obscurecido (e estão) afastados da vida de Deus pela ignorância que há neles, por causa da ceguira do seu coração,
+
+[[v56-4-19]]
+
+^<<v56-4-19,19>>^ os quais, de consciência embotada, se entregaram à libertinagem, para cometerem apaixonadamente toda a espécie de impureza.
+
+[[v56-4-20]]
+
+^<<v56-4-20,20>>^ Mas vós não aprendestes assim (a conhecer) Cristo,
+
+[[v56-4-21]]
+
+^<<v56-4-21,21>>^ se é que ouvistes pregar dele, e fostes ensinados nele, segundo a verdade que está em Jesus,
+
+[[v56-4-22]]
+
+^<<v56-4-22,22>>^ a vos despojardes, pelo que diz respeito ao vosso passado, do homem velho, o qual se corrompe pelas paixões enganadoras,
+
+[[v56-4-23]]
+
+^<<v56-4-23,23>>^ a renovar-vos no vosso espírito e nos vossos pensamentos,
+
+[[v56-4-24]]
+
+^<<v56-4-24,24>>^ e a revestir-vos do homem novo, criado segundo Deus na justiça e na santidade verdadeiras.
+
+[[v56-4-25]]
+
+^<<v56-4-25,25>>^ Pelo que, renunciando à mentira, fale cada um a seu próximo a verdade (Zc. 8, 16), pois somos membros uns dos outros (no mesmo corpo místico que tem Cristo por cabeça).
+
+[[v56-4-26]]
+
+^<<v56-4-26,26>>^ Se vos irardes, não pequeis (Ps. 4, 5); não se ponha o sol sobre a vossa ira. (ver nota)
+
+[[v56-4-27]]
+
+^<<v56-4-27,27>>^ Não deis lugar ao demônio (entregando-vos à ira ) ;
+
+[[v56-4-28]]
+
+^<<v56-4-28,28>>^ aquele que furtava, não furte mais, mas antes ocupe-se, trabalhando com suas mãos em qualquer coisa honesta, a fim de ter que dar ao que está em necessidade.
+
+[[v56-4-29]]
+
+^<<v56-4-29,29>>^ Nenhuma palavra má saia da vossa boca, mas só palavras boas para edificação, de maneira que façam bem aos que ouvem.
+
+[[v56-4-30]]
+
+^<<v56-4-30,30>>^ Não entristeçais (com vossos pecados) o Espírito Santo de Deus, pelo qual fostes marcados com um selo para o dia da redenção.
+
+[[v56-4-31]]
+
+^<<v56-4-31,31>>^ Toda a amargura, animosidade, cólera, clamor e maledicência, com toda a espécie de malícia, seja banida dentre vós.
+
+[[v56-4-32]]
+
+^<<v56-4-32,32>>^ Pelo contrário, sede benignos uns para com os outros, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou por Cristo.
+
+'''
+
+xref:056-efesios/056-efesios-003.adoc#v56-3-0[&#60; Capítulo Anterior] | <<v56-4-0,Topo>> | xref:056-efesios/056-efesios-005.adoc#v56-5-0[Próximo Capítulo &#62;]

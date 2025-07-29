@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v29-5-0]]
+=== Isaías, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 5 apresenta uma parábola em que Deus é comparado a um agricultor que cuida de sua vinha, mas apesar de seus esforços, a vinha produz apenas frutos ruins. O capítulo termina com uma ameaça de julgamento contra Israel por sua infidelidade. Para encontrar versículos relacionados com os temas abordados em Isaías 5, podemos buscar por passagens que falam sobre a justiça de Deus, o julgamento e a infidelidade do povo.
+* Provérbios 21:15: "Executar a justiça é motivo de alegria para o justo, mas de terror para os que praticam o mal." Este versículo destaca a importância da justiça e como ela pode trazer alegria ou terror, dependendo de como as pessoas agem.
+* Jeremias 5:7: "Por que haveria de perdoar-te? Seus filhos me abandonaram e juraram pelos deuses que não são deuses. Eu os saciei, mas eles cometeram adultério; em casa de prostitutas se amontoaram." Neste versículo, Deus fala sobre a infidelidade do povo de Israel e como eles têm se voltado para outros deuses.
+* Ezequiel 15:2-3: "Filho do homem, qual é a vinha que é melhor do que as outras vinhas, a qual as vinhas que estão ao redor dela serviram de ramos? Tiraram-se dela madeira para se fazer algum objeto? Ou dela se tomou um prego para pendurar algo?" Este versículo usa a imagem da vinha para falar sobre a posição especial de Israel entre as nações e como ela deveria ter sido uma fonte de bênção para os outros povos.
+* João 15:1-2: "Eu sou a videira verdadeira, e meu Pai é o agricultor. Todo ramo que, estando em mim, não dá fruto, ele corta; e todo que dá fruto ele poda, para que dê mais fruto ainda." Neste versículo, Jesus se apresenta como a videira verdadeira e explica como Deus cuida de seus seguidores, podando aqueles que não produzem frutos e fortalecendo aqueles que o fazem.
+* Hebreus 12:5-6: "E vocês esqueceram a palavra de ânimo que ele lhes dirige como a filhos: 'Meu filho, não despreze a disciplina do Senhor, nem desanime quando ele o repreender, pois o Senhor disciplina a quem ama, e castiga todo aquele que aceita como filho'." Este versículo fala sobre a disciplina de Deus e como ela é uma prova de seu amor por seus filhos, assim como a poda na videira pode trazer mais frutos.
+****
+
+[[v29-5-1]]
+
+^<<v29-5-1,1>>^ Cantarei ao meu amado o seu cântico de amor à sua vinha. O meu amado adquiriu uma vinha, plantada numa fértil colina.
+
+[[v29-5-2]]
+
+^<<v29-5-2,2>>^ Cavou-lhe a terra, tirou-lhe as pedras, plantou-a de bacelo escolhido, edificou uma torre no meio, e construiu nela um lagar. Esperava que desse boas uvas, mas produziu agraços. (ver nota)
+
+[[v29-5-3]]
+
+^<<v29-5-3,3>>^ Agora, pois, habitantes de Jerusalém e homens de Judá, sede vós os juízes entre mim e a minha vinha.
+
+[[v29-5-4]]
+
+^<<v29-5-4,4>>^ Que coisa há que eu devesse fazer mais a minha vinha e que lhe não tenha feito? Por que, esperando eu que ela desse boas uvas, apenas agraços produziu?
+
+[[v29-5-5]]
+
+^<<v29-5-5,5>>^ Agora vos mostrarei o que hei-de fazer à minha vinha: Arrancar-lhe-ei a sebe, e ficará exposta ao roubo; derrubar-lhe-ei o muro, e será pisada.
+
+[[v29-5-6]]
+
+^<<v29-5-6,6>>^ Farei com que fique deserta: não será podada nem cavada; crescerão nela os espinhos e os abrolhos; mandarei às nuvens que não derramem chuva sobre ela.
+
+[[v29-5-7]]
+
+^<<v29-5-7,7>>^ A vinha do Senhor dos exércitos é a casa de Israel, e os homens de Judá a planta, na qual ele tinha as suas delícias. Esperava que praticassem a retidão e eis que só há sangue derramado; que praticassem a justiça, e eis que sòmente se ouvem clamor (dos oprimidos).
+
+[[v29-5-8]]
+
+^<<v29-5-8,8>>^ Ai de vós os que ajuntais casas e mais casas, e ides acrescentando campo a campo, até chegar ao fim de todo o terreno, até ficardes os únicos donos da terra.
+
+[[v29-5-9]]
+
+^<<v29-5-9,9>>^ Aos meus ouvidos chegam estas coisas, ditas pelo Senhor dos exércitos: Muitas casas, sim, tornar-se-ão desertas, grandes e belas (casas) virão a ficar sem habitantes.
+
+[[v29-5-10]]
+
+^<<v29-5-10,10>>^ Dez geiras de vinhas produzirão apenas um bath, e um homer de semente não dará mais que um efa.
+
+[[v29-5-11]]
+
+^<<v29-5-11,11>>^ Ai de vós os que vos levantais pela manhã para vos entregardes à embriaguez, e para beberdes até à tarde, com tal excesso que venhais a ficar de todo esquentados pelo vinho.
+
+[[v29-5-12]]
+
+^<<v29-5-12,12>>^ A cítara, a harpa, o pandeiro, a flauta e o vinho, encontram-se nos vossos banquetes; e vós não olhais para a obra do Senhor, não considerais as obras das suas mãos.
+
+[[v29-5-13]]
+
+^<<v29-5-13,13>>^ Por isso é que o meu povo será levado cativo, sem dar conta disso, e os seus nobres morrerão de fome, e a sua multidão se mirrará de sede.
+
+[[v29-5-14]]
+
+^<<v29-5-14,14>>^ Por isso é que a habitação dos mortos alarga o seu seio, e desmesuradamente abre a sua boca; a ela descerá o esplendor (de Sião) com a sua multidão ruidosa e jovial.
+
+[[v29-5-15]]
+
+^<<v29-5-15,15>>^ O homem será abaixado e os grandes serão humilhados e os olhos dos altivos serão abatidos.
+
+[[v29-5-16]]
+
+^<<v29-5-16,16>>^ E o Senhor dos exércitos será exaltado (pela retidão) no juízo, e o santo Deus surgirá como tal pela (administração da sua) justiça.
+
+[[v29-5-17]]
+
+^<<v29-5-17,17>>^ Ali pastarão cordeiros, como em suas pastagens, e dos campos devastados dos ricos comerão os estranhos, (ver nota)
+
+[[v29-5-18]]
+
+^<<v29-5-18,18>>^ Ai de vós os que arrastais a iniquidade com cordas de vaidade, e o pecado com os tirantes dum carro (à semelhança de animais)! (ver nota)
+
+[[v29-5-19]]
+
+^<<v29-5-19,19>>^ (Ai de) vós que dizeis: Que se apresse, que sem demora venha a sua obra, para que a vejamos; aproxime-se e cumpra-se o decreto do Santo de Israel, a fim de que nós o conheçamos.
+
+[[v29-5-20]]
+
+^<<v29-5-20,20>>^ Ai de vós os que ao mal chamais bem, e ao bem mal, que tomais as trevas por luz, e a luz por trevas, que tendes o amargo por doce, e o doce por amargo!
+
+[[v29-5-21]]
+
+^<<v29-5-21,21>>^ Ai de vós os que sois sábios a vossos olhos, e segundo vós mesmos, prudentes!
+
+[[v29-5-22]]
+
+^<<v29-5-22,22>>^ Ai de vós os que sois valentes para beber vinho, e fortes para misturar licores (e não o sois para administrar a justiça)!
+
+[[v29-5-23]]
+
+^<<v29-5-23,23>>^ Ai de vós os que justificais o ímpio pelas dádivas, e ao justo tirais o seu direito!
+
+[[v29-5-24]]
+
+^<<v29-5-24,24>>^ Por esta causa, assim como a língua do fogo devora a palha, e a erva seca se abrasa na chama, a raiz deles se fará podridão, e o seu renovo se dissipará como pó, porque rejeitaram a lei do Senhor dos exércitos e desprezaram a palavra do Santo de Israel.
+
+[[v29-5-25]]
+
+^<<v29-5-25,25>>^ Por isso o furor do Senhor se acendeu contra o seu povo; estendeu a sua mão sobre ele e o feriu: os montes se abalaram, e os seus cadáveres foram lançados como esterco ao meio dos caminhos. Com todos estes castigos não se aplacou o seu furor, mas ainda está levantada a sua mão.
+
+[[v29-5-26]]
+
+^<<v29-5-26,26>>^ Arvorará um estandarte, para servir de sinal aos povos de longe, e chamalá-los-á com um assobio desde os confins da terra, e acorrerão com grande velocidade. (ver nota)
+
+[[v29-5-27]]
+
+^<<v29-5-27,27>>^ Não há neles quem sinta cansaço ou vacilação, nem quem dormite ou durma; ninguém desata o cinto dos seus rins, nem a correia do seu calçado.
+
+[[v29-5-28]]
+
+^<<v29-5-28,28>>^ As suas setas são agudas, todos os seus arcos estão retesados. As unhas dos seus cavalos são como pederneira, e as rodas dos seus carros têm a rapidez do furacão.
+
+[[v29-5-29]]
+
+^<<v29-5-29,29>>^ O seu rugido é de leão, o seu rugido é dum cachorro de leão, que solta bramidos e se arroja à presa e a leva, sem haver quem lha arrebate.
+
+[[v29-5-30]]
+
+^<<v29-5-30,30>>^ Soará naquele dia um bramido contra o povo, como o bramido do mar. Olhar-se-á para a terra, e eis que tudo serão trevas de angústia e a luz desaparecerá nessa profunda escuridão.
+
+'''
+
+xref:029-isaias/029-isaias-004.adoc#v29-4-0[&#60; Capítulo Anterior] | <<v29-5-0,Topo>> | xref:029-isaias/029-isaias-006.adoc#v29-6-0[Próximo Capítulo &#62;]

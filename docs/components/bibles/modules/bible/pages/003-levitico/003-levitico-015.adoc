@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v3-15-0]]
+=== Levítico, 15
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 15 apresenta leis sobre impurezas causadas por fluxos corporais, tanto masculinos quanto femininos. O capítulo trata de como as pessoas que sofrem com esses fluxos devem se purificar para poderem se aproximar de Deus novamente. Abaixo estão cinco versículos relacionados com os temas abordados em Levítico 15:
+* Levítico 15:31: "Assim, vocês manterão os israelitas separados daquilo que os contamina e não morrerão por causa de sua impureza, contaminando o meu santuário que está no meio deles." Este versículo mostra que a purificação é necessária para que as pessoas possam se aproximar de Deus e permanecer em um estado de pureza.
+* Mateus 9:20-22: "De repente, uma mulher que havia sangrado durante doze anos, chegou por trás dele e tocou na borda do manto de Jesus, pois pensava consigo mesma: 'Se eu tão somente tocar em seu manto, ficarei curada.' Jesus voltou-se e, ao vê-la, disse: 'Coragem, filha! Sua fé a curou.' E a mulher ficou curada naquele mesmo instante." Esse versículo apresenta uma história de cura, onde a mulher que sofria de fluxo de sangue é curada pela fé em Jesus.
+* Marcos 5:25-29: "Ora, uma mulher que havia sofrido de hemorragia por doze anos e tinha suportado muito com muitos médicos e gastado tudo o que tinha, mas em vez de melhorar, piorava, tendo ouvido falar de Jesus, veio por trás, entre a multidão, e tocou em sua capa. Pois pensava: 'Se eu tão somente tocar em suas roupas, ficarei curada.' No mesmo instante cessou sua hemorragia, e ela sentiu em seu corpo que estava curada da doença." Esse versículo apresenta uma história semelhante ao anterior, onde outra mulher é curada de seu fluxo de sangue através da fé em Jesus.
+* Hebreus 9:14: "Quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu de forma imaculada a Deus, purificará a nossa consciência de atos que levam à morte, para que sirvamos ao Deus vivo!" Esse versículo destaca a purificação feita pelo sacrifício de Cristo, que é superior à purificação feita pelos rituais descritos em Levítico.
+* 1 João 1:7: "Mas, se andarmos na luz, como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus, seu Filho, nos purifica de todo pecado." Esse versículo destaca a purificação que vem através do sangue de Jesus, que é capaz de purificar de todo pecado, incluindo impurezas causadas por fluxos corporais.
+****
+
+[[v3-15-1]]
+
+^<<v3-15-1,1>>^ O Senhor falou a Moisés e a Aarão, dizendo;
+
+[[v3-15-2]]
+
+^<<v3-15-2,2>>^ Falai aos filhos de Israel, e dizei-lhes: O homem que padece de gomorreia, será impuro.
+
+[[v3-15-3]]
+
+^<<v3-15-3,3>>^ Será julgado sujeito a esta enfermidade, quando a cada momento se pegar à sua carne e se juntar aquele humor impuro.
+
+[[v3-15-4]]
+
+^<<v3-15-4,4>>^ Todo o leito em que dormir, e todo o objecto sobre o qual se sentar, será impuro.
+
+[[v3-15-5]]
+
+^<<v3-15-5,5>>^ Se alguém tocar o seu leito, lavará as suas vestes, e esse mesmo, depois de lavado em água, será impuro até à tarde.
+
+[[v3-15-6]]
+
+^<<v3-15-6,6>>^ Se se sentar onde ele estava sentado, lavará também as suas vestes, e, lavando-se em água, será impuro até à tarde.
+
+[[v3-15-7]]
+
+^<<v3-15-7,7>>^ O que tocar a sua carne, lavará as suas vestes, e, lavado ele mesmo em água, será impuro ate à tarde.
+
+[[v3-15-8]]
+
+^<<v3-15-8,8>>^ Se a saliva deste homem cair sobre um que está limpo, esse lavará as suas vestes, e, lavado ele mesmo em água, será impuro até à tarde.
+
+[[v3-15-9]]
+
+^<<v3-15-9,9>>^ A sela, sobre que tiver cavalgado, ficará impura;
+
+[[v3-15-10]]
+
+^<<v3-15-10,10>>^ tudo o que tiver estado debaixo daquele que padece este mal, ficará impuro até à tarde. O que levar alguma destas coisas, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.
+
+[[v3-15-11]]
+
+^<<v3-15-11,11>>^ Todo aquele que for tocado por um homem em tal estado, sem este ter antes lavado as mãos, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.
+
+[[v3-15-12]]
+
+^<<v3-15-12,12>>^ O vaso de barro que tocar, será quebrado, e o vaso de pau será lavado em água.
+
+[[v3-15-13]]
+
+^<<v3-15-13,13>>^ Se o que padece esta moléstia sarou dela, contará sete dias depois da cura, e, lavadas as suas vestes e todo o corpo na água viva, ficará puro.
+
+[[v3-15-14]]
+
+^<<v3-15-14,14>>^ Ao oitavo dia, tomará duas rolas ou dois pombinhos e apresentar-se-á diante do Senhor, à porta do tabernáculo da reunião e dá-los-á ao sacerdote,
+
+[[v3-15-15]]
+
+^<<v3-15-15,15>>^ o qual oferecerá um pelo pecado, e outro em holocausto, e orará por ele diante do Senhor, para que fique limpo do seu fluxo.
+
+[[v3-15-16]]
+
+^<<v3-15-16,16>>^ O homem que tiver um derramamento seminal, lavará em água todo o seu corpo, e será impuro até à tarde.
+
+[[v3-15-17]]
+
+^<<v3-15-17,17>>^ Serão lavadas em água toda a roupa e toda a pele atingidas pelo derramamento, e ficarão impuras até à tarde.
+
+[[v3-15-18]]
+
+^<<v3-15-18,18>>^ A mulher com quem se juntou, lavar-se-á em água, e será impura até à tarde
+
+[[v3-15-19]]
+
+^<<v3-15-19,19>>^ A mulher que no tempo ordinário sofre incômodo, será separada durante sete dias.
+
+[[v3-15-20]]
+
+^<<v3-15-20,20>>^ Todo o que a tocar, será impuro até à tarde.
+
+[[v3-15-21]]
+
+^<<v3-15-21,21>>^ As coisas, sobre que dormir ou se sentar, ficarão impuras.
+
+[[v3-15-22]]
+
+^<<v3-15-22,22>>^ Aquele que tocar o seu leito, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.
+
+[[v3-15-23]]
+
+^<<v3-15-23,23>>^ Todo-o que tocar qualquer coisa sobre que ela se tenha sentado, lavará as suas vestes, e, lavando-se ele mesmo em água, ficará impuro até à tarde.
+
+[[v3-15-24]]
+
+^<<v3-15-24,24>>^ Se um homem se junta com ela no tempo que ela tem o incómodo, será impuro durante sete dias; todo o leito sobre que dormir, ficará impuro.
+
+[[v3-15-25]]
+
+^<<v3-15-25,25>>^ A mulher, que padece por muitas dias fluxo de sangue fora do tempo costumado, ou que, passado o período regular, não lhe cessa o fluxo, será impura enquanto estiver sujeita a esse acidente, como se estivesse no tempo da sua impureza mensal.
+
+[[v3-15-26]]
+
+^<<v3-15-26,26>>^ Todo o leito em que dormir e tudo aquilo em que se sentar, ficará impuro.
+
+[[v3-15-27]]
+
+^<<v3-15-27,27>>^ Todo o que tocar estas coisas, lavará as suas vestes, e, lavando-se ele mesmo em água, será impuro até à tarde.
+
+[[v3-15-28]]
+
+^<<v3-15-28,28>>^ Se o sangue parar e deixar de correr, contará sete dias e depois ficará pura;
+
+[[v3-15-29]]
+
+^<<v3-15-29,29>>^ ao dia oitavo, oferecerá por si ao sacerdote, à porta do tabernáculo da reunião, duas roles ou dois pombinhos;
+
+[[v3-15-30]]
+
+^<<v3-15-30,30>>^ o sacerdote sacrificará um pelo pecado e outro em holocausto, e orará por ela diante do Senhor, por causa do fluxo que a tornava impura.
+
+[[v3-15-31]]
+
+^<<v3-15-31,31>>^ Ensinareis, pois, aos filhos de Israel que se guardem da impureza, para não morrerem nas suas imundices, quando profanarem o meu tabernáculo que está no meio deles.
+
+[[v3-15-32]]
+
+^<<v3-15-32,32>>^ Esta é a lei acerca do que padece gonorreia, e que contrai impureza tendo cópula,
+
+[[v3-15-33]]
+
+^<<v3-15-33,33>>^ acerca da mulher que está separada no tempo do seu mênstruo, ou padece fluxo contínuo de sangue, e acerca do homem que dormir com ela.
+
+'''
+
+xref:003-levitico/003-levitico-014.adoc#v3-14-0[&#60; Capítulo Anterior] | <<v3-15-0,Topo>> | xref:003-levitico/003-levitico-016.adoc#v3-16-0[Próximo Capítulo &#62;]

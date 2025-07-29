@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v58-3-0]]
+=== Colossenses, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de Colossenses trata principalmente de como os cristãos devem viver suas vidas em união com Cristo, deixando de lado as coisas do mundo e buscando as coisas do alto. Também enfatiza a importância de se revestir com virtudes como bondade, humildade e amor, e de manter a paz entre os irmãos. Seguem abaixo cinco versículos relacionados com esses temas:
+* Romanos 12:2: "Não se amoldem ao padrão deste mundo, mas transformem-se pela renovação da sua mente, para que sejam capazes de experimentar e comprovar a boa, agradável e perfeita vontade de Deus." Este versículo fala sobre a importância de se afastar das coisas do mundo e se transformar por meio da renovação da mente, para que possamos conhecer e fazer a vontade de Deus.
+* 1 João 2:15-16: "Não amem o mundo nem o que nele há. Se alguém ama o mundo, o amor do Pai não está nele. Pois tudo o que há no mundo - a cobiça da carne, a cobiça dos olhos e a ostentação dos bens - não provém do Pai, mas do mundo." Este versículo também fala sobre a importância de se afastar das coisas do mundo e amar a Deus acima de tudo.
+* Efésios 4:2: "Com toda a humildade e mansidão, com paciência, suportem-se uns aos outros em amor." Este versículo enfatiza a importância de manter a unidade e a paz entre os irmãos, sendo pacientes e amorosos uns com os outros.
+* Colossenses 3:23-24: "Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens, sabendo que receberão do Senhor a recompensa da herança. É a Cristo, o Senhor, que vocês estão servindo." Este versículo destaca a importância de se fazer tudo com excelência e com o coração voltado para Deus, em vez de buscar a aprovação dos homens.
+* 1 Pedro 3:3-4: "Não seja o adorno delas o que está fora, como cabelos trançados e joias de ouro ou roupas finas; mas seja o homem interior do coração, unido ao incorruptível traje de um espírito manso e tranquilo, que é de grande valor diante de Deus." Este versículo fala sobre a importância de se preocupar mais com o caráter e as virtudes internas do que com a aparência externa.
+****
+
+[[v58-3-1]]
+
+^<<v58-3-1,1>>^ Portanto, se ressuscitastes com Cristo, buscai as coisas que são lá de cima, onde Cristo está sentado à dextra de Deus;
+
+[[v58-3-2]]
+
+^<<v58-3-2,2>>^ afeiçoai-vos às coisas que são lá de cima, não às que estão sobre a terra.
+
+[[v58-3-3]]
+
+^<<v58-3-3,3>>^ Com efeito, (pelo batismo) estais mortos (para as coisas terrenas) e a nossa vida está escondida com Cristo em Deus.
+
+[[v58-3-4]]
+
+^<<v58-3-4,4>>^ Quando aparecer Cristo, que é a vossa vida, então também vós aparecereis com ele na glória.
+
+[[v58-3-5]]
+
+^<<v58-3-5,5>>^ Mortificai, pois, os vossos membros terrenos: a fornicação, a impureza, as paixões, os desejos maus e a avareza, que é uma idolatria,
+
+[[v58-3-6]]
+
+^<<v58-3-6,6>>^ pelas quais coisas vem a ira de Deus sobre os filhos da incredulidade;
+
+[[v58-3-7]]
+
+^<<v58-3-7,7>>^ entre as quais coisas vós também andastes outrora, quando vivíeis nelas.
+
+[[v58-3-8]]
+
+^<<v58-3-8,8>>^ Mas agora deixai, também vós, tudo isto: a ira, a indignação, a malícia, a maledicência, a palavra torpe da vossa boca.
+
+[[v58-3-9]]
+
+^<<v58-3-9,9>>^ Não mintais uns aos outros, visto que vos despojastes do homem velho com as suas obras
+
+[[v58-3-10]]
+
+^<<v58-3-10,10>>^ e vos revestistes do homem novo, daquele que se renova (continuamente, avançando sempre na perfeição) para o conhecimento mais perfeito (de Deus) segundo a imagem daquele que o criou,
+
+[[v58-3-11]]
+
+^<<v58-3-11,11>>^ onde não há (diferença de) Grego e Judeu, circuncidado e incircuncidado, bárbaro e Scita, servo e livre, não há senão Cristo que é tudo em todos.
+
+[[v58-3-12]]
+
+^<<v58-3-12,12>>^ Vós, pois, como escolhidos de Deus, santos e amados, revesti-vos de sentimentos de misericórdia, de benignidade, de humildade, de mansidão, de paciência,
+
+[[v58-3-13]]
+
+^<<v58-3-13,13>>^ sofrendo-vos uns aos outros e perdoando-vos mutuamente, se algum tem razão de queixa contra o outro. Assim como o Senhor vos perdoou a vós, também vós perdoai (uns aos outros).
+
+[[v58-3-14]]
+
+^<<v58-3-14,14>>^ Sobretudo, porém tende caridade, que é o vínculo da perfeição.
+
+[[v58-3-15]]
+
+^<<v58-3-15,15>>^ Triunfe em vossos corações a paz de Cristo, à qual fostes chamados, para (formar) um só corpo. Sede agradecidos.
+
+[[v58-3-16]]
+
+^<<v58-3-16,16>>^ A palavra de Cristo habite em vós com toda a sua riqueza. Ensinai-vos e admoestai-vos uns aos outros, com toda a sabedoria, cantai a Deus, em vossos corações, salmos, hinos e cânticos espirituais, sob a ação da graça.
+
+[[v58-3-17]]
+
+^<<v58-3-17,17>>^ Tudo o que fizerdes, em palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai.
+
+[[v58-3-18]]
+
+^<<v58-3-18,18>>^ Mulheres, estai sujeitas a vossos maridos, como convém, no Senhor.
+
+[[v58-3-19]]
+
+^<<v58-3-19,19>>^ Maridos, amai vossas mulheres e não sejais ásperos para com elas.
+
+[[v58-3-20]]
+
+^<<v58-3-20,20>>^ Filhos, obedecei em tudo a vossos pais, porque isto é agradável ao Senhor.
+
+[[v58-3-21]]
+
+^<<v58-3-21,21>>^ Pais, não provoqueis à indignação os vossos filhos, para que se não tornem pusilânimes.
+
+[[v58-3-22]]
+
+^<<v58-3-22,22>>^ Servos, obedecei em tudo a vossos senhores temporais, não servindo só quando sob as (suas) vistas, como para agradar aos homens, mas com simplicidade de coração, temendo a Deus.
+
+[[v58-3-23]]
+
+^<<v58-3-23,23>>^ Tudo o que fizerdes, fazei-o de boa vontade, como (quem o faz) pelo Senhor e não pelos homens,
+
+[[v58-3-24]]
+
+^<<v58-3-24,24>>^ sabendo que recebereis do Senhor a herança (do céu) como recompensa. Servi a Cristo Senhor,
+
+[[v58-3-25]]
+
+^<<v58-3-25,25>>^ porque aquele que cometer injustiça, receberá segundo o que fez injustamente: não há acepção de pessoas (diante de Deus).
+
+'''
+
+xref:058-colossenses/058-colossenses-002.adoc#v58-2-0[&#60; Capítulo Anterior] | <<v58-3-0,Topo>> | xref:058-colossenses/058-colossenses-004.adoc#v58-4-0[Próximo Capítulo &#62;]

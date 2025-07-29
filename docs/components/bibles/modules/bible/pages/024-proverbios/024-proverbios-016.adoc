@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v24-16-0]]
+=== Provérbios, 16
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 16 é um capítulo que aborda vários temas, como a sabedoria, a soberania de Deus, o orgulho, a honestidade, entre outros. Para fornecer cinco versículos relacionados com esses temas, podemos selecionar os seguintes:
+* Salmos 90:12: "Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios." Este verso aborda a importância da sabedoria e da compreensão do valor do tempo.
+* Jeremias 10:23: "Eu sei, ó Senhor, que o homem não é senhor do seu caminho, nem do homem que caminha o dirigir." Esse verso fala sobre a soberania de Deus, que é um tema recorrente em Provérbios 16.
+* Provérbios 15:33: "O temor do Senhor é a instrução da sabedoria, e a humildade precede a honra." Esse verso reforça a importância da sabedoria e da humildade, que também são temas presentes em Provérbios 16.
+* Provérbios 17:7: "Os lábios excelentes convêm ao homem sábio, mas o tolo é consumido pela sua própria boca." Esse verso aborda a importância da honestidade e do cuidado com as palavras, temas que são abordados em Provérbios 16.
+* Provérbios 18:12: "O coração do homem se exalta antes de ser abatido, e diante da honra vai a humildade." Esse verso fala sobre o orgulho e a humildade, temas que também são tratados em Provérbios 16.
+****
+
+[[v24-16-1]]
+
+^<<v24-16-1,1>>^ Ao homem pertence formar os projectos em seu coração, mas do Senhor vem a resposta da língua.
+
+[[v24-16-2]]
+
+^<<v24-16-2,2>>^ Todos os caminhos do homem são puros a seus olhos, mas o Senhor pesa os espíritos. (ver nota)
+
+[[v24-16-3]]
+
+^<<v24-16-3,3>>^ Recomenda ao Senhor as tuas obras, e terão bom êxito os teus projectos. (ver nota)
+
+[[v24-16-4]]
+
+^<<v24-16-4,4>>^ Tudo fez o Senhor para (glória de) si mesmo; até ao ímpio para o dia mau (do castigo).
+
+[[v24-16-5]]
+
+^<<v24-16-5,5>>^ Todo o arrogante é a abominação do Senhor; ainda que pareça que nada faz, não é inocente.
+
+[[v24-16-6]]
+
+^<<v24-16-6,6>>^ A iniqüidade expia-se pela misericórdia e pela verdade: o mal evita-se pelo temor do Senhor.
+
+[[v24-16-7]]
+
+^<<v24-16-7,7>>^ Quando os caminhos do homem agradarem ao Senhor, reconciliará com ele os seus próprios inimigos.
+
+[[v24-16-8]]
+
+^<<v24-16-8,8>>^ Vale mais o pouco com justiça, do que muitos bens com iniqüidade.
+
+[[v24-16-9]]
+
+^<<v24-16-9,9>>^ O coração do homem pensa no caminho a seguir, mas ao Senhor pertence dirigir os seus passos.
+
+[[v24-16-10]]
+
+^<<v24-16-10,10>>^ As palavras do rei são (como) oráculos; que a sua boca, pois, não erre nos julgamentos.
+
+[[v24-16-11]]
+
+^<<v24-16-11,11>>^ Peso justo e balança justa são do Senhor, e são obra sua todos os pesos do saco.
+
+[[v24-16-12]]
+
+^<<v24-16-12,12>>^ Os que procedem impiamente são abomináveis ao rei, porque o trono firma-se com a justiça.
+
+[[v24-16-13]]
+
+^<<v24-16-13,13>>^ São agradáveis ao rei os lábios justos; o que fala coisas rectas será amado.
+
+[[v24-16-14]]
+
+^<<v24-16-14,14>>^ A indignação do rei é prenúncio de morte; porém o varão sábio saberá aplacá-la.
+
+[[v24-16-15]]
+
+^<<v24-16-15,15>>^ Na serenidade do semblante do rei está a vida, e o seu favor é como a chuva primaveril.
+
+[[v24-16-16]]
+
+^<<v24-16-16,16>>^ Adquirir a sabedoria vale mais que (adquirir) o ouro; adquirir a inteligência vale mais do que a prata.
+
+[[v24-16-17]]
+
+^<<v24-16-17,17>>^ O caminho dos justos é afastar-se do mal; guarda a sua alma o que vela sobre o seu caminho.
+
+[[v24-16-18]]
+
+^<<v24-16-18,18>>^ A soberba precede a ruína. a altivez do espírito precede a queda. (ver nota)
+
+[[v24-16-19]]
+
+^<<v24-16-19,19>>^ Mais vale ser modesto com os humildes do que partilhar de despojos com os soberbos.
+
+[[v24-16-20]]
+
+^<<v24-16-20,20>>^ O que é atento à palavra (de Deus) encontrará a felicidade; o que espera no Senhor é ditoso.
+
+[[v24-16-21]]
+
+^<<v24-16-21,21>>^ O que é sábio de coração, será chamado prudente; o que é doce no falar receberá coisas maiores.
+
+[[v24-16-22]]
+
+^<<v24-16-22,22>>^ A sabedoria é uma fonte de vida para quem a possui; o castigo dos Insensatos é a insensatez.
+
+[[v24-16-23]]
+
+^<<v24-16-23,23>>^ O coração do sábio instruirá a sua boca, e acrescentará graça aos seus lábios.
+
+[[v24-16-24]]
+
+^<<v24-16-24,24>>^ As palavras amáveis são um favo de mel, doçura para a alma, saúde para os ossos (ou corpo).
+
+[[v24-16-25]]
+
+^<<v24-16-25,25>>^ (Às vezes) um caminho parece direito ao homem, e contudo o seu termo é a morte.
+
+[[v24-16-26]]
+
+^<<v24-16-26,26>>^ O homem que trabalha, para si trabalha, porque a sua boca o constrange a isso.
+
+[[v24-16-27]]
+
+^<<v24-16-27,27>>^ O homem ímpio cava a desgraça, e nos seus lábios se vai ateando o fogo.
+
+[[v24-16-28]]
+
+^<<v24-16-28,28>>^ O homem perverso suscita pleitos, e o mexeriqueiro semeia a discórdia entre os amigos.
+
+[[v24-16-29]]
+
+^<<v24-16-29,29>>^ O homem iníquo seduz o seu amigo, e o conduz por um caminho que não é bom.
+
+[[v24-16-30]]
+
+^<<v24-16-30,30>>^ Aquele que fecha os olhos, maquina Intrigas; o que morde os lábios já praticou o mal.
+
+[[v24-16-31]]
+
+^<<v24-16-31,31>>^ A velhice é uma coroa de glória, a qual se encontra nos caminhos da justiça. (ver nota)
+
+[[v24-16-32]]
+
+^<<v24-16-32,32>>^ O homem paciente vale mais do que o valente, e o que domina o seu ânimo mais do que o conquistador de cidades. (ver nota)
+
+[[v24-16-33]]
+
+^<<v24-16-33,33>>^ As sortes lançam-se no regaço, mas o Senhor é quem as dispõe. (ver nota)
+
+'''
+
+xref:024-proverbios/024-proverbios-015.adoc#v24-15-0[&#60; Capítulo Anterior] | <<v24-16-0,Topo>> | xref:024-proverbios/024-proverbios-017.adoc#v24-17-0[Próximo Capítulo &#62;]

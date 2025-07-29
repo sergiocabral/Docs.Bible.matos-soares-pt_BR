@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v45-6-0]]
+=== Zacarias, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 6 de Zacarias descreve uma visão do profeta na qual quatro carros são apresentados, representando a presença de Deus em toda a terra. Em seguida, Zacarias recebe a ordem de coroar Josué, o sumo sacerdote, com uma coroa de prata, simbolizando a chegada do Messias que virá como sacerdote e rei. Abaixo estão cinco versículos relacionados com os temas abordados em Zacarias 6:
+* Salmos 72:17: "Seja bendito o seu nome para sempre; enquanto o sol durar, seu nome permaneça; todos os povos sejam abençoados nele; todas as nações o chamem feliz." Este versículo fala sobre a bênção que o Messias trará para todas as nações da terra, algo que Zacarias também destaca em sua visão.
+* Jeremias 33:15: "Nos dias daqueles, e naquele tempo, farei brotar a Davi um Renovo de justiça, e ele fará juízo e justiça na terra." A coroação de Josué em Zacarias 6 é uma antecipação da chegada do Messias, como descrito por Jeremias.
+* Salmo 110:4: "O SENHOR jurou, e não se arrependerá: Tu és sacerdote eternamente, segundo a ordem de Melquisedeque." Esse versículo se refere ao sacerdócio do Messias, que será tanto sacerdote quanto rei, e que é simbolizado na visão de Zacarias pela coroação de Josué.
+* Zacarias 3:8: "Ouve, pois, Josué, sumo sacerdote, tu e os teus companheiros que se assentam diante de ti; porque são homens portentosos; eis que eu farei vir o meu servo, o Ramo." Este versículo é uma referência direta à coroação de Josué em Zacarias 6 e antecipa a chegada do Messias como o "Ramo".
+* Hebreus 7:17: "Porque dele se testifica: Tu és sacerdote eternamente, segundo a ordem de Melquisedeque." Assim como Salmo 110:4, esse versículo destaca a dualidade do Messias como sacerdote e rei, em consonância com a visão de Zacarias.
+****
+
+[[v45-6-1]]
+
+^<<v45-6-1,1>>^ De novo levantei os olhos e olhei : vi quatro carros que saíam dentre duas montanhas, e estas duas montanhas eram montanhas de bronze. (ver nota)
+
+[[v45-6-2]]
+
+^<<v45-6-2,2>>^ No primeiro carro havia cavalos vermelhos, no segundo carro havia cavalos negros,
+
+[[v45-6-3]]
+
+^<<v45-6-3,3>>^ no terceiro carro havia cavalos brancos, e no quarto carro havia cavalos malhados, fortes.
+
+[[v45-6-4]]
+
+^<<v45-6-4,4>>^ Tomei a palavra e disse ao anjo que falava comigo: Que significam estas coisas, meu Senhor?
+
+[[v45-6-5]]
+
+^<<v45-6-5,5>>^ O anjo respondeu-me: Estes são os quatro ventos do céu, que saem para estar diante do Senhor de toda a terra (a fim de executar as suas ordens). (ver nota)
+
+[[v45-6-6]]
+
+^<<v45-6-6,6>>^ Os cavalos negros, seguem para a terra do aquilão, os brancos para oriente, os baios para a terra do meio-dia.
+
+[[v45-6-7]]
+
+^<<v45-6-7,7>>^ Os (cavalos) vigoroso, logo que saíram, pediram para percorrer toda a terra. E (o anjo) disse-Ihes: Ide, percorrei a terra. E eles percorreram a terra.
+
+[[v45-6-8]]
+
+^<<v45-6-8,8>>^ Depois chamou-me e disse: Os que se dirigiram para a terra do aquilão, fizeram repousar o meu espírito na terra do aquilão.
+
+[[v45-6-9]]
+
+^<<v45-6-9,9>>^ Foi-me dirigida a palavra do Senhor, nestes termos :
+
+[[v45-6-10]]
+
+^<<v45-6-10,10>>^ Recebe o que te derem os exilados, as ofertas de Holdai, Tobias e Idaia; irás neste mesmo dia e entrarás em casa de Josias, filho de Sofonias, os quais vieram de Babilônia.
+
+[[v45-6-11]]
+
+^<<v45-6-11,11>>^ Tomarás prata e ouro, e farás coroas, que porás sobre a cabeça do sumo sacerdote Josué, filho de Josedec.
+
+[[v45-6-12]]
+
+^<<v45-6-12,12>>^ Falar-lhe-ás desta maneira: Assim fala o Senhor dos exércitos: Eis o homem cujo nome é Germen: onde ele está, alguma coisa há-de germinar. Ele é que há-de edificar o templo do Senhor.
+
+[[v45-6-13]]
+
+^<<v45-6-13,13>>^ Reconstruirá o templo do Senhor, usará insígnias reais, sentar-se-á e dominará sobre o seu trono; será sacerdote sobre o seu trono, e haverá entre os dois uma perfeita paz. (ver nota)
+
+[[v45-6-14]]
+
+^<<v45-6-14,14>>^ Estas coroas serão para Helem, Tobias, Idaia e Hen, filho de Sofonias, como um monumento no templo do Senhor.
+
+[[v45-6-15]]
+
+^<<v45-6-15,15>>^ Homens que estão longe, virão e trabalharão na fábrica do templo do Senhor, e vós sabereis que o Senhor dos exércitos é que me enviou a vós. Isto acontecerá, se ouvirdes com submissão a voz do Senhor vosso Deus.
+
+'''
+
+xref:045-zacarias/045-zacarias-005.adoc#v45-5-0[&#60; Capítulo Anterior] | <<v45-6-0,Topo>> | xref:045-zacarias/045-zacarias-007.adoc#v45-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,32 @@
+include::../index.adoc[]
+
+[[v27-0-0]]
+== Sabedoria
+
+[cols="8*^"]
+|===
+| xref:027-sabedoria/027-sabedoria-001.adoc#v27-1-0[1]
+| xref:027-sabedoria/027-sabedoria-002.adoc#v27-2-0[2]
+| xref:027-sabedoria/027-sabedoria-003.adoc#v27-3-0[3]
+| xref:027-sabedoria/027-sabedoria-004.adoc#v27-4-0[4]
+| xref:027-sabedoria/027-sabedoria-005.adoc#v27-5-0[5]
+| xref:027-sabedoria/027-sabedoria-006.adoc#v27-6-0[6]
+| xref:027-sabedoria/027-sabedoria-007.adoc#v27-7-0[7]
+| xref:027-sabedoria/027-sabedoria-008.adoc#v27-8-0[8]
+| xref:027-sabedoria/027-sabedoria-009.adoc#v27-9-0[9]
+| xref:027-sabedoria/027-sabedoria-010.adoc#v27-10-0[10]
+| xref:027-sabedoria/027-sabedoria-011.adoc#v27-11-0[11]
+| xref:027-sabedoria/027-sabedoria-012.adoc#v27-12-0[12]
+| xref:027-sabedoria/027-sabedoria-013.adoc#v27-13-0[13]
+| xref:027-sabedoria/027-sabedoria-014.adoc#v27-14-0[14]
+| xref:027-sabedoria/027-sabedoria-015.adoc#v27-15-0[15]
+| xref:027-sabedoria/027-sabedoria-016.adoc#v27-16-0[16]
+| xref:027-sabedoria/027-sabedoria-017.adoc#v27-17-0[17]
+| xref:027-sabedoria/027-sabedoria-018.adoc#v27-18-0[18]
+| xref:027-sabedoria/027-sabedoria-019.adoc#v27-19-0[19]
+|
+|
+|
+|
+|
+|===

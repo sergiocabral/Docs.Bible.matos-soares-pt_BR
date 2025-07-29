@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v4-25-0]]
+=== Números, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 25 de Números descreve como os israelitas começaram a se prostituir com mulheres moabitas e a adorar seus deuses, trazendo a ira de Deus sobre eles. Os versículos a seguir são escolhidos com base na proximidade dos temas do capítulo e estão relacionados com a importância da pureza e da fidelidade na adoração a Deus:
+* Êxodo 20:3: "Não terás outros deuses diante de mim." Este é o primeiro mandamento dos Dez Mandamentos, que proíbe a adoração de qualquer outro deus além de Jeová. Isso é relevante para o capítulo de Números 25 porque os israelitas começaram a adorar os deuses dos moabitas, o que trouxe a ira de Deus sobre eles.
+* 1 Coríntios 6:18: "Fugi da prostituição. Qualquer outro pecado que uma pessoa cometer é fora do corpo; mas aquele que se prostitui peca contra o seu próprio corpo." Este versículo enfatiza a importância da pureza sexual e da fidelidade a Deus. Os israelitas se prostituíram com as mulheres moabitas, o que trouxe a ira de Deus sobre eles.
+* Hebreus 13:4: "Digno de honra entre todos seja o matrimônio e o leito sem mácula; porém aos que se dão à prostituição, e aos adúlteros, Deus os julgará." Este versículo enfatiza a importância da pureza sexual e da fidelidade conjugal. Os israelitas se prostituíram com as mulheres moabitas, violando esses princípios, o que trouxe a ira de Deus sobre eles.
+* 2 Coríntios 6:14: "Não vos ponhais em jugo desigual com os incrédulos; pois que sociedade pode haver entre a justiça e a iniquidade? Ou que comunhão, da luz com as trevas?" Este versículo enfatiza a importância da pureza doutrinária e da fidelidade a Deus. Os israelitas se envolveram com as práticas religiosas dos moabitas, o que os levou a adorar outros deuses, violando esses princípios, o que trouxe a ira de Deus sobre eles.
+* Efésios 5:11: "E não participais nas obras infrutíferas das trevas, mas antes as reprovai." Este versículo enfatiza a importância de separar-se do pecado e das práticas malignas. Os israelitas se envolveram com as práticas religiosas dos moabitas, o que os levou a adorar outros deuses, violando esses princípios, o que trouxe a ira de Deus sobre eles.
+****
+
+[[v4-25-1]]
+
+^<<v4-25-1,1>>^ Israel estava então em Setim, e o povo caiu em pecado com as filhas de Moab,
+
+[[v4-25-2]]
+
+^<<v4-25-2,2>>^ as quais os convidaram para os seus sacrifícios. Eles comeram e adoraram os deuses delas.
+
+[[v4-25-3]]
+
+^<<v4-25-3,3>>^ Israel consagrou-se a Beelfegor. Então, irado, o Senhor
+
+[[v4-25-4]]
+
+^<<v4-25-4,4>>^ disse a Moisés: Toma todos os príncipes do povo, e pendura-os em forcas em face do sol, para que o meu furor se afaste de Israel. (ver nota)
+
+[[v4-25-5]]
+
+^<<v4-25-5,5>>^ Moisés disse aos juízes de Israel: Cada um mate os seus vizinhos, que se consagraram a Beelfegor.
+
+[[v4-25-6]]
+
+^<<v4-25-6,6>>^ Entretanto um dos filhos de Israel trouxe para junto de seus irmãos uma Madianita, sob os olhos de Moisés e de todo o povo, que choravam diante da porta do tabernáculo.
+
+[[v4-25-7]]
+
+^<<v4-25-7,7>>^ Vendo isto, Fineias, filho de Eleázaro, filho do sacerdote Aarão, levantou-se do meio do povo e, tomando uma lança,
+
+[[v4-25-8]]
+
+^<<v4-25-8,8>>^ entrou após o Israelita até à parte posterior da tenda e atravessou o ventre de ambos, do homem e da mulher. Então cessou a praga sobre os filhos de Israel.
+
+[[v4-25-9]]
+
+^<<v4-25-9,9>>^ Foram mortos vinte e quatro mil homens com aquela praga.
+
+[[v4-25-10]]
+
+^<<v4-25-10,10>>^ O Senhor disse a Moisés:
+
+[[v4-25-11]]
+
+^<<v4-25-11,11>>^ Fineias, filho de Eleázaro, filho do sacerdote Aarão, afagou a minha ira dos filhos de Israel, porque foi animado do meu zelo contra eles; por isso, eu não extingui os filhos de Israel no furor do meu zelo.
+
+[[v4-25-12]]
+
+^<<v4-25-12,12>>^ Por isso dize-lhe: Eu lhe dou a paz da minha aliança,
+
+[[v4-25-13]]
+
+^<<v4-25-13,13>>^ que será tanto para ele como para sua descendência um pacto de perpétuo sacerdócio, porque foi zeloso pelo seu Deus e expiou a maldade dos filhos de Israel.
+
+[[v4-25-14]]
+
+^<<v4-25-14,14>>^ O Israelita, que foi morto com a Madianita, chamava-se Zambri, filho de Salu, chefe de uma família da tribo de Simeão.
+
+[[v4-25-15]]
+
+^<<v4-25-15,15>>^ A mulher Madianita, que foi morta juntamente, chamava-se Cozbi, filha de Sur, chefe de tribo, de uma das casas patriarcais dos Madianitas.
+
+[[v4-25-16]]
+
+^<<v4-25-16,16>>^ O Senhor falou a Moisés, dizendo:
+
+[[v4-25-17]]
+
+^<<v4-25-17,17>>^ Tratai os Madianitas como inimigos e matai-os,
+
+[[v4-25-18]]
+
+^<<v4-25-18,18>>^ porque também eles vos trataram como inimigos, e vos enganaram artificiosamente por meio do ídolo de Fogor, e de Cozbi, sua irmã, filha dum chefe de Madian, que foi morta no dia da praga que sobreveio por causa do sacrilégio de Fogor.
+
+'''
+
+xref:004-numeros/004-numeros-024.adoc#v4-24-0[&#60; Capítulo Anterior] | <<v4-25-0,Topo>> | xref:004-numeros/004-numeros-026.adoc#v4-26-0[Próximo Capítulo &#62;]

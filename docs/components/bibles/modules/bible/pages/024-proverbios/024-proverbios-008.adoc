@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v24-8-0]]
+=== Provérbios, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 de Provérbios é um poema que celebra a sabedoria como um atributo divino que existia desde o princípio da criação. Ele retrata a sabedoria como um guia confiável e valioso para aqueles que a buscam, oferecendo discernimento, conhecimento e prudência. Os versículos a seguir foram escolhidos por sua relevância aos temas tratados neste capítulo:
+* Colossenses 2:3: "Nele estão escondidos todos os tesouros da sabedoria e do conhecimento." Este versículo destaca a importância de buscar a sabedoria em Deus e encontrar nela um tesouro precioso e inestimável.
+* Provérbios 1:7: "O temor do Senhor é o princípio do conhecimento, mas os insensatos desprezam a sabedoria e a disciplina." Este versículo enfatiza que a sabedoria começa com um temor reverente a Deus e que aqueles que ignoram a sabedoria estão se arriscando a seguir um caminho de insensatez e tolice.
+* 1 Coríntios 1:30: "É por iniciativa dele que vocês estão em Cristo Jesus, que se tornou sabedoria da parte de Deus para nós, justiça, santificação e redenção." Este versículo destaca que Jesus Cristo é a personificação da sabedoria divina e que aqueles que o seguem estão recebendo a sabedoria de Deus para suas próprias vidas.
+* Provérbios 3:13-14: "Como é feliz o homem que encontra a sabedoria, o homem que obtém entendimento, pois a sabedoria é mais proveitosa do que a prata e rende mais do que o ouro." Este versículo reforça a mensagem central de Provérbios 8, enfatizando que a sabedoria é um tesouro valioso que supera em muito as riquezas materiais.
+* Tiago 1:5: "Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente, de boa vontade; e lhe será concedida." Este versículo destaca a disponibilidade da sabedoria divina para todos aqueles que a buscam com um coração sincero e humilde, prometendo que Deus generosamente a concederá àqueles que a pedem.
+****
+
+[[v24-8-1]]
+
+^<<v24-8-1,1>>^ Porventura a sabedoria não está repetidas vezes clamando, e a prudência não faz ouvir a sua voz?
+
+[[v24-8-2]]
+
+^<<v24-8-2,2>>^ No mais alto e elevado das eminências, ao longo do caminho, nas encruzilhadas ela está de pé,.
+
+[[v24-8-3]]
+
+^<<v24-8-3,3>>^ junto às portas da cidade, na mesma entrada ela fala, dizendo:
+
+[[v24-8-4]]
+
+^<<v24-8-4,4>>^ A vós, ó homens, é que eu estou continuamente clamando, e aos filhos dos homens é que se dirige a minha voz.
+
+[[v24-8-5]]
+
+^<<v24-8-5,5>>^ Aprendei, ó inexperientes, a prudência, e vós, insensatos, tomai inteligência.
+
+[[v24-8-6]]
+
+^<<v24-8-6,6>>^ Ouvi, porque tenho de vos falar acerca de grandes coisas, e os meus lábios se abrirão, para anunciarem o que é recto.
+
+[[v24-8-7]]
+
+^<<v24-8-7,7>>^ A minha boca publicará a verdade, e os meus lábios detestarão o ímpio.
+
+[[v24-8-8]]
+
+^<<v24-8-8,8>>^ Todas as minhas palavras são justas, nelas não há coisa tortuosa nem perversa.
+
+[[v24-8-9]]
+
+^<<v24-8-9,9>>^ Todas são rectas para os inteligentes, e de equidade para os que encontraram a ciência.
+
+[[v24-8-10]]
+
+^<<v24-8-10,10>>^ Recebei as minhas instruções com maior gosto do que dinheiro, preferi a ciência ao oiro fino.
+
+[[v24-8-11]]
+
+^<<v24-8-11,11>>^ Vale mais a sabedoria que as pérolas, e tudo quanto é apetecível não se pode comparar com ela.
+
+[[v24-8-12]]
+
+^<<v24-8-12,12>>^ Eu, a sabedoria, tenho comigo o (bom) conselho, possuo a ciência e a reflexão.
+
+[[v24-8-13]]
+
+^<<v24-8-13,13>>^ O temor do Senhor odeia o mal. Eu detesto a arrogância e a soberba, o caminho corrompido e a língua perversa.
+
+[[v24-8-14]]
+
+^<<v24-8-14,14>>^ Meu é o conselho e a equidade, minha é a inteligência, minha a fortaleza.
+
+[[v24-8-15]]
+
+^<<v24-8-15,15>>^ Por mim reinam os reis, e por mim decretam os legisladores o que é justo.
+
+[[v24-8-16]]
+
+^<<v24-8-16,16>>^ Por mim imperam os príncipes, e os soberanos governam com rectidão.
+
+[[v24-8-17]]
+
+^<<v24-8-17,17>>^ Eu amo os que me amam, e o que me busca encontrar-me-á.
+
+[[v24-8-18]]
+
+^<<v24-8-18,18>>^ Comigo estarão as riquezas e a gloria, a sólida opulência e a justiça.
+
+[[v24-8-19]]
+
+^<<v24-8-19,19>>^ Melhor é o meu fruto que o oiro mais fino,, as minhas produções melhores que a prata mais pura.
+
+[[v24-8-20]]
+
+^<<v24-8-20,20>>^ Eu ando nos caminhos da justiça, no meio das veredas da equidade,
+
+[[v24-8-21]]
+
+^<<v24-8-21,21>>^ para enriquecer os que me amam, para encher os seus tesouros.
+
+[[v24-8-22]]
+
+^<<v24-8-22,22>>^ O Senhor me possuiu no principio de seus caminhos, desde o princípio, antes que criasse coisa alguma. (ver nota)
+
+[[v24-8-23]]
+
+^<<v24-8-23,23>>^ Desde a eternidade fui constituída, desde o princípio, antes que a terra fosse criada.
+
+[[v24-8-24]]
+
+^<<v24-8-24,24>>^ Ainda não havia os abismos, e eu estava já concebida, ainda as fontes das águas não tinham brotado,
+
+[[v24-8-25]]
+
+^<<v24-8-25,25>>^ ainda se não tinham assentado os montes sobre as suas bases; antes de haver outeiros, eu tinha já nascido.
+
+[[v24-8-26]]
+
+^<<v24-8-26,26>>^ Ainda ele não tinha criado a terra, nem os campos, nem o primeiro pó da terra,
+
+[[v24-8-27]]
+
+^<<v24-8-27,27>>^ Quando ele preparava os céus, eu estava presente; quando, por uma lei inviolável, encerrava os abismos dentro dos seus limites;
+
+[[v24-8-28]]
+
+^<<v24-8-28,28>>^ quando firmava lá no alto a região etérea, e quando equilibrava as fontes das águas;
+
+[[v24-8-29]]
+
+^<<v24-8-29,29>>^ quando circunscrevia ao mar o seu termo, e punha lei às águas, para que não passassem os seus limites; quando assentava os fundamentos da terra,
+
+[[v24-8-30]]
+
+^<<v24-8-30,30>>^ eu estava com ele, como arquitecto; cada dia me deleitava, recreando-me continuamente diante dele,
+
+[[v24-8-31]]
+
+^<<v24-8-31,31>>^ recreando-me sobre o globo da terra, e achando as minhas delícias em estar com os filhos dos homens.
+
+[[v24-8-32]]
+
+^<<v24-8-32,32>>^ Agora, pois, meus filhos, ouvi-me: Bem-aventurados os que seguem os meus caminhos.
+
+[[v24-8-33]]
+
+^<<v24-8-33,33>>^ Ouvi as minhas instruções, e sede sábios, não queirais rejeitá-las.
+
+[[v24-8-34]]
+
+^<<v24-8-34,34>>^ Bem-aventurado o homem que me ouve, e que vela todos os dias à entrada da minha casa, e que se conserva à porta da minha casa.
+
+[[v24-8-35]]
+
+^<<v24-8-35,35>>^ Aquele que me achar, achará a vida, e alcançará o favor do Senhor.
+
+[[v24-8-36]]
+
+^<<v24-8-36,36>>^ Aquele, porém, que pecar contra mim, fará mal à sua alma. Todos os que me odeiam amam a morte.
+
+'''
+
+xref:024-proverbios/024-proverbios-007.adoc#v24-7-0[&#60; Capítulo Anterior] | <<v24-8-0,Topo>> | xref:024-proverbios/024-proverbios-009.adoc#v24-9-0[Próximo Capítulo &#62;]

@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v21-58-0]]
+=== Salmos, 58
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Salmo 58 é uma oração ao Senhor pedindo justiça e punição para os injustos e ímpios. O salmista expressa sua indignação diante das más ações dos ímpios e clama a Deus para que intervenha e traga justiça. Abaixo estão cinco versículos relacionados com os temas abordados neste salmo:
+* Provérbios 11:18: "O ímpio recebe um salário enganador, mas quem semeia justiça colhe verdadeira recompensa." Este versículo fala sobre a diferença entre a recompensa do ímpio e do justo. O salmista de Salmo 58 pede por justiça, enquanto este provérbio afirma que a recompensa do ímpio é enganadora.
+* Isaías 26:10: "Ainda que o ímpio seja favorecido, ele não aprenderá a justiça; mesmo em terra de retidão ele continuará agindo perversamente e não verá a majestade do Senhor." Este versículo destaca a tendência do ímpio de não aprender com suas más ações. O salmista de Salmo 58 clama por punição para os ímpios que não mudam seu comportamento.
+* Jeremias 12:1: "Tu és justo, Senhor, mas ainda que eu apresente minha causa diante de ti, devo discutir contigo sobre a justiça. Por que o caminho dos ímpios prospera? Por que todos os traidores vivem em paz?" Este versículo expressa a dificuldade de entender por que os ímpios parecem prosperar e viver em paz, apesar de suas más ações. O salmista de Salmo 58 também questiona a aparente falta de justiça.
+* Romanos 12:19: "Amados, nunca procurem vingança, mas deixem com Deus a ira, pois está escrito: 'Minha é a vingança; eu retribuirei', diz o Senhor." Este versículo fala sobre a importância de deixar a justiça nas mãos de Deus, em vez de buscar vingança por conta própria. O salmista de Salmo 58 clama por justiça divina em vez de tomar a justiça em suas próprias mãos.
+* Apocalipse 22:11: "Quem é injusto, seja injusto ainda; quem é imundo, seja imundo ainda; quem é justo, seja justo ainda; e quem é santo, seja santo ainda." Este versículo fala sobre a importância de escolher um caminho justo e santo, em vez de seguir o caminho da injustiça e impureza. O salmista de Salmo 58 clama por justiça e punição para os ímpios que escolhem o caminho errado.
+****
+
+[[v21-58-1]]
+
+^<<v21-58-1,1>>^ Ao mestre do coro. Segundo a melodia de "Não destruas..." De Davide. Micktãm. Quando Saul mandou vigiar a sua casa para o matar.
+
+[[v21-58-2]]
+
+^<<v21-58-2,2>>^ Livra-me, meu Deus, dos meus inimigos, defende-me dos que se levantam contra mim.
+
+[[v21-58-3]]
+
+^<<v21-58-3,3>>^ Livra-me dos que praticam a iniquidade, e salva-me dos homens sanguinários.
+
+[[v21-58-4]]
+
+^<<v21-58-4,4>>^ Eis, com efeito, que armam ciladas à minha vida, conspiram contra mim os poderosos. Não há crime em mim nem pecado, ó Senhor:
+
+[[v21-58-5]]
+
+^<<v21-58-5,5>>^ sem que eu tenha culpa, irrompem e agridem-me. Desperta, vem ao meu encontro e considera (a minha inocência),
+
+[[v21-58-6]]
+
+^<<v21-58-6,6>>^ pois tu, Senhor dos exércitos, és o Deus de Israel. Desperta, castiga todos esses povos, não tenhas piedade de nenhum desses pérfidos.
+
+[[v21-58-7]]
+
+^<<v21-58-7,7>>^ Voltam à tarde, ladram com o cães e percorrem a cidade;
+
+[[v21-58-8]]
+
+^<<v21-58-8,8>>^ Eis que se vangloriam com a sua boca, há injúrias nos seus lábios: "Pois quem é que nos ouve?"
+
+[[v21-58-9]]
+
+^<<v21-58-9,9>>^ Mas tu, Senhor, estás a rir-te deles, zombas de todas essas gentes.
+
+[[v21-58-10]]
+
+^<<v21-58-10,10>>^ Força minha, para ti me volto, porque tu, ó Deus, és a minha cidadela
+
+[[v21-58-11]]
+
+^<<v21-58-11,11>>^ Deus meu, misericórdia minha. Venha Deus em meu auxílio, faça que eu me deleite com a derrota dos meus inimigos.
+
+[[v21-58-12]]
+
+^<<v21-58-12,12>>^ Mata-os, ó Deus; para que não sirvam de tropeço ao meu povo, desbarata-os e derriba-os com a tua força, ó Senhor nosso escudo.
+
+[[v21-58-13]]
+
+^<<v21-58-13,13>>^ Um pecado da sua boca, é cada palavra dos seus lábios; e fiquem presos na sua mesma soberba, e nas execrações e mentiras que dizem.
+
+[[v21-58-14]]
+
+^<<v21-58-14,14>>^ Extermina-os na tua indignação, extermina-os, para que não mais existam, a fim de que se saiba que Deus reina sobre Jacob e até aos confins da terra.
+
+[[v21-58-15]]
+
+^<<v21-58-15,15>>^ Voltam à tarde; ladram com o cães e percorrem a cidade;
+
+[[v21-58-16]]
+
+^<<v21-58-16,16>>^ Vagueiam à busca de comer; se não se fartarem, soltam uivos.
+
+[[v21-58-17]]
+
+^<<v21-58-17,17>>^ Eu, porém, contarei a tua fortaleza, e de manhã exultarei em tua misericórdia, porque foste um amparo para mim, e um refúgio no dia da minha angústia.
+
+[[v21-58-18]]
+
+^<<v21-58-18,18>>^ Eu te cantarei salmos, força minha, porque tu, ó Deus, és a minha defesa, o meu Deus, a minha misericórdia.
+
+'''
+
+xref:021-salmos/021-salmos-057.adoc#v21-57-0[&#60; Capítulo Anterior] | <<v21-58-0,Topo>> | xref:021-salmos/021-salmos-059.adoc#v21-59-0[Próximo Capítulo &#62;]

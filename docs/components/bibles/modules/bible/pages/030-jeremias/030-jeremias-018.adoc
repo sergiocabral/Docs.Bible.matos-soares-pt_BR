@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v30-18-0]]
+=== Jeremias, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 18 de Jeremias apresenta a metáfora do oleiro e do barro, na qual Deus é o oleiro e o povo é o barro. Deus está mostrando a Jeremias como ele pode moldar e transformar o povo de acordo com a sua vontade, mas também como ele pode destruí-los se eles se rebelarem contra ele. A seguir estão cinco versículos relacionados com os temas abordados em Jeremias 18:
+* Romanos 9:21: "Ou não tem o oleiro direito sobre a massa, para do mesmo barro fazer um vaso para honra e outro, para desonra?" Este versículo fala sobre a soberania de Deus sobre as pessoas e como ele pode moldá-las de acordo com a sua vontade.
+* Isaías 64:8: "Mas agora, SENHOR, tu és nosso Pai; nós somos o barro, e tu, o nosso oleiro; e todos nós, obra das tuas mãos." Este versículo também usa a metáfora do oleiro e do barro para mostrar a relação entre Deus e o seu povo.
+* 2 Timóteo 2:20-21: "Ora, numa grande casa, não há somente utensílios de ouro e de prata, mas também de madeira e de barro; uns, para honra; outros, porém, para desonra. Assim, pois, se alguém a si mesmo se purificar destes erros, será utensílio para honra, santificado e útil ao seu possuidor, estando preparado para toda boa obra." Este versículo fala sobre como Deus pode usar pessoas que se purificam para fazer a sua obra, assim como um oleiro pode moldar o barro para usos diferentes.
+* Isaías 29:16: "Que pensais vós? Acaso, pode o oleiro ser considerado como o barro que molda? Porventura, pode a obra dizer do seu artífice: Não me fez? Ou pode o vaso dizer do oleiro: Nada sabe?" Este versículo questiona a ideia de que as pessoas podem se rebelar contra Deus e questionar a sua autoridade como um oleiro que molda o barro.
+* Salmos 2:9: "Com uma vara de ferro os despedaçarás como a um vaso de oleiro." Este versículo fala sobre como Deus pode destruir aqueles que se rebelam contra ele, assim como um vaso de barro pode ser despedaçado.
+****
+
+[[v30-18-1]]
+
+^<<v30-18-1,1>>^ Palavra que foi dirigida pelo Senhor a Jeremias, assim:
+
+[[v30-18-2]]
+
+^<<v30-18-2,2>>^ Levanta-te, vai a casa do oleiro, e lá ouvirás as minhas palavras.
+
+[[v30-18-3]]
+
+^<<v30-18-3,3>>^ Fui a casa do oleiro, que estava trabalhando sobre a roda.
+
+[[v30-18-4]]
+
+^<<v30-18-4,4>>^ Quando ficava estragada a vasilha que fazia, retomava o barro com as mãos, e, tornando de novo, fazia outra, como bem lhe parecia.
+
+[[v30-18-5]]
+
+^<<v30-18-5,5>>^ Então foi-me dirigida a palavra do Senhor nos termos seguintes:
+
+[[v30-18-6]]
+
+^<<v30-18-6,6>>^ Porventura não poderei eu fazer de vós, casa de Israel, como este oleiro? diz o Senhor. Vede que, como o barro está na mão do oleiro, assim vós estais na minha mão, casa de Israel.
+
+[[v30-18-7]]
+
+^<<v30-18-7,7>>^ Num momento, decido desarraigar, destruir, fazer perecer um povo ou um reino.
+
+[[v30-18-8]]
+
+^<<v30-18-8,8>>^ (Porém) se tal povo se arrepende do seu mal, pelo qual eu o tenha condenado, também eu me arrependo do mal, que pensava fazer contra ele.
+
+[[v30-18-9]]
+
+^<<v30-18-9,9>>^ Noutro momento, decido estabelecer e plantar um reino ou um povo.
+
+[[v30-18-10]]
+
+^<<v30-18-10,10>>^ Porém se esse povo fizer o mal ante os meus olhos, de maneira que não ouça a minha voz, arrependo-me também eu do bem, que disse lhe faria.
+
+[[v30-18-11]]
+
+^<<v30-18-11,11>>^ Agora, pois, fala aos homens de Judá e aos moradores de Jerusalém, assim: Isto diz o Senhor: Estou preparando a desgraça contra vós, formando projetos contra vós, volte cada um de vós, portanto, do seu mau caminho, corrigi os vossos caminhos e as vossas obras.
+
+[[v30-18-12]]
+
+^<<v30-18-12,12>>^ Mas eles dirão: Inútil! Seguiremos os nossos pensamentos, cada um de nós procederá segundo a dureza do seu mau coração.
+
+[[v30-18-13]]
+
+^<<v30-18-13,13>>^ Portanto isto diz o Senhor: Perguntai às (outras) nações: Quem ouviu coisa semelhante? Horrível é o crime que cometeu a virgem de Israel.
+
+[[v30-18-14]]
+
+^<<v30-18-14,14>>^ Porventura pode faltar nos altos penhascos a neve do Líbano? Ou extinguem-se as frias águas correntes que vêm de longe? (ver nota)
+
+[[v30-18-15]]
+
+^<<v30-18-15,15>>^ Ora o meu povo esqueceu-se de mim, oferecendo incenso a ídolos vãos, tropeçando nos seus caminhos, nas veredas de outrora, para andarem por elas em caminho não trilhado (pelos meus servos fiéis),
+
+[[v30-18-16]]
+
+^<<v30-18-16,16>>^ reduzindo assim a sua terra à desolação e a ser sempre um objecto de escárnio; todo o que passar por ela ficará espantado e abanará a sua cabeça (escarnecendo).
+
+[[v30-18-17]]
+
+^<<v30-18-17,17>>^ Eu os espalharei diante do seu inimigo, como o vento do oriente; voltar-lhes-ei as costas, e não a face, no dia da sua ruína.
+
+[[v30-18-18]]
+
+^<<v30-18-18,18>>^ Disseram: Vinde e formemos projetos contra Jeremias, porque (apesar do que Jeremias prediz) não perecerá a doutrina por falta de sacerdote, nem o conselho por falta de sábio, nem a palavra (do Senhor) por falta de profeta; vinde, firamo-lo com a língua (caluniando-o), e não atendamos a nenhuma das suas palavras.
+
+[[v30-18-19]]
+
+^<<v30-18-19,19>>^ Põe, Senhor, em mim a tua atenção, ouve a voz dos meus adversários.
+
+[[v30-18-20]]
+
+^<<v30-18-20,20>>^ Acaso assim se torna mal por bem? Pois eles (que tanto me devem) abrem uma cova para me tirarem a vida. Lembra-te de que me apresentei na tua presença para falar insistentemente em favor deles, para apartar deles a tua indignação.
+
+[[v30-18-21]]
+
+^<<v30-18-21,21>>^ Por isso entrega os seus filhos à fome e fá-los passar pelo fio da espada; as suas mulheres fiquem sem filhos e viúvas; os maridos delas sejam mortos pela peste; os seus jovens sejam atravessados com a espada no combate.
+
+[[v30-18-22]]
+
+^<<v30-18-22,22>>^ Seja ouvido o clamor vindo das suas casas, quando lançares de repente sobre eles bandos de salteadores, porque abriram uma cova para me prenderem, armaram laços ocultos aos meus pés.
+
+[[v30-18-23]]
+
+^<<v30-18-23,23>>^ Mas tu, Senhor, conheces todos os seus desígnios de morte contra mim; não lhes perdoes a sua maldade, e o seu pecado não se apague de diante da tua face; caiam de repente na tua presença; procede contra eles no tempo da tua ira.
+
+'''
+
+xref:030-jeremias/030-jeremias-017.adoc#v30-17-0[&#60; Capítulo Anterior] | <<v30-18-0,Topo>> | xref:030-jeremias/030-jeremias-019.adoc#v30-19-0[Próximo Capítulo &#62;]

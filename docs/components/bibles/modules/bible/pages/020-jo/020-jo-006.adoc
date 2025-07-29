@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v20-6-0]]
+=== Jó, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 6 de Jó, o personagem continua a expressar sua angústia e tristeza diante de suas circunstâncias difíceis. Ele lamenta sua situação e sua dor, mas também questiona a ajuda que recebe dos amigos e a justiça de Deus. Abaixo estão cinco versículos relacionados aos temas abordados em Jó 6:
+* Salmos 38:6: "Estou encurvado, estou muito abatido, ando lamentando o dia todo." Este versículo descreve o sentimento de angústia e desespero que Jó sente diante de suas tribulações. Ele se sente encurvado sob o peso de sua dor e lamenta constantemente.
+* Salmos 42:5: "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei pela salvação que há na sua presença." Este versículo fala sobre a importância de confiar em Deus, mesmo em meio a circunstâncias difíceis. Ele encoraja a esperar em Deus e a louvá-lo pela salvação que ele oferece.
+* Salmos 69:29: "Eu, porém, estou aflito e dolorido; que o teu socorro, ó Deus, me levante." Este versículo é uma oração por socorro e ajuda em meio à aflição. É um pedido de ajuda a Deus em momentos de grande sofrimento, assim como Jó faz no capítulo 6.
+* Isaías 53:3: "Era desprezado e o mais rejeitado entre os homens; homem de dores e que sabe o que é padecer; e como um de quem os homens escondem o rosto, era desprezado, e dele não fizemos caso." Este versículo fala sobre Jesus, que também experimentou a dor e a rejeição. Ele é um exemplo de alguém que sofreu injustamente e que compreende a dor que Jó está enfrentando.
+* Romanos 8:18: "Porque para mim tenho por certo que as aflições deste tempo presente não são para comparar com a glória que em nós há de ser revelada." Este versículo encoraja a olhar para além das aflições presentes e a ter esperança na glória futura que Deus promete. É uma mensagem de encorajamento para Jó e para todos os que enfrentam dificuldades em suas vidas.
+****
+
+[[v20-6-1]]
+
+^<<v20-6-1,1>>^ Job, porém, respondendo, disse:
+
+[[v20-6-2]]
+
+^<<v20-6-2,2>>^ Oh! Se os meus queixumes se pudessem pesar, se a calamidade que padeço se pesasse com eles numa balança,
+
+[[v20-6-3]]
+
+^<<v20-6-3,3>>^ esta apareceria mais pesada que a areia do mar: por isso as minhas palavras são desvairadas.
+
+[[v20-6-4]]
+
+^<<v20-6-4,4>>^ As setas do Senhor estão cravadas em mim, e o veneno delas devora o meu espirito; os terrores do Senhor combatem contra mim.
+
+[[v20-6-5]]
+
+^<<v20-6-5,5>>^ Porventura orneja o asno montez, quando tem erva? ou muge o boi, quando tem diante a manjedoura bem cheia?
+
+[[v20-6-6]]
+
+^<<v20-6-6,6>>^ ou pode comer-se uma coisa insípida, não temperada de sal? ou pode alguém gostar daquilo que mata quem o come?
+
+[[v20-6-7]]
+
+^<<v20-6-7,7>>^ As coisas, que antes a minha alma não queria tocar, agora pela aflição são o meu sustento.
+
+[[v20-6-8]]
+
+^<<v20-6-8,8>>^ Quem dera que se cumprisse a minha petição, e que Deus me concedesse o que espero!
+
+[[v20-6-9]]
+
+^<<v20-6-9,9>>^ E que o que começou (a ferir-me), esse mesmo me fizesse em pó, que estendesse a mão, e me cortasse a vida!
+
+[[v20-6-10]]
+
+^<<v20-6-10,10>>^ Teria ao menos uma consolação, exultaria no meio dos tormentos: não ter transgredido os mandamentos do Santo.
+
+[[v20-6-11]]
+
+^<<v20-6-11,11>>^ Pois, que fortaleza é a minha para poder sofrer? ou qual o meu fim para me portar com paciência? (ver nota)
+
+[[v20-6-12]]
+
+^<<v20-6-12,12>>^ A minha fortaleza não é como a das pedras, nem a minha carne é de bronze.
+
+[[v20-6-13]]
+
+^<<v20-6-13,13>>^ Bem vedes que eu não encontro socorro em mim, e que até os meus mais íntimos me abandonaram.
+
+[[v20-6-14]]
+
+^<<v20-6-14,14>>^ Aquele que não tem compaixão do seu amigo, abandona o temor do Senhor.
+
+[[v20-6-15]]
+
+^<<v20-6-15,15>>^ Meus irmãos enganaram-me como a torrente, que ràpidamente se escoa.
+
+[[v20-6-16]]
+
+^<<v20-6-16,16>>^ (As águas) que antes se perturbavam com os gelos, e sobre que se acumulava a neve,
+
+[[v20-6-17]]
+
+^<<v20-6-17,17>>^ Começam a dissipar-se, logo que vier calor, desaparecem do seu lugar.
+
+[[v20-6-18]]
+
+^<<v20-6-18,18>>^ Por diversas veredas se perdem, evaporam-se e extinguem-se.
+
+[[v20-6-19]]
+
+^<<v20-6-19,19>>^ Coutavam com elas as caravanas de Tema, esperavam nelas os caminhos de Saba.
+
+[[v20-6-20]]
+
+^<<v20-6-20,20>>^ Frustraram-se as suas esperanças, quando chegaram às suas margens, ficaram confundidos.
+
+[[v20-6-21]]
+
+^<<v20-6-21,21>>^ (Tais sois vós que) vieste agora: à vista dos meus males, tendes medo (e fugis de mim).
+
+[[v20-6-22]]
+
+^<<v20-6-22,22>>^ Porventura disse-vos eu: Socorrei-me, dai-me dos vossos bens,
+
+[[v20-6-23]]
+
+^<<v20-6-23,23>>^ livrai-me da mão do inimigo e tirai-me do poder dos poderosos?
+
+[[v20-6-24]]
+
+^<<v20-6-24,24>>^ Ensinai-me, e eu me calarei, fazei-me ver em que caí.
+
+[[v20-6-25]]
+
+^<<v20-6-25,25>>^ Por que contradissestes vós as palavras de verdade (que eu disse)? Mas, de que me podeis censurar?
+
+[[v20-6-26]]
+
+^<<v20-6-26,26>>^ Quereis censurar palavras (minhas)? Mas, as palavras desesperadas, leva-as o vento.
+
+[[v20-6-27]]
+
+^<<v20-6-27,27>>^ Arremeteis contra um órfão, e esforçais-vos por fazer tropeçar o vosso amigo.
+
+[[v20-6-28]]
+
+^<<v20-6-28,28>>^ Peço-vos que vos volteis de novo para mim, e vede se eu minto diante de vós.
+
+[[v20-6-29]]
+
+^<<v20-6-29,29>>^ Respondei, vos peço, sem contenda, e, dizendo o que é justo, julgai.
+
+[[v20-6-30]]
+
+^<<v20-6-30,30>>^ Não encontrareis iniquidade na minha língua, nem na minha boca soará estultícia alguma.
+
+'''
+
+xref:020-jo/020-jo-005.adoc#v20-5-0[&#60; Capítulo Anterior] | <<v20-6-0,Topo>> | xref:020-jo/020-jo-007.adoc#v20-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v12-19-0]]
+=== II Reis, 19
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 19 de 2 Reis narra a história do rei Ezequias, que recebeu uma carta ameaçadora do rei da Assíria, Senaqueribe, ordenando que ele se rendesse ou enfrentasse a destruição. Ezequias buscou ajuda em Deus e recebeu a resposta do profeta Isaías, que assegurou que Deus protegeria Jerusalém. Deus cumpriu sua promessa, e um anjo do Senhor matou 185.000 soldados assírios durante a noite. Abaixo estão cinco versículos de outros livros da Bíblia que se relacionam com os temas abordados em 2 Reis 19:
+* Salmos 20:7-8: "Uns confiam em carros, outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus. Uns encurvam-se e caem, mas nós nos levantamos e estamos de pé." Este salmo destaca a importância de confiar em Deus em tempos de crise, em vez de depender de recursos humanos ou materiais.
+* Isaías 37:35: "Porque eu defenderei esta cidade, para a livrar, por amor de mim e por amor do meu servo Davi." Este versículo é parte da resposta de Deus ao rei Ezequias, assegurando que ele protegeria Jerusalém dos assírios por causa de sua fidelidade e do seu amor por Davi.
+* Salmos 91:11-12: "Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos. Eles te sustentarão nas suas mãos, para que não tropeces com o teu pé em pedra." Este salmo destaca a proteção de Deus sobre aqueles que o amam e confiam nele.
+* Isaías 54:17: "Nenhuma arma forjada contra ti prosperará; e toda a língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos do Senhor, e a sua justiça que de mim procede, diz o Senhor." Este versículo destaca a promessa de proteção de Deus para aqueles que o servem, e a garantia de que qualquer acusação injusta contra eles será refutada.
+* 2 Timóteo 4:18: "E o Senhor me livrará de toda a obra maligna, e me levará salvo para o seu reino celestial; a quem seja glória para todo o sempre. Amém." Este versículo destaca a confiança do apóstolo Paulo na proteção e livramento de Deus em meio às suas tribulações, uma confiança que também foi demonstrada pelo rei Ezequias em 2 Reis 19.
+****
+
+[[v12-19-1]]
+
+^<<v12-19-1,1>>^ O rei Ezequias, tendo ouvido isto, rasgou as suas vestes, cobriu-se de saco e entrou na casa do Senhor.
+
+[[v12-19-2]]
+
+^<<v12-19-2,2>>^ E mandou Eliacim, mordomo-mór da sua casa, Sobna, secretário, e os mais velhos dos sacerdotes, cobertos de sacos, ao profeta Isaías, filho de Amós,
+
+[[v12-19-3]]
+
+^<<v12-19-3,3>>^ os quais lhe disseram: Eis o que diz Ezequias: Este dia é um dia de tribulação, de castigo e de opróbrio; os filhos chegaram ao ponto de nascer, porém a que está de parto não tem forças (para os dar à luz).
+
+[[v12-19-4]]
+
+^<<v12-19-4,4>>^ O Senhor teu Deus talvez tenha ouvido as palavras do copeiro-mór, a quem enviou o rei dos Assírios, seu amo, para blasfemar do Deus vivo, para o insultar com palavras, e talvez o vá punir pelas palavras que ouviu: faze, pois, oração ao Senhor por este resto que ainda subsiste.
+
+[[v12-19-5]]
+
+^<<v12-19-5,5>>^ Foram, pois, os servos do rei Ezequias ter com Isaías.
+
+[[v12-19-6]]
+
+^<<v12-19-6,6>>^ Isaías disse-lhes: Direis ao vosso Senhor o seguinte: Não temas essas palavras que ouviste, com as quais os servos do rei dos Assírios blasfemaram contra mim.
+
+[[v12-19-7]]
+
+^<<v12-19-7,7>>^ Eu vou enviar-lhe um espírito, e ele ouvirá uma nova, voltará para a sua terra, e eu o farei perecer à espada na sua terra.
+
+[[v12-19-8]]
+
+^<<v12-19-8,8>>^ Voltou o copeiro-mór e encontrou o rei dos Assírios sitiando Lobna, porque tinha sabido que (o seu senhor) se havia retirado de Laquis.
+
+[[v12-19-9]]
+
+^<<v12-19-9,9>>^ (Senaquerib) ouviu dizer de Taraca, rei da Etiópia: Olha que ele saiu para pelejar contra ti. Então enviou novamente mensageiros a Ezequias, dizendo:
+
+[[v12-19-10]]
+
+^<<v12-19-10,10>>^ Direis a Ezequias, rei de Judá: Vê, não te seduza o teu Deus, no qual tens confiança, nem digas: Jerusalém não será entregue nas mãos do rei dos Assírios.
+
+[[v12-19-11]]
+
+^<<v12-19-11,11>>^ Tu mesmo tens ouvido o que os reis dos Assírios fizeram a todas as terras e como as devastaram; tu só, pois, te poderás salvar?
+
+[[v12-19-12]]
+
+^<<v12-19-12,12>>^ Porventura os deuses das gentes livraram os povos que meus pais devastaram, a saber: Gozan, Haran, Resef, e os filhos de Eden, que estavam em Telassar?
+
+[[v12-19-13]]
+
+^<<v12-19-13,13>>^ Que é feito do rei de Emat, do rei de Arfad, do rei da cidade de Sefarvaim, de Ana e de Ava?
+
+[[v12-19-14]]
+
+^<<v12-19-14,14>>^ Ezequias, tendo recebido a carta da mão dos mensageiros e tendo-a lido, foi para a casa do Senhor, estendeu-a diante do Senhor
+
+[[v12-19-15]]
+
+^<<v12-19-15,15>>^ e fez a sua oração diante dele, dizendo: Senhor Deus de Israel, que estás sentado sobre os querubins, só tu é que és o Deus de todos os reis da terra; tu fizeste o céu e a terra.
+
+[[v12-19-16]]
+
+^<<v12-19-16,16>>^ Inclina o teu ouvido e ouve; abre Senhor, os teus olhos e vê; ouve todas as palavras de Senaquerib, que mandou se blasfemasse diante de nós contra o Deus vivo.
+
+[[v12-19-17]]
+
+^<<v12-19-17,17>>^ É verdade, Senhor, que os reis dos Assírios destruíram as gentes e todas as suas terras,
+
+[[v12-19-18]]
+
+^<<v12-19-18,18>>^ e lançaram os seus deuses no fogo, porém eles não eram deuses, mas obras das mãos dos homens, de pau e de pedra, e, por isso, foram destruídos.
+
+[[v12-19-19]]
+
+^<<v12-19-19,19>>^ Salva-nos, agora Senhor nosso Deus, dos suas mãos, para que todos os reinos da terra saibam que só tu és o Senhor Deus.
+
+[[v12-19-20]]
+
+^<<v12-19-20,20>>^ Então Isaías, filho de Amós, mandou dizer a Ezequias: Eis o que diz o Senhor Deus de Israel: Eu ouvi a oração que tu me fizeste relativamente a Senaquerib, rei dos Assírios.
+
+[[v12-19-21]]
+
+^<<v12-19-21,21>>^ Eis o que o Senhor disse dele: Ela te desprezou e te escarneceu, a virgem, filha de Sião; ela sacudiu a sua cabeça por detrás de ti, a filha de Jerusalém.
+
+[[v12-19-22]]
+
+^<<v12-19-22,22>>^ A quem insultaste, contra quem blasfemaste? Contra quem levantaste a tua voz? A quem desafiaste com teus olhos? O Santo de Israel.
+
+[[v12-19-23]]
+
+^<<v12-19-23,23>>^ Por meio dos teus servos ultrajaste o Senhor, dizendo: Com a multidão dos meus carros (armados) subirei ao alto dos montes, ao cimo do Líbano; deitarei abaixo os seus altos cedros, os seus mais belos ciprestes. Penetrarei até aos mais remotos limites, até aos bosques mais espessos.
+
+[[v12-19-24]]
+
+^<<v12-19-24,24>>^ Cavei. E bebi águas estrangeiras, sequei com as plantas dos meus pés todos os rios do Egipto.
+
+[[v12-19-25]]
+
+^<<v12-19-25,25>>^ Tu não ouviste dizer o que eu fiz desde o princípio? Desde os dias antigos eu formei este projecto, e agora o executo; as cidades fortes dos combatentes são um montão de ruínas.
+
+[[v12-19-26]]
+
+^<<v12-19-26,26>>^ Os que nelas habitam, ficando sem forças, atemorizam-se e confundem-se, tornam-se como o feno dos campos, como a erva verde dos telhados, que se seca antes de amadurecer.
+
+[[v12-19-27]]
+
+^<<v12-19-27,27>>^ Eu previa tua habitação, a tua saída, a tua entrada e o teu caminho, conheço o teu furor contra mim.
+
+[[v12-19-28]]
+
+^<<v12-19-28,28>>^ Ficaste furioso contra mim, e a tua soberba subiu até aos meus ouvidos. Eu te porei pois o meu anel nos teus narizes, o meu freio nos teus lábios, e te farei voltar pelo caminho por onde vieste.
+
+[[v12-19-29]]
+
+^<<v12-19-29,29>>^ Tu, porém, ó Ezequias, terás este sinal: Come neste ano o que encontrares, e no segundo ano o que nascer por si mesmo: mas no terceiro semeai e recolhei, plantai vinhas e comei os frutos delas.
+
+[[v12-19-30]]
+
+^<<v12-19-30,30>>^ O que ficar da casa de Judá, lançará raízes para baixo, e produzirá o seu fruto para cima.
+
+[[v12-19-31]]
+
+^<<v12-19-31,31>>^ De Jerusalém sairão uns restos (de povo), e do monte de Sião sobreviventes. O zelo do Senhor dos exércitos fará isto.
+
+[[v12-19-32]]
+
+^<<v12-19-32,32>>^ Portanto, eis o que, do rei dos Assírios, diz o Senhor: Ele não entrará nesta cidade, nem despedirá nenhuma seta contra ela; não a cingirá de escudos, nem a cercará de trincheiras.
+
+[[v12-19-33]]
+
+^<<v12-19-33,33>>^ Ele voltará pelo caminho por onde veio, e não entrará nesta cidade, diz o Senhor.
+
+[[v12-19-34]]
+
+^<<v12-19-34,34>>^ Eu protegerei esta cidade e a salvarei por amor de mim e por amor do meu servo Davide.
+
+[[v12-19-35]]
+
+^<<v12-19-35,35>>^ Naquela mesma noite, veio o anjo do Senhor e matou no campo dos Assírios cento e oitenta e cinco mil homens. Senaquerib, tendo-se levantado ao amanhecer, viu todos os corpos dos mortos, e, retirando-se, foi-se.
+
+[[v12-19-36]]
+
+^<<v12-19-36,36>>^ Senaquerib, rei dos Assírios, retirou-se e ficou em Ninive.
+
+[[v12-19-37]]
+
+^<<v12-19-37,37>>^ Enquanto, certo dia, adorava no templo o seu deus Nesroque, Adrameleque e Serasar, seus filhos, mataram-no com a espada e fugiram para a terra dos Arméaios. Seu filho Assaradão reinou em lugar dele.
+
+'''
+
+xref:012-ii-reis/012-ii-reis-018.adoc#v12-18-0[&#60; Capítulo Anterior] | <<v12-19-0,Topo>> | xref:012-ii-reis/012-ii-reis-020.adoc#v12-20-0[Próximo Capítulo &#62;]

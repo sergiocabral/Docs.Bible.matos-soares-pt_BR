@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v41-2-0]]
+=== Naum, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 2 do livro de Naum, é descrita a queda de Nínive, a capital do Império Assírio, através de uma linguagem figurativa e descritiva. O capítulo descreve a aproximação do exército invasor, a destruição das muralhas da cidade, a fuga dos habitantes e o saque do tesouro da cidade. Abaixo seguem cinco versículos relacionados com os temas abordados em Naum 2:
+* Isaías 13:17: "Eis que despertarei contra eles os medos, que não se importam com a prata, nem desejam o ouro." O profeta Isaías, em sua mensagem de julgamento contra a Babilônia, anuncia que Deus usará os medos para destruí-la, mesmo que não estejam interessados no saque da cidade.
+* Jeremias 50:15: "Gritai contra ela ao redor; ela já se rendeu; caíram as suas torres, as suas muralhas estão derrubadas, pois esta é a vingança do Senhor; vingai-vos dela; como ela fez, fazei-lhe a ela." O profeta Jeremias também anuncia a queda da Babilônia e a destruição de suas muralhas e torres, assim como descrito em Naum 2.
+* Ezequiel 21:22: "Na sua mão está a varinha do meu Filho, e ele cortará deles; e a cada árvore escoherá, e a cada um escolherá para si mesmo um ramo verde." Neste verso, o profeta Ezequiel fala da espada de Deus que punirá os habitantes de Jerusalém e também pode ser relacionado com a descrição da destruição em Naum 2.
+* Salmos 46:6: "As nações se agitaram, os reinos se moveram; ele levantou a sua voz, e a terra se derreteu." Este salmo descreve a proteção de Deus para com o seu povo e a sua intervenção na história, trazendo juízo às nações rebeldes, o que se assemelha com a mensagem de Naum 2.
+* Zacarias 14:14: "E Judá também pelejará em Jerusalém, e se ajuntarão as riquezas de todas as nações circunvizinhas, ouro, e prata, e roupas, em grande abundância." Neste verso, Zacarias fala da vitória de Deus sobre as nações que se levantarão contra Jerusalém e da tomada de seus bens, o que se assemelha com a descrição do saque em Naum 2.
+****
+
+[[v41-2-1]]
+
+^<<v41-2-1,1>>^ Já vem (ó Nínive) contra ti um destruidor: guarda a fortaleza, vigia o caminho, reforça os teus rins, acrescenta as tuas forças.
+
+[[v41-2-2]]
+
+^<<v41-2-2,2>>^ Porque o Senhor restabelece o brilho de Jacob, bem como o brilho de Israel, depois que os (teus exércitos) destruidores devastaram e destruíram os seus sarmentos.
+
+[[v41-2-3]]
+
+^<<v41-2-3,3>>^ O escudo dos seus combatentes está pintado de vermelho, os guerreiros estão vestidos de púrpura; os carros de guerra avançam cintilantes no dia da preparação (para o combate); há brandir de lanças.
+
+[[v41-2-4]]
+
+^<<v41-2-4,4>>^ Os carros precipitam-se furiosamente pelos caminhos, chocam uns com os outros nas ruas; o seu aspecto é como de fachos ardentes, como relâmpagos que discorrem duma parte para a outra.
+
+[[v41-2-5]]
+
+^<<v41-2-5,5>>^ (O Ninivita) lembra-se dos seus valentes (e manda-os ao combate); eles tropeçam pelos caminhos. Rápidamente se precipitam sobre os muros e preparam abrigos.
+
+[[v41-2-6]]
+
+^<<v41-2-6,6>>^ Enfim são abertas as portas dos rios, e o palácio, abalado, vacila.
+
+[[v41-2-7]]
+
+^<<v41-2-7,7>>^ A rainha é levada prisioneira, as suas escravas são levadas cativas, gemendo como pombas, ferindo os seus peitos.
+
+[[v41-2-8]]
+
+^<<v41-2-8,8>>^ Nínive é semelhante a um tanque, mas de águas que fogem. (E por mais que se gritasse): Parai! Parai! nenhum voltou (para trás).
+
+[[v41-2-9]]
+
+^<<v41-2-9,9>>^ Saqueai a prata, saqueai o ouro; as suas riquezas são inúmeras, ela está cheia de objectos preciosos.
+
+[[v41-2-10]]
+
+^<<v41-2-10,10>>^ (Nínive) ficou destruída, rasgada e dilacerada; nela encontram-se corações desmaiados, tremem os joelhos, estão sem força os rins; todos os rostos empalidecem.
+
+[[v41-2-11]]
+
+^<<v41-2-11,11>>^ Onde está agora (Nínive) essa habitação dos leões, esse pasto de leõezinhos, onde se iam recolher o leão e os seus cachorros, sem haver ninguém que os afugentasse?
+
+[[v41-2-12]]
+
+^<<v41-2-12,12>>^ O leão (Assírio) despedaçava o preciso para os seus cachorros, levava caça para as suas leoas; enchia as suas covas de presa, a sua caverna de rapinas.
+
+[[v41-2-13]]
+
+^<<v41-2-13,13>>^ Eis que venho contra ti, diz o 'Senhor dos exércitos; reduzirei os teus carros a fumo; a espada devorará os teus leõezinhos; porei fim às tuas rapinas na terra, e não se ouvirá mais a voz (imperiosa) dos teus embaixadores.
+
+'''
+
+xref:041-naum/041-naum-001.adoc#v41-1-0[&#60; Capítulo Anterior] | <<v41-2-0,Topo>> | xref:041-naum/041-naum-003.adoc#v41-3-0[Próximo Capítulo &#62;]

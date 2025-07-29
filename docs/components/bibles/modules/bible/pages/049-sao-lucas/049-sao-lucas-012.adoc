@@ -1,0 +1,255 @@
+include::./index.adoc[]
+
+[[v49-12-0]]
+=== São Lucas, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Lucas 12 aborda ensinamentos de Jesus sobre confiança em Deus, riquezas, preocupações e vigilância. O capítulo começa com Jesus alertando seus discípulos sobre a hipocrisia dos fariseus e a necessidade de temer a Deus, e termina com um chamado à vigilância e preparação para a vinda do Filho do Homem. Abaixo estão cinco versículos relacionados aos temas abordados em São Lucas 12:
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este verso fala sobre a importância da confiança em Deus e de reconhecê-lo em todas as coisas, temas que são enfatizados em São Lucas 12.
+* Mateus 6:19-21: "Não acumuleis para vós tesouros na terra, onde a traça e a ferrugem destroem, e onde os ladrões arrombam e roubam. Mas acumuleis para vós tesouros no céu, onde a traça e a ferrugem não destroem, e onde os ladrões não arrombam nem roubam. Porque onde estiver o teu tesouro, aí estará também o teu coração." Este verso fala sobre a natureza transitória das riquezas terrenas e a importância de se concentrar nas riquezas do céu, um tema que é abordado em São Lucas 12.
+* Mateus 6:25-27: "Por isso, vos digo: não andeis ansiosos pela vossa vida, quanto ao que haveis de comer ou beber; nem pelo vosso corpo, quanto ao que haveis de vestir. Não é a vida mais do que o alimento, e o corpo, mais do que as vestes? Observai as aves do céu: não semeiam, não colhem, nem ajuntam em celeiros; contudo, vosso Pai celeste as sustenta. Não tendes vós muito mais valor do que as aves?" Este verso fala sobre a preocupação excessiva com as necessidades materiais e a importância de confiar em Deus, um tema que é abordado em São Lucas 12.
+* 1 Tessalonicenses 5:2-3: "Porque vós mesmos sabeis muito bem que o dia do Senhor virá como o ladrão de noite. Quando disserem: Paz e segurança! então, de repente, lhes sobrevirá a destruição, como as dores de parto àquela que está grávida; e de modo nenhum escaparão." Este verso fala sobre a necessidade de vigilância e preparação para a vinda do Senhor, um tema que é enfatizado em São Lucas 12.
+* Mateus 24:44: "Por isso, ficai também vós apercebidos; porque o Filho do Homem virá à hora em que não pensais." Este verso também fala sobre a necessidade de vigilância e preparação para a vinda do Senhor, um tema central em São Lucas 12.
+****
+
+[[v49-12-1]]
+
+^<<v49-12-1,1>>^ Tendo-se juntado à roda de Jesus milhares e milhares de pessoas, de sorte que se atropelavam uns aos outros, começou ele a dizer aos seus discípulos: "Guardai-vos do fermento dos fariseus, que é a hipocrisia.
+
+[[v49-12-2]]
+
+^<<v49-12-2,2>>^ Nada há oculto que não venha a descobrir-se, e nada há escondido que não venha a saber-se.
+
+[[v49-12-3]]
+
+^<<v49-12-3,3>>^ Por isso as coisas que dissestes nas trevas, serão ouvidas às claras, e o que falastes ao ouvido no gabinete, será apregoado sobre os telhados.
+
+[[v49-12-4]]
+
+^<<v49-12-4,4>>^ A vós, pois, meus amigos, vos digo: não tenhais medo daqueles que matam o corpo, e depois nada mais podem fazer.
+
+[[v49-12-5]]
+
+^<<v49-12-5,5>>^ Eu vou mostrar-vos a quem haveis de temer; temei aquele que, depois de matar, tem poder de lançar no inferno; sim, eu vos digo, temei este.
+
+[[v49-12-6]]
+
+^<<v49-12-6,6>>^ Não se vendem cinco passarinhos por dois asses, entretanto nem um só deles está em esquecimento diante de Deus.
+
+[[v49-12-7]]
+
+^<<v49-12-7,7>>^ Até os cabelos da vossa cabeça estão todos contados. Não temais pois; vós valeis mais que muitos passarinhos.
+
+[[v49-12-8]]
+
+^<<v49-12-8,8>>^ Digo-vos: Todo aquele que me confessar diante dos homens, também o Filho do homem o confessará diante dos anjos de Deus.
+
+[[v49-12-9]]
+
+^<<v49-12-9,9>>^ O que me negar diante dos homens, será negado diante dos anjos de Deus.
+
+[[v49-12-10]]
+
+^<<v49-12-10,10>>^ Todo o que falar contra o Filho do homem, ser-lhe-á dado perdão; mas àquele que blasfemar contra o Espírito Santo, não lhe será perdoado. (ver nota)
+
+[[v49-12-11]]
+
+^<<v49-12-11,11>>^ Quando vos levarem às sinagogas, e perante os magistrados e autoridades, não estejais com cuidado de que modo respondereis, ou que direis,
+
+[[v49-12-12]]
+
+^<<v49-12-12,12>>^ porque o Espírito Santo vos ensinará, naquele mesmo momento, o que deveis dizer."
+
+[[v49-12-13]]
+
+^<<v49-12-13,13>>^ Então disse-lhe alguém da multidão: "Mestre, diz a meu irmão que me dê a minha parte da herança."
+
+[[v49-12-14]]
+
+^<<v49-12-14,14>>^ Jesus respondeu-lhe: "Meu amigo, quem me constituiu juiz ou árbitro entre vós?"
+
+[[v49-12-15]]
+
+^<<v49-12-15,15>>^ Depois disse-lhes: "Guardai-vos cuidadosamente de toda a avareza, porque a vida de cada um, ainda que esteja na abundância, não depende dos bens que possui."
+
+[[v49-12-16]]
+
+^<<v49-12-16,16>>^ Sobre isto propôs-lhes esta parábola: "Os campos de um homem rico tinham dado abundantes frutos.
+
+[[v49-12-17]]
+
+^<<v49-12-17,17>>^ Ele andava discorrendo consigo; Que farei, pois, não tenho onde recolher os meus frutos?
+
+[[v49-12-18]]
+
+^<<v49-12-18,18>>^ Depois disse: Farei isto: Demolirei os meus celeiros, fá-los-ei maiores, neles recolherei todas as minhas novidades e os meus bens,
+
+[[v49-12-19]]
+
+^<<v49-12-19,19>>^ e direi à minha alma: Ó alma, tu tens muitos bens em depósito para largos anos; descansa, come, bebe, regala-te.
+
+[[v49-12-20]]
+
+^<<v49-12-20,20>>^ Mas Deus disse-lhe: Néscio, esta noite te virão demandar a tua alma; e as coisas que juntaste, para quem serão?
+
+[[v49-12-21]]
+
+^<<v49-12-21,21>>^ Assim é o que entesoura para si, e não é rico para Deus."
+
+[[v49-12-22]]
+
+^<<v49-12-22,22>>^ Depois disse a seus discípulos: "Portanto vos digo : Não andeis demasiadamente inquietos nem com o que vos é preciso para a vossa vida, nem com o que vos é preciso para vestir o vosso corpo.
+
+[[v49-12-23]]
+
+^<<v49-12-23,23>>^ A vida vale mais que o alimento, e o corpo mais que o vestido.
+
+[[v49-12-24]]
+
+^<<v49-12-24,24>>^ Considerai os corvos, que não semeiam, nem ceifam, nem têm despensa, nem celeiro, e Deus, contudo, sustenta-os. Quanto mais valeis vós do que eles?
+
+[[v49-12-25]]
+
+^<<v49-12-25,25>>^ Qual de vós, por muito que pense, pode acrescentar um côvado à duração da sua vida?
+
+[[v49-12-26]]
+
+^<<v49-12-26,26>>^ Se vós, pois, não podeis fazer o que é mínimo, porque estais em cuidado sobre as outras coisas?
+
+[[v49-12-27]]
+
+^<<v49-12-27,27>>^ Considerai como crescem os lírios; não trabalham, nem fiam; contudo, digo-vos que nem Salomão, com toda a sua glória, se vestia como um deles.
+
+[[v49-12-28]]
+
+^<<v49-12-28,28>>^ Se, poie, a erva, que hoje está no campo, e amanhã se lança no forno. Deus a veste assim, quanto mais a vós, homens de pouca fé?
+
+[[v49-12-29]]
+
+^<<v49-12-29,29>>^ Vós, pois, não procureis com cuidados excessivos o que haveis de comer ou beber; não andeis com o espírito preocupado.
+
+[[v49-12-30]]
+
+^<<v49-12-30,30>>^ Porque são as nações deste mundo que buscam com excessivo cuidado todas estas coisas. Mas o vosso Pai sabe que tendes necessidade delas.
+
+[[v49-12-31]]
+
+^<<v49-12-31,31>>^ Buscai, pois, em primeiro lugar, o reino de Deus e a sua justiça, e todas essas coisas vos serão dadas por acréscimo.
+
+[[v49-12-32]]
+
+^<<v49-12-32,32>>^ Não temas, ó pequenino rebanho, porque foi do agrado do vosso Pai dar-vos o reino.
+
+[[v49-12-33]]
+
+^<<v49-12-33,33>>^ Vendei o que possuis, e dai esmola; provei-vos de bolsas que não envelhecem, de um tesouro inexaurível no céu, onde não chega o ladrão, nem a traça rói.
+
+[[v49-12-34]]
+
+^<<v49-12-34,34>>^ Porque onde está o vosso tesouro, aí estará também o vosso coração.
+
+[[v49-12-35]]
+
+^<<v49-12-35,35>>^ Estejam cingidos os vossos rins, e acesas as vossas lâmpadas.
+
+[[v49-12-36]]
+
+^<<v49-12-36,36>>^ Fazei como os homens que esperam o seu senhor quando volta das bodas, para que, quando vier e bater à porta, logo lha abram.
+
+[[v49-12-37]]
+
+^<<v49-12-37,37>>^ Bem-aventurados aqueles servos, a quem o Senhor achar vigiando, quando vier. Na verdade vos digo que se cingirá, os fará pôr à mesa, e, passando por entre eles, os servirá.
+
+[[v49-12-38]]
+
+^<<v49-12-38,38>>^ Se vier na segunda vigília, ou na terceira, e assim os encontrar, bem-aventurados são aqueles servos.
+
+[[v49-12-39]]
+
+^<<v49-12-39,39>>^ Sabei que, se o pai de família soubesse a hora, em que viria o ladrão, vigiaria sem dúvida, e não deixaria minar a sua casa.
+
+[[v49-12-40]]
+
+^<<v49-12-40,40>>^ Vós, pois, estai preparados, porque, na hora que não cuidais, virá o Filho do homem."
+
+[[v49-12-41]]
+
+^<<v49-12-41,41>>^ Pedro disse-lhe: "Senhor, dizes esta parábola só para nós ou para todos?"
+
+[[v49-12-42]]
+
+^<<v49-12-42,42>>^ O Senhor respondeu: "Quem é o despenseiro fiel e prudente que o Senhor estabelecerá sobre as pessoas da sua casa, para dar a cada um a seu tempo a ração de trigo?
+
+[[v49-12-43]]
+
+^<<v49-12-43,43>>^ Bem-aventurado aquele servo a quem, quando o Senhor vier, achar procedendo assim.
+
+[[v49-12-44]]
+
+^<<v49-12-44,44>>^ Na verdade vos digo que o constituirá administrador de tudo quanto possui.
+
+[[v49-12-45]]
+
+^<<v49-12-45,45>>^ Porém, se aquele servo disser no seu coração : "O meu senhor tarda em vir ; e começar a espancar os criados e as criadas, a comer, a beber e a embriagar-se,
+
+[[v49-12-46]]
+
+^<<v49-12-46,46>>^ chegará o senhor desse servo no dia, em que ele o não espera, e na hora, em que ele não sabe; removê-lo-á, e pô-lo-á aparte com os infiéis.
+
+[[v49-12-47]]
+
+^<<v49-12-47,47>>^ Aquele servo, que conheceu a vontade do seu senhor, e nada preparou, e não procedeu conforme a sua vontade, levará muitos açoutes,
+
+[[v49-12-48]]
+
+^<<v49-12-48,48>>^ Quanto àquele que, não a conhecendo, fez coisas dignas de castigo, levará poucos açoutes, Porque a todo aquele a quem muito foi dado, muito lhe será exigido; e ao que muito confiaram, mais conta lhe tomarão.
+
+[[v49-12-49]]
+
+^<<v49-12-49,49>>^ Eu vim trazer fogo à terra; e que quero eu, senão que ele se acenda? (ver nota)
+
+[[v49-12-50]]
+
+^<<v49-12-50,50>>^ Eu tenho de receber um baptismo; e quão grande é a minha ansiedade, até que ele se conclua! (ver nota)
+
+[[v49-12-51]]
+
+^<<v49-12-51,51>>^ Julgais que vim trazer paz à terra? Não, vos digo eu, mas separação ; (ver nota)
+
+[[v49-12-52]]
+
+^<<v49-12-52,52>>^ porque, de hoje em diante, haverá numa casa cinco pessoas, divididas três contra duas, e duas contra três,
+
+[[v49-12-53]]
+
+^<<v49-12-53,53>>^ Estarão divididos: o pai contra o filho, e o filho contra o pai; a mãe contra a filha, e a filha contra a mãe; a sogra contra a nora e a nora contra a sogra."
+
+[[v49-12-54]]
+
+^<<v49-12-54,54>>^ Dizia também às multidões: "Quando vós vedes levantar-se uma nuvem no poente, logo dizeis: Aí vem chuva; e assim sucede.
+
+[[v49-12-55]]
+
+^<<v49-12-55,55>>^ E quando sentis soprar o vento do sul, dizeis: Haverá calor; e assim sucede.
+
+[[v49-12-56]]
+
+^<<v49-12-56,56>>^ Hipócritas, sabeis distinguir os aspectos da terra e do céu ; como, pois, não sabeis reconhecer o tempo presente?
+
+[[v49-12-57]]
+
+^<<v49-12-57,57>>^ E porque não discernis também por vós mesmos o que é justo?
+
+[[v49-12-58]]
+
+^<<v49-12-58,58>>^ Quando, pois, fores com o teu adversário ao magistrado, faz o possível por te livrares dele no caminho, para que não suceda que te leve ao juiz, que o juiz te entregue ao meirinho, e o meirinho te meta na cadeia. (ver nota)
+
+[[v49-12-59]]
+
+^<<v49-12-59,59>>^ Digo-te que não sairás de lá, enquanto não pagares até ao último ceitil."
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-011.adoc#v49-11-0[&#60; Capítulo Anterior] | <<v49-12-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-013.adoc#v49-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,239 @@
+include::./index.adoc[]
+
+[[v3-25-0]]
+=== Levítico, 25
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 25 trata das leis relativas ao ano sabático e ao ano do jubileu, em que a terra deve descansar, os escravos e as dívidas devem ser liberados e a propriedade da terra deve ser restaurada aos seus proprietários originais. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Deuteronômio 15:1-2: "No fim de cada sete anos, você deve cancelar todas as dívidas. Esta é a forma como você deve cancelar as dívidas: Todo credor deve perdoar a dívida que tenha contraído com o seu próximo. Ele não deve exigir pagamento do seu próximo ou do seu irmão, porque o ano do cancelamento das dívidas foi proclamado em honra do Senhor." Este versículo se relaciona com Levítico 25:10, que trata do ano do jubileu, quando todas as dívidas são canceladas e as propriedades são devolvidas aos seus proprietários originais.
+* Jeremias 34:8-9: "A palavra do Senhor veio a Jeremias depois que o rei Zedequias fez um acordo com todo o povo de Jerusalém para proclamar a libertação dos escravos. Cada um deveria libertar seu escravo hebreu, homem ou mulher, e nenhum deles deveria continuar a explorar os seus compatriotas judeus." Este versículo se relaciona com Levítico 25:39-41, que trata da libertação dos escravos hebreus no ano do jubileu.
+* Isaías 61:1-2: "O Espírito do Soberano Senhor está sobre mim, porque o Senhor me ungiu para pregar boas novas aos pobres. Ele me enviou para cuidar dos que estão com o coração quebrantado, anunciar liberdade aos cativos e libertação das trevas aos prisioneiros, para proclamar o ano da graça do Senhor." Este versículo se relaciona com Levítico 25:10, que trata do ano do jubileu, um ano de libertação e perdão.
+* Ezequiel 34:1-4: "A palavra do Senhor veio a mim, dizendo: Filho do homem, profetize contra os pastores de Israel. Profetize e diga-lhes: Assim diz o Senhor: Ai dos pastores de Israel que só cuidam de si mesmos! Não deveriam os pastores cuidar do rebanho? Vocês bebem o leite, vestem a lã e matam a gordura, mas não cuidam do rebanho." Este versículo se relaciona com Levítico 25:1-7, que trata do ano sabático, em que a terra deve descansar e o povo deve confiar na provisão de Deus.
+* 2 Crônicas 36:20-21: "Ele [Nabucodonosor] os levou como prisioneiros para a Babilônia. Todos os utensílios sagrados do templo do Senhor, grandes e pequenos, os tesouros da casa do Senhor e os tesouros do rei e dos seus líderes, foram levados para a Babilônia.
+****
+
+[[v3-25-1]]
+
+^<<v3-25-1,1>>^ O Senhor falou a Moisés no monte Sinai, dizendo:
+
+[[v3-25-2]]
+
+^<<v3-25-2,2>>^ Fala aos filhos de Israel, e dize-lhes: Quando tiverdes entrado na terra que eu vos darei, observai o sábado em honra do Senhor.
+
+[[v3-25-3]]
+
+^<<v3-25-3,3>>^ Durante seis anos semearás o teu campo, durante seis anos podarás a tua vinha, e recolherás os seus frutos.
+
+[[v3-25-4]]
+
+^<<v3-25-4,4>>^ O sétimo ano, porém, será o sábado de completo descanso para a terra, um descanso em honra do Senhor; não semearás o campo, nem podarás a vinha.
+
+[[v3-25-5]]
+
+^<<v3-25-5,5>>^ Não segarás o que a terra por si mesmo produzir, e não colherás as uvas da tua vinha porque é ano do descanso da terra:
+
+[[v3-25-6]]
+
+^<<v3-25-6,6>>^ o que a terra der, espontaneamente, servir-vos-á de alimento a ti e ao teu servo, à tua serva, ao teu jornaleiro, e ao estrangeiro que vive contigo:
+
+[[v3-25-7]]
+
+^<<v3-25-7,7>>^ tudo o que nascer servirá de alimento também aos teus animais e aos da terra.
+
+[[v3-25-8]]
+
+^<<v3-25-8,8>>^ Contarás também sete semanas de anos, isto é, sete vezes sete, que fazem ao todo quarenta e nove anos.
+
+[[v3-25-9]]
+
+^<<v3-25-9,9>>^ No sétimo mês, no dia décimo do mês, no tempo da expiação, tocarás a trombeta por toda a vossa terra.
+
+[[v3-25-10]]
+
+^<<v3-25-10,10>>^ Santificarás o ano quinquagésimo, anunciarás a remissão a todos os habitantes da terra, porque é jubileu. Voltará o homem à posse das suas propriedades, e cada um tornará para a sua primeira família.
+
+[[v3-25-11]]
+
+^<<v3-25-11,11>>^ O ano quinquagésimo é ano jubilar. Não semeareis nem segareis o que nascer por si mesmo no campo, nem vindimareis a vinha não podada,
+
+[[v3-25-12]]
+
+^<<v3-25-12,12>>^ por causa da santificação do jubileu, mas comereis o que os campos derem espontaneamente.
+
+[[v3-25-13]]
+
+^<<v3-25-13,13>>^ No ano do jubileu voltarão todos à posse dos seus bens.
+
+[[v3-25-14]]
+
+^<<v3-25-14,14>>^ Quando venderes qualquer coisa ao teu concidadão, ou lha comprares, não agraves o teu irmão, mas compra segundo o número dos anos do jubileu,
+
+[[v3-25-15]]
+
+^<<v3-25-15,15>>^ e ele ta venderá segundo a conta das messes.
+
+[[v3-25-16]]
+
+^<<v3-25-16,16>>^ Quanto maior for o número destes anos, tanto mais crescerá também o preço: e quanto menos tempo contares, tanto mais baixará o preço: com efeito ele te venderá o tempo em que podes colher os frutos.
+
+[[v3-25-17]]
+
+^<<v3-25-17,17>>^ Não agraveis os (que são) da vossa mesma tribo, mas cada um tema o seu Deus, porque eu sou o Senhor, vosso Deus.
+
+[[v3-25-18]]
+
+^<<v3-25-18,18>>^ Executai os meus preceitos, guardai as minhas ordens, cumpri-as, para que possais habitar na terra sem medo algum,
+
+[[v3-25-19]]
+
+^<<v3-25-19,19>>^ e para que a terra vos produza os seus frutos, de que comais até à saciedade, sem temer a violência de alguém.
+
+[[v3-25-20]]
+
+^<<v3-25-20,20>>^ Se disserdes: Que comeremos nós no sétimo ano, se não semearmos, nem recolhermos os nossos frutos?
+
+[[v3-25-21]]
+
+^<<v3-25-21,21>>^ Eu vos darei a minha bênção no ano sexto, e a terra produzirá frutos para três anos;
+
+[[v3-25-22]]
+
+^<<v3-25-22,22>>^ semeareis no ano oitavo, e comereis os frutos velhos até ao ano nono; até que nasçam os novos, comereis os velhos.
+
+[[v3-25-23]]
+
+^<<v3-25-23,23>>^ A terra também não se venderá para sempre, porque é minha, e vós sois como estrangeiros e peregrinos.
+
+[[v3-25-24]]
+
+^<<v3-25-24,24>>^ Portanto todos os campos que possuirdes serão vendidos com a condição de se remirem.
+
+[[v3-25-25]]
+
+^<<v3-25-25,25>>^ Se o teu irmão empobrecido vender a sua pequena propriedade, e o parente mais próximo quiser, pode remir o que o outro vendeu.
+
+[[v3-25-26]]
+
+^<<v3-25-26,26>>^ Se, porém, não tem parente próximo, mas pode encontrar o preço para fazer o resgate,
+
+[[v3-25-27]]
+
+^<<v3-25-27,27>>^ avaliar-se-ão os frutos desde o tempo em que fez a venda, dará ao comprador o resto, e, deste modo, recobrará a sua propriedade.
+
+[[v3-25-28]]
+
+^<<v3-25-28,28>>^ Se não achar meio para dar o preço, ficará o comprador com o que comprou até ao ano do jubileu; então, neste ano, tudo o que se tiver vendido, voltará ao seu primeiro dono e antigo possuidor.
+
+[[v3-25-29]]
+
+^<<v3-25-29,29>>^ O que vender uma casa situada dentro dos muros da cidade, terá faculdade de a remir dentro de um ano.
+
+[[v3-25-30]]
+
+^<<v3-25-30,30>>^ Se a não remir, e se tiver passado o curso dum ano, possui-la-á para sempre o comprador e seus descendentes, e não poderá remir-se nem ainda no ano do jubileu.
+
+[[v3-25-31]]
+
+^<<v3-25-31,31>>^ Mas, se a casa for numa povoação que não tem muros, será vendida como se vendem os campos; se não foi remida antes, voltará no jubileu para o seu dono.
+
+[[v3-25-32]]
+
+^<<v3-25-32,32>>^ Às casas dos levitas, que estão nas cidades dos mesmos levitas, podem ser sempre remidas.
+
+[[v3-25-33]]
+
+^<<v3-25-33,33>>^ Se não forem remidas, voltarão para seus donos no jubileu, porque as casas das cidades dos levitas são propriedade sua entre os filhos de Israel.
+
+[[v3-25-34]]
+
+^<<v3-25-34,34>>^ Não se venderão, porém, os campos dos seus arrabaldes, porque são sua perpétua propriedade.
+
+[[v3-25-35]]
+
+^<<v3-25-35,35>>^ Se teu irmão se tornou pobre e cair em indigência, a teu lado, e tu o recolheres como estrangeiro e peregrino, e viver contigo,
+
+[[v3-25-36]]
+
+^<<v3-25-36,36>>^ não recebas usuras dele, nem mais do que lhe deste; teme o teu Deus, para que teu irmão possa viver contigo.
+
+[[v3-25-37]]
+
+^<<v3-25-37,37>>^ Não lhe darás o teu dinheiro com usuras e dos grãos não exigerás dele mais do que lhe deres.
+
+[[v3-25-38]]
+
+^<<v3-25-38,38>>^ Eu sou o Senhor vosso Deus, que vos tirei da terra do Egipto, para vos dar a terra de Canaan, e ser vosso Deus.
+
+[[v3-25-39]]
+
+^<<v3-25-39,39>>^ Se, obrigado pela pobreza, o teu irmão se vender a ti, não o oprimirás com a servidão de escravo,
+
+[[v3-25-40]]
+
+^<<v3-25-40,40>>^ mas (em tua casa) será como um jornaleiro e um hóspede; trabalhará em tua casa até ao ano do jubileu,
+
+[[v3-25-41]]
+
+^<<v3-25-41,41>>^ e depois sairá com seus filhos, e voltará para a sua família e para a herança de seus pais.
+
+[[v3-25-42]]
+
+^<<v3-25-42,42>>^ Com efeito, eles são meus servos, e eu tirei-os da terra do Egipto: não sejam vendidos na condição dos escravos.
+
+[[v3-25-43]]
+
+^<<v3-25-43,43>>^ Não o aflijas com o teu poder, mas teme o teu Deus.
+
+[[v3-25-44]]
+
+^<<v3-25-44,44>>^ Os escravos e escravas que tiverdes, sejam das nações que vos cercam.
+
+[[v3-25-45]]
+
+^<<v3-25-45,45>>^ Também podeis comprar dos estrangeiros que vivem entre vós, ou que destes nasceram na vossa terra: serão propriedade vossa.
+
+[[v3-25-46]]
+
+^<<v3-25-46,46>>^ Por direito de herança os deixareis aos vossos filhos, e os possuireis para sempre. Quanto aos vossos irmãos, os filhos de Israel, não os oprimais com o vosso poder.
+
+[[v3-25-47]]
+
+^<<v3-25-47,47>>^ Se um adventício ou um estrangeiro enriquecer entre vós, e um teu irmão pobre se vender a ele ou algum da sua família,
+
+[[v3-25-48]]
+
+^<<v3-25-48,48>>^ depois da venda pode ser resgatado. Qualquer de seus irmãos que quiser, o resgatará;
+
+[[v3-25-49]]
+
+^<<v3-25-49,49>>^ igualmente o poderá resgatar seu tio, seu primo, ou qualquer parente próximo. Se ele o puder fazer por si mesmo, resgatar-se-á,
+
+[[v3-25-50]]
+
+^<<v3-25-50,50>>^ sendo contados somente os anos desde o tempo da sua venda até ao ano do jubileu, e sendo contada a quantia, por que foi vendido, segundo o número dos anos, e segundo se paga ao jornaleiro.
+
+[[v3-25-51]]
+
+^<<v3-25-51,51>>^ Se forem ainda muitos os anos que restem até ao jubileu, o preço (do resgate) será em proporção destes (anos).
+
+[[v3-25-52]]
+
+^<<v3-25-52,52>>^ Se (faltarem) poucos, fará com o comprador a conta segundo o número dos anos, e pagar-lhe-á em proporção dos anos que faltam,
+
+[[v3-25-53]]
+
+^<<v3-25-53,53>>^ levando em conta o salário do tempo que serviu: (o comprador) não o tratará com aspereza à tua vista.
+
+[[v3-25-54]]
+
+^<<v3-25-54,54>>^ Se ele não puder ser resgatado por nenhum destes modos, sairá com seus filhos no ano do jubileu.
+
+[[v3-25-55]]
+
+^<<v3-25-55,55>>^ Com efeito, os filhos de Israel são meus servos, que eu tirei da terra do Egipto. Eu sou o Senhor vosso Deus.
+
+'''
+
+xref:003-levitico/003-levitico-024.adoc#v3-24-0[&#60; Capítulo Anterior] | <<v3-25-0,Topo>> | xref:003-levitico/003-levitico-026.adoc#v3-26-0[Próximo Capítulo &#62;]

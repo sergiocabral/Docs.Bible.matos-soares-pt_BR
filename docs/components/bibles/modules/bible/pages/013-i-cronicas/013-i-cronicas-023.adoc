@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v13-23-0]]
+=== I Crônicas, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Crônicas 23 trata da organização dos levitas e seus deveres no serviço do Templo. O capítulo começa com Davi envelhecendo e se preparando para transferir a responsabilidade do Templo para seu filho Salomão. Ele faz um levantamento dos levitas e suas funções. Aqui estão cinco versículos relacionados aos temas abordados em 1 Crônicas 23:
+* Números 3:5-9: "O Senhor falou a Moisés: Faça o levantamento dos filhos de Levi pelas suas famílias e clãs. Conte todos os homens de um mês para cima. Eles serão consagrados a mim como levitas. Tome Arão e seus filhos para ajudá-lo e consagre-os para me servirem como sacerdotes. Dê aos levitas a seguinte responsabilidade: eles serão responsáveis pelo cuidado do tabernáculo...” Esse versículo é importante porque fala sobre o papel dos levitas no serviço do Tabernáculo, e como eles foram escolhidos por Deus para essa função.
+* Números 8:6-14: "Separe os levitas dentre os outros israelitas e purifique-os. Assim você fará com eles para purificá-los: Espirre água pura sobre eles. Depois, mande que passem uma navalha sobre todo o corpo deles e lavem suas roupas. Assim eles ficarão purificados. Tome um novilho com sua oferta de cereal feita com flor de farinha misturada com azeite e um segundo novilho para sacrifício pelo pecado...” Este versículo descreve o processo de purificação dos levitas antes de começarem a servir no Tabernáculo.
+* 1 Crônicas 23:2: "Ele reuniu todos os líderes de Israel, bem como os sacerdotes e os levitas." Aqui, Davi convoca os líderes de Israel, sacerdotes e levitas para organizá-los para o serviço do Templo.
+* 1 Crônicas 23:27-28: "Para os filhos de Merari: dos levitas, seus clãs e famílias, foram sorteados doze grupos, conforme as listas. Para os filhos de Gérson: dos levitas, seus clãs e famílias, foram sorteados treze grupos, conforme as listas." Esses versículos mostram como os levitas foram divididos em grupos para o serviço no Templo.
+* 1 Crônicas 23:30: "Deviam apresentar-se todas as manhãs para dar graças e louvar o Senhor, e todas as tardes para fazer o mesmo." Aqui, Davi ordena que os levitas apresentem-se diariamente para louvar e agradecer a Deus. Isso mostra como o serviço no Templo era uma tarefa contínua e diária.
+****
+
+[[v13-23-1]]
+
+^<<v13-23-1,1>>^ Achando-se, pois, Davide velho, cheio de dias, constituiu rei sobre Israel a seu filho Salomão.
+
+[[v13-23-2]]
+
+^<<v13-23-2,2>>^ Reuniu todos os príncipes de Israel, e os sacerdotes e Levitas.
+
+[[v13-23-3]]
+
+^<<v13-23-3,3>>^ Foram contados os Levitas, de trinta anos para cima, e acharam-se trinta e oito mil homens.
+
+[[v13-23-4]]
+
+^<<v13-23-4,4>>^ Destes foram escolhidos e distribuídos vinte e quatro mil, para o ministério da casa do Senhor, seis mil para magistrados e juízes,
+
+[[v13-23-5]]
+
+^<<v13-23-5,5>>^ quatro mil porteiros e quatro mil para cantarem os louvores do Senhor ao som dos instrumentos que Davide tinha mandado fazer para o canto.
+
+[[v13-23-6]]
+
+^<<v13-23-6,6>>^ Davide distribuiu-os segundo as classes dos filhos de Levi, a saber: de Gerson, de Caat e de Merari.
+
+[[v13-23-7]]
+
+^<<v13-23-7,7>>^ Filhos de Gerson foram: Leedan e Semei.
+
+[[v13-23-8]]
+
+^<<v13-23-8,8>>^ Filhos de Leedan foram três: Jaiel o chefe, Zetan e Joel.
+
+[[v13-23-9]]
+
+^<<v13-23-9,9>>^ Filhos de Semei foram três: Salomit, Hosiel e Aran. Estes foram os chefes das famílias de Leedan.
+
+[[v13-23-10]]
+
+^<<v13-23-10,10>>^ Os filhos de Semei foram quatro: Leet, Ziza, Jaus e Baria; estes foram os filhos de Semei.
+
+[[v13-23-11]]
+
+^<<v13-23-11,11>>^ Entre eles Leet era o primeiro, Ziza o segundo; Jaus e Baria não tiveram muitos filhos, e, por isso, foram contados numa só família e numa só casa.
+
+[[v13-23-12]]
+
+^<<v13-23-12,12>>^ Os filhos de Caat foram quatro: Amrão, Isaar, Hebron e Oziel.
+
+[[v13-23-13]]
+
+^<<v13-23-13,13>>^ Filhos de Amrão: Aarão e Moisés. Aarão foi separado para servir no Santo dos Santos, ele e seus filhos perpetuamente, para oferecer incenso ao Senhor, segundo o seu rito, e para bem-dizer o seu nome para sempre.
+
+[[v13-23-14]]
+
+^<<v13-23-14,14>>^ Os filhos de Moisés, homem de Deus, também foram contados na tribo de Levi.
+
+[[v13-23-15]]
+
+^<<v13-23-15,15>>^ Filhos de Moisés: Gerson e Eliezer.
+
+[[v13-23-16]]
+
+^<<v13-23-16,16>>^ Filhos de Gerson: Subuel, o chefe.
+
+[[v13-23-17]]
+
+^<<v13-23-17,17>>^ O filho de Eliezer foi Roobia, o chefe. Eliezer não teve outros filhos, mas os filhos de Roobia multiplicaram-se muito.
+
+[[v13-23-18]]
+
+^<<v13-23-18,18>>^ Filhos de Isaar: Salomit, o chefe.
+
+[[v13-23-19]]
+
+^<<v13-23-19,19>>^ Filhos de Hebron: Jeriau, o primeiro; Amarias, o segundo; Jaaziel, o terceiro; Jecmaão, o quarto.
+
+[[v13-23-20]]
+
+^<<v13-23-20,20>>^ Filhos de Oziel: Mica o primeiro; Jesia, o segundo.
+
+[[v13-23-21]]
+
+^<<v13-23-21,21>>^ Filhos de Merari: Mooli e Musi. Filhos de Mooli: Eleazar e Cis.
+
+[[v13-23-22]]
+
+^<<v13-23-22,22>>^ Eleazar morreu, e não teve filhos, mas filhas; estas casaram com os filhos de Cis, seus irmãos.
+
+[[v13-23-23]]
+
+^<<v13-23-23,23>>^ Os filhos de Musi foram três: Mooli, Heder e Jerimot.
+
+[[v13-23-24]]
+
+^<<v13-23-24,24>>^ Estes são os filhos de Levi, segundo as suas parentelas e famílias, contados um por um, os quais exerciam por turnos as funções do ministério da casa do Senhor, desde os vinte anos para cima.
+
+[[v13-23-25]]
+
+^<<v13-23-25,25>>^ Davide disse: O Senhor Deus de Israel deu paz ao seu povo e habitação em Jerusalém para sempre.
+
+[[v13-23-26]]
+
+^<<v13-23-26,26>>^ Para o futuro, os levitas não terão mais que levar o tabernáculo e todos os vasos do seu ministério.
+
+[[v13-23-27]]
+
+^<<v13-23-27,27>>^ Foi segundo as últimas disposições de Davide, que se contou o número dos filhos de Levi, desde os vinte anos para cima.
+
+[[v13-23-28]]
+
+^<<v13-23-28,28>>^ Estavam sujeitos aos filhos de Aarão para o culto da casa do Senhor, nos vestíbulos, nas câmaras, no lugar da purificação, no santuário, e em todas as funções do ministério do templo do Senhor.
+
+[[v13-23-29]]
+
+^<<v13-23-29,29>>^ Além disso tinham a intendência sobre os pães da proposição, sobre o sacrifício da flor de farinha, sobre os pães ázimos, sobre o que se frita e se assa, e sobre todos os pesos e medidas.
+
+[[v13-23-30]]
+
+^<<v13-23-30,30>>^ Os Levitas deviam apresentar-se nela pela manhã a cantar os louvores do Senhor, e do mesmo modo à tarde,
+
+[[v13-23-31]]
+
+^<<v13-23-31,31>>^ tanto na oferenda dos holocaustos oferecidos ao Senhor, como nos dias de sábado e nos dias da lua nova e nas outras solenidades, conforme o número e as cerimônias de cada coisa, continuamente na presença do Senhor.
+
+[[v13-23-32]]
+
+^<<v13-23-32,32>>^ Deviam observar cuidadosamente as disposições que dizem respeito ao tabernáculo da reunião, ao culto do santuário e à obediência dos filhos de Aarão, seus irmãos, para exercerem as suas funções na casa do Senhor.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-022.adoc#v13-22-0[&#60; Capítulo Anterior] | <<v13-23-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-024.adoc#v13-24-0[Próximo Capítulo &#62;]

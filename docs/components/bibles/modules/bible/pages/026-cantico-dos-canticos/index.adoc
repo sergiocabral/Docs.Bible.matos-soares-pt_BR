@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v26-0-0]]
+== Cântico dos Cânticos
+
+[cols="8*^"]
+|===
+| xref:026-cantico-dos-canticos/026-cantico-dos-canticos-001.adoc#v26-1-0[1]
+| xref:026-cantico-dos-canticos/026-cantico-dos-canticos-002.adoc#v26-2-0[2]
+| xref:026-cantico-dos-canticos/026-cantico-dos-canticos-003.adoc#v26-3-0[3]
+| xref:026-cantico-dos-canticos/026-cantico-dos-canticos-004.adoc#v26-4-0[4]
+| xref:026-cantico-dos-canticos/026-cantico-dos-canticos-005.adoc#v26-5-0[5]
+| xref:026-cantico-dos-canticos/026-cantico-dos-canticos-006.adoc#v26-6-0[6]
+| xref:026-cantico-dos-canticos/026-cantico-dos-canticos-007.adoc#v26-7-0[7]
+| xref:026-cantico-dos-canticos/026-cantico-dos-canticos-008.adoc#v26-8-0[8]
+|===

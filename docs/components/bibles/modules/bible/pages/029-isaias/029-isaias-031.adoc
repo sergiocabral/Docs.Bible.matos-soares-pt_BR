@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v29-31-0]]
+=== Isaías, 31
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 31 fala sobre a confiança dos filhos de Israel em alianças com outros povos e não em Deus, e a consequência disso. O capítulo adverte que o Senhor é poderoso para salvar e que os israelitas devem confiar nele em vez de confiar em alianças humanas. Abaixo estão cinco versículos relacionados com os temas abordados em Isaías 31:
+* Salmo 20:7 - "Uns confiam em carros, outros em cavalos; nós, porém, faremos menção do nome do Senhor nosso Deus." Este verso destaca a importância da confiança em Deus em vez de confiar em forças humanas, assim como Isaías 31.
+* Provérbios 21:31 - "O cavalo prepara-se para o dia da batalha, mas a vitória vem do Senhor." Assim como Isaías 31, este verso destaca a importância de confiar em Deus para a vitória em vez de confiar nas forças humanas.
+* Jeremias 17:5-6 - "Assim diz o Senhor: Maldito o homem que confia no homem, e faz da carne o seu braço, e aparta o seu coração do Senhor! Porque será como o arbusto solitário no deserto, e não verá quando vier o bem; antes, morará nos lugares secos do deserto, na terra salgada e inabitável." Este verso adverte contra confiar nos homens e na carne em vez de confiar em Deus.
+* Oséias 14:3 - "Assíria não nos salvará; não cavalgaremos em cavalos, e à obra das nossas mãos não diremos mais: Tu és o nosso Deus; porque em ti o órfão alcança misericórdia." Este verso destaca a importância de confiar em Deus em vez de confiar em alianças humanas.
+* Zacarias 4:6 - "Não por força nem por violência, mas sim pelo meu Espírito, diz o Senhor dos Exércitos." Este verso destaca a importância de confiar no poder do Espírito Santo em vez de confiar nas forças humanas, assim como Isaías 31 adverte contra confiar em alianças humanas.
+****
+
+[[v29-31-1]]
+
+^<<v29-31-1,1>>^ Ai dos que descem ao Egito a buscar socorro, esperando nos (seus) cavalos, tendo confiança nos seus carros, porque são muitos, e nos cavaleiros, porque são valentes, em vez de lançarem os olhos para o Santo de Israel e buscarem o Senhor!
+
+[[v29-31-2]]
+
+^<<v29-31-2,2>>^ (Infelizes!) pois o mesmo (Senhor) é sábio (por excelência), envia-lhes calamidades, não deixa de cumprir as suas palavras; levantar-se-á contra a casa dos maus e contra o auxílio dos que cometem a iniquidade.
+
+[[v29-31-3]]
+
+^<<v29-31-3,3>>^ O Egito é um homem, e não um Deus; os seus cavalos são carne, e não espírito. Quando o Senhor estender a sua mão, cambaleará o auxiliador, cairá o auxiliado, e todos juntamente perecerão.
+
+[[v29-31-4]]
+
+^<<v29-31-4,4>>^ Porque isto me diz o Senhor: Assim como ruge o leão, ou o cachorro do leão, sobre a sua presa, - ainda que se apresente diante um tropel de pastores, não se aterrará ao seu alarido, nem se espantará da sua multidão - assim descerá o Senhor dos exércitos para pelejar sobre o monte Sião, sobre a sua colina.
+
+[[v29-31-5]]
+
+^<<v29-31-5,5>>^ Como as aves que voam (em volta do seu ninho), assim protegerá Jerusalém o Senhor dos exércitos; protegerá e livrará, preservará e salvará.
+
+[[v29-31-6]]
+
+^<<v29-31-6,6>>^ Convertei-vos, filhos de Israel, àquele de quem vos tínheis afastado.
+
+[[v29-31-7]]
+
+^<<v29-31-7,7>>^ Naquele dia cada um lançará fora os seus ídolos de prata, e os seus ídolos de ouro, que vós fabricastes com as vossas mãos para pecar.
+
+[[v29-31-8]]
+
+^<<v29-31-8,8>>^ Assur cairá ao fio da espada, mas não da espada dum homem; pois a espada, que o há-de trespassar, não será espada de um mortal (mas de Deus). Ele fugirá diante da espada, e serão tributários (ou subjugados) os seus jovens (guerreiros).
+
+[[v29-31-9]]
+
+^<<v29-31-9,9>>^ Desfalecerá de terror a sua fortaleza, e os seus príncipes, espavoridos, abandonarão as suas bandeiras. (Assim) disse o Senhor, que tem o seu fogo em Sião, e a sua fornalha em Jerusalém.
+
+'''
+
+xref:029-isaias/029-isaias-030.adoc#v29-30-0[&#60; Capítulo Anterior] | <<v29-31-0,Topo>> | xref:029-isaias/029-isaias-032.adoc#v29-32-0[Próximo Capítulo &#62;]

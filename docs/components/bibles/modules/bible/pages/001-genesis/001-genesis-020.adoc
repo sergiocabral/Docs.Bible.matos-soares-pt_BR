@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v1-20-0]]
+=== Gênesis, 20
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Gênesis 20 descreve a história de Abraão e Sara durante sua estadia em Gerar. Abraão, temendo por sua vida, apresenta Sara como sua irmã em vez de sua esposa, levando o rei Abimeleque a tomar Sara para si. Deus intervém em um sonho e Abimeleque devolve Sara a Abraão, repreendendo-o por enganá-lo. Os versículos selecionados abaixo se relacionam com os temas de engano, proteção divina e arrependimento.
+* Provérbios 12:19: "O lábio verdadeiro permanece para sempre, mas a língua mentirosa, apenas por um instante." Este provérbio se relaciona ao tema do engano em Gênesis 20, destacando a importância da honestidade e da verdade.
+* Salmos 121:7-8: "O Senhor o guardará de todo o mal; ele guardará a sua alma. O Senhor guardará a sua saída e a sua entrada, desde agora e para sempre." Estes versículos falam sobre a proteção divina, que é claramente vista em Gênesis 20 quando Deus impede que Abimeleque toque em Sara.
+* Provérbios 28:13: "O que encobre as suas transgressões, jamais prosperará; mas o que as confessa e deixa, alcançará misericórdia." Este provérbio se relaciona com o tema do arrependimento, visto em Gênesis 20, quando Abimeleque confessa seu erro a Deus e recebe misericórdia.
+* Salmos 34:18: "Perto está o Senhor dos que têm o coração quebrantado, e salva os contritos de espírito." Este verso destaca a compaixão de Deus por aqueles que estão arrependidos e quebrantados, o que é visto em Gênesis 20 quando Abimeleque se humilha diante de Deus.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Estes versículos falam sobre a importância da confiança em Deus e da submissão a Ele em todas as áreas da vida, o que é um tema central em Gênesis 20.
+****
+
+[[v1-20-1]]
+
+^<<v1-20-1,1>>^ Abraão partiu dali para a parte do meio-dia,habitou entre Cades e Sur, e viveu como peregrino em Gerara.
+
+[[v1-20-2]]
+
+^<<v1-20-2,2>>^ Falando de Sara sua mulher, dizia: é minha irmã. Mandou, pois, Abimelech, rei de Gerara, buscá-la.
+
+[[v1-20-3]]
+
+^<<v1-20-3,3>>^ Mas Deus apareceu de noite em sonhos a Abimelech e disse-lhe: Eis que morrerás por causa da mulher que roubaste, porque ela tem marido.
+
+[[v1-20-4]]
+
+^<<v1-20-4,4>>^ Abimelech, que não a tinha tocado, disse: Senhor, matarás tu assim mesmo um inocente?
+
+[[v1-20-5]]
+
+^<<v1-20-5,5>>^ Porventura não me disse ele: ela é minha irmã? e não me disse ela: ele é meu irmão? Fiz isto na simplicidade do meu coração, e com pureza das minhas mãos.
+
+[[v1-20-6]]
+
+^<<v1-20-6,6>>^ Deus disse-lhe: Sei que procedeste com um coração simples, e, por isso, te preservei de pecar contra mim, e não permiti que a tocasses.
+
+[[v1-20-7]]
+
+^<<v1-20-7,7>>^ Agora, pois, entrega a mulher a seu marido, porque ele é profeta, rogará por ti, e viverás; se, porém, não quiseres restitui-la, sabe que morrerás indubitàvelmente, tu e tudo o que é teu.
+
+[[v1-20-8]]
+
+^<<v1-20-8,8>>^ Abimelech, levantando-se logo, Sendo ainda noite, chamou todos os seus servos, contou-lhes todas estas coisas, e eles ficaram muito atemorizados.
+
+[[v1-20-9]]
+
+^<<v1-20-9,9>>^ Depois Abimelech chamou também Abraão e disse-lhe: que nos fizeste tu? Que mal te fizemos nós para atraires sobre mim e sobre o meu reino um (tão) grande pecado? Fizeste-nos o que não deveras fazer.
+
+[[v1-20-10]]
+
+^<<v1-20-10,10>>^ E, continuando ainda as suas queixas, disse: o que tiveste em vista fazendo isto ?
+
+[[v1-20-11]]
+
+^<<v1-20-11,11>>^ Abraão respondeu-lhe: pensei comigo mesmo: com certeza, nesta terra não há temor de Deus e me matarão por causa de minha mulher.
+
+[[v1-20-12]]
+
+^<<v1-20-12,12>>^ Por outra parte ela é verdadeiramente minha irmã, (como) filha de meu pai, (embora) não (seja) filha de minha mãe, e eu a recebi por mulher.
+
+[[v1-20-13]]
+
+^<<v1-20-13,13>>^ Depois que Deus me tirou da casa de meu pai, eu disse-lhe: faze-me esta graça: em qualquer lugar onde entrarmos, dirás que eu sou teu irmão.
+
+[[v1-20-14]]
+
+^<<v1-20-14,14>>^ Tomou, pois, Abimelech ovelhas e bois, escravos e escravas, deu-os a Abraão, restituiu-lhe Sara, sua mulher,
+
+[[v1-20-15]]
+
+^<<v1-20-15,15>>^ e disse-lhe: esta terra está diante de ti, habita onde te agradar.
+
+[[v1-20-16]]
+
+^<<v1-20-16,16>>^ E disse a Sara: eis que dei mil moedas de prata a teu irmão, e este dinheiro será para ti um véu sobre os olhos, diante de todos os que estiverem contigo: eis-te justificada.
+
+[[v1-20-17]]
+
+^<<v1-20-17,17>>^ E, orando Abraão, Deus sarou Abimelech, sua mulher e suas escravas, que tiveram (novamente) filhos.
+
+[[v1-20-18]]
+
+^<<v1-20-18,18>>^ Com efeito, o Senhor tinha tomado estéreis todas as mulheres da casa de Abimelech, por causa de Sara, mulher de Abraão.
+
+'''
+
+xref:001-genesis/001-genesis-019.adoc#v1-19-0[&#60; Capítulo Anterior] | <<v1-20-0,Topo>> | xref:001-genesis/001-genesis-021.adoc#v1-21-0[Próximo Capítulo &#62;]

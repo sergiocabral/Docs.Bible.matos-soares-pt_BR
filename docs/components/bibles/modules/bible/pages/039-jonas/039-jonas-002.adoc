@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v39-2-0]]
+=== Jonas, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jonas 2 conta a história de como Jonas, depois de ser engolido por um grande peixe, clama a Deus por misericórdia e é salvo. Abaixo estão cinco versículos relacionados aos temas abordados neste capítulo:
+* Salmos 18:6: "Na minha angústia invoquei o Senhor, gritei por socorro ao meu Deus. Do seu templo ele ouviu a minha voz; meu grito chegou à sua presença, aos seus ouvidos." Assim como Jonas clamou a Deus em sua angústia, o salmista também invoca a ajuda divina em seu sofrimento.
+* Salmos 69:1-2: "Salva-me, ó Deus, pois as águas já me chegaram ao pescoço. Estou afundando num lamaçal profundo, e não há onde firmar os pés; entrei em águas profundas, e a correnteza me arrasta." Este salmo é um exemplo de um pedido de ajuda em meio a uma situação difícil, assim como a oração de Jonas enquanto estava dentro do peixe.
+* Salmos 116:1-2: "Amo o Senhor, porque ele ouve a minha voz e as minhas súplicas. Porque ele inclina os seus ouvidos para mim, invocarei o seu nome enquanto viver." Este salmo é uma expressão de gratidão a Deus por ouvir e responder às orações, um tema que é central em Jonas 2.
+* Isaías 38:10-13: "Eu disse: Na metade da minha vida, tenho que ir à porta da morte. Privado do resto dos meus anos, estou condenado a viver no mundo dos mortos. Eu disse: Não tornarei a ver o Senhor Deus no mundo dos vivos, jamais verei um ser humano na terra dos viventes." O profeta Isaías, como Jonas, clamou a Deus em um momento de grande aflição, pedindo que ele o salvasse da morte.
+* 2 Coríntios 1:8-10: "Irmãos, não queremos que ignorem as tribulações que tivemos na província da Ásia, pois fomos esmagados acima das nossas forças, a ponto de perdermos a esperança de sair com vida. Sentimos em nós mesmos a sentença de morte, para que aprendêssemos a não confiar em nós mesmos, mas em Deus, que ressuscita os mortos. Ele nos salvou de uma morte tão terrível, e nos salvará de novo. Temos nele a nossa esperança de que continuará a livrar-nos," Paulo, assim como Jonas, experimentou uma situação de desespero e recorreu a Deus em busca de ajuda e salvação.
+****
+
+[[v39-2-1]]
+
+^<<v39-2-1,1>>^ Ao mesmo tempo o Senhor fez que ali houvesse um grande peixe para engolir Jonas; e Jonas esteve no ventre do peixe três dias e três noites.
+
+[[v39-2-2]]
+
+^<<v39-2-2,2>>^ Jonas fez oração ao Senhor seu Deus, do ventre do peixe.
+
+[[v39-2-3]]
+
+^<<v39-2-3,3>>^ Disse: Clamei ao Senhor no meio da minha tribulação, e ele ouviu-me. Clamei do ventre do sepulcro, e tu ouviste a minha voz.
+
+[[v39-2-4]]
+
+^<<v39-2-4,4>>^ Lançaste-me ao abismo, ao coração dos mares, e as correntes das águas me cercaram; todas as tuas vagas e todas as tuas ondas passaram por cima de mim.
+
+[[v39-2-5]]
+
+^<<v39-2-5,5>>^ E eu já dizia: Fui rejeitado de diante dos teus olhos; acaso verei ainda novamente o teu santo templo?
+
+[[v39-2-6]]
+
+^<<v39-2-6,6>>^ As águas me cercaram até ao pescoço, o abismo encerrou-me em si, as algas cercavam-me a cabeça.
+
+[[v39-2-7]]
+
+^<<v39-2-7,7>>^ Desci até às raízes dos montes; os ferrolhos da terra encerraram-me para sempre; tu, contudo, Senhor Deus meu, retiraste a minha vida da cova.
+
+[[v39-2-8]]
+
+^<<v39-2-8,8>>^ Quando em mim desfalecia a minha alma, lembrei-me do Senhor; a minha oração chegou a ti, subindo até ao teu santo templo.
+
+[[v39-2-9]]
+
+^<<v39-2-9,9>>^ Os que se entregam aos ídolos vãos, abandonam a misericórdia (daquele que os teria livrado).
+
+[[v39-2-10]]
+
+^<<v39-2-10,10>>^ Eu, porém, te oferecerei sacrifícios com cânticos de louvor, cumprirei todos os votos que fiz. Do Senhor vem a salvação.
+
+[[v39-2-11]]
+
+^<<v39-2-11,11>>^ Então o Senhor mandou ao peixe, e este vomitou e Jonas na praia.
+
+'''
+
+xref:039-jonas/039-jonas-001.adoc#v39-1-0[&#60; Capítulo Anterior] | <<v39-2-0,Topo>> | xref:039-jonas/039-jonas-003.adoc#v39-3-0[Próximo Capítulo &#62;]

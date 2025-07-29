@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v6-3-0]]
+=== Josué, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 do livro de Josué descreve a travessia do rio Jordão pelo povo de Israel, liderado por Josué, para entrar na terra prometida. Durante a narrativa, é destacada a importância da obediência a Deus e a liderança de Josué.
+* Gênesis 22:3: "Levantando-se, pois, Abraão de madrugada, albardou o seu jumento, e tomou consigo dois de seus moços e Isaque seu filho; e cortou lenha para o holocausto, e foi para o lugar que Deus lhe havia indicado." Este versículo relata a obediência de Abraão a Deus quando foi chamado para oferecer Isaque em sacrifício. Assim como Abraão, o povo de Israel precisava obedecer a Deus para conquistar a terra prometida.
+* Êxodo 14:16: "E tu, levanta a tua vara, e estende a tua mão sobre o mar, e fende-o, para que os filhos de Israel passem pelo meio do mar em seco." Este versículo narra como Deus orientou Moisés a abrir o Mar Vermelho para que o povo de Israel pudesse atravessá-lo a pé. Da mesma forma, em Josué 3, Deus abriu o rio Jordão para que o povo de Israel pudesse passar e entrar na terra prometida.
+* Deuteronômio 31:7: "E chamou Moisés a Josué, e disse-lhe aos olhos de todo o Israel: Esforça-te e tem bom ânimo, porque tu entrarás com este povo na terra que o Senhor jurou a seus pais lhes dar; e tu a farás herdá-la." Este versículo destaca a liderança de Josué e a importância de ter coragem e confiança em Deus para conquistar a terra prometida.
+* Salmos 114:3: "O mar viu isto, e fugiu; o Jordão tornou atrás." Este versículo faz referência à passagem pelo Mar Vermelho e também destaca a abertura do rio Jordão para o povo de Israel passar, evidenciando a ação sobrenatural de Deus.
+* Josué 4:23: "Porque o Senhor vosso Deus secou as águas do Jordão diante de vós, até que passásseis, como o Senhor vosso Deus fez ao Mar Vermelho, ao qual secou perante nós, até que passássemos;" Este versículo enfatiza a ação milagrosa de Deus na abertura do rio Jordão para o povo de Israel passar, lembrando também da passagem pelo Mar Vermelho, evidenciando a fidelidade de Deus em cumprir suas promessas.
+****
+
+[[v6-3-1]]
+
+^<<v6-3-1,1>>^ Josué Ievantando-se de madrugada, moveu o acampamento e saiu de Setim. Chegados ao Jordão, ele e todos os filhos de Israel, aí se detiveram, antes de o atravessar.
+
+[[v6-3-2]]
+
+^<<v6-3-2,2>>^ Passados três dias, os pregoeiros atravessaram pelo meio do acampamento,
+
+[[v6-3-3]]
+
+^<<v6-3-3,3>>^ e começaram a dizer em alta voz: Logo que virdes a arca da aliança do Senhor vosso Deus levada pelos sacerdotes da linhagem de Levi, levantai-vos vós, também, e ide atrás dela,
+
+[[v6-3-4]]
+
+^<<v6-3-4,4>>^ mas de forma que haja entre vós e a arca o espaço de dois mil côvados, a fim de a poderdes ver de longe, e conhecer o caminho por onde deveis ir, porque não andastes antes por ele; tomai cuidado, não vos aproximeis da arca. (ver nota)
+
+[[v6-3-5]]
+
+^<<v6-3-5,5>>^ Josué disse ao povo: Santificai-vos, porque amanhã o Senhor fará entre vós maravilhas.
+
+[[v6-3-6]]
+
+^<<v6-3-6,6>>^ Depois Josué falou aos sacerdotes: Tomai a arca da aliança e ide adiante do povo. Eles, executando a sua ordem, tomaram (a arca), e caminharam adiante do povo.
+
+[[v6-3-7]]
+
+^<<v6-3-7,7>>^ O Senhor disse a Josué: Hoje começarei a exaltar-te diante de todo o Israel, para que saibam que, assim como fui com Moisés, assim sou contigo.
+
+[[v6-3-8]]
+
+^<<v6-3-8,8>>^ Aos sacerdotes que levam a arca da aliança, dá-lhes esta ordem: Quando tiverdes chegado às águas do Jordão, parai aí.
+
+[[v6-3-9]]
+
+^<<v6-3-9,9>>^ Josué disse aos filhos de Israel: Aproximai-vos, e ouvi a palavra do Senhor vosso Deus.
+
+[[v6-3-10]]
+
+^<<v6-3-10,10>>^ E acrescentou: Por isto conhecereis que o Senhor, o Deus vivo, está no meio de vós, e exterminará à vossa vista o Cananeu, o Heteu, o Heveu, o Fereseu, o Gergeseu, o Jebuseu e o Amorreu.
+
+[[v6-3-11]]
+
+^<<v6-3-11,11>>^ Eis que a arca da aliança do Senhor de toda a terra irá adiante de vós pelo meio do Jordão.
+
+[[v6-3-12]]
+
+^<<v6-3-12,12>>^ Preparai doze homens das tribos de Israel, um de cada tribo.
+
+[[v6-3-13]]
+
+^<<v6-3-13,13>>^ Logo que os sacerdotes, que levam a arca de Javé, o Senhor de toda a terra, puserem as plantas de seus pés nas águas do Jordão, as águas debaixo seguirão a sua corrente e minguarão, e as que vêm de cima, pararão, amontoando-se.
+
+[[v6-3-14]]
+
+^<<v6-3-14,14>>^ Quando saiu o povo das suas tendas, para passar o Jordão, os sacerdotes, que levavam a arca da aliança, caminhavam adiante dele.
+
+[[v6-3-15]]
+
+^<<v6-3-15,15>>^ No momento em que entraram no Jordão, e a água lhes começou a molhar os pés (porque o Jordão, sendo o tempo da ceifa, inundava as margens do seu leito),
+
+[[v6-3-16]]
+
+^<<v6-3-16,16>>^ as águas, que vinham de cima, pararam num só lugar, e, levantando-se à maneira dum monte, descobriam-se de longe desde a cidade, que se chama Adom, até ao lugar de Sartan; e as que desciam continuaram a correr para o mar do deserto (que agora se chama Mar Morto), até que faltaram de todo. Entretanto o povo caminhava para Jericó.
+
+[[v6-3-17]]
+
+^<<v6-3-17,17>>^ Os sacerdotes, que levavam a arca da aliança do Senhor, conservavam-se quietos, de pé, sobre a terra seca, no meio do Jordão, e todo o povo ia passando pelo leito do rio, a pé enxuto.
+
+'''
+
+xref:006-josue/006-josue-002.adoc#v6-2-0[&#60; Capítulo Anterior] | <<v6-3-0,Topo>> | xref:006-josue/006-josue-004.adoc#v6-4-0[Próximo Capítulo &#62;]

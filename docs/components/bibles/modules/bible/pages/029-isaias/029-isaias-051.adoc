@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v29-51-0]]
+=== Isaías, 51
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Isaías 51 é um capítulo que traz uma mensagem de encorajamento e consolo para o povo de Deus. O capítulo começa com uma chamada para que o povo ouça a Deus e olhe para o exemplo de Abraão e Sara, que confiaram em Deus apesar das dificuldades. Em seguida, o capítulo destaca a soberania de Deus sobre a terra e a promessa de sua salvação para o povo. O capítulo termina com um convite para que o povo se alegre e louve a Deus por sua fidelidade.
+* Salmos 27:14: "Espera no Senhor, anima-te, e ele fortalecerá o teu coração; espera, pois, no Senhor." Este versículo enfatiza a importância da paciência e confiança em Deus, que é um tema importante em Isaías 51.
+* Filipenses 4:6-7: "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus." Esse versículo destaca a importância da oração e da gratidão em tempos de ansiedade, o que é relevante para o tema de consolo e encorajamento em Isaías 51.
+* Romanos 8:31: "Que diremos, pois, à vista destas coisas? Se Deus é por nós, quem será contra nós?" Esse versículo enfatiza a soberania de Deus e sua proteção sobre seu povo, que é um tema importante em Isaías 51.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Este versículo enfatiza a presença e ajuda de Deus em tempos de dificuldade, que é um tema importante em Isaías 51.
+* Salmos 126:5-6: "Os que semeiam em lágrimas segarão com alegria. Aquele que leva a preciosa semente, andando e chorando, voltará, sem dúvida, com alegria, trazendo consigo os seus molhos." Esse versículo destaca a ideia de que a tristeza e o sofrimento podem ser transformados em alegria e bênçãos através da graça de Deus, que é um tema central em Isaías 51.
+****
+
+[[v29-51-1]]
+
+^<<v29-51-1,1>>^ Ouvi-me, vós todos os que seguis a justiça e buscais o Senhor; considerai a rocha donde fostes cortados, a pedreira donde fostes tirados.
+
+[[v29-51-2]]
+
+^<<v29-51-2,2>>^ Lançai os olhos para Abraão, vosso pai, e para Sara, que vos deu à luz, porque eu o chamei, quando ele estava só (sem esperança de ter filhos), e o abençoei e multipliquei.
+
+[[v29-51-3]]
+
+^<<v29-51-3,3>>^ O Senhor consolará, pois, Sião, consolará todas as suas ruínas, transformará o seu deserto num lugar de delícias e a sua solidão num jardim do Senhor. Aí haverá gozo e alegria, ação de graças, cânticos de louvor.
+
+[[v29-51-4]]
+
+^<<v29-51-4,4>>^ Atende-me, povo meu, ouve-me, nação minha, porque de mim sairá a lei, e o meu direito será a luz dos povos.
+
+[[v29-51-5]]
+
+^<<v29-51-5,5>>^ A minha justiça está perto, a minha salvação vai aparecer, o meu braço julgará os povos; as ilhas estarão à espera de mim, contarão com o meu braço.
+
+[[v29-51-6]]
+
+^<<v29-51-6,6>>^ Levantai os vossos olhos ao céu, e olhai (depois) para baixo, para a terra, porque os céus se desfarão como o fumo, a terra se gastará como um vestido, e os seus habitantes da mesma forma perecerão. Mas a minha salvação (ou o Salvador) durará para sempre e a minha justiça não perecerá.
+
+[[v29-51-7]]
+
+^<<v29-51-7,7>>^ Ouvi-me, vós os que sabeis o que é justo, povo meu, em cujo coração está a minha lei: não temais o opróbrio dos homens, nem receeis os seus ultrajes.
+
+[[v29-51-8]]
+
+^<<v29-51-8,8>>^ Porque, assim como o bicho destrói um vestido, assim os comerá a eles; assim como a traça desfaz a lã, assim os devorará a eles. Mas a minha justiça durará para sempre, e a minha salvação de geração em geração.
+
+[[v29-51-9]]
+
+^<<v29-51-9,9>>^ Levanta-te, ó braço do Senhor, levanta-te, arma-te de fortaleza; levanta-te como nos dias antigos, nos séculos passados. Porventura não foste tu que despedaçaste Rahab, que traspassaste o dragão?
+
+[[v29-51-10]]
+
+^<<v29-51-10,10>>^ Porventura não secaste tu o mar, as águas do grande abismo? Não abriste um caminho pelo fundo do mar, para que passassem os libertados?
+
+[[v29-51-11]]
+
+^<<v29-51-11,11>>^ Os que foram resgatados pelo Senhor voltarão e virão para Sião, cantando triunfo, com a cabeça coroada duma alegria sempiterna: terão gozo e alegria, fugirão (deles) a dor e o gemido.
+
+[[v29-51-12]]
+
+^<<v29-51-12,12>>^ Sou eu, sou eu que vos consolo. Quem és tu, para teres medo de um homem mortal, dum filho do homem, que secará como a erva?
+
+[[v29-51-13]]
+
+^<<v29-51-13,13>>^ Como esqueceste o Senhor teu criador, que estendeu os céus e fundou a terra, para, todo o dia, continuamente, tremeres diante do furor do tirano disposto a te perder? Onde está agora o furor do que te oprimia?
+
+[[v29-51-14]]
+
+^<<v29-51-14,14>>^ O prisioneiro brevemente será libertado, não morrerá no cárcere, nem lhe faltará pão.
+
+[[v29-51-15]]
+
+^<<v29-51-15,15>>^ Eu sou o Senhor teu Deus, que revolvo o mar e enfureço as suas ondas; Senhor dos exércitos é o meu nome.
+
+[[v29-51-16]]
+
+^<<v29-51-16,16>>^ Pus as minhas palavras na tua boca e protegi-te com a sombra da minha mão, a fim de que plantes os céus, fundas a terra e digas a Sião: Tu és o meu povo.
+
+[[v29-51-17]]
+
+^<<v29-51-17,17>>^ Acorda, acorda, levanta-te, Jerusalém, que bebeste da mão do Senhor o cálice da sua ira, que bebeste até ao fundo o cálice de atordoamento, que o esgotaste até às fezes.
+
+[[v29-51-18]]
+
+^<<v29-51-18,18>>^ De todos os filhos que ela gerou, nenhum a guiou; de todos os filhos que criou, nenhum a tomou pela mão.
+
+[[v29-51-19]]
+
+^<<v29-51-19,19>>^ Dois males te sobrevieram: - quem se condoerá de ti? - a desolação e o extermínio, a fome e a espada, Quem te consolará?
+
+[[v29-51-20]]
+
+^<<v29-51-20,20>>^ Os teus filhos jazem desfalecidos por terra, ao canto de todas as ruas, como um antílope tomado no laço, cheios da indignação do Senhor, da ameaça do teu Deus.
+
+[[v29-51-21]]
+
+^<<v29-51-21,21>>^ Portanto ouve isto, infeliz (Jerusalém), embriagada, sem ser de vinho (mas de aflições).
+
+[[v29-51-22]]
+
+^<<v29-51-22,22>>^ Isto diz o teu Senhor e teu Deus, que peleja pelo seu povo: eis que eu vou tirar da tua mão o cálice de atordoamento, o cálice da minha indignação; tu não o tomarás mais a beber, para futuro.
+
+[[v29-51-23]]
+
+^<<v29-51-23,23>>^ Pô-lo-ei na mão daqueles que te perseguiram, que disseram à tua alma: Curva-te para nós passarmos! E tu punhas o teu dorso como terra (que se calca), como caminho para os viandantes. (ver nota)
+
+'''
+
+xref:029-isaias/029-isaias-050.adoc#v29-50-0[&#60; Capítulo Anterior] | <<v29-51-0,Topo>> | xref:029-isaias/029-isaias-052.adoc#v29-52-0[Próximo Capítulo &#62;]

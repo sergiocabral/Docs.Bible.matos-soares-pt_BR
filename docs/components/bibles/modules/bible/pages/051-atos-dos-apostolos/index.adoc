@@ -1,0 +1,40 @@
+include::../index.adoc[]
+
+[[v51-0-0]]
+== Atos dos Apóstolos
+
+[cols="8*^"]
+|===
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-001.adoc#v51-1-0[1]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-002.adoc#v51-2-0[2]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-003.adoc#v51-3-0[3]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-004.adoc#v51-4-0[4]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-005.adoc#v51-5-0[5]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-006.adoc#v51-6-0[6]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-007.adoc#v51-7-0[7]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-008.adoc#v51-8-0[8]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-009.adoc#v51-9-0[9]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-010.adoc#v51-10-0[10]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-011.adoc#v51-11-0[11]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-012.adoc#v51-12-0[12]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-013.adoc#v51-13-0[13]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-014.adoc#v51-14-0[14]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-015.adoc#v51-15-0[15]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-016.adoc#v51-16-0[16]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-017.adoc#v51-17-0[17]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-018.adoc#v51-18-0[18]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-019.adoc#v51-19-0[19]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-020.adoc#v51-20-0[20]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-021.adoc#v51-21-0[21]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-022.adoc#v51-22-0[22]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-023.adoc#v51-23-0[23]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-024.adoc#v51-24-0[24]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-025.adoc#v51-25-0[25]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-026.adoc#v51-26-0[26]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-027.adoc#v51-27-0[27]
+| xref:051-atos-dos-apostolos/051-atos-dos-apostolos-028.adoc#v51-28-0[28]
+|
+|
+|
+|
+|===

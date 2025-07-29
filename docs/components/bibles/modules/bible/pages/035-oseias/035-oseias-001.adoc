@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v35-1-0]]
+=== Oséias, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 do livro de Oséias começa com uma ordem dada a Oséias pelo Senhor para que ele se casasse com uma mulher adúltera e tivesse filhos com ela, como um símbolo do relacionamento infiel de Israel com Deus. Em seguida, é revelado que os filhos que ela dá à luz são nomeados pelo Senhor com nomes simbólicos que representam o julgamento e a punição de Deus sobre Israel por sua infidelidade. Abaixo estão cinco versículos de outros livros da Bíblia que tratam de temas semelhantes aos abordados em Oséias 1:
+* Deuteronômio 31:16: "E disse o Senhor a Moisés: Eis que tu estás para dormir com teus pais; e este povo se levantará, e se prostituirá com os deuses estranhos da terra, para cujo meio vai, e me deixará, e anulará o meu concerto que tenho feito com ele naquele dia." Este versículo mostra como a infidelidade de Israel em relação a Deus foi predita anteriormente na Bíblia, e como o povo acabou quebrando o concerto que Deus tinha feito com eles.
+* Isaías 1:2: "Ouvi, ó céus, e dá ouvidos, ó terra; porque o Senhor tem falado: Criei filhos, e os engrandeci; mas eles se rebelaram contra mim." Aqui, Isaías usa a metáfora de Deus como um pai que criou filhos que se rebelaram contra ele, como uma forma de descrever a infidelidade de Israel em relação a Deus.
+* Jeremias 3:6-7: "Disse mais o Senhor no tempo do rei Josias: Viste o que fez a rebelde Israel? Foi ela a todo o monte alto e debaixo de toda a árvore verde, e ali se prostituiu. E eu disse depois que ela fez tudo isto: Torna para mim. Mas ela não voltou. E viu isso a sua prevaricação, e a infiel Judá." Este versículo mostra como a infidelidade de Israel foi contínua e persistente, apesar dos avisos e apelos de Deus para que eles se arrependessem e voltassem para ele.
+* Ezequiel 23:1-4: "Veio a mim a palavra do Senhor, dizendo: Filho do homem, houve duas mulheres, filhas de uma mãe. E prostituíram-se no Egito; na sua mocidade se prostituíram; ali foram apertados os seus seios, e ali foram apalpados os seios da sua virgindade. E os seus nomes eram: a mais velha, Aolá; e sua irmã, Aolibá; e foram minhas, e tiveram filhos e filhas. E os seus nomes: a mais velha, Aolá, e sua irmã, Aolibá." Este versículo usa a metáfora de duas irmãs que se prostituíram para descrever a infidelidade de Israel e Judá em relação a Deus.
+* Oséias 4:1-2: "Ouvi a palavra do Senhor, filhos de Israel; porque o Senhor tem uma contenda com os habitantes da terra; porque não há verdade, nem benignidade, nem conhecimento de Deus na terra. Antes há perjúrio, e mentira, e homicídio, e furto, e adultério; cometem adultério, e sangue toca em sangue." Este versículo continua o tema da infidelidade de Israel em relação a Deus, mostrando como a falta de conhecimento e verdade na terra levou à disseminação de crimes como perjúrio, mentira, homicídio, furto e adultério.
+****
+
+[[v35-1-1]]
+
+^<<v35-1-1,1>>^ Palavra do Senhor, que foi dirigida a Oseias, filho de Beeri, nos dias de Osias, de Joatan, de Acaz, de Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.
+
+[[v35-1-2]]
+
+^<<v35-1-2,2>>^ Começou o Senhor a falar a Oseias, quando lhe disse: Vai, toma por mulher uma prostituta e tem filhos de prostituição, porque a terra (de Israel) não cessa de se prostituir (ou idolatrar), abandonando o Senhor. (ver nota)
+
+[[v35-1-3]]
+
+^<<v35-1-3,3>>^ (Oseias) foi e tomou por sua mulher a Gomer, filha de Deblaim, a qual concebeu e lhe deu à luz um filho.
+
+[[v35-1-4]]
+
+^<<v35-1-4,4>>^ O Senhor disse a Oseias: Põe-lhe o nome de Jezrael, porque dentro de pouco tempo eu tirarei vingança da casa de Jeú, pelo sangue (que derramou na cidade) de Jezrael, e porei fim à realeza da casa de Israel.
+
+[[v35-1-5]]
+
+^<<v35-1-5,5>>^ Naquele dia quebrarei o arco (ou poder militar) de Israel no vale de Jezrael.
+
+[[v35-1-6]]
+
+^<<v35-1-6,6>>^ Ela concebeu outra vez e deu à luz uma filha. O Senhor disse a Oseias: Põe-lhe o nome de Sem-misericórdla (ou: Aquela de que se não tem pena) — porque não me tornarei mais a compadecer da casa de Israel, antes a esquecerei inteiramente.
+
+[[v35-1-7]]
+
+^<<v35-1-7,7>>^ Compadecer-me-ei, porém, da casa de Judá; salvá-los-ei por meio do Senhor seu Deus, e não pelo arco, nem pela espada, nem pela guerra, nem pelos cavalos, nem pelos cavaleiros.
+
+[[v35-1-8]]
+
+^<<v35-1-8,8>>^ (Gomer) desquitou a sua filha, chamada Sem-misericórdia, concebeu outra vez e deu à luz um filho.
+
+[[v35-1-9]]
+
+^<<v35-1-9,9>>^ O Senhor disse a Oseias: Põe-lhe o nome de Não-meu-povo, porque vós já não sois meu povo, e eu não sou mais vosso (Deus).
+
+[[v35-1-10]]
+
+^<<v35-1-10,10>>^ Porém (um dia) o número dos filhos de Israel será como a areia do mar, que não se pode medir nem contar. E acontecerá que no lugar onde se lhes disse: Vós não sois já meu povo — se lhes dirá: Vós sois filhos do Deus vivo.
+
+[[v35-1-11]]
+
+^<<v35-1-11,11>>^ Então os filhos de Judá e os filhos de Israel se juntarão, constituirão sobre si um só chefe, e transbordarão para fora do seu território, porque grande será o dia de Jezrael. (ver nota)
+
+'''
+
+xref:034-daniel/034-daniel-014.adoc#v34-14-0[&#60; Capítulo Anterior] | <<v35-1-0,Topo>> | xref:035-oseias/035-oseias-002.adoc#v35-2-0[Próximo Capítulo &#62;]

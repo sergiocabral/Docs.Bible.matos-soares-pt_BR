@@ -1,0 +1,215 @@
+include::./index.adoc[]
+
+[[v49-6-0]]
+=== São Lucas, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Lucas 6 apresenta uma série de ensinamentos e ações de Jesus, incluindo a escolha dos doze apóstolos, a cura de um homem com a mão atrofiada e a proclamação das bem-aventuranças. Alguns dos temas abordados no capítulo incluem a lei, a misericórdia, a justiça, a humildade e a oração. Seguem abaixo cinco versículos relacionados a esses temas:
+* Provérbios 21:3: "Praticar a justiça e o direito é mais aceitável ao Senhor do que oferecer sacrifícios." Esse versículo destaca a importância da justiça em relação aos rituais religiosos, mostrando que ações concretas são mais valorizadas por Deus do que oferendas vazias.
+* Tiago 2:13: "Porque o juízo é sem misericórdia para aquele que não usou de misericórdia. A misericórdia triunfa sobre o juízo." Esse versículo destaca a importância da misericórdia em nossas relações com os outros e mostra que ela é fundamental para a vida cristã.
+* Isaías 1:17: "Aprendam a fazer o bem, busquem a justiça, acabem com a opressão. Lutem pelos direitos do órfão, defendam a causa da viúva." Esse versículo enfatiza a necessidade de agir em favor dos mais fracos e vulneráveis da sociedade, buscando justiça e igualdade.
+* Filipenses 2:3: "Não façam nada por ambição egoísta ou por vaidade, mas humildemente considerem os outros superiores a si mesmos." Esse versículo destaca a importância da humildade e da renúncia ao egoísmo em nossas relações com os outros.
+* 1 Tessalonicenses 5:16-18: "Estejam sempre alegres. Orem sem cessar. Deem graças em todas as circunstâncias, pois esta é a vontade de Deus para vocês em Cristo Jesus." Esse versículo destaca a importância da oração e da gratidão em nossa vida cristã, mostrando que devemos buscar sempre nos aproximar de Deus em todas as circunstâncias.
+****
+
+[[v49-6-1]]
+
+^<<v49-6-1,1>>^ Num sábado, passando Jesus pelas searas, os seus discípulos colhiam espigas, e, machucando-as nas mãos, as comiam.
+
+[[v49-6-2]]
+
+^<<v49-6-2,2>>^ Alguns dos fariseus disseram-Ihes: "Porque fazeis o que não é permitido nos sábados?"
+
+[[v49-6-3]]
+
+^<<v49-6-3,3>>^ Jesus respondeu-lhes: "Não leste o que fez David, quando teve fome, ele e os que com ele estavam?"
+
+[[v49-6-4]]
+
+^<<v49-6-4,4>>^ Como entrou na casa de Deus, tomou os pães da proposição, comeu deles, e deu aos seus companheiros, embora não fosse permitido comer deles senão aos sacerdotes?"
+
+[[v49-6-5]]
+
+^<<v49-6-5,5>>^ Depois acrescentou: "O Filho do homem é Senhor também do sábado."
+
+[[v49-6-6]]
+
+^<<v49-6-6,6>>^ Aconteceu que, em outro sábado, entrou Jesus na sinagoga, e ensinava. Estava ali um homem que tinha a mão direita seca.
+
+[[v49-6-7]]
+
+^<<v49-6-7,7>>^ Os escribas e os fariseus o estavam observando para ver se curava ao sábado, a fim de terem de que o acusar.
+
+[[v49-6-8]]
+
+^<<v49-6-8,8>>^ Mas ele conhecia os seus pensamentos, e disse ao homem que tinha a mão seca: "Levanta-te, e põe-te em pé no meio." Ele, levantando-se, pôs-se de pé.
+
+[[v49-6-9]]
+
+^<<v49-6-9,9>>^ Jesus disse-lhe: "Pergunto-vos se é lícito aos sábados fazer bem ou mal, salvar a vida ou tirá-la."
+
+[[v49-6-10]]
+
+^<<v49-6-10,10>>^ Depois, correndo a todos com o olhar, disse ao homem : "Estende a tua mão." Ele estendeu-a, e a sua mão tornou-se sã.
+
+[[v49-6-11]]
+
+^<<v49-6-11,11>>^ Eles encheram-se de furor, e falavam uns com os outros para ver que fariam contra Jesus.
+
+[[v49-6-12]]
+
+^<<v49-6-12,12>>^ Naqueles dias Jesus retirou-se para o monte a orar, e passou toda a noite em oração a Deus.
+
+[[v49-6-13]]
+
+^<<v49-6-13,13>>^ Quando se fez dia, chamou os seus discipulos, e escolheu doze dentre eles, aos quais deu o nome de Apóstolos:
+
+[[v49-6-14]]
+
+^<<v49-6-14,14>>^ Simão, a quem deu o sobrenome de Pedro, André, seu irmão, Tiago, João, Filipe, Bartolomeu,
+
+[[v49-6-15]]
+
+^<<v49-6-15,15>>^ Mateus, Tomé, Tiago, filho de Alfeu, Simão, chamado o Zelador,
+
+[[v49-6-16]]
+
+^<<v49-6-16,16>>^ Judas, irmão de Tiago, e Judas Escariotes, que foi o traidor.
+
+[[v49-6-17]]
+
+^<<v49-6-17,17>>^ Descendo com eles, parou numa planície. Estava lá um grande número dos seus discipulos, e uma grande multidão de povo de toda a Judeia, de Jerusalém, do litoral de Tiro e de Sidónia,
+
+[[v49-6-18]]
+
+^<<v49-6-18,18>>^ que tinham vindo para o ouvir, e para ser curados das suas doenças. Os que eram vexados pelos espíritos imundos ficavam também sãos.
+
+[[v49-6-19]]
+
+^<<v49-6-19,19>>^ Todo o povo procurava tocá-lo, porque saía dele uma virtude que os curava a todos.
+
+[[v49-6-20]]
+
+^<<v49-6-20,20>>^ Levantando os olhos para os seus discípulos, dizia: "Bem-aventurados vós os pobres, porque vosso é o reino de Deus.
+
+[[v49-6-21]]
+
+^<<v49-6-21,21>>^ Bem-aventurados os que agora tendes fome, porque sereis saciados. Bem-aventurados os que agora chorais, porque rireis.
+
+[[v49-6-22]]
+
+^<<v49-6-22,22>>^ Bem-aventurados sereis quando os homens vos odiarem, vos repelirem, vos carregarem de injúrias, e rejeitarem o vosso nome como mau, por causa do Filho do homem.
+
+[[v49-6-23]]
+
+^<<v49-6-23,23>>^ Alegrai-vos nesse dia, e exultai, porque será grande a vossa recompensa no céu. Era assim que os pais deles tratavam os profetas.
+
+[[v49-6-24]]
+
+^<<v49-6-24,24>>^ Mas, ai de vós, ó ricos! porque tendes a vossa consolação (neste mundo). (ver nota)
+
+[[v49-6-25]]
+
+^<<v49-6-25,25>>^ Ai de vós os que estais saciados! porque vireis a ter fome. Ai de vós os que agora rides! porque gemereis e chorareis.
+
+[[v49-6-26]]
+
+^<<v49-6-26,26>>^ Ai de vós, quando todos os homens vos louvarem! porque assim faziam aos falsos profetas os pais deles.
+
+[[v49-6-27]]
+
+^<<v49-6-27,27>>^ Mas digo-vos a vós, que me ouvis: Amai os vossos inimigos, fazei bem aos que vos odeiam
+
+[[v49-6-28]]
+
+^<<v49-6-28,28>>^ abençoai os que vos amaldiçoam, orai pelos que vos caluniam.
+
+[[v49-6-29]]
+
+^<<v49-6-29,29>>^ A o que te ferir numa face, oferece-lhe também a outra. Ao que te tirar o manto, não o impeças de levar também a túnica. (ver nota)
+
+[[v49-6-30]]
+
+^<<v49-6-30,30>>^ Dá a todo aquele que te pede: e ao que leva o que é teu, não lho tornes a pedir.
+
+[[v49-6-31]]
+
+^<<v49-6-31,31>>^ O que quereis que vos façam os homens, fazei-o vós também a eles.
+
+[[v49-6-32]]
+
+^<<v49-6-32,32>>^ Se vós amais os que vos amam, que mérito tendes? Porque os pecadores também amam quem os ama.
+
+[[v49-6-33]]
+
+^<<v49-6-33,33>>^ Se fizerdes bem aos que vos fazem bem, que mérito tendes? Os pecadores também fazem isto.
+
+[[v49-6-34]]
+
+^<<v49-6-34,34>>^ Se emprestardes àqueles de quem esperais receber, que mérito tendes? Os pecadores também emprestam aos pecadores, para que se lhes faça outro tanto.
+
+[[v49-6-35]]
+
+^<<v49-6-35,35>>^ Vós, porém, amai os vossos inimigos; fazei bem e emprestai, sem daí esperardes nada; e será grande a vossa recompensa, e sereis filhos do Altíssimo, que é bom para os ingratos e para os maus.
+
+[[v49-6-36]]
+
+^<<v49-6-36,36>>^ Sede misericordiosos, como também vosso Pai é misericordioso.
+
+[[v49-6-37]]
+
+^<<v49-6-37,37>>^ Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; perdoai, e sereis perdoados;
+
+[[v49-6-38]]
+
+^<<v49-6-38,38>>^ dai, e dar-se-vos-à. Um a medida boa, cheia, recalcada e acogulada, vos será lançada nas dobras do vosso vestido. Porque, com a mesma medida com que medirdes para os outros, será medido para vós."
+
+[[v49-6-39]]
+
+^<<v49-6-39,39>>^ Dizia-lhes também esta comparação : "Pode porventura um cego guiar outro cego? Não cairão ambos no barranco?
+
+[[v49-6-40]]
+
+^<<v49-6-40,40>>^ O discípulo não é mais que o mestre; mas todo o discipulo será perfeito, se for como seu mestre.
+
+[[v49-6-41]]
+
+^<<v49-6-41,41>>^ Porque vês tu a aresta no olho do teu irmão, e não notas a trave que tens no teu?
+
+[[v49-6-42]]
+
+^<<v49-6-42,42>>^ Ou como podes tu dizer a teu irmão : Deixa, irmão, que eu tire do teu olho a aresta, não vendo tu mesmo a trave que tens no teu? Hipócrita, tira primeiro a trave do teu olho, e depois verás para tirar a aresta do olho de teu irmão.
+
+[[v49-6-43]]
+
+^<<v49-6-43,43>>^ Porque não é boa árvore a que dá frutos maus, nem má árvore a que dá bom fruto.
+
+[[v49-6-44]]
+
+^<<v49-6-44,44>>^ Porquanto cada árvore se conhece pelo seu fruto; pois nem se colhem figos dos espinheiros, nem se vindimam uvas de um abrolho.
+
+[[v49-6-45]]
+
+^<<v49-6-45,45>>^ O homem bom, do bom tesouro do seu coração tira o bem; o homem mau, do mau tesouro tira o mal; porque a boca fala da abundância do coração.
+
+[[v49-6-46]]
+
+^<<v49-6-46,46>>^ Porque me chamais vós Senhor, Senhor, e não fazeis o que eu vos digo?
+
+[[v49-6-47]]
+
+^<<v49-6-47,47>>^ Todo o que vem a mim, que ouve as minhas palavras, e as põe em prática, vou mostrar-vos a quem ele é semelhante.
+
+[[v49-6-48]]
+
+^<<v49-6-48,48>>^ É semelhante a um homem que, edificando uma casa, cavou profundamente, e pôs os alicerces sobre a rocha. Vindo uma inundação, investiu a torrente contra aquela casa, e não pôde movê-la, porque estava bem edificada.
+
+[[v49-6-49]]
+
+^<<v49-6-49,49>>^ Mas o que ouve, e não pratica, é semelhante a um homem, que edificou a sua casa sobre a terra sem fundamentos. Investiu a torrente contra ela, e logo caiu, e foi grande a ruína daquela casa."
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-005.adoc#v49-5-0[&#60; Capítulo Anterior] | <<v49-6-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-007.adoc#v49-7-0[Próximo Capítulo &#62;]

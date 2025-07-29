@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v9-18-0]]
+=== I Samuel, 18
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 18 de 1 Samuel narra o estabelecimento da amizade entre Davi e Jônatas, filho do rei Saul, bem como a inveja e o ciúme que Saul começa a nutrir em relação a Davi, devido à sua crescente popularidade junto ao povo e às suas vitórias militares. Os versículos selecionados abaixo tratam de temas como amizade, inveja e ciúme.
+* Provérbios 17:17: "Em todo tempo ama o amigo; e na angústia se faz o irmão." Este versículo destaca a importância da amizade verdadeira, que se mantém constante em todos os momentos, especialmente nos momentos difíceis.
+* Provérbios 14:30: "O coração sereno é a vida da carne, mas a inveja é a podridão dos ossos." Aqui, o autor destaca o efeito negativo da inveja sobre a saúde emocional e espiritual de uma pessoa.
+* Provérbios 27:4: "A ira é cruel e a fúria é impetuosa, mas quem pode enfrentar o ciúme?" Este versículo aponta para a natureza destrutiva do ciúme e a dificuldade de lidar com ele.
+* Gálatas 5:19-21: "Ora, as obras da carne são manifestas, as quais são: prostituição, impureza, lascívia, idolatria, feitiçarias, inimizades, porfias, ciúmes, iras, discórdias, dissensões, facções, invejas, bebedices, glutonarias, e coisas semelhantes a estas, acerca das quais vos declaro, como já antes vos disse, que os que cometem tais coisas não herdarão o reino de Deus." Este trecho bíblico aponta para a gravidade do ciúme como uma obra da carne, que se opõe à natureza de Deus e à vida eterna.
+* 1 Coríntios 13:4-7: "O amor é paciente, é benigno; o amor não arde em ciúmes, não se ufana, não se ensoberbece, não se porta inconvenientemente, não busca os seus próprios interesses, não se irrita, não suspeita mal; não se regozija com a injustiça, mas se regozija com a verdade; tudo sofre, tudo crê, tudo espera, tudo suporta." Estes versículos falam sobre as características do verdadeiro amor, que incluem a ausência de ciúme e inveja.
+****
+
+[[v9-18-1]]
+
+^<<v9-18-1,1>>^ Aconteceu que, acabando (Davide) de falar com Saul, a alma de Jónatas ficou intimamente ligada à alma de Davide, e Jónatas amou-o como a sua própria vida.
+
+[[v9-18-2]]
+
+^<<v9-18-2,2>>^ Desde este dia, Saul tomou-o (para sua companhia) e não lhe permitiu que voltasse para casa de seu pai.
+
+[[v9-18-3]]
+
+^<<v9-18-3,3>>^ Davide e Jónatas fizeram aliança entre si porque (Jónatas) amava-o com a sua alma.
+
+[[v9-18-4]]
+
+^<<v9-18-4,4>>^ (Jónatas) despojou-se do manto de que estava revestido, deu-o a Davide assim como a sua armadura, a espada, o arco e o cinturão.
+
+[[v9-18-5]]
+
+^<<v9-18-5,5>>^ Davide ia a tudo a que Saul o mandava e procedia com prudência; Saul constituiu-o sobre a gente de guerra, e era muito amado por todo o povo, mesmo pelos servidores de Saul.
+
+[[v9-18-6]]
+
+^<<v9-18-6,6>>^ Quando fizeram a sua entrada, depois de Davide ter morto o Filisteu, saíram as mulheres de todas as cidades de Israel ao encontro do rei Saul, cantando e dançando com alegria ao som de tambores e de sistros.
+
+[[v9-18-7]]
+
+^<<v9-18-7,7>>^ As mulheres dançavam, cantando e dizendo: Saul matou mil, e Davide dez mil.
+
+[[v9-18-8]]
+
+^<<v9-18-8,8>>^ Saul irou-se em extremo, desagradou-lhe esta expressão, e disse: Deram dez mil a Davide, e mil a mim; que lhe falta, senão só o reino?
+
+[[v9-18-9]]
+
+^<<v9-18-9,9>>^ Daquele dia em diante, Saul não via Davide com bons olhos.
+
+[[v9-18-10]]
+
+^<<v9-18-10,10>>^ Ao outro dia, o espírito maligno, mandado por Deus, apoderou-se de Saul, que tinha transportes (de furor) no meio da sua casa; Davide tocava harpa com a sua mão, como costumava fazer todos os dias. Saul, que tinha uma lança na mão,
+
+[[v9-18-11]]
+
+^<<v9-18-11,11>>^ arrojou-a, julgando que poderia cravar Davide contra a parede; porém Davide desviou-se de diante dele por duas vezes.
+
+[[v9-18-12]]
+
+^<<v9-18-12,12>>^ Saul temeu Davide, porque o Senhor era com Davide, e tinha-se retirado dele.
+
+[[v9-18-13]]
+
+^<<v9-18-13,13>>^ Saul afastou-o de si, fazendo-o chefe de mil homens, e Davide saía e entrava à vista do povo. (ver nota)
+
+[[v9-18-14]]
+
+^<<v9-18-14,14>>^ Em todas as suas empresas, Davide procedia com prudência, e o Senhor era com ele.
+
+[[v9-18-15]]
+
+^<<v9-18-15,15>>^ Viu Saul que ele era muito prudente, começou a acautelar-se dele.
+
+[[v9-18-16]]
+
+^<<v9-18-16,16>>^ Todo o Israel e Judá amavam Davide, que entrava e saía diante deles.
+
+[[v9-18-17]]
+
+^<<v9-18-17,17>>^ Saul disse a Davide: Eis aqui Merob, minha filha mais velha, eu ta darei por mulher, contanto que sejas homem valoroso e combatas nas guerras do Senhor. Saul, porém, pensava consigo, dizendo: Não seja a minha mão sobre ele (para o matar), mas seja sobre ele a mão dos Fllisteus.
+
+[[v9-18-18]]
+
+^<<v9-18-18,18>>^ Davide disse a Saul: Quem sou eu, ou qual é a minha vida, ou a família de meu pai em Israel, para vir a ser o genro do rei?
+
+[[v9-18-19]]
+
+^<<v9-18-19,19>>^ Porém , tendo chegado o tempo em que Merob, filha de Saul, devia ser dada a Davide, foi dada por mulher a Hadriel Molatita.
+
+[[v9-18-20]]
+
+^<<v9-18-20,20>>^ Ora Micol, segunda filha de Saul, amou Davide. Isto foi contado a Saul, que se alegrou com isso.
+
+[[v9-18-21]]
+
+^<<v9-18-21,21>>^ Saul disse: Dar-lhe-ei esta, para que ela lhe seja ocasião de ruína, e a mão dos Filisteus seja sobre ele. Saul disse a Davide, pela segunda vez: podes hoje tornar-te meu genro.
+
+[[v9-18-22]]
+
+^<<v9-18-22,22>>^ Saul mandou aos seus servos: Falai a Davide como coisa vossa, dizendo: Estás no agrado do rei, e todos os servos te amam. Cuida, pois, em ser genro do rei.
+
+[[v9-18-23]]
+
+^<<v9-18-23,23>>^ Os servos de Saul disseram todas estas palavras a Davide. Davide respondeu: Porventura parece-vos pouca coisa ser genro do rei? Eu sou pobre e de humilde condição.
+
+[[v9-18-24]]
+
+^<<v9-18-24,24>>^ E os servos de Saul referiram-lhe (isto), dizendo: Davide deu-nos esta resposta.
+
+[[v9-18-25]]
+
+^<<v9-18-25,25>>^ Saul, porém, disse: Falai assim a Davide: O rei não necessita de dons para os esponsais, mas sòmente de cem prepúcios dos Filisteus, para tomar vingança dos seus inimigos. O desígnio de Saul era entregar Davide nas mãos dos Filisteus.
+
+[[v9-18-26]]
+
+^<<v9-18-26,26>>^ Tendo os servos de Saul referido a Davide as palavras que Saul tinha dito, a proposta agradou a Davide para chegar a ser genro do rei.
+
+[[v9-18-27]]
+
+^<<v9-18-27,27>>^ Poucos dias depois, saindo Davide, marchou com os homens, que estavam sob o seu comando, matou duzentos filisteus, levou os prepúcios deles, entregando-lhe o número completo para vir a ser seu genro. Saul, então, deu-lhe a sua filha Micol por mulher.
+
+[[v9-18-28]]
+
+^<<v9-18-28,28>>^ Saul viu e compreendeu que o Senhor era com Davide. Micol, filha de Saul, amava-o.
+
+[[v9-18-29]]
+
+^<<v9-18-29,29>>^ Saul começou a temer cada vez mais Davide, e ficou seu inimigo toda a vida.
+
+[[v9-18-30]]
+
+^<<v9-18-30,30>>^ Quando os príncipes dos Filisteus saíam à campanha, desde o princípio da sua saída, Davide conseguia maior sucesso, pela sua habilidade, do que todos os oficiais de Saul, e o seu nome tornou-se muito célebre.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-017.adoc#v9-17-0[&#60; Capítulo Anterior] | <<v9-18-0,Topo>> | xref:009-i-samuel/009-i-samuel-019.adoc#v9-19-0[Próximo Capítulo &#62;]

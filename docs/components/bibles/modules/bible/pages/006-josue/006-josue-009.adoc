@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v6-9-0]]
+=== Josué, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Josué 9 relata o episódio em que os habitantes de Gibeom, preocupados com a ameaça de serem atacados por Israel, enganam os líderes israelitas fazendo-se passar por um povo distante que deseja fazer um tratado de paz. Os líderes de Israel caem no engano e fazem um pacto com os gibeonitas sem consultar a Deus. Abaixo estão cinco versículos relacionados com os temas abordados em Josué 9.
+* Provérbios 14:15: "O tolo acredita em tudo, mas o sábio sabe discernir." Esse versículo fala da importância de não acreditar em tudo que se ouve, e de buscar a sabedoria e o discernimento antes de tomar decisões. Os líderes de Israel foram enganados pelos habitantes de Gibeom por terem sido tolos em acreditar em suas mentiras.
+* Provérbios 21:30: "Não há sabedoria, nem inteligência, nem conselho contra o Senhor." Esse versículo fala da soberania de Deus sobre todas as coisas. Os líderes de Israel não consultaram a Deus antes de fazerem um pacto com os gibeonitas, e pagaram o preço por essa falta de sabedoria.
+* Eclesiastes 5:4: "Quando fizeres algum voto a Deus, não tardes em cumpri-lo; porque não se agrada de tolos. O que votares, paga-o." Esse versículo fala da importância de se cumprir os votos feitos a Deus. Os líderes de Israel haviam feito um pacto com os gibeonitas, mas não podiam desfazê-lo, pois haviam feito um juramento a Deus.
+* Mateus 10:16: "Eis que vos envio como ovelhas ao meio de lobos; sede, portanto, prudentes como as serpentes e simples como as pombas." Esse versículo fala da necessidade de se manter vigilante e prudente em todas as situações. Os líderes de Israel foram enganados pelos habitantes de Gibeom por não terem sido prudentes.
+* Efésios 5:15: "Portanto, vede prudentemente como andais, não como néscios, mas como sábios." Esse versículo fala da importância de se viver de forma sábia e prudente. Os líderes de Israel foram tolos em acreditar nas mentiras dos habitantes de Gibeom, e pagaram o preço por essa falta de sabedoria.
+****
+
+[[v6-9-1]]
+
+^<<v6-9-1,1>>^ Divulgadas estas coisas, todos os reis da outra banda do Jordão, que moravam nos montes, nas planícies e nos litorais do Mar Grande, e também os que moravam Junto do Líbano, o Heteu, o Amorreu, o Cananeu, o Fereseu, o Heveu e o Jebuseu,
+
+[[v6-9-2]]
+
+^<<v6-9-2,2>>^ uniram-se entre si para combater contra Josué e contra Israel, de comum acordo.
+
+[[v6-9-3]]
+
+^<<v6-9-3,3>>^ Porém os habitantes de Gabaon, ouvindo tudo o que Josué tinha feito a Jericó e a Hai,
+
+[[v6-9-4]]
+
+^<<v6-9-4,4>>^ e, usando de astúcia, tomaram consigo víveres, carregaram sobre os seus jumentos arcos velhos, odres de vinho rotos e recosidos,
+
+[[v6-9-5]]
+
+^<<v6-9-5,5>>^ levaram calçado muito velho, que, em sinal de muito uso, estava cheio de remendos, e vestiram-se de roupas muito usadas; até os pães, que levavam para o caminho, eram duros e desfeitos em pedaços.
+
+[[v6-9-6]]
+
+^<<v6-9-6,6>>^ Foram ter com Josué, que então se encontrava no acampamento de Galgala, e disseram a ele e a todo o Israel: Nós viemos de uma terra muito distante, com o desejo de fazer pazes convosco. Os homens de Israel responderam-lhes:
+
+[[v6-9-7]]
+
+^<<v6-9-7,7>>^ Não sereis vós talvez moradores na terra, que nos é devida por sorte? como poderemos (em tal caso) fazer aliança convosco?
+
+[[v6-9-8]]
+
+^<<v6-9-8,8>>^ Mas eles disseram a Josué: Nós somos teus servos. Aos quais Josué disse: Quem sois vós? donde viestes?
+
+[[v6-9-9]]
+
+^<<v6-9-9,9>>^ Eles responderam: Os teus servos vieram de uma terra muito distante em nome do Senhor teu Deus, porque ouvimos a fama do seu poder, tudo o que fez no Egipto,
+
+[[v6-9-10]]
+
+^<<v6-9-10,10>>^ e (como tratou) os dois reis dos Amorreus, que estavam da outra banda do Jordão, Seon rei de Hesebon, e Og rei de Basan, que estava em Astarot.
+
+[[v6-9-11]]
+
+^<<v6-9-11,11>>^ Os nossos anciães e todos os habitantes da nossa terra disseram-nos: Tomai provisões para uma tão longa jornada, ide ao seu encontro e dizei-Ihes: Nós somos vossos servos, fazei aliança connosco.
+
+[[v6-9-12]]
+
+^<<v6-9-12,12>>^ Eis os pães, que tomamos quentes quando partimos de nossas casas para vir ter convosco, agora estão secos e desfeitos por demasiadamente antigos.
+
+[[v6-9-13]]
+
+^<<v6-9-13,13>>^ Estes odres eram novos, quando os enchemos de vinho, e agora estão rotos e descosidos; a roupa que nos cobre, e o calçado que trazemos nos pés, gastaram-se, quase se consumiram com um tão longo caminho.
+
+[[v6-9-14]]
+
+^<<v6-9-14,14>>^ Tomaram pois (os Israelitas) dos viveres deles, e não consultaram o oráculo do Senhor.
+
+[[v6-9-15]]
+
+^<<v6-9-15,15>>^ Josué fez paz com eles, e, contraindo aliança, prometeu que não seriam mortos, e o mesmo juraram os príncipes do povo.
+
+[[v6-9-16]]
+
+^<<v6-9-16,16>>^ Porém, três dias depois de ter sido feita aliança, souberam que eles habitavam na vizinhança, e que haviam de viver entre eles.
+
+[[v6-9-17]]
+
+^<<v6-9-17,17>>^ Então os filhos de Israel moveram o acampamento e, ao terceiro dia, chegaram às suas cidades, cujos nomes são estes; Gabaon, Cafira, Berot e Cariatiarim.
+
+[[v6-9-18]]
+
+^<<v6-9-18,18>>^ Não os mataram, por causa do juramento que os príncipes do povo tinham feito, em nome do Senhor Deus de Israel. Pelo que todo o povo murmurou contra os príncipes,
+
+[[v6-9-19]]
+
+^<<v6-9-19,19>>^ os quais responderam: Nós jurámos-lhes, em nome do Senhor Deus de Israel, e por isso não podemos tocar-lhes.
+
+[[v6-9-20]]
+
+^<<v6-9-20,20>>^ Todavia tratá-los-emos assim: Fiquem embora salvos com vida, para que não se excite contra nós a ira do Senhor, se faltarmos ao juramento,
+
+[[v6-9-21]]
+
+^<<v6-9-21,21>>^ mas vivam com a obrigação de cortarem lenha e acarretarem água para o serviço de todo o povo. Estando eles a dizer isto,
+
+[[v6-9-22]]
+
+^<<v6-9-22,22>>^ Josué chamou os Gabaonitas e disse-lhes: Porque nos quisestes enganar com (a vossa) fraude, dizendo: Nós habitamos muito longe de vós, sendo que viveis no meio de nós?
+
+[[v6-9-23]]
+
+^<<v6-9-23,23>>^ Por isso estareis debaixo de maldição, e não faltará da vossa linhagem quem corte lenha e acarrete água para a casa do meu Deus.
+
+[[v6-9-24]]
+
+^<<v6-9-24,24>>^ Eles responderam: A nós, teus servos, chegou a noticia de que o Senhor teu Deus tinha prometido a Moisés, seu servo, que vos daria toda a terra e extinguiria todos os seus habitantes. Tivemos, pois, muito medo, e, compelidos pelo terror que vós cansáveis, tomámos este expediente para segurarmos as nossas vidas.
+
+[[v6-9-25]]
+
+^<<v6-9-25,25>>^ Agora estamos nas tuas mãos; faz de nós o que te parecer bom e justo.
+
+[[v6-9-26]]
+
+^<<v6-9-26,26>>^ Fez pois Josué, como tinha dito, e livrou-os das mãos dos filhos de Israel, para que os não matassem.
+
+[[v6-9-27]]
+
+^<<v6-9-27,27>>^ Determinou naquele dia que fossem empregados no serviço de todo o povo e do altar do Senhor, cortando lenha e conduzindo água ao lugar que o Senhor escolhesse, (como o fazem) até ao presente.
+
+'''
+
+xref:006-josue/006-josue-008.adoc#v6-8-0[&#60; Capítulo Anterior] | <<v6-9-0,Topo>> | xref:006-josue/006-josue-010.adoc#v6-10-0[Próximo Capítulo &#62;]

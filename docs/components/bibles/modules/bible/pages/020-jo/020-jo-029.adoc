@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v20-29-0]]
+=== Jó, 29
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jó 29 é um capítulo em que Jó relembra seus dias de prosperidade, quando era respeitado e admirado por todos ao seu redor. Ele fala sobre a sua reputação, a sua riqueza e as honrarias que recebeu. Os versículos abaixo foram escolhidos por abordarem temas relacionados a essas lembranças e à posição de destaque que Jó tinha na sociedade:
+* Provérbios 22:1: "Mais digno de ser escolhido é o bom nome do que as muitas riquezas; e a boa fama vale mais do que a prata e o ouro." Jó tinha um nome respeitado e uma boa fama, que valiam mais do que qualquer riqueza material.
+* Salmos 112:1-3: "Bem-aventurado o homem que teme ao Senhor e se compraz nos seus mandamentos. A sua descendência será poderosa na terra; a geração dos retos será abençoada. Na sua casa há prosperidade e riqueza, e a sua justiça permanece para sempre." Jó era um homem justo e temente a Deus, o que lhe trouxe prosperidade e riqueza em sua vida.
+* Eclesiastes 7:1: "Melhor é a boa fama do que o melhor perfume, e o dia da morte do que o dia do nascimento." A boa fama de Jó era mais valiosa do que qualquer perfume ou bem material.
+* Jó 12:4: "Sou motivo de riso para os meus amigos; eu, que invoco a Deus e ele me responde; sou motivo de zombaria, um justo, um homem íntegro." Jó, mesmo sendo justo e íntegro, passou a ser motivo de riso para seus amigos depois de ter perdido tudo.
+* Salmos 25:14: "O segredo do Senhor é para os que o temem, e ele lhes fará saber o seu concerto." Jó tinha um relacionamento profundo com Deus e sabia que a sua justiça e retidão eram reconhecidas por Ele, mesmo que seus amigos não entendessem.
+****
+
+[[v20-29-1]]
+
+^<<v20-29-1,1>>^ Job, continuando a sua parábola, acrescentou:
+
+[[v20-29-2]]
+
+^<<v20-29-2,2>>^ Quem me dera ser como fui nos meses antigos, como nos dias em que Deus me guardava,
+
+[[v20-29-3]]
+
+^<<v20-29-3,3>>^ quando a sua lâmpada luzia sobre a minha cabeça, e quando eu, guiado pela sua luz, caminhava (seguro) entre as trevas!
+
+[[v20-29-4]]
+
+^<<v20-29-4,4>>^ Como fui nos dias do meu outono, quando Deus protegia a minha casa,
+
+[[v20-29-5]]
+
+^<<v20-29-5,5>>^ quando o Omnipotente estava comigo, e meus filhos em volta de mim;
+
+[[v20-29-6]]
+
+^<<v20-29-6,6>>^ quando eu (por assim dizer) lavava os meus pés em leite, e quando a pedra derramava para mim arrolos de azeite;
+
+[[v20-29-7]]
+
+^<<v20-29-7,7>>^ quando eu saia até à porta da cidade, e me sentava numa cadeira na praça pública!
+
+[[v20-29-8]]
+
+^<<v20-29-8,8>>^ Viam-me (nessa altura) os jovens e retiravam-se (reverentes); os velhos, levantando-se, punham-se de pé.
+
+[[v20-29-9]]
+
+^<<v20-29-9,9>>^ Os príncipes cessavam de falar, e punham a mão sobre a sua boca.
+
+[[v20-29-10]]
+
+^<<v20-29-10,10>>^ Os grandes continham a sua voz, e a sua língua ficava pegada ao paladar.
+
+[[v20-29-11]]
+
+^<<v20-29-11,11>>^ O ouvido que me escutava, chamava-me bem-aventurado, e os olhos que me viam, davam (bom) testemunho de mim,
+
+[[v20-29-12]]
+
+^<<v20-29-12,12>>^ porque eu livrava o aflito suplicante, e o órfão, que não tinha quem o socorresse,
+
+[[v20-29-13]]
+
+^<<v20-29-13,13>>^ A bênção do que estava a perecer vinha sobre mim, e eu consolava o coração da viúva.
+
+[[v20-29-14]]
+
+^<<v20-29-14,14>>^ Revesti-me de justiça, e a equidade serviu-me como de vestido e de diadema.
+
+[[v20-29-15]]
+
+^<<v20-29-15,15>>^ Fui o olho do cego, e o pé do coxo.
+
+[[v20-29-16]]
+
+^<<v20-29-16,16>>^ Eu era o pai dos pobres, e as causas (dos pobres) de que eu não tinha conhecimento, informava-me delas com toda a diligência.
+
+[[v20-29-17]]
+
+^<<v20-29-17,17>>^ Eu quebrava as maxilas do iníquo, e tirava-lhe a presa dentre os dentes.
+
+[[v20-29-18]]
+
+^<<v20-29-18,18>>^ Eu dizia: Morrerei no meu ninho, e multiplicarei os dias como a areia.
+
+[[v20-29-19]]
+
+^<<v20-29-19,19>>^ A minha raiz estende-se ao longo das águas, e o orvalho descansa sobre os meus ramos.
+
+[[v20-29-20]]
+
+^<<v20-29-20,20>>^ A minha glória sempre se renovará, e o meu arco fortificar-se-á na minha mão.
+
+[[v20-29-21]]
+
+^<<v20-29-21,21>>^ Os que me ouviam esperavam a minha opinião, e em silêncio estavam atentos ao meu conselho.
+
+[[v20-29-22]]
+
+^<<v20-29-22,22>>^ Não ousavam juntar nada ás minhas palavras, e as minhas razões caíam sobre eles como orvalho.
+
+[[v20-29-23]]
+
+^<<v20-29-23,23>>^ Esperavam-me como a chuva, e abriam a sua boca como (faz a terra seca) às águas da primavera.
+
+[[v20-29-24]]
+
+^<<v20-29-24,24>>^ Se alguma vez lhes sorria, não o acreditavam, e a luz do meu rosto não caia por terra.
+
+[[v20-29-25]]
+
+^<<v20-29-25,25>>^ Quando ia ter com eles, sentava-me no primeiro lugar, como um rei no meio do seu exército, como um consolador dos aflitos.
+
+'''
+
+xref:020-jo/020-jo-028.adoc#v20-28-0[&#60; Capítulo Anterior] | <<v20-29-0,Topo>> | xref:020-jo/020-jo-030.adoc#v20-30-0[Próximo Capítulo &#62;]

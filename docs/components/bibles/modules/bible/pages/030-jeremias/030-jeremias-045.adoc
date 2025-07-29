@@ -1,0 +1,39 @@
+include::./index.adoc[]
+
+[[v30-45-0]]
+=== Jeremias, 45
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 45 contém uma mensagem dirigida a Baruque, o escriba de Jeremias, em meio à crise e ao sofrimento que o povo de Judá estava enfrentando. Baruque estava desanimado e desencorajado, e Deus o instrui a não buscar grandes coisas para si mesmo, mas a confiar na proteção divina durante aquele período difícil. Os versículos relacionados aos temas deste capítulo são:
+* Salmos 55:22: "Lança o teu fardo sobre o Senhor, e ele te susterá; nunca permitirá que o justo seja abalado." Assim como Deus encorajou Baruque a confiar na sua proteção, este versículo também incentiva os fiéis a depositar suas preocupações e fardos diante de Deus, pois ele é capaz de sustentá-los.
+* Mateus 6:25-34: Neste trecho, Jesus encoraja seus seguidores a não se preocuparem com o futuro, mas a confiar na providência divina para suprir suas necessidades. Isso se relaciona com o conselho que Deus deu a Baruque, para não buscar grandes coisas para si mesmo, mas confiar em Deus.
+* Filipenses 4:6-7: "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus." Este versículo encoraja os cristãos a não ficarem ansiosos, mas a apresentarem suas preocupações a Deus por meio da oração, e assim experimentarem a paz que só ele pode oferecer.
+* Salmo 46:1-3: "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia. Pelo que não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares; ainda que as águas rujam e se perturbem, ainda que os montes se abalem pela sua braveza." Este Salmo expressa a confiança em Deus como o nosso refúgio e proteção em meio às dificuldades.
+* Romanos 8:28: "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito." Este versículo expressa a confiança de que Deus é capaz de trabalhar todas as coisas para o bem daqueles que o amam e confiam nele, mesmo em meio às dificuldades e aflições.
+****
+
+[[v30-45-1]]
+
+^<<v30-45-1,1>>^ Palavra que o profeta Jeremias dirigiu a Baruch, filho de Néria, quando escreveu no livro estas palavras que lhe ditou Jeremias, no ano quarto de Joaquim, filho de Josias, rei de Judá, a qual dizia:
+
+[[v30-45-2]]
+
+^<<v30-45-2,2>>^ Isto te diz o Senhor Deus de Israel, a ti, ó Baruch:
+
+[[v30-45-3]]
+
+^<<v30-45-3,3>>^ Tu exclamaste: Ai de mim, infeliz, porque o Senhor acrescentou dor à minha dor! Estou cansado de gemer, e não achei repouso.
+
+[[v30-45-4]]
+
+^<<v30-45-4,4>>^ Isto diz o Senhor: Assim lhe dirás a ele: Os que eu edifiquei, vou destruí-los; e os que plantei, vou arrancá-los com toda esta terra.
+
+[[v30-45-5]]
+
+^<<v30-45-5,5>>^ E tu buscas para ti coisas grandes? Não as busques, porque vou enviar desgraças sobre todos os mortais, diz o Senhor. Porém entregar-te-ei, como um despojo, a tua vida, em qualquer lugar para onde fores.
+
+'''
+
+xref:030-jeremias/030-jeremias-044.adoc#v30-44-0[&#60; Capítulo Anterior] | <<v30-45-0,Topo>> | xref:030-jeremias/030-jeremias-046.adoc#v30-46-0[Próximo Capítulo &#62;]

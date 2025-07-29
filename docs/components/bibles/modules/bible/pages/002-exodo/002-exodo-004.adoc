@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v2-4-0]]
+=== Êxodo, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 4 de Êxodo narra a continuação da conversa entre Deus e Moisés, após este ter sido chamado para libertar o povo de Israel da escravidão no Egito. Moisés expressa suas dúvidas e preocupações em relação à sua capacidade de liderar o povo e convencer o faraó a deixá-los partir. Deus então realiza alguns sinais e milagres para provar seu poder a Moisés e mostrar que estará com ele em sua missão. A seguir, cinco versículos relacionados com os temas abordados em Êxodo 4:
+* Gênesis 12:2: "E farei de ti uma grande nação, e abençoar-te-ei e engrandecerei o teu nome; e tu serás uma bênção." Este versículo destaca como Deus prometeu abençoar e multiplicar a descendência de Abraão, e como essa promessa é relevante para a história de Êxodo, pois o povo de Israel é descendente de Abraão e é a nação que Deus prometeu a ele.
+* Isaías 41:20: "Para que todos vejam e saibam, e considerem e juntamente entendam que a mão do Senhor fez isto, e o Santo de Israel o criou." Este versículo destaca como Deus usa sinais e milagres para mostrar seu poder e provar que está com seus seguidores. Isso é relevante para o capítulo 4 de Êxodo, onde Deus realiza sinais e milagres para convencer Moisés e o povo de Israel de seu poder.
+* Salmos 77:14: "Tu és o Deus que fazes maravilhas; fizeste conhecida a tua força entre os povos." Este versículo também destaca a capacidade de Deus de realizar sinais e milagres para mostrar seu poder e fazer sua vontade conhecida. Isso é relevante para a história de Êxodo, onde Deus usa sinais e milagres para libertar o povo de Israel da escravidão no Egito.
+* Isaías 42:8: "Eu sou o Senhor; este é o meu nome; a minha glória, pois, a outrem não darei, nem o meu louvor às imagens de escultura." Este versículo destaca a singularidade e exclusividade de Deus como o único Deus verdadeiro. Isso é relevante para a história de Êxodo, pois a libertação do povo de Israel da escravidão no Egito é um testemunho do poder único e exclusivo de Deus.
+* Salmos 121:2: "O meu socorro vem do Senhor, que fez o céu e a terra." Este versículo destaca a importância de confiar em Deus para obter ajuda e proteção, em vez de confiar em nossas próprias habilidades ou recursos. Isso é relevante para o capítulo 4 de Êxodo, onde Moisés expressa dúvidas e preocupações em relação à sua capacidade de liderar o povo de Israel, e Deus lhe mostra que estará com ele em sua missão.
+****
+
+[[v2-4-1]]
+
+^<<v2-4-1,1>>^ Respondendo Moisés, disse: Não me darão crédito, nem ouvirão a minha voz, mas dirão: O Senhor não te apareceu.
+
+[[v2-4-2]]
+
+^<<v2-4-2,2>>^ Disse-lhe, pois (o Senhor): Que é o que tens na mão? Ele respondeu: Uma vara.
+
+[[v2-4-3]]
+
+^<<v2-4-3,3>>^ O Senhor disse: Deita-a ao chão. Deitou-a, e ela converteu-se numa serpente, de sorte que Moisés fugiu.
+
+[[v2-4-4]]
+
+^<<v2-4-4,4>>^ O Senhor disse: Estende a tua mão e pega-lhe pela cauda. Estendeu a mão, pegou-lhe, e (a serpente) transformou-se numa vara.
+
+[[v2-4-5]]
+
+^<<v2-4-5,5>>^ (Assim farei) disse o (Senhor), para que creiam que te apareceu o Senhor Deus de teus pais, o Deus de Abraão, o Deus de Isaac, o Deus de Jacob.
+
+[[v2-4-6]]
+
+^<<v2-4-6,6>>^ Disse ainda o Senhor: Mete a tua mão no teu seio. Ele meteu-a e quando a tirou, estava coberta de lepra, (branca) como a neve.
+
+[[v2-4-7]]
+
+^<<v2-4-7,7>>^ Torna a meter, disse o (Senhor), a tua mão no teu seio. Tornou a metê-la e, quando a tirou de novo estava semelhante à outra carne.
+
+[[v2-4-8]]
+
+^<<v2-4-8,8>>^ Se te não acreditarem, prosseguiu (o Senhor), nem ouvirem a voz do primeiro prodígio, acreditarão na palavra do segundo prodígio.
+
+[[v2-4-9]]
+
+^<<v2-4-9,9>>^ Se nem ainda acreditarem nestes dois prodígios, e não ouvirem a tua voz, toma água do rio, derrama-a por terra, e toda a que tirares do rio se convertará em sangue.
+
+[[v2-4-10]]
+
+^<<v2-4-10,10>>^ Moisés disse: Perdoa, Senhor, eu não sou de palavra fácil desde ontem e desde ante-ontem, e, desde que falaste ao teu Servo, a minha língua está mais embaraçada e mais tarda. (ver nota)
+
+[[v2-4-11]]
+
+^<<v2-4-11,11>>^ O Senhor disse-lhe; Quem fez a boca do homem? quem formou o mudo e o surdo, o que vê e o que é cego? Não sou eu?
+
+[[v2-4-12]]
+
+^<<v2-4-12,12>>^ Vai, pois, e eu estarei na tua toca e te ensinarei o que deverás dizer.
+
+[[v2-4-13]]
+
+^<<v2-4-13,13>>^ (Moisés) porém disse: Rogo-te Senhor, que envies a tua mensagem por quem quiseras enviar. (ver nota)
+
+[[v2-4-14]]
+
+^<<v2-4-14,14>>^ O Senhor irou-se contra Moisés e disse: Eu sei que Aarão, teu irmão Levita, é eloquente; eis que ele sai ao teu encontro, e, vendo-te, se alegrará no seu coração (ver nota)
+
+[[v2-4-15]]
+
+^<<v2-4-15,15>>^ Fala-lhe e põe as minhas palavras na sua boca: eu serei na tua boca e na dele, e vos mostrarei o que deveis fazer.
+
+[[v2-4-16]]
+
+^<<v2-4-16,16>>^ Ele falará por ti ao povo, e será a tua boca: tu, junto dele, farás as vezes de Deus
+
+[[v2-4-17]]
+
+^<<v2-4-17,17>>^ Toma também na tua mão esta vara, com a qual operarás os prodígios.
+
+[[v2-4-18]]
+
+^<<v2-4-18,18>>^ Moisés partiu, voltou para Jetro, seu sogro, e disse-lhe; Peço-te que me deixes ir aos meus irmãos (que estão) no Egipto, a ver se ainda são vivos. Jetro disse-lhe: Vai em paz.
+
+[[v2-4-19]]
+
+^<<v2-4-19,19>>^ Ora o Senhor disse a Moisés, em Madian: Vai, e volta ao Egipto, porque morreram todos aqueles que procuravam a tua vida.
+
+[[v2-4-20]]
+
+^<<v2-4-20,20>>^ Tomou, pois, Moisés sua mulher e os seus filhos, pô-los sobre um jumento e voltou para o Egipto, levando na mão a vara de Deus.
+
+[[v2-4-21]]
+
+^<<v2-4-21,21>>^ O Senhor disse-lhe enquanto voltava para o Egipto: Cuida de fazer diante de Faraó todos os prodigios que eu pus na tua mão. Eu endurecerei o seu coração, e ele não deixará partir o povo. (ver nota)
+
+[[v2-4-22]]
+
+^<<v2-4-22,22>>^ Tu lhe dirás: Isto diz o Senhor: Israel é meu filho, meu filho primogênito.
+
+[[v2-4-23]]
+
+^<<v2-4-23,23>>^ Eu te mando: Deixa partir meu filho, para que ele me sirva: se não quiseres deixado partir, matarei o teu filho primogênito.
+
+[[v2-4-24]]
+
+^<<v2-4-24,24>>^ Quando (Moisés) ia no caminho, o Senhor se lhe apresentou na pousada e queria matá-lo. (ver nota)
+
+[[v2-4-25]]
+
+^<<v2-4-25,25>>^ Tomou logo Séfora uma pedra agudíssima e circuncidou o prepúcio de seu filho, e tocando os pés de Moisés, disse: Tu és para mim um esposo de Sangue. (ver nota)
+
+[[v2-4-26]]
+
+^<<v2-4-26,26>>^ E (o Senhor) o deixou, depois que ela o disse, por causa da circuncisão, esposo de sangue.
+
+[[v2-4-27]]
+
+^<<v2-4-27,27>>^ O Senhor disse a Aarão: Vai ao encontro de Moisés no deserto. Ele saiu-lhe ao encontro no monte de Deus, e o beijou.
+
+[[v2-4-28]]
+
+^<<v2-4-28,28>>^ Moisés dotou a Aarão todas as palavras do Senhor com as quais o tinha enviado, e os prodígios que lhe mandara que fizesse.
+
+[[v2-4-29]]
+
+^<<v2-4-29,29>>^ Foram juntos e congregaram todos os anciães dos filhos de Israel.
+
+[[v2-4-30]]
+
+^<<v2-4-30,30>>^ Aarão anunciou todas as palavras que o Senhor tinha dito a Moisés, e (Moisés) fez os prodígios diante do povo,
+
+[[v2-4-31]]
+
+^<<v2-4-31,31>>^ e o povo acreditou. Compreenderam que o Senhor visitava os filhos de Israel e que tinha visto a sua aflição, e, prostrados, o adoraram.
+
+'''
+
+xref:002-exodo/002-exodo-003.adoc#v2-3-0[&#60; Capítulo Anterior] | <<v2-4-0,Topo>> | xref:002-exodo/002-exodo-005.adoc#v2-5-0[Próximo Capítulo &#62;]

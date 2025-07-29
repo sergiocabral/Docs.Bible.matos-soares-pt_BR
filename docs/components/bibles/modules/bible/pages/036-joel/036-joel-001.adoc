@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v36-1-0]]
+=== Joel, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 1 do livro de Joel começa com uma descrição de uma praga de gafanhotos que devastou a terra de Judá, causando fome e miséria ao povo. O profeta convoca a população a lamentar e a se arrepender de seus pecados, pois o dia do Senhor está próximo. Abaixo estão cinco versículos relacionados com os temas abordados em Joel 1:
+* Amós 4:9: "Feri-vos com queimaduras de vento leste e ferrugem; multiplicou-se o gafanhoto sobre as vossas hortas e vinhas, e sobre as vossas figueiras e oliveiras, a larva consumiu tudo; contudo não vos convertestes a mim, diz o Senhor." Este versículo fala sobre a praga de gafanhotos e outros desastres naturais que Deus enviou como juízo sobre o povo de Israel, mas que eles não se arrependeram de seus pecados.
+* Isaías 13:6: "Uivai, pois, porque o dia do Senhor está perto; vem do Todo-Poderoso como assolação." Assim como Joel convoca o povo a lamentar e se arrepender diante da praga de gafanhotos, Isaías também fala sobre o dia do Senhor, um dia de juízo e assolação que está próximo.
+* Amós 5:16: "Portanto, assim diz o Senhor, Deus dos exércitos, o Senhor: Em todas as ruas haverá pranto, e em todas as estradas dirão: Ai! ai! Chamarão o lavrador para o luto, e para pranto os que souberem prantear." Este versículo também fala sobre o lamento e o pranto diante do dia do Senhor e do juízo divino.
+* Jó 2:8: "Então Jó, tomando um caco para com ele se raspar, sentou-se no meio da cinza." Assim como o povo de Judá se rasgou as vestes e se lamentou diante da praga de gafanhotos, Jó, em sua dor e sofrimento, também se rasgou as vestes e se sentou na cinza.
+* Salmos 107:33-34: "Ele transforma rios em desertos, e fontes em terra seca; a terra frutífera em terra salgada, por causa da maldade dos seus moradores." Este salmo fala sobre como Deus pode transformar uma terra fértil em um deserto árido por causa da maldade do povo. Essa ideia é semelhante ao que Joel descreveu sobre a praga de gafanhotos que devastou a terra de Judá.
+****
+
+[[v36-1-1]]
+
+^<<v36-1-1,1>>^ Palavra do Senhor dirigida a Joel, filho de Fatuel. (ver nota)
+
+[[v36-1-2]]
+
+^<<v36-1-2,2>>^ Ouvi isto, velhos! Vós todos habitantes da terra (de Judá), aplicai os vossos ouvidos! Aconteceu uma coisa como esta em vossos dias, ou nos dias de vossos pais?
+
+[[v36-1-3]]
+
+^<<v36-1-3,3>>^ Contai-a a vossos filhos, e contem-na vossos filhos a seus filhos, e os filhos destes à geração seguinte.
+
+[[v36-1-4]]
+
+^<<v36-1-4,4>>^ O gafanhoto (arbê) comeu o que tinha ficado do gazam; o yeleg comeu o que tinha ficado do gafanhoto; o hasil comeu o que tinha ficado do yeleq.
+
+[[v36-1-5]]
+
+^<<v36-1-5,5>>^ Despertai, ó ébrios, e chorai; lamentai-vos, vós que bebeis vinho, porque ele foi tirado da vossa boca.
+
+[[v36-1-6]]
+
+^<<v36-1-6,6>>^ Um povo forte e inumerável veio sobre a minha terra; os seus dentes são como os dentes de leão, e as mandíbulas como de leoa.
+
+[[v36-1-7]]
+
+^<<v36-1-7,7>>^ Reduziu a minha vinha a um deserto, devastou as minhas figueiras, descascou-as completamente e lançou-as por terra; os seus ramos (roídos e secos) tomaram-se brancos.
+
+[[v36-1-8]]
+
+^<<v36-1-8,8>>^ Chora (ó Israel) como uma donzela, cingida de cilício, pelo prometido da sua juventude.
+
+[[v36-1-9]]
+
+^<<v36-1-9,9>>^ Desapareceram da casa do Senhor as oferendas e as libações; os sacerdotes, ministros do Senhor, estão de luto.
+
+[[v36-1-10]]
+
+^<<v36-1-10,10>>^ Os campos estão devastados, a terra enlutada, porque o trigo foi destruído, o vinho perdido, e o azeite falhou.
+
+[[v36-1-11]]
+
+^<<v36-1-11,11>>^ Os lavradores estão confusos, os vinhateiros soltam gritos, por causa do trigo e da cevada, pois se perdeu a colheita dos campos.
+
+[[v36-1-12]]
+
+^<<v36-1-12,12>>^ A vinha não vingou, a figueira secou; as romanzeiras, as palmeiras e as macieiras, todas as árvores do campo secaram; (por cujo motivo) a alegria, envergonhada, foi para longe dos filhos dos homens.
+
+[[v36-1-13]]
+
+^<<v36-1-13,13>>^ Cingi-vos, sacerdotes, e chorai; soltai gritos, ministros do altar ! Vinde, passai a noite vestidos de saco, ministros do meu Deus, porque da casa do vosso Deus o povo desapareceram a oferenda e a libação.
+
+[[v36-1-14]]
+
+^<<v36-1-14,14>>^ Ordenai à um jejum sagrado, convocai a assembleia, congregai os anciães e todos os habitantes do país, para a casa do vosso Deus, e clamai ao Senhor.
+
+[[v36-1-15]]
+
+^<<v36-1-15,15>>^ Ai, que dia (terrível) ! O dia do Senhor está perto! Virá como uma assolação da parte do Todo-Poderoso.
+
+[[v36-1-16]]
+
+^<<v36-1-16,16>>^ Porventura não desapareceram diante dos vossos olhos os alimentos, e, da casa do nosso Deus, a alegria e o regozijo?
+
+[[v36-1-17]]
+
+^<<v36-1-17,17>>^ As sementes apodreceram debaixo dos torrões, os celeiros estão vazios, os armazéns arruinados, porque se perdeu o trigo.
+
+[[v36-1-18]]
+
+^<<v36-1-18,18>>^ Por que gemem os animais, porque andam errantes manadas de bois, desvairadamente? Porque não têm pastos; até os rebanhos das ovelhas perecem.
+
+[[v36-1-19]]
+
+^<<v36-1-19,19>>^ Clamo a ti, Senhor, porque o fogo (da sequeira) devorou toda a verdura do deserto, a chama queimou todas as árvores dos campos.
+
+[[v36-1-20]]
+
+^<<v36-1-20,20>>^ Os próprios animais levantam a cabeça para ti, porque as correntes de água secaram e o fogo (da sequeira) devorou tudo o que havia de verde no deserto.
+
+'''
+
+xref:035-oseias/035-oseias-014.adoc#v35-14-0[&#60; Capítulo Anterior] | <<v36-1-0,Topo>> | xref:036-joel/036-joel-002.adoc#v36-2-0[Próximo Capítulo &#62;]

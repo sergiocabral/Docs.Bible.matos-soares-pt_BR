@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v3-6-0]]
+=== Levítico, 6
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 6 apresenta instruções específicas para o sacerdócio sobre o oferecimento de sacrifícios, o uso do altar e a manipulação das cinzas. Os versículos a seguir estão relacionados com esses temas:
+* Levítico 6:9: "Dá ordem a Arão e a seus filhos, dizendo: Esta é a lei do holocausto; é o holocausto queimando sobre o altar toda a noite até pela manhã, e o fogo do altar arderá nele." Este versículo é uma continuação das instruções para o oferecimento do holocausto e indica que deve ser queimado continuamente no altar, mantendo o fogo aceso.
+* Levítico 6:13: "O fogo arderá continuamente sobre o altar; não se apagará." Este versículo enfatiza a importância do fogo nunca se apagar no altar.
+* Levítico 6:25: "Fala a Arão e a seus filhos, dizendo: Esta é a lei do sacrifício pelo pecado: no lugar em que se degolam o holocausto, degolarão o sacrifício pelo pecado perante o Senhor; é coisa santíssima." Aqui, são apresentadas instruções para o oferecimento do sacrifício pelo pecado, que deve ser feito no mesmo lugar do holocausto, diante do Senhor.
+* Levítico 6:26: "O sacerdote que o oferecer por pecado o comerá; em lugar santo será comido, no átrio da tenda da congregação." Este versículo descreve que o sacerdote que oferece o sacrifício pelo pecado é quem deve comê-lo em um lugar santo.
+* Levítico 6:30: "Mas nenhum sacrifício cujo sangue é trazido à tenda da congregação para fazer expiação no santuário será comido; será queimado no fogo." Esse versículo indica que certos sacrifícios, cujo sangue é trazido ao santuário para fazer expiação, não devem ser comidos, mas queimados no fogo.
+****
+
+[[v3-6-1]]
+
+^<<v3-6-1,1>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-6-2]]
+
+^<<v3-6-2,2>>^ A pessoa que pecar, e que, desprezando o Senhor, negar ao seu próximo o depósito confiado à sua fé, ou tirar alguma coisa por violência, ou cometer uma fraude,
+
+[[v3-6-3]]
+
+^<<v3-6-3,3>>^ ou, tendo encontrado uma coisa perdida, a negar, acrescentando o juramento, ou fizer alguma outra das muitas coisas, em que os homens costumam pecar,
+
+[[v3-6-4]]
+
+^<<v3-6-4,4>>^ sendo convencida do seu delito, restituirá por inteiro
+
+[[v3-6-5]]
+
+^<<v3-6-5,5>>^ ao dono, a quem fez o dano, tudo o que usurpou por fraude, e uma quinta parte a mais.
+
+[[v3-6-6]]
+
+^<<v3-6-6,6>>^ Pelo seu pecado oferecerá do rebanho um carneiro sem defeito, e o dará ao sacerdote, conforme a consideração e a medida do delito;
+
+[[v3-6-7]]
+
+^<<v3-6-7,7>>^ o sacerdote orará por ela diante do Senhor, e será perdoada por qualquer coisa que fez pecando.
+
+[[v3-6-8]]
+
+^<<v3-6-8,8>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-6-9]]
+
+^<<v3-6-9,9>>^ Ordena a Aarão e a seus filhos: Esta é a lei do holocausto: O holocausto arderá sobre o altar toda a noite até de manhã: o fogo será tomado do mesmo altar.
+
+[[v3-6-10]]
+
+^<<v3-6-10,10>>^ O sacerdote vestir-se-á de túnica e de calções de linho, tomará as cinzas, a que o fogo devorador reduziu o holocausto, e, pondo-as junto do altar,
+
+[[v3-6-11]]
+
+^<<v3-6-11,11>>^ se despojará das primeiras vestes e, coberto de outras, levará as cinzas para fora dos acampamentos, para um lugar puro.
+
+[[v3-6-12]]
+
+^<<v3-6-12,12>>^ O fogo arderá sempre sobre o altar, e o sacerdote o conservará pondo-lhe todos os dias pela manhã lenha, sobre a qual colocará o holocausto e queimará a gordura das hóstias pacíficas.
+
+[[v3-6-13]]
+
+^<<v3-6-13,13>>^ Este é o fogo perpétuo, que nunca faltará sobre o altar.
+
+[[v3-6-14]]
+
+^<<v3-6-14,14>>^ Esta é a lei da oblação: os filhos de Aarão devem oferecer na presença do Senhor, e diante do altar.
+
+[[v3-6-15]]
+
+^<<v3-6-15,15>>^ O sacerdote tomará um punhado de flor de farinha borrifada com azeite, todo o incenso que se pôs sobre a flor de farinha, e queimará tudo, em odor de suavidade, como memória ao Senhor.
+
+[[v3-6-16]]
+
+^<<v3-6-16,16>>^ O restante, porém, da flor de farinha comê-lo-á Aarão com seus filhos, sem fermento; comê-lo-á no lugar santo, no átrio do tabernáculo.
+
+[[v3-6-17]]
+
+^<<v3-6-17,17>>^ Não se fará fermentar esta farinha, porque uma parte dela é oferecida em holocausto ao Senhor. Esta oferta será uma coisa santíssima, como o que se oferece pelo pecado e pelo delito.
+
+[[v3-6-18]]
+
+^<<v3-6-18,18>>^ Só os varões da estirpe de Aarão comerão dela. Será esta uma lei eterna em todas as vossas gerações no tocante aos sacrifícios do Senhor; todo o que tocar estas coisas será santificado.
+
+[[v3-6-19]]
+
+^<<v3-6-19,19>>^ O Senhor falou a Moisés dizendo:
+
+[[v3-6-20]]
+
+^<<v3-6-20,20>>^ Esta é a oferta de Aarão e de seus filhos, a qual devem fazer ao Senhor no dia da sua unção. Oferecerão em sacrifício perpétuo a décima parte dum efi de flor de farinha, metade pela manhã e metade à tarde.
+
+[[v3-6-21]]
+
+^<<v3-6-21,21>>^ Esta farinha borrifada com azeite será frita na sertã; oferecê-la-á quente, em suave odor, ao Senhor,
+
+[[v3-6-22]]
+
+^<<v3-6-22,22>>^ o sacerdote que legitimamente suceder a seu pai; será queimada toda sobre o altar,
+
+[[v3-6-23]]
+
+^<<v3-6-23,23>>^ porque todo o sacrifício dos sacerdotes será consumido pelo fogo, e ninguém comerá dele.
+
+[[v3-6-24]]
+
+^<<v3-6-24,24>>^ O Senhor falou a Moisés, dizendo:
+
+[[v3-6-25]]
+
+^<<v3-6-25,25>>^ Dize a Aarão e a seus filhos: Esta é a lei do sacrifício pelo pecado: Será imolada a vítima diante do Senhor no lugar onde se oferece o holocausto. É esta uma coisa santíssima.
+
+[[v3-6-26]]
+
+^<<v3-6-26,26>>^ O sacerdote que a oferece, comê-la-á no lugar santo, no átrio do tabernáculo.
+
+[[v3-6-27]]
+
+^<<v3-6-27,27>>^ Tudo o que tocar as suas carnes será santificado. Se alguma veste for salpicada com o seu sangue, lavar-se-á no lugar santo.
+
+[[v3-6-28]]
+
+^<<v3-6-28,28>>^ O vaso de barro, em que foi cozida, quebrar-se-á: se o vaso for de bronze, será esfregado e lavado com água.
+
+[[v3-6-29]]
+
+^<<v3-6-29,29>>^ Todo o varão da linhagem sacerdotal comerá das suas carnes, porque é uma coisa santíssima.
+
+[[v3-6-30]]
+
+^<<v3-6-30,30>>^ A vítima, porém, imolada pelo pecado, cujo sangue se leva ao tabernáculo da reunião, para se fazer a expiação no santuário, não será comida, mas será queimada no fogo.
+
+'''
+
+xref:003-levitico/003-levitico-005.adoc#v3-5-0[&#60; Capítulo Anterior] | <<v3-6-0,Topo>> | xref:003-levitico/003-levitico-007.adoc#v3-7-0[Próximo Capítulo &#62;]

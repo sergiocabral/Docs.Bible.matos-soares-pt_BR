@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v49-13-0]]
+=== São Lucas, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* São Lucas 13 trata de temas como arrependimento, julgamento e a necessidade de frutos na vida cristã. O capítulo começa com Jesus repreendendo a multidão por não saberem interpretar os sinais dos tempos e termina com ele lamentando sobre Jerusalém e sua falta de arrependimento. Abaixo estão cinco versículos relacionados com os temas abordados no capítulo:
+* Mateus 3:8: "Produzi, pois, frutos dignos de arrependimento." Este verso é uma exortação de João Batista aos fariseus e saduceus que vieram para o seu batismo. Ele enfatiza a necessidade de um arrependimento verdadeiro, que é acompanhado de frutos que demonstrem uma mudança de coração.
+* João 15:2: "Todo ramo que, estando em mim, não dá fruto, ele o corta; e todo que dá fruto limpa, para que produza mais fruto ainda." Neste verso, Jesus fala sobre a importância dos frutos na vida cristã e sobre a necessidade de se permanecer em sua palavra para produzi-los.
+* Romanos 2:5: "Mas, segundo a tua dureza e teu coração impenitente, acumulas contra ti mesmo ira para o dia da ira e da revelação do justo juízo de Deus." Paulo aqui fala sobre a necessidade do arrependimento e sobre as consequências da falta dele. Ele enfatiza que a ira de Deus se acumula contra aqueles que não se arrependem.
+* Mateus 7:19: "Toda árvore que não produz bom fruto é cortada e lançada ao fogo." Jesus fala aqui sobre a importância dos frutos na vida cristã e sobre as consequências de não produzi-los. Ele enfatiza que aqueles que não produzem frutos serão cortados e lançados ao fogo.
+* Mateus 23:23: "Ai de vós, escribas e fariseus, hipócritas! porque dais o dízimo da hortelã, do endro e do cominho, e tendes negligenciado os preceitos mais importantes da lei, a justiça, a misericórdia e a fé; deveis, porém, fazer estas coisas, e não omitir aquelas." Neste verso, Jesus repreende os fariseus por sua hipocrisia e por negligenciarem os preceitos mais importantes da lei. Ele enfatiza a necessidade de se fazer as coisas mais importantes, como a justiça, a misericórdia e a fé.
+****
+
+[[v49-13-1]]
+
+^<<v49-13-1,1>>^ Neste mesmo tempo chegaram alguns a dar-lhe a notícia de certos galileus, cujo sangue Pilatos misturara com o dos sacrifícios deles. (ver nota)
+
+[[v49-13-2]]
+
+^<<v49-13-2,2>>^ Jesus respondeu-lhes; "Vós julgais que aqueles galileus eram maiores pecadores que todos os outros galileus, por terem padecido tanto?
+
+[[v49-13-3]]
+
+^<<v49-13-3,3>>^ Não, eu vo-lo digo; mas, se não fizerdes penitência, todos perecereis do mesmo modo.
+
+[[v49-13-4]]
+
+^<<v49-13-4,4>>^ Assim como também aqueles dezoito homens, sobre os quais caiu a torre de Siloé, e os matou, julgais que eles também foram mais culpados que todos os outros habitantes de Jerusalém?
+
+[[v49-13-5]]
+
+^<<v49-13-5,5>>^ Não, eu vo-lo digo; mas, se não fizerdes penitência, todos perecereis do mesmo modo."
+
+[[v49-13-6]]
+
+^<<v49-13-6,6>>^ Dizia também esta parábola: "Um homem tinha uma figueira plantada na sua vinha. Foi buscar fruto, e não o encontrou.
+
+[[v49-13-7]]
+
+^<<v49-13-7,7>>^ Então disse ao cultivador da vinha: Eis que há três anos venho buscar fruto a esta figueira, e não o encontro; corta-a; para que está ela ocupando terreno inutilmente?
+
+[[v49-13-8]]
+
+^<<v49-13-8,8>>^ Ele, porém, respondeu-lhe: Senhor, deixa-a ainda este ano, enquanto eu a cavo em roda, e lhe lanço esterco;
+
+[[v49-13-9]]
+
+^<<v49-13-9,9>>^ se com isto der fruto, bem está, senão, cortá-la-ás depois."
+
+[[v49-13-10]]
+
+^<<v49-13-10,10>>^ Jesus estava ensinando numa sinagoga em dia de sábado.
+
+[[v49-13-11]]
+
+^<<v49-13-11,11>>^ Eslava lá uma mulher possessa de um espírito que a tinha doente havia dezoito anos; andava encurvada, e não podia absolutamente levantar a cabeça.
+
+[[v49-13-12]]
+
+^<<v49-13-12,12>>^ Jesus, vendo-a, chamou-a, e disse-lhe; "Mulher, estás livre da tua enfermidade.
+
+[[v49-13-13]]
+
+^<<v49-13-13,13>>^ impôs-Ihe as mãos. Imediatamente ficou direita, e glorificava a Deus.
+
+[[v49-13-14]]
+
+^<<v49-13-14,14>>^ Mas, tomando a palavra o príncipe da sinagoga, indignado de que Jesus tivesse curado em dia de sábado, disse ao povo: "Há seis dias para trabalhar; vinde, pois, nestes, e sede curados, mas não em dia de sábado."
+
+[[v49-13-15]]
+
+^<<v49-13-15,15>>^ O Senhor disse-lhe: "Hipócrilas, qualquer de vós não solta aos sábados o seu boi ou seu jumento da manjedoura, para os levar a beber?
+
+[[v49-13-16]]
+
+^<<v49-13-16,16>>^ E esta filha de Abraão, que Satanás tinha presa, há dezoito anos não devia ser livre desta prisão ao sábado?"
+
+[[v49-13-17]]
+
+^<<v49-13-17,17>>^ Dizendo estas coisas, envergonhavam-se todos os seus adversários, e alegrava-se todo o povo de todas as acções que gloriosamente eram praticadas por ele.
+
+[[v49-13-18]]
+
+^<<v49-13-18,18>>^ Dizia também: "A que é semelhante o reino de Deus, a que o compararei eu?
+
+[[v49-13-19]]
+
+^<<v49-13-19,19>>^ É semelhante a um grão de mostarda, que um homem tomou e semeou na sua horta; cresceu, tornou-se uma grande planta, e as aves do céu repousaram nos seus ramos.
+
+[[v49-13-20]]
+
+^<<v49-13-20,20>>^ Disse outra vez : 'A que direi que o reino de Deus é semelhante?
+
+[[v49-13-21]]
+
+^<<v49-13-21,21>>^ É semelhante ao fermento que uma mulher tomou e misturou em três medidas de farinha, até que ficasse tudo levedado."
+
+[[v49-13-22]]
+
+^<<v49-13-22,22>>^ Ia pelas cidades e aldeias ensinando, e caminhando para Jerusalém.
+
+[[v49-13-23]]
+
+^<<v49-13-23,23>>^ Alguém lhe perguntou: "Senhor, são poucos os que se salvam?" Ele respondeu-lhes:
+
+[[v49-13-24]]
+
+^<<v49-13-24,24>>^ "Esforçai-vos por entrar pela porta estreita, porque vos digo que muitos procurarão entrar, e não conseguirão.
+
+[[v49-13-25]]
+
+^<<v49-13-25,25>>^ Quando o pai de família tiver entrado e fechado a porta, vós, estando fora, começareis a bater à porta, dizendo: Senhor, abre-nos, ele vos responderá: Não sei donde vós sois.
+
+[[v49-13-26]]
+
+^<<v49-13-26,26>>^ Então começareis a dizer: Comemos e bebemos em tua presença, tu ensinaste nas nossas praças.
+
+[[v49-13-27]]
+
+^<<v49-13-27,27>>^ Ele vos dirá: Não sei donde sois; apartai-vos de mim vós todos os que praticais a iniquidade (Ps. 6, 9).
+
+[[v49-13-28]]
+
+^<<v49-13-28,28>>^ Ali haverá choro e ranger de dentes, quando virdes Abraão, Isaac, Jacob, e todos os profetas no reino de Deus, e vós serdes expulsos para fora.
+
+[[v49-13-29]]
+
+^<<v49-13-29,29>>^ Virão muitos do oriente, do ocidente, do norte, do sul, e se sentarão à mesa no reino de Deus.
+
+[[v49-13-30]]
+
+^<<v49-13-30,30>>^ Então haverá últimos que serão os primeiros, e primeiros que serão os últimos." (ver nota)
+
+[[v49-13-31]]
+
+^<<v49-13-31,31>>^ No mesmo dia alguns dos fariseus foram dizer-Ihe: "Sai, e vai-te daqui: porque Herodes quer-te matar."
+
+[[v49-13-32]]
+
+^<<v49-13-32,32>>^ Ele respondeu-lhes: "Ide dizer a essa raposa: Eis que eu lanço fora os demônios, e faço curas: hoje e amanhã, e ao terceiro dia estou no termo. (ver nota)
+
+[[v49-13-33]]
+
+^<<v49-13-33,33>>^ Importa, contudo, que eu caminhe ainda hoje, amanhã e no dia seguinte; porque não convém que um profeta morra fora de Jerusalém.
+
+[[v49-13-34]]
+
+^<<v49-13-34,34>>^ Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados, quantas vezes quis juntar os teus filhos como a galinha recolhe os seus pintainhos debaixo das asas, e tu não quiseste!
+
+[[v49-13-35]]
+
+^<<v49-13-35,35>>^ Eis vos será deixada deserta a vossa casa. Digo-vos que não me vereis, até que venha o dia em que digais: Bendito o que vem em nome do Senhor (Ps. 117, 26)." (ver nota)
+
+'''
+
+xref:049-sao-lucas/049-sao-lucas-012.adoc#v49-12-0[&#60; Capítulo Anterior] | <<v49-13-0,Topo>> | xref:049-sao-lucas/049-sao-lucas-014.adoc#v49-14-0[Próximo Capítulo &#62;]

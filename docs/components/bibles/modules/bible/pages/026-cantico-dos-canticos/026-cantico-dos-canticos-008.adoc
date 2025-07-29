@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v26-8-0]]
+=== Cântico dos Cânticos, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 de Cânticos fala sobre o amor e a paixão entre o casal, além de abordar a força e a importância do amor verdadeiro. É um capítulo que celebra a união e a felicidade que ela traz. Abaixo estão cinco versículos relacionados com os temas abordados em Cânticos 8:
+* Provérbios 5:18-19: "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade. Como cerva amorosa, e gazela graciosa, os seus seios te saciem todo o tempo; e pelo seu amor sê atraído perpetuamente." Este versículo fala sobre a importância do amor e da intimidade entre o casal, e como ela deve ser uma fonte de alegria e prazer.
+* 1 Coríntios 13:4-8: "O amor é paciente, é benigno; o amor não arde em ciúmes, não se ufana, não se ensoberbece, não se conduz inconvenientemente, não procura os seus interesses, não se exaspera, não se ressente do mal; não se alegra com a injustiça, mas regozija-se com a verdade; tudo sofre, tudo crê, tudo espera, tudo suporta. O amor jamais acaba;". Este versículo fala sobre as características do verdadeiro amor e como ele é eterno.
+* Efésios 5:25: "Maridos, amai vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela". Este versículo fala sobre a responsabilidade do homem em amar e cuidar de sua esposa, assim como Cristo amou a igreja e se entregou por ela.
+* Gênesis 2:24: "Por isso deixará o homem a seu pai e a sua mãe, e unir-se-á à sua mulher; e serão ambos uma carne". Este versículo fala sobre a união do casal e como eles se tornam uma só carne perante Deus.
+* 1 João 4:18: "No amor não há medo; antes, o perfeito amor lança fora o medo. O medo envolve castigo, e quem tem medo não está aperfeiçoado no amor". Este versículo fala sobre como o amor verdadeiro não deve ter medo, mas sim ser uma fonte de segurança e conforto para o casal.
+****
+
+[[v26-8-1]]
+
+^<<v26-8-1,1>>^ Quem me dera ter-te por irmão, amamentado aos seios de minha mãe, para que, encontrando-te fora, eu te pudesse beijar, sem que ninguém me desprezasse!
+
+[[v26-8-2]]
+
+^<<v26-8-2,2>>^ Eu te tomaria e te levaria a casa de minha mãe. Dar-te-ia a beber vinho perfumado, mosto da minhas romãs. (ver nota)
+
+[[v26-8-3]]
+
+^<<v26-8-3,3>>^ A sua mão esquerda está debaixo da minha cabeça, e a sua mão direita abraça-me. (ver nota)
+
+[[v26-8-4]]
+
+^<<v26-8-4,4>>^ Eu vos conjuro, filhas de Jerusalém, que não perturbeis nem acordeis a minha amada antes que ela queira. (ver nota)
+
+[[v26-8-5]]
+
+^<<v26-8-5,5>>^ Quem é esta, que sobe do deserto, apoiada sobre o seu amado? Eu te despertei debaixo da macieira: foi ali que tua mãe te concebeu, foi ali que te concebeu, te deu à luz. (ver nota)
+
+[[v26-8-6]]
+
+^<<v26-8-6,6>>^ Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço. porque o amor é forte como a morte, o zelo do amor é duro como a habitação dos mortos. Os seus ardores são ardores de fogo, os seus fogos são fogos do Senhor.
+
+[[v26-8-7]]
+
+^<<v26-8-7,7>>^ As muitas águas não poderiam extinguir o amor, nem os rios teriam força para o submergir. Se um homem desse todas as riquezas de sua casa pelo amor, ele o desprezaria como um nada. (ver nota)
+
+[[v26-8-8]]
+
+^<<v26-8-8,8>>^ A nossa irmã é pequena, ainda não tem seios. Que faremos nós à nossa irmã no dia em que for pedida (em casamento)? (ver nota)
+
+[[v26-8-9]]
+
+^<<v26-8-9,9>>^ Se ela é um muro, edifiquemos sobre ela ameias de prata; se é uma porta, guarneçamo-la com tábuas de cedro. (ver nota)
+
+[[v26-8-10]]
+
+^<<v26-8-10,10>>^ Eu sou um muro, e os meus seios são como torres: também sou para ele a que encontrou a paz. (ver nota)
+
+[[v26-8-11]]
+
+^<<v26-8-11,11>>^ Salomão teve uma vinha em Baal-Hamon; entregou-a aos guardas, cada um dos quais devia dar mil siclos de prata pelos frutos colhidos. (ver nota)
+
+[[v26-8-12]]
+
+^<<v26-8-12,12>>^ A minha vinha está diante de mim. Para ti, Salomão, sejam mil siclos, e para os que a guardam e lhe colhem os frutos, duzentos.
+
+[[v26-8-13]]
+
+^<<v26-8-13,13>>^ Ó tu, que habitas nos jardins, os amigos estão atentos; faze-me ouvir a tua voz.
+
+[[v26-8-14]]
+
+^<<v26-8-14,14>>^ Foge, amado meu, e sê semelhante a uma gazela e ao veadinho, sobre os montes dos balsameiros. (ver nota)
+
+'''
+
+xref:026-cantico-dos-canticos/026-cantico-dos-canticos-007.adoc#v26-7-0[&#60; Capítulo Anterior] | <<v26-8-0,Topo>> | xref:027-sabedoria/027-sabedoria-001.adoc#v27-1-0[Próximo Capítulo &#62;]

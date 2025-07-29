@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v2-32-0]]
+=== Êxodo, 32
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Êxodo 32 descreve a infidelidade do povo de Israel ao fazer um bezerro de ouro para adorar, enquanto Moisés estava no Monte Sinai recebendo os mandamentos de Deus. O capítulo mostra a ira de Deus diante dessa idolatria e a intercessão de Moisés em favor do povo. Abaixo seguem cinco versículos relacionados com os temas abordados em Êxodo 32:
+* Deuteronômio 9:16-17: "E vi que havíeis pecado contra o Senhor vosso Deus; havíeis feito para vós um bezerro de fundição; depressa vos desviastes do caminho que o Senhor vos tinha ordenado. Então peguei nas duas tábuas, lancei-as das minhas mãos e as despedacei diante dos vossos olhos." Este versículo descreve como Moisés quebra as tábuas com os mandamentos de Deus, quando vê a idolatria do povo de Israel. Isso mostra a gravidade do pecado do povo e a ira de Deus diante dessa infidelidade.
+* Deuteronômio 9:18: "Depois prostrei-me perante o Senhor, como antes, quarenta dias e quarenta noites; não comi pão, nem bebi água, por causa de todo o vosso pecado que havíeis cometido, fazendo o mal aos olhos do Senhor, para o provocar à ira." Aqui, vemos a intercessão de Moisés em favor do povo, mostrando sua compaixão e sua disposição em jejuar e orar por eles, mesmo diante da gravidade de seus pecados.
+* Deuteronômio 9:21: "Então tomei o vosso pecado, o bezerro que tínheis feito, e o queimei a fogo, e o despedacei, moendo-o muito bem, até que se fez em pó; e o seu pó lancei ao ribeiro que descia do monte." Este versículo descreve como Moisés queima e destrói o bezerro de ouro que o povo havia feito para adorar, como um ato de purificação e arrependimento diante de Deus.
+* Deuteronômio 9:26: "Então orei ao Senhor, dizendo: Ó Senhor Deus, não destruas o teu povo e a tua herança, que resgataste com a tua grandeza, que tiraste do Egito com mão poderosa." Aqui, vemos mais uma vez a intercessão de Moisés em favor do povo, mostrando sua preocupação com a salvação deles e sua confiança na misericórdia de Deus.
+* Deuteronômio 9:29: "Mas são o teu povo e a tua herança, que tiraste com a tua grande força e com o teu braço estendido." Este versículo destaca a relação especial entre Deus e o povo de Israel, lembrando como Deus os libertou do Egito com grande poder e demonstrando sua fidelidade e compromisso com eles.
+****
+
+[[v2-32-1]]
+
+^<<v2-32-1,1>>^ Mas o povo, vendo que Moisés tardava em descer do monte, juntou-se contra Aarão, e disse: Levanta-te, faze-nos um deus que vá diante de nós, parque não sabemos o que aconteceu a Moisés, esse homem que nos tirou da terra do Egipto. (ver nota)
+
+[[v2-32-2]]
+
+^<<v2-32-2,2>>^ Aarão disse-lhes: Tomai as arrecadas de ouro das orelhas de vossas mulheres, de vossos filhos e de vossas filhas, e trazei-as.
+
+[[v2-32-3]]
+
+^<<v2-32-3,3>>^ O povo fez o que lhes mandara, trazendo as arrecadas a Aarão.
+
+[[v2-32-4]]
+
+^<<v2-32-4,4>>^ Ele, tendo-as tomado, mandou-as fundir, e formou delas um bezerro fundido. Eles disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egipto.
+
+[[v2-32-5]]
+
+^<<v2-32-5,5>>^ Aarão, vendo isto, erigiu um altar diante do bezerro e clamou: Amanhã é a festa solene do Senhor.
+
+[[v2-32-6]]
+
+^<<v2-32-6,6>>^ Levantando-se pela manhã, ofereceram holocaustos e hóstias pacíficas, e o povo se assentou a comer e a beber, depois levantaram-se para se divertirem. (ver nota)
+
+[[v2-32-7]]
+
+^<<v2-32-7,7>>^ O Senhor falou a Moisés, dizendo; Vai, desce, pois o teu povo, que tiraste da terra do Egipto, pecou.
+
+[[v2-32-8]]
+
+^<<v2-32-8,8>>^ Depressa se apartaram do caminho que lhes mostraste: fizeram para si um bezerro fundido, adoraram-no e, imolando-lhe hóstias, disseram: Este, ó Israel, é o teu deus que te tirou da terra do Egipto.
+
+[[v2-32-9]]
+
+^<<v2-32-9,9>>^ O Senhor disse mais a Moisés: Vejo que este povo é de cerviz dura: (ver nota)
+
+[[v2-32-10]]
+
+^<<v2-32-10,10>>^ deixa-me, a fim de que o meu furor se acenda contra eles, e que eu os extermine, e eu te farei chefe de uma grande nação. (ver nota)
+
+[[v2-32-11]]
+
+^<<v2-32-11,11>>^ Moisés, porém, suplicava ao Senhor seu Deus, dizendo: Senhor, porque se acende o teu furor contra o teu povo, que tiraste da terra do Egípto com uma grande fortaleza e com uma poderosa mão?
+
+[[v2-32-12]]
+
+^<<v2-32-12,12>>^ Não permitas, te rogo, que os Egípcios digam: Ele tirou-os (do Egipto) astutamente para os matar nos montes e exterminar da terra; aplaque-se a tua ira, e perdoa a iniquidade do teu povo.
+
+[[v2-32-13]]
+
+^<<v2-32-13,13>>^ Lembra-te de Abraão, de Isaac e de Israel, teus servos, a quem por ti mesmo juraste, dizendo: Multiplicarei a vossa descendência como as estrelas do céu, e darei à vossa posteridade toda esta terra, de que falei, e vós a possuireis para sempre.
+
+[[v2-32-14]]
+
+^<<v2-32-14,14>>^ O Senhor se aplacou, e não fez ao seu povo o mal que tinha dito.
+
+[[v2-32-15]]
+
+^<<v2-32-15,15>>^ Moisés voltou do monte, levando na mão as duas tábuas do testemunho, escritas de ambas as partes,
+
+[[v2-32-16]]
+
+^<<v2-32-16,16>>^ e feitas por obra de Deus; a escrita gravada nas tábuas era também de Deus.
+
+[[v2-32-17]]
+
+^<<v2-32-17,17>>^ Ora Josué, ouvindo o tumulto do povo que gritava, disse para Moisés: Ouve-se um alarido de peleja nos acampamentos.
+
+[[v2-32-18]]
+
+^<<v2-32-18,18>>^ Moisés respondeu: Não é clamor de gente que se anima a combater nem clamor de quem excita à fuga, mas eu ouço a voz de gente que canta.
+
+[[v2-32-19]]
+
+^<<v2-32-19,19>>^ Tendo-se aproximado dos acampamentos, ao ver o bezerro e as danças, irou-se muito, atirou das suas mãos as tábuas e quebrou-as ao pé do monte.
+
+[[v2-32-20]]
+
+^<<v2-32-20,20>>^ Pegando no bezerro que tinham feito, queimou-o e esmagou-o até o reduzir a pó, que espalhou na água, e deu a beber dele aos filhos de Israel. (ver nota)
+
+[[v2-32-21]]
+
+^<<v2-32-21,21>>^ Disse a Aarão: Que te fez este povo, para atraires sobre ele um tão grande pecado?
+
+[[v2-32-22]]
+
+^<<v2-32-22,22>>^ Ele respondeu-lhe: Não se agaste o meu Senhor, porque tu sabes quanto este povo é inclinado para o mal.
+
+[[v2-32-23]]
+
+^<<v2-32-23,23>>^ Eles disseram-me: Faze-nos um deus que vá diante de nós, porque não sabemos o que aconteceu àquele que nos tirou da terra do Egipto.
+
+[[v2-32-24]]
+
+^<<v2-32-24,24>>^ Eu disse-lhes: Qual de vós tem ouro? Trouxeram-no, deram-mo, eu lancei-o no fogo, e saiu este bezerro. (ver nota)
+
+[[v2-32-25]]
+
+^<<v2-32-25,25>>^ Vendo, pois, Moisés que o povo andava desmandado, pois Aarão lhe tinha alargado o freio, expondo-o assim à irrisão dos seus inimigos,
+
+[[v2-32-26]]
+
+^<<v2-32-26,26>>^ colocou-se à porta dos acampamentos e disse: Quem é pelo Senhor junte-se a mim. E ajuntaram-se a ele todos os filhos de Levi.
+
+[[v2-32-27]]
+
+^<<v2-32-27,27>>^ Ele disse-lhes: Eis o que diz o Senhor Deus de Israel: Cada um cinja a sua espada ao seu lado; passai e tomai a passar de porta em porta através dos acampamentos, e cada qual mate o seu irmão, o seu amigo, o seu parente. (ver nota)
+
+[[v2-32-28]]
+
+^<<v2-32-28,28>>^ Os filhos de Levi fizeram o que Moisés tinha ordenado, e cerca de três mil homens caíram (mortos) naquele dia.
+
+[[v2-32-29]]
+
+^<<v2-32-29,29>>^ Moisés disse-lhes: Consagrastes hoje as vossas mãos ao Senhor, cada um em seu filho e em seu irmão para vos ser dada a bênção. (ver nota)
+
+[[v2-32-30]]
+
+^<<v2-32-30,30>>^ Ao outro dia Moisés disse ao povo: Vós cometestes o maior pecado; subirei ao Senhor para ver se de algum modo poderei obter perdão para o vosso delito.
+
+[[v2-32-31]]
+
+^<<v2-32-31,31>>^ Voltando para o Senhor, disse: Oh! Este povo cometeu um grandíssimo pecado! Fizeram um deus de ouro. Perdoa-lhe, porém, esta culpa,
+
+[[v2-32-32]]
+
+^<<v2-32-32,32>>^ ou, se o não fazes, risca-me do teu livro que escreveste.
+
+[[v2-32-33]]
+
+^<<v2-32-33,33>>^ O Senhor respondeu-lhe: Riscarei do meu livro aquele que pecar contra mim.
+
+[[v2-32-34]]
+
+^<<v2-32-34,34>>^ Tu, porém, vai e conduze este povo onde eu te disse: o meu anjo irá diante de ti. No dia da minha visitação, puni-los-ei pelo seu pecado.
+
+[[v2-32-35]]
+
+^<<v2-32-35,35>>^ O Senhor feriu, assim, o povo pela culpa do bezerro, que Aarão tinha feito.
+
+'''
+
+xref:002-exodo/002-exodo-031.adoc#v2-31-0[&#60; Capítulo Anterior] | <<v2-32-0,Topo>> | xref:002-exodo/002-exodo-033.adoc#v2-33-0[Próximo Capítulo &#62;]

@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v21-148-0]]
+=== Salmos, 148
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 148 é um hino de louvor à grandeza e soberania de Deus, que é exaltado tanto nos céus quanto na terra. O salmista convoca todas as criaturas a adorarem a Deus, desde os anjos no céu até os peixes do mar. Abaixo estão cinco versículos relacionados com os temas abordados neste Salmo:
+* Salmos 8:3-4: "Quando contemplo os teus céus, obra dos teus dedos, e a lua e as estrelas que estabeleceste, que é o homem mortal para que te lembres dele? E o filho do homem, para que o visites?" Este versículo fala sobre a admiração que o salmista tem pela criação de Deus, especialmente ao olhar para os céus.
+* Isaías 42:10: "Cantai ao Senhor um cântico novo, e o seu louvor desde o fim da terra; vós, os que navegais pelo mar, e tudo quanto há nele; vós, ilhas, e seus habitantes." Neste versículo, Isaías exorta todas as criaturas a louvar a Deus, inclusive os marinheiros e aqueles que vivem em ilhas.
+* Salmos 103:20-22: "Bendizei ao Senhor, vós, anjos seus, vós que excedeis em força, que guardais os seus mandamentos, obedecendo à voz da sua palavra. Bendizei ao Senhor, vós, todos os seus exércitos, vós, ministros seus, que executais o seu beneplácito. Bendizei ao Senhor, vós, todas as suas obras, em todos os lugares do seu domínio; bendizei ao Senhor, ó minha alma!" Este versículo mostra que todas as criaturas, incluindo os anjos, são chamadas a louvar a Deus.
+* Salmos 33:8: "Tema ao Senhor toda a terra; temam-no todos os habitantes do mundo." Este versículo exorta todas as pessoas da terra a temerem a Deus.
+* Apocalipse 5:13: "E ouvi a toda criatura que está no céu, e na terra, e debaixo da terra, e que estão no mar, e a todas as coisas que neles há, dizerem: Ao que está assentado sobre o trono e ao Cordeiro seja o louvor, e a honra, e a glória, e o domínio pelos séculos dos séculos." Este versículo descreve uma visão do céu, onde todas as criaturas estão louvando a Deus e ao Cordeiro.
+****
+
+[[v21-148-1]]
+
+^<<v21-148-1,1>>^ Aleluia. Louvai o Senhor, (do alto) dos céus, louvai-o nas alturas.
+
+[[v21-148-2]]
+
+^<<v21-148-2,2>>^ Louvai-o, vós todos os seus anjos, louvai-o, vós todos os seus exércitos.
+
+[[v21-148-3]]
+
+^<<v21-148-3,3>>^ Louvai-o, sol e lua, louvai-o, todas as estrelas luzentes.
+
+[[v21-148-4]]
+
+^<<v21-148-4,4>>^ Louvai-o, céus dos céus, e as águas que estão sobre os céus:
+
+[[v21-148-5]]
+
+^<<v21-148-5,5>>^ louvem (estes seres) o nome do Senhor, porque ele ordenou e foram criados,
+
+[[v21-148-6]]
+
+^<<v21-148-6,6>>^ e estabeleceu-os para sempre, pelos séculos: fixou-lhes uma lei que não passará.
+
+[[v21-148-7]]
+
+^<<v21-148-7,7>>^ Louvai o Senhor, (vós, criaturas) da terra, vós os cetáceos e todos os abismos do mar,
+
+[[v21-148-8]]
+
+^<<v21-148-8,8>>^ o fogo, o granizo, a neve e o nevoeiro, o vento tempestuoso, que cumpre a sua palavra,
+
+[[v21-148-9]]
+
+^<<v21-148-9,9>>^ os montes e todos os outeiros, as árvores frutíferas e todos os cedros,
+
+[[v21-148-10]]
+
+^<<v21-148-10,10>>^ as feras e todos os animais domésticos, os répteis e as aves,
+
+[[v21-148-11]]
+
+^<<v21-148-11,11>>^ os reis da terra e todos os povos, os príncipes e todos os juízes da terra,
+
+[[v21-148-12]]
+
+^<<v21-148-12,12>>^ os jovens e também as donzelas, os velhos, juntamente com os meninos:
+
+[[v21-148-13]]
+
+^<<v21-148-13,13>>^ louvem o nome do Senhor, porque só o seu nome é excelso; a sua majestade está acima do céu e da terra,
+
+[[v21-148-14]]
+
+^<<v21-148-14,14>>^ e (ele) deu ao seu povo um poder sublime. É objecto de louvor para todos os seus santos, para os filhos de Israel, povo que está perto dele. Aleluia.
+
+'''
+
+xref:021-salmos/021-salmos-147.adoc#v21-147-0[&#60; Capítulo Anterior] | <<v21-148-0,Topo>> | xref:021-salmos/021-salmos-149.adoc#v21-149-0[Próximo Capítulo &#62;]

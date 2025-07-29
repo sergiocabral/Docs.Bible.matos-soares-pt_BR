@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v27-11-0]]
+=== Sabedoria, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 11 do livro de Sabedoria apresenta uma reflexão sobre a ação divina na história da humanidade, mostrando como Deus conduz e protege seu povo. Além disso, destaca-se a importância de reconhecer a grandeza de Deus e de confiar em sua sabedoria. A seguir, são apresentados cinco versículos relacionados com esses temas:
+* Salmos 139:5: "Tu me cercaste por detrás e por diante, e puseste sobre mim a tua mão." Este verso destaca a ação de Deus na vida das pessoas, protegendo-as e cuidando delas.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este verso mostra a importância de confiar em Deus e reconhecer sua sabedoria, permitindo que Ele dirija nossos caminhos.
+* Isaías 55:8-9: "Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor. Porque, assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos, e os meus pensamentos mais altos do que os vossos pensamentos." Este verso enfatiza a grandeza e a sabedoria de Deus, mostrando que seus caminhos são mais altos e mais sábios do que os nossos.
+* Romanos 11:33-34: "Ó profundidade das riquezas, tanto da sabedoria, como da ciência de Deus! Quão insondáveis são os seus juízos, e quão inescrutáveis, os seus caminhos! Pois, quem compreendeu o intento do Senhor? Ou quem foi seu conselheiro?" Este verso destaca a sabedoria e a grandeza de Deus, mostrando que seus caminhos são insondáveis e que ninguém pode compreender completamente seus planos.
+* Efésios 3:20-21: "Ora, àquele que é poderoso para fazer tudo muito mais abundantemente além daquilo que pedimos ou pensamos, segundo o poder que em nós opera, a esse glória na igreja, por Jesus Cristo, em todas as gerações, para todo o sempre. Amém!" Este verso destaca a grandeza e a capacidade de Deus para fazer muito mais do que podemos pedir ou pensar, mostrando que podemos confiar plenamente em sua sabedoria e em seu poder.
+****
+
+[[v27-11-1]]
+
+^<<v27-11-1,1>>^ Foi ela que deu bom sucesso aos seus empreendimentos, por mãos dum santo profeta. (ver nota)
+
+[[v27-11-2]]
+
+^<<v27-11-2,2>>^ Atravessaram um deserto desabitado, e em lugares ermos fixaram as suas tendas.
+
+[[v27-11-3]]
+
+^<<v27-11-3,3>>^ Fizeram frente aos seus inimigos, e repeliram os seus contrários.
+
+[[v27-11-4]]
+
+^<<v27-11-4,4>>^ Tiveram sede, e invocaram-te, e foi-lhes dada água duma rocha escarpada, refrigério de sede duma dura pedra.
+
+[[v27-11-5]]
+
+^<<v27-11-5,5>>^ Pois, por aquilo mesmo com que os seus inimigos tinham sido castigados, que foi pela falta de água com que matar a sede, com essa os filhos de Israel se alegravam, tendo-a em abundância.
+
+[[v27-11-6]]
+
+^<<v27-11-6,6>>^ Por isso, quando aqueles faltou, tiveram-na eles em abundância.
+
+[[v27-11-7]]
+
+^<<v27-11-7,7>>^ Na verdade, em lugar das águas dum rio perene, turvadas por sangue impuro,
+
+[[v27-11-8]]
+
+^<<v27-11-8,8>>^ em castigo do decreto infanticida, deste (ao teu povo) água abundante, contra toda a expectativa,
+
+[[v27-11-9]]
+
+^<<v27-11-9,9>>^ mostrando por esta sede, que então houve, de que modo castigavas os adversários.
+
+[[v27-11-10]]
+
+^<<v27-11-10,10>>^ Porque, quando foram provados, recebendo, muito embora, um castigo com misericórdia, reconheceram de que maneira padeciam tormentos os ímpios, julgados na ira.
+
+[[v27-11-11]]
+
+^<<v27-11-11,11>>^ A uns provaste como pai que corrige; porém, aos outros castigaste, como rei severo que condena. (ver nota)
+
+[[v27-11-12]]
+
+^<<v27-11-12,12>>^ Quer ausentes quer presentes, eram igualmente atormentados.
+
+[[v27-11-13]]
+
+^<<v27-11-13,13>>^ Foram tomados duma dupla amargura, gemeram com a lembrança das coisas passadas. (ver nota)
+
+[[v27-11-14]]
+
+^<<v27-11-14,14>>^ Pois, quando ouviam dizer que fora um bem para os outros o que para eles tinha sido tormento, logo sentiram o (braço do) Senhor.
+
+[[v27-11-15]]
+
+^<<v27-11-15,15>>^ Aquele que tinham repelido e escarnecido, foi, no fim do sucesso, motivo da sua admiração, quando sentiram uma sede tão diferente da sede dos justos.
+
+[[v27-11-16]]
+
+^<<v27-11-16,16>>^ Em castigo dos pensamentos loucos da sua iniquidade, em virtude dos quais, errando, adoravam répteis irracionais e animais desprezíveis, enviaste contra eles uma multidão de animais estúpidos,
+
+[[v27-11-17]]
+
+^<<v27-11-17,17>>^ para que soubessem que cada um é punido com aquilo por que peca.
+
+[[v27-11-18]]
+
+^<<v27-11-18,18>>^ Não era difícil à tua mão omnipotente, que formou o mundo de uma matéria informe, mandar contra eles uma multidão de ursos ou de leões arremetedores,
+
+[[v27-11-19]]
+
+^<<v27-11-19,19>>^ ou animais desconhecidos, duma nova espécie, cheios de furor, que lançassem, respirando, um sopro flamejante, que exalassem um fumo infecto, ou despedissem dos olhos horrendas faíscas,
+
+[[v27-11-20]]
+
+^<<v27-11-20,20>>^ capazes não só de os exterminar com as suas mordeduras, mas até de os fazer morrer de pavor com o seu aspecto.
+
+[[v27-11-21]]
+
+^<<v27-11-21,21>>^ Mas, mesmo sem nada disto, podiam ser mortos só com um sopro, perseguidos pela justiça e dissipados pelo sopro do teu poder. Porém todas as coisas dispusetes com medida, conta e peso.
+
+[[v27-11-22]]
+
+^<<v27-11-22,22>>^ Porque só tu tens sempre à mão o supremo poder; e quem poderá resistir à força do teu braço?
+
+[[v27-11-23]]
+
+^<<v27-11-23,23>>^ Todo o mundo diante de ti é como um pequeno grão na balança, e como uma gota de orvalho que cai, de madrugada sobre a terra.
+
+[[v27-11-24]]
+
+^<<v27-11-24,24>>^ Tu tens compaixão de todos, porque tudo podes, e não olhas para os pecados dos homens, para que façam penitência.
+
+[[v27-11-25]]
+
+^<<v27-11-25,25>>^ Tu amas tudo o que existe, e não aborreces nada do que fizeste; porque, se aborrecesses alguma coisa, não a terias nem criado.
+
+[[v27-11-26]]
+
+^<<v27-11-26,26>>^ E como poderia subsistir uma coisa, se tu o não quisesses? Ou de que modo se conservaria o que por ti não fosse chamado?
+
+[[v27-11-27]]
+
+^<<v27-11-27,27>>^ És indulgente para com todas as criaturas, porque são tuas ó Senhor, que amas a vida.
+
+'''
+
+xref:027-sabedoria/027-sabedoria-010.adoc#v27-10-0[&#60; Capítulo Anterior] | <<v27-11-0,Topo>> | xref:027-sabedoria/027-sabedoria-012.adoc#v27-12-0[Próximo Capítulo &#62;]

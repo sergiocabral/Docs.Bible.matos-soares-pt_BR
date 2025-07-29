@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v35-9-0]]
+=== Oséias, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 9 de Oséias trata da punição iminente que Deus trará sobre o povo de Israel por causa de seus pecados e infidelidade. Israel havia se tornado como um fruto podre, e Deus iria rejeitá-los e deixá-los sozinhos. A seguir estão cinco versículos selecionados de outras partes da Bíblia que abordam temas relacionados a esse capítulo:
+* Jeremias 17:10: "Eu, o Senhor, esquadrinho o coração, eu provo os pensamentos; e isso para dar a cada um segundo os seus caminhos, segundo o fruto das suas obras." Este versículo fala sobre a justiça de Deus e como ele julga cada um segundo as suas obras, um tema presente em Oséias 9.
+* Provérbios 1:31: "Portanto, comerão do fruto do seu caminho, e se fartarão dos seus próprios conselhos." Este versículo destaca como as escolhas e ações do povo de Israel resultaram em sua própria destruição.
+* Jeremias 2:19: "A tua própria malícia te castigará, e as tuas apostasias te repreenderão; sabe, pois, e vê, que mal e quão amargo é deixares o Senhor, teu Deus, e não teres em ti o meu temor, diz o Senhor, o Deus dos Exércitos." Este versículo fala sobre a punição que vem como resultado da infidelidade e apostasia, um tema presente em Oséias 9.
+* Salmos 9:16: "O Senhor se manifestou, executando o juízo; destruiu o ímpio e apagou para sempre o seu nome." Este versículo fala sobre a justiça de Deus e como ele destrói os ímpios, algo que o povo de Israel estava prestes a experimentar.
+* Salmos 78:31-32: "Foi então que a ira de Deus se acendeu contra eles; ele matou os mais fortes dentre eles, e feriu de morte os jovens de Israel. Apesar disso, continuaram a pecar, e não creram nos seus prodígios." Este versículo fala sobre a rebelião e infidelidade do povo de Israel, que continuou a pecar apesar da punição de Deus, um tema presente em Oséias 9.
+****
+
+[[v35-9-1]]
+
+^<<v35-9-1,1>>^ Não te alegres, Israel, não exultes como os povos (pagãos), porque te prostituiste, sendo infiel ao teu Deus, amaste a recompensa impura, por sobre todas as eiras de trigo. (ver nota)
+
+[[v35-9-2]]
+
+^<<v35-9-2,2>>^ A eira e o lagar não os sustentarão, e o vinho iludirá a sua espectativa.
+
+[[v35-9-3]]
+
+^<<v35-9-3,3>>^ Não habitarão na terra do Senhor. Os de Efraim voltarão para o Egipto, e comerão alimentos impuros entre os Assírios.
+
+[[v35-9-4]]
+
+^<<v35-9-4,4>>^ Não farão libações de vinho ao Senhor, nem lhe oferecerão agradáveis sacrifícios; o seu pão será como o pão que se come no luto: todos os que comerem dele; ficarão impuros; o seu pão será só para eles, não entrará na casa do Senhor.
+
+[[v35-9-5]]
+
+^<<v35-9-5,5>>^ Que fareis vós no dia solene, no dia da festa do Senhor?
+
+[[v35-9-6]]
+
+^<<v35-9-6,6>>^ Eles partem por causa da devastação (da sua terra). O Egipto os recolherá, Menfis os sepultará; as suas preciosidades de prata serão das urtigas e, crescerão os abrolhos nas suas casas.
+
+[[v35-9-7]]
+
+^<<v35-9-7,7>>^ Chegaram os dias do castigo, chegaram os dias da retribuição. Clama Israel: O profeta é louco, o varão espiritual é insensato! À enormidade da tua iniquidade junta-se a da tua perseguição.
+
+[[v35-9-8]]
+
+^<<v35-9-8,8>>^ A sentinela de Efraim — com o meu Deus — o profeta, encontra um laço de caçador sobre todos os seus caminhos, a perseguição (mesmo) na casa do seu Deus.
+
+[[v35-9-9]]
+
+^<<v35-9-9,9>>^ Estão profundamente corrompidos, como nos dias de Gabaa. O Senhor se lembrará da sua iniquidade e castigará os seus pecados. (ver nota)
+
+[[v35-9-10]]
+
+^<<v35-9-10,10>>^ Encontrei Israel como cachos de uvas no deserto; vi os vossos pais como os primeiros frutos da figueira. Porém, chegados a Beelfegor, consagraram-se à infâmia e tornaram-se abomináveis como as coisas que amaram.
+
+[[v35-9-11]]
+
+^<<v35-9-11,11>>^ A glória de Efraim voará como uma ave; não haverá nascimento, nem gravidez nem concepção.
+
+[[v35-9-12]]
+
+^<<v35-9-12,12>>^ Mas, ainda mesmo que criassem alguns filhos, eu faria com que ficassem sem eles, para não restar ninguém. E ai deles quando eu os abandonar!
+
+[[v35-9-13]]
+
+^<<v35-9-13,13>>^ Efraim, pelo que vi, era como Tiro, apoiada na sua beleza; mas Efraim levará seus filhos ao que lhes há-de tirar a vida.
+
+[[v35-9-14]]
+
+^<<v35-9-14,14>>^ Dá-lhes, Senhor... Porém, que lhes darás? Dá-lhes um ventre estéril e peitos secos.
+
+[[v35-9-15]]
+
+^<<v35-9-15,15>>^ Toda a sua malícia (apareceu) em Gálgala; foi lá que lhes concebi aversão; lançá-los-ei fora da minha casa, por causa da malícia das suas obras; não tornarei mais a ter-lhes amor; todos os seus príncipes são uns rebeldes.
+
+[[v35-9-16]]
+
+^<<v35-9-16,16>>^ Efraim está ferido (de morte), a sua raiz seca: (os de Efraim) não darão mais fruto. Se, porém, tiverem filhos, matarei os queridos de suas entranhas.
+
+[[v35-9-17]]
+
+^<<v35-9-17,17>>^ O meu Deus os rejeitará, porque não o ouviram; andarão errantes entre as nações.
+
+'''
+
+xref:035-oseias/035-oseias-008.adoc#v35-8-0[&#60; Capítulo Anterior] | <<v35-9-0,Topo>> | xref:035-oseias/035-oseias-010.adoc#v35-10-0[Próximo Capítulo &#62;]

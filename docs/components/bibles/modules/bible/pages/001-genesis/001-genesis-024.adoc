@@ -1,0 +1,287 @@
+include::./index.adoc[]
+
+[[v1-24-0]]
+=== Gênesis, 24
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Gênesis 24, Abraão pede que seu servo mais antigo, que é fiel a ele, encontre uma esposa para Isaque entre os parentes de Abraão em sua terra natal. O servo, então, faz uma viagem e encontra Rebeca, que concorda em se casar com Isaque. Os temas abordados incluem a fidelidade a Deus e a obediência às suas instruções, a importância do casamento dentro da linhagem de Abraão e a providência de Deus para fornecer um cônjuge adequado para Isaque.
+* Provérbios 18:22: "Quem encontra uma esposa encontra algo excelente; recebeu uma bênção do Senhor." Este versículo fala sobre a importância de encontrar um bom cônjuge e como o casamento pode ser uma bênção de Deus.
+* Provérbios 31:10-12: "Mulher exemplar, quem a encontrará? É muito mais valiosa que os rubis. Seu marido tem plena confiança nela e nunca lhe falta coisa alguma. Ela só lhe faz o bem, e nunca o mal, todos os dias da sua vida." Este versículo descreve o tipo de mulher que o servo de Abraão estava procurando para Isaque - uma mulher de confiança, bondosa e virtuosa.
+* 1 Coríntios 7:39: "A mulher está ligada enquanto o seu marido vive; mas se ele morrer, ela é livre para se casar com quem quiser, desde que seja no Senhor." Este versículo aborda a importância de escolher um cônjuge que compartilhe a mesma fé e valores religiosos.
+* Salmo 127:1: "Se o Senhor não edificar a casa, em vão trabalham os que a edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela." Este versículo destaca a importância de confiar em Deus para construir uma vida familiar e proteger o casamento.
+* 2 Coríntios 6:14: "Não se ponham em jugo desigual com descrentes. Pois o que têm em comum a justiça e a maldade? Ou que comunhão pode ter a luz com as trevas?" Este versículo também enfatiza a importância de escolher um cônjuge que compartilhe a mesma fé e valores religiosos.
+****
+
+[[v1-24-1]]
+
+^<<v1-24-1,1>>^ Ora Abraão, já velho e de idade avançada, vendo que o Senhor em tudo o tinha abençoado,
+
+[[v1-24-2]]
+
+^<<v1-24-2,2>>^ disse ao servo mais antigo da sua casa, que governava tudo o que possuía: Põe a tua mão por baixo da minha coxa,
+
+[[v1-24-3]]
+
+^<<v1-24-3,3>>^ para eu te fazer jurar pelo Senhor, Deus do céu e da terra, que não tomarás para mulher de meu filho (nenhuma) das filhas dos Cananeus, entre os quais habito,
+
+[[v1-24-4]]
+
+^<<v1-24-4,4>>^ mas que irás à minha terra e aos meus parentes, e daí tomarás mulher para meu filho Isaac.
+
+[[v1-24-5]]
+
+^<<v1-24-5,5>>^ Respondeu o Servo: Se a mulher não quiser vir comigo para esta terra, porventura devo eu reconduzir teu filho para o lugar donde saiste?
+
+[[v1-24-6]]
+
+^<<v1-24-6,6>>^ Abraão disse: Guarda-te de reconduzir jámais para lá o meu filho.
+
+[[v1-24-7]]
+
+^<<v1-24-7,7>>^ O Senhor Deus do céu, que me tirou da casa de meu pai e da terra do meu nascimento, que me falou e me jurou dizendo: A tua estirpe darei esta terra — ele mandará o seu anjo diante de ti, e tomarás lá uma mulher pana meu filho.
+
+[[v1-24-8]]
+
+^<<v1-24-8,8>>^ Porém, se a mulher não quiser seguir-te, não estarás obrigado ao juramento: sòmente não reconduzas para lá o meu filho.
+
+[[v1-24-9]]
+
+^<<v1-24-9,9>>^ Pôs, portanto, o Servo a mão debaixo da coxa de Abraão, seu Senhor, e jurou-lhe fazer o que lhe tinha sido dito.
+
+[[v1-24-10]]
+
+^<<v1-24-10,10>>^ Tomou dez camelos do rebanho de seu senhor, e partiu, levando consigo de todos os seus bens; pôs-se a caminho, andando para a Mesopotâmia, para a cidade de Nacor.
+
+[[v1-24-11]]
+
+^<<v1-24-11,11>>^ E, tendo pela tarde feito descansar os camelos fora da cidade junto a um poço de água, na ocasião em que as mulheres costumam sair a tirar água, disse:
+
+[[v1-24-12]]
+
+^<<v1-24-12,12>>^ Ó Senhor Deus do meu Senhor Abraão, rogo-te me auxilies hoje, e uses de misericórdia para com meu senhor Abraão.
+
+[[v1-24-13]]
+
+^<<v1-24-13,13>>^ Eis que estou ao pé desta fonte de água, e as filhas dos habitantes desta cidade sairão a vir tirar água:
+
+[[v1-24-14]]
+
+^<<v1-24-14,14>>^ portanto a donzela a quem eu disser: Inclina o teu cântaro para eu beber — e ela responder: Bebe, e também darei de beber a teus camelos — essa é aquela que destinaste para teu servo Isaac: por isso conhecerei que usaste de misericórdia com o meu senhor.
+
+[[v1-24-15]]
+
+^<<v1-24-15,15>>^ Ainda não tinha acabado de dizer no seu interior estas palavras, quando Rebeca, filha de Batuel, filho de Melca. mulher de Nacor, irmão de Abraão, saía com um cântaro aos ombros.
+
+[[v1-24-16]]
+
+^<<v1-24-16,16>>^ Era uma donzela linda em extremo, virgem formosíssima não conhecida por homem algum: tinha descido à fonte, enchido o cântaro, e já voltava.
+
+[[v1-24-17]]
+
+^<<v1-24-17,17>>^ Mas o Servo saiu-lhe ao encontro e disse: Dá-me de beber um pouco de água do teu cântaro.
+
+[[v1-24-18]]
+
+^<<v1-24-18,18>>^ Ela respondeu: Bebe, meu senhor: e prontamente inclinou o cântaro sobre o seu braço, e lhe deu de beber.
+
+[[v1-24-19]]
+
+^<<v1-24-19,19>>^ Tendo ele bebido, ela acrescentou: Também para os teus camelos tirarei água, até que todos bebam.
+
+[[v1-24-20]]
+
+^<<v1-24-20,20>>^ Despejando o cântaro nas pias, correu de novo ao poço a tirar água, e, tirada, deu a todos os camelos.
+
+[[v1-24-21]]
+
+^<<v1-24-21,21>>^ Ora ele contemplava-a em silêncio, querendo saber se o Senhor teria ou não tornado feliz a sua viagem.
+
+[[v1-24-22]]
+
+^<<v1-24-22,22>>^ Depois que os camelos beberam, tirou um anel de ouro, de meio siclo de peso, e dois braceletes, que pesavam dez siclos,
+
+[[v1-24-23]]
+
+^<<v1-24-23,23>>^ e perguntou-lhe: De quem és filha? Dize-me: Há em casa de teu pai lugar em que se fique?
+
+[[v1-24-24]]
+
+^<<v1-24-24,24>>^ Ela respondeu: Sou filha de Batuel, filho de Melca, o qual ela deu à luz a Nacor,
+
+[[v1-24-25]]
+
+^<<v1-24-25,25>>^ E acrescentou: Em nossa casa há muita palha e feno, e lugar espaçoso para ficar.
+
+[[v1-24-26]]
+
+^<<v1-24-26,26>>^ Aquele homem inclinou-se, e adorou o Senhor,
+
+[[v1-24-27]]
+
+^<<v1-24-27,27>>^ dizendo: Bendito o Senhor Deus do meu Senhor Abraão, que não retirou a sua misericórdia e a sua verdade do meu senhor, e me conduziu por um caminho direito à casa do irmão do meu senhor.
+
+[[v1-24-28]]
+
+^<<v1-24-28,28>>^ A donzela, pois, correu, e contou em casa de sua mãe tudo o que tinha ouvido.
+
+[[v1-24-29]]
+
+^<<v1-24-29,29>>^ Ora Rebeca tinha um irmão, chamado Labão, o qual, apressado, saiu a ir ter com aquele homem, onde estava a fonte.
+
+[[v1-24-30]]
+
+^<<v1-24-30,30>>^ Tendo visto as arrecadas e os braceletes nas mãos de sua irmã, e tendo ouvido todas as palavras que ela referia: Aquele homem disse-nos estas e estas coisas — foi ter com ele, que estava junto dos camelos e perto da fonte,
+
+[[v1-24-31]]
+
+^<<v1-24-31,31>>^ e disse-lhe: Entra, bendito do Senhor; porque estás fora? Eu já preparei a casa (para ti), e um lugar para os camelos.
+
+[[v1-24-32]]
+
+^<<v1-24-32,32>>^ Introduziu-o, pois, na habitação, descarregou os camelos e deu-lhes palha e feno, e (trouxe) água para lavar os pés dele e dos homens que com ele tinham vindo.
+
+[[v1-24-33]]
+
+^<<v1-24-33,33>>^ Depois serviu-lhe de comer. Porém (o servo) disse: Não comrei enquanto não expuser o que tenho para dizer. (Labão) respondeu-lhe: Fala.
+
+[[v1-24-34]]
+
+^<<v1-24-34,34>>^ Então ele disse: Seu servo de Abraão:
+
+[[v1-24-35]]
+
+^<<v1-24-35,35>>^ o Senhor encheu de bênçãos o meu Senhor e o engrandeceu, dando-lhe ovelhas e bois, prata e ouro, criados e criadas, camelos e jumentos.
+
+[[v1-24-36]]
+
+^<<v1-24-36,36>>^ Sara, mulher do meu Senhor, deu-lhe na sua velhice um filho, a quem ele deu tudo o que tinha.
+
+[[v1-24-37]]
+
+^<<v1-24-37,37>>^ O meu senhor fez-me jurar, dizendo: Não tomarás para meu filho mulher das filhas de Cananeus, em cuja terra habito,
+
+[[v1-24-38]]
+
+^<<v1-24-38,38>>^ mas irás a casa de meu pai e tomarás da minha parentela mulher para meu filho.
+
+[[v1-24-39]]
+
+^<<v1-24-39,39>>^ Respondi ao meu Senhor: E se a mulher não quiser vir comigo?
+
+[[v1-24-40]]
+
+^<<v1-24-40,40>>^ O Senhor, me disse ele, em cuja presença ando, mandará o seu anjo contigo, dirigirá o teu caminho, e tomarás para meu filho uma mulher da minha parentela; e da casa de meu pai.
+
+[[v1-24-41]]
+
+^<<v1-24-41,41>>^ Serás isento da minha maldição, quando tiveres ido a casa dos meus parentes, e eles não ta derem.
+
+[[v1-24-42]]
+
+^<<v1-24-42,42>>^ Eu, pois, cheguei hoje à fonte, e disse: Ó Senhor Deus do meu senhor Abraão, se tu dirigiste o caminho em que eu agora vou,
+
+[[v1-24-43]]
+
+^<<v1-24-43,43>>^ eis que estou ao pé (desta) fonte de água: se a donzela que sair para tirar água, e ouvir de mim: Dá-me de beber um pouco de água do teu cântaro,
+
+[[v1-24-44]]
+
+^<<v1-24-44,44>>^ me disser: Bebe, e eu tirarei também para os teus camelos -seja essa a mulher que o Senhor destinou para o filho do meu senhor.
+
+[[v1-24-45]]
+
+^<<v1-24-45,45>>^ Ora, enquanto eu considerava comigo em silêncio estas coisas, apareceu Rebeca, que venha com o cântaro ao ombro, desceu à fonte e tirou água. Eu disse-lhe: Dá-me um pouco de beber.
+
+[[v1-24-46]]
+
+^<<v1-24-46,46>>^ Ela apressando-se, desceu o cântaro do ombro e disse-me: Bebe, e eu darei também de beber aos teus camelos. Bebi e ela deu (também) água aos camelos.
+
+[[v1-24-47]]
+
+^<<v1-24-47,47>>^ Interroguei-a: De quem és tu filha? Ela respondeu: Sou filha de Batuel, filho de Nacor e de Melca. Eu, então, coloquei-lhe o anel no nariz e pus-lhe nos pulsos os braceletes.
+
+[[v1-24-48]]
+
+^<<v1-24-48,48>>^ Depois, inclinado, adorei o Senhor, bendizendo o Senhor Deus do meu senhor Abraão, o qual me conduziu por um caminho direito, a fim de tomar para seu filho uma filha do irmão de meu senhor.
+
+[[v1-24-49]]
+
+^<<v1-24-49,49>>^ Por isso se usais de bondade e lealdade com o meu senhor, declarai-mo: se porém, outra coisa é do vosso agrado, dizei-mo também, para que eu vá para a direita ou para a esquerda.
+
+[[v1-24-50]]
+
+^<<v1-24-50,50>>^ Labão e Batuel responderam: Do Senhor saíram estas palavras, e nós não podemos dizer-te outra coisa fora da sua vontade.
+
+[[v1-24-51]]
+
+^<<v1-24-51,51>>^ Eis Rebeca na tua presença, toma-a e parte, e seja esposa do filho de teu senhor, conforme o Senhor falou.
+
+[[v1-24-52]]
+
+^<<v1-24-52,52>>^ O servo de Abraão, tendo ouvido isto, prostrando-se por terra, adorou o Senhor,
+
+[[v1-24-53]]
+
+^<<v1-24-53,53>>^ e, tendo tirado vasos de prata e de ouro, e vestidos, deu-os a Rebeca de presente, e também ofereceu dádivas a seus irmãos e à mãe.
+
+[[v1-24-54]]
+
+^<<v1-24-54,54>>^ Preparado o banquete comeram e beberam, e ficaram ali (aquela noite). Levantando-se pela manhã, disse o servo: Deixas-me ir, para que vá ter com o meu senhor.
+
+[[v1-24-55]]
+
+^<<v1-24-55,55>>^ Mas os irmãos dela e a mãe responderam: Fique a donzela connosco ao menos dez dias, e depois partirá.
+
+[[v1-24-56]]
+
+^<<v1-24-56,56>>^ Não queirais, respondeu-lhes, demorar-me, porque o Senhor dirigiu o meu caminho: Deixas que eu vá para o meu senhor.
+
+[[v1-24-57]]
+
+^<<v1-24-57,57>>^ Eles disseram: Chamemos a donzela e saibamos qual é a sua vontade.
+
+[[v1-24-58]]
+
+^<<v1-24-58,58>>^ Chamaram-na. pois, e perguntaram-lhe: queres ir com este homem? Ela respondeu: Irei.
+
+[[v1-24-59]]
+
+^<<v1-24-59,59>>^ Deixaram-na, pois, partir juntamente com a sua ama de leite, e o servo de Abraão e seus companheiros,
+
+[[v1-24-60]]
+
+^<<v1-24-60,60>>^ fazendo votos pelas prosperidades de sua irmã, dizendo: És nossa irmã, cresce em milhares de milhares, e a tua posteridade possua as portas de seus inimigos.
+
+[[v1-24-61]]
+
+^<<v1-24-61,61>>^ Então Rebeca e suas criadas, montadas nos camelos, seguiram aquele homem, o qual a toda a pressa voltava para o seu Senhor.
+
+[[v1-24-62]]
+
+^<<v1-24-62,62>>^ Ora, naquele tempo, Isaac passeava pelo caminho que conduz ao poço, chamado (poço) do que vive e do que vê, porque habitava no pais meridional.
+
+[[v1-24-63]]
+
+^<<v1-24-63,63>>^ Tinha saído ao campo para meditar, ao cair da noite, e, levantando os olhos, viu ao longe vir os camelos.
+
+[[v1-24-64]]
+
+^<<v1-24-64,64>>^ Rebeca também, tendo visto Isaac desceu do camelo
+
+[[v1-24-65]]
+
+^<<v1-24-65,65>>^ e disse ao servo: Quem é aquele homem que vem pelo campo ao nosso encontro? Ele respondeu: É o meu senhor. Ela tomou depressa o véu e cobriu-se.
+
+[[v1-24-66]]
+
+^<<v1-24-66,66>>^ O servo contou a Isaac tudo o que tinha feito.
+
+[[v1-24-67]]
+
+^<<v1-24-67,67>>^ Ele introduziu-a na tenda de Sara, sua mãe, recebeu-a por mulher, e tão extremosamente a amou, que moderou a dor que lhe ocasionara a morte de sua mãe.
+
+'''
+
+xref:001-genesis/001-genesis-023.adoc#v1-23-0[&#60; Capítulo Anterior] | <<v1-24-0,Topo>> | xref:001-genesis/001-genesis-025.adoc#v1-25-0[Próximo Capítulo &#62;]

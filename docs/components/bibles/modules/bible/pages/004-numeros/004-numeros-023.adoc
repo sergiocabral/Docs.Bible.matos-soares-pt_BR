@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v4-23-0]]
+=== Números, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 23 do livro de Números trata da tentativa do rei moabita, Balaque, de amaldiçoar os israelitas por meio do profeta Balaão, que Deus havia impedido de fazer isso. Os versículos a seguir são escolhidos com base na proximidade dos temas do capítulo e estão relacionados com a bênção e a proteção de Deus sobre o seu povo:
+* Salmos 3:8: "Salva, SENHOR; porque faltam os teus fiéis; pois são poucos os filhos dos homens que se mantêm firmes." O salmista clama a Deus por salvação e proteção em meio à escassez de fiéis. Assim como os israelitas foram abençoados por Deus e protegidos da maldição de Balaão, os fiéis em Cristo também são protegidos por Deus em meio à adversidade.
+* Salmos 5:11: "Mas alegrem-se todos os que confiam em ti; exultem eternamente, porquanto tu os defendes; e em ti se gloriem os que amam o teu nome." Este versículo mostra que aqueles que confiam em Deus podem se alegrar e exultar, pois ele os defende. Assim como Deus defendeu os israelitas da maldição de Balaão, ele também defende e protege aqueles que confiam nele.
+* Salmos 16:1: "Guarda-me, ó Deus, porque em ti me refugio." O salmista coloca sua confiança em Deus como sua fonte de refúgio e proteção. Da mesma forma, os israelitas foram abençoados por Deus e protegidos da maldição de Balaão por colocarem sua confiança nele.
+* Isaías 54:17: "Nenhuma arma forjada contra ti prosperará, e toda língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos do SENHOR e a sua justiça que vem de mim, diz o SENHOR." Este versículo afirma que Deus protege seus servos de toda arma e língua que se levantam contra eles. Assim como Deus protegeu os israelitas da maldição de Balaão, ele também protege seus servos de todos os ataques do inimigo.
+* Jeremias 17:7: "Bendito o homem que confia no SENHOR, e cuja esperança é o SENHOR." Este versículo mostra que a bênção de Deus está sobre aqueles que confiam nele e esperam nele. Da mesma forma, os israelitas foram abençoados por Deus e protegidos da maldição de Balaão por confiarem nele.
+****
+
+[[v4-23-1]]
+
+^<<v4-23-1,1>>^ Balaão disse a Balac: Edifica-me aqui sete altares, prepara outros tantos novilhos e um igual número de carneiros.
+
+[[v4-23-2]]
+
+^<<v4-23-2,2>>^ Tendo ele feito como Balaão havia dito, puseram juntamente um novilho e um carneiro sobre cada altar.
+
+[[v4-23-3]]
+
+^<<v4-23-3,3>>^ Balaão disse a Balac: Fica-te um pouco junto do teu holocausto, enquanto eu vou ver se porventura o Senhor vem ao meu encontro, e te direi tudo o que ele me mandar.
+
+[[v4-23-4]]
+
+^<<v4-23-4,4>>^ (Então Balaão) afastou-se para um monte escavado, e Deus foi ao seu encontro. Balaão disse-lhe: Eu levantei sete altares, e pus um novilho e um carneiro sobre cada um.
+
+[[v4-23-5]]
+
+^<<v4-23-5,5>>^ O Senhor pôs a sua palavra na boca de Balaão e disse: Torna para Balac, e dize-lhe isto e isto.
+
+[[v4-23-6]]
+
+^<<v4-23-6,6>>^ Tornando, encontrou Balac em pé junto do seu holocausto, com todos os príncipes dos Moabitas,
+
+[[v4-23-7]]
+
+^<<v4-23-7,7>>^ e, começando a falar em parábola, disse: De Aram me conduziu Balac, o rei dos Moabitas (me conduziu) dos montes do Oriente. Vem, disse, e amaldiçoa Jacob, apressa-te a execrar Israel. (ver nota)
+
+[[v4-23-8]]
+
+^<<v4-23-8,8>>^ Como amaldiçoarei eu a quem Deus não amaldiçoou? Como detestarei a quem o Senhor não detesta?
+
+[[v4-23-9]]
+
+^<<v4-23-9,9>>^ Eu o vejo do alto dos rochedos e contemplo-o do cume dos outeiros. Este povo habitará só, e não será contado entre as nações.
+
+[[v4-23-10]]
+
+^<<v4-23-10,10>>^ Quem poderá contar o pó de Jacob, contar um quarto de Israel? Que eu morra da morte dos justos, e que o meu fim seja semelhante ao deles. (ver nota)
+
+[[v4-23-11]]
+
+^<<v4-23-11,11>>^ Balac disse a Balaão: Que é o que tu fazes? Eu chamei-te para amaldiçoares os meus Inimigos, e tu pelo contrário os abençoas.
+
+[[v4-23-12]]
+
+^<<v4-23-12,12>>^ Ele respondeu-lhe: Porventura posso eu dizer outra coisa, senão o que o Senhor ordenou.
+
+[[v4-23-13]]
+
+^<<v4-23-13,13>>^ Disse-lhe Balac: Vem comigo a outro lugar, donde vejas Israel, donde vejas só uma extremidade, e amaldiçoa-o daí.
+
+[[v4-23-14]]
+
+^<<v4-23-14,14>>^ Tendo-o levado a um lugar elevado no cimo do monte Fasga, Balaão levantou (ali) sete altares, e, postos sobre cada altar um novilho e um carneiro,
+
+[[v4-23-15]]
+
+^<<v4-23-15,15>>^ disse a Balac: Deixa-te aqui ficar junto do teu holocausto, enquanto eu vou ao encontro (do Senhor).
+
+[[v4-23-16]]
+
+^<<v4-23-16,16>>^ O Senhor, tendo ido ao seu encontro e tendo-lhe posto a palavra na boca, disse-lhe: Torna para Balac, e dize-lhe isto (que te vou dizer).
+
+[[v4-23-17]]
+
+^<<v4-23-17,17>>^ Tornando, encontrou-o em pé junto do seu holocausto, e os príncipes dos Moabitas com ele. Balac perguntou-lhe: Que te disse o Senhor?
+
+[[v4-23-18]]
+
+^<<v4-23-18,18>>^ Ele, continuando com a sua parábola, disse: Levanta-te, Balac e escuta: ouve, ó filho de Sefor.
+
+[[v4-23-19]]
+
+^<<v4-23-19,19>>^ Deus não é como o homem, capaz de mentir, nem como o filho do homem, sujeito a mudanças. Ele disse uma coisa, e não a fará? Falou, e não cumprirá a sua palavra?
+
+[[v4-23-20]]
+
+^<<v4-23-20,20>>^ Eu fui trazido para abençoar, ele abençoou e eu não posso impedir a bênção.
+
+[[v4-23-21]]
+
+^<<v4-23-21,21>>^ Em Jacob não há iniquidade, nem em Israel injustiça. Com ele está o Senhor Seu Deus, nele se ouve a aclamação dum rei. (ver nota)
+
+[[v4-23-22]]
+
+^<<v4-23-22,22>>^ Deus tirou-o do Egipto: a sua fortaleza é semelhante à do rinoceronte.
+
+[[v4-23-23]]
+
+^<<v4-23-23,23>>^ Não há magia em Jacob, nem adivinhações em Israel. A seu tempo se dirá a Jacob e a Israel o que Deus fez.
+
+[[v4-23-24]]
+
+^<<v4-23-24,24>>^ Eis um povo que se levanta como uma leoa, e se põe em pé como um leão; não se deitará, até que tenha devorado a presa e até que tenha bebido o sangue das suas vitimas.
+
+[[v4-23-25]]
+
+^<<v4-23-25,25>>^ Balac disse a Balaão: Nem o amaldiçoes, nem o abençoes.
+
+[[v4-23-26]]
+
+^<<v4-23-26,26>>^ Mas ele respondeu: Não te disse eu que havia de fazer tudo aquilo que o Senhor me mandasse?
+
+[[v4-23-27]]
+
+^<<v4-23-27,27>>^ Balac disse-lhe: Vem, e levar-te-ei a outro lugar, a ver se é do agrado de Deus que tu de lá os amaldiçoes.
+
+[[v4-23-28]]
+
+^<<v4-23-28,28>>^ Depois de o ter levado ao cimo do monte Fogor, que olha para o deserto,
+
+[[v4-23-29]]
+
+^<<v4-23-29,29>>^ Balaão disse-lhe: Levanta-me aqui sete altares, prepara outros tantos novilhos, e igual número de carneiros.
+
+[[v4-23-30]]
+
+^<<v4-23-30,30>>^ Balac fez o que Balaão lhe dissera, e pôs um novilho e um carneiro sobre cada altar.
+
+'''
+
+xref:004-numeros/004-numeros-022.adoc#v4-22-0[&#60; Capítulo Anterior] | <<v4-23-0,Topo>> | xref:004-numeros/004-numeros-024.adoc#v4-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v52-11-0]]
+=== Romanos, 11
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Romanos 11 trata principalmente sobre a relação entre os judeus e os gentios na fé cristã, enfatizando a soberania de Deus e a sua escolha e chamado para o povo de Israel. Além disso, o capítulo destaca a importância da fé em Cristo e da sua obra redentora para a salvação de todas as pessoas, tanto judeus quanto gentios.
+* Isaías 59:20: "Virá o Redentor a Sião e aos que em Jacó se converterem, diz o Senhor." Esse versículo é citado em Romanos 11:26 para enfatizar a promessa de Deus de salvar o seu povo escolhido, incluindo judeus e gentios que creem em Jesus como o Messias e Salvador.
+* Salmos 94:14: "Porque o Senhor não desamparará o seu povo, nem desamparará a sua herança." Esse verso destaca a fidelidade de Deus em relação ao seu povo e sua aliança, mesmo quando eles falham. Isso é relevante para o tema de Romanos 11, que destaca a escolha e o chamado de Deus para o povo de Israel, apesar de sua desobediência e incredulidade.
+* Deuteronômio 32:21: "Irei, pois, provocá-los a zelos não povo, e a uma nação louca irei provocá-los." Esse versículo é citado em Romanos 10:19 para ilustrar como Deus estendeu a salvação também aos gentios, provocando a inveja e o ciúme dos judeus. Isso é relevante para o tema de Romanos 11, que destaca como Deus tem um propósito maior em estender a salvação a todas as pessoas, incluindo judeus e gentios.
+* Salmos 69:22-23: "Torne-se-lhes a sua mesa diante deles em laço, e a sua prosperidade em armadilha. Escureçam-se-lhes os olhos para que não vejam, e faze-lhes tremer os lombos incessantemente." Esse verso é citado em Romanos 11:9-10 para enfatizar o julgamento de Deus sobre os que o rejeitam, incluindo judeus e gentios que não creem em Jesus. Isso destaca a importância da fé em Cristo para a salvação.
+* Salmos 117:1: "Louvai ao Senhor, todas as nações, louvai-o, todos os povos." Esse verso destaca a extensão da salvação de Deus a todas as pessoas, independentemente da sua origem ou raça. Isso é relevante para o tema de Romanos 11, que destaca a soberania de Deus e sua escolha de salvar tanto judeus quanto gentios, e a importância da fé em Cristo para a salvação.
+****
+
+[[v52-11-1]]
+
+^<<v52-11-1,1>>^ Digo, pois: Porventura Deus rejeitou (todo) o seu povo? Longe disso. Porque eu também sou israelita, da descendência de Abraão, da tribo de Benjamim.
+
+[[v52-11-2]]
+
+^<<v52-11-2,2>>^ Deus não rejeitou (todo) o seu povo, que conheceu na sua presciência. Não sabeis o que a Escritura refere de Elias, de que modo ele faz a Deus esta acusação contra Israel:
+
+[[v52-11-3]]
+
+^<<v52-11-3,3>>^ Senhor, mataram os teus profetas, derribaram os teus altares: e eu fiquei só e querem a minha vida (1Rs. 19, 10)?
+
+[[v52-11-4]]
+
+^<<v52-11-4,4>>^ Mas que lhe disse Deus em resposta: Eu reservei para mim sete mil homens, que não dobraram os joelhos diante de Baal (1Rs. 19, 18).
+
+[[v52-11-5]]
+
+^<<v52-11-5,5>>^ Do mesmo modo, ainda agora existem aqueles que foram reservados segundo a escolha da graça.
+
+[[v52-11-6]]
+
+^<<v52-11-6,6>>^ Ora, se isto foi por graça, não foi pelas obras; doutra sorte, a graça já não é graça. (ver nota)
+
+[[v52-11-7]]
+
+^<<v52-11-7,7>>^ Que (diremos) pois? (Diremos) que Israel não conseguiu o que buscava, tendo-o contudo, conseguido os escolhidos (por Deus). Quanto aos outros, foram obsecados (por sua malicia), (ver nota)
+
+[[v52-11-8]]
+
+^<<v52-11-8,8>>^ como está escrito: Deus deu-lhes um espirito de torpor, olhos para que não vejam, e ouvidos para que não ouçam, até ao dia de hoje (Dt. 29, 3).
+
+[[v52-11-9]]
+
+^<<v52-11-9,9>>^ E David diz: A mesa deles se lhes converta em laço, em prisão, em ocasião de queda, e isto para seu justo castigo
+
+[[v52-11-10]]
+
+^<<v52-11-10,10>>^ Escurecidos sejam os seus olhos, para que não vejam, e esteja sempre curvado o seu dorso (Ps. 68, 23-24).
+
+[[v52-11-11]]
+
+^<<v52-11-11,11>>^ Digo, pois: porventura tropeçaram eles de maneira a caírem (para sempre)? Não, certamente. Mas, pelo seu delito, veio a salvação aos gentios, para os incitar à emulação.
+
+[[v52-11-12]]
+
+^<<v52-11-12,12>>^ Ora, se o seu delito foi a riqueza do mundo, e a sua decadência a riqueza dos gentios, quanto mais a sua conversão em massa? (ver nota)
+
+[[v52-11-13]]
+
+^<<v52-11-13,13>>^ A vós, pois, ó gentios (convertidos ao cristianismo): enquanto Apóstolo das gentes, honrarei o meu ministério,
+
+[[v52-11-14]]
+
+^<<v52-11-14,14>>^ para ver se, dalgum modo, provoco à emulação os do meu sangue e salvo alguns deles
+
+[[v52-11-15]]
+
+^<<v52-11-15,15>>^ Porque, se a perda deles foi (ocasião da) reconciliação do mundo, que será a sua reintegração senão uma ressurreição dentre os mortos?
+
+[[v52-11-16]]
+
+^<<v52-11-16,16>>^ Se as primícias são santas, também o é a massa; se é santa a raiz, também o são os ramos.
+
+[[v52-11-17]]
+
+^<<v52-11-17,17>>^ Se algum dos ramos foram quebrados, e tu, sendo um zambujeiro, foste enxertado em seu lugar, e foste (em seu lugar) participante da seiva da raiz da oliveira,
+
+[[v52-11-18]]
+
+^<<v52-11-18,18>>^ não te vanglories contra os ramos. Se te vanglorias, (fica sabendo que) não és tu que sustentas a raiz, mas a raiz a ti.
+
+[[v52-11-19]]
+
+^<<v52-11-19,19>>^ Dirás talvez : "Os ramos foram cortados, para que eu fosse enxertado."
+
+[[v52-11-20]]
+
+^<<v52-11-20,20>>^ Isso é verdade: por causa da sua incredulidade foram cortados. E tu estás firme pela fé ; não te ensoberbeças (por isso), mas teme.
+
+[[v52-11-21]]
+
+^<<v52-11-21,21>>^ Porque, se Deus não perdoou aos ramos naturais, não perdoará também a ti (que és ramo enxertado).
+
+[[v52-11-22]]
+
+^<<v52-11-22,22>>^ Considera, pois, a bondade e a severidade de Deus; a severidade para com aqueles que caíram e a bondade de Deus para contigo, se permaneceres na bondade; doutra maneira também serás cortado.
+
+[[v52-11-23]]
+
+^<<v52-11-23,23>>^ E eles também, se não permanecerem na incredulidade, serão enxertados, pois Deus é poderoso para os enxertar de novo.
+
+[[v52-11-24]]
+
+^<<v52-11-24,24>>^ Em verdade, se foste cortado do zambujeiro natural, e, contra a tua natureza, foste enxertado em boa oliveira, quanto mais aqueles que são da mesma natureza, serão enxertados na sua própria oliveira?
+
+[[v52-11-25]]
+
+^<<v52-11-25,25>>^ Não quero, Irmãos, que ignoreis este mistério, para que não vos vanglorieis da vossa sabedoria, (isto é) que uma parte de Israel caiu na cegueira até que tenha entrado (na Igreja) a plenitude dos gentios.
+
+[[v52-11-26]]
+
+^<<v52-11-26,26>>^ E assim todo o Israel se salvará, como está escrito: Virá de Sião o libertador e afastará de Jacob a impiedade.
+
+[[v52-11-27]]
+
+^<<v52-11-27,27>>^ Terão de mim esta aliança, quando eu tirar os seus pecados (Is. 59, 20-21; Is. 27, 9).
+
+[[v52-11-28]]
+
+^<<v52-11-28,28>>^ É verdade que, quanto ao Evangelho, eles agora são inimigos (de Deus) por causa de vós; mas, quanto à escolha divina, eles são muito queridos por causa de seus pais. (ver nota)
+
+[[v52-11-29]]
+
+^<<v52-11-29,29>>^ Com efeito, os dons e a vocação de Deus são sem arrependimento. (ver nota)
+
+[[v52-11-30]]
+
+^<<v52-11-30,30>>^ Assim como também vós outrora desobedecestes a Deus e agora alcançastes misericórdia pela desobediência deles,
+
+[[v52-11-31]]
+
+^<<v52-11-31,31>>^ assim também eles agora não obedecem, a fim de que, pela misericórdia que vos foi feita, alcancem também eles misericórdia (excitados por uma santa inveja de vós).
+
+[[v52-11-32]]
+
+^<<v52-11-32,32>>^ Efectivamente, Deus a todos encerrou na desobediência, a fim de usar com todos de misericórdia. (ver nota)
+
+[[v52-11-33]]
+
+^<<v52-11-33,33>>^ O profundidade das riquezas da sabedoria e da ciência de Deus! Quão incompreensíveis são os seus juízos e imperscrutáveis os seus caminhos!
+
+[[v52-11-34]]
+
+^<<v52-11-34,34>>^ Pois quem conheceu o pensamento do Senhor? Ou quem foi o seu conselheiro?
+
+[[v52-11-35]]
+
+^<<v52-11-35,35>>^ Ou quem lhe deu alguma coisa, primeiro, para que tenha de receber em troca?
+
+[[v52-11-36]]
+
+^<<v52-11-36,36>>^ Porque dele, por ele e para ele são todas as coisas; a ele (seja dada) glória por todos os séculos. Amen.
+
+'''
+
+xref:052-romanos/052-romanos-010.adoc#v52-10-0[&#60; Capítulo Anterior] | <<v52-11-0,Topo>> | xref:052-romanos/052-romanos-012.adoc#v52-12-0[Próximo Capítulo &#62;]

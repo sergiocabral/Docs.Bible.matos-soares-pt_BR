@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v3-10-0]]
+=== Levítico, 10
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 10 narra a morte dos filhos de Arão, Nadabe e Abiú, por oferecerem fogo estranho diante do Senhor. Deus dá instruções a Arão sobre como os sacerdotes devem se comportar diante de Deus e do povo, incluindo como eles devem lidar com o vinho e outras bebidas alcoólicas. Abaixo estão cinco versículos relacionados aos temas abordados em Levítico 10.
+* Levítico 16:1: "E falou o Senhor a Moisés, depois da morte dos dois filhos de Arão, quando se chegaram perante o Senhor, e morreram." Esse versículo faz referência à morte de Nadabe e Abiú, que é o tema principal de Levítico 10.
+* Provérbios 20:1: "O vinho é escarnecedor, e a bebida forte alvoroçadora; e todo aquele que neles errar nunca será sábio." Este versículo fala sobre a natureza do vinho e como ele pode levar as pessoas ao erro, o que é relevante em Levítico 10, onde Deus dá instruções aos sacerdotes sobre como lidar com bebidas alcoólicas.
+* 1 Pedro 5:8: "Sede sóbrios; vigiai; porque o diabo, vosso adversário, anda em derredor, bramando como leão, buscando a quem possa tragar;" Esse versículo fala sobre a importância da sobriedade e da vigilância, algo que é enfatizado em Levítico 10, onde Deus dá instruções sobre como os sacerdotes devem se comportar diante de Deus e do povo.
+* 1 Coríntios 9:27: "Antes subjugo o meu corpo, e o reduzo à servidão, para que, pregando aos outros, eu mesmo não venha de alguma maneira a ficar reprovado." Este versículo fala sobre a necessidade de controlar nossos corpos e nossos desejos, algo que é importante para os sacerdotes em Levítico 10, onde Deus dá instruções sobre como eles devem se comportar diante de Deus e do povo.
+* 1 Timóteo 5:23: "Não bebas mais água só, mas usa de um pouco de vinho, por causa do teu estômago e das tuas frequentes enfermidades." Esse versículo fala sobre o uso moderado de vinho para fins medicinais, o que é relevante em Levítico 10, onde Deus dá instruções aos sacerdotes sobre como lidar com bebidas alcoólicas.
+****
+
+[[v3-10-1]]
+
+^<<v3-10-1,1>>^ Nadab e Abiu, filhos de Aarão, tendo tomado os turíbulos, puseram neles fogo e incenso, oferecendo diante do Senhor um fogo estranho, o que não lhes tinha sido ordenado.
+
+[[v3-10-2]]
+
+^<<v3-10-2,2>>^ Um fogo vindo do Senhor devorou-os e morreram diante do Senhor.
+
+[[v3-10-3]]
+
+^<<v3-10-3,3>>^ Moisés disse a Aarão: Isto é o que disse o Senhor: Eu serei santificado naqueles que se aproximam de mim, e serei glorificado em presença de todo o povo. Aarão, ouvindo isto, calou-se.
+
+[[v3-10-4]]
+
+^<<v3-10-4,4>>^ Moisés, chamando Misael e Elisafan, filhos de Oziel, tio de Aarão, disse-lhes: Ide, e tirai vossos irmãos de diante do santuário, e levai-os para fora dos acampamentos.
+
+[[v3-10-5]]
+
+^<<v3-10-5,5>>^ Eles foram logo, e levaram-nos vestidos, como estavam, com as suas túnicas de linho, e lançaram-nos fora, como lhes fora ordenado.
+
+[[v3-10-6]]
+
+^<<v3-10-6,6>>^ Moisés disse a Aarão e a Eleazar, e a Itamar, seus filhos: Não descubrais a cabeça, nem rasgueis as vossas vestes, não suceda morrerdes vós, e levantar-se a ira do Senhor contra o povo. Vossos irmãos e toda a casa de Israel chorem o incêndio que o Senhor suscitou: (ver nota)
+
+[[v3-10-7]]
+
+^<<v3-10-7,7>>^ vós, porém, não saireis da porta do tabernáculo, aliás perecereis, porque o óleo da santa unção está sobre vós. Eles fizeram tudo conforme o preceito de Moisés.
+
+[[v3-10-8]]
+
+^<<v3-10-8,8>>^ Disse também o Senhor a Aarão:
+
+[[v3-10-9]]
+
+^<<v3-10-9,9>>^ Tu e teus filhos não bebereis vinho, nem qualquer coisa que possa embriagar, quando entrardes no tabernáculo da reunião para que não morrais; porque este é um preceito eterno para as vossas gerações,
+
+[[v3-10-10]]
+
+^<<v3-10-10,10>>^ para que tenhais a ciência de saber discernir entre o santo e o profano, entre o impuro e o puro,
+
+[[v3-10-11]]
+
+^<<v3-10-11,11>>^ e para que ensineis aos filhos de Israel todas as minhas leis, que o Senhor lhes prescreveu por intermédio de Moisés.
+
+[[v3-10-12]]
+
+^<<v3-10-12,12>>^ Moisés disse a Aarão, e a Eleazar, e a Itamar, os (dois) filhos que lhe restavam: Tomai o sacrifício, que ficou da oblação do Senhor, e comei-o sem fermento junto do altar, porque é uma coisa santíssima.
+
+[[v3-10-13]]
+
+^<<v3-10-13,13>>^ Comê-lo-eis no lugar santo, porque é a parte das oblações do Senhor, designada para ti e para os teus filhos, conforme me foi ordenado.
+
+[[v3-10-14]]
+
+^<<v3-10-14,14>>^ Comereis também, tu e teus filhos, e tuas filhas contigo, num lugar muito limpo, o peito, que foi oferecido, e a espádua, que foi separada, porque são as partes reservadas para ti e para os teus filhos das vítimas pacíficas dos filhos de Israel.
+
+[[v3-10-15]]
+
+^<<v3-10-15,15>>^ Eles elevarão diante do Senhor, além das gorduras que se queimam sobre o altar, a espádua e o peito que pertencem a ti e aos teus filhos, por uma lei perpétua, como o Senhor ordenou.
+
+[[v3-10-16]]
+
+^<<v3-10-16,16>>^ Entretanto, procurando Moisés o bode, que tinha sido oferecido pelo pecado, achou-o queimado. Irado contra Eleazar e Itamar, os filhos que restavam a Aarão, disse-lhes:
+
+[[v3-10-17]]
+
+^<<v3-10-17,17>>^ Por que não comestes vós no lugar santo a vítima pelo pecado, que é uma coisa santíssima, e vos foi dada, a fim de que leveis a iniquidade da multidão e oreis por ela diante do Senhor?
+
+[[v3-10-18]]
+
+^<<v3-10-18,18>>^ Tanto mais que não levaram do seu sangue ao santuário, e vós devereis tê-la comido no santuário, como me foi ordenado.
+
+[[v3-10-19]]
+
+^<<v3-10-19,19>>^ Aarão respondeu: Hoje foi oferecida a vítima pelo pecado, e o holocausto diante do Senhor; a mim, porém, aconteceu-me o que tu vês; como podia eu comer desta vítima, ou agradar ao Senhor nas cerimônias (achando-me) com o espírito entristecido?
+
+[[v3-10-20]]
+
+^<<v3-10-20,20>>^ Moisés, tendo ouvido isto, admitiu a desculpa.
+
+'''
+
+xref:003-levitico/003-levitico-009.adoc#v3-9-0[&#60; Capítulo Anterior] | <<v3-10-0,Topo>> | xref:003-levitico/003-levitico-011.adoc#v3-11-0[Próximo Capítulo &#62;]

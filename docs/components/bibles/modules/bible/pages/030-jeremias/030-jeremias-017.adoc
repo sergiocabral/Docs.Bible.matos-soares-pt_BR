@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v30-17-0]]
+=== Jeremias, 17
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 17 adverte o povo de Judá sobre a maldição que recai sobre aqueles que confiam em si mesmos e em ídolos, em vez de confiar em Deus. Também fala da bênção e prosperidade que vem da confiança em Deus e da obediência aos seus mandamentos. Abaixo estão cinco versículos relacionados com os temas abordados nesse capítulo, em ordem de proximidade com os temas:
+* Salmos 118:8-9: "É melhor confiar no Senhor do que confiar no homem. É melhor confiar no Senhor do que confiar em príncipes." Este versículo fala da importância de confiar em Deus em vez de confiar na sabedoria e poder humanos.
+* Jeremias 7:23: "Mas isto lhes ordenei, dizendo: Dai ouvidos à minha voz, e eu serei o vosso Deus, e vós sereis o meu povo; e andai em todo o caminho que eu vos mandar, para que vos vá bem." Este versículo fala da promessa de Deus de ser o Deus do seu povo se eles obedecerem à sua voz e caminharem em seus caminhos.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Este versículo fala da importância de confiar em Deus e reconhecê-lo em todos os nossos caminhos para que ele possa dirigir nossos passos.
+* Jeremias 9:23-24: "Assim diz o Senhor: Não se glorie o sábio na sua sabedoria, nem se glorie o forte na sua força; não se glorie o rico nas suas riquezas. Mas o que se gloriar, glorie-se nisto: em entender e em conhecer-me, que eu sou o Senhor, que faço misericórdia, juízo e justiça na terra; porque destas coisas me agrado, diz o Senhor." Este versículo fala da importância de conhecer e glorificar a Deus, em vez de se gloriar em sabedoria, força ou riquezas humanas.
+* Salmos 1:1-3: "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores. Antes tem o seu prazer na lei do Senhor, e na sua lei medita de dia e de noite. Pois será como a árvore plantada junto a ribeiros de águas, a qual dá o seu fruto na estação própria, e cujas folhas não caem; e tudo quanto fizer prosperará." Este versículo fala da bênção que vem da meditação e obediência à lei de Deus.
+****
+
+[[v30-17-1]]
+
+^<<v30-17-1,1>>^ O pecado de Judá está escrito com um estilete de ferro, com uma ponta de diamante, está gravado sobre a tábua do seu coração e sobre os ângulos (sacrílegos) dos seus altares,
+
+[[v30-17-2]]
+
+^<<v30-17-2,2>>^ sobre toda a árvore verde, sobre as colinas elevadas,
+
+[[v30-17-3]]
+
+^<<v30-17-3,3>>^ sobre as alturas dos campos. Entregarei ao saque os teus bens, todos os teus tesouros, os teus lugares altos (em que adoras os ídolos), por causa dos pecados cometidos por ti em todas as tuas terras.
+
+[[v30-17-4]]
+
+^<<v30-17-4,4>>^ Deixarás ao abandono a herança que eu te havia dado, e far-te-ei servir aos teus inimigos, numa terra que não conheces, porquanto ateaste o fogo da minha cólera, que arderá sempre.
+
+[[v30-17-5]]
+
+^<<v30-17-5,5>>^ Isto diz o Senhor: Maldito o homem que confia no homem (e não em Deus), que faz da carne o seu braço, e cujo coração se retira do Senhor.
+
+[[v30-17-6]]
+
+^<<v30-17-6,6>>^ Será (infrutuoso) como um cardo no deserto, que, mesmo que lhe venha algum bem, não o sente, que habita na secura do deserto, numa terra salobra e inabitável.
+
+[[v30-17-7]]
+
+^<<v30-17-7,7>>^ Bem-aventurado o homem que confia no Senhor, e de quem o Senhor é a esperança.
+
+[[v30-17-8]]
+
+^<<v30-17-8,8>>^ É como a árvore plantada sobre as águas, a qual estende as suas raízes para a corrente: não teme (a secura), quando vem o calor, fica (sempre) verde a sua folha; um ano de seca não a inquieta, não deixando ela, por isso, de dar fruto.
+
+[[v30-17-9]]
+
+^<<v30-17-9,9>>^ O coração é o que há de mais complicado e perverso: quem o poderá conhecer?
+
+[[v30-17-10]]
+
+^<<v30-17-10,10>>^ Eu, o Senhor, esquadrinho o coração e sondo os rins, para dar a cada um segundo o seu proceder, segundo o fruto das suas obras.
+
+[[v30-17-11]]
+
+^<<v30-17-11,11>>^ Como a perdiz que choca os ovos que não pôs, assim o que junta riquezas por meios injustos: no meio de seus dias tem de as deixar, e, ao fim, é um insensato.
+
+[[v30-17-12]]
+
+^<<v30-17-12,12>>^ Trono de glória, elevado desde o princípio, é o nosso lugar santo.
+
+[[v30-17-13]]
+
+^<<v30-17-13,13>>^ Senhor, esperança de Israel, todos os que te abandonam serão confundidos, os que se apartam de ti serão cobertos de vergonha, porque deixaram o Senhor, que é a fonte das águas vivas.
+
+[[v30-17-14]]
+
+^<<v30-17-14,14>>^ Cura-me, Senhor, e serei curado; salva-me, e serei salvo; porque tu és a minha glória.
+
+[[v30-17-15]]
+
+^<<v30-17-15,15>>^ Ei-los que me dizem: Onde está a palavra do Senhor? Que se cumpra.
+
+[[v30-17-16]]
+
+^<<v30-17-16,16>>^ Mas eu não te incitei a que (lhes) enviasses a desgraça, não desejei o dia da calamidade; tu bem o sabes. O que saiu dos meus lábios estava na tua presença.
+
+[[v30-17-17]]
+
+^<<v30-17-17,17>>^ Não me sejas motivo de medo, tu, (ó Senhor) esperança minha, no dia da aflição.
+
+[[v30-17-18]]
+
+^<<v30-17-18,18>>^ Sejam confundidos os que me perseguem, e não seja eu confundido: temam eles, e não eu; faze vir sobre eles o dia da aflição e despedaça-os duas vezes.
+
+[[v30-17-19]]
+
+^<<v30-17-19,19>>^ Isto me disse o Senhor: Vai e põe-te à porta dos filhos do povo, pela qual entram e saem os reis de Judá, e a todas as portas de Jerusalém.
+
+[[v30-17-20]]
+
+^<<v30-17-20,20>>^ Dir-lhes-ás: Ouvi a palavra do Senhor, reis de Judá, povo de Judá e todos os moradores de Jerusalém, que entrais por estas portas.
+
+[[v30-17-21]]
+
+^<<v30-17-21,21>>^ Isto diz o Senhor: Evitai, por vossa vida, transportar cargas, no dia de sábado, e de as introduzir pelas portas de Jerusalém;
+
+[[v30-17-22]]
+
+^<<v30-17-22,22>>^ não façais tirar cargas de vossas casas no dia de sábado, nem façais obra servil alguma; santificai o dia de sábado, como eu ordenei a vossos pais.
+
+[[v30-17-23]]
+
+^<<v30-17-23,23>>^ Porém não ouviram, não inclinaram o seu ouvido, mas endureceram a sua cerviz, para me não ouvirem nem receberem a instrução.
+
+[[v30-17-24]]
+
+^<<v30-17-24,24>>^ (Apesar disso) se me ouvirdes, diz o Senhor, de sorte que não metais cargas pelas portas desta cidade no dia de sábado, santificando o dia do sábado, sem fazer nele obra alguma servil,
+
+[[v30-17-25]]
+
+^<<v30-17-25,25>>^ entrarão pelas portas desta cidade reis e príncipes, que se sentarão sobre o trono de Davide, irão sobre carros e cavalos, eles e os seus príncipes, os varões de Judá e os moradores de Jerusalém. E será para sempre povoada esta cidade.
+
+[[v30-17-26]]
+
+^<<v30-17-26,26>>^ Virão das cidades de Judá e das cercanias de Jerusalém, da terra de Benjamim, das planícies, dos montes e do meio-dia, oferecer holocaustos, sacrifícios, oblações, incenso e sacrifícios de ação de graças à casa do Senhor.
+
+[[v30-17-27]]
+
+^<<v30-17-27,27>>^ Mas, se recusardes ouvir-me e santificar o dia de sábado, não transportando cargas, não as metendo pelas portas de Jerusalém no dia de sábado, pegarei fogo às portas, e ele devorará os palácios de Jerusalém e não se apagará.
+
+'''
+
+xref:030-jeremias/030-jeremias-016.adoc#v30-16-0[&#60; Capítulo Anterior] | <<v30-17-0,Topo>> | xref:030-jeremias/030-jeremias-018.adoc#v30-18-0[Próximo Capítulo &#62;]

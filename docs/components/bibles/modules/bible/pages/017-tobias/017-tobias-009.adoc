@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v17-9-0]]
+=== Tobias, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 9 do livro de Tobias narra a oração de Tobias após seu retorno à casa de seu pai em segurança, acompanhado de sua esposa e da fortuna que havia recuperado. Ele louva a Deus e pede a Sua misericórdia e proteção contínua para si e sua família. Os versículos relacionados com os temas abordados em Tobias 9 são:
+* Salmos 86:5: "Pois tu, Senhor, és bom, e pronto a perdoar, e abundante em benignidade para com todos os que te invocam." Tobias faz referência à bondade e misericórdia de Deus, pedindo para que Ele seja igualmente generoso com ele e sua família.
+* Salmos 18:1-2: "Eu te amarei, ó Senhor, fortaleza minha. O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador; o meu Deus, a minha fortaleza, em quem confio; o meu escudo, a força da minha salvação, e o meu alto refúgio." Tobias louva a Deus como sua fortaleza e libertador, reconhecendo que Ele é a fonte de sua proteção e salvação.
+* Provérbios 3:5-6: "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." Tobias demonstra sua confiança em Deus e sua disposição de depender Dele em todos os aspectos de sua vida.
+* Isaías 41:10: "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel." Tobias encontra conforto na promessa de Deus de estar com ele e ajudá-lo, fortalecê-lo e sustentá-lo.
+* 1 João 5:14: "E esta é a confiança que temos nele: que, se pedirmos alguma coisa segundo a sua vontade, ele nos ouve." Tobias confia que suas orações serão ouvidas por Deus e que Ele responderá de acordo com a Sua vontade.
+****
+
+[[v17-9-1]]
+
+^<<v17-9-1,1>>^ Então Tobias chamou a si o anjo, que ele julgava ser homem, e disse-lhe: Irmão Azarias, peço-te que ouças as minhas palavras.
+
+[[v17-9-2]]
+
+^<<v17-9-2,2>>^ Ainda que eu me entregasse a ti por escravo, não poderia corresponder dignamente aos teus cuidados.
+
+[[v17-9-3]]
+
+^<<v17-9-3,3>>^ Suplico-te, não obstante, que tomes contigo cavalgaduras e servos, e vás ter com Gabelo, a Ragés, cidade dos Medos. Entrega-Ihe o seu recibo, recebe dele o dinheiro e roga-lhe que venha à minha boda.
+
+[[v17-9-4]]
+
+^<<v17-9-4,4>>^ Tu bem sabes que meu pai conta os dias: se eu tardar um dia mais, a sua alma se contristará.
+
+[[v17-9-5]]
+
+^<<v17-9-5,5>>^ Tu vês também como Raguel instou comigo, e que não posso desprezar as suas instâncias tão fortes.
+
+[[v17-9-6]]
+
+^<<v17-9-6,6>>^ Então Rafael, tomando quatro criados de Raguel e dois camelos, foi à cidade de Ragés, na Média. Encontrando Gabelo, entregou-lhe o seu recibo, e recebeu dele todo o dinheiro.
+
+[[v17-9-7]]
+
+^<<v17-9-7,7>>^ Contou-lhe tudo o que tinha sucedido a Tobias, filho de Tobias, e fê-lo ir consigo à boda.
+
+[[v17-9-8]]
+
+^<<v17-9-8,8>>^ Tendo Gabelo entrado em casa de Raguel, encontrou Tobias à mesa. Levantando-se este, beijaram-se mutuamente; Gabelo chorou e louvou a Deus,
+
+[[v17-9-9]]
+
+^<<v17-9-9,9>>^ dizendo: O Deus de Israel te abençoe, porque és filho dum homem óptimo, justo, temente a Deus e esmoler;
+
+[[v17-9-10]]
+
+^<<v17-9-10,10>>^ estenda-se também a bênção a tua mulher e a vossos pais;
+
+[[v17-9-11]]
+
+^<<v17-9-11,11>>^ possais ver os vossos filhos e os filhos de vossos filhos, até à terceira e quarta geração! Seja a vossa descendência bendita do Deus de Israel, que reina pelos séculos dos séculos.
+
+[[v17-9-12]]
+
+^<<v17-9-12,12>>^ Tendo todos respondido: Amen — puseram-se à mesa. Foi também com o temor do Senhor que celebraram o banquete nupcial.
+
+'''
+
+xref:017-tobias/017-tobias-008.adoc#v17-8-0[&#60; Capítulo Anterior] | <<v17-9-0,Topo>> | xref:017-tobias/017-tobias-010.adoc#v17-10-0[Próximo Capítulo &#62;]

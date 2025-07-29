@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v8-4-0]]
+=== Rute, 4
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Rute 4 narra o desfecho da história de Rute e Boaz, em que Boaz se torna o resgatador de Elimeleque, marido de Noemi, e se casa com Rute. Além disso, o capítulo mostra a importância do cumprimento das leis de redenção e herança na cultura hebraica da época.
+* Levítico 25:25: "Se o seu parente empobrecer e vender alguma parte da sua propriedade, o seu resgatador mais próximo virá e comprará o que o parente vendeu." Esse versículo apresenta a lei da redenção de propriedades, que é importante no desfecho da história de Rute, já que Boaz se torna o resgatador de Elimeleque e adquire sua propriedade.
+* Provérbios 31:10-12: "Uma esposa exemplar; feliz quem a encontrar! É muito mais valiosa que os rubis. Seu marido tem plena confiança nela e nunca lhe falta coisa alguma. Ela só lhe faz o bem, e nunca o mal, todos os dias da sua vida." Esse versículo descreve as características de uma esposa exemplar, que é o que Rute se torna para Boaz.
+* Gálatas 4:4-5: "Mas, quando chegou a plenitude do tempo, Deus enviou seu Filho, nascido de mulher, nascido debaixo da lei, a fim de resgatar os que estavam sob a lei, para que recebêssemos a adoção de filhos." Este versículo fala sobre o resgate espiritual que Deus oferece por meio de seu filho Jesus Cristo, um tema que pode ser relacionado à história de Rute como uma história de redenção.
+* Rute 4:13: "Então Boaz tomou Rute, e ela se tornou sua esposa. Ele se uniu a ela, e o Senhor permitiu que ela engravidasse e tivesse um filho." Este versículo mostra o desfecho feliz da história de Rute, em que ela se casa com Boaz e é abençoada com um filho.
+* Mateus 1:5-6: "Salmon gerou Boaz, cuja mãe foi Raabe, Boaz gerou Obede, cuja mãe foi Rute, Obede gerou Jessé." Este versículo mostra a importância da história de Rute na genealogia de Jesus Cristo, evidenciando a relevância da história de Rute para a tradição judaico-cristã.
+****
+
+[[v8-4-1]]
+
+^<<v8-4-1,1>>^ Foi pois Booz à porta (da cidade) e sentou-se ali. Vendo passar o parente de que antes falam os, chamando-o pelo seu nome, disse-lhe: Vem cá por um pouco, e senta-te aqui. Ele foi e sentou-se.
+
+[[v8-4-2]]
+
+^<<v8-4-2,2>>^ Então Booz, tomando dez homens dos anciãos da cidade, disse-lhes: Sentai-vos aqui.
+
+[[v8-4-3]]
+
+^<<v8-4-3,3>>^ Estando eles sentados, (Booz) disse ao parente: Noemi, que voltou do país de Moab, está para vender uma parte do campo de Elimelec, nosso irmão;
+
+[[v8-4-4]]
+
+^<<v8-4-4,4>>^ eu quis informar-te disso e dizer-to diante de todos os que estão aqui sentados, dos anciãos do meu povo. Se o queres possuir pelo direito de parentesco, compra-o e fica com ele, mas, se te desagrada, dize-mo, para que eu saiba o que devo fazer; com efeito, não há outro parente senão tu, que és o primeiro, e eu, que sou o segundo. Ele respondeu: Eu comprarei o campo.
+
+[[v8-4-5]]
+
+^<<v8-4-5,5>>^ Booz disse-lhe: Logo que compres o campo de Noemi, é também necessário que cases com Rute Moabita, que foi mulher do defunto, para que faças reviver o nome do teu parente na sua herança.
+
+[[v8-4-6]]
+
+^<<v8-4-6,6>>^ Ele respondeu: Eu cedo o direito de parentesco, com receio de prejudicar os meus herdeiros; usa tu do meu privilégio, ao qual eu declaro que renuncio espontaneamente.
+
+[[v8-4-7]]
+
+^<<v8-4-7,7>>^ Era um costume antigo em Israel, entre os parentes, que quando um cedia o seu direito a outro, para a cessão ser válida, o que cedia tirava o seu sapato e dava-o ao seu parente. Este era o testemunho da cessão em Israel.
+
+[[v8-4-8]]
+
+^<<v8-4-8,8>>^ Disse pois Booz ao seu parente: Tira o teu sapato. E ele o tirou logo do pé.
+
+[[v8-4-9]]
+
+^<<v8-4-9,9>>^ (Booz) disse aos anciãos e a todo o povo: Vós sois hoje testemunhas de que entro a possuir tudo o que era de Elimelec, Quelion e Maalon, entregando-mo Noemi,
+
+[[v8-4-10]]
+
+^<<v8-4-10,10>>^ e de que recebo por esposa a Rute Moabita, mulher que foi de Maalon, a fim de eu fazer reviver o nome do defunto na sua herança, para o seu nome se não eliminar de entre os irmãos e da porta da sua cidade. Digo-vos, sois testemunhas disto.
+
+[[v8-4-11]]
+
+^<<v8-4-11,11>>^ Respondeu todo o povo, que estava à porta, com os anciãos: Nós somos testemunhas; o Senhor faça que esta mulher, que entra na tua casa, seja como Raquel e Lia, que fundaram a casa de Israel. Que, por ela, sejas forte em Efrata, e tenha um nome célebre em Belém.
+
+[[v8-4-12]]
+
+^<<v8-4-12,12>>^ Que a tua casa se torne como a casa de Farés, que Tamar deu á luz a Judá, pela posteridade que o Senhor te der desta jovem
+
+[[v8-4-13]]
+
+^<<v8-4-13,13>>^ Booz pois tomou Rute, e casou com ela. Depois de a ter conhecido, o Senhor fez (a Rute) a graça de conceber e dar à luz um filho.
+
+[[v8-4-14]]
+
+^<<v8-4-14,14>>^ E as mulheres disseram a Noemi: Bem dito seja o Senhor, que não permitiu que te faltasse um redentor! Que o seu nome seja celebrado em Israel!
+
+[[v8-4-15]]
+
+^<<v8-4-15,15>>^ Terás quem console a tua alma, e te sustente na velhice, porque nasceu um menino de tua nora, a qual te ama, e é para ti muito melhor do que sete filhos,
+
+[[v8-4-16]]
+
+^<<v8-4-16,16>>^ Noemi, tomando o menino, o pôs no seu regaço, e fazia as vezes de ama e de criada.
+
+[[v8-4-17]]
+
+^<<v8-4-17,17>>^ As mulheres suas vizinhas congratulavam-se com ela, e diziam: Nasceu um filho a Noemi! Puseram-lhe o nome de Obed. Ele foi pai de Isai, pai de David.
+
+[[v8-4-18]]
+
+^<<v8-4-18,18>>^ Estas são as gerações de Farés: Farés gerou Esron,
+
+[[v8-4-19]]
+
+^<<v8-4-19,19>>^ Esron gerou Aram, Aram gerou Aminadab,
+
+[[v8-4-20]]
+
+^<<v8-4-20,20>>^ Aminadab gerou Naason, Naason gerou Salmon,
+
+[[v8-4-21]]
+
+^<<v8-4-21,21>>^ Salmon gerou Booz, Booz gerou Obed,
+
+[[v8-4-22]]
+
+^<<v8-4-22,22>>^ Obed gerou Isai, Isai gerou David.
+
+'''
+
+xref:008-rute/008-rute-003.adoc#v8-3-0[&#60; Capítulo Anterior] | <<v8-4-0,Topo>> | xref:009-i-samuel/009-i-samuel-001.adoc#v9-1-0[Próximo Capítulo &#62;]

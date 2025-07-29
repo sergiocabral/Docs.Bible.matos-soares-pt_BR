@@ -1,0 +1,203 @@
+include::./index.adoc[]
+
+[[v23-12-0]]
+=== II Macabeus, 12
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 2 Macabeus 12 relata uma batalha liderada por Judas Macabeu contra os gentios que haviam destruído um túmulo judaico e matado os judeus que estavam lá. Judas e seu exército lutaram para vingar a morte desses judeus e recuperar o túmulo. Durante a batalha, muitos judeus caíram e Judas decidiu coletar dinheiro para oferecer sacrifícios pelos mortos e ajudar suas famílias. Abaixo estão cinco versículos relacionados com os temas abordados em 2 Macabeus 12:
+* 2 Samuel 1:12: "E lamentaram, e choraram, e jejuaram até a tarde por Saul, e por Jônatas, seu filho, e pelo povo do Senhor, e pela casa de Israel, porque tinham caído à espada." Este versículo mostra a prática de chorar e jejuar pelos mortos, o que é semelhante ao que Judas Macabeu e seu exército fizeram pelos judeus que morreram na batalha.
+* Isaías 57:1: "O justo perece, e não há ninguém que se importe com isso; e os homens piedosos são tirados, sem que ninguém entenda que o justo é tirado da presença do mal." Este versículo fala sobre a morte dos justos e piedosos, que são muitas vezes esquecidos pelas pessoas, mas que são importantes aos olhos de Deus.
+* Eclesiastes 3:1-2: "Para tudo há uma ocasião, e um tempo para cada propósito debaixo do céu: um tempo para nascer, e um tempo para morrer; um tempo para plantar, e um tempo para colher o que se plantou." Este versículo destaca a inevitabilidade da morte e a importância de aceitar que ela faz parte da vida.
+* Salmo 49:15: "Porém Deus redimirá a minha alma do poder da sepultura, pois me receberá." Este versículo fala sobre a crença na ressurreição e na vida após a morte, uma crença compartilhada por muitos judeus e cristãos.
+* Romanos 8:38-39: "Porque estou certo de que nem a morte, nem a vida, nem anjos, nem principados, nem coisas presentes, nem futuras, nem poderes, nem altura, nem profundidade, nem qualquer outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus, nosso Senhor." Este versículo destaca a crença cristã na vitória sobre a morte através do amor de Deus em Jesus Cristo.
+****
+
+[[v23-12-1]]
+
+^<<v23-12-1,1>>^ Concluído este tratado, voltou Lisias para o rei, e os Judeus ocupavam-se em cultivar as terras.
+
+[[v23-12-2]]
+
+^<<v23-12-2,2>>^ Mas aqueles que tinham ficado (no pais), (a saber), Timóteo e Apolónio, filho de Jeneu, como também Jerónimo e Demefonte, juntamente com Nicanor, governador de Chipre, não os deixavam viver em paz nem em sossego.
+
+[[v23-12-3]]
+
+^<<v23-12-3,3>>^ Entretanto os habitantes de Joje cometeram o seguinte crime: Convidaram os Judeus, com quem habitavam, a que, com suas mulheres e filhos, se metessem numa barcas que tinham preparado, como se não houvesse entre eles inimizade alguma,
+
+[[v23-12-4]]
+
+^<<v23-12-4,4>>^ mas, na realidade, agiam em virtude duma decisão tomada em comum pela cidade. Tendo (os Judeus) condescendido com isso, como pessoas pacíficas, sem a menor suspeita, quando chegaram ao mar alto, foram afogados pelo menos duzentos.
+
+[[v23-12-5]]
+
+^<<v23-12-5,5>>^ Judas, logo que soube desta crueldade cometida contra a gente da sua nação, mandou aos que estavam com ele (que tomassem as armas) e, depois de ter invocado a Deus, justo Juiz,
+
+[[v23-12-6]]
+
+^<<v23-12-6,6>>^ marchou contra estes homicidas de seus irmãos, queimou de noite o porto, queimou as barcas e fez passar ao fio da espada os que ali se tinham refugiado.
+
+[[v23-12-7]]
+
+^<<v23-12-7,7>>^ Como a praça se lhe tinha fechado, retirou-se com tenção de lá tornar e de exterminar todos os habitantes de Jope.
+
+[[v23-12-8]]
+
+^<<v23-12-8,8>>^ Mas, tendo sabido que também os de Jâmnia queriam fazer do mesmo modo aos Judeus que viviam entre eles,
+
+[[v23-12-9]]
+
+^<<v23-12-9,9>>^ surpreendeu igualmente de noite os Jamnitas e queimou-lhes o porto com as suas embarcações, de sorte que o clarão do fogo se via em Jerusalém, ficando ela à distância de duzentos e quarenta estádios.
+
+[[v23-12-10]]
+
+^<<v23-12-10,10>>^ Quando tinha já andado nove estádios, avançando contra Timóteo, atacaram-no os Árabes, em número de cinco mil infantes e quinhentos cavaleiros.
+
+[[v23-12-11]]
+
+^<<v23-12-11,11>>^ Travou-se um rijo combate, com bom sucesso para as tropas de Judas, por auxílio de Deus. Os Árabes, vendo-se vencidos, pediam a Judas que se compusesse com eles, prometendo que Ihe dariam gado e lhe assistiriam em tudo o mais.
+
+[[v23-12-12]]
+
+^<<v23-12-12,12>>^ Judas, crendo que eles efectivamente lhe podiam ser úteis em muitas coisas, prometeu-lhes a paz. Concluído o tratado, os Árabes voltaram para as suas tendas.
+
+[[v23-12-13]]
+
+^<<v23-12-13,13>>^ Atacou ainda uma cidade forte, chamada Caspin, cercada de muros, na qual habitava uma mistura de diversas nações.
+
+[[v23-12-14]]
+
+^<<v23-12-14,14>>^ Os que estavam dentro, confiados na firmeza dos seus muros e na provisão que tinham de víveres, insultavam os de Judas com ditos grosseiros e proferiam blasfêmias e palavras ímpias.
+
+[[v23-12-15]]
+
+^<<v23-12-15,15>>^ Os de Judas, invocado o grande Senhor do mundo, que, sem aríetes nem máquinas de guerra, no tempo de Josué instantâneamente derribou Jericó, assaltaram furiosamente as muralhas.
+
+[[v23-12-16]]
+
+^<<v23-12-16,16>>^ Quando tomaram a cidade, pela vontade do Senhor, fizeram nela uma horrorosa carnificina, de sorte que um tanque que estava ao pé, de dois estádios de largo, parecia cheio de sangue dos mortos.
+
+[[v23-12-17]]
+
+^<<v23-12-17,17>>^ Dali caminharam setecentos e cinquenta estádios e chegaram a Caraca, onde habitavam os Judeus, chamados Tubianeus.
+
+[[v23-12-18]]
+
+^<<v23-12-18,18>>^ Não puderam haver ás mãos Timóteo naqueles lugares, porque, como não tinha conseguido fazer ali nada, voltou para trás, deixando em certo sitio uma fortíssima guarnição.
+
+[[v23-12-19]]
+
+^<<v23-12-19,19>>^ Mas Doslteu e Sosípatro, generais de Macabeu, mataram mais de dez mil homens que Timóteo tinha deixado para guarda daquela praça.
+
+[[v23-12-20]]
+
+^<<v23-12-20,20>>^ Entretanto Macabeu, ordenado e repartido o seu exército em coortes, deu a estes dois generais o seu comando e marchou contra Timóteo, que tinha consigo cento e vinte mil infantes, e dois mil e quinhentos cavaleiros.
+
+[[v23-12-21]]
+
+^<<v23-12-21,21>>^ Timóteo, logo que teve conhecimento da chegada de Judas, mandou adiante as mulheres, as crianças e os seus haveres, para um lugar chamado Carnion, porque era inexpugnável e de difícil entrada, por causa dos desfiladeiros da região.
+
+[[v23-12-22]]
+
+^<<v23-12-22,22>>^ Logo que apareceu a primeira coorte de Judas, ficaram os inimigos passados de medo, porque o poder de Deus, que vê todas as coisas, se lhes manifestava de forma assustadora, e tomaram a fuga desordenadamente, de sorte que mutuamente se feriam e transpassavam com as próprias espadas.
+
+[[v23-12-23]]
+
+^<<v23-12-23,23>>^ Judas carregava sobre eles com grande vigor, castigando estes criminosos até fazer cair mortos no campo trinta mil homens.
+
+[[v23-12-24]]
+
+^<<v23-12-24,24>>^ O mesmo Timóteo caiu nas mãos de Dositeu e de Sosípatro, aos quais pediu com grandes instâncias que o deixassem ir com vida, porque tinha feito prisioneiros muitos pais e muitos irmãos dos Judeus, os quais pela sua morte perderiam a esperança (de cobrar a liberdade).
+
+[[v23-12-25]]
+
+^<<v23-12-25,25>>^ Tendo-lhes dado palavra que restituiria estes prisioneiros, sem lhes fazer mal algum, deixaram-no ir, com o fim de salvar seus irmãos.
+
+[[v23-12-26]]
+
+^<<v23-12-26,26>>^ Depois tornou Judas a ir a Carnion e ao santuário de Atargatis, onde matou vinte e cinco mil homens.
+
+[[v23-12-27]]
+
+^<<v23-12-27,27>>^ Depois da fuga e matança destes inimigos. Judas mandou marchar o seu exército para Efron, cidade forte, em que habitava uma grande multidão de povos diversos. Diante das suas muralhas estavam valentes jovens, que as defendiam vigorosamente, e dentro havia muitas máquinas de guerra e provisão de dardos.
+
+[[v23-12-28]]
+
+^<<v23-12-28,28>>^ Mas, tendo os Judeus invocado o Todo-Poderoso, que destrói com o seu poder as forças dos inimigos, tomaram a cidade e abateram, dos que estavam dentro, vinte e cinco mil.
+
+[[v23-12-29]]
+
+^<<v23-12-29,29>>^ Dali passaram à cidade dos Citas, que distava de Jerusalém seiscentos estádios.
+
+[[v23-12-30]]
+
+^<<v23-12-30,30>>^ Todavia, como os próprios Judeus, que viviam com os Citopolitanos, tivessem atestado que eram bem tratados e que, nos tempos da desgraça, tinham recebido deles atenções,
+
+[[v23-12-31]]
+
+^<<v23-12-31,31>>^ (Judas e os seus) apresentaram-lhes agradecimentos e exortaram-nos a que continuassem a mostrar-se, para o futuro, benignos com os da sua nação. Depois regressaram a Jerusalém, por estar próxima a solenidade das semanas (ou Pentecostes).
+
+[[v23-12-32]]
+
+^<<v23-12-32,32>>^ Passado o Pentecostes, marcharam contra Górgias, governador da Idumeia.
+
+[[v23-12-33]]
+
+^<<v23-12-33,33>>^ Górgias foi-o atacar com três mil infantes e quatro centos cavaleiros.
+
+[[v23-12-34]]
+
+^<<v23-12-34,34>>^ Tendo vindo às mãos os dois exércitos, foram poucos os Judeus que ficaram mortos.
+
+[[v23-12-35]]
+
+^<<v23-12-35,35>>^ Um certo cavaleiro, porém, do corpo de Bacenor, chamado Dositeu, homem valente, apoderou-se de Górgias, puxando-o pela sua clâmide, pois queria tomar vivo este maldito; todavia um cavaleiro de Trácia arremeteu a ele e cortou-lhe um ombro, 0 que permitiu a Górgias fugir para Maresa.
+
+[[v23-12-36]]
+
+^<<v23-12-36,36>>^ Entretanto, achando-se fatigados os que estavam com Esdrin, por terem pelejado muito tempo. Judas Invocou o Senhor, para que se fizesse ele mesmo o protector e o chefe neste combate.
+
+[[v23-12-37]]
+
+^<<v23-12-37,37>>^ Depois, cantando em alta voz hinos guerreiros na língua pátria, pôs em fuga os soldados de Górgias.
+
+[[v23-12-38]]
+
+^<<v23-12-38,38>>^ Seguidamente, juntando Judas o seu exército, partiu para a cidade de Odolão; chegando o dia sétimo, purificados segundo o costume, celebraram o sábado neste mesmo lugar.
+
+[[v23-12-39]]
+
+^<<v23-12-39,39>>^ No dia seguinte, foi Judas com os seus para levar os corpos dos que tinham sido mortos, para os sepultar com os seus parentes nos sepulcros de seus pais.
+
+[[v23-12-40]]
+
+^<<v23-12-40,40>>^ Ora encontraram, debaixo das túnicas dos mortos, objectos consagrados aos ídolos de Jâmaia, que a lei proíbe aos Judeus. Todos reconheceram que fora esta a causa da sua morte.
+
+[[v23-12-41]]
+
+^<<v23-12-41,41>>^ Todos, por isso, bem-disseram o Senhor, justo juiz, que descobre o que está escondido.
+
+[[v23-12-42]]
+
+^<<v23-12-42,42>>^ Em seguida, postos em oração, suplicaram (ao Senhor) que se esquecesse do pecado cometido. Ao mesmo tempo o fortíssimo Judas exortou o povo a que se conservasse sem pecado, vendo diante de seus olhos as consequências dos pecados daqueles mortos. (ver nota)
+
+[[v23-12-43]]
+
+^<<v23-12-43,43>>^ Tendo feito uma colecta, mandou dois mil dracmas de prata a Jerusalém, para se oferecer um sacrifício pelo pecado. Obra bela e santa, inspirada pela crença na ressurreição,
+
+[[v23-12-44]]
+
+^<<v23-12-44,44>>^ porque se ele não esperasse que os mortos haviam de ressuscitar, seria uma coisa supérflua e vã orar pelos defuntos.
+
+[[v23-12-45]]
+
+^<<v23-12-45,45>>^ Considerava que, aos que falecem na piedade, está reservada uma grandíssima recompensa.
+
+[[v23-12-46]]
+
+^<<v23-12-46,46>>^ Santo e salutar pensamento este de orar pelos mortos. Eis porque ofereceu um sacrifício expiatório pelos defuntos, para que fossem livres dos seus pecados.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-011.adoc#v23-11-0[&#60; Capítulo Anterior] | <<v23-12-0,Topo>> | xref:023-ii-macabeus/023-ii-macabeus-013.adoc#v23-13-0[Próximo Capítulo &#62;]

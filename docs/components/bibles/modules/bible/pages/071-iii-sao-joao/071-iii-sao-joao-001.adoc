@@ -1,0 +1,75 @@
+include::./index.adoc[]
+
+[[v71-1-0]]
+=== III São João, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 3 João 1 é um capítulo curto que contém uma carta de João endereçada a Gaio. Na carta, João elogia Gaio por sua fidelidade e hospitalidade para com os irmãos da igreja. Ele também adverte Diótrefes, que estava causando problemas na igreja, e elogia Demétrio. Abaixo estão cinco versículos relacionados com os temas abordados em 3 João 1:
+* Provérbios 23:6-7: "Não comas o pão daquele que tem os olhos malignos, nem cobices as suas iguarias gostosas; porque, como imagina em sua alma, assim ele é; ele te diz: Come e bebe; porém o seu coração não está contigo." Esse versículo fala sobre como as intenções de alguém podem ser reveladas por seus olhos e como devemos ter cuidado ao aceitar a comida ou bebida de pessoas com más intenções.
+* 1 João 2:9-10: "Aquele que diz que está na luz, e odeia a seu irmão, até agora está em trevas. Aquele que ama a seu irmão está na luz, e nele não há escândalo." João enfatiza a importância do amor e da unidade entre os irmãos da igreja, em contraste com o comportamento odioso de Diótrefes.
+* 1 Coríntios 4:6: "E estas coisas, irmãos, eu as apliquei em figura a mim e a Apolo, por amor de vós; para que em nós aprendais a não ir além do que está escrito, não vos ensoberbecendo a favor de um contra outro." Esse versículo fala sobre a importância de não se exceder ou ser orgulhoso, mas sim seguir as Escrituras e manter a humildade, algo que Diótrefes falhou em fazer.
+* 1 Timóteo 5:24-25: "Os pecados de alguns homens são manifestos antes de entrarem em juízo, mas em alguns, só depois. Da mesma maneira, as boas obras são manifestas antecipadamente, e as que não o são não podem ficar escondidas para sempre." João elogia a reputação de Demétrio e destaca como as boas obras de alguém podem ser evidentes para todos.
+* Tiago 5:9: "Irmãos, não vos queixeis uns dos outros, para que não sejais julgados. Eis que o juiz está à porta." João aconselha seus leitores a não se queixarem uns dos outros, mas a manterem a paz e a unidade na igreja, algo que Gaio parece ter feito bem ao receber os irmãos com amor.
+****
+
+[[v71-1-1]]
+
+^<<v71-1-1,1>>^ O Ancião ao caríssimo Gaio, a quem eu amo na verdade.
+
+[[v71-1-2]]
+
+^<<v71-1-2,2>>^ Caríssimo, desejo que prosperes em tudo e tenhas saúde, como a tem ditosamente a tua alma.
+
+[[v71-1-3]]
+
+^<<v71-1-3,3>>^ Alegrei-me muito com a chegada dos irmãos e com o testemunho que deram da tua verdade, isto é, do modo como tu andas na verdade.
+
+[[v71-1-4]]
+
+^<<v71-1-4,4>>^ Eu não tenho maior alegria do que ouvir dizer que os meus filhos andam no caminho da verdade.
+
+[[v71-1-5]]
+
+^<<v71-1-5,5>>^ Caríssimo, tu procedes fielmente (como bom cristão), em tudo o que fazes com os irmãos, e particularmente com os estrangeiros,
+
+[[v71-1-6]]
+
+^<<v71-1-6,6>>^ os quais deram testemunho da tua caridade diante da Igreja; farás bem em prover às suas viagens de um modo digno de Deus.
+
+[[v71-1-7]]
+
+^<<v71-1-7,7>>^ De facto, foi pelo Nome (do Senhor) que eles partiram, não recebendo nada dos gentios.
+
+[[v71-1-8]]
+
+^<<v71-1-8,8>>^ Nós, pois, devemos receber estes tais, para cooperarmos com eles na (propagação da) verdade.
+
+[[v71-1-9]]
+
+^<<v71-1-9,9>>^ Escrevi uma palavra à Igreja, porém Diótrefes, que gosta de ter a primazia entre eles, não nos recebe;
+
+[[v71-1-10]]
+
+^<<v71-1-10,10>>^ por isso, se eu lá for, recordar-lhe-ei as obras que ele faz, pairando com palavras más contra nós; como se isto não Ihe bastasse, não só recusa hospedagem aos irmãos, mas proíbe (recebê-los) aqueles que os recebem, e lança-os fora da Igreja.
+
+[[v71-1-11]]
+
+^<<v71-1-11,11>>^ Caríssimo, não imites o mal, mas o bem. Quem faz o bem, é de Deus; quem faz o mal, não viu a Deus.
+
+[[v71-1-12]]
+
+^<<v71-1-12,12>>^ De Demétrío todos dão (bom) testemunho, e a mesma verdade lho dá. Nós lho damos também; e tu sabes que o nosso testemunho é verdadeiro.
+
+[[v71-1-13]]
+
+^<<v71-1-13,13>>^ Eu tinha mais coisas a escrever-te, porém não quero fazê-lo por meio de tinta e pena,
+
+[[v71-1-14]]
+
+^<<v71-1-14,14>>^ porque espero ver-te, era breve, e falaremos de viva voz. A paz seja contigo. Os amigos saúdam-te. Tu saúda (também) os amigos, cada um em particular.
+
+'''
+
+xref:070-ii-sao-joao/070-ii-sao-joao-001.adoc#v70-1-0[&#60; Capítulo Anterior] | <<v71-1-0,Topo>> | xref:072-sao-judas/072-sao-judas-001.adoc#v72-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v42-1-0]]
+=== Habacuc, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* No capítulo 1 do livro de Habacuque, o profeta lamenta diante de Deus a opressão e a violência que vê ao seu redor. Ele questiona por que Deus permite que o mal prevaleça e por que Ele não intervém. Deus responde que Ele usará os babilônios como instrumento de julgamento contra a iniquidade de Judá. Abaixo estão cinco versículos relacionados aos temas tratados em Habacuque 1:
+* Provérbios 21:13: "Quem fecha os ouvidos ao clamor dos pobres também clamará e não será ouvido." Este versículo fala sobre a importância de ouvir e ajudar os necessitados. Isso se relaciona com o tema de Habacuque 1 porque o profeta clama a Deus em nome do povo sofredor, e se questiona por que suas preces não são atendidas.
+* Isaías 5:20: "Ai dos que ao mal chamam bem, e ao bem, mal; que fazem das trevas luz, e da luz, trevas; que fazem do amargo doce, e do doce, amargo!" Esse versículo fala sobre a inversão de valores e a distorção da verdade. Isso se relaciona com o tema de Habacuque 1 porque o profeta está perplexo com a aparente incoerência de Deus, que permite o mal e a injustiça.
+* Ezequiel 7:23: "Faze-lhes um colar de esterco, em vez de diademas; espalha sobre eles a tua imundície." Este versículo fala sobre a punição divina pela corrupção e impureza. Isso se relaciona com o tema de Habacuque 1 porque Deus anuncia que julgará o povo de Judá por sua iniquidade e pecado.
+* Jeremias 12:1: "Tu és justo, Senhor, quando apresento a minha causa diante de ti. Contudo, gostaria de discutir contigo sobre a tua justiça. Por que o caminho dos ímpios prospera? Por que todos os traidores vivem sem problemas?" Esse versículo fala sobre o questionamento humano diante do mistério da justiça divina. Isso se relaciona com o tema de Habacuque 1 porque o profeta se pergunta por que Deus permite a impunidade dos opressores e a desgraça dos inocentes.
+* Salmos 73:2-3: "Mas eu quase tropecei e caí, quase perdi o equilíbrio, porque tinha inveja dos orgulhosos, ao ver a prosperidade desses ímpios." Esses versículos falam sobre a tentação de invejar a aparente prosperidade dos injustos. Isso se relaciona com o tema de Habacuque 1 porque o profeta admite sua dificuldade em compreender por que Deus permite que os opressores triunfem enquanto os justos sofrem.
+****
+
+[[v42-1-1]]
+
+^<<v42-1-1,1>>^ Oráculo revelado a Habacuc, profeta,
+
+[[v42-1-2]]
+
+^<<v42-1-2,2>>^ Até quando, Senhor, clamarei sem que me ouças? Até quando levantarei a minha voz pará ti, padecendo violência, sem que me salves?
+
+[[v42-1-3]]
+
+^<<v42-1-3,3>>^ Por que me mostras iniquidades, e contemplas, indiferente, a aflição. Se se decide uma causa em juízo, a contradição é que prevalece.
+
+[[v42-1-4]]
+
+^<<v42-1-4,4>>^ Por esta causa é quebrantada a lei, e a justiça não chega a triunfar, porque o ímpio prevalece contra o justo, ó o direito sai falseado.
+
+[[v42-1-5]]
+
+^<<v42-1-5,5>>^ Ponde os olhos nas nações (diz o Senhor) e vede; admirai-vos e pasmai, porque vou fazer uma coisa em vossos dias, que não acreditaríeis se vo-la contassem,
+
+[[v42-1-6]]
+
+^<<v42-1-6,6>>^ Vou suscitar os Caldeus, esse povo cruel e impetuoso, que percorre a superfície da terra, para se apoderar das moradas que não são suas.
+
+[[v42-1-7]]
+
+^<<v42-1-7,7>>^ E horrível e tremendo, autor do seu direito e da sua grandeza.
+
+[[v42-1-8]]
+
+^<<v42-1-8,8>>^ Os seus cavalos são mais ligeiros que leopardos, mais velozes que lobos durante a noite; a sua cavalaria precipita-se (ao ataque), os seus cavaleiros vêm de longe, voam como a águia que se arroja sobre a presa.
+
+[[v42-1-9]]
+
+^<<v42-1-9,9>>^ Acorrem todos à pilhagem; o seu rosto é como um vento abrasador; amontoam cativos como areia.
+
+[[v42-1-10]]
+
+^<<v42-1-10,10>>^ Ele (o Caldeu) troça dos reis, ri-se dos príncipes, zomba de todas as fortalezas: levanta montões de terra (contra elas) e toma-as.
+
+[[v42-1-11]]
+
+^<<v42-1-11,11>>^ Depois o furacão muda de sentido e passa, comete o mal, ele cujo deus é a força.
+
+[[v42-1-12]]
+
+^<<v42-1-12,12>>^ Porém não és tu, Senhor, desde o princípio o meu Deus, o meu Santo? Nós (por tua intervenção) não morreremos. Tu, Senhor, destinaste este povo para aplicar castigos; ó Rochedo, tu o destinaste a executor de sanções.
+
+[[v42-1-13]]
+
+^<<v42-1-13,13>>^ Os teus olhos são limpos demais para ver o mal, e não podes olhar para a tribulação. Por que razão olhas para os que cometem injustiças, e te conservas em silêncio enquanto o ímpio devora o que é mais justo que ele?
+
+[[v42-1-14]]
+
+^<<v42-1-14,14>>^ (Se assim fosse, parece que) tratarias os homens como os peixes do mar e como os répteis que não têm dono.
+
+[[v42-1-15]]
+
+^<<v42-1-15,15>>^ Tudo levanta com o anzol, pesca com a sua nassa, recolhe com a sua rede varredoura. Por isso se alegra e exulta;
+
+[[v42-1-16]]
+
+^<<v42-1-16,16>>^ por isso oferece sacrifícios à sua nassa e queima oferendas à sua rede, porque por elas é abundante a sua porção, e o seu manjar escolhido.
+
+[[v42-1-17]]
+
+^<<v42-1-17,17>>^ Continuará ele, portanto, a esvaziar a sua rede, não cessando jamais de devastar as nações?
+
+'''
+
+xref:041-naum/041-naum-003.adoc#v41-3-0[&#60; Capítulo Anterior] | <<v42-1-0,Topo>> | xref:042-habacuc/042-habacuc-002.adoc#v42-2-0[Próximo Capítulo &#62;]

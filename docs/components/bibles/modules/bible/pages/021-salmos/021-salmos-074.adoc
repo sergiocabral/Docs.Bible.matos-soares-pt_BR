@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v21-74-0]]
+=== Salmos, 74
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 74 é um lamento do povo de Israel pela destruição do templo e da cidade de Jerusalém. No Salmo, o autor clama a Deus para que intervenha e restaure a sua terra e o seu povo. Os seguintes versículos estão relacionados com os temas abordados neste Salmo:
+* Lamentações 5:20: "Por que esqueces para sempre de nós e nos abandonas por tão longo tempo?" Este versículo é um lamento semelhante ao de Salmo 74, no qual o autor questiona a aparente ausência de Deus em meio ao sofrimento do seu povo.
+* Isaías 64:11-12: "A nossa casa santa e gloriosa, onde os nossos antepassados louvaram a ti, foi queimada; e tudo o que tínhamos de precioso ficou arruinado. Será que te controlarás diante de tudo isso, Senhor? Ficarás em silêncio e nos castigarás ainda mais?" Estes versículos também expressam a dor e a frustração do povo diante da destruição da sua cidade e do templo de Deus.
+* Jeremias 52:13: "Queimaram a casa do Senhor, destruíram as muralhas de Jerusalém, puseram fogo em todos os seus palácios e destruíram tudo o que era precioso para o povo de Deus." Este versículo fornece um relato histórico da destruição de Jerusalém e do templo de Deus pelos babilônios, o que é o tema principal do Salmo 74.
+* 2 Reis 25:9: "Queimaram a casa do Senhor, o palácio real e todas as casas de Jerusalém; atearam fogo em todas as construções importantes." Este versículo também descreve a destruição de Jerusalém e do templo pelos babilônios, e é semelhante ao relato em Jeremias 52:13.
+* Salmos 79:1: "Ó Deus, as nações invadiram a tua herança; profanaram o teu santo templo e reduziram Jerusalém a ruínas." Este versículo é semelhante ao Salmo 74, pois também expressa a dor do povo diante da destruição do templo e da cidade.
+****
+
+[[v21-74-1]]
+
+^<<v21-74-1,1>>^ Ao mestre do coro. Segundo a melodia de "Não destruas..." Salmo. De Asaf. Cântico.
+
+[[v21-74-2]]
+
+^<<v21-74-2,2>>^ Nós te exaltamos, Senhor, nós te exaltamos, louvamos o teu nome, narramos as tuas maravilhas.
+
+[[v21-74-3]]
+
+^<<v21-74-3,3>>^ "Quando eu tiver fixado o tempo, julgarei com justiça (todas as coisas).
+
+[[v21-74-4]]
+
+^<<v21-74-4,4>>^ Embora a terra trema, e todos os que a habitam, fui eu quem deu firmeza às suas colunas,
+
+[[v21-74-5]]
+
+^<<v21-74-5,5>>^ Digo aos insolentes: "Não sejais insolentes", e aos ímpios: "Não levanteis a vossa fronte soberba."
+
+[[v21-74-6]]
+
+^<<v21-74-6,6>>^ Não levanteis com insolência a vossa fronte contra o Altíssimo, não digais protérvias contra Deus.
+
+[[v21-74-7]]
+
+^<<v21-74-7,7>>^ Certamente nem do oriente nem do ocidente, nem do deserto nem dos montes (vos virá o auxilio).
+
+[[v21-74-8]]
+
+^<<v21-74-8,8>>^ Deus é que é o juiz: a este humilha, e àquele exalta.
+
+[[v21-74-9]]
+
+^<<v21-74-9,9>>^ Porque na mão do Senhor há um cálice, que espuma com vinho, cheio de (amarga) mistura: "dá a beber dele; sorverão até às fezes, beberão todos os ímpios da terra."
+
+[[v21-74-10]]
+
+^<<v21-74-10,10>>^ Eu, porém, exultarei sempre, cantarei salmos ao Deus de Jacob.
+
+[[v21-74-11]]
+
+^<<v21-74-11,11>>^ E quebrarei todas as forças dos ímpios; será exaltada a fronte dos justos.
+
+'''
+
+xref:021-salmos/021-salmos-073.adoc#v21-73-0[&#60; Capítulo Anterior] | <<v21-74-0,Topo>> | xref:021-salmos/021-salmos-075.adoc#v21-75-0[Próximo Capítulo &#62;]

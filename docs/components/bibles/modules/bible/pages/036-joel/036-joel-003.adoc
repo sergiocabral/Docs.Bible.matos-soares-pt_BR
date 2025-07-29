@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v36-3-0]]
+=== Joel, 3
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 3 de Joel descreve uma visão escatológica do julgamento de Deus sobre as nações que se opõem a Israel e a restauração do povo de Deus. O tema principal é o Dia do Senhor, um evento que trará juízo sobre os ímpios e libertação para os justos. Os versículos escolhidos, em ordem de proximidade com os temas do capítulo, são:
+* Isaías 13:6: "Uivai, porque o dia do Senhor está perto; vem do Todo-Poderoso como assolação." Este versículo fala sobre o "dia do Senhor", o dia do juízo de Deus, que também é mencionado em Joel 3.
+* Sofonias 1:15: "Aquele dia é um dia de indignação, dia de tribulação e de angústia, dia de alvoroço e de desolação, dia de trevas e de escuridão, dia de nuvens e de densas trevas." Este versículo descreve o "dia do Senhor" como um dia de julgamento e destruição.
+* Zacarias 14:1: "Eis que vem o dia do Senhor, em que os teus despojos se repartirão pelo meio de ti." Este versículo se refere ao "dia do Senhor" como um dia em que os despojos dos inimigos serão tomados pelos vencedores, algo que é mencionado em Joel 3:13.
+* Apocalipse 16:14: "Porque são espíritos de demônios, que operam sinais; os quais vão ao encontro dos reis de todo o mundo para os congregar para a batalha do grande dia do Deus Todo-Poderoso." Este versículo fala sobre o "grande dia" de Deus Todo-Poderoso, que também é mencionado em Joel 3:14.
+* Apocalipse 21:3: "E ouvi uma grande voz do céu, que dizia: Eis aqui o tabernáculo de Deus com os homens, pois com eles habitará, e eles serão o seu povo, e o mesmo Deus estará com eles, e será o seu Deus." Este versículo fala sobre a restauração do povo de Deus e sua habitação com Ele, algo que é mencionado em Joel 3:20-21.
+****
+
+[[v36-3-1]]
+
+^<<v36-3-1,1>>^ Porquanto eis que nesses dias, nesse tempo, em que eu restaurar Judá e Jerusalém,
+
+[[v36-3-2]]
+
+^<<v36-3-2,2>>^ juntarei todas as nações, conduzi-las-ei ao vale de Josafat, e ali entrarei com elas em juízo acerca de Israel, meu povo e minha herança, a quem eles espalharam por entre as nações, e acerca da minha terra, que eles dividiram entre si. (ver nota)
+
+[[v36-3-3]]
+
+^<<v36-3-3,3>>^ Dividiram por sortes o meu povo; davam uma criança para pagar uma cortesã e vendiam uma donzela por vinho para beberem. (ver nota)
+
+[[v36-3-4]]
+
+^<<v36-3-4,4>>^ Mas que sois também para mim, vós, ó Tiro e Sidónia, e todo o território dos Filisteus? Porventura quereis tirar vingança de mim? Mas, se vos quereis vingar de mim (destruindo o meu povo), farei cair imediatamente a vossa vingança sobre a vossa cabeça.
+
+[[v36-3-5]]
+
+^<<v36-3-5,5>>^ Porque vós levastes a minha prata e o meu ouro, e metestes nos vossos templos o que eu tinha de mais precioso.
+
+[[v36-3-6]]
+
+^<<v36-3-6,6>>^ Vendestes os filhos de Judá e os filhos de Jerusalém aos filhos dos Gregos, para os pordes longe da sua pátria.
+
+[[v36-3-7]]
+
+^<<v36-3-7,7>>^ Eis que eu os tirarei do lugar em que vós os vendestes, e farei recair sobre a vossa cabeça a vossa própria vingança.
+
+[[v36-3-8]]
+
+^<<v36-3-8,8>>^ Venderei os vossos filhos e as vossas filhas aos filhos de Judá, que os venderão aos Sabeus, povo remoto, é o Senhor que o declara.
+
+[[v36-3-9]]
+
+^<<v36-3-9,9>>^ Publicai isto entre as nações, declarai a guerra! Chamai os valorosos! Venham, ponham-se em marcha todos os homens de guerra.
+
+[[v36-3-10]]
+
+^<<v36-3-10,10>>^ Forjai espadas das relhas dos vossos arados, e lanças das vossas foucinhas. Diga (mesmo) o fraco: Eu sou um guerreiro!
+
+[[v36-3-11]]
+
+^<<v36-3-11,11>>^ Depressa! Vinde todas as nações dos contornos, e juntai-vos! Senhor, os teus valentes.
+
+[[v36-3-12]]
+
+^<<v36-3-12,12>>^ Levantem-se as nações e vão ao vale de Josafat! Ali me sentarei para julgar todas as nações em circuito.
+
+[[v36-3-13]]
+
+^<<v36-3-13,13>>^ Metei as fouces, porque já está madura a messe; vinde pisar, porque o lagar está cheio; as cubas deitam por fora, porque a sua malícia chegou ao cúmulo. (ver nota)
+
+[[v36-3-14]]
+
+^<<v36-3-14,14>>^ Povos, povos, (comparecei) no vale do julgamento, porque o dia do Senhor está perto, (comparecei) no vale do julgamento.
+
+[[v36-3-15]]
+
+^<<v36-3-15,15>>^ O Sol e a lua obscurecer-se-ão, e as estrelas retirarão o seu resplendor.
+
+[[v36-3-16]]
+
+^<<v36-3-16,16>>^ O Senhor rugirá de Sião, de Jerusalém fará ouvir a sua voz; os céus e a terra serão abalados. Todavia o Senhor será um refúgio para o seu povo, uma fortaleza para os filhos de Israel.
+
+[[v36-3-17]]
+
+^<<v36-3-17,17>>^ Sabereis então que eu sou o Senhor vosso Deus, que habito no meu santo monte de Sião; Jerusalém será um lugar santo, onde os estrangeiros não tornarão mala a passar.
+
+[[v36-3-18]]
+
+^<<v36-3-18,18>>^ Acontecerá naquele dia que os montes destilarão vinho doce, os outeiros manarão leite, e as águas Jorrarão em todas as correntes de Judá. Da casa do Senhor sairá uma fonte (maravilhosa) que regará o vale das Acácias.
+
+[[v36-3-19]]
+
+^<<v36-3-19,19>>^ O Egipto será todo assolado, e a Idumeia ficará sendo um deserto de devastação, porque oprimiram injustamente os filhos de Judá, e derramaram na sua terra o sangue inocente.
+
+[[v36-3-20]]
+
+^<<v36-3-20,20>>^ Pelo contrário a Judeia será habitada eternamente, e Jerusalém de geração em geração.
+
+[[v36-3-21]]
+
+^<<v36-3-21,21>>^ Lavarei o seu sangue, que não tinha ainda lavado; e o Senhor habitará em Sião.
+
+'''
+
+xref:036-joel/036-joel-002.adoc#v36-2-0[&#60; Capítulo Anterior] | <<v36-3-0,Topo>> | xref:037-amos/037-amos-001.adoc#v37-1-0[Próximo Capítulo &#62;]

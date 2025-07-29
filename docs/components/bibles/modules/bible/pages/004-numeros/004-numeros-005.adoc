@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v4-5-0]]
+=== Números, 5
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Números 5 descreve um ritual para lidar com a infidelidade conjugal e a suspeita de adultério. O capítulo instrui que um marido ciumento possa levar sua esposa ao sacerdote, que então prepara uma mistura de água santa e terra do chão do tabernáculo para ela beber. Se ela for culpada, o líquido amargo fará com que seu ventre inche e ela se torne amaldiçoada. Se ela for inocente, não sofrerá nenhum dano. Abaixo estão cinco versículos relacionados aos temas abordados em Números 5:
+* Provérbios 6:32: "O que adultera com uma mulher é falto de entendimento; aquele que quer destruir a si mesmo o faz." Este versículo destaca a natureza tola e destrutiva do adultério, que é abordado no ritual descrito em Números 5.
+* Mateus 5:27-28: "Ouvistes que foi dito aos antigos: Não cometerás adultério. Eu, porém, vos digo que todo aquele que olhar para uma mulher com intenção impura, já cometeu adultério com ela em seu coração." Jesus aqui amplia a definição de adultério para incluir a luxúria e a cobiça, destacando que o pecado começa na mente.
+* Tiago 5:16: "Confessai, pois, os vossos pecados uns aos outros e orai uns pelos outros, para serdes curados. Muito pode, por sua eficácia, a súplica do justo." Este versículo enfatiza a importância da confissão e do arrependimento na obtenção de perdão por nossos pecados.
+* Hebreus 13:4: "Digno de honra entre todos seja o matrimônio, bem como o leito sem mácula; porque Deus julgará os impuros e adúlteros." Este versículo destaca a santidade do casamento e a seriedade do pecado do adultério.
+* Gálatas 6:1: "Irmãos, se alguém for surpreendido nalguma falta, vós, que sois espirituais, corrigi-o com espírito de brandura; e guarda-te para que não sejas também tentado." Este versículo enfatiza a necessidade de tratar aqueles que pecam com compaixão e gentileza, lembrando que todos somos suscetíveis à tentação e ao pecado.
+****
+
+[[v4-5-1]]
+
+^<<v4-5-1,1>>^ Senhor falou a Moisés dizendo:
+
+[[v4-5-2]]
+
+^<<v4-5-2,2>>^ Manda aos filhos de Israel que deitem fora do acampamento todo o leproso, todo o que padece gonorreia, todo o que está imundo por ter tocado num morto;
+
+[[v4-5-3]]
+
+^<<v4-5-3,3>>^ tanto homem como mulher lançai-os fora do campo, para que o não manchem, habitando eu convosco.
+
+[[v4-5-4]]
+
+^<<v4-5-4,4>>^ Os filhos de Israel fizeram assim, lançaram-nos fora do campo, como o Senhor tinha dito a Moisés.
+
+[[v4-5-5]]
+
+^<<v4-5-5,5>>^ O Senhor falou a Moisés, dizendo:
+
+[[v4-5-6]]
+
+^<<v4-5-6,6>>^ Dize aos filhos de Israel: Se um homem ou uma mulher tiverem cometido algum dos pecados que prejudicam o próximo, prevaricando contra o Senhor,
+
+[[v4-5-7]]
+
+^<<v4-5-7,7>>^ confessará o seu pecado, restituirá o devido, com um quinto a mais, àquele contra quem tiver pecado.
+
+[[v4-5-8]]
+
+^<<v4-5-8,8>>^ Se, porém, não houver quem o receba, dá-lo-à ao Senhor, e pertencerá ao sacerdote, além do carneiro, que é oferecido por expiação pelo culpado.
+
+[[v4-5-9]]
+
+^<<v4-5-9,9>>^ Todas as primícias que os filhos de Israel oferecerem pertencem também ao sacerdote;
+
+[[v4-5-10]]
+
+^<<v4-5-10,10>>^ tudo o que é consagrado, ao sacerdote pertence; tudo o que se entrega nas mãos do sacerdote, será dele.
+
+[[v4-5-11]]
+
+^<<v4-5-11,11>>^ O Senhor falou a Moisés, dizendo:
+
+[[v4-5-12]]
+
+^<<v4-5-12,12>>^ Fala aos filhos de Israel, e dize-lhes: O homem cuja mulher for infiel,
+
+[[v4-5-13]]
+
+^<<v4-5-13,13>>^ dormindo com outro homem, se o marido não puder prová-lo, por o adultério estar oculto e sem testemunhas, porque ela não foi apanhada no crime,
+
+[[v4-5-14]]
+
+^<<v4-5-14,14>>^ se o espírito dos zelos excita o homem contra sua mulher, por estar manchada, ou por parecer que está,
+
+[[v4-5-15]]
+
+^<<v4-5-15,15>>^ ele a levará ao sacerdote, e oferecerá por ela a décima parte do efa de farinha de cevada: não derramará sobre ela azeite, nem porá incenso, porque é um sacrifício de zelos, e uma oblação para descobrir o adultério.
+
+[[v4-5-16]]
+
+^<<v4-5-16,16>>^ O sacerdote a mandará aproximar (do altar) e a fará estar de pé diante do Senhor.
+
+[[v4-5-17]]
+
+^<<v4-5-17,17>>^ Tomará água santa, num vaso de barro, e lançará nela um pouco de pó do pavimento do tabernáculo.
+
+[[v4-5-18]]
+
+^<<v4-5-18,18>>^ Estando a mulher de pé diante do Senhor, (o sacerdote) lhe descobrirá a cabeça, e lhe porá nas mãos a oblação de recordação: é uma oferta de zelos. O sacerdote terá (na mão) as águas amargas que levam maldição.
+
+[[v4-5-19]]
+
+^<<v4-5-19,19>>^ Esconjurará a mulher e lhe dirá: Se nenhum homem estranho dormiu contigo, e tu não te manchaste abandonando o leito de teu marido, não te farão mal estas águas amargas sobre que eu acumulei maldições.
+
+[[v4-5-20]]
+
+^<<v4-5-20,20>>^ Mas, se tu te apartaste de teu marido, e te manchaste, dormindo com outro homem,
+
+[[v4-5-21]]
+
+^<<v4-5-21,21>>^ cairão sobre ti estas maldições. O Senhor te faça um objecto de maldição e de execração para todos no teu povo; faça emagrecer os teus flancos e inchar o teu ventre.
+
+[[v4-5-22]]
+
+^<<v4-5-22,22>>^ Estas águas malditas entrem no teu ventre, fazendo-to inchar e emagrecer os teus flancos. A mulher responderá: Assim seja, assim seja.
+
+[[v4-5-23]]
+
+^<<v4-5-23,23>>^ O sacerdote escreverá num livro estas maldições, e depois as apagará com estas águas amargas que ele cumulou de maldições, (ver nota)
+
+[[v4-5-24]]
+
+^<<v4-5-24,24>>^ e lhe dará a beber (aquelas águas). Depois que ela as tiver bebido,
+
+[[v4-5-25]]
+
+^<<v4-5-25,25>>^ o sacerdote tomará da mão da mulher a oblação de zelos, levantá-la-á diante do Senhor, pô-la-á em cima do altar; antes
+
+[[v4-5-26]]
+
+^<<v4-5-26,26>>^ tomará um punhado desta oblação e o queimará sobre o altar; depois disto, dará a beber à mulher as águas amargas.
+
+[[v4-5-27]]
+
+^<<v4-5-27,27>>^ Depois que ela as tiver bebido, se está culpada, se, desprezado o marido, pecou por adultério, penetrá-la-ão as águas da maldição, farão inchar o seu ventre, emagrecerão os seus flancos, e aquela mulher será objecto de maldição no meio do seu povo.
+
+[[v4-5-28]]
+
+^<<v4-5-28,28>>^ Se, porém, não está manchada, não sofrerá mal algum, e terá filhos.
+
+[[v4-5-29]]
+
+^<<v4-5-29,29>>^ Esta é a lei dos zelos. Se uma mulher se retirar de seu marido, e se manchar,
+
+[[v4-5-30]]
+
+^<<v4-5-30,30>>^ e o marido, possuído do espírito de zelos, a apresentar diante do Senhor, e o sacerdote fizer com ela tudo o que fica escrito.
+
+[[v4-5-31]]
+
+^<<v4-5-31,31>>^ o marido será sem culpa, e a mulher pagará a sua maldade.
+
+'''
+
+xref:004-numeros/004-numeros-004.adoc#v4-4-0[&#60; Capítulo Anterior] | <<v4-5-0,Topo>> | xref:004-numeros/004-numeros-006.adoc#v4-6-0[Próximo Capítulo &#62;]

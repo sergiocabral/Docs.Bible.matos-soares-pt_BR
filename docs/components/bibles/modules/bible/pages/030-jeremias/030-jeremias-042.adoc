@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v30-42-0]]
+=== Jeremias, 42
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Em Jeremias 42, o remanescente de Judá, liderado por Joanan, consulta Jeremias para saber se devem ou não ir para o Egito em busca de segurança. Jeremias busca a vontade de Deus e responde que, se permanecerem em Judá, serão abençoados, mas se forem para o Egito, serão castigados. No entanto, eles se recusam a ouvir e decidem ir para o Egito. Seguem abaixo cinco versículos relacionados com os temas abordados em Jeremias 42:
+* Jeremias 7:3: "Assim diz o Senhor dos Exércitos, o Deus de Israel: Melhorem os seus caminhos e as suas ações, e eu os farei habitar neste lugar." Este versículo mostra a mensagem de Deus para o povo de Judá, incentivando-os a se arrependerem e melhorarem suas ações para que possam permanecer em sua terra.
+* Jeremias 26:13: "Agora, mudem de vida e de conduta, e obedeçam à voz do Senhor, o seu Deus, para que ele se arrependa do mal que anunciou contra vocês." Este versículo mostra como Jeremias insta o povo a se arrepender e mudar de vida para evitar a punição divina.
+* Jeremias 37:17: "Então o rei Zedequias mandou buscá-lo e o interrogou em particular em seu palácio, perguntando: Existe alguma palavra do Senhor?" Este versículo mostra como Zedequias busca a palavra de Deus através de Jeremias.
+* Ezequiel 3:18: "Quando eu disser a um ímpio: Certamente você morrerá, e você não o advertir nem falar para dissuadi-lo dos seus maus caminhos a fim de que ele viva, aquele ímpio morrerá por causa do seu pecado, mas eu pedirei contas do sangue dele a você." Este versículo mostra como Deus cobra responsabilidade de Jeremias em relação à mensagem que ele deve transmitir ao povo.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Este versículo ensina a confiar em Deus e buscar a vontade dele em todas as situações, em vez de confiar em nossa própria compreensão limitada.
+****
+
+[[v30-42-1]]
+
+^<<v30-42-1,1>>^ Então foram todos os oficiais do exército, com Joanan, filho de Careé, e Jezonias, filho de Osaias, e o resto do povo, desde o pequeno ao grande
+
+[[v30-42-2]]
+
+^<<v30-42-2,2>>^ junto do profeta Jeremias e disseram: Seja aceita a nossa súplica na tua presença! Pede ao Senhor teu Deus por nós, por todo este resto, porque de muitos ficamos poucos, como vêem os teus olhos.
+
+[[v30-42-3]]
+
+^<<v30-42-3,3>>^ Que o Senhor teu Deus nos mostre o caminho que devemos seguir, e o que devemos fazer.
+
+[[v30-42-4]]
+
+^<<v30-42-4,4>>^ O profeta Jeremias disse-lhes: Eu ouvi. Vou fazer oração ao Senhor vosso Deus, conforme dizeis; qualquer palavra que me responder, eu vo-la referirei, sem vos encobrir coisa alguma.
+
+[[v30-42-5]]
+
+^<<v30-42-5,5>>^ Eles disseram a Jeremias: Seja o Senhor contra nós testemunha verdadeira e fiel, se não fizermos tudo o que o Senhor teu Deus te mandar dizer-nos.
+
+[[v30-42-6]]
+
+^<<v30-42-6,6>>^ Seja coisa favorável ou adversa, obedeceremos à voz do Senhor nosso Deus, ao qual te enviamos para que sejamos bem sucedidos, obedecendo à voz do Senhor nosso Deus.
+
+[[v30-42-7]]
+
+^<<v30-42-7,7>>^ Passados dez dias, foi dirigida a palavra do Senhor a Jeremias,
+
+[[v30-42-8]]
+
+^<<v30-42-8,8>>^ o qual chamou Joanan, filho de Carée, e todos os oficiais do exército que estavam com ele, e todo o povo, desde o mais pequeno ao maior,
+
+[[v30-42-9]]
+
+^<<v30-42-9,9>>^ E disse-lhes: Assim fala o Senhor Deus de Israel, a quem me enviaste, para que expusesse os vossos rogos na sua presença:
+
+[[v30-42-10]]
+
+^<<v30-42-10,10>>^ Se permanecerdes em repouso nesta terra, eu vos edificarei e não vos destruirei: plantar-vos-ei e não vos arrancarei, porque sinto pesar do mal que vos infligi.
+
+[[v30-42-11]]
+
+^<<v30-42-11,11>>^ Não temais a presença do rei de Babilônia, de quem tendes medo; não o temais, diz o Senhor, porque eu sou convosco, para vos pôr a salvo, para vos livrar da sua mão.
+
+[[v30-42-12]]
+
+^<<v30-42-12,12>>^ Farei que acheis graça; ele terá compaixão de vós e deixar-vos-á habitar na vossa terra.
+
+[[v30-42-13]]
+
+^<<v30-42-13,13>>^ Mas, se disserdes: Não habitaremos nesta terra - desobedecendo assim à voz do Senhor vosso Deus -
+
+[[v30-42-14]]
+
+^<<v30-42-14,14>>^ se disserdes: De nenhum modo, mas iremos para a terra do Egito, onde não veremos guerra, nem ouviremos estrondo de trombeta, nem teremos falta de pão, e lá habitaremos -
+
+[[v30-42-15]]
+
+^<<v30-42-15,15>>^ neste caso ouvi agora a palavra do Senhor, ó restos de Judá: Isto diz o Senhor dos exércitos, o Deus de Israel: Se vos obstinais em querer ir para o Egito e se lá entrardes com o fim de aí habitar,
+
+[[v30-42-16]]
+
+^<<v30-42-16,16>>^ a espada que temeis vos alcançará na terra do Egito, e a fome que receais, no Egito se vos pegará, e lá morrereis.
+
+[[v30-42-17]]
+
+^<<v30-42-17,17>>^ Todos os que se obstinarem em entrar no Egito, com o fim de aí habitar, morrerão à espada, e de fome e de peste; não ficará nenhum deles, nenhum escapará ao castigo que farei vir sobre eles.
+
+[[v30-42-18]]
+
+^<<v30-42-18,18>>^ Porque isto diz o Senhor dos exércitos, o Deus de Israel: Assim como o meu furor, a minha indignação se acendeu contra os habitantes de Jerusalém, assim se acenderá a minha indignação contra vós, quando tiverdes entrado no Egipto: vireis a ser objecto de execração, de pasmo, de maldição e de opróbrio, e não tornareis mais a ver este lugar.
+
+[[v30-42-19]]
+
+^<<v30-42-19,19>>^ Esta é a palavra do Senhor a vós, ó restos de Judá: Não entreis no Egito; tende bem presente que hoje vos advirto solenemente.
+
+[[v30-42-20]]
+
+^<<v30-42-20,20>>^ Enganastes as vossas almas, porque me enviastes ao Senhor nosso Deus, dizendo: Roga por nós ao Senhor nosso Deus, e tudo o que te disser o Senhor nosso Deus, anuncia-no-lo, e nós o faremos.
+
+[[v30-42-21]]
+
+^<<v30-42-21,21>>^ Hoje vo-lo anunciei, mas não ouvistes a voz do Senhor vosso Deus, em nenhuma daquelas coisas, pelas quais me enviou a vós.
+
+[[v30-42-22]]
+
+^<<v30-42-22,22>>^ Agora, pois, ficai sabendo que morrereis à espada, e de fome e de peste, nesse lugar para onde quisestes ir a fim de lá viver.
+
+'''
+
+xref:030-jeremias/030-jeremias-041.adoc#v30-41-0[&#60; Capítulo Anterior] | <<v30-42-0,Topo>> | xref:030-jeremias/030-jeremias-043.adoc#v30-43-0[Próximo Capítulo &#62;]

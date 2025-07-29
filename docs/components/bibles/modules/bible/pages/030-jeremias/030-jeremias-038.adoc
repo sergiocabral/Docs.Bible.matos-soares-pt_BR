@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v30-38-0]]
+=== Jeremias, 38
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Jeremias 38 narra o momento em que o profeta é preso e jogado em uma cisterna por causa de suas profecias contra a cidade de Jerusalém. Ao longo do capítulo, Jeremias é resgatado por um etíope e tem uma conversa com o rei Zedequias, onde ele reitera sua mensagem de que a cidade seria tomada pelos babilônios. Seguem abaixo cinco versículos relacionados com os temas abordados em Jeremias 38:
+* 2 Reis 25:4: "A cidade foi invadida, e todos os soldados fugiram de noite pelo caminho da porta entre as duas muralhas perto do jardim do rei" Este versículo descreve o momento em que Jerusalém é tomada pelos babilônios, confirmando a profecia de Jeremias.
+* Jeremias 32:3: "Zedequias, rei de Judá, o mandou prender e perguntou-lhe: «O Senhor não lhe falou, dizendo: "Vou entregar esta cidade nas mãos do rei da Babilônia, que a tomará?"»" Este versículo mostra como Jeremias é preso e levado perante o rei Zedequias, a quem ele já havia profetizado a queda da cidade.
+* Jeremias 21:4-7: "Assim diz o Senhor, o Deus de Israel: Eis que virarei contra vós as armas de guerra que estão nas vossas mãos, com as quais vós pelejais fora dos muros, e ajuntarei no meio desta cidade todos os vossos inimigos. Eu mesmo pelejarei contra vós com mão estendida e com braço forte, com ira, furor e grande indignação. Ferirei os habitantes desta cidade, homens e animais; morrerão de grande pestilência." Esses versículos mostram a continuidade da mensagem de Jeremias, que prevê a queda de Jerusalém e a punição do povo pelos seus pecados.
+* Jeremias 39:18: "Eu livrarei você naquele dia, diz o Senhor; você não será entregue nas mãos dos homens a quem você tem medo." Esse versículo é uma promessa de Deus para Jeremias, que seria protegido durante a queda de Jerusalém.
+* Jeremias 52:7-11: "Então a cidade foi invadida, e todos os soldados fugiram de noite pelo caminho da porta entre as duas muralhas perto do jardim do rei, embora os caldeus estivessem em redor da cidade. E o rei fugiu pelo caminho da Arabá, mas o exército caldeu o perseguiu e alcançou-o nas campinas de Jericó. Todo o seu exército se dispersou e fugiu, deixando-o sozinho. Então prenderam o rei e o levaram ao rei da Babilônia em Ribla, na terra de Hamate, onde foi condenado." Estes versículos descrevem a queda de Jerusalém e a captura do rei Zedequias pelos babilônios, confirmando a profecia de Jeremias.
+****
+
+[[v30-38-1]]
+
+^<<v30-38-1,1>>^ Ora Safatias, filho de Matan, e Gedelias, filho de Fassur, e Jucal, filho de Selemias, e Fassur, filho de Melquias, tinham ouvido as palavras que Jeremias dirigia a todo o povo:
+
+[[v30-38-2]]
+
+^<<v30-38-2,2>>^ Assim fala o Senhor: Todo aquele que ficar nesta cidade morrerá à espada, e de fome ou de peste; mas o que passar aos Caldeus, terá como um despojo a sua vida salva, viverá.
+
+[[v30-38-3]]
+
+^<<v30-38-3,3>>^ Isto diz o Senhor: Certamente será entregue esta cidade na mão do exército do rei de Babilônia, que a tomará.
+
+[[v30-38-4]]
+
+^<<v30-38-4,4>>^ Então os chefes disseram ao rei: (É preciso) que se mate este homem, porque desanima os homens de guerra, que ficaram nesta cidade, e todo o povo dirigindo-lhes tais palavras. Sim, este homem não busca o bem para o povo, mas o mal.
+
+[[v30-38-5]]
+
+^<<v30-38-5,5>>^ O rei Sedecias disse: Aí o tendes nas vossas mãos, pois nada pode o rei contra vós.
+
+[[v30-38-6]]
+
+^<<v30-38-6,6>>^ Tomaram, então, Jeremias e lançaram-no na cisterna do príncipe Melquias, que estava no vestíbulo da guarda: desceram Jeremias com cordas à cisterna, onde não havia água, senão lodo. E assim se atolou Jeremias no lodo.
+
+[[v30-38-7]]
+
+^<<v30-38-7,7>>^ Entretanto Abedemelech, eunuco etíope, que estava na casa do rei, ouviu dizer que tinham metido Jeremias na cisterna. O rei estava então sentado à porta de Benjamim.
+
+[[v30-38-8]]
+
+^<<v30-38-8,8>>^ Abdemelech saiu da casa do rei e foi falar o rei:
+
+[[v30-38-9]]
+
+^<<v30-38-9,9>>^ Ó rei, meu Senhor, estes homens procederam mal em tudo quanto fizeram contra o profeta Jeremias, metendo-o na cisterna, para que ali morra de fome, porque já não há mais pão na cidade.
+
+[[v30-38-10]]
+
+^<<v30-38-10,10>>^ Então o rei deu esta ordem ao etíope Abdemelech: Toma aqui contigo trinta homens e tira da cisterna o profeta Jeremias, antes que morra.
+
+[[v30-38-11]]
+
+^<<v30-38-11,11>>^ Abdemelech, tomando consigo os homens, entrou numa dependência do palácio do rei, que estava por debaixo do tesouro, e tomou dali uns panos velhos e farrapos, que, por umas cordas, deitou abaixo à cisterna, a Jeremias.
+
+[[v30-38-12]]
+
+^<<v30-38-12,12>>^ O etíope Abdemelech disse a Jeremias: Mete esses pedaços de pano velho e esses retalhos debaixo dos teus sovacos entre os braços e as cordas, Jeremias assim o fez.
+
+[[v30-38-13]]
+
+^<<v30-38-13,13>>^ Então puxaram Jeremias com as cordas e tiraram-no da cisterna. E Jeremias ficou no vestíbulo da guarda.
+
+[[v30-38-14]]
+
+^<<v30-38-14,14>>^ O rei Sedecias mandou tomar e trazer o profeta Jeremias à terceira porta da casa do Senhor, e ali disse a Jeremias: Eu tenho uma coisa a perguntar-te; não me encubras nada.
+
+[[v30-38-15]]
+
+^<<v30-38-15,15>>^ Jeremias disse a Sedecias: Se ta anunciar, não me matarás? Aliás, se eu te der um conselho, não me ouvirás.
+
+[[v30-38-16]]
+
+^<<v30-38-16,16>>^ Jurou, pois, o rei Sedecias a Jeremias em segredo, dizendo; Viva o Senhor, que nos deu esta vida, que não te matarei, nem te entregarei nas mãos desses homens que querem tirar-te a vida.
+
+[[v30-38-17]]
+
+^<<v30-38-17,17>>^ Então Jeremias disse a Sedecias: Assim fala o Senhor dos exércitos, o Deus de Israel: Se, saindo (de Jerusalém), te entregares aos oficiais do rei de Babilônia, terás a vida salva, e não arderá esta cidade; serás salvo, tu com a tua casa.
+
+[[v30-38-18]]
+
+^<<v30-38-18,18>>^ Mas, se não te entregares aos oficiais do rei de Babilônia, será entregue esta cidade nas mãos dos Caldeus, que a farão arder, e tu não escaparás das suas mãos.
+
+[[v30-38-19]]
+
+^<<v30-38-19,19>>^ O rei Sedecias disse a Jeremias: Receio-me dos Judeus, que se passaram aos Caldeus; poderá suceder que eu seja entregue nas suas mãos, e me ultrajem.
+
+[[v30-38-20]]
+
+^<<v30-38-20,20>>^ Jeremias respondeu: Não te entregarão. Rogo-te que ouças a voz do Senhor, que te anuncio; será bem para ti, e terás a vida salva.
+
+[[v30-38-21]]
+
+^<<v30-38-21,21>>^ Mas, se não quiseres sair, eis a palavra que o Senhor me revelou:
+
+[[v30-38-22]]
+
+^<<v30-38-22,22>>^ Todas as mulheres que ficarem no palácio do rei de Judá, serão conduzidas aos oficiais do rei de Babilônia. Elas te dirão: Enganaram-te, iludiram-te, os (que se diziam) teus bons amigos. Quando se atolaram num lamaçal os teus pés, eles apartaram-se de ti.
+
+[[v30-38-23]]
+
+^<<v30-38-23,23>>^ Todas as tuas mulheres e teus filhos serão levados aos Caldeus; tu não escaparás das suas mãos, mas serás preso pelo rei de Babilônia, e será queimada esta cidade.
+
+[[v30-38-24]]
+
+^<<v30-38-24,24>>^ Disse, pois, Sedecias a Jeremias: Ninguém saiba estas palavras, para não morreres.
+
+[[v30-38-25]]
+
+^<<v30-38-25,25>>^ Se os grandes souberem que falei contigo, se vieram a ti e te disserem: Manifesta-nos o que disseste ao rei e o que o rei disse a ti; não nos encubras nada, que te não mataremos -
+
+[[v30-38-26]]
+
+^<<v30-38-26,26>>^ tu lhes responderás: Fiz ao rei as minhas súplicas para que me não mandasse novamente levar a casa de Jonatan, onde morreria.
+
+[[v30-38-27]]
+
+^<<v30-38-27,27>>^ Efetivamente todos os grandes foram ter com Jeremias e interrogaram-no; ele respondeu-lhes conforme tudo o que o rei lhe tinha mandado. Não o inquietaram mais, porque se não tinha divulgado nada.
+
+[[v30-38-28]]
+
+^<<v30-38-28,28>>^ Jeremias permaneceu no vestíbulo da guarda, até ao dia em que Jerusalém foi tomada.
+
+'''
+
+xref:030-jeremias/030-jeremias-037.adoc#v30-37-0[&#60; Capítulo Anterior] | <<v30-38-0,Topo>> | xref:030-jeremias/030-jeremias-039.adoc#v30-39-0[Próximo Capítulo &#62;]

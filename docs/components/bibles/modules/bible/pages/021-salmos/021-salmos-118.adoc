@@ -1,0 +1,723 @@
+include::./index.adoc[]
+
+[[v21-118-0]]
+=== Salmos, 118
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O Salmo 118 é um hino de louvor e ação de graças a Deus, enfatizando a confiança do salmista em Deus como seu refúgio e salvação. Os versículos escolhidos abaixo são relacionados aos temas de confiança em Deus, vitória e salvação.
+* Isaías 12:2: "Eis que Deus é a minha salvação; eu confiarei e não temerei porque o Senhor Deus é a minha força e o meu cântico, e se tornou a minha salvação." Este versículo enfatiza a confiança em Deus como a fonte de salvação e força.
+* 1 Coríntios 15:57: "Mas graças a Deus que nos dá a vitória por meio de nosso Senhor Jesus Cristo." Este versículo fala sobre a vitória que temos em Jesus Cristo e que é concedida por Deus.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento. Reconheça o Senhor em todos os seus caminhos, e ele endireitará as suas veredas." Esses versículos enfatizam a confiança em Deus em vez de confiar em nossa própria compreensão.
+* Romanos 10:11: "Como diz a Escritura: Todo aquele que nele crer não será confundido." Este versículo destaca a confiança em Deus como uma garantia de não ser confundido ou envergonhado.
+* 2 Samuel 22:2-3: "O Senhor é a minha rocha, a minha fortaleza e o meu libertador. O meu Deus é o meu rochedo, em que me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Esses versículos destacam a confiança em Deus como nosso refúgio, fortaleza e salvador.
+****
+
+[[v21-118-1]]
+
+^<<v21-118-1,1>>^ Bem-aventurados aqueles, cujo caminho é imaculado, que andam na lei do Senhor, (ver nota)
+
+[[v21-118-2]]
+
+^<<v21-118-2,2>>^ Bem-aventurados os que guardam as suas prescrições, e de todo o coração o buscam,
+
+[[v21-118-3]]
+
+^<<v21-118-3,3>>^ que não praticam a iniquidade mas andam nos seus caminhos.
+
+[[v21-118-4]]
+
+^<<v21-118-4,4>>^ Tu promulgaste os teus preceitos, para que sejam guardados à risca.
+
+[[v21-118-5]]
+
+^<<v21-118-5,5>>^ Oxalá que os meus caminhos sejam firmes para guardar os teus estatutos!
+
+[[v21-118-6]]
+
+^<<v21-118-6,6>>^ Então não serei confundido, quando eu atender a todos os teus mandamentos.
+
+[[v21-118-7]]
+
+^<<v21-118-7,7>>^ Eu te louvarei com rectidão de coração, quando tiver aprendido os decretos da tua justiça.
+
+[[v21-118-8]]
+
+^<<v21-118-8,8>>^ Guardarei os teus estatutos: não me desampares inteiramente.
+
+[[v21-118-9]]
+
+^<<v21-118-9,9>>^ Como conservará puro o seu caminho o adolescente? Guardando as tuas palavras.
+
+[[v21-118-10]]
+
+^<<v21-118-10,10>>^ De todo o meu coração te busco: não me deixes transviar dos teus mandamentos.
+
+[[v21-118-11]]
+
+^<<v21-118-11,11>>^ Guardo no meu coração a tua palavra, para não pecar contra ti.
+
+[[v21-118-12]]
+
+^<<v21-118-12,12>>^ Bendito és, Senhor; ensina-me os teus estatutos.
+
+[[v21-118-13]]
+
+^<<v21-118-13,13>>^ Com os meus lábios enuncio todos os decretos da tua boca.
+
+[[v21-118-14]]
+
+^<<v21-118-14,14>>^ Deleito-me no caminho das tuas prescrições, como em todas as riquezas.
+
+[[v21-118-15]]
+
+^<<v21-118-15,15>>^ Meditarei nos teus preceitos, e considerarei os teus caminhos.
+
+[[v21-118-16]]
+
+^<<v21-118-16,16>>^ Hei-de deliciar-me com os teus estatutos; não me esquecerei das tuas palavras.
+
+[[v21-118-17]]
+
+^<<v21-118-17,17>>^ Beneficia o teu servo, para que eu viva e guarde as tuas palavras.
+
+[[v21-118-18]]
+
+^<<v21-118-18,18>>^ Abre os meus olhos, para que considere as maravilhas da tua lei.
+
+[[v21-118-19]]
+
+^<<v21-118-19,19>>^ Eu sou peregrino na terra; não escondas de mim os mandamentos.
+
+[[v21-118-20]]
+
+^<<v21-118-20,20>>^ Desfalece a minha alma, desejando sempre os teus decretos.
+
+[[v21-118-21]]
+
+^<<v21-118-21,21>>^ Ameaçaste os soberbos; malditos os que se afastam dos teus mandamentos.
+
+[[v21-118-22]]
+
+^<<v21-118-22,22>>^ Livra-me do opróbrio e do desprezo, porque observo as tuas prescrições.
+
+[[v21-118-23]]
+
+^<<v21-118-23,23>>^ Mesmo que os príncipes se sentem e falem contra mim, o teu servo todavia medita nas tuas determinações.
+
+[[v21-118-24]]
+
+^<<v21-118-24,24>>^ Pois as tuas prescrições são as minhas delícias, e os teus estatutos os meus conselheiros.
+
+[[v21-118-25]]
+
+^<<v21-118-25,25>>^ A minha alma está prostrada sobre o pó: dá-me a vida, segundo a tua palavra.
+
+[[v21-118-26]]
+
+^<<v21-118-26,26>>^ Eu te expuz os meus caminhos, e tu me atendeste: ensina-me os teus estatutos.
+
+[[v21-118-27]]
+
+^<<v21-118-27,27>>^ Instrui-me no caminho dos teus preceitos, e meditarei nas tuas maravilhas.
+
+[[v21-118-28]]
+
+^<<v21-118-28,28>>^ A minha alma derrama lágrimas de tristeza: fortica-me segundo a tua palavra.
+
+[[v21-118-29]]
+
+^<<v21-118-29,29>>^ Afasta-me do caminho do erro, e concede-me o favor da tua lei.
+
+[[v21-118-30]]
+
+^<<v21-118-30,30>>^ Eu escolhi o caminho da verdade, propus-me os teus decretos.
+
+[[v21-118-31]]
+
+^<<v21-118-31,31>>^ Estou estreitamente abraçado às tuas prescrições: Senhor, não permitas que eu seja confundido.
+
+[[v21-118-32]]
+
+^<<v21-118-32,32>>^ Correrei pelo caminho dos teus mandamentos, quando dilatares o meu coração. (ver nota)
+
+[[v21-118-33]]
+
+^<<v21-118-33,33>>^ Mostra-me, Senhor, o caminho dos teus estatutos, e segui-lo-ei com fidelidade.
+
+[[v21-118-34]]
+
+^<<v21-118-34,34>>^ Instrui-me para que eu observe a tua lei, e a guarde de todo o meu coração.
+
+[[v21-118-35]]
+
+^<<v21-118-35,35>>^ Guia-me pela senda dos teus mandamentos, porque nela me deleito.
+
+[[v21-118-36]]
+
+^<<v21-118-36,36>>^ Inclina o meu coração para os teus preceitos, e não para a avareza.
+
+[[v21-118-37]]
+
+^<<v21-118-37,37>>^ Desvia os meus olhos, para que não vejam a vaidade; faz-me viver no teu caminho.
+
+[[v21-118-38]]
+
+^<<v21-118-38,38>>^ Cumpre para com o teu servo a tua promessa, que foi feita aos que te temem.
+
+[[v21-118-39]]
+
+^<<v21-118-39,39>>^ Afasta de mim o opróbrio, que receio, porque os teus decretos são agradáveis.
+
+[[v21-118-40]]
+
+^<<v21-118-40,40>>^ Vê como eu suspiro pelos teus preceitos; dá-me vida segundo a tua equidade.
+
+[[v21-118-41]]
+
+^<<v21-118-41,41>>^ E venham sobre mim as tuas misericórdias, Senhor, o teu auxilio, segundo a tua promessa.
+
+[[v21-118-42]]
+
+^<<v21-118-42,42>>^ E poderei responder uma palavra aos que me insultam, porque ponho a minha esperança nas tuas palavras.
+
+[[v21-118-43]]
+
+^<<v21-118-43,43>>^ Não tires da minha boca a palavra da verdade, porque confio nos teus decretos.
+
+[[v21-118-44]]
+
+^<<v21-118-44,44>>^ Guardarei sempre a tua lei, pelos séculos, para sempre.
+
+[[v21-118-45]]
+
+^<<v21-118-45,45>>^ Andarei por um caminho espaçoso, porque busco os teus mandamentos.
+
+[[v21-118-46]]
+
+^<<v21-118-46,46>>^ Falarei dos teus preceitos diante dos reis, sem me envergonhar.
+
+[[v21-118-47]]
+
+^<<v21-118-47,47>>^ Deleitar-me-ei nos teus mandamentos, que amo.
+
+[[v21-118-48]]
+
+^<<v21-118-48,48>>^ Levantarei as minhas mãos para os teus mandamentos, e meditarei os teus estatutos.
+
+[[v21-118-49]]
+
+^<<v21-118-49,49>>^ Lembra-te da palavra dada ao teu servo, com a qual me deste esperança.
+
+[[v21-118-50]]
+
+^<<v21-118-50,50>>^ Isto me consola na minha aflição, que a tua palavra me dá vida.
+
+[[v21-118-51]]
+
+^<<v21-118-51,51>>^ Os soberbos escarnecem-me com veemência, mas eu não me afasto da tua lei.
+
+[[v21-118-52]]
+
+^<<v21-118-52,52>>^ Lembro-me, Senhor, dos teus juízos antigos, e fico consolado.
+
+[[v21-118-53]]
+
+^<<v21-118-53,53>>^ Apodera-se de mim a indignação por causa dos pecadores, que abandonam a tua lei.
+
+[[v21-118-54]]
+
+^<<v21-118-54,54>>^ Os teus estatutos são objecto dos meus cantares no lugar da minha peregrinação.
+
+[[v21-118-55]]
+
+^<<v21-118-55,55>>^ Lembro-me do teu nome, Senhor, durante a noite, e guardarei a tua lei.
+
+[[v21-118-56]]
+
+^<<v21-118-56,56>>^ Isto me aconteceu, porque tenho observado os teus preceitos.
+
+[[v21-118-57]]
+
+^<<v21-118-57,57>>^ Eu disse: Senhor, a minha porção (de herança) é guardar a tua lei.
+
+[[v21-118-58]]
+
+^<<v21-118-58,58>>^ Suplico o favor do teu rosto de todo o meu coração; compadece-te de mim, segundo a tua promessa.
+
+[[v21-118-59]]
+
+^<<v21-118-59,59>>^ Considerei os meus caminhos, e voltei aos meus passos para os teus preceitos.
+
+[[v21-118-60]]
+
+^<<v21-118-60,60>>^ Apressei-me e não demorei a guardar os teus mandamentos.
+
+[[v21-118-61]]
+
+^<<v21-118-61,61>>^ Os laços dos pecadores me cingiram, mas eu não me esqueci da tua lei.
+
+[[v21-118-62]]
+
+^<<v21-118-62,62>>^ A meia-noite levantei-me para te louvar por teus justos decretos.
+
+[[v21-118-63]]
+
+^<<v21-118-63,63>>^ Sou amigo de todos os que te temem e dos que guardam os teus mandamentos.
+
+[[v21-118-64]]
+
+^<<v21-118-64,64>>^ A terra está cheia, Senhor, da tua graça: ensina-me os teus preceitos,
+
+[[v21-118-65]]
+
+^<<v21-118-65,65>>^ Tens usado de bondade com o teu servo, segundo a tua palavra, ó Senhor.
+
+[[v21-118-66]]
+
+^<<v21-118-66,66>>^ Ensina-me o sentido recto e a ciência, porque confio nos teus mandamentos.
+
+[[v21-118-67]]
+
+^<<v21-118-67,67>>^ Antes de ser atormentado, errei, mas agora guardo a tua palavra.
+
+[[v21-118-68]]
+
+^<<v21-118-68,68>>^ Tu és bom e benfeitor; ensina-me as tuas prescrições.
+
+[[v21-118-69]]
+
+^<<v21-118-69,69>>^ Os soberbos maquinam fraudes contra mim, mas eu de todo o meu coração guardo os teus preceitos.
+
+[[v21-118-70]]
+
+^<<v21-118-70,70>>^ O coração deles tornou-se (insensível) como gordura: eu porém delicio-me na tua lei.
+
+[[v21-118-71]]
+
+^<<v21-118-71,71>>^ Para mim foi bom ter sido atormentado, para aprender as tuas prescrições.
+
+[[v21-118-72]]
+
+^<<v21-118-72,72>>^ Para mim vale mais a lei que saiu da tua boca, do que mil lingotes de ouro e de prata.
+
+[[v21-118-73]]
+
+^<<v21-118-73,73>>^ As tuas mãos fizeram-me, formaram-me; instrui-me para aprender os teus mandamentos.
+
+[[v21-118-74]]
+
+^<<v21-118-74,74>>^ Os que te temem, ver-me-ão e alegrar-se-ão, porque pus a minha esperança na tua palavra.
+
+[[v21-118-75]]
+
+^<<v21-118-75,75>>^ Sei, ó Senhor, que os teus decretos são justos e que me afligiste com razão.
+
+[[v21-118-76]]
+
+^<<v21-118-76,76>>^ Venha a tua misericórdia consolar-me, segundo a promessa que fizeste ao teu servo.
+
+[[v21-118-77]]
+
+^<<v21-118-77,77>>^ Venham a mim as tuas misericórdias, para que eu viva, porque a tua lei é a minha delícia.
+
+[[v21-118-78]]
+
+^<<v21-118-78,78>>^ Sejam confundidos os soberbos, pois injustamente me afligem: eu meditarei sobre os teus preceitos.
+
+[[v21-118-79]]
+
+^<<v21-118-79,79>>^ Voltem-se para mim os que te temem, e os que tomam a peito as tuas prescrições.
+
+[[v21-118-80]]
+
+^<<v21-118-80,80>>^ Seja perfeito o meu coração na prática dos teus estatutos para que eu não seja confundido.
+
+[[v21-118-81]]
+
+^<<v21-118-81,81>>^ A minha alma desfalece ansiando o teu auxílio; espero na tua palavra.
+
+[[v21-118-82]]
+
+^<<v21-118-82,82>>^ Os meus olhos desfalecem, ansiando a tua palavra: quando me consolarás?
+
+[[v21-118-83]]
+
+^<<v21-118-83,83>>^ Em realidade, embora sendo como um odre exposto ao fumo, não me esqueci das tuas prescrições.
+
+[[v21-118-84]]
+
+^<<v21-118-84,84>>^ Quantos são os dias do teu servo? Quando farás justiça aos que me perseguem?
+
+[[v21-118-85]]
+
+^<<v21-118-85,85>>^ Os soberbos abriram covas para mim, aqueles que não procedem segundo a tua lei.
+
+[[v21-118-86]]
+
+^<<v21-118-86,86>>^ Todos os teus mandamentos são fiéis; injustamente me perseguem: socorre-me.
+
+[[v21-118-87]]
+
+^<<v21-118-87,87>>^ Por pouco me não reduziram a pó; eu porém não abandonei os teus preceitos.
+
+[[v21-118-88]]
+
+^<<v21-118-88,88>>^ Conserva-me com vida segundo a tua misericórdia, e guardarei as prescrições saídas da tua boca.
+
+[[v21-118-89]]
+
+^<<v21-118-89,89>>^ Para sempre, Senhor, permanece a tua palavra, ela é estável como o céu.
+
+[[v21-118-90]]
+
+^<<v21-118-90,90>>^ A tua fidelidade permanece de geração em geração; tu fundaste a terra, e ela perdura.
+
+[[v21-118-91]]
+
+^<<v21-118-91,91>>^ Segundo os teus decretos, perduram sempre, pois todas as coisas estão ao teu serviço.
+
+[[v21-118-92]]
+
+^<<v21-118-92,92>>^ Se a tua lei não fosse a minha delícia, já eu teria perecido na minha aflição.
+
+[[v21-118-93]]
+
+^<<v21-118-93,93>>^ Nunca jamais me esquecerei dos teus preceitos, porque por eles me deste a vida.
+
+[[v21-118-94]]
+
+^<<v21-118-94,94>>^ Eu sou teu: salva-me, porque busquei os teus preceitos.
+
+[[v21-118-95]]
+
+^<<v21-118-95,95>>^ Os pecadores esperam-me para me perder; eu porém estou atento às tuas prescrições.
+
+[[v21-118-96]]
+
+^<<v21-118-96,96>>^ Vi que toda a perfeição tem um limite: o teu mandamento é ilimitado. (ver nota)
+
+[[v21-118-97]]
+
+^<<v21-118-97,97>>^ Quanto eu amo a tua lei, Senhor! Ela é (o objecto da) minha meditação todo o dia.
+
+[[v21-118-98]]
+
+^<<v21-118-98,98>>^ Mais sábio que os meus inimigos me tornou o teu mandamento, porque ele está sempre comigo.
+
+[[v21-118-99]]
+
+^<<v21-118-99,99>>^ Sou mais prudente que todos os meus mestres, porque os teus mandamentos são a minha meditação.
+
+[[v21-118-100]]
+
+^<<v21-118-100,100>>^ Sou mais sensato que os anciãos, porque observo os teus preceitos.
+
+[[v21-118-101]]
+
+^<<v21-118-101,101>>^ Retiro os meus pés de todo o mau caminho, para guardar as tuas palavras.
+
+[[v21-118-102]]
+
+^<<v21-118-102,102>>^ Não me desvio dos teus decretos, porque tu me instruiste.
+
+[[v21-118-103]]
+
+^<<v21-118-103,103>>^ Quão doces são as tuas palavras ao meu paladar! São-no mais que o mel à minha boca.
+
+[[v21-118-104]]
+
+^<<v21-118-104,104>>^ Com os teus mandamentos torno-me inteligente, por isso odeio todo o caminho da iniquidade.
+
+[[v21-118-105]]
+
+^<<v21-118-105,105>>^ Lâmpada para os meus passos é a tua palavra, e luz para os meus caminhos.
+
+[[v21-118-106]]
+
+^<<v21-118-106,106>>^ Juro e determino guardar os teus justos decretos.
+
+[[v21-118-107]]
+
+^<<v21-118-107,107>>^ Tenho sido atormentado, Senhor, em extremo: conserva-me a vida segundo a tua palavra.
+
+[[v21-118-108]]
+
+^<<v21-118-108,108>>^ Aceita, ó Senhor, as oferendas da minha boca, e ensina-me os teus decretos.
+
+[[v21-118-109]]
+
+^<<v21-118-109,109>>^ A minha vida está sempre em perigo, porém não me esqueço da tua lei.
+
+[[v21-118-110]]
+
+^<<v21-118-110,110>>^ Os pecadores armaram-me um laço, não me afastei porém dos teus preceitos.
+
+[[v21-118-111]]
+
+^<<v21-118-111,111>>^ As tuas prescrições constituem a minha herança para sempre, porque são a alegria do meu coração.
+
+[[v21-118-112]]
+
+^<<v21-118-112,112>>^ Inclinei o meu coração a praticar sempre os teus estatutos: perpètuamente e com perfeição.
+
+[[v21-118-113]]
+
+^<<v21-118-113,113>>^ Aborreço os dúplices de coração, e amo a tua lei.
+
+[[v21-118-114]]
+
+^<<v21-118-114,114>>^ Tu és o meu protector e o meu escudo: espero na tua palavra.
+
+[[v21-118-115]]
+
+^<<v21-118-115,115>>^ Retirai-vos de mim, malignos, que quero observar os mandamentos do meu Deus.
+
+[[v21-118-116]]
+
+^<<v21-118-116,116>>^ Ampara-me (Senhor), segundo a tua promessa, e viverei; não permitas que eu seja confundido no que espero.
+
+[[v21-118-117]]
+
+^<<v21-118-117,117>>^ Ajuda-me, e serei salvo, e atenderei sempre aos teus estatutos.
+
+[[v21-118-118]]
+
+^<<v21-118-118,118>>^ Desprezas todos os que se desviam dos teus estatutos, porque são mentira os seus pensamentos.
+
+[[v21-118-119]]
+
+^<<v21-118-119,119>>^ Consideras como escória todos os pecadores da terra, por isso amo as tuas prescrições.
+
+[[v21-118-120]]
+
+^<<v21-118-120,120>>^ Estremece a minha carne com temor de ti, e temo os teus decretos.
+
+[[v21-118-121]]
+
+^<<v21-118-121,121>>^ Tenho praticado o direito e a justiça: não me entregues aos meus opressores.
+
+[[v21-118-122]]
+
+^<<v21-118-122,122>>^ Sê fiador do teu servo para o bem, para que não me oprimam os soberbos.
+
+[[v21-118-123]]
+
+^<<v21-118-123,123>>^ Os meus olhos desfalecem, ansiando o teu auxílio e as promessas da tua justiça.
+
+[[v21-118-124]]
+
+^<<v21-118-124,124>>^ Trata o teu servo segundo a tua bondade, e ensina-me os teus estatutos.
+
+[[v21-118-125]]
+
+^<<v21-118-125,125>>^ Eu sou teu servo, instruí-me, para que eu conheça os teus preceitos.
+
+[[v21-118-126]]
+
+^<<v21-118-126,126>>^ E tempo, Senhor, de procederes (com rigor): (os soberbos) violaram a tua lei.
+
+[[v21-118-127]]
+
+^<<v21-118-127,127>>^ Por isso amo os teus mandamentos, mais do que o ouro, do que o ouro finíssimo.
+
+[[v21-118-128]]
+
+^<<v21-118-128,128>>^ Por isso escolhi para mim os teus preceitos; odeio todo o caminho falso.
+
+[[v21-118-129]]
+
+^<<v21-118-129,129>>^ As tuas prescrições são admiráveis, por isso as observa a minha alma.
+
+[[v21-118-130]]
+
+^<<v21-118-130,130>>^ A explicação das tuas palavras ilumina, ensina os inexperientes.
+
+[[v21-118-131]]
+
+^<<v21-118-131,131>>^ Abro a minha boca e aspiro, pelo desejo que tenho dos teus mandamentos.
+
+[[v21-118-132]]
+
+^<<v21-118-132,132>>^ Olha para mim e compadece-te de mim, como costumas fazer com os que amam o teu nome.
+
+[[v21-118-133]]
+
+^<<v21-118-133,133>>^ Encaminha os meus passos segundo a tua palavra, e não me domine iniquidade alguma.
+
+[[v21-118-134]]
+
+^<<v21-118-134,134>>^ Livra-me da opressão dos homens, e guardarei os teus mandamentos.
+
+[[v21-118-135]]
+
+^<<v21-118-135,135>>^ Mostra sereno o teu rosto ao teu servo, e ensina-me os teus estatutos.
+
+[[v21-118-136]]
+
+^<<v21-118-136,136>>^ Rios de lágrimas têm brotado dos meus olhos, por não terem guardado a tua lei.
+
+[[v21-118-137]]
+
+^<<v21-118-137,137>>^ Tu és justo, Senhor, e o teu juízo é recto.
+
+[[v21-118-138]]
+
+^<<v21-118-138,138>>^ Impuseste as tuas prescrições com justiça e com grande firmeza.
+
+[[v21-118-139]]
+
+^<<v21-118-139,139>>^ O meu zelo me consome, porque os meus adversários se esqueceram das tuas palavras.
+
+[[v21-118-140]]
+
+^<<v21-118-140,140>>^ A tua palavra está sobremaneira provada, e o teu servo a ama.
+
+[[v21-118-141]]
+
+^<<v21-118-141,141>>^ Eu sou pequeno e desprezado, mas não esqueço os teus preceitos.
+
+[[v21-118-142]]
+
+^<<v21-118-142,142>>^ A tua justiça é justiça eterna, e a tua lei é firme.
+
+[[v21-118-143]]
+
+^<<v21-118-143,143>>^ A angústia e a tribulação vieram sobre mim, os teus mandamentos são as minhas delícias.
+
+[[v21-118-144]]
+
+^<<v21-118-144,144>>^ A justiça das tuas prescrições é eterna, dá-me a inteligência delas, e viverei.
+
+[[v21-118-145]]
+
+^<<v21-118-145,145>>^ Clamo de todo o meu coração: ouve-me Senhor; eu observo os teus estatutos.
+
+[[v21-118-146]]
+
+^<<v21-118-146,146>>^ Clamo a ti: salva-me, e guardarei os teus estatutos.
+
+[[v21-118-147]]
+
+^<<v21-118-147,147>>^ Venho logo de manhã e imploro auxílio; espero nas tuas palavras.
+
+[[v21-118-148]]
+
+^<<v21-118-148,148>>^ Os meus olhos antecedem as vigílias nocturnas, para meditar as tuas palavras.
+
+[[v21-118-149]]
+
+^<<v21-118-149,149>>^ Ouve a minha voz segundo a tua misericórdia, Senhor, dá-me vida segundo o teu decreto.
+
+[[v21-118-150]]
+
+^<<v21-118-150,150>>^ Aproximam-se os que iniquamente me perseguem; estão muito afastados da tua lei.
+
+[[v21-118-151]]
+
+^<<v21-118-151,151>>^ Perto estás (de mim), Senhor, e todos os mandamentos são fiéis.
+
+[[v21-118-152]]
+
+^<<v21-118-152,152>>^ Há muito tempo eu soube das tuas prescrições, que as estabeleceste para sempre.
+
+[[v21-118-153]]
+
+^<<v21-118-153,153>>^ Olha para a minha aflição e livra-me, porque não me tenho esquecido da tua lei.
+
+[[v21-118-154]]
+
+^<<v21-118-154,154>>^ Defende a minha causa e resgata-me; dá-me a vida segundo a tua palavra.
+
+[[v21-118-155]]
+
+^<<v21-118-155,155>>^ A salvação está longe dos pecadores, porque não cuidam (do cumprimento) dos teus estatutos.
+
+[[v21-118-156]]
+
+^<<v21-118-156,156>>^ Muitas são, Senhor, as tuas misericórdias; dá-me a vida segundo os teus decretos.
+
+[[v21-118-157]]
+
+^<<v21-118-157,157>>^ Muitos são os que me perseguem e me atribulam: eu porém não me desvio das tuas prescrições.
+
+[[v21-118-158]]
+
+^<<v21-118-158,158>>^ Vi os prevaricadores e senti desgosto, porque eles não guardaram a tua palavra.
+
+[[v21-118-159]]
+
+^<<v21-118-159,159>>^ Vê, Senhor, que amo os teus preceitos; conserva-me a vida pela tua misericórdia.
+
+[[v21-118-160]]
+
+^<<v21-118-160,160>>^ A excelência capital da tua palavra é a constância, e é eterno todo o decreto da tua justiça.
+
+[[v21-118-161]]
+
+^<<v21-118-161,161>>^ Os príncipes perseguem-me sem causa, porém o meu coração teme, reverente, as tuas palavras.
+
+[[v21-118-162]]
+
+^<<v21-118-162,162>>^ Alegro-me com as tuas palavras, como quem encontra muitos despojos.
+
+[[v21-118-163]]
+
+^<<v21-118-163,163>>^ Odeio e detesto a iniquidade; amo a tua lei.
+
+[[v21-118-164]]
+
+^<<v21-118-164,164>>^ Sete vezes ao dia te dirijo louvores por teus justos juízos.
+
+[[v21-118-165]]
+
+^<<v21-118-165,165>>^ Gozam muita paz os que amam a tua lei, e não há para eles nenhuma ocasião de queda.
+
+[[v21-118-166]]
+
+^<<v21-118-166,166>>^ Espero o teu auxílio, ó Senhor, e ponho em prática os teus mandamentos.
+
+[[v21-118-167]]
+
+^<<v21-118-167,167>>^ A minha alma guarda as tuas prescrições, e ardentemente as ama.
+
+[[v21-118-168]]
+
+^<<v21-118-168,168>>^ Guardo os teus preceitos, as tuas ordens, porque todos os meus caminhos estão presentes aos teus olhos.
+
+[[v21-118-169]]
+
+^<<v21-118-169,169>>^ Chegue, Senhor, a minha súplica à tua presença: instrui-me segundo a tua palavra.
+
+[[v21-118-170]]
+
+^<<v21-118-170,170>>^ Chegue a minha petição à tua presença: livra-me segundo a tua palavra.
+
+[[v21-118-171]]
+
+^<<v21-118-171,171>>^ Os meus lábios rompam num hino (em teu louvor), quando me ensinares os teus estatutos.
+
+[[v21-118-172]]
+
+^<<v21-118-172,172>>^ Cante a minha língua a tua palavra, porque todos os teus mandamentos são justos.
+
+[[v21-118-173]]
+
+^<<v21-118-173,173>>^ Assista-me a tua mão para me socorrer, porque escolhi os teus preceitos.
+
+[[v21-118-174]]
+
+^<<v21-118-174,174>>^ Desejo, ó Senhor, de ti a salvação, e a tua lei é a minha delícia.
+
+[[v21-118-175]]
+
+^<<v21-118-175,175>>^ Viva a minha alma e te louve, e os teus decretos me socorram.
+
+[[v21-118-176]]
+
+^<<v21-118-176,176>>^ Ando errante, como ovelha que se desgarrou; busca o teu servo, porque me não esqueci dos teus mandamentos.
+
+'''
+
+xref:021-salmos/021-salmos-117.adoc#v21-117-0[&#60; Capítulo Anterior] | <<v21-118-0,Topo>> | xref:021-salmos/021-salmos-119.adoc#v21-119-0[Próximo Capítulo &#62;]

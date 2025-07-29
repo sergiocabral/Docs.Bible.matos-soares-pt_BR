@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v53-2-0]]
+=== I Coríntios, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Coríntios 2 trata sobre a sabedoria de Deus e como ela é revelada por meio do Espírito Santo. Paulo argumenta que essa sabedoria não é acessível através da sabedoria humana, mas somente através do Espírito Santo, que capacita os crentes a entenderem as coisas de Deus. Além disso, ele enfatiza que os líderes cristãos devem falar com sabedoria espiritual, e não com persuasão humana, para que a fé dos crentes esteja firmada em Deus e não em homens.
+* Provérbios 2:6: "Porque o SENHOR dá a sabedoria; da sua boca é que vem o conhecimento e o entendimento." Este versículo enfatiza que a sabedoria vem de Deus e não pode ser alcançada por meio da sabedoria humana.
+* Isaías 64:4: "Porque desde a antiguidade não se ouviu, nem com ouvidos se percebeu, nem com os olhos se viu um Deus além de ti, que trabalhe para aquele que nele espera." Este versículo enfatiza que Deus é incomparável e que Ele age em favor daqueles que confiam Nele.
+* Romanos 11:33: "Ó profundidade da riqueza, tanto da sabedoria como do conhecimento de Deus! Quão insondáveis são os seus juízos, e quão inescrutáveis, os seus caminhos!" Este versículo destaca a incompreensibilidade da sabedoria e conhecimento de Deus para a mente humana.
+* 1 João 2:20: "E vós possuís unção da parte daquele que é santo, e todos tendes conhecimento." Este versículo destaca a importância da unção do Espírito Santo na vida do crente, que capacita o conhecimento e a compreensão das coisas de Deus.
+* Tiago 1:5: "E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e não o lança em rosto; e ser-lhe-á dada." Este versículo enfatiza que a sabedoria de Deus está disponível para aqueles que a buscam humildemente.
+****
+
+[[v53-2-1]]
+
+^<<v53-2-1,1>>^ Eu, pois, quando fui ter convosco, Irmãos, anunciar-vos o testemunho de Deus, não fui com sublimidade de estilo ou de sabedoria.
+
+[[v53-2-2]]
+
+^<<v53-2-2,2>>^ Porque julguei que não devia saber coisa alguma entre vós (para vos pregar) senão a Jesus Cristo, e Jesus Cristo crucificado.
+
+[[v53-2-3]]
+
+^<<v53-2-3,3>>^ Estive entre vós com fraqueza, temor e grande tremor;
+
+[[v53-2-4]]
+
+^<<v53-2-4,4>>^ a minha conversação e a minha pregação não tinham nada da linguagem persuasiva da sabedoria, mas eram manifestação do Espírito e do poder (de Deus),
+
+[[v53-2-5]]
+
+^<<v53-2-5,5>>^ para que a vossa fé se não baseie sobre a sabedoria dos homens, mas sobre o poder de Deus.
+
+[[v53-2-6]]
+
+^<<v53-2-6,6>>^ Não obstante, é a sabedoria que nós pregamos entre os perfeitos; não, porém, uma sabedoria deste século, nem dos príncipes deste século, que são destruídos,
+
+[[v53-2-7]]
+
+^<<v53-2-7,7>>^ mas pregamos a misteriosa sabedoria de Deus, que está encoberta, e que Deus predestinou antes dos séculos para nossa glória,
+
+[[v53-2-8]]
+
+^<<v53-2-8,8>>^ a qual nenhum dos príncipes deste século conheceu, porque, se a tivessem conhecido, nunca teriam crucificado o Senhor da glória.
+
+[[v53-2-9]]
+
+^<<v53-2-9,9>>^ Mas, como está escrito: Nem o olho viu, nem o ouvido ouviu, nem entrou no coração do homem (Is. 64, 4), o que Deus preparou para aqueles que o amam;
+
+[[v53-2-10]]
+
+^<<v53-2-10,10>>^ a nós, porém, Deus revelou-o por meio do seu Espírito, visto que o Espírito tudo penetra, mesmo as profundezas de Deus.
+
+[[v53-2-11]]
+
+^<<v53-2-11,11>>^ Com efeito, qual dos homens conhece as coisas que são do homem, senão o espírito do homem, que está nele? Assim, também, as coisas que são de Deus ninguém as conhece, senão o Espírito de Deus.
+
+[[v53-2-12]]
+
+^<<v53-2-12,12>>^ Ora nós não recebemos o espírito deste mundo, mas o Espírito que vem de Deus, para conhecermos as coisas que por Deus nos foram dadas,
+
+[[v53-2-13]]
+
+^<<v53-2-13,13>>^ as quais também anunciamos, não com palavras doutas de humana sabedoria, mas com a doutrina do Espírito, exprimindo em termos espirituais as coisas espirituais.
+
+[[v53-2-14]]
+
+^<<v53-2-14,14>>^ O homem natural não percebe aquelas coisas que são do Espírito de Deus, porque, para ele, são uma estultícia, e não as pode entender, pois elas ponderam-se espiritualmente.
+
+[[v53-2-15]]
+
+^<<v53-2-15,15>>^ Porém o homem espiritual julga (bem) todas as coisas, e não é julgado por ninguém.
+
+[[v53-2-16]]
+
+^<<v53-2-16,16>>^ De fato, quem conheceu o pensamento do Senhor, para que o possa instruir (Is. 40, 13)? Nós, porém, temos o pensamento de Cristo.
+
+'''
+
+xref:053-i-corintios/053-i-corintios-001.adoc#v53-1-0[&#60; Capítulo Anterior] | <<v53-2-0,Topo>> | xref:053-i-corintios/053-i-corintios-003.adoc#v53-3-0[Próximo Capítulo &#62;]

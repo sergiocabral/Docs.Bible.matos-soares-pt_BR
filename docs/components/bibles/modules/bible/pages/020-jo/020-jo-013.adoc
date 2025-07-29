@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v20-13-0]]
+=== Jó, 13
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 13 de Jó é um dos mais dramáticos do livro, onde Jó responde a seus amigos que o acusam de ter cometido algum pecado que justificaria suas aflições. Jó defende sua inocência e até mesmo acusa a Deus de oprimir o justo. Os versículos selecionados estão relacionados a temas como justiça, fé, redenção e esperança em Deus:
+* Salmos 119:75: "Eu sei, ó Senhor, que teus juízos são justos, e que com fidelidade me afligiste." Este versículo fala sobre a justiça de Deus e como ele usa as aflições para nos ensinar e nos moldar.
+* Hebreus 11:1: "Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que não se veem." Jó é um exemplo de fé inabalável em meio às dificuldades, mesmo sem entender o propósito de suas aflições.
+* Salmos 130:7: "Espere Israel no Senhor, porque no Senhor há misericórdia, e nele há abundante redenção." Este versículo fala sobre a esperança em Deus e sua misericórdia, que traz redenção e libertação.
+* Isaías 40:31: "Mas os que esperam no Senhor renovarão as suas forças, subirão com asas como águias, correrão e não se cansarão, caminharão e não se fatigarão." Este versículo fala sobre a renovação daqueles que esperam em Deus e como ele fortalece e sustenta aqueles que confiam nele.
+* Romanos 5:3-5: "E não somente isso, mas também nos gloriamos nas tribulações, sabendo que a tribulação produz perseverança; e a perseverança, experiência; e a experiência, esperança. E a esperança não nos decepciona, porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado." Este versículo fala sobre a esperança que nasce em meio às tribulações e como Deus usa as dificuldades para nos moldar e nos dar experiência.
+****
+
+[[v20-13-1]]
+
+^<<v20-13-1,1>>^ Eis que os meus olhos viram todas estas coisas, e o meu ouvido as ouviu, e as compreendi todas.
+
+[[v20-13-2]]
+
+^<<v20-13-2,2>>^ Aquilo que vós sabeis também eu o sei, não vos sou inferior.
+
+[[v20-13-3]]
+
+^<<v20-13-3,3>>^ Contudo, falarei ao Omnipotente, e com Deus desejo conversar,
+
+[[v20-13-4]]
+
+^<<v20-13-4,4>>^ pois vós sois forjadores de mentiras, sois médicos que nada curais.
+
+[[v20-13-5]]
+
+^<<v20-13-5,5>>^ E oxalá que vós vos calásseis, para poderdes passar por sábios.
+
+[[v20-13-6]]
+
+^<<v20-13-6,6>>^ Ouvi, pois, a minha refutação, e atendei ao juízo dos meus lábios.
+
+[[v20-13-7]]
+
+^<<v20-13-7,7>>^ Porventura necessita Deus dás vossas mentiras, para que em sua defesa faleis com fraude?
+
+[[v20-13-8]]
+
+^<<v20-13-8,8>>^ Porventura quereis fazer, em favor de Deus, acepção de pessoas, quereis ser advogados da sua causa?
+
+[[v20-13-9]]
+
+^<<v20-13-9,9>>^ Seria do vosso agrado que ele vos examinasse ? Enganá-lo-eis como se engana um homem?
+
+[[v20-13-10]]
+
+^<<v20-13-10,10>>^ Ele mesmo vos condenará, se secretamente fazeis acepção de pessoas.
+
+[[v20-13-11]]
+
+^<<v20-13-11,11>>^ Sim, a sua majestade vos perturbará, e o seu terror cairá sobre vós.
+
+[[v20-13-12]]
+
+^<<v20-13-12,12>>^ Os vossos argumentos são razões de pó, as vossas defesas são de barro.
+
+[[v20-13-13]]
+
+^<<v20-13-13,13>>^ Calai-vos por um pouco, deixai-me falar, e venha sobre mim o que vier.
+
+[[v20-13-14]]
+
+^<<v20-13-14,14>>^ Por que lacero eu as minhas carnes com os meus dentes, e por que trago eu a minha vida nas minhas mãos?
+
+[[v20-13-15]]
+
+^<<v20-13-15,15>>^ A inda que ele me mate, nele esperarei; mas defenderei na sua presença o meu proceder.
+
+[[v20-13-16]]
+
+^<<v20-13-16,16>>^ E ele será o meu Salvador, porque nenhum ímpio ousará aparecer diante dos seus olhos.
+
+[[v20-13-17]]
+
+^<<v20-13-17,17>>^ Ouvi as minhas palavras, dai ouvidos ao meu discorrer.
+
+[[v20-13-18]]
+
+^<<v20-13-18,18>>^ Se eu for julgado, sei que ei-de ser encontrado justo.
+
+[[v20-13-19]]
+
+^<<v20-13-19,19>>^ Quem há que queira entrar comigo em juízo? Venha : por que me consumo eu em silêncio? (ver nota)
+
+[[v20-13-20]]
+
+^<<v20-13-20,20>>^ Duas coisas sòmente te peço (ó Senhor) que me faças, e então não me esconderei da tua face:
+
+[[v20-13-21]]
+
+^<<v20-13-21,21>>^ Afasta de mim a tua mão, e não me consterne o teu terror.
+
+[[v20-13-22]]
+
+^<<v20-13-22,22>>^ Chama por mim, e eu te responderei; ou então falarei eu, e tu responde-me.
+
+[[v20-13-23]]
+
+^<<v20-13-23,23>>^ Quantas iniquidades e pecados tenho eu? Mostra-me as minhas maldades e delitos.
+
+[[v20-13-24]]
+
+^<<v20-13-24,24>>^ Por que escondes tu de mim o teu rosto, e por que me consideras teu inimigo?
+
+[[v20-13-25]]
+
+^<<v20-13-25,25>>^ Contra uma folha que é arrebatada ao vento, queres mostrar o teu poder, perseguir uma palha seca?
+
+[[v20-13-26]]
+
+^<<v20-13-26,26>>^ Com efeito, escreves contra mim amarguras, e queres-me consumir pelos pecados de minha mocidade.
+
+[[v20-13-27]]
+
+^<<v20-13-27,27>>^ Tu puseste os meus pés no cepo, observaste todas as minhas veredas (ou ações), consideraste os vestígios de meus pés,
+
+[[v20-13-28]]
+
+^<<v20-13-28,28>>^ sendo certo que eu sou consumido como podridão, como um vestido que é comido pela traça.
+
+'''
+
+xref:020-jo/020-jo-012.adoc#v20-12-0[&#60; Capítulo Anterior] | <<v20-13-0,Topo>> | xref:020-jo/020-jo-014.adoc#v20-14-0[Próximo Capítulo &#62;]

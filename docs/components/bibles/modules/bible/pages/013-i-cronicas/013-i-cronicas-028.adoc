@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v13-28-0]]
+=== I Crônicas, 28
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 28 de 1 Crônicas trata do discurso de Davi aos líderes de Israel, onde ele se prepara para passar a liderança a seu filho Salomão e instrui sobre a construção do templo. Davi revela que Deus escolheu Salomão como seu sucessor e exorta os líderes de Israel a apoiá-lo e a obedecerem a Deus em todas as coisas. Ele também fornece instruções específicas sobre o design e a construção do templo.
+* Salmos 127:1: "Se o Senhor não edificar a casa, em vão trabalham os que a edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela." Este versículo destaca a importância da dependência de Deus na construção da casa do Senhor, que é o templo.
+* 1 Crônicas 22:19: "Dá, pois, agora ordem para que se cortem cedros do Líbano para mim; e os meus servos estarão com os teus servos, e te darei o salário dos teus servos, conforme tudo o que disseres; porque tu sabes que entre nós ninguém há que saiba cortar madeira como os sidônios." Este versículo mostra a preparação de Davi para a construção do templo, incluindo a obtenção de madeira do Líbano.
+* 1 Crônicas 28:9: "E tu, Salomão, meu filho, conhece o Deus de teu pai, e serve-o com um coração perfeito e com uma alma voluntária; porque esquadrinha o Senhor todos os corações, e penetra todos os desígnios dos pensamentos; se o buscares, será achado de ti; porém, se o deixares, rejeitar-te-á para sempre." Este versículo destaca a importância de Salomão conhecer e servir a Deus em todo o seu coração na construção do templo.
+* 1 Crônicas 28:11-12: "Então deu Davi a Salomão, seu filho, a planta do pórtico do templo, e das suas casas, e dos seus tesouros, e dos seus cenáculos, e das suas câmaras interiores, e da casa do propiciatório; e a planta de tudo quanto tinha em mente, pelo Espírito, das átrias da casa do Senhor, e de todas as câmaras ao redor, para os tesouros da casa de Deus, e para os tesouros das coisas santas." Este versículo mostra como Davi deu instruções específicas e detalhadas para Salomão sobre a construção do templo.
+* 1 Crônicas 28:20: "E disse Davi a Salomão, seu filho: Sê forte e corajoso, e faze a obra; não temas, nem te desanimes, porque o Senhor Deus, meu Deus, será contigo; não te deixará, nem te desamparará, até que acabes toda a obra do serviço da casa do Senhor." Este versículo mostra a exortação de Davi a Salomão para ser forte e corajoso na construção do templo, lembrando-lhe da presença e apoio de Deus.
+****
+
+[[v13-28-1]]
+
+^<<v13-28-1,1>>^ Convocou Davide em Jerusalém todos os príncipes de Israel, os chefes das tribos, os chefes das divisões que serviam o rei, e também os chefes de milhar e centuriões, os administradores da fazenda e possessões do rei e de seus filhos, assim como os eunucos e os mais poderosos e valorosos do exército.
+
+[[v13-28-2]]
+
+^<<v13-28-2,2>>^ Tendo-se o rei levantado e posto em pé, disse: Ouvi-me, irmãos meus e povo meu: Eu tinha intenção de edificar uma casa de repouso para a arca da aliança do Senhor e o escabelo dos pés do nosso Deus, e tenho preparado tudo o necessário para a construção do edifício.
+
+[[v13-28-3]]
+
+^<<v13-28-3,3>>^ Deus, porém, disse-me: Tu não edificarás uma casa ao meu nome, porque és um homem guerreiro, tens derramado sangue.
+
+[[v13-28-4]]
+
+^<<v13-28-4,4>>^ Todavia o Senhor Deus de Israel escolheu-me dentre toda a casa de meu pai, para me fazer rei de Israel para sempre, porque de Judá escolheu os príncipes, e da casa de Judá escolheu a casa de meu pai, e entre os filhos de meu pai, dignou-se escolher-me a mim, para me constituir rei sobre todo o Israel.
+
+[[v13-28-5]]
+
+^<<v13-28-5,5>>^ E até dentre os meus filhos (porque o Senhor deu-me muitos filhos) escolheu o meu filho Salomão, para se sentar no trono do reino do Senhor sobre Israel,
+
+[[v13-28-6]]
+
+^<<v13-28-6,6>>^ e disse-me: Teu filho Salomão edificará a minha casa e os meus átrios, porque eu o escolhi para meu filho, e eu serei seu pai.
+
+[[v13-28-7]]
+
+^<<v13-28-7,7>>^ Firmarei para sempre o seu reino, se perseverar em cumprir os meus preceitos e as minhas leis, como ele o faz ao presente.
+
+[[v13-28-8]]
+
+^<<v13-28-8,8>>^ Agora, na presença de todo o ajuntamento de Israel, ouvindo o nosso Deus (eu digo); Guardai e estudai todos os mandamentos do Senhor, nosso Deus, a fim de possuirdes esta terra cheia de bens e de a deixardes para sempre a vossos filhos, depois de vós.
+
+[[v13-28-9]]
+
+^<<v13-28-9,9>>^ E tu, meu filho Salomão, conhece o Deus de teu pai, serve-o com um coração perfeito e uma plena vontade, porque o Senhor sonda todos os corações e penetra todos os pensamentos do espírito. Se tu o buscares, ele se deixará encontrar por ti, mas, se o deixares, ele te rejeitará para sempre.
+
+[[v13-28-10]]
+
+^<<v13-28-10,10>>^ Agora, pois, já que o Senhor te escolheu para edificares a casa do santuário, anima-te e completa a obra.
+
+[[v13-28-11]]
+
+^<<v13-28-11,11>>^ Davide deu a Salomão, seu filho, o desenho do pórtico e do templo, das suas oficinas, das suas salas, dos seus aposentos interiores, da casa da propiciação,
+
+[[v13-28-12]]
+
+^<<v13-28-12,12>>^ e também o de todos os átrios que ele tinha mentalmente delineado, e o dos quartos que devia haver em roda para os tesouros da casa do Senhor, para os depósitos das coisas consagradas,
+
+[[v13-28-13]]
+
+^<<v13-28-13,13>>^ para as classes dos sacerdotes e dos Levitas, para toda a obra do serviço da casa do Senhor, e para todos os vasos consagrados ao serviço do templo do Senhor.
+
+[[v13-28-14]]
+
+^<<v13-28-14,14>>^ (Deu-lhe) o modelo dos utensílios de ouro, com o peso que devia ter cada um dos vasos do ministério. Também especificou o peso da prata, segundo a diversidade dos vasos e dos feitios, de que deu o modelo.
+
+[[v13-28-15]]
+
+^<<v13-28-15,15>>^ E para os candeeiros de ouro, e para as suas lâmpadas deu também o peso do ouro, segundo o tamanho de cada candeeiro e das lâmpadas. Do mesmo modo, para os candeeiros de prata e para as suas lâmpadas, deu o peso de prata, segundo a diversidade dos tamanhos.
+
+[[v13-28-16]]
+
+^<<v13-28-16,16>>^ Deu também o peso do ouro para as mesas dos pães da proposição, segundo a diversidade das mesas, e igualmente o peso da prata para outras mesas de prata.
+
+[[v13-28-17]]
+
+^<<v13-28-17,17>>^ Também deu o modelo para os garfos, copos, turíbulos de ouro puríssimo, para os leõezinhos de ouro, segundo os seus tamanhos, e destinou o peso de ouro para cada um dos leõezinhos. Do mesmo modo para os leões de prata determinou o peso da prata.
+
+[[v13-28-18]]
+
+^<<v13-28-18,18>>^ E para o altar, em que se queima o incenso, deu do ouro mais fino, para que dele se fizesse a figura dum carro de querubins, que estendessem as suas asas, e cobrissem a arca da aliança do Senhor.
+
+[[v13-28-19]]
+
+^<<v13-28-19,19>>^ Todas estas coisas, disse o rei, todas as obras deste modelo me foram dadas escritas pela mão de Deus.
+
+[[v13-28-20]]
+
+^<<v13-28-20,20>>^ Disse mais Davide a seu filho Salomão: Procede varonilmente, anima-te e mete mãos à obra; não temas nada, não desanimes, porque, o Senhor meu Deus será contigo, não te abandonará, nem te desamparará, até que tenhas concluído toda a obra para o serviço da casa do Senhor.
+
+[[v13-28-21]]
+
+^<<v13-28-21,21>>^ Eis as classes dos sacerdotes e dos Levitas, que estão diante de ti, e estão prontos para todo o serviço da casa do Senhor, e assim os chefes como o povo saberão executar todas as tuas ordens.
+
+'''
+
+xref:013-i-cronicas/013-i-cronicas-027.adoc#v13-27-0[&#60; Capítulo Anterior] | <<v13-28-0,Topo>> | xref:013-i-cronicas/013-i-cronicas-029.adoc#v13-29-0[Próximo Capítulo &#62;]

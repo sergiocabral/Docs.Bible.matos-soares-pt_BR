@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v28-43-0]]
+=== Eclesiástico, 43
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Eclesiástico 43 é um poema que descreve a grandeza e a beleza da criação divina, enfatizando a majestade do céu e das estrelas, bem como a variedade de seres vivos na terra. Aqui estão cinco versículos da Bíblia que se relacionam com os temas abordados em Eclesiástico 43:
+* Salmos 8:3-4: "Quando vejo os teus céus, obra dos teus dedos, a lua e as estrelas que preparaste; Que é o homem mortal para que te lembres dele? E o filho do homem, para que o visites?" Este salmo fala da admiração do salmista pela criação de Deus e a pequenez da humanidade diante dela.
+* Salmos 19:1: "Os céus declaram a glória de Deus e o firmamento anuncia a obra das suas mãos." Este versículo destaca a grandiosidade do céu como testemunha da grandeza e do poder divino.
+* Jó 12:7-10: "Mas pergunta agora às alimárias, e cada uma delas te ensinará; e às aves dos céus, e elas te farão saber; Ou fala com a terra, e ela te ensinará; até os peixes do mar te declararão. Quem não entende por todas estas coisas que a mão do Senhor fez isto?" Jó reconhece a sabedoria e a grandeza da criação divina e o papel que cada criatura tem em sua obra.
+* Provérbios 8:27-28: "Quando ele estabelecia os céus, ali estava eu; quando traçava o horizonte sobre a face do abismo; Quando firmava as nuvens acima; quando fortificava as fontes do abismo;" Este capítulo personifica a sabedoria como tendo um papel na criação divina e descreve como Deus ordenou o universo.
+* Romanos 1:20: "Porque as suas coisas invisíveis, desde a criação do mundo, tanto o seu eterno poder, como a sua divindade, se entendem, e claramente se veem pelas coisas que estão criadas, para que eles fiquem inescusáveis;" Paulo afirma que a criação de Deus é um testemunho poderoso da sua existência e divindade.
+****
+
+[[v28-43-1]]
+
+^<<v28-43-1,1>>^ O firmamento é a formosura do céu, e a abóbada celeste é um espectáculo de majestade.
+
+[[v28-43-2]]
+
+^<<v28-43-2,2>>^ O Sol, ao sair, glorifica o Senhor; é um vaso admirável, uma obra do Excelso.
+
+[[v28-43-3]]
+
+^<<v28-43-3,3>>^ Ao meio-dia queima a terra; quem pode suportar o seu ardor? O ferreiro serve-se da forja para trabalhar ao fogo;
+
+[[v28-43-4]]
+
+^<<v28-43-4,4>>^ O Sol abrasa três vezes mais os montes, despedindo raios de fogo, cujo resplendor deslumbra os olhos.
+
+[[v28-43-5]]
+
+^<<v28-43-5,5>>^ Grande é o Senhor que o criou; ele apressa a sua carreira para lhe obedecer.
+
+[[v28-43-6]]
+
+^<<v28-43-6,6>>^ A lua, em todas as suas revoluções, é a marca dos tempos e o sinal do futuro.
+
+[[v28-43-7]]
+
+^<<v28-43-7,7>>^ Os dias de festa são determinados pela lua, cujo brilho diminui, depois de atingir o máximo.
+
+[[v28-43-8]]
+
+^<<v28-43-8,8>>^ O mês toma dela o nome; ela cresce, dum modo admirável, até ficar cheia.
+
+[[v28-43-9]]
+
+^<<v28-43-9,9>>^ É o farol dos exércitos das alturas; brilha gloriosamente no firmamento dos céus.
+
+[[v28-43-10]]
+
+^<<v28-43-10,10>>^ O brilho das estrelas é a beleza do céu, (por elas) o Senhor ilumina o mundo nas alturas.
+
+[[v28-43-11]]
+
+^<<v28-43-11,11>>^ A palavra do Santo estão prontas a executar as suas ordens, e nunca se cansam de fazer sentinela.
+
+[[v28-43-12]]
+
+^<<v28-43-12,12>>^ Contempla o arco-íris e bem-dize aquele que o fez; é muito formoso no seu resplendor.
+
+[[v28-43-13]]
+
+^<<v28-43-13,13>>^ Ele cerca o céu com um círculo de glória; são as mãos do Excelso que o estendem.
+
+[[v28-43-14]]
+
+^<<v28-43-14,14>>^ O Senhor com o seu império faz precipitar a neve, e acelera os raios (para a execução) dos seus juízos.
+
+[[v28-43-15]]
+
+^<<v28-43-15,15>>^ Por esta causa se abrem os seus tesouros, e voam as nuvens como aves. (ver nota)
+
+[[v28-43-16]]
+
+^<<v28-43-16,16>>^ Pela grandeza do seu poder condensa as nuvens, e fragmentam-se as pedras da saraiva. (ver nota)
+
+[[v28-43-17]]
+
+^<<v28-43-17,17>>^ Quando ele aparece, abalam-se os montes, e ao seu querer, sopra o vento do meio-dia.
+
+[[v28-43-18]]
+
+^<<v28-43-18,18>>^ A voz do seu trovão fere a terra, a tempestade do norte e o redemoinho dos ventos (causam destruição).
+
+[[v28-43-19]]
+
+^<<v28-43-19,19>>^ Espalha a neve como aves que pousam sobre a terra; ela cai na terra como gafanhotos que se abatem sobre o solo.
+
+[[v28-43-20]]
+
+^<<v28-43-20,20>>^ Os olhos admiram a beleza da sua brancura, e o coração maravilha-se de a ver cair.
+
+[[v28-43-21]]
+
+^<<v28-43-21,21>>^ Ele derrama sobre a terra a geada como sal; quando esta se congela, torna-se como em pontas de abrolhos.
+
+[[v28-43-22]]
+
+^<<v28-43-22,22>>^ Sopra o vento frio do norte, e a água congela como um cristal, que repousa sobre todos os depósitos de águas, revestindo-as como de uma couraça.
+
+[[v28-43-23]]
+
+^<<v28-43-23,23>>^ Devora os montes, queima os desertos, seca a verdura como fogo.
+
+[[v28-43-24]]
+
+^<<v28-43-24,24>>^ O remédio de todos estes males é uma nuvem que venha depressa; um orvalho, que sobrevenha temperado, abrandará o seu rigor.
+
+[[v28-43-25]]
+
+^<<v28-43-25,25>>^ A uma palavra sua, acalma-se o vento; só com o seu pensar, aplaca o mar profundo, no meio do qual o Senhor plantou as ilhas.
+
+[[v28-43-26]]
+
+^<<v28-43-26,26>>^ Os que navegam sobre o mar, contem os seus perigos, que nós, escutando-os nos admiraremos.
+
+[[v28-43-27]]
+
+^<<v28-43-27,27>>^ Ali se encontram obras preclaras e maravilhosas, alimárias de todas as espécies e criaturas monstruosas.
+
+[[v28-43-28]]
+
+^<<v28-43-28,28>>^ Graças a ele tudo pende para o seu fim, por uma ordem estável; a sua palavra regula todas as coisas. (ver nota)
+
+[[v28-43-29]]
+
+^<<v28-43-29,29>>^ Por muito que digamos, muito nos ficará por dizer, mas o resumo de todo o nosso discurso é este: Ele está em todas as coisas.
+
+[[v28-43-30]]
+
+^<<v28-43-30,30>>^ Que podemos nós para o glorificar? Sendo o Todo-Poderoso, é superior a todas as suas obras.
+
+[[v28-43-31]]
+
+^<<v28-43-31,31>>^ O Senhor é terrível e soberanamente grande, maravilhoso o seu poder.
+
+[[v28-43-32]]
+
+^<<v28-43-32,32>>^ Glorificai o Senhor quanto puderdes, que ele ficará sempre acima (dos vossos louvores), porque é admirável a sua magnificência.
+
+[[v28-43-33]]
+
+^<<v28-43-33,33>>^ Bem-dizei o Senhor, exaltai-o quanto puderdes, porque ele está acima de todo o louvor.
+
+[[v28-43-34]]
+
+^<<v28-43-34,34>>^ Para o exaltar, revesti-vos de toda a fortaleza, não vos canseis (de o exaltar), porque jamais chegareis ao fim. (ver nota)
+
+[[v28-43-35]]
+
+^<<v28-43-35,35>>^ Quem o poderá ver e descrever? Quem o poderá engrandecer, como ele é, desde o princípio?
+
+[[v28-43-36]]
+
+^<<v28-43-36,36>>^ Muitas obras suas, maiores do que estas, nos são escondidas, pois nós somente vemos um pequeno número delas.
+
+[[v28-43-37]]
+
+^<<v28-43-37,37>>^ O Senhor fez todas as coisas, e deu sabedoria aos que vivem piamente.
+
+'''
+
+xref:028-eclesiastico/028-eclesiastico-042.adoc#v28-42-0[&#60; Capítulo Anterior] | <<v28-43-0,Topo>> | xref:028-eclesiastico/028-eclesiastico-044.adoc#v28-44-0[Próximo Capítulo &#62;]

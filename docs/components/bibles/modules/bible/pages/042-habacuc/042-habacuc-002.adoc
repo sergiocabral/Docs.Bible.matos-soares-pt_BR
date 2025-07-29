@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v42-2-0]]
+=== Habacuc, 2
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 2 de Habacuque começa com o profeta clamando a Deus em relação à injustiça e ao mal que vê ao seu redor. Deus responde e diz que Ele punirá os opressores e que a justiça prevalecerá. Em seguida, Habacuque recebe a instrução de escrever uma visão que se cumprirá no tempo certo. O capítulo continua a descrever a arrogância e a cobiça dos que estão sendo julgados por Deus. Abaixo estão cinco versículos relacionados aos temas tratados em Habacuque 2:
+* Provérbios 16:18: "O orgulho precede a ruína; o espírito altivo, a queda." Este versículo fala sobre a queda daqueles que se tornam arrogantes e pensam que são superiores aos outros. Isso se relaciona com o tema de Habacuque 2 porque as pessoas que estão sendo julgadas por Deus são descritas como orgulhosas e arrogantes.
+* Ezequiel 18:12: "Oprime o pobre e necessitado, exige pagamento de juros. Não empresta com equidade, nem aceita juros. Ele certamente não sobreviverá! Praticou todas essas abominações; certamente morrerá, e o seu sangue cairá sobre ele." Esse versículo fala sobre a injustiça de exigir juros exorbitantes dos pobres e necessitados. Isso se relaciona com o tema de Habacuque 2 porque as pessoas que estão sendo julgadas por Deus são descritas como cobiçosas e exploradoras.
+* Oséias 12:7: "O comerciante tem balanças falsas em suas mãos; ele adora oprimir." Este versículo fala sobre a injustiça de trapacear nos negócios para ganhar vantagem. Isso se relaciona com o tema de Habacuque 2 porque as pessoas que estão sendo julgadas por Deus são descritas como enganadoras e trapaceiras.
+* Isaías 5:8: "Ai dos que acrescentam casa a casa e juntam campo a campo, até que não sobre mais lugar e sejam os únicos a habitar no país!" Esse versículo fala sobre a ganância e a cobiça de acumular riqueza e propriedade. Isso se relaciona com o tema de Habacuque 2 porque as pessoas que estão sendo julgadas por Deus são descritas como avarentas e egoístas.
+* Jeremias 22:17: "Mas os teus olhos e o teu coração não visam senão o teu lucro, e a inocente destruíste e mataste com crueldade." Este versículo fala sobre a ganância e a falta de consideração pelos outros. Isso se relaciona com o tema de Habacuque 2 porque as pessoas que estão sendo julgadas por Deus são descritas como cruéis e desumanas.
+****
+
+[[v42-2-1]]
+
+^<<v42-2-1,1>>^ Estarei alerta (entretanto), fazendo a minha sentinela (como projeta de Israel), e permanecerei de pé sobre as fortificações; olharei atentamente para ver o que me vai dizer o Senhor e o que hei-de responder à advertência recebida.
+
+[[v42-2-2]]
+
+^<<v42-2-2,2>>^ Então respondeu-me o Senhor, dizendo; Escreve o que vês e nota-o sobre tabuinhas (de escrever), para que se possa ler correntemente.
+
+[[v42-2-3]]
+
+^<<v42-2-3,3>>^ Porque a visão é apenas para o tempo devido, mas enfim ela se cumprirá, não faltará; se tardar, espera-a, porque infalivelmente virá, não faltará.
+
+[[v42-2-4]]
+
+^<<v42-2-4,4>>^ Eis que sucumbe o que não tem a alma recta, mas o justo viverá pela sua fidelidade.
+
+[[v42-2-5]]
+
+^<<v42-2-5,5>>^ Assim como o vinho engana quem o bebe, assim o homem soberbo perderá o seu brilho, ele que dilata como o inferno a sua alma, e é insaciável como a morte, que junta sob o seu domínio todas as nações e amontoa junto de si todos os povos.
+
+[[v42-2-6]]
+
+^<<v42-2-6,6>>^ Porventura não virá ele a ser a fábula de todos estes, e o objecto dos seus (satíricos) provérbios? Dir-se-á; Ai daquele que acumula o que não é seu até quando? — daquele que acumula sobre si o peso da dívida!
+
+[[v42-2-7]]
+
+^<<v42-2-7,7>>^ Porventura (ó mau) não se levantarão de repente os teus credores, não despertarão os teus exactores? Serás presa deles.
+
+[[v42-2-8]]
+
+^<<v42-2-8,8>>^ Visto que despojaste muitas nações, despojar-te-ão todos os outros povos, por causa do sangue humano (que derramaste), das violências cometidas contra a terra, contra a cidade e contra todos os seus habitantes.
+
+[[v42-2-9]]
+
+^<<v42-2-9,9>>^ Ai daquele que ajunta ganhos criminosos para (estabelecer a) sua casa, a fim de colocar em lugar muito alto o seu ninho, pensando livrar-se da mão do mal!
+
+[[v42-2-10]]
+
+^<<v42-2-10,10>>^ Tu meditaste, cobrindo de vergonha a tua casa, arruinar muitos povos, comprometendo a tua própria vida.
+
+[[v42-2-11]]
+
+^<<v42-2-11,11>>^ Porque a pedra clamará da parede (contra ti), e o madeiramento que serve de travação ao edifício, lhe responderá.
+
+[[v42-2-12]]
+
+^<<v42-2-12,12>>^ Ai daquele que edifica uma cidade com sangue e que funda as suas bases na iniquidade!
+
+[[v42-2-13]]
+
+^<<v42-2-13,13>>^ Porventura o Senhor dos exércitos não fará (como castigo) isto (que se segue)? Os povos trabalharão para o fogo, e as nações fatigar-se-ão para nada. (ver nota)
+
+[[v42-2-14]]
+
+^<<v42-2-14,14>>^ Porque a terra se encherá do conhecimento da glória do Senhor, como o mar está coberto das suas águas.
+
+[[v42-2-15]]
+
+^<<v42-2-15,15>>^ Ai daquele que dá de beber ao seu próximo, misturando fel (na bebida) até o embriagar, para ver a sua nudez!
+
+[[v42-2-16]]
+
+^<<v42-2-16,16>>^ Tu (que assim procedes) serás cheio de ignomínia, em lugar de glória; bebe também até ficares ébrio; voltai-se-á sobre ti o cálice da direita do Senhor, e a abjecção cairá sobre a tua glória.
+
+[[v42-2-17]]
+
+^<<v42-2-17,17>>^ Porque a violência executada contra o Líbano recairá sobre ti, e os estragos dos animais ferozes far-te-ão tremer, por causa do sangue humano (que derramaste) e das injustiças cometidas contra a terra, contra a cidade e contra todos os seus habitantes.
+
+[[v42-2-18]]
+
+^<<v42-2-18,18>>^ De que serve a escultura para que o escultor a faça? O ídolo fundido que só ensina mentiras, para que o artista nele ponha a sua confiança, fabricando divindades mudas?
+
+[[v42-2-19]]
+
+^<<v42-2-19,19>>^ Ai daquele que diz ao pau; Desperta! e à pedra muda: Levanta-te! Porventura poder-lhe-á ela ensinar alguma coisa? Vê que ela está coberta de ouro e de prata, mas nas suas entranhas não há espírito algum.
+
+[[v42-2-20]]
+
+^<<v42-2-20,20>>^ Porém o Senhor está nó seu santo templo; cale-se toda a terra diante dele!
+
+'''
+
+xref:042-habacuc/042-habacuc-001.adoc#v42-1-0[&#60; Capítulo Anterior] | <<v42-2-0,Topo>> | xref:042-habacuc/042-habacuc-003.adoc#v42-3-0[Próximo Capítulo &#62;]

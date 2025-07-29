@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v3-9-0]]
+=== Levítico, 9
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Levítico 9 descreve a inauguração do Tabernáculo e a ordenação de Arão e seus filhos como sacerdotes. Foram realizados sacrifícios de animais e ofertas ao Senhor, e Deus enviou fogo do céu para consumir o holocausto. Abaixo estão cinco versículos relacionados aos temas abordados em Levítico 9.
+* Êxodo 29:44: "E santificarei a tenda da congregação, e o altar; também santificarei a Arão e seus filhos para que me administrem o sacerdócio." Este versículo fala sobre a santificação da tenda da congregação, do altar e dos sacerdotes, que é semelhante ao que acontece em Levítico 9.
+* Levítico 8:33: "E não saireis da porta da tenda da congregação por sete dias, até ao dia em que se cumprirem os dias da vossa consagração; porquanto por sete dias vos consagrará o Senhor." Este versículo faz referência ao período de consagração que os sacerdotes precisavam passar antes de iniciar seu serviço, o que acontece em Levítico 9.
+* Levítico 1:9: "Porém a sua fressura e as suas pernas lavar-se-ão com água; e o sacerdote queimará tudo no altar, em holocausto; oferta queimada é, de cheiro suave ao Senhor." Esse versículo faz referência à oferta de holocausto, um tipo de sacrifício que é realizado em Levítico 9.
+* Levítico 4:20: "Assim o sacerdote fará expiação por eles, e ser-lhes-á perdoado." Esse versículo fala sobre a expiação, um tema importante em Levítico 9, onde os sacrifícios eram feitos para purificar as pessoas de seus pecados.
+* Números 6:23: "Fala a Arão e a seus filhos, dizendo: Assim abençoareis os filhos de Israel, dizendo-lhes:" Este versículo fala sobre a bênção que Arão e seus filhos deveriam dar ao povo de Israel, o que é relevante em Levítico 9, onde eles se tornam sacerdotes e líderes espirituais da nação.
+****
+
+[[v3-9-1]]
+
+^<<v3-9-1,1>>^ Chegado, pois, o dia oitavo, Moisés chamou Aarão e seus filhos, e os anciães de Israel, e disse a Aarão:
+
+[[v3-9-2]]
+
+^<<v3-9-2,2>>^ Toma da manada um novilho pelo pecado, e um carneiro para o holocausto, um e outro sem defeito, e oferece-os diante do Senhor.
+
+[[v3-9-3]]
+
+^<<v3-9-3,3>>^ Dirás aos filhos de Israel: Tomai um bode pelo pecado, um novilho e um cordeiro de ano e sem defeito, para o holocausto,
+
+[[v3-9-4]]
+
+^<<v3-9-4,4>>^ um boi e um carneiro, para sacrifício pacífico, e imolai-os diante do Senhor, oferecendo no sacrifício de cada um deles flor de farinha misturada com azeite. Com efeito, hoje o Senhor vos aparecerá,
+
+[[v3-9-5]]
+
+^<<v3-9-5,5>>^ Levaram, pois, à entrada do tabernáculo tudo o que Moisés lhes ordenara: ai, enquanto toda a multidão estava em pé,
+
+[[v3-9-6]]
+
+^<<v3-9-6,6>>^ Moisés disse: Isto é o quê o Senhor mandou: Fazei-o, e a sua glória vos aparecerá.
+
+[[v3-9-7]]
+
+^<<v3-9-7,7>>^ Depois disse a Aarão: Aproxima-te do altar, e sacrifica pelo teu pecado: oferece o holocausto, e roga por ti e pelo povo: depois de teres sacrificado a vítima pelo povo, ora por ele, como o Senhor ordenou.
+
+[[v3-9-8]]
+
+^<<v3-9-8,8>>^ Logo Aarão, aproximando-se do altar, imolou o novilho pelo seu pecado,
+
+[[v3-9-9]]
+
+^<<v3-9-9,9>>^ cujo sangue lhe apresentaram os seus filhos, no qual molhando ele o dedo, tocou as pontas do altar, derramando o resto aos pés do mesmo altar.
+
+[[v3-9-10]]
+
+^<<v3-9-10,10>>^ Queimou sobre o altar a gordura, os rins, e o redanho do figado, que são pelo pecado, conforme o Senhor tinha ordenado a Moisés:
+
+[[v3-9-11]]
+
+^<<v3-9-11,11>>^ as carnes, porém, e a pele consumiu-as pelo fogo fora dos acampamentos.
+
+[[v3-9-12]]
+
+^<<v3-9-12,12>>^ Imolou também a vítima do holocausto. Os Seus filhos apresentaram-lhe o sangue dela, e ele o derramou ao redor do altar.
+
+[[v3-9-13]]
+
+^<<v3-9-13,13>>^ Apresentaram-lhe também a mesma vítima cortada em pedaços juntamente com a cabeça e todos os membros: queimou tudo isto no fogo sobre o altar,
+
+[[v3-9-14]]
+
+^<<v3-9-14,14>>^ tendo primeiro lavado em água os intestinos e as patas.
+
+[[v3-9-15]]
+
+^<<v3-9-15,15>>^ E, sacrificando pelo pecado do povo, imolou o bode. Purificado o altar,
+
+[[v3-9-16]]
+
+^<<v3-9-16,16>>^ ofereceu o holocausto,
+
+[[v3-9-17]]
+
+^<<v3-9-17,17>>^ juntando ao sacrifício as libações, que se oferecem juntamente, e queimando-as sobre o altar, além das cerimônias do holocausto da manhã.
+
+[[v3-9-18]]
+
+^<<v3-9-18,18>>^ Imolou também o boi e o carneiro, vítimas pacíficas do povo: os seus filhos apresentaram-lhe o sangue, e ele derramou-o em roda sobre o altar.
+
+[[v3-9-19]]
+
+^<<v3-9-19,19>>^ Mas a gordura do boi, e a cauda do carneiro, e os rins com a sua gordura, e o redanho do figado,
+
+[[v3-9-20]]
+
+^<<v3-9-20,20>>^ puseram-nos sobre os peitos (das vítimas); e, depois de se terem queimado as gorduras sobre o altar,
+
+[[v3-9-21]]
+
+^<<v3-9-21,21>>^ Aarão pôs á parte o peito e a espádua direita (das vítimas), elevando-as diante do Senhor, como Moisés tinha ordenado.
+
+[[v3-9-22]]
+
+^<<v3-9-22,22>>^ Estendendo a mão para o povo, abençoou-o. Completado assim o sacrifício pelo pecado, o holocausto, e a oblação da vítima pacífica, desceu.
+
+[[v3-9-23]]
+
+^<<v3-9-23,23>>^ Moisés e Aarão, tendo entrado no tabernáculo da reunião, e tendo saido depois, abençoaram o povo. E a glória do Senhor apareceu a toda a multidão:
+
+[[v3-9-24]]
+
+^<<v3-9-24,24>>^ um fogo saído do Senhor devorou o holocausto e as gorduras que estavam sobre o altar. O povo, vendo isto, louvou o Senhor, lançando-se com o rosto por terra.
+
+'''
+
+xref:003-levitico/003-levitico-008.adoc#v3-8-0[&#60; Capítulo Anterior] | <<v3-9-0,Topo>> | xref:003-levitico/003-levitico-010.adoc#v3-10-0[Próximo Capítulo &#62;]

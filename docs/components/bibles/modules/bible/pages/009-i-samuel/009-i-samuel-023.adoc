@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v9-23-0]]
+=== I Samuel, 23
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* 1 Samuel 23 descreve como Davi salva a cidade de Queila do ataque dos filisteus, mas é traído pelos habitantes da cidade e precisa fugir para o deserto, onde é novamente perseguido por Saul. Os temas abordados neste capítulo incluem liderança, lealdade, traição, proteção divina e confiança em Deus.
+* Salmos 18:2: "O Senhor é a minha rocha, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo, em quem me refugio. Ele é o meu escudo e o poder que me salva, a minha torre alta." Este versículo destaca a proteção divina que Davi busca em meio à perseguição de Saul.
+* Provérbios 11:14: "Onde não há conselho fracassam os projetos, mas com a multidão de conselheiros há bom êxito." Este versículo fala sobre a importância de ouvir conselhos e buscar sabedoria, algo que Davi faz ao consultar a Deus sobre o ataque a Queila.
+* Salmos 34:7: "O anjo do Senhor acampa-se ao redor dos que o temem, e os livra." Este versículo destaca a proteção divina que Davi experimenta quando confia em Deus em meio à perseguição.
+* Salmos 52:8: "Eu, porém, sou como a oliveira verdejante na casa de Deus; confio no amor de Deus para sempre e para todo o sempre." Este versículo destaca a confiança de Davi em Deus, mesmo quando perseguido por Saul e traído por seus aliados.
+* Salmos 118:8: "É melhor buscar refúgio no Senhor do que confiar nos homens." Este versículo fala sobre a importância de confiar em Deus em meio às dificuldades, algo que Davi faz ao buscar a orientação de Deus e confiar na sua proteção em meio à perseguição.
+****
+
+[[v9-23-1]]
+
+^<<v9-23-1,1>>^ Depois disto disseram a Davide: Os Filisteus atacam Ceila e roubam as eiras.
+
+[[v9-23-2]]
+
+^<<v9-23-2,2>>^ Davide consultou o Senhor, dizendo: Marcharei eu e desbaratarei estes Filisteus? O Senhor disse a Davide: Vai, que desbaratarás os Filisteus e salvarás Ceila.
+
+[[v9-23-3]]
+
+^<<v9-23-3,3>>^ Os homens, que estavam com Davide, disseram-lhe: Se, estando nós aqui na Judeia, temos medo, quanto mais se formos a Ceila contra os esquadrões dos Filisteus?
+
+[[v9-23-4]]
+
+^<<v9-23-4,4>>^ Segunda vez Davide consultou o Senhor, o qual, respondendo, lhe disse: Levanta-te e vai a Ceila, porque eu entregarei os Filisteus nas tuas mãos.
+
+[[v9-23-5]]
+
+^<<v9-23-5,5>>^ Foi, então, Davide com a sua gente a Ceila, e combateu contra os Filisteus, levou-Ihes os seus gados e fez neles grande mortandade, salvando assim os habitantes da Ceila.
+
+[[v9-23-6]]
+
+^<<v9-23-6,6>>^ Quando Abiatar, filho de Aquimelec, fugiu para Davide em Ceila, levou consigo o éfode.
+
+[[v9-23-7]]
+
+^<<v9-23-7,7>>^ Foi noticiado a Saul que Davide tinha ido para Ceila, e Saul disse: Deus o entregou nas minhas mãos, porque entrou numa cidade que tem portas e fechaduras.
+
+[[v9-23-8]]
+
+^<<v9-23-8,8>>^ Saul mandou a todo o povo que marchasse a Ceila, para o combate, e que sitiasse Davide e os seus.
+
+[[v9-23-9]]
+
+^<<v9-23-9,9>>^ Davide, tendo sido avisado de que Saul lhe preparava secretamente este mal, disse ao sacerdote Abiatar: Toma o éfode (para consultar o Senhor).
+
+[[v9-23-10]]
+
+^<<v9-23-10,10>>^ Davide disse: Senhor Deus de Israel, o teu servo soube que Saul se preparava para vir a Ceila, para destruir a cidade por minha causa.
+
+[[v9-23-11]]
+
+^<<v9-23-11,11>>^ Os homens de Ceila entregar-me-ão nas suas mãos? Saul virá, como o teu servo ouviu dizer? Senhor Deus de Israel, dá a conhecer isto ao teu servo. O Senhor disse: Há-de vir.
+
+[[v9-23-12]]
+
+^<<v9-23-12,12>>^ Davide disse: Porventura os homens de Ceila me entregarão a mim e a gente que está comigo nas mãos de Saul? O Senhor disse: Hão-de entregar.
+
+[[v9-23-13]]
+
+^<<v9-23-13,13>>^ Davide, pois, levantou-se com a sua gente, (que era em número de) cerca de seiscentos homens, e, tendo partido de Ceila, erravam incertos por aqui e por ali. Foi anunciado a Saul que Davide tinha fugido de Ceila e se tinha posto a salvo. Por tal razão, Saul dissimulou não querer sair.
+
+[[v9-23-14]]
+
+^<<v9-23-14,14>>^ Davide estava no deserto, em lugares muito seguros, e habitou no monte do deserto de Zif, monte coberto de arvoredo; Saul todavia procurava-o todos os dias, mas Deus não o entregou nas suas mãos.
+
+[[v9-23-15]]
+
+^<<v9-23-15,15>>^ Davide soube que Saul tinha saído em busca da sua vida. Davide estava no deserto de Zif (escondido) no bosque.
+
+[[v9-23-16]]
+
+^<<v9-23-16,16>>^ Jónatas, filho de Saul, levantou-se e foi ter com Davide ao bosque, confortou-o muito em Deus e disse-lhe
+
+[[v9-23-17]]
+
+^<<v9-23-17,17>>^ Não temas, porque não te há-de encontrar a mão de Saul, meu pai, e tu reinarás sobre Israel, e eu serei o segundo depois de ti; até mesmo Saul, meu pai, sabe isto.
+
+[[v9-23-18]]
+
+^<<v9-23-18,18>>^ Ambos, pois, fizeram aliança diante do Senhor. Davide ficou no bosque, e Jónatas voltou para sua casa.
+
+[[v9-23-19]]
+
+^<<v9-23-19,19>>^ Entretanto os de Zif foram ter com Saul a Gabaa, dizendo: Tu não sabes que Davide está escondido entre nós, nos lugares mais seguros dos bosques, sobre a colina de Aquila, que está à direita do deserto?
+
+[[v9-23-20]]
+
+^<<v9-23-20,20>>^ Agora, pois, visto que o teu coração desejou achá-lo, vem e por nós fica o entregá-lo nas mãos do rei.
+
+[[v9-23-21]]
+
+^<<v9-23-21,21>>^ Saul disse: Abençoados sejais do Senhor, porque vos condoestes da minha sorte.
+
+[[v9-23-22]]
+
+^<<v9-23-22,22>>^ Ide, vos rogo, fazei todas as diligências, buscai com o maior cuidado, procurai saber o lugar onde ele possa estar, ou quem o terá visto aí, porque, segundo me disseram, ele é muito astuto.
+
+[[v9-23-23]]
+
+^<<v9-23-23,23>>^ Examinai todos os esconderijos, onde ele se oculta, e voltai a mim com notícias seguras, a fim de eu ir convosco. Se ele estiver no país, descobri-lo-ei entre todos os milhares de Judá.
+
+[[v9-23-24]]
+
+^<<v9-23-24,24>>^ Eles, partindo, foram a Zif antes de Saul, mas Davide e os seus homens estavam no deserto de Maon, na planície à direita de Jesimon.
+
+[[v9-23-25]]
+
+^<<v9-23-25,25>>^ Foi, pois, Saul e toda a sua gente em busca dele. Isto foi noticiado a Davide, que imediatamente se retirou para o rochedo, ficando no deserto de Maon. Saul, tendo sabido isto, entrou pelo deserto de Maon no alcance de Davide.
+
+[[v9-23-26]]
+
+^<<v9-23-26,26>>^ Saul costeava o monte por uma parte, Davide e os seus homens costeavam o monte pela outra parte; Davide apressava-se para poder escapar às mãos de Saul, porque Saul e os seus tinham feito como que um cerco em volta de Davide e da sua gente, para os prender.
+
+[[v9-23-27]]
+
+^<<v9-23-27,27>>^ Nessa altura chegou um mensageiro a Saul, dizendo: Apressa-te e vem, porque os Filisteus invadiram o país.
+
+[[v9-23-28]]
+
+^<<v9-23-28,28>>^ Então Saul voltou-se, deixando de perseguir Davide, e foi ao encontro dos Filisteus; por isto foi dado àquele lugar o nome de Rochedo da Separação.
+
+'''
+
+xref:009-i-samuel/009-i-samuel-022.adoc#v9-22-0[&#60; Capítulo Anterior] | <<v9-23-0,Topo>> | xref:009-i-samuel/009-i-samuel-024.adoc#v9-24-0[Próximo Capítulo &#62;]

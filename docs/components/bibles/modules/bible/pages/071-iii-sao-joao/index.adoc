@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v71-0-0]]
+== III São João
+
+[cols="8*^"]
+|===
+| xref:071-iii-sao-joao/071-iii-sao-joao-001.adoc#v71-1-0[1]
+|
+|
+|
+|
+|
+|
+|
+|===

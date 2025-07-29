@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v1-8-0]]
+=== Gênesis, 8
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* O capítulo 8 de Gênesis trata do fim do Dilúvio e da saída de Noé e sua família da arca. É descrito como as águas baixaram gradualmente e, finalmente, a arca repousou sobre o Monte Ararate. Noé enviou um corvo e uma pomba para verificar a existência de terra seca. Quando a pomba retornou com uma folha de oliveira, Noé soube que as águas haviam secado. No final do capítulo, Noé constrói um altar e oferece sacrifícios a Deus.
+* Salmos 29:10 - "O Senhor assentou-se soberano sobre o Dilúvio; o Senhor permanece soberano para sempre." Este versículo destaca a soberania de Deus, mostrando que Ele é o responsável pelo Dilúvio e que controla toda a criação.
+* Isaías 54:9 - "Para mim isto será como nos dias de Noé: jurei que as águas de Noé não mais cobririam a terra; assim também jurei que não me irarei mais contra ti, nem te repreenderei." Este versículo se refere à promessa de Deus de não destruir a terra novamente com um Dilúvio, como Ele fez nos dias de Noé.
+* Hebreus 11:7 - "Pela fé Noé, quando avisado a respeito das coisas que ainda não se viam, movido por santo temor, construiu uma arca para salvar sua família. Por meio da fé ele condenou o mundo e tornou-se herdeiro da justiça que é segundo a fé." Este versículo destaca a fé de Noé em Deus e sua obediência em construir a arca, que salvou a ele e sua família do Dilúvio.
+* Mateus 24:37-39 - "Como foi nos dias de Noé, assim será na vinda do Filho do homem. Pois nos dias anteriores ao Dilúvio, o povo vivia comendo e bebendo, casando-se e dando-se em casamento, até o dia em que Noé entrou na arca; e eles nada perceberam, até que veio o Dilúvio e os levou a todos. Assim será na vinda do Filho do homem." Este versículo faz uma comparação entre os dias de Noé e o que acontecerá antes da volta de Jesus Cristo, mostrando a importância da vigilância e preparação espiritual.
+* 1 Pedro 3:20-21 - "...que noutro tempo foram rebeldes, quando a paciência de Deus esperava nos dias de Noé, enquanto se preparava a arca; na qual poucas, a saber, oito almas, foram salvas através da água, que também agora, pela correspondente figura, o batismo, vos salva, não sendo a remoção da sujeira do corpo, mas a resposta de uma boa consciência para com Deus, por meio da ressurreição de Jesus Cristo." Este versículo faz uma conexão entre a salvação de Noé através do Dilúvio e a salvação dos cristãos através do batismo, destacando a importância de uma boa consciência e fé em Jesus Cristo.
+****
+
+[[v1-8-1]]
+
+^<<v1-8-1,1>>^ Ora Deus lembrou-Se de Noé, de todos os animais selváticos e de todos os animais domésticos, que estavam com ele na arca, e fez soprar um vento sobre a terra, e as águas diminuíram.
+
+[[v1-8-2]]
+
+^<<v1-8-2,2>>^ Fecharam-se as fontes do abismo e as cataratas do céu, e foram retidas as chuvas (que caiam) do céu.
+
+[[v1-8-3]]
+
+^<<v1-8-3,3>>^ As águas, agitadas duma parte para outra, retiraram-se de cima da terra e começaram a diminuir, depois de cento e cinquenta dias.
+
+[[v1-8-4]]
+
+^<<v1-8-4,4>>^ No sétimo més, no vigésimo sétimo dia do mês, parou a arca sobre os montes de Ararat.
+
+[[v1-8-5]]
+
+^<<v1-8-5,5>>^ Entretanto as águas iam diminuindo até ao décimo més: no décimo mês, no primeiro dia do mês, apareceram os cumes dos montes.
+
+[[v1-8-6]]
+
+^<<v1-8-6,6>>^ Ao fim de quarenta dias, abriu Noé a janela, que tinha feito na arca, e soltou um corvo,
+
+[[v1-8-7]]
+
+^<<v1-8-7,7>>^ o qual ia e vinha, até que as águas secaram sobre a terra.
+
+[[v1-8-8]]
+
+^<<v1-8-8,8>>^ Mandou também uma pomba (sete dias depois) dele, para ver se as águas teriam já cessado de cobrir a face da terra.
+
+[[v1-8-9]]
+
+^<<v1-8-9,9>>^ E ela; não encontrando onde pousar o seu pé, tomou a vir a ele para a arca, porque (ainda) as águas estavam sobre a terra: (Noé) estendeu a mão, e, tendo-a tomado, a recolheu na arca.
+
+[[v1-8-10]]
+
+^<<v1-8-10,10>>^ Depois de ter esperado outros sete dias, novamente deitou a pomba fora da arca,
+
+[[v1-8-11]]
+
+^<<v1-8-11,11>>^ a qual voltou a ele pela tarde, trazendo no bico um ramo de oliveira com as folhas verdes. Entendeu, pois, Noé que as águas já não cobriam a terra.
+
+[[v1-8-12]]
+
+^<<v1-8-12,12>>^ Contudo esperou outros sete dias e mandou a pomba, que não tornou mais a ele.
+
+[[v1-8-13]]
+
+^<<v1-8-13,13>>^ Portanto, no ano seiscentos e um (da vida de Noé), no primeiro mês, no primeiro dia do mês, as águas deixavam a terra: Noé, descoberto o teto da arca, olhou e viu que a superficie da terra se estava a secar.
+
+[[v1-8-14]]
+
+^<<v1-8-14,14>>^ No segundo mês, no vigésimo sétimo dia do mês, a terra ficou seca.
+
+[[v1-8-15]]
+
+^<<v1-8-15,15>>^ Então Deus falou a Noé, dizendo:
+
+[[v1-8-16]]
+
+^<<v1-8-16,16>>^ sai da arca, tu e tua mulher, teus filhos e as mulheres de teus filhos contigo.
+
+[[v1-8-17]]
+
+^<<v1-8-17,17>>^ Faz sair contigo todos os animais que estão contigo, de todas as espécies, tanto de aves como de bestas, e de todos os répteis, que andam de rastos sobre a terra; enchei a terra, crescei e multiplicai-vos sobre ela.
+
+[[v1-8-18]]
+
+^<<v1-8-18,18>>^ Saiu, pois, Noé com seus filhos, sua mulher e as mulheres de seus filhos.
+
+[[v1-8-19]]
+
+^<<v1-8-19,19>>^ Também saíram da arca todos os animais selváticos e domésticos, e os répteis, que andam de rastos sobre a terra, e todas as aves, segundo a sua espécie.
+
+[[v1-8-20]]
+
+^<<v1-8-20,20>>^ E Noé edificou um altar ao Senhor, e, tomando de todos os animais e de todas as aves puras, ofereceu-as em holocausto sobre o altar.
+
+[[v1-8-21]]
+
+^<<v1-8-21,21>>^ E (com isto) recebeu o Senhor um suave odor, e disse em seu coração: não amaldiçoarei mais a terra por causa dos homens, porque os sentidos e os pensamentos do coração do homem são inclinados para o mal desde a sua mocidade: não tornarei, pois, a ferir todos os seres vivos como fiz.
+
+[[v1-8-22]]
+
+^<<v1-8-22,22>>^ Durante todos os dias da terra, a sementeira e a messe, o frio e o calor, o verão e o inverno, a noite e o dia não mais cessarão.
+
+'''
+
+xref:001-genesis/001-genesis-007.adoc#v1-7-0[&#60; Capítulo Anterior] | <<v1-8-0,Topo>> | xref:001-genesis/001-genesis-009.adoc#v1-9-0[Próximo Capítulo &#62;]

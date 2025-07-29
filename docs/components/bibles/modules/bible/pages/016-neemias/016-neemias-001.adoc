@@ -1,0 +1,63 @@
+include::./index.adoc[]
+
+[[v16-1-0]]
+=== Neemias, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Neemias 1 narra a história de Neemias, que recebe notícias da situação precária de seus irmãos judeus que ainda residiam em Jerusalém, após o retorno de alguns cativos. Ele se abala com a notícia e busca a Deus em oração para buscar uma solução. A seguir estão cinco versículos que tratam dos temas abordados neste capítulo.
+* Esdras 9:9: "Pois somos escravos; contudo, no meio da nossa escravidão, o nosso Deus não nos abandonou; Ele nos concedeu favor perante os reis da Pérsia, dando-nos vida para erguermos a Casa do nosso Deus, restaurarmos as suas ruínas e lhe concedermos um muro em Judá e em Jerusalém." Este versículo destaca como Deus não abandonou o povo mesmo durante a escravidão e como Ele os capacitou para reconstruir a Casa de Deus e as ruínas de Jerusalém.
+* Isaías 1:9: "Se o Senhor dos Exércitos não nos tivesse deixado alguns sobreviventes, já teríamos sido como Sodoma; já teríamos sido como Gomorra." Este versículo mostra como a sobrevivência de um remanescente é importante para a continuidade da linhagem do povo de Deus e como Ele protege aqueles que são fiéis a Ele.
+* Salmo 106:6: "Pecamos, como nossos antepassados; cometemos injustiças, praticamos maldades." Este versículo destaca a confissão de pecado do povo, reconhecendo a falha em seguir os mandamentos de Deus.
+* Isaías 58:9: "Então, clamarás, e o Senhor te responderá; gritarás por socorro, e ele dirá: Eis-me aqui. Se tirares do meio de ti o jugo, o dedo que ameaça e a maledicência." Este versículo fala sobre como Deus ouve o clamor de Seu povo e os responde, mas também enfatiza a importância de se livrar de práticas injustas.
+* Jeremias 29:12-13: "Então, me invocareis, passareis a orar a mim, e eu vos ouvirei. Buscar-me-eis e me achareis quando me buscardes de todo o vosso coração." Este versículo mostra como Deus ouve a oração de Seu povo e os responde, mas também destaca a importância de buscar a Ele com todo o coração.
+****
+
+[[v16-1-1]]
+
+^<<v16-1-1,1>>^ Palavras (ou história) de Neemias, filho de Helquias. Aconteceu no mês de Casleu, no ano vigésimo (do rei Artaxerxes Longimano) que eu estava no castelo de Susa. (ver nota)
+
+[[v16-1-2]]
+
+^<<v16-1-2,2>>^ Chegou Hanani, um de meus irmãos, com alguns homens de Judá, a quem perguntei pelos Judeus que tinham ficado, que sobreviviam ainda depois do cativeiro, e acerca de Jerusalém.
+
+[[v16-1-3]]
+
+^<<v16-1-3,3>>^ Eles responderam-me: Os que ficaram, depois do cativeiro, e foram deixados lá na província, estão numa grande aflição e em ignomínia; os muros de Jerusalém foram destruídos, e as suas portas consumidas pelo fogo.
+
+[[v16-1-4]]
+
+^<<v16-1-4,4>>^ Quando ouvi estas palavras, sentei-me, chorei e estive como em luto muitos dias. Jejuei e orei, na presença do Deus do céu,
+
+[[v16-1-5]]
+
+^<<v16-1-5,5>>^ dizendo: "Peço-te, Senhor Deus do céu, forte, grande e terrível, que guardas o teu pacto e a tua misericórdia para com aqueles que te amam e observam os teus mandamentos,
+
+[[v16-1-6]]
+
+^<<v16-1-6,6>>^ que os teus ouvidos estejam atentos e os teus olhos se abram para ouvires a oração que eu, teu servo, estou fazendo na tua presença, de noite e de dia, pelos filhos de Israel, teus servos, confessando os pecados dos filhos de Israel, com os quais te temos ofendido. Em realidade, eu e a casa de meu pai pecámos.
+
+[[v16-1-7]]
+
+^<<v16-1-7,7>>^ Ofendemos-te gravemente, não guardámos os mandamentos, as leis, as ordenações, que prescreveste a teu servo Moisés.
+
+[[v16-1-8]]
+
+^<<v16-1-8,8>>^ Lembra-te da palavra que deste a Moisés, teu servo, quando disseste: Se vós prevaricardes, eu vos espalharei entre os povos;
+
+[[v16-1-9]]
+
+^<<v16-1-9,9>>^ mas, se vos converterdes a mim, se guardardes os meus preceitos e os cumprirdes, ainda que tenhais sido espalhados até às extremidades do mundo, eu vos juntarei desses países e vos reconduzirei ao lugar que escolhi para nele habitar o meu nome.
+
+[[v16-1-10]]
+
+^<<v16-1-10,10>>^ "Estes são teus servos e teu povo, que tu resgataste com a tua grande força e com a tua mão poderosa.
+
+[[v16-1-11]]
+
+^<<v16-1-11,11>>^ Peço-te, Senhor, que estejam atentos os teus ouvidos à oração do teu servo e às súplicas dos teus servos, que querem temer o teu nome. Digna-te, agora, fazer que seja bem sucedido o teu servo, faze-o achar misericórdia diante deste homem ." Eu era copeiro do rei.
+
+'''
+
+xref:015-esdras/015-esdras-010.adoc#v15-10-0[&#60; Capítulo Anterior] | <<v16-1-0,Topo>> | xref:016-neemias/016-neemias-002.adoc#v16-2-0[Próximo Capítulo &#62;]

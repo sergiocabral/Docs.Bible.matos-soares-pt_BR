@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v24-1-0]]
+=== Provérbios, 1
+// matos-soares-1956 2005-02-05, Matos Soares (1956)
+
+.Notas do capítulo
+****
+* Provérbios 1 é uma introdução ao livro de Provérbios e enfatiza a importância da sabedoria e do conhecimento. O capítulo apresenta a voz da sabedoria personificada como uma mulher que clama nas ruas, exortando as pessoas a buscarem o conhecimento e a rejeitarem a tolice e o pecado.
+* Provérbios 4:5-7: "Adquira sabedoria, adquira discernimento; não se esqueça das palavras da minha boca, nem se afaste delas. Não a abandone e ela o protegerá; ame-a, e ela cuidará de você. A sabedoria é a principal coisa; portanto, adquira sabedoria. E, além disso, com tudo o que você adquirir, adquira discernimento." Este versículo enfatiza a importância da sabedoria e do discernimento, que são os temas centrais de Provérbios 1.
+* Provérbios 2:1-6: "Meu filho, se você aceitar as minhas palavras e guardar os meus mandamentos no coração, ouvindo a sabedoria e inclinando o coração ao entendimento; sim, se você clamar por discernimento e gritar por entendimento, se procurar a sabedoria como se procura a prata e buscá-la como se busca um tesouro escondido, então você entenderá o que é temer o Senhor e encontrará o conhecimento de Deus. Pois o Senhor dá sabedoria, e da sua boca vêm o conhecimento e o entendimento." Este versículo destaca a importância de buscar a sabedoria e o entendimento, que são fundamentais para viver uma vida piedosa.
+* Provérbios 3:5-6: "Confie no Senhor de todo o seu coração e não se apóie em seu próprio entendimento; em todos os seus caminhos reconheça-o, e ele endireitará as suas veredas." Este versículo destaca a importância da confiança em Deus e em sua sabedoria em vez de confiar apenas em nossa própria compreensão limitada.
+* Provérbios 9:10: "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo é entendimento." Este versículo enfatiza que o temor do Senhor é o fundamento da sabedoria e do entendimento, que são os temas centrais de Provérbios 1.
+* Provérbios 14:1: "A mulher sábia edifica a sua casa, mas com as próprias mãos a insensata derruba a sua." Este versículo destaca a importância da sabedoria para construir uma vida saudável e próspera, que é um tema central de Provérbios 1.
+****
+
+[[v24-1-1]]
+
+^<<v24-1-1,1>>^ Provérbios de Salomão, filho de Davide, rei de Israel,
+
+[[v24-1-2]]
+
+^<<v24-1-2,2>>^ para aprender a sabedoria e disciplina; (ver nota)
+
+[[v24-1-3]]
+
+^<<v24-1-3,3>>^ para compreender as palavras,da prudência, receber a instrução da (boa) doutrina, a justiça, a rectidão e a equidade;
+
+[[v24-1-4]]
+
+^<<v24-1-4,4>>^ para dar aos inexperientes o discernimento, e ao jovem conhecimento e reflexão.
+
+[[v24-1-5]]
+
+^<<v24-1-5,5>>^ O sábio. ouvindo (estas sentenças), ficará mais sábio, e o que as entender adquirirá destreza
+
+[[v24-1-6]]
+
+^<<v24-1-6,6>>^ para compreender as sentenças e as palavras subtis, as máximas dos sábios e os seus enigmas.
+
+[[v24-1-7]]
+
+^<<v24-1-7,7>>^ O temor do Senhor é o principio da sabedoria. Os insensatos desprezam a sabedoria e a doutrina.
+
+[[v24-1-8]]
+
+^<<v24-1-8,8>>^ Ouve, meu filho, as instruções de teu pai, e não abandones os ensinamentos de tua mãe.
+
+[[v24-1-9]]
+
+^<<v24-1-9,9>>^ Isso será uma coroa de graça para a tua cabeça, e um colar para o teu pescoço.
+
+[[v24-1-10]]
+
+^<<v24-1-10,10>>^ Meu filho, se os pecadores te atraírem com os seus afagos, não condescendas com eles.
+
+[[v24-1-11]]
+
+^<<v24-1-11,11>>^ Se te disserem: Vem connosco, façamos emboscadas para derramar sangue, armemos laços ocultos ao inocente, que nos não fez mal algum;
+
+[[v24-1-12]]
+
+^<<v24-1-12,12>>^ devoremo-lo vivo como o sepulcro _(devora os cadáveres), e inteiro como aquele que desce à cova;
+
+[[v24-1-13]]
+
+^<<v24-1-13,13>>^ acharemos toda a sorte de bens preciosos, encheremos as nossas casas de despojos:
+
+[[v24-1-14]]
+
+^<<v24-1-14,14>>^ une a tua sorte à nossa, seja uma só a bolsa de nós todos;
+
+[[v24-1-15]]
+
+^<<v24-1-15,15>>^ meu filho, não vás com eles, guarda-te de andares pelas suas veredas;
+
+[[v24-1-16]]
+
+^<<v24-1-16,16>>^ porque os seus pés correm para o mal, e apressam-se a derramar sangue.
+
+[[v24-1-17]]
+
+^<<v24-1-17,17>>^ Mas debalde se lança a rede diante dos olhos dos que têm asas.
+
+[[v24-1-18]]
+
+^<<v24-1-18,18>>^ Eles mesmos (com isto) armam traições contra o seu próprio sangue, e tramam enganos contra as suas almas.
+
+[[v24-1-19]]
+
+^<<v24-1-19,19>>^ Tais são os caminhos de todos os ávidos de riqueza: (estes caminhos) perdem as almas daqueles que os seguem.
+
+[[v24-1-20]]
+
+^<<v24-1-20,20>>^ A sabedoria clama em público, nas praças levanta a sua voz.
+
+[[v24-1-21]]
+
+^<<v24-1-21,21>>^ Ela grita nas encruzilhadas, faz ouvir as suas palavras á entrada das portas da cidade, dizendo:
+
+[[v24-1-22]]
+
+^<<v24-1-22,22>>^ Até quando amareis, ó crianças, a infantilidade? (Até quando é que)os insensatos cobiçarão as coisas que lhes são nocivas. e os imprudentes odiarão a Instrução?
+
+[[v24-1-23]]
+
+^<<v24-1-23,23>>^ Convertei-vos com u minha repreensão; eu vou espalhar sobre vós o meu espírito, eu vou ensinar-vos a minha doutrina.
+
+[[v24-1-24]]
+
+^<<v24-1-24,24>>^ Mas, visto que eu vos chamei, e vós não quisestes ouvir-me, visto que estendi a minha mão, e não houve quem olhasse para mim,
+
+[[v24-1-25]]
+
+^<<v24-1-25,25>>^ visto que desprezastes todos os meus conselhos, e não fizestes caso das minhas repreensões,
+
+[[v24-1-26]]
+
+^<<v24-1-26,26>>^ também eu me rirei da vossa ruina, zombarei de vós; quando vos assaltar o terror,
+
+[[v24-1-27]]
+
+^<<v24-1-27,27>>^ quando cair sobre vós, como furacão, o terror, quando vos colher a desgraça como um temporal, quando vierem sobre vós a tribulação e a angústia
+
+[[v24-1-28]]
+
+^<<v24-1-28,28>>^ Então me Invocarão (os impios) e eu não os ouvirei, buscar-me-ão, e não me encontrarão, (ver nota)
+
+[[v24-1-29]]
+
+^<<v24-1-29,29>>^ porque eles aborreceram a instrução, não abraçaram o temor do Senhor,
+
+[[v24-1-30]]
+
+^<<v24-1-30,30>>^ não se submeteram ao meu conselho, e desprezaram todas as minhas repreensões.
+
+[[v24-1-31]]
+
+^<<v24-1-31,31>>^ Comerão, pois, os frutos do seu (mau) proceder, e fartar-se-ão dos seus conselhos.
+
+[[v24-1-32]]
+
+^<<v24-1-32,32>>^ O desvio dos parvos os matará, e a (falsa) prosperidade dos insensatos os perderá.
+
+[[v24-1-33]]
+
+^<<v24-1-33,33>>^ Mas aquele que me ouvir, viverá tranqüilo, em segurança, sem receio de mal algum.
+
+'''
+
+xref:023-ii-macabeus/023-ii-macabeus-015.adoc#v23-15-0[&#60; Capítulo Anterior] | <<v24-1-0,Topo>> | xref:024-proverbios/024-proverbios-002.adoc#v24-2-0[Próximo Capítulo &#62;]
